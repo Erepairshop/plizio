@@ -63,14 +63,22 @@ const MORE_LABEL: Record<Lang, string> = {
 };
 
 const LAYER_TYPES: Record<Layer, POI["type"][]> = {
-  all: ["state-capital", "city", "river", "mountain", "lake", "island", "forest", "sea", "historical", "landmark", "animal-habitat", "agriculture", "kid-landmark"],
-  cities: ["state-capital", "city"],
-  nature: ["river", "mountain", "lake", "island", "forest", "sea"],
-  history: ["historical"],
-  landmarks: ["landmark"],
-  life: ["animal-habitat", "agriculture", "kid-landmark"],
-  economic: ["industry", "port"],
-  relief: ["relief", "mountain", "forest"],
+  all: [
+    "state-capital", "city", "town", "village", "metropolis", "capital",
+    "river", "mountain", "lake", "island", "forest", "sea", "valley", "waterfall", "cave", "coast", "beach", "wetland", "nature", "landscape",
+    "historical", "ruins", "battlefield", "ancient", "medieval", "geschichte",
+    "landmark", "castle", "palace", "museum", "tower", "bridge", "statue", "fortress", "cathedral", "church", "monastery", "abbey", "monument", "theater", "university",
+    "animal-habitat", "agriculture", "kid-landmark", "wildlife", "park", "zoo", "fauna", "national-park", "garden",
+    "industry", "port", "factory", "mine", "vineyard", "harbor", "harbour",
+    "relief", "peak", "highland", "plateau", "hill", "summit", "range",
+  ],
+  cities: ["state-capital", "city", "town", "village", "metropolis", "capital"],
+  nature: ["river", "mountain", "lake", "island", "forest", "sea", "valley", "waterfall", "cave", "coast", "beach", "wetland", "nature", "landscape"],
+  history: ["historical", "ruins", "battlefield", "ancient", "medieval", "geschichte"],
+  landmarks: ["landmark", "castle", "palace", "museum", "tower", "bridge", "statue", "fortress", "cathedral", "church", "monastery", "abbey", "monument", "theater", "university"],
+  life: ["animal-habitat", "agriculture", "kid-landmark", "wildlife", "park", "zoo", "fauna", "national-park", "garden"],
+  economic: ["industry", "port", "factory", "mine", "vineyard", "harbor", "harbour"],
+  relief: ["relief", "mountain", "forest", "peak", "highland", "plateau", "hill", "summit", "range", "valley", "landscape"],
 };
 
 const DEFAULT_LAYER_BY_SUBJECT: Record<Subject, Layer> = {
@@ -82,20 +90,62 @@ const DEFAULT_LAYER_BY_SUBJECT: Record<Subject, Layer> = {
 function poiColor(type: POI["type"]): string {
   switch (type) {
     case "state-capital":  return "#FBBF24";
-    case "city":           return "#38BDF8";
+    case "city":
+    case "town":
+    case "village":
+    case "metropolis":     return "#38BDF8";
     case "river":          return "#22D3EE";
-    case "mountain":       return "#A78BFA";
+    case "mountain":
+    case "peak":
+    case "summit":         return "#A78BFA";
     case "lake":           return "#60A5FA";
     case "island":         return "#34D399";
     case "forest":         return "#10B981";
-    case "sea":            return "#06B6D4";
-    case "historical":     return "#F472B6";
-    case "landmark":       return "#F97316";
-    case "animal-habitat": return "#4ADE80";
-    case "agriculture":    return "#FCD34D";
+    case "sea":
+    case "coast":
+    case "beach":          return "#06B6D4";
+    case "valley":
+    case "highland":
+    case "plateau":
+    case "hill":
+    case "range":          return "#A8A29E";
+    case "waterfall":
+    case "cave":
+    case "wetland":        return "#22D3EE";
+    case "historical":
+    case "ruins":
+    case "battlefield":
+    case "ancient":
+    case "medieval":       return "#F472B6";
+    case "landmark":
+    case "castle":
+    case "palace":
+    case "museum":
+    case "tower":
+    case "bridge":
+    case "statue":
+    case "fortress":
+    case "cathedral":
+    case "church":
+    case "monastery":
+    case "abbey":
+    case "monument":       return "#F97316";
+    case "animal-habitat":
+    case "wildlife":
+    case "fauna":          return "#4ADE80";
+    case "park":
+    case "zoo":
+    case "national-park":
+    case "garden":         return "#86EFAC";
+    case "agriculture":
+    case "vineyard":       return "#FCD34D";
     case "kid-landmark":   return "#FB7185";
-    case "industry":       return "#94A3B8";
-    case "port":           return "#0EA5E9";
+    case "industry":
+    case "factory":
+    case "mine":           return "#94A3B8";
+    case "port":
+    case "harbor":
+    case "harbour":        return "#0EA5E9";
     case "relief":         return "#A8A29E";
     default:               return "#94A3B8";
   }
