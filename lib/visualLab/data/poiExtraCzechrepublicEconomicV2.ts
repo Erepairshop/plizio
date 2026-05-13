@@ -3,6 +3,7 @@ export const czechrepublicEconomicV2: POI[] = [
 
   {
     id: "czechrepublic-temelin-nuclear-plant-economic-v2",
+    parent: "CZ",
     type: "industry",
     name: { de: "Kernkraftwerk Temelín", hu: "Temelíni atomerőmű", ro: "Centrala nucleară de la Temelín", en: "Temelín Nuclear Power Station",
 image: "/poi-images/czechrepublic-temelin-nuclear-plant-economic-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/czechrepublic-temelin-nuclear-plant-economic-v2.webp"
   },
   {
     id: "czechrepublic-pilsner-urquell-brewery-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Pilsner Urquell Brauerei", hu: "Plzeňský Prazdroj sörgyár", ro: "Berăria Pilsner Urquell", en: "Pilsner Urquell Brewery",
 image: "/poi-images/czechrepublic-pilsner-urquell-brewery-economic-v2.webp"
@@ -72,6 +74,7 @@ image: "/poi-images/czechrepublic-pilsner-urquell-brewery-economic-v2.webp"
   },
   {
     id: "czechrepublic-hyundai-nosovice-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Hyundai Werk Nošovice", hu: "Hyundai Nošovice autógyár", ro: "Fabrica Hyundai Nošovice", en: "Hyundai Motor Manufacturing Czech",
 image: "/poi-images/czechrepublic-hyundai-nosovice-economic-v2.webp"
@@ -107,6 +110,7 @@ image: "/poi-images/czechrepublic-hyundai-nosovice-economic-v2.webp"
   },
   {
     id: "czechrepublic-dukovany-nuclear-plant-economic-v2",
+    parent: "CZ",
     type: "industry",
     name: { de: "Kernkraftwerk Dukovany", hu: "Dukovanyi atomerőmű", ro: "Centrala nucleară de la Dukovany", en: "Dukovany Nuclear Power Station",
 image: "/poi-images/czechrepublic-dukovany-nuclear-plant-economic-v2.webp"
@@ -142,6 +146,7 @@ image: "/poi-images/czechrepublic-dukovany-nuclear-plant-economic-v2.webp"
   },
   {
     id: "czechrepublic-tatra-trucks-factory-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Tatra Lastwagenwerk", hu: "Tatra teherautógyár", ro: "Fabrica de camioane Tatra", en: "Tatra Trucks Factory",
 image: "/poi-images/czechrepublic-tatra-trucks-factory-economic-v2.webp"
@@ -176,6 +181,7 @@ image: "/poi-images/czechrepublic-tatra-trucks-factory-economic-v2.webp"
   },
   {
     id: "czechrepublic-bata-zlin-complex-economic-v2",
+    parent: "CZ",
     type: "industry",
     name: { de: "Bata-Industriekomplex Zlín", hu: "Bata ipari komplexum Zlín", ro: "Complexul industrial Bata Zlín", en: "Bata Industrial Complex Zlín",
 image: "/poi-images/czechrepublic-bata-zlin-complex-economic-v2.webp"
@@ -210,6 +216,7 @@ image: "/poi-images/czechrepublic-bata-zlin-complex-economic-v2.webp"
   },
   {
     id: "czechrepublic-orlen-unipetrol-litvinov-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "ORLEN Unipetrol Raffinerie Litvínov", hu: "ORLEN Unipetrol finomító Litvínov", ro: "Rafinăria ORLEN Unipetrol Litvínov", en: "ORLEN Unipetrol Refinery Litvínov",
 image: "/poi-images/czechrepublic-orlen-unipetrol-litvinov-economic-v2.webp"
@@ -245,6 +252,7 @@ image: "/poi-images/czechrepublic-orlen-unipetrol-litvinov-economic-v2.webp"
   },
   {
     id: "czechrepublic-tpca-toyota-kolin-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Toyota Werk Kolín", hu: "Toyota gyár Kolín", ro: "Fabrica Toyota Kolín", en: "Toyota Motor Manufacturing Czech Kolín",
 image: "/poi-images/czechrepublic-tpca-toyota-kolin-economic-v2.webp"
@@ -280,6 +288,7 @@ image: "/poi-images/czechrepublic-tpca-toyota-kolin-economic-v2.webp"
   },
   {
     id: "czechrepublic-bilina-coal-mine-economic-v2",
+    parent: "CZ",
     type: "mine",
     name: { de: "Tagebau Bílina", hu: "Bílina külszíni fejtés", ro: "Mina de cărbune Bílina", en: "Bílina Open-Cast Coal Mine",
 image: "/poi-images/czechrepublic-bilina-coal-mine-economic-v2.webp"
@@ -315,6 +324,7 @@ image: "/poi-images/czechrepublic-bilina-coal-mine-economic-v2.webp"
   },
   {
     id: "czechrepublic-kohinoor-hardtmuth-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Koh-i-Noor Hardtmuth Fabrik", hu: "Koh-i-Noor Hardtmuth gyár", ro: "Fabrica Koh-i-Noor Hardtmuth", en: "Koh-i-Noor Hardtmuth Factory",
 image: "/poi-images/czechrepublic-kohinoor-hardtmuth-economic-v2.webp"
@@ -350,6 +360,7 @@ image: "/poi-images/czechrepublic-kohinoor-hardtmuth-economic-v2.webp"
   },
   {
     id: "czechrepublic-petrof-pianos-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Petrof Klavierfabrik", hu: "Petrof zongoragyár", ro: "Fabrica de piane Petrof", en: "Petrof Pianos Factory",
 image: "/poi-images/czechrepublic-petrof-pianos-economic-v2.webp"
@@ -385,6 +396,7 @@ image: "/poi-images/czechrepublic-petrof-pianos-economic-v2.webp"
   },
   {
     id: "czechrepublic-zentiva-prague-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Zentiva Pharmawerk", hu: "Zentiva gyógyszergyár", ro: "Fabrica de farmaceutice Zentiva", en: "Zentiva Pharmaceutical Plant",
 image: "/poi-images/czechrepublic-zentiva-prague-economic-v2.webp"
@@ -420,6 +432,7 @@ image: "/poi-images/czechrepublic-zentiva-prague-economic-v2.webp"
   },
   {
     id: "czechrepublic-unipetrol-spolana-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Spolana Neratovice Chemiewerk", hu: "Spolana Neratovice vegyianyaggyár", ro: "Combinatul chimic Spolana Neratovice", en: "Spolana Neratovice Chemical Plant",
 image: "/poi-images/czechrepublic-unipetrol-spolana-economic-v2.webp"
@@ -455,6 +468,7 @@ image: "/poi-images/czechrepublic-unipetrol-spolana-economic-v2.webp"
   },
   {
     id: "czechrepublic-continental-barum-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Continental Barum Reifenwerk", hu: "Continental Barum gumiabroncsgyár", ro: "Fabrica de anvelope Continental Barum", en: "Continental Barum Tire Plant",
 image: "/poi-images/czechrepublic-continental-barum-economic-v2.webp"
@@ -490,6 +504,7 @@ image: "/poi-images/czechrepublic-continental-barum-economic-v2.webp"
   },
   {
     id: "czechrepublic-prague-stock-exchange-economic-v2",
+    parent: "CZ",
     type: "landmark",
     name: { de: "Prager Börse", hu: "Prágai Értéktőzsde", ro: "Bursa de Valori din Praga", en: "Prague Stock Exchange",
 image: "/poi-images/czechrepublic-prague-stock-exchange-economic-v2.webp"
@@ -525,6 +540,7 @@ image: "/poi-images/czechrepublic-prague-stock-exchange-economic-v2.webp"
   },
   {
     id: "czechrepublic-port-of-decin-economic-v2",
+    parent: "CZ",
     type: "port",
     name: { de: "Hafen von Děčín", hu: "Děčíni kikötő", ro: "Portul Děčín", en: "Port of Děčín",
 image: "/poi-images/czechrepublic-port-of-decin-economic-v2.webp"
@@ -560,6 +576,7 @@ image: "/poi-images/czechrepublic-port-of-decin-economic-v2.webp"
   },
   {
     id: "czechrepublic-aero-vodochody-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Aero Vodochody Flugzeugwerk", hu: "Aero Vodochody repülőgépgyár", ro: "Fabrica de avioane Aero Vodochody", en: "Aero Vodochody Aerospace Plant",
 image: "/poi-images/czechrepublic-aero-vodochody-economic-v2.webp"
@@ -595,6 +612,7 @@ image: "/poi-images/czechrepublic-aero-vodochody-economic-v2.webp"
   },
   {
     id: "czechrepublic-amazon-fulfillment-dobroviz-economic-v2",
+    parent: "CZ",
     type: "industry",
     name: { de: "Amazon Logistikzentrum Dobrovíz", hu: "Amazon logisztikai központ Dobrovíz", ro: "Centrul logistic Amazon Dobrovíz", en: "Amazon Fulfillment Center Dobrovíz",
 image: "/poi-images/czechrepublic-amazon-fulfillment-dobroviz-economic-v2.webp"
@@ -630,6 +648,7 @@ image: "/poi-images/czechrepublic-amazon-fulfillment-dobroviz-economic-v2.webp"
   },
   {
     id: "czechrepublic-liberty-ostrava-steel-economic-v2",
+    parent: "CZ",
     type: "industry",
     name: { de: "Liberty Ostrava Stahlwerk", hu: "Liberty Ostrava acélmű", ro: "Combinatul siderurgic Liberty Ostrava", en: "Liberty Ostrava Steelworks",
 image: "/poi-images/czechrepublic-liberty-ostrava-steel-economic-v2.webp"
@@ -664,6 +683,7 @@ image: "/poi-images/czechrepublic-liberty-ostrava-steel-economic-v2.webp"
   },
   {
     id: "czechrepublic-lovochemie-lovosice-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Lovochemie Düngemittelwerk", hu: "Lovochemie műtrágyagyár", ro: "Combinatul chimic Lovochemie", en: "Lovochemie Fertilizer Plant",
 image: "/poi-images/czechrepublic-lovochemie-lovosice-economic-v2.webp"
@@ -699,6 +719,7 @@ image: "/poi-images/czechrepublic-lovochemie-lovosice-economic-v2.webp"
   },
   {
     id: "czechrepublic-crystalex-novy-bor-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Crystalex Glaswerk", hu: "Crystalex üveggyár", ro: "Fabrica de sticlă Crystalex", en: "Crystalex Glassworks",
 image: "/poi-images/czechrepublic-crystalex-novy-bor-economic-v2.webp"
@@ -734,6 +755,7 @@ image: "/poi-images/czechrepublic-crystalex-novy-bor-economic-v2.webp"
   },
   {
     id: "czechrepublic-becherovka-distillery-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Becherovka Destillerie", hu: "Becherovka lepárló", ro: "Distileria Becherovka", en: "Becherovka Distillery",
 image: "/poi-images/czechrepublic-becherovka-distillery-economic-v2.webp"
@@ -769,6 +791,7 @@ image: "/poi-images/czechrepublic-becherovka-distillery-economic-v2.webp"
   },
   {
     id: "czechrepublic-okd-mining-karvina-economic-v2",
+    parent: "CZ",
     type: "mine",
     name: { de: "OKD Steinkohlebergbau Karviná", hu: "OKD feketekőszén-bányászat Karviná", ro: "Mina de huilă OKD Karviná", en: "OKD Hard Coal Mining Karviná",
 image: "/poi-images/czechrepublic-okd-mining-karvina-economic-v2.webp"
@@ -804,6 +827,7 @@ image: "/poi-images/czechrepublic-okd-mining-karvina-economic-v2.webp"
   },
   {
     id: "czechrepublic-kofola-factory-krnov-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Kofola Fabrik Krnov", hu: "Kofola gyár Krnov", ro: "Fabrica Kofola Krnov", en: "Kofola Factory Krnov",
 image: "/poi-images/czechrepublic-kofola-factory-krnov-economic-v2.webp"
@@ -838,6 +862,7 @@ image: "/poi-images/czechrepublic-kofola-factory-krnov-economic-v2.webp"
   },
   {
     id: "czechrepublic-prim-watches-factory-economic-v2",
+    parent: "CZ",
     type: "factory",
     name: { de: "Prim Uhrenmanufaktur", hu: "Prim óramanufaktúra", ro: "Manufactura de ceasuri Prim", en: "Prim Watches Factory",
 image: "/poi-images/czechrepublic-prim-watches-factory-economic-v2.webp"

@@ -3,6 +3,7 @@ export const belgiumNatureV2: POI[] = [
 
   {
     id: "belgium-signal-de-botrange-nature-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Signal de Botrange", hu: "Signal de Botrange", ro: "Signal de Botrange", en: "Signal de Botrange",
 image: "/poi-images/belgium-signal-de-botrange-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Signal de Botrange stone tower and monument in High Fens",
     image: "/poi-images/belgium-signal-de-botrange-nature-v2.webp",
 },  {
     id: "belgium-sonian-forest-nature-v2",
+    parent: "BE",
     type: "forest",
     name: { de: "Sonienwald", hu: "Zoniënwoud", ro: "Pădurea Soignes", en: "Sonian Forest",
 image: "/poi-images/belgium-sonian-forest-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Tall beech trees in the Sonian Forest near Brussels",
     image: "/poi-images/belgium-sonian-forest-nature-v2.webp",
 },  {
     id: "belgium-cascade-de-coo-nature-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Wasserfall von Coo", hu: "Coo-vízesés", ro: "Cascada de la Coo", en: "Cascade de Coo",
 image: "/poi-images/belgium-cascade-de-coo-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Cascade de Coo waterfall with bridge",
     image: "/poi-images/belgium-cascade-de-coo-nature-v2.webp",
 },  {
     id: "belgium-caves-of-han-nature-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Grotten von Han", hu: "Han-barlang", ro: "Peșterile de la Han", en: "Caves of Han",
 image: "/poi-images/belgium-caves-of-han-nature-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Stalactites and stalagmites inside the Caves of Han",
     image: "/poi-images/belgium-caves-of-han-nature-v2.webp",
 },  {
     id: "belgium-meuse-river-nature-v2",
+    parent: "BE",
     type: "river",
     name: { de: "Maas", hu: "Maas (Meuse)", ro: "Râul Meuse", en: "Meuse River",
 image: "/poi-images/belgium-meuse-river-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Meuse river flowing through the Ardennes valley in Namur",
     image: "/poi-images/belgium-meuse-river-nature-v2.webp",
 },  {
     id: "belgium-scheldt-river-nature-v2",
+    parent: "BE",
     type: "river",
     name: { de: "Schelde", hu: "Schelde", ro: "Râul Scheldt", en: "Scheldt River",
 image: "/poi-images/belgium-scheldt-river-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Scheldt river in Antwerp with city skyline",
     image: "/poi-images/belgium-scheldt-river-nature-v2.webp",
 },  {
     id: "belgium-ourthe-river-nature-v2",
+    parent: "BE",
     type: "river",
     name: { de: "Ourthe", hu: "Ourthe", ro: "Râul Ourthe", en: "Ourthe River",
 image: "/poi-images/belgium-ourthe-river-nature-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Ourthe river winding through Ardennes forests",
     image: "/poi-images/belgium-ourthe-river-nature-v2.webp",
 },  {
     id: "belgium-semois-river-nature-v2",
+    parent: "BE",
     type: "river",
     name: { de: "Semois", hu: "Semois", ro: "Râul Semois", en: "Semois River",
 image: "/poi-images/belgium-semois-river-nature-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Semois river meander at Frahan viewpoint",
     image: "/poi-images/belgium-semois-river-nature-v2.webp",
 },  {
     id: "belgium-lesse-river-nature-v2",
+    parent: "BE",
     type: "river",
     name: { de: "Lesse", hu: "Lesse", ro: "Râul Lesse", en: "Lesse River",
 image: "/poi-images/belgium-lesse-river-nature-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Lesse river flowing through limestone cliffs",
     image: "/poi-images/belgium-lesse-river-nature-v2.webp",
 },  {
     id: "belgium-lake-butgenbach-nature-v2",
+    parent: "BE",
     type: "lake",
     name: { de: "Bütgenbacher See", hu: "Bütgenbach-tó", ro: "Lacul Bütgenbach", en: "Lake Bütgenbach",
 image: "/poi-images/belgium-lake-butgenbach-nature-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Bütgenbach lake with forest and dam",
     image: "/poi-images/belgium-lake-butgenbach-nature-v2.webp",
 },  {
     id: "belgium-lake-robertville-nature-v2",
+    parent: "BE",
     type: "lake",
     name: { de: "Robertville-See", hu: "Robertville-tó", ro: "Lacul Robertville", en: "Lake Robertville",
 image: "/poi-images/belgium-lake-robertville-nature-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Robertville lake with dam and wooded shores",
     image: "/poi-images/belgium-lake-robertville-nature-v2.webp",
 },  {
     id: "belgium-lake-gileppe-nature-v2",
+    parent: "BE",
     type: "lake",
     name: { de: "Gileppe-Talsperre", hu: "Gileppe-tó", ro: "Barajul Gileppe", en: "Lake Gileppe",
 image: "/poi-images/belgium-lake-gileppe-nature-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Gileppe dam with the monumental stone lion",
     image: "/poi-images/belgium-lake-gileppe-nature-v2.webp",
 },  {
     id: "belgium-lake-plate-taille-nature-v2",
+    parent: "BE",
     type: "lake",
     name: { de: "Lac de la Plate Taille", hu: "Plate Taille-tó", ro: "Lacul Plate Taille", en: "Lake Plate Taille",
 image: "/poi-images/belgium-lake-plate-taille-nature-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
     image: "/poi-images/belgium-lake-plate-taille-nature-v2.webp",
 },  {
     id: "belgium-baraque-de-fraiture-nature-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Baraque de Fraiture", hu: "Baraque de Fraiture", ro: "Baraque de Fraiture", en: "Baraque de Fraiture",
 image: "/poi-images/belgium-baraque-de-fraiture-nature-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Baraque de Fraiture summit with ski lift in winter",
     image: "/poi-images/belgium-baraque-de-fraiture-nature-v2.webp",
 },  {
     id: "belgium-ninglinspo-valley-nature-v2",
+    parent: "BE",
     type: "valley",
     name: { de: "Ninglinspo-Tal", hu: "Ninglinspo-völgy", ro: "Valea Ninglinspo", en: "Ninglinspo Valley",
 image: "/poi-images/belgium-ninglinspo-valley-nature-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
     image: "/poi-images/belgium-ninglinspo-valley-nature-v2.webp",
 },  {
     id: "belgium-ambleve-river-nature-v2",
+    parent: "BE",
     type: "river",
     name: { de: "Amblève", hu: "Amblève", ro: "Râul Amblève", en: "Amblève River",
 image: "/poi-images/belgium-ambleve-river-nature-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Amblève river with rocky bed in the Ardennes",
     image: "/poi-images/belgium-ambleve-river-nature-v2.webp",
 },  {
     id: "belgium-molignee-valley-nature-v2",
+    parent: "BE",
     type: "valley",
     name: { de: "Molignée-Tal", hu: "Molignée-völgy", ro: "Valea Molignée", en: "Molignée Valley",
 image: "/poi-images/belgium-molignee-valley-nature-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Railbikes in the green Molignée valley",
     image: "/poi-images/belgium-molignee-valley-nature-v2.webp",
 },  {
     id: "belgium-westhoek-dunes-nature-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Dünen von Westhoek", hu: "Westhoek-dűnék", ro: "Dunele Westhoek", en: "Westhoek Dunes",
 image: "/poi-images/belgium-westhoek-dunes-nature-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Shifting sand dunes in Westhoek nature reserve",
     image: "/poi-images/belgium-westhoek-dunes-nature-v2.webp",
 },  {
     id: "belgium-mechelse-heide-nature-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Mechelse Heide", hu: "Mechelse Heide", ro: "Mechelse Heide", en: "Mechelse Heide",
 image: "/poi-images/belgium-mechelse-heide-nature-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Purple blooming heather in Mechelse Heide",
     image: "/poi-images/belgium-mechelse-heide-nature-v2.webp",
 },  {
     id: "belgium-bayehon-waterfall-nature-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Bayehon-Wasserfall", hu: "Bayehon-vízesés", ro: "Cascada Bayehon", en: "Bayehon Waterfall",
 image: "/poi-images/belgium-bayehon-waterfall-nature-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Bayehon waterfall in a rocky forest setting",
     image: "/poi-images/belgium-bayehon-waterfall-nature-v2.webp",
 },  {
     id: "belgium-pays-des-collines-nature-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Pays des Collines", hu: "Pays des Collines", ro: "Pays des Collines", en: "Pays des Collines",
 image: "/poi-images/belgium-pays-des-collines-nature-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Gentle hills and windmill in Pays des Collines",
     image: "/poi-images/belgium-pays-des-collines-nature-v2.webp",
 },  {
     id: "belgium-gaume-region-nature-v2",
+    parent: "BE",
     type: "valley",
     name: { de: "Gaume", hu: "Gaume", ro: "Regiunea Gaume", en: "Gaume Region",
 image: "/poi-images/belgium-gaume-region-nature-v2.webp"
@@ -752,6 +774,7 @@ imageHint: "Gaume countryside with limestone ridges",
     image: "/poi-images/belgium-gaume-region-nature-v2.webp",
 },  {
     id: "belgium-durme-river-nature-v2",
+    parent: "BE",
     type: "river",
     name: { de: "Durme", hu: "Durme", ro: "Râul Durme", en: "Durme River",
 image: "/poi-images/belgium-durme-river-nature-v2.webp"
@@ -786,6 +809,7 @@ imageHint: "Durme river with marshy banks in Flanders",
     image: "/poi-images/belgium-durme-river-nature-v2.webp",
 },  {
     id: "belgium-dijle-valley-nature-v2",
+    parent: "BE",
     type: "valley",
     name: { de: "Dijle-Tal", hu: "Dijle-völgy", ro: "Valea Dijle", en: "Dijle Valley",
 image: "/poi-images/belgium-dijle-valley-nature-v2.webp"
@@ -821,6 +845,7 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
 },
   {
     id: "belgium-yser-river-nature-v2",
+    parent: "BE",
     type: "river",
     name: { de: "Yser", hu: "IJzer", ro: "Yser", en: "Yser",
 image: "/poi-images/belgium-yser-river-nature-v2.webp"
@@ -854,6 +879,7 @@ image: "/poi-images/belgium-yser-river-nature-v2.webp"
   },
   {
     id: "belgium-lys-river-nature-v2",
+    parent: "BE",
     type: "river",
     name: { de: "Leie", hu: "Leie", ro: "Lys", en: "Lys",
 image: "/poi-images/belgium-lys-river-nature-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Lys river in the historic center of Ghent",
     image: "/poi-images/belgium-lys-river-nature-v2.webp",
 },  {
     id: "belgium-hoegne-river-nature-v2",
+    parent: "BE",
     type: "river",
     name: { de: "Hoëgne", hu: "Hoëgne", ro: "Hoëgne", en: "Hoëgne",
 image: "/poi-images/belgium-hoegne-river-nature-v2.webp"
@@ -920,6 +947,7 @@ imageHint: "Hoëgne river with wooden bridge and rapids",
     image: "/poi-images/belgium-hoegne-river-nature-v2.webp",
 },  {
     id: "belgium-lake-virelles-nature-v2",
+    parent: "BE",
     type: "lake",
     name: { de: "See von Virelles", hu: "Virelles-tó", ro: "Lacul Virelles", en: "Lake Virelles",
 image: "/poi-images/belgium-lake-virelles-nature-v2.webp"
@@ -953,6 +981,7 @@ imageHint: "Lake Virelles with reed beds and bird watching tower",
     image: "/poi-images/belgium-lake-virelles-nature-v2.webp",
 },  {
     id: "belgium-lake-genval-nature-v2",
+    parent: "BE",
     type: "lake",
     name: { de: "Genvaler See", hu: "Genvali-tó", ro: "Lacul Genval", en: "Lake Genval",
 image: "/poi-images/belgium-lake-genval-nature-v2.webp"
@@ -986,6 +1015,7 @@ imageHint: "Lake Genval with fountain and villas",
     image: "/poi-images/belgium-lake-genval-nature-v2.webp",
 },  {
     id: "belgium-remouchamps-caves-nature-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Grotten von Remouchamps", hu: "Remouchamps-barlangok", ro: "Peșterile Remouchamps", en: "Remouchamps Caves",
 image: "/poi-images/belgium-remouchamps-caves-nature-v2.webp"

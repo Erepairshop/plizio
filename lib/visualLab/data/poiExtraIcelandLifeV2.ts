@@ -3,6 +3,7 @@ export const icelandLifeV2: POI[] = [
 
   {
     id: "iceland-thingvellir-life-v2",
+    parent: "IS",
     type: "park",
     name: { de: "Nationalpark Þingvellir", hu: "Þingvellir Nemzeti Park", ro: "Parcul Național Þingvellir", en: "Thingvellir National Park",
 image: "/poi-images/iceland-thingvellir-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Thingvellir National Park moss covered lava fields",
     image: "/poi-images/iceland-thingvellir-life-v2.webp",
 },  {
     id: "iceland-vatnajokull-life-v2",
+    parent: "IS",
     type: "park",
     name: { de: "Vatnajökull-Nationalpark", hu: "Vatnajökull Nemzeti Park", ro: "Parcul Național Vatnajökull", en: "Vatnajokull National Park",
 image: "/poi-images/iceland-vatnajokull-life-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Skaftafell birch forest with glacier background",
     image: "/poi-images/iceland-vatnajokull-life-v2.webp",
 },  {
     id: "iceland-snaefellsjokull-life-v2",
+    parent: "IS",
     type: "park",
     name: { de: "Snæfellsjökull-Nationalpark", hu: "Snæfellsjökull Nemzeti Park", ro: "Parcul Național Snæfellsjökull", en: "Snaefellsjokull National Park",
 image: "/poi-images/iceland-snaefellsjokull-life-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Snaefellsjokull National Park coastline with birds",
     image: "/poi-images/iceland-snaefellsjokull-life-v2.webp",
 },  {
     id: "iceland-myvatn-bird-reserve-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Vogelschutzgebiet Mývatn", hu: "Mývatn-tó madárrezervátum", ro: "Rezervația de păsări Mývatn", en: "Lake Myvatn Bird Reserve",
 image: "/poi-images/iceland-myvatn-bird-reserve-life-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Lake Myvatn with ducks and wetlands",
     image: "/poi-images/iceland-myvatn-bird-reserve-life-v2.webp",
 },  {
     id: "iceland-dyrholaey-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Dyrhólaey", hu: "Dyrhólaey Természetvédelmi Terület", ro: "Rezervația Naturală Dyrhólaey", en: "Dyrholaey Nature Reserve",
 image: "/poi-images/iceland-dyrholaey-life-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Dyrholaey puffins on green cliffs",
     image: "/poi-images/iceland-dyrholaey-life-v2.webp",
 },  {
     id: "iceland-hornstrandir-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Hornstrandir", hu: "Hornstrandir Természetvédelmi Terület", ro: "Rezervația Naturală Hornstrandir", en: "Hornstrandir Nature Reserve",
 image: "/poi-images/iceland-hornstrandir-life-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Arctic fox in Hornstrandir landscape",
     image: "/poi-images/iceland-hornstrandir-life-v2.webp",
 },  {
     id: "iceland-grimsey-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Insel Grímsey", hu: "Grímsey-sziget vadvilága", ro: "Insula Grímsey", en: "Grimsey Island Wildlife",
 image: "/poi-images/iceland-grimsey-life-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Puffins on Grimsey Island Arctic Circle",
     image: "/poi-images/iceland-grimsey-life-v2.webp",
 },  {
     id: "iceland-latrabjarg-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Vogelklippen Látrabjarg", hu: "Látrabjarg madársziklák", ro: "Stâncile Látrabjarg", en: "Latrabjarg Bird Cliffs",
 image: "/poi-images/iceland-latrabjarg-life-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Latrabjarg cliffs covered in seabirds",
     image: "/poi-images/iceland-latrabjarg-life-v2.webp",
 },  {
     id: "iceland-heidmork-life-v2",
+    parent: "IS",
     type: "forest",
     name: { de: "Waldschutzgebiet Heiðmörk", hu: "Heiðmörk erdőrezervátum", ro: "Rezervația Heiðmörk", en: "Heidmork Forest",
 image: "/poi-images/iceland-heidmork-life-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Heidmork forest walking paths",
     image: "/poi-images/iceland-heidmork-life-v2.webp",
 },  {
     id: "iceland-reykjavik-botanical-garden-life-v2",
+    parent: "IS",
     type: "park",
     name: { de: "Botanischer Garten Reykjavík", hu: "Reykjavíki Botanikus Kert", ro: "Grădina Botanică Reykjavík", en: "Reykjavik Botanical Garden",
 image: "/poi-images/iceland-reykjavik-botanical-garden-life-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Reykjavik Botanical Garden flowers",
     image: "/poi-images/iceland-reykjavik-botanical-garden-life-v2.webp",
 },  {
     id: "iceland-reykjavik-zoo-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Zoo Reykjavík", hu: "Reykjavíki Állatkert", ro: "Grădina Zoologică Reykjavík", en: "Reykjavik Zoo and Family Park",
 image: "/poi-images/iceland-reykjavik-zoo-life-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Arctic fox in Reykjavik Zoo",
     image: "/poi-images/iceland-reykjavik-zoo-life-v2.webp",
 },  {
     id: "iceland-eldey-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Insel Eldey", hu: "Eldey szulakolónia", ro: "Insula Eldey", en: "Eldey Gannet Colony",
 image: "/poi-images/iceland-eldey-life-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Eldey island rock with gannets",
     image: "/poi-images/iceland-eldey-life-v2.webp",
 },  {
     id: "iceland-ingolfshofdi-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Ingólfshöfði", hu: "Ingólfshöfði Természetvédelmi Terület", ro: "Rezervația Ingólfshöfði", en: "Ingolfshofdi Nature Reserve",
 image: "/poi-images/iceland-ingolfshofdi-life-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Ingolfshofdi headland with birds",
     image: "/poi-images/iceland-ingolfshofdi-life-v2.webp",
 },  {
     id: "iceland-papey-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Insel Papey", hu: "Papey-sziget vadvilága", ro: "Insula Papey", en: "Papey Island Wildlife",
 image: "/poi-images/iceland-papey-life-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Papey island coastline with seals",
     image: "/poi-images/iceland-papey-life-v2.webp",
 },  {
     id: "iceland-flatey-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Insel Flatey", hu: "Flatey-sziget biodiverzitása", ro: "Insula Flatey", en: "Flatey Island Biodiversity",
 image: "/poi-images/iceland-flatey-life-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Flatey island birds and meadows",
     image: "/poi-images/iceland-flatey-life-v2.webp",
 },  {
     id: "iceland-akureyri-botanical-garden-life-v2",
+    parent: "IS",
     type: "park",
     name: { de: "Botanischer Garten Akureyri", hu: "Akureyri Botanikus Kert", ro: "Grădina Botanică Akureyri", en: "Akureyri Botanical Garden",
 image: "/poi-images/iceland-akureyri-botanical-garden-life-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Akureyri Botanical Garden flowers and trees",
     image: "/poi-images/iceland-akureyri-botanical-garden-life-v2.webp",
 },  {
     id: "iceland-surtsey-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Insel Surtsey", hu: "Surtsey-sziget rezervátum", ro: "Insula Surtsey", en: "Surtsey Island Reserve",
 image: "/poi-images/iceland-surtsey-life-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Surtsey island volcanic landscape",
     image: "/poi-images/iceland-surtsey-life-v2.webp",
 },  {
     id: "iceland-jokulsarlon-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Gletscherlagune Jökulsárlón", hu: "Jökulsárlón fókakolónia", ro: "Laguna Jökulsárlón", en: "Jokulsarlon Seal Colony",
 image: "/poi-images/iceland-jokulsarlon-life-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Seals on icebergs in Jokulsarlon",
     image: "/poi-images/iceland-jokulsarlon-life-v2.webp",
 },  {
     id: "iceland-borgarfjordur-eystri-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Borgarfjörður Eystri", hu: "Borgarfjörður Eystri lundák", ro: "Borgarfjörður Eystri", en: "Borgarfjordur Eystri Puffins",
 image: "/poi-images/iceland-borgarfjordur-eystri-life-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Puffins at Borgarfjordur Eystri marina",
     image: "/poi-images/iceland-borgarfjordur-eystri-life-v2.webp",
 },  {
     id: "iceland-vigur-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Insel Vigur", hu: "Vigur-sziget eiderkacsák", ro: "Insula Vigur", en: "Vigur Island Eider Ducks",
 image: "/poi-images/iceland-vigur-life-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Vigur island with eider ducks",
     image: "/poi-images/iceland-vigur-life-v2.webp",
 },  {
     id: "iceland-asbyrgi-life-v2",
+    parent: "IS",
     type: "forest",
     name: { de: "Ásbyrgi-Schlucht", hu: "Ásbyrgi kanyon erdősége", ro: "Canionul Ásbyrgi", en: "Asbyrgi Canyon Forest",
 image: "/poi-images/iceland-asbyrgi-life-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Asbyrgi canyon birch forest",
     image: "/poi-images/iceland-asbyrgi-life-v2.webp",
 },  {
     id: "iceland-hrisey-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Insel Hrísey", hu: "Hrísey-sziget madárrezervátum", ro: "Insula Hrísey", en: "Hrisey Island Bird Reserve",
 image: "/poi-images/iceland-hrisey-life-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Ptarmigan on Hrisey island",
     image: "/poi-images/iceland-hrisey-life-v2.webp",
 },  {
     id: "iceland-tjornin-life-v2",
+    parent: "IS",
     type: "lake",
     name: { de: "Tjörnin See", hu: "Tjörnin-tó madárvilága", ro: "Lacul Tjörnin", en: "Tjornin Lake Birdlife",
 image: "/poi-images/iceland-tjornin-life-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Swans and ducks on Tjornin lake",
     image: "/poi-images/iceland-tjornin-life-v2.webp",
 },  {
     id: "iceland-thjorsarver-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Feuchtgebiet Þjórsárver", hu: "Þjórsárver mocsárvidék", ro: "Zona umedă Þjórsárver", en: "Thjorsarver Wetlands",
 image: "/poi-images/iceland-thjorsarver-life-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Thjorsarver highland wetland tundra",
     image: "/poi-images/iceland-thjorsarver-life-v2.webp",
 },  {
     id: "iceland-grunnafjordur-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Grunnafjörður", hu: "Grunnafjörður vizes élőhely", ro: "Rezervația Grunnafjörður", en: "Grunnafjordur Wetland Reserve",
 image: "/poi-images/iceland-grunnafjordur-life-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Grunnafjordur estuary with migratory birds",
     image: "/poi-images/iceland-grunnafjordur-life-v2.webp",
 },  {
     id: "iceland-herdubreidarlindir-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Herðubreiðarlindir Oase", hu: "Herðubreiðarlindir oázis", ro: "Oaza Herðubreiðarlindir", en: "Herdubreidarlindir Oasis",
 image: "/poi-images/iceland-herdubreidarlindir-life-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Herdubreidarlindir oasis with green plants",
     image: "/poi-images/iceland-herdubreidarlindir-life-v2.webp",
 },  {
     id: "iceland-skrudur-life-v2",
+    parent: "IS",
     type: "park",
     name: { de: "Skrúður Botanischer Garten", hu: "Skrúður botanikus kert", ro: "Grădina Botanică Skrúður", en: "Skrudur Botanical Garden",
 image: "/poi-images/iceland-skrudur-life-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Skrudur botanical garden in Westfjords",
     image: "/poi-images/iceland-skrudur-life-v2.webp",
 },  {
     id: "iceland-hunafjordur-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Húnafjörður Seehundkolonie", hu: "Húnafjörður fókaélőhely", ro: "Colonia de foci Húnafjörður", en: "Hunafjordur Seal Habitat",
 image: "/poi-images/iceland-hunafjordur-life-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Seals on rocks in Hunafjordur",
     image: "/poi-images/iceland-hunafjordur-life-v2.webp",
 },  {
     id: "iceland-drangey-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Insel Drangey", hu: "Drangey-sziget madárvilága", ro: "Insula Drangey", en: "Drangey Island Birdlife",
 image: "/poi-images/iceland-drangey-life-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Drangey island steep cliffs with birds",
     image: "/poi-images/iceland-drangey-life-v2.webp",
 },  {
     id: "iceland-heimaey-life-v2",
+    parent: "IS",
     type: "wildlife",
     name: { de: "Heimaey Papageitaucher-Kolonie", hu: "Heimaey lundakolónia", ro: "Colonia de pufini Heimaey", en: "Heimaey Puffin Colony",
 image: "/poi-images/iceland-heimaey-life-v2.webp"

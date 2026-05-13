@@ -3,6 +3,7 @@ export const russiaHistoryV2: POI[] = [
 
   {
     id: "russia-borodino-battlefield-history-v2",
+    parent: "RU",
     type: "battlefield",
     name: { de: "Schlachtfeld von Borodino", hu: "Borogyinói csatamező", ro: "Câmpul de luptă de la Borodino", en: "Borodino Battlefield",
 image: "/poi-images/russia-borodino-battlefield-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Borodino battlefield monument and museum building",
     , image: "/poi-images/russia-borodino-battlefield-history-v2.webp",
 },  {
     id: "russia-kulikovo-field-history-v2",
+    parent: "RU",
     type: "battlefield",
     name: { de: "Kulikiwo-Feld", hu: "Kulikovói mező", ro: "Câmpia Kulikovo", en: "Kulikovo Field",
 image: "/poi-images/russia-kulikovo-field-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Kulikovo Field memorial column and church",
     , image: "/poi-images/russia-kulikovo-field-history-v2.webp",
 },  {
     id: "russia-mamayev-kurgan-history-v2",
+    parent: "RU",
     type: "monument",
     name: { de: "Mamajew-Hügel", hu: "Mamajev-kurgan", ro: "Mamaev Kurgan", en: "Mamayev Kurgan",
 image: "/poi-images/russia-mamayev-kurgan-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
     , image: "/poi-images/russia-mamayev-kurgan-history-v2.webp",
 },  {
     id: "russia-peterhof-palace-history-v2",
+    parent: "RU",
     type: "palace",
     name: { de: "Großer Palast von Peterhof", hu: "Peterhofi palota", ro: "Palatul Peterhof", en: "Peterhof Palace",
 image: "/poi-images/russia-peterhof-palace-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
     , image: "/poi-images/russia-peterhof-palace-history-v2.webp",
 },  {
     id: "russia-solovetsky-monastery-history-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Solowezki-Kloster", hu: "Szoloveckij-kolostor", ro: "Mănăstirea Solovetki", en: "Solovetsky Monastery",
 image: "/poi-images/russia-solovetsky-monastery-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Solovetsky Monastery fortress on the White Sea coast",
     , image: "/poi-images/russia-solovetsky-monastery-history-v2.webp",
 },  {
     id: "russia-arkaim-ruins-history-v2",
+    parent: "RU",
     type: "ruins",
     name: { de: "Arkaim", hu: "Arkaim", ro: "Arkaim", en: "Arkaim",
 image: "/poi-images/russia-arkaim-ruins-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Aerial view of Arkaim archaeological site circular structure",
     , image: "/poi-images/russia-arkaim-ruins-history-v2.webp",
 },  {
     id: "russia-derbent-fortress-history-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Festung Naryn-Kala", hu: "Narün-Kala erőd", ro: "Cetatea Naryn-Kala", en: "Naryn-Kala Fortress",
 image: "/poi-images/russia-derbent-fortress-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Naryn-Kala fortress walls Derbent Dagestan",
     , image: "/poi-images/russia-derbent-fortress-history-v2.webp",
 },  {
     id: "russia-kazan-kremlin-history-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Kasaner Kreml", hu: "Kazanyi kreml", ro: "Kremlinul din Kazan", en: "Kazan Kremlin",
 image: "/poi-images/russia-kazan-kremlin-history-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Kazan Kremlin with Kul Sharif mosque and Annunciation Cathedral",
     , image: "/poi-images/russia-kazan-kremlin-history-v2.webp",
 },  {
     id: "russia-novgorod-kremlin-history-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Nowgoroder Kreml", hu: "Novgorodi kreml", ro: "Kremlinul din Novgorod", en: "Novgorod Kremlin",
 image: "/poi-images/russia-novgorod-kremlin-history-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
     , image: "/poi-images/russia-novgorod-kremlin-history-v2.webp",
 },  {
     id: "russia-pskov-kremlin-history-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Pskower Kreml", hu: "Pszkovi kreml", ro: "Kremlinul din Pskov", en: "Pskov Kremlin",
 image: "/poi-images/russia-pskov-kremlin-history-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Pskov Kremlin Krom fortress and Trinity Cathedral",
     , image: "/poi-images/russia-pskov-kremlin-history-v2.webp",
 },  {
     id: "russia-suzdal-kremlin-history-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Susdaler Kreml", hu: "Szuzdali kreml", ro: "Kremlinul din Suzdal", en: "Suzdal Kremlin",
 image: "/poi-images/russia-suzdal-kremlin-history-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Suzdal Kremlin with blue-domed Cathedral of the Nativity",
     , image: "/poi-images/russia-suzdal-kremlin-history-v2.webp",
 },  {
     id: "russia-vladimir-golden-gate-history-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Goldenes Tor von Wladimir", hu: "Vlagyimiri Aranykapu", ro: "Poarta de Aur din Vladimir", en: "Vladimir Golden Gate",
 image: "/poi-images/russia-vladimir-golden-gate-history-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Golden Gate of Vladimir historic white stone arch",
     , image: "/poi-images/russia-vladimir-golden-gate-history-v2.webp",
 },  {
     id: "russia-bolghar-ruins-history-v2",
+    parent: "RU",
     type: "ruins",
     name: { de: "Bulgar", hu: "Bolgar", ro: "Bolgar", en: "Bolghar",
 image: "/poi-images/russia-bolghar-ruins-history-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
     , image: "/poi-images/russia-bolghar-ruins-history-v2.webp",
 },  {
     id: "russia-tanais-ruins-history-v2",
+    parent: "RU",
     type: "ruins",
     name: { de: "Tanais", hu: "Tanaisz", ro: "Tanais", en: "Tanais",
 image: "/poi-images/russia-tanais-ruins-history-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
     , image: "/poi-images/russia-tanais-ruins-history-v2.webp",
 },  {
     id: "russia-shlisselburg-fortress-history-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Festung Oreschek", hu: "Oreseki erőd", ro: "Cetatea Oreshek", en: "Oreshek Fortress",
 image: "/poi-images/russia-shlisselburg-fortress-history-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
     , image: "/poi-images/russia-shlisselburg-fortress-history-v2.webp",
 },  {
     id: "russia-vyborg-castle-history-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Wyborg-Schloss", hu: "Viborgi vár", ro: "Castelul din Vîborg", en: "Vyborg Castle",
 image: "/poi-images/russia-vyborg-castle-history-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Vyborg Castle and St. Olaf's Tower",
     , image: "/poi-images/russia-vyborg-castle-history-v2.webp",
 },  {
     id: "russia-winter-palace-history-v2",
+    parent: "RU",
     type: "palace",
     name: { de: "Winterpalast", hu: "Téli palota", ro: "Palatul de Iarnă", en: "Winter Palace",
 image: "/poi-images/russia-winter-palace-history-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
     , image: "/poi-images/russia-winter-palace-history-v2.webp",
 },  {
     id: "russia-catherine-palace-history-v2",
+    parent: "RU",
     type: "palace",
     name: { de: "Katharinenpalast", hu: "Katalin-palota", ro: "Palatul Ecaterina", en: "Catherine Palace",
 image: "/poi-images/russia-catherine-palace-history-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Catherine Palace blue facade Tsarskoye Selo",
     , image: "/poi-images/russia-catherine-palace-history-v2.webp",
 },  {
     id: "russia-moscow-kremlin-history-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Moskauer Kreml", hu: "Moszkvai kreml", ro: "Kremlinul din Moscova", en: "Moscow Kremlin",
 image: "/poi-images/russia-moscow-kremlin-history-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Moscow Kremlin towers and cathedrals aerial view",
     , image: "/poi-images/russia-moscow-kremlin-history-v2.webp",
 },  {
     id: "russia-red-square-history-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Roter Platz", hu: "Vörös tér", ro: "Piața Roșie", en: "Red Square",
 image: "/poi-images/russia-red-square-history-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Red Square Moscow with St Basil's Cathedral",
     , image: "/poi-images/russia-red-square-history-v2.webp",
 },  {
     id: "russia-peter-paul-fortress-history-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Peter-und-Paul-Festung", hu: "Péter-Pál-erőd", ro: "Cetatea Petru și Pavel", en: "Peter and Paul Fortress",
 image: "/poi-images/russia-peter-paul-fortress-history-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
     , image: "/poi-images/russia-peter-paul-fortress-history-v2.webp",
 },  {
     id: "russia-kizhi-pogost-history-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Kischi Pogost", hu: "Kizsi-pogoszt", ro: "Kizhi Pogost", en: "Kizhi Pogost",
 image: "/poi-images/russia-kizhi-pogost-history-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Kizhi Pogost multi-domed wooden church",
     , image: "/poi-images/russia-kizhi-pogost-history-v2.webp",
 },  {
     id: "russia-prokhorovka-battlefield-history-v2",
+    parent: "RU",
     type: "battlefield",
     name: { de: "Schlachtfeld von Prochorowka", hu: "Prohorovkai csatamező", ro: "Câmpul de luptă de la Prohorovka", en: "Prokhorovka Battlefield",
 image: "/poi-images/russia-prokhorovka-battlefield-history-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Prokhorovka battlefield memorial bell tower and tanks",
     , image: "/poi-images/russia-prokhorovka-battlefield-history-v2.webp",
 },  {
     id: "russia-intercession-on-nerl-history-v2",
+    parent: "RU",
     type: "church",
     name: { de: "Mariä-Schutz-und-Fürbitte-Kirche an der Nerl", hu: "Pokrov-templom a Nerlen", ro: "Biserica Mijlocirea Maicii Domnului de pe Nerl", en: "Church of the Intercession on the Nerl",
 image: "/poi-images/russia-intercession-on-nerl-history-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Church of the Intercession on the Nerl white stone",
     , image: "/poi-images/russia-intercession-on-nerl-history-v2.webp",
 },  {
     id: "russia-trinity-lavra-history-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Dreifaltigkeitskloster von Sergijew Possad", hu: "Szentháromság–Szergij-kolostor", ro: "Lavra Sfânta Treime a Sfântului Serghie", en: "Trinity Lavra of St. Sergius",
 image: "/poi-images/russia-trinity-lavra-history-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
     , image: "/poi-images/russia-trinity-lavra-history-v2.webp",
 },  {
     id: "russia-kronstadt-naval-cathedral-history-v2",
+    parent: "RU",
     type: "cathedral",
     name: { de: "Marinekathedrale von Kronstadt", hu: "Kronstadti tengerészeti székesegyház", ro: "Catedrala Navală din Kronstadt", en: "Kronstadt Naval Cathedral",
 image: "/poi-images/russia-kronstadt-naval-cathedral-history-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Kronstadt Naval Cathedral St Nicholas",
     , image: "/poi-images/russia-kronstadt-naval-cathedral-history-v2.webp",
 },  {
     id: "russia-yusupov-palace-history-v2",
+    parent: "RU",
     type: "palace",
     name: { de: "Jussupow-Palast", hu: "Juszupov-palota", ro: "Palatul Iusupov", en: "Yusupov Palace",
 image: "/poi-images/russia-yusupov-palace-history-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
     , image: "/poi-images/russia-yusupov-palace-history-v2.webp",
 },  {
     id: "russia-gatchina-palace-history-v2",
+    parent: "RU",
     type: "palace",
     name: { de: "Schloss Gattschina", hu: "Gatcsinai palota", ro: "Palatul Gatchina", en: "Gatchina Palace",
 image: "/poi-images/russia-gatchina-palace-history-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
     , image: "/poi-images/russia-gatchina-palace-history-v2.webp",
 },  {
     id: "russia-pavlovsk-palace-history-v2",
+    parent: "RU",
     type: "palace",
     name: { de: "Schloss Pawlowsk", hu: "Pavlovszki palota", ro: "Palatul Pavlovsk", en: "Pavlovsk Palace",
 image: "/poi-images/russia-pavlovsk-palace-history-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     , image: "/poi-images/russia-pavlovsk-palace-history-v2.webp",
 },  {
     id: "russia-alexander-nevsky-lavra-history-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Alexander-Newski-Kloster", hu: "Alekszandr Nyevszkij-kolostor", ro: "Lavra Alexandru Nevski", en: "Alexander Nevsky Lavra",
 image: "/poi-images/russia-alexander-nevsky-lavra-history-v2.webp"

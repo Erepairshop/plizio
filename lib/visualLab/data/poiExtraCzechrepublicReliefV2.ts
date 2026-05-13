@@ -3,6 +3,7 @@ export const czechrepublicReliefV2: POI[] = [
 
   {
     id: "czechrepublic-snezka-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Schneekoppe", hu: "Sněžka", ro: "Snezka", en: "Snezka",
 image: "/poi-images/czechrepublic-snezka-relief-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/czechrepublic-snezka-relief-v2.webp"
   },
   {
     id: "czechrepublic-praded-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Altvater", hu: "Praděd", ro: "Praded", en: "Praded",
 image: "/poi-images/czechrepublic-praded-relief-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/czechrepublic-praded-relief-v2.webp"
   },
   {
     id: "czechrepublic-lysa-hora-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Kahlberg", hu: "Lysá hora", ro: "Lysa hora", en: "Lysa hora",
 image: "/poi-images/czechrepublic-lysa-hora-relief-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/czechrepublic-lysa-hora-relief-v2.webp"
   },
   {
     id: "czechrepublic-klinovec-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Keilberg", hu: "Klínovec", ro: "Klinovec", en: "Klinovec",
 image: "/poi-images/czechrepublic-klinovec-relief-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/czechrepublic-klinovec-relief-v2.webp"
   },
   {
     id: "czechrepublic-milesovka-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Milleschauer", hu: "Milešovka", ro: "Milesovka", en: "Milesovka",
 image: "/poi-images/czechrepublic-milesovka-relief-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/czechrepublic-milesovka-relief-v2.webp"
   },
   {
     id: "czechrepublic-velka-destna-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Deschneyer Großkoppe", hu: "Velká Deštná", ro: "Velka Destna", en: "Velka Destna",
 image: "/poi-images/czechrepublic-velka-destna-relief-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/czechrepublic-velka-destna-relief-v2.webp"
   },
   {
     id: "czechrepublic-plechy-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Plöckenstein", hu: "Plechý", ro: "Plechy", en: "Plechy",
 image: "/poi-images/czechrepublic-plechy-relief-v2.webp"
@@ -248,6 +255,7 @@ image: "/poi-images/czechrepublic-plechy-relief-v2.webp"
   },
   {
     id: "czechrepublic-smrk-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Tafelfichte", hu: "Smrk", ro: "Smrk", en: "Smrk",
 image: "/poi-images/czechrepublic-smrk-relief-v2.webp"
@@ -283,6 +291,7 @@ image: "/poi-images/czechrepublic-smrk-relief-v2.webp"
   },
   {
     id: "czechrepublic-luz-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Lausche", hu: "Luž", ro: "Luz", en: "Luz",
 image: "/poi-images/czechrepublic-luz-relief-v2.webp"
@@ -318,6 +327,7 @@ image: "/poi-images/czechrepublic-luz-relief-v2.webp"
   },
   {
     id: "czechrepublic-devet-skal-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Neun Felsen", hu: "Devět skal", ro: "Devet skal", en: "Devet skal",
 image: "/poi-images/czechrepublic-devet-skal-relief-v2.webp"
@@ -353,6 +363,7 @@ image: "/poi-images/czechrepublic-devet-skal-relief-v2.webp"
   },
   {
     id: "czechrepublic-velka-javorina-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Großer Jauerling", hu: "Velká Javořina", ro: "Velka Javorina", en: "Velka Javorina",
 image: "/poi-images/czechrepublic-velka-javorina-relief-v2.webp"
@@ -388,6 +399,7 @@ image: "/poi-images/czechrepublic-velka-javorina-relief-v2.webp"
   },
   {
     id: "czechrepublic-tok-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Tok", hu: "Tok", ro: "Tok", en: "Tok",
 image: "/poi-images/czechrepublic-tok-relief-v2.webp"
@@ -423,6 +435,7 @@ image: "/poi-images/czechrepublic-tok-relief-v2.webp"
   },
   {
     id: "czechrepublic-radhost-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Radhost", hu: "Radhošť", ro: "Radhost", en: "Radhost",
 image: "/poi-images/czechrepublic-radhost-relief-v2.webp"
@@ -458,6 +471,7 @@ image: "/poi-images/czechrepublic-radhost-relief-v2.webp"
   },
   {
     id: "czechrepublic-serak-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Hochschar", hu: "Šerák", ro: "Serak", en: "Serak",
 image: "/poi-images/czechrepublic-serak-relief-v2.webp"
@@ -493,6 +507,7 @@ image: "/poi-images/czechrepublic-serak-relief-v2.webp"
   },
   {
     id: "czechrepublic-rip-relief-v2",
+    parent: "CZ",
     type: "landmark",
     name: { de: "Georgsberg", hu: "Říp", ro: "Rip", en: "Rip",
 image: "/poi-images/czechrepublic-rip-relief-v2.webp"
@@ -528,6 +543,7 @@ image: "/poi-images/czechrepublic-rip-relief-v2.webp"
   },
   {
     id: "czechrepublic-pravcicka-brana-relief-v2",
+    parent: "CZ",
     type: "landmark",
     name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravcicka", en: "Pravcicka brana",
 image: "/poi-images/czechrepublic-pravcicka-brana-relief-v2.webp"
@@ -563,6 +579,7 @@ image: "/poi-images/czechrepublic-pravcicka-brana-relief-v2.webp"
   },
   {
     id: "czechrepublic-podyji-relief-v2",
+    parent: "CZ",
     type: "valley",
     name: { de: "Thayatal", hu: "Podyjí", ro: "Valea Thaya", en: "Podyji Valley",
 image: "/poi-images/czechrepublic-podyji-relief-v2.webp"
@@ -598,6 +615,7 @@ image: "/poi-images/czechrepublic-podyji-relief-v2.webp"
   },
   {
     id: "czechrepublic-palava-relief-v2",
+    parent: "CZ",
     type: "landmark",
     name: { de: "Pollauer Berge", hu: "Pálava", ro: "Dealurile Palava", en: "Palava Hills",
 image: "/poi-images/czechrepublic-palava-relief-v2.webp"
@@ -633,6 +651,7 @@ image: "/poi-images/czechrepublic-palava-relief-v2.webp"
   },
   {
     id: "czechrepublic-tiske-steny-relief-v2",
+    parent: "CZ",
     type: "landmark",
     name: { de: "Tyssaer Wände", hu: "Tisái-falak", ro: "Stancile Tisa", en: "Tisa Walls",
 image: "/poi-images/czechrepublic-tiske-steny-relief-v2.webp"
@@ -668,6 +687,7 @@ image: "/poi-images/czechrepublic-tiske-steny-relief-v2.webp"
   },
   {
     id: "czechrepublic-hruby-jesenik-relief-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Altvatergebirge", hu: "Hrubý Jeseník", ro: "Hruby Jesenik", en: "Hruby Jesenik",
 image: "/poi-images/czechrepublic-hruby-jesenik-relief-v2.webp"
@@ -703,6 +723,7 @@ image: "/poi-images/czechrepublic-hruby-jesenik-relief-v2.webp"
   },
   {
     id: "czechrepublic-krkonose-relief-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Riesengebirge", hu: "Óriás-hegység", ro: "Muntii Karkonosze", en: "Giant Mountains",
 image: "/poi-images/czechrepublic-krkonose-relief-v2.webp"
@@ -738,6 +759,7 @@ image: "/poi-images/czechrepublic-krkonose-relief-v2.webp"
   },
   {
     id: "czechrepublic-ceske-stredohori-relief-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Böhmisches Mittelgebirge", hu: "Cseh-középhegység", ro: "Munții Centrali Boemi", en: "Central Bohemian Uplands",
 image: "/poi-images/czechrepublic-ceske-stredohori-relief-v2.webp"
@@ -772,6 +794,7 @@ image: "/poi-images/czechrepublic-ceske-stredohori-relief-v2.webp"
   },
   {
     id: "czechrepublic-polabi-relief-v2",
+    parent: "CZ",
     type: "valley",
     name: { de: "Elbeniederung", hu: "Polabí", ro: "Câmpia Elbei", en: "Elbe Lowlands",
 image: "/poi-images/czechrepublic-polabi-relief-v2.webp"
@@ -808,6 +831,7 @@ image: "/poi-images/czechrepublic-polabi-relief-v2.webp"
 ,
   {
     id: "czechrepublic-mount-klet-relief-v2",
+    parent: "CZ",
     type: "peak",
     name: { de: "Kleť", hu: "Kleť-hegy", ro: "Muntele Kleť", en: "Mount Kleť",
 image: "/poi-images/czechrepublic-mount-klet-relief-v2.webp"
@@ -841,6 +865,7 @@ image: "/poi-images/czechrepublic-mount-klet-relief-v2.webp"
   },
   {
     id: "czechrepublic-upper-palatine-forest-relief-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Oberpfälzer Wald", hu: "Cseh-erdő", ro: "Pădurea Boemiei Superioare", en: "Upper Palatine Forest",
 image: "/poi-images/czechrepublic-upper-palatine-forest-relief-v2.webp"
@@ -875,6 +900,7 @@ image: "/poi-images/czechrepublic-upper-palatine-forest-relief-v2.webp"
   },
   {
     id: "czechrepublic-iron-mountains-relief-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Eisengebirge", hu: "Vas-hegység", ro: "Munții Železné", en: "Iron Mountains",
 image: "/poi-images/czechrepublic-iron-mountains-relief-v2.webp"
@@ -909,6 +935,7 @@ image: "/poi-images/czechrepublic-iron-mountains-relief-v2.webp"
   },
   {
     id: "czechrepublic-chriby-mountains-relief-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Marsgebirge", hu: "Chřiby-hegység", ro: "Munții Chřiby", en: "Chřiby Mountains",
 image: "/poi-images/czechrepublic-chriby-mountains-relief-v2.webp"
@@ -943,6 +970,7 @@ image: "/poi-images/czechrepublic-chriby-mountains-relief-v2.webp"
   },
   {
     id: "czechrepublic-hostyn-hills-relief-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Hosteiner Berge", hu: "Hostýni-hegyek", ro: "Munții Hostýn", en: "Hostýn Hills",
 image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
@@ -977,6 +1005,7 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
 ,
   {
     id: "czechrepublic-moravian-gate-relief-v2",
+    parent: "CZ",
     type: "valley",
     name: { de: "Mährische Pforte", hu: "Morva-kapu", ro: "Poarta Moraviei", en: "Moravian Gate" },
     coordinates: { lat: 49.548, lng: 17.734 },
@@ -996,6 +1025,7 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
   },
   {
     id: "czechrepublic-bohemian-moravian-highlands-relief-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Böhmisch-Mährische Höhe", hu: "Cseh–Morva-dombság", ro: "Podișul Boemo-Morav", en: "Bohemian-Moravian Highlands" },
     coordinates: { lat: 49.4, lng: 15.59 },
@@ -1015,6 +1045,7 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
   },
   {
     id: "czechrepublic-broumov-highlands-relief-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Braunauer Bergland", hu: "Broumovi-felföld", ro: "Podișul Broumov", en: "Broumov Highlands" },
     coordinates: { lat: 50.59, lng: 16.29 },
@@ -1034,6 +1065,7 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
   },
   {
     id: "czechrepublic-upper-morava-valley-relief-v2",
+    parent: "CZ",
     type: "valley",
     name: { de: "Obermährische Senke", hu: "Felső-Morva-völgy", ro: "Depresiunea Moravei Superioare", en: "Upper Morava Valley" },
     coordinates: { lat: 49.593, lng: 17.252 },
@@ -1053,6 +1085,7 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
   },
   {
     id: "czechrepublic-trebon-basin-relief-v2",
+    parent: "CZ",
     type: "valley",
     name: { de: "Wittingauer Becken", hu: "Třeboni-medence", ro: "Depresiunea Třeboň", en: "Třeboň Basin" },
     coordinates: { lat: 49.003, lng: 14.77 },
@@ -1072,6 +1105,7 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
   },
   {
     id: "czechrepublic-low-jesenik-relief-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Niederes Gesenke", hu: "Alacsony-Jeseník", ro: "Jeseník de Jos", en: "Low Jeseník" },
     coordinates: { lat: 49.988, lng: 17.464 },

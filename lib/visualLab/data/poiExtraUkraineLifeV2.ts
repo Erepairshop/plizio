@@ -3,6 +3,7 @@ export const ukraineLifeV2: POI[] = [
 
   {
     id: "ukraine-askaniya-nova-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Biosphärenreservat Askanija-Nowa", hu: "Aszkanyija-Nova Bioszféra-rezervátum", ro: "Rezervația Biosferei Askania-Nova", en: "Askaniya-Nova Biosphere Reserve",
 image: "/poi-images/ukraine-askaniya-nova-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Askaniya-Nova steppe with zebras and antelopes",
     image: "/poi-images/ukraine-askaniya-nova-life-v2.webp",
 },  {
     id: "ukraine-carpathian-biosphere-life-v2",
+    parent: "UA",
     type: "forest",
     name: { de: "Biosphärenreservat Karpaten", hu: "Kárpáti Bioszféra-rezervátum", ro: "Rezervația Biosferei Carpați", en: "Carpathian Biosphere Reserve",
 image: "/poi-images/ukraine-carpathian-biosphere-life-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Carpathian Mountains forest and valley of daffodils",
     image: "/poi-images/ukraine-carpathian-biosphere-life-v2.webp",
 },  {
     id: "ukraine-shatsk-national-park-life-v2",
+    parent: "UA",
     type: "lake",
     name: { de: "Nationalpark Schazk", hu: "Sackiji Nemzeti Park", ro: "Parcul Național Șațk", en: "Shatsk National Nature Park",
 image: "/poi-images/ukraine-shatsk-national-park-life-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
     image: "/poi-images/ukraine-shatsk-national-park-life-v2.webp",
 },  {
     id: "ukraine-synevyr-national-park-life-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Nationalpark Synevyr", hu: "Szinevéri Nemzeti Park", ro: "Parcul Național Sinevir", en: "Synevyr National Nature Park",
 image: "/poi-images/ukraine-synevyr-national-park-life-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Synevyr Lake in the Carpathian mountains",
     image: "/poi-images/ukraine-synevyr-national-park-life-v2.webp",
 },  {
     id: "ukraine-oleshky-sands-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Oleschky-Sande", hu: "Oleskivszki-homoksivatag Nemzeti Park", ro: "Parcul Național Nisipurile Oleșki", en: "Oleshky Sands National Nature Park",
 image: "/poi-images/ukraine-oleshky-sands-life-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Oleshky Sands desert dunes in Ukraine",
     image: "/poi-images/ukraine-oleshky-sands-life-v2.webp",
 },  {
     id: "ukraine-dzharylhatsk-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Dzharylhatsch", hu: "Dzsarihalhacs Nemzeti Park", ro: "Parcul Național Jarîlgaci", en: "Dzharylhatsk National Nature Park",
 image: "/poi-images/ukraine-dzharylhatsk-life-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Dzharylhatsk island with lighthouse and wild horses",
     image: "/poi-images/ukraine-dzharylhatsk-life-v2.webp",
 },  {
     id: "ukraine-danube-biosphere-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Biosphärenreservat Donaudelta", hu: "Dunadelta Bioszféra-rezervátum", ro: "Rezervația Biosferei Delta Dunării (Ucraina)", en: "Danube Biosphere Reserve",
 image: "/poi-images/ukraine-danube-biosphere-life-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Danube Delta canals with pelicans in Ukraine",
     image: "/poi-images/ukraine-danube-biosphere-life-v2.webp",
 },  {
     id: "ukraine-tuzly-lagoons-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Tuzly-Lagunen", hu: "Tuzlovszki Limani Nemzeti Park", ro: "Parcul Național Limanele Tuzlei", en: "Tuzly Lagoons National Nature Park",
 image: "/poi-images/ukraine-tuzly-lagoons-life-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Tuzly Lagoons wetlands with birds",
     image: "/poi-images/ukraine-tuzly-lagoons-life-v2.webp",
 },  {
     id: "ukraine-black-sea-biosphere-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Biosphärenreservat Schwarzes Meer", hu: "Fekete-tengeri Bioszféra-rezervátum", ro: "Rezervația Biosferei Mării Negre", en: "Black Sea Biosphere Reserve",
 image: "/poi-images/ukraine-black-sea-biosphere-life-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Black Sea Biosphere Reserve shoreline with birds",
     image: "/poi-images/ukraine-black-sea-biosphere-life-v2.webp",
 },  {
     id: "ukraine-podilski-tovtry-life-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Nationalpark Podilski Towtry", hu: "Podilszki Tovtri Nemzeti Park", ro: "Parcul Național Podilski Tovtri", en: "Podilski Tovtry National Nature Park",
 image: "/poi-images/ukraine-podilski-tovtry-life-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Podilski Tovtry hills and Dniester river canyon",
     image: "/poi-images/ukraine-podilski-tovtry-life-v2.webp",
 },  {
     id: "ukraine-sofiyivka-park-life-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Sophienpark (Sofijiwka)", hu: "Szofijivka park", ro: "Parcul Sofievka", en: "Sofiyivka Park",
 image: "/poi-images/ukraine-sofiyivka-park-life-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Sofiyivka Park lake and classic architecture",
     image: "/poi-images/ukraine-sofiyivka-park-life-v2.webp",
 },  {
     id: "ukraine-kyiv-zoo-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Kiewer Zoo", hu: "Kijevi Állatkert", ro: "Grădina Zoologică din Kiev", en: "Kyiv Zoo",
 image: "/poi-images/ukraine-kyiv-zoo-life-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Kyiv Zoo entrance or animals",
     image: "/poi-images/ukraine-kyiv-zoo-life-v2.webp",
 },  {
     id: "ukraine-gryshko-botanical-life-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Nationaler Botanischer Garten Hryschko", hu: "Grisko Nemzeti Botanikus Kert", ro: "Grădina Botanică Națională Grișko", en: "Gryshko National Botanical Garden",
 image: "/poi-images/ukraine-gryshko-botanical-life-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Gryshko Botanical Garden lilac blooming in Kyiv",
     image: "/poi-images/ukraine-gryshko-botanical-life-v2.webp",
 },  {
     id: "ukraine-mykolaiv-zoo-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Zoo Mykolajiw", hu: "Mikolajivi Állatkert", ro: "Grădina Zoologică din Nikolaev", en: "Mykolaiv Zoo",
 image: "/poi-images/ukraine-mykolaiv-zoo-life-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Mykolaiv Zoo entrance and animal enclosures",
     image: "/poi-images/ukraine-mykolaiv-zoo-life-v2.webp",
 },  {
     id: "ukraine-kharkiv-zoo-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Charkiwer Zoo", hu: "Harkivi Állatkert", ro: "Grădina Zoologică din Harkov", en: "Kharkiv Zoo",
 image: "/poi-images/ukraine-kharkiv-zoo-life-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Kharkiv Zoo modern enclosures",
     image: "/poi-images/ukraine-kharkiv-zoo-life-v2.webp",
 },  {
     id: "ukraine-oleksandriya-dendropark-life-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Dendropark Oleksandrija", hu: "Olekszandrija dendropark", ro: "Dendroparkul Oleksandria", en: "Oleksandriya Dendropark",
 image: "/poi-images/ukraine-oleksandriya-dendropark-life-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Oleksandriya Dendropark bridges and forest",
     image: "/poi-images/ukraine-oleksandriya-dendropark-life-v2.webp",
 },  {
     id: "ukraine-nikitsky-botanical-life-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Botanischer Garten Nikitsky", hu: "Nyikitszkiji Botanikus Kert", ro: "Grădina Botanică Nikitsky", en: "Nikitsky Botanical Garden",
 image: "/poi-images/ukraine-nikitsky-botanical-life-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Nikitsky Botanical Garden palms and flowers",
     image: "/poi-images/ukraine-nikitsky-botanical-life-v2.webp",
 },  {
     id: "ukraine-desniansko-starohutskyi-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Desnjansko-Starohutskyj", hu: "Desznyanszko-Sztarohutszkiji Nemzeti Park", ro: "Parcul Național Desniansko-Starohutski", en: "Desniansko-Starohutskyi National Nature Park",
 image: "/poi-images/ukraine-desniansko-starohutskyi-life-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Desna River floodplains and forest",
     image: "/poi-images/ukraine-desniansko-starohutskyi-life-v2.webp",
 },  {
     id: "ukraine-lower-dniester-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Unterer Dnister", hu: "Alsó-Dnyeszter Nemzeti Park", ro: "Parcul Național Nistrul de Jos", en: "Lower Dniester National Nature Park",
 image: "/poi-images/ukraine-lower-dniester-life-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Dniester Delta wetlands and reeds",
     image: "/poi-images/ukraine-lower-dniester-life-v2.webp",
 },  {
     id: "ukraine-ichnianskyi-life-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Nationalpark Itchnja", hu: "Icsnyanszkiji Nemzeti Park", ro: "Parcul Național Icnea", en: "Ichnianskyi National Nature Park",
 image: "/poi-images/ukraine-ichnianskyi-life-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Ichnianskyi Park forest and river",
     image: "/poi-images/ukraine-ichnianskyi-life-v2.webp",
 },  {
     id: "ukraine-pyriatynskyi-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Pyrjatyn", hu: "Pirjatinszkiji Nemzeti Park", ro: "Parcul Național Pîreatin", en: "Pyriatynskyi National Nature Park",
 image: "/poi-images/ukraine-pyriatynskyi-life-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Udai River floodplains in Pyriatynskyi Park",
     image: "/poi-images/ukraine-pyriatynskyi-life-v2.webp",
 },  {
     id: "ukraine-homilshanski-lisy-life-v2",
+    parent: "UA",
     type: "forest",
     name: { de: "Nationalpark Homilschanski Lisy", hu: "Homilsanszki Liszi Nemzeti Park", ro: "Parcul Național Homilșanski Lisî", en: "Homilshanski Lisy National Nature Park",
 image: "/poi-images/ukraine-homilshanski-lisy-life-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Ancient oak forest in Homilshanski Lisy",
     image: "/poi-images/ukraine-homilshanski-lisy-life-v2.webp",
 },  {
     id: "ukraine-holy-mountains-life-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Nationalpark Heilige Berge", hu: "Szvjati Hori Nemzeti Park", ro: "Parcul Național Munții Sfinți", en: "Holy Mountains National Nature Park",
 image: "/poi-images/ukraine-holy-mountains-life-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Holy Mountains chalk cliffs and monastery",
     image: "/poi-images/ukraine-holy-mountains-life-v2.webp",
 },  {
     id: "ukraine-biloozerskyi-life-v2",
+    parent: "UA",
     type: "forest",
     name: { de: "Nationalpark Biloozerskyj", hu: "Biloozerszkiji Nemzeti Park", ro: "Parcul Național Biloozerski", en: "Biloozerskyi National Nature Park",
 image: "/poi-images/ukraine-biloozerskyi-life-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Biloozerskyi Park pine forest",
     image: "/poi-images/ukraine-biloozerskyi-life-v2.webp",
 },  {
     id: "ukraine-zalissia-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Salissja", hu: "Zalisszja Nemzeti Park", ro: "Parcul Național Zalissia", en: "Zalissia National Nature Park",
 image: "/poi-images/ukraine-zalissia-life-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "European bison in Zalissia forest",
     image: "/poi-images/ukraine-zalissia-life-v2.webp",
 },  {
     id: "ukraine-bugs-guard-life-v2",
+    parent: "UA",
     type: "river",
     name: { de: "Nationalpark Buzkyj Hard", hu: "Buzkij Hard Nemzeti Park", ro: "Parcul Național Buzki Hard", en: "National Nature Park Bug's Guard",
 image: "/poi-images/ukraine-bugs-guard-life-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Southern Bug river canyon and granite rocks",
     image: "/poi-images/ukraine-bugs-guard-life-v2.webp",
 },  {
     id: "ukraine-skolivski-beskydy-life-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Nationalpark Skoler Beskiden", hu: "Szkolei-Beszkidek Nemzeti Park", ro: "Parcul Național Beskizii Skolei", en: "Skolivski Beskydy National Nature Park",
 image: "/poi-images/ukraine-skolivski-beskydy-life-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Skolivski Beskydy waterfall and mountains",
     image: "/poi-images/ukraine-skolivski-beskydy-life-v2.webp",
 },  {
     id: "ukraine-azov-syvash-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Asow-Sywasch", hu: "Azovi-Szivas Nemzeti Park", ro: "Parcul Național Azov-Sivaș", en: "Azov-Syvash National Nature Park",
 image: "/poi-images/ukraine-azov-syvash-life-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Azov-Syvash coastal landscape with deer",
     image: "/poi-images/ukraine-azov-syvash-life-v2.webp",
 },  {
     id: "ukraine-meotida-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Meotida", hu: "Meotida Nemzeti Park", ro: "Parcul Național Meotida", en: "Meotida National Nature Park",
 image: "/poi-images/ukraine-meotida-life-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Meotida sandbars and seagulls",
     image: "/poi-images/ukraine-meotida-life-v2.webp",
 },  {
     id: "ukraine-pripyat-stokhid-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Nationalpark Prypjat-Stochid", hu: "Pripjaty-Sztohid Nemzeti Park", ro: "Parcul Național Pripeat-Stohid", en: "Pripyat-Stokhid National Nature Park",
 image: "/poi-images/ukraine-pripyat-stokhid-life-v2.webp"
@@ -1023,6 +1053,7 @@ imageHint: "Pripyat River wetlands and marshes",
     image: "/poi-images/ukraine-pripyat-stokhid-life-v2.webp",
 },  {
     id: "ukraine-podesinnia-life-v2",
+    parent: "UA",
     type: "wildlife",
     name: { de: "Landschaftspark Podesinnja", hu: "Podeszinnya tájképi park", ro: "Parcul Peisagistic Podesinnia", en: "Podesinnia Regional Landscape Park",
 image: "/poi-images/ukraine-podesinnia-life-v2.webp"

@@ -3,6 +3,7 @@ export const vaticanEconomicV2: POI[] = [
 
   {
     id: "vatican-philatelic-numismatic-office-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Amt für Philatelie und Numismatik", hu: "Bélyeg- és Érmehivatal", ro: "Biroul Filatelic și Numismatic", en: "Philatelic and Numismatic Office",
 image: "/poi-images/vatican-philatelic-numismatic-office-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Vatican coins and stamps display",
     image: "/poi-images/vatican-philatelic-numismatic-office-economic-v2.webp",
 },  {
     id: "vatican-supermarket-annona-economic-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Vatikan-Supermarkt (Annona)", hu: "Vatikáni Szupermarket (Annona)", ro: "Supermarketul Vatican (Annona)", en: "Vatican Supermarket (Annona)",
 image: "/poi-images/vatican-supermarket-annona-economic-v2.webp"
@@ -71,6 +73,7 @@ image: "/poi-images/vatican-supermarket-annona-economic-v2.webp"
   },
   {
     id: "vatican-printing-press-economic-v2",
+    parent: "VA",
     type: "factory",
     name: { de: "Vatikanische Druckerei", hu: "Vatikáni Nyomda", ro: "Tipografia Vaticană", en: "Vatican Printing Press",
 image: "/poi-images/vatican-printing-press-economic-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Vatican printing press machinery",
     image: "/poi-images/vatican-printing-press-economic-v2.webp",
 },  {
     id: "vatican-publishing-house-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Vatikanischer Buchverlag (LEV)", hu: "Vatikáni Könyvkiadó (LEV)", ro: "Editura Vaticană (LEV)", en: "Vatican Publishing House (LEV)",
 image: "/poi-images/vatican-publishing-house-economic-v2.webp"
@@ -139,6 +143,7 @@ image: "/poi-images/vatican-publishing-house-economic-v2.webp"
   },
   {
     id: "vatican-paul-vi-hall-solar-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Solaranlage der Aula Paolo VI", hu: "VI. Pál terem napelemei", ro: "Panourile solare de pe Aula Paul al VI-lea", en: "Paul VI Hall Solar Panels",
 image: "/poi-images/vatican-paul-vi-hall-solar-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Paul VI Hall solar panels roof view",
     image: "/poi-images/vatican-paul-vi-hall-solar-economic-v2.webp",
 },  {
     id: "vatican-post-office-main-economic-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Vatikanische Post (Hauptsitz)", hu: "Vatikáni Posta (Főépület)", ro: "Poșta Vaticană (Sediu Central)", en: "Vatican Post Office (Main)",
 image: "/poi-images/vatican-post-office-main-economic-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Vatican Post Office yellow mailbox",
     image: "/poi-images/vatican-post-office-main-economic-v2.webp",
 },  {
     id: "vatican-gas-station-economic-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Vatikanische Tankstelle", hu: "Vatikáni Benzinkút", ro: "Benzinăria Vatican", en: "Vatican Gas Station",
 image: "/poi-images/vatican-gas-station-economic-v2.webp"
@@ -241,6 +248,7 @@ image: "/poi-images/vatican-gas-station-economic-v2.webp"
   },
   {
     id: "vatican-apsa-headquarters-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Verwaltung des Erbes des Apostolischen Stuhls (APSA)", hu: "Az Apostoli Szék Vagyonkezelősége (APSA)", ro: "Administrarea Patrimoniului Scaunului Apostolic (APSA)", en: "Administration of the Patrimony of the Apostolic See (APSA)",
 image: "/poi-images/vatican-apsa-headquarters-economic-v2.webp"
@@ -275,6 +283,7 @@ image: "/poi-images/vatican-apsa-headquarters-economic-v2.webp"
   },
   {
     id: "vatican-museum-ticket-office-economic-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Kasse der Vatikanischen Museen", hu: "Vatikáni Múzeumok jegypénztára", ro: "Casieria Muzeelor Vaticane", en: "Vatican Museums Ticket Office",
 image: "/poi-images/vatican-museum-ticket-office-economic-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Vatican Museums entrance queue",
     image: "/poi-images/vatican-museum-ticket-office-economic-v2.webp",
 },  {
     id: "vatican-mosaic-studio-economic-v2",
+    parent: "VA",
     type: "factory",
     name: { de: "Vatikanisches Mosaikstudio", hu: "Vatikáni Mozaikstúdió", ro: "Studioul de Mozaic al Vaticanului", en: "Vatican Mosaic Studio",
 image: "/poi-images/vatican-mosaic-studio-economic-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Vatican Mosaic Studio workshop",
     image: "/poi-images/vatican-mosaic-studio-economic-v2.webp",
 },  {
     id: "vatican-central-heating-plant-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Zentrale Heizanlage", hu: "Központi Fűtőmű", ro: "Centrala Termică Centrală", en: "Central Heating Plant",
 image: "/poi-images/vatican-central-heating-plant-economic-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Vatican central heating industrial pipes",
     image: "/poi-images/vatican-central-heating-plant-economic-v2.webp",
 },  {
     id: "vatican-governorate-palace-admin-economic-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "Palast des Governatorats", hu: "Kormányzói Palota", ro: "Palatul Guvernatoratului", en: "Governorate Palace",
 image: "/poi-images/vatican-governorate-palace-admin-economic-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Vatican Governorate Palace facade",
     image: "/poi-images/vatican-governorate-palace-admin-economic-v2.webp",
 },  {
     id: "vatican-mint-building-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Vatikanische Münze (Palazzo della Zecca)", hu: "Vatikáni Pénzverde", ro: "Monetăria Vaticanului", en: "Vatican Mint (Palazzo della Zecca)",
 image: "/poi-images/vatican-mint-building-economic-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Palazzo della Zecca Vatican exterior",
     image: "/poi-images/vatican-mint-building-economic-v2.webp",
 },  {
     id: "vatican-garage-autoparco-economic-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Zentralgarage (Autoparco)", hu: "Központi Autópark (Autoparco)", ro: "Garajul Central (Autoparco)", en: "Central Garage (Autoparco)",
 image: "/poi-images/vatican-garage-autoparco-economic-v2.webp"
@@ -479,6 +493,7 @@ image: "/poi-images/vatican-garage-autoparco-economic-v2.webp"
   },
   {
     id: "vatican-osserrvatore-romano-office-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Redaktion L'Osservatore Romano", hu: "L'Osservatore Romano szerkesztősége", ro: "Redacția L'Osservatore Romano", en: "L'Osservatore Romano Editorial Office",
 image: "/poi-images/vatican-osserrvatore-romano-office-economic-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "L'Osservatore Romano newspaper office",
     image: "/poi-images/vatican-osserrvatore-romano-office-economic-v2.webp",
 },  {
     id: "vatican-radio-management-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Vatikan Radio (Verwaltung)", hu: "Vatikáni Rádió (Központ)", ro: "Radio Vatican (Administrație)", en: "Vatican Radio (Management)",
 image: "/poi-images/vatican-radio-management-economic-v2.webp"
@@ -547,6 +563,7 @@ image: "/poi-images/vatican-radio-management-economic-v2.webp"
   },
   {
     id: "vatican-museum-bookstore-economic-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Hauptbuchhandlung der Museen", hu: "Múzeumi Főkönyvesbolt", ro: "Librăria Principală a Muzeelor", en: "Museum Main Bookstore",
 image: "/poi-images/vatican-museum-bookstore-economic-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Vatican Museums bookstore interior",
     image: "/poi-images/vatican-museum-bookstore-economic-v2.webp",
 },  {
     id: "vatican-floreria-apostolica-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Floreria Apostolica (Möbelmagazin)", hu: "Floreria Apostolica (Logisztika)", ro: "Floreria Apostolica (Logistică)", en: "Floreria Apostolica (Logistics)",
 image: "/poi-images/vatican-floreria-apostolica-economic-v2.webp"
@@ -615,6 +633,7 @@ image: "/poi-images/vatican-floreria-apostolica-economic-v2.webp"
   },
   {
     id: "vatican-st-peters-dome-shop-economic-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Souvenirshop der Kuppel", hu: "Kupolabolt", ro: "Magazinul Cupolei", en: "St. Peter's Dome Gift Shop",
 image: "/poi-images/vatican-st-peters-dome-shop-economic-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "St Peter's Basilica roof gift shop",
     image: "/poi-images/vatican-st-peters-dome-shop-economic-v2.webp",
 },  {
     id: "vatican-library-bookshop-economic-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Shop der Vatikanischen Bibliothek", hu: "Vatikáni Könyvtár boltja", ro: "Magazinul Bibliotecii Vaticane", en: "Vatican Library Bookshop",
 image: "/poi-images/vatican-library-bookshop-economic-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Vatican Library shop display",
     image: "/poi-images/vatican-library-bookshop-economic-v2.webp",
 },  {
     id: "vatican-telephone-service-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Vatikanischer Telefonservice", hu: "Vatikáni Telefonszolgálat", ro: "Serviciul Telefonic Vatican", en: "Vatican Telephone Service",
 image: "/poi-images/vatican-telephone-service-economic-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Vatican telephone service cards",
     image: "/poi-images/vatican-telephone-service-economic-v2.webp",
 },  {
     id: "vatican-secretariat-for-economy-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Sekretariat für die Wirtschaft", hu: "Gazdasági Titkárság", ro: "Secretariatul pentru Economie", en: "Secretariat for the Economy",
 image: "/poi-images/vatican-secretariat-for-economy-economic-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Tower of John XXIII Vatican",
     image: "/poi-images/vatican-secretariat-for-economy-economic-v2.webp",
 },  {
     id: "vatican-clothing-service-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Vatikanischer Bekleidungsservice", hu: "Vatikáni Ruházati Szolgálat", ro: "Serviciul de Îmbrăcăminte al Vaticanului", en: "Vatican Clothing Service",
 image: "/poi-images/vatican-clothing-service-economic-v2.webp"
@@ -785,6 +808,7 @@ image: "/poi-images/vatican-clothing-service-economic-v2.webp"
   },
   {
     id: "vatican-caritas-office-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Caritas Internationalis (Zentrale)", hu: "Caritas Internationalis Központ", ro: "Caritas Internationalis (Sediu)", en: "Caritas Internationalis (Headquarters)",
 image: "/poi-images/vatican-caritas-office-economic-v2.webp"
@@ -819,6 +843,7 @@ image: "/poi-images/vatican-caritas-office-economic-v2.webp"
   },
   {
     id: "vatican-gendarmerie-logistics-economic-v2",
+    parent: "VA",
     type: "industry",
     name: { de: "Logistikzentrum der Gendarmerie", hu: "Csendőrségi Logisztikai Központ", ro: "Centrul Logistic al Jandarmeriei", en: "Gendarmerie Logistics Center",
 image: "/poi-images/vatican-gendarmerie-logistics-economic-v2.webp"
@@ -853,6 +878,7 @@ image: "/poi-images/vatican-gendarmerie-logistics-economic-v2.webp"
   },
   {
     id: "vatican-academy-social-sciences-economic-v2",
+    parent: "VA",
     type: "university",
     name: { de: "Päpstliche Akademie der Sozialwissenschaften", hu: "Pápai Társadalomtudományi Akadémia", ro: "Academia Pontificală de Științe Sociale", en: "Pontifical Academy of Social Sciences",
 image: "/poi-images/vatican-academy-social-sciences-economic-v2.webp"

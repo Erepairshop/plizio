@@ -3,6 +3,7 @@ export const croatiaReliefV2: POI[] = [
 
   {
     id: "croatia-biokovo-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Biokovo", hu: "Biokovo-hegység", ro: "Munții Biokovo", en: "Biokovo",
 image: "/poi-images/croatia-biokovo-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Biokovo mountain range above Makarska",
     image: "/poi-images/croatia-biokovo-relief-v2.webp",
 },  {
     id: "croatia-risnjak-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Risnjak", hu: "Risnjak-hegység", ro: "Munții Risnjak", en: "Risnjak",
 image: "/poi-images/croatia-risnjak-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Veliki Risnjak mountain peak",
     image: "/poi-images/croatia-risnjak-relief-v2.webp",
 },  {
     id: "croatia-ucka-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Učka", hu: "Učka-hegység", ro: "Munții Učka", en: "Učka",
 image: "/poi-images/croatia-ucka-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Ucka mountain tower Vojak",
     image: "/poi-images/croatia-ucka-relief-v2.webp",
 },  {
     id: "croatia-papuk-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Papuk", hu: "Papuk-hegység", ro: "Munții Papuk", en: "Papuk",
 image: "/poi-images/croatia-papuk-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Papuk Nature Park forest landscape",
     image: "/poi-images/croatia-papuk-relief-v2.webp",
 },  {
     id: "croatia-svilaja-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Svilaja", hu: "Svilaja-hegység", ro: "Munții Svilaja", en: "Svilaja",
 image: "/poi-images/croatia-svilaja-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Svilaja mountain range dalmatia",
     image: "/poi-images/croatia-svilaja-relief-v2.webp",
 },  {
     id: "croatia-gorski-kotar-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Gorski Kotar", hu: "Gorski kotar", ro: "Gorski Kotar", en: "Gorski Kotar",
 image: "/poi-images/croatia-gorski-kotar-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Gorski Kotar landscape forest and mountains",
     image: "/poi-images/croatia-gorski-kotar-relief-v2.webp",
 },  {
     id: "croatia-lika-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Lika-Hochebene", hu: "Lika-fennsík", ro: "Podișul Lika", en: "Lika Plateau",
 image: "/poi-images/croatia-lika-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Lika plateau landscape Croatia",
     image: "/poi-images/croatia-lika-relief-v2.webp",
 },  {
     id: "croatia-moslavacka-gora-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Moslavačka gora", hu: "Monoszlói-hegység", ro: "Munții Moslavačka", en: "Moslavačka gora",
 image: "/poi-images/croatia-moslavacka-gora-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Moslavacka gora forest hills",
     image: "/poi-images/croatia-moslavacka-gora-relief-v2.webp",
 },  {
     id: "croatia-ivanscica-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Ivanščica", hu: "Ivánscica-hegység", ro: "Munții Ivanščica", en: "Ivanščica",
 image: "/poi-images/croatia-ivanscica-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Ivanscica mountain peak northern Croatia",
     image: "/poi-images/croatia-ivanscica-relief-v2.webp",
 },  {
     id: "croatia-snjeznik-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Snježnik", hu: "Snježnik-hegység", ro: "Masivul Snježnik", en: "Snježnik",
 image: "/poi-images/croatia-snjeznik-relief-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Snjeznik mountain peak rocky terrain",
     image: "/poi-images/croatia-snjeznik-relief-v2.webp",
 },  {
     id: "croatia-vaganski-vrh-relief-v2",
+    parent: "HR",
     type: "peak",
     name: { de: "Vaganski vrh", hu: "Vaganski-csúcs", ro: "Vârful Vaganski", en: "Vaganski vrh",
 image: "/poi-images/croatia-vaganski-vrh-relief-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Vaganski vrh peak Velebit mountain",
     image: "/poi-images/croatia-vaganski-vrh-relief-v2.webp",
 },  {
     id: "croatia-sveti-jure-relief-v2",
+    parent: "HR",
     type: "peak",
     name: { de: "Sveti Jure", hu: "Szent György-csúcs", ro: "Vârful Sveti Jure", en: "Sveti Jure",
 image: "/poi-images/croatia-sveti-jure-relief-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Sveti Jure peak Biokovo antenna",
     image: "/poi-images/croatia-sveti-jure-relief-v2.webp",
 },  {
     id: "croatia-velika-kapela-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Velika Kapela", hu: "Nagy-Kapela", ro: "Munții Velika Kapela", en: "Velika Kapela",
 image: "/poi-images/croatia-velika-kapela-relief-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Velika Kapela mountain landscape",
     image: "/poi-images/croatia-velika-kapela-relief-v2.webp",
 },  {
     id: "croatia-mala-kapela-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Mala Kapela", hu: "Kis-Kapela", ro: "Munții Mala Kapela", en: "Mala Kapela",
 image: "/poi-images/croatia-mala-kapela-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Mala Kapela mountains forest view",
     image: "/poi-images/croatia-mala-kapela-relief-v2.webp",
 },  {
     id: "croatia-pljesivica-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Plješivica", hu: "Plješivica-hegység", ro: "Munții Plješivica", en: "Plješivica",
 image: "/poi-images/croatia-pljesivica-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Pljesivica mountain ridge Croatia",
     image: "/poi-images/croatia-pljesivica-relief-v2.webp",
 },  {
     id: "croatia-samoborsko-gorje-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Samoborsko gorje", hu: "Szamobori-hegység", ro: "Munții Samobor", en: "Samobor Hills",
 image: "/poi-images/croatia-samoborsko-gorje-relief-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Samoborsko gorje hills landscape",
     image: "/poi-images/croatia-samoborsko-gorje-relief-v2.webp",
 },  {
     id: "croatia-zumberak-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Žumberak", hu: "Zumberaki-hegység", ro: "Munții Žumberak", en: "Žumberak",
 image: "/poi-images/croatia-zumberak-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Zumberak mountain range border",
     image: "/poi-images/croatia-zumberak-relief-v2.webp",
 },  {
     id: "croatia-kalnik-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Kalnik", hu: "Kalnik-hegység", ro: "Munții Kalnik", en: "Kalnik",
 image: "/poi-images/croatia-kalnik-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Kalnik mountain rocks and castle",
     image: "/poi-images/croatia-kalnik-relief-v2.webp",
 },  {
     id: "croatia-psunj-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Psunj", hu: "Psunj-hegység", ro: "Munții Psunj", en: "Psunj",
 image: "/poi-images/croatia-psunj-relief-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Psunj mountain peak Slavonia",
     image: "/poi-images/croatia-psunj-relief-v2.webp",
 },  {
     id: "croatia-krndija-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Krndija", hu: "Krndija-hegység", ro: "Munții Krndija", en: "Krndija",
 image: "/poi-images/croatia-krndija-relief-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Krndija mountain hills Slavonia",
     image: "/poi-images/croatia-krndija-relief-v2.webp",
 },  {
     id: "croatia-pozeska-gora-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Požeška gora", hu: "Pozsegai-hegység", ro: "Munții Požega", en: "Požeška gora",
 image: "/poi-images/croatia-pozeska-gora-relief-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Pozeska gora vineyards and hills",
     image: "/poi-images/croatia-pozeska-gora-relief-v2.webp",
 },  {
     id: "croatia-bilogora-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Bilogora", hu: "Bilogora-hegység", ro: "Colinele Bilogora", en: "Bilogora",
 image: "/poi-images/croatia-bilogora-relief-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Bilogora hills landscape",
     image: "/poi-images/croatia-bilogora-relief-v2.webp",
 },  {
     id: "croatia-petrova-gora-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Petrova gora", hu: "Petrova gora", ro: "Munții Petrova", en: "Petrova gora",
 image: "/poi-images/croatia-petrova-gora-relief-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Petrova gora mountain monument",
     image: "/poi-images/croatia-petrova-gora-relief-v2.webp",
 },  {
     id: "croatia-cicarija-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Ćićarija", hu: "Ćićarija-hegység", ro: "Munții Ćićarija", en: "Ćićarija",
 image: "/poi-images/croatia-cicarija-relief-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Cicarija mountain landscape Istria",
     image: "/poi-images/croatia-cicarija-relief-v2.webp",
 },  {
     id: "croatia-tulove-grede-relief-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Tulove Grede", hu: "Tulove Grede", ro: "Tulove Grede", en: "Tulove Grede",
 image: "/poi-images/croatia-tulove-grede-relief-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
     image: "/poi-images/croatia-tulove-grede-relief-v2.webp",
 },  {
     id: "croatia-ravna-gora-relief-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Ravna Gora", hu: "Ravna gora", ro: "Muntele Ravna Gora", en: "Ravna gora",
 image: "/poi-images/croatia-ravna-gora-relief-v2.webp"

@@ -3,6 +3,7 @@ export const albaniaNatureV2: POI[] = [
 
   {
     id: "albania-shkodra-lake-nature-v2",
+    parent: "AL",
     type: "lake",
     name: { de: "Skutarisee", hu: "Shkodrai-tó", ro: "Lacul Shkodra", en: "Lake Shkodra",
 image: "/poi-images/albania-shkodra-lake-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Lake Shkodra panorama with mountains and water lilies",
     image: "/poi-images/albania-shkodra-lake-nature-v2.webp",
 },  {
     id: "albania-vjosa-river-nature-v2",
+    parent: "AL",
     type: "river",
     name: { de: "Vjosa", hu: "Vjosa-folyó", ro: "Râul Vjosa", en: "Vjosa River",
 image: "/poi-images/albania-vjosa-river-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Wide wild river Vjosa flowing through a valley",
     image: "/poi-images/albania-vjosa-river-nature-v2.webp",
 },  {
     id: "albania-theth-valley-nature-v2",
+    parent: "AL",
     type: "valley",
     name: { de: "Theth-Tal", hu: "Theth-völgy", ro: "Valea Theth", en: "Theth Valley",
 image: "/poi-images/albania-theth-valley-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Green valley Theth surrounded by grey jagged peaks",
     image: "/poi-images/albania-theth-valley-nature-v2.webp",
 },  {
     id: "albania-blue-eye-nature-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Syri i Kaltër", hu: "Syri i Kaltër (Kék Szem)", ro: "Ochiul Albastru", en: "Blue Eye Spring",
 image: "/poi-images/albania-blue-eye-nature-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Deep blue water spring Syri i Kalter in the forest",
     image: "/poi-images/albania-blue-eye-nature-v2.webp",
 },  {
     id: "albania-karaburun-peninsula-nature-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Karaburun-Halbinsel", hu: "Karaburun-félsziget", ro: "Peninsula Karaburun", en: "Karaburun Peninsula",
 image: "/poi-images/albania-karaburun-peninsula-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Rugged coast of Karaburun Peninsula with blue sea",
     image: "/poi-images/albania-karaburun-peninsula-nature-v2.webp",
 },  {
     id: "albania-sazan-island-nature-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Insel Sazan", hu: "Sazan-sziget", ro: "Insula Sazan", en: "Sazan Island",
 image: "/poi-images/albania-sazan-island-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Aerial view of Sazan Island with rocky cliffs",
     image: "/poi-images/albania-sazan-island-nature-v2.webp",
 },  {
     id: "albania-tomorr-mountain-nature-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Berg Tomorr", hu: "Tomorr-hegy", ro: "Muntele Tomorr", en: "Mount Tomorr",
 image: "/poi-images/albania-tomorr-mountain-nature-v2.webp"
@@ -240,6 +247,7 @@ imageHint: "Snowy peak of Mount Tomorr above the clouds",
     },
   },  {
     id: "albania-ksamil-islands-nature-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Ksamil-Inseln", hu: "Ksamil-szigetek", ro: "Insulele Ksamil", en: "Ksamil Islands",
 image: "/poi-images/albania-ksamil-islands-nature-v2.webp"
@@ -274,6 +282,7 @@ imageHint: "Small green islands Ksamil surrounded by turquoise sea",
     image: "/poi-images/albania-ksamil-islands-nature-v2.webp",
 },  {
     id: "albania-karavasta-lagoon-nature-v2",
+    parent: "AL",
     type: "lake",
     name: { de: "Lagune von Karavasta", hu: "Karavasta-lagúna", ro: "Laguna Karavasta", en: "Karavasta Lagoon",
 image: "/poi-images/albania-karavasta-lagoon-nature-v2.webp"
@@ -308,6 +317,7 @@ imageHint: "Karavasta lagoon with dalmatian pelicans and pins",
     image: "/poi-images/albania-karavasta-lagoon-nature-v2.webp",
 },  {
     id: "albania-bovilla-lake-nature-v2",
+    parent: "AL",
     type: "lake",
     name: { de: "Bovilla-See", hu: "Bovilla-tó", ro: "Lacul Bovilla", en: "Bovilla Lake",
 image: "/poi-images/albania-bovilla-lake-nature-v2.webp"
@@ -342,6 +352,7 @@ imageHint: "Bovilla lake surrounded by steep limestone cliffs",
     image: "/poi-images/albania-bovilla-lake-nature-v2.webp",
 },  {
     id: "albania-koman-lake-nature-v2",
+    parent: "AL",
     type: "lake",
     name: { de: "Koman-See", hu: "Koman-tó", ro: "Lacul Koman", en: "Lake Koman",
 image: "/poi-images/albania-koman-lake-nature-v2.webp"
@@ -376,6 +387,7 @@ imageHint: "Lake Koman ferry passing through steep narrow gorge",
     image: "/poi-images/albania-koman-lake-nature-v2.webp",
 },  {
     id: "albania-jezerca-mountain-nature-v2",
+    parent: "AL",
     type: "peak",
     name: { de: "Maja e Jezercës", hu: "Jezerca-hegy", ro: "Muntele Jezerca", en: "Mount Jezerca",
 image: "/poi-images/albania-jezerca-mountain-nature-v2.webp"
@@ -410,6 +422,7 @@ imageHint: "Jagged grey peak of Mount Jezerca with snow patches",
     image: "/poi-images/albania-jezerca-mountain-nature-v2.webp",
 },  {
     id: "albania-butrint-lake-nature-v2",
+    parent: "AL",
     type: "lake",
     name: { de: "Butrint-See", hu: "Butrint-tó", ro: "Lacul Butrint", en: "Lake Butrint",
 image: "/poi-images/albania-butrint-lake-nature-v2.webp"
@@ -444,6 +457,7 @@ imageHint: "Mussel farms in Lake Butrint at sunset",
     image: "/poi-images/albania-butrint-lake-nature-v2.webp",
 },  {
     id: "albania-shkopet-lake-nature-v2",
+    parent: "AL",
     type: "lake",
     name: { de: "Shkopet-See", hu: "Shkopet-tó", ro: "Lacul Shkopet", en: "Shkopet Lake",
 image: "/poi-images/albania-shkopet-lake-nature-v2.webp"
@@ -478,6 +492,7 @@ imageHint: "Narrow Lake Shkopet with wooden suspension bridge",
     image: "/poi-images/albania-shkopet-lake-nature-v2.webp",
 },  {
     id: "albania-grunas-waterfall-nature-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Grunas-Wasserfall", hu: "Grunas-vízesés", ro: "Cascada Grunas", en: "Grunas Waterfall",
 image: "/poi-images/albania-grunas-waterfall-nature-v2.webp"
@@ -512,6 +527,7 @@ imageHint: "Tall Grunas waterfall splashing into a rock pool",
     image: "/poi-images/albania-grunas-waterfall-nature-v2.webp",
 },  {
     id: "albania-shengjergji-waterfall-nature-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Shëngjergji-Wasserfall", hu: "Shëngjergji-vízesés", ro: "Cascada Shëngjergji", en: "Shëngjergji Waterfall",
 image: "/poi-images/albania-shengjergji-waterfall-nature-v2.webp"
@@ -546,6 +562,7 @@ imageHint: "Shëngjergji waterfall in a lush green forest",
     image: "/poi-images/albania-shengjergji-waterfall-nature-v2.webp",
 },  {
     id: "albania-sotira-waterfall-nature-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Sotira-Wasserfall", hu: "Sotira-vízesés", ro: "Cascada Sotira", en: "Sotira Waterfall",
 image: "/poi-images/albania-sotira-waterfall-nature-v2.webp"
@@ -580,6 +597,7 @@ imageHint: "Multiple white cascades of Sotira Waterfall on a cliff",
     image: "/poi-images/albania-sotira-waterfall-nature-v2.webp",
 },  {
     id: "albania-gjipe-canyon-nature-v2",
+    parent: "AL",
     type: "valley",
     name: { de: "Gjipe-Schlucht", hu: "Gjipe-kanyon", ro: "Canionul Gjipe", en: "Gjipe Canyon",
 image: "/poi-images/albania-gjipe-canyon-nature-v2.webp"
@@ -614,6 +632,7 @@ imageHint: "Narrow canyon Gjipe opening to a small beach",
     image: "/poi-images/albania-gjipe-canyon-nature-v2.webp",
 },  {
     id: "albania-buna-river-nature-v2",
+    parent: "AL",
     type: "river",
     name: { de: "Buna", hu: "Buna-folyó", ro: "Râul Buna", en: "Buna River",
 image: "/poi-images/albania-buna-river-nature-v2.webp"
@@ -648,6 +667,7 @@ imageHint: "Buna River flowing through a flat green landscape",
     image: "/poi-images/albania-buna-river-nature-v2.webp",
 },  {
     id: "albania-drin-river-nature-v2",
+    parent: "AL",
     type: "river",
     name: { de: "Drin", hu: "Drin-folyó", ro: "Râul Drin", en: "Drin River",
 image: "/poi-images/albania-drin-river-nature-v2.webp"
@@ -682,6 +702,7 @@ imageHint: "Wide Drin River winding through Albanian mountains",
     image: "/poi-images/albania-drin-river-nature-v2.webp",
 },  {
     id: "albania-shkumbin-river-nature-v2",
+    parent: "AL",
     type: "river",
     name: { de: "Shkumbin", hu: "Shkumbin-folyó", ro: "Râul Shkumbin", en: "Shkumbin River",
 image: "/poi-images/albania-shkumbin-river-nature-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Shkumbin River valley with ancient stone bridge",
 },
   {
     id: "albania-langarica-canyon-nature-v2",
+    parent: "AL",
     type: "valley",
     name: { de: "Langarica-Schlucht", hu: "Langarica-kanyon", ro: "Canionul Langarica", en: "Langarica Canyon",
 image: "/poi-images/albania-langarica-canyon-nature-v2.webp"
@@ -750,6 +772,7 @@ image: "/poi-images/albania-langarica-canyon-nature-v2.webp"
   },
   {
     id: "albania-bogove-waterfall-nature-v2",
+    parent: "AL",
     type: "river",
     name: { de: "Bogovë-Wasserfall", hu: "Bogovë-vízesés", ro: "Cascada Bogovë", en: "Bogovë Waterfall",
 image: "/poi-images/albania-bogove-waterfall-nature-v2.webp"
@@ -783,6 +806,7 @@ imageHint: "Bogove waterfall falling into turquoise pool",
     image: "/poi-images/albania-bogove-waterfall-nature-v2.webp",
 },  {
     id: "albania-holta-canyon-nature-v2",
+    parent: "AL",
     type: "valley",
     name: { de: "Holta-Kanyon", hu: "Holta-kanyon", ro: "Canionul Holta", en: "Holta Canyon",
 image: "/poi-images/albania-holta-canyon-nature-v2.webp"
@@ -816,6 +840,7 @@ imageHint: "Holta Canyon with high limestone cliffs",
     image: "/poi-images/albania-holta-canyon-nature-v2.webp",
 },  {
     id: "albania-pellumbas-cave-nature-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Pëllumbas-Höhle", hu: "Pëllumbas-barlang", ro: "Peștera Pëllumbas", en: "Pëllumbas Cave",
 image: "/poi-images/albania-pellumbas-cave-nature-v2.webp"
@@ -849,6 +874,7 @@ imageHint: "Entrance to Pellumbas Cave near Tirana",
     image: "/poi-images/albania-pellumbas-cave-nature-v2.webp",
 },  {
     id: "albania-mat-river-nature-v2",
+    parent: "AL",
     type: "river",
     name: { de: "Mat-Fluss", hu: "Mat-folyó", ro: "Râul Mat", en: "Mat River",
 image: "/poi-images/albania-mat-river-nature-v2.webp"
@@ -882,6 +908,7 @@ imageHint: "Mat River flowing through mountain canyon",
     image: "/poi-images/albania-mat-river-nature-v2.webp",
 },  {
     id: "albania-grama-bay-nature-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Grama-Bucht", hu: "Grama-öböl", ro: "Golful Grama", en: "Grama Bay",
 image: "/poi-images/albania-grama-bay-nature-v2.webp"
@@ -915,6 +942,7 @@ imageHint: "Grama Bay with ancient inscriptions on rocks",
     image: "/poi-images/albania-grama-bay-nature-v2.webp",
 },  {
     id: "albania-seman-river-nature-v2",
+    parent: "AL",
     type: "river",
     name: { de: "Seman-Fluss", hu: "Seman-folyó", ro: "Râul Seman", en: "Seman River",
 image: "/poi-images/albania-seman-river-nature-v2.webp"

@@ -3,6 +3,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
 
   {
     id: "bosniaherzegovina-stari-most-history-v2",
+    parent: "BA",
     type: "bridge",
     name: { de: "Alte Brücke von Mostar", hu: "Öreg híd", ro: "Podul Vechi din Mostar", en: "Old Bridge of Mostar",
 image: "/poi-images/bosniaherzegovina-stari-most-history-v2.webp"
@@ -37,6 +38,7 @@ image: "/poi-images/bosniaherzegovina-stari-most-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-latin-bridge-history-v2",
+    parent: "BA",
     type: "bridge",
     name: { de: "Lateinerbrücke", hu: "Latin híd", ro: "Podul Latin", en: "Latin Bridge",
 image: "/poi-images/bosniaherzegovina-latin-bridge-history-v2.webp"
@@ -72,6 +74,7 @@ image: "/poi-images/bosniaherzegovina-latin-bridge-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-bobovac-history-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Festung Bobovac", hu: "Bobovác vára", ro: "Cetatea Bobovac", en: "Bobovac Fortress",
 image: "/poi-images/bosniaherzegovina-bobovac-history-v2.webp"
@@ -107,6 +110,7 @@ image: "/poi-images/bosniaherzegovina-bobovac-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-jajce-fortress-history-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Festung Jajce", hu: "Jajcei vár", ro: "Cetatea Jajce", en: "Jajce Fortress",
 image: "/poi-images/bosniaherzegovina-jajce-fortress-history-v2.webp"
@@ -142,6 +146,7 @@ image: "/poi-images/bosniaherzegovina-jajce-fortress-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-daorson-history-v2",
+    parent: "BA",
     type: "ruins",
     name: { de: "Daorson", hu: "Daorson", ro: "Daorson", en: "Daorson",
 image: "/poi-images/bosniaherzegovina-daorson-history-v2.webp"
@@ -177,6 +182,7 @@ image: "/poi-images/bosniaherzegovina-daorson-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-mogorjelo-history-v2",
+    parent: "BA",
     type: "ruins",
     name: { de: "Mogorjelo", hu: "Mogorjelo", ro: "Mogorjelo", en: "Mogorjelo",
 image: "/poi-images/bosniaherzegovina-mogorjelo-history-v2.webp"
@@ -212,6 +218,7 @@ image: "/poi-images/bosniaherzegovina-mogorjelo-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-pocitelj-history-v2",
+    parent: "BA",
     type: "landmark",
     name: { de: "Historisches Dorf Počitelj", hu: "Počitelj óvárosa", ro: "Satul istoric Počitelj", en: "Historic Village of Počitelj",
 image: "/poi-images/bosniaherzegovina-pocitelj-history-v2.webp"
@@ -246,6 +253,7 @@ image: "/poi-images/bosniaherzegovina-pocitelj-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-radimlja-history-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Nekropole Radimlja", hu: "Radimlja nekropolisz", ro: "Necropola Radimlja", en: "Radimlja Necropolis",
 image: "/poi-images/bosniaherzegovina-radimlja-history-v2.webp"
@@ -281,6 +289,7 @@ image: "/poi-images/bosniaherzegovina-radimlja-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-butmir-history-v2",
+    parent: "BA",
     type: "ruins",
     name: { de: "Archäologische Stätte Butmir", hu: "Butmiri régészeti lelőhely", ro: "Situl arheologic Butmir", en: "Butmir Archaeological Site",
 image: "/poi-images/bosniaherzegovina-butmir-history-v2.webp"
@@ -315,6 +324,7 @@ image: "/poi-images/bosniaherzegovina-butmir-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-ostrozac-history-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Burg Ostrožac", hu: "Ostrožac vára", ro: "Castelul Ostrožac", en: "Ostrožac Castle",
 image: "/poi-images/bosniaherzegovina-ostrozac-history-v2.webp"
@@ -349,6 +359,7 @@ image: "/poi-images/bosniaherzegovina-ostrozac-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-tesanj-history-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Festung Tešanj", hu: "Tesanj vára", ro: "Cetatea Tešanj", en: "Tešanj Fortress",
 image: "/poi-images/bosniaherzegovina-tesanj-history-v2.webp"
@@ -383,6 +394,7 @@ image: "/poi-images/bosniaherzegovina-tesanj-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-doboj-fortress-history-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Festung Doboj", hu: "Doboji vár", ro: "Cetatea Doboj", en: "Doboj Fortress",
 image: "/poi-images/bosniaherzegovina-doboj-fortress-history-v2.webp"
@@ -417,6 +429,7 @@ image: "/poi-images/bosniaherzegovina-doboj-fortress-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-old-town-visoki-history-v2",
+    parent: "BA",
     type: "ruins",
     name: { de: "Altstadt Visoki", hu: "Visoki óvárosa", ro: "Orașul vechi Visoki", en: "Old Town Visoki",
 image: "/poi-images/bosniaherzegovina-old-town-visoki-history-v2.webp"
@@ -451,6 +464,7 @@ image: "/poi-images/bosniaherzegovina-old-town-visoki-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-kastel-fortress-history-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Festung Kastel", hu: "Kastel vár", ro: "Cetatea Kastel", en: "Kastel Fortress",
 image: "/poi-images/bosniaherzegovina-kastel-fortress-history-v2.webp"
@@ -486,6 +500,7 @@ image: "/poi-images/bosniaherzegovina-kastel-fortress-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-vidoski-fortress-history-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Festung Vidoški", hu: "Vidoški vára", ro: "Cetatea Vidoški", en: "Vidoški Fortress",
 image: "/poi-images/bosniaherzegovina-vidoski-fortress-history-v2.webp"
@@ -521,6 +536,7 @@ image: "/poi-images/bosniaherzegovina-vidoski-fortress-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-kraljeva-sutjeska-history-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Kloster Kraljeva Sutjeska", hu: "Kraljeva Sutjeska-i kolostor", ro: "Mănăstirea Kraljeva Sutjeska", en: "Kraljeva Sutjeska Monastery",
 image: "/poi-images/bosniaherzegovina-kraljeva-sutjeska-history-v2.webp"
@@ -555,6 +571,7 @@ image: "/poi-images/bosniaherzegovina-kraljeva-sutjeska-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-buzim-old-town-history-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Altstadt Bužim", hu: "Bužim óvárosa", ro: "Orașul vechi Bužim", en: "Bužim Old Town",
 image: "/poi-images/bosniaherzegovina-buzim-old-town-history-v2.webp"
@@ -589,6 +606,7 @@ image: "/poi-images/bosniaherzegovina-buzim-old-town-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-kljuc-fortress-history-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Festung Ključ", hu: "Kulcs vára", ro: "Cetatea Ključ", en: "Ključ Fortress",
 image: "/poi-images/bosniaherzegovina-kljuc-fortress-history-v2.webp"
@@ -624,6 +642,7 @@ image: "/poi-images/bosniaherzegovina-kljuc-fortress-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-sokolac-fortress-history-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Festung Sokolac", hu: "Sokolac vára", ro: "Cetatea Sokolac", en: "Sokolac Fortress",
 image: "/poi-images/bosniaherzegovina-sokolac-fortress-history-v2.webp"
@@ -659,6 +678,7 @@ image: "/poi-images/bosniaherzegovina-sokolac-fortress-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-vraca-memorial-history-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Gedenkpark Vraca", hu: "Vraca emlékpark", ro: "Parcul Memorial Vraca", en: "Vraca Memorial Park",
 image: "/poi-images/bosniaherzegovina-vraca-memorial-history-v2.webp"
@@ -694,6 +714,7 @@ image: "/poi-images/bosniaherzegovina-vraca-memorial-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-kozara-memorial-history-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Denkmal von Kozara", hu: "Kozara-emlékmű", ro: "Monumentul de la Kozara", en: "Kozara Memorial",
 image: "/poi-images/bosniaherzegovina-kozara-memorial-history-v2.webp"
@@ -729,6 +750,7 @@ image: "/poi-images/bosniaherzegovina-kozara-memorial-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-tjentiste-history-v2",
+    parent: "BA",
     type: "battlefield",
     name: { de: "Denkmal von Tjentište", hu: "Tjentište emlékmű", ro: "Monumentul de la Tjentište", en: "Tjentište Memorial",
 image: "/poi-images/bosniaherzegovina-tjentiste-history-v2.webp"
@@ -763,6 +785,7 @@ image: "/poi-images/bosniaherzegovina-tjentiste-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-sarajevo-tunnel-history-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Tunnel der Hoffnung", hu: "A Remény alagútja", ro: "Tunelul Speranței", en: "Tunnel of Hope",
 image: "/poi-images/bosniaherzegovina-sarajevo-tunnel-history-v2.webp"
@@ -798,6 +821,7 @@ image: "/poi-images/bosniaherzegovina-sarajevo-tunnel-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-bijela-tabija-history-v2",
+    parent: "BA",
     type: "ruins",
     name: { de: "Weiße Bastion", hu: "Fehér bástya", ro: "Bastionul Alb", en: "White Fortress",
 image: "/poi-images/bosniaherzegovina-bijela-tabija-history-v2.webp"
@@ -833,6 +857,7 @@ image: "/poi-images/bosniaherzegovina-bijela-tabija-history-v2.webp"
   },
   {
     id: "bosniaherzegovina-zuta-tabija-history-v2",
+    parent: "BA",
     type: "ruins",
     name: { de: "Gelbe Bastion", hu: "Sárga bástya", ro: "Bastionul Galben", en: "Yellow Fortress",
 image: "/poi-images/bosniaherzegovina-zuta-tabija-history-v2.webp"

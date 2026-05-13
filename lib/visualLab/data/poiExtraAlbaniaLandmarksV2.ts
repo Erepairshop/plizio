@@ -3,6 +3,7 @@ export const albaniaLandmarksV2: POI[] = [
 
   {
     id: "albania-kruje-castle-landmarks-v2",
+    parent: "AL",
     type: "castle",
     name: { de: "Burg von Kruja", hu: "Krujai vár", ro: "Castelul Kruja", en: "Krujë Castle",
 image: "/poi-images/albania-kruje-castle-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Kruje Castle with the Skanderbeg Museum building",
     image: "/poi-images/albania-kruje-castle-landmarks-v2.webp",
 },  {
     id: "albania-gjirokaster-castle-landmarks-v2",
+    parent: "AL",
     type: "castle",
     name: { de: "Burg von Gjirokastra", hu: "Gjirokastrai vár", ro: "Cetatea Gjirokastra", en: "Gjirokastër Castle",
 image: "/poi-images/albania-gjirokaster-castle-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Gjirokaster Castle with the clock tower and mountains",
     image: "/poi-images/albania-gjirokaster-castle-landmarks-v2.webp",
 },  {
     id: "albania-skanderbeg-square-landmarks-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Skanderbeg-Platz", hu: "Szkander bég tér", ro: "Piața Skanderbeg", en: "Skanderbeg Square",
 image: "/poi-images/albania-skanderbeg-square-landmarks-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Skanderbeg Square in Tirana with the statue",
     image: "/poi-images/albania-skanderbeg-square-landmarks-v2.webp",
 },  {
     id: "albania-national-history-museum-landmarks-v2",
+    parent: "AL",
     type: "museum",
     name: { de: "Nationalhistorisches Museum", hu: "Nemzeti Történeti Múzeum", ro: "Muzeul Național de Istorie", en: "National History Museum",
 image: "/poi-images/albania-national-history-museum-landmarks-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Facade of the National History Museum with the mosaic",
     image: "/poi-images/albania-national-history-museum-landmarks-v2.webp",
 },  {
     id: "albania-pyramid-of-tirana-landmarks-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Pyramide von Tirana", hu: "Tiranai piramis", ro: "Piramida din Tirana", en: "Pyramid of Tirana",
 image: "/poi-images/albania-pyramid-of-tirana-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "The Pyramid of Tirana structure after renovation",
     image: "/poi-images/albania-pyramid-of-tirana-landmarks-v2.webp",
 },  {
     id: "albania-butrint-amphitheatre-landmarks-v2",
+    parent: "AL",
     type: "ruins",
     name: { de: "Amphitheater von Butrint", hu: "Butrinti amfiteátrum", ro: "Amfiteatrul din Butrint", en: "Butrint Amphitheatre",
 image: "/poi-images/albania-butrint-amphitheatre-landmarks-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Ancient Greek theater in Butrint archaeological park",
     image: "/poi-images/albania-butrint-amphitheatre-landmarks-v2.webp",
 },  {
     id: "albania-apollonia-archaeological-park-landmarks-v2",
+    parent: "AL",
     type: "ruins",
     name: { de: "Archäologischer Park Apollonia", hu: "Apollónia Régészeti Park", ro: "Parcul Arheologic Apollonia", en: "Apollonia Archaeological Park",
 image: "/poi-images/albania-apollonia-archaeological-park-landmarks-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Ruins of the Buleuterion in Apollonia",
     image: "/poi-images/albania-apollonia-archaeological-park-landmarks-v2.webp",
 },  {
     id: "albania-clock-tower-tirana-landmarks-v2",
+    parent: "AL",
     type: "tower",
     name: { de: "Uhrturm von Tirana", hu: "Tiranai óratorony", ro: "Turnul cu Ceas din Tirana", en: "Clock Tower of Tirana",
 image: "/poi-images/albania-clock-tower-tirana-landmarks-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "The Clock Tower of Tirana at sunset",
     image: "/poi-images/albania-clock-tower-tirana-landmarks-v2.webp",
 },  {
     id: "albania-bunkart-1-landmarks-v2",
+    parent: "AL",
     type: "museum",
     name: { de: "Bunk'Art 1", hu: "Bunk'Art 1", ro: "Bunk'Art 1", en: "Bunk'Art 1",
 image: "/poi-images/albania-bunkart-1-landmarks-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Underground tunnel entrance to Bunk'Art 1",
     image: "/poi-images/albania-bunkart-1-landmarks-v2.webp",
 },  {
     id: "albania-resurrection-cathedral-landmarks-v2",
+    parent: "AL",
     type: "cathedral",
     name: { de: "Auferstehungskathedrale", hu: "Feltámadás-székesegyház", ro: "Catedrala Învierea Domnului", en: "Resurrection of Christ Cathedral",
 image: "/poi-images/albania-resurrection-cathedral-landmarks-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Modern Resurrection of Christ Orthodox Cathedral in Tirana",
     image: "/poi-images/albania-resurrection-cathedral-landmarks-v2.webp",
 },  {
     id: "albania-lead-mosque-landmarks-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Bleimoschee", hu: "Ólmos mecset", ro: "Moscheea de Plumb", en: "Lead Mosque",
 image: "/poi-images/albania-lead-mosque-landmarks-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "The Lead Mosque in Shkoder near Rozafa Castle",
     image: "/poi-images/albania-lead-mosque-landmarks-v2.webp",
 },  {
     id: "albania-venetian-tower-durres-landmarks-v2",
+    parent: "AL",
     type: "tower",
     name: { de: "Venezianischer Turm", hu: "Velencei torony", ro: "Turnul Venețian", en: "Venetian Tower of Durrës",
 image: "/poi-images/albania-venetian-tower-durres-landmarks-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "The circular Venetian Tower in Durres",
     image: "/poi-images/albania-venetian-tower-durres-landmarks-v2.webp",
 },  {
     id: "albania-amphitheatre-durres-landmarks-v2",
+    parent: "AL",
     type: "ruins",
     name: { de: "Amphitheater von Durrës", hu: "Durrësi amfiteátrum", ro: "Amfiteatrul din Durrës", en: "Amphitheatre of Durrës",
 image: "/poi-images/albania-amphitheatre-durres-landmarks-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Remains of the large Roman amphitheatre in Durres",
     image: "/poi-images/albania-amphitheatre-durres-landmarks-v2.webp",
 },  {
     id: "albania-petrele-castle-landmarks-v2",
+    parent: "AL",
     type: "castle",
     name: { de: "Burg von Petrela", hu: "Petrelai vár", ro: "Castelul Petrela", en: "Petrelë Castle",
 image: "/poi-images/albania-petrele-castle-landmarks-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Petrele Castle on top of a rocky hill",
     image: "/poi-images/albania-petrele-castle-landmarks-v2.webp",
 },  {
     id: "albania-marubi-museum-landmarks-v2",
+    parent: "AL",
     type: "museum",
     name: { de: "Marubi-Fotomuseum", hu: "Marubi Fotómúzeum", ro: "Muzeul de Fotografie Marubi", en: "Marubi National Photography Museum",
 image: "/poi-images/albania-marubi-museum-landmarks-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Inside the Marubi National Photography Museum",
     image: "/poi-images/albania-marubi-museum-landmarks-v2.webp",
 },  {
     id: "albania-onufri-museum-landmarks-v2",
+    parent: "AL",
     type: "museum",
     name: { de: "Onufri-Museum", hu: "Onufri Múzeum", ro: "Muzeul Onufri", en: "Onufri Iconographic Museum",
 image: "/poi-images/albania-onufri-museum-landmarks-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Iconography by Onufri in the Berat museum",
     image: "/poi-images/albania-onufri-museum-landmarks-v2.webp",
 },  {
     id: "albania-gorica-bridge-landmarks-v2",
+    parent: "AL",
     type: "bridge",
     name: { de: "Gorica-Brücke", hu: "Gorica-híd", ro: "Podul Gorica", en: "Gorica Bridge",
 image: "/poi-images/albania-gorica-bridge-landmarks-v2.webp"
@@ -582,6 +599,7 @@ image: "/poi-images/albania-gorica-bridge-landmarks-v2.webp"
 ,
   {
     id: "albania-mother-teresa-square-landmarks-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Mutter-Teresa-Platz", hu: "Teréz anya tér", ro: "Piața Maica Tereza", en: "Mother Teresa Square",
 image: "/poi-images/albania-mother-teresa-square-landmarks-v2.webp"
@@ -615,6 +633,7 @@ image: "/poi-images/albania-mother-teresa-square-landmarks-v2.webp"
   },
   {
     id: "albania-medieval-art-museum-landmarks-v2",
+    parent: "AL",
     type: "museum",
     name: { de: "Nationalmuseum für mittelalterliche Kunst", hu: "Nemzeti Középkori Művészeti Múzeum", ro: "Muzeul Național de Artă Medievală", en: "National Museum of Medieval Art",
 image: "/poi-images/albania-medieval-art-museum-landmarks-v2.webp"
@@ -648,6 +667,7 @@ imageHint: "National Museum of Medieval Art Korce icons",
     image: "/poi-images/albania-medieval-art-museum-landmarks-v2.webp",
 },  {
     id: "albania-tanners-bridge-landmarks-v2",
+    parent: "AL",
     type: "bridge",
     name: { de: "Gerberbrücke", hu: "Vargák hídja", ro: "Podul Tăpălarilor", en: "Tanners' Bridge",
 image: "/poi-images/albania-tanners-bridge-landmarks-v2.webp"
@@ -681,6 +701,7 @@ imageHint: "Tanners Bridge Tirana Ottoman stone bridge",
     image: "/poi-images/albania-tanners-bridge-landmarks-v2.webp",
 },  {
     id: "albania-st-stephens-cathedral-landmarks-v2",
+    parent: "AL",
     type: "cathedral",
     name: { de: "Stephanskathedrale", hu: "Szent István-székesegyház", ro: "Catedrala Sfântul Ștefan", en: "St. Stephen's Cathedral",
 image: "/poi-images/albania-st-stephens-cathedral-landmarks-v2.webp"
@@ -714,6 +735,7 @@ imageHint: "St Stephen's Cathedral Shkoder interior",
     image: "/poi-images/albania-st-stephens-cathedral-landmarks-v2.webp",
 },  {
     id: "albania-archaeological-museum-durres-landmarks-v2",
+    parent: "AL",
     type: "museum",
     name: { de: "Archäologisches Museum Durrës", hu: "Durrësi Régészeti Múzeum", ro: "Muzeul Arheologic Durrës", en: "Archaeological Museum of Durrës",
 image: "/poi-images/albania-archaeological-museum-durres-landmarks-v2.webp"

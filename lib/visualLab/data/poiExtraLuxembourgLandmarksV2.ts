@@ -3,6 +3,7 @@ export const luxembourgLandmarksV2: POI[] = [
 
   {
     id: "luxembourg-adolphe-bridge-landmarks-v2",
+    parent: "LU",
     type: "bridge",
     name: { de: "Adolphe-Brücke", hu: "Adolf híd", ro: "Podul Adolphe", en: "Adolphe Bridge" },
     coordinates: { lat: 49.6083, lng: 6.1268 },
@@ -22,6 +23,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-passerelle-viaduct-landmarks-v2",
+    parent: "LU",
     type: "bridge",
     name: { de: "Passerelle (Viaduc)", hu: "Passerelle viadukt", ro: "Podul Passerelle", en: "Passerelle (Old Bridge)" },
     coordinates: { lat: 49.6061, lng: 6.1331 },
@@ -41,6 +43,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-philharmonie-landmarks-v2",
+    parent: "LU",
     type: "theater",
     name: { de: "Philharmonie Luxemburg", hu: "Luxemburgi Filharmónia", ro: "Filarmonica Luxemburg", en: "Philharmonie Luxembourg" },
     coordinates: { lat: 49.6186, lng: 6.1425 },
@@ -60,6 +63,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-mudam-museum-landmarks-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "Mudam Luxemburg", hu: "Mudam Luxemburg", ro: "Mudam Luxemburg", en: "Mudam Luxembourg" },
     coordinates: { lat: 49.6171, lng: 6.1396 },
@@ -79,6 +83,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-mnha-museum-landmarks-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "Nationalmuseum für Geschichte und Kunst", hu: "Nemzeti Történeti és Művészeti Múzeum", ro: "Muzeul Național de Istorie și Artă", en: "National Museum of History and Art" },
     coordinates: { lat: 49.6111, lng: 6.1325 },
@@ -98,6 +103,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-old-ansembourg-castle-landmarks-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Burg Ansemburg", hu: "Ansemburg vára", ro: "Castelul vechi Ansembourg", en: "Old Castle of Ansembourg" },
     coordinates: { lat: 49.7003, lng: 6.0403 },
@@ -117,6 +123,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-meysembourg-castle-landmarks-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Meysemburg", hu: "Meysemburg kastély", ro: "Castelul Meysembourg", en: "Meysembourg Castle" },
     coordinates: { lat: 49.7703, lng: 6.1878 },
@@ -136,6 +143,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-septfontaines-castle-landmarks-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Septfontaines", hu: "Septfontaines kastély", ro: "Castelul Septfontaines", en: "Septfontaines Castle" },
     coordinates: { lat: 49.6175, lng: 6.1058 },
@@ -155,6 +163,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-mersch-castle-landmarks-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Mersch", hu: "Merschi kastély", ro: "Castelul Mersch", en: "Mersch Castle" },
     coordinates: { lat: 49.7475, lng: 6.1042 },
@@ -174,6 +183,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-bettembourg-castle-landmarks-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Bettemburg", hu: "Bettemburgi kastély", ro: "Castelul Bettembourg", en: "Castle of Bettembourg" },
     coordinates: { lat: 49.5186, lng: 6.1011 },
@@ -193,6 +203,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-sanem-castle-landmarks-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Sanem", hu: "Sanem kastély", ro: "Castelul Sanem", en: "Castle of Sanem" },
     coordinates: { lat: 49.5475, lng: 5.9281 },
@@ -212,6 +223,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-berg-castle-landmarks-v2",
+    parent: "LU",
     type: "palace",
     name: { de: "Schloss Berg", hu: "Bergi kastély", ro: "Castelul Berg", en: "Berg Castle" },
     coordinates: { lat: 49.8144, lng: 6.0967 },
@@ -231,6 +243,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-belval-blast-furnaces-landmarks-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Hochöfen von Belval", hu: "Belvali nagyolvasztók", ro: "Furnalele din Belval", en: "Blast Furnaces Belval" },
     coordinates: { lat: 49.5008, lng: 5.9514 },
@@ -250,6 +263,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-rumelange-mining-museum-landmarks-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "Nationales Grubenmuseum", hu: "Országos Bányászati Múzeum", ro: "Muzeul Național al Minelor de Fier", en: "National Mining Museum Rumelange" },
     coordinates: { lat: 49.46, lng: 6.0278 },
@@ -269,6 +283,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-slate-museum-martelange-landmarks-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "Schiefermuseum Haut-Martelange", hu: "Haut-Martelange-i Palakő Múzeum", ro: "Muzeul Ardeziei Haut-Martelange", en: "Slate Museum Haut-Martelange" },
     coordinates: { lat: 49.8322, lng: 5.7483 },
@@ -288,6 +303,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-st-michaels-church-landmarks-v2",
+    parent: "LU",
     type: "church",
     name: { de: "St.-Michaels-Kirche", hu: "Szent Mihály-templom", ro: "Biserica Sfântul Mihail", en: "St. Michael's Church" },
     coordinates: { lat: 49.6114, lng: 6.1342 },
@@ -307,6 +323,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-luxembourg-city-hall-landmarks-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Luxemburger Rathaus", hu: "Luxemburgi városháza", ro: "Primăria orașului Luxemburg", en: "Luxembourg City Hall" },
     coordinates: { lat: 49.61, lng: 6.1303 },
@@ -326,6 +343,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-place-guillaume-ii-landmarks-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Wilhelmsplatz", hu: "II. Vilmos tér", ro: "Piața Guillaume II", en: "Place Guillaume II" },
     coordinates: { lat: 49.6106, lng: 6.1308 },
@@ -345,6 +363,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-cercle-cite-landmarks-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Cercle Cité", hu: "Cercle Cité", ro: "Cercle Cité", en: "Cercle Cité" },
     coordinates: { lat: 49.6117, lng: 6.1292 },
@@ -364,6 +383,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-solidarity-monument-landmarks-v2",
+    parent: "LU",
     type: "monument",
     name: { de: "Nationales Denkmal der Solidarität", hu: "A Szolidaritás Nemzeti Emlékműve", ro: "Monumentul Național al Solidarității", en: "National Monument of Solidarity" },
     coordinates: { lat: 49.6094, lng: 6.135 },
@@ -383,6 +403,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-three-towers-landmarks-v2",
+    parent: "LU",
     type: "tower",
     name: { de: "Die Drei Türme", hu: "A Három Torony", ro: "Cele Trei Turnuri", en: "Three Towers" },
     coordinates: { lat: 49.6136, lng: 6.1344 },
@@ -402,6 +423,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-malakoff-tower-landmarks-v2",
+    parent: "LU",
     type: "tower",
     name: { de: "Malakoff-Turm", hu: "Malakoff-torony", ro: "Turnul Malakoff", en: "Malakoff Tower" },
     coordinates: { lat: 49.6108, lng: 6.1408 },
@@ -421,6 +443,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-spanish-towers-landmarks-v2",
+    parent: "LU",
     type: "tower",
     name: { de: "Spanische Türmchen", hu: "Spanyol tornyocskák", ro: "Turnurile spaniole", en: "Spanish Towers" },
     coordinates: { lat: 49.6125, lng: 6.1383 },
@@ -440,6 +463,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-villa-vauban-museum-landmarks-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "Villa Vauban", hu: "Villa Vauban", ro: "Villa Vauban", en: "Villa Vauban" },
     coordinates: { lat: 49.6142, lng: 6.1242 },
@@ -459,6 +483,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-casino-luxembourg-landmarks-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "Casino Luxembourg", hu: "Casino Luxembourg", ro: "Casino Luxemburg", en: "Casino Luxembourg" },
     coordinates: { lat: 49.6094, lng: 6.1264 },
@@ -478,6 +503,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-grand-theatre-landmarks-v2",
+    parent: "LU",
     type: "theater",
     name: { de: "Grand Théâtre de la Ville de Luxembourg", hu: "Luxemburg Városi Nagyszínház", ro: "Teatrul Mare al orașului Luxemburg", en: "Grand Théâtre de la Ville de Luxembourg" },
     coordinates: { lat: 49.6181, lng: 6.1275 },
@@ -497,6 +523,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-aspelt-castle-landmarks-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Aspelt", hu: "Aspelti kastély", ro: "Castelul Aspelt", en: "Aspelt Castle" },
     coordinates: { lat: 49.5258, lng: 6.2219 },
@@ -516,6 +543,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-erpeldange-castle-landmarks-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Erpeldange", hu: "Erpeldange-i kastély", ro: "Castelul Erpeldange", en: "Erpeldange Castle" },
     coordinates: { lat: 49.86, lng: 6.1133 },
@@ -535,6 +563,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-mersch-tower-landmarks-v2",
+    parent: "LU",
     type: "tower",
     name: { de: "St.-Michaels-Turm Mersch", hu: "Szent Mihály-torony Mersch", ro: "Turnul Sfântul Mihail Mersch", en: "St. Michael's Tower Mersch" },
     coordinates: { lat: 49.7483, lng: 6.1036 },
@@ -554,6 +583,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-national-solidarity-altar-landmarks-v2",
+    parent: "LU",
     type: "monument",
     name: { de: "Heimatsfest-Monument (Opferaltar)", hu: "Nemzeti Áldozati Oltár", ro: "Altarul Sacrificiului Național", en: "Altar of National Sacrifice" },
     coordinates: { lat: 49.6092, lng: 6.1348 },
@@ -573,6 +603,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-petrusse-casemates-landmarks-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Petruss-Kasematten", hu: "Pétrusse-kazamaták", ro: "Cazematele Pétrusse", en: "Petrusse Casemates" },
     coordinates: { lat: 49.6089, lng: 6.1306 },
@@ -592,6 +623,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-willibrord-basilica-landmarks-v2",
+    parent: "LU",
     type: "cathedral",
     name: { de: "Basilika St. Willibrord", hu: "Szent Willibrord-bazilika", ro: "Bazilica Sfântul Willibrord", en: "Basilica of Saint Willibrord" },
     coordinates: { lat: 49.8131, lng: 6.4214 },
@@ -611,6 +643,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-grand-ducal-museum-history-landmarks-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "Museum der Stadt Luxemburg", hu: "Luxemburg Városi Történeti Múzeum", ro: "Muzeul de Istorie a orașului Luxemburg", en: "Luxembourg City History Museum" },
     coordinates: { lat: 49.6108, lng: 6.1331 },
@@ -630,6 +663,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-vauban-circular-walk-landmarks-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Wenzel-Weg (Festungspfad)", hu: "Wenzel-útvonal", ro: "Traseul Wenzel", en: "Wenzel Circular Walk" },
     coordinates: { lat: 49.6106, lng: 6.1367 },
@@ -649,6 +683,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-european-court-justice-landmarks-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Europäischer Gerichtshof", hu: "Európai Bíróság", ro: "Curtea Europeană de Justiție", en: "European Court of Justice" },
     coordinates: { lat: 49.622, lng: 6.1411 },
@@ -668,6 +703,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-schuman-building-landmarks-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Robert-Schuman-Gebäude", hu: "Robert Schuman-épület", ro: "Clădirea Robert Schuman", en: "Robert Schuman Building" },
     coordinates: { lat: 49.62, lng: 6.14 },
@@ -687,6 +723,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-grand-duc-monument-landmarks-v2",
+    parent: "LU",
     type: "monument",
     name: { de: "Reiterstandbild Wilhelms II.", hu: "II. Vilmos lovasszobra", ro: "Statuia ecvestră a lui Wilhelm II", en: "Equestrian Statue of William II" },
     coordinates: { lat: 49.6106, lng: 6.1303 },
@@ -706,6 +743,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-saint-nicholas-church-vianden-landmarks-v2",
+    parent: "LU",
     type: "church",
     name: { de: "St.-Nikolaus-Kirche Vianden", hu: "Szent Miklós-templom Vianden", ro: "Biserica Sfântul Nicolae Vianden", en: "Saint Nicholas Church Vianden" },
     coordinates: { lat: 49.9328, lng: 6.2081 },
@@ -725,6 +763,7 @@ export const luxembourgLandmarksV2: POI[] = [
   },
   {
     id: "luxembourg-wirtgen-castle-landmarks-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Wirtgen", hu: "Wirtgen kastély", ro: "Castelul Wirtgen", en: "Wirtgen Castle" },
     coordinates: { lat: 49.8678, lng: 6.1558 },

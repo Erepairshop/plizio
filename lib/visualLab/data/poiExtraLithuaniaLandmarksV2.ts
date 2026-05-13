@@ -3,6 +3,7 @@ export const lithuaniaLandmarksV2: POI[] = [
 
   {
     id: "lithuania-gediminas-tower-landmarks-v2",
+    parent: "LT",
     type: "tower",
     name: { de: "Gediminas-Turm", hu: "Gediminas-torony", ro: "Turnul lui Gediminas", en: "Gediminas' Tower",
 image: "/poi-images/lithuania-gediminas-tower-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Gediminas Tower on the hill in Vilnius at sunset",
     , image: "/poi-images/lithuania-gediminas-tower-landmarks-v2.webp",
 },  {
     id: "lithuania-vilnius-cathedral-landmarks-v2",
+    parent: "LT",
     type: "cathedral",
     name: { de: "Kathedrale von Vilnius", hu: "Vilniusi székesegyház", ro: "Catedrala din Vilnius", en: "Vilnius Cathedral",
 image: "/poi-images/lithuania-vilnius-cathedral-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Vilnius Cathedral and its bell tower on Cathedral Square",
     , image: "/poi-images/lithuania-vilnius-cathedral-landmarks-v2.webp",
 },  {
     id: "lithuania-st-annes-church-landmarks-v2",
+    parent: "LT",
     type: "church",
     name: { de: "St.-Anna-Kirche", hu: "Szent Anna-templom", ro: "Biserica Sfânta Ana", en: "Church of St. Anne",
 image: "/poi-images/lithuania-st-annes-church-landmarks-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "St. Anne's Church Vilnius red brick facade",
     , image: "/poi-images/lithuania-st-annes-church-landmarks-v2.webp",
 },  {
     id: "lithuania-gates-of-dawn-landmarks-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Tor der Morgenröte", hu: "Hajnal-kapu", ro: "Poarta Zorilor", en: "Gates of Dawn",
 image: "/poi-images/lithuania-gates-of-dawn-landmarks-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Gates of Dawn Vilnius exterior with chapel window",
     , image: "/poi-images/lithuania-gates-of-dawn-landmarks-v2.webp",
 },  {
     id: "lithuania-kaunas-castle-landmarks-v2",
+    parent: "LT",
     type: "castle",
     name: { de: "Burg Kaunas", hu: "Kaunasi vár", ro: "Castelul Kaunas", en: "Kaunas Castle",
 image: "/poi-images/lithuania-kaunas-castle-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Kaunas Castle round tower and ruins",
     , image: "/poi-images/lithuania-kaunas-castle-landmarks-v2.webp",
 },  {
     id: "lithuania-hill-of-witches-landmarks-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Hexenberg", hu: "Boszorkány-domb", ro: "Dealul Vrăjitoarelor", en: "Hill of Witches",
 image: "/poi-images/lithuania-hill-of-witches-landmarks-v2.webp"
@@ -207,6 +213,7 @@ image: "/poi-images/lithuania-hill-of-witches-landmarks-v2.webp"
   },
   {
     id: "lithuania-europos-parkas-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Europa-Park", hu: "Európa Park", ro: "Parcul Europei", en: "Europos Parkas",
 image: "/poi-images/lithuania-europos-parkas-landmarks-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Europos Parkas outdoor sculptures in Lithuania",
     , image: "/poi-images/lithuania-europos-parkas-landmarks-v2.webp",
 },  {
     id: "lithuania-grutas-park-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Grūtas-Park", hu: "Grūtas Park", ro: "Parcul Grūtas", en: "Grūtas Park",
 image: "/poi-images/lithuania-grutas-park-landmarks-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Grutas Park Soviet statues and monuments",
     , image: "/poi-images/lithuania-grutas-park-landmarks-v2.webp",
 },  {
     id: "lithuania-open-air-museum-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Litauisches Freilichtmuseum", hu: "Litván Szabadtéri Néprajzi Múzeum", ro: "Muzeul Satului Lituanian", en: "Open-Air Museum of Lithuania",
 image: "/poi-images/lithuania-open-air-museum-landmarks-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Rumsiskes Open Air Museum traditional wooden houses",
     , image: "/poi-images/lithuania-open-air-museum-landmarks-v2.webp",
 },  {
     id: "lithuania-vilnius-tv-tower-landmarks-v2",
+    parent: "LT",
     type: "tower",
     name: { de: "Fernsehturm Vilnius", hu: "Vilniusi tévétorony", ro: "Turnul TV din Vilnius", en: "Vilnius TV Tower",
 image: "/poi-images/lithuania-vilnius-tv-tower-landmarks-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Vilnius TV Tower skyscraper view",
     , image: "/poi-images/lithuania-vilnius-tv-tower-landmarks-v2.webp",
 },  {
     id: "lithuania-st-peter-paul-church-landmarks-v2",
+    parent: "LT",
     type: "church",
     name: { de: "St.-Peter-und-Paul-Kirche", hu: "Szent Péter és Pál-templom", ro: "Biserica Sfântul Petru și Pavel", en: "Church of St. Peter and St. Paul",
 image: "/poi-images/lithuania-st-peter-paul-church-landmarks-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "St. Peter and St. Paul's Church Vilnius interior stucco",
     , image: "/poi-images/lithuania-st-peter-paul-church-landmarks-v2.webp",
 },  {
     id: "lithuania-kaunas-town-hall-landmarks-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Rathaus von Kaunas", hu: "Kaunasi városháza", ro: "Primăria din Kaunas", en: "Kaunas Town Hall",
 image: "/poi-images/lithuania-kaunas-town-hall-landmarks-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Kaunas Town Hall 'White Swan' building",
     , image: "/poi-images/lithuania-kaunas-town-hall-landmarks-v2.webp",
 },  {
     id: "lithuania-kaunas-cathedral-landmarks-v2",
+    parent: "LT",
     type: "cathedral",
     name: { de: "Kathedrale von Kaunas", hu: "Kaunasi székesegyház", ro: "Catedrala din Kaunas", en: "Kaunas Cathedral Basilica",
 image: "/poi-images/lithuania-kaunas-cathedral-landmarks-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Kaunas Cathedral Basilica brick exterior",
     , image: "/poi-images/lithuania-kaunas-cathedral-landmarks-v2.webp",
 },  {
     id: "lithuania-christ-resurrection-church-landmarks-v2",
+    parent: "LT",
     type: "church",
     name: { de: "Auferstehungskirche", hu: "Feltámadás templom", ro: "Biserica Învierea lui Hristos", en: "Christ's Resurrection Church",
 image: "/poi-images/lithuania-christ-resurrection-church-landmarks-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Christ's Resurrection Church Kaunas white modern architecture",
     , image: "/poi-images/lithuania-christ-resurrection-church-landmarks-v2.webp",
 },  {
     id: "lithuania-museum-ethnocosmology-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Museum für Etnokosmologie", hu: "Etnokozmológiai Múzeum", ro: "Muzeul de Etnocosmologie", en: "Museum of Ethnocosmology",
 image: "/poi-images/lithuania-museum-ethnocosmology-landmarks-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Lithuanian Museum of Ethnocosmology futuristic building",
     , image: "/poi-images/lithuania-museum-ethnocosmology-landmarks-v2.webp",
 },  {
     id: "lithuania-treetop-walking-path-landmarks-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Baumkronenpfad Anykščiai", hu: "Anykščiai lombkorona-sétány", ro: "Traseul prin coronamentul arborilor", en: "Anykščiai Treetop Walking Path",
 image: "/poi-images/lithuania-treetop-walking-path-landmarks-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Anyksciai treetop walking path forest view",
     , image: "/poi-images/lithuania-treetop-walking-path-landmarks-v2.webp",
 },  {
     id: "lithuania-uzupis-angel-landmarks-v2",
+    parent: "LT",
     type: "monument",
     name: { de: "Engel von Užupis", hu: "Užupis angyala", ro: "Îngerul din Užupis", en: "Užupis Angel",
 image: "/poi-images/lithuania-uzupis-angel-landmarks-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Uzupis Angel statue on column in Vilnius",
     , image: "/poi-images/lithuania-uzupis-angel-landmarks-v2.webp",
 },  {
     id: "lithuania-vilnius-bastion-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Bastion der Stadtmauer", hu: "Várfal-bástya", ro: "Bastionul zidului de apărare", en: "Bastion of the Vilnius Defensive Wall",
 image: "/poi-images/lithuania-vilnius-bastion-landmarks-v2.webp"
@@ -616,6 +634,7 @@ imageHint: "Bastion of the Vilnius Defensive Wall brick structure",
 },
   {
     id: "lithuania-vilnius-town-hall-landmarks-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Rathaus von Vilnius", hu: "Vilniusi városháza", ro: "Primăria din Vilnius", en: "Vilnius Town Hall",
 image: "/poi-images/lithuania-vilnius-town-hall-landmarks-v2.webp"
@@ -649,6 +668,7 @@ image: "/poi-images/lithuania-vilnius-town-hall-landmarks-v2.webp"
   },
   {
     id: "lithuania-three-crosses-landmarks-v2",
+    parent: "LT",
     type: "monument",
     name: { de: "Drei Kreuze", hu: "Három Kereszt", ro: "Trei Cruci", en: "Three Crosses",
 image: "/poi-images/lithuania-three-crosses-landmarks-v2.webp"
@@ -682,6 +702,7 @@ imageHint: "Three Crosses monument Vilnius on a hill at sunset",
     , image: "/poi-images/lithuania-three-crosses-landmarks-v2.webp",
 },  {
     id: "lithuania-bernardine-church-landmarks-v2",
+    parent: "LT",
     type: "church",
     name: { de: "Bernhardinerkirche", hu: "Bernát-rendi templom", ro: "Biserica Bernardinilor", en: "Bernardine Church",
 image: "/poi-images/lithuania-bernardine-church-landmarks-v2.webp"
@@ -715,6 +736,7 @@ imageHint: "Bernardine Church Vilnius red brick gothic exterior",
     , image: "/poi-images/lithuania-bernardine-church-landmarks-v2.webp",
 },  {
     id: "lithuania-mo-museum-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "MO Museum", hu: "MO Múzeum", ro: "Muzeul MO", en: "MO Museum",
 image: "/poi-images/lithuania-mo-museum-landmarks-v2.webp"
@@ -748,6 +770,7 @@ imageHint: "MO Museum Vilnius modern architecture by Libeskind",
     , image: "/poi-images/lithuania-mo-museum-landmarks-v2.webp",
 },  {
     id: "lithuania-national-museum-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Litauisches Nationalmuseum", hu: "Litván Nemzeti Múzeum", ro: "Muzeul Național al Lituaniei", en: "National Museum of Lithuania",
 image: "/poi-images/lithuania-national-museum-landmarks-v2.webp"
@@ -781,6 +804,7 @@ imageHint: "National Museum of Lithuania New Arsenal building Vilnius",
     , image: "/poi-images/lithuania-national-museum-landmarks-v2.webp",
 },  {
     id: "lithuania-ciurlionis-museum-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Čiurlionis-Kunstmuseum", hu: "Čiurlionis Nemzeti Művészeti Múzeum", ro: "Muzeul de Artă Čiurlionis", en: "M. K. Čiurlionis National Museum of Art",
 image: "/poi-images/lithuania-ciurlionis-museum-landmarks-v2.webp"
@@ -814,6 +838,7 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
     , image: "/poi-images/lithuania-ciurlionis-museum-landmarks-v2.webp",
 },  {
     id: "lithuania-raudondvaris-castle-landmarks-v2",
+    parent: "LT",
     type: "castle",
     name: { de: "Schloss Raudondvaris", hu: "Raudondvaris kastély", ro: "Castelul Raudondvaris", en: "Raudondvaris Castle",
 image: "/poi-images/lithuania-raudondvaris-castle-landmarks-v2.webp"
@@ -847,6 +872,7 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
     , image: "/poi-images/lithuania-raudondvaris-castle-landmarks-v2.webp",
 },  {
     id: "lithuania-amber-museum-palanga-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Bernsteinmuseum Palanga", hu: "Palangai Borostyánmúzeum", ro: "Muzeul Chihlimbarului din Palanga", en: "Palanga Amber Museum",
 image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
@@ -881,6 +907,7 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
 ,
   {
     id: "lithuania-choral-synagogue-vilnius-landmarks-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Choral-Synagoge Vilnius", hu: "Vilniusi korális zsinagóga", ro: "Sinagoga Corală din Vilnius", en: "Vilnius Choral Synagogue" },
     coordinates: { lat: 54.6759, lng: 25.2815 },
@@ -900,6 +927,7 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
   },
   {
     id: "lithuania-sugihara-house-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Sugihara-Haus", hu: "Sugihara-ház", ro: "Casa Sugihara", en: "Sugihara House" },
     coordinates: { lat: 54.8994, lng: 23.9328 },
@@ -919,6 +947,7 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
   },
   {
     id: "lithuania-st-casimirs-church-landmarks-v2",
+    parent: "LT",
     type: "church",
     name: { de: "Kasimir-Kirche", hu: "Szent Kázmér-templom", ro: "Biserica Sfântul Cazimir", en: "St. Casimir's Church" },
     coordinates: { lat: 54.6775, lng: 25.2885 },
@@ -938,6 +967,7 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
   },
   {
     id: "lithuania-war-museum-kaunas-landmarks-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Vytautas-Militärmuseum", hu: "Nagy Vytautas Hadimúzeum", ro: "Muzeul de Război Vytautas cel Mare", en: "Vytautas the Great War Museum" },
     coordinates: { lat: 54.8998, lng: 23.9115 },
@@ -957,6 +987,7 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
   },
   {
     id: "lithuania-opera-ballet-theatre-landmarks-v2",
+    parent: "LT",
     type: "theater",
     name: { de: "Nationaltheater für Oper und Ballett", hu: "Nemzeti Opera és Balettszínház", ro: "Teatrul Național de Operă și Balet", en: "National Opera and Ballet Theatre" },
     coordinates: { lat: 54.6894, lng: 25.2792 },
@@ -976,6 +1007,7 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
   },
   {
     id: "lithuania-zappa-memorial-landmarks-v2",
+    parent: "LT",
     type: "monument",
     name: { de: "Frank-Zappa-Denkmal", hu: "Frank Zappa-emlékmű", ro: "Memorialul Frank Zappa", en: "Frank Zappa Memorial" },
     coordinates: { lat: 54.683, lng: 25.276 },
@@ -995,6 +1027,7 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
   },
   {
     id: "lithuania-mindaugas-bridge-landmarks-v2",
+    parent: "LT",
     type: "bridge",
     name: { de: "Mindaugas-Brücke", hu: "Mindaugas híd", ro: "Podul Mindaugas", en: "Mindaugas Bridge" },
     coordinates: { lat: 54.6905, lng: 25.2885 },
@@ -1014,6 +1047,7 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
   },
   {
     id: "lithuania-tytuvenai-monastery-landmarks-v2",
+    parent: "LT",
     type: "church",
     name: { de: "Kloster Tytuvėnai", hu: "Tytuvėnai kolostor", ro: "Mănăstirea Tytuvėnai", en: "Tytuvėnai Monastery" },
     coordinates: { lat: 55.5961, lng: 23.1975 },
@@ -1033,6 +1067,7 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
   },
   {
     id: "lithuania-kaunas-central-post-office-landmarks-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Zentralpostamt Kaunas", hu: "Kaunasi központi posta", ro: "Poșta Centrală din Kaunas", en: "Kaunas Central Post Office" },
     coordinates: { lat: 54.898, lng: 23.9048 },

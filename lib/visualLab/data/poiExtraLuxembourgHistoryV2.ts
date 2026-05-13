@@ -3,6 +3,7 @@ export const luxembourgHistoryV2: POI[] = [
 
   {
     id: "luxembourg-bock-casemates-history-v2",
+    parent: "LU",
     type: "fortification",
     name: { de: "Bock-Kasematten", hu: "Bock-kazamaták", ro: "Cazematele Bock", en: "Bock Casemates",
 image: "/poi-images/luxembourg-bock-casemates-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Bock Casemates stone tunnels with cannon openings",
     image: "/poi-images/luxembourg-bock-casemates-history-v2.webp",
 },  {
     id: "luxembourg-vianden-castle-history-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Vianden", hu: "Viandeni vár", ro: "Castelul Vianden", en: "Vianden Castle",
 image: "/poi-images/luxembourg-vianden-castle-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Vianden Castle on a hill surrounded by forest",
     image: "/poi-images/luxembourg-vianden-castle-history-v2.webp",
 },  {
     id: "luxembourg-bourscheid-castle-history-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Burg Bourscheid", hu: "Bourscheid vára", ro: "Castelul Bourscheid", en: "Bourscheid Castle",
 image: "/poi-images/luxembourg-bourscheid-castle-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Bourscheid Castle ruins at night with illumination",
     image: "/poi-images/luxembourg-bourscheid-castle-history-v2.webp",
 },  {
     id: "luxembourg-clervaux-castle-history-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Clerf", hu: "Clervaux-i vár", ro: "Castelul Clervaux", en: "Clervaux Castle",
 image: "/poi-images/luxembourg-clervaux-castle-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "White Clervaux Castle with a tank in front",
     image: "/poi-images/luxembourg-clervaux-castle-history-v2.webp",
 },  {
     id: "luxembourg-esch-sur-sure-castle-history-v2",
+    parent: "LU",
     type: "ruins",
     name: { de: "Burg Esch-Sauer", hu: "Esch-sur-Sûre vára", ro: "Castelul Esch-sur-Sûre", en: "Esch-sur-Sûre Castle",
 image: "/poi-images/luxembourg-esch-sur-sure-castle-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Ruins of Esch-sur-Sûre Castle on a ridge",
     image: "/poi-images/luxembourg-esch-sur-sure-castle-history-v2.webp",
 },  {
     id: "luxembourg-larochette-castle-history-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Burg Larochette", hu: "Larochette vára", ro: "Castelul Larochette", en: "Larochette Castle",
 image: "/poi-images/luxembourg-larochette-castle-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Larochette Castle ruins on a cliff",
     image: "/poi-images/luxembourg-larochette-castle-history-v2.webp",
 },  {
     id: "luxembourg-hollenfels-castle-history-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Burg Hollenfels", hu: "Hollenfels vára", ro: "Castelul Hollenfels", en: "Hollenfels Castle",
 image: "/poi-images/luxembourg-hollenfels-castle-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Tall square tower of Hollenfels Castle",
     image: "/poi-images/luxembourg-hollenfels-castle-history-v2.webp",
 },  {
     id: "luxembourg-new-ansembourg-castle-history-v2",
+    parent: "LU",
     type: "palace",
     name: { de: "Großes Schloss Ansemburg", hu: "Új-Ansembourg kastélya", ro: "Castelul Nou din Ansembourg", en: "New Ansembourg Castle",
 image: "/poi-images/luxembourg-new-ansembourg-castle-history-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Gardens of New Ansembourg Castle with statues",
     image: "/poi-images/luxembourg-new-ansembourg-castle-history-v2.webp",
 },  {
     id: "luxembourg-wiltz-castle-history-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Wiltz", hu: "Wiltzi kastély", ro: "Castelul Wiltz", en: "Wiltz Castle",
 image: "/poi-images/luxembourg-wiltz-castle-history-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Renaissance facade of Wiltz Castle",
     image: "/poi-images/luxembourg-wiltz-castle-history-v2.webp",
 },  {
     id: "luxembourg-patton-memorial-museum-history-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "General Patton Memorial Museum", hu: "Patton Tábornok Emlékmúzeum", ro: "Muzeul Memorial General Patton", en: "General Patton Memorial Museum",
 image: "/poi-images/luxembourg-patton-memorial-museum-history-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Statue of General Patton in Ettelbruck",
     image: "/poi-images/luxembourg-patton-memorial-museum-history-v2.webp",
 },  {
     id: "luxembourg-military-history-museum-diekirch-history-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "Militärgeschichtliches Museum Diekirch", hu: "Diekirchi Hadtörténeti Múzeum", ro: "Muzeul Național de Istorie Militară", en: "National Museum of Military History",
 image: "/poi-images/luxembourg-military-history-museum-diekirch-history-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "World War II dioramas in Diekirch museum",
     image: "/poi-images/luxembourg-military-history-museum-diekirch-history-v2.webp",
 },  {
     id: "luxembourg-american-cemetery-hamm-history-v2",
+    parent: "LU",
     type: "monument",
     name: { de: "Amerikanischer Friedhof Hamm", hu: "Hammi Amerikai Katonai Temető", ro: "Cimitirul American din Hamm", en: "Luxembourg American Cemetery",
 image: "/poi-images/luxembourg-american-cemetery-hamm-history-v2.webp"
@@ -411,6 +423,7 @@ image: "/poi-images/luxembourg-american-cemetery-hamm-history-v2.webp"
   },
   {
     id: "luxembourg-german-war-cemetery-sandweiler-history-v2",
+    parent: "LU",
     type: "monument",
     name: { de: "Deutscher Soldatenfriedhof Sandweiler", hu: "Sandweileri Német Katonai Temető", ro: "Cimitirul German din Sandweiler", en: "Sandweiler German War Cemetery",
 image: "/poi-images/luxembourg-german-war-cemetery-sandweiler-history-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Dark granite crosses at Sandweiler Cemetery",
     image: "/poi-images/luxembourg-german-war-cemetery-sandweiler-history-v2.webp",
 },  {
     id: "luxembourg-roman-villa-echternach-history-v2",
+    parent: "LU",
     type: "ruins",
     name: { de: "Römervilla Echternach", hu: "Echternachi római villa", ro: "Vila Romană din Echternach", en: "Roman Villa Echternach",
 image: "/poi-images/luxembourg-roman-villa-echternach-history-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Foundations of Roman Villa Echternach",
     image: "/poi-images/luxembourg-roman-villa-echternach-history-v2.webp",
 },  {
     id: "luxembourg-echternach-abbey-history-v2",
+    parent: "LU",
     type: "cathedral",
     name: { de: "Abtei Echternach", hu: "Echternachi apátság", ro: "Abatia Echternach", en: "Echternach Abbey",
 image: "/poi-images/luxembourg-echternach-abbey-history-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Echternach Abbey basilica exterior",
     image: "/poi-images/luxembourg-echternach-abbey-history-v2.webp",
 },  {
     id: "luxembourg-fort-thungen-history-v2",
+    parent: "LU",
     type: "fortification",
     name: { de: "Fort Thüngen", hu: "Thüngen-erőd", ro: "Fortul Thüngen", en: "Fort Thüngen",
 image: "/poi-images/luxembourg-fort-thungen-history-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Three Acorns towers of Fort Thüngen",
     image: "/poi-images/luxembourg-fort-thungen-history-v2.webp",
 },  {
     id: "luxembourg-gelle-fra-monument-history-v2",
+    parent: "LU",
     type: "monument",
     name: { de: "Gëlle Fra", hu: "Gëlle Fra emlékmű", ro: "Monumentul Gëlle Fra", en: "Gëlle Fra (Monument of Remembrance)",
 image: "/poi-images/luxembourg-gelle-fra-monument-history-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Golden Lady statue on a tall obelisk",
     image: "/poi-images/luxembourg-gelle-fra-monument-history-v2.webp",
 },  {
     id: "luxembourg-grand-ducal-palace-history-v2",
+    parent: "LU",
     type: "palace",
     name: { de: "Großherzoglicher Palast", hu: "Nagyhercegi palota", ro: "Palatul Mare Ducal", en: "Grand Ducal Palace",
 image: "/poi-images/luxembourg-grand-ducal-palace-history-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Ornate facade of Grand Ducal Palace",
     image: "/poi-images/luxembourg-grand-ducal-palace-history-v2.webp",
 },  {
     id: "luxembourg-notre-dame-cathedral-luxembourg-history-v2",
+    parent: "LU",
     type: "cathedral",
     name: { de: "Kathedrale Unserer Lieben Frau", hu: "Luxemburgi Notre-Dame-székesegyház", ro: "Catedrala Notre-Dame", en: "Notre-Dame Cathedral",
 image: "/poi-images/luxembourg-notre-dame-cathedral-luxembourg-history-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Towers of Notre-Dame Cathedral Luxembourg",
     image: "/poi-images/luxembourg-notre-dame-cathedral-luxembourg-history-v2.webp",
 },  {
     id: "luxembourg-place-d-armes-luxembourg-history-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Place d'Armes", hu: "Place d'Armes", ro: "Place d'Armes", en: "Place d'Armes",
 image: "/poi-images/luxembourg-place-d-armes-luxembourg-history-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Place d'Armes square with cafes and trees",
     image: "/poi-images/luxembourg-place-d-armes-luxembourg-history-v2.webp",
 },  {
     id: "luxembourg-neumunster-abbey-history-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Abtei Neumünster", hu: "Neumünster-apátság", ro: "Abatia Neumünster", en: "Neumünster Abbey",
 image: "/poi-images/luxembourg-neumunster-abbey-history-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Neumünster Abbey buildings by the river",
     image: "/poi-images/luxembourg-neumunster-abbey-history-v2.webp",
 },  {
     id: "luxembourg-schoenfels-castle-history-v2",
+    parent: "LU",
     type: "castle",
     name: { de: "Schloss Schönefels", hu: "Schoenfels vára", ro: "Castelul Schoenfels", en: "Schoenfels Castle",
 image: "/poi-images/luxembourg-schoenfels-castle-history-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Tall square keep of Schoenfels Castle",
     image: "/poi-images/luxembourg-schoenfels-castle-history-v2.webp",
 },  {
     id: "luxembourg-koerich-castle-history-v2",
+    parent: "LU",
     type: "ruins",
     name: { de: "Burg Koerich", hu: "Koerichi vár", ro: "Castelul Koerich", en: "Koerich Castle",
 image: "/poi-images/luxembourg-koerich-castle-history-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Stone ruins of Koerich Castle in a village",
     image: "/poi-images/luxembourg-koerich-castle-history-v2.webp",
 },  {
     id: "luxembourg-useldange-castle-history-v2",
+    parent: "LU",
     type: "ruins",
     name: { de: "Burg Useldingen", hu: "Useldange vára", ro: "Castelul Useldange", en: "Useldange Castle",
 image: "/poi-images/luxembourg-useldange-castle-history-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Useldange Castle ruins and round tower",
     image: "/poi-images/luxembourg-useldange-castle-history-v2.webp",
 },  {
     id: "luxembourg-brandenbourg-castle-history-v2",
+    parent: "LU",
     type: "ruins",
     name: { de: "Burg Brandenbourg", hu: "Brandenbourg vára", ro: "Castelul Brandenbourg", en: "Brandenbourg Castle",
 image: "/poi-images/luxembourg-brandenbourg-castle-history-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Brandenbourg Castle ruins on a hilltop",
     image: "/poi-images/luxembourg-brandenbourg-castle-history-v2.webp",
 },  {
     id: "luxembourg-mont-saint-jean-dudelange-history-v2",
+    parent: "LU",
     type: "ruins",
     name: { de: "Burgruine Mont Saint-Jean", hu: "Mont Saint-Jean várrom", ro: "Ruinele Mont Saint-Jean", en: "Mont Saint-Jean Dudelange",
 image: "/poi-images/luxembourg-mont-saint-jean-dudelange-history-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Archaeological ruins on Mont Saint-Jean",
     image: "/poi-images/luxembourg-mont-saint-jean-dudelange-history-v2.webp",
 },  {
     id: "luxembourg-citadel-holy-spirit-history-v2",
+    parent: "LU",
     type: "fortification",
     name: { de: "Heilig-Geist-Zitadelle", hu: "Szentlélek-citadella", ro: "Citadela Sfântul Spirit", en: "Citadel of the Holy Spirit",
 image: "/poi-images/luxembourg-citadel-holy-spirit-history-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Bastions of the Citadel of the Holy Spirit",
     image: "/poi-images/luxembourg-citadel-holy-spirit-history-v2.webp",
 },  {
     id: "luxembourg-national-museum-resistance-esch-history-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "Nationalmuseum der Résistance", hu: "Nemzeti Ellenállási Múzeum", ro: "Muzeul Național al Rezistenței", en: "National Museum of the Resistance",
 image: "/poi-images/luxembourg-national-museum-resistance-esch-history-v2.webp"

@@ -3,6 +3,7 @@ export const ukraineReliefV2: POI[] = [
 
   {
     id: "ukraine-brebeneskul-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Brebeneskul", hu: "Brebeneszkul", ro: "Brebeneskul", en: "Brebeneskul",
 image: "/poi-images/ukraine-brebeneskul-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians",
     image: "/poi-images/ukraine-brebeneskul-relief-v2.webp",
 },  {
     id: "ukraine-petros-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Petros", hu: "Petrosz", ro: "Petros", en: "Petros",
 image: "/poi-images/ukraine-petros-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
     image: "/poi-images/ukraine-petros-relief-v2.webp",
 },  {
     id: "ukraine-rebra-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Rebra", hu: "Rebra", ro: "Rebra", en: "Rebra",
 image: "/poi-images/ukraine-rebra-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
     image: "/poi-images/ukraine-rebra-relief-v2.webp",
 },  {
     id: "ukraine-hutyn-tomnatyk-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Hutyn Tomnatyk", hu: "Gutin-Tomnatik", ro: "Hutin Tomnatic", en: "Hutyn Tomnatyk",
 image: "/poi-images/ukraine-hutyn-tomnatyk-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Hutyn Tomnatyk peak near a mountain lake",
     image: "/poi-images/ukraine-hutyn-tomnatyk-relief-v2.webp",
 },  {
     id: "ukraine-roman-kosh-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Roman-Kosch", hu: "Roman-Kos", ro: "Roman-Koș", en: "Roman-Kosh",
 image: "/poi-images/ukraine-roman-kosh-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
     image: "/poi-images/ukraine-roman-kosh-relief-v2.webp",
 },  {
     id: "ukraine-ai-petri-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Ai-Petri", hu: "Aj-Petri", ro: "Ai-Petri", en: "Ai-Petri",
 image: "/poi-images/ukraine-ai-petri-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea",
     image: "/poi-images/ukraine-ai-petri-relief-v2.webp",
 },  {
     id: "ukraine-chatyr-dag-relief-v2",
+    parent: "UA",
     type: "mountain",
     name: { de: "Tschatyr-Dag", hu: "Csatir-Dag", ro: "Ceatîr-Dag", en: "Chatyr-Dag",
 image: "/poi-images/ukraine-chatyr-dag-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
     image: "/poi-images/ukraine-chatyr-dag-relief-v2.webp",
 },  {
     id: "ukraine-demerdzhi-yaila-relief-v2",
+    parent: "UA",
     type: "mountain",
     name: { de: "Demerdschi-Jajla", hu: "Demerdzsi-jajla", ro: "Demergi-Iaila", en: "Demerdzhi-Yaila",
 image: "/poi-images/ukraine-demerdzhi-yaila-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
     image: "/poi-images/ukraine-demerdzhi-yaila-relief-v2.webp",
 },  {
     id: "ukraine-karadag-relief-v2",
+    parent: "UA",
     type: "mountain",
     name: { de: "Karadag", hu: "Kara-Dag", ro: "Kara-Dag", en: "Karadag",
 image: "/poi-images/ukraine-karadag-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Volcanic coastal rocks of Karadag in Crimea",
     image: "/poi-images/ukraine-karadag-relief-v2.webp",
 },  {
     id: "ukraine-mohyla-mechetna-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Mohyla Mechetna", hu: "Mohila Mecsetna", ro: "Mohila Mechetna", en: "Mohyla Mechetna",
 image: "/poi-images/ukraine-mohyla-mechetna-relief-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
     image: "/poi-images/ukraine-mohyla-mechetna-relief-v2.webp",
 },  {
     id: "ukraine-belmakh-mohyla-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Belmach-Mohyla", hu: "Belmah-mohila", ro: "Belmah-Mohila", en: "Belmakh-Mohyla",
 image: "/poi-images/ukraine-belmakh-mohyla-relief-v2.webp"
@@ -377,6 +388,7 @@ image: "/poi-images/ukraine-belmakh-mohyla-relief-v2.webp"
   },
   {
     id: "ukraine-mount-syvulia-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Große Sywulja", hu: "Nagy-Szivulya", ro: "Sivula Mare", en: "Mount Syvulia",
 image: "/poi-images/ukraine-mount-syvulia-relief-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
     image: "/poi-images/ukraine-mount-syvulia-relief-v2.webp",
 },  {
     id: "ukraine-mount-stih-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Stih", hu: "Asztag (Sztih)", ro: "Stogu", en: "Mount Stih",
 image: "/poi-images/ukraine-mount-stih-relief-v2.webp"
@@ -445,6 +458,7 @@ image: "/poi-images/ukraine-mount-stih-relief-v2.webp"
   },
   {
     id: "ukraine-mount-gemba-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Gemba", hu: "Gimba (Gemba)", ro: "Ghemba", en: "Mount Gemba",
 image: "/poi-images/ukraine-mount-gemba-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
     image: "/poi-images/ukraine-mount-gemba-relief-v2.webp",
 },  {
     id: "ukraine-mount-parashka-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Paraschka", hu: "Paraska", ro: "Parașca", en: "Mount Parashka",
 image: "/poi-images/ukraine-mount-parashka-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Hiking trail on Mount Parashka ridge",
     image: "/poi-images/ukraine-mount-parashka-relief-v2.webp",
 },  {
     id: "ukraine-mount-pikuy-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Pikuj", hu: "Pikuj", ro: "Picu", en: "Mount Pikuy",
 image: "/poi-images/ukraine-mount-pikuy-relief-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Summit obelisk on top of Mount Pikuy",
     image: "/poi-images/ukraine-mount-pikuy-relief-v2.webp",
 },  {
     id: "ukraine-mount-kamula-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Kamula", hu: "Kamula", ro: "Camula", en: "Mount Kamula",
 image: "/poi-images/ukraine-mount-kamula-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Forested hill of Mount Kamula in Lviv region",
     image: "/poi-images/ukraine-mount-kamula-relief-v2.webp",
 },  {
     id: "ukraine-podilski-tovtry-relief-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Podilski Towtry", hu: "Podóliai-tovtrák", ro: "Tovtrele Podoliei", en: "Podilski Tovtry",
 image: "/poi-images/ukraine-podilski-tovtry-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Rocky limestone hills of Podilski Tovtry",
     image: "/poi-images/ukraine-podilski-tovtry-relief-v2.webp",
 },  {
     id: "ukraine-podolian-upland-relief-v2",
+    parent: "UA",
     type: "mountain",
     name: { de: "Podolische Platte", hu: "Podóliai-hátság", ro: "Podișul Podoliei", en: "Podolian Upland",
 image: "/poi-images/ukraine-podolian-upland-relief-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Rolling plateau landscape of the Podolian Upland",
     image: "/poi-images/ukraine-podolian-upland-relief-v2.webp",
 },  {
     id: "ukraine-dnieper-upland-relief-v2",
+    parent: "UA",
     type: "mountain",
     name: { de: "Dnjepr-Hochland", hu: "Dnyeper-menti-hátság", ro: "Podișul Niprului", en: "Dnieper Upland",
 image: "/poi-images/ukraine-dnieper-upland-relief-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Rolling hills of the Dnieper Upland",
     image: "/poi-images/ukraine-dnieper-upland-relief-v2.webp",
 },  {
     id: "ukraine-donets-ridge-relief-v2",
+    parent: "UA",
     type: "mountain",
     name: { de: "Donezrücken", hu: "Donyeci-hátság", ro: "Podișul Doneț", en: "Donets Ridge",
 image: "/poi-images/ukraine-donets-ridge-relief-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Eroded landscape of the Donets Ridge",
     image: "/poi-images/ukraine-donets-ridge-relief-v2.webp",
 },  {
     id: "ukraine-polissian-lowland-relief-v2",
+    parent: "UA",
     type: "valley",
     name: { de: "Polesische Tiefebene", hu: "Poléziai-alföld", ro: "Câmpia Poliziei", en: "Polissian Lowland",
 image: "/poi-images/ukraine-polissian-lowland-relief-v2.webp"
@@ -751,6 +773,7 @@ image: "/poi-images/ukraine-polissian-lowland-relief-v2.webp"
   },
   {
     id: "ukraine-black-sea-lowland-relief-v2",
+    parent: "UA",
     type: "valley",
     name: { de: "Schwarzmeertiefland", hu: "Fekete-tenger-menti-alföld", ro: "Câmpia Mării Negre", en: "Black Sea Lowland",
 image: "/poi-images/ukraine-black-sea-lowland-relief-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Vast flat steppe of the Black Sea Lowland",
     image: "/poi-images/ukraine-black-sea-lowland-relief-v2.webp",
 },  {
     id: "ukraine-azov-upland-relief-v2",
+    parent: "UA",
     type: "mountain",
     name: { de: "Asowsches Hochland", hu: "Azovi-hátság", ro: "Podișul Azov", en: "Azov Upland",
 image: "/poi-images/ukraine-azov-upland-relief-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Rolling plateau of the Azov Upland",
     image: "/poi-images/ukraine-azov-upland-relief-v2.webp",
 },  {
     id: "ukraine-mount-kremenets-relief-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Berg Kremenez", hu: "Kremenec-hegy", ro: "Muntele Cremeneț", en: "Mount Kremenets",
 image: "/poi-images/ukraine-mount-kremenets-relief-v2.webp"

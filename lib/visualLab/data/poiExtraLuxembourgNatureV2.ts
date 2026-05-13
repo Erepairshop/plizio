@@ -3,6 +3,7 @@ export const luxembourgNatureV2: POI[] = [
 
   {
     id: "luxembourg-lake-upper-sure-nature-v2",
+    parent: "LU",
     type: "lake",
     name: { de: "Obersauer-Stausee", hu: "Felső-Sûre-tó", ro: "Lacul de pe Sûre Superioară", en: "Lake Upper Sûre",
 image: "/poi-images/luxembourg-lake-upper-sure-nature-v2.webp"
@@ -36,6 +37,7 @@ imageHint: "Aerial view of Lake Upper Sûre with forested hills",
     image: "/poi-images/luxembourg-lake-upper-sure-nature-v2.webp",
 },  {
     id: "luxembourg-sauer-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Sauer", hu: "Sûre", ro: "Râul Sûre", en: "Sauer River",
 image: "/poi-images/luxembourg-sauer-river-nature-v2.webp"
@@ -69,6 +71,7 @@ imageHint: "The Sauer River winding through a green valley",
     image: "/poi-images/luxembourg-sauer-river-nature-v2.webp",
 },  {
     id: "luxembourg-our-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Our", hu: "Our", ro: "Râul Our", en: "Our River",
 image: "/poi-images/luxembourg-our-river-nature-v2.webp"
@@ -102,6 +105,7 @@ imageHint: "Our River with rocky banks and forests",
     image: "/poi-images/luxembourg-our-river-nature-v2.webp",
 },  {
     id: "luxembourg-clerve-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Clerf (Fluss)", hu: "Clerve", ro: "Râul Clerve", en: "Clerve River",
 image: "/poi-images/luxembourg-clerve-river-nature-v2.webp"
@@ -135,6 +139,7 @@ imageHint: "River Clerve flowing through Clervaux valley",
     image: "/poi-images/luxembourg-clerve-river-nature-v2.webp",
 },  {
     id: "luxembourg-attert-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Attert", hu: "Attert", ro: "Râul Attert", en: "Attert River",
 image: "/poi-images/luxembourg-attert-river-nature-v2.webp"
@@ -168,6 +173,7 @@ imageHint: "Attert River in a rural Luxembourg landscape",
     image: "/poi-images/luxembourg-attert-river-nature-v2.webp",
 },  {
     id: "luxembourg-eisch-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Eisch", hu: "Eisch", ro: "Râul Eisch", en: "Eisch River",
 image: "/poi-images/luxembourg-eisch-river-nature-v2.webp"
@@ -201,6 +207,7 @@ imageHint: "Eisch River flowing through a wooded valley",
     image: "/poi-images/luxembourg-eisch-river-nature-v2.webp",
 },  {
     id: "luxembourg-mamer-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Mamer (Fluss)", hu: "Mamer", ro: "Râul Mamer", en: "Mamer River",
 image: "/poi-images/luxembourg-mamer-river-nature-v2.webp"
@@ -234,6 +241,7 @@ imageHint: "Mamer River surrounded by lush greenery",
     image: "/poi-images/luxembourg-mamer-river-nature-v2.webp",
 },  {
     id: "luxembourg-wiltz-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Wiltz (Fluss)", hu: "Wiltz", ro: "Râul Wiltz", en: "Wiltz River",
 image: "/poi-images/luxembourg-wiltz-river-nature-v2.webp"
@@ -267,6 +275,7 @@ imageHint: "Wiltz River in the Oesling region",
     image: "/poi-images/luxembourg-wiltz-river-nature-v2.webp",
 },  {
     id: "luxembourg-syre-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Syr", hu: "Syre", ro: "Râul Syre", en: "Syre River",
 image: "/poi-images/luxembourg-syre-river-nature-v2.webp"
@@ -300,6 +309,7 @@ imageHint: "Syre River flowing through wetlands",
     image: "/poi-images/luxembourg-syre-river-nature-v2.webp",
 },  {
     id: "luxembourg-kockelscheuer-park-nature-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Kockelscheuer", hu: "Kockelscheuer park", ro: "Parcul Kockelscheuer", en: "Kockelscheuer Park",
 image: "/poi-images/luxembourg-kockelscheuer-park-nature-v2.webp"
@@ -333,6 +343,7 @@ imageHint: "Ponds and paths in Kockelscheuer park",
     image: "/poi-images/luxembourg-kockelscheuer-park-nature-v2.webp",
 },  {
     id: "luxembourg-remerschen-lakes-nature-v2",
+    parent: "LU",
     type: "lake",
     name: { de: "Baggerweieren Remerschen", hu: "Remerscheni-tavak", ro: "Lacurile Remerschen", en: "Remerschen Lakes",
 image: "/poi-images/luxembourg-remerschen-lakes-nature-v2.webp"
@@ -366,6 +377,7 @@ imageHint: "Remerschen lakes with birdwatching huts",
     image: "/poi-images/luxembourg-remerschen-lakes-nature-v2.webp",
 },  {
     id: "luxembourg-echternach-lake-nature-v2",
+    parent: "LU",
     type: "lake",
     name: { de: "Echternacher See", hu: "Echternachi-tó", ro: "Lacul Echternach", en: "Echternach Lake",
 image: "/poi-images/luxembourg-echternach-lake-nature-v2.webp"
@@ -399,6 +411,7 @@ imageHint: "Lake Echternach with pedal boats",
     image: "/poi-images/luxembourg-echternach-lake-nature-v2.webp",
 },  {
     id: "luxembourg-weiswampach-lakes-nature-v2",
+    parent: "LU",
     type: "lake",
     name: { de: "Weiswampacher See", hu: "Weiswampachi-tavak", ro: "Lacurile Weiswampach", en: "Weiswampach Lakes",
 image: "/poi-images/luxembourg-weiswampach-lakes-nature-v2.webp"
@@ -432,6 +445,7 @@ imageHint: "Aerial view of Weiswampach lakes",
     image: "/poi-images/luxembourg-weiswampach-lakes-nature-v2.webp",
 },  {
     id: "luxembourg-siwescheleff-nature-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Siweschlëff", hu: "Siweschlëff", ro: "Siweschlëff", en: "Siweschlëff",
 image: "/poi-images/luxembourg-siwescheleff-nature-v2.webp"
@@ -465,6 +479,7 @@ imageHint: "Narrow rock passages of Siweschlëff",
     image: "/poi-images/luxembourg-siwescheleff-nature-v2.webp",
 },  {
     id: "luxembourg-goldfralay-nature-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Goldfralay", hu: "Goldfralay", ro: "Goldfralay", en: "Goldfralay",
 image: "/poi-images/luxembourg-goldfralay-nature-v2.webp"
@@ -498,6 +513,7 @@ imageHint: "Unique sandstone rock formation Goldfralay",
     image: "/poi-images/luxembourg-goldfralay-nature-v2.webp",
 },  {
     id: "luxembourg-adlerhorst-nature-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Adlerhorst", hu: "Adlerhorst szikla", ro: "Adlerhorst", en: "Adlerhorst",
 image: "/poi-images/luxembourg-adlerhorst-nature-v2.webp"
@@ -531,6 +547,7 @@ imageHint: "Rocky viewpoint Adlerhorst overlooking valley",
     image: "/poi-images/luxembourg-adlerhorst-nature-v2.webp",
 },  {
     id: "luxembourg-eulenburg-nature-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Eulenburg", hu: "Eulenburg", ro: "Eulenburg", en: "Eulenburg",
 image: "/poi-images/luxembourg-eulenburg-nature-v2.webp"
@@ -564,6 +581,7 @@ imageHint: "Labyrinthine rock corridors of Eulenburg",
     image: "/poi-images/luxembourg-eulenburg-nature-v2.webp",
 },  {
     id: "luxembourg-binzeltschleff-nature-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Binzeltschlëff", hu: "Binzeltschlëff", ro: "Binzeltschlëff", en: "Binzeltschlëff",
 image: "/poi-images/luxembourg-binzeltschleff-nature-v2.webp"
@@ -597,6 +615,7 @@ image: "/poi-images/luxembourg-binzeltschleff-nature-v2.webp"
   },
   {
     id: "luxembourg-champagne-rock-nature-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Champagnerfiels", hu: "Champagnerfiels", ro: "Champagnerfiels", en: "Champagne Rock",
 image: "/poi-images/luxembourg-champagne-rock-nature-v2.webp"
@@ -630,6 +649,7 @@ imageHint: "Unique rock formation Champagne Rock",
     image: "/poi-images/luxembourg-champagne-rock-nature-v2.webp",
 },  {
     id: "luxembourg-heringer-millen-nature-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Heringer Millen", hu: "Heringer Millen", ro: "Heringer Millen", en: "Heringer Millen",
 image: "/poi-images/luxembourg-heringer-millen-nature-v2.webp"
@@ -663,6 +683,7 @@ imageHint: "Historical mill building in the forest",
     image: "/poi-images/luxembourg-heringer-millen-nature-v2.webp",
 },  {
     id: "luxembourg-mellerdall-nature-park-nature-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Natur- & Geopark Mëllerdall", hu: "Mëllerdall Natúr- és Geopark", ro: "Parcul Natural și Geoparcul Mëllerdall", en: "Mëllerdall Nature & Geopark",
 image: "/poi-images/luxembourg-mellerdall-nature-park-nature-v2.webp"
@@ -696,6 +717,7 @@ imageHint: "Landscape of Mëllerdall Nature Park",
     image: "/poi-images/luxembourg-mellerdall-nature-park-nature-v2.webp",
 },  {
     id: "luxembourg-prenzebierg-nature-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Prënzebierg", hu: "Prënzebierg", ro: "Prënzebierg", en: "Prënzebierg",
 image: "/poi-images/luxembourg-prenzebierg-nature-v2.webp"
@@ -729,6 +751,7 @@ imageHint: "Red rock walls and greenery in Prënzebierg",
     image: "/poi-images/luxembourg-prenzebierg-nature-v2.webp",
 },  {
     id: "luxembourg-ellergronn-nature-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Ellergronn", hu: "Ellergronn", ro: "Ellergronn", en: "Ellergronn",
 image: "/poi-images/luxembourg-ellergronn-nature-v2.webp"
@@ -762,6 +785,7 @@ imageHint: "Nature reserve path in Ellergronn",
     image: "/poi-images/luxembourg-ellergronn-nature-v2.webp",
 },  {
     id: "luxembourg-telpeschholz-nature-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Telpeschholz", hu: "Telpeschholz", ro: "Telpeschholz", en: "Telpeschholz",
 image: "/poi-images/luxembourg-telpeschholz-nature-v2.webp"
@@ -795,6 +819,7 @@ imageHint: "Heathland landscape in Telpeschholz",
     image: "/poi-images/luxembourg-telpeschholz-nature-v2.webp",
 },  {
     id: "luxembourg-am-brill-nature-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Am Brill (Bettange)", hu: "Am Brill", ro: "Am Brill", en: "Am Brill",
 image: "/poi-images/luxembourg-am-brill-nature-v2.webp"
@@ -828,6 +853,7 @@ imageHint: "Wetlands and reed beds in Am Brill",
     image: "/poi-images/luxembourg-am-brill-nature-v2.webp",
 },  {
     id: "luxembourg-leiffrachen-nature-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Léiffrächen", hu: "Léiffrächen", ro: "Léiffrächen", en: "Léiffrächen",
 image: "/poi-images/luxembourg-leiffrachen-nature-v2.webp"
@@ -861,6 +887,7 @@ imageHint: "Dry grasslands and rocky patches in Léiffrächen",
     image: "/poi-images/luxembourg-leiffrachen-nature-v2.webp",
 },  {
     id: "luxembourg-valley-of-seven-castles-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Tal der sieben Schlösser", hu: "Hét kastély völgye", ro: "Valea celor Șapte Castele", en: "Valley of the Seven Castles",
 image: "/poi-images/luxembourg-valley-of-seven-castles-nature-v2.webp"
@@ -894,6 +921,7 @@ imageHint: "Panoramic view of the Eisch valley",
     image: "/poi-images/luxembourg-valley-of-seven-castles-nature-v2.webp",
 },  {
     id: "luxembourg-mamer-valley-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Mamertal", hu: "Mamer-völgy", ro: "Valea Mamer", en: "Mamer Valley",
 image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
@@ -928,6 +956,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
 ,
   {
     id: "luxembourg-mess-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Mess", hu: "Mess-folyó", ro: "Râul Mess", en: "Mess River" },
     coordinates: { lat: 49.5083, lng: 6.0238 },
@@ -947,6 +976,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-wark-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Wark", hu: "Wark-folyó", ro: "Râul Wark", en: "Wark River" },
     coordinates: { lat: 49.8472, lng: 6.1056 },
@@ -966,6 +996,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-woltz-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Woltz", hu: "Woltz-folyó", ro: "Râul Woltz", en: "Woltz River" },
     coordinates: { lat: 50.0833, lng: 6.0167 },
@@ -985,6 +1016,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-gander-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Gander", hu: "Gander-folyó", ro: "Râul Gander", en: "Gander River" },
     coordinates: { lat: 49.4833, lng: 6.2667 },
@@ -1004,6 +1036,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-blees-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Blees", hu: "Blees-folyó", ro: "Râul Blees", en: "Blees River" },
     coordinates: { lat: 49.8833, lng: 6.1833 },
@@ -1023,6 +1056,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-molberlee-nature-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Molberlee", hu: "Molberlee-gerinc", ro: "Creasta Molberlee", en: "Molberlee Ridge" },
     coordinates: { lat: 49.9481, lng: 6.0742 },
@@ -1042,6 +1076,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-hockslay-nature-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Hockslay", hu: "Hockslay-szikla", ro: "Stânca Hockslay", en: "Hockslay Rock" },
     coordinates: { lat: 49.9678, lng: 5.9322 },
@@ -1061,6 +1096,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-noumerleeen-nature-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Noumerleeën", hu: "Noumerleeën-sziklák", ro: "Stâncile Noumerleeën", en: "Noumerleeën Rocks" },
     coordinates: { lat: 49.7839, lng: 6.1642 },
@@ -1080,6 +1116,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-kierchbierg-forest-nature-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Kirchberg-Wald", hu: "Kirchberg-erdő", ro: "Pădurea Kirchberg", en: "Kirchberg Forest" },
     coordinates: { lat: 49.6361, lng: 6.1625 },
@@ -1099,6 +1136,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-akelsbech-nature-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Akelsbech", hu: "Akelsbech-rezervátum", ro: "Rezervația Akelsbech", en: "Akelsbech Reserve" },
     coordinates: { lat: 49.5211, lng: 6.1158 },
@@ -1118,6 +1156,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-pallembierg-nature-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Pällembierg", hu: "Pällembierg-természetvédelmi terület", ro: "Rezervația Pällembierg", en: "Pällembierg Nature Reserve" },
     coordinates: { lat: 49.5639, lng: 6.3889 },
@@ -1137,6 +1176,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-lallengerbierg-nature-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Lallengerbierg", hu: "Lallengerbierg-természetvédelmi terület", ro: "Rezervația Lallengerbierg", en: "Lallengerbierg Nature Reserve" },
     coordinates: { lat: 49.5083, lng: 6.0028 },
@@ -1156,6 +1196,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-strutzbierg-nature-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Strutzbierg", hu: "Strutzbierg-erdő", ro: "Pădurea Strutzbierg", en: "Strutzbierg Forest" },
     coordinates: { lat: 49.5222, lng: 6.0917 },
@@ -1175,6 +1216,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-amberkneppchen-nature-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Amberkneppchen", hu: "Amberkneppchen-domb", ro: "Dealul Amberkneppchen", en: "Amberkneppchen Hill" },
     coordinates: { lat: 49.7139, lng: 6.2417 },
@@ -1194,6 +1236,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-helperknapp-nature-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Helperknapp", hu: "Helperknapp-domb", ro: "Dealul Helperknapp", en: "Helperknapp Hill" },
     coordinates: { lat: 49.7542, lng: 6.0153 },
@@ -1213,6 +1256,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-titelberg-nature-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Titelberg", hu: "Titelberg-fennsík", ro: "Platoul Titelberg", en: "Titelberg Plateau" },
     coordinates: { lat: 49.5397, lng: 5.8889 },
@@ -1232,6 +1276,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-zolwerknapp-nature-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Zolwerknapp", hu: "Zolwerknapp-domb", ro: "Dealul Zolwerknapp", en: "Zolwerknapp Hill" },
     coordinates: { lat: 49.5194, lng: 5.9392 },
@@ -1251,6 +1296,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-gaalgebierg-belvaux-nature-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Gaalgebierg (Belvaux)", hu: "Gaalgebierg-domb (Belvaux)", ro: "Gaalgebierg (Belvaux)", en: "Gaalgebierg (Belvaux)" },
     coordinates: { lat: 49.5111, lng: 5.9222 },
@@ -1270,6 +1316,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-reimecherbierg-nature-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Réimecherbierg", hu: "Remichi-domb", ro: "Dealul Remich", en: "Réimecherbierg" },
     coordinates: { lat: 49.5444, lng: 6.3583 },
@@ -1289,6 +1336,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-greiveldange-hills-nature-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Greiveldinger Höhen", hu: "Greiveldange-i dombok", ro: "Dealurile Greiveldange", en: "Greiveldange Hills" },
     coordinates: { lat: 49.5889, lng: 6.3472 },
@@ -1308,6 +1356,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-ehnen-valley-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Ehner Tal", hu: "Ehnen-völgy", ro: "Valea Ehnen", en: "Ehnen Valley" },
     coordinates: { lat: 49.6014, lng: 6.3847 },
@@ -1327,6 +1376,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-machtum-rocks-nature-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Machtumer Felsen", hu: "Machtumi sziklák", ro: "Stâncile Machtum", en: "Machtum Rocks" },
     coordinates: { lat: 49.6583, lng: 6.4389 },
@@ -1346,6 +1396,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-wasserbillig-moselle-bend-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Moselschleife Wasserbillig", hu: "Wasserbilligi Mosel-kanyar", ro: "Cotul Moselei Wasserbillig", en: "Wasserbillig Moselle Bend" },
     coordinates: { lat: 49.7139, lng: 6.4917 },
@@ -1365,6 +1416,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-born-sure-valley-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Sauer-Aue bei Born", hu: "Borni Sauer-ártér", ro: "Lunca Sauer la Born", en: "Born Sûre Valley" },
     coordinates: { lat: 49.7528, lng: 6.5139 },
@@ -1384,6 +1436,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-rosport-sure-valley-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Sauer-Schleife Rosport", hu: "Rosporti Sauer-kanyar", ro: "Cotul râului Sauer Rosport", en: "Rosport Sûre Valley" },
     coordinates: { lat: 49.8056, lng: 6.5028 },
@@ -1403,6 +1456,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-moersdorf-nature-area-nature-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Naturschutzgebiet Moersdorf", hu: "Moersdorfi természetvédelmi terület", ro: "Rezervația Moersdorf", en: "Moersdorf Nature Area" },
     coordinates: { lat: 49.7444, lng: 6.5056 },
@@ -1422,6 +1476,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-girsterklaus-hill-nature-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Girsterklaus-Höhe", hu: "Girsterklaus-domb", ro: "Dealul Girsterklaus", en: "Girsterklaus Hill" },
     coordinates: { lat: 49.7792, lng: 6.4972 },
@@ -1441,6 +1496,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-tretterbaach-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Trëtterbaach", hu: "Trëtterbaach-patak", ro: "Pârâul Trëtterbaach", en: "Trëtterbaach Stream" },
     coordinates: { lat: 50.0639, lng: 5.9139 },
@@ -1460,6 +1516,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-eltz-river-nature-v2",
+    parent: "LU",
     type: "river",
     name: { de: "Eltz", hu: "Eltz-patak", ro: "Pârâul Eltz", en: "Eltz Stream" },
     coordinates: { lat: 49.7917, lng: 5.8833 },
@@ -1479,6 +1536,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-mont-st-nicolas-nature-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Mont Saint-Nicolas", hu: "Szent Miklós-hegy", ro: "Muntele Saint-Nicolas", en: "Mont Saint-Nicolas" },
     coordinates: { lat: 49.9556, lng: 6.2139 },
@@ -1498,6 +1556,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-wark-valley-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Warktal", hu: "Wark-völgy", ro: "Valea Wark", en: "Wark Valley" },
     coordinates: { lat: 49.8333, lng: 6.05 },
@@ -1517,6 +1576,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-mess-valley-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Messtal", hu: "Mess-völgy", ro: "Valea Mess", en: "Mess Valley" },
     coordinates: { lat: 49.5222, lng: 6.0528 },
@@ -1536,6 +1596,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-tretterbaach-valley-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Trëtterbaachtal", hu: "Trëtterbaach-völgy", ro: "Valea Trëtterbaach", en: "Trëtterbaach Valley" },
     coordinates: { lat: 50.05, lng: 5.9 },
@@ -1555,6 +1616,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-blees-valley-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Bleestal", hu: "Blees-völgy", ro: "Valea Blees", en: "Blees Valley" },
     coordinates: { lat: 49.8667, lng: 6.1667 },
@@ -1574,6 +1636,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-gander-valley-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Gandertal", hu: "Gander-völgy", ro: "Valea Gander", en: "Gander Valley" },
     coordinates: { lat: 49.4917, lng: 6.2528 },
@@ -1593,6 +1656,7 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
   },
   {
     id: "luxembourg-woltz-valley-nature-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Woltz-Tal", hu: "Woltz-völgy", ro: "Valea Woltz", en: "Woltz Valley" },
     coordinates: { lat: 50.1, lng: 6.0 },

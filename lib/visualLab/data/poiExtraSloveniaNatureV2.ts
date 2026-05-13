@@ -3,6 +3,7 @@ export const sloveniaNatureV2: POI[] = [
 
   {
     id: "slovenia-triglav-nature-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Triglav", hu: "Triglav", ro: "Triglav", en: "Triglav",
 image: "/poi-images/slovenia-triglav-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Triglav mountain peak in Julian Alps",
     image: "/poi-images/slovenia-triglav-nature-v2.webp",
 },  {
     id: "slovenia-lake-bled-nature-v2",
+    parent: "SI",
     type: "lake",
     name: { de: "Bleder See", hu: "Bledi-tó", ro: "Lacul Bled", en: "Lake Bled",
 image: "/poi-images/slovenia-lake-bled-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Lake Bled with island church at sunrise",
     image: "/poi-images/slovenia-lake-bled-nature-v2.webp",
 },  {
     id: "slovenia-lake-bohinj-nature-v2",
+    parent: "SI",
     type: "lake",
     name: { de: "Wocheiner See", hu: "Bohinji-tó", ro: "Lacul Bohinj", en: "Lake Bohinj",
 image: "/poi-images/slovenia-lake-bohinj-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Lake Bohinj with Julian Alps reflection",
     image: "/poi-images/slovenia-lake-bohinj-nature-v2.webp",
 },  {
     id: "slovenia-soca-river-nature-v2",
+    parent: "SI",
     type: "river",
     name: { de: "Soča", hu: "Soča", ro: "Râul Soča", en: "Soča River",
 image: "/poi-images/slovenia-soca-river-nature-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Emerald green Soca river in Slovenia",
     image: "/poi-images/slovenia-soca-river-nature-v2.webp",
 },  {
     id: "slovenia-postojna-cave-nature-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Adelsberger Grotte", hu: "Postojnai-cseppkőbarlang", ro: "Peștera Postojna", en: "Postojna Cave",
 image: "/poi-images/slovenia-postojna-cave-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Postojna cave stalactites and stalagmites",
     image: "/poi-images/slovenia-postojna-cave-nature-v2.webp",
 },  {
     id: "slovenia-skocjan-caves-nature-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Höhlen von Škocjan", hu: "Škocjan-barlangrendszer", ro: "Peșterile Škocjan", en: "Škocjan Caves",
 image: "/poi-images/slovenia-skocjan-caves-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Skocjan caves underground canyon bridge",
     image: "/poi-images/slovenia-skocjan-caves-nature-v2.webp",
 },  {
     id: "slovenia-vintgar-gorge-nature-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Vintgar-Klamm", hu: "Vintgar-szurdok", ro: "Cheile Vintgar", en: "Vintgar Gorge",
 image: "/poi-images/slovenia-vintgar-gorge-nature-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Vintgar gorge wooden walkway Radovna river",
     image: "/poi-images/slovenia-vintgar-gorge-nature-v2.webp",
 },  {
     id: "slovenia-savica-waterfall-nature-v2",
+    parent: "SI",
     type: "river",
     name: { de: "Savica-Wasserfall", hu: "Savica-vízesés", ro: "Cascada Savica", en: "Savica Waterfall",
 image: "/poi-images/slovenia-savica-waterfall-nature-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Savica waterfall Julian Alps Slovenia",
     image: "/poi-images/slovenia-savica-waterfall-nature-v2.webp",
 },  {
     id: "slovenia-vrsic-pass-nature-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Vršič-Pass", hu: "Vršič-hágó", ro: "Pasul Vršič", en: "Vršič Pass",
 image: "/poi-images/slovenia-vrsic-pass-nature-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Vrsic pass mountain road Julian Alps",
     image: "/poi-images/slovenia-vrsic-pass-nature-v2.webp",
 },  {
     id: "slovenia-logar-valley-nature-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Logar-Tal", hu: "Logar-völgy", ro: "Valea Logar", en: "Logar Valley",
 image: "/poi-images/slovenia-logar-valley-nature-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Logar valley Kamnik Savinja Alps Slovenia",
     image: "/poi-images/slovenia-logar-valley-nature-v2.webp",
 },  {
     id: "slovenia-planica-valley-nature-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Planica", hu: "Planica-völgy", ro: "Valea Planica", en: "Planica Valley",
 image: "/poi-images/slovenia-planica-valley-nature-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Planica valley ski flying hills mountains",
     image: "/poi-images/slovenia-planica-valley-nature-v2.webp",
 },  {
     id: "slovenia-krka-river-nature-v2",
+    parent: "SI",
     type: "river",
     name: { de: "Krka", hu: "Krka-folyó", ro: "Râul Krka", en: "Krka River",
 image: "/poi-images/slovenia-krka-river-nature-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Krka river Slovenia autumn colors",
     image: "/poi-images/slovenia-krka-river-nature-v2.webp",
 },  {
     id: "slovenia-drava-river-nature-v2",
+    parent: "SI",
     type: "river",
     name: { de: "Drau", hu: "Dráva", ro: "Râul Drava", en: "Drava River",
 image: "/poi-images/slovenia-drava-river-nature-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Drava river Maribor Slovenia",
     image: "/poi-images/slovenia-drava-river-nature-v2.webp",
 },  {
     id: "slovenia-savinja-river-nature-v2",
+    parent: "SI",
     type: "river",
     name: { de: "Sann", hu: "Savinja", ro: "Râul Savinja", en: "Savinja River",
 image: "/poi-images/slovenia-savinja-river-nature-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Savinja river Celje Slovenia",
     image: "/poi-images/slovenia-savinja-river-nature-v2.webp",
 },  {
     id: "slovenia-pohorje-nature-v2",
+    parent: "SI",
     type: "forest",
     name: { de: "Bachergebirge", hu: "Pohorje", ro: "Masivul Pohorje", en: "Pohorje",
 image: "/poi-images/slovenia-pohorje-nature-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Pohorje mountains forest Slovenia",
     image: "/poi-images/slovenia-pohorje-nature-v2.webp",
 },  {
     id: "slovenia-secovlje-salina-nature-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Salinen von Sečovlje", hu: "Sečovljei sólepárlók", ro: "Salinele Sečovlje", en: "Sečovlje Salina Nature Park",
 image: "/poi-images/slovenia-secovlje-salina-nature-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Secovlje salina salt pans Slovenia coast",
     image: "/poi-images/slovenia-secovlje-salina-nature-v2.webp",
 },  {
     id: "slovenia-lake-cerknica-nature-v2",
+    parent: "SI",
     type: "lake",
     name: { de: "Zirknitzer See", hu: "Cerknicai-tó", ro: "Lacul Cerknica", en: "Lake Cerknica",
 image: "/poi-images/slovenia-lake-cerknica-nature-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Lake Cerknica karst intermittent lake",
     image: "/poi-images/slovenia-lake-cerknica-nature-v2.webp",
 },  {
     id: "slovenia-skofja-loka-hills-nature-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Bischoflacker Bergland", hu: "Škofja Loka-hegység", ro: "Munții Škofja Loka", en: "Škofja Loka Hills",
 image: "/poi-images/slovenia-skofja-loka-hills-nature-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
     image: "/poi-images/slovenia-skofja-loka-hills-nature-v2.webp",
 },  {
     id: "slovenia-kamnik-alps-nature-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Steiner Alpen", hu: "Kamniki-Alpok", ro: "Alpii Kamnik-Savinja", en: "Kamnik-Savinja Alps",
 image: "/poi-images/slovenia-kamnik-alps-nature-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Kamnik Savinja Alps Grintovec peak",
     image: "/poi-images/slovenia-kamnik-alps-nature-v2.webp",
 },  {
     id: "slovenia-karawanks-nature-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Karawanken", hu: "Karavankák", ro: "Munții Karawanken", en: "Karawanks",
 image: "/poi-images/slovenia-karawanks-nature-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Karawanks mountain range Slovenia border",
     image: "/poi-images/slovenia-karawanks-nature-v2.webp",
 },  {
     id: "slovenia-sneznik-nature-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Schneeberg", hu: "Snežnik", ro: "Muntele Snežnik", en: "Snežnik",
 image: "/poi-images/slovenia-sneznik-nature-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Sneznik mountain peak Slovenia forest",
     image: "/poi-images/slovenia-sneznik-nature-v2.webp",
 },  {
     id: "slovenia-kolpa-river-nature-v2",
+    parent: "SI",
     type: "river",
     name: { de: "Kulpa", hu: "Kolpa", ro: "Râul Kolpa", en: "Kolpa River",
 image: "/poi-images/slovenia-kolpa-river-nature-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Kolpa river Slovenia Croatia border",
     image: "/poi-images/slovenia-kolpa-river-nature-v2.webp",
 },  {
     id: "slovenia-pericnik-waterfall-nature-v2",
+    parent: "SI",
     type: "river",
     name: { de: "Peričnik-Wasserfall", hu: "Peričnik-vízesés", ro: "Cascada Peričnik", en: "Peričnik Waterfall",
 image: "/poi-images/slovenia-pericnik-waterfall-nature-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Pericnik waterfall behind the water curtain",
     image: "/poi-images/slovenia-pericnik-waterfall-nature-v2.webp",
 },  {
     id: "slovenia-lake-jasna-nature-v2",
+    parent: "SI",
     type: "lake",
     name: { de: "Jasna-See", hu: "Jasna-tó", ro: "Lacul Jasna", en: "Lake Jasna",
 image: "/poi-images/slovenia-lake-jasna-nature-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Lake Jasna Kranjska Gora goldhorn statue",
     image: "/poi-images/slovenia-lake-jasna-nature-v2.webp",
 },  {
     id: "slovenia-kozjak-waterfall-nature-v2",
+    parent: "SI",
     type: "river",
     name: { de: "Kozjak-Wasserfall", hu: "Kozjak-vízesés", ro: "Cascada Kozjak", en: "Kozjak Waterfall",
 image: "/poi-images/slovenia-kozjak-waterfall-nature-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Kozjak waterfall Kobarid Slovenia cave",
     image: "/poi-images/slovenia-kozjak-waterfall-nature-v2.webp",
 },  {
     id: "slovenia-velika-planina-nature-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Große Alm", hu: "Velika Planina", ro: "Velika Planina", en: "Velika Planina",
 image: "/poi-images/slovenia-velika-planina-nature-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Velika Planina shepherds huts Slovenia",
     image: "/poi-images/slovenia-velika-planina-nature-v2.webp",
 },  {
     id: "slovenia-dragonja-river-nature-v2",
+    parent: "SI",
     type: "river",
     name: { de: "Dragonja", hu: "Dragonja-folyó", ro: "Râul Dragonja", en: "Dragonja River",
 image: "/poi-images/slovenia-dragonja-river-nature-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Dragonja river valley Istria Slovenia",
     image: "/poi-images/slovenia-dragonja-river-nature-v2.webp",
 },  {
     id: "slovenia-tolmin-gorges-nature-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Tolminer Klammen", hu: "Tolmin-szurdok", ro: "Cheile Tolmin", en: "Tolmin Gorges",
 image: "/poi-images/slovenia-tolmin-gorges-nature-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Tolmin Gorges Soca valley Devil's bridge",
     image: "/poi-images/slovenia-tolmin-gorges-nature-v2.webp",
 },  {
     id: "slovenia-zelenci-nature-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Zelenci", hu: "Zelenci Természetvédelmi Terület", ro: "Rezervația Naturală Zelenci", en: "Zelenci Nature Reserve",
 image: "/poi-images/slovenia-zelenci-nature-v2.webp"

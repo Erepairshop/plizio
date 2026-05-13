@@ -3,6 +3,7 @@ export const sloveniaCitiesV2: POI[] = [
 
   {
     id: "slovenia-velenje-cities-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Velenje", hu: "Velenje", ro: "Velenje", en: "Velenje",
 image: "/poi-images/slovenia-velenje-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Velenje Castle and modern city skyline",
     image: "/poi-images/slovenia-velenje-cities-v2.webp",
 },  {
     id: "slovenia-novo-mesto-cities-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Novo Mesto", hu: "Novo Mesto", ro: "Novo Mesto", en: "Novo Mesto",
 image: "/poi-images/slovenia-novo-mesto-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Novo Mesto historic center on Krka river loop",
     image: "/poi-images/slovenia-novo-mesto-cities-v2.webp",
 },  {
     id: "slovenia-ptuj-cities-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Ptuj", hu: "Ptuj", ro: "Ptuj", en: "Ptuj",
 image: "/poi-images/slovenia-ptuj-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Ptuj old town with castle and Drava river",
     image: "/poi-images/slovenia-ptuj-cities-v2.webp",
 },  {
     id: "slovenia-kamnik-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Kamnik", hu: "Kamnik", ro: "Kamnik", en: "Kamnik",
 image: "/poi-images/slovenia-kamnik-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Kamnik town center with Alps in background",
     image: "/poi-images/slovenia-kamnik-cities-v2.webp",
 },  {
     id: "slovenia-trbovlje-cities-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Trbovlje", hu: "Trbovlje", ro: "Trbovlje", en: "Trbovlje",
 image: "/poi-images/slovenia-trbovlje-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Trbovlje chimney tallest in Europe",
     image: "/poi-images/slovenia-trbovlje-cities-v2.webp",
 },  {
     id: "slovenia-jesenice-cities-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Jesenice", hu: "Jesenice", ro: "Jesenice", en: "Jesenice",
 image: "/poi-images/slovenia-jesenice-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Jesenice city view with steel works and mountains",
     image: "/poi-images/slovenia-jesenice-cities-v2.webp",
 },  {
     id: "slovenia-murska-sobota-cities-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Murska Sobota", hu: "Murska Sobota", ro: "Murska Sobota", en: "Murska Sobota",
 image: "/poi-images/slovenia-murska-sobota-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Murska Sobota Castle in the city park",
     image: "/poi-images/slovenia-murska-sobota-cities-v2.webp",
 },  {
     id: "slovenia-nova-gorica-cities-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Nova Gorica", hu: "Nova Gorica", ro: "Nova Gorica", en: "Nova Gorica",
 image: "/poi-images/slovenia-nova-gorica-cities-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Nova Gorica Transalpina Square at Italian border",
     image: "/poi-images/slovenia-nova-gorica-cities-v2.webp",
 },  {
     id: "slovenia-domzale-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Domžale", hu: "Domžale", ro: "Domžale", en: "Domžale",
 image: "/poi-images/slovenia-domzale-cities-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Domzale town center and sports park",
     image: "/poi-images/slovenia-domzale-cities-v2.webp",
 },  {
     id: "slovenia-izola-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Izola", hu: "Izola", ro: "Izola", en: "Izola",
 image: "/poi-images/slovenia-izola-cities-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Izola coastal town view with marina",
     image: "/poi-images/slovenia-izola-cities-v2.webp",
 },  {
     id: "slovenia-kocevje-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Kočevje", hu: "Kočevje", ro: "Kočevje", en: "Kočevje",
 image: "/poi-images/slovenia-kocevje-cities-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Kocevje city and the nearby lake",
     image: "/poi-images/slovenia-kocevje-cities-v2.webp",
 },  {
     id: "slovenia-postojna-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Postojna", hu: "Postojna", ro: "Postojna", en: "Postojna",
 image: "/poi-images/slovenia-postojna-cities-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Postojna cave entrance and park",
     image: "/poi-images/slovenia-postojna-cities-v2.webp",
 },  {
     id: "slovenia-logatec-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Logatec", hu: "Logatec", ro: "Logatec", en: "Logatec",
 image: "/poi-images/slovenia-logatec-cities-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Logatec town view and surrounding hills",
     image: "/poi-images/slovenia-logatec-cities-v2.webp",
 },  {
     id: "slovenia-slovenj-gradec-cities-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Slovenj Gradec", hu: "Slovenj Gradec", ro: "Slovenj Gradec", en: "Slovenj Gradec",
 image: "/poi-images/slovenia-slovenj-gradec-cities-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Slovenj Gradec historic center and main square",
     image: "/poi-images/slovenia-slovenj-gradec-cities-v2.webp",
 },  {
     id: "slovenia-vrhnika-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Vrhnika", hu: "Vrhnika", ro: "Vrhnika", en: "Vrhnika",
 image: "/poi-images/slovenia-vrhnika-cities-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Vrhnika town center and Cankar memorial house",
     image: "/poi-images/slovenia-vrhnika-cities-v2.webp",
 },  {
     id: "slovenia-krsko-cities-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Krško", hu: "Krško", ro: "Krško", en: "Krško",
 image: "/poi-images/slovenia-krsko-cities-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Krško city view with Sava river and power plant",
     image: "/poi-images/slovenia-krsko-cities-v2.webp",
 },  {
     id: "slovenia-brezice-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Brežice", hu: "Brežice", ro: "Brežice", en: "Brežice",
 image: "/poi-images/slovenia-brezice-cities-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Brezice Castle and historic town center",
     image: "/poi-images/slovenia-brezice-cities-v2.webp",
 },  {
     id: "slovenia-skofja-loka-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Škofja Loka", hu: "Škofja Loka", ro: "Škofja Loka", en: "Škofja Loka",
 image: "/poi-images/slovenia-skofja-loka-cities-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Skofja Loka old town and Loka castle",
     image: "/poi-images/slovenia-skofja-loka-cities-v2.webp",
 },  {
     id: "slovenia-ajdovscina-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Ajdovščina", hu: "Ajdovščina", ro: "Ajdovščina", en: "Ajdovščina",
 image: "/poi-images/slovenia-ajdovscina-cities-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Ajdovscina Roman walls and city center",
     image: "/poi-images/slovenia-ajdovscina-cities-v2.webp",
 },  {
     id: "slovenia-sezana-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Sežana", hu: "Sežana", ro: "Sežana", en: "Sežana",
 image: "/poi-images/slovenia-sezana-cities-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Sezana town center and surrounding karst landscape",
     image: "/poi-images/slovenia-sezana-cities-v2.webp",
 },  {
     id: "slovenia-radovljica-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Radovljica", hu: "Radovljica", ro: "Radovljica", en: "Radovljica",
 image: "/poi-images/slovenia-radovljica-cities-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Radovljica medieval square with frescoes",
     image: "/poi-images/slovenia-radovljica-cities-v2.webp",
 },  {
     id: "slovenia-idrija-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Idrija", hu: "Idrija", ro: "Idrija", en: "Idrija",
 image: "/poi-images/slovenia-idrija-cities-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Idrija town and Gewerkenegg Castle",
     image: "/poi-images/slovenia-idrija-cities-v2.webp",
 },  {
     id: "slovenia-crnomelj-cities-v2",
+    parent: "SI",
     type: "town",
     name: { de: "Črnomelj", hu: "Črnomelj", ro: "Črnomelj", en: "Črnomelj",
 image: "/poi-images/slovenia-crnomelj-cities-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Crnomelj town center at river confluence",
     image: "/poi-images/slovenia-crnomelj-cities-v2.webp",
 },  {
     id: "slovenia-ravne-na-koroskem-cities-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Ravne na Koroškem", hu: "Ravne na Koroškem", ro: "Ravne na Koroškem", en: "Ravne na Koroškem",
 image: "/poi-images/slovenia-ravne-na-koroskem-cities-v2.webp"

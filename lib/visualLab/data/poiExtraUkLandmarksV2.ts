@@ -3,6 +3,7 @@ export const ukLandmarksV2: POI[] = [
 
   {
     id: "uk-big-ben-landmarks-v2",
+    parent: "GB",
     type: "tower",
     name: { de: "Big Ben (Elizabeth Tower)", hu: "Big Ben (Erzsébet-torony)", ro: "Big Ben (Turnul Elizabeth)", en: "Big Ben (Elizabeth Tower)",
 image: "/poi-images/uk-big-ben-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Big Ben and Palace of Westminster at sunset",
     image: "/poi-images/uk-big-ben-landmarks-v2.webp",
 },  {
     id: "uk-tower-bridge-landmarks-v2",
+    parent: "GB",
     type: "bridge",
     name: { de: "Tower Bridge", hu: "Tower híd", ro: "Tower Bridge", en: "Tower Bridge",
 image: "/poi-images/uk-tower-bridge-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Tower Bridge open with the Thames river",
     image: "/poi-images/uk-tower-bridge-landmarks-v2.webp",
 },  {
     id: "uk-buckingham-palace-landmarks-v2",
+    parent: "GB",
     type: "palace",
     name: { de: "Buckingham Palace", hu: "Buckingham-palota", ro: "Palatul Buckingham", en: "Buckingham Palace",
 image: "/poi-images/uk-buckingham-palace-landmarks-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Buckingham Palace front facade with guards",
     image: "/poi-images/uk-buckingham-palace-landmarks-v2.webp",
 },  {
     id: "uk-edinburgh-castle-landmarks-v2",
+    parent: "GB",
     type: "castle",
     name: { de: "Edinburgh Castle", hu: "Edinburgh-i vár", ro: "Castelul Edinburgh", en: "Edinburgh Castle",
 image: "/poi-images/uk-edinburgh-castle-landmarks-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Edinburgh Castle on Castle Rock",
     image: "/poi-images/uk-edinburgh-castle-landmarks-v2.webp",
 },  {
     id: "uk-windsor-castle-landmarks-v2",
+    parent: "GB",
     type: "castle",
     name: { de: "Windsor Castle", hu: "Windsori kastély", ro: "Castelul Windsor", en: "Windsor Castle",
 image: "/poi-images/uk-windsor-castle-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Windsor Castle aerial view",
     image: "/poi-images/uk-windsor-castle-landmarks-v2.webp",
 },  {
     id: "uk-westminster-abbey-landmarks-v2",
+    parent: "GB",
     type: "church",
     name: { de: "Westminster Abbey", hu: "Westminsteri apátság", ro: "Abatia Westminster", en: "Westminster Abbey",
 image: "/poi-images/uk-westminster-abbey-landmarks-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Westminster Abbey facade London",
     image: "/poi-images/uk-westminster-abbey-landmarks-v2.webp",
 },  {
     id: "uk-british-museum-landmarks-v2",
+    parent: "GB",
     type: "museum",
     name: { de: "Britisches Museum", hu: "Brit Múzeum", ro: "British Museum", en: "British Museum",
 image: "/poi-images/uk-british-museum-landmarks-v2.webp"
@@ -242,6 +249,7 @@ imageHint: "British Museum Great Court glass roof",
 },
   {
     id: "uk-york-minster-landmarks-v2",
+    parent: "GB",
     type: "cathedral",
     name: { de: "York Minster", hu: "Yorki székesegyház", ro: "York Minster", en: "York Minster",
 image: "/poi-images/uk-york-minster-landmarks-v2.webp"
@@ -276,6 +284,7 @@ image: "/poi-images/uk-york-minster-landmarks-v2.webp"
   },
   {
     id: "uk-st-pauls-cathedral-landmarks-v2",
+    parent: "GB",
     type: "cathedral",
     name: { de: "St. Paul's Cathedral", hu: "Szent Pál-székesegyház", ro: "Catedrala Sfântul Paul", en: "St Paul's Cathedral",
 image: "/poi-images/uk-st-pauls-cathedral-landmarks-v2.webp"
@@ -310,6 +319,7 @@ imageHint: "St Paul's Cathedral London dome view",
     image: "/poi-images/uk-st-pauls-cathedral-landmarks-v2.webp",
 },  {
     id: "uk-roman-baths-landmarks-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "Römische Bäder (Bath)", hu: "Római fürdők (Bath)", ro: "Băile Romane (Bath)", en: "The Roman Baths",
 image: "/poi-images/uk-roman-baths-landmarks-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "The Roman Baths in Bath England green water",
     image: "/poi-images/uk-roman-baths-landmarks-v2.webp",
 },  {
     id: "uk-durham-cathedral-landmarks-v2",
+    parent: "GB",
     type: "cathedral",
     name: { de: "Kathedrale von Durham", hu: "Durhami székesegyház", ro: "Catedrala Durham", en: "Durham Cathedral",
 image: "/poi-images/uk-durham-cathedral-landmarks-v2.webp"
@@ -378,6 +389,7 @@ imageHint: "Durham Cathedral Romanesque architecture exterior",
     image: "/poi-images/uk-durham-cathedral-landmarks-v2.webp",
 },  {
     id: "uk-forth-bridge-landmarks-v2",
+    parent: "GB",
     type: "bridge",
     name: { de: "Forth Bridge", hu: "Forth Bridge", ro: "Podul Forth", en: "Forth Bridge",
 image: "/poi-images/uk-forth-bridge-landmarks-v2.webp"

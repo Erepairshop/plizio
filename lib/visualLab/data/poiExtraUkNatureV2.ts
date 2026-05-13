@@ -3,6 +3,7 @@ export const ukNatureV2: POI[] = [
 
   {
     id: "uk-ben-nevis-nature-v2",
+    parent: "GB",
     type: "peak",
     name: { de: "Ben Nevis", hu: "Ben Nevis", ro: "Ben Nevis", en: "Ben Nevis",
 image: "/poi-images/uk-ben-nevis-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Ben Nevis mountain summit with snow patches",
     image: "/poi-images/uk-ben-nevis-nature-v2.webp",
 },  {
     id: "uk-loch-ness-nature-v2",
+    parent: "GB",
     type: "lake",
     name: { de: "Loch Ness", hu: "Loch Ness", ro: "Loch Ness", en: "Loch Ness",
 image: "/poi-images/uk-loch-ness-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
     image: "/poi-images/uk-loch-ness-nature-v2.webp",
 },  {
     id: "uk-giants-causeway-nature-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "Giant's Causeway", hu: "Óriások útja", ro: "Giant's Causeway", en: "Giant's Causeway",
 image: "/poi-images/uk-giants-causeway-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Giant's Causeway hexagonal basalt columns by the sea",
     image: "/poi-images/uk-giants-causeway-nature-v2.webp",
 },  {
     id: "uk-snowdon-nature-v2",
+    parent: "GB",
     type: "peak",
     name: { de: "Snowdon", hu: "Snowdon", ro: "Snowdon", en: "Snowdon",
 image: "/poi-images/uk-snowdon-nature-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Snowdon mountain summit and Snowdonia ridges",
     image: "/poi-images/uk-snowdon-nature-v2.webp",
 },  {
     id: "uk-river-thames-nature-v2",
+    parent: "GB",
     type: "river",
     name: { de: "Themse", hu: "Temze", ro: "Tamisa", en: "River Thames",
 image: "/poi-images/uk-river-thames-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "River Thames flowing through green English countryside",
     image: "/poi-images/uk-river-thames-nature-v2.webp",
 },  {
     id: "uk-the-needles-nature-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "The Needles", hu: "The Needles", ro: "The Needles", en: "The Needles",
 image: "/poi-images/uk-the-needles-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "The Needles chalk stacks and lighthouse Isle of Wight",
     image: "/poi-images/uk-the-needles-nature-v2.webp",
 },  {
     id: "uk-lake-windermere-nature-v2",
+    parent: "GB",
     type: "lake",
     name: { de: "Windermere", hu: "Windermere-tó", ro: "Windermere", en: "Lake Windermere",
 image: "/poi-images/uk-lake-windermere-nature-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Windermere lake in the Lake District with mountains",
     image: "/poi-images/uk-lake-windermere-nature-v2.webp",
 },  {
     id: "uk-sherwood-forest-nature-v2",
+    parent: "GB",
     type: "forest",
     name: { de: "Sherwood Forest", hu: "Sherwoodi erdő", ro: "Pădurea Sherwood", en: "Sherwood Forest",
 image: "/poi-images/uk-sherwood-forest-nature-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Ancient Major Oak tree in Sherwood Forest",
     image: "/poi-images/uk-sherwood-forest-nature-v2.webp",
 },  {
     id: "uk-cheddar-gorge-nature-v2",
+    parent: "GB",
     type: "valley",
     name: { de: "Cheddar Gorge", hu: "Cheddar-szurdok", ro: "Cheile Cheddar", en: "Cheddar Gorge",
 image: "/poi-images/uk-cheddar-gorge-nature-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Cheddar Gorge limestone cliffs and winding road",
     image: "/poi-images/uk-cheddar-gorge-nature-v2.webp",
 },  {
     id: "uk-seven-sisters-nature-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "Seven Sisters", hu: "Seven Sisters", ro: "Seven Sisters", en: "Seven Sisters",
 image: "/poi-images/uk-seven-sisters-nature-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "Seven Sisters white chalk cliffs East Sussex",
 },
   {
     id: "uk-white-cliffs-of-dover-nature-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "White Cliffs of Dover", hu: "Doveri fehér sziklák", ro: "Stâncile Albe din Dover", en: "White Cliffs of Dover",
 image: "/poi-images/uk-white-cliffs-of-dover-nature-v2.webp"
@@ -378,6 +389,7 @@ image: "/poi-images/uk-white-cliffs-of-dover-nature-v2.webp"
   },
   {
     id: "uk-windermere-nature-v2",
+    parent: "GB",
     type: "lake",
     name: { de: "Windermere", hu: "Windermere", ro: "Windermere", en: "Windermere",
 image: "/poi-images/uk-windermere-nature-v2.webp"
@@ -413,6 +425,7 @@ imageHint: "Lake Windermere with sailboats and green hills",
 },
   {
     id: "uk-scafell-pike-nature-v2",
+    parent: "GB",
     type: "peak",
     name: { de: "Scafell Pike", hu: "Scafell Pike", ro: "Scafell Pike", en: "Scafell Pike",
 image: "/poi-images/uk-scafell-pike-nature-v2.webp"
@@ -447,6 +460,7 @@ image: "/poi-images/uk-scafell-pike-nature-v2.webp"
   },
   {
     id: "uk-fingals-cave-nature-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "Fingal's Cave", hu: "Fingal-barlang", ro: "Peștera lui Fingal", en: "Fingal's Cave",
 image: "/poi-images/uk-fingals-cave-nature-v2.webp"

@@ -3,6 +3,7 @@ export const czechrepublicLifeV2: POI[] = [
 
   {
     id: "czechrepublic-krkonose-national-park-life-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Riesengebirge", hu: "Krkonoše Nemzeti Park", ro: "Parcul Național Krkonoše", en: "Krkonoše National Park",
 image: "/poi-images/czechrepublic-krkonose-national-park-life-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/czechrepublic-krkonose-national-park-life-v2.webp"
   },
   {
     id: "czechrepublic-sumava-national-park-life-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Böhmerwald", hu: "Šumava Nemzeti Park", ro: "Parcul Național Šumava", en: "Šumava National Park",
 image: "/poi-images/czechrepublic-sumava-national-park-life-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/czechrepublic-sumava-national-park-life-v2.webp"
   },
   {
     id: "czechrepublic-podyji-national-park-life-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Thayatal", hu: "Podyjí Nemzeti Park", ro: "Parcul Național Podyjí", en: "Podyjí National Park",
 image: "/poi-images/czechrepublic-podyji-national-park-life-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/czechrepublic-podyji-national-park-life-v2.webp"
   },
   {
     id: "czechrepublic-bohemian-switzerland-life-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Nationalpark Böhmische Schweiz", hu: "Cseh Svájc Nemzeti Park", ro: "Parcul Național Elveția Bohemiană", en: "Bohemian Switzerland National Park",
 image: "/poi-images/czechrepublic-bohemian-switzerland-life-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/czechrepublic-bohemian-switzerland-life-v2.webp"
   },
   {
     id: "czechrepublic-prague-zoo-life-v2",
+    parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Prag", hu: "Prágai Állatkert", ro: "Grădina Zoologică din Praga", en: "Prague Zoo",
 image: "/poi-images/czechrepublic-prague-zoo-life-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/czechrepublic-prague-zoo-life-v2.webp"
   },
   {
     id: "czechrepublic-zlin-zoo-life-v2",
+    parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Zlín", hu: "Zlíni Állatkert", ro: "Grădina Zoologică Zlín", en: "Zlín Zoo",
 image: "/poi-images/czechrepublic-zlin-zoo-life-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/czechrepublic-zlin-zoo-life-v2.webp"
   },
   {
     id: "czechrepublic-plzen-zoo-life-v2",
+    parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Pilsen", hu: "Plzeňi Állatkert", ro: "Grădina Zoologică Plzeň", en: "Plzeň Zoo",
 image: "/poi-images/czechrepublic-plzen-zoo-life-v2.webp"
@@ -248,6 +255,7 @@ image: "/poi-images/czechrepublic-plzen-zoo-life-v2.webp"
   },
   {
     id: "czechrepublic-ostrava-zoo-life-v2",
+    parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Ostrava", hu: "Ostravai Állatkert", ro: "Grădina Zoologică Ostrava", en: "Ostrava Zoo",
 image: "/poi-images/czechrepublic-ostrava-zoo-life-v2.webp"
@@ -283,6 +291,7 @@ image: "/poi-images/czechrepublic-ostrava-zoo-life-v2.webp"
   },
   {
     id: "czechrepublic-olomouc-zoo-life-v2",
+    parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Olmütz", hu: "Olomouci Állatkert", ro: "Grădina Zoologică Olomouc", en: "Olomouc Zoo",
 image: "/poi-images/czechrepublic-olomouc-zoo-life-v2.webp"
@@ -317,6 +326,7 @@ image: "/poi-images/czechrepublic-olomouc-zoo-life-v2.webp"
   },
   {
     id: "czechrepublic-jihlava-zoo-life-v2",
+    parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Iglau", hu: "Jihlavai Állatkert", ro: "Grădina Zoologică Jihlava", en: "Jihlava Zoo",
 image: "/poi-images/czechrepublic-jihlava-zoo-life-v2.webp"
@@ -352,6 +362,7 @@ image: "/poi-images/czechrepublic-jihlava-zoo-life-v2.webp"
   },
   {
     id: "czechrepublic-brno-zoo-life-v2",
+    parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Brünn", hu: "Brnói Állatkert", ro: "Grădina Zoologică Brno", en: "Brno Zoo",
 image: "/poi-images/czechrepublic-brno-zoo-life-v2.webp"
@@ -387,6 +398,7 @@ image: "/poi-images/czechrepublic-brno-zoo-life-v2.webp"
   },
   {
     id: "czechrepublic-usti-nad-labem-zoo-life-v2",
+    parent: "CZ",
     type: "wildlife",
     name: { de: "Zoo Aussig", hu: "Ústí nad Labem-i Állatkert", ro: "Grădina Zoologică Ústí nad Labem", en: "Ústí nad Labem Zoo",
 image: "/poi-images/czechrepublic-usti-nad-labem-zoo-life-v2.webp"
@@ -422,6 +434,7 @@ image: "/poi-images/czechrepublic-usti-nad-labem-zoo-life-v2.webp"
   },
   {
     id: "czechrepublic-pruhonice-park-life-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Schlosspark Průhonice", hu: "Průhonicei Park", ro: "Parcul Průhonice", en: "Průhonice Park",
 image: "/poi-images/czechrepublic-pruhonice-park-life-v2.webp"
@@ -457,6 +470,7 @@ image: "/poi-images/czechrepublic-pruhonice-park-life-v2.webp"
   },
   {
     id: "czechrepublic-trebon-fishponds-life-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Teichlandschaft Třeboň", hu: "Třeboňi halastavak", ro: "Iazurile din Třeboň", en: "Třeboň Fishponds",
 image: "/poi-images/czechrepublic-trebon-fishponds-life-v2.webp"
@@ -492,6 +506,7 @@ image: "/poi-images/czechrepublic-trebon-fishponds-life-v2.webp"
   },
   {
     id: "czechrepublic-palava-reserve-life-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Biosphärenreservat Pálava", hu: "Pálava bioszféra-rezervátum", ro: "Rezervația Biosferei Pálava", en: "Pálava Biosphere Reserve",
 image: "/poi-images/czechrepublic-palava-reserve-life-v2.webp"
@@ -527,6 +542,7 @@ image: "/poi-images/czechrepublic-palava-reserve-life-v2.webp"
   },
   {
     id: "czechrepublic-moravian-karst-life-v2",
+    parent: "CZ",
     type: "landmark",
     name: { de: "Mährischer Karst", hu: "Morva-karszt", ro: "Carstul Moravian", en: "Moravian Karst",
 image: "/poi-images/czechrepublic-moravian-karst-life-v2.webp"
@@ -562,6 +578,7 @@ image: "/poi-images/czechrepublic-moravian-karst-life-v2.webp"
   },
   {
     id: "czechrepublic-soos-reserve-life-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos National Nature Reserve",
 image: "/poi-images/czechrepublic-soos-reserve-life-v2.webp"
@@ -597,6 +614,7 @@ image: "/poi-images/czechrepublic-soos-reserve-life-v2.webp"
   },
   {
     id: "czechrepublic-boubin-primeval-forest-life-v2",
+    parent: "CZ",
     type: "forest",
     name: { de: "Urwald Boubín", hu: "Boubíni őserdő", ro: "Pădurea Virgina Boubín", en: "Boubín Primeval Forest",
 image: "/poi-images/czechrepublic-boubin-primeval-forest-life-v2.webp"
@@ -632,6 +650,7 @@ image: "/poi-images/czechrepublic-boubin-primeval-forest-life-v2.webp"
   },
   {
     id: "czechrepublic-adrspach-teplice-rocks-life-v2",
+    parent: "CZ",
     type: "landmark",
     name: { de: "Adersbach-Weckelsdorfer Felsen", hu: "Adršpach-Teplice sziklák", ro: "Stâncile Adršpach-Teplice", en: "Adršpach-Teplice Rocks",
 image: "/poi-images/czechrepublic-adrspach-teplice-rocks-life-v2.webp"
@@ -667,6 +686,7 @@ image: "/poi-images/czechrepublic-adrspach-teplice-rocks-life-v2.webp"
   },
   {
     id: "czechrepublic-jeseniky-mountains-life-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Altvatergebirge", hu: "Jeseníky-hegység", ro: "Munții Jeseníky", en: "Jeseníky Mountains",
 image: "/poi-images/czechrepublic-jeseniky-mountains-life-v2.webp"
@@ -702,6 +722,7 @@ image: "/poi-images/czechrepublic-jeseniky-mountains-life-v2.webp"
   },
   {
     id: "czechrepublic-beskydy-mountains-life-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Beskiden", hu: "Beszkidek", ro: "Munții Beskydy", en: "Beskydy Mountains",
 image: "/poi-images/czechrepublic-beskydy-mountains-life-v2.webp"
@@ -737,6 +758,7 @@ image: "/poi-images/czechrepublic-beskydy-mountains-life-v2.webp"
   },
   {
     id: "czechrepublic-krivoklatsko-forest-life-v2",
+    parent: "CZ",
     type: "forest",
     name: { de: "Pürglitzer Wald", hu: "Křivoklátsko", ro: "Pădurea Křivoklátsko", en: "Křivoklátsko Protected Landscape",
 image: "/poi-images/czechrepublic-krivoklatsko-forest-life-v2.webp"
@@ -772,6 +794,7 @@ image: "/poi-images/czechrepublic-krivoklatsko-forest-life-v2.webp"
   },
   {
     id: "czechrepublic-prague-botanical-garden-life-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Botanischer Garten Prag", hu: "Prágai Botanikus Kert", ro: "Grădina Botanică din Praga", en: "Prague Botanical Garden",
 image: "/poi-images/czechrepublic-prague-botanical-garden-life-v2.webp"
@@ -807,6 +830,7 @@ image: "/poi-images/czechrepublic-prague-botanical-garden-life-v2.webp"
   },
   {
     id: "czechrepublic-rejviz-reserve-life-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Naturreservat Rejvíz", hu: "Rejvíz természetvédelmi terület", ro: "Rezervația Naturală Rejvíz", en: "Rejvíz Nature Reserve",
 image: "/poi-images/czechrepublic-rejviz-reserve-life-v2.webp"
@@ -842,6 +866,7 @@ image: "/poi-images/czechrepublic-rejviz-reserve-life-v2.webp"
   },
   {
     id: "czechrepublic-slavkovsky-les-life-v2",
+    parent: "CZ",
     type: "forest",
     name: { de: "Kaiserwald", hu: "Slavkovský les", ro: "Codrul Slavkov", en: "Slavkov Forest",
 image: "/poi-images/czechrepublic-slavkovsky-les-life-v2.webp"
@@ -877,6 +902,7 @@ image: "/poi-images/czechrepublic-slavkovsky-les-life-v2.webp"
   },
   {
     id: "czechrepublic-orlicke-hory-life-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Adlergebirge", hu: "Orlické hory", ro: "Munții Orlické", en: "Eagle Mountains",
 image: "/poi-images/czechrepublic-orlicke-hory-life-v2.webp"

@@ -3,6 +3,7 @@ export const sloveniaLifeV2: POI[] = [
 
   {
     id: "slovenia-ljubljana-zoo-life-v2",
+    parent: "SI",
     type: "wildlife",
     name: { de: "Ljubljana Zoo", hu: "Ljubljanai Állatkert", ro: "Grădina Zoologică Ljubljana", en: "Ljubljana Zoo",
 image: "/poi-images/slovenia-ljubljana-zoo-life-v2.webp"
@@ -36,6 +37,7 @@ imageHint: "Ljubljana Zoo entrance with animals",
     image: "/poi-images/slovenia-ljubljana-zoo-life-v2.webp",
 },  {
     id: "slovenia-skocjan-inlet-life-v2",
+    parent: "SI",
     type: "wildlife",
     name: { de: "Naturreservat Škocjan-Bucht", hu: "Škocjan-öböl Természetvédelmi Terület", ro: "Rezervația Naturală Škocjanski zatok", en: "Škocjan Inlet Nature Reserve",
 image: "/poi-images/slovenia-skocjan-inlet-life-v2.webp"
@@ -69,6 +71,7 @@ imageHint: "Skocjan Inlet birdwatching tower and marshes",
     image: "/poi-images/slovenia-skocjan-inlet-life-v2.webp",
 },  {
     id: "slovenia-kozjanski-park-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Regionalpark Kozjansko", hu: "Kozjansko Regionális Park", ro: "Parcul Regional Kozjansko", en: "Kozjansko Regional Park",
 image: "/poi-images/slovenia-kozjanski-park-life-v2.webp"
@@ -102,6 +105,7 @@ image: "/poi-images/slovenia-kozjanski-park-life-v2.webp"
   },
   {
     id: "slovenia-ljubljana-marshes-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Laibacher Moor", hu: "Ljubljanai-mocsár", ro: "Mlaștinile Ljubljana", en: "Ljubljana Marshes",
 image: "/poi-images/slovenia-ljubljana-marshes-life-v2.webp"
@@ -135,6 +139,7 @@ imageHint: "Ljubljana Marshes landscape with birds",
     image: "/poi-images/slovenia-ljubljana-marshes-life-v2.webp",
 },  {
     id: "slovenia-volcji-potok-arboretum-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Arboretum Volčji Potok", hu: "Volčji Potok Arborétum", ro: "Arboretumul Volčji Potok", en: "Volčji Potok Arboretum",
 image: "/poi-images/slovenia-volcji-potok-arboretum-life-v2.webp"
@@ -168,6 +173,7 @@ imageHint: "Volcji Potok Arboretum with blooming tulips",
     image: "/poi-images/slovenia-volcji-potok-arboretum-life-v2.webp",
 },  {
     id: "slovenia-ljubljana-botanic-garden-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Botanischer Garten Ljubljana", hu: "Ljubljanai Botanikus Kert", ro: "Grădina Botanică din Ljubljana", en: "University Botanic Gardens Ljubljana",
 image: "/poi-images/slovenia-ljubljana-botanic-garden-life-v2.webp"
@@ -201,6 +207,7 @@ imageHint: "Ljubljana Botanic Garden greenhouse and plants",
     image: "/poi-images/slovenia-ljubljana-botanic-garden-life-v2.webp",
 },  {
     id: "slovenia-strunjan-nature-park-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Landschaftspark Strunjan", hu: "Strunjan Tájvédelmi Park", ro: "Parcul Peisagistic Strunjan", en: "Strunjan Nature Park",
 image: "/poi-images/slovenia-strunjan-nature-park-life-v2.webp"
@@ -234,6 +241,7 @@ imageHint: "Strunjan cliffs and Adriatic sea",
     image: "/poi-images/slovenia-strunjan-nature-park-life-v2.webp",
 },  {
     id: "slovenia-debeli-rtic-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Landschaftspark Debeli Rtič", hu: "Debeli Rtič Tájvédelmi Park", ro: "Parcul Peisagistic Debeli Rtič", en: "Debeli Rtič Landscape Park",
 image: "/poi-images/slovenia-debeli-rtic-life-v2.webp"
@@ -267,6 +275,7 @@ imageHint: "Debeli Rtic flysch cliffs and turquoise water",
     image: "/poi-images/slovenia-debeli-rtic-life-v2.webp",
 },  {
     id: "slovenia-lahinja-landscape-park-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Landschaftspark Lahinja", hu: "Lahinja Tájvédelmi Park", ro: "Parcul Peisagistic Lahinja", en: "Lahinja Landscape Park",
 image: "/poi-images/slovenia-lahinja-landscape-park-life-v2.webp"
@@ -300,6 +309,7 @@ imageHint: "Lahinja River marshes and green meadows",
     image: "/poi-images/slovenia-lahinja-landscape-park-life-v2.webp",
 },  {
     id: "slovenia-rakov-skocjan-life-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Rakov Škocjan", hu: "Rakov Škocjan", ro: "Rakov Škocjan", en: "Rakov Škocjan",
 image: "/poi-images/slovenia-rakov-skocjan-life-v2.webp"
@@ -333,6 +343,7 @@ imageHint: "Rakov Skocjan natural stone bridge and river",
     image: "/poi-images/slovenia-rakov-skocjan-life-v2.webp",
 },  {
     id: "slovenia-kocevski-rog-life-v2",
+    parent: "SI",
     type: "forest",
     name: { de: "Hornwald (Kočevski Rog)", hu: "Kočevski Rog", ro: "Kočevski Rog", en: "Kočevski Rog",
 image: "/poi-images/slovenia-kocevski-rog-life-v2.webp"
@@ -366,6 +377,7 @@ imageHint: "Kocevski Rog dense forest with tall trees",
     image: "/poi-images/slovenia-kocevski-rog-life-v2.webp",
 },  {
     id: "slovenia-lovrenc-lakes-life-v2",
+    parent: "SI",
     type: "lake",
     name: { de: "Lovrenc-Seen", hu: "Lovrenci-tavak", ro: "Lacurile Lovrenc", en: "Lovrenc Lakes",
 image: "/poi-images/slovenia-lovrenc-lakes-life-v2.webp"
@@ -399,6 +411,7 @@ imageHint: "Lovrenc Lakes high moor with wooden footbridges",
     image: "/poi-images/slovenia-lovrenc-lakes-life-v2.webp",
 },  {
     id: "slovenia-ormoz-basins-life-v2",
+    parent: "SI",
     type: "wildlife",
     name: { de: "Lagunen von Ormož", hu: "Ormozi-lagúnák", ro: "Lagunele Ormož", en: "Ormož Basins Nature Reserve",
 image: "/poi-images/slovenia-ormoz-basins-life-v2.webp"
@@ -432,6 +445,7 @@ imageHint: "Ormoz Basins bird reserve with water buffalo",
     image: "/poi-images/slovenia-ormoz-basins-life-v2.webp",
 },  {
     id: "slovenia-krakovo-forest-life-v2",
+    parent: "SI",
     type: "forest",
     name: { de: "Krakovo-Wald", hu: "Krakovói-erdő", ro: "Pădurea Krakovo", en: "Krakovo Forest",
 image: "/poi-images/slovenia-krakovo-forest-life-v2.webp"
@@ -465,6 +479,7 @@ imageHint: "Krakovo Forest ancient oak trees and water",
     image: "/poi-images/slovenia-krakovo-forest-life-v2.webp",
 },  {
     id: "slovenia-polhov-gradec-dolomites-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Polhov-Gradec-Dolomiten", hu: "Polhov Gradec-i Dolomitok", ro: "Dolomitii Polhov Gradec", en: "Polhov Gradec Dolomites Landscape Park",
 image: "/poi-images/slovenia-polhov-gradec-dolomites-life-v2.webp"
@@ -498,6 +513,7 @@ imageHint: "Polhov Gradec Dolomites hills and rare flowers",
     image: "/poi-images/slovenia-polhov-gradec-dolomites-life-v2.webp",
 },  {
     id: "slovenia-golte-landscape-park-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Landschaftspark Golte", hu: "Golte Tájvédelmi Park", ro: "Parcul Peisagistic Golte", en: "Golte Landscape Park",
 image: "/poi-images/slovenia-golte-landscape-park-life-v2.webp"
@@ -531,6 +547,7 @@ imageHint: "Golte alpine garden and mountain peaks",
     image: "/poi-images/slovenia-golte-landscape-park-life-v2.webp",
 },  {
     id: "slovenia-robanov-kot-life-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Robanov Kot", hu: "Robanov Kot", ro: "Robanov Kot", en: "Robanov Kot Landscape Park",
 image: "/poi-images/slovenia-robanov-kot-life-v2.webp"
@@ -564,6 +581,7 @@ imageHint: "Robanov Kot glacial valley and farmhouse",
     image: "/poi-images/slovenia-robanov-kot-life-v2.webp",
 },  {
     id: "slovenia-topla-valley-life-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Topla-Tal", hu: "Topla-völgy", ro: "Valea Topla", en: "Topla Landscape Park",
 image: "/poi-images/slovenia-topla-valley-life-v2.webp"
@@ -597,6 +615,7 @@ imageHint: "Topla valley alpine meadows and traditional farms",
     image: "/poi-images/slovenia-topla-valley-life-v2.webp",
 },  {
     id: "slovenia-maribor-city-park-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Stadtpark Maribor", hu: "Maribori Városliget", ro: "Parcul Orașului Maribor", en: "Maribor City Park",
 image: "/poi-images/slovenia-maribor-city-park-life-v2.webp"
@@ -630,6 +649,7 @@ imageHint: "Maribor City Park with ponds and old trees",
     image: "/poi-images/slovenia-maribor-city-park-life-v2.webp",
 },  {
     id: "slovenia-pivka-intermittent-lakes-life-v2",
+    parent: "SI",
     type: "lake",
     name: { de: "Pivka-Seen", hu: "Pivkai időszakos tavak", ro: "Lacurile Intermitente Pivka", en: "Pivka Intermittent Lakes Landscape Park",
 image: "/poi-images/slovenia-pivka-intermittent-lakes-life-v2.webp"
@@ -663,6 +683,7 @@ image: "/poi-images/slovenia-pivka-intermittent-lakes-life-v2.webp"
   },
   {
     id: "slovenia-sezana-botanic-garden-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Botanischer Garten Sežana", hu: "Sežanai Botanikus Kert", ro: "Grădina Botanică Sežana", en: "Sežana Botanical Garden",
 image: "/poi-images/slovenia-sezana-botanic-garden-life-v2.webp"
@@ -696,6 +717,7 @@ imageHint: "Sezana Botanical Garden palm house and exotic trees",
     image: "/poi-images/slovenia-sezana-botanic-garden-life-v2.webp",
 },  {
     id: "slovenia-mozirski-gaj-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Mozirski gaj", hu: "Mozirski gaj", ro: "Mozirski gaj", en: "Mozirski gaj Flower Park",
 image: "/poi-images/slovenia-mozirski-gaj-life-v2.webp"
@@ -729,6 +751,7 @@ imageHint: "Mozirski gaj flower displays and traditional granary",
     image: "/poi-images/slovenia-mozirski-gaj-life-v2.webp",
 },  {
     id: "slovenia-juliana-garden-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Alpengarten Juliana", hu: "Juliana Alpesi Botanikus Kert", ro: "Grădina Alpină Juliana", en: "Juliana Alpine Botanical Garden",
 image: "/poi-images/slovenia-juliana-garden-life-v2.webp"
@@ -762,6 +785,7 @@ imageHint: "Juliana Alpine Garden with mountain flowers and peaks",
     image: "/poi-images/slovenia-juliana-garden-life-v2.webp",
 },  {
     id: "slovenia-mura-reserve-life-v2",
+    parent: "SI",
     type: "wildlife",
     name: { de: "Biosphärenreservat Mur", hu: "Mura Bioszféra-rezervátum", ro: "Rezervația Biosferei Mura", en: "Mura River Biosphere Reserve",
 image: "/poi-images/slovenia-mura-reserve-life-v2.webp"
@@ -795,6 +819,7 @@ imageHint: "Mura River oxbow lake and floodplain forest",
     image: "/poi-images/slovenia-mura-reserve-life-v2.webp",
 },  {
     id: "slovenia-tivoli-park-life-v2",
+    parent: "SI",
     type: "park",
     name: { de: "Tivoli-Park", hu: "Tivoli park", ro: "Parcul Tivoli", en: "Tivoli Park Ljubljana",
 image: "/poi-images/slovenia-tivoli-park-life-v2.webp"
@@ -828,6 +853,7 @@ imageHint: "Tivoli Park promenade and green lawns",
     image: "/poi-images/slovenia-tivoli-park-life-v2.webp",
 },  {
     id: "slovenia-lipica-stud-farm-life-v2",
+    parent: "SI",
     type: "wildlife",
     name: { de: "Gestüt Lipica", hu: "Lipicai Ménes", ro: "Herghelia Lipica", en: "Lipica Stud Farm",
 image: "/poi-images/slovenia-lipica-stud-farm-life-v2.webp"
@@ -861,6 +887,7 @@ imageHint: "Lipica stud farm with white horses on pasture",
     image: "/poi-images/slovenia-lipica-stud-farm-life-v2.webp",
 },  {
     id: "slovenia-iski-vintgar-life-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Iški Vintgar", hu: "Iški Vintgar", ro: "Iški Vintgar", en: "Iški Vintgar Gorge",
 image: "/poi-images/slovenia-iski-vintgar-life-v2.webp"
@@ -894,6 +921,7 @@ imageHint: "Iski Vintgar gorge with clear river and rocks",
     image: "/poi-images/slovenia-iski-vintgar-life-v2.webp",
 },  {
     id: "slovenia-zbilje-lake-life-v2",
+    parent: "SI",
     type: "lake",
     name: { de: "Zbilje-See", hu: "Zbiljei-tó", ro: "Lacul Zbilje", en: "Zbilje Lake",
 image: "/poi-images/slovenia-zbilje-lake-life-v2.webp"
@@ -927,6 +955,7 @@ imageHint: "Zbilje Lake with many white swans",
     image: "/poi-images/slovenia-zbilje-lake-life-v2.webp",
 },  {
     id: "slovenia-dovzan-gorge-life-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Dovžan-Schlucht", hu: "Dovžan-szurdok", ro: "Cheile Dovžan", en: "Dovžan Gorge",
 image: "/poi-images/slovenia-dovzan-gorge-life-v2.webp"
@@ -960,6 +989,7 @@ imageHint: "Dovzan Gorge rocks and river with fossils",
     image: "/poi-images/slovenia-dovzan-gorge-life-v2.webp",
 },  {
     id: "slovenia-race-ponds-life-v2",
+    parent: "SI",
     type: "wildlife",
     name: { de: "Rače-Teiche", hu: "Račei-tavak", ro: "Iazurile Rače", en: "Rače Ponds",
 image: "/poi-images/slovenia-race-ponds-life-v2.webp"

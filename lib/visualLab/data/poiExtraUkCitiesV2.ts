@@ -3,6 +3,7 @@ export const ukCitiesV2: POI[] = [
 
   {
     id: "uk-birmingham-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Birmingham", hu: "Birmingham", ro: "Birmingham", en: "Birmingham",
 image: "/poi-images/uk-birmingham-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Birmingham Library architecture and city square",
     image: "/poi-images/uk-birmingham-cities-v2.webp",
 },  {
     id: "uk-manchester-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Manchester", hu: "Manchester", ro: "Manchester", en: "Manchester",
 image: "/poi-images/uk-manchester-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Manchester Town Hall and Albert Square",
     image: "/poi-images/uk-manchester-cities-v2.webp",
 },  {
     id: "uk-glasgow-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Glasgow", hu: "Glasgow", ro: "Glasgow", en: "Glasgow",
 image: "/poi-images/uk-glasgow-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Glasgow Riverside Museum and Clyde Arc bridge",
     image: "/poi-images/uk-glasgow-cities-v2.webp",
 },  {
     id: "uk-liverpool-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Liverpool", hu: "Liverpool", ro: "Liverpool", en: "Liverpool",
 image: "/poi-images/uk-liverpool-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Liverpool waterfront with the Royal Liver Building",
     image: "/poi-images/uk-liverpool-cities-v2.webp",
 },  {
     id: "uk-edinburgh-cities-v2",
+    parent: "GB",
     type: "capital",
     name: { de: "Edinburgh", hu: "Edinburgh", ro: "Edinburgh", en: "Edinburgh",
 image: "/poi-images/uk-edinburgh-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Edinburgh Castle on Castle Rock at sunset",
     image: "/poi-images/uk-edinburgh-cities-v2.webp",
 },  {
     id: "uk-cardiff-cities-v2",
+    parent: "GB",
     type: "capital",
     name: { de: "Cardiff", hu: "Cardiff", ro: "Cardiff", en: "Cardiff",
 image: "/poi-images/uk-cardiff-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Cardiff Bay with the Wales Millennium Centre",
     image: "/poi-images/uk-cardiff-cities-v2.webp",
 },  {
     id: "uk-leeds-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Leeds", hu: "Leeds", ro: "Leeds", en: "Leeds",
 image: "/poi-images/uk-leeds-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Leeds Town Hall and city center architecture",
     image: "/poi-images/uk-leeds-cities-v2.webp",
 },  {
     id: "uk-sheffield-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Sheffield", hu: "Sheffield", ro: "Sheffield", en: "Sheffield",
 image: "/poi-images/uk-sheffield-cities-v2.webp"
@@ -276,6 +284,7 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
 },
   {
     id: "uk-bristol-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Bristol", hu: "Bristol", ro: "Bristol", en: "Bristol",
 image: "/poi-images/uk-bristol-cities-v2.webp"
@@ -298,6 +307,7 @@ image: "/poi-images/uk-bristol-cities-v2.webp"
   },
   {
     id: "uk-leicester-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Leicester", hu: "Leicester", ro: "Leicester", en: "Leicester",
 image: "/poi-images/uk-leicester-cities-v2.webp"
@@ -320,6 +330,7 @@ image: "/poi-images/uk-leicester-cities-v2.webp"
     image: "/poi-images/uk-leicester-cities-v2.webp"},
   {
     id: "uk-coventry-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Coventry", hu: "Coventry", ro: "Coventry", en: "Coventry",
 image: "/poi-images/uk-coventry-cities-v2.webp"
@@ -343,6 +354,7 @@ image: "/poi-images/uk-coventry-cities-v2.webp"
 ,
   {
     id: "uk-newcastle-upon-tyne-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Newcastle upon Tyne", hu: "Newcastle upon Tyne", ro: "Newcastle upon Tyne", en: "Newcastle upon Tyne",
 image: "/poi-images/uk-newcastle-upon-tyne-cities-v2.webp"
@@ -365,6 +377,7 @@ image: "/poi-images/uk-newcastle-upon-tyne-cities-v2.webp"
   },
   {
     id: "uk-nottingham-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Nottingham", hu: "Nottingham", ro: "Nottingham", en: "Nottingham",
 image: "/poi-images/uk-nottingham-cities-v2.webp"
@@ -387,6 +400,7 @@ image: "/poi-images/uk-nottingham-cities-v2.webp"
     image: "/poi-images/uk-nottingham-cities-v2.webp"},
   {
     id: "uk-southampton-cities-v2",
+    parent: "GB",
     type: "port",
     name: { de: "Southampton", hu: "Southampton", ro: "Southampton", en: "Southampton",
 image: "/poi-images/uk-southampton-cities-v2.webp"
@@ -409,6 +423,7 @@ image: "/poi-images/uk-southampton-cities-v2.webp"
     image: "/poi-images/uk-southampton-cities-v2.webp"},
   {
     id: "uk-portsmouth-cities-v2",
+    parent: "GB",
     type: "port",
     name: { de: "Portsmouth", hu: "Portsmouth", ro: "Portsmouth", en: "Portsmouth",
 image: "/poi-images/uk-portsmouth-cities-v2.webp"
@@ -431,6 +446,7 @@ image: "/poi-images/uk-portsmouth-cities-v2.webp"
     image: "/poi-images/uk-portsmouth-cities-v2.webp"},
   {
     id: "uk-aberdeen-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Aberdeen", hu: "Aberdeen", ro: "Aberdeen", en: "Aberdeen",
 image: "/poi-images/uk-aberdeen-cities-v2.webp"
@@ -453,6 +469,7 @@ image: "/poi-images/uk-aberdeen-cities-v2.webp"
     image: "/poi-images/uk-aberdeen-cities-v2.webp"},
   {
     id: "uk-swansea-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Swansea", hu: "Swansea", ro: "Swansea", en: "Swansea",
 image: "/poi-images/uk-swansea-cities-v2.webp"
@@ -475,6 +492,7 @@ image: "/poi-images/uk-swansea-cities-v2.webp"
     image: "/poi-images/uk-swansea-cities-v2.webp"},
   {
     id: "uk-oxford-cities-v2",
+    parent: "GB",
     type: "university",
     name: { de: "Oxford", hu: "Oxford", ro: "Oxford", en: "Oxford",
 image: "/poi-images/uk-oxford-cities-v2.webp"
@@ -498,6 +516,7 @@ image: "/poi-images/uk-oxford-cities-v2.webp"
 ,
   {
     id: "uk-inverness-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Inverness", hu: "Inverness", ro: "Inverness", en: "Inverness",
 image: "/poi-images/uk-inverness-cities-v2.webp"
@@ -520,6 +539,7 @@ image: "/poi-images/uk-inverness-cities-v2.webp"
   },
   {
     id: "uk-bath-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Bath", hu: "Bath", ro: "Bath", en: "Bath",
 image: "/poi-images/uk-bath-cities-v2.webp"
@@ -542,6 +562,7 @@ image: "/poi-images/uk-bath-cities-v2.webp"
     image: "/poi-images/uk-bath-cities-v2.webp"},
   {
     id: "uk-dundee-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Dundee", hu: "Dundee", ro: "Dundee", en: "Dundee",
 image: "/poi-images/uk-dundee-cities-v2.webp"
@@ -564,6 +585,7 @@ image: "/poi-images/uk-dundee-cities-v2.webp"
     image: "/poi-images/uk-dundee-cities-v2.webp"},
   {
     id: "uk-canterbury-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Canterbury", hu: "Canterbury", ro: "Canterbury", en: "Canterbury",
 image: "/poi-images/uk-canterbury-cities-v2.webp"
@@ -586,6 +608,7 @@ image: "/poi-images/uk-canterbury-cities-v2.webp"
     image: "/poi-images/uk-canterbury-cities-v2.webp"},
   {
     id: "uk-derry-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Derry", hu: "Derry", ro: "Derry", en: "Derry",
 image: "/poi-images/uk-derry-cities-v2.webp"
@@ -608,6 +631,7 @@ image: "/poi-images/uk-derry-cities-v2.webp"
     image: "/poi-images/uk-derry-cities-v2.webp"},
   {
     id: "uk-brighton-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Brighton", hu: "Brighton", ro: "Brighton", en: "Brighton",
 image: "/poi-images/uk-brighton-cities-v2.webp"
@@ -631,6 +655,7 @@ image: "/poi-images/uk-brighton-cities-v2.webp"
 ,
   {
     id: "uk-ipswich-cities-v2",
+    parent: "GB",
     type: "town",
     name: { de: "Ipswich", hu: "Ipswich", ro: "Ipswich", en: "Ipswich",
 image: "/poi-images/uk-ipswich-cities-v2.webp"
@@ -653,6 +678,7 @@ image: "/poi-images/uk-ipswich-cities-v2.webp"
   },
   {
     id: "uk-newport-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Newport", hu: "Newport", ro: "Newport", en: "Newport",
 image: "/poi-images/uk-newport-cities-v2.webp"
@@ -675,6 +701,7 @@ image: "/poi-images/uk-newport-cities-v2.webp"
     image: "/poi-images/uk-newport-cities-v2.webp"},
   {
     id: "uk-preston-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Preston", hu: "Preston", ro: "Preston", en: "Preston",
 image: "/poi-images/uk-preston-cities-v2.webp"
@@ -697,6 +724,7 @@ image: "/poi-images/uk-preston-cities-v2.webp"
     image: "/poi-images/uk-preston-cities-v2.webp"},
   {
     id: "uk-sunderland-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Sunderland", hu: "Sunderland", ro: "Sunderland", en: "Sunderland",
 image: "/poi-images/uk-sunderland-cities-v2.webp"
@@ -719,6 +747,7 @@ image: "/poi-images/uk-sunderland-cities-v2.webp"
     image: "/poi-images/uk-sunderland-cities-v2.webp"},
   {
     id: "uk-gloucester-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Gloucester", hu: "Gloucester", ro: "Gloucester", en: "Gloucester",
 image: "/poi-images/uk-gloucester-cities-v2.webp"
@@ -741,6 +770,7 @@ image: "/poi-images/uk-gloucester-cities-v2.webp"
     image: "/poi-images/uk-gloucester-cities-v2.webp"},
   {
     id: "uk-exeter-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Exeter", hu: "Exeter", ro: "Exeter", en: "Exeter",
 image: "/poi-images/uk-exeter-cities-v2.webp"
@@ -763,6 +793,7 @@ image: "/poi-images/uk-exeter-cities-v2.webp"
     image: "/poi-images/uk-exeter-cities-v2.webp"},
   {
     id: "uk-carlisle-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Carlisle", hu: "Carlisle", ro: "Carlisle", en: "Carlisle",
 image: "/poi-images/uk-carlisle-cities-v2.webp"
@@ -786,6 +817,7 @@ image: "/poi-images/uk-carlisle-cities-v2.webp"
 ,
   {
     id: "uk-norwich-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Norwich", hu: "Norwich", ro: "Norwich", en: "Norwich",
 image: "/poi-images/uk-norwich-cities-v2.webp"
@@ -808,6 +840,7 @@ image: "/poi-images/uk-norwich-cities-v2.webp"
   },
   {
     id: "uk-stirling-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Stirling", hu: "Stirling", ro: "Stirling", en: "Stirling",
 image: "/poi-images/uk-stirling-cities-v2.webp"
@@ -831,6 +864,7 @@ image: "/poi-images/uk-stirling-cities-v2.webp"
 ,
   {
     id: "uk-salisbury-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Salisbury", hu: "Salisbury", ro: "Salisbury", en: "Salisbury",
 image: "/poi-images/uk-salisbury-cities-v2.webp"
@@ -853,6 +887,7 @@ image: "/poi-images/uk-salisbury-cities-v2.webp"
   },
   {
     id: "uk-lincoln-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Lincoln", hu: "Lincoln", ro: "Lincoln", en: "Lincoln",
 image: "/poi-images/uk-lincoln-cities-v2.webp"
@@ -875,6 +910,7 @@ image: "/poi-images/uk-lincoln-cities-v2.webp"
     image: "/poi-images/uk-lincoln-cities-v2.webp"},
   {
     id: "uk-winchester-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Winchester", hu: "Winchester", ro: "Winchester", en: "Winchester",
 image: "/poi-images/uk-winchester-cities-v2.webp"
@@ -897,6 +933,7 @@ image: "/poi-images/uk-winchester-cities-v2.webp"
     image: "/poi-images/uk-winchester-cities-v2.webp"},
   {
     id: "uk-st-davids-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "St Davids", hu: "St Davids", ro: "St Davids", en: "St Davids",
 image: "/poi-images/uk-st-davids-cities-v2.webp"
@@ -919,6 +956,7 @@ image: "/poi-images/uk-st-davids-cities-v2.webp"
     image: "/poi-images/uk-st-davids-cities-v2.webp"},
   {
     id: "uk-kingston-upon-hull-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Kingston upon Hull", hu: "Kingston upon Hull", ro: "Kingston upon Hull", en: "Kingston upon Hull",
 image: "/poi-images/uk-kingston-upon-hull-cities-v2.webp"
@@ -941,6 +979,7 @@ image: "/poi-images/uk-kingston-upon-hull-cities-v2.webp"
     image: "/poi-images/uk-kingston-upon-hull-cities-v2.webp"},
   {
     id: "uk-wolverhampton-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Wolverhampton", hu: "Wolverhampton", ro: "Wolverhampton", en: "Wolverhampton",
 image: "/poi-images/uk-wolverhampton-cities-v2.webp"
@@ -963,6 +1002,7 @@ image: "/poi-images/uk-wolverhampton-cities-v2.webp"
     image: "/poi-images/uk-wolverhampton-cities-v2.webp"},
   {
     id: "uk-stoke-on-trent-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Stoke-on-Trent", hu: "Stoke-on-Trent", ro: "Stoke-on-Trent", en: "Stoke-on-Trent",
 image: "/poi-images/uk-stoke-on-trent-cities-v2.webp"
@@ -985,6 +1025,7 @@ image: "/poi-images/uk-stoke-on-trent-cities-v2.webp"
     image: "/poi-images/uk-stoke-on-trent-cities-v2.webp"},
   {
     id: "uk-derby-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Derby", hu: "Derby", ro: "Derby", en: "Derby",
 image: "/poi-images/uk-derby-cities-v2.webp"
@@ -1007,6 +1048,7 @@ image: "/poi-images/uk-derby-cities-v2.webp"
     image: "/poi-images/uk-derby-cities-v2.webp"},
   {
     id: "uk-lancaster-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Lancaster", hu: "Lancaster", ro: "Lancaster", en: "Lancaster",
 image: "/poi-images/uk-lancaster-cities-v2.webp"
@@ -1029,6 +1071,7 @@ image: "/poi-images/uk-lancaster-cities-v2.webp"
     image: "/poi-images/uk-lancaster-cities-v2.webp"},
   {
     id: "uk-hereford-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Hereford", hu: "Hereford", ro: "Hereford", en: "Hereford",
 image: "/poi-images/uk-hereford-cities-v2.webp"
@@ -1051,6 +1094,7 @@ image: "/poi-images/uk-hereford-cities-v2.webp"
     image: "/poi-images/uk-hereford-cities-v2.webp"},
   {
     id: "uk-st-albans-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "St Albans", hu: "St Albans", ro: "St Albans", en: "St Albans",
 image: "/poi-images/uk-st-albans-cities-v2.webp"
@@ -1073,6 +1117,7 @@ image: "/poi-images/uk-st-albans-cities-v2.webp"
     image: "/poi-images/uk-st-albans-cities-v2.webp"},
   {
     id: "uk-bangor-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Bangor", hu: "Bangor", ro: "Bangor", en: "Bangor",
 image: "/poi-images/uk-bangor-cities-v2.webp"
@@ -1095,6 +1140,7 @@ image: "/poi-images/uk-bangor-cities-v2.webp"
     image: "/poi-images/uk-bangor-cities-v2.webp"},
   {
     id: "uk-armagh-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Armagh", hu: "Armagh", ro: "Armagh", en: "Armagh",
 image: "/poi-images/uk-armagh-cities-v2.webp"
@@ -1117,6 +1163,7 @@ image: "/poi-images/uk-armagh-cities-v2.webp"
     image: "/poi-images/uk-armagh-cities-v2.webp"},
   {
     id: "uk-lisburn-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Lisburn", hu: "Lisburn", ro: "Lisburn", en: "Lisburn",
 image: "/poi-images/uk-lisburn-cities-v2.webp"
@@ -1139,6 +1186,7 @@ image: "/poi-images/uk-lisburn-cities-v2.webp"
     image: "/poi-images/uk-lisburn-cities-v2.webp"},
   {
     id: "uk-newry-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Newry", hu: "Newry", ro: "Newry", en: "Newry",
 image: "/poi-images/uk-newry-cities-v2.webp"
@@ -1161,6 +1209,7 @@ image: "/poi-images/uk-newry-cities-v2.webp"
     image: "/poi-images/uk-newry-cities-v2.webp"},
   {
     id: "uk-perth-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Perth", hu: "Perth", ro: "Perth", en: "Perth",
 image: "/poi-images/uk-perth-cities-v2.webp"
@@ -1183,6 +1232,7 @@ image: "/poi-images/uk-perth-cities-v2.webp"
     image: "/poi-images/uk-perth-cities-v2.webp"},
   {
     id: "uk-st-andrews-cities-v2",
+    parent: "GB",
     type: "town",
     name: { de: "St Andrews", hu: "St Andrews", ro: "St Andrews", en: "St Andrews",
 image: "/poi-images/uk-st-andrews-cities-v2.webp"
@@ -1205,6 +1255,7 @@ image: "/poi-images/uk-st-andrews-cities-v2.webp"
     image: "/poi-images/uk-st-andrews-cities-v2.webp"},
   {
     id: "uk-chichester-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Chichester", hu: "Chichester", ro: "Chichester", en: "Chichester",
 image: "/poi-images/uk-chichester-cities-v2.webp"
@@ -1227,6 +1278,7 @@ image: "/poi-images/uk-chichester-cities-v2.webp"
     image: "/poi-images/uk-chichester-cities-v2.webp"},
   {
     id: "uk-wells-cities-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Wells", hu: "Wells", ro: "Wells", en: "Wells",
 image: "/poi-images/uk-wells-cities-v2.webp"

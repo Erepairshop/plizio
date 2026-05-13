@@ -3,6 +3,7 @@ export const greeceHistoryV2: POI[] = [
 
   {
     id: "greece-knossos-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Palast von Knossos", hu: "Knósszoszi palota", ro: "Palatul din Knossos", en: "Palace of Knossos",
 image: "/poi-images/greece-knossos-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Ancient ruins of the Palace of Knossos with red columns",
     image: "/poi-images/greece-knossos-history-v2.webp",
 },  {
     id: "greece-parthenon-history-v2",
+    parent: "GR",
     type: "monument",
     name: { de: "Parthenon", hu: "Parthenón", ro: "Partenon", en: "Parthenon",
 image: "/poi-images/greece-parthenon-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
     image: "/poi-images/greece-parthenon-history-v2.webp",
 },  {
     id: "greece-delphi-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Orakel von Delphi", hu: "Delphoi jósda", ro: "Oracolul din Delphi", en: "Oracle of Delphi",
 image: "/poi-images/greece-delphi-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
     image: "/poi-images/greece-delphi-history-v2.webp",
 },  {
     id: "greece-olympia-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Antikes Olympia", hu: "Ókori Olümpia", ro: "Olimpia Antică", en: "Ancient Olympia",
 image: "/poi-images/greece-olympia-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Archaeological site of Ancient Olympia stadium entrance",
     image: "/poi-images/greece-olympia-history-v2.webp",
 },  {
     id: "greece-epidaurus-theater-history-v2",
+    parent: "GR",
     type: "theater",
     name: { de: "Theater von Epidaurus", hu: "Epidauroszi színház", ro: "Teatrul din Epidaur", en: "Theater of Epidaurus",
 image: "/poi-images/greece-epidaurus-theater-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
     image: "/poi-images/greece-epidaurus-theater-history-v2.webp",
 },  {
     id: "greece-mycenae-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Mykene", hu: "Mükéné", ro: "Micene", en: "Mycenae",
 image: "/poi-images/greece-mycenae-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "The Lion Gate at the entrance of Mycenae",
     image: "/poi-images/greece-mycenae-history-v2.webp",
 },  {
     id: "greece-meteora-history-v2",
+    parent: "GR",
     type: "landmark",
     name: { de: "Meteora-Klöster", hu: "Metéora-kolostorok", ro: "Mănăstirile de la Meteora", en: "Meteora Monasteries",
 image: "/poi-images/greece-meteora-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Monasteries perched on high rocks in Meteora",
     image: "/poi-images/greece-meteora-history-v2.webp",
 },  {
     id: "greece-thermopylae-history-v2",
+    parent: "GR",
     type: "battlefield",
     name: { de: "Schlachtfeld von Thermopylen", hu: "Thermopülai csatatér", ro: "Câmpul de luptă de la Termopile", en: "Thermopylae Battlefield",
 image: "/poi-images/greece-thermopylae-history-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Statue of King Leonidas at Thermopylae",
     image: "/poi-images/greece-thermopylae-history-v2.webp",
 },  {
     id: "greece-marathon-history-v2",
+    parent: "GR",
     type: "battlefield",
     name: { de: "Schlachtfeld von Marathon", hu: "Marathóni csatatér", ro: "Câmpul de luptă de la Maraton", en: "Marathon Battlefield",
 image: "/poi-images/greece-marathon-history-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Burial mound of the Athenians at Marathon",
     image: "/poi-images/greece-marathon-history-v2.webp",
 },  {
     id: "greece-mystras-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Mystras", hu: "Misztra", ro: "Mistra", en: "Mystras",
 image: "/poi-images/greece-mystras-history-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Byzantine church and ruins in Mystras",
     image: "/poi-images/greece-mystras-history-v2.webp",
 },  {
     id: "greece-delos-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Insel Delos", hu: "Délosz szigete", ro: "Insula Delos", en: "Delos Island",
 image: "/poi-images/greece-delos-history-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Terrace of the Lions on Delos island",
     image: "/poi-images/greece-delos-history-v2.webp",
 },  {
     id: "greece-vergina-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Königsgräber von Vergina", hu: "Verginai királysírok", ro: "Mormintele regale de la Vergina", en: "Royal Tombs of Vergina",
 image: "/poi-images/greece-vergina-history-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "The golden larnax of Philip II of Macedon",
     image: "/poi-images/greece-vergina-history-v2.webp",
 },  {
     id: "greece-pella-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Antikes Pella", hu: "Ókori Pella", ro: "Pella Antică", en: "Ancient Pella",
 image: "/poi-images/greece-pella-history-v2.webp"
@@ -445,6 +458,7 @@ image: "/poi-images/greece-pella-history-v2.webp"
   },
   {
     id: "greece-lindos-acropolis-history-v2",
+    parent: "GR",
     type: "castle",
     name: { de: "Akropolis von Lindos", hu: "Lindoszi akropolisz", ro: "Acropola din Lindos", en: "Acropolis of Lindos",
 image: "/poi-images/greece-lindos-acropolis-history-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Ancient columns and medieval walls of Lindos Acropolis",
     image: "/poi-images/greece-lindos-acropolis-history-v2.webp",
 },  {
     id: "greece-grand-master-palace-history-v2",
+    parent: "GR",
     type: "palace",
     name: { de: "Großmeisterpalast von Rhodos", hu: "Nagymesteri palota (Rodosz)", ro: "Palatul Marelui Maestru din Rodos", en: "Palace of the Grand Master",
 image: "/poi-images/greece-grand-master-palace-history-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
     image: "/poi-images/greece-grand-master-palace-history-v2.webp",
 },  {
     id: "greece-spinalonga-history-v2",
+    parent: "GR",
     type: "castle",
     name: { de: "Spinalonga", hu: "Szpinalónga", ro: "Spinalonga", en: "Spinalonga",
 image: "/poi-images/greece-spinalonga-history-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "The fortified island of Spinalonga in Crete",
     image: "/poi-images/greece-spinalonga-history-v2.webp",
 },  {
     id: "greece-tiryns-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Tiryns", hu: "Tirünsz", ro: "Tirint", en: "Tiryns",
 image: "/poi-images/greece-tiryns-history-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
     image: "/poi-images/greece-tiryns-history-v2.webp",
 },  {
     id: "greece-sounion-poseidon-history-v2",
+    parent: "GR",
     type: "monument",
     name: { de: "Tempel des Poseidon (Sounion)", hu: "Poszeidón-templom (Szoúnion)", ro: "Templul lui Poseidon (Sounion)", en: "Temple of Poseidon (Sounion)",
 image: "/poi-images/greece-sounion-poseidon-history-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Temple of Poseidon at Cape Sounion during sunset",
     image: "/poi-images/greece-sounion-poseidon-history-v2.webp",
 },  {
     id: "greece-ancient-corinth-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Antikes Korinth", hu: "Ókori Korinthosz", ro: "Corintul Antic", en: "Ancient Corinth",
 image: "/poi-images/greece-ancient-corinth-history-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
     image: "/poi-images/greece-ancient-corinth-history-v2.webp",
 },  {
     id: "greece-messene-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Antikes Messene", hu: "Ókori Messzéné", ro: "Messene Antică", en: "Ancient Messene",
 image: "/poi-images/greece-messene-history-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Ruins of the stadium and agora in Ancient Messene",
     image: "/poi-images/greece-messene-history-v2.webp",
 },  {
     id: "greece-bassae-apollo-history-v2",
+    parent: "GR",
     type: "monument",
     name: { de: "Tempel des Apollo (Bassae)", hu: "Apollón-templom (Basszai)", ro: "Templul lui Apollo (Bassae)", en: "Temple of Apollo Epicurius",
 image: "/poi-images/greece-bassae-apollo-history-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
     image: "/poi-images/greece-bassae-apollo-history-v2.webp",
 },  {
     id: "greece-dodona-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Orakel von Dodona", hu: "Dodona jósdája", ro: "Oracolul din Dodona", en: "Oracle of Dodona",
 image: "/poi-images/greece-dodona-history-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
     image: "/poi-images/greece-dodona-history-v2.webp",
 },  {
     id: "greece-philippi-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Philippi", hu: "Philippi", ro: "Filipi", en: "Philippi",
 image: "/poi-images/greece-philippi-history-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Archaeological ruins and basilicas of Philippi",
     image: "/poi-images/greece-philippi-history-v2.webp",
 },  {
     id: "greece-monemvasia-history-v2",
+    parent: "GR",
     type: "town",
     name: { de: "Monemvasia", hu: "Monemvaszia", ro: "Monemvasia", en: "Monemvasia",
 image: "/poi-images/greece-monemvasia-history-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "The rock of Monemvasia with the medieval town",
     image: "/poi-images/greece-monemvasia-history-v2.webp",
 },  {
     id: "greece-white-tower-history-v2",
+    parent: "GR",
     type: "tower",
     name: { de: "Weißer Turm von Thessaloniki", hu: "Fehér torony (Thesszaloniki)", ro: "Turnul Alb din Salonic", en: "White Tower of Thessaloniki",
 image: "/poi-images/greece-white-tower-history-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "The White Tower of Thessaloniki by the sea",
     image: "/poi-images/greece-white-tower-history-v2.webp",
 },  {
     id: "greece-akrotiri-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Akrotiri (Santorin)", hu: "Akrotíri (Szantorini)", ro: "Akrotiri (Santorini)", en: "Akrotiri (Santorini)",
 image: "/poi-images/greece-akrotiri-history-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Archaeological excavation of the ancient town of Akrotiri",
     image: "/poi-images/greece-akrotiri-history-v2.webp",
 },  {
     id: "greece-arch-galerius-history-v2",
+    parent: "GR",
     type: "monument",
     name: { de: "Galeriusbogen", hu: "Galériusz-diadalív", ro: "Arcul lui Galerius", en: "Arch of Galerius",
 image: "/poi-images/greece-arch-galerius-history-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "The Arch of Galerius in Thessaloniki with stone reliefs",
     image: "/poi-images/greece-arch-galerius-history-v2.webp",
 },  {
     id: "greece-palamidi-fortress-history-v2",
+    parent: "GR",
     type: "castle",
     name: { de: "Festung Palamidi", hu: "Palamídi erőd", ro: "Cetatea Palamidi", en: "Palamidi Fortress",
 image: "/poi-images/greece-palamidi-fortress-history-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Bastions of the Palamidi fortress overlooking the sea",
     image: "/poi-images/greece-palamidi-fortress-history-v2.webp",
 },  {
     id: "greece-salamis-battle-history-v2",
+    parent: "GR",
     type: "battlefield",
     name: { de: "Schauplatz der Seeschlacht von Salamis", hu: "Szalamiszi tengeri csata helyszíne", ro: "Locul bătăliei de la Salamina", en: "Salamis Battlefield",
 image: "/poi-images/greece-salamis-battle-history-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
     image: "/poi-images/greece-salamis-battle-history-v2.webp",
 },  {
     id: "greece-samothrace-temple-history-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Heiligtum der Großen Götter (Samothrake)", hu: "Nagy Istenek szentélye (Szamothraké)", ro: "Sanctuarul Marilor Zei (Samothraki)", en: "Sanctuary of the Great Gods",
 image: "/poi-images/greece-samothrace-temple-history-v2.webp"

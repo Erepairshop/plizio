@@ -3,6 +3,7 @@ export const russiaNatureV2: POI[] = [
 
   {
     id: "russia-lake-baikal-nature-v2",
+    parent: "RU",
     type: "lake",
     name: { de: "Baikalsee", hu: "Bajkál-tó", ro: "Lacul Baikal", en: "Lake Baikal",
 image: "/poi-images/russia-lake-baikal-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Lake Baikal crystal clear ice in winter",
     , image: "/poi-images/russia-lake-baikal-nature-v2.webp",
 },  {
     id: "russia-mount-elbrus-nature-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Elbrus", hu: "Elbrusz", ro: "Muntele Elbrus", en: "Mount Elbrus",
 image: "/poi-images/russia-mount-elbrus-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Mount Elbrus double peaks with snow",
     , image: "/poi-images/russia-mount-elbrus-nature-v2.webp",
 },  {
     id: "russia-volga-river-nature-v2",
+    parent: "RU",
     type: "river",
     name: { de: "Wolga", hu: "Volga", ro: "Râul Volga", en: "Volga River",
 image: "/poi-images/russia-volga-river-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Volga River aerial view near Samara",
     , image: "/poi-images/russia-volga-river-nature-v2.webp",
 },  {
     id: "russia-lena-pillars-nature-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Lenasäulen", hu: "Léna-oszlopok", ro: "Coloanele Lenei", en: "Lena Pillars",
 image: "/poi-images/russia-lena-pillars-nature-v2.webp"
@@ -139,6 +143,7 @@ image: "/poi-images/russia-lena-pillars-nature-v2.webp"
   },
   {
     id: "russia-valley-of-geysers-nature-v2",
+    parent: "RU",
     type: "valley",
     name: { de: "Tal der Geysire", hu: "Gejzírek völgye", ro: "Valea Gheizerelor", en: "Valley of Geysers",
 image: "/poi-images/russia-valley-of-geysers-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Valley of Geysers Kamchatka steam",
     , image: "/poi-images/russia-valley-of-geysers-nature-v2.webp",
 },  {
     id: "russia-ural-mountains-nature-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Ural", hu: "Urál-hegység", ro: "Munții Ural", en: "Ural Mountains",
 image: "/poi-images/russia-ural-mountains-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Ural Mountains landscape northern peaks",
     , image: "/poi-images/russia-ural-mountains-nature-v2.webp",
 },  {
     id: "russia-lena-river-nature-v2",
+    parent: "RU",
     type: "river",
     name: { de: "Lena", hu: "Léna", ro: "Râul Lena", en: "Lena River",
 image: "/poi-images/russia-lena-river-nature-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Lena River delta aerial view",
     , image: "/poi-images/russia-lena-river-nature-v2.webp",
 },  {
     id: "russia-putorana-plateau-nature-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Putorana-Gebirge", hu: "Putorana-fennsík", ro: "Platoul Putorana", en: "Putorana Plateau",
 image: "/poi-images/russia-putorana-plateau-nature-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Putorana Plateau waterfalls and canyon",
     , image: "/poi-images/russia-putorana-plateau-nature-v2.webp",
 },  {
     id: "russia-klyuchevskaya-sopka-nature-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Klyuchevskaya Sopka", hu: "Klucsevszkaja-szopka", ro: "Vulcanul Kliucevskaia", en: "Klyuchevskaya Sopka",
 image: "/poi-images/russia-klyuchevskaya-sopka-nature-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Klyuchevskaya Sopka volcano erupting",
     , image: "/poi-images/russia-klyuchevskaya-sopka-nature-v2.webp",
 },  {
     id: "russia-lake-ladoga-nature-v2",
+    parent: "RU",
     type: "lake",
     name: { de: "Ladogasee", hu: "Ladoga-tó", ro: "Lacul Ladoga", en: "Lake Ladoga",
 image: "/poi-images/russia-lake-ladoga-nature-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Lake Ladoga rocky shores and islands",
     , image: "/poi-images/russia-lake-ladoga-nature-v2.webp",
 },  {
     id: "russia-lake-onega-nature-v2",
+    parent: "RU",
     type: "lake",
     name: { de: "Onegasee", hu: "Onyega-tó", ro: "Lacul Onega", en: "Lake Onega",
 image: "/poi-images/russia-lake-onega-nature-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Lake Onega sunset with Kishi island",
     , image: "/poi-images/russia-lake-onega-nature-v2.webp",
 },  {
     id: "russia-virgin-komi-forests-nature-v2",
+    parent: "RU",
     type: "forest",
     name: { de: "Urwälder von Komi", hu: "Komi őserdők", ro: "Pădurile Virgine din Komi", en: "Virgin Komi Forests",
 image: "/poi-images/russia-virgin-komi-forests-nature-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Virgin Komi Forests taiga landscape",
     , image: "/poi-images/russia-virgin-komi-forests-nature-v2.webp",
 },  {
     id: "russia-sikhote-alin-nature-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Sichote-Alin", hu: "Szihote-Aliny", ro: "Munții Sihote-Alin", en: "Sikhote-Alin",
 image: "/poi-images/russia-sikhote-alin-nature-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Sikhote-Alin mountains amur tiger habitat",
     , image: "/poi-images/russia-sikhote-alin-nature-v2.webp",
 },  {
     id: "russia-wrangel-island-nature-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Wrangelinsel", hu: "Vrangel-sziget", ro: "Insula Vranghel", en: "Wrangel Island",
 image: "/poi-images/russia-wrangel-island-nature-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Wrangel Island polar bear on tundra",
     , image: "/poi-images/russia-wrangel-island-nature-v2.webp",
 },  {
     id: "russia-lake-teletskoye-nature-v2",
+    parent: "RU",
     type: "lake",
     name: { de: "Telezkis-See", hu: "Tyeleckoje-tó", ro: "Lacul Telețkoe", en: "Lake Teletskoye",
 image: "/poi-images/russia-lake-teletskoye-nature-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Lake Teletskoye mountains mirror reflection",
     , image: "/poi-images/russia-lake-teletskoye-nature-v2.webp",
 },  {
     id: "russia-kungur-ice-cave-nature-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Kungurer Eishöhle", hu: "Kunguri jégbarlang", ro: "Peștera de Gheață Kungur", en: "Kungur Ice Cave",
 image: "/poi-images/russia-kungur-ice-cave-nature-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Kungur Ice Cave stalactites and lights",
     , image: "/poi-images/russia-kungur-ice-cave-nature-v2.webp",
 },  {
     id: "russia-manpupuner-nature-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Manpupuner-Felsen", hu: "Manpupunyer-sziklák", ro: "Formațiunile Manpupuner", en: "Manpupuner Rock Formations",
 image: "/poi-images/russia-manpupuner-nature-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Manpupuner rock formations seven pillars",
     , image: "/poi-images/russia-manpupuner-nature-v2.webp",
 },  {
     id: "russia-orda-cave-nature-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Ordinskaja-Höhle", hu: "Orda-barlang", ro: "Peștera Orda", en: "Orda Cave",
 image: "/poi-images/russia-orda-cave-nature-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Orda Cave underwater diver gypsum walls",
     , image: "/poi-images/russia-orda-cave-nature-v2.webp",
 },  {
     id: "russia-chara-sands-nature-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Tschara-Sande", hu: "Csara-homokpuszta", ro: "Nisipurile Ceara", en: "Chara Sands",
 image: "/poi-images/russia-chara-sands-nature-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Chara Sands dunes with mountains background",
     , image: "/poi-images/russia-chara-sands-nature-v2.webp",
 },  {
     id: "russia-vasyugan-swamp-nature-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Wasjugan-Sümpfe", hu: "Vaszjugan-mocsár", ro: "Mlaștina Vasiugan", en: "Vasyugan Swamp",
 image: "/poi-images/russia-vasyugan-swamp-nature-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Vasyugan Swamp aerial landscape",
     , image: "/poi-images/russia-vasyugan-swamp-nature-v2.webp",
 },  {
     id: "russia-commander-islands-nature-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Kommandeurinseln", hu: "Komandor-szigetek", ro: "Insulele Comandor", en: "Commander Islands",
 image: "/poi-images/russia-commander-islands-nature-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Commander Islands sea otters and cliffs",
     , image: "/poi-images/russia-commander-islands-nature-v2.webp",
 },  {
     id: "russia-franz-josef-land-nature-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Franz-Josef-Land", hu: "Ferenc József-föld", ro: "Pământul lui Franz Josef", en: "Franz Josef Land",
 image: "/poi-images/russia-franz-josef-land-nature-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Franz Josef Land icebergs and walruses",
     , image: "/poi-images/russia-franz-josef-land-nature-v2.webp",
 },  {
     id: "russia-golden-mountains-of-altai-nature-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Goldene Berge des Altai", hu: "Altaj Arany-hegyei", ro: "Munții de Aur din Altai", en: "Golden Mountains of Altai",
 image: "/poi-images/russia-golden-mountains-of-altai-nature-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Golden Mountains of Altai landscapes",
     , image: "/poi-images/russia-golden-mountains-of-altai-nature-v2.webp",
 },  {
     id: "russia-kuril-islands-nature-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Kurilen", hu: "Kuril-szigetek", ro: "Insulele Kurile", en: "Kuril Islands",
 image: "/poi-images/russia-kuril-islands-nature-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Kuril Islands volcanic peaks and sea",
     , image: "/poi-images/russia-kuril-islands-nature-v2.webp",
 },  {
     id: "russia-sayano-shushensky-nature-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Sajano-Schuschensker Reservat", hu: "Szajano-Susenszkij rezervátum", ro: "Rezervația Saiano-Șușenskaia", en: "Sayano-Shushensky Reserve",
 image: "/poi-images/russia-sayano-shushensky-nature-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Sayano-Shushensky reserve mountains and lake",
     , image: "/poi-images/russia-sayano-shushensky-nature-v2.webp",
 },  {
     id: "russia-ob-river-nature-v2",
+    parent: "RU",
     type: "river",
     name: { de: "Ob", hu: "Ob", ro: "Râul Obi", en: "Ob River",
 image: "/poi-images/russia-ob-river-nature-v2.webp"
@@ -887,6 +913,7 @@ image: "/poi-images/russia-ob-river-nature-v2.webp"
   },
   {
     id: "russia-yenisei-river-nature-v2",
+    parent: "RU",
     type: "river",
     name: { de: "Jenissei", hu: "Jenyiszej", ro: "Râul Enisei", en: "Yenisei River",
 image: "/poi-images/russia-yenisei-river-nature-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Yenisei River landscape taiga",
     , image: "/poi-images/russia-yenisei-river-nature-v2.webp",
 },  {
     id: "russia-taimyr-peninsula-nature-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Taimyr-Halbinsel", hu: "Tajmir-félsziget", ro: "Peninsula Taimîr", en: "Taimyr Peninsula",
 image: "/poi-images/russia-taimyr-peninsula-nature-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Taimyr Peninsula tundra and musk ox",
     , image: "/poi-images/russia-taimyr-peninsula-nature-v2.webp",
 },  {
     id: "russia-dombay-ulgen-nature-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Dombai-Ulgen", hu: "Dombaj-Ulgen", ro: "Muntele Dombai-Ulgen", en: "Dombay-Ulgen",
 image: "/poi-images/russia-dombay-ulgen-nature-v2.webp"

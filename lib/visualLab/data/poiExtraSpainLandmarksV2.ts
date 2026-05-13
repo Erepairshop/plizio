@@ -3,6 +3,7 @@ export const spainLandmarksV2: POI[] = [
 
   {
     id: "spain-sagrada-familia-landmarks-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Sagrada Família", hu: "Sagrada Família", ro: "Sagrada Família", en: "Sagrada Família",
 image: "/poi-images/spain-sagrada-familia-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Sagrada Familia basilica in Barcelona at sunrise",
     , image: "/poi-images/spain-sagrada-familia-landmarks-v2.webp",
 },  {
     id: "spain-mezquita-cordoba-landmarks-v2",
+    parent: "ES",
     type: "cathedral",
     name: { de: "Mezquita-Catedral de Córdoba", hu: "Córdobai nagymecset", ro: "Marea Moschee din Córdoba", en: "Mosque-Cathedral of Córdoba",
 image: "/poi-images/spain-mezquita-cordoba-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Interior of Mosque-Cathedral of Cordoba with red and white arches",
     , image: "/poi-images/spain-mezquita-cordoba-landmarks-v2.webp",
 },  {
     id: "spain-seville-cathedral-landmarks-v2",
+    parent: "ES",
     type: "cathedral",
     name: { de: "Kathedrale von Sevilla", hu: "Sevillai katedrális", ro: "Catedrala din Sevilla", en: "Seville Cathedral",
 image: "/poi-images/spain-seville-cathedral-landmarks-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Seville Cathedral and Giralda tower at dusk",
     , image: "/poi-images/spain-seville-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-prado-museum-landmarks-v2",
+    parent: "ES",
     type: "museum",
     name: { de: "Museo del Prado", hu: "Prado Múzeum", ro: "Muzeul Prado", en: "Prado Museum",
 image: "/poi-images/spain-prado-museum-landmarks-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Main facade of the Prado Museum in Madrid",
     , image: "/poi-images/spain-prado-museum-landmarks-v2.webp",
 },  {
     id: "spain-guggenheim-bilbao-landmarks-v2",
+    parent: "ES",
     type: "museum",
     name: { de: "Guggenheim-Museum Bilbao", hu: "Guggenheim Múzeum Bilbao", ro: "Muzeul Guggenheim din Bilbao", en: "Guggenheim Museum Bilbao",
 image: "/poi-images/spain-guggenheim-bilbao-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Guggenheim Museum Bilbao with titanium exterior",
     , image: "/poi-images/spain-guggenheim-bilbao-landmarks-v2.webp",
 },  {
     id: "spain-aqueduct-segovia-landmarks-v2",
+    parent: "ES",
     type: "monument",
     name: { de: "Aquädukt von Segovia", hu: "Segoviai aqueduct", ro: "Aveductul din Segovia", en: "Aqueduct of Segovia",
 image: "/poi-images/spain-aqueduct-segovia-landmarks-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Roman Aqueduct of Segovia at Plaza del Azoguejo",
     , image: "/poi-images/spain-aqueduct-segovia-landmarks-v2.webp",
 },  {
     id: "spain-burgos-cathedral-landmarks-v2",
+    parent: "ES",
     type: "cathedral",
     name: { de: "Kathedrale von Burgos", hu: "Burgosi katedrális", ro: "Catedrala din Burgos", en: "Burgos Cathedral",
 image: "/poi-images/spain-burgos-cathedral-landmarks-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Burgos Cathedral exterior facade and spires",
     , image: "/poi-images/spain-burgos-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-santiago-cathedral-landmarks-v2",
+    parent: "ES",
     type: "cathedral",
     name: { de: "Kathedrale von Santiago de Compostela", hu: "Santiago de Compostela-i székesegyház", ro: "Catedrala din Santiago de Compostela", en: "Santiago de Compostela Cathedral",
 image: "/poi-images/spain-santiago-cathedral-landmarks-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Facade of Santiago de Compostela Cathedral at Plaza del Obradoiro",
     , image: "/poi-images/spain-santiago-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-casa-mila-landmarks-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Casa Milà (La Pedrera)", hu: "Casa Milà (La Pedrera)", ro: "Casa Milà (La Pedrera)", en: "Casa Milà (La Pedrera)",
 image: "/poi-images/spain-casa-mila-landmarks-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Casa Mila La Pedrera rooftop with decorated chimneys",
     , image: "/poi-images/spain-casa-mila-landmarks-v2.webp",
 },  {
     id: "spain-walls-avila-landmarks-v2",
+    parent: "ES",
     type: "monument",
     name: { de: "Stadtmauer von Ávila", hu: "Ávila városfala", ro: "Zidurile din Ávila", en: "Walls of Avila",
 image: "/poi-images/spain-walls-avila-landmarks-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Medieval walls of Avila panoramic view",
     , image: "/poi-images/spain-walls-avila-landmarks-v2.webp",
 },  {
     id: "spain-hanging-houses-cuenca-landmarks-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Hängende Häuser von Cuenca", hu: "Cuenca függőházai", ro: "Casele Suspendate din Cuenca", en: "Hanging Houses of Cuenca",
 image: "/poi-images/spain-hanging-houses-cuenca-landmarks-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Hanging Houses of Cuenca overlooking the gorge",
     , image: "/poi-images/spain-hanging-houses-cuenca-landmarks-v2.webp",
 },  {
     id: "spain-palau-musica-catalana-landmarks-v2",
+    parent: "ES",
     type: "theater",
     name: { de: "Palau de la Música Catalana", hu: "Palau de la Música Catalana", ro: "Palatul Muzicii Catalane", en: "Palau de la Música Catalana",
 image: "/poi-images/spain-palau-musica-catalana-landmarks-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Palau de la Musica Catalana concert hall interior",
     , image: "/poi-images/spain-palau-musica-catalana-landmarks-v2.webp",
 },  {
     id: "spain-plaza-espana-seville-landmarks-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Plaza de España (Sevilla)", hu: "Plaza de España (Sevilla)", ro: "Plaza de España (Sevilla)", en: "Plaza de España (Seville)",
 image: "/poi-images/spain-plaza-espana-seville-landmarks-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Plaza de Espana in Seville with canal and bridges",
     , image: "/poi-images/spain-plaza-espana-seville-landmarks-v2.webp",
 },  {
     id: "spain-alcazar-seville-landmarks-v2",
+    parent: "ES",
     type: "palace",
     name: { de: "Real Alcázar de Sevilla", hu: "Sevillai Alcázar", ro: "Real Alcázar din Sevilla", en: "Alcázar of Seville",
 image: "/poi-images/spain-alcazar-seville-landmarks-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Patio de las Doncellas in the Alcázar of Seville",
     , image: "/poi-images/spain-alcazar-seville-landmarks-v2.webp",
 },  {
     id: "spain-city-arts-sciences-landmarks-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Stadt der Künste und der Wissenschaften", hu: "Művészetek és Tudományok Városa", ro: "Orașul Artelor și Științelor", en: "City of Arts and Sciences",
 image: "/poi-images/spain-city-arts-sciences-landmarks-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "City of Arts and Sciences Valencia at night",
     , image: "/poi-images/spain-city-arts-sciences-landmarks-v2.webp",
 },  {
     id: "spain-monastery-montserrat-landmarks-v2",
+    parent: "ES",
     type: "monument",
     name: { de: "Kloster Montserrat", hu: "Montserrati kolostor", ro: "Mănăstirea Montserrat", en: "Monastery of Montserrat",
 image: "/poi-images/spain-monastery-montserrat-landmarks-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Monastery of Montserrat in the mountains",
     , image: "/poi-images/spain-monastery-montserrat-landmarks-v2.webp",
 },  {
     id: "spain-generalife-landmarks-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Generalife", hu: "Generalife", ro: "Generalife", en: "Generalife",
 image: "/poi-images/spain-generalife-landmarks-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Generalife gardens and palace in Granada",
     , image: "/poi-images/spain-generalife-landmarks-v2.webp",
 },  {
     id: "spain-puerta-del-sol-landmarks-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Puerta del Sol", hu: "Puerta del Sol", ro: "Puerta del Sol", en: "Puerta del Sol",
 image: "/poi-images/spain-puerta-del-sol-landmarks-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Puerta del Sol square in Madrid with the clock tower",
     , image: "/poi-images/spain-puerta-del-sol-landmarks-v2.webp",
 },  {
     id: "spain-toledo-cathedral-landmarks-v2",
+    parent: "ES",
     type: "cathedral",
     name: { de: "Kathedrale von Toledo", hu: "Toledói székesegyház", ro: "Catedrala din Toledo", en: "Toledo Cathedral",
 image: "/poi-images/spain-toledo-cathedral-landmarks-v2.webp"
@@ -650,6 +669,7 @@ imageHint: "Toledo Cathedral exterior at night",
     , image: "/poi-images/spain-toledo-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-casa-battlo-landmarks-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Casa Batlló", hu: "Casa Batlló", ro: "Casa Batlló", en: "Casa Batlló",
 image: "/poi-images/spain-casa-battlo-landmarks-v2.webp"
@@ -684,6 +704,7 @@ imageHint: "Casa Batllo facade with colorful mosaics and bone-like columns",
     , image: "/poi-images/spain-casa-battlo-landmarks-v2.webp",
 },  {
     id: "spain-castillo-loarre-landmarks-v2",
+    parent: "ES",
     type: "castle",
     name: { de: "Castillo de Loarre", hu: "Loarre vára", ro: "Castelul din Loarre", en: "Castillo de Loarre",
 image: "/poi-images/spain-castillo-loarre-landmarks-v2.webp"
@@ -718,6 +739,7 @@ imageHint: "Castillo de Loarre fortress on a rocky hill",
     , image: "/poi-images/spain-castillo-loarre-landmarks-v2.webp",
 },  {
     id: "spain-palma-cathedral-landmarks-v2",
+    parent: "ES",
     type: "cathedral",
     name: { de: "Kathedrale von Palma", hu: "Palmai székesegyház", ro: "Catedrala din Palma", en: "Palma Cathedral",
 image: "/poi-images/spain-palma-cathedral-landmarks-v2.webp"
@@ -752,6 +774,7 @@ imageHint: "Palma de Mallorca Cathedral overlooking the sea",
     , image: "/poi-images/spain-palma-cathedral-landmarks-v2.webp",
 },  {
     id: "spain-roman-bridge-cordoba-landmarks-v2",
+    parent: "ES",
     type: "bridge",
     name: { de: "Römische Brücke von Córdoba", hu: "Córdobai római híd", ro: "Podul Roman din Córdoba", en: "Roman Bridge of Córdoba",
 image: "/poi-images/spain-roman-bridge-cordoba-landmarks-v2.webp"
@@ -786,6 +809,7 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
     , image: "/poi-images/spain-roman-bridge-cordoba-landmarks-v2.webp",
 },  {
     id: "spain-monastery-poblet-landmarks-v2",
+    parent: "ES",
     type: "monument",
     name: { de: "Kloster Poblet", hu: "Poblet-kolostor", ro: "Mănăstirea Poblet", en: "Monastery of Poblet",
 image: "/poi-images/spain-monastery-poblet-landmarks-v2.webp"

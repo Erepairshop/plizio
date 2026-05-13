@@ -3,6 +3,7 @@ export const vaticanHistoryV2: POI[] = [
 
   {
     id: "vatican-st-peters-basilica-history-v2",
+    parent: "VA",
     type: "cathedral",
     name: { de: "Petersdom", hu: "Szent Péter-bazilika", ro: "Bazilica Sfântul Petru", en: "St. Peter's Basilica",
 image: "/poi-images/vatican-st-peters-basilica-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "St. Peter's Basilica exterior facade and dome",
     image: "/poi-images/vatican-st-peters-basilica-history-v2.webp",
 },  {
     id: "vatican-st-peters-square-history-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Petersplatz", hu: "Szent Péter tér", ro: "Piața Sfântul Petru", en: "St. Peter's Square",
 image: "/poi-images/vatican-st-peters-square-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "St. Peter's Square aerial view with colonnades",
     image: "/poi-images/vatican-st-peters-square-history-v2.webp",
 },  {
     id: "vatican-raphael-rooms-history-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Stanze des Raffael", hu: "Raffaello-termek", ro: "Stanzele lui Rafael", en: "Raphael Rooms",
 image: "/poi-images/vatican-raphael-rooms-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Raphael Rooms School of Athens fresco",
     image: "/poi-images/vatican-raphael-rooms-history-v2.webp",
 },  {
     id: "vatican-vatican-necropolis-history-v2",
+    parent: "VA",
     type: "ruins",
     name: { de: "Vatikanische Nekropole", hu: "Vatikáni nekropolisz", ro: "Necropola Vaticană", en: "Vatican Necropolis",
 image: "/poi-images/vatican-vatican-necropolis-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Vatican Necropolis ancient tombs underground",
     image: "/poi-images/vatican-vatican-necropolis-history-v2.webp",
 },  {
     id: "vatican-casino-pius-iv-history-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "Casina di Pio IV", hu: "IV. Piusz nyaralója", ro: "Vila lui Pius al IV-lea", en: "Casino of Pius IV",
 image: "/poi-images/vatican-casino-pius-iv-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Casina di Pio IV vatican gardens",
     image: "/poi-images/vatican-casino-pius-iv-history-v2.webp",
 },  {
     id: "vatican-st-peters-obelisk-history-v2",
+    parent: "VA",
     type: "monument",
     name: { de: "Vatikanischer Obelisk", hu: "Vatikáni obeliszk", ro: "Obeliscul Vatican", en: "Vatican Obelisk",
 image: "/poi-images/vatican-st-peters-obelisk-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Vatican Obelisk center of St Peter Square",
     image: "/poi-images/vatican-st-peters-obelisk-history-v2.webp",
 },  {
     id: "vatican-sala-regia-history-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "Sala Regia", hu: "Sala Regia", ro: "Sala Regia", en: "Sala Regia",
 image: "/poi-images/vatican-sala-regia-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Sala Regia Vatican hall frescoes",
     image: "/poi-images/vatican-sala-regia-history-v2.webp",
 },  {
     id: "vatican-scala-regia-history-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Scala Regia", hu: "Scala Regia", ro: "Scala Regia", en: "Scala Regia",
 image: "/poi-images/vatican-scala-regia-history-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Scala Regia Bernini staircase perspective",
     image: "/poi-images/vatican-scala-regia-history-v2.webp",
 },  {
     id: "vatican-borgia-apartments-history-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "Borgia-Appartement", hu: "Borgia-apartman", ro: "Apartamentul Borgia", en: "Borgia Apartments",
 image: "/poi-images/vatican-borgia-apartments-history-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Borgia Apartments Pinturicchio frescoes",
     image: "/poi-images/vatican-borgia-apartments-history-v2.webp",
 },  {
     id: "vatican-niccoline-chapel-history-v2",
+    parent: "VA",
     type: "church",
     name: { de: "Nikolaus-Kapelle", hu: "Niccolina-kápolna", ro: "Capela Niccolina", en: "Niccoline Chapel",
 image: "/poi-images/vatican-niccoline-chapel-history-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Niccoline Chapel Fra Angelico frescoes",
     image: "/poi-images/vatican-niccoline-chapel-history-v2.webp",
 },  {
     id: "vatican-tower-of-st-john-history-v2",
+    parent: "VA",
     type: "tower",
     name: { de: "Turm des Heiligen Johannes", hu: "Szent János-torony", ro: "Turnul Sfântul Ioan", en: "Tower of Saint John",
 image: "/poi-images/vatican-tower-of-st-john-history-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Tower of St John vatican gardens medieval",
     image: "/poi-images/vatican-tower-of-st-john-history-v2.webp",
 },  {
     id: "vatican-pauline-chapel-history-v2",
+    parent: "VA",
     type: "church",
     name: { de: "Cappella Paolina", hu: "Paolina-kápolna", ro: "Capela Paulină", en: "Pauline Chapel",
 image: "/poi-images/vatican-pauline-chapel-history-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Pauline Chapel Vatican frescoes Michelangelo",
     image: "/poi-images/vatican-pauline-chapel-history-v2.webp",
 },  {
     id: "vatican-cortile-del-belvedere-history-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "Belvedere-Hof", hu: "Belvedere-udvar", ro: "Curtea Belvedere", en: "Cortile del Belvedere",
 image: "/poi-images/vatican-cortile-del-belvedere-history-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Cortile del Belvedere Pinecone courtyard Vatican",
     image: "/poi-images/vatican-cortile-del-belvedere-history-v2.webp",
 },  {
     id: "vatican-bramante-staircase-history-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Bramante-Treppe (Original)", hu: "Bramante-lépcső (eredeti)", ro: "Scara lui Bramante (originală)", en: "Bramante Staircase (Original)",
 image: "/poi-images/vatican-bramante-staircase-history-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Original Bramante staircase Vatican 1505",
     image: "/poi-images/vatican-bramante-staircase-history-v2.webp",
 },  {
     id: "vatican-vatican-secret-archives-history-v2",
+    parent: "VA",
     type: "ruins",
     name: { de: "Vatikanisches Apostolisches Archiv", hu: "Vatikáni Apostoli Archívum", ro: "Arhiva Apostolică Vaticană", en: "Vatican Apostolic Archive",
 image: "/poi-images/vatican-vatican-secret-archives-history-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Vatican Apostolic Archive documents shelves",
     image: "/poi-images/vatican-vatican-secret-archives-history-v2.webp",
 },  {
     id: "vatican-gregorian-egyptian-museum-history-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Gregorianisch-ägyptisches Museum", hu: "Gergely-féle Egyiptomi Múzeum", ro: "Muzeul Gregorian Egiptean", en: "Gregorian Egyptian Museum",
 image: "/poi-images/vatican-gregorian-egyptian-museum-history-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Gregorian Egyptian Museum Vatican statues",
     image: "/poi-images/vatican-gregorian-egyptian-museum-history-v2.webp",
 },  {
     id: "vatican-braccio-nuovo-history-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Braccio Nuovo", hu: "Braccio Nuovo", ro: "Braccio Nuovo", en: "Braccio Nuovo",
 image: "/poi-images/vatican-braccio-nuovo-history-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Braccio Nuovo Vatican Museum neoclassical gallery",
     image: "/poi-images/vatican-braccio-nuovo-history-v2.webp",
 },  {
     id: "vatican-sala-clementina-history-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "Sala Clementina", hu: "Kelemen-terem", ro: "Sala Clementină", en: "Clementine Hall",
 image: "/poi-images/vatican-sala-clementina-history-v2.webp"
@@ -616,6 +634,7 @@ imageHint: "Sala Clementina Vatican hall interior",
 },
   {
     id: "vatican-gallery-of-the-candelabra-history-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Galerie der Kandelaber", hu: "Kandeláberek galériája", ro: "Galeria Candelabrelor", en: "Gallery of the Candelabra",
 image: "/poi-images/vatican-gallery-of-the-candelabra-history-v2.webp"
@@ -649,6 +668,7 @@ image: "/poi-images/vatican-gallery-of-the-candelabra-history-v2.webp"
   },
   {
     id: "vatican-gallery-of-tapestries-history-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Galerie der Wandteppiche", hu: "Gobelinek galériája", ro: "Galeria Tapițeriilor", en: "Gallery of Tapestries",
 image: "/poi-images/vatican-gallery-of-tapestries-history-v2.webp"
@@ -682,6 +702,7 @@ imageHint: "Vatican Gallery of Tapestries interior",
     image: "/poi-images/vatican-gallery-of-tapestries-history-v2.webp",
 },  {
     id: "vatican-sala-rotonda-history-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Sala Rotonda", hu: "Sala Rotonda", ro: "Sala Rotonda", en: "Sala Rotonda",
 image: "/poi-images/vatican-sala-rotonda-history-v2.webp"
@@ -715,6 +736,7 @@ imageHint: "Vatican Museum Sala Rotonda mosaic and basin",
     image: "/poi-images/vatican-sala-rotonda-history-v2.webp",
 },  {
     id: "vatican-greek-cross-hall-history-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Griechisches Kreuz Saal", hu: "Görög kereszt terem", ro: "Sala în Formă de Cruce Greacă", en: "Greek Cross Hall",
 image: "/poi-images/vatican-greek-cross-hall-history-v2.webp"
@@ -748,6 +770,7 @@ imageHint: "Vatican Greek Cross Hall Helena sarcophagus",
     image: "/poi-images/vatican-greek-cross-hall-history-v2.webp",
 },  {
     id: "vatican-porta-pertusa-history-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Porta Pertusa", hu: "Porta Pertusa", ro: "Porta Pertusa", en: "Porta Pertusa",
 image: "/poi-images/vatican-porta-pertusa-history-v2.webp"
@@ -781,6 +804,7 @@ imageHint: "Vatican Porta Pertusa Leonine Wall",
     image: "/poi-images/vatican-porta-pertusa-history-v2.webp",
 },  {
     id: "vatican-parrot-courtyard-history-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "Papageienhof", hu: "Papagáj-udvar", ro: "Curtea Papagalului", en: "Parrot Courtyard",
 image: "/poi-images/vatican-parrot-courtyard-history-v2.webp"
@@ -814,6 +838,7 @@ imageHint: "Vatican Cortile del Pappagallo courtyard",
     image: "/poi-images/vatican-parrot-courtyard-history-v2.webp",
 },  {
     id: "vatican-hall-of-animals-history-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Saal der Tiere", hu: "Állatok terme", ro: "Sala Animalelor", en: "Hall of Animals",
 image: "/poi-images/vatican-hall-of-animals-history-v2.webp"
@@ -847,6 +872,7 @@ imageHint: "Vatican Museum Sala degli Animali sculptures",
     image: "/poi-images/vatican-hall-of-animals-history-v2.webp",
 },  {
     id: "vatican-scala-pia-history-v2",
+    parent: "VA",
     type: "monument",
     name: { de: "Scala Pia", hu: "Scala Pia", ro: "Scala Pia", en: "Scala Pia",
 image: "/poi-images/vatican-scala-pia-history-v2.webp"
@@ -877,5 +903,206 @@ image: "/poi-images/vatican-scala-pia-history-v2.webp"
       ro: ["Anii 1860 construcția", "Acces spre palat", "Urcare monumentală", "Comandă de la Pius IX"],
       en: ["1860s construction", "Palace access link", "Monumental stairway", "Ordered by Pius IX"],
     },
+  }
+,
+  {
+    id: "vatican-raphael-loggias-history-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Raffael-Loggien", hu: "Raffaello-loggiák", ro: "Loggiile lui Rafael", en: "Raphael's Loggias" },
+    coordinates: { lat: 41.9037, lng: 12.4548 },
+    description: {
+      de: "Drei Stockwerke von Arkaden im Apostolischen Palast, dekoriert mit Fresken von Raffael und seiner Schule.",
+      hu: "Az Apostoli Palota háromszintes árkádsora, amelyet Raffaello és tanítványai freskói díszítenek.",
+      ro: "Trei etaje de arcade în Palatul Apostolic, decorate cu fresce de Rafael și școala sa.",
+      en: "Three levels of arcades in the Apostolic Palace, famous for the frescoes designed by Raphael.",
+    },
+    facts: {
+      de: ["Bauzeit 1512–1519", "52 biblische Szenen", "Grotesken-Dekoration", "Papst Leo X."],
+      hu: ["1512–1519 között készült", "52 bibliai jelenet", "Groteszk díszítések", "X. Leó pápa"],
+      ro: ["Construit între 1512–1519", "52 de scene biblice", "Decorațiuni în stil grotesc", "Papa Leon al X-lea"],
+      en: ["Built 1512–1519", "52 biblical scenes", "Grotesque decorations", "Pope Leo X"],
+    },
+    imageHint: "Raphael Loggias Vatican frescoes details",
+  },
+  {
+    id: "vatican-octagonal-courtyard-history-v2",
+    parent: "VA",
+    type: "ruins",
+    name: { de: "Cortile Ottagono", hu: "Oktogonális udvar", ro: "Curtea Octogonală", en: "Octagonal Courtyard" },
+    coordinates: { lat: 41.9065, lng: 12.4532 },
+    description: {
+      de: "Der Kern der Vatikanischen Museen, in dem die berühmtesten antiken Skulpturen der päpstlichen Sammlung stehen.",
+      hu: "A Vatikáni Múzeumok magja, ahol a pápai gyűjtemény leghíresebb antik szobrai láthatók.",
+      ro: "Nucleul Muzeelor Vaticane, unde sunt expuse cele mai faimoase sculpturi antice din colecția papală.",
+      en: "The core of the Vatican Museums, housing the most famous ancient sculptures of the papal collection.",
+    },
+    facts: {
+      de: ["Papst Julius II.", "Laokoon-Gruppe", "Belvedere-Apoll", "Entwurf von Bramante"],
+      hu: ["II. Gyula pápa alapította", "Laokoón-csoport", "Belvedere-i Apolló", "Bramante terve"],
+      ro: ["Papa Iuliu al II-lea", "Grupul Laocoon", "Apollo Belvedere", "Proiectat de Bramante"],
+      en: ["Pope Julius II", "Laocoon Group", "Apollo Belvedere", "Bramante design"],
+    },
+    imageHint: "Octagonal Courtyard Vatican Laocoon statue",
+  },
+  {
+    id: "vatican-hall-of-pontiffs-history-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Saal der Päpste", hu: "Pápák terme", ro: "Sala Pontifilor", en: "Hall of the Pontiffs" },
+    coordinates: { lat: 41.9033, lng: 12.4546 },
+    description: {
+      de: "Ein prächtiger Saal im Borgia-Apartment, der für offizielle Zeremonien und Empfänge genutzt wurde.",
+      hu: "A Borgia-apartman egyik pompás terme, amelyet hivatalos ceremóniákra és fogadásokra használtak.",
+      ro: "O sală magnifică în Apartamentul Borgia, utilizată pentru ceremonii oficiale și recepții.",
+      en: "A grand hall within the Borgia Apartments, historically used for official ceremonies and receptions.",
+    },
+    facts: {
+      de: ["Teil des Borgia-Flügels", "Dekoration von Giovanni da Udine", "Fresken von Perin del Vaga", "Papst Alexander VI."],
+      hu: ["A Borgia-szárny része", "Giovanni da Udine díszítése", "Perin del Vaga freskói", "VI. Sándor pápa"],
+      ro: ["Parte a aripii Borgia", "Decorată de Giovanni da Udine", "Fresce de Perin del Vaga", "Papa Alexandru al VI-lea"],
+      en: ["Part of the Borgia wing", "Decorated by Giovanni da Udine", "Frescoes by Perin del Vaga", "Pope Alexander VI"],
+    },
+    imageHint: "Hall of the Pontiffs Vatican Borgia Apartments ceiling",
+  },
+  {
+    id: "vatican-lapidary-gallery-history-v2",
+    parent: "VA",
+    type: "museum",
+    name: { de: "Galleria Lapidaria", hu: "Kőtár", ro: "Galeria Lapidară", en: "Lapidary Gallery" },
+    coordinates: { lat: 41.9055, lng: 12.454 },
+    description: {
+      de: "Eine lange Galerie, die eine der bedeutendsten Sammlungen antiker Inschriften der Welt beherbergt.",
+      hu: "Egy hosszú folyosó, amely a világ egyik legjelentősebb antik feliratgyűjteményének ad otthont.",
+      ro: "O galerie lungă ce găzduiește una dintre cele mai importante colecții de inscripții antice din lume.",
+      en: "A long gallery housing one of the world's most significant collections of ancient inscriptions and epitaphs.",
+    },
+    facts: {
+      de: ["Über 3000 Inschriften", "Gegründet von Gaetano Marini", "Länge von 100 Metern", "Antike Grabsteine"],
+      hu: ["Több mint 3000 felirat", "Gaetano Marini alapította", "100 méter hosszú", "Antik sírkövek"],
+      ro: ["Peste 3000 de inscripții", "Fondată de Gaetano Marini", "Lungime de 100 de metri", "Pietre funerare antice"],
+      en: ["Over 3000 inscriptions", "Founded by Gaetano Marini", "100 meters long", "Ancient tombstones"],
+    },
+    imageHint: "Lapidary Gallery Vatican inscriptions walls",
+  },
+  {
+    id: "vatican-hall-of-muses-history-v2",
+    parent: "VA",
+    type: "museum",
+    name: { de: "Saal der Musen", hu: "Múzsák terme", ro: "Sala Muzelor", en: "Hall of the Muses" },
+    coordinates: { lat: 41.9066, lng: 12.4538 },
+    description: {
+      de: "Ein prächtiger achteckiger Raum im Pio-Clementino-Museum, berühmt für den Torso vom Belvedere.",
+      hu: "A Pio-Clementino Múzeum pompás nyolcszögletű terme, amely a Belvedere-i torzóról híres.",
+      ro: "O sală octogonală splendidă în Muzeul Pio-Clementino, faimoasă pentru Torso Belvedere.",
+      en: "A magnificent octagonal room in the Pio-Clementine Museum, famous for housing the Belvedere Torso.",
+    },
+    facts: {
+      de: ["Gegründet 1784", "Skulpturen der Musen", "Apollon Musagetes", "Deckenfresko von Conca"],
+      hu: ["1784-ben alapították", "Múzsák szobrai", "Apollón Muszagétész", "Conca mennyezetfreskója"],
+      ro: ["Fondată în 1784", "Sculpturi ale muzelor", "Apollo Musagetes", "Fresca tavanului de Conca"],
+      en: ["Founded in 1784", "Statues of the Muses", "Apollo Musagetes", "Ceiling fresco by Conca"],
+    },
+    imageHint: "Hall of the Muses Vatican Belvedere Torso",
+  },
+  {
+    id: "vatican-apartment-of-pius-v-history-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Appartement von Pius V.", hu: "V. Piusz apartmanja", ro: "Apartamentul lui Pius al V-lea", en: "Apartment of Pius V" },
+    coordinates: { lat: 41.9039, lng: 12.4541 },
+    description: {
+      de: "Eine Folge von Räumen im Apostolischen Palast, die für Papst Pius V. im 16. Jahrhundert erbaut wurden.",
+      hu: "Az Apostoli Palota helyiségeinek sora, amelyeket V. Piusz pápa számára építettek a 16. században.",
+      ro: "O serie de camere în Palatul Apostolic, construite pentru Papa Pius al V-lea în secolul al XVI-lea.",
+      en: "A series of rooms in the Apostolic Palace built for Pope Pius V during the mid-16th century.",
+    },
+    facts: {
+      de: ["Erbaut um 1566–1572", "Flämische Wandteppiche", "Fresken von Giorgio Vasari", "Renaissance-Architektur"],
+      hu: ["1566–1572 körül épült", "Flamand falikárpitok", "Giorgio Vasari freskói", "Reneszánsz építészet"],
+      ro: ["Construit în jurul anilor 1566–1572", "Tapiserii flamande", "Fresce de Giorgio Vasari", "Arhitectură renascentistă"],
+      en: ["Built around 1566–1572", "Flemish tapestries", "Frescoes by Giorgio Vasari", "Renaissance architecture"],
+    },
+    imageHint: "Apartment of Pius V Vatican tapestries",
+  },
+  {
+    id: "vatican-ducal-hall-history-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Sala Ducale", hu: "Sala Ducale", ro: "Sala Ducale", en: "Ducal Hall" },
+    coordinates: { lat: 41.9031, lng: 12.4545 },
+    description: {
+      de: "Ein offizieller Empfangssaal, der die Sala Regia mit den päpstlichen Gemächern verbindet.",
+      hu: "Hivatalos fogadóterem, amely összeköti a Sala Regiát a pápai lakosztályokkal.",
+      ro: "O sală oficială de recepție care face legătura între Sala Regia și apartamentele papale.",
+      en: "An official reception hall connecting the Sala Regia to the papal apartments.",
+    },
+    facts: {
+      de: ["Entwurf von Bernini", "Zusammenführung zweier Räume", "Barocke Dekoration", "Draperie-Vorhänge aus Stuck"],
+      hu: ["Bernini tervezte", "Két terem összevonása", "Barokk díszítés", "Stukkófüggönyök"],
+      ro: ["Proiectată de Bernini", "Formată prin unirea a două camere", "Decor baroc", "Draperii din stuc"],
+      en: ["Designed by Bernini", "Merging of two smaller halls", "Baroque decoration", "Stucco drapery curtains"],
+    },
+    imageHint: "Sala Ducale Vatican Bernini arch angels",
+  },
+  {
+    id: "vatican-gregorian-profane-museum-history-v2",
+    parent: "VA",
+    type: "museum",
+    name: { de: "Museo Gregoriano Profano", hu: "Museo Gregoriano Profano", ro: "Muzeul Gregorian Profan", en: "Gregorian Profane Museum" },
+    coordinates: { lat: 41.906, lng: 12.4545 },
+    description: {
+      de: "Ein Museum, das antike Skulpturen und Monumente zeigt, die nicht religiösen Ursprungs sind.",
+      hu: "Antik szobrokat és emlékműveket bemutató múzeum, amelyek nem vallási eredetűek.",
+      ro: "Un muzeu care expune sculpturi și monumente antice de origine ne-religioasă.",
+      en: "A museum displaying ancient sculptures and monuments from the Roman era with non-religious themes.",
+    },
+    facts: {
+      de: ["Gegründet 1844", "Papst Gregor XVI.", "Römische Grabkunst", "Kopien griechischer Originale"],
+      hu: ["1844-ben alapították", "XVI. Gergely pápa", "Római sírművészet", "Görög eredetik másolatai"],
+      ro: ["Fondat în 1844", "Papa Grigore al XVI-lea", "Artă funerară romană", "Copii după originale grecești"],
+      en: ["Founded in 1844", "Pope Gregory XVI", "Roman funerary art", "Copies of Greek originals"],
+    },
+    imageHint: "Gregorian Profane Museum Vatican Roman statues",
+  },
+  {
+    id: "vatican-via-trionfale-necropolis-history-v2",
+    parent: "VA",
+    type: "ruins",
+    name: { de: "Nekropole an der Via Trionfale", hu: "Via Trionfale nekropolisz", ro: "Necropola de pe Via Trionfale", en: "Via Trionfale Necropolis" },
+    coordinates: { lat: 41.9062, lng: 12.4515 },
+    description: {
+      de: "Ein weitläufiges römisches Gräberfeld, das unter den Vatikanischen Gärten entdeckt wurde.",
+      hu: "Kiterjedt római kori temető, amelyet a Vatikáni kertek alatt fedeztek fel.",
+      ro: "Un sit funerar roman vast descoperit sub Grădinile Vaticane.",
+      en: "A vast Roman burial ground discovered beneath the north side of the Vatican Gardens.",
+    },
+    facts: {
+      de: ["Entdeckt 1956/2003", "Römische Gräber", "Altar- und Grabinschriften", "Gut erhaltene Mosaike"],
+      hu: ["1956-ban és 2003-ban találták", "Római sírok", "Oltárok és feliratok", "Jó állapotú mozaikok"],
+      ro: ["Descoperită în 1956/2003", "Morminte romane", "Altare și inscripții", "Mozaicuri bine conservate"],
+      en: ["Discovered 1956/2003", "Roman tombs", "Altars and inscriptions", "Well-preserved mosaics"],
+    },
+    imageHint: "Via Trionfale Necropolis Vatican excavation",
+  },
+  {
+    id: "vatican-cabinet-of-masks-history-v2",
+    parent: "VA",
+    type: "museum",
+    name: { de: "Gabinetto delle Maschere", hu: "Maszkok kabinetje", ro: "Cabinetul Măștilor", en: "Cabinet of the Masks" },
+    coordinates: { lat: 41.9064, lng: 12.4531 },
+    description: {
+      de: "Ein kleiner, reich dekorierter Raum im Pio-Clementino-Museum, bekannt für seine antiken Bodenmosaike.",
+      hu: "A Pio-Clementino Múzeum gazdagon díszített kis terme, amely antik padlómozaikjairól híres.",
+      ro: "O cameră mică și bogat decorată din Muzeul Pio-Clementino, cunoscută pentru mozaicurile antice.",
+      en: "A small, richly decorated room in the Pio-Clementine Museum, famous for its ancient floor mosaics.",
+    },
+    facts: {
+      de: ["Theatermasken-Mosaik", "Hadriansvilla-Fund", "Vier mythologische Szenen", "Statue der Aphrodite"],
+      hu: ["Színházi maszkos mozaik", "Hadrianus villájából származik", "Négy mitológiai jelenet", "Aphrodité-szobor"],
+      ro: ["Mozaic cu măști de teatru", "Provenit din Vila lui Hadrian", "Patru scene mitologice", "Statuia Afroditei"],
+      en: ["Theater masks mosaic", "From Hadrian's Villa", "Four mythological scenes", "Aphrodite statue"],
+    },
+    imageHint: "Cabinet of the Masks Vatican floor mosaic masks",
   }
 ];

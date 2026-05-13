@@ -3,6 +3,7 @@ export const ukLifeV2: POI[] = [
 
   {
     id: "uk-kew-gardens-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Kew Gardens", hu: "Kew Gardens", ro: "Grădinile Kew", en: "Kew Gardens",
 image: "/poi-images/uk-kew-gardens-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Kew Gardens Palm House exterior with pond",
     image: "/poi-images/uk-kew-gardens-life-v2.webp",
 },  {
     id: "uk-peak-district-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Peak-District-Nationalpark", hu: "Peak District Nemzeti Park", ro: "Parcul Național Peak District", en: "Peak District National Park",
 image: "/poi-images/uk-peak-district-life-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Peak District landscape with stone walls",
     image: "/poi-images/uk-peak-district-life-v2.webp",
 },  {
     id: "uk-lake-district-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Lake-District-Nationalpark", hu: "Lake District Nemzeti Park", ro: "Parcul Național Lake District", en: "Lake District National Park",
 image: "/poi-images/uk-lake-district-life-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Lake District hills reflecting in a lake",
     image: "/poi-images/uk-lake-district-life-v2.webp",
 },  {
     id: "uk-snowdonia-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Snowdonia-Nationalpark", hu: "Snowdonia Nemzeti Park", ro: "Parcul Național Snowdonia", en: "Snowdonia National Park",
 image: "/poi-images/uk-snowdonia-life-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Mount Snowdon peak in North Wales",
     image: "/poi-images/uk-snowdonia-life-v2.webp",
 },  {
     id: "uk-cairngorms-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Cairngorms-Nationalpark", hu: "Cairngorms Nemzeti Park", ro: "Parcul Național Cairngorms", en: "Cairngorms National Park",
 image: "/poi-images/uk-cairngorms-life-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Cairngorms mountains with heather in Scotland",
     image: "/poi-images/uk-cairngorms-life-v2.webp",
 },  {
     id: "uk-london-zoo-life-v2",
+    parent: "GB",
     type: "wildlife",
     name: { de: "ZSL London Zoo", hu: "Londoni Állatkert", ro: "Grădina Zoologică din Londra", en: "ZSL London Zoo",
 image: "/poi-images/uk-london-zoo-life-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "London Zoo entrance sign with animals",
     image: "/poi-images/uk-london-zoo-life-v2.webp",
 },  {
     id: "uk-slimbridge-wetland-life-v2",
+    parent: "GB",
     type: "wildlife",
     name: { de: "Slimbridge Wetland Centre", hu: "Slimbridge Vizes Élőhely Központ", ro: "Centrul Umed Slimbridge", en: "Slimbridge Wetland Centre",
 image: "/poi-images/uk-slimbridge-wetland-life-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Slimbridge Wetland Centre with flamingos",
     image: "/poi-images/uk-slimbridge-wetland-life-v2.webp",
 },  {
     id: "uk-eden-project-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Eden Project", hu: "Eden Projekt", ro: "Proiectul Eden", en: "Eden Project",
 image: "/poi-images/uk-eden-project-life-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Eden Project geodesic biomes at dusk",
     image: "/poi-images/uk-eden-project-life-v2.webp",
 },  {
     id: "uk-new-forest-life-v2",
+    parent: "GB",
     type: "forest",
     name: { de: "New-Forest-Nationalpark", hu: "New Forest Nemzeti Park", ro: "Parcul Național New Forest", en: "New Forest National Park",
 image: "/poi-images/uk-new-forest-life-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "New Forest pony grazing in open woodland",
     image: "/poi-images/uk-new-forest-life-v2.webp",
 },  {
     id: "uk-loch-lomond-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Loch Lomond & The Trossachs", hu: "Loch Lomond & The Trossachs", ro: "Loch Lomond și The Trossachs", en: "Loch Lomond & The Trossachs",
 image: "/poi-images/uk-loch-lomond-life-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "Loch Lomond lake with mountains in Scotland",
 },
   {
     id: "uk-whipsnade-zoo-life-v2",
+    parent: "GB",
     type: "wildlife",
     name: { de: "ZSL Whipsnade Zoo", hu: "Whipsnade Állatkert", ro: "Grădina Zoologică Whipsnade", en: "ZSL Whipsnade Zoo",
 image: "/poi-images/uk-whipsnade-zoo-life-v2.webp"
@@ -378,6 +389,7 @@ image: "/poi-images/uk-whipsnade-zoo-life-v2.webp"
   },
   {
     id: "uk-royal-botanic-garden-edinburgh-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Königlicher Botanischer Garten Edinburgh", hu: "Edinburgh-i Királyi Botanikus Kert", ro: "Grădina Botanică Regală din Edinburgh", en: "Royal Botanic Garden Edinburgh",
 image: "/poi-images/uk-royal-botanic-garden-edinburgh-life-v2.webp"
@@ -412,6 +424,7 @@ imageHint: "Royal Botanic Garden Edinburgh palm house exterior",
     image: "/poi-images/uk-royal-botanic-garden-edinburgh-life-v2.webp",
 },  {
     id: "uk-strangford-lough-life-v2",
+    parent: "GB",
     type: "lake",
     name: { de: "Strangford Lough", hu: "Strangford Lough", ro: "Strangford Lough", en: "Strangford Lough",
 image: "/poi-images/uk-strangford-lough-life-v2.webp"
@@ -446,6 +459,7 @@ imageHint: "Strangford Lough aerial view with islands",
     image: "/poi-images/uk-strangford-lough-life-v2.webp",
 },  {
     id: "uk-bempton-cliffs-life-v2",
+    parent: "GB",
     type: "wildlife",
     name: { de: "Bempton Cliffs", hu: "Bempton-sziklák", ro: "Stâncile Bempton", en: "Bempton Cliffs",
 image: "/poi-images/uk-bempton-cliffs-life-v2.webp"
@@ -480,6 +494,7 @@ imageHint: "Bempton Cliffs with nesting seabirds and chalk cliffs",
     image: "/poi-images/uk-bempton-cliffs-life-v2.webp",
 },  {
     id: "uk-pembrokeshire-coast-national-park-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Pembrokeshire-Coast-Nationalpark", hu: "Pembrokeshire-parti Nemzeti Park", ro: "Parcul Național Coastă Pembrokeshire", en: "Pembrokeshire Coast National Park",
 image: "/poi-images/uk-pembrokeshire-coast-national-park-life-v2.webp"
@@ -514,6 +529,7 @@ imageHint: "Pembrokeshire Coast rugged cliffs and ocean",
     image: "/poi-images/uk-pembrokeshire-coast-national-park-life-v2.webp",
 },  {
     id: "uk-exmoor-national-park-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Exmoor-Nationalpark", hu: "Exmoor Nemzeti Park", ro: "Parcul Național Exmoor", en: "Exmoor National Park",
 image: "/poi-images/uk-exmoor-national-park-life-v2.webp"
@@ -549,6 +565,7 @@ imageHint: "Exmoor National Park moorland and wild ponies",
 },
   {
     id: "uk-dartmoor-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "Dartmoor-Nationalpark", hu: "Dartmoor Nemzeti Park", ro: "Parcul Național Dartmoor", en: "Dartmoor National Park",
 image: "/poi-images/uk-dartmoor-life-v2.webp"
@@ -583,6 +600,7 @@ image: "/poi-images/uk-dartmoor-life-v2.webp"
   },
   {
     id: "uk-the-broads-life-v2",
+    parent: "GB",
     type: "park",
     name: { de: "The Broads Nationalpark", hu: "The Broads Nemzeti Park", ro: "Parcul Național The Broads", en: "The Broads National Park",
 image: "/poi-images/uk-the-broads-life-v2.webp"
@@ -617,6 +635,7 @@ image: "/poi-images/uk-the-broads-life-v2.webp"
   },
   {
     id: "uk-chester-zoo-life-v2",
+    parent: "GB",
     type: "wildlife",
     name: { de: "Chester Zoo", hu: "Chesteri Állatkert", ro: "Grădina Zoologică Chester", en: "Chester Zoo",
 image: "/poi-images/uk-chester-zoo-life-v2.webp"

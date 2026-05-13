@@ -3,6 +3,7 @@ export const croatiaHistoryV2: POI[] = [
 
   {
     id: "croatia-diocletians-palace-history-v2",
+    parent: "HR",
     type: "palace",
     name: { de: "Diokletianpalast", hu: "Diocletianus palotája", ro: "Palatul lui Dioclețian", en: "Diocletian's Palace",
 image: "/poi-images/croatia-diocletians-palace-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Diocletian's Palace Peristyle in Split",
     image: "/poi-images/croatia-diocletians-palace-history-v2.webp",
 },  {
     id: "croatia-pula-arena-history-v2",
+    parent: "HR",
     type: "ruins",
     name: { de: "Arena von Pula", hu: "Pulai amfiteátrum", ro: "Amfiteatrul din Pula", en: "Pula Arena",
 image: "/poi-images/croatia-pula-arena-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Ancient Roman Arena in Pula at sunset",
     image: "/poi-images/croatia-pula-arena-history-v2.webp",
 },  {
     id: "croatia-dubrovnik-walls-history-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Stadtmauern von Dubrovnik", hu: "Dubrovniki városfalak", ro: "Zidurile cetății Dubrovnik", en: "Dubrovnik City Walls",
 image: "/poi-images/croatia-dubrovnik-walls-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Aerial view of Dubrovnik Old Town walls",
     image: "/poi-images/croatia-dubrovnik-walls-history-v2.webp",
 },  {
     id: "croatia-euphrasian-basilica-history-v2",
+    parent: "HR",
     type: "cathedral",
     name: { de: "Euphrasius-Basilika", hu: "Euphrasius-bazilika", ro: "Bazilica Eufrasiană", en: "Euphrasian Basilica",
 image: "/poi-images/croatia-euphrasian-basilica-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Golden mosaics in the Euphrasian Basilica Poreč",
     image: "/poi-images/croatia-euphrasian-basilica-history-v2.webp",
 },  {
     id: "croatia-trogir-old-town-history-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Historische Stadt Trogir", hu: "Trogir történelmi belvárosa", ro: "Centrul istoric al orașului Trogir", en: "Trogir Historic Center",
 image: "/poi-images/croatia-trogir-old-town-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Historic old town of Trogir from above",
     image: "/poi-images/croatia-trogir-old-town-history-v2.webp",
 },  {
     id: "croatia-sibenik-cathedral-history-v2",
+    parent: "HR",
     type: "cathedral",
     name: { de: "Kathedrale des Heiligen Jakob", hu: "Szent Jakab-székesegyház", ro: "Catedrala Sfântul Iacob", en: "St. James Cathedral",
 image: "/poi-images/croatia-sibenik-cathedral-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Cathedral of St James in Sibenik facade",
     image: "/poi-images/croatia-sibenik-cathedral-history-v2.webp",
 },  {
     id: "croatia-vukovar-water-tower-history-v2",
+    parent: "HR",
     type: "monument",
     name: { de: "Wasserturm von Vukovar", hu: "Vukovári víztorony", ro: "Turnul de apă din Vukovar", en: "Vukovar Water Tower",
 image: "/poi-images/croatia-vukovar-water-tower-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Vukovar Water Tower memorial site",
     image: "/poi-images/croatia-vukovar-water-tower-history-v2.webp",
 },  {
     id: "croatia-klis-fortress-history-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Festung Klis", hu: "Klissza vára", ro: "Cetatea Klis", en: "Klis Fortress",
 image: "/poi-images/croatia-klis-fortress-history-v2.webp"
@@ -275,6 +283,7 @@ image: "/poi-images/croatia-klis-fortress-history-v2.webp"
   },
   {
     id: "croatia-trakoscan-castle-history-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Schloss Trakošćan", hu: "Trakostyán vára", ro: "Castelul Trakošćan", en: "Trakošćan Castle",
 image: "/poi-images/croatia-trakoscan-castle-history-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Trakošćan Castle reflected in lake",
     image: "/poi-images/croatia-trakoscan-castle-history-v2.webp",
 },  {
     id: "croatia-veliki-tabor-history-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Burg Veliki Tabor", hu: "Nagytábor vára", ro: "Cetatea Veliki Tabor", en: "Veliki Tabor Castle",
 image: "/poi-images/croatia-veliki-tabor-history-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Veliki Tabor castle in Desinic",
     image: "/poi-images/croatia-veliki-tabor-history-v2.webp",
 },  {
     id: "croatia-knin-fortress-history-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Festung von Knin", hu: "Knini vár", ro: "Cetatea Knin", en: "Knin Fortress",
 image: "/poi-images/croatia-knin-fortress-history-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Huge Knin fortress from the air",
     image: "/poi-images/croatia-knin-fortress-history-v2.webp",
 },  {
     id: "croatia-salona-ruins-history-v2",
+    parent: "HR",
     type: "ruins",
     name: { de: "Antikes Salona", hu: "Salona romjai", ro: "Ruinele antice din Salona", en: "Salona Archaeological Park",
 image: "/poi-images/croatia-salona-ruins-history-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Ruins of Roman Salona amphitheater",
     image: "/poi-images/croatia-salona-ruins-history-v2.webp",
 },  {
     id: "croatia-vucedol-culture-history-v2",
+    parent: "HR",
     type: "ruins",
     name: { de: "Vučedol-Kulturstätte", hu: "Vučedoli kultúra helyszíne", ro: "Situl culturii Vučedol", en: "Vučedol Archaeological Site",
 image: "/poi-images/croatia-vucedol-culture-history-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Vučedol Dove ceramic ritual vessel",
     image: "/poi-images/croatia-vucedol-culture-history-v2.webp",
 },  {
     id: "croatia-st-donatus-zadar-history-v2",
+    parent: "HR",
     type: "church",
     name: { de: "Donatuskirche in Zadar", hu: "Szent Donát-templom", ro: "Biserica Sfântul Donat", en: "Church of St. Donatus",
 image: "/poi-images/croatia-st-donatus-zadar-history-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Saint Donatus church in Zadar circular shape",
     image: "/poi-images/croatia-st-donatus-zadar-history-v2.webp",
 },  {
     id: "croatia-varazdin-old-town-history-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Altstadt von Varaždin", hu: "Varasd óvárosa", ro: "Orașul vechi din Varaždin", en: "Varaždin Old Town",
 image: "/poi-images/croatia-varazdin-old-town-history-v2.webp"
@@ -513,6 +528,7 @@ image: "/poi-images/croatia-varazdin-old-town-history-v2.webp"
   },
   {
     id: "croatia-nehaj-fortress-history-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Festung Nehaj", hu: "Nehaj-vár", ro: "Cetatea Nehaj", en: "Nehaj Fortress",
 image: "/poi-images/croatia-nehaj-fortress-history-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Fortress Nehaj in Senj square tower",
     image: "/poi-images/croatia-nehaj-fortress-history-v2.webp",
 },  {
     id: "croatia-ston-walls-history-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Mauern von Ston", hu: "Stoni várfal", ro: "Zidurile din Ston", en: "Ston City Walls",
 image: "/poi-images/croatia-ston-walls-history-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Long stone walls of Ston on hillside",
     image: "/poi-images/croatia-ston-walls-history-v2.webp",
 },  {
     id: "croatia-zadar-forum-history-v2",
+    parent: "HR",
     type: "ruins",
     name: { de: "Römisches Forum Zadar", hu: "Zadar római fóruma", ro: "Forumul roman din Zadar", en: "Zadar Roman Forum",
 image: "/poi-images/croatia-zadar-forum-history-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Ruins of Roman Forum in Zadar city center",
     image: "/poi-images/croatia-zadar-forum-history-v2.webp",
 },  {
     id: "croatia-nesactium-ruins-history-v2",
+    parent: "HR",
     type: "ruins",
     name: { de: "Nesactium", hu: "Nesactium", ro: "Nesactium", en: "Nesactium",
 image: "/poi-images/croatia-nesactium-ruins-history-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Archaeological site of Nesactium Istria",
     image: "/poi-images/croatia-nesactium-ruins-history-v2.webp",
 },  {
     id: "croatia-burnum-roman-camp-history-v2",
+    parent: "HR",
     type: "ruins",
     name: { de: "Römisches Lager Burnum", hu: "Burnum római tábora", ro: "Tabăra romană Burnum", en: "Burnum Roman Camp",
 image: "/poi-images/croatia-burnum-roman-camp-history-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Roman arches of Burnum Krka",
     image: "/poi-images/croatia-burnum-roman-camp-history-v2.webp",
 },  {
     id: "croatia-brijuni-byzantine-castrum-history-v2",
+    parent: "HR",
     type: "ruins",
     name: { de: "Byzantinisches Kastell Brijuni", hu: "Bizánci kasztrum Brijuni", ro: "Castrul bizantin din Brijuni", en: "Brijuni Byzantine Castrum",
 image: "/poi-images/croatia-brijuni-byzantine-castrum-history-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Ruins of Byzantine castrum in Brijuni",
     image: "/poi-images/croatia-brijuni-byzantine-castrum-history-v2.webp",
 },  {
     id: "croatia-gvozdansko-castle-history-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Burg Gvozdansko", hu: "Gvozdanszkó vára", ro: "Castelul Gvozdansko", en: "Gvozdansko Castle",
 image: "/poi-images/croatia-gvozdansko-castle-history-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Ruins of Gvozdansko fortress",
     image: "/poi-images/croatia-gvozdansko-castle-history-v2.webp",
 },  {
     id: "croatia-medvedgrad-history-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Medvedgrad", hu: "Medvevár", ro: "Medvedgrad", en: "Medvedgrad",
 image: "/poi-images/croatia-medvedgrad-history-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Medvedgrad fortress above Zagreb at night",
     image: "/poi-images/croatia-medvedgrad-history-v2.webp",
 },  {
     id: "croatia-osor-walls-history-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Stadtmauern von Osor", hu: "Osor városfalai", ro: "Zidurile orașului Osor", en: "Osor Walls",
 image: "/poi-images/croatia-osor-walls-history-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Ancient walls of Osor town",
     image: "/poi-images/croatia-osor-walls-history-v2.webp",
 },  {
     id: "croatia-korcula-old-town-history-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Altstadt von Korčula", hu: "Korčula óvárosa", ro: "Orașul vechi Korčula", en: "Korčula Old Town",
 image: "/poi-images/croatia-korcula-old-town-history-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Medieval town of Korcula aerial",
     image: "/poi-images/croatia-korcula-old-town-history-v2.webp",
 },  {
     id: "croatia-hvar-fortica-history-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Festung Fortica (Hvar)", hu: "Fortica-erőd (Hvar)", ro: "Fortăreața Fortica (Hvar)", en: "Hvar Fortress (Fortica)",
 image: "/poi-images/croatia-hvar-fortica-history-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Fortress Fortica above Hvar town",
     image: "/poi-images/croatia-hvar-fortica-history-v2.webp",
 },  {
     id: "croatia-stari-grad-plain-history-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Ebene von Stari Grad", hu: "Stari Grad-síkság", ro: "Câmpia Stari Grad", en: "Stari Grad Plain",
 image: "/poi-images/croatia-stari-grad-plain-history-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Stari Grad Plain stone walls pattern",
     image: "/poi-images/croatia-stari-grad-plain-history-v2.webp",
 },  {
     id: "croatia-pula-roman-theater-history-v2",
+    parent: "HR",
     type: "theater",
     name: { de: "Kleines Römisches Theater", hu: "Kicsi római színház", ro: "Micul teatru roman din Pula", en: "Small Roman Theater",
 image: "/poi-images/croatia-pula-roman-theater-history-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Ruins of Small Roman Theater in Pula",
     image: "/poi-images/croatia-pula-roman-theater-history-v2.webp",
 },  {
     id: "croatia-solin-amphitheater-history-v2",
+    parent: "HR",
     type: "ruins",
     name: { de: "Amphitheater von Salona", hu: "Salona amfiteátruma", ro: "Amfiteatrul din Salona", en: "Solin Amphitheater",
 image: "/poi-images/croatia-solin-amphitheater-history-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Ruins of Salona amphitheater Solin",
     image: "/poi-images/croatia-solin-amphitheater-history-v2.webp",
 },  {
     id: "croatia-trsat-castle-history-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Burg Trsat", hu: "Trszat vára", ro: "Castelul Trsat", en: "Trsat Castle",
 image: "/poi-images/croatia-trsat-castle-history-v2.webp"

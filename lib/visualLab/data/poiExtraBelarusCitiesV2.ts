@@ -3,6 +3,7 @@ export const belarusCitiesV2: POI[] = [
 
   {
     id: "belarus-minsk-cities-v2",
+    parent: "BY",
     type: "capital",
     name: { de: "Minsk", hu: "Minszk", ro: "Minsk", en: "Minsk",
 image: "/poi-images/belarus-minsk-cities-v2.webp"
@@ -36,6 +37,7 @@ image: "/poi-images/belarus-minsk-cities-v2.webp"
     }, image: "/poi-images/belarus-minsk-cities-v2.webp"},
   {
     id: "belarus-gomel-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Homel", hu: "Homel", ro: "Gomel", en: "Gomel",
 image: "/poi-images/belarus-gomel-cities-v2.webp"
@@ -69,6 +71,7 @@ image: "/poi-images/belarus-gomel-cities-v2.webp"
     }, image: "/poi-images/belarus-gomel-cities-v2.webp"},
   {
     id: "belarus-mogilev-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Mahiljou", hu: "Mahiljov", ro: "Moghilău", en: "Mogilev",
 image: "/poi-images/belarus-mogilev-cities-v2.webp"
@@ -102,6 +105,7 @@ image: "/poi-images/belarus-mogilev-cities-v2.webp"
     }, image: "/poi-images/belarus-mogilev-cities-v2.webp"},
   {
     id: "belarus-vitebsk-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Witebsk", hu: "Vicebszk", ro: "Vitebsk", en: "Vitebsk",
 image: "/poi-images/belarus-vitebsk-cities-v2.webp"
@@ -135,6 +139,7 @@ image: "/poi-images/belarus-vitebsk-cities-v2.webp"
     }, image: "/poi-images/belarus-vitebsk-cities-v2.webp"},
   {
     id: "belarus-grodno-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Hrodna", hu: "Hrodna", ro: "Grodno", en: "Grodno",
 image: "/poi-images/belarus-grodno-cities-v2.webp"
@@ -168,6 +173,7 @@ image: "/poi-images/belarus-grodno-cities-v2.webp"
     }, image: "/poi-images/belarus-grodno-cities-v2.webp"},
   {
     id: "belarus-babruysk-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Babrujsk", hu: "Babrujszk", ro: "Babruisk", en: "Babruysk",
 image: "/poi-images/belarus-babruysk-cities-v2.webp"
@@ -201,6 +207,7 @@ image: "/poi-images/belarus-babruysk-cities-v2.webp"
     }, image: "/poi-images/belarus-babruysk-cities-v2.webp"},
   {
     id: "belarus-baranovichi-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Baranawitschy", hu: "Baranovicsi", ro: "Baranovici", en: "Baranovichi",
 image: "/poi-images/belarus-baranovichi-cities-v2.webp"
@@ -234,6 +241,7 @@ image: "/poi-images/belarus-baranovichi-cities-v2.webp"
     }, image: "/poi-images/belarus-baranovichi-cities-v2.webp"},
   {
     id: "belarus-barysaw-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Baryssau", hu: "Boriszov", ro: "Borisov", en: "Barysaw",
 image: "/poi-images/belarus-barysaw-cities-v2.webp"
@@ -267,6 +275,7 @@ image: "/poi-images/belarus-barysaw-cities-v2.webp"
     }, image: "/poi-images/belarus-barysaw-cities-v2.webp"},
   {
     id: "belarus-pinsk-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Pinsk", hu: "Pinszk", ro: "Pinsk", en: "Pinsk",
 image: "/poi-images/belarus-pinsk-cities-v2.webp"
@@ -300,6 +309,7 @@ image: "/poi-images/belarus-pinsk-cities-v2.webp"
     }, image: "/poi-images/belarus-pinsk-cities-v2.webp"},
   {
     id: "belarus-orsha-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Orscha", hu: "Orsa", ro: "Orșa", en: "Orsha",
 image: "/poi-images/belarus-orsha-cities-v2.webp"
@@ -333,6 +343,7 @@ image: "/poi-images/belarus-orsha-cities-v2.webp"
     }, image: "/poi-images/belarus-orsha-cities-v2.webp"},
   {
     id: "belarus-mozyr-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Masyr", hu: "Mazir", ro: "Mazîr", en: "Mozyr",
 image: "/poi-images/belarus-mozyr-cities-v2.webp"
@@ -366,6 +377,7 @@ image: "/poi-images/belarus-mozyr-cities-v2.webp"
     }, image: "/poi-images/belarus-mozyr-cities-v2.webp"},
   {
     id: "belarus-soligorsk-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Salihorsk", hu: "Szalihorszk", ro: "Salihorsk", en: "Soligorsk",
 image: "/poi-images/belarus-soligorsk-cities-v2.webp"
@@ -399,6 +411,7 @@ image: "/poi-images/belarus-soligorsk-cities-v2.webp"
     }, image: "/poi-images/belarus-soligorsk-cities-v2.webp"},
   {
     id: "belarus-lida-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Lida", hu: "Lida", ro: "Lida", en: "Lida",
 image: "/poi-images/belarus-lida-cities-v2.webp"
@@ -432,6 +445,7 @@ image: "/poi-images/belarus-lida-cities-v2.webp"
     }, image: "/poi-images/belarus-lida-cities-v2.webp"},
   {
     id: "belarus-novopolotsk-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Nawapolazk", hu: "Navapolack", ro: "Navapolack", en: "Novopolotsk",
 image: "/poi-images/belarus-novopolotsk-cities-v2.webp"
@@ -465,6 +479,7 @@ image: "/poi-images/belarus-novopolotsk-cities-v2.webp"
     }, image: "/poi-images/belarus-novopolotsk-cities-v2.webp"},
   {
     id: "belarus-maladzyechna-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Maladsetschna", hu: "Maladzecsna", ro: "Maladzecina", en: "Maladzyechna",
 image: "/poi-images/belarus-maladzyechna-cities-v2.webp"
@@ -498,6 +513,7 @@ image: "/poi-images/belarus-maladzyechna-cities-v2.webp"
     }, image: "/poi-images/belarus-maladzyechna-cities-v2.webp"},
   {
     id: "belarus-polotsk-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Polazk", hu: "Polack", ro: "Polack", en: "Polotsk",
 image: "/poi-images/belarus-polotsk-cities-v2.webp"
@@ -531,6 +547,7 @@ image: "/poi-images/belarus-polotsk-cities-v2.webp"
     }, image: "/poi-images/belarus-polotsk-cities-v2.webp"},
   {
     id: "belarus-zhlobin-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Schlobin", hu: "Zslobin", ro: "Jlobin", en: "Zhlobin",
 image: "/poi-images/belarus-zhlobin-cities-v2.webp"
@@ -564,6 +581,7 @@ image: "/poi-images/belarus-zhlobin-cities-v2.webp"
     }, image: "/poi-images/belarus-zhlobin-cities-v2.webp"},
   {
     id: "belarus-svetlogorsk-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Swetlahorsk", hu: "Szvetlahorszk", ro: "Svetlahorsk", en: "Svetlogorsk",
 image: "/poi-images/belarus-svetlogorsk-cities-v2.webp"
@@ -597,6 +615,7 @@ image: "/poi-images/belarus-svetlogorsk-cities-v2.webp"
     }, image: "/poi-images/belarus-svetlogorsk-cities-v2.webp"},
   {
     id: "belarus-rechitsa-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Retschyza", hu: "Recsica", ro: "Recița", en: "Rechitsa",
 image: "/poi-images/belarus-rechitsa-cities-v2.webp"
@@ -630,6 +649,7 @@ image: "/poi-images/belarus-rechitsa-cities-v2.webp"
     }, image: "/poi-images/belarus-rechitsa-cities-v2.webp"},
   {
     id: "belarus-slutsk-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Sluzk", hu: "Szluck", ro: "Sluțk", en: "Slutsk",
 image: "/poi-images/belarus-slutsk-cities-v2.webp"
@@ -663,6 +683,7 @@ image: "/poi-images/belarus-slutsk-cities-v2.webp"
     }, image: "/poi-images/belarus-slutsk-cities-v2.webp"},
   {
     id: "belarus-zhodzina-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Schodsina", hu: "Zsodzina", ro: "Jodzina", en: "Zhodzina",
 image: "/poi-images/belarus-zhodzina-cities-v2.webp"
@@ -696,6 +717,7 @@ image: "/poi-images/belarus-zhodzina-cities-v2.webp"
     }, image: "/poi-images/belarus-zhodzina-cities-v2.webp"},
   {
     id: "belarus-slonim-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Slonim", hu: "Szlonyim", ro: "Slonim", en: "Slonim",
 image: "/poi-images/belarus-slonim-cities-v2.webp"
@@ -729,6 +751,7 @@ image: "/poi-images/belarus-slonim-cities-v2.webp"
     }, image: "/poi-images/belarus-slonim-cities-v2.webp"},
   {
     id: "belarus-kobrin-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Kobryn", hu: "Kobrin", ro: "Kobrin", en: "Kobrin",
 image: "/poi-images/belarus-kobrin-cities-v2.webp"
@@ -762,6 +785,7 @@ image: "/poi-images/belarus-kobrin-cities-v2.webp"
     }, image: "/poi-images/belarus-kobrin-cities-v2.webp"},
   {
     id: "belarus-vawkavysk-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Waukawysk", hu: "Vavkaviszk", ro: "Vavkavîsk", en: "Vawkavysk",
 image: "/poi-images/belarus-vawkavysk-cities-v2.webp"
@@ -795,6 +819,7 @@ image: "/poi-images/belarus-vawkavysk-cities-v2.webp"
     }, image: "/poi-images/belarus-vawkavysk-cities-v2.webp"},
   {
     id: "belarus-kalinkavichy-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Kalinkawitschy", hu: "Kalinkavicsi", ro: "Kalinkavici", en: "Kalinkavichy",
 image: "/poi-images/belarus-kalinkavichy-cities-v2.webp"
@@ -828,6 +853,7 @@ image: "/poi-images/belarus-kalinkavichy-cities-v2.webp"
     }, image: "/poi-images/belarus-kalinkavichy-cities-v2.webp"},
   {
     id: "belarus-smarhon-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Smarhon", hu: "Szmarhon", ro: "Smarhon", en: "Smarhon",
 image: "/poi-images/belarus-smarhon-cities-v2.webp"
@@ -861,6 +887,7 @@ image: "/poi-images/belarus-smarhon-cities-v2.webp"
     }, image: "/poi-images/belarus-smarhon-cities-v2.webp"},
   {
     id: "belarus-rahachow-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Rahatschou", hu: "Rahacsov", ro: "Rahaciov", en: "Rahachow",
 image: "/poi-images/belarus-rahachow-cities-v2.webp"
@@ -894,6 +921,7 @@ image: "/poi-images/belarus-rahachow-cities-v2.webp"
     }, image: "/poi-images/belarus-rahachow-cities-v2.webp"},
   {
     id: "belarus-asipovichy-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Assipowitschy", hu: "Aszipovicsi", ro: "Asipovici", en: "Asipovichy",
 image: "/poi-images/belarus-asipovichy-cities-v2.webp"
@@ -927,6 +955,7 @@ image: "/poi-images/belarus-asipovichy-cities-v2.webp"
     }, image: "/poi-images/belarus-asipovichy-cities-v2.webp"},
   {
     id: "belarus-horki-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Horki", hu: "Horki", ro: "Horki", en: "Horki",
 image: "/poi-images/belarus-horki-cities-v2.webp"
@@ -960,6 +989,7 @@ image: "/poi-images/belarus-horki-cities-v2.webp"
     }, image: "/poi-images/belarus-horki-cities-v2.webp"},
   {
     id: "belarus-navahrudak-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Nawahrudak", hu: "Navahrudak", ro: "Navahrudak", en: "Navahrudak",
 image: "/poi-images/belarus-navahrudak-cities-v2.webp"
@@ -993,6 +1023,7 @@ image: "/poi-images/belarus-navahrudak-cities-v2.webp"
     }, image: "/poi-images/belarus-navahrudak-cities-v2.webp"},
   {
     id: "belarus-vileyka-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Wilejka", hu: "Vilejka", ro: "Vileika", en: "Vileyka",
 image: "/poi-images/belarus-vileyka-cities-v2.webp"
@@ -1026,6 +1057,7 @@ image: "/poi-images/belarus-vileyka-cities-v2.webp"
     }, image: "/poi-images/belarus-vileyka-cities-v2.webp"},
   {
     id: "belarus-byaroza-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Bjarosa", hu: "Bjaroza", ro: "Biaroza", en: "Byaroza",
 image: "/poi-images/belarus-byaroza-cities-v2.webp"
@@ -1059,6 +1091,7 @@ image: "/poi-images/belarus-byaroza-cities-v2.webp"
     }, image: "/poi-images/belarus-byaroza-cities-v2.webp"},
   {
     id: "belarus-krychaw-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Krytschau", hu: "Kricsav", ro: "Krîciau", en: "Krychaw",
 image: "/poi-images/belarus-krychaw-cities-v2.webp"
@@ -1092,6 +1125,7 @@ image: "/poi-images/belarus-krychaw-cities-v2.webp"
     }, image: "/poi-images/belarus-krychaw-cities-v2.webp"},
   {
     id: "belarus-dzyarzhynsk-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Dsjarschynsk", hu: "Dzjarzsinszk", ro: "Dziarjînsk", en: "Dzyarzhynsk",
 image: "/poi-images/belarus-dzyarzhynsk-cities-v2.webp"
@@ -1125,6 +1159,7 @@ image: "/poi-images/belarus-dzyarzhynsk-cities-v2.webp"
     }, image: "/poi-images/belarus-dzyarzhynsk-cities-v2.webp"},
   {
     id: "belarus-ivatsevichy-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Iwazewitschy", hu: "Ivacevicsi", ro: "Ivațevici", en: "Ivatsevichy",
 image: "/poi-images/belarus-ivatsevichy-cities-v2.webp"
@@ -1158,6 +1193,7 @@ image: "/poi-images/belarus-ivatsevichy-cities-v2.webp"
     }, image: "/poi-images/belarus-ivatsevichy-cities-v2.webp"},
   {
     id: "belarus-luninyets-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Luninez", hu: "Luninyec", ro: "Lunineț", en: "Luninyets",
 image: "/poi-images/belarus-luninyets-cities-v2.webp"
@@ -1191,6 +1227,7 @@ image: "/poi-images/belarus-luninyets-cities-v2.webp"
     }, image: "/poi-images/belarus-luninyets-cities-v2.webp"},
   {
     id: "belarus-maryina-horka-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Marjina Horka", hu: "Marjina Horka", ro: "Marjina Horka", en: "Maryina Horka",
 image: "/poi-images/belarus-maryina-horka-cities-v2.webp"
@@ -1224,6 +1261,7 @@ image: "/poi-images/belarus-maryina-horka-cities-v2.webp"
     }, image: "/poi-images/belarus-maryina-horka-cities-v2.webp"},
   {
     id: "belarus-pastavy-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Pastawy", hu: "Pasztavi", ro: "Pastavî", en: "Pastavy",
 image: "/poi-images/belarus-pastavy-cities-v2.webp"
@@ -1257,6 +1295,7 @@ image: "/poi-images/belarus-pastavy-cities-v2.webp"
     }, image: "/poi-images/belarus-pastavy-cities-v2.webp"},
   {
     id: "belarus-pruzhany-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Pruschany", hu: "Pruzsani", ro: "Prujanî", en: "Pruzhany",
 image: "/poi-images/belarus-pruzhany-cities-v2.webp"
@@ -1290,6 +1329,7 @@ image: "/poi-images/belarus-pruzhany-cities-v2.webp"
     }, image: "/poi-images/belarus-pruzhany-cities-v2.webp"},
   {
     id: "belarus-dobrush-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Dobrusch", hu: "Dobrus", ro: "Dobruș", en: "Dobrush",
 image: "/poi-images/belarus-dobrush-cities-v2.webp"
@@ -1323,6 +1363,7 @@ image: "/poi-images/belarus-dobrush-cities-v2.webp"
     }, image: "/poi-images/belarus-dobrush-cities-v2.webp"},
   {
     id: "belarus-hlybokaye-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Hlybokaje", hu: "Hlibokaje", ro: "Hlîbokaye", en: "Hlybokaye",
 image: "/poi-images/belarus-hlybokaye-cities-v2.webp"
@@ -1357,6 +1398,7 @@ image: "/poi-images/belarus-hlybokaye-cities-v2.webp"
     }, image: "/poi-images/belarus-hlybokaye-cities-v2.webp"},
   {
     id: "belarus-stowbtsy-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Stowbzy", hu: "Sztoubci", ro: "Stoubțî", en: "Stowbtsy",
 image: "/poi-images/belarus-stowbtsy-cities-v2.webp"
@@ -1391,6 +1433,7 @@ image: "/poi-images/belarus-stowbtsy-cities-v2.webp"
   },
   {
     id: "belarus-lepel-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Lepel", hu: "Lepel", ro: "Lepel", en: "Lepel",
 image: "/poi-images/belarus-lepel-cities-v2.webp"
@@ -1424,6 +1467,7 @@ image: "/poi-images/belarus-lepel-cities-v2.webp"
     }, image: "/poi-images/belarus-lepel-cities-v2.webp"},
   {
     id: "belarus-bykhaw-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Bychau", hu: "Bihav", ro: "Bîhau", en: "Bykhaw",
 image: "/poi-images/belarus-bykhaw-cities-v2.webp"
@@ -1457,6 +1501,7 @@ image: "/poi-images/belarus-bykhaw-cities-v2.webp"
     }, image: "/poi-images/belarus-bykhaw-cities-v2.webp"},
   {
     id: "belarus-ivanava-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Iwanawa", hu: "Ivanava", ro: "Ivanava", en: "Ivanava",
 image: "/poi-images/belarus-ivanava-cities-v2.webp"
@@ -1490,6 +1535,7 @@ image: "/poi-images/belarus-ivanava-cities-v2.webp"
     }, image: "/poi-images/belarus-ivanava-cities-v2.webp"},
   {
     id: "belarus-shklow-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Schklou", hu: "Sklov", ro: "Șklou", en: "Shklow",
 image: "/poi-images/belarus-shklow-cities-v2.webp"
@@ -1523,6 +1569,7 @@ image: "/poi-images/belarus-shklow-cities-v2.webp"
     }, image: "/poi-images/belarus-shklow-cities-v2.webp"},
   {
     id: "belarus-zhitkavichy-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Schytkawitschy", hu: "Zitkavicsi", ro: "Jîtkavici", en: "Zhitkavichy",
 image: "/poi-images/belarus-zhitkavichy-cities-v2.webp"
@@ -1556,6 +1603,7 @@ image: "/poi-images/belarus-zhitkavichy-cities-v2.webp"
     }, image: "/poi-images/belarus-zhitkavichy-cities-v2.webp"},
   {
     id: "belarus-lyuban-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Ljuban", hu: "Ljuban", ro: "Liuban", en: "Lyuban",
 image: "/poi-images/belarus-lyuban-cities-v2.webp"
@@ -1589,6 +1637,7 @@ image: "/poi-images/belarus-lyuban-cities-v2.webp"
     }, image: "/poi-images/belarus-lyuban-cities-v2.webp"},
   {
     id: "belarus-hantsavichy-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Hanzawitschy", hu: "Hancavicsi", ro: "Hanțavici", en: "Hantsavichy",
 image: "/poi-images/belarus-hantsavichy-cities-v2.webp"
@@ -1622,6 +1671,7 @@ image: "/poi-images/belarus-hantsavichy-cities-v2.webp"
     }, image: "/poi-images/belarus-hantsavichy-cities-v2.webp"},
   {
     id: "belarus-fanipol-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Fanypal", hu: "Fanyipal", ro: "Fanipal", en: "Fanipol",
 image: "/poi-images/belarus-fanipol-cities-v2.webp"
@@ -1655,6 +1705,7 @@ image: "/poi-images/belarus-fanipol-cities-v2.webp"
     }, image: "/poi-images/belarus-fanipol-cities-v2.webp"},
   {
     id: "belarus-masty-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Masty", hu: "Maszti", ro: "Mastî", en: "Masty",
 image: "/poi-images/belarus-masty-cities-v2.webp"
@@ -1688,6 +1739,7 @@ image: "/poi-images/belarus-masty-cities-v2.webp"
     }, image: "/poi-images/belarus-masty-cities-v2.webp"},
   {
     id: "belarus-vyetka-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Wetka", hu: "Vetka", ro: "Vetka", en: "Vyetka",
 image: "/poi-images/belarus-vyetka-cities-v2.webp"
@@ -1721,6 +1773,7 @@ image: "/poi-images/belarus-vyetka-cities-v2.webp"
     }, image: "/poi-images/belarus-vyetka-cities-v2.webp"},
   {
     id: "belarus-mikashevichy-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Mikaschewitschy", hu: "Mikasevicsi", ro: "Mikașevici", en: "Mikashevichy",
 image: "/poi-images/belarus-mikashevichy-cities-v2.webp"
@@ -1754,6 +1807,7 @@ image: "/poi-images/belarus-mikashevichy-cities-v2.webp"
     }, image: "/poi-images/belarus-mikashevichy-cities-v2.webp"},
   {
     id: "belarus-byerazino-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Berasino", hu: "Bjarazino", ro: "Berazino", en: "Byerazino",
 image: "/poi-images/belarus-byerazino-cities-v2.webp"
@@ -1787,6 +1841,7 @@ image: "/poi-images/belarus-byerazino-cities-v2.webp"
     }, image: "/poi-images/belarus-byerazino-cities-v2.webp"},
   {
     id: "belarus-skidal-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Skidal", hu: "Szkidal", ro: "Skidal", en: "Skidal",
 image: "/poi-images/belarus-skidal-cities-v2.webp"
@@ -1820,6 +1875,7 @@ image: "/poi-images/belarus-skidal-cities-v2.webp"
     }, image: "/poi-images/belarus-skidal-cities-v2.webp"},
   {
     id: "belarus-pyetrykaw-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Petrykau", hu: "Petrjkav", ro: "Petrikau", en: "Pyetrykaw",
 image: "/poi-images/belarus-pyetrykaw-cities-v2.webp"
@@ -1853,6 +1909,7 @@ image: "/poi-images/belarus-pyetrykaw-cities-v2.webp"
     }, image: "/poi-images/belarus-pyetrykaw-cities-v2.webp"},
   {
     id: "belarus-chavusy-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Tschawussy", hu: "Csavuszi", ro: "Ceavusî", en: "Chavusy",
 image: "/poi-images/belarus-chavusy-cities-v2.webp"
@@ -1886,6 +1943,7 @@ image: "/poi-images/belarus-chavusy-cities-v2.webp"
     }, image: "/poi-images/belarus-chavusy-cities-v2.webp"},
   {
     id: "belarus-kastsyukovichy-cities-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Kaszjukowitschy", hu: "Kaszjukovicsi", ro: "Kasțiukovici", en: "Kastsyukovichy",
 image: "/poi-images/belarus-kastsyukovichy-cities-v2.webp"

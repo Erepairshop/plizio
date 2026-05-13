@@ -3,6 +3,7 @@ export const ukraineLandmarksV2: POI[] = [
 
   {
     id: "ukraine-saint-sophia-cathedral-landmarks-v2",
+    parent: "UA",
     type: "cathedral",
     name: { de: "Sophienkathedrale", hu: "Szent Szófia-székesegyház", ro: "Catedrala Sfânta Sofia", en: "Saint Sophia Cathedral",
 image: "/poi-images/ukraine-saint-sophia-cathedral-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Saint Sophia Cathedral in Kyiv with green roofs and gold domes",
     image: "/poi-images/ukraine-saint-sophia-cathedral-landmarks-v2.webp",
 },  {
     id: "ukraine-kyiv-pechersk-lavra-landmarks-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Kiewer Höhlenkloster", hu: "Kijevi Barlangkolostor", ro: "Lavra Peșterilor din Kiev", en: "Kyiv Pechersk Lavra",
 image: "/poi-images/ukraine-kyiv-pechersk-lavra-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Kyiv Pechersk Lavra bell tower and golden domes against the sky",
     image: "/poi-images/ukraine-kyiv-pechersk-lavra-landmarks-v2.webp",
 },  {
     id: "ukraine-golden-gate-kyiv-landmarks-v2",
+    parent: "UA",
     type: "monument",
     name: { de: "Goldenes Tor von Kiew", hu: "Kijevi Aranykapu", ro: "Poarta de Aur din Kiev", en: "Golden Gate of Kyiv",
 image: "/poi-images/ukraine-golden-gate-kyiv-landmarks-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Golden Gate of Kyiv wooden and brick reconstruction",
     image: "/poi-images/ukraine-golden-gate-kyiv-landmarks-v2.webp",
 },  {
     id: "ukraine-motherland-monument-landmarks-v2",
+    parent: "UA",
     type: "monument",
     name: { de: "Mutter-Heimat-Statue", hu: "Anyaföld emlékmű", ro: "Statuia Patriei", en: "Motherland Monument",
 image: "/poi-images/ukraine-motherland-monument-landmarks-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Motherland Monument Kyiv stainless steel statue with shield and swor
     image: "/poi-images/ukraine-motherland-monument-landmarks-v2.webp",
 },  {
     id: "ukraine-st-michaels-monastery-landmarks-v2",
+    parent: "UA",
     type: "cathedral",
     name: { de: "St. Michaelskloster", hu: "Szent Mihály-székesegyház", ro: "Mănăstirea Sfântul Mihail", en: "St. Michael's Golden-Domed Monastery",
 image: "/poi-images/ukraine-st-michaels-monastery-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "St. Michael's Golden-Domed Monastery blue walls and gold domes",
     image: "/poi-images/ukraine-st-michaels-monastery-landmarks-v2.webp",
 },  {
     id: "ukraine-mariinskyi-palace-landmarks-v2",
+    parent: "UA",
     type: "palace",
     name: { de: "Marienpalast", hu: "Mariinszkij-palota", ro: "Palatul Mariinskyi", en: "Mariinskyi Palace",
 image: "/poi-images/ukraine-mariinskyi-palace-landmarks-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Mariinskyi Palace Kyiv turquoise and white facade",
     image: "/poi-images/ukraine-mariinskyi-palace-landmarks-v2.webp",
 },  {
     id: "ukraine-potemkin-stairs-landmarks-v2",
+    parent: "UA",
     type: "monument",
     name: { de: "Potemkinsche Treppe", hu: "Patyomkin-lépcső", ro: "Scările Potiomkin", en: "Potemkin Stairs",
 image: "/poi-images/ukraine-potemkin-stairs-landmarks-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Potemkin Stairs Odesa looking down towards the sea",
     image: "/poi-images/ukraine-potemkin-stairs-landmarks-v2.webp",
 },  {
     id: "ukraine-odesa-opera-theater-landmarks-v2",
+    parent: "UA",
     type: "theater",
     name: { de: "Opernhaus Odesa", hu: "Odesszai Operaház", ro: "Opera din Odesa", en: "Odesa Opera and Ballet Theater",
 image: "/poi-images/ukraine-odesa-opera-theater-landmarks-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Odesa Opera and Ballet Theater facade with statues",
     image: "/poi-images/ukraine-odesa-opera-theater-landmarks-v2.webp",
 },  {
     id: "ukraine-vorontsov-palace-odesa-landmarks-v2",
+    parent: "UA",
     type: "palace",
     name: { de: "Woronzow-Palast (Odesa)", hu: "Voroncov-palota (Odessza)", ro: "Palatul Voronțov (Odesa)", en: "Vorontsov Palace (Odesa)",
 image: "/poi-images/ukraine-vorontsov-palace-odesa-landmarks-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Vorontsov Palace Odesa with curved white colonnade",
     image: "/poi-images/ukraine-vorontsov-palace-odesa-landmarks-v2.webp",
 },  {
     id: "ukraine-lviv-opera-house-landmarks-v2",
+    parent: "UA",
     type: "theater",
     name: { de: "Opernhaus Lwiw", hu: "Lvivi Operaház", ro: "Opera din Liov", en: "Lviv Opera House",
 image: "/poi-images/ukraine-lviv-opera-house-landmarks-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Lviv Opera House facade at the end of a pedestrian street",
     image: "/poi-images/ukraine-lviv-opera-house-landmarks-v2.webp",
 },  {
     id: "ukraine-high-castle-lviv-landmarks-v2",
+    parent: "UA",
     type: "ruins",
     name: { de: "Hoher Schlossberg", hu: "Lviv magas vára", ro: "Castelul Înalt din Liov", en: "High Castle Hill",
 image: "/poi-images/ukraine-high-castle-lviv-landmarks-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "View from High Castle Hill Lviv overlooking the city",
     image: "/poi-images/ukraine-high-castle-lviv-landmarks-v2.webp",
 },  {
     id: "ukraine-boim-chapel-landmarks-v2",
+    parent: "UA",
     type: "church",
     name: { de: "Boim-Kapelle", hu: "Boim-kápolna", ro: "Capela Boim", en: "Boim Chapel",
 image: "/poi-images/ukraine-boim-chapel-landmarks-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Boim Chapel Lviv dark stone facade with intricate carvings",
     image: "/poi-images/ukraine-boim-chapel-landmarks-v2.webp",
 },  {
     id: "ukraine-dominican-cathedral-lviv-landmarks-v2",
+    parent: "UA",
     type: "cathedral",
     name: { de: "Dominikanerkirche", hu: "Dominikánus templom (Lviv)", ro: "Catedrala Dominicană din Liov", en: "Dominican Cathedral (Lviv)",
 image: "/poi-images/ukraine-dominican-cathedral-lviv-landmarks-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Dominican Cathedral Lviv Baroque facade and green dome",
     image: "/poi-images/ukraine-dominican-cathedral-lviv-landmarks-v2.webp",
 },  {
     id: "ukraine-shenborn-palace-landmarks-v2",
+    parent: "UA",
     type: "palace",
     name: { de: "Schloss Schönborn", hu: "Schönborn-kastély", ro: "Palatul Schonborn", en: "Shenborn Palace",
 image: "/poi-images/ukraine-shenborn-palace-landmarks-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Shenborn Palace with ornate towers and clock",
     image: "/poi-images/ukraine-shenborn-palace-landmarks-v2.webp",
 },  {
     id: "ukraine-chernivtsi-university-landmarks-v2",
+    parent: "UA",
     type: "university",
     name: { de: "Residenz der bukowinischen Metropoliten", hu: "A bukovinai metropoliták rezidenciája", ro: "Reședința mitropoliților Bucovinei", en: "Residence of Bukovinian and Dalmatian Metropolitans",
 image: "/poi-images/ukraine-chernivtsi-university-landmarks-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Chernivtsi University complex with red brick walls and patterned roo
     image: "/poi-images/ukraine-chernivtsi-university-landmarks-v2.webp",
 },  {
     id: "ukraine-house-with-chimaeras-landmarks-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Haus mit den Chimären", hu: "Kimérás ház", ro: "Casa cu Himere", en: "House with Chimaeras",
 image: "/poi-images/ukraine-house-with-chimaeras-landmarks-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "House with Chimaeras Kyiv with animal sculptures on the facade",
     image: "/poi-images/ukraine-house-with-chimaeras-landmarks-v2.webp",
 },  {
     id: "ukraine-derzhprom-kharkiv-landmarks-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Derschprom", hu: "Derzsprom", ro: "Derzhprom", en: "Derzhprom",
 image: "/poi-images/ukraine-derzhprom-kharkiv-landmarks-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Derzhprom building Kharkiv Constructivist architecture",
     image: "/poi-images/ukraine-derzhprom-kharkiv-landmarks-v2.webp",
 },  {
     id: "ukraine-taras-shevchenko-opera-landmarks-v2",
+    parent: "UA",
     type: "theater",
     name: { de: "Nationaloper der Ukraine", hu: "Tarasz Sevcsenko Nemzeti Opera", ro: "Opera Națională a Ucrainei", en: "Taras Shevchenko National Opera of Ukraine",
 image: "/poi-images/ukraine-taras-shevchenko-opera-landmarks-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "National Opera of Ukraine Kyiv facade",
     image: "/poi-images/ukraine-taras-shevchenko-opera-landmarks-v2.webp",
 },  {
     id: "ukraine-st-nicholas-cathedral-landmarks-v2",
+    parent: "UA",
     type: "cathedral",
     name: { de: "St.-Nikolaus-Kathedrale (Kiew)", hu: "Szent Miklós-székesegyház (Kijev)", ro: "Catedrala Sfântul Nicolae (Kiev)", en: "St. Nicholas Roman Catholic Cathedral",
 image: "/poi-images/ukraine-st-nicholas-cathedral-landmarks-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "St. Nicholas Roman Catholic Cathedral Kyiv Neo-Gothic spires",
     image: "/poi-images/ukraine-st-nicholas-cathedral-landmarks-v2.webp",
 },  {
     id: "ukraine-st-volodymyr-cathedral-landmarks-v2",
+    parent: "UA",
     type: "cathedral",
     name: { de: "Wladimirkathedrale", hu: "Szent Vlagyimir-székesegyház", ro: "Catedrala Sfântul Vladimir", en: "St. Volodymyr's Cathedral",
 image: "/poi-images/ukraine-st-volodymyr-cathedral-landmarks-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "St. Volodymyr's Cathedral Kyiv yellow exterior and gold domes",
     image: "/poi-images/ukraine-st-volodymyr-cathedral-landmarks-v2.webp",
 },  {
     id: "ukraine-arch-of-freedom-landmarks-v2",
+    parent: "UA",
     type: "monument",
     name: { de: "Bogen der Freiheit des ukrainischen Volkes", hu: "Az ukrán nép szabadságának íve", ro: "Arcul Libertății Poporului Ucrainean", en: "Arch of Freedom of the Ukrainian People",
 image: "/poi-images/ukraine-arch-of-freedom-landmarks-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Arch of Freedom of the Ukrainian People Kyiv large metal arch",
     image: "/poi-images/ukraine-arch-of-freedom-landmarks-v2.webp",
 },  {
     id: "ukraine-bohdanh-khmelnytsky-monument-landmarks-v2",
+    parent: "UA",
     type: "monument",
     name: { de: "Bohdan-Chmelnyzkyj-Denkmal", hu: "Bohdan Hmelnyickij-emlékmű", ro: "Monumentul lui Bogdan Hmelnițki", en: "Monument to Bohdan Khmelnytsky",
 image: "/poi-images/ukraine-bohdanh-khmelnytsky-monument-landmarks-v2.webp"
@@ -752,6 +774,7 @@ imageHint: "Bohdan Khmelnytsky Monument Kyiv equestrian statue in the square",
 },
   {
     id: "ukraine-st-andrews-church-landmarks-v2",
+    parent: "UA",
     type: "church",
     name: { de: "Andreaskirche", hu: "Szent András-templom", ro: "Biserica Sfântul Andrei", en: "St. Andrew's Church",
 image: "/poi-images/ukraine-st-andrews-church-landmarks-v2.webp"
@@ -786,6 +809,7 @@ image: "/poi-images/ukraine-st-andrews-church-landmarks-v2.webp"
   },
   {
     id: "ukraine-pochayiv-lavra-landmarks-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Mariä-Entschlafens-Kloster von Potschajiw", hu: "Pocshajivi lavra", ro: "Lavra Poceaiv", en: "Pochayiv Lavra",
 image: "/poi-images/ukraine-pochayiv-lavra-landmarks-v2.webp"
@@ -820,6 +844,7 @@ imageHint: "Pochayiv Lavra monastery complex golden domes",
     image: "/poi-images/ukraine-pochayiv-lavra-landmarks-v2.webp",
 },  {
     id: "ukraine-sviatohirsk-lavra-landmarks-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Kloster Swjatohirsk", hu: "Szvjatohirszki lavra", ro: "Lavra Sviatohirsk", en: "Sviatohirsk Lavra",
 image: "/poi-images/ukraine-sviatohirsk-lavra-landmarks-v2.webp"
@@ -854,6 +879,7 @@ imageHint: "Sviatohirsk Lavra white cliffs monastery",
     image: "/poi-images/ukraine-sviatohirsk-lavra-landmarks-v2.webp",
 },  {
     id: "ukraine-verkhovna-rada-building-landmarks-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Gebäude der Werchowna Rada", hu: "Verhovna Rada épülete", ro: "Clădirea Radei Supreme", en: "Verkhovna Rada Building",
 image: "/poi-images/ukraine-verkhovna-rada-building-landmarks-v2.webp"
@@ -888,6 +914,7 @@ imageHint: "Verkhovna Rada building Kyiv parliament dome",
     image: "/poi-images/ukraine-verkhovna-rada-building-landmarks-v2.webp",
 },  {
     id: "ukraine-mirror-stream-kharkiv-landmarks-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Spiegelstrom-Brunnen", hu: "Tükör-patak szökőkút", ro: "Fântâna Fluxul de Oglindă", en: "Mirror Stream Fountain",
 image: "/poi-images/ukraine-mirror-stream-kharkiv-landmarks-v2.webp"
@@ -922,6 +949,7 @@ imageHint: "Mirror Stream fountain Kharkiv white gazebo",
     image: "/poi-images/ukraine-mirror-stream-kharkiv-landmarks-v2.webp",
 },  {
     id: "ukraine-sharivka-palace-landmarks-v2",
+    parent: "UA",
     type: "palace",
     name: { de: "Schloss Schariwka", hu: "Sarivkai palota", ro: "Palatul Șarivka", en: "Sharivka Palace",
 image: "/poi-images/ukraine-sharivka-palace-landmarks-v2.webp"
@@ -956,6 +984,7 @@ imageHint: "Sharivka Palace white neogothic manor",
     image: "/poi-images/ukraine-sharivka-palace-landmarks-v2.webp",
 },  {
     id: "ukraine-chernihiv-collegium-landmarks-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Tschernihiw-Kollegium", hu: "Csernyihivi Kollégium", ro: "Colegiul din Cernihiv", en: "Chernihiv Collegium",
 image: "/poi-images/ukraine-chernihiv-collegium-landmarks-v2.webp"

@@ -3,6 +3,7 @@ export const sloveniaHistoryV2: POI[] = [
 
   {
     id: "slovenia-emona-history-v2",
+    parent: "SI",
     type: "ruins",
     name: { de: "Römisches Emona", hu: "Emona római romjai", ro: "Emona Romană", en: "Emona Roman Ruins",
 image: "/poi-images/slovenia-emona-history-v2.webp"
@@ -37,6 +38,7 @@ image: "/poi-images/slovenia-emona-history-v2.webp"
   },
   {
     id: "slovenia-ptuj-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Schloss Ptuj", hu: "Ptuji vár", ro: "Castelul Ptuj", en: "Ptuj Castle",
 image: "/poi-images/slovenia-ptuj-castle-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Ptuj Castle on a hill overlooking the town and Drava river",
     image: "/poi-images/slovenia-ptuj-castle-history-v2.webp",
 },  {
     id: "slovenia-celje-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Alte Burg von Celje", hu: "Celjei óvár", ro: "Vechiul Castel Celje", en: "Old Castle of Celje",
 image: "/poi-images/slovenia-celje-castle-history-v2.webp"
@@ -105,6 +108,7 @@ image: "/poi-images/slovenia-celje-castle-history-v2.webp"
   },
   {
     id: "slovenia-predjama-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Höhlenburg Predjama", hu: "Predjama vára", ro: "Castelul Predjama", en: "Predjama Castle",
 image: "/poi-images/slovenia-predjama-castle-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Renaissance castle built into a massive cliff face cave",
     image: "/poi-images/slovenia-predjama-castle-history-v2.webp",
 },  {
     id: "slovenia-bled-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Burg von Bled", hu: "Bledi vár", ro: "Castelul Bled", en: "Bled Castle",
 image: "/poi-images/slovenia-bled-castle-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Medieval castle on a cliff overlooking a blue lake",
     image: "/poi-images/slovenia-bled-castle-history-v2.webp",
 },  {
     id: "slovenia-sticna-abbey-history-v2",
+    parent: "SI",
     type: "monument",
     name: { de: "Kloster Stična", hu: "Stičnai apátság", ro: "Abbația Stična", en: "Stična Abbey",
 image: "/poi-images/slovenia-sticna-abbey-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Ancient monastery complex with a large stone church",
     image: "/poi-images/slovenia-sticna-abbey-history-v2.webp",
 },  {
     id: "slovenia-zice-charterhouse-history-v2",
+    parent: "SI",
     type: "ruins",
     name: { de: "Kartause Žiče", hu: "Zicsei karthauzi kolostor", ro: "Cartusia Žiče", en: "Žiče Charterhouse",
 image: "/poi-images/slovenia-zice-charterhouse-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Ruins of a medieval Carthusian monastery in a green valley",
     image: "/poi-images/slovenia-zice-charterhouse-history-v2.webp",
 },  {
     id: "slovenia-idrija-anthony-shaft-history-v2",
+    parent: "SI",
     type: "mine",
     name: { de: "Antonius-Stollen Idrija", hu: "Idrijai Antal-tárna", ro: "Galeria lui Anton Idrija", en: "Anthony's Main Road Shaft",
 image: "/poi-images/slovenia-idrija-anthony-shaft-history-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Historical entrance to a mercury mine in Idrija",
     image: "/poi-images/slovenia-idrija-anthony-shaft-history-v2.webp",
 },  {
     id: "slovenia-franja-hospital-history-v2",
+    parent: "SI",
     type: "museum",
     name: { de: "Partisanenlazarett Franja", hu: "Franja partizánkórház", ro: "Spitalul Partizanii Franja", en: "Franja Partisan Hospital",
 image: "/poi-images/slovenia-franja-hospital-history-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
     image: "/poi-images/slovenia-franja-hospital-history-v2.webp",
 },  {
     id: "slovenia-kobarid-ossuary-history-v2",
+    parent: "SI",
     type: "monument",
     name: { de: "Beinhaus von Kobarid", hu: "Kobaridi osszárium", ro: "Osuarul din Kobarid", en: "Kobarid Ossuary",
 image: "/poi-images/slovenia-kobarid-ossuary-history-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Large stone monument with circular terraces on a hill",
     image: "/poi-images/slovenia-kobarid-ossuary-history-v2.webp",
 },  {
     id: "slovenia-russian-chapel-vrsic-history-v2",
+    parent: "SI",
     type: "church",
     name: { de: "Russische Kapelle am Vršič-Pass", hu: "Orosz kápolna a Vršič-hágónál", ro: "Capela Rusă de la Pasul Vršič", en: "Russian Chapel on the Vršič Pass",
 image: "/poi-images/slovenia-russian-chapel-vrsic-history-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Small wooden Orthodox chapel in a forest setting",
     image: "/poi-images/slovenia-russian-chapel-vrsic-history-v2.webp",
 },  {
     id: "slovenia-hrastovlje-church-history-v2",
+    parent: "SI",
     type: "church",
     name: { de: "Wehrkirche Hrastovlje", hu: "Hrastovljei erődtemplom", ro: "Biserica fortificată Hrastovlje", en: "Holy Trinity Church in Hrastovlje",
 image: "/poi-images/slovenia-hrastovlje-church-history-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Small fortified church with ancient stone wall and tower",
     image: "/poi-images/slovenia-hrastovlje-church-history-v2.webp",
 },  {
     id: "slovenia-piran-walls-history-v2",
+    parent: "SI",
     type: "landmark",
     name: { de: "Stadtmauer von Piran", hu: "Pirani városfal", ro: "Zidurile orașului Piran", en: "Piran City Walls",
 image: "/poi-images/slovenia-piran-walls-history-v2.webp"
@@ -445,6 +458,7 @@ image: "/poi-images/slovenia-piran-walls-history-v2.webp"
   },
   {
     id: "slovenia-skofja-loka-town-history-v2",
+    parent: "SI",
     type: "city",
     name: { de: "Mittelalterliche Stadt Škofja Loka", hu: "Škofja Loka középkori városközpont", ro: "Orașul medieval Škofja Loka", en: "Škofja Loka Medieval Town",
 image: "/poi-images/slovenia-skofja-loka-town-history-v2.webp"
@@ -479,6 +493,7 @@ image: "/poi-images/slovenia-skofja-loka-town-history-v2.webp"
   },
   {
     id: "slovenia-radovljica-manor-history-v2",
+    parent: "SI",
     type: "palace",
     name: { de: "Herrenhaus Radovljica", hu: "Radovljicai kastély", ro: "Conacul Radovljica", en: "Radovljica Manor",
 image: "/poi-images/slovenia-radovljica-manor-history-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Baroque manor house in a medieval town square",
     image: "/poi-images/slovenia-radovljica-manor-history-v2.webp",
 },  {
     id: "slovenia-kamnik-mali-grad-history-v2",
+    parent: "SI",
     type: "ruins",
     name: { de: "Mali Grad Kamnik", hu: "Kamniki Mali grad", ro: "Mali Grad Kamnik", en: "Kamnik Mali Grad",
 image: "/poi-images/slovenia-kamnik-mali-grad-history-v2.webp"
@@ -547,6 +563,7 @@ image: "/poi-images/slovenia-kamnik-mali-grad-history-v2.webp"
   },
   {
     id: "slovenia-rihemberk-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Burg Rihemberk", hu: "Rihemberk vára", ro: "Castelul Rihemberk", en: "Rihemberk Castle",
 image: "/poi-images/slovenia-rihemberk-castle-history-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Large medieval castle with a high stone tower and walls",
     image: "/poi-images/slovenia-rihemberk-castle-history-v2.webp",
 },  {
     id: "slovenia-turjak-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Burg Turjak", hu: "Turjaki vár", ro: "Castelul Turjak", en: "Turjak Castle",
 image: "/poi-images/slovenia-turjak-castle-history-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Strong stone castle with round towers and thick walls",
     image: "/poi-images/slovenia-turjak-castle-history-v2.webp",
 },  {
     id: "slovenia-sneznik-castle-history-v2",
+    parent: "SI",
     type: "palace",
     name: { de: "Schloss Snežnik", hu: "Snežnik vára", ro: "Castelul Snežnik", en: "Snežnik Castle",
 image: "/poi-images/slovenia-sneznik-castle-history-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "White Renaissance-style castle with a bridge and a pond",
     image: "/poi-images/slovenia-sneznik-castle-history-v2.webp",
 },  {
     id: "slovenia-bogensperk-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Schloss Bogenšperk", hu: "Bogenšperk-kastély", ro: "Castelul Bogenšperk", en: "Bogenšperk Castle",
 image: "/poi-images/slovenia-bogensperk-castle-history-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Renaissance castle with four corner towers in a forest",
     image: "/poi-images/slovenia-bogensperk-castle-history-v2.webp",
 },  {
     id: "slovenia-maribor-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Schloss Maribor", hu: "Maribori vár", ro: "Castelul Maribor", en: "Maribor Castle",
 image: "/poi-images/slovenia-maribor-castle-history-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Historical castle building in the city center of Maribor",
     image: "/poi-images/slovenia-maribor-castle-history-v2.webp",
 },  {
     id: "slovenia-stanjel-history-v2",
+    parent: "SI",
     type: "village",
     name: { de: "Štanjel", hu: "Štanjel", ro: "Štanjel", en: "Štanjel",
 image: "/poi-images/slovenia-stanjel-history-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Stone village on a hill with a castle and a scenic garden",
     image: "/poi-images/slovenia-stanjel-history-v2.webp",
 },  {
     id: "slovenia-sempeter-necropolis-history-v2",
+    parent: "SI",
     type: "ruins",
     name: { de: "Römische Nekropole Šempeter", hu: "Šempeteri római nekropolisz", ro: "Necropola Romană Šempeter", en: "Roman Necropolis Šempeter",
 image: "/poi-images/slovenia-sempeter-necropolis-history-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Ornate Roman stone tomb monuments in an outdoor park",
     image: "/poi-images/slovenia-sempeter-necropolis-history-v2.webp",
 },  {
     id: "slovenia-divje-babe-history-v2",
+    parent: "SI",
     type: "ruins",
     name: { de: "Archäologischer Park Divje Babe", hu: "Divje Babe régészeti park", ro: "Parcul arheologic Divje Babe", en: "Divje Babe Archaeological Park",
 image: "/poi-images/slovenia-divje-babe-history-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Entrance to a prehistoric cave in a rocky cliff",
     image: "/poi-images/slovenia-divje-babe-history-v2.webp",
 },  {
     id: "slovenia-loka-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Burg von Loka", hu: "Loka vára", ro: "Castelul Loka", en: "Loka Castle",
 image: "/poi-images/slovenia-loka-castle-history-v2.webp"
@@ -853,6 +878,7 @@ image: "/poi-images/slovenia-loka-castle-history-v2.webp"
   },
   {
     id: "slovenia-gornji-grad-cathedral-history-v2",
+    parent: "SI",
     type: "cathedral",
     name: { de: "Kathedrale von Gornji Grad", hu: "Gornji Grad-i katedrális", ro: "Catedrala din Gornji Grad", en: "Gornji Grad Cathedral",
 image: "/poi-images/slovenia-gornji-grad-cathedral-history-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Massive Baroque cathedral with a large dome in a small town",
     image: "/poi-images/slovenia-gornji-grad-cathedral-history-v2.webp",
 },  {
     id: "slovenia-kostanjevica-monastery-history-v2",
+    parent: "SI",
     type: "monument",
     name: { de: "Kloster Kostanjevica na Krki", hu: "Kostanjevica na Krki kolostor", ro: "Mănăstirea Kostanjevica na Krki", en: "Kostanjevica na Krki Monastery",
 image: "/poi-images/slovenia-kostanjevica-monastery-history-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Large monastery complex with a huge inner courtyard and arches",
     image: "/poi-images/slovenia-kostanjevica-monastery-history-v2.webp",
 },  {
     id: "slovenia-otocec-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Schloss Otočec", hu: "Otočeci vár", ro: "Castelul Otočec", en: "Otočec Castle",
 image: "/poi-images/slovenia-otocec-castle-history-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Medieval castle on a small island surrounded by a river",
     image: "/poi-images/slovenia-otocec-castle-history-v2.webp",
 },  {
     id: "slovenia-ljubljana-castle-history-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Ljubljaner Burg", hu: "Ljubljanai vár", ro: "Castelul Ljubljana", en: "Ljubljana Castle",
 image: "/poi-images/slovenia-ljubljana-castle-history-v2.webp"

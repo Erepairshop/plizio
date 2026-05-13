@@ -4,6 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraBeninLandmarksV2: POI[] = [
   {
     id: "stade-amitie-cotonou-landmarks-v2",
+    parent: "BJ",
     description: "The primary multi-purpose sports stadium in Cotonou, used for major national and international events. It is a central hub for sports in Benin.",
     facts: [
       "Located in Cotonou",
@@ -45,6 +46,7 @@ image: "/poi-images/stade-amitie-cotonou-landmarks-v2.webp"
   },
   {
     id: "place-etoile-rouge-cotonou-landmarks-v2",
+    parent: "BJ",
     description: "A prominent public square in Cotonou featuring a massive socialist-style monument. It serves as a major intersection and landmark in the city.",
     facts: [
       "Cotonou city landmark",
@@ -118,6 +120,7 @@ image: "/poi-images/ancien-pont-cotonou-landmarks-v2.webp"
     factsAdvanced: { multi4: ["Erbaut während der französischen Kolonialzeit.", "Verbindet die Stadtteile Akpakpa und Gbégamey.", "Bietet eine einzigartige Perspektive auf die Lagune von Cotonou.", "Ein Symbol für die frühe Stadtentwicklung Cotonous.", "Wichtiger Übergang für den nicht-motorisierten Verkehr.", "Ersetzte eine frühere Fährverbindung.", "Struktur aus Stahl und Beton.", "Zentraler Punkt im urbanen Gefüge der Stadt."] }},
   {
     id: "phare-cotonou-landmarks-v2",
+    parent: "BJ",
     description: "The lighthouse of Cotonou, which has guided ships along the coast for decades. It remains an iconic maritime landmark for the port city.",
     facts: [
       "Cotonou coastal landmark",

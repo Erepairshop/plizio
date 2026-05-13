@@ -3,6 +3,7 @@ export const luxembourgEconomicV2: POI[] = [
 
   {
     id: "luxembourg-kirchberg-district-economic-v2",
+    parent: "LU",
     type: "city",
     name: { de: "Finanzdistrikt Kirchberg", hu: "Kirchberg pénzügyi negyed", ro: "Districtul financiar Kirchberg", en: "Kirchberg Financial District",
 image: "/poi-images/luxembourg-kirchberg-district-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Modern skyscrapers and glass buildings in Kirchberg Luxembourg",
     image: "/poi-images/luxembourg-kirchberg-district-economic-v2.webp",
 },  {
     id: "luxembourg-belval-innovation-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Belval Innovationscampus", hu: "Belval Innovációs Kampusz", ro: "Campusul de Inovare Belval", en: "Belval Innovation Campus",
 image: "/poi-images/luxembourg-belval-innovation-economic-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Preserved blast furnaces in Belval Luxembourg at night",
     image: "/poi-images/luxembourg-belval-innovation-economic-v2.webp",
 },  {
     id: "luxembourg-findel-cargo-center-economic-v2",
+    parent: "LU",
     type: "port",
     name: { de: "Cargo Center Findel", hu: "Findel Cargo Központ", ro: "Centrul Cargo Findel", en: "Findel Cargo Center",
 image: "/poi-images/luxembourg-findel-cargo-center-economic-v2.webp"
@@ -105,6 +108,7 @@ image: "/poi-images/luxembourg-findel-cargo-center-economic-v2.webp"
   },
   {
     id: "luxembourg-ses-astra-headquarters-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "SES Astra Hauptsitz", hu: "SES Astra Székház", ro: "Sediul SES Astra", en: "SES Astra Headquarters",
 image: "/poi-images/luxembourg-ses-astra-headquarters-economic-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Satellite dishes and control center at Betzdorf Luxembourg",
     image: "/poi-images/luxembourg-ses-astra-headquarters-economic-v2.webp",
 },  {
     id: "luxembourg-port-of-mertert-economic-v2",
+    parent: "LU",
     type: "port",
     name: { de: "Hafen von Mertert", hu: "Merterti kikötő", ro: "Portul Mertert", en: "Port of Mertert",
 image: "/poi-images/luxembourg-port-of-mertert-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Cargo ships and cranes at Port of Mertert on the Moselle",
     image: "/poi-images/luxembourg-port-of-mertert-economic-v2.webp",
 },  {
     id: "luxembourg-vianden-pumped-storage-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Pumpspeicherkraftwerk Vianden", hu: "Viandeni szivattyús-tározós erőmű", ro: "Centrala hidroelectrică de acumulare Vianden", en: "Vianden Pumped Storage Plant",
 image: "/poi-images/luxembourg-vianden-pumped-storage-economic-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "The upper reservoir of the Vianden pumped storage plant",
     image: "/poi-images/luxembourg-vianden-pumped-storage-economic-v2.webp",
 },  {
     id: "luxembourg-arcelormittal-differdange-economic-v2",
+    parent: "LU",
     type: "factory",
     name: { de: "ArcelorMittal Differdange", hu: "ArcelorMittal Differdange", ro: "ArcelorMittal Differdange", en: "ArcelorMittal Differdange",
 image: "/poi-images/luxembourg-arcelormittal-differdange-economic-v2.webp"
@@ -241,6 +248,7 @@ image: "/poi-images/luxembourg-arcelormittal-differdange-economic-v2.webp"
   },
   {
     id: "luxembourg-bettembourg-terminal-economic-v2",
+    parent: "LU",
     type: "port",
     name: { de: "Multimodaler Terminal Bettemburg", hu: "Bettembourgi multimodális terminál", ro: "Terminalul multimodal Bettembourg", en: "Bettembourg Multimodal Terminal",
 image: "/poi-images/luxembourg-bettembourg-terminal-economic-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Container cranes at Bettembourg multimodal railway terminal",
     image: "/poi-images/luxembourg-bettembourg-terminal-economic-v2.webp",
 },  {
     id: "luxembourg-goodyear-colmar-berg-economic-v2",
+    parent: "LU",
     type: "factory",
     name: { de: "Goodyear Werk Colmar-Berg", hu: "Goodyear gyár Colmar-Berg", ro: "Fabrica Goodyear Colmar-Berg", en: "Goodyear Colmar-Berg Plant",
 image: "/poi-images/luxembourg-goodyear-colmar-berg-economic-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Goodyear factory building and test track in Colmar-Berg",
     image: "/poi-images/luxembourg-goodyear-colmar-berg-economic-v2.webp",
 },  {
     id: "luxembourg-rtl-group-headquarters-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "RTL Group Hauptsitz", hu: "RTL Group Székház", ro: "Sediul RTL Group", en: "RTL Group Headquarters",
 image: "/poi-images/luxembourg-rtl-group-headquarters-economic-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "RTL City building and studios in Luxembourg",
     image: "/poi-images/luxembourg-rtl-group-headquarters-economic-v2.webp",
 },  {
     id: "luxembourg-arcelormittal-dudelange-economic-v2",
+    parent: "LU",
     type: "factory",
     name: { de: "ArcelorMittal Düdelingen", hu: "ArcelorMittal Dudelange", ro: "ArcelorMittal Dudelange", en: "ArcelorMittal Dudelange",
 image: "/poi-images/luxembourg-arcelormittal-dudelange-economic-v2.webp"
@@ -377,6 +388,7 @@ image: "/poi-images/luxembourg-arcelormittal-dudelange-economic-v2.webp"
   },
   {
     id: "luxembourg-luxlait-roost-economic-v2",
+    parent: "LU",
     type: "factory",
     name: { de: "Luxlait Molkerei Roost", hu: "Luxlait tejüzem Roost", ro: "Lăptăria Luxlait Roost", en: "Luxlait Dairy Roost",
 image: "/poi-images/luxembourg-luxlait-roost-economic-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Modern Luxlait dairy production facility in Roost",
     image: "/poi-images/luxembourg-luxlait-roost-economic-v2.webp",
 },  {
     id: "luxembourg-bissen-google-data-center-site-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Wirtschaftszone Bissen", hu: "Bissen gazdasági zóna", ro: "Zona economică Bissen", en: "Bissen Economic Zone",
 image: "/poi-images/luxembourg-bissen-google-data-center-site-economic-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Aerial view of the industrial zone in Bissen Luxembourg",
     image: "/poi-images/luxembourg-bissen-google-data-center-site-economic-v2.webp",
 },  {
     id: "luxembourg-contern-industrial-park-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Industriepark Contern", hu: "Conterni ipari park", ro: "Parcul industrial Contern", en: "Contern Industrial Park",
 image: "/poi-images/luxembourg-contern-industrial-park-economic-v2.webp"
@@ -479,6 +493,7 @@ image: "/poi-images/luxembourg-contern-industrial-park-economic-v2.webp"
   },
   {
     id: "luxembourg-mertert-petroleum-port-economic-v2",
+    parent: "LU",
     type: "port",
     name: { de: "Tanklager Mertert", hu: "Merterti üzemanyagtároló", ro: "Depozitul de combustibil Mertert", en: "Mertert Petroleum Port",
 image: "/poi-images/luxembourg-mertert-petroleum-port-economic-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Large white oil storage tanks by the river in Mertert",
     image: "/poi-images/luxembourg-mertert-petroleum-port-economic-v2.webp",
 },  {
     id: "luxembourg-bascharage-industrial-zone-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Industriezone Bascharage", hu: "Bascharage ipari zóna", ro: "Zona industrială Bascharage", en: "Bascharage Industrial Zone",
 image: "/poi-images/luxembourg-bascharage-industrial-zone-economic-v2.webp"
@@ -547,6 +563,7 @@ image: "/poi-images/luxembourg-bascharage-industrial-zone-economic-v2.webp"
   },
   {
     id: "luxembourg-echternach-industrial-area-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Industriegebiet Echternach", hu: "Echternachi ipari terület", ro: "Zona industrială Echternach", en: "Echternach Industrial Area",
 image: "/poi-images/luxembourg-echternach-industrial-area-economic-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Fanuc Robotics building in Echternach industrial zone",
     image: "/poi-images/luxembourg-echternach-industrial-area-economic-v2.webp",
 },  {
     id: "luxembourg-wiltz-business-park-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Wirtschaftspark Wiltz", hu: "Wiltzi üzleti park", ro: "Parcul de afaceri Wiltz", en: "Wiltz Business Park",
 image: "/poi-images/luxembourg-wiltz-business-park-economic-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Large industrial complex of Tarkett in Wiltz",
     image: "/poi-images/luxembourg-wiltz-business-park-economic-v2.webp",
 },  {
     id: "luxembourg-lentzweiler-industrial-zone-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Industriezone Lentzweiler", hu: "Lentzweiler ipari zóna", ro: "Zona industrială Lentzweiler", en: "Lentzweiler Industrial Zone",
 image: "/poi-images/luxembourg-lentzweiler-industrial-zone-economic-v2.webp"
@@ -649,6 +668,7 @@ image: "/poi-images/luxembourg-lentzweiler-industrial-zone-economic-v2.webp"
   },
   {
     id: "luxembourg-rosport-mineral-water-economic-v2",
+    parent: "LU",
     type: "factory",
     name: { de: "Rosport Mineralwasserquelle", hu: "Rosporti ásványvízforrás", ro: "Sursa de apă minerală Rosport", en: "Rosport Mineral Water Plant",
 image: "/poi-images/luxembourg-rosport-mineral-water-economic-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Bottling line at the Rosport mineral water factory",
     image: "/poi-images/luxembourg-rosport-mineral-water-economic-v2.webp",
 },  {
     id: "luxembourg-mamer-high-tech-zone-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Hochtechnologiezone Mamer", hu: "Mameri csúcstechnológiai zóna", ro: "Zona de înaltă tehnologie Mamer", en: "Mamer High-Tech Zone",
 image: "/poi-images/luxembourg-mamer-high-tech-zone-economic-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Modern Ceratizit industrial building in Mamer",
     image: "/poi-images/luxembourg-mamer-high-tech-zone-economic-v2.webp",
 },  {
     id: "luxembourg-remich-wine-logistics-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Remich Wein-Logistikzentrum", hu: "Remichi borlogisztikai központ", ro: "Centrul de logistică viticolă Remich", en: "Remich Wine Logistics Center",
 image: "/poi-images/luxembourg-remich-wine-logistics-economic-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Large wine cellars and shipping docks in Remich",
     image: "/poi-images/luxembourg-remich-wine-logistics-economic-v2.webp",
 },  {
     id: "luxembourg-twinerg-power-plant-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Twinerg Gaskraftwerk", hu: "Twinerg gázerőmű", ro: "Centrala electrică Twinerg", en: "Twinerg Power Plant",
 image: "/poi-images/luxembourg-twinerg-power-plant-economic-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Modern gas power plant with cooling towers in Esch-sur-Alzette",
     image: "/poi-images/luxembourg-twinerg-power-plant-economic-v2.webp",
 },  {
     id: "luxembourg-eib-headquarters-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "EIB Hauptsitz", hu: "EBB Székház", ro: "Sediul BEI", en: "EIB Headquarters",
 image: "/poi-images/luxembourg-eib-headquarters-economic-v2.webp"
@@ -819,6 +843,7 @@ image: "/poi-images/luxembourg-eib-headquarters-economic-v2.webp"
   },
   {
     id: "luxembourg-cfl-multimodal-hub-economic-v2",
+    parent: "LU",
     type: "port",
     name: { de: "CFL Multimodal Logistikzentrum", hu: "CFL Multimodal logisztikai központ", ro: "Centrul logistic CFL Multimodal", en: "CFL Multimodal Logistics Hub",
 image: "/poi-images/luxembourg-cfl-multimodal-hub-economic-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Freight trains and logistics warehouses in Bettembourg",
     image: "/poi-images/luxembourg-cfl-multimodal-hub-economic-v2.webp",
 },  {
     id: "luxembourg-freeport-findel-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Luxembourg Freeport", hu: "Luxemburgi Freeport", ro: "Freeport Luxemburg", en: "Luxembourg Freeport",
 image: "/poi-images/luxembourg-freeport-findel-economic-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "The modern grey concrete building of the Luxembourg Freeport",
     image: "/poi-images/luxembourg-freeport-findel-economic-v2.webp",
 },  {
     id: "luxembourg-husky-injection-molding-economic-v2",
+    parent: "LU",
     type: "factory",
     name: { de: "Husky Spritzgießsysteme", hu: "Husky fröccsöntő rendszerek", ro: "Sisteme de injecție Husky", en: "Husky Injection Molding",
 image: "/poi-images/luxembourg-husky-injection-molding-economic-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Large industrial machinery manufacturing hall of Husky",
     image: "/poi-images/luxembourg-husky-injection-molding-economic-v2.webp",
 },  {
     id: "luxembourg-guardian-glass-dudelange-economic-v2",
+    parent: "LU",
     type: "factory",
     name: { de: "Guardian Glass Düdelingen", hu: "Guardian Glass Dudelange", ro: "Guardian Glass Dudelange", en: "Guardian Glass Dudelange",
 image: "/poi-images/luxembourg-guardian-glass-dudelange-economic-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Large glass sheets moving on a conveyor in a factory",
     image: "/poi-images/luxembourg-guardian-glass-dudelange-economic-v2.webp",
 },  {
     id: "luxembourg-euro-composite-echternach-economic-v2",
+    parent: "LU",
     type: "factory",
     name: { de: "Euro-Composite Echternach", hu: "Euro-Composite Echternach", ro: "Euro-Composite Echternach", en: "Euro-Composite Echternach",
 image: "/poi-images/luxembourg-euro-composite-echternach-economic-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Lightweight honeycomb composite panels in a factory",
     image: "/poi-images/luxembourg-euro-composite-echternach-economic-v2.webp",
 },  {
     id: "luxembourg-iee-contern-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "IEE Hauptsitz Contern", hu: "IEE Székház Contern", ro: "Sediul IEE Contern", en: "IEE Headquarters Contern",
 image: "/poi-images/luxembourg-iee-contern-economic-v2.webp"
@@ -1023,6 +1053,7 @@ imageHint: "Modern office and lab building of IEE in Contern",
     image: "/poi-images/luxembourg-iee-contern-economic-v2.webp",
 },  {
     id: "luxembourg-fanuc-europe-echternach-economic-v2",
+    parent: "LU",
     type: "industry",
     name: { de: "Fanuc Europe Zentrale", hu: "Fanuc Europe Központ", ro: "Sediul Fanuc Europe", en: "Fanuc Europe Headquarters",
 image: "/poi-images/luxembourg-fanuc-europe-echternach-economic-v2.webp"

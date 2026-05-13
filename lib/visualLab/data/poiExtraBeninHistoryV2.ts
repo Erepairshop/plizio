@@ -4,6 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraBeninHistoryV2: POI[] = [
   {
     id: "royal-palaces-abomey-history-v2",
+    parent: "BJ",
     description: "These UNESCO-listed earthen structures were built by the Fon people between 1625 and 1900. They served as the seat of the Kingdom of Dahomey.",
     facts: [
       "Built 1625-1900",
@@ -45,6 +46,7 @@ image: "/poi-images/royal-palaces-abomey-history-v2.webp"
   },
   {
     id: "door-no-return-ouidah-history-v2",
+    parent: "BJ",
     description: "This memorial site in Ouidah commemorates the millions of enslaved people deported from the coast. It serves as a somber monument to human history.",
     facts: [
       "Located in Ouidah",
@@ -86,6 +88,7 @@ image: "/poi-images/door-no-return-ouidah-history-v2.webp"
   },
   {
     id: "temple-pythons-ouidah-history-v2",
+    parent: "BJ",
     description: "An important spiritual site in Ouidah where pythons are held sacred by the local religion. It attracts visitors interested in West African voodoo traditions.",
     facts: [
       "Sacred snake site",
@@ -127,6 +130,7 @@ image: "/poi-images/temple-pythons-ouidah-history-v2.webp"
   },
   {
     id: "portuguese-fort-ouidah-history-v2",
+    parent: "BJ",
     description: "Constructed in 1721, this fort was a significant base for the Portuguese slave trade in the region. It now functions as a historical museum.",
     facts: [
       "Built in 1721",
@@ -168,6 +172,7 @@ image: "/poi-images/portuguese-fort-ouidah-history-v2.webp"
   },
   {
     id: "musee-honme-porto-novo-history-v2",
+    parent: "BJ",
     description: "This museum, located in the former residence of King Toffa, showcases the history and monarchy of Porto-Novo. It provides insight into local royalty.",
     facts: [
       "Former king residence",
@@ -209,6 +214,7 @@ image: "/poi-images/musee-honme-porto-novo-history-v2.webp"
   },
   {
     id: "great-mosque-porto-novo-history-v2",
+    parent: "BJ",
     description: "This striking mosque is known for its unique Afro-Brazilian architectural style in Porto-Novo. It is a prominent feature of the city's religious landscape.",
     facts: [
       "Afro-Brazilian architecture",
@@ -250,6 +256,7 @@ image: "/poi-images/great-mosque-porto-novo-history-v2.webp"
   },
   {
     id: "agongointo-underground-history-v2",
+    parent: "BJ",
     description: "A complex network of underground dwellings near Bohicon, thought to have been used by ancient inhabitants. It is a rare archeological site in Benin.",
     facts: [
       "Located near Bohicon",
@@ -291,6 +298,7 @@ image: "/poi-images/agongointo-underground-history-v2.webp"
   },
   {
     id: "palace-king-nikki-history-v2",
+    parent: "BJ",
     description: "The center of the Bariba kingdom's traditional authority, where the Gani festival is held annually. It remains a key cultural site in northern Benin.",
     facts: [
       "Bariba kingdom center",
@@ -332,6 +340,7 @@ image: "/poi-images/palace-king-nikki-history-v2.webp"
   },
   {
     id: "akaba-idenan-ketou-history-v2",
+    parent: "BJ",
     description: "Known as the legendary gate to the ancient city of Ketou, marking the traditional defense. It represents the history of the Yoruba culture in the area.",
     facts: [
       "Historic Ketou gate",
@@ -373,6 +382,7 @@ image: "/poi-images/akaba-idenan-ketou-history-v2.webp"
   },
   {
     id: "tata-somba-houses-history-v2",
+    parent: "BJ",
     description: "These distinctive, fortified mud-brick towers are unique to the Batammariba people in the Atakora mountains. They are recognized for their traditional defensive architecture.",
     facts: [
       "Batammariba tradition",

@@ -3,6 +3,7 @@ export const lithuaniaEconomicV2: POI[] = [
 
   {
     id: "lithuania-klaipeda-port-economic-v2",
+    parent: "LT",
     type: "port",
     name: { de: "Hafen von Klaipėda", hu: "Klaipėdai kikötő", ro: "Portul Klaipėda", en: "Port of Klaipėda",
 image: "/poi-images/lithuania-klaipeda-port-economic-v2.webp"
@@ -25,6 +26,7 @@ image: "/poi-images/lithuania-klaipeda-port-economic-v2.webp"
     image: "/poi-images/lithuania-klaipeda-port-economic-v2.webp"},
   {
     id: "lithuania-orlen-lietuva-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "ORLEN Lietuva Ölraffinerie", hu: "ORLEN Lietuva olajfinomító", ro: "Rafinăria ORLEN Lietuva", en: "ORLEN Lietuva Oil Refinery",
 image: "/poi-images/lithuania-orlen-lietuva-economic-v2.webp"
@@ -47,6 +49,7 @@ image: "/poi-images/lithuania-orlen-lietuva-economic-v2.webp"
     image: "/poi-images/lithuania-orlen-lietuva-economic-v2.webp"},
   {
     id: "lithuania-achema-jonava-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Achema Düngemittelwerk", hu: "Achema műtrágyagyár", ro: "Fabrica de îngrășăminte Achema", en: "Achema Fertilizer Plant",
 image: "/poi-images/lithuania-achema-jonava-economic-v2.webp"
@@ -69,6 +72,7 @@ image: "/poi-images/lithuania-achema-jonava-economic-v2.webp"
     image: "/poi-images/lithuania-achema-jonava-economic-v2.webp"},
   {
     id: "lithuania-lifosa-kedainiai-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Lifosa Phosphatwerk", hu: "Lifosa foszfátgyár", ro: "Fabrica de fosfați Lifosa", en: "Lifosa Phosphate Plant",
 image: "/poi-images/lithuania-lifosa-kedainiai-economic-v2.webp"
@@ -103,6 +107,7 @@ image: "/poi-images/lithuania-lifosa-kedainiai-economic-v2.webp"
   },
   {
     id: "lithuania-kruonis-pumped-storage-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Pumpspeicherkraftwerk Kruonis", hu: "Kruonisi szivattyús-tározós erőmű", ro: "Centrala prin pompare Kruonis", en: "Kruonis Pumped Storage Plant",
 image: "/poi-images/lithuania-kruonis-pumped-storage-economic-v2.webp"
@@ -125,6 +130,7 @@ image: "/poi-images/lithuania-kruonis-pumped-storage-economic-v2.webp"
     image: "/poi-images/lithuania-kruonis-pumped-storage-economic-v2.webp"},
   {
     id: "lithuania-ignalina-nuclear-plant-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Kernkraftwerk Ignalina", hu: "Ignalinai atomerőmű", ro: "Centrala Nucleară Ignalina", en: "Ignalina Nuclear Power Plant",
 image: "/poi-images/lithuania-ignalina-nuclear-plant-economic-v2.webp"
@@ -147,6 +153,7 @@ image: "/poi-images/lithuania-ignalina-nuclear-plant-economic-v2.webp"
     image: "/poi-images/lithuania-ignalina-nuclear-plant-economic-v2.webp"},
   {
     id: "lithuania-kaunas-fez-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Freie Wirtschaftszone Kaunas", hu: "Kaunasi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Kaunas", en: "Kaunas Free Economic Zone",
 image: "/poi-images/lithuania-kaunas-fez-economic-v2.webp"
@@ -169,6 +176,7 @@ image: "/poi-images/lithuania-kaunas-fez-economic-v2.webp"
     image: "/poi-images/lithuania-kaunas-fez-economic-v2.webp"},
   {
     id: "lithuania-vilnius-cbd-economic-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Geschäftsviertel Vilnius", hu: "Vilniusi üzleti negyed", ro: "Cartierul de afaceri din Vilnius", en: "Vilnius Business District",
 image: "/poi-images/lithuania-vilnius-cbd-economic-v2.webp"
@@ -203,6 +211,7 @@ image: "/poi-images/lithuania-vilnius-cbd-economic-v2.webp"
   },
   {
     id: "lithuania-akropolis-vilnius-economic-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Akropolis Vilnius", hu: "Vilniusi Akropolis", ro: "Akropolis Vilnius", en: "Akropolis Vilnius",
 image: "/poi-images/lithuania-akropolis-vilnius-economic-v2.webp"
@@ -225,6 +234,7 @@ image: "/poi-images/lithuania-akropolis-vilnius-economic-v2.webp"
     image: "/poi-images/lithuania-akropolis-vilnius-economic-v2.webp"},
   {
     id: "lithuania-siauliai-industrial-park-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Industriepark Šiauliai", hu: "Šiauliai Ipari Park", ro: "Parcul Industrial Šiauliai", en: "Šiauliai Industrial Park",
 image: "/poi-images/lithuania-siauliai-industrial-park-economic-v2.webp"
@@ -259,6 +269,7 @@ image: "/poi-images/lithuania-siauliai-industrial-park-economic-v2.webp"
   },
   {
     id: "lithuania-panevezys-fez-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Freie Wirtschaftszone Panevėžys", hu: "Panevėžysi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Panevėžys", en: "Panevėžys Free Economic Zone",
 image: "/poi-images/lithuania-panevezys-fez-economic-v2.webp"
@@ -281,6 +292,7 @@ image: "/poi-images/lithuania-panevezys-fez-economic-v2.webp"
     image: "/poi-images/lithuania-panevezys-fez-economic-v2.webp"},
   {
     id: "lithuania-marijampole-fez-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Freie Wirtschaftszone Marijampolė", hu: "Marijampolėi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Marijampolė", en: "Marijampolė Free Economic Zone",
 image: "/poi-images/lithuania-marijampole-fez-economic-v2.webp"
@@ -303,6 +315,7 @@ image: "/poi-images/lithuania-marijampole-fez-economic-v2.webp"
     image: "/poi-images/lithuania-marijampole-fez-economic-v2.webp"},
   {
     id: "lithuania-giraite-factory-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Munitionsfabrik Giraitė", hu: "Giraitėi lőszergyár", ro: "Fabrica de muniție Giraitė", en: "Giraitė Armament Factory",
 image: "/poi-images/lithuania-giraite-factory-economic-v2.webp"
@@ -325,6 +338,7 @@ image: "/poi-images/lithuania-giraite-factory-economic-v2.webp"
     image: "/poi-images/lithuania-giraite-factory-economic-v2.webp"},
   {
     id: "lithuania-vaidotai-railway-hub-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Eisenbahnknoten Vaidotai", hu: "Vaidotai vasúti csomópont", ro: "Nodul feroviar Vaidotai", en: "Vaidotai Railway Hub",
 image: "/poi-images/lithuania-vaidotai-railway-hub-economic-v2.webp"
@@ -347,6 +361,7 @@ image: "/poi-images/lithuania-vaidotai-railway-hub-economic-v2.webp"
     image: "/poi-images/lithuania-vaidotai-railway-hub-economic-v2.webp"},
   {
     id: "lithuania-pieno-zvaigzdes-telsiai-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Pieno Žvaigždės Molkerei Telšiai", hu: "Pieno Žvaigždės tejüzem, Telšiai", ro: "Fabrica de lactate Pieno Žvaigždės Telšiai", en: "Pieno Žvaigždės Telšiai Plant",
 image: "/poi-images/lithuania-pieno-zvaigzdes-telsiai-economic-v2.webp"
@@ -369,6 +384,7 @@ image: "/poi-images/lithuania-pieno-zvaigzdes-telsiai-economic-v2.webp"
     image: "/poi-images/lithuania-pieno-zvaigzdes-telsiai-economic-v2.webp"},
   {
     id: "lithuania-rokiskis-suris-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Rokiškis Sūris Molkerei", hu: "Rokiškis Sūris tejgyár", ro: "Fabrica de lactate Rokiškis Sūris", en: "Rokiškis Sūris Dairy",
 image: "/poi-images/lithuania-rokiskis-suris-economic-v2.webp"
@@ -391,6 +407,7 @@ image: "/poi-images/lithuania-rokiskis-suris-economic-v2.webp"
     image: "/poi-images/lithuania-rokiskis-suris-economic-v2.webp"},
   {
     id: "lithuania-utena-beer-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Brauerei Utenos Alus", hu: "Utenos Alus sörgyár", ro: "Berăria Utenos Alus", en: "Utenos Alus Brewery",
 image: "/poi-images/lithuania-utena-beer-economic-v2.webp"
@@ -413,6 +430,7 @@ image: "/poi-images/lithuania-utena-beer-economic-v2.webp"
     image: "/poi-images/lithuania-utena-beer-economic-v2.webp"},
   {
     id: "lithuania-visaginas-solar-park-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Solarpark Visaginas", hu: "Visaginasi napelem park", ro: "Parcul solar Visaginas", en: "Visaginas Solar Park",
 image: "/poi-images/lithuania-visaginas-solar-park-economic-v2.webp"
@@ -435,6 +453,7 @@ image: "/poi-images/lithuania-visaginas-solar-park-economic-v2.webp"
     image: "/poi-images/lithuania-visaginas-solar-park-economic-v2.webp"},
   {
     id: "lithuania-butinge-terminal-economic-v2",
+    parent: "LT",
     type: "port",
     name: { de: "Ölterminal Būtingė", hu: "Būtingėi olajterminál", ro: "Terminalul petrolier Būtingė", en: "Būtingė Oil Terminal",
 image: "/poi-images/lithuania-butinge-terminal-economic-v2.webp"
@@ -457,6 +476,7 @@ image: "/poi-images/lithuania-butinge-terminal-economic-v2.webp"
     image: "/poi-images/lithuania-butinge-terminal-economic-v2.webp"},
   {
     id: "lithuania-klaipeda-lng-economic-v2",
+    parent: "LT",
     type: "port",
     name: { de: "LNG-Terminal Klaipėda", hu: "Klaipėdai LNG-terminál", ro: "Terminalul GNL Klaipėda", en: "Klaipėda LNG Terminal",
 image: "/poi-images/lithuania-klaipeda-lng-economic-v2.webp"
@@ -491,6 +511,7 @@ image: "/poi-images/lithuania-klaipeda-lng-economic-v2.webp"
   },
   {
     id: "lithuania-alytus-refrigerator-plant-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Snaigė Kühlschrankwerk Alytus", hu: "Snaigė hűtőgépgyár, Alytus", ro: "Fabrica de frigidere Snaigė Alytus", en: "Snaigė Refrigerator Plant Alytus",
 image: "/poi-images/lithuania-alytus-refrigerator-plant-economic-v2.webp"
@@ -513,6 +534,7 @@ image: "/poi-images/lithuania-alytus-refrigerator-plant-economic-v2.webp"
     image: "/poi-images/lithuania-alytus-refrigerator-plant-economic-v2.webp"},
   {
     id: "lithuania-kaunas-intermodal-terminal-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Intermodales Terminal Kaunas", hu: "Kaunasi intermodális terminál", ro: "Terminalul intermodal Kaunas", en: "Kaunas Intermodal Terminal",
 image: "/poi-images/lithuania-kaunas-intermodal-terminal-economic-v2.webp"
@@ -535,6 +557,7 @@ image: "/poi-images/lithuania-kaunas-intermodal-terminal-economic-v2.webp"
     image: "/poi-images/lithuania-kaunas-intermodal-terminal-economic-v2.webp"},
   {
     id: "lithuania-vilkyškiai-dairy-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Vilkyškiai Molkerei", hu: "Vilkyškiai tejgyár", ro: "Fabrica de lactate Vilkyškiai", en: "Vilkyškiai Dairy",
 image: "/poi-images/lithuania-vilkyškiai-dairy-economic-v2.webp"
@@ -557,6 +580,7 @@ image: "/poi-images/lithuania-vilkyškiai-dairy-economic-v2.webp"
     image: "/poi-images/lithuania-vilkyškiai-dairy-economic-v2.webp"},
   {
     id: "lithuania-grigeo-mill-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Grigeo Papierfabrik Grigiškės", hu: "Grigeo papírgyár, Grigiškės", ro: "Fabrica de hârtie Grigeo Grigiškės", en: "Grigeo Paper Mill Grigiškės",
 image: "/poi-images/lithuania-grigeo-mill-economic-v2.webp"
@@ -579,6 +603,7 @@ image: "/poi-images/lithuania-grigeo-mill-economic-v2.webp"
     image: "/poi-images/lithuania-grigeo-mill-economic-v2.webp"},
   {
     id: "lithuania-continental-kaunas-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Continental Werk Kaunas", hu: "Continental gyár, Kaunas", ro: "Fabrica Continental Kaunas", en: "Continental Factory Kaunas",
 image: "/poi-images/lithuania-continental-kaunas-economic-v2.webp"
@@ -601,6 +626,7 @@ image: "/poi-images/lithuania-continental-kaunas-economic-v2.webp"
     image: "/poi-images/lithuania-continental-kaunas-economic-v2.webp"},
   {
     id: "lithuania-thermo-fisher-vilnius-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Thermo Fisher Scientific Vilnius", hu: "Thermo Fisher Scientific, Vilnius", ro: "Thermo Fisher Scientific Vilnius", en: "Thermo Fisher Scientific Vilnius",
 image: "/poi-images/lithuania-thermo-fisher-vilnius-economic-v2.webp"
@@ -623,6 +649,7 @@ image: "/poi-images/lithuania-thermo-fisher-vilnius-economic-v2.webp"
     image: "/poi-images/lithuania-thermo-fisher-vilnius-economic-v2.webp"},
   {
     id: "lithuania-nordbalt-cable-economic-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "NordBalt Stromverbindung", hu: "NordBalt áramvezeték", ro: "Conexiunea electrică NordBalt", en: "NordBalt Power Connection",
 image: "/poi-images/lithuania-nordbalt-cable-economic-v2.webp"
@@ -645,6 +672,7 @@ image: "/poi-images/lithuania-nordbalt-cable-economic-v2.webp"
     image: "/poi-images/lithuania-nordbalt-cable-economic-v2.webp"},
   {
     id: "lithuania-siauliai-airport-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Flughafen Šiauliai", hu: "Šiauliai repülőtér", ro: "Aeroportul Šiauliai", en: "Šiauliai Airport",
 image: "/poi-images/lithuania-siauliai-airport-economic-v2.webp"
@@ -667,6 +695,7 @@ image: "/poi-images/lithuania-siauliai-airport-economic-v2.webp"
     image: "/poi-images/lithuania-siauliai-airport-economic-v2.webp"},
   {
     id: "lithuania-taurage-industrial-park-economic-v2",
+    parent: "LT",
     type: "industry",
     name: { de: "Industriepark Tauragė", hu: "Tauragėi Ipari Park", ro: "Parcul Industrial Tauragė", en: "Tauragė Industrial Park",
 image: "/poi-images/lithuania-taurage-industrial-park-economic-v2.webp"
@@ -701,6 +730,7 @@ image: "/poi-images/lithuania-taurage-industrial-park-economic-v2.webp"
   },
   {
     id: "lithuania-svyturys-brewery-economic-v2",
+    parent: "LT",
     type: "factory",
     name: { de: "Brauerei Švyturys Klaipėda", hu: "Švyturys sörgyár, Klaipėda", ro: "Berăria Švyturys Klaipėda", en: "Švyturys Brewery Klaipėda",
 image: "/poi-images/lithuania-svyturys-brewery-economic-v2.webp"

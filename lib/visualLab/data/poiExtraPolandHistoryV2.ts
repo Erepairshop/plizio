@@ -3,6 +3,7 @@ export const polandHistoryV2: POI[] = [
 
   {
     id: "poland-grunwald-battlefield-history-v2",
+    parent: "PL",
     type: "battlefield",
     name: { de: "Schlachtfeld von Tannenberg", hu: "Grunwaldi csatamező", ro: "Câmpul de luptă de la Grunwald", en: "Grunwald Battlefield",
 image: "/poi-images/poland-grunwald-battlefield-history-v2.webp"
@@ -36,6 +37,7 @@ image: "/poi-images/poland-grunwald-battlefield-history-v2.webp"
     }, image: "/poi-images/poland-grunwald-battlefield-history-v2.webp"},
   {
     id: "poland-biskupin-settlement-history-v2",
+    parent: "PL",
     type: "museum",
     name: { de: "Archäologisches Reservat Biskupin", hu: "Biskupini régészeti rezervátum", ro: "Rezervația Arheologică Biskupin", en: "Biskupin Archaeological Museum",
 image: "/poi-images/poland-biskupin-settlement-history-v2.webp"
@@ -69,6 +71,7 @@ image: "/poi-images/poland-biskupin-settlement-history-v2.webp"
     }, image: "/poi-images/poland-biskupin-settlement-history-v2.webp"},
   {
     id: "poland-westerplatte-history-v2",
+    parent: "PL",
     type: "monument",
     name: { de: "Westerplatte Denkmal", hu: "Westerplatte-emlékmű", ro: "Monumentul de la Westerplatte", en: "Westerplatte Memorial",
 image: "/poi-images/poland-westerplatte-history-v2.webp"
@@ -102,6 +105,7 @@ image: "/poi-images/poland-westerplatte-history-v2.webp"
     }, image: "/poi-images/poland-westerplatte-history-v2.webp"},
   {
     id: "poland-wawel-castle-history-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Königsschloss Wawel", hu: "Waweli királyi vár", ro: "Castelul Regal Wawel", en: "Wawel Royal Castle",
 image: "/poi-images/poland-wawel-castle-history-v2.webp"
@@ -135,6 +139,7 @@ image: "/poi-images/poland-wawel-castle-history-v2.webp"
     }, image: "/poi-images/poland-wawel-castle-history-v2.webp"},
   {
     id: "poland-malbork-castle-history-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Marienburg", hu: "Malborki vár", ro: "Castelul Malbork", en: "Malbork Castle",
 image: "/poi-images/poland-malbork-castle-history-v2.webp"
@@ -168,6 +173,7 @@ image: "/poi-images/poland-malbork-castle-history-v2.webp"
     }, image: "/poi-images/poland-malbork-castle-history-v2.webp"},
   {
     id: "poland-auschwitz-birkenau-history-v2",
+    parent: "PL",
     type: "museum",
     name: { de: "Auschwitz-Birkenau Denkmal", hu: "Auschwitz-Birkenau emlékhely", ro: "Memorialul Auschwitz-Birkenau", en: "Auschwitz-Birkenau Memorial",
 image: "/poi-images/poland-auschwitz-birkenau-history-v2.webp"
@@ -201,6 +207,7 @@ image: "/poi-images/poland-auschwitz-birkenau-history-v2.webp"
     }, image: "/poi-images/poland-auschwitz-birkenau-history-v2.webp"},
   {
     id: "poland-wolfs-lair-history-v2",
+    parent: "PL",
     type: "ruins",
     name: { de: "Wolfsschanze", hu: "Farkasodú", ro: "Bârlogul Lupului", en: "Wolf's Lair",
 image: "/poi-images/poland-wolfs-lair-history-v2.webp"
@@ -234,6 +241,7 @@ image: "/poi-images/poland-wolfs-lair-history-v2.webp"
     }, image: "/poi-images/poland-wolfs-lair-history-v2.webp"},
   {
     id: "poland-wilanow-palace-history-v2",
+    parent: "PL",
     type: "palace",
     name: { de: "Schloss Wilanów", hu: "Wilanówi palota", ro: "Palatul Wilanów", en: "Wilanów Palace",
 image: "/poi-images/poland-wilanow-palace-history-v2.webp"
@@ -267,6 +275,7 @@ image: "/poi-images/poland-wilanow-palace-history-v2.webp"
     }, image: "/poi-images/poland-wilanow-palace-history-v2.webp"},
   {
     id: "poland-jasna-gora-monastery-history-v2",
+    parent: "PL",
     type: "church",
     name: { de: "Kloster Jasna Góra", hu: "Jasna Góra-i kolostor", ro: "Mănăstirea Jasna Góra", en: "Jasna Góra Monastery",
 image: "/poi-images/poland-jasna-gora-monastery-history-v2.webp"
@@ -300,6 +309,7 @@ image: "/poi-images/poland-jasna-gora-monastery-history-v2.webp"
     }, image: "/poi-images/poland-jasna-gora-monastery-history-v2.webp"},
   {
     id: "poland-zamosc-old-town-history-v2",
+    parent: "PL",
     type: "town",
     name: { de: "Altstadt von Zamość", hu: "Zamość óvárosa", ro: "Orașul vechi Zamość", en: "Zamość Old Town",
 image: "/poi-images/poland-zamosc-old-town-history-v2.webp"
@@ -333,6 +343,7 @@ image: "/poi-images/poland-zamosc-old-town-history-v2.webp"
     }, image: "/poi-images/poland-zamosc-old-town-history-v2.webp"},
   {
     id: "poland-krzemionki-mines-history-v2",
+    parent: "PL",
     type: "mine",
     name: { de: "Feuersteinbergwerke Krzemionki", hu: "Krzemionki kovabánya", ro: "Minele de silex Krzemionki", en: "Krzemionki Flint Mines",
 image: "/poi-images/poland-krzemionki-mines-history-v2.webp"
@@ -366,6 +377,7 @@ image: "/poi-images/poland-krzemionki-mines-history-v2.webp"
     }, image: "/poi-images/poland-krzemionki-mines-history-v2.webp"},
   {
     id: "poland-lancut-castle-history-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Schloss Łańcut", hu: "Łańcuti kastély", ro: "Castelul Łańcut", en: "Łańcut Castle",
 image: "/poi-images/poland-lancut-castle-history-v2.webp"
@@ -399,6 +411,7 @@ image: "/poi-images/poland-lancut-castle-history-v2.webp"
     }, image: "/poi-images/poland-lancut-castle-history-v2.webp"},
   {
     id: "poland-ksiaz-castle-history-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Schloss Fürstenstein", hu: "Książ vára", ro: "Castelul Książ", en: "Książ Castle",
 image: "/poi-images/poland-ksiaz-castle-history-v2.webp"
@@ -432,6 +445,7 @@ image: "/poi-images/poland-ksiaz-castle-history-v2.webp"
     }, image: "/poi-images/poland-ksiaz-castle-history-v2.webp"},
   {
     id: "poland-ostrow-lednicki-history-v2",
+    parent: "PL",
     type: "ruins",
     name: { de: "Ostrów Lednicki", hu: "Ostrów Lednicki", ro: "Ostrów Lednicki", en: "Ostrów Lednicki",
 image: "/poi-images/poland-ostrow-lednicki-history-v2.webp"
@@ -465,6 +479,7 @@ image: "/poi-images/poland-ostrow-lednicki-history-v2.webp"
     }, image: "/poi-images/poland-ostrow-lednicki-history-v2.webp"},
   {
     id: "poland-gniezno-cathedral-history-v2",
+    parent: "PL",
     type: "cathedral",
     name: { de: "Kathedrale von Gnesen", hu: "Gnieznói székesegyház", ro: "Catedrala din Gniezno", en: "Gniezno Cathedral",
 image: "/poi-images/poland-gniezno-cathedral-history-v2.webp"
@@ -498,6 +513,7 @@ image: "/poi-images/poland-gniezno-cathedral-history-v2.webp"
     }, image: "/poi-images/poland-gniezno-cathedral-history-v2.webp"},
   {
     id: "poland-torun-old-town-history-v2",
+    parent: "PL",
     type: "town",
     name: { de: "Altstadt von Toruń", hu: "Toruń óvárosa", ro: "Orașul vechi Toruń", en: "Toruń Old Town",
 image: "/poi-images/poland-torun-old-town-history-v2.webp"
@@ -531,6 +547,7 @@ image: "/poi-images/poland-torun-old-town-history-v2.webp"
     }, image: "/poi-images/poland-torun-old-town-history-v2.webp"},
   {
     id: "poland-kazimierz-dolny-history-v2",
+    parent: "PL",
     type: "town",
     name: { de: "Kazimierz Dolny", hu: "Kazimierz Dolny", ro: "Kazimierz Dolny", en: "Kazimierz Dolny",
 image: "/poi-images/poland-kazimierz-dolny-history-v2.webp"
@@ -564,6 +581,7 @@ image: "/poi-images/poland-kazimierz-dolny-history-v2.webp"
     }, image: "/poi-images/poland-kazimierz-dolny-history-v2.webp"},
   {
     id: "poland-frombork-cathedral-history-v2",
+    parent: "PL",
     type: "cathedral",
     name: { de: "Kathedrale von Frombork", hu: "Fromborki székesegyház", ro: "Catedrala din Frombork", en: "Frombork Cathedral",
 image: "/poi-images/poland-frombork-cathedral-history-v2.webp"
@@ -597,6 +615,7 @@ image: "/poi-images/poland-frombork-cathedral-history-v2.webp"
     }, image: "/poi-images/poland-frombork-cathedral-history-v2.webp"},
   {
     id: "poland-raclawice-battlefield-history-v2",
+    parent: "PL",
     type: "battlefield",
     name: { de: "Schlachtfeld von Racławice", hu: "Racławicei csatamező", ro: "Câmpul de luptă de la Racławice", en: "Racławice Battlefield",
 image: "/poi-images/poland-raclawice-battlefield-history-v2.webp"
@@ -630,6 +649,7 @@ image: "/poi-images/poland-raclawice-battlefield-history-v2.webp"
     }, image: "/poi-images/poland-raclawice-battlefield-history-v2.webp"},
   {
     id: "poland-pszczyna-castle-history-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Schloss Pszczyna", hu: "Pszczyna-i kastély", ro: "Castelul Pszczyna", en: "Pszczyna Castle",
 image: "/poi-images/poland-pszczyna-castle-history-v2.webp"
@@ -663,6 +683,7 @@ image: "/poi-images/poland-pszczyna-castle-history-v2.webp"
     }, image: "/poi-images/poland-pszczyna-castle-history-v2.webp"},
   {
     id: "poland-kozlowka-palace-history-v2",
+    parent: "PL",
     type: "palace",
     name: { de: "Palast in Kozłówka", hu: "Kozłówkai palota", ro: "Palatul Kozłówka", en: "Kozłówka Palace",
 image: "/poi-images/poland-kozlowka-palace-history-v2.webp"
@@ -696,6 +717,7 @@ image: "/poi-images/poland-kozlowka-palace-history-v2.webp"
     }, image: "/poi-images/poland-kozlowka-palace-history-v2.webp"},
   {
     id: "poland-srebrna-gora-fortress-history-v2",
+    parent: "PL",
     type: "monument",
     name: { de: "Festung Silberberg", hu: "Ezüsthegyi erőd", ro: "Cetatea Srebrna Góra", en: "Srebrna Góra Fortress",
 image: "/poi-images/poland-srebrna-gora-fortress-history-v2.webp"
@@ -729,6 +751,7 @@ image: "/poi-images/poland-srebrna-gora-fortress-history-v2.webp"
     }, image: "/poi-images/poland-srebrna-gora-fortress-history-v2.webp"},
   {
     id: "poland-modlin-fortress-history-v2",
+    parent: "PL",
     type: "monument",
     name: { de: "Festung Modlin", hu: "Modlini erőd", ro: "Cetatea Modlin", en: "Modlin Fortress",
 image: "/poi-images/poland-modlin-fortress-history-v2.webp"
@@ -762,6 +785,7 @@ image: "/poi-images/poland-modlin-fortress-history-v2.webp"
     }, image: "/poi-images/poland-modlin-fortress-history-v2.webp"},
   {
     id: "poland-cedynia-battlefield-history-v2",
+    parent: "PL",
     type: "battlefield",
     name: { de: "Schlachtfeld von Cedynia", hu: "Cedyniai csatamező", ro: "Câmpul de luptă de la Cedynia", en: "Cedynia Battlefield",
 image: "/poi-images/poland-cedynia-battlefield-history-v2.webp"
@@ -795,6 +819,7 @@ image: "/poi-images/poland-cedynia-battlefield-history-v2.webp"
     }, image: "/poi-images/poland-cedynia-battlefield-history-v2.webp"},
   {
     id: "poland-chelmno-old-town-history-v2",
+    parent: "PL",
     type: "town",
     name: { de: "Altstadt von Chełmno", hu: "Chełmno óvárosa", ro: "Orașul vechi Chełmno", en: "Chełmno Old Town",
 image: "/poi-images/poland-chelmno-old-town-history-v2.webp"
@@ -828,6 +853,7 @@ image: "/poi-images/poland-chelmno-old-town-history-v2.webp"
     }, image: "/poi-images/poland-chelmno-old-town-history-v2.webp"},
   {
     id: "poland-tyniec-abbey-history-v2",
+    parent: "PL",
     type: "church",
     name: { de: "Abtei Tyniec", hu: "Tynieci apátság", ro: "Abația Tyniec", en: "Tyniec Abbey",
 image: "/poi-images/poland-tyniec-abbey-history-v2.webp"
@@ -861,6 +887,7 @@ image: "/poi-images/poland-tyniec-abbey-history-v2.webp"
     }, image: "/poi-images/poland-tyniec-abbey-history-v2.webp"},
   {
     id: "poland-kalwaria-zebrzydowska-history-v2",
+    parent: "PL",
     type: "park",
     name: { de: "Kalwaria Zebrzydowska", hu: "Kalwaria Zebrzydowska", ro: "Kalwaria Zebrzydowska", en: "Kalwaria Zebrzydowska",
 image: "/poi-images/poland-kalwaria-zebrzydowska-history-v2.webp"
@@ -894,6 +921,7 @@ image: "/poi-images/poland-kalwaria-zebrzydowska-history-v2.webp"
     }, image: "/poi-images/poland-kalwaria-zebrzydowska-history-v2.webp"},
   {
     id: "poland-muskau-park-history-v2",
+    parent: "PL",
     type: "park",
     name: { de: "Fürst-Pückler-Park Bad Muskau", hu: "Muskaui park", ro: "Parcul Muskau", en: "Muskau Park",
 image: "/poi-images/poland-muskau-park-history-v2.webp"

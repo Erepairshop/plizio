@@ -4,6 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraBoliviaLifeV2: POI[] = [
   {
     id: "biocentro-guembe-life-v2",
+    parent: "BO",
     description: {
       de: "Das Biocentro Güembé ist ein Naturpark in Santa Cruz mit dem weltweit größten Schmetterlingshaus und vielen Lagunen.",
       hu: "Ökológiai park és természetvédelmi terület Santa Cruz közelében, gazdag növény- és állatvilággal.",
@@ -40,6 +41,7 @@ image: "/poi-images/biocentro-guembe-life-v2.webp"
     }, image: "/poi-images/biocentro-guembe-life-v2.webp"},
   {
     id: "parque-cretacico-sucre-life-v2",
+    parent: "BO",
     description: {
       de: "Der Kreidepark in Sucre beherbergt eine der weltweit größten Sammlungen an Dinosaurier-Fußabdrücken auf einer Kalksteinwand.",
       hu: "Paleontológiai park Sucre külvárosában, ahol dinoszaurusz-lábnyomokat lehet megtekinteni.",
@@ -76,6 +78,7 @@ image: "/poi-images/parque-cretacico-sucre-life-v2.webp"
     }, image: "/poi-images/parque-cretacico-sucre-life-v2.webp"},
   {
     id: "torotoro-nationalpark-life-v2",
+    parent: "BO",
     description: {
       de: "Der Torotoro-Nationalpark ist berühmt für seine tiefen Schluchten, Höhlen und versteinerten Dinosaurierspuren.",
       hu: "Lenyűgöző nemzeti park barlangokkal, kanyonokkal és dinoszaurusz-leletekkel.",
@@ -112,6 +115,7 @@ image: "/poi-images/torotoro-nationalpark-life-v2.webp"
     }, image: "/poi-images/torotoro-nationalpark-life-v2.webp"},
   {
     id: "eduardo-avaroa-reservat-life-v2",
+    parent: "BO",
     description: {
       de: "Die Reserva Eduardo Avaroa ist bekannt für ihre surrealen Landschaften, aktiven Geysire und farbenfrohen Lagunen voller Flamingos.",
       hu: "Magashegyi természetvédelmi terület a délnyugati régióban, híres lagúnáiról és flamingóiról.",
@@ -148,6 +152,7 @@ image: "/poi-images/eduardo-avaroa-reservat-life-v2.webp"
     }, image: "/poi-images/eduardo-avaroa-reservat-life-v2.webp"},
   {
     id: "kaa-iya-nationalpark-life-v2",
+    parent: "BO",
     description: {
       de: "Der Kaa-Iya-Nationalpark im Gran Chaco ist das größte Schutzgebiet Boliviens und ein wichtiger Lebensraum für den Jaguar.",
       hu: "Bolívia egyik legnagyobb nemzeti parkja a Gran Chaco régióban, különleges állatvilággal.",

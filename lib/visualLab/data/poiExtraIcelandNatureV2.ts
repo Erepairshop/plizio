@@ -3,6 +3,7 @@ export const icelandNatureV2: POI[] = [
 
   {
     id: "iceland-gullfoss-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Gullfoss", hu: "Gullfoss", ro: "Gullfoss", en: "Gullfoss",
 image: "/poi-images/iceland-gullfoss-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Gullfoss waterfall Iceland rainbow",
     image: "/poi-images/iceland-gullfoss-nature-v2.webp",
 },  {
     id: "iceland-skogafoss-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Skógafoss", hu: "Skógafoss", ro: "Skógafoss", en: "Skógafoss",
 image: "/poi-images/iceland-skogafoss-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Skogafoss waterfall South Iceland",
     image: "/poi-images/iceland-skogafoss-nature-v2.webp",
 },  {
     id: "iceland-seljalandsfoss-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Seljalandsfoss", hu: "Seljalandsfoss", ro: "Seljalandsfoss", en: "Seljalandsfoss",
 image: "/poi-images/iceland-seljalandsfoss-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Seljalandsfoss waterfall from behind",
     image: "/poi-images/iceland-seljalandsfoss-nature-v2.webp",
 },  {
     id: "iceland-dettifoss-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Dettifoss", hu: "Dettifoss", ro: "Dettifoss", en: "Dettifoss",
 image: "/poi-images/iceland-dettifoss-nature-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Dettifoss waterfall North Iceland powerful",
     image: "/poi-images/iceland-dettifoss-nature-v2.webp",
 },  {
     id: "iceland-godafoss-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Goðafoss", hu: "Goðafoss", ro: "Goðafoss", en: "Goðafoss",
 image: "/poi-images/iceland-godafoss-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Godafoss waterfall Iceland horseshoe shape",
     image: "/poi-images/iceland-godafoss-nature-v2.webp",
 },  {
     id: "iceland-kirkjufell-nature-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Kirkjufell", hu: "Kirkjufell", ro: "Kirkjufell", en: "Kirkjufell",
 image: "/poi-images/iceland-kirkjufell-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Kirkjufell mountain Snaefellsnes peninsula",
     image: "/poi-images/iceland-kirkjufell-nature-v2.webp",
 },  {
     id: "iceland-hekla-nature-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Hekla", hu: "Hekla", ro: "Hekla", en: "Hekla",
 image: "/poi-images/iceland-hekla-nature-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Hekla volcano Iceland snowy peak",
     image: "/poi-images/iceland-hekla-nature-v2.webp",
 },  {
     id: "iceland-katla-nature-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Katla", hu: "Katla", ro: "Katla", en: "Katla",
 image: "/poi-images/iceland-katla-nature-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Katla volcano Myrdalsjokull glacier",
     image: "/poi-images/iceland-katla-nature-v2.webp",
 },  {
     id: "iceland-snaefellsjokull-nature-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Snæfellsjökull", hu: "Snæfellsjökull", ro: "Snæfellsjökull", en: "Snæfellsjökull",
 image: "/poi-images/iceland-snaefellsjokull-nature-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
     image: "/poi-images/iceland-snaefellsjokull-nature-v2.webp",
 },  {
     id: "iceland-myvatn-nature-v2",
+    parent: "IS",
     type: "lake",
     name: { de: "Mývatn", hu: "Mývatn", ro: "Mývatn", en: "Mývatn",
 image: "/poi-images/iceland-myvatn-nature-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Lake Myvatn Iceland volcanic landscape",
     image: "/poi-images/iceland-myvatn-nature-v2.webp",
 },  {
     id: "iceland-thingvallavatn-nature-v2",
+    parent: "IS",
     type: "lake",
     name: { de: "Þingvallavatn", hu: "Þingvallavatn", ro: "Þingvallavatn", en: "Þingvallavatn",
 image: "/poi-images/iceland-thingvallavatn-nature-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Thingvallavatn lake Iceland aerial view",
     image: "/poi-images/iceland-thingvallavatn-nature-v2.webp",
 },  {
     id: "iceland-jokulsarlon-nature-v2",
+    parent: "IS",
     type: "lake",
     name: { de: "Jökulsárlón", hu: "Jökulsárlón", ro: "Jökulsárlón", en: "Jökulsárlón",
 image: "/poi-images/iceland-jokulsarlon-nature-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Jokulsarlon glacier lagoon icebergs",
     image: "/poi-images/iceland-jokulsarlon-nature-v2.webp",
 },  {
     id: "iceland-reynisfjara-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Reynisfjara", hu: "Reynisfjara", ro: "Reynisfjara", en: "Reynisfjara",
 image: "/poi-images/iceland-reynisfjara-nature-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Reynisfjara black sand beach basalt columns",
     image: "/poi-images/iceland-reynisfjara-nature-v2.webp",
 },  {
     id: "iceland-dyrholaey-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Dyrhólaey", hu: "Dyrhólaey", ro: "Dyrhólaey", en: "Dyrhólaey",
 image: "/poi-images/iceland-dyrholaey-nature-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Dyrholaey rock arch puffins Iceland",
     image: "/poi-images/iceland-dyrholaey-nature-v2.webp",
 },  {
     id: "iceland-landmannalaugar-nature-v2",
+    parent: "IS",
     type: "valley",
     name: { de: "Landmannalaugar", hu: "Landmannalaugar", ro: "Landmannalaugar", en: "Landmannalaugar",
 image: "/poi-images/iceland-landmannalaugar-nature-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Landmannalaugar colorful rhyolite mountains",
     image: "/poi-images/iceland-landmannalaugar-nature-v2.webp",
 },  {
     id: "iceland-asbyrgi-nature-v2",
+    parent: "IS",
     type: "valley",
     name: { de: "Ásbyrgi", hu: "Ásbyrgi", ro: "Ásbyrgi", en: "Ásbyrgi",
 image: "/poi-images/iceland-asbyrgi-nature-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Asbyrgi canyon horseshoe shape aerial",
     image: "/poi-images/iceland-asbyrgi-nature-v2.webp",
 },  {
     id: "iceland-fjadrargljufur-nature-v2",
+    parent: "IS",
     type: "valley",
     name: { de: "Fjaðrárgljúfur", hu: "Fjaðrárgljúfur", ro: "Fjaðrárgljúfur", en: "Fjaðrárgljúfur",
 image: "/poi-images/iceland-fjadrargljufur-nature-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Fjadrargljufur canyon Iceland green cliffs",
     image: "/poi-images/iceland-fjadrargljufur-nature-v2.webp",
 },  {
     id: "iceland-askja-nature-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Askja", hu: "Askja", ro: "Askja", en: "Askja",
 image: "/poi-images/iceland-askja-nature-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Askja caldera Viti crater blue water",
     image: "/poi-images/iceland-askja-nature-v2.webp",
 },  {
     id: "iceland-krafla-nature-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Krafla", hu: "Krafla", ro: "Krafla", en: "Krafla",
 image: "/poi-images/iceland-krafla-nature-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Krafla Viti crater lake North Iceland",
     image: "/poi-images/iceland-krafla-nature-v2.webp",
 },  {
     id: "iceland-dynjandi-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Dynjandi", hu: "Dynjandi", ro: "Dynjandi", en: "Dynjandi",
 image: "/poi-images/iceland-dynjandi-nature-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Dynjandi waterfall Westfjords fan shape",
     image: "/poi-images/iceland-dynjandi-nature-v2.webp",
 },  {
     id: "iceland-glymur-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Glymur", hu: "Glymur", ro: "Glymur", en: "Glymur",
 image: "/poi-images/iceland-glymur-nature-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Glymur waterfall Iceland high canyon",
     image: "/poi-images/iceland-glymur-nature-v2.webp",
 },  {
     id: "iceland-svartifoss-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Svartifoss", hu: "Svartifoss", ro: "Svartifoss", en: "Svartifoss",
 image: "/poi-images/iceland-svartifoss-nature-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Svartifoss waterfall basalt columns black",
     image: "/poi-images/iceland-svartifoss-nature-v2.webp",
 },  {
     id: "iceland-eldgja-nature-v2",
+    parent: "IS",
     type: "valley",
     name: { de: "Eldgjá", hu: "Eldgjá", ro: "Eldgjá", en: "Eldgjá",
 image: "/poi-images/iceland-eldgja-nature-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Eldgja canyon volcanic fissure Iceland",
     image: "/poi-images/iceland-eldgja-nature-v2.webp",
 },  {
     id: "iceland-heimaey-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Heimaey", hu: "Heimaey", ro: "Heimaey", en: "Heimaey",
 image: "/poi-images/iceland-heimaey-nature-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Heimaey island Eldfell volcano puffins",
     image: "/poi-images/iceland-heimaey-nature-v2.webp",
 },  {
     id: "iceland-surtsey-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Surtsey", hu: "Surtsey", ro: "Surtsey", en: "Surtsey",
 image: "/poi-images/iceland-surtsey-nature-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Surtsey island volcanic eruption 1963",
     image: "/poi-images/iceland-surtsey-nature-v2.webp",
 },  {
     id: "iceland-grimsey-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Grímsey", hu: "Grímsey", ro: "Grímsey", en: "Grímsey",
 image: "/poi-images/iceland-grimsey-nature-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Grimsey island Arctic Circle marker",
     image: "/poi-images/iceland-grimsey-nature-v2.webp",
 },  {
     id: "iceland-hornbjarg-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Hornbjarg", hu: "Hornbjarg", ro: "Hornbjarg", en: "Hornbjarg",
 image: "/poi-images/iceland-hornbjarg-nature-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Hornbjarg sea cliffs Westfjords Iceland",
     image: "/poi-images/iceland-hornbjarg-nature-v2.webp",
 },  {
     id: "iceland-raudasandur-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Rauðasandur", hu: "Rauðasandur", ro: "Rauðasandur", en: "Rauðasandur",
 image: "/poi-images/iceland-raudasandur-nature-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Raudasandur red sand beach Westfjords",
     image: "/poi-images/iceland-raudasandur-nature-v2.webp",
 },  {
     id: "iceland-lakagigar-nature-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Lakagígar", hu: "Lakagígar", ro: "Lakagígar", en: "Lakagígar",
 image: "/poi-images/iceland-lakagigar-nature-v2.webp"

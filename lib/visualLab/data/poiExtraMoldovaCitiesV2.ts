@@ -3,6 +3,7 @@ export const moldovaCitiesV2: POI[] = [
 
   {
     id: "moldova-balti-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Bălți", hu: "Bălți", ro: "Bălți", en: "Bălți",
 image: "/poi-images/moldova-balti-cities-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/moldova-balti-cities-v2.webp"
   },
   {
     id: "moldova-bender-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Bender", hu: "Bender", ro: "Bender", en: "Bender",
 image: "/poi-images/moldova-bender-cities-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/moldova-bender-cities-v2.webp"
   },
   {
     id: "moldova-ribnita-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Rîbnița", hu: "Rîbnița", ro: "Rîbnița", en: "Rîbnița",
 image: "/poi-images/moldova-ribnita-cities-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/moldova-ribnita-cities-v2.webp"
   },
   {
     id: "moldova-cahul-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Cahul", hu: "Cahul", ro: "Cahul", en: "Cahul",
 image: "/poi-images/moldova-cahul-cities-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/moldova-cahul-cities-v2.webp"
   },
   {
     id: "moldova-ungheni-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Ungheni", hu: "Ungheni", ro: "Ungheni", en: "Ungheni",
 image: "/poi-images/moldova-ungheni-cities-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/moldova-ungheni-cities-v2.webp"
   },
   {
     id: "moldova-soroca-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Soroca", hu: "Soroca", ro: "Soroca", en: "Soroca",
 image: "/poi-images/moldova-soroca-cities-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/moldova-soroca-cities-v2.webp"
   },
   {
     id: "moldova-dubasari-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Dubăsari", hu: "Dubăsari", ro: "Dubăsari", en: "Dubăsari",
 image: "/poi-images/moldova-dubasari-cities-v2.webp"
@@ -248,6 +255,7 @@ image: "/poi-images/moldova-dubasari-cities-v2.webp"
   },
   {
     id: "moldova-comrat-cities-v2",
+    parent: "MD",
     type: "capital",
     name: { de: "Comrat", hu: "Komrát", ro: "Comrat", en: "Comrat",
 image: "/poi-images/moldova-comrat-cities-v2.webp"
@@ -283,6 +291,7 @@ image: "/poi-images/moldova-comrat-cities-v2.webp"
   },
   {
     id: "moldova-edinet-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Edineț", hu: "Edineț", ro: "Edineț", en: "Edineț",
 image: "/poi-images/moldova-edinet-cities-v2.webp"
@@ -318,6 +327,7 @@ image: "/poi-images/moldova-edinet-cities-v2.webp"
   },
   {
     id: "moldova-causeni-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Căușeni", hu: "Căușeni", ro: "Căușeni", en: "Căușeni",
 image: "/poi-images/moldova-causeni-cities-v2.webp"
@@ -353,6 +363,7 @@ image: "/poi-images/moldova-causeni-cities-v2.webp"
   },
   {
     id: "moldova-taraclia-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Taraclia", hu: "Taraclia", ro: "Taraclia", en: "Taraclia",
 image: "/poi-images/moldova-taraclia-cities-v2.webp"
@@ -388,6 +399,7 @@ image: "/poi-images/moldova-taraclia-cities-v2.webp"
   },
   {
     id: "moldova-durlesti-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Durlești", hu: "Durlești", ro: "Durlești", en: "Durlești",
 image: "/poi-images/moldova-durlesti-cities-v2.webp"
@@ -423,6 +435,7 @@ image: "/poi-images/moldova-durlesti-cities-v2.webp"
   },
   {
     id: "moldova-falesti-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Fălești", hu: "Fălești", ro: "Fălești", en: "Fălești",
 image: "/poi-images/moldova-falesti-cities-v2.webp"
@@ -458,6 +471,7 @@ image: "/poi-images/moldova-falesti-cities-v2.webp"
   },
   {
     id: "moldova-hincesti-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Hîncești", hu: "Hîncești", ro: "Hîncești", en: "Hîncești",
 image: "/poi-images/moldova-hincesti-cities-v2.webp"
@@ -493,6 +507,7 @@ image: "/poi-images/moldova-hincesti-cities-v2.webp"
   },
   {
     id: "moldova-vulcanesti-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Vulcănești", hu: "Vulcănești", ro: "Vulcănești", en: "Vulcănești",
 image: "/poi-images/moldova-vulcanesti-cities-v2.webp"
@@ -528,6 +543,7 @@ image: "/poi-images/moldova-vulcanesti-cities-v2.webp"
   },
   {
     id: "moldova-ceadir-lunga-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Ceadîr-Lunga", hu: "Ceadîr-Lunga", ro: "Ceadîr-Lunga", en: "Ceadîr-Lunga",
 image: "/poi-images/moldova-ceadir-lunga-cities-v2.webp"
@@ -563,6 +579,7 @@ image: "/poi-images/moldova-ceadir-lunga-cities-v2.webp"
   },
   {
     id: "moldova-ialoveni-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Ialoveni", hu: "Ialoveni", ro: "Ialoveni", en: "Ialoveni",
 image: "/poi-images/moldova-ialoveni-cities-v2.webp"
@@ -598,6 +615,7 @@ image: "/poi-images/moldova-ialoveni-cities-v2.webp"
   },
   {
     id: "moldova-singerei-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Sîngerei", hu: "Sîngerei", ro: "Sîngerei", en: "Sîngerei",
 image: "/poi-images/moldova-singerei-cities-v2.webp"
@@ -633,6 +651,7 @@ image: "/poi-images/moldova-singerei-cities-v2.webp"
   },
   {
     id: "moldova-ocnita-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Ocnița", hu: "Ocnița", ro: "Ocnița", en: "Ocnița",
 image: "/poi-images/moldova-ocnita-cities-v2.webp"
@@ -668,6 +687,7 @@ image: "/poi-images/moldova-ocnita-cities-v2.webp"
   },
   {
     id: "moldova-briceni-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Briceni", hu: "Briceni", ro: "Briceni", en: "Briceni",
 image: "/poi-images/moldova-briceni-cities-v2.webp"
@@ -703,6 +723,7 @@ image: "/poi-images/moldova-briceni-cities-v2.webp"
   },
   {
     id: "moldova-drochia-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Drochia", hu: "Drochia", ro: "Drochia", en: "Drochia",
 image: "/poi-images/moldova-drochia-cities-v2.webp"
@@ -738,6 +759,7 @@ image: "/poi-images/moldova-drochia-cities-v2.webp"
   },
   {
     id: "moldova-stefan-voda-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Ștefan Vodă", hu: "Ștefan Vodă", ro: "Ștefan Vodă", en: "Ștefan Vodă",
 image: "/poi-images/moldova-stefan-voda-cities-v2.webp"
@@ -773,6 +795,7 @@ image: "/poi-images/moldova-stefan-voda-cities-v2.webp"
   },
   {
     id: "moldova-rezina-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Rezina", hu: "Rezina", ro: "Rezina", en: "Rezina",
 image: "/poi-images/moldova-rezina-cities-v2.webp"
@@ -808,6 +831,7 @@ image: "/poi-images/moldova-rezina-cities-v2.webp"
   },
   {
     id: "moldova-glodeni-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Glodeni", hu: "Glodeni", ro: "Glodeni", en: "Glodeni",
 image: "/poi-images/moldova-glodeni-cities-v2.webp"
@@ -843,6 +867,7 @@ image: "/poi-images/moldova-glodeni-cities-v2.webp"
   },
   {
     id: "moldova-riscani-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Rîșcani", hu: "Rîșcani", ro: "Rîșcani", en: "Rîșcani",
 image: "/poi-images/moldova-riscani-cities-v2.webp"
@@ -878,6 +903,7 @@ image: "/poi-images/moldova-riscani-cities-v2.webp"
   },
   {
     id: "moldova-cantemir-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Cantemir", hu: "Cantemir", ro: "Cantemir", en: "Cantemir",
 image: "/poi-images/moldova-cantemir-cities-v2.webp"
@@ -913,6 +939,7 @@ image: "/poi-images/moldova-cantemir-cities-v2.webp"
   },
   {
     id: "moldova-basarabeasca-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Basarabeasca", hu: "Basarabeasca", ro: "Basarabeasca", en: "Basarabeasca",
 image: "/poi-images/moldova-basarabeasca-cities-v2.webp"
@@ -948,6 +975,7 @@ image: "/poi-images/moldova-basarabeasca-cities-v2.webp"
   },
   {
     id: "moldova-cimislia-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Cimișlia", hu: "Cimișlia", ro: "Cimișlia", en: "Cimișlia",
 image: "/poi-images/moldova-cimislia-cities-v2.webp"
@@ -983,6 +1011,7 @@ image: "/poi-images/moldova-cimislia-cities-v2.webp"
   },
   {
     id: "moldova-leova-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Leova", hu: "Leova", ro: "Leova", en: "Leova",
 image: "/poi-images/moldova-leova-cities-v2.webp"
@@ -1018,6 +1047,7 @@ image: "/poi-images/moldova-leova-cities-v2.webp"
   },
   {
     id: "moldova-nisporeni-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Nisporeni", hu: "Nisporeni", ro: "Nisporeni", en: "Nisporeni",
 image: "/poi-images/moldova-nisporeni-cities-v2.webp"
@@ -1053,6 +1083,7 @@ image: "/poi-images/moldova-nisporeni-cities-v2.webp"
   },
   {
     id: "moldova-grigoriopol-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Grigoriopol", hu: "Grigoriopol", ro: "Grigoriopol", en: "Grigoriopol",
 image: "/poi-images/moldova-grigoriopol-cities-v2.webp"
@@ -1075,6 +1106,7 @@ image: "/poi-images/moldova-grigoriopol-cities-v2.webp"
     image: "/poi-images/moldova-grigoriopol-cities-v2.webp"},
   {
     id: "moldova-camenca-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Camenca", hu: "Camenca", ro: "Camenca", en: "Camenca",
 image: "/poi-images/moldova-camenca-cities-v2.webp"
@@ -1097,6 +1129,7 @@ image: "/poi-images/moldova-camenca-cities-v2.webp"
     image: "/poi-images/moldova-camenca-cities-v2.webp"},
   {
     id: "moldova-slobozia-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Slobozia", hu: "Slobozia", ro: "Slobozia", en: "Slobozia",
 image: "/poi-images/moldova-slobozia-cities-v2.webp"
@@ -1119,6 +1152,7 @@ image: "/poi-images/moldova-slobozia-cities-v2.webp"
     image: "/poi-images/moldova-slobozia-cities-v2.webp"},
   {
     id: "moldova-dnestrovsc-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Dnestrovsc", hu: "Dnestrovsc", ro: "Dnestrovsc", en: "Dnestrovsc",
 image: "/poi-images/moldova-dnestrovsc-cities-v2.webp"
@@ -1141,6 +1175,7 @@ image: "/poi-images/moldova-dnestrovsc-cities-v2.webp"
     image: "/poi-images/moldova-dnestrovsc-cities-v2.webp"},
   {
     id: "moldova-codru-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Codru", hu: "Codru", ro: "Codru", en: "Codru",
 image: "/poi-images/moldova-codru-cities-v2.webp"
@@ -1163,6 +1198,7 @@ image: "/poi-images/moldova-codru-cities-v2.webp"
     image: "/poi-images/moldova-codru-cities-v2.webp"},
   {
     id: "moldova-cricova-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Cricova", hu: "Krikova", ro: "Cricova", en: "Cricova",
 image: "/poi-images/moldova-cricova-cities-v2.webp"
@@ -1185,6 +1221,7 @@ image: "/poi-images/moldova-cricova-cities-v2.webp"
     image: "/poi-images/moldova-cricova-cities-v2.webp"},
   {
     id: "moldova-cupcini-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Cupcini", hu: "Cupcini", ro: "Cupcini", en: "Cupcini",
 image: "/poi-images/moldova-cupcini-cities-v2.webp"
@@ -1207,6 +1244,7 @@ image: "/poi-images/moldova-cupcini-cities-v2.webp"
     image: "/poi-images/moldova-cupcini-cities-v2.webp"},
   {
     id: "moldova-otaci-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Otaci", hu: "Otaci", ro: "Otaci", en: "Otaci",
 image: "/poi-images/moldova-otaci-cities-v2.webp"
@@ -1229,6 +1267,7 @@ image: "/poi-images/moldova-otaci-cities-v2.webp"
     image: "/poi-images/moldova-otaci-cities-v2.webp"},
   {
     id: "moldova-costesti-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Costești", hu: "Costești", ro: "Costești", en: "Costești",
 image: "/poi-images/moldova-costesti-cities-v2.webp"
@@ -1251,6 +1290,7 @@ image: "/poi-images/moldova-costesti-cities-v2.webp"
     image: "/poi-images/moldova-costesti-cities-v2.webp"},
   {
     id: "moldova-biruinta-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Biruința", hu: "Biruința", ro: "Biruința", en: "Biruința",
 image: "/poi-images/moldova-biruinta-cities-v2.webp"
@@ -1273,6 +1313,7 @@ image: "/poi-images/moldova-biruinta-cities-v2.webp"
     image: "/poi-images/moldova-biruinta-cities-v2.webp"},
   {
     id: "moldova-cornesti-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Cornești", hu: "Cornești", ro: "Cornești", en: "Cornești",
 image: "/poi-images/moldova-cornesti-cities-v2.webp"
@@ -1295,6 +1336,7 @@ image: "/poi-images/moldova-cornesti-cities-v2.webp"
     image: "/poi-images/moldova-cornesti-cities-v2.webp"},
   {
     id: "moldova-crasnoe-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Crasnoe", hu: "Crasnoe", ro: "Crasnoe", en: "Crasnoe",
 image: "/poi-images/moldova-crasnoe-cities-v2.webp"
@@ -1317,6 +1359,7 @@ image: "/poi-images/moldova-crasnoe-cities-v2.webp"
     image: "/poi-images/moldova-crasnoe-cities-v2.webp"},
   {
     id: "moldova-frunza-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Frunză", hu: "Frunză", ro: "Frunză", en: "Frunză",
 image: "/poi-images/moldova-frunza-cities-v2.webp"
@@ -1339,6 +1382,7 @@ image: "/poi-images/moldova-frunza-cities-v2.webp"
     image: "/poi-images/moldova-frunza-cities-v2.webp"},
   {
     id: "moldova-ghindesti-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Ghindești", hu: "Ghindești", ro: "Ghindești", en: "Ghindești",
 image: "/poi-images/moldova-ghindesti-cities-v2.webp"
@@ -1361,6 +1405,7 @@ image: "/poi-images/moldova-ghindesti-cities-v2.webp"
     image: "/poi-images/moldova-ghindesti-cities-v2.webp"},
   {
     id: "moldova-iargara-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Iargara", hu: "Iargara", ro: "Iargara", en: "Iargara",
 image: "/poi-images/moldova-iargara-cities-v2.webp"
@@ -1383,6 +1428,7 @@ image: "/poi-images/moldova-iargara-cities-v2.webp"
     image: "/poi-images/moldova-iargara-cities-v2.webp"},
   {
     id: "moldova-maiac-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Maiac", hu: "Maiac", ro: "Maiac", en: "Maiac",
 image: "/poi-images/moldova-maiac-cities-v2.webp"
@@ -1405,6 +1451,7 @@ image: "/poi-images/moldova-maiac-cities-v2.webp"
     image: "/poi-images/moldova-maiac-cities-v2.webp"},
   {
     id: "moldova-marculesti-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Mărculești", hu: "Mărculești", ro: "Mărculești", en: "Mărculești",
 image: "/poi-images/moldova-marculesti-cities-v2.webp"
@@ -1427,6 +1474,7 @@ image: "/poi-images/moldova-marculesti-cities-v2.webp"
     image: "/poi-images/moldova-marculesti-cities-v2.webp"},
   {
     id: "moldova-lipcani-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Lipcani", hu: "Lipcani", ro: "Lipcani", en: "Lipcani",
 image: "/poi-images/moldova-lipcani-cities-v2.webp"
@@ -1449,6 +1497,7 @@ image: "/poi-images/moldova-lipcani-cities-v2.webp"
     image: "/poi-images/moldova-lipcani-cities-v2.webp"},
   {
     id: "moldova-bucovat-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Bucovăț", hu: "Bucovăț", ro: "Bucovăț", en: "Bucovăț",
 image: "/poi-images/moldova-bucovat-cities-v2.webp"
@@ -1471,6 +1520,7 @@ image: "/poi-images/moldova-bucovat-cities-v2.webp"
     image: "/poi-images/moldova-bucovat-cities-v2.webp"},
   {
     id: "moldova-tvardita-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Tvardița", hu: "Tvardița", ro: "Tvardița", en: "Tvardița",
 image: "/poi-images/moldova-tvardita-cities-v2.webp"
@@ -1493,6 +1543,7 @@ image: "/poi-images/moldova-tvardita-cities-v2.webp"
     image: "/poi-images/moldova-tvardita-cities-v2.webp"},
   {
     id: "moldova-vadul-lui-voda-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Vadul lui Vodă", hu: "Vadul lui Vodă", ro: "Vadul lui Vodă", en: "Vadul lui Vodă",
 image: "/poi-images/moldova-vadul-lui-voda-cities-v2.webp"
@@ -1516,6 +1567,7 @@ image: "/poi-images/moldova-vadul-lui-voda-cities-v2.webp"
 ,
   {
     id: "moldova-calarasi-cities-v2",
+    parent: "MD",
     type: "city",
     name: { de: "Călărași", hu: "Călărași", ro: "Călărași", en: "Călărași",
 image: "/poi-images/moldova-calarasi-cities-v2.webp"

@@ -3,6 +3,7 @@ export const belarusEconomicV2: POI[] = [
 
   {
     id: "belarus-minsk-tractor-works-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Minsker Traktorenwerk (MTZ)", hu: "Minszki Traktorgyár (MTZ)", ro: "Uzina de Tractoare din Minsk (MTZ)", en: "Minsk Tractor Works (MTZ)",
 image: "/poi-images/belarus-minsk-tractor-works-economic-v2.webp"
@@ -36,6 +37,7 @@ image: "/poi-images/belarus-minsk-tractor-works-economic-v2.webp"
     }, image: "/poi-images/belarus-minsk-tractor-works-economic-v2.webp"},
   {
     id: "belarus-belaz-zhodino-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "BelAZ-Werk Shodsina", hu: "BelAZ-gyár, Zsogyino", ro: "Uzina BelAZ din Jodino", en: "BelAZ Plant Zhodino",
 image: "/poi-images/belarus-belaz-zhodino-economic-v2.webp"
@@ -69,6 +71,7 @@ image: "/poi-images/belarus-belaz-zhodino-economic-v2.webp"
     }, image: "/poi-images/belarus-belaz-zhodino-economic-v2.webp"},
   {
     id: "belarus-maz-minsk-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Minsker Automobilwerk (MAZ)", hu: "Minszki Autógyár (MAZ)", ro: "Uzina de Automobile din Minsk (MAZ)", en: "Minsk Automobile Plant (MAZ)",
 image: "/poi-images/belarus-maz-minsk-economic-v2.webp"
@@ -103,6 +106,7 @@ image: "/poi-images/belarus-maz-minsk-economic-v2.webp"
   },
   {
     id: "belarus-belaruskali-soligorsk-economic-v2",
+    parent: "BY",
     type: "mine",
     name: { de: "Belaruskali Salihorsk", hu: "Belaruskali, Szoligorszk", ro: "Belaruskali Soligorsk", en: "Belaruskali Soligorsk",
 image: "/poi-images/belarus-belaruskali-soligorsk-economic-v2.webp"
@@ -136,6 +140,7 @@ image: "/poi-images/belarus-belaruskali-soligorsk-economic-v2.webp"
     }, image: "/poi-images/belarus-belaruskali-soligorsk-economic-v2.webp"},
   {
     id: "belarus-naftan-oil-refinery-economic-v2",
+    parent: "BY",
     type: "industry",
     name: { de: "Naftan Ölraffinerie", hu: "Naftan Olajfinomító", ro: "Rafinăria de Petrol Naftan", en: "Naftan Oil Refinery",
 image: "/poi-images/belarus-naftan-oil-refinery-economic-v2.webp"
@@ -170,6 +175,7 @@ image: "/poi-images/belarus-naftan-oil-refinery-economic-v2.webp"
   },
   {
     id: "belarus-mozyr-refinery-economic-v2",
+    parent: "BY",
     type: "industry",
     name: { de: "Ölraffinerie Mosyr", hu: "Maziri Olajfinomító", ro: "Rafinăria de Petrol Mozîr", en: "Mozyr Oil Refinery",
 image: "/poi-images/belarus-mozyr-refinery-economic-v2.webp"
@@ -203,6 +209,7 @@ image: "/poi-images/belarus-mozyr-refinery-economic-v2.webp"
     }, image: "/poi-images/belarus-mozyr-refinery-economic-v2.webp"},
   {
     id: "belarus-grodno-azot-economic-v2",
+    parent: "BY",
     type: "industry",
     name: { de: "Grodno Azot", hu: "Grodno Azot", ro: "Grodno Azot", en: "Grodno Azot",
 image: "/poi-images/belarus-grodno-azot-economic-v2.webp"
@@ -236,6 +243,7 @@ image: "/poi-images/belarus-grodno-azot-economic-v2.webp"
     }, image: "/poi-images/belarus-grodno-azot-economic-v2.webp"},
   {
     id: "belarus-bmz-zhlobin-economic-v2",
+    parent: "BY",
     type: "industry",
     name: { de: "Belarussisches Stahlwerk (BMZ)", hu: "Fehérorosz Acélmű (BMZ)", ro: "Combinatul Siderurgic Belarus (BMZ)", en: "Byelorussian Steel Works (BMZ)",
 image: "/poi-images/belarus-bmz-zhlobin-economic-v2.webp"
@@ -269,6 +277,7 @@ image: "/poi-images/belarus-bmz-zhlobin-economic-v2.webp"
     }, image: "/poi-images/belarus-bmz-zhlobin-economic-v2.webp"},
   {
     id: "belarus-gomselmash-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Gomselmash", hu: "Gomselmash", ro: "Gomselmash", en: "Gomselmash",
 image: "/poi-images/belarus-gomselmash-economic-v2.webp"
@@ -302,6 +311,7 @@ image: "/poi-images/belarus-gomselmash-economic-v2.webp"
     }, image: "/poi-images/belarus-gomselmash-economic-v2.webp"},
   {
     id: "belarus-belshina-babruysk-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Belshina Babrujsk", hu: "Belshina, Babrujszk", ro: "Belshina Babruisk", en: "Belshina Babruysk",
 image: "/poi-images/belarus-belshina-babruysk-economic-v2.webp"
@@ -335,6 +345,7 @@ image: "/poi-images/belarus-belshina-babruysk-economic-v2.webp"
     }, image: "/poi-images/belarus-belshina-babruysk-economic-v2.webp"},
   {
     id: "belarus-mogilevkhimvolokno-economic-v2",
+    parent: "BY",
     type: "industry",
     name: { de: "Mogilevkhimvolokno", hu: "Mogilevkhimvolokno", ro: "Mogilevkhimvolokno", en: "Mogilevkhimvolokno",
 image: "/poi-images/belarus-mogilevkhimvolokno-economic-v2.webp"
@@ -368,6 +379,7 @@ image: "/poi-images/belarus-mogilevkhimvolokno-economic-v2.webp"
     }, image: "/poi-images/belarus-mogilevkhimvolokno-economic-v2.webp"},
   {
     id: "belarus-great-stone-industrial-park-economic-v2",
+    parent: "BY",
     type: "industry",
     name: { de: "Industriepark Great Stone", hu: "Great Stone Ipari Park", ro: "Parcul Industrial Great Stone", en: "Great Stone Industrial Park",
 image: "/poi-images/belarus-great-stone-industrial-park-economic-v2.webp"
@@ -401,6 +413,7 @@ image: "/poi-images/belarus-great-stone-industrial-park-economic-v2.webp"
     }, image: "/poi-images/belarus-great-stone-industrial-park-economic-v2.webp"},
   {
     id: "belarus-nuclear-power-plant-economic-v2",
+    parent: "BY",
     type: "industry",
     name: { de: "Kernkraftwerk Belarus", hu: "Fehérorosz Atomerőmű", ro: "Centrala Nucleară din Belarus", en: "Belarusian Nuclear Power Plant",
 image: "/poi-images/belarus-nuclear-power-plant-economic-v2.webp"
@@ -434,6 +447,7 @@ image: "/poi-images/belarus-nuclear-power-plant-economic-v2.webp"
     }, image: "/poi-images/belarus-nuclear-power-plant-economic-v2.webp"},
   {
     id: "belarus-orsha-linen-mill-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Leinenkombinat Orscha", hu: "Orsai Lenkombinát", ro: "Combinatul de In din Orșa", en: "Orsha Linen Mill",
 image: "/poi-images/belarus-orsha-linen-mill-economic-v2.webp"
@@ -467,6 +481,7 @@ image: "/poi-images/belarus-orsha-linen-mill-economic-v2.webp"
     }, image: "/poi-images/belarus-orsha-linen-mill-economic-v2.webp"},
   {
     id: "belarus-kommunarka-confectionery-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Süßwarenfabrik Kommunarka", hu: "Kommunarka Édességgyár", ro: "Fabrica de Dulciuri Kommunarka", en: "Kommunarka Confectionery",
 image: "/poi-images/belarus-kommunarka-confectionery-economic-v2.webp"
@@ -500,6 +515,7 @@ image: "/poi-images/belarus-kommunarka-confectionery-economic-v2.webp"
     }, image: "/poi-images/belarus-kommunarka-confectionery-economic-v2.webp"},
   {
     id: "belarus-spartak-confectionery-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Süßwarenfabrik Spartak", hu: "Spartak Édességgyár", ro: "Fabrica de Dulciuri Spartak", en: "Spartak Confectionery",
 image: "/poi-images/belarus-spartak-confectionery-economic-v2.webp"
@@ -533,6 +549,7 @@ image: "/poi-images/belarus-spartak-confectionery-economic-v2.webp"
     }, image: "/poi-images/belarus-spartak-confectionery-economic-v2.webp"},
   {
     id: "belarus-lukoml-power-station-economic-v2",
+    parent: "BY",
     type: "industry",
     name: { de: "Wärmekraftwerk Lukoml", hu: "Lukomli Hőerőmű", ro: "Centrala Termoelectrică Lukoml", en: "Lukoml Power Station",
 image: "/poi-images/belarus-lukoml-power-station-economic-v2.webp"
@@ -566,6 +583,7 @@ image: "/poi-images/belarus-lukoml-power-station-economic-v2.webp"
     }, image: "/poi-images/belarus-lukoml-power-station-economic-v2.webp"},
   {
     id: "belarus-granit-mikashevichi-economic-v2",
+    parent: "BY",
     type: "mine",
     name: { de: "Granit Mikaschewitschi", hu: "Granit, Mikasevicsi", ro: "Granit Mikașevici", en: "Granit Mikashevichi",
 image: "/poi-images/belarus-granit-mikashevichi-economic-v2.webp"
@@ -599,6 +617,7 @@ image: "/poi-images/belarus-granit-mikashevichi-economic-v2.webp"
     }, image: "/poi-images/belarus-granit-mikashevichi-economic-v2.webp"},
   {
     id: "belarus-integral-minsk-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Integral Minsk", hu: "Integral Minszk", ro: "Integral Minsk", en: "Integral Minsk",
 image: "/poi-images/belarus-integral-minsk-economic-v2.webp"
@@ -632,6 +651,7 @@ image: "/poi-images/belarus-integral-minsk-economic-v2.webp"
     }, image: "/poi-images/belarus-integral-minsk-economic-v2.webp"},
   {
     id: "belarus-belgee-factory-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "BelGee-Werk", hu: "BelGee-gyár", ro: "Uzina BelGee", en: "BelGee Plant",
 image: "/poi-images/belarus-belgee-factory-economic-v2.webp"
@@ -665,6 +685,7 @@ image: "/poi-images/belarus-belgee-factory-economic-v2.webp"
     }, image: "/poi-images/belarus-belgee-factory-economic-v2.webp"},
   {
     id: "belarus-borisov-medical-preparations-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Arzneimittelwerk Baryssau", hu: "Bariszavi Gyógyszergyár", ro: "Fabrica de Preparate Medicale Borisov", en: "Borisov Plant of Medical Preparations",
 image: "/poi-images/belarus-borisov-medical-preparations-economic-v2.webp"
@@ -699,6 +720,7 @@ image: "/poi-images/belarus-borisov-medical-preparations-economic-v2.webp"
   },
   {
     id: "belarus-polotsk-steklovolokno-economic-v2",
+    parent: "BY",
     type: "industry",
     name: { de: "Polozk-Steklowolokno", hu: "Polock-Sztekolovolokno", ro: "Polotsk-Steklovolokno", en: "Polotsk-Steklovolokno",
 image: "/poi-images/belarus-polotsk-steklovolokno-economic-v2.webp"
@@ -732,6 +754,7 @@ image: "/poi-images/belarus-polotsk-steklovolokno-economic-v2.webp"
     }, image: "/poi-images/belarus-polotsk-steklovolokno-economic-v2.webp"},
   {
     id: "belarus-milavitsa-minsk-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Milavitsa", hu: "Milavitsa", ro: "Milavitsa", en: "Milavitsa",
 image: "/poi-images/belarus-milavitsa-minsk-economic-v2.webp"
@@ -766,6 +789,7 @@ image: "/poi-images/belarus-milavitsa-minsk-economic-v2.webp"
   },
   {
     id: "belarus-atlant-minsk-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Atlant Minsk", hu: "Atlant Minszk", ro: "Atlant Minsk", en: "Atlant Minsk",
 image: "/poi-images/belarus-atlant-minsk-economic-v2.webp"
@@ -799,6 +823,7 @@ image: "/poi-images/belarus-atlant-minsk-economic-v2.webp"
     }, image: "/poi-images/belarus-atlant-minsk-economic-v2.webp"},
   {
     id: "belarus-horizont-minsk-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Horizont Minsk", hu: "Horizont Minszk", ro: "Horizont Minsk", en: "Horizont Minsk",
 image: "/poi-images/belarus-horizont-minsk-economic-v2.webp"
@@ -833,6 +858,7 @@ image: "/poi-images/belarus-horizont-minsk-economic-v2.webp"
   },
   {
     id: "belarus-minsk-motor-plant-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Minsker Motorenwerk (MMZ)", hu: "Minszki Motorgyár (MMZ)", ro: "Uzina de Motoare din Minsk (MMZ)", en: "Minsk Motor Plant (MMZ)",
 image: "/poi-images/belarus-minsk-motor-plant-economic-v2.webp"
@@ -866,6 +892,7 @@ image: "/poi-images/belarus-minsk-motor-plant-economic-v2.webp"
     }, image: "/poi-images/belarus-minsk-motor-plant-economic-v2.webp"},
   {
     id: "belarus-lida-paint-plant-economic-v2",
+    parent: "BY",
     type: "factory",
     name: { de: "Lack- und Farbenwerk Lida", hu: "Lidai Festékgyár", ro: "Fabrica de Vopsele Lida", en: "Lida Paint Plant",
 image: "/poi-images/belarus-lida-paint-plant-economic-v2.webp"
@@ -899,6 +926,7 @@ image: "/poi-images/belarus-lida-paint-plant-economic-v2.webp"
     }, image: "/poi-images/belarus-lida-paint-plant-economic-v2.webp"},
   {
     id: "belarus-berezovskaya-power-station-economic-v2",
+    parent: "BY",
     type: "industry",
     name: { de: "Kraftwerk Berjosowskaja", hu: "Bjerezovszkajai Erőmű", ro: "Centrala Electrică Berezovskaia", en: "Berezovskaya Power Station",
 image: "/poi-images/belarus-berezovskaya-power-station-economic-v2.webp"
@@ -932,6 +960,7 @@ image: "/poi-images/belarus-berezovskaya-power-station-economic-v2.webp"
     }, image: "/poi-images/belarus-berezovskaya-power-station-economic-v2.webp"},
   {
     id: "belarus-brest-economic-zone-economic-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Freie Wirtschaftszone Brest", hu: "Breszti Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Brest", en: "Brest Special Economic Zone",
 image: "/poi-images/belarus-brest-economic-zone-economic-v2.webp"
@@ -965,6 +994,7 @@ image: "/poi-images/belarus-brest-economic-zone-economic-v2.webp"
     }, image: "/poi-images/belarus-brest-economic-zone-economic-v2.webp"},
   {
     id: "belarus-vitebsk-economic-zone-economic-v2",
+    parent: "BY",
     type: "city",
     name: { de: "Freie Wirtschaftszone Witebsk", hu: "Vityebszki Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Vitebsk", en: "Vitebsk Special Economic Zone",
 image: "/poi-images/belarus-vitebsk-economic-zone-economic-v2.webp"

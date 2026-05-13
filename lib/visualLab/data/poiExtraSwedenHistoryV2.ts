@@ -3,6 +3,7 @@ export const swedenHistoryV2: POI[] = [
 
   {
     id: "sweden-kalmar-castle-history-v2",
+    parent: "SE",
     type: "castle",
     name: { de: "Schloss Kalmar", hu: "Kalmari vár", ro: "Castelul Kalmar", en: "Kalmar Castle",
 image: "/poi-images/sweden-kalmar-castle-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Kalmar Castle aerial view by the sea",
     image: "/poi-images/sweden-kalmar-castle-history-v2.webp",
 },  {
     id: "sweden-lacko-castle-history-v2",
+    parent: "SE",
     type: "castle",
     name: { de: "Schloss Läckö", hu: "Läckö kastély", ro: "Castelul Läckö", en: "Läckö Castle",
 image: "/poi-images/sweden-lacko-castle-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Läckö Castle on Lake Vänern",
     image: "/poi-images/sweden-lacko-castle-history-v2.webp",
 },  {
     id: "sweden-gripsholm-castle-history-v2",
+    parent: "SE",
     type: "castle",
     name: { de: "Schloss Gripsholm", hu: "Gripsholm kastély", ro: "Castelul Gripsholm", en: "Gripsholm Castle",
 image: "/poi-images/sweden-gripsholm-castle-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Gripsholm Castle red brick walls",
     image: "/poi-images/sweden-gripsholm-castle-history-v2.webp",
 },  {
     id: "sweden-skokloster-castle-history-v2",
+    parent: "SE",
     type: "castle",
     name: { de: "Schloss Skokloster", hu: "Skokloster kastély", ro: "Castelul Skokloster", en: "Skokloster Castle",
 image: "/poi-images/sweden-skokloster-castle-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Skokloster Castle Baroque architecture",
     image: "/poi-images/sweden-skokloster-castle-history-v2.webp",
 },  {
     id: "sweden-uppsala-cathedral-history-v2",
+    parent: "SE",
     type: "cathedral",
     name: { de: "Dom zu Uppsala", hu: "Uppsalai dóm", ro: "Catedrala din Uppsala", en: "Uppsala Cathedral",
 image: "/poi-images/sweden-uppsala-cathedral-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Uppsala Cathedral twin towers",
     image: "/poi-images/sweden-uppsala-cathedral-history-v2.webp",
 },  {
     id: "sweden-lund-cathedral-history-v2",
+    parent: "SE",
     type: "cathedral",
     name: { de: "Dom zu Lund", hu: "Lundi dóm", ro: "Catedrala din Lund", en: "Lund Cathedral",
 image: "/poi-images/sweden-lund-cathedral-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Lund Cathedral Romanesque facade",
     image: "/poi-images/sweden-lund-cathedral-history-v2.webp",
 },  {
     id: "sweden-birka-ruins-history-v2",
+    parent: "SE",
     type: "ruins",
     name: { de: "Birka", hu: "Birka", ro: "Birka", en: "Birka",
 image: "/poi-images/sweden-birka-ruins-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Birka Viking settlement archaeological site",
     image: "/poi-images/sweden-birka-ruins-history-v2.webp",
 },  {
     id: "sweden-gammelstad-church-town-history-v2",
+    parent: "SE",
     type: "village",
     name: { de: "Kirchendorf Gammelstad", hu: "Gammelstadi templomváros", ro: "Satul bisericesc Gammelstad", en: "Gammelstad Church Town",
 image: "/poi-images/sweden-gammelstad-church-town-history-v2.webp"
@@ -275,6 +283,7 @@ image: "/poi-images/sweden-gammelstad-church-town-history-v2.webp"
   },
   {
     id: "sweden-falun-mine-history-v2",
+    parent: "SE",
     type: "mine",
     name: { de: "Kupferbergwerk Falun", hu: "Faluni rézbánya", ro: "Mina de cupru din Falun", en: "Falun Mine",
 image: "/poi-images/sweden-falun-mine-history-v2.webp"
@@ -309,6 +318,7 @@ image: "/poi-images/sweden-falun-mine-history-v2.webp"
   },
   {
     id: "sweden-tanum-rock-carvings-history-v2",
+    parent: "SE",
     type: "ruins",
     name: { de: "Felsritzungen von Tanum", hu: "Tanumi sziklarajzok", ro: "Picturile rupestre din Tanum", en: "Tanum Rock Carvings",
 image: "/poi-images/sweden-tanum-rock-carvings-history-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Tanum rock carvings red petroglyphs",
     image: "/poi-images/sweden-tanum-rock-carvings-history-v2.webp",
 },  {
     id: "sweden-ales-stenar-history-v2",
+    parent: "SE",
     type: "monument",
     name: { de: "Ales Stenar", hu: "Ales stenar", ro: "Ales Stenar", en: "Ales Stenar",
 image: "/poi-images/sweden-ales-stenar-history-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Ales Stenar stones in ship formation",
     image: "/poi-images/sweden-ales-stenar-history-v2.webp",
 },  {
     id: "sweden-vadstena-abbey-history-v2",
+    parent: "SE",
     type: "church",
     name: { de: "Kloster Vadstena", hu: "Vadstena apátság", ro: "Abația Vadstena", en: "Vadstena Abbey",
 image: "/poi-images/sweden-vadstena-abbey-history-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Vadstena Abbey church and Vättern lake",
     image: "/poi-images/sweden-vadstena-abbey-history-v2.webp",
 },  {
     id: "sweden-anundshog-monument-history-v2",
+    parent: "SE",
     type: "monument",
     name: { de: "Anundshög", hu: "Anundshög", ro: "Anundshög", en: "Anundshög",
 image: "/poi-images/sweden-anundshog-monument-history-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Anundshög burial mound and ship settings",
     image: "/poi-images/sweden-anundshog-monument-history-v2.webp",
 },  {
     id: "sweden-gamla-uppsala-ruins-history-v2",
+    parent: "SE",
     type: "ruins",
     name: { de: "Gamla Uppsala", hu: "Gamla Uppsala", ro: "Gamla Uppsala", en: "Gamla Uppsala",
 image: "/poi-images/sweden-gamla-uppsala-ruins-history-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Gamla Uppsala burial mounds and church",
     image: "/poi-images/sweden-gamla-uppsala-ruins-history-v2.webp",
 },  {
     id: "sweden-bohus-fortress-history-v2",
+    parent: "SE",
     type: "ruins",
     name: { de: "Festung Bohus", hu: "Bohus erőd", ro: "Fortăreața Bohus", en: "Bohus Fortress",
 image: "/poi-images/sweden-bohus-fortress-history-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Bohus Fortress ruins and tower",
     image: "/poi-images/sweden-bohus-fortress-history-v2.webp",
 },  {
     id: "sweden-karlskrona-naval-port-history-v2",
+    parent: "SE",
     type: "port",
     name: { de: "Marinestützpunkt Karlskrona", hu: "Karlskrona haditengerészeti kikötő", ro: "Portul naval Karlskrona", en: "Karlskrona Naval Port",
 image: "/poi-images/sweden-karlskrona-naval-port-history-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Karlskrona naval base and lighthouse",
     image: "/poi-images/sweden-karlskrona-naval-port-history-v2.webp",
 },  {
     id: "sweden-engelsberg-ironworks-history-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "Eisenhütte Engelsberg", hu: "Engelsbergi vasmű", ro: "Topitoria Engelsberg", en: "Engelsberg Ironworks",
 image: "/poi-images/sweden-engelsberg-ironworks-history-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Engelsberg Ironworks historic industrial buildings",
     image: "/poi-images/sweden-engelsberg-ironworks-history-v2.webp",
 },  {
     id: "sweden-hallwyl-museum-history-v2",
+    parent: "SE",
     type: "museum",
     name: { de: "Hallwyl-Museum", hu: "Hallwyl Múzeum", ro: "Muzeul Hallwyl", en: "Hallwyl Museum",
 image: "/poi-images/sweden-hallwyl-museum-history-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Hallwyl Museum courtyard Stockholm",
     image: "/poi-images/sweden-hallwyl-museum-history-v2.webp",
 },  {
     id: "sweden-riddarholmen-church-history-v2",
+    parent: "SE",
     type: "church",
     name: { de: "Riddarholmskirche", hu: "Riddarholmen-templom", ro: "Biserica Riddarholmen", en: "Riddarholmen Church",
 image: "/poi-images/sweden-riddarholmen-church-history-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Riddarholmen Church cast iron spire",
     image: "/poi-images/sweden-riddarholmen-church-history-v2.webp",
 },  {
     id: "sweden-varberg-fortress-history-v2",
+    parent: "SE",
     type: "castle",
     name: { de: "Festung Varberg", hu: "Varberg erőd", ro: "Cetatea Varberg", en: "Varberg Fortress",
 image: "/poi-images/sweden-varberg-fortress-history-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Varberg Fortress walls and museum",
     image: "/poi-images/sweden-varberg-fortress-history-v2.webp",
 },  {
     id: "sweden-linkoping-cathedral-history-v2",
+    parent: "SE",
     type: "cathedral",
     name: { de: "Dom zu Linköping", hu: "Linköpingi dóm", ro: "Catedrala din Linköping", en: "Linköping Cathedral",
 image: "/poi-images/sweden-linkoping-cathedral-history-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Linköping Cathedral exterior",
     image: "/poi-images/sweden-linkoping-cathedral-history-v2.webp",
 },  {
     id: "sweden-sigtuna-ruins-history-v2",
+    parent: "SE",
     type: "ruins",
     name: { de: "Sigtuna", hu: "Sigtuna", ro: "Sigtuna", en: "Sigtuna",
 image: "/poi-images/sweden-sigtuna-ruins-history-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Sigtuna church ruins and runestone",
     image: "/poi-images/sweden-sigtuna-ruins-history-v2.webp",
 },  {
     id: "sweden-tjoloholm-castle-history-v2",
+    parent: "SE",
     type: "castle",
     name: { de: "Schloss Tjolöholm", hu: "Tjolöholm kastély", ro: "Castelul Tjolöholm", en: "Tjolöholm Castle",
 image: "/poi-images/sweden-tjoloholm-castle-history-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Tjolöholm Castle Tudor architecture",
     image: "/poi-images/sweden-tjoloholm-castle-history-v2.webp",
 },  {
     id: "sweden-orebro-castle-history-v2",
+    parent: "SE",
     type: "castle",
     name: { de: "Schloss Örebro", hu: "Örebro vára", ro: "Castelul din Örebro", en: "Örebro Castle",
 image: "/poi-images/sweden-orebro-castle-history-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Örebro Castle reflection in river",
     image: "/poi-images/sweden-orebro-castle-history-v2.webp",
 },  {
     id: "sweden-royal-palace-stockholm-history-v2",
+    parent: "SE",
     type: "palace",
     name: { de: "Königliches Schloss Stockholm", hu: "Stockholmi királyi palota", ro: "Palatul Regal din Stockholm", en: "Royal Palace (Stockholm)",
 image: "/poi-images/sweden-royal-palace-stockholm-history-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-royal-palace-stockholm-history-v2.webp",
 },  {
     id: "sweden-glimmingehus-history-v2",
+    parent: "SE",
     type: "castle",
     name: { de: "Glimmingehus", hu: "Glimmingehus", ro: "Glimmingehus", en: "Glimmingehus",
 image: "/poi-images/sweden-glimmingehus-history-v2.webp"

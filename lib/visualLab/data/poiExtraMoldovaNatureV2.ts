@@ -3,6 +3,7 @@ export const moldovaNatureV2: POI[] = [
 
   {
     id: "moldova-padurea-domneasca-reserve-nature-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Reservat Pădurea Domnească", hu: "Pădurea Domnească Rezervátum", ro: "Rezervația Pădurea Domnească", en: "Royal Forest Reserve",
 image: "/poi-images/moldova-padurea-domneasca-reserve-nature-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/moldova-padurea-domneasca-reserve-nature-v2.webp"
   },
   {
     id: "moldova-plaiul-fagului-reserve-nature-v2",
+    parent: "MD",
     type: "forest",
     name: { de: "Reservat Plaiul Fagului", hu: "Plaiul Fagului Rezervátum", ro: "Rezervația Plaiul Fagului", en: "Beech Land Reserve",
 image: "/poi-images/moldova-plaiul-fagului-reserve-nature-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/moldova-plaiul-fagului-reserve-nature-v2.webp"
   },
   {
     id: "moldova-suta-de-movile-nature-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Hundert Hügel", hu: "Száz domb vidéke", ro: "Suta de Movile", en: "Hundred Knolls",
 image: "/poi-images/moldova-suta-de-movile-nature-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/moldova-suta-de-movile-nature-v2.webp"
   },
   {
     id: "moldova-balanesti-hill-nature-v2",
+    parent: "MD",
     type: "peak",
     name: { de: "Bălănești-Hügel", hu: "Bălănești-domb", ro: "Dealul Bălănești", en: "Balanesti Hill",
 image: "/poi-images/moldova-balanesti-hill-nature-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/moldova-balanesti-hill-nature-v2.webp"
   },
   {
     id: "moldova-duruitoarea-gorge-nature-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Duruitoarea-Schlucht", hu: "Duruitoarea-szurdok", ro: "Defileul Duruitoarea", en: "Duruitoarea Gorge",
 image: "/poi-images/moldova-duruitoarea-gorge-nature-v2.webp"
@@ -177,6 +182,7 @@ image: "/poi-images/moldova-duruitoarea-gorge-nature-v2.webp"
   },
   {
     id: "moldova-nistru-river-nature-v2",
+    parent: "MD",
     type: "river",
     name: { de: "Fluss Dnjestr", hu: "Dnyeszter-folyó", ro: "Fluviul Nistru", en: "Dniester River",
 image: "/poi-images/moldova-nistru-river-nature-v2.webp"
@@ -212,6 +218,7 @@ image: "/poi-images/moldova-nistru-river-nature-v2.webp"
   },
   {
     id: "moldova-stinca-costesti-reservoir-nature-v2",
+    parent: "MD",
     type: "lake",
     name: { de: "Stausee Stînca-Costești", hu: "Stînca-Costești víztározó", ro: "Lacul de acumulare Stînca-Costești", en: "Stinca-Costesti Reservoir",
 image: "/poi-images/moldova-stinca-costesti-reservoir-nature-v2.webp"
@@ -247,6 +254,7 @@ image: "/poi-images/moldova-stinca-costesti-reservoir-nature-v2.webp"
   },
   {
     id: "moldova-naslavcea-hills-nature-v2",
+    parent: "MD",
     type: "peak",
     name: { de: "Naslavcea-Hügel", hu: "Naslavcea-dombok", ro: "Dealurile Naslavcea", en: "Naslavcea Hills",
 image: "/poi-images/moldova-naslavcea-hills-nature-v2.webp"
@@ -281,6 +289,7 @@ image: "/poi-images/moldova-naslavcea-hills-nature-v2.webp"
   },
   {
     id: "moldova-dubasari-reservoir-nature-v2",
+    parent: "MD",
     type: "lake",
     name: { de: "Dubăsari-Stausee", hu: "Dubăsari-víztározó", ro: "Lacul de acumulare Dubăsari", en: "Dubasari Reservoir",
 image: "/poi-images/moldova-dubasari-reservoir-nature-v2.webp"
@@ -316,6 +325,7 @@ image: "/poi-images/moldova-dubasari-reservoir-nature-v2.webp"
   },
   {
     id: "moldova-trebujeni-gorge-nature-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Schlucht von Trebujeni", hu: "Trebujeni-szurdok", ro: "Defileul Trebujeni", en: "Trebujeni Gorge",
 image: "/poi-images/moldova-trebujeni-gorge-nature-v2.webp"
@@ -351,6 +361,7 @@ image: "/poi-images/moldova-trebujeni-gorge-nature-v2.webp"
   },
   {
     id: "moldova-tigheci-hills-nature-v2",
+    parent: "MD",
     type: "forest",
     name: { de: "Tigheci-Hügel", hu: "Tigheci-dombság", ro: "Codrii Tigheciului", en: "Tigheci Hills",
 image: "/poi-images/moldova-tigheci-hills-nature-v2.webp"
@@ -386,6 +397,7 @@ image: "/poi-images/moldova-tigheci-hills-nature-v2.webp"
   },
   {
     id: "moldova-cobani-reef-nature-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Cobani-Riff", hu: "Cobani-zátony", ro: "Reciful Cobani", en: "Cobani Reef",
 image: "/poi-images/moldova-cobani-reef-nature-v2.webp"
@@ -421,6 +433,7 @@ image: "/poi-images/moldova-cobani-reef-nature-v2.webp"
   },
   {
     id: "moldova-trinca-gorge-nature-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Trinca-Schlucht", hu: "Trinca-szurdok", ro: "Defileul Trinca", en: "Trinca Gorge",
 image: "/poi-images/moldova-trinca-gorge-nature-v2.webp"
@@ -456,6 +469,7 @@ image: "/poi-images/moldova-trinca-gorge-nature-v2.webp"
   },
   {
     id: "moldova-varatic-gorge-nature-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Văratic-Schlucht", hu: "Văratic-szurdok", ro: "Defileul Văratic", en: "Varatic Gorge",
 image: "/poi-images/moldova-varatic-gorge-nature-v2.webp"
@@ -490,6 +504,7 @@ image: "/poi-images/moldova-varatic-gorge-nature-v2.webp"
   },
   {
     id: "moldova-molovata-cliffs-nature-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Molovata-Felsen", hu: "Molovata-sziklák", ro: "Stâncile de la Molovata", en: "Molovata Cliffs",
 image: "/poi-images/moldova-molovata-cliffs-nature-v2.webp"
@@ -525,6 +540,7 @@ image: "/poi-images/moldova-molovata-cliffs-nature-v2.webp"
   },
   {
     id: "moldova-giurgiulesti-point-nature-v2",
+    parent: "MD",
     type: "river",
     name: { de: "Giurgiulești-Punkt", hu: "Giurgiulești-pont", ro: "Confluența Prut-Dunăre", en: "Giurgiulesti Confluence",
 image: "/poi-images/moldova-giurgiulesti-point-nature-v2.webp"
@@ -560,6 +576,7 @@ image: "/poi-images/moldova-giurgiulesti-point-nature-v2.webp"
   },
   {
     id: "moldova-bic-river-nature-v2",
+    parent: "MD",
     type: "river",
     name: { de: "Fluss Bîc", hu: "Bîc-folyó", ro: "Râul Bîc", en: "Bic River",
 image: "/poi-images/moldova-bic-river-nature-v2.webp"
@@ -595,6 +612,7 @@ image: "/poi-images/moldova-bic-river-nature-v2.webp"
   },
   {
     id: "moldova-cogilnic-river-nature-v2",
+    parent: "MD",
     type: "river",
     name: { de: "Fluss Cogîlnic", hu: "Cogîlnic-folyó", ro: "Râul Cogîlnic", en: "Cogilnic River",
 image: "/poi-images/moldova-cogilnic-river-nature-v2.webp"
@@ -630,6 +648,7 @@ image: "/poi-images/moldova-cogilnic-river-nature-v2.webp"
   },
   {
     id: "moldova-ichel-river-nature-v2",
+    parent: "MD",
     type: "river",
     name: { de: "Fluss Ichel", hu: "Ichel-folyó", ro: "Râul Ichel", en: "Ichel River",
 image: "/poi-images/moldova-ichel-river-nature-v2.webp"
@@ -665,6 +684,7 @@ image: "/poi-images/moldova-ichel-river-nature-v2.webp"
   },
   {
     id: "moldova-botna-river-nature-v2",
+    parent: "MD",
     type: "river",
     name: { de: "Fluss Botna", hu: "Botna-folyó", ro: "Râul Botna", en: "Botna River",
 image: "/poi-images/moldova-botna-river-nature-v2.webp"
@@ -699,6 +719,7 @@ image: "/poi-images/moldova-botna-river-nature-v2.webp"
   },
   {
     id: "moldova-telenesti-forest-nature-v2",
+    parent: "MD",
     type: "forest",
     name: { de: "Telenești-Wald", hu: "Telenești-erdő", ro: "Pădurea Telenești", en: "Telenesti Forest",
 image: "/poi-images/moldova-telenesti-forest-nature-v2.webp"
@@ -733,6 +754,7 @@ image: "/poi-images/moldova-telenesti-forest-nature-v2.webp"
   },
   {
     id: "moldova-hincesti-forest-nature-v2",
+    parent: "MD",
     type: "forest",
     name: { de: "Hîncești-Wald", hu: "Hîncești-erdő", ro: "Pădurea Hîncești", en: "Hincesti Forest",
 image: "/poi-images/moldova-hincesti-forest-nature-v2.webp"
@@ -768,6 +790,7 @@ image: "/poi-images/moldova-hincesti-forest-nature-v2.webp"
 ,
   {
     id: "moldova-raut-river-nature-v2",
+    parent: "MD",
     type: "river",
     name: { de: "Răut", hu: "Răut", ro: "Râul Răut", en: "Răut River",
 image: "/poi-images/moldova-raut-river-nature-v2.webp"
@@ -801,6 +824,7 @@ image: "/poi-images/moldova-raut-river-nature-v2.webp"
   },
   {
     id: "moldova-ghidighici-lake-nature-v2",
+    parent: "MD",
     type: "lake",
     name: { de: "Ghidighici-Stausee", hu: "Ghidighici-víztározó", ro: "Lacul Ghidighici", en: "Ghidighici Reservoir",
 image: "/poi-images/moldova-ghidighici-lake-nature-v2.webp"
@@ -835,6 +859,7 @@ image: "/poi-images/moldova-ghidighici-lake-nature-v2.webp"
   },
   {
     id: "moldova-silver-forest-nature-v2",
+    parent: "MD",
     type: "forest",
     name: { de: "Silberwald", hu: "Ezüsterdő", ro: "Pădurea de Argint", en: "Silver Forest",
 image: "/poi-images/moldova-silver-forest-nature-v2.webp"
@@ -869,6 +894,7 @@ image: "/poi-images/moldova-silver-forest-nature-v2.webp"
   },
   {
     id: "moldova-ialpug-river-nature-v2",
+    parent: "MD",
     type: "river",
     name: { de: "Ialpug", hu: "Ialpug", ro: "Râul Ialpug", en: "Ialpug River",
 image: "/poi-images/moldova-ialpug-river-nature-v2.webp"
@@ -903,6 +929,7 @@ image: "/poi-images/moldova-ialpug-river-nature-v2.webp"
   },
   {
     id: "moldova-cimislia-paleontological-nature-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Paläontologische Stätte Cimișlia", hu: "Cimișliai őslénytani lelőhely", ro: "Situl paleontologic Cimișlia", en: "Cimișlia Paleontological Site",
 image: "/poi-images/moldova-cimislia-paleontological-nature-v2.webp"
@@ -937,6 +964,7 @@ image: "/poi-images/moldova-cimislia-paleontological-nature-v2.webp"
   },
   {
     id: "moldova-cuconestii-vechi-gorge-nature-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Cuconeștii Vechi Schlucht", hu: "Cuconeștii Vechi szurdok", ro: "Defileul Cuconeștii Vechi", en: "Cuconeștii Vechi Gorge",
 image: "/poi-images/moldova-cuconestii-vechi-gorge-nature-v2.webp"
@@ -971,6 +999,7 @@ image: "/poi-images/moldova-cuconestii-vechi-gorge-nature-v2.webp"
   },
   {
     id: "moldova-zloti-forest-nature-v2",
+    parent: "MD",
     type: "forest",
     name: { de: "Waldreservat Zloți", hu: "Zloți erdőrezervátum", ro: "Rezervația forestieră Zloți", en: "Zloți Nature Reserve",
 image: "/poi-images/moldova-zloti-forest-nature-v2.webp"
@@ -1001,5 +1030,166 @@ image: "/poi-images/moldova-zloti-forest-nature-v2.webp"
       ro: ["Situată în raionul Cimișlia", "Mix de stejar și stepă", "Protejată din anii 1970", "Habitat avifaunistic major"],
       en: ["Located in Cimislia district", "Oak and steppe blend", "Protected since the 1970s", "Important bird habitat"],
     },
+  }
+,
+  {
+    id: "moldova-cobilea-oak-nature-v2",
+    parent: "MD",
+    type: "wildlife",
+    name: { de: "Eiche von Stefan dem Großen in Cobîlea", hu: "Cobîleai tölgyfa (Nagy István fája)", ro: "Stejarul lui Ștefan cel Mare din Cobîlea", en: "Stephen the Great Oak in Cobîlea" },
+    coordinates: { lat: 47.8681, lng: 28.6644 },
+    description: {
+      de: "Diese Stieleiche ist der älteste Baum Moldaus und steht im Dorf Cobîlea. Sie gilt als bedeutendes Naturdenkmal.",
+      hu: "Moldova legidősebb tölgyfája a Cobîlea faluban található botanikai emlékhely. A fa több száz éves történelmi tanú.",
+      ro: "Cel mai bătrân stejar din Republica Moldova se află în satul Cobîlea. Este un monument botanic protejat de stat.",
+      en: "The oldest oak tree in Moldova is located in the village of Cobîlea. It is a protected botanical monument of national importance.",
+    },
+    facts: {
+      de: ["Über 700 Jahre alt", "Stieleiche (Quercus robur)", "Naturdenkmal Moldaus", "In Cobîlea gelegen"],
+      hu: ["Több mint 700 éves", "Kocsányos tölgy", "Védett természeti emlék", "Cobîlea faluban áll"],
+      ro: ["Peste 700 de ani vechime", "Specia Quercus robur", "Monument al naturii", "Situat în satul Cobîlea"],
+      en: ["Over 700 years old", "English oak species", "Natural monument", "Located in Cobîlea village"],
+    },
+    imageHint: "ancient oak tree in Cobilea Moldova with stone fence",
+  },
+  {
+    id: "moldova-jeloboc-spring-nature-v2",
+    parent: "MD",
+    type: "landmark",
+    name: { de: "Quelle von Jeloboc", hu: "Jeloboc-forrás", ro: "Izvorul Jeloboc", en: "Jeloboc Spring" },
+    coordinates: { lat: 47.3622, lng: 28.9167 },
+    description: {
+      de: "Jeloboc ist die größte natürliche Wasserquelle Moldaus und entspringt in der Nähe des Dorfes Jeloboc bei Orhei.",
+      hu: "A Jeloboc-forrás Moldova legnagyobb vízhozamú természetes forrása. Orhei közelében, a Raut folyó völgyében tör fel.",
+      ro: "Izvorul Jeloboc este cea mai mare sursă naturală de apă din Moldova. Este situat în apropierea satului Jeloboc, raionul Orhei.",
+      en: "Jeloboc Spring is the largest natural water source in Moldova. It is located near the village of Jeloboc in the Orhei district.",
+    },
+    facts: {
+      de: ["Größte Quelle des Landes", "Trinkwasser für Orhei", "Konstante Temperatur", "Nahe dem Fluss Răut"],
+      hu: ["Az ország legnagyobb forrása", "Orhei ivóvízbázisa", "Állandó hőmérséklet", "A Raut-folyó mellett"],
+      ro: ["Cea mai mare sursă de apă", "Alimentează orașul Orhei", "Debit constant ridicat", "Lângă râul Răut"],
+      en: ["Largest spring in the country", "Supplies Orhei with water", "High constant discharge", "Near the Răut River"],
+    },
+    imageHint: "natural water spring Jeloboc Moldova landscape",
+  },
+  {
+    id: "moldova-cubolta-river-nature-v2",
+    parent: "MD",
+    type: "river",
+    name: { de: "Fluss Cubolta", hu: "Kubolta-folyó", ro: "Râul Cubolta", en: "Cubolta River" },
+    coordinates: { lat: 48.0161, lng: 28.1822 },
+    description: {
+      de: "Die Cubolta ist ein linker Nebenfluss des Răut im Norden Moldaus und fließt durch die Steppenlandschaft von Bălți.",
+      hu: "A Kubolta-folyó a Raut bal oldali mellékfolyója Észak-Moldovában. A balti-sztyeppe jellegzetes síksági folyóvize.",
+      ro: "Cubolta este un afluent de stânga al râului Răut, situat în nordul Moldovei. Traversează câmpiile stepei Bălțului.",
+      en: "The Cubolta is a left tributary of the Răut River in northern Moldova. It flows through the rolling plains of the Bălți Steppe.",
+    },
+    facts: {
+      de: ["92 km Gesamtlänge", "Nebenfluss des Răut", "In Nordmoldau gelegen", "Durchquert mehrere Stauseen"],
+      hu: ["92 km hosszú", "A Raut mellékfolyója", "Észak-Moldovában folyik", "Több víztározó van rajte"],
+      ro: ["Lungime de 92 km", "Afluent al Răutului", "Situat în nordul țării", "Formează mai multe iazuri"],
+      en: ["92 km total length", "Tributary of the Răut", "Located in North Moldova", "Feeds several reservoirs"],
+    },
+    imageHint: "Cubolta river landscape North Moldova fields",
+  },
+  {
+    id: "moldova-ceadir-lunga-steppe-nature-v2",
+    parent: "MD",
+    type: "wildlife",
+    name: { de: "Steppenschutzgebiet Ceadîr-Lunga", hu: "Ceadîr-Lungai sztyepperezervátum", ro: "Rezervația de stepă Ceadîr-Lunga", en: "Ceadîr-Lunga Steppe Reserve" },
+    coordinates: { lat: 46.0825, lng: 28.8472 },
+    description: {
+      de: "Dieses Schutzgebiet bewahrt die ursprüngliche Steppenvegetation im Süden Moldaus, unweit der Stadt Ceadîr-Lunga.",
+      hu: "Ez a rezervátum az eredeti sztyeppei növényzetet őrzi Moldova déli részén. A Bugeac-síkság egyik utolsó érintetlen területe.",
+      ro: "Această rezervație protejează vegetația de stepă originală din sudul Moldovei, lângă orașul Ceadîr-Lunga.",
+      en: "This reserve preserves the original steppe vegetation of southern Moldova, located near the city of Ceadîr-Lunga.",
+    },
+    facts: {
+      de: ["In der Bugeac-Ebene", "Seltene Gräser", "In Gagausien gelegen", "Trockenes Mikroklima"],
+      hu: ["A Budzsák-síkságon", "Ritka pusztai füvek", "Gagauziában található", "Száraz mikroklimatikus viszonyok"],
+      ro: ["În Câmpia Bugeacului", "Ierburi rare de stepă", "Situată în Găgăuzia", "Microclimat arid"],
+      en: ["In the Bugeac Plain", "Rare steppe grasses", "Located in Gagauzia", "Arid microclimate"],
+    },
+    imageHint: "dry steppe landscape Gagauzia Moldova with feather grass",
+  },
+  {
+    id: "moldova-hirbovat-forest-nature-v2",
+    parent: "MD",
+    type: "forest",
+    name: { de: "Waldschutzgebiet Hîrbovăț", hu: "Hîrbovăț-erdőrezervátum", ro: "Rezervația silvică Hârbovăț", en: "Hîrbovăț Forest Reserve" },
+    coordinates: { lat: 46.8655, lng: 29.3581 },
+    description: {
+      de: "Das Waldschutzgebiet Hîrbovăț liegt bei Anenii Noi und schützt einen alten Bestand an Eichen- und Eschenwäldern.",
+      hu: "A Hîrbovăț-erdőrezervátum Anenii Noi közelében található, és ősi tölgy- és kőrisfa-állományokat védelmez.",
+      ro: "Rezervația silvică Hârbovăț este situată în raionul Anenii Noi și protejează sectoare de pădure de stejar și frasin.",
+      en: "The Hîrbovăț Forest Reserve is located in the Anenii Noi district and protects significant stands of oak and ash trees.",
+    },
+    facts: {
+      de: ["Bei Anenii Noi", "Eichen- und Eschenwald", "2221 Hektar groß", "Nahe dem Dnjestr"],
+      hu: ["Anenii Noi mellett", "Tölgyes-kőrises erdő", "2221 hektár terület", "A Dnyeszter közelében"],
+      ro: ["Lângă Anenii Noi", "Pădure de stejar și frasin", "Suprafață de 2221 ha", "Aproape de fluviul Nistru"],
+      en: ["Near Anenii Noi", "Oak and ash forest", "Covers 2221 hectares", "Close to Dniester River"],
+    },
+    imageHint: "dense oak forest Hirbovat Moldova sun rays",
+  },
+  {
+    id: "moldova-gura-bicului-reserve-nature-v2",
+    parent: "MD",
+    type: "wildlife",
+    name: { de: "Feuchtgebiet Gura Bîcului", hu: "Gura Bîcului-vízi rezervátum", ro: "Aria protejată Gura Bîcului", en: "Gura Bîcului Protected Area" },
+    coordinates: { lat: 46.9188, lng: 29.4622 },
+    description: {
+      de: "Dieses Schutzgebiet liegt an der Mündung des Bîc in den Dnjestr und ist ein bedeutendes Feuchtbiotop für Vögel.",
+      hu: "A Bîc folyó Dnyeszterbe torkollásánál fekvő védett terület fontos vizes élőhely a költöző madarak számára.",
+      ro: "Această arie protejată se află la vărsarea râului Bîc în Nistru și este un biotop umed crucial pentru păsări.",
+      en: "This protected area is located at the confluence of the Bîc and Dniester rivers, serving as a critical wetland habitat.",
+    },
+    facts: {
+      de: ["Mündung des Bîc", "Vogelschutzgebiet", "Dnjestr-Auen", "Feuchtgebiet-Ökosystem"],
+      hu: ["Bîc torkolata", "Madárvédelmi terület", "Dnyeszter ártere", "Vizes élőhely-ökoszisztéma"],
+      ro: ["Vărsarea râului Bîc", "Rezervație avifaunistică", "Lunca Nistrului", "Ecosistem de zonă umedă"],
+      en: ["Mouth of the Bîc River", "Bird sanctuary", "Dniester floodplains", "Wetland ecosystem"],
+    },
+    imageHint: "confluence of Bic and Dniester rivers wetlands birds",
+  },
+  {
+    id: "moldova-calaraseuca-cliffs-nature-v2",
+    parent: "MD",
+    type: "valley",
+    name: { de: "Landschaftsschutzgebiet Călărașeuca", hu: "Călărașeucai tájvédelmi körzet", ro: "Rezervația peisajistică Călărașeuca", en: "Călărașeuca Landscape Reserve" },
+    coordinates: { lat: 48.4215, lng: 27.8153 },
+    description: {
+      de: "Das Reservat umfasst steile Kalksteinklippen am rechten Ufer des Dnjestr im Norden Moldaus, nahe der ukrainischen Grenze.",
+      hu: "A rezervátum meredek mészkősziklákat foglal magában a Dnyeszter jobb partján, Moldova északi részén, az ukrán határnál.",
+      ro: "Rezervația cuprinde faleze abrupte de calcar pe malul drept al Nistrului, în nordul Moldovei, lângă granița cu Ucraina.",
+      en: "The reserve features steep limestone cliffs on the right bank of the Dniester in northern Moldova, near the Ukrainian border.",
+    },
+    facts: {
+      de: ["Kalksteinfelsen", "Am Dnjestr-Ufer", "Nördliches Moldau", "Blick auf die Ukraine"],
+      hu: ["Mészkősziklák", "A Dnyeszter partján", "Észak-Moldova", "Kilátás Ukrajnára"],
+      ro: ["Faleze de calcar", "Pe malul Nistrului", "Nordul Moldovei", "Vedere spre Ucraina"],
+      en: ["Limestone cliffs", "On Dniester bank", "Northern Moldova", "View towards Ukraine"],
+    },
+    imageHint: "steep limestone cliffs over Dniester river Calaraseuca",
+  },
+  {
+    id: "moldova-valea-adinca-gorge-nature-v2",
+    parent: "MD",
+    type: "valley",
+    name: { de: "Tiefe Schlucht (Valea Adîncă)", hu: "Valea Adîncă-szurdokvölgy", ro: "Defileul Valea Adîncă", en: "Valea Adîncă Gorge" },
+    coordinates: { lat: 47.9855, lng: 28.8324 },
+    description: {
+      de: "Valea Adîncă ist ein tiefes, bewaldetes Schluchttal in der Region Transnistrien, bekannt für seine felsige Landschaft.",
+      hu: "A Valea Adîncă egy mély, erdős szurdokvölgy a Dnyeszter mentén, amely sziklás tájáról és különleges klímájáról híres.",
+      ro: "Valea Adîncă este un defileu adânc și împădurit din Transnistria, cunoscut pentru peisajele sale stâncoase unice.",
+      en: "Valea Adîncă is a deep, forested gorge in the Transnistria region, renowned for its unique rocky landscapes and microclimate.",
+    },
+    facts: {
+      de: ["Tiefe Schluchten", "Karstlandschaft", "In Transnistrien", "Reiche Flora"],
+      hu: ["Mély szurdokok", "Karsztvidék", "Transznisztriában", "Gazdag növényvilág"],
+      ro: ["Defilee adânci", "Peisaj carstic", "În Transnistria", "Floră bogată"],
+      en: ["Deep ravines", "Karstic landscape", "In Transnistria", "Rich flora"],
+    },
+    imageHint: "Deep rocky forested gorge Valea Adinca Moldova",
   }
 ];

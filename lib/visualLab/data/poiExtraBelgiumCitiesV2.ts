@@ -3,6 +3,7 @@ export const belgiumCitiesV2: POI[] = [
 
   {
     id: "belgium-antwerp-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Antwerpen", hu: "Antwerpen", ro: "Anvers", en: "Antwerp",
 image: "/poi-images/belgium-antwerp-cities-v2.webp"
@@ -36,6 +37,7 @@ image: "/poi-images/belgium-antwerp-cities-v2.webp"
     }, image: "/poi-images/belgium-antwerp-cities-v2.webp"},
   {
     id: "belgium-ghent-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Gent", hu: "Gent", ro: "Gent", en: "Ghent",
 image: "/poi-images/belgium-ghent-cities-v2.webp"
@@ -69,6 +71,7 @@ image: "/poi-images/belgium-ghent-cities-v2.webp"
     }, image: "/poi-images/belgium-ghent-cities-v2.webp"},
   {
     id: "belgium-bruges-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Brügge", hu: "Brugge", ro: "Bruges", en: "Bruges",
 image: "/poi-images/belgium-bruges-cities-v2.webp"
@@ -102,6 +105,7 @@ image: "/poi-images/belgium-bruges-cities-v2.webp"
     }, image: "/poi-images/belgium-bruges-cities-v2.webp"},
   {
     id: "belgium-liege-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Lüttich", hu: "Liège", ro: "Liège", en: "Liège",
 image: "/poi-images/belgium-liege-cities-v2.webp"
@@ -135,6 +139,7 @@ image: "/poi-images/belgium-liege-cities-v2.webp"
     }, image: "/poi-images/belgium-liege-cities-v2.webp"},
   {
     id: "belgium-namur-cities-v2",
+    parent: "BE",
     type: "capital",
     name: { de: "Namur", hu: "Namur", ro: "Namur", en: "Namur",
 image: "/poi-images/belgium-namur-cities-v2.webp"
@@ -168,6 +173,7 @@ image: "/poi-images/belgium-namur-cities-v2.webp"
     }, image: "/poi-images/belgium-namur-cities-v2.webp"},
   {
     id: "belgium-leuven-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Löwen", hu: "Leuven", ro: "Louvain", en: "Leuven",
 image: "/poi-images/belgium-leuven-cities-v2.webp"
@@ -201,6 +207,7 @@ image: "/poi-images/belgium-leuven-cities-v2.webp"
     }, image: "/poi-images/belgium-leuven-cities-v2.webp"},
   {
     id: "belgium-mons-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Mons", hu: "Mons", ro: "Mons", en: "Mons",
 image: "/poi-images/belgium-mons-cities-v2.webp"
@@ -234,6 +241,7 @@ image: "/poi-images/belgium-mons-cities-v2.webp"
     }, image: "/poi-images/belgium-mons-cities-v2.webp"},
   {
     id: "belgium-charleroi-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Charleroi", hu: "Charleroi", ro: "Charleroi", en: "Charleroi",
 image: "/poi-images/belgium-charleroi-cities-v2.webp"
@@ -267,6 +275,7 @@ image: "/poi-images/belgium-charleroi-cities-v2.webp"
     }, image: "/poi-images/belgium-charleroi-cities-v2.webp"},
   {
     id: "belgium-mechelen-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Mechelen", hu: "Mechelen", ro: "Mechelen", en: "Mechelen",
 image: "/poi-images/belgium-mechelen-cities-v2.webp"
@@ -300,6 +309,7 @@ image: "/poi-images/belgium-mechelen-cities-v2.webp"
     }, image: "/poi-images/belgium-mechelen-cities-v2.webp"},
   {
     id: "belgium-aalst-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Aalst", hu: "Aalst", ro: "Aalst", en: "Aalst",
 image: "/poi-images/belgium-aalst-cities-v2.webp"
@@ -333,6 +343,7 @@ image: "/poi-images/belgium-aalst-cities-v2.webp"
     }, image: "/poi-images/belgium-aalst-cities-v2.webp"},
   {
     id: "belgium-la-louviere-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "La Louvière", hu: "La Louvière", ro: "La Louvière", en: "La Louvière",
 image: "/poi-images/belgium-la-louviere-cities-v2.webp"
@@ -366,6 +377,7 @@ image: "/poi-images/belgium-la-louviere-cities-v2.webp"
     }, image: "/poi-images/belgium-la-louviere-cities-v2.webp"},
   {
     id: "belgium-kortrijk-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Kortrijk", hu: "Kortrijk", ro: "Courtrai", en: "Kortrijk",
 image: "/poi-images/belgium-kortrijk-cities-v2.webp"
@@ -399,6 +411,7 @@ image: "/poi-images/belgium-kortrijk-cities-v2.webp"
     }, image: "/poi-images/belgium-kortrijk-cities-v2.webp"},
   {
     id: "belgium-hasselt-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Hasselt", hu: "Hasselt", ro: "Hasselt", en: "Hasselt",
 image: "/poi-images/belgium-hasselt-cities-v2.webp"
@@ -432,6 +445,7 @@ image: "/poi-images/belgium-hasselt-cities-v2.webp"
     }, image: "/poi-images/belgium-hasselt-cities-v2.webp"},
   {
     id: "belgium-sint-niklaas-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Sint-Niklaas", hu: "Sint-Niklaas", ro: "Sint-Niklaas", en: "Sint-Niklaas",
 image: "/poi-images/belgium-sint-niklaas-cities-v2.webp"
@@ -465,6 +479,7 @@ image: "/poi-images/belgium-sint-niklaas-cities-v2.webp"
     }, image: "/poi-images/belgium-sint-niklaas-cities-v2.webp"},
   {
     id: "belgium-ostend-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Ostende", hu: "Oostende", ro: "Oostende", en: "Ostend",
 image: "/poi-images/belgium-ostend-cities-v2.webp"
@@ -498,6 +513,7 @@ image: "/poi-images/belgium-ostend-cities-v2.webp"
     }, image: "/poi-images/belgium-ostend-cities-v2.webp"},
   {
     id: "belgium-tournai-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Tournai", hu: "Tournai", ro: "Tournai", en: "Tournai",
 image: "/poi-images/belgium-tournai-cities-v2.webp"
@@ -531,6 +547,7 @@ image: "/poi-images/belgium-tournai-cities-v2.webp"
     }, image: "/poi-images/belgium-tournai-cities-v2.webp"},
   {
     id: "belgium-genk-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Genk", hu: "Genk", ro: "Genk", en: "Genk",
 image: "/poi-images/belgium-genk-cities-v2.webp"
@@ -564,6 +581,7 @@ image: "/poi-images/belgium-genk-cities-v2.webp"
     }, image: "/poi-images/belgium-genk-cities-v2.webp"},
   {
     id: "belgium-seraing-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Seraing", hu: "Seraing", ro: "Seraing", en: "Seraing",
 image: "/poi-images/belgium-seraing-cities-v2.webp"
@@ -597,6 +615,7 @@ image: "/poi-images/belgium-seraing-cities-v2.webp"
     }, image: "/poi-images/belgium-seraing-cities-v2.webp"},
   {
     id: "belgium-roeselare-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Roeselare", hu: "Roeselare", ro: "Roeselare", en: "Roeselare",
 image: "/poi-images/belgium-roeselare-cities-v2.webp"
@@ -630,6 +649,7 @@ image: "/poi-images/belgium-roeselare-cities-v2.webp"
     }, image: "/poi-images/belgium-roeselare-cities-v2.webp"},
   {
     id: "belgium-mouscron-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Mouscron", hu: "Mouscron", ro: "Mouscron", en: "Mouscron",
 image: "/poi-images/belgium-mouscron-cities-v2.webp"
@@ -663,6 +683,7 @@ image: "/poi-images/belgium-mouscron-cities-v2.webp"
     }, image: "/poi-images/belgium-mouscron-cities-v2.webp"},
   {
     id: "belgium-verviers-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Verviers", hu: "Verviers", ro: "Verviers", en: "Verviers",
 image: "/poi-images/belgium-verviers-cities-v2.webp"
@@ -696,6 +717,7 @@ image: "/poi-images/belgium-verviers-cities-v2.webp"
     }, image: "/poi-images/belgium-verviers-cities-v2.webp"},
   {
     id: "belgium-beringen-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Beringen", hu: "Beringen", ro: "Beringen", en: "Beringen",
 image: "/poi-images/belgium-beringen-cities-v2.webp"
@@ -729,6 +751,7 @@ image: "/poi-images/belgium-beringen-cities-v2.webp"
     }, image: "/poi-images/belgium-beringen-cities-v2.webp"},
   {
     id: "belgium-dendermonde-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Dendermonde", hu: "Dendermonde", ro: "Termonde", en: "Dendermonde",
 image: "/poi-images/belgium-dendermonde-cities-v2.webp"
@@ -762,6 +785,7 @@ image: "/poi-images/belgium-dendermonde-cities-v2.webp"
     }, image: "/poi-images/belgium-dendermonde-cities-v2.webp"},
   {
     id: "belgium-vilvoorde-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Vilvoorde", hu: "Vilvoorde", ro: "Vilvoorde", en: "Vilvoorde",
 image: "/poi-images/belgium-vilvoorde-cities-v2.webp"
@@ -795,6 +819,7 @@ image: "/poi-images/belgium-vilvoorde-cities-v2.webp"
     }, image: "/poi-images/belgium-vilvoorde-cities-v2.webp"},
   {
     id: "belgium-turnhout-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Turnhout", hu: "Turnhout", ro: "Turnhout", en: "Turnhout",
 image: "/poi-images/belgium-turnhout-cities-v2.webp"
@@ -828,6 +853,7 @@ image: "/poi-images/belgium-turnhout-cities-v2.webp"
     }, image: "/poi-images/belgium-turnhout-cities-v2.webp"},
   {
     id: "belgium-sint-truiden-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Sint-Truiden", hu: "Sint-Truiden", ro: "Sint-Truiden", en: "Sint-Truiden",
 image: "/poi-images/belgium-sint-truiden-cities-v2.webp"
@@ -862,6 +888,7 @@ imageHint: "Sint-Truiden Abbey tower",
     , image: "/poi-images/belgium-sint-truiden-cities-v2.webp",
 },  {
     id: "belgium-lokeren-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Lokeren", hu: "Lokeren", ro: "Lokeren", en: "Lokeren",
 image: "/poi-images/belgium-lokeren-cities-v2.webp"
@@ -896,6 +923,7 @@ imageHint: "Lokeren city hall and square",
     , image: "/poi-images/belgium-lokeren-cities-v2.webp",
 },  {
     id: "belgium-geel-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Geel", hu: "Geel", ro: "Geel", en: "Geel",
 image: "/poi-images/belgium-geel-cities-v2.webp"
@@ -930,6 +958,7 @@ imageHint: "Geel St. Dymphna Church",
     , image: "/poi-images/belgium-geel-cities-v2.webp",
 },  {
     id: "belgium-halle-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Halle", hu: "Halle", ro: "Halle", en: "Halle",
 image: "/poi-images/belgium-halle-cities-v2.webp"
@@ -964,6 +993,7 @@ imageHint: "Halle Basilica of Saint Martin",
     , image: "/poi-images/belgium-halle-cities-v2.webp",
 },  {
     id: "belgium-waregem-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Waregem", hu: "Waregem", ro: "Waregem", en: "Waregem",
 image: "/poi-images/belgium-waregem-cities-v2.webp"
@@ -998,6 +1028,7 @@ imageHint: "Waregem horse racing stadium",
     , image: "/poi-images/belgium-waregem-cities-v2.webp",
 },  {
     id: "belgium-chatelet-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Châtelet", hu: "Châtelet", ro: "Châtelet", en: "Châtelet",
 image: "/poi-images/belgium-chatelet-cities-v2.webp"
@@ -1032,6 +1063,7 @@ imageHint: "Châtelet city view and Sambre river",
     , image: "/poi-images/belgium-chatelet-cities-v2.webp",
 },  {
     id: "belgium-mol-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Mol", hu: "Mol", ro: "Mol", en: "Mol",
 image: "/poi-images/belgium-mol-cities-v2.webp"
@@ -1066,6 +1098,7 @@ imageHint: "Mol Postel Abbey architecture",
     , image: "/poi-images/belgium-mol-cities-v2.webp",
 },  {
     id: "belgium-ypres-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Ypern", hu: "Ypres (Ieper)", ro: "Ypres", en: "Ypres",
 image: "/poi-images/belgium-ypres-cities-v2.webp"
@@ -1100,6 +1133,7 @@ imageHint: "Ypres Cloth Hall and Menin Gate",
     , image: "/poi-images/belgium-ypres-cities-v2.webp",
 },  {
     id: "belgium-lier-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Lier", hu: "Lier", ro: "Lier", en: "Lier",
 image: "/poi-images/belgium-lier-cities-v2.webp"
@@ -1134,6 +1168,7 @@ imageHint: "Lier Zimmer Tower astronomical clock",
     , image: "/poi-images/belgium-lier-cities-v2.webp",
 },  {
     id: "belgium-lommel-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Lommel", hu: "Lommel", ro: "Lommel", en: "Lommel",
 image: "/poi-images/belgium-lommel-cities-v2.webp"
@@ -1168,6 +1203,7 @@ imageHint: "Lommel Sahara dunes and lake",
     , image: "/poi-images/belgium-lommel-cities-v2.webp",
 },  {
     id: "belgium-nivelles-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Nivelles", hu: "Nivelles", ro: "Nivelles", en: "Nivelles",
 image: "/poi-images/belgium-nivelles-cities-v2.webp"
@@ -1202,6 +1238,7 @@ imageHint: "Nivelles Collegiate Church of St. Gertrude",
     , image: "/poi-images/belgium-nivelles-cities-v2.webp",
 },  {
     id: "belgium-binche-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Binche", hu: "Binche", ro: "Binche", en: "Binche",
 image: "/poi-images/belgium-binche-cities-v2.webp"
@@ -1236,6 +1273,7 @@ imageHint: "Binche Carnival Gilles characters",
     , image: "/poi-images/belgium-binche-cities-v2.webp",
 },  {
     id: "belgium-wavre-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Waver", hu: "Wavre", ro: "Wavre", en: "Wavre",
 image: "/poi-images/belgium-wavre-cities-v2.webp"
@@ -1270,6 +1308,7 @@ imageHint: "Wavre city hall and church",
     , image: "/poi-images/belgium-wavre-cities-v2.webp",
 },  {
     id: "belgium-arlon-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Arlon", hu: "Arlon", ro: "Arlon", en: "Arlon",
 image: "/poi-images/belgium-arlon-cities-v2.webp"
@@ -1304,6 +1343,7 @@ imageHint: "Arlon St. Donat's Church on hill",
     , image: "/poi-images/belgium-arlon-cities-v2.webp",
 },  {
     id: "belgium-heist-op-den-berg-cities-v2",
+    parent: "BE",
     type: "town",
     name: { de: "Heist-op-den-berg", hu: "Heist-op-den-berg", ro: "Heist-op-den-berg", en: "Heist-op-den-berg",
 image: "/poi-images/belgium-heist-op-den-berg-cities-v2.webp"
@@ -1338,6 +1378,7 @@ imageHint: "Heist-op-den-Berg church on the hill",
     , image: "/poi-images/belgium-heist-op-den-berg-cities-v2.webp",
 },  {
     id: "belgium-tongeren-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Tongeren", hu: "Tongeren", ro: "Tongres", en: "Tongeren",
 image: "/poi-images/belgium-tongeren-cities-v2.webp"
@@ -1372,6 +1413,7 @@ imageHint: "Tongeren Ambiorix statue and basilica",
     , image: "/poi-images/belgium-tongeren-cities-v2.webp",
 },  {
     id: "belgium-dinant-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Dinant", hu: "Dinant", ro: "Dinant", en: "Dinant",
 image: "/poi-images/belgium-dinant-cities-v2.webp"
@@ -1406,6 +1448,7 @@ imageHint: "Dinant citadel and church on the Meuse",
     , image: "/poi-images/belgium-dinant-cities-v2.webp",
 },  {
     id: "belgium-bastogne-cities-v2",
+    parent: "BE",
     type: "town",
     name: { de: "Bastogne", hu: "Bastogne", ro: "Bastogne", en: "Bastogne",
 image: "/poi-images/belgium-bastogne-cities-v2.webp"
@@ -1440,6 +1483,7 @@ imageHint: "Bastogne Mardasson Memorial",
     , image: "/poi-images/belgium-bastogne-cities-v2.webp",
 },  {
     id: "belgium-eupen-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Eupen", hu: "Eupen", ro: "Eupen", en: "Eupen",
 image: "/poi-images/belgium-eupen-cities-v2.webp"
@@ -1474,6 +1518,7 @@ imageHint: "Eupen town hall and Vesdre dam",
     , image: "/poi-images/belgium-eupen-cities-v2.webp",
 },  {
     id: "belgium-herstal-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Herstal", hu: "Herstal", ro: "Herstal", en: "Herstal",
 image: "/poi-images/belgium-herstal-cities-v2.webp"
@@ -1496,6 +1541,7 @@ image: "/poi-images/belgium-herstal-cities-v2.webp"
     image: "/poi-images/belgium-herstal-cities-v2.webp"},
   {
     id: "belgium-oudenaarde-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Oudenaarde", hu: "Oudenaarde", ro: "Audenarde", en: "Oudenaarde",
 image: "/poi-images/belgium-oudenaarde-cities-v2.webp"
@@ -1530,6 +1576,7 @@ imageHint: "Oudenaarde Town Hall Gothic architecture",
     , image: "/poi-images/belgium-oudenaarde-cities-v2.webp",
 },  {
     id: "belgium-tienen-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Tienen", hu: "Tienen", ro: "Tirlemont", en: "Tienen",
 image: "/poi-images/belgium-tienen-cities-v2.webp"
@@ -1564,6 +1611,7 @@ imageHint: "Tienen sugar refinery and church",
     , image: "/poi-images/belgium-tienen-cities-v2.webp",
 },  {
     id: "belgium-geraardsbergen-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Geraardsbergen", hu: "Geraardsbergen", ro: "Geraardsbergen", en: "Geraardsbergen",
 image: "/poi-images/belgium-geraardsbergen-cities-v2.webp"
@@ -1598,6 +1646,7 @@ imageHint: "Geraardsbergen Muur climb view",
     , image: "/poi-images/belgium-geraardsbergen-cities-v2.webp",
 },  {
     id: "belgium-knokke-heist-cities-v2",
+    parent: "BE",
     type: "town",
     name: { de: "Knokke-Heist", hu: "Knokke-Heist", ro: "Knokke-Heist", en: "Knokke-Heist",
 image: "/poi-images/belgium-knokke-heist-cities-v2.webp"
@@ -1632,6 +1681,7 @@ imageHint: "Knokke-Heist beach and promenade",
     , image: "/poi-images/belgium-knokke-heist-cities-v2.webp",
 },  {
     id: "belgium-menen-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Menen", hu: "Menen", ro: "Menin", en: "Menen",
 image: "/poi-images/belgium-menen-cities-v2.webp"
@@ -1666,6 +1716,7 @@ imageHint: "Menen belfry and town square",
     , image: "/poi-images/belgium-menen-cities-v2.webp",
 },  {
     id: "belgium-bilzen-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Bilzen", hu: "Bilzen", ro: "Bilzen", en: "Bilzen",
 image: "/poi-images/belgium-bilzen-cities-v2.webp"
@@ -1700,6 +1751,7 @@ imageHint: "Bilzen Alden Biesen Castle view",
     , image: "/poi-images/belgium-bilzen-cities-v2.webp",
 },  {
     id: "belgium-houthalen-helchteren-cities-v2",
+    parent: "BE",
     type: "town",
     name: { de: "Houthalen-Helchteren", hu: "Houthalen-Helchteren", ro: "Houthalen-Helchteren", en: "Houthalen-Helchteren",
 image: "/poi-images/belgium-houthalen-helchteren-cities-v2.webp"
@@ -1734,6 +1786,7 @@ imageHint: "Houthalen-Helchteren park scenery",
     , image: "/poi-images/belgium-houthalen-helchteren-cities-v2.webp",
 },  {
     id: "belgium-evergem-cities-v2",
+    parent: "BE",
     type: "town",
     name: { de: "Evergem", hu: "Evergem", ro: "Evergem", en: "Evergem",
 image: "/poi-images/belgium-evergem-cities-v2.webp"
@@ -1768,6 +1821,7 @@ imageHint: "Evergem castle Wippelgem",
     , image: "/poi-images/belgium-evergem-cities-v2.webp",
 },  {
     id: "belgium-brasschaat-cities-v2",
+    parent: "BE",
     type: "town",
     name: { de: "Brasschaat", hu: "Brasschaat", ro: "Brasschaat", en: "Brasschaat",
 image: "/poi-images/belgium-brasschaat-cities-v2.webp"
@@ -1802,6 +1856,7 @@ imageHint: "Brasschaat park and castle",
     , image: "/poi-images/belgium-brasschaat-cities-v2.webp",
 },  {
     id: "belgium-grimbergen-cities-v2",
+    parent: "BE",
     type: "town",
     name: { de: "Grimbergen", hu: "Grimbergen", ro: "Grimbergen", en: "Grimbergen",
 image: "/poi-images/belgium-grimbergen-cities-v2.webp"
@@ -1836,6 +1891,7 @@ imageHint: "Grimbergen Abbey church",
     , image: "/poi-images/belgium-grimbergen-cities-v2.webp",
 },  {
     id: "belgium-herentals-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Herentals", hu: "Herentals", ro: "Herentals", en: "Herentals",
 image: "/poi-images/belgium-herentals-cities-v2.webp"
@@ -1870,6 +1926,7 @@ imageHint: "Herentals historic town hall",
     , image: "/poi-images/belgium-herentals-cities-v2.webp",
 },  {
     id: "belgium-ronse-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Ronse", hu: "Ronse", ro: "Renaix", en: "Ronse",
 image: "/poi-images/belgium-ronse-cities-v2.webp"
@@ -1904,6 +1961,7 @@ imageHint: "Ronse St. Hermes Crypt architecture",
     , image: "/poi-images/belgium-ronse-cities-v2.webp",
 },  {
     id: "belgium-ninove-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Ninove", hu: "Ninove", ro: "Ninove", en: "Ninove",
 image: "/poi-images/belgium-ninove-cities-v2.webp"
@@ -1938,6 +1996,7 @@ imageHint: "Ninove abbey church facade",
     , image: "/poi-images/belgium-ninove-cities-v2.webp",
 },  {
     id: "belgium-izegem-cities-v2",
+    parent: "BE",
     type: "city",
     name: { de: "Izegem", hu: "Izegem", ro: "Izegem", en: "Izegem",
 image: "/poi-images/belgium-izegem-cities-v2.webp"
@@ -1972,6 +2031,7 @@ imageHint: "Izegem Eperon d'Or museum building",
     , image: "/poi-images/belgium-izegem-cities-v2.webp",
 },  {
     id: "belgium-knokke-v2-cities-v2",
+    parent: "BE",
     type: "town",
     name: { de: "Knokke", hu: "Knokke", ro: "Knokke", en: "Knokke",
 image: "/poi-images/belgium-knokke-v2-cities-v2.webp"
@@ -2006,6 +2066,7 @@ imageHint: "Knokke luxury storefronts and beach",
     , image: "/poi-images/belgium-knokke-v2-cities-v2.webp",
 },  {
     id: "belgium-blankenberge-cities-v2",
+    parent: "BE",
     type: "town",
     name: { de: "Blankenberge", hu: "Blankenberge", ro: "Blankenberge", en: "Blankenberge",
 image: "/poi-images/belgium-blankenberge-cities-v2.webp"

@@ -3,6 +3,7 @@ export const vaticanReliefV2: POI[] = [
 
   {
     id: "vatican-colle-vaticano-summit-relief-v2",
+    parent: "VA",
     type: "peak",
     name: { de: "Gipfel des Colle Vaticano", hu: "Colle Vaticano csúcs", ro: "Vârful Colle Vaticano", en: "Colle Vaticano Summit",
 image: "/poi-images/vatican-colle-vaticano-summit-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Highest point of Vatican Gardens near the wall",
     image: "/poi-images/vatican-colle-vaticano-summit-relief-v2.webp",
 },  {
     id: "vatican-west-slope-gardens-relief-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Westlicher Gartenhang", hu: "Nyugati kerti lejtő", ro: "Panta vestică a grădinilor", en: "Western Gardens Slope",
 image: "/poi-images/vatican-west-slope-gardens-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Steep wooded slope in Vatican Gardens",
     image: "/poi-images/vatican-west-slope-gardens-relief-v2.webp",
 },  {
     id: "vatican-radio-tower-plateau-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Radioturm-Plateau", hu: "Rádiótorony-fennsík", ro: "Platoul Turnului Radio", en: "Radio Tower Plateau",
 image: "/poi-images/vatican-radio-tower-plateau-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Vatican Radio antenna on high ground",
     image: "/poi-images/vatican-radio-tower-plateau-relief-v2.webp",
 },  {
     id: "vatican-heliport-terrace-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Hubschrauberlandeplatz-Terrasse", hu: "Heliport terasz", ro: "Terasa Heliportului", en: "Heliport Terrace",
 image: "/poi-images/vatican-heliport-terrace-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Vatican heliport on a flat terrace",
     image: "/poi-images/vatican-heliport-terrace-relief-v2.webp",
 },  {
     id: "vatican-st-peters-square-basin-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Becken des Petersplatzes", hu: "Szent Péter téri medence", ro: "Depresiunea Pieței Sfântului Petru", en: "St. Peter's Square Basin",
 image: "/poi-images/vatican-st-peters-square-basin-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Wide view of St. Peter's Square from above",
     image: "/poi-images/vatican-st-peters-square-basin-relief-v2.webp",
 },  {
     id: "vatican-leonine-wall-crest-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Kamm der Leoninischen Mauer", hu: "Leoninus-fal gerince", ro: "Creasta Zidului Leonin", en: "Leonine Wall Crest",
 image: "/poi-images/vatican-leonine-wall-crest-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Leonine Wall following the hill crest",
     image: "/poi-images/vatican-leonine-wall-crest-relief-v2.webp",
 },  {
     id: "vatican-lourdes-grotto-slope-relief-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Hang der Lourdes-Grotte", hu: "Lourdes-i barlang lejtője", ro: "Panta Grotei Lourdes", en: "Lourdes Grotto Slope",
 image: "/poi-images/vatican-lourdes-grotto-slope-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Lourdes Grotto replica on a hillside",
     image: "/poi-images/vatican-lourdes-grotto-slope-relief-v2.webp",
 },  {
     id: "vatican-governor-palace-slope-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Hang am Gouverneurspalast", hu: "Kormányzói palota lejtője", ro: "Panta Palatului Guvernatorului", en: "Governor's Palace Slope",
 image: "/poi-images/vatican-governor-palace-slope-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Gardens in front of the Governor's Palace",
     image: "/poi-images/vatican-governor-palace-slope-relief-v2.webp",
 },  {
     id: "vatican-railway-embankment-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Bahndamm des Vatikans", hu: "Vatikáni vasúti töltés", ro: "Terasamentul căii ferate", en: "Vatican Railway Embankment",
 image: "/poi-images/vatican-railway-embankment-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Vatican railway station and viaduct",
     image: "/poi-images/vatican-railway-embankment-relief-v2.webp",
 },  {
     id: "vatican-teutonic-cemetery-plateau-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Plateau des Campo Santo Teutonico", hu: "Campo Santo Teutonico fennsík", ro: "Platoul Campo Santo Teutonico", en: "Teutonic Cemetery Plateau",
 image: "/poi-images/vatican-teutonic-cemetery-plateau-relief-v2.webp"
@@ -343,6 +353,7 @@ image: "/poi-images/vatican-teutonic-cemetery-plateau-relief-v2.webp"
   },
   {
     id: "vatican-ethiopian-college-terrace-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Terrasse des Äthiopischen Kollegs", hu: "Etióp Kollégium terasz", ro: "Terasa Colegiului Etiopian", en: "Ethiopian College Terrace",
 image: "/poi-images/vatican-ethiopian-college-terrace-relief-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Ethiopian College in Vatican Gardens",
     image: "/poi-images/vatican-ethiopian-college-terrace-relief-v2.webp",
 },  {
     id: "vatican-casina-pio-iv-slope-relief-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Hang der Casina Pio IV", hu: "Casina Pio IV lejtő", ro: "Panta Casinei Pio IV", en: "Casina Pio IV Slope",
 image: "/poi-images/vatican-casina-pio-iv-slope-relief-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Casina Pio IV and surrounding slopes",
     image: "/poi-images/vatican-casina-pio-iv-slope-relief-v2.webp",
 },  {
     id: "vatican-vatican-gardens-central-ridge-relief-v2",
+    parent: "VA",
     type: "mountain",
     name: { de: "Zentraler Gartenrücken", hu: "Központi kertgerinc", ro: "Creasta centrală a grădinilor", en: "Central Gardens Ridge",
 image: "/poi-images/vatican-vatican-gardens-central-ridge-relief-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Ridge path in the Vatican Gardens",
     image: "/poi-images/vatican-vatican-gardens-central-ridge-relief-v2.webp",
 },  {
     id: "vatican-eagle-fountain-terrace-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Terrasse des Adlerbrunnens", hu: "Sasos kút terasza", ro: "Terasa Fântânii Vulturului", en: "Eagle Fountain Terrace",
 image: "/poi-images/vatican-eagle-fountain-terrace-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Eagle Fountain in Vatican Gardens",
     image: "/poi-images/vatican-eagle-fountain-terrace-relief-v2.webp",
 },  {
     id: "vatican-st-johns-tower-elevation-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Erhöhung am Johannesturm", hu: "Szent János-torony magaslat", ro: "Elevarea Turnului Sfântul Ioan", en: "St. John's Tower Elevation",
 image: "/poi-images/vatican-st-johns-tower-elevation-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "St. John's Tower on the Vatican hill",
     image: "/poi-images/vatican-st-johns-tower-elevation-relief-v2.webp",
 },  {
     id: "vatican-apostolic-palace-ridge-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Grat des Apostolischen Palastes", hu: "Apostoli Palota gerinc", ro: "Creasta Palatului Apostolic", en: "Apostolic Palace Ridge",
 image: "/poi-images/vatican-apostolic-palace-ridge-relief-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Apostolic Palace overlooking Rome",
     image: "/poi-images/vatican-apostolic-palace-ridge-relief-v2.webp",
 },  {
     id: "vatican-mosaic-studio-slope-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Hang am Mosaikstudio", hu: "Mozaikstúdió lejtője", ro: "Panta Studioului de Mozaic", en: "Mosaic Studio Slope",
 image: "/poi-images/vatican-mosaic-studio-slope-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Buildings on the slope behind St. Peter's",
     image: "/poi-images/vatican-mosaic-studio-slope-relief-v2.webp",
 },  {
     id: "vatican-observatory-crest-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Kamm des Observatoriums", hu: "Obszervatórium gerince", ro: "Creasta Observatorului", en: "Observatory Crest",
 image: "/poi-images/vatican-observatory-crest-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Old Vatican Observatory building",
     image: "/poi-images/vatican-observatory-crest-relief-v2.webp",
 },  {
     id: "vatican-via-del-belvedere-slope-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Belvedere-Hangweg", hu: "Belvedere lejtős út", ro: "Panta Via del Belvedere", en: "Via del Belvedere Slope",
 image: "/poi-images/vatican-via-del-belvedere-slope-relief-v2.webp"
@@ -649,6 +668,7 @@ image: "/poi-images/vatican-via-del-belvedere-slope-relief-v2.webp"
   },
   {
     id: "vatican-niche-of-shell-slope-relief-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Hang an der Muschelnische", hu: "Kagylófülke lejtője", ro: "Panta Nișei scoicii", en: "Niche of the Shell Slope",
 image: "/poi-images/vatican-niche-of-shell-slope-relief-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Terraced garden with stone niches",
     image: "/poi-images/vatican-niche-of-shell-slope-relief-v2.webp",
 },  {
     id: "vatican-grotto-nativity-slope-relief-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Hang der Geburtsgrotte", hu: "Születési barlang lejtője", ro: "Panta Grotei Nașterii", en: "Grotto of the Nativity Slope",
 image: "/poi-images/vatican-grotto-nativity-slope-relief-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Wooded slope in the Vatican Gardens",
     image: "/poi-images/vatican-grotto-nativity-slope-relief-v2.webp",
 },  {
     id: "vatican-st-stephen-abyssinian-terrace-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Terrasse von Santo Stefano degli Abissini", hu: "Santo Stefano degli Abissini terasz", ro: "Terasa Santo Stefano degli Abissini", en: "St. Stephen of the Abyssinians Terrace",
 image: "/poi-images/vatican-st-stephen-abyssinian-terrace-relief-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Ancient church behind St. Peter's Basilica",
     image: "/poi-images/vatican-st-stephen-abyssinian-terrace-relief-v2.webp",
 },  {
     id: "vatican-library-courtyard-plateau-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Plateau der Vatikanischen Bibliothek", hu: "Vatikáni Könyvtár fennsík", ro: "Platoul Bibliotecii Vaticane", en: "Vatican Library Plateau",
 image: "/poi-images/vatican-library-courtyard-plateau-relief-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Vatican Library buildings from above",
     image: "/poi-images/vatican-library-courtyard-plateau-relief-v2.webp",
 },  {
     id: "vatican-vatican-hill-south-edge-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Südkante des Vatikanischen Hügels", hu: "Vatikán-domb déli pereme", ro: "Marginea sudică a Dealului Vaticanului", en: "Vatican Hill South Edge",
 image: "/poi-images/vatican-vatican-hill-south-edge-relief-v2.webp"
@@ -819,6 +843,7 @@ image: "/poi-images/vatican-vatican-hill-south-edge-relief-v2.webp"
   },
   {
     id: "vatican-gardens-northern-slope-relief-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Nördlicher Gartenabhang", hu: "Északi kerti domboldal", ro: "Panta nordică a grădinilor", en: "Gardens Northern Slope",
 image: "/poi-images/vatican-gardens-northern-slope-relief-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Terraced gardens on the northern slope",
     image: "/poi-images/vatican-gardens-northern-slope-relief-v2.webp",
 },  {
     id: "vatican-radio-station-plateau-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Plateau der Radiostation", hu: "Rádióállomás fennsík", ro: "Platoul stației radio", en: "Radio Station Plateau",
 image: "/poi-images/vatican-radio-station-plateau-relief-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Vatican Radio station on the hill",
     image: "/poi-images/vatican-radio-station-plateau-relief-v2.webp",
 },  {
     id: "vatican-belvedere-upper-terrace-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Obere Belvedere-Terrasse", hu: "Felső Belvedere terasz", ro: "Terasa superioară Belvedere", en: "Upper Belvedere Terrace",
 image: "/poi-images/vatican-belvedere-upper-terrace-relief-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Courtyard of the Belvedere in Vatican",
     image: "/poi-images/vatican-belvedere-upper-terrace-relief-v2.webp",
 },  {
     id: "vatican-pigna-lower-terrace-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Untere Pigna-Terrasse", hu: "Alsó Pigna terasz", ro: "Terasa inferioară Pigna", en: "Lower Pigna Terrace",
 image: "/poi-images/vatican-pigna-lower-terrace-relief-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Cortile della Pigna in Vatican Museums",
     image: "/poi-images/vatican-pigna-lower-terrace-relief-v2.webp",
 },  {
     id: "vatican-vatican-hill-foot-relief-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Fuß des Vatikanischen Hügels", hu: "Vatikán-domb lába", ro: "Baza Dealului Vaticanului", en: "Vatican Hill Foot",
 image: "/poi-images/vatican-vatican-hill-foot-relief-v2.webp"

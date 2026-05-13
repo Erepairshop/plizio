@@ -3,6 +3,7 @@ export const moldovaEconomicV2: POI[] = [
 
   {
     id: "moldova-giurgiulesti-port-economic-v2",
+    parent: "MD",
     type: "port",
     name: { de: "Internationaler Freihafen Giurgiulești", hu: "Giurgiulești Nemzetközi Szabadkikötő", ro: "Portul Internațional Liber Giurgiulești", en: "Giurgiulești International Free Port",
 image: "/poi-images/moldova-giurgiulesti-port-economic-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/moldova-giurgiulesti-port-economic-v2.webp"
   },
   {
     id: "moldova-fez-balti-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Freie Wirtschaftszone Bălți", hu: "Bălți Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Bălți", en: "Free Economic Zone Bălți",
 image: "/poi-images/moldova-fez-balti-economic-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/moldova-fez-balti-economic-v2.webp"
   },
   {
     id: "moldova-cricova-winery-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Weingut Cricova", hu: "Cricova Borászat", ro: "Combinatul de Vinuri Cricova", en: "Cricova Winery",
 image: "/poi-images/moldova-cricova-winery-economic-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/moldova-cricova-winery-economic-v2.webp"
   },
   {
     id: "moldova-cuciurgan-power-station-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Kraftwerk Cuciurgan", hu: "Cuciurgan Erőmű", ro: "Centrala Electrică de la Cuciurgan", en: "Cuciurgan Power Station",
 image: "/poi-images/moldova-cuciurgan-power-station-economic-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/moldova-cuciurgan-power-station-economic-v2.webp"
   },
   {
     id: "moldova-bucuria-factory-economic-v2",
+    parent: "MD",
     type: "factory",
     name: { de: "Süßwarenfabrik Bucuria", hu: "Bucuria Édességgyár", ro: "Fabrica de bomboane Bucuria", en: "Bucuria Confectionery Factory",
 image: "/poi-images/moldova-bucuria-factory-economic-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/moldova-bucuria-factory-economic-v2.webp"
   },
   {
     id: "moldova-milestii-mici-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Weinkeller von Mileștii Mici", hu: "Mileștii Mici Borpince", ro: "Combinatul de Vinuri Mileștii Mici", en: "Mileștii Mici Winery",
 image: "/poi-images/moldova-milestii-mici-economic-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/moldova-milestii-mici-economic-v2.webp"
   },
   {
     id: "moldova-glass-factory-chisinau-economic-v2",
+    parent: "MD",
     type: "factory",
     name: { de: "Glasfabrik Chișinău", hu: "Kisinyovi Üveggyár", ro: "Fabrica de Sticlă din Chișinău", en: "Glass Factory Chișinău",
 image: "/poi-images/moldova-glass-factory-chisinau-economic-v2.webp"
@@ -247,6 +254,7 @@ image: "/poi-images/moldova-glass-factory-chisinau-economic-v2.webp"
   },
   {
     id: "moldova-purcari-estate-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Weingut Purcari", hu: "Purcari Birtok", ro: "Vinăria Purcari", en: "Purcari Estate",
 image: "/poi-images/moldova-purcari-estate-economic-v2.webp"
@@ -282,6 +290,7 @@ image: "/poi-images/moldova-purcari-estate-economic-v2.webp"
   },
   {
     id: "moldova-costesti-stanca-dam-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Wasserkraftwerk Costești-Stânca", hu: "Costești-Stânca Vízerőmű", ro: "Nodul Hidrotehnic Costești-Stânca", en: "Costești-Stânca Hydroelectric Plant",
 image: "/poi-images/moldova-costesti-stanca-dam-economic-v2.webp"
@@ -317,6 +326,7 @@ image: "/poi-images/moldova-costesti-stanca-dam-economic-v2.webp"
   },
   {
     id: "moldova-fez-ungheni-business-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "FEZ Ungheni-Business", hu: "Ungheni-Business Szabad Gazdasági Övezet", ro: "ZEL Ungheni-Business", en: "FEZ Ungheni-Business",
 image: "/poi-images/moldova-fez-ungheni-business-economic-v2.webp"
@@ -352,6 +362,7 @@ image: "/poi-images/moldova-fez-ungheni-business-economic-v2.webp"
   },
   {
     id: "moldova-orhei-vit-factory-economic-v2",
+    parent: "MD",
     type: "factory",
     name: { de: "Orhei-Vit Konservenfabrik", hu: "Orhei-Vit Konzervgyár", ro: "Fabrica Orhei-Vit", en: "Orhei-Vit Cannery",
 image: "/poi-images/moldova-orhei-vit-factory-economic-v2.webp"
@@ -387,6 +398,7 @@ image: "/poi-images/moldova-orhei-vit-factory-economic-v2.webp"
   },
   {
     id: "moldova-dubasari-dam-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Staudamm von Dubăsari", hu: "Dubăsari-gát", ro: "Barajul de la Dubăsari", en: "Dubăsari Dam",
 image: "/poi-images/moldova-dubasari-dam-economic-v2.webp"
@@ -422,6 +434,7 @@ image: "/poi-images/moldova-dubasari-dam-economic-v2.webp"
   },
   {
     id: "moldova-floare-carpet-economic-v2",
+    parent: "MD",
     type: "factory",
     name: { de: "Teppichfabrik Floare-Carpet", hu: "Floare-Carpet Szőnyeggyár", ro: "Fabrica Floare-Carpet", en: "Floare-Carpet Factory",
 image: "/poi-images/moldova-floare-carpet-economic-v2.webp"
@@ -457,6 +470,7 @@ image: "/poi-images/moldova-floare-carpet-economic-v2.webp"
   },
   {
     id: "moldova-zorile-shoe-factory-economic-v2",
+    parent: "MD",
     type: "factory",
     name: { de: "Schuhfabrik Zorile", hu: "Zorile Cipőgyár", ro: "Fabrica de încălțăminte Zorile", en: "Zorile Shoe Factory",
 image: "/poi-images/moldova-zorile-shoe-factory-economic-v2.webp"
@@ -492,6 +506,7 @@ image: "/poi-images/moldova-zorile-shoe-factory-economic-v2.webp"
   },
   {
     id: "moldova-fez-tvardita-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Freie Wirtschaftszone Tvardița", hu: "Tvardița Szabad Gazdasági Övezet", ro: "ZEL Tvardița", en: "Free Economic Zone Tvardița",
 image: "/poi-images/moldova-fez-tvardita-economic-v2.webp"
@@ -527,6 +542,7 @@ image: "/poi-images/moldova-fez-tvardita-economic-v2.webp"
   },
   {
     id: "moldova-fez-valcanes-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Freie Wirtschaftszone Valkaneș", hu: "Valkaneș Szabad Gazdasági Övezet", ro: "ZEL Valkaneș", en: "Free Economic Zone Valkaneș",
 image: "/poi-images/moldova-fez-valcanes-economic-v2.webp"
@@ -562,6 +578,7 @@ image: "/poi-images/moldova-fez-valcanes-economic-v2.webp"
   },
   {
     id: "moldova-cosauti-stone-quarry-economic-v2",
+    parent: "MD",
     type: "mine",
     name: { de: "Steinbruch von Cosăuți", hu: "Cosăuți kőbánya", ro: "Cariera de piatră din Cosăuți", en: "Cosăuți Stone Quarry",
 image: "/poi-images/moldova-cosauti-stone-quarry-economic-v2.webp"
@@ -596,6 +613,7 @@ image: "/poi-images/moldova-cosauti-stone-quarry-economic-v2.webp"
   },
   {
     id: "moldova-micauti-limestone-quarry-economic-v2",
+    parent: "MD",
     type: "mine",
     name: { de: "Kalksteinbruch Micăuți", hu: "Micăuți mészkőbánya", ro: "Cariera de calcar Micăuți", en: "Micăuți Limestone Quarry",
 image: "/poi-images/moldova-micauti-limestone-quarry-economic-v2.webp"
@@ -631,6 +649,7 @@ image: "/poi-images/moldova-micauti-limestone-quarry-economic-v2.webp"
   },
   {
     id: "moldova-chateau-vartely-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Chateau Vartely", hu: "Chateau Vartely", ro: "Chateau Vartely", en: "Chateau Vartely",
 image: "/poi-images/moldova-chateau-vartely-economic-v2.webp"
@@ -665,6 +684,7 @@ image: "/poi-images/moldova-chateau-vartely-economic-v2.webp"
   },
   {
     id: "moldova-castel-mimi-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Castel Mimi", hu: "Mimi Kastély", ro: "Castel Mimi", en: "Castel Mimi",
 image: "/poi-images/moldova-castel-mimi-economic-v2.webp"
@@ -700,6 +720,7 @@ image: "/poi-images/moldova-castel-mimi-economic-v2.webp"
   },
   {
     id: "moldova-fez-expo-business-chisinau-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "FEZ Expo-Business-Chișinău", hu: "Expo-Business-Chișinău Szabad Gazdasági Övezet", ro: "ZEL Expo-Business-Chișinău", en: "FEZ Expo-Business-Chișinău",
 image: "/poi-images/moldova-fez-expo-business-chisinau-v2.webp"
@@ -735,6 +756,7 @@ image: "/poi-images/moldova-fez-expo-business-chisinau-v2.webp"
   },
   {
     id: "moldova-soroca-fruit-cluster-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Soroca Obstverarbeitungskluster", hu: "Soroca Gyümölcsfeldolgozó Klaszter", ro: "Clusterul de procesare a fructelor Soroca", en: "Soroca Fruit Processing Cluster",
 image: "/poi-images/moldova-soroca-fruit-cluster-economic-v2.webp"
@@ -770,6 +792,7 @@ image: "/poi-images/moldova-soroca-fruit-cluster-economic-v2.webp"
   },
   {
     id: "moldova-mesterul-furniture-economic-v2",
+    parent: "MD",
     type: "factory",
     name: { de: "Möbelfabrik Meșterul", hu: "Meșterul Bútorgyár", ro: "Fabrica de mobila Meșterul", en: "Meșterul Furniture Factory",
 image: "/poi-images/moldova-mesterul-furniture-economic-v2.webp"
@@ -805,6 +828,7 @@ image: "/poi-images/moldova-mesterul-furniture-economic-v2.webp"
   },
   {
     id: "moldova-steaua-reds-textile-v2",
+    parent: "MD",
     type: "factory",
     name: { de: "Textilfabrik Steaua-RedS", hu: "Steaua-RedS Textilgyár", ro: "Fabrica Steaua-RedS", en: "Steaua-RedS Textile Factory",
 image: "/poi-images/moldova-steaua-reds-textile-v2.webp"
@@ -840,6 +864,7 @@ image: "/poi-images/moldova-steaua-reds-textile-v2.webp"
   },
   {
     id: "moldova-fez-otaci-business-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Wirtschaftszone Otaci-Business", hu: "Otaci-Business Gazdasági Övezet", ro: "ZEL Otaci-Business", en: "Otaci-Business SEZ",
 image: "/poi-images/moldova-fez-otaci-business-v2.webp"
@@ -875,6 +900,7 @@ image: "/poi-images/moldova-fez-otaci-business-v2.webp"
   },
   {
     id: "moldova-fez-taraclia-economic-v2",
+    parent: "MD",
     type: "industry",
     name: { de: "Freie Wirtschaftszone Taraclia", hu: "Taraclia Szabad Gazdasági Övezet", ro: "ZEL Taraclia", en: "Free Economic Zone Taraclia",
 image: "/poi-images/moldova-fez-taraclia-economic-v2.webp"
@@ -910,6 +936,7 @@ image: "/poi-images/moldova-fez-taraclia-economic-v2.webp"
   },
   {
     id: "moldova-chisinau-airport-hub-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Wirtschaftshub Flughafen Chișinău", hu: "Kisinyovi Repülőtér Gazdasági Hub", ro: "Hub-ul economic Aeroportul Chișinău", en: "Chișinău Airport Business Hub",
 image: "/poi-images/moldova-chisinau-airport-hub-v2.webp"
@@ -945,6 +972,7 @@ image: "/poi-images/moldova-chisinau-airport-hub-v2.webp"
   },
   {
     id: "moldova-ionel-clothing-factory-v2",
+    parent: "MD",
     type: "factory",
     name: { de: "Bekleidungsfabrik Ionel", hu: "Ionel Ruhagyár", ro: "Fabrica de confecții Ionel", en: "Ionel Clothing Factory",
 image: "/poi-images/moldova-ionel-clothing-factory-v2.webp"
@@ -980,6 +1008,7 @@ image: "/poi-images/moldova-ionel-clothing-factory-v2.webp"
   },
   {
     id: "moldova-tirotex-textile-complex-v2",
+    parent: "MD",
     type: "factory",
     name: { de: "Textilkomplex Tirotex", hu: "Tirotex Textilipari Komplexum", ro: "Complexul textil Tirotex", en: "Tirotex Textile Complex",
 image: "/poi-images/moldova-tirotex-textile-complex-v2.webp"
@@ -1015,6 +1044,7 @@ image: "/poi-images/moldova-tirotex-textile-complex-v2.webp"
   },
   {
     id: "moldova-cahul-cannery-economic-v2",
+    parent: "MD",
     type: "factory",
     name: { de: "Konservenfabrik Cahul", hu: "Cahuli Konzervgyár", ro: "Fabrica de conserve din Cahul", en: "Cahul Cannery",
 image: "/poi-images/moldova-cahul-cannery-economic-v2.webp"

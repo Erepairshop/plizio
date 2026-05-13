@@ -3,6 +3,7 @@ export const greeceLifeV2: POI[] = [
 
   {
     id: "greece-mount-olympus-national-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Nationalpark Olymp", hu: "Olümposz Nemzeti Park", ro: "Parcul Național Olimp", en: "Mount Olympus National Park",
 image: "/poi-images/greece-mount-olympus-national-park-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Mount Olympus snowy peaks and alpine forest",
     image: "/poi-images/greece-mount-olympus-national-park-life-v2.webp",
 },  {
     id: "greece-samaria-gorge-national-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Nationalpark Samaria-Schlucht", hu: "Szamaria-szurdok Nemzeti Park", ro: "Parcul Național Cheile Samariei", en: "Samaria Gorge National Park",
 image: "/poi-images/greece-samaria-gorge-national-park-life-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Samaria Gorge narrow passage Iron Gates",
     image: "/poi-images/greece-samaria-gorge-national-park-life-v2.webp",
 },  {
     id: "greece-alonissos-marine-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Meeresnationalpark Alonissos", hu: "Alonisszoszi Nemzeti Tengeri Park", ro: "Parcul Național Marin Alonissos", en: "Alonissos Marine Park",
 image: "/poi-images/greece-alonissos-marine-park-life-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Mediterranean monk seal swimming in blue water",
     image: "/poi-images/greece-alonissos-marine-park-life-v2.webp",
 },  {
     id: "greece-zakynthos-marine-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Meeresnationalpark Zakynthos", hu: "Zakinthoszi Nemzeti Tengeri Park", ro: "Parcul Național Marin Zakynthos", en: "Zakynthos Marine Park",
 image: "/poi-images/greece-zakynthos-marine-park-life-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Loggerhead sea turtle Caretta caretta underwater",
     image: "/poi-images/greece-zakynthos-marine-park-life-v2.webp",
 },  {
     id: "greece-lake-kerkini-life-v2",
+    parent: "GR",
     type: "lake",
     name: { de: "Kerkini-See", hu: "Kerkini-tó", ro: "Lacul Kerkini", en: "Lake Kerkini",
 image: "/poi-images/greece-lake-kerkini-life-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Water buffalos in Lake Kerkini with birds",
     image: "/poi-images/greece-lake-kerkini-life-v2.webp",
 },  {
     id: "greece-vikos-aoos-national-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Nationalpark Vikos-Aoos", hu: "Vikosz-Aóosz Nemzeti Park", ro: "Parcul Național Vikos-Aoos", en: "Vikos-Aoos National Park",
 image: "/poi-images/greece-vikos-aoos-national-park-life-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Vikos Gorge viewpoint panoramic landscape",
     image: "/poi-images/greece-vikos-aoos-national-park-life-v2.webp",
 },  {
     id: "greece-dadia-forest-life-v2",
+    parent: "GR",
     type: "forest",
     name: { de: "Wald von Dadia", hu: "Dadia-erdő", ro: "Pădurea Dadia", en: "Dadia Forest",
 image: "/poi-images/greece-dadia-forest-life-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Cinereous Vulture perched in Dadia Forest",
     image: "/poi-images/greece-dadia-forest-life-v2.webp",
 },  {
     id: "greece-evros-delta-life-v2",
+    parent: "GR",
     type: "wildlife",
     name: { de: "Evros-Delta", hu: "Evrosz-delta", ro: "Delta Evrosului", en: "Evros Delta",
 image: "/poi-images/greece-evros-delta-life-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Flamingos in the shallow waters of Evros Delta",
     image: "/poi-images/greece-evros-delta-life-v2.webp",
 },  {
     id: "greece-parnitha-national-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Nationalpark Parnitha", hu: "Parnisza Nemzeti Park", ro: "Parcul Național Parnitha", en: "Parnitha National Park",
 image: "/poi-images/greece-parnitha-national-park-life-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Red deer in the fir forest of Parnitha",
     image: "/poi-images/greece-parnitha-national-park-life-v2.webp",
 },  {
     id: "greece-rhodes-butterfly-valley-life-v2",
+    parent: "GR",
     type: "valley",
     name: { de: "Schmetterlingstal von Rhodos", hu: "Pillangók völgye - Rodosz", ro: "Valea Fluturilor din Rodos", en: "Butterfly Valley of Rhodes",
 image: "/poi-images/greece-rhodes-butterfly-valley-life-v2.webp"
@@ -343,6 +353,7 @@ image: "/poi-images/greece-rhodes-butterfly-valley-life-v2.webp"
   },
   {
     id: "greece-arcturos-bear-sanctuary-life-v2",
+    parent: "GR",
     type: "wildlife",
     name: { de: "Arcturos Bärenschutzzentrum", hu: "Arcturos Medveotthon", ro: "Sanctuarul de urși Arcturos", en: "Arcturos Brown Bear Sanctuary",
 image: "/poi-images/greece-arcturos-bear-sanctuary-life-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Brown bear in a forested sanctuary enclosure",
     image: "/poi-images/greece-arcturos-bear-sanctuary-life-v2.webp",
 },  {
     id: "greece-attica-zoological-park-life-v2",
+    parent: "GR",
     type: "wildlife",
     name: { de: "Attischer Zoologischer Park", hu: "Attikai Állatkert", ro: "Parcul Zoologic Attica", en: "Attica Zoological Park",
 image: "/poi-images/greece-attica-zoological-park-life-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Giraffes and zebras in Attica Zoological Park",
     image: "/poi-images/greece-attica-zoological-park-life-v2.webp",
 },  {
     id: "greece-nestos-delta-life-v2",
+    parent: "GR",
     type: "wildlife",
     name: { de: "Nestos-Delta", hu: "Nesztosz-delta", ro: "Delta Nestosului", en: "Nestos Delta",
 image: "/poi-images/greece-nestos-delta-life-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Nestos river winding through green delta landscape",
     image: "/poi-images/greece-nestos-delta-life-v2.webp",
 },  {
     id: "greece-cretaquarium-life-v2",
+    parent: "GR",
     type: "museum",
     name: { de: "Cretaquarium", hu: "Krétai Akvárium", ro: "Acvariul din Creta", en: "Crete Aquarium",
 image: "/poi-images/greece-cretaquarium-life-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Large shark swimming in Cretaquarium tank",
     image: "/poi-images/greece-cretaquarium-life-v2.webp",
 },  {
     id: "greece-ainos-national-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Nationalpark Ainos", hu: "Enosz Nemzeti Park", ro: "Parcul Național Ainos", en: "Ainos National Park",
 image: "/poi-images/greece-ainos-national-park-life-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Ancient Greek fir forest on Mount Ainos",
     image: "/poi-images/greece-ainos-national-park-life-v2.webp",
 },  {
     id: "greece-amvrakikos-gulf-life-v2",
+    parent: "GR",
     type: "wildlife",
     name: { de: "Amvrakischer Golf", hu: "Amvrakikosz-öböl", ro: "Golful Amvrakikos", en: "Amvrakikos Gulf",
 image: "/poi-images/greece-amvrakikos-gulf-life-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Dolphins jumping in the calm waters of Amvrakikos Gulf",
     image: "/poi-images/greece-amvrakikos-gulf-life-v2.webp",
 },  {
     id: "greece-strofylia-forest-life-v2",
+    parent: "GR",
     type: "forest",
     name: { de: "Strofylia-Wald", hu: "Sztofilia-erdő", ro: "Pădurea Strofylia", en: "Strofylia Forest",
 image: "/poi-images/greece-strofylia-forest-life-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Coastal stone pine forest and lagoon",
     image: "/poi-images/greece-strofylia-forest-life-v2.webp",
 },  {
     id: "greece-lake-pamvotis-life-v2",
+    parent: "GR",
     type: "lake",
     name: { de: "Pamvotis-See", hu: "Pamvotisz-tó", ro: "Lacul Pamvotis", en: "Lake Pamvotis",
 image: "/poi-images/greece-lake-pamvotis-life-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Ioannina island in Lake Pamvotis with birds flying",
     image: "/poi-images/greece-lake-pamvotis-life-v2.webp",
 },  {
     id: "greece-athens-national-garden-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Nationalgarten von Athen", hu: "Athéni Nemzeti Kert", ro: "Grădina Națională din Atena", en: "National Garden of Athens",
 image: "/poi-images/greece-athens-national-garden-life-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Lush green paths in the National Garden of Athens",
     image: "/poi-images/greece-athens-national-garden-life-v2.webp",
 },  {
     id: "greece-parnassus-national-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Nationalpark Parnass", hu: "Parnasszosz Nemzeti Park", ro: "Parcul Național Parnassus", en: "Parnassus National Park",
 image: "/poi-images/greece-parnassus-national-park-life-v2.webp"
@@ -683,6 +703,7 @@ image: "/poi-images/greece-parnassus-national-park-life-v2.webp"
   },
   {
     id: "greece-vravrona-wetland-life-v2",
+    parent: "GR",
     type: "wildlife",
     name: { de: "Feuchtgebiet von Vravrona", hu: "Vravronai vizes élőhely", ro: "Zona umedă Vravrona", en: "Vravrona Wetland",
 image: "/poi-images/greece-vravrona-wetland-life-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Marshy wetland area near the sea coast",
     image: "/poi-images/greece-vravrona-wetland-life-v2.webp",
 },  {
     id: "greece-archelon-rescue-centre-life-v2",
+    parent: "GR",
     type: "wildlife",
     name: { de: "Archelon Schildkröten-Rettungszentrum", hu: "Archelon Teknősmentő Központ", ro: "Centrul de salvare Archelon", en: "Archelon Sea Turtle Rescue Centre",
 image: "/poi-images/greece-archelon-rescue-centre-life-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Sea turtle being treated in a rescue tank",
     image: "/poi-images/greece-archelon-rescue-centre-life-v2.webp",
 },  {
     id: "greece-rodopi-national-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Nationalpark Rhodopen", hu: "Rodopé Nemzeti Park", ro: "Parcul Național Rodopi", en: "Rodopi Mountain Range National Park",
 image: "/poi-images/greece-rodopi-national-park-life-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Dense virgin forest in the Rodopi mountains",
     image: "/poi-images/greece-rodopi-national-park-life-v2.webp",
 },  {
     id: "greece-rhodes-aquarium-life-v2",
+    parent: "GR",
     type: "museum",
     name: { de: "Aquarium von Rhodos", hu: "Rodoszi Akvárium", ro: "Acvariul din Rodos", en: "Rhodes Aquarium",
 image: "/poi-images/greece-rhodes-aquarium-life-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Art deco building of the Rhodes aquarium by the sea",
     image: "/poi-images/greece-rhodes-aquarium-life-v2.webp",
 },  {
     id: "greece-oeta-national-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Nationalpark Oeta", hu: "Oiti Nemzeti Park", ro: "Parcul Național Oeta", en: "Oeta National Park",
 image: "/poi-images/greece-oeta-national-park-life-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Balkan chamois on a rocky mountain slope",
     image: "/poi-images/greece-oeta-national-park-life-v2.webp",
 },  {
     id: "greece-sounion-national-park-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Nationalpark Sounion", hu: "Szunion Nemzeti Park", ro: "Parcul Național Sounion", en: "Sounion National Park",
 image: "/poi-images/greece-sounion-national-park-life-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Coastal Mediterranean macchia and pine trees in Sounion",
     image: "/poi-images/greece-sounion-national-park-life-v2.webp",
 },  {
     id: "greece-messolonghi-lagoon-life-v2",
+    parent: "GR",
     type: "wildlife",
     name: { de: "Lagune von Messolonghi", hu: "Meszolongi-lagúna", ro: "Laguna Messolonghi", en: "Messolonghi Lagoon",
 image: "/poi-images/greece-messolonghi-lagoon-life-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Wooden fisherman's huts on stilts in the lagoon",
     image: "/poi-images/greece-messolonghi-lagoon-life-v2.webp",
 },  {
     id: "greece-diomedes-botanical-garden-life-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Botanischer Garten Diomedes", hu: "Diomédész Botanikus Kert", ro: "Grădina Botanică Diomedes", en: "Diomedes Botanical Garden",
 image: "/poi-images/greece-diomedes-botanical-garden-life-v2.webp"
@@ -955,6 +983,7 @@ image: "/poi-images/greece-diomedes-botanical-garden-life-v2.webp"
   },
   {
     id: "greece-monachus-conservation-center-life-v2",
+    parent: "GR",
     type: "wildlife",
     name: { de: "MOM Mönchsrobben-Zentrum", hu: "MOM Barátfóka-védelmi Központ", ro: "Centrul de conservare MOM", en: "Monachus monachus Conservation Center",
 image: "/poi-images/greece-monachus-conservation-center-life-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Information center and seal rescue equipment",
     image: "/poi-images/greece-monachus-conservation-center-life-v2.webp",
 },  {
     id: "greece-kotychi-lagoon-life-v2",
+    parent: "GR",
     type: "wildlife",
     name: { de: "Kotychi-Lagune", hu: "Kotiki-lagúna", ro: "Laguna Kotychi", en: "Kotychi Lagoon",
 image: "/poi-images/greece-kotychi-lagoon-life-v2.webp"

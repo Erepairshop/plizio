@@ -4,6 +4,7 @@ export const polandReliefV2: POI[] = [
 
   {
     id: "poland-rysy-peak-relief-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Meeraugspitze", hu: "Tengerszem-csúcs", ro: "Vârful Rysy", en: "Rysy",
 image: "/poi-images/poland-rysy-peak-relief-v2.webp"
@@ -37,6 +38,7 @@ image: "/poi-images/poland-rysy-peak-relief-v2.webp"
     }, image: "/poi-images/poland-rysy-peak-relief-v2.webp"},
   {
     id: "poland-tatra-mountains-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Tatra-Gebirge", hu: "Tátra", ro: "Munții Tatra", en: "Tatra Mountains",
 image: "/poi-images/poland-tatra-mountains-relief-v2.webp"
@@ -70,6 +72,7 @@ image: "/poi-images/poland-tatra-mountains-relief-v2.webp"
     }, image: "/poi-images/poland-tatra-mountains-relief-v2.webp"},
   {
     id: "poland-sniezka-peak-relief-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Schneekoppe", hu: "Sněžka", ro: "Vârful Sněžka", en: "Śnieżka",
 image: "/poi-images/poland-sniezka-peak-relief-v2.webp"
@@ -103,6 +106,7 @@ image: "/poi-images/poland-sniezka-peak-relief-v2.webp"
     }, image: "/poi-images/poland-sniezka-peak-relief-v2.webp"},
   {
     id: "poland-bieszczady-mountains-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Bieszczady-Gebirge", hu: "Bieszczady-hegység", ro: "Munții Bieszczady", en: "Bieszczady Mountains",
 image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp"
@@ -136,6 +140,7 @@ image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp"
     }, image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp"},
   {
     id: "poland-tarnica-peak-relief-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Tarnica", hu: "Tarnica", ro: "Vârful Tarnica", en: "Tarnica",
 image: "/poi-images/poland-tarnica-peak-relief-v2.webp"
@@ -169,6 +174,7 @@ image: "/poi-images/poland-tarnica-peak-relief-v2.webp"
     }, image: "/poi-images/poland-tarnica-peak-relief-v2.webp"},
   {
     id: "poland-stolowe-mountains-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Heuscheuergebirge", hu: "Tábla-hegység", ro: "Munții Stołowe", en: "Stołowe Mountains",
 image: "/poi-images/poland-stolowe-mountains-relief-v2.webp"
@@ -202,6 +208,7 @@ image: "/poi-images/poland-stolowe-mountains-relief-v2.webp"
     }, image: "/poi-images/poland-stolowe-mountains-relief-v2.webp"},
   {
     id: "poland-pieniny-mountains-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Pieninen", hu: "Pieninek", ro: "Munții Pieniny", en: "Pieniny Mountains",
 image: "/poi-images/poland-pieniny-mountains-relief-v2.webp"
@@ -235,6 +242,7 @@ image: "/poi-images/poland-pieniny-mountains-relief-v2.webp"
     }, image: "/poi-images/poland-pieniny-mountains-relief-v2.webp"},
   {
     id: "poland-holy-cross-mountains-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Heiligkreuzgebirge", hu: "Szentkereszt-hegység", ro: "Munții Sfânta Cruce", en: "Holy Cross Mountains",
 image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp"
@@ -268,6 +276,7 @@ image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp"
     }, image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp"},
   {
     id: "poland-lysica-peak-relief-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Lysica", hu: "Łysica", ro: "Vârful Łysica", en: "Łysica",
 image: "/poi-images/poland-lysica-peak-relief-v2.webp"
@@ -301,6 +310,7 @@ image: "/poi-images/poland-lysica-peak-relief-v2.webp"
     }, image: "/poi-images/poland-lysica-peak-relief-v2.webp"},
   {
     id: "poland-beskid-slaski-range-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Schlesische Beskiden", hu: "Sziléziai-Beszkidek", ro: "Beskizii Silezieni", en: "Silesian Beskids",
 image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp"
@@ -334,6 +344,7 @@ image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp"
     }, image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp"},
   {
     id: "poland-skrzyczne-peak-relief-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Skrzyczne", hu: "Skrzyczne", ro: "Vârful Skrzyczne", en: "Skrzyczne",
 image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp"
@@ -367,6 +378,7 @@ image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp"
     }, image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp"},
   {
     id: "poland-turbacz-peak-relief-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Turbacz", hu: "Turbacz", ro: "Vârful Turbacz", en: "Turbacz",
 image: "/poi-images/poland-turbacz-peak-relief-v2.webp"
@@ -400,6 +412,7 @@ image: "/poi-images/poland-turbacz-peak-relief-v2.webp"
     }, image: "/poi-images/poland-turbacz-peak-relief-v2.webp"},
   {
     id: "poland-jura-upland-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Krakau-Tschenstochauer Jura", hu: "Krakkó-Częstochowai-fennsík", ro: "Podișul Cracovia-Częstochowa", en: "Kraków-Częstochowa Upland",
 image: "/poi-images/poland-jura-upland-relief-v2.webp"
@@ -433,6 +446,7 @@ image: "/poi-images/poland-jura-upland-relief-v2.webp"
     }, image: "/poi-images/poland-jura-upland-relief-v2.webp"},
   {
     id: "poland-lublin-upland-relief-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Lubliner Hochland", hu: "Lublini-fennsík", ro: "Podișul Lublin", en: "Lublin Upland",
 image: "/poi-images/poland-lublin-upland-relief-v2.webp"
@@ -466,6 +480,7 @@ image: "/poi-images/poland-lublin-upland-relief-v2.webp"
     }, image: "/poi-images/poland-lublin-upland-relief-v2.webp"},
   {
     id: "poland-sandomierz-basin-relief-v2",
+    parent: "PL",
     type: "valley",
     name: { de: "Sandomirer Becken", hu: "Sandomierzi-medence", ro: "Bazinul Sandomierz", en: "Sandomierz Basin",
 image: "/poi-images/poland-sandomierz-basin-relief-v2.webp"
@@ -500,6 +515,7 @@ image: "/poi-images/poland-sandomierz-basin-relief-v2.webp"
     }, image: "/poi-images/poland-sandomierz-basin-relief-v2.webp"},
   {
     id: "poland-masurian-lake-district-relief-v2",
+    parent: "PL",
     type: "lake",
     name: { de: "Masurische Seenplatte", hu: "Mazuri-tóhátság", ro: "Regiunea Lacurilor Mazuriene", en: "Masurian Lake District",
 image: "/poi-images/poland-masurian-lake-district-relief-v2.webp"
@@ -533,6 +549,7 @@ image: "/poi-images/poland-masurian-lake-district-relief-v2.webp"
     }, image: "/poi-images/poland-masurian-lake-district-relief-v2.webp"},
   {
     id: "poland-lacka-dune-relief-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Lontzke-Düne", hu: "Lontzke-dűne", ro: "Duna Łącka", en: "Łącka Dune",
 image: "/poi-images/poland-lacka-dune-relief-v2.webp"
@@ -566,6 +583,7 @@ image: "/poi-images/poland-lacka-dune-relief-v2.webp"
     }, image: "/poi-images/poland-lacka-dune-relief-v2.webp"},
   {
     id: "poland-jelenia-gora-valley-relief-v2",
+    parent: "PL",
     type: "valley",
     name: { de: "Hirschberger Tal", hu: "Jelenia Góra-i-medence", ro: "Depresiunea Jelenia Góra", en: "Jelenia Góra Valley",
 image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp"
@@ -599,6 +617,7 @@ image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp"
     }, image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp"},
   {
     id: "poland-beskid-zywiecki-range-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Saybuscher Beskiden", hu: "Magas-Beszkidek", ro: "Beskizii Żywiecki", en: "Żywiec Beskids",
 image: "/poi-images/poland-beskid-zywiecki-range-relief-v2.webp"
@@ -632,6 +651,7 @@ image: "/poi-images/poland-beskid-zywiecki-range-relief-v2.webp"
     }, image: "/poi-images/poland-beskid-zywiecki-range-relief-v2.webp"},
   {
     id: "poland-sudetes-mountains-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Sudeten", hu: "Szudéták", ro: "Munții Sudeți", en: "Sudetes",
 image: "/poi-images/poland-sudetes-mountains-relief-v2.webp"
@@ -665,6 +685,7 @@ image: "/poi-images/poland-sudetes-mountains-relief-v2.webp"
     }, image: "/poi-images/poland-sudetes-mountains-relief-v2.webp"},
   {
     id: "poland-beskid-niski-range-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Niedere Beskiden", hu: "Alacsony-Beszkidek", ro: "Beskizii Joși", en: "Low Beskids",
 image: "/poi-images/poland-beskid-niski-range-relief-v2.webp"
@@ -698,6 +719,7 @@ image: "/poi-images/poland-beskid-niski-range-relief-v2.webp"
     }, image: "/poi-images/poland-beskid-niski-range-relief-v2.webp"},
   {
     id: "poland-pogorze-przemyskie-upland-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Przemysler Vorgebirge", hu: "Przemyśli-előhegység", ro: "Piemontul Przemyśl", en: "Przemyśl Foothills",
 image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp"
@@ -731,6 +753,7 @@ image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp"
     }, image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp"},
   {
     id: "poland-beskid-sadecki-range-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Sandzer Beskiden", hu: "Sądecki-Beszkidek", ro: "Beskizii Sądecki", en: "Sądecki Beskids",
 image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp"
@@ -764,6 +787,7 @@ image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp"
     }, image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp"},
   {
     id: "poland-gorce-mountains-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Gorce-Gebirge", hu: "Gorce-hegység", ro: "Munții Gorce", en: "Gorce Mountains",
 image: "/poi-images/poland-gorce-mountains-relief-v2.webp"
@@ -797,6 +821,7 @@ image: "/poi-images/poland-gorce-mountains-relief-v2.webp"
     }, image: "/poi-images/poland-gorce-mountains-relief-v2.webp"},
   {
     id: "poland-north-european-plain-relief-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Polnisches Tiefland", hu: "Lengyel-alföld", ro: "Câmpia Poloneză", en: "Polish Plain",
 image: "/poi-images/poland-north-european-plain-relief-v2.webp"
@@ -831,6 +856,7 @@ image: "/poi-images/poland-north-european-plain-relief-v2.webp"
   },
   {
     id: "poland-pogorze-wielickie-upland-relief-v2",
+    parent: "PL",
     type: "mountain",
     name: { de: "Wieliczka-Vorgebirge", hu: "Wieliczkai-előhegység", ro: "Piemontul Wieliczka", en: "Wieliczka Foothills",
 image: "/poi-images/poland-pogorze-wielickie-upland-relief-v2.webp"

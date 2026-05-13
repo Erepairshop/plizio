@@ -3,6 +3,7 @@ export const swedenReliefV2: POI[] = [
 
   {
     id: "sweden-kebnekaise-sydtopp-relief-v2",
+    parent: "SE",
     type: "peak",
     name: { de: "Kebnekaise Sydtopp", hu: "Kebnekaise déli csúcs", ro: "Kebnekaise Vârful Sud", en: "Kebnekaise Southern Peak",
 image: "/poi-images/sweden-kebnekaise-sydtopp-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Kebnekaise mountain peak with snow and glacier",
     image: "/poi-images/sweden-kebnekaise-sydtopp-relief-v2.webp",
 },  {
     id: "sweden-kebnekaise-nordtopp-relief-v2",
+    parent: "SE",
     type: "peak",
     name: { de: "Kebnekaise Nordtopp", hu: "Kebnekaise északi csúcs", ro: "Kebnekaise Vârful Nord", en: "Kebnekaise Northern Peak",
 image: "/poi-images/sweden-kebnekaise-nordtopp-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Kebnekaise Northern peak rocky summit",
     image: "/poi-images/sweden-kebnekaise-nordtopp-relief-v2.webp",
 },  {
     id: "sweden-sarektjakka-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Sarektjåkkå", hu: "Sarektjåkkå", ro: "Sarektjåkkå", en: "Sarektjåkkå",
 image: "/poi-images/sweden-sarektjakka-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Sarektjakka mountain massif in Sarek National Park",
     image: "/poi-images/sweden-sarektjakka-relief-v2.webp",
 },  {
     id: "sweden-akka-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Akka", hu: "Akka", ro: "Akka", en: "Akka",
 image: "/poi-images/sweden-akka-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Akka mountain massif above lake Akkajaure",
     image: "/poi-images/sweden-akka-relief-v2.webp",
 },  {
     id: "sweden-sylarna-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Sylarna", hu: "Sylarna", ro: "Sylarna", en: "Sylarna",
 image: "/poi-images/sweden-sylarna-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Sylarna mountain massif peaks",
     image: "/poi-images/sweden-sylarna-relief-v2.webp",
 },  {
     id: "sweden-areskutan-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Åreskutan", hu: "Åreskutan", ro: "Åreskutan", en: "Åreskutan",
 image: "/poi-images/sweden-areskutan-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Areskutan mountain with ski slopes",
     image: "/poi-images/sweden-areskutan-relief-v2.webp",
 },  {
     id: "sweden-dundret-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Dundret", hu: "Dundret", ro: "Dundret", en: "Dundret",
 image: "/poi-images/sweden-dundret-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Dundret mountain near Gallivare",
     image: "/poi-images/sweden-dundret-relief-v2.webp",
 },  {
     id: "sweden-marsfjallet-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Marsfjället", hu: "Marsfjället", ro: "Marsfjället", en: "Marsfjället",
 image: "/poi-images/sweden-marsfjallet-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Marsfjallet mountain landscape Lapland",
     image: "/poi-images/sweden-marsfjallet-relief-v2.webp",
 },  {
     id: "sweden-stadjan-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Städjan", hu: "Städjan", ro: "Städjan", en: "Städjan",
 image: "/poi-images/sweden-stadjan-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Stadjan mountain conical peak Dalarna",
     image: "/poi-images/sweden-stadjan-relief-v2.webp",
 },  {
     id: "sweden-fulufjallet-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Fulufjället", hu: "Fulufjället", ro: "Fulufjället", en: "Fulufjället",
 image: "/poi-images/sweden-fulufjallet-relief-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Fulufjallet plateau mountain landscape",
     image: "/poi-images/sweden-fulufjallet-relief-v2.webp",
 },  {
     id: "sweden-kinnekulle-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Kinnekulle", hu: "Kinnekulle", ro: "Kinnekulle", en: "Kinnekulle",
 image: "/poi-images/sweden-kinnekulle-relief-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Kinnekulle table mountain Vänern lake",
     image: "/poi-images/sweden-kinnekulle-relief-v2.webp",
 },  {
     id: "sweden-billingen-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Billingen", hu: "Billingen", ro: "Billingen", en: "Billingen",
 image: "/poi-images/sweden-billingen-relief-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Billingen table mountain forest Skovde",
     image: "/poi-images/sweden-billingen-relief-v2.webp",
 },  {
     id: "sweden-omberg-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Omberg", hu: "Omberg", ro: "Omberg", en: "Omberg",
 image: "/poi-images/sweden-omberg-relief-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Omberg mountain cliff Lake Vattern",
     image: "/poi-images/sweden-omberg-relief-v2.webp",
 },  {
     id: "sweden-taberg-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Taberg", hu: "Taberg", ro: "Taberg", en: "Taberg",
 image: "/poi-images/sweden-taberg-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Taberg mountain peak near Jonkoping",
     image: "/poi-images/sweden-taberg-relief-v2.webp",
 },  {
     id: "sweden-skierfe-relief-v2",
+    parent: "SE",
     type: "peak",
     name: { de: "Skierfe", hu: "Skierfe", ro: "Skierfe", en: "Skierfe",
 image: "/poi-images/sweden-skierfe-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Skierfe mountain cliff view Rapadalen delta",
     image: "/poi-images/sweden-skierfe-relief-v2.webp",
 },  {
     id: "sweden-kullaberg-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Kullaberg", hu: "Kullaberg", ro: "Kullaberg", en: "Kullaberg",
 image: "/poi-images/sweden-kullaberg-relief-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Kullaberg rocky cliffs and sea",
     image: "/poi-images/sweden-kullaberg-relief-v2.webp",
 },  {
     id: "sweden-soderasen-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Söderåsen", hu: "Söderåsen", ro: "Söderåsen", en: "Söderåsen",
 image: "/poi-images/sweden-soderasen-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Soderasen national park valley forest",
     image: "/poi-images/sweden-soderasen-relief-v2.webp",
 },  {
     id: "sweden-hovs-hallar-relief-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Hovs Hallar", hu: "Hovs Hallar", ro: "Hovs Hallar", en: "Hovs Hallar",
 image: "/poi-images/sweden-hovs-hallar-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Hovs Hallar rocky coast cliffs",
     image: "/poi-images/sweden-hovs-hallar-relief-v2.webp",
 },  {
     id: "sweden-slattdalsberget-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Slåttdalsberget", hu: "Slåttdalsberget", ro: "Slåttdalsberget", en: "Slåttdalsberget",
 image: "/poi-images/sweden-slattdalsberget-relief-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Slattdalsberget mountain and rock crevice",
     image: "/poi-images/sweden-slattdalsberget-relief-v2.webp",
 },  {
     id: "sweden-luossavaara-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Luossavaara", hu: "Luossavaara", ro: "Luossavaara", en: "Luossavaara",
 image: "/poi-images/sweden-luossavaara-relief-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Luossavaara mountain Kiruna",
     image: "/poi-images/sweden-luossavaara-relief-v2.webp",
 },  {
     id: "sweden-kirunavaara-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Kirunavaara", hu: "Kirunavaara", ro: "Kirunavaara", en: "Kirunavaara",
 image: "/poi-images/sweden-kirunavaara-relief-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Kirunavaara iron ore mine mountain",
     image: "/poi-images/sweden-kirunavaara-relief-v2.webp",
 },  {
     id: "sweden-pieljekaise-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Pieljekaise", hu: "Pieljekaise", ro: "Pieljekaise", en: "Pieljekaise",
 image: "/poi-images/sweden-pieljekaise-relief-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Pieljekaise mountain summit Lapland",
     image: "/poi-images/sweden-pieljekaise-relief-v2.webp",
 },  {
     id: "sweden-sonfjallet-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Sonfjället", hu: "Sonfjället", ro: "Sonfjället", en: "Sonfjället",
 image: "/poi-images/sweden-sonfjallet-relief-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Sonfjallet mountain silhouette",
     image: "/poi-images/sweden-sonfjallet-relief-v2.webp",
 },  {
     id: "sweden-hovarken-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Hovärken", hu: "Hovärken", ro: "Hovärken", en: "Hovärken",
 image: "/poi-images/sweden-hovarken-relief-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Hovarken mountain Lofsdalen view",
     image: "/poi-images/sweden-hovarken-relief-v2.webp",
 },  {
     id: "sweden-kaskasatjakka-relief-v2",
+    parent: "SE",
     type: "peak",
     name: { de: "Kaskasatjåkka", hu: "Kaskasatjåkka", ro: "Kaskasatjåkka", en: "Kaskasatjåkka",
 image: "/poi-images/sweden-kaskasatjakka-relief-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Kaskasatjakka rocky mountain peak",
     image: "/poi-images/sweden-kaskasatjakka-relief-v2.webp",
 },  {
     id: "sweden-nallo-relief-v2",
+    parent: "SE",
     type: "peak",
     name: { de: "Nallo", hu: "Nallo", ro: "Nallo", en: "Nallo",
 image: "/poi-images/sweden-nallo-relief-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Nallo mountain peak Needle Lapland",
     image: "/poi-images/sweden-nallo-relief-v2.webp",
 },  {
     id: "sweden-tjamuhas-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Tjåmuhas", hu: "Tjåmuhas", ro: "Tjåmuhas", en: "Tjåmuhas",
 image: "/poi-images/sweden-tjamuhas-relief-v2.webp"
@@ -921,6 +948,7 @@ image: "/poi-images/sweden-tjamuhas-relief-v2.webp"
   },
   {
     id: "sweden-getryggen-relief-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Getryggen", hu: "Getryggen", ro: "Getryggen", en: "Getryggen",
 image: "/poi-images/sweden-getryggen-relief-v2.webp"

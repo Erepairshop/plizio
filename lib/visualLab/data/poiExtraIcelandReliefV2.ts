@@ -3,6 +3,7 @@ export const icelandReliefV2: POI[] = [
 
   {
     id: "iceland-hvannadalshnukur-relief-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Hvannadalshnúkur", hu: "Hvannadalshnúkur", ro: "Hvannadalshnúkur", en: "Hvannadalshnúkur",
 image: "/poi-images/iceland-hvannadalshnukur-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Hvannadalshnúkur peak covered in snow",
     image: "/poi-images/iceland-hvannadalshnukur-relief-v2.webp",
 },  {
     id: "iceland-herdubreid-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Herðubreið", hu: "Herðubreið", ro: "Herðubreið", en: "Herðubreið",
 image: "/poi-images/iceland-herdubreid-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Herðubreið table mountain in the highlands",
     image: "/poi-images/iceland-herdubreid-relief-v2.webp",
 },  {
     id: "iceland-esja-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Esja", hu: "Esja", ro: "Esja", en: "Esja",
 image: "/poi-images/iceland-esja-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Esja mountain range seen from Reykjavik",
     image: "/poi-images/iceland-esja-relief-v2.webp",
 },  {
     id: "iceland-kerlingarfjoll-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Kerlingarfjöll", hu: "Kerlingarfjöll", ro: "Kerlingarfjöll", en: "Kerlingarfjöll",
 image: "/poi-images/iceland-kerlingarfjoll-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Kerlingarfjöll rhyolite mountains and steam",
     image: "/poi-images/iceland-kerlingarfjoll-relief-v2.webp",
 },  {
     id: "iceland-latrabjarg-relief-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Látrabjarg", hu: "Látrabjarg", ro: "Látrabjarg", en: "Látrabjarg",
 image: "/poi-images/iceland-latrabjarg-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Látrabjarg bird cliffs and puffins",
     image: "/poi-images/iceland-latrabjarg-relief-v2.webp",
 },  {
     id: "iceland-almannagja-relief-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Almannagjá", hu: "Almannagjá", ro: "Almannagjá", en: "Almannagjá",
 image: "/poi-images/iceland-almannagja-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Almannagjá fissure in Þingvellir National Park",
     image: "/poi-images/iceland-almannagja-relief-v2.webp",
 },  {
     id: "iceland-baula-relief-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Baula", hu: "Baula", ro: "Baula", en: "Baula",
 image: "/poi-images/iceland-baula-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Baula conical rhyolite mountain",
     image: "/poi-images/iceland-baula-relief-v2.webp",
 },  {
     id: "iceland-thorsmork-relief-v2",
+    parent: "IS",
     type: "valley",
     name: { de: "Þórsmörk", hu: "Þórsmörk", ro: "Þórsmörk", en: "Þórsmörk",
 image: "/poi-images/iceland-thorsmork-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Þórsmörk valley landscape with glaciers",
     image: "/poi-images/iceland-thorsmork-relief-v2.webp",
 },  {
     id: "iceland-fimmvorduhals-relief-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Fimmvörðuháls", hu: "Fimmvörðuháls", ro: "Fimmvörðuháls", en: "Fimmvörðuháls",
 image: "/poi-images/iceland-fimmvorduhals-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Fimmvörðuháls mountain pass hiking trail",
     image: "/poi-images/iceland-fimmvorduhals-relief-v2.webp",
 },  {
     id: "iceland-dimmuborgir-relief-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Dimmuborgir", hu: "Dimmuborgir", ro: "Dimmuborgir", en: "Dimmuborgir",
 image: "/poi-images/iceland-dimmuborgir-relief-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Dimmuborgir dark lava formations",
     image: "/poi-images/iceland-dimmuborgir-relief-v2.webp",
 },  {
     id: "iceland-vatnajokull-plateau-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Vatnajökull", hu: "Vatnajökull", ro: "Vatnajökull", en: "Vatnajökull",
 image: "/poi-images/iceland-vatnajokull-plateau-relief-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Vatnajökull glacier ice cap wide view",
     image: "/poi-images/iceland-vatnajokull-plateau-relief-v2.webp",
 },  {
     id: "iceland-bardarbunga-relief-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Bárðarbunga", hu: "Bárðarbunga", ro: "Bárðarbunga", en: "Bárðarbunga",
 image: "/poi-images/iceland-bardarbunga-relief-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Bárðarbunga volcano under glacier",
     image: "/poi-images/iceland-bardarbunga-relief-v2.webp",
 },  {
     id: "iceland-oraefajokull-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Öræfajökull", hu: "Öræfajökull", ro: "Öræfajökull", en: "Öræfajökull",
 image: "/poi-images/iceland-oraefajokull-relief-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Öræfajökull glacier volcano massif",
     image: "/poi-images/iceland-oraefajokull-relief-v2.webp",
 },  {
     id: "iceland-hofsjokull-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Hofsjökull", hu: "Hofsjökull", ro: "Hofsjökull", en: "Hofsjökull",
 image: "/poi-images/iceland-hofsjokull-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Hofsjökull glacier aerial view",
     image: "/poi-images/iceland-hofsjokull-relief-v2.webp",
 },  {
     id: "iceland-langjokull-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Langjökull", hu: "Langjökull", ro: "Langjökull", en: "Langjökull",
 image: "/poi-images/iceland-langjokull-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Langjökull glacier snowmobile tour",
     image: "/poi-images/iceland-langjokull-relief-v2.webp",
 },  {
     id: "iceland-myrdalsjokull-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Mýrdalsjökull", hu: "Mýrdalsjökull", ro: "Mýrdalsjökull", en: "Mýrdalsjökull",
 image: "/poi-images/iceland-myrdalsjokull-relief-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Mýrdalsjökull glacier edge and black sand",
     image: "/poi-images/iceland-myrdalsjokull-relief-v2.webp",
 },  {
     id: "iceland-eyjafjallajokull-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Eyjafjallajökull", hu: "Eyjafjallajökull", ro: "Eyjafjallajökull", en: "Eyjafjallajökull",
 image: "/poi-images/iceland-eyjafjallajokull-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Eyjafjallajökull volcano eruption clouds",
     image: "/poi-images/iceland-eyjafjallajokull-relief-v2.webp",
 },  {
     id: "iceland-drangajokull-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Drangajökull", hu: "Drangajökull", ro: "Drangajökull", en: "Drangajökull",
 image: "/poi-images/iceland-drangajokull-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Drangajökull glacier landscape Westfjords",
     image: "/poi-images/iceland-drangajokull-relief-v2.webp",
 },  {
     id: "iceland-burfell-relief-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Búrfell", hu: "Búrfell", ro: "Búrfell", en: "Búrfell",
 image: "/poi-images/iceland-burfell-relief-v2.webp"
@@ -650,6 +669,7 @@ imageHint: "Búrfell table mountain in south Iceland",
 },
   {
     id: "iceland-skjaldbreidur-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Skjaldbreiður", hu: "Skjaldbreiður", ro: "Skjaldbreiður", en: "Skjaldbreiður",
 image: "/poi-images/iceland-skjaldbreidur-relief-v2.webp"
@@ -683,6 +703,7 @@ image: "/poi-images/iceland-skjaldbreidur-relief-v2.webp"
   },
   {
     id: "iceland-blafjoll-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Bláfjöll", hu: "Bláfjöll", ro: "Bláfjöll", en: "Bláfjöll",
 image: "/poi-images/iceland-blafjoll-relief-v2.webp"
@@ -716,6 +737,7 @@ imageHint: "Blafjoll mountains winter landscape",
     image: "/poi-images/iceland-blafjoll-relief-v2.webp",
 },  {
     id: "iceland-eiriksjokull-relief-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Eiríksjökull", hu: "Eiríksjökull", ro: "Eiríksjökull", en: "Eiríksjökull",
 image: "/poi-images/iceland-eiriksjokull-relief-v2.webp"
@@ -749,6 +771,7 @@ imageHint: "Eiriksjokull table mountain Iceland",
     image: "/poi-images/iceland-eiriksjokull-relief-v2.webp",
 },  {
     id: "iceland-torfajokull-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Torfajökull-Massiv", hu: "Torfajökull-masszívum", ro: "Masivul Torfajökull", en: "Torfajökull Massif",
 image: "/poi-images/iceland-torfajokull-relief-v2.webp"
@@ -782,6 +805,7 @@ imageHint: "Torfajokull rhyolite mountains landscape",
     image: "/poi-images/iceland-torfajokull-relief-v2.webp",
 },  {
     id: "iceland-kverkfjoll-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Kverkfjöll", hu: "Kverkfjöll", ro: "Kverkfjöll", en: "Kverkfjöll",
 image: "/poi-images/iceland-kverkfjoll-relief-v2.webp"
@@ -815,6 +839,7 @@ imageHint: "Kverkfjoll mountains and ice caves",
     image: "/poi-images/iceland-kverkfjoll-relief-v2.webp",
 },  {
     id: "iceland-hengill-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Hengill", hu: "Hengill", ro: "Hengill", en: "Hengill",
 image: "/poi-images/iceland-hengill-relief-v2.webp"
@@ -848,6 +873,7 @@ imageHint: "Hengill mountain geothermal steam",
     image: "/poi-images/iceland-hengill-relief-v2.webp",
 },  {
     id: "iceland-snaefell-east-relief-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Snæfell (Ost)", hu: "Snæfell (Kelet)", ro: "Snæfell (Est)", en: "Snæfell (East)",
 image: "/poi-images/iceland-snaefell-east-relief-v2.webp"
@@ -881,6 +907,7 @@ imageHint: "Snaefell mountain East Iceland",
     image: "/poi-images/iceland-snaefell-east-relief-v2.webp",
 },  {
     id: "iceland-maelifell-relief-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Mælifell", hu: "Mælifell", ro: "Mælifell", en: "Mælifell",
 image: "/poi-images/iceland-maelifell-relief-v2.webp"
@@ -914,6 +941,7 @@ imageHint: "Maelifell green volcano cone",
     image: "/poi-images/iceland-maelifell-relief-v2.webp",
 },  {
     id: "iceland-thrihnukagigur-relief-v2",
+    parent: "IS",
     type: "peak",
     name: { de: "Þríhnúkagígur", hu: "Þríhnúkagígur", ro: "Þríhnúkagígur", en: "Þríhnúkagígur",
 image: "/poi-images/iceland-thrihnukagigur-relief-v2.webp"
@@ -947,6 +975,7 @@ imageHint: "Thrihnukagigur magma chamber interior",
     image: "/poi-images/iceland-thrihnukagigur-relief-v2.webp",
 },  {
     id: "iceland-kaldidalur-relief-v2",
+    parent: "IS",
     type: "valley",
     name: { de: "Kaldidalur", hu: "Kaldidalur", ro: "Kaldidalur", en: "Kaldidalur",
 image: "/poi-images/iceland-kaldidalur-relief-v2.webp"
@@ -980,6 +1009,7 @@ imageHint: "Kaldidalur highland road landscape",
     image: "/poi-images/iceland-kaldidalur-relief-v2.webp",
 },  {
     id: "iceland-oksnadalsheidi-relief-v2",
+    parent: "IS",
     type: "mountain",
     name: { de: "Öksnadalsheiði", hu: "Öksnadalsheiði", ro: "Öksnadalsheiði", en: "Öksnadalsheiði",
 image: "/poi-images/iceland-oksnadalsheidi-relief-v2.webp"

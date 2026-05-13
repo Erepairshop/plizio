@@ -4,6 +4,7 @@ export const polandLandmarksV2: POI[] = [
 
   {
     id: "poland-warsaw-royal-castle-landmarks-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Königsschloss Warschau", hu: "Varsói királyi vár", ro: "Castelul Regal din Varșovia", en: "Royal Castle in Warsaw",
 image: "/poi-images/poland-warsaw-royal-castle-landmarks-v2.webp"
@@ -37,6 +38,7 @@ image: "/poi-images/poland-warsaw-royal-castle-landmarks-v2.webp"
     }, image: "/poi-images/poland-warsaw-royal-castle-landmarks-v2.webp"},
   {
     id: "poland-palace-culture-science-landmarks-v2",
+    parent: "PL",
     type: "monument",
     name: { de: "Kultur- und Wissenschaftspalast", hu: "Kultúra és Tudomány Palotája", ro: "Palatul Culturii și Științei", en: "Palace of Culture and Science",
 image: "/poi-images/poland-palace-culture-science-landmarks-v2.webp"
@@ -70,6 +72,7 @@ image: "/poi-images/poland-palace-culture-science-landmarks-v2.webp"
     }, image: "/poi-images/poland-palace-culture-science-landmarks-v2.webp"},
   {
     id: "poland-mariacka-basilica-krakow-landmarks-v2",
+    parent: "PL",
     type: "cathedral",
     name: { de: "Marienkirche Krakau", hu: "Mária-templom (Krakkó)", ro: "Biserica Sfânta Maria din Cracovia", en: "St. Mary's Basilica",
 image: "/poi-images/poland-mariacka-basilica-krakow-landmarks-v2.webp"
@@ -103,6 +106,7 @@ image: "/poi-images/poland-mariacka-basilica-krakow-landmarks-v2.webp"
     }, image: "/poi-images/poland-mariacka-basilica-krakow-landmarks-v2.webp"},
   {
     id: "poland-gdansk-crane-landmarks-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Krantor Danzig", hu: "Danzigi daru", ro: "Macaraua din Gdańsk", en: "The Crane in Gdańsk",
 image: "/poi-images/poland-gdansk-crane-landmarks-v2.webp"
@@ -136,6 +140,7 @@ image: "/poi-images/poland-gdansk-crane-landmarks-v2.webp"
     }, image: "/poi-images/poland-gdansk-crane-landmarks-v2.webp"},
   {
     id: "poland-wroclaw-centennial-hall-landmarks-v2",
+    parent: "PL",
     type: "monument",
     name: { de: "Jahrhunderthalle Breslau", hu: "Centenáriumi Csarnok", ro: "Hala Centenarului din Wrocław", en: "Centennial Hall",
 image: "/poi-images/poland-wroclaw-centennial-hall-landmarks-v2.webp"
@@ -169,6 +174,7 @@ image: "/poi-images/poland-wroclaw-centennial-hall-landmarks-v2.webp"
     }, image: "/poi-images/poland-wroclaw-centennial-hall-landmarks-v2.webp"},
   {
     id: "poland-cloth-hall-krakow-landmarks-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Krakauer Tuchhallen", hu: "Posztócsarnok (Krakkó)", ro: "Hala de Pânzeturi din Cracovia", en: "Cloth Hall (Sukiennice)",
 image: "/poi-images/poland-cloth-hall-krakow-landmarks-v2.webp"
@@ -202,6 +208,7 @@ image: "/poi-images/poland-cloth-hall-krakow-landmarks-v2.webp"
     }, image: "/poi-images/poland-cloth-hall-krakow-landmarks-v2.webp"},
   {
     id: "poland-neptune-fountain-gdansk-landmarks-v2",
+    parent: "PL",
     type: "monument",
     name: { de: "Neptunbrunnen Danzig", hu: "Neptun-kút (Gdańsk)", ro: "Fântâna lui Neptun din Gdańsk", en: "Neptune's Fountain",
 image: "/poi-images/poland-neptune-fountain-gdansk-landmarks-v2.webp"
@@ -235,6 +242,7 @@ image: "/poi-images/poland-neptune-fountain-gdansk-landmarks-v2.webp"
     }, image: "/poi-images/poland-neptune-fountain-gdansk-landmarks-v2.webp"},
   {
     id: "poland-zamosc-town-hall-landmarks-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Rathaus von Zamość", hu: "Zamośći városháza", ro: "Primăria din Zamość", en: "Zamość Town Hall",
 image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp"
@@ -268,6 +276,7 @@ image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp"
     }, image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp"},
   {
     id: "poland-niedzica-castle-landmarks-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Burg Niedzica", hu: "Nedec vára", ro: "Castelul Niedzica", en: "Niedzica Castle",
 image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp"
@@ -301,6 +310,7 @@ image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp"
     }, image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp"},
   {
     id: "poland-poznan-town-hall-landmarks-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Rathaus von Posen", hu: "Poznańi városháza", ro: "Primăria din Poznań", en: "Poznań Town Hall",
 image: "/poi-images/poland-poznan-town-hall-landmarks-v2.webp"
@@ -334,6 +344,7 @@ image: "/poi-images/poland-poznan-town-hall-landmarks-v2.webp"
     }, image: "/poi-images/poland-poznan-town-hall-landmarks-v2.webp"},
   {
     id: "poland-raclawice-panorama-landmarks-v2",
+    parent: "PL",
     type: "museum",
     name: { de: "Panorama von Racławice", hu: "Racławicei körkép", ro: "Panorama de la Racławice", en: "Racławice Panorama",
 image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp"
@@ -367,6 +378,7 @@ image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp"
     }, image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp"},
   {
     id: "poland-ogrodzieniec-castle-landmarks-v2",
+    parent: "PL",
     type: "ruins",
     name: { de: "Burg Ogrodzieniec", hu: "Ogrodzieniec vára", ro: "Castelul Ogrodzieniec", en: "Ogrodzieniec Castle",
 image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp"
@@ -400,6 +412,7 @@ image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp"
     }, image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp"},
   {
     id: "poland-czocha-castle-landmarks-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Burg Tzschocha", hu: "Czocha vára", ro: "Castelul Czocha", en: "Czocha Castle",
 image: "/poi-images/poland-czocha-castle-landmarks-v2.webp"
@@ -433,6 +446,7 @@ image: "/poi-images/poland-czocha-castle-landmarks-v2.webp"
     }, image: "/poi-images/poland-czocha-castle-landmarks-v2.webp"},
   {
     id: "poland-moszna-castle-landmarks-v2",
+    parent: "PL",
     type: "palace",
     name: { de: "Schloss Moschen", hu: "Moszna-kastély", ro: "Castelul Moszna", en: "Moszna Castle",
 image: "/poi-images/poland-moszna-castle-landmarks-v2.webp"
@@ -467,6 +481,7 @@ image: "/poi-images/poland-moszna-castle-landmarks-v2.webp"
     }, image: "/poi-images/poland-moszna-castle-landmarks-v2.webp"},
   {
     id: "poland-kornik-castle-landmarks-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Schloss Kórnik", hu: "Kórniki vár", ro: "Castelul Kórnik", en: "Kórnik Castle",
 image: "/poi-images/poland-kornik-castle-landmarks-v2.webp"
@@ -500,6 +515,7 @@ image: "/poi-images/poland-kornik-castle-landmarks-v2.webp"
     }, image: "/poi-images/poland-kornik-castle-landmarks-v2.webp"},
   {
     id: "poland-gdansk-artus-court-landmarks-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Artushof Danzig", hu: "Artus-udvar (Gdańsk)", ro: "Curtea lui Artus din Gdańsk", en: "Artus Court",
 image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp"
@@ -533,6 +549,7 @@ image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp"
     }, image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp"},
   {
     id: "poland-pieskowa-skala-castle-landmarks-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Schloss Pieskowa Skała", hu: "Pieskowa Skała vára", ro: "Castelul Pieskowa Skała", en: "Pieskowa Skała Castle",
 image: "/poi-images/poland-pieskowa-skala-castle-landmarks-v2.webp"
@@ -566,6 +583,7 @@ image: "/poi-images/poland-pieskowa-skala-castle-landmarks-v2.webp"
     }, image: "/poi-images/poland-pieskowa-skala-castle-landmarks-v2.webp"},
   {
     id: "poland-lublin-castle-landmarks-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Schloss Lublin", hu: "Lublini vár", ro: "Castelul din Lublin", en: "Lublin Castle",
 image: "/poi-images/poland-lublin-castle-landmarks-v2.webp"
@@ -599,6 +617,7 @@ image: "/poi-images/poland-lublin-castle-landmarks-v2.webp"
     }, image: "/poi-images/poland-lublin-castle-landmarks-v2.webp"},
   {
     id: "poland-klodzko-gothic-bridge-landmarks-v2",
+    parent: "PL",
     type: "bridge",
     name: { de: "Gotische Brücke in Kłodzko", hu: "Kłodzkói gótikus híd", ro: "Podul Gotic din Kłodzko", en: "Gothic Bridge in Kłodzko",
 image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp"
@@ -632,6 +651,7 @@ image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp"
     }, image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp"},
   {
     id: "poland-vistulamouth-fortress-landmarks-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Festung Weichselmünde", hu: "Wisłoujście-erőd", ro: "Fortăreața Wisłoujście", en: "Vistulamouth Fortress",
 image: "/poi-images/poland-vistulamouth-fortress-landmarks-v2.webp"
@@ -665,6 +685,7 @@ image: "/poi-images/poland-vistulamouth-fortress-landmarks-v2.webp"
     }, image: "/poi-images/poland-vistulamouth-fortress-landmarks-v2.webp"},
   {
     id: "poland-warsaw-barbican-landmarks-v2",
+    parent: "PL",
     type: "monument",
     name: { de: "Warschauer Barbakane", hu: "Varsói Barbakán", ro: "Barbicana din Varșovia", en: "Warsaw Barbican",
 image: "/poi-images/poland-warsaw-barbican-landmarks-v2.webp"
@@ -698,6 +719,7 @@ image: "/poi-images/poland-warsaw-barbican-landmarks-v2.webp"
     }, image: "/poi-images/poland-warsaw-barbican-landmarks-v2.webp"},
   {
     id: "poland-szczecin-cathedral-landmarks-v2",
+    parent: "PL",
     type: "cathedral",
     name: { de: "Jakobskathedrale Stettin", hu: "Szent Jakab-székesegyház (Szczecin)", ro: "Catedrala Sfântul Iacob din Szczecin", en: "St. James' Cathedral in Szczecin",
 image: "/poi-images/poland-szczecin-cathedral-landmarks-v2.webp"
@@ -732,6 +754,7 @@ image: "/poi-images/poland-szczecin-cathedral-landmarks-v2.webp"
 ,
   {
     id: "poland-branicki-palace-landmarks-v2",
+    parent: "PL",
     type: "palace",
     name: { de: "Branicki-Palast", hu: "Branicki-palota", ro: "Palatul Branicki", en: "Branicki Palace",
 image: "/poi-images/poland-branicki-palace-landmarks-v2.webp"
@@ -754,6 +777,7 @@ image: "/poi-images/poland-branicki-palace-landmarks-v2.webp"
   },
   {
     id: "poland-baranow-sandomierski-castle-landmarks-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Schloss Baranów Sandomierski", hu: "Baranów sandomierski-i várkastély", ro: "Castelul Baranów Sandomierski", en: "Baranow Sandomierski Castle",
 image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp"
@@ -776,6 +800,7 @@ image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp"
     image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp"},
   {
     id: "poland-swidnica-church-peace-landmarks-v2",
+    parent: "PL",
     type: "church",
     name: { de: "Friedenskirche Świdnica", hu: "Świdnicai béketemplom", ro: "Biserica Păcii din Świdnica", en: "Church of Peace in Świdnica",
 image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp"
@@ -798,6 +823,7 @@ image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp"
     image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp"},
   {
     id: "poland-lidzbark-warminski-castle-landmarks-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Burg Heilsberg", hu: "Lidzbark Warmiński vára", ro: "Castelul Lidzbark Warmiński", en: "Lidzbark Warminski Castle",
 image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp"
@@ -820,6 +846,7 @@ image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp"
     image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp"},
   {
     id: "poland-krasiczyn-castle-landmarks-v2",
+    parent: "PL",
     type: "castle",
     name: { de: "Schloss Krasiczyn", hu: "Krasiczyni várkastély", ro: "Castelul Krasiczyn", en: "Krasiczyn Castle",
 image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp"
@@ -842,6 +869,7 @@ image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp"
     image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp"},
   {
     id: "poland-rogalin-palace-landmarks-v2",
+    parent: "PL",
     type: "palace",
     name: { de: "Palais Rogalin", hu: "Rogalini palota", ro: "Palatul Rogalin", en: "Rogalin Palace",
 image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp"
@@ -864,6 +892,7 @@ image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp"
     image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp"},
   {
     id: "poland-solidarity-centre-landmarks-v2",
+    parent: "PL",
     type: "museum",
     name: { de: "Europäisches Zentrum der Solidarność", hu: "Európai Szolidaritás Központ", ro: "Centrul European de Solidaritate", en: "European Solidarity Centre",
 image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp"
@@ -886,6 +915,7 @@ image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp"
     image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp"},
   {
     id: "poland-wroclaw-town-hall-landmarks-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Altes Rathaus Breslau", hu: "Wrocław-i városháza", ro: "Primăria Veche din Wrocław", en: "Wroclaw Old Town Hall",
 image: "/poi-images/poland-wroclaw-town-hall-landmarks-v2.webp"

@@ -3,6 +3,7 @@ export const swedenLandmarksV2: POI[] = [
 
   {
     id: "sweden-stockholm-palace-landmarks-v2",
+    parent: "SE",
     type: "palace",
     name: { de: "Stockholmer Schloss", hu: "Stockholmi királyi palota", ro: "Palatul Regal din Stockholm", en: "Stockholm Palace",
 image: "/poi-images/sweden-stockholm-palace-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Stockholm Royal Palace facade at day",
     image: "/poi-images/sweden-stockholm-palace-landmarks-v2.webp",
 },  {
     id: "sweden-stockholm-city-hall-landmarks-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Stockholmer Rathaus", hu: "Stockholmi városháza", ro: "Primăria din Stockholm", en: "Stockholm City Hall",
 image: "/poi-images/sweden-stockholm-city-hall-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Stockholm City Hall with golden crowns on tower",
     image: "/poi-images/sweden-stockholm-city-hall-landmarks-v2.webp",
 },  {
     id: "sweden-skansen-landmarks-v2",
+    parent: "SE",
     type: "museum",
     name: { de: "Skansen", hu: "Skansen", ro: "Skansen", en: "Skansen",
 image: "/poi-images/sweden-skansen-landmarks-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Skansen open air museum traditional wooden houses",
     image: "/poi-images/sweden-skansen-landmarks-v2.webp",
 },  {
     id: "sweden-turning-torso-landmarks-v2",
+    parent: "SE",
     type: "tower",
     name: { de: "Turning Torso", hu: "Turning Torso", ro: "Turning Torso", en: "Turning Torso",
 image: "/poi-images/sweden-turning-torso-landmarks-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Turning Torso skyscraper Malmö",
     image: "/poi-images/sweden-turning-torso-landmarks-v2.webp",
 },  {
     id: "sweden-oresund-bridge-landmarks-v2",
+    parent: "SE",
     type: "bridge",
     name: { de: "Öresundbrücke", hu: "Öresund híd", ro: "Podul Øresund", en: "Öresund Bridge",
 image: "/poi-images/sweden-oresund-bridge-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Oresund bridge connecting Sweden and Denmark",
     image: "/poi-images/sweden-oresund-bridge-landmarks-v2.webp",
 },  {
     id: "sweden-avicii-arena-landmarks-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Avicii Arena (Globen)", hu: "Avicii Aréna", ro: "Avicii Arena", en: "Avicii Arena",
 image: "/poi-images/sweden-avicii-arena-landmarks-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Avicii Arena globe building Stockholm",
     image: "/poi-images/sweden-avicii-arena-landmarks-v2.webp",
 },  {
     id: "sweden-gota-canal-landmarks-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Göta-Kanal", hu: "Göta-csatorna", ro: "Canalul Göta", en: "Göta Canal",
 image: "/poi-images/sweden-gota-canal-landmarks-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Gota canal boat passing through locks",
     image: "/poi-images/sweden-gota-canal-landmarks-v2.webp",
 },  {
     id: "sweden-kiruna-church-landmarks-v2",
+    parent: "SE",
     type: "church",
     name: { de: "Kirche von Kiruna", hu: "Kirunai templom", ro: "Biserica din Kiruna", en: "Kiruna Church",
 image: "/poi-images/sweden-kiruna-church-landmarks-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Kiruna Church red wooden building",
     image: "/poi-images/sweden-kiruna-church-landmarks-v2.webp",
 },  {
     id: "sweden-carlsten-fortress-landmarks-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Festung Carlsten", hu: "Carlsten erőd", ro: "Cetatea Carlsten", en: "Carlsten Fortress",
 image: "/poi-images/sweden-carlsten-fortress-landmarks-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Carlsten Fortress Marstrand island",
     image: "/poi-images/sweden-carlsten-fortress-landmarks-v2.webp",
 },  {
     id: "sweden-stockholm-old-town-landmarks-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Gamla Stan", hu: "Gamla Stan (Óváros)", ro: "Gamla Stan", en: "Gamla Stan (Old Town)",
 image: "/poi-images/sweden-stockholm-old-town-landmarks-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Gamla Stan colorful buildings Stortorget",
     image: "/poi-images/sweden-stockholm-old-town-landmarks-v2.webp",
 },  {
     id: "sweden-royal-opera-landmarks-v2",
+    parent: "SE",
     type: "theater",
     name: { de: "Königliche Oper", hu: "Királyi Opera", ro: "Opera Regală Suedeză", en: "Royal Swedish Opera",
 image: "/poi-images/sweden-royal-opera-landmarks-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Royal Swedish Opera building Stockholm",
     image: "/poi-images/sweden-royal-opera-landmarks-v2.webp",
 },  {
     id: "sweden-nordic-museum-landmarks-v2",
+    parent: "SE",
     type: "museum",
     name: { de: "Nordisches Museum", hu: "Nordiska múzeum", ro: "Muzeul Nordic", en: "Nordic Museum",
 image: "/poi-images/sweden-nordic-museum-landmarks-v2.webp"
@@ -412,6 +424,7 @@ imageHint: "Nordiska museet building Stockholm",
 },
   {
     id: "sweden-nationalmuseum-landmarks-v2",
+    parent: "SE",
     type: "museum",
     name: { de: "Nationalmuseum", hu: "Nemzeti Múzeum", ro: "Muzeul Național", en: "National Museum",
 image: "/poi-images/sweden-nationalmuseum-landmarks-v2.webp"
@@ -445,6 +458,7 @@ image: "/poi-images/sweden-nationalmuseum-landmarks-v2.webp"
   },
   {
     id: "sweden-masthugget-church-landmarks-v2",
+    parent: "SE",
     type: "church",
     name: { de: "Masthuggskirche", hu: "Masthugget-templom", ro: "Biserica Masthugget", en: "Masthugget Church",
 image: "/poi-images/sweden-masthugget-church-landmarks-v2.webp"
@@ -478,6 +492,7 @@ imageHint: "Masthuggskyrkan Gothenburg exterior at dusk",
     image: "/poi-images/sweden-masthugget-church-landmarks-v2.webp",
 },  {
     id: "sweden-vadstena-castle-landmarks-v2",
+    parent: "SE",
     type: "castle",
     name: { de: "Schloss Vadstena", hu: "Vadstenai vár", ro: "Castelul Vadstena", en: "Vadstena Castle",
 image: "/poi-images/sweden-vadstena-castle-landmarks-v2.webp"
@@ -511,6 +526,7 @@ imageHint: "Vadstena Castle and moat in summer",
     image: "/poi-images/sweden-vadstena-castle-landmarks-v2.webp",
 },  {
     id: "sweden-high-coast-bridge-landmarks-v2",
+    parent: "SE",
     type: "bridge",
     name: { de: "Högakustenbrücke", hu: "Höga Kusten híd", ro: "Podul Coasta Înaltă", en: "High Coast Bridge",
 image: "/poi-images/sweden-high-coast-bridge-landmarks-v2.webp"
@@ -544,6 +560,7 @@ imageHint: "Högakustenbron suspension bridge over the river",
     image: "/poi-images/sweden-high-coast-bridge-landmarks-v2.webp",
 },  {
     id: "sweden-skara-cathedral-landmarks-v2",
+    parent: "SE",
     type: "cathedral",
     name: { de: "Dom zu Skara", hu: "Skarai székesegyház", ro: "Catedrala din Skara", en: "Skara Cathedral",
 image: "/poi-images/sweden-skara-cathedral-landmarks-v2.webp"
@@ -577,6 +594,7 @@ imageHint: "Skara Cathedral twin towers and facade",
     image: "/poi-images/sweden-skara-cathedral-landmarks-v2.webp",
 },  {
     id: "sweden-stromsholm-palace-landmarks-v2",
+    parent: "SE",
     type: "palace",
     name: { de: "Schloss Strömsholm", hu: "Strömsholmi palota", ro: "Palatul Strömsholm", en: "Strömsholm Palace",
 image: "/poi-images/sweden-stromsholm-palace-landmarks-v2.webp"
@@ -610,6 +628,7 @@ imageHint: "Strömsholm Palace yellow facade and gardens",
     image: "/poi-images/sweden-stromsholm-palace-landmarks-v2.webp",
 },  {
     id: "sweden-moderna-museet-landmarks-v2",
+    parent: "SE",
     type: "museum",
     name: { de: "Moderna Museet", hu: "Moderna Museet", ro: "Moderna Museet", en: "Museum of Modern Art",
 image: "/poi-images/sweden-moderna-museet-landmarks-v2.webp"
@@ -643,6 +662,7 @@ imageHint: "Moderna Museet Stockholm exterior on Skeppsholmen",
     image: "/poi-images/sweden-moderna-museet-landmarks-v2.webp",
 },  {
     id: "sweden-gothenburg-city-theatre-landmarks-v2",
+    parent: "SE",
     type: "theater",
     name: { de: "Stadttheater Göteborg", hu: "Göteborgi Városi Színház", ro: "Teatrul Municipal din Göteborg", en: "Gothenburg City Theatre",
 image: "/poi-images/sweden-gothenburg-city-theatre-landmarks-v2.webp"
@@ -676,6 +696,7 @@ imageHint: "Gothenburg City Theatre facade at Götaplatsen",
     image: "/poi-images/sweden-gothenburg-city-theatre-landmarks-v2.webp",
 },  {
     id: "sweden-svaneholm-castle-landmarks-v2",
+    parent: "SE",
     type: "castle",
     name: { de: "Schloss Svaneholm", hu: "Svaneholmi kastély", ro: "Castelul Svaneholm", en: "Svaneholm Castle",
 image: "/poi-images/sweden-svaneholm-castle-landmarks-v2.webp"
@@ -709,6 +730,7 @@ imageHint: "Svaneholm Castle red brick building by the lake",
     image: "/poi-images/sweden-svaneholm-castle-landmarks-v2.webp",
 },  {
     id: "sweden-technical-museum-landmarks-v2",
+    parent: "SE",
     type: "museum",
     name: { de: "Technisches Museum", hu: "Műszaki Múzeum", ro: "Muzeul Tehnic", en: "Technical Museum",
 image: "/poi-images/sweden-technical-museum-landmarks-v2.webp"
@@ -742,6 +764,7 @@ imageHint: "Tekniska museet Stockholm exterior and Wisdome building",
     image: "/poi-images/sweden-technical-museum-landmarks-v2.webp",
 },  {
     id: "sweden-alvsborg-bridge-landmarks-v2",
+    parent: "SE",
     type: "bridge",
     name: { de: "Älvsborgsbrücke", hu: "Älvsborg híd", ro: "Podul Älvsborg", en: "Älvsborg Bridge",
 image: "/poi-images/sweden-alvsborg-bridge-landmarks-v2.webp"
@@ -775,6 +798,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
     image: "/poi-images/sweden-alvsborg-bridge-landmarks-v2.webp",
 },  {
     id: "sweden-sofia-church-landmarks-v2",
+    parent: "SE",
     type: "church",
     name: { de: "Sofienkirche", hu: "Zsófia-templom", ro: "Biserica Sofia", en: "Sofia Church",
 image: "/poi-images/sweden-sofia-church-landmarks-v2.webp"
@@ -805,5 +829,246 @@ image: "/poi-images/sweden-sofia-church-landmarks-v2.webp"
       ro: ["Inaugurare: 1906", "Arhitect: Gustaf Hermansson", "Stil: Neoromanic", "Locație: Vitabergsparken, Stockholm"],
       en: ["Inaugurated: 1906", "Architect: Gustaf Hermansson", "Style: Neo-Romanesque", "Location: Vitabergsparken, Stockholm"],
     },
+  }
+,
+  {
+    id: "sweden-rosendal-palace-landmarks-v2",
+    type: "palace",
+    parent: "SE",
+    name: { de: "Schloss Rosendal", hu: "Rosendal-palota", ro: "Palatul Rosendal", en: "Rosendal Palace" },
+    coordinates: { lat: 59.332, lng: 18.117 },
+    description: {
+      de: "Ein schwedisches Lustschloss auf der Insel Djurgården in Stockholm, das für König Karl XIV. Johann erbaut wurde.",
+      hu: "A stockholmi Djurgården szigeten található palota, amelyet XIV. Károly János svéd király számára építettek.",
+      ro: "Un palat regal situat pe insula Djurgården din Stockholm, construit pentru regele Carol al XIV-lea Ioan.",
+      en: "A Swedish royal palace located on the island of Djurgården in Stockholm, built for King Charles XIV John.",
+    },
+    facts: {
+      de: ["Erbaut zwischen 1823 und 1827", "Entworfen von Fredrik Blom", "Beispiel des schwedischen Empire-Stils", "Sommerresidenz der königlichen Familie"],
+      hu: ["1823 és 1827 között épült", "Fredrik Blom tervezte", "A svéd empire stílus példája", "A királyi család nyári rezidenciája"],
+      ro: ["Construit între 1823 și 1827", "Proiectat de Fredrik Blom", "Exemplu al stilului Empire suedez", "Reședință de vară a familiei regale"],
+      en: ["Built between 1823 and 1827", "Designed by Fredrik Blom", "Example of Swedish Empire style", "Summer residence for the royal family"],
+    },
+    imageHint: "Rosendal Palace Stockholm yellow facade",
+  },
+  {
+    id: "sweden-malmo-castle-landmarks-v2",
+    type: "castle",
+    parent: "SE",
+    name: { de: "Schloss Malmö", hu: "Malmői vár", ro: "Castelul din Malmö", en: "Malmö Castle" },
+    coordinates: { lat: 55.605, lng: 12.987 },
+    description: {
+      de: "Die älteste erhaltene Renaissanceburg Nordeuropas, die heute verschiedene Museen in Malmö beherbergt.",
+      hu: "Észak-Európa legrégebbi fennmaradt reneszánsz vára, amely ma Malmő több múzeumának ad otthont.",
+      ro: "Cea mai veche fortăreață renascentistă conservată din Europa de Nord, care găzduiește astăzi diverse muzee.",
+      en: "The oldest preserved Renaissance castle in Northern Europe, now housing several museums in Malmö.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1434", "Neu gebaut im Renaissancestil um 1530", "Einst eine wichtige dänische Festung", "Beherbergt das Malmö Kunstmuseum"],
+      hu: ["1434-ben alapították", "1530 körül újjáépítették reneszánsz stílusban", "Egykor fontos dán erődítmény volt", "Itt található a Malmői Művészeti Múzeum"],
+      ro: ["Fondat în anul 1434", "Reconstruit în stil renascentist în jurul anului 1530", "A fost o fortăreață daneză importantă", "Găzduiește Muzeul de Artă din Malmö"],
+      en: ["Founded in the year 1434", "Rebuilt in Renaissance style around 1530", "Once an important Danish fortress", "Houses the Malmö Art Museum"],
+    },
+    imageHint: "Malmo Castle red brick Renaissance",
+  },
+  {
+    id: "sweden-gothenburg-opera-landmarks-v2",
+    type: "theater",
+    parent: "SE",
+    name: { de: "Opernhaus Göteborg", hu: "Göteborgi Opera", ro: "Opera din Göteborg", en: "Gothenburg Opera" },
+    coordinates: { lat: 57.711, lng: 11.963 },
+    description: {
+      de: "Ein modernes Opernhaus am Ufer des Göta älv in Göteborg, bekannt für seine innovative Architektur.",
+      hu: "Modern operaház Göteborgban, a Göta älv partján, amely innovatív építészetéről híres.",
+      ro: "O operă modernă pe malul râului Göta älv din Göteborg, cunoscută pentru arhitectura sa inovatoare.",
+      en: "A modern opera house on the banks of the Göta älv in Gothenburg, known for its innovative architecture.",
+    },
+    facts: {
+      de: ["Eingeweiht im Jahr 1994", "Entworfen vom Architekten Jan Izikowitz", "Verfügt über 1.300 Sitzplätze", "Bietet Oper, Ballett und Musicals an"],
+      hu: ["1994-ben avatták fel", "Jan Izikowitz építész tervezte", "1300 ülőhellyel rendelkezik", "Operát, balettet és musicaleket mutat be"],
+      ro: ["Inaugurată în anul 1994", "Proiectată de arhitectul Jan Izikowitz", "Are o capacitate de 1.300 de locuri", "Găzduiește spectacole de operă, balet și musical"],
+      en: ["Inaugurated in the year 1994", "Designed by architect Jan Izikowitz", "Features a seating capacity of 1,300", "Hosts opera, ballet, and musical theater"],
+    },
+    imageHint: "Gothenburg Opera House waterfront architecture",
+  },
+  {
+    id: "sweden-lund-university-building-landmarks-v2",
+    type: "university",
+    parent: "SE",
+    name: { de: "Universitätshauptgebäude Lund", hu: "Lundi Egyetem főépülete", ro: "Clădirea principală a Universității din Lund", en: "Lund University Main Building" },
+    coordinates: { lat: 55.706, lng: 13.193 },
+    description: {
+      de: "Das imposante Hauptgebäude der Universität Lund, ein Meisterwerk der schwedischen Neorenaissance.",
+      hu: "A Lundi Egyetem impozáns főépülete, a svéd neoreneszánsz építészet remekműve.",
+      ro: "Clădirea principală impunătoare a Universității din Lund, o capodoperă a stilului neorenascentist suedez.",
+      en: "The imposing main building of Lund University, a masterpiece of Swedish Neo-Renaissance architecture.",
+    },
+    facts: {
+      de: ["Eingeweiht im Jahr 1882", "Entworfen von Helgo Zettervall", "Liegt im Park Lundagård", "Zentrum der zweitältesten Universität Schwedens"],
+      hu: ["1882-ben avatták fel", "Helgo Zettervall tervezte", "A Lundagård parkban található", "Svédország második legrégebbi egyetemének központja"],
+      ro: ["Inaugurată în anul 1882", "Proiectată de Helgo Zettervall", "Situată în parcul Lundagård", "Centrul celei de-a doua cele mai vechi universități din Suedia"],
+      en: ["Inaugurated in the year 1882", "Designed by Helgo Zettervall", "Located in the Lundagård park", "Center of the second oldest university in Sweden"],
+    },
+    imageHint: "Lund University Main Building sphinxes",
+  },
+  {
+    id: "sweden-sofiero-palace-landmarks-v2",
+    type: "palace",
+    parent: "SE",
+    name: { de: "Schloss Sofiero", hu: "Sofiero-kastély", ro: "Castelul Sofiero", en: "Sofiero Palace" },
+    coordinates: { lat: 56.084, lng: 12.66 },
+    description: {
+      de: "Ein ehemaliger königlicher Sommersitz in Helsingborg, berühmt für seine preisgekrönten Rhododendrengärten.",
+      hu: "Helsingborgban található egykori királyi nyári rezidencia, amely díjnyertes rododendron kertjéről híres.",
+      ro: "O fostă reședință regală de vară din Helsingborg, faimoasă pentru grădinile sale de rododendroni.",
+      en: "A former royal summer residence in Helsingborg, famous for its award-winning rhododendron gardens.",
+    },
+    facts: {
+      de: ["Erbaut im Jahr 1864", "Liegt direkt am Öresund", "Heimat von über 10.000 Rhododendren", "Einst Geschenk an Kronprinz Gustav Adolf"],
+      hu: ["1864-ben épült", "Közvetlenül az Öresund partján fekszik", "Több mint 10 000 rododendron otthona", "Egykor ajándék volt Gusztáv Adolf hercegnek"],
+      ro: ["Construit în anul 1864", "Situat direct pe malul strâmtorii Öresund", "Găzduiește peste 10.000 de rododendroni", "A fost un cadou pentru prințul moștenitor Gustav Adolf"],
+      en: ["Built in the year 1864", "Located directly on the Öresund strait", "Home to over 10,000 rhododendrons", "Once a gift to Crown Prince Gustav Adolf"],
+    },
+    imageHint: "Sofiero Palace gardens rhododendrons",
+  },
+  {
+    id: "sweden-eketorp-fortress-landmarks-v2",
+    type: "ruins",
+    parent: "SE",
+    name: { de: "Festung Eketorp", hu: "Eketorp erőd", ro: "Cetatea Eketorp", en: "Eketorp Fortress" },
+    coordinates: { lat: 56.326, lng: 16.402 },
+    description: {
+      de: "Eine rekonstruierte eisenzeitliche Ringburg auf der Insel Öland, die Einblicke in das Leben vor über 1.000 Jahren bietet.",
+      hu: "Öland szigetén található rekonstruált vaskori gyűrűvár, amely betekintést nyújt a több mint 1000 évvel ezelőtti életbe.",
+      ro: "O cetate circulară reconstruită din epoca fierului pe insula Öland, oferind o privire asupra vieții de acum 1.000 de ani.",
+      en: "A reconstructed Iron Age ringfort on the island of Öland, providing insights into life over 1,000 years ago.",
+    },
+    facts: {
+      de: ["Ursprünglich im 4. Jahrhundert erbaut", "Besteht aus einer massiven Steinmauer", "Vollständig archäologisch ausgegraben", "Einzigartige Rekonstruktion in Schweden"],
+      hu: ["Eredetileg a 4. században épült", "Masszív kőfalból áll", "Teljesen feltárták régészetileg", "Egyedülálló rekonstrukció Svédországban"],
+      ro: ["Construită inițial în secolul al IV-lea", "Constă dintr-un zid masiv de piatră", "Excavată arheologic în întregime", "O reconstrucție unică în Suedia"],
+      en: ["Originally built in the 4th century", "Consists of a massive stone wall", "Fully excavated archaeologically", "Unique reconstruction in Sweden"],
+    },
+    imageHint: "Eketorp Fortress Oland ringfort",
+  },
+  {
+    id: "sweden-gunnebo-house-landmarks-v2",
+    type: "palace",
+    parent: "SE",
+    name: { de: "Haus Gunnebo", hu: "Gunnebo-ház", ro: "Casa Gunnebo", en: "Gunnebo House" },
+    coordinates: { lat: 57.659, lng: 12.06 },
+    description: {
+      de: "Eine der besterhaltenen neoklassizistischen Holzvillen Schwedens aus dem späten 18. Jahrhundert in Mölndal.",
+      hu: "Svédország egyik legjobb állapotban fennmaradt, 18. század végi neoklasszicista favillája Mölndalban.",
+      ro: "Una dintre cele mai bine conservate vile neoclasice din lemn din Suedia, de la sfârșitul secolului al XVIII-lea, în Mölndal.",
+      en: "One of Sweden's best-preserved neoclassical wooden villas from the late 18th century, located in Mölndal.",
+    },
+    facts: {
+      de: ["Erbaut als Sommerresidenz für John Hall", "Fertiggestellt im Jahr 1796", "Entworfen von Carl Wilhelm Carlberg", "Umgeben von formalen Gärten"],
+      hu: ["John Hall nyári rezidenciájaként épült", "1796-ban készült el", "Carl Wilhelm Carlberg tervezte", "Formális kertek veszik körül"],
+      ro: ["Construită ca reședință de vară pentru John Hall", "Finalizată în anul 1796", "Proiectată de Carl Wilhelm Carlberg", "Înconjurată de grădini formale"],
+      en: ["Built as a summer residence for John Hall", "Completed in the year 1796", "Designed by Carl Wilhelm Carlberg", "Surrounded by formal gardens"],
+    },
+    imageHint: "Gunnebo House Molndal wooden neoclassical",
+  },
+  {
+    id: "sweden-olidan-power-station-landmarks-v2",
+    type: "industry",
+    parent: "SE",
+    name: { de: "Wasserkraftwerk Olidan", hu: "Olidan vízerőmű", ro: "Centrala hidroelectrică Olidan", en: "Olidan Power Station" },
+    coordinates: { lat: 58.275, lng: 12.274 },
+    description: {
+      de: "Eines der ersten großen staatlichen Wasserkraftwerke Schwedens, gelegen an den Trollhättan-Fällen.",
+      hu: "Svédország egyik első nagy állami vízerőműve, amely a Trollhättan-vízesésnél található.",
+      ro: "Una dintre primele mari centrale hidroelectrice de stat din Suedia, situată la cascadele din Trollhättan.",
+      en: "One of Sweden's first major state-owned hydroelectric power stations, located at the Trollhättan falls.",
+    },
+    facts: {
+      de: ["In Betrieb genommen im Jahr 1910", "Imposantes Gebäude aus rotem Granit", "Nutzt die Energie des Göta älv", "Wichtiger Teil der schwedischen Industriegeschichte"],
+      hu: ["1910-ben helyezték üzembe", "Impozáns vörös gránit épület", "A Göta älv energiáját hasznosítja", "A svéd ipartörténet fontos része"],
+      ro: ["Pusă în funcțiune în anul 1910", "Clădire impunătoare din granit roșu", "Utilizează energia râului Göta älv", "O parte importantă a istoriei industriale suedeze"],
+      en: ["Commissioned in the year 1910", "Imposing building made of red granite", "Utilizes the energy of the Göta älv river", "Important part of Swedish industrial history"],
+    },
+    imageHint: "Olidan Power Station Trollhattan granite building",
+  },
+  {
+    id: "sweden-vasteras-cathedral-landmarks-v2",
+    type: "cathedral",
+    parent: "SE",
+    name: { de: "Dom zu Västerås", hu: "Västeråsi székesegyház", ro: "Catedrala din Västerås", en: "Västerås Cathedral" },
+    coordinates: { lat: 59.612, lng: 16.541 },
+    description: {
+      de: "Eine bedeutende gotische Kathedrale aus dem 13. Jahrhundert, die als Grabstätte des schwedischen Königs Erik XIV. bekannt ist.",
+      hu: "Jelentős 13. századi gótikus székesegyház, amely XIV. Erik svéd király sírhelyeként ismert.",
+      ro: "O catedrală gotică importantă din secolul al XIII-lea, cunoscută ca locul de înmormântare al regelui suedez Eric al XIV-lea.",
+      en: "A significant 13th-century Gothic cathedral, known as the burial place of the Swedish King Eric XIV.",
+    },
+    facts: {
+      de: ["Baubeginn im 13. Jahrhundert", "Besitzt einen 91 Meter hohen Turm", "Beherbergt wertvolle flämische Altäre", "Sitz des Bischofs von Västerås"],
+      hu: ["Az építés a 13. században kezdődött", "91 méter magas toronnyal rendelkezik", "Értékes flamand oltároknak ad otthont", "A västeråsi püspök székhelye"],
+      ro: ["Construcția a început în secolul al XIII-lea", "Are un turn cu o înălțime de 91 de metri", "Găzduiește altare flamande valoroase", "Sediul Episcopului de Västerås"],
+      en: ["Construction began in the 13th century", "Features a 91-meter high tower", "Houses valuable Flemish altarpieces", "Seat of the Bishop of Västerås"],
+    },
+    imageHint: "Vasteras Cathedral brick gothic tower",
+  },
+  {
+    id: "sweden-borgholm-castle-landmarks-v2",
+    type: "ruins",
+    parent: "SE",
+    name: { de: "Schloss Borgholm", hu: "Borgholmi vár", ro: "Castelul Borgholm", en: "Borgholm Castle" },
+    coordinates: { lat: 56.871, lng: 16.643 },
+    description: {
+      de: "Eine gewaltige Schlossruine auf der Insel Öland, die oft als die schönste Ruine Skandinaviens bezeichnet wird.",
+      hu: "Hatalmas várrom Öland szigetén, amelyet gyakran Skandinávia legszebb romjaként emlegetnek.",
+      ro: "O ruină masivă de castel pe insula Öland, descrisă adesea ca fiind cea mai frumoasă ruină din Scandinavia.",
+      en: "A massive castle ruin on the island of Öland, often referred to as the most beautiful ruin in Scandinavia.",
+    },
+    facts: {
+      de: ["Ursprünglich eine Festung des 12. Jahrhunderts", "Im 17. Jahrhundert zum Barockpalast ausgebaut", "Zerstört durch ein Feuer im Jahr 1806", "Beliebter Ort für Konzerte und Events"],
+      hu: ["Eredetileg 12. századi erődítmény", "A 17. században barokk palotává alakították", "1806-ban tűzvész pusztította el", "Népszerű helyszín koncertek és rendezvények számára"],
+      ro: ["Inițial o fortăreață din secolul al XII-lea", "Extins în palat baroc în secolul al XVII-lea", "Distrus de un incendiu în anul 1806", "Loc popular pentru concerte și evenimente"],
+      en: ["Originally a 12th-century fortress", "Expanded into a Baroque palace in the 17th century", "Destroyed by a fire in the year 1806", "Popular venue for concerts and events"],
+    },
+    imageHint: "Borgholm Castle ruins Oland",
+  },
+  {
+    id: "sweden-victoria-tower-landmarks-v2",
+    type: "tower",
+    parent: "SE",
+    name: { de: "Victoria Tower", hu: "Victoria Tower", ro: "Victoria Tower", en: "Victoria Tower" },
+    coordinates: { lat: 59.406, lng: 17.955 },
+    description: {
+      de: "Ein markanter Wolkenkratzer im Stadtteil Kista in Stockholm, bekannt für seine schimmernde Glasfassade.",
+      hu: "Jellegzetes felhőkarcoló Stockholm Kista negyedében, amely csillogó üveghomlokzatáról ismert.",
+      ro: "Un zgârie-nori distinctiv în districtul Kista din Stockholm, cunoscut pentru fațada sa de sticlă sclipitoare.",
+      en: "A distinctive skyscraper in the Kista district of Stockholm, known for its shimmering glass facade.",
+    },
+    facts: {
+      de: ["Höhe von 117,6 Metern", "Fertiggestellt im Jahr 2011", "Entworfen von Gert Wingårdh", "Eines der höchsten Gebäude Stockholms"],
+      hu: ["117,6 méter magas", "2011-ben készült el", "Gert Wingårdh tervezte", "Stockholm egyik legmagasabb épülete"],
+      ro: ["Înălțime de 117,6 metri", "Finalizat în anul 2011", "Proiectat de Gert Wingårdh", "Una dintre cele mai înalte clădiri din Stockholm"],
+      en: ["Height of 117.6 meters", "Completed in the year 2011", "Designed by Gert Wingårdh", "One of the tallest buildings in Stockholm"],
+    },
+    imageHint: "Victoria Tower Kista glass facade",
+  },
+  {
+    id: "sweden-tullgarn-palace-landmarks-v2",
+    type: "palace",
+    parent: "SE",
+    name: { de: "Schloss Tullgarn", hu: "Tullgarn-palota", ro: "Palatul Tullgarn", en: "Tullgarn Palace" },
+    coordinates: { lat: 58.953, lng: 17.585 },
+    description: {
+      de: "Ein königliches Schloss in der Provinz Södermanland, bekannt für seine Lage am Meer und seine gut erhaltenen Innenräume.",
+      hu: "Királyi palota Södermanland tartományban, amely tengerparti fekvéséről és jól megőrzött belső tereiről ismert.",
+      ro: "Un palat regal în provincia Södermanland, cunoscut pentru locația sa la malul mării și interioarele bine conservate.",
+      en: "A royal palace in the province of Södermanland, known for its seaside location and well-preserved interiors.",
+    },
+    facts: {
+      de: ["Erbaut in den 1720er Jahren", "Lieblingsschloss von König Gustaf V.", "Mischung aus Rokoko und Neoklassizismus", "Liegt an einer Bucht der Ostsee"],
+      hu: ["Az 1720-as években épült", "V. Gusztáv király kedvenc palotája volt", "A rokokó és a neoklasszicizmus keveréke", "A Balti-tenger egyik öblénél fekszik"],
+      ro: ["Construit în anii 1720", "Palatul preferat al regelui Gustaf al V-lea", "Amestec de stil rococo și neoclasicism", "Situat pe un golf al Mării Baltice"],
+      en: ["Built in the 1720s", "Favorite palace of King Gustaf V", "Blend of Rococo and Neoclassicism", "Located on a bay of the Baltic Sea"],
+    },
+    imageHint: "Tullgarn Palace Södermanland seaside",
   }
 ];

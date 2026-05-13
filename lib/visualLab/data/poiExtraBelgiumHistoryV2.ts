@@ -3,6 +3,7 @@ export const belgiumHistoryV2: POI[] = [
 
   {
     id: "belgium-waterloo-battlefield-history-v2",
+    parent: "BE",
     type: "battlefield",
     name: { de: "Schlachtfeld von Waterloo", hu: "Waterlooi csatatér", ro: "Câmpul de luptă de la Waterloo", en: "Waterloo Battlefield",
 image: "/poi-images/belgium-waterloo-battlefield-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Waterloo Lion's Mound and battlefield memorial",
     , image: "/poi-images/belgium-waterloo-battlefield-history-v2.webp",
 },  {
     id: "belgium-gravensteen-castle-history-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Burg Gravensteen", hu: "Gravensteen várkastély", ro: "Castelul Gravensteen", en: "Gravensteen Castle",
 image: "/poi-images/belgium-gravensteen-castle-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Gravensteen Castle in Ghent medieval architecture",
     , image: "/poi-images/belgium-gravensteen-castle-history-v2.webp",
 },  {
     id: "belgium-menin-gate-history-v2",
+    parent: "BE",
     type: "monument",
     name: { de: "Menin-Tor", hu: "Menin-kapu", ro: "Poarta Menin", en: "Menin Gate",
 image: "/poi-images/belgium-menin-gate-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Menin Gate Memorial Ypres at night",
     , image: "/poi-images/belgium-menin-gate-history-v2.webp",
 },  {
     id: "belgium-villers-abbey-history-v2",
+    parent: "BE",
     type: "ruins",
     name: { de: "Abtei Villers", hu: "Villers-i apátság romjai", ro: "Abația Villers", en: "Villers Abbey",
 image: "/poi-images/belgium-villers-abbey-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Villers Abbey ruins Villers-la-Ville",
     , image: "/poi-images/belgium-villers-abbey-history-v2.webp",
 },  {
     id: "belgium-namur-citadel-history-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Zitadelle von Namur", hu: "Namuri citadella", ro: "Citadela din Namur", en: "Citadel of Namur",
 image: "/poi-images/belgium-namur-citadel-history-v2.webp"
@@ -174,6 +179,7 @@ imageHint: "Citadel of Namur overlooking the river",
     , image: "/poi-images/belgium-namur-citadel-history-v2.webp",
 },  {
     id: "belgium-bouillon-castle-history-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Burg Bouillon", hu: "Bouillon vára", ro: "Castelul Bouillon", en: "Castle of Bouillon",
 image: "/poi-images/belgium-bouillon-castle-history-v2.webp"
@@ -208,6 +214,7 @@ imageHint: "Medieval Castle of Bouillon aerial view",
     , image: "/poi-images/belgium-bouillon-castle-history-v2.webp",
 },  {
     id: "belgium-tyne-cot-cemetery-history-v2",
+    parent: "BE",
     type: "monument",
     name: { de: "Tyne Cot Friedhof", hu: "Tyne Cot temető", ro: "Cimitirul Tyne Cot", en: "Tyne Cot Cemetery",
 image: "/poi-images/belgium-tyne-cot-cemetery-history-v2.webp"
@@ -242,6 +249,7 @@ imageHint: "Tyne Cot Commonwealth War Cemetery Passchendaele",
     , image: "/poi-images/belgium-tyne-cot-cemetery-history-v2.webp",
 },  {
     id: "belgium-bruges-belfry-history-v2",
+    parent: "BE",
     type: "tower",
     name: { de: "Belfried von Brügge", hu: "Brugge harangtornya", ro: "Turnul Belfort din Bruges", en: "Belfry of Bruges",
 image: "/poi-images/belgium-bruges-belfry-history-v2.webp"
@@ -276,6 +284,7 @@ imageHint: "Belfry of Bruges tower on market square",
     , image: "/poi-images/belgium-bruges-belfry-history-v2.webp",
 },  {
     id: "belgium-antwerp-steen-history-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Het Steen", hu: "Het Steen várkastély", ro: "Het Steen", en: "Het Steen",
 image: "/poi-images/belgium-antwerp-steen-history-v2.webp"
@@ -310,6 +319,7 @@ imageHint: "Het Steen castle Antwerp Scheldt river",
     , image: "/poi-images/belgium-antwerp-steen-history-v2.webp",
 },  {
     id: "belgium-prince-bishops-palace-history-v2",
+    parent: "BE",
     type: "palace",
     name: { de: "Palast der Fürstbischöfe", hu: "Püspöki palota (Liège)", ro: "Palatul Prinților-Episcopi", en: "Prince-Bishops' Palace",
 image: "/poi-images/belgium-prince-bishops-palace-history-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "Prince-Bishops' Palace Liège courtyard columns",
     , image: "/poi-images/belgium-prince-bishops-palace-history-v2.webp",
 },  {
     id: "belgium-tournai-belfry-history-v2",
+    parent: "BE",
     type: "tower",
     name: { de: "Belfried von Tournai", hu: "Tournai harangtornya", ro: "Turnul Belfort din Tournai", en: "Belfry of Tournai",
 image: "/poi-images/belgium-tournai-belfry-history-v2.webp"
@@ -378,6 +389,7 @@ imageHint: "Belfry of Tournai oldest in Belgium",
     , image: "/poi-images/belgium-tournai-belfry-history-v2.webp",
 },  {
     id: "belgium-brussels-grand-place-history-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Grand Place Brüssel", hu: "Brüsszeli Főtér (Grand-Place)", ro: "Marea Piață din Bruxelles", en: "Grand Place Brussels",
 image: "/poi-images/belgium-brussels-grand-place-history-v2.webp"
@@ -400,6 +412,7 @@ image: "/poi-images/belgium-brussels-grand-place-history-v2.webp"
     image: "/poi-images/belgium-brussels-grand-place-history-v2.webp"},
   {
     id: "belgium-mardasson-memorial-history-v2",
+    parent: "BE",
     type: "monument",
     name: { de: "Mardasson-Denkmal", hu: "Mardasson-emlékmű", ro: "Memorialul Mardasson", en: "Mardasson Memorial",
 image: "/poi-images/belgium-mardasson-memorial-history-v2.webp"
@@ -434,6 +447,7 @@ imageHint: "Mardasson Memorial Bastogne star shape",
     , image: "/poi-images/belgium-mardasson-memorial-history-v2.webp",
 },  {
     id: "belgium-gaasbeek-castle-history-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Schloss Gaasbeek", hu: "Gaasbeeki várkastély", ro: "Castelul Gaasbeek", en: "Castle of Gaasbeek",
 image: "/poi-images/belgium-gaasbeek-castle-history-v2.webp"
@@ -456,6 +470,7 @@ image: "/poi-images/belgium-gaasbeek-castle-history-v2.webp"
     image: "/poi-images/belgium-gaasbeek-castle-history-v2.webp"},
   {
     id: "belgium-stavelot-abbey-history-v2",
+    parent: "BE",
     type: "museum",
     name: { de: "Abtei Stavelot", hu: "Stavelot-i apátság", ro: "Abația Stavelot", en: "Abbey of Stavelot",
 image: "/poi-images/belgium-stavelot-abbey-history-v2.webp"
@@ -478,6 +493,7 @@ image: "/poi-images/belgium-stavelot-abbey-history-v2.webp"
     image: "/poi-images/belgium-stavelot-abbey-history-v2.webp"},
   {
     id: "belgium-raversyde-atlantic-wall-history-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Atlantikwall Raversyde", hu: "Raversyde Atlanti Fal", ro: "Zidul Atlantic din Raversyde", en: "Raversyde Atlantic Wall",
 image: "/poi-images/belgium-raversyde-atlantic-wall-history-v2.webp"
@@ -500,6 +516,7 @@ image: "/poi-images/belgium-raversyde-atlantic-wall-history-v2.webp"
     image: "/poi-images/belgium-raversyde-atlantic-wall-history-v2.webp"},
   {
     id: "belgium-fort-breendonk-history-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Fort Breendonk", hu: "Breendonki erőd", ro: "Fortul Breendonk", en: "Fort Breendonk",
 image: "/poi-images/belgium-fort-breendonk-history-v2.webp"
@@ -522,6 +539,7 @@ image: "/poi-images/belgium-fort-breendonk-history-v2.webp"
     image: "/poi-images/belgium-fort-breendonk-history-v2.webp"},
   {
     id: "belgium-plantin-moretus-museum-history-v2",
+    parent: "BE",
     type: "museum",
     name: { de: "Museum Plantin-Moretus", hu: "Plantin-Moretus Múzeum", ro: "Muzeul Plantin-Moretus", en: "Museum Plantin-Moretus",
 image: "/poi-images/belgium-plantin-moretus-museum-history-v2.webp"
@@ -544,6 +562,7 @@ image: "/poi-images/belgium-plantin-moretus-museum-history-v2.webp"
     image: "/poi-images/belgium-plantin-moretus-museum-history-v2.webp"},
   {
     id: "belgium-tongeren-roman-walls-history-v2",
+    parent: "BE",
     type: "ruins",
     name: { de: "Römische Stadtmauer Tongeren", hu: "Tongereni római városfalak", ro: "Zidurile romane din Tongeren", en: "Roman Walls of Tongeren",
 image: "/poi-images/belgium-tongeren-roman-walls-history-v2.webp"
@@ -578,6 +597,7 @@ image: "/poi-images/belgium-tongeren-roman-walls-history-v2.webp"
   },
   {
     id: "belgium-horst-castle-history-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Schloss Horst", hu: "Horst vára", ro: "Castelul Horst", en: "Castle of Horst",
 image: "/poi-images/belgium-horst-castle-history-v2.webp"
@@ -600,6 +620,7 @@ image: "/poi-images/belgium-horst-castle-history-v2.webp"
     image: "/poi-images/belgium-horst-castle-history-v2.webp"},
   {
     id: "belgium-beloeil-castle-history-v2",
+    parent: "BE",
     type: "palace",
     name: { de: "Schloss Belœil", hu: "Belœili kastély", ro: "Castelul Belœil", en: "Belœil Castle",
 image: "/poi-images/belgium-beloeil-castle-history-v2.webp"
@@ -622,6 +643,7 @@ image: "/poi-images/belgium-beloeil-castle-history-v2.webp"
     image: "/poi-images/belgium-beloeil-castle-history-v2.webp"},
   {
     id: "belgium-ooidonk-castle-history-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Schloss Ooidonk", hu: "Ooidonk kastély", ro: "Castelul Ooidonk", en: "Ooidonk Castle",
 image: "/poi-images/belgium-ooidonk-castle-history-v2.webp"
@@ -644,6 +666,7 @@ image: "/poi-images/belgium-ooidonk-castle-history-v2.webp"
     image: "/poi-images/belgium-ooidonk-castle-history-v2.webp"},
   {
     id: "belgium-grand-curtius-museum-history-v2",
+    parent: "BE",
     type: "museum",
     name: { de: "Grand Curtius", hu: "Grand Curtius múzeum", ro: "Grand Curtius", en: "Grand Curtius",
 image: "/poi-images/belgium-grand-curtius-museum-history-v2.webp"
@@ -666,6 +689,7 @@ image: "/poi-images/belgium-grand-curtius-museum-history-v2.webp"
     image: "/poi-images/belgium-grand-curtius-museum-history-v2.webp"},
   {
     id: "belgium-antwerp-cathedral-history-v2",
+    parent: "BE",
     type: "cathedral",
     name: { de: "Liebfrauenkathedrale Antwerpen", hu: "Antwerpeni Miasszonyunk-székesegyház", ro: "Catedrala Maicii Domnului din Anvers", en: "Cathedral of Our Lady (Antwerp)",
 image: "/poi-images/belgium-antwerp-cathedral-history-v2.webp"
@@ -688,6 +712,7 @@ image: "/poi-images/belgium-antwerp-cathedral-history-v2.webp"
     image: "/poi-images/belgium-antwerp-cathedral-history-v2.webp"},
   {
     id: "belgium-tournai-cathedral-history-v2",
+    parent: "BE",
     type: "cathedral",
     name: { de: "Kathedrale von Tournai", hu: "Tournai-i székesegyház", ro: "Catedrala din Tournai", en: "Tournai Cathedral",
 image: "/poi-images/belgium-tournai-cathedral-history-v2.webp"
@@ -722,6 +747,7 @@ imageHint: "Cathedral of Tournai five towers architecture",
     , image: "/poi-images/belgium-tournai-cathedral-history-v2.webp",
 },  {
     id: "belgium-gruuthuse-museum-history-v2",
+    parent: "BE",
     type: "museum",
     name: { de: "Gruuthusemuseum", hu: "Gruuthuse múzeum", ro: "Muzeul Gruuthuse", en: "Gruuthusemuseum",
 image: "/poi-images/belgium-gruuthuse-museum-history-v2.webp"
@@ -756,6 +782,7 @@ imageHint: "Gruuthusemuseum Bruges courtyard architecture",
     , image: "/poi-images/belgium-gruuthuse-museum-history-v2.webp",
 },  {
     id: "belgium-rubenshuis-history-v2",
+    parent: "BE",
     type: "museum",
     name: { de: "Rubenshaus", hu: "Rubens-ház", ro: "Casa Rubens", en: "Rubens House",
 image: "/poi-images/belgium-rubenshuis-history-v2.webp"
@@ -790,6 +817,7 @@ imageHint: "Rubenshuis Antwerp garden and studio",
     , image: "/poi-images/belgium-rubenshuis-history-v2.webp",
 },  {
     id: "belgium-mons-belfry-history-v2",
+    parent: "BE",
     type: "tower",
     name: { de: "Belfried von Mons", hu: "Mons-i harangtorony", ro: "Turnul Belfort din Mons", en: "Belfry of Mons",
 image: "/poi-images/belgium-mons-belfry-history-v2.webp"
@@ -824,6 +852,7 @@ imageHint: "Belfry of Mons Baroque tower",
     , image: "/poi-images/belgium-mons-belfry-history-v2.webp",
 },  {
     id: "belgium-la-roche-castle-history-v2",
+    parent: "BE",
     type: "ruins",
     name: { de: "Burg La Roche-en-Ardenne", hu: "La Roche-en-Ardenne vára", ro: "Castelul La Roche-en-Ardenne", en: "Castle of La Roche-en-Ardenne",
 image: "/poi-images/belgium-la-roche-castle-history-v2.webp"
@@ -858,6 +887,7 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     , image: "/poi-images/belgium-la-roche-castle-history-v2.webp",
 },  {
     id: "belgium-montaigle-castle-history-v2",
+    parent: "BE",
     type: "ruins",
     name: { de: "Burgruine Montaigle", hu: "Montaigle várrom", ro: "Cetatea Montaigle", en: "Montaigle Castle",
 image: "/poi-images/belgium-montaigle-castle-history-v2.webp"

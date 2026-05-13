@@ -3,6 +3,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
 
   {
     id: "bosniaherzegovina-maglic-nature-v2",
+    parent: "BA",
     type: "peak",
     name: { de: "Maglić", hu: "Maglić", ro: "Maglić", en: "Maglić",
 image: "/poi-images/bosniaherzegovina-maglic-nature-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/bosniaherzegovina-maglic-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-neretva-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Neretva", hu: "Neretva", ro: "Neretva", en: "Neretva",
 image: "/poi-images/bosniaherzegovina-neretva-river-nature-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/bosniaherzegovina-neretva-river-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-una-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Una", hu: "Una", ro: "Una", en: "Una",
 image: "/poi-images/bosniaherzegovina-una-river-nature-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/bosniaherzegovina-una-river-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-drina-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Drina", hu: "Drina", ro: "Drina", en: "Drina",
 image: "/poi-images/bosniaherzegovina-drina-river-nature-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/bosniaherzegovina-drina-river-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-bosna-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Bosna", hu: "Boszna", ro: "Bosna", en: "Bosna",
 image: "/poi-images/bosniaherzegovina-bosna-river-nature-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/bosniaherzegovina-bosna-river-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-vrbas-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Vrbas", hu: "Orbász", ro: "Vrbas", en: "Vrbas",
 image: "/poi-images/bosniaherzegovina-vrbas-river-nature-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/bosniaherzegovina-vrbas-river-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-strbacki-buk-nature-v2",
+    parent: "BA",
     type: "landmark",
     name: { de: "Štrbački buk", hu: "Štrbački buk", ro: "Štrbački buk", en: "Štrbački buk",
 image: "/poi-images/bosniaherzegovina-strbacki-buk-nature-v2.webp"
@@ -248,6 +255,7 @@ image: "/poi-images/bosniaherzegovina-strbacki-buk-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-igman-mountain-nature-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Igman", hu: "Igman", ro: "Igman", en: "Igman",
 image: "/poi-images/bosniaherzegovina-igman-mountain-nature-v2.webp"
@@ -283,6 +291,7 @@ image: "/poi-images/bosniaherzegovina-igman-mountain-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-trebevic-mountain-nature-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Trebević", hu: "Trebević", ro: "Trebević", en: "Trebević",
 image: "/poi-images/bosniaherzegovina-trebevic-mountain-nature-v2.webp"
@@ -318,6 +327,7 @@ image: "/poi-images/bosniaherzegovina-trebevic-mountain-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-prenj-mountain-nature-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Prenj", hu: "Prenj", ro: "Prenj", en: "Prenj",
 image: "/poi-images/bosniaherzegovina-prenj-mountain-nature-v2.webp"
@@ -353,6 +363,7 @@ image: "/poi-images/bosniaherzegovina-prenj-mountain-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-cvrsnica-mountain-nature-v2",
+    parent: "BA",
     type: "peak",
     name: { de: "Čvrsnica", hu: "Čvrsnica", ro: "Čvrsnica", en: "Čvrsnica",
 image: "/poi-images/bosniaherzegovina-cvrsnica-mountain-nature-v2.webp"
@@ -388,6 +399,7 @@ image: "/poi-images/bosniaherzegovina-cvrsnica-mountain-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-blidinje-lake-nature-v2",
+    parent: "BA",
     type: "lake",
     name: { de: "Blidinje-See", hu: "Blidinje-tó", ro: "Lacul Blidinje", en: "Blidinje Lake",
 image: "/poi-images/bosniaherzegovina-blidinje-lake-nature-v2.webp"
@@ -423,6 +435,7 @@ image: "/poi-images/bosniaherzegovina-blidinje-lake-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-boracko-lake-nature-v2",
+    parent: "BA",
     type: "lake",
     name: { de: "Boračko-See", hu: "Boračko-tó", ro: "Lacul Boračko", en: "Boračko Lake",
 image: "/poi-images/bosniaherzegovina-boracko-lake-nature-v2.webp"
@@ -458,6 +471,7 @@ image: "/poi-images/bosniaherzegovina-boracko-lake-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-jablanicko-lake-nature-v2",
+    parent: "BA",
     type: "lake",
     name: { de: "Jablaničko-See", hu: "Jablaničko-tó", ro: "Lacul Jablaničko", en: "Jablaničko Lake",
 image: "/poi-images/bosniaherzegovina-jablanicko-lake-nature-v2.webp"
@@ -493,6 +507,7 @@ image: "/poi-images/bosniaherzegovina-jablanicko-lake-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-rama-lake-nature-v2",
+    parent: "BA",
     type: "lake",
     name: { de: "Rama-See", hu: "Rama-tó", ro: "Lacul Rama", en: "Rama Lake",
 image: "/poi-images/bosniaherzegovina-rama-lake-nature-v2.webp"
@@ -528,6 +543,7 @@ image: "/poi-images/bosniaherzegovina-rama-lake-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-hutovo-blato-nature-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Hutovo Blato", hu: "Hutovo Blato", ro: "Hutovo Blato", en: "Hutovo Blato",
 image: "/poi-images/bosniaherzegovina-hutovo-blato-nature-v2.webp"
@@ -563,6 +579,7 @@ image: "/poi-images/bosniaherzegovina-hutovo-blato-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-zelengora-mountain-nature-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Zelengora", hu: "Zelengora", ro: "Zelengora", en: "Zelengora",
 image: "/poi-images/bosniaherzegovina-zelengora-mountain-nature-v2.webp"
@@ -598,6 +615,7 @@ image: "/poi-images/bosniaherzegovina-zelengora-mountain-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-tara-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Tara", hu: "Tara", ro: "Tara", en: "Tara",
 image: "/poi-images/bosniaherzegovina-tara-river-nature-v2.webp"
@@ -633,6 +651,7 @@ image: "/poi-images/bosniaherzegovina-tara-river-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-pliva-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Pliva", hu: "Pliva", ro: "Pliva", en: "Pliva",
 image: "/poi-images/bosniaherzegovina-pliva-river-nature-v2.webp"
@@ -669,6 +688,7 @@ image: "/poi-images/bosniaherzegovina-pliva-river-nature-v2.webp"
 ,
   {
     id: "bosniaherzegovina-bjelasnica-nature-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Bjelašnica", hu: "Bjelašnica", ro: "Muntele Bjelašnica", en: "Bjelašnica Mountain",
 image: "/poi-images/bosniaherzegovina-bjelasnica-nature-v2.webp"
@@ -702,6 +722,7 @@ image: "/poi-images/bosniaherzegovina-bjelasnica-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-jahorina-nature-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Jahorina", hu: "Jahorina", ro: "Muntele Jahorina", en: "Jahorina Mountain",
 image: "/poi-images/bosniaherzegovina-jahorina-nature-v2.webp"
@@ -736,6 +757,7 @@ image: "/poi-images/bosniaherzegovina-jahorina-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-bileca-lake-nature-v2",
+    parent: "BA",
     type: "lake",
     name: { de: "Bileća-See", hu: "Bilećai-tó", ro: "Lacul Bileća", en: "Bileća Lake",
 image: "/poi-images/bosniaherzegovina-bileca-lake-nature-v2.webp"
@@ -769,6 +791,7 @@ image: "/poi-images/bosniaherzegovina-bileca-lake-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-modrac-lake-nature-v2",
+    parent: "BA",
     type: "lake",
     name: { de: "Modrac-See", hu: "Modrac-tó", ro: "Lacul Modrac", en: "Modrac Lake",
 image: "/poi-images/bosniaherzegovina-modrac-lake-nature-v2.webp"
@@ -803,6 +826,7 @@ image: "/poi-images/bosniaherzegovina-modrac-lake-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-sana-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Sana", hu: "Szana", ro: "Râul Sana", en: "Sana River",
 image: "/poi-images/bosniaherzegovina-sana-river-nature-v2.webp"
@@ -837,6 +861,7 @@ image: "/poi-images/bosniaherzegovina-sana-river-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-bliha-waterfall-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Bliha-Wasserfall", hu: "Bliha-vízesés", ro: "Cascada Bliha", en: "Bliha Waterfall",
 image: "/poi-images/bosniaherzegovina-bliha-waterfall-nature-v2.webp"
@@ -870,6 +895,7 @@ image: "/poi-images/bosniaherzegovina-bliha-waterfall-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-kocusa-waterfall-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Koćuša-Wasserfall", hu: "Koćuša-vízesés", ro: "Cascada Koćuša", en: "Koćuša Waterfall",
 image: "/poi-images/bosniaherzegovina-kocusa-waterfall-nature-v2.webp"
@@ -903,6 +929,7 @@ image: "/poi-images/bosniaherzegovina-kocusa-waterfall-nature-v2.webp"
   },
   {
     id: "bosniaherzegovina-martin-brod-nature-v2",
+    parent: "BA",
     type: "park",
     name: { de: "Martin Brod Wasserfälle", hu: "Martin Brodi vízesések", ro: "Cascadele Martin Brod", en: "Martin Brod Waterfalls",
 image: "/poi-images/bosniaherzegovina-martin-brod-nature-v2.webp"
@@ -936,6 +963,7 @@ image: "/poi-images/bosniaherzegovina-martin-brod-nature-v2.webp"
   }
 ,
   {id: "bosniaherzegovina-trebisnjica-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Trebišnjica", hu: "Trebišnjica", ro: "Râul Trebišnjica", en: "Trebišnjica River",
 image: "/poi-images/bosniaherzegovina-trebisnjica-river-nature-v2.webp"
@@ -968,6 +996,7 @@ image: "/poi-images/bosniaherzegovina-trebisnjica-river-nature-v2.webp"
     }
   },
   {id: "bosniaherzegovina-kupresko-polje-nature-v2",
+    parent: "BA",
     type: "valley",
     name: { de: "Kupresko Polje", hu: "Kupresi-mező", ro: "Câmpia Kupres", en: "Kupreško Polje",
 image: "/poi-images/bosniaherzegovina-kupresko-polje-nature-v2.webp"
@@ -1000,6 +1029,7 @@ image: "/poi-images/bosniaherzegovina-kupresko-polje-nature-v2.webp"
     }
   },
   {id: "bosniaherzegovina-neum-coast-nature-v2",
+    parent: "BA",
     type: "sea",
     name: { de: "Küste von Neum", hu: "Neumi tengerpart", ro: "Litoralul Neum", en: "Neum Coastline",
 image: "/poi-images/bosniaherzegovina-neum-coast-nature-v2.webp"
@@ -1032,6 +1062,7 @@ image: "/poi-images/bosniaherzegovina-neum-coast-nature-v2.webp"
     }
   },
   {id: "bosniaherzegovina-krivaja-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Krivaja", hu: "Krivaja", ro: "Râul Krivaja", en: "Krivaja River",
 image: "/poi-images/bosniaherzegovina-krivaja-river-nature-v2.webp"
@@ -1064,6 +1095,7 @@ image: "/poi-images/bosniaherzegovina-krivaja-river-nature-v2.webp"
     }
   },
   {id: "bosniaherzegovina-spreca-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Spreča", hu: "Spreča", ro: "Râul Spreča", en: "Spreča River",
 image: "/poi-images/bosniaherzegovina-spreca-river-nature-v2.webp"
@@ -1096,6 +1128,7 @@ image: "/poi-images/bosniaherzegovina-spreca-river-nature-v2.webp"
     }
   },
   {id: "bosniaherzegovina-zvijezda-mountain-nature-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Zvijezda", hu: "Zvijezda-hegység", ro: "Muntele Zvijezda", en: "Zvijezda Mountain",
 image: "/poi-images/bosniaherzegovina-zvijezda-mountain-nature-v2.webp"
@@ -1128,6 +1161,7 @@ image: "/poi-images/bosniaherzegovina-zvijezda-mountain-nature-v2.webp"
     }
   },
   {id: "bosniaherzegovina-ljuta-river-nature-v2",
+    parent: "BA",
     type: "river",
     name: { de: "Ljuta", hu: "Ljuta-folyó", ro: "Râul Ljuta", en: "Ljuta River",
 image: "/poi-images/bosniaherzegovina-ljuta-river-nature-v2.webp"
@@ -1160,6 +1194,7 @@ image: "/poi-images/bosniaherzegovina-ljuta-river-nature-v2.webp"
     }
   },
   {id: "bosniaherzegovina-mostarska-blata-nature-v2",
+    parent: "BA",
     type: "lake",
     name: { de: "Mostarska Blata", hu: "Mostari mocsár", ro: "Mostarska Blata", en: "Mostarska Blata",
 image: "/poi-images/bosniaherzegovina-mostarska-blata-nature-v2.webp"
@@ -1192,6 +1227,7 @@ image: "/poi-images/bosniaherzegovina-mostarska-blata-nature-v2.webp"
     }
   },
   {id: "bosniaherzegovina-gacko-polje-nature-v2",
+    parent: "BA",
     type: "valley",
     name: { de: "Gacko Polje", hu: "Gacko-mező", ro: "Câmpia Gacko", en: "Gacko Polje",
 image: "/poi-images/bosniaherzegovina-gacko-polje-nature-v2.webp"

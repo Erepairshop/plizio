@@ -3,6 +3,7 @@ export const polandNatureV2: POI[] = [
 
   {
     id: "poland-morskie-oko-nature-v2",
+    parent: "PL",
     type: "lake",
     name: { de: "Morskie Oko", hu: "Morskie Oko", ro: "Morskie Oko", en: "Morskie Oko",
 image: "/poi-images/poland-morskie-oko-nature-v2.webp"
@@ -36,6 +37,7 @@ image: "/poi-images/poland-morskie-oko-nature-v2.webp"
     }, image: "/poi-images/poland-morskie-oko-nature-v2.webp"},
   {
     id: "poland-rysy-peak-nature-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Meeraugspitze", hu: "Rysy", ro: "Vârful Rysy", en: "Rysy Peak",
 image: "/poi-images/poland-rysy-peak-nature-v2.webp"
@@ -69,6 +71,7 @@ image: "/poi-images/poland-rysy-peak-nature-v2.webp"
     }, image: "/poi-images/poland-rysy-peak-nature-v2.webp"},
   {
     id: "poland-bialowieza-forest-nature-v2",
+    parent: "PL",
     type: "forest",
     name: { de: "Białowieża-Urwald", hu: "Białowieża-erdő", ro: "Pădurea Białowieża", en: "Białowieża Forest",
 image: "/poi-images/poland-bialowieza-forest-nature-v2.webp"
@@ -102,6 +105,7 @@ image: "/poi-images/poland-bialowieza-forest-nature-v2.webp"
     }, image: "/poi-images/poland-bialowieza-forest-nature-v2.webp"},
   {
     id: "poland-slowinski-dunes-nature-v2",
+    parent: "PL",
     type: "park",
     name: { de: "Wanderdünen von Słowiński", hu: "Słowiński vándorló dűnék", ro: "Dunele de la Słowiński", en: "Słowiński Moving Dunes",
 image: "/poi-images/poland-slowinski-dunes-nature-v2.webp"
@@ -135,6 +139,7 @@ image: "/poi-images/poland-slowinski-dunes-nature-v2.webp"
     }, image: "/poi-images/poland-slowinski-dunes-nature-v2.webp"},
   {
     id: "poland-dunajec-gorge-nature-v2",
+    parent: "PL",
     type: "valley",
     name: { de: "Dunajec-Durchbruch", hu: "Dunajec-áttörés", ro: "Defileul Dunajec", en: "Dunajec River Gorge",
 image: "/poi-images/poland-dunajec-gorge-nature-v2.webp"
@@ -168,6 +173,7 @@ image: "/poi-images/poland-dunajec-gorge-nature-v2.webp"
     }, image: "/poi-images/poland-dunajec-gorge-nature-v2.webp"},
   {
     id: "poland-tarnica-peak-nature-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Tarnica", hu: "Tarnica", ro: "Vârful Tarnica", en: "Tarnica Peak",
 image: "/poi-images/poland-tarnica-peak-nature-v2.webp"
@@ -201,6 +207,7 @@ image: "/poi-images/poland-tarnica-peak-nature-v2.webp"
     }, image: "/poi-images/poland-tarnica-peak-nature-v2.webp"},
   {
     id: "poland-sniardwy-lake-nature-v2",
+    parent: "PL",
     type: "lake",
     name: { de: "Spirdingsee", hu: "Śniardwy-tó", ro: "Lacul Śniardwy", en: "Śniardwy Lake",
 image: "/poi-images/poland-sniardwy-lake-nature-v2.webp"
@@ -234,6 +241,7 @@ image: "/poi-images/poland-sniardwy-lake-nature-v2.webp"
     }, image: "/poi-images/poland-sniardwy-lake-nature-v2.webp"},
   {
     id: "poland-hel-peninsula-nature-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Halbinsel Hel", hu: "Hel-félsziget", ro: "Peninsula Hel", en: "Hel Peninsula",
 image: "/poi-images/poland-hel-peninsula-nature-v2.webp"
@@ -267,6 +275,7 @@ image: "/poi-images/poland-hel-peninsula-nature-v2.webp"
     }, image: "/poi-images/poland-hel-peninsula-nature-v2.webp"},
   {
     id: "poland-babia-gora-nature-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Babia Góra", hu: "Babia Góra", ro: "Masivul Babia Góra", en: "Babia Góra",
 image: "/poi-images/poland-babia-gora-nature-v2.webp"
@@ -300,6 +309,7 @@ image: "/poi-images/poland-babia-gora-nature-v2.webp"
     }, image: "/poi-images/poland-babia-gora-nature-v2.webp"},
   {
     id: "poland-szczeliniec-wielki-nature-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Großer Heuscheuer", hu: "Szczeliniec Wielki", ro: "Szczeliniec Wielki", en: "Szczeliniec Wielki",
 image: "/poi-images/poland-szczeliniec-wielki-nature-v2.webp"
@@ -333,6 +343,7 @@ image: "/poi-images/poland-szczeliniec-wielki-nature-v2.webp"
     }, image: "/poi-images/poland-szczeliniec-wielki-nature-v2.webp"},
   {
     id: "poland-sniezka-peak-nature-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Schneekoppe", hu: "Śnieżka", ro: "Vârful Śnieżka", en: "Śnieżka Peak",
 image: "/poi-images/poland-sniezka-peak-nature-v2.webp"
@@ -366,6 +377,7 @@ image: "/poi-images/poland-sniezka-peak-nature-v2.webp"
     }, image: "/poi-images/poland-sniezka-peak-nature-v2.webp"},
   {
     id: "poland-biebrza-marshes-nature-v2",
+    parent: "PL",
     type: "wildlife",
     name: { de: "Biebrza-Sümpfe", hu: "Biebrza-mocsarak", ro: "Mlaștinile Biebrza", en: "Biebrza Marshes",
 image: "/poi-images/poland-biebrza-marshes-nature-v2.webp"
@@ -399,6 +411,7 @@ image: "/poi-images/poland-biebrza-marshes-nature-v2.webp"
     }, image: "/poi-images/poland-biebrza-marshes-nature-v2.webp"},
   {
     id: "poland-kampinos-forest-nature-v2",
+    parent: "PL",
     type: "forest",
     name: { de: "Kampinos-Urwald", hu: "Kampinos-erdő", ro: "Pădurea Kampinos", en: "Kampinos Forest",
 image: "/poi-images/poland-kampinos-forest-nature-v2.webp"
@@ -432,6 +445,7 @@ image: "/poi-images/poland-kampinos-forest-nature-v2.webp"
     }, image: "/poi-images/poland-kampinos-forest-nature-v2.webp"},
   {
     id: "poland-wigry-lake-nature-v2",
+    parent: "PL",
     type: "lake",
     name: { de: "Wigry-See", hu: "Wigry-tó", ro: "Lacul Wigry", en: "Wigry Lake",
 image: "/poi-images/poland-wigry-lake-nature-v2.webp"
@@ -465,6 +479,7 @@ image: "/poi-images/poland-wigry-lake-nature-v2.webp"
     }, image: "/poi-images/poland-wigry-lake-nature-v2.webp"},
   {
     id: "poland-ojcow-valley-nature-v2",
+    parent: "PL",
     type: "valley",
     name: { de: "Ojców-Tal", hu: "Ojcówi-völgy", ro: "Valea Ojców", en: "Ojców Valley",
 image: "/poi-images/poland-ojcow-valley-nature-v2.webp"
@@ -498,6 +513,7 @@ image: "/poi-images/poland-ojcow-valley-nature-v2.webp"
     }, image: "/poi-images/poland-ojcow-valley-nature-v2.webp"},
   {
     id: "poland-trzy-korony-nature-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Drei Kronen", hu: "Korona-hegy", ro: "Vârful Trei Coroane", en: "Trzy Korony",
 image: "/poi-images/poland-trzy-korony-nature-v2.webp"
@@ -531,6 +547,7 @@ image: "/poi-images/poland-trzy-korony-nature-v2.webp"
     }, image: "/poi-images/poland-trzy-korony-nature-v2.webp"},
   {
     id: "poland-narew-river-nature-v2",
+    parent: "PL",
     type: "river",
     name: { de: "Narew", hu: "Narew", ro: "Râul Narew", en: "Narew River",
 image: "/poi-images/poland-narew-river-nature-v2.webp"
@@ -564,6 +581,7 @@ image: "/poi-images/poland-narew-river-nature-v2.webp"
     }, image: "/poi-images/poland-narew-river-nature-v2.webp"},
   {
     id: "poland-siklawa-waterfall-nature-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Siklawa-Wasserfall", hu: "Siklawa-vízesés", ro: "Cascada Siklawa", en: "Siklawa Waterfall",
 image: "/poi-images/poland-siklawa-waterfall-nature-v2.webp"
@@ -597,6 +615,7 @@ image: "/poi-images/poland-siklawa-waterfall-nature-v2.webp"
     }, image: "/poi-images/poland-siklawa-waterfall-nature-v2.webp"},
   {
     id: "poland-bear-cave-nature-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Bärenhöhle", hu: "Medve-barlang", ro: "Peștera Ursului (Kletno)", en: "Bear Cave",
 image: "/poi-images/poland-bear-cave-nature-v2.webp"
@@ -630,6 +649,7 @@ image: "/poi-images/poland-bear-cave-nature-v2.webp"
     }, image: "/poi-images/poland-bear-cave-nature-v2.webp"},
   {
     id: "poland-vistula-spit-nature-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Frische Nehrung", hu: "Visztula-turzás", ro: "Cordonul litoral al Vistulei", en: "Vistula Spit",
 image: "/poi-images/poland-vistula-spit-nature-v2.webp"
@@ -663,6 +683,7 @@ image: "/poi-images/poland-vistula-spit-nature-v2.webp"
     }, image: "/poi-images/poland-vistula-spit-nature-v2.webp"},
   {
     id: "poland-krutynia-river-nature-v2",
+    parent: "PL",
     type: "river",
     name: { de: "Kruttinna", hu: "Krutynia", ro: "Râul Krutynia", en: "Krutynia River",
 image: "/poi-images/poland-krutynia-river-nature-v2.webp"
@@ -696,6 +717,7 @@ image: "/poi-images/poland-krutynia-river-nature-v2.webp"
     }, image: "/poi-images/poland-krutynia-river-nature-v2.webp"},
   {
     id: "poland-turbacz-peak-nature-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Turbacz", hu: "Turbacz", ro: "Vârful Turbacz", en: "Turbacz Peak",
 image: "/poi-images/poland-turbacz-peak-nature-v2.webp"
@@ -729,6 +751,7 @@ image: "/poi-images/poland-turbacz-peak-nature-v2.webp"
     }, image: "/poi-images/poland-turbacz-peak-nature-v2.webp"},
   {
     id: "poland-mount-sleza-nature-v2",
+    parent: "PL",
     type: "peak",
     name: { de: "Zobten", hu: "Ślęża", ro: "Muntele Ślęża", en: "Mount Ślęża",
 image: "/poi-images/poland-mount-sleza-nature-v2.webp"
@@ -762,6 +785,7 @@ image: "/poi-images/poland-mount-sleza-nature-v2.webp"
     }, image: "/poi-images/poland-mount-sleza-nature-v2.webp"},
   {
     id: "poland-solina-lake-nature-v2",
+    parent: "PL",
     type: "lake",
     name: { de: "Solina-Stausee", hu: "Solinai-tó", ro: "Lacul Solina", en: "Solina Lake",
 image: "/poi-images/poland-solina-lake-nature-v2.webp"
@@ -795,6 +819,7 @@ image: "/poi-images/poland-solina-lake-nature-v2.webp"
     }, image: "/poi-images/poland-solina-lake-nature-v2.webp"},
   {
     id: "poland-dunajec-river-nature-v2",
+    parent: "PL",
     type: "river",
     name: { de: "Dunajec", hu: "Dunajec", ro: "Râul Dunajec", en: "Dunajec River",
 image: "/poi-images/poland-dunajec-river-nature-v2.webp"
@@ -828,6 +853,7 @@ image: "/poi-images/poland-dunajec-river-nature-v2.webp"
     }, image: "/poi-images/poland-dunajec-river-nature-v2.webp"},
   {
     id: "poland-five-lakes-valley-nature-v2",
+    parent: "PL",
     type: "valley",
     name: { de: "Tal der Fünf Polnischen Seen", hu: "Öt-lengyel-tó völgye", ro: "Valea celor Cinci Lacuri Poloneze", en: "Five Polish Lakes Valley",
 image: "/poi-images/poland-five-lakes-valley-nature-v2.webp"
@@ -861,6 +887,7 @@ image: "/poi-images/poland-five-lakes-valley-nature-v2.webp"
     }, image: "/poi-images/poland-five-lakes-valley-nature-v2.webp"},
   {
     id: "poland-wolin-cliffs-nature-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Steilküste von Wolin", hu: "Wolini sziklák", ro: "Faleza Wolin", en: "Wolin Cliffs",
 image: "/poi-images/poland-wolin-cliffs-nature-v2.webp"
@@ -894,6 +921,7 @@ image: "/poi-images/poland-wolin-cliffs-nature-v2.webp"
     }, image: "/poi-images/poland-wolin-cliffs-nature-v2.webp"},
   {
     id: "poland-roztocze-forest-nature-v2",
+    parent: "PL",
     type: "forest",
     name: { de: "Roztocze-Wälder", hu: "Roztocze-erdők", ro: "Pădurile Roztocze", en: "Roztocze Forest",
 image: "/poi-images/poland-roztocze-forest-nature-v2.webp"
@@ -927,6 +955,7 @@ image: "/poi-images/poland-roztocze-forest-nature-v2.webp"
     }, image: "/poi-images/poland-roztocze-forest-nature-v2.webp"},
   {
     id: "poland-czarna-hancza-river-nature-v2",
+    parent: "PL",
     type: "river",
     name: { de: "Czarna Hańcza", hu: "Czarna Hańcza", ro: "Râul Czarna Hańcza", en: "Czarna Hańcza",
 image: "/poi-images/poland-czarna-hancza-river-nature-v2.webp"
@@ -960,6 +989,7 @@ image: "/poi-images/poland-czarna-hancza-river-nature-v2.webp"
     }, image: "/poi-images/poland-czarna-hancza-river-nature-v2.webp"},
   {
     id: "poland-drawsko-lake-nature-v2",
+    parent: "PL",
     type: "lake",
     name: { de: "Dratzigsee", hu: "Drawsko-tó", ro: "Lacul Drawsko", en: "Drawsko Lake",
 image: "/poi-images/poland-drawsko-lake-nature-v2.webp"

@@ -3,6 +3,7 @@ export const belgiumEconomicV2: POI[] = [
 
   {
     id: "belgium-port-antwerp-economic-v2",
+    parent: "BE",
     type: "port",
     name: { de: "Hafen von Antwerpen-Brügge", hu: "Antwerpen-Brügge kikötő", ro: "Portul Anvers-Bruges", en: "Port of Antwerp-Bruges",
 image: "/poi-images/belgium-port-antwerp-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Aerial view of large container terminal in Port of Antwerp",
     , image: "/poi-images/belgium-port-antwerp-economic-v2.webp",
 },  {
     id: "belgium-antwerp-diamond-district-economic-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Diamantenviertel Antwerpen", hu: "Antwerpeni gyémántnegyed", ro: "Cartierul diamantelor din Anvers", en: "Antwerp Diamond District",
 image: "/poi-images/belgium-antwerp-diamond-district-economic-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
     , image: "/poi-images/belgium-antwerp-diamond-district-economic-v2.webp",
 },  {
     id: "belgium-doel-nuclear-plant-economic-v2",
+    parent: "BE",
     type: "industry",
     name: { de: "Kernkraftwerk Doel", hu: "Doeli atomerőmű", ro: "Centrala Nucleară de la Doel", en: "Doel Nuclear Power Plant",
 image: "/poi-images/belgium-doel-nuclear-plant-economic-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Cooling towers of Doel nuclear power plant by the river",
     , image: "/poi-images/belgium-doel-nuclear-plant-economic-v2.webp",
 },  {
     id: "belgium-brussels-north-quarter-economic-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Brüsseler Nordviertel", hu: "Brüsszeli északi negyed", ro: "Cartierul de Nord din Bruxelles", en: "Brussels North Quarter",
 image: "/poi-images/belgium-brussels-north-quarter-economic-v2.webp"
@@ -139,6 +143,7 @@ image: "/poi-images/belgium-brussels-north-quarter-economic-v2.webp"
   },
   {
     id: "belgium-port-liege-economic-v2",
+    parent: "BE",
     type: "port",
     name: { de: "Autonomer Hafen von Lüttich", hu: "Lüttichi autonóm kikötő", ro: "Portul Autonom din Liège", en: "Autonomous Port of Liège",
 image: "/poi-images/belgium-port-liege-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Barges and cranes at the inland Port of Liège",
     , image: "/poi-images/belgium-port-liege-economic-v2.webp",
 },  {
     id: "belgium-puurs-pharma-cluster-economic-v2",
+    parent: "BE",
     type: "factory",
     name: { de: "Pharma-Cluster Puurs", hu: "Puursi gyógyszeripari központ", ro: "Clusterul farmaceutic Puurs", en: "Puurs Pharmaceutical Cluster",
 image: "/poi-images/belgium-puurs-pharma-cluster-economic-v2.webp"
@@ -195,6 +201,7 @@ image: "/poi-images/belgium-puurs-pharma-cluster-economic-v2.webp"
     image: "/poi-images/belgium-puurs-pharma-cluster-economic-v2.webp"},
   {
     id: "belgium-seraing-steel-works-economic-v2",
+    parent: "BE",
     type: "industry",
     name: { de: "Stahlwerke von Seraing", hu: "Seraingi acélművek", ro: "Oțelăriile din Seraing", en: "Seraing Steel Works",
 image: "/poi-images/belgium-seraing-steel-works-economic-v2.webp"
@@ -229,6 +236,7 @@ image: "/poi-images/belgium-seraing-steel-works-economic-v2.webp"
   },
   {
     id: "belgium-zeebrugge-lng-terminal-economic-v2",
+    parent: "BE",
     type: "industry",
     name: { de: "LNG-Terminal Zeebrugge", hu: "Zeebruggei LNG-terminál", ro: "Terminalul GNL Zeebrugge", en: "Zeebrugge LNG Terminal",
 image: "/poi-images/belgium-zeebrugge-lng-terminal-economic-v2.webp"
@@ -251,6 +259,7 @@ image: "/poi-images/belgium-zeebrugge-lng-terminal-economic-v2.webp"
     image: "/poi-images/belgium-zeebrugge-lng-terminal-economic-v2.webp"},
   {
     id: "belgium-ghent-arcelormittal-steel-economic-v2",
+    parent: "BE",
     type: "factory",
     name: { de: "ArcelorMittal Gent", hu: "ArcelorMittal Gent", ro: "ArcelorMittal Gent", en: "ArcelorMittal Ghent",
 image: "/poi-images/belgium-ghent-arcelormittal-steel-economic-v2.webp"
@@ -273,6 +282,7 @@ image: "/poi-images/belgium-ghent-arcelormittal-steel-economic-v2.webp"
     image: "/poi-images/belgium-ghent-arcelormittal-steel-economic-v2.webp"},
   {
     id: "belgium-leuven-ab-inbev-brewery-economic-v2",
+    parent: "BE",
     type: "factory",
     name: { de: "AB InBev Brauerei Löwen", hu: "AB InBev sörfőzde, Leuven", ro: "Berăria AB InBev Leuven", en: "AB InBev Brewery Leuven",
 image: "/poi-images/belgium-leuven-ab-inbev-brewery-economic-v2.webp"
@@ -295,6 +305,7 @@ image: "/poi-images/belgium-leuven-ab-inbev-brewery-economic-v2.webp"
     image: "/poi-images/belgium-leuven-ab-inbev-brewery-economic-v2.webp"},
   {
     id: "belgium-tihange-nuclear-plant-economic-v2",
+    parent: "BE",
     type: "industry",
     name: { de: "Kernkraftwerk Tihange", hu: "Tihange-i atomerőmű", ro: "Centrala Nucleară de la Tihange", en: "Tihange Nuclear Power Plant",
 image: "/poi-images/belgium-tihange-nuclear-plant-economic-v2.webp"
@@ -317,6 +328,7 @@ image: "/poi-images/belgium-tihange-nuclear-plant-economic-v2.webp"
     image: "/poi-images/belgium-tihange-nuclear-plant-economic-v2.webp"},
   {
     id: "belgium-liege-airport-logistics-economic-v2",
+    parent: "BE",
     type: "port",
     name: { de: "Flughafen Lüttich Cargo-Hub", hu: "Lüttichi repülőtér logisztikai központ", ro: "Hub-ul logistic al Aeroportului Liège", en: "Liège Airport Logistics Hub",
 image: "/poi-images/belgium-liege-airport-logistics-economic-v2.webp"
@@ -339,6 +351,7 @@ image: "/poi-images/belgium-liege-airport-logistics-economic-v2.webp"
     image: "/poi-images/belgium-liege-airport-logistics-economic-v2.webp"},
   {
     id: "belgium-brussels-airport-cargo-economic-v2",
+    parent: "BE",
     type: "port",
     name: { de: "Brussels Airport Cargo (Brucargo)", hu: "Brüsszeli repülőtér Cargo (Brucargo)", ro: "Brussels Airport Cargo (Brucargo)", en: "Brussels Airport Cargo (Brucargo)",
 image: "/poi-images/belgium-brussels-airport-cargo-economic-v2.webp"
@@ -361,6 +374,7 @@ image: "/poi-images/belgium-brussels-airport-cargo-economic-v2.webp"
     image: "/poi-images/belgium-brussels-airport-cargo-economic-v2.webp"},
   {
     id: "belgium-feluy-petrochemical-economic-v2",
+    parent: "BE",
     type: "industry",
     name: { de: "Petrochemie-Komplex Feluy", hu: "Feluy-i petrolkémiai komplexum", ro: "Complexul petrochimic Feluy", en: "Feluy Petrochemical Complex",
 image: "/poi-images/belgium-feluy-petrochemical-economic-v2.webp"
@@ -383,6 +397,7 @@ image: "/poi-images/belgium-feluy-petrochemical-economic-v2.webp"
     image: "/poi-images/belgium-feluy-petrochemical-economic-v2.webp"},
   {
     id: "belgium-charleroi-aerospace-economic-v2",
+    parent: "BE",
     type: "industry",
     name: { de: "Luft- und Raumfahrtzentrum Charleroi", hu: "Charleroi repülőgép- és űripari központ", ro: "Centrul aerospațial din Charleroi", en: "Charleroi Aerospace Center",
 image: "/poi-images/belgium-charleroi-aerospace-economic-v2.webp"
@@ -417,6 +432,7 @@ image: "/poi-images/belgium-charleroi-aerospace-economic-v2.webp"
   },
   {
     id: "belgium-beerse-pharma-center-economic-v2",
+    parent: "BE",
     type: "factory",
     name: { de: "Pharma-Campus Beerse", hu: "Beerse-i gyógyszeripari kampusz", ro: "Campusul farmaceutic Beerse", en: "Beerse Pharmaceutical Center",
 image: "/poi-images/belgium-beerse-pharma-center-economic-v2.webp"
@@ -451,6 +467,7 @@ imageHint: "Modern pharmaceutical research campus in Beerse",
     , image: "/poi-images/belgium-beerse-pharma-center-economic-v2.webp",
 },  {
     id: "belgium-wavre-biotech-hub-economic-v2",
+    parent: "BE",
     type: "factory",
     name: { de: "Biotech-Zentrum Wavre", hu: "Wavre-i biotechnológiai központ", ro: "Centrul de biotehnologie din Wavre", en: "Wavre Biotech Hub",
 image: "/poi-images/belgium-wavre-biotech-hub-economic-v2.webp"
@@ -473,6 +490,7 @@ image: "/poi-images/belgium-wavre-biotech-hub-economic-v2.webp"
     image: "/poi-images/belgium-wavre-biotech-hub-economic-v2.webp"},
   {
     id: "belgium-haspengouw-fruit-region-economic-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Obstregion Haspengouw", hu: "Haspengouw gyümölcstermesztő vidék", ro: "Regiunea pomicolă Haspengouw", en: "Haspengouw Fruit Region",
 image: "/poi-images/belgium-haspengouw-fruit-region-economic-v2.webp"
@@ -495,6 +513,7 @@ image: "/poi-images/belgium-haspengouw-fruit-region-economic-v2.webp"
     image: "/poi-images/belgium-haspengouw-fruit-region-economic-v2.webp"},
   {
     id: "belgium-roeselare-food-valley-economic-v2",
+    parent: "BE",
     type: "industry",
     name: { de: "Food Valley Roeselare", hu: "Roeselarei Food Valley", ro: "Food Valley Roeselare", en: "Roeselare Food Valley",
 image: "/poi-images/belgium-roeselare-food-valley-economic-v2.webp"
@@ -517,6 +536,7 @@ image: "/poi-images/belgium-roeselare-food-valley-economic-v2.webp"
     image: "/poi-images/belgium-roeselare-food-valley-economic-v2.webp"},
   {
     id: "belgium-la-louviere-steel-economic-v2",
+    parent: "BE",
     type: "industry",
     name: { de: "Stahlindustrie La Louvière", hu: "La Louvière-i acélipar", ro: "Industria siderurgică din La Louvière", en: "La Louvière Steel Industry",
 image: "/poi-images/belgium-la-louviere-steel-economic-v2.webp"
@@ -551,6 +571,7 @@ image: "/poi-images/belgium-la-louviere-steel-economic-v2.webp"
   },
   {
     id: "belgium-beringen-coal-mine-site-economic-v2",
+    parent: "BE",
     type: "mine",
     name: { de: "Kohleminen-Gelände Beringen", hu: "Beringeni kőszénbánya-terület", ro: "Situl minei de cărbune Beringen", en: "Beringein Coal Mine Site",
 image: "/poi-images/belgium-beringen-coal-mine-site-economic-v2.webp"
@@ -573,6 +594,7 @@ image: "/poi-images/belgium-beringen-coal-mine-site-economic-v2.webp"
     image: "/poi-images/belgium-beringen-coal-mine-site-economic-v2.webp"},
   {
     id: "belgium-maasmechelen-retail-zone-economic-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Einkaufszone Maasmechelen", hu: "Maasmecheleni bevásárlóövezet", ro: "Zona comercială Maasmechelen", en: "Maasmechelen Retail Zone",
 image: "/poi-images/belgium-maasmechelen-retail-zone-economic-v2.webp"
@@ -595,6 +617,7 @@ image: "/poi-images/belgium-maasmechelen-retail-zone-economic-v2.webp"
     image: "/poi-images/belgium-maasmechelen-retail-zone-economic-v2.webp"},
   {
     id: "belgium-port-ostend-offshore-economic-v2",
+    parent: "BE",
     type: "port",
     name: { de: "Hafen von Ostende (Offshore-Hub)", hu: "Ostendei kikötő (Offshore központ)", ro: "Portul Ostende (Hub offshore)", en: "Port of Ostend (Offshore Hub)",
 image: "/poi-images/belgium-port-ostend-offshore-economic-v2.webp"
@@ -629,6 +652,7 @@ image: "/poi-images/belgium-port-ostend-offshore-economic-v2.webp"
   },
   {
     id: "belgium-leopold-quarter-economic-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Leopoldviertel (EU-Viertel)", hu: "Lipót-negyed (EU-negyed)", ro: "Cartierul Leopold (Cartierul UE)", en: "Leopold Quarter (EU Quarter)",
 image: "/poi-images/belgium-leopold-quarter-economic-v2.webp"
@@ -651,6 +675,7 @@ image: "/poi-images/belgium-leopold-quarter-economic-v2.webp"
     image: "/poi-images/belgium-leopold-quarter-economic-v2.webp"},
   {
     id: "belgium-genk-logistics-hub-economic-v2",
+    parent: "BE",
     type: "industry",
     name: { de: "Logistikzentrum Genk", hu: "Genki logisztikai központ", ro: "Centrul logistic Genk", en: "Genk Logistics Hub",
 image: "/poi-images/belgium-genk-logistics-hub-economic-v2.webp"
@@ -673,6 +698,7 @@ image: "/poi-images/belgium-genk-logistics-hub-economic-v2.webp"
     image: "/poi-images/belgium-genk-logistics-hub-economic-v2.webp"},
   {
     id: "belgium-vilvoorde-media-cluster-economic-v2",
+    parent: "BE",
     type: "industry",
     name: { de: "Mediencluster Vilvoorde", hu: "Vilvoordei médiaklaszter", ro: "Clusterul media din Vilvoorde", en: "Vilvoorde Media Cluster",
 image: "/poi-images/belgium-vilvoorde-media-cluster-economic-v2.webp"
@@ -695,6 +721,7 @@ image: "/poi-images/belgium-vilvoorde-media-cluster-economic-v2.webp"
     image: "/poi-images/belgium-vilvoorde-media-cluster-economic-v2.webp"},
   {
     id: "belgium-nivelles-business-park-economic-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Gewerbepark Nivelles", hu: "Nivelles-i üzleti park", ro: "Parcul de afaceri Nivelles", en: "Nivelles Business Park",
 image: "/poi-images/belgium-nivelles-business-park-economic-v2.webp"
@@ -729,6 +756,7 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
     , image: "/poi-images/belgium-nivelles-business-park-economic-v2.webp",
 },  {
     id: "belgium-north-sea-port-ghent-economic-v2",
+    parent: "BE",
     type: "port",
     name: { de: "North Sea Port Gent", hu: "North Sea Port Gent", ro: "North Sea Port Gent", en: "North Sea Port Ghent",
 image: "/poi-images/belgium-north-sea-port-ghent-economic-v2.webp"
@@ -751,6 +779,7 @@ image: "/poi-images/belgium-north-sea-port-ghent-economic-v2.webp"
     image: "/poi-images/belgium-north-sea-port-ghent-economic-v2.webp"},
   {
     id: "belgium-tour-taxis-brussels-economic-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Tour & Taxis Brüssel", hu: "Tour & Taxis, Brüsszel", ro: "Tour & Taxis Bruxelles", en: "Tour & Taxis Brussels",
 image: "/poi-images/belgium-tour-taxis-brussels-economic-v2.webp"
@@ -773,6 +802,7 @@ image: "/poi-images/belgium-tour-taxis-brussels-economic-v2.webp"
     image: "/poi-images/belgium-tour-taxis-brussels-economic-v2.webp"},
   {
     id: "belgium-puurs-pfizer-factory-economic-v2",
+    parent: "BE",
     type: "factory",
     name: { de: "Pfizer-Werk Puurs", hu: "Pfizer-gyár Puurs", ro: "Fabrica Pfizer Puurs", en: "Pfizer Plant Puurs",
 image: "/poi-images/belgium-puurs-pfizer-factory-economic-v2.webp"
@@ -795,6 +825,7 @@ image: "/poi-images/belgium-puurs-pfizer-factory-economic-v2.webp"
     image: "/poi-images/belgium-puurs-pfizer-factory-economic-v2.webp"},
   {
     id: "belgium-la-louviere-canal-lift-economic-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Schiffshebewerk Strépy-Thieu", hu: "Strépy-Thieu hajólift", ro: "Ascensorul pentru nave Strépy-Thieu", en: "Strépy-Thieu Boat Lift",
 image: "/poi-images/belgium-la-louviere-canal-lift-economic-v2.webp"

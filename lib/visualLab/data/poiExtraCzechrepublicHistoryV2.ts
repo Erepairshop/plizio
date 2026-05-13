@@ -3,6 +3,7 @@ export const czechrepublicHistoryV2: POI[] = [
 
   {
     id: "czechrepublic-prague-castle-history-v2",
+    parent: "CZ",
     type: "castle",
     name: { de: "Prager Burg", hu: "Prágai vár", ro: "Cetatea Praga", en: "Prague Castle",
 image: "/poi-images/czechrepublic-prague-castle-history-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/czechrepublic-prague-castle-history-v2.webp"
   },
   {
     id: "czechrepublic-austerlitz-battlefield-history-v2",
+    parent: "CZ",
     type: "battlefield",
     name: { de: "Schlachtfeld von Austerlitz", hu: "Austerlitzi csatatér", ro: "Câmpul de luptă de la Austerlitz", en: "Austerlitz Battlefield",
 image: "/poi-images/czechrepublic-austerlitz-battlefield-history-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/czechrepublic-austerlitz-battlefield-history-v2.webp"
   },
   {
     id: "czechrepublic-karlstejn-castle-history-v2",
+    parent: "CZ",
     type: "castle",
     name: { de: "Burg Karlstein", hu: "Karlštejn vára", ro: "Castelul Karlštejn", en: "Karlštejn Castle",
 image: "/poi-images/czechrepublic-karlstejn-castle-history-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/czechrepublic-karlstejn-castle-history-v2.webp"
   },
   {
     id: "czechrepublic-terezin-memorial-history-v2",
+    parent: "CZ",
     type: "monument",
     name: { de: "Gedenkstätte Theresienstadt", hu: "Terezín emlékhely", ro: "Memorialul Terezín", en: "Terezín Memorial",
 image: "/poi-images/czechrepublic-terezin-memorial-history-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/czechrepublic-terezin-memorial-history-v2.webp"
   },
   {
     id: "czechrepublic-sedlec-ossuary-history-v2",
+    parent: "CZ",
     type: "church",
     name: { de: "Beinhaus von Sedlec", hu: "Sedleci osszárium", ro: "Osuarul din Sedlec", en: "Sedlec Ossuary",
 image: "/poi-images/czechrepublic-sedlec-ossuary-history-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/czechrepublic-sedlec-ossuary-history-v2.webp"
   },
   {
     id: "czechrepublic-vysehrad-history-v2",
+    parent: "CZ",
     type: "monument",
     name: { de: "Vyšehrad", hu: "Vyšehrad", ro: "Vyšehrad", en: "Vyšehrad",
 image: "/poi-images/czechrepublic-vysehrad-history-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/czechrepublic-vysehrad-history-v2.webp"
   },
   {
     id: "czechrepublic-white-mountain-battlefield-history-v2",
+    parent: "CZ",
     type: "battlefield",
     name: { de: "Schlachtfeld am Weißen Berg", hu: "Fehérhegyi csatatér", ro: "Câmpul de luptă de la Muntele Alb", en: "White Mountain Battlefield",
 image: "/poi-images/czechrepublic-white-mountain-battlefield-history-v2.webp"
@@ -248,6 +255,7 @@ image: "/poi-images/czechrepublic-white-mountain-battlefield-history-v2.webp"
   },
   {
     id: "czechrepublic-lidice-memorial-history-v2",
+    parent: "CZ",
     type: "monument",
     name: { de: "Gedenkstätte Lidice", hu: "Lidice emlékhely", ro: "Memorialul Lidice", en: "Lidice Memorial",
 image: "/poi-images/czechrepublic-lidice-memorial-history-v2.webp"
@@ -283,6 +291,7 @@ image: "/poi-images/czechrepublic-lidice-memorial-history-v2.webp"
   },
   {
     id: "czechrepublic-trosky-ruins-history-v2",
+    parent: "CZ",
     type: "ruins",
     name: { de: "Burgruine Trosky", hu: "Trosky várrom", ro: "Ruinele Castelului Trosky", en: "Trosky Castle Ruins",
 image: "/poi-images/czechrepublic-trosky-ruins-history-v2.webp"
@@ -318,6 +327,7 @@ image: "/poi-images/czechrepublic-trosky-ruins-history-v2.webp"
   },
   {
     id: "czechrepublic-dolni-vestonice-history-v2",
+    parent: "CZ",
     type: "ruins",
     name: { de: "Dolní Věstonice", hu: "Dolní Věstonice", ro: "Dolní Věstonice", en: "Dolní Věstonice",
 image: "/poi-images/czechrepublic-dolni-vestonice-history-v2.webp"
@@ -353,6 +363,7 @@ image: "/poi-images/czechrepublic-dolni-vestonice-history-v2.webp"
   },
   {
     id: "czechrepublic-rip-rotunda-history-v2",
+    parent: "CZ",
     type: "church",
     name: { de: "Georgsrotunde auf dem Říp", hu: "Szent György-rotunda a Říp-hegyen", ro: "Rotunda Sf. Gheorghe de pe Muntele Říp", en: "St. George Rotunda on Říp",
 image: "/poi-images/czechrepublic-rip-rotunda-history-v2.webp"
@@ -388,6 +399,7 @@ image: "/poi-images/czechrepublic-rip-rotunda-history-v2.webp"
   },
   {
     id: "czechrepublic-pernstejn-castle-history-v2",
+    parent: "CZ",
     type: "castle",
     name: { de: "Burg Pernstein", hu: "Pernštejn vára", ro: "Castelul Pernštejn", en: "Pernštejn Castle",
 image: "/poi-images/czechrepublic-pernstejn-castle-history-v2.webp"
@@ -423,6 +435,7 @@ image: "/poi-images/czechrepublic-pernstejn-castle-history-v2.webp"
   },
   {
     id: "czechrepublic-spilberk-fortress-history-v2",
+    parent: "CZ",
     type: "monument",
     name: { de: "Festung Špilberk", hu: "Špilberk vár", ro: "Fortăreața Špilberk", en: "Špilberk Fortress",
 image: "/poi-images/czechrepublic-spilberk-fortress-history-v2.webp"
@@ -458,6 +471,7 @@ image: "/poi-images/czechrepublic-spilberk-fortress-history-v2.webp"
   },
   {
     id: "czechrepublic-telc-square-history-v2",
+    parent: "CZ",
     type: "town",
     name: { de: "Historischer Marktplatz von Telč", hu: "Telč történelmi főtere", ro: "Piața istorică din Telč", en: "Telč Historic Square",
 image: "/poi-images/czechrepublic-telc-square-history-v2.webp"
@@ -493,6 +507,7 @@ image: "/poi-images/czechrepublic-telc-square-history-v2.webp"
   },
   {
     id: "czechrepublic-kromeriz-palace-history-v2",
+    parent: "CZ",
     type: "palace",
     name: { de: "Erzbischöfliches Schloss Kremsier", hu: "Kroměříži érseki palota", ro: "Palatul Arhiepiscopal din Kroměříž", en: "Kroměříž Archbishop's Palace",
 image: "/poi-images/czechrepublic-kromeriz-palace-history-v2.webp"
@@ -528,6 +543,7 @@ image: "/poi-images/czechrepublic-kromeriz-palace-history-v2.webp"
   },
   {
     id: "czechrepublic-litomysl-castle-history-v2",
+    parent: "CZ",
     type: "castle",
     name: { de: "Schloss Litomyšl", hu: "Litomyšli kastély", ro: "Castelul Litomyšl", en: "Litomyšl Castle",
 image: "/poi-images/czechrepublic-litomysl-castle-history-v2.webp"
@@ -563,6 +579,7 @@ image: "/poi-images/czechrepublic-litomysl-castle-history-v2.webp"
   },
   {
     id: "czechrepublic-loket-castle-history-v2",
+    parent: "CZ",
     type: "castle",
     name: { de: "Burg Loket", hu: "Loket vára", ro: "Castelul Loket", en: "Loket Castle",
 image: "/poi-images/czechrepublic-loket-castle-history-v2.webp"
@@ -598,6 +615,7 @@ image: "/poi-images/czechrepublic-loket-castle-history-v2.webp"
   },
   {
     id: "czechrepublic-bezdez-castle-history-v2",
+    parent: "CZ",
     type: "castle",
     name: { de: "Burg Bezděz", hu: "Bezděz vára", ro: "Castelul Bezděz", en: "Bezděz Castle",
 image: "/poi-images/czechrepublic-bezdez-castle-history-v2.webp"
@@ -633,6 +651,7 @@ image: "/poi-images/czechrepublic-bezdez-castle-history-v2.webp"
   },
   {
     id: "czechrepublic-kuks-hospital-history-v2",
+    parent: "CZ",
     type: "monument",
     name: { de: "Hospital Kuks", hu: "Kuks kórház", ro: "Spitalul Kuks", en: "Kuks Hospital",
 image: "/poi-images/czechrepublic-kuks-hospital-history-v2.webp"
@@ -668,6 +687,7 @@ image: "/poi-images/czechrepublic-kuks-hospital-history-v2.webp"
   },
   {
     id: "czechrepublic-trebic-jewish-quarter-history-v2",
+    parent: "CZ",
     type: "town",
     name: { de: "Jüdisches Viertel in Třebíč", hu: "Třebíči zsidó negyed", ro: "Cartierul Evreiesc din Třebíč", en: "Třebíč Jewish Quarter",
 image: "/poi-images/czechrepublic-trebic-jewish-quarter-history-v2.webp"
@@ -703,6 +723,7 @@ image: "/poi-images/czechrepublic-trebic-jewish-quarter-history-v2.webp"
   },
   {
     id: "czechrepublic-rabi-ruins-history-v2",
+    parent: "CZ",
     type: "ruins",
     name: { de: "Burgruine Rabí", hu: "Rabí várrom", ro: "Ruinele Castelului Rabí", en: "Rabí Castle Ruins",
 image: "/poi-images/czechrepublic-rabi-ruins-history-v2.webp"
@@ -738,6 +759,7 @@ image: "/poi-images/czechrepublic-rabi-ruins-history-v2.webp"
   },
   {
     id: "czechrepublic-stary-plzenec-history-v2",
+    parent: "CZ",
     type: "church",
     name: { de: "Rotunde in Starý Plzenec", hu: "Starý Plzenec-i rotunda", ro: "Rotunda din Starý Plzenec", en: "Starý Plzenec Rotunda",
 image: "/poi-images/czechrepublic-stary-plzenec-history-v2.webp"
@@ -773,6 +795,7 @@ image: "/poi-images/czechrepublic-stary-plzenec-history-v2.webp"
   },
   {
     id: "czechrepublic-kolin-battlefield-history-v2",
+    parent: "CZ",
     type: "battlefield",
     name: { de: "Schlachtfeld von Kolin", hu: "Kolíni csatatér", ro: "Câmpul de luptă de la Kolin", en: "Kolin Battlefield",
 image: "/poi-images/czechrepublic-kolin-battlefield-history-v2.webp"
@@ -808,6 +831,7 @@ image: "/poi-images/czechrepublic-kolin-battlefield-history-v2.webp"
   },
   {
     id: "czechrepublic-cheb-castle-history-v2",
+    parent: "CZ",
     type: "castle",
     name: { de: "Egerer Burg", hu: "Chebi vár", ro: "Castelul Cheb", en: "Cheb Castle",
 image: "/poi-images/czechrepublic-cheb-castle-history-v2.webp"
@@ -843,6 +867,7 @@ image: "/poi-images/czechrepublic-cheb-castle-history-v2.webp"
   },
   {
     id: "czechrepublic-hluboka-castle-history-v2",
+    parent: "CZ",
     type: "castle",
     name: { de: "Schloss Frauenberg", hu: "Hluboká kastély", ro: "Castelul Hluboká", en: "Hluboká Castle",
 image: "/poi-images/czechrepublic-hluboka-castle-history-v2.webp"
@@ -878,6 +903,7 @@ image: "/poi-images/czechrepublic-hluboka-castle-history-v2.webp"
   },
   {
     id: "czechrepublic-orlik-castle-history-v2",
+    parent: "CZ",
     type: "castle",
     name: { de: "Schloss Orlík", hu: "Orlík vára", ro: "Castelul Orlík", en: "Orlík Castle",
 image: "/poi-images/czechrepublic-orlik-castle-history-v2.webp"
@@ -913,6 +939,7 @@ image: "/poi-images/czechrepublic-orlik-castle-history-v2.webp"
   },
   {
     id: "czechrepublic-slavonice-history-v2",
+    parent: "CZ",
     type: "town",
     name: { de: "Slavonice", hu: "Slavonice", ro: "Slavonice", en: "Slavonice",
 image: "/poi-images/czechrepublic-slavonice-history-v2.webp"

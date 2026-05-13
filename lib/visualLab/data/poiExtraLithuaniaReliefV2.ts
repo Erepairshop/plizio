@@ -3,6 +3,7 @@ export const lithuaniaReliefV2: POI[] = [
 
   {
     id: "lithuania-juozapine-hill-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Juozapinė", hu: "Juozapinė-domb", ro: "Dealul Juozapinė", en: "Juozapinė Hill",
 image: "/poi-images/lithuania-juozapine-hill-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Juozapine Hill summit area Lithuania",
     , image: "/poi-images/lithuania-juozapine-hill-relief-v2.webp",
 },  {
     id: "lithuania-kruopine-hill-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Kruopinė", hu: "Kruopinė-domb", ro: "Dealul Kruopinė", en: "Kruopinė Hill",
 image: "/poi-images/lithuania-kruopine-hill-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Kruopine hill landscape Lithuania",
     , image: "/poi-images/lithuania-kruopine-hill-relief-v2.webp",
 },  {
     id: "lithuania-nevaisiai-hill-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Nevaišiai", hu: "Nevaišiai-domb", ro: "Dealul Nevaišiai", en: "Nevaišiai Hill",
 image: "/poi-images/lithuania-nevaisiai-hill-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Nevaisiai hill landscape Ignalina Lithuania",
     , image: "/poi-images/lithuania-nevaisiai-hill-relief-v2.webp",
 },  {
     id: "lithuania-medvegalis-hill-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Medvėgalis", hu: "Medvėgalis", ro: "Dealul Medvėgalis", en: "Medvėgalis Hill",
 image: "/poi-images/lithuania-medvegalis-hill-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Medvegalis hill fort and landscape Lithuania",
     , image: "/poi-images/lithuania-medvegalis-hill-relief-v2.webp",
 },  {
     id: "lithuania-satrija-hill-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Šatrija", hu: "Šatrija-domb", ro: "Dealul Šatrija", en: "Šatrija Hill",
 image: "/poi-images/lithuania-satrija-hill-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Satrija hill and landscape Telšiai district Lithuania",
     , image: "/poi-images/lithuania-satrija-hill-relief-v2.webp",
 },  {
     id: "lithuania-pavistytis-hill-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Pavištytis", hu: "Pavištytis-domb", ro: "Dealul Pavištytis", en: "Pavištytis Hill",
 image: "/poi-images/lithuania-pavistytis-hill-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Pavistytis hill view near Vistytis lake Lithuania",
     , image: "/poi-images/lithuania-pavistytis-hill-relief-v2.webp",
 },  {
     id: "lithuania-girniu-hill-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Girnių", hu: "Girnių-domb", ro: "Dealul Girnių", en: "Girnių Hill",
 image: "/poi-images/lithuania-girniu-hill-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
     , image: "/poi-images/lithuania-girniu-hill-relief-v2.webp",
 },  {
     id: "lithuania-ladakalnis-hill-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Ladakalnis", hu: "Ladakalnis", ro: "Ladakalnis", en: "Ladakalnis Hill",
 image: "/poi-images/lithuania-ladakalnis-hill-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Ladakalnis hill view with lakes Lithuania",
     , image: "/poi-images/lithuania-ladakalnis-hill-relief-v2.webp",
 },  {
     id: "lithuania-aukstaiciai-upland-relief-v2",
+    parent: "LT",
     type: "mountain",
     name: { de: "Aukštaitija-Hochland", hu: "Aukštaitija-felföld", ro: "Podișul Aukštaitija", en: "Aukštaitija Highland",
 image: "/poi-images/lithuania-aukstaiciai-upland-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Aukstaitija highland hilly landscape with lakes Lithuania",
     , image: "/poi-images/lithuania-aukstaiciai-upland-relief-v2.webp",
 },  {
     id: "lithuania-zemaiciai-upland-relief-v2",
+    parent: "LT",
     type: "mountain",
     name: { de: "Žemaitija-Hochland", hu: "Žemaitija-felföld", ro: "Podișul Žemaitija", en: "Žemaitija Highland",
 image: "/poi-images/lithuania-zemaiciai-upland-relief-v2.webp"
@@ -343,6 +353,7 @@ image: "/poi-images/lithuania-zemaiciai-upland-relief-v2.webp"
   },
   {
     id: "lithuania-dzukai-upland-relief-v2",
+    parent: "LT",
     type: "mountain",
     name: { de: "Dzūkija-Hochland", hu: "Dzūkija-felföld", ro: "Podișul Dzūkija", en: "Dzūkija Highland",
 image: "/poi-images/lithuania-dzukai-upland-relief-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Dzukija highland forest and hills Lithuania",
     , image: "/poi-images/lithuania-dzukai-upland-relief-v2.webp",
 },  {
     id: "lithuania-medininkai-upland-relief-v2",
+    parent: "LT",
     type: "mountain",
     name: { de: "Medininkai-Hochland", hu: "Medininkai-felföld", ro: "Podișul Medininkai", en: "Medininkai Highland",
 image: "/poi-images/lithuania-medininkai-upland-relief-v2.webp"
@@ -411,6 +423,7 @@ image: "/poi-images/lithuania-medininkai-upland-relief-v2.webp"
   },
   {
     id: "lithuania-suduva-upland-relief-v2",
+    parent: "LT",
     type: "mountain",
     name: { de: "Sūduva-Hochland", hu: "Sūduva-felföld", ro: "Podișul Sūduva", en: "Sūduva Highland",
 image: "/poi-images/lithuania-suduva-upland-relief-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Suduva highland agricultural hills Lithuania",
     , image: "/poi-images/lithuania-suduva-upland-relief-v2.webp",
 },  {
     id: "lithuania-middle-lithuanian-lowland-relief-v2",
+    parent: "LT",
     type: "valley",
     name: { de: "Mittellitauisches Tiefland", hu: "Közép-litván alföld", ro: "Câmpia Lituaniei Centrale", en: "Middle Lithuanian Lowland",
 image: "/poi-images/lithuania-middle-lithuanian-lowland-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Middle Lithuanian lowland flat agricultural fields",
     , image: "/poi-images/lithuania-middle-lithuanian-lowland-relief-v2.webp",
 },  {
     id: "lithuania-pajuris-lowland-relief-v2",
+    parent: "LT",
     type: "valley",
     name: { de: "Pajūris-Tiefland", hu: "Pajūris-alföld", ro: "Câmpia Litorală Pajūris", en: "Pajūris Lowland",
 image: "/poi-images/lithuania-pajuris-lowland-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Pajuris lowland coastal landscape Lithuania",
     , image: "/poi-images/lithuania-pajuris-lowland-relief-v2.webp",
 },  {
     id: "lithuania-nemunas-delta-relief-v2",
+    parent: "LT",
     type: "valley",
     name: { de: "Memel-Delta", hu: "Nyeman-delta", ro: "Delta râului Nemunas", en: "Nemunas Delta",
 image: "/poi-images/lithuania-nemunas-delta-relief-v2.webp"
@@ -547,6 +563,7 @@ image: "/poi-images/lithuania-nemunas-delta-relief-v2.webp"
   },
   {
     id: "lithuania-seskine-esker-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Šeškinė-Oser", hu: "Šeškinė-óz", ro: "Eskerul Šeškinė", en: "Šeškinė Esker",
 image: "/poi-images/lithuania-seskine-esker-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Seskine esker ridge park Vilnius Lithuania",
     , image: "/poi-images/lithuania-seskine-esker-relief-v2.webp",
 },  {
     id: "lithuania-linkuva-ridge-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Linkuva-Rücken", hu: "Linkuva-hátság", ro: "Creasta Linkuva", en: "Linkuva Ridge",
 image: "/poi-images/lithuania-linkuva-ridge-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Linkuva ridge moraine landscape Lithuania",
     , image: "/poi-images/lithuania-linkuva-ridge-relief-v2.webp",
 },  {
     id: "lithuania-karsuva-plain-relief-v2",
+    parent: "LT",
     type: "valley",
     name: { de: "Karšuva-Ebene", hu: "Karšuva-síkság", ro: "Câmpia Karšuva", en: "Karšuva Plain",
 image: "/poi-images/lithuania-karsuva-plain-relief-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Karsuva plain forest and sandy landscape",
     , image: "/poi-images/lithuania-karsuva-plain-relief-v2.webp",
 },  {
     id: "lithuania-zeimena-plain-relief-v2",
+    parent: "LT",
     type: "valley",
     name: { de: "Žeimena-Ebene", hu: "Žeimena-síkság", ro: "Câmpia Žeimena", en: "Žeimena Plain",
 image: "/poi-images/lithuania-zeimena-plain-relief-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Zeimena plain pine forest Lithuania",
     , image: "/poi-images/lithuania-zeimena-plain-relief-v2.webp",
 },  {
     id: "lithuania-dysna-plain-relief-v2",
+    parent: "LT",
     type: "valley",
     name: { de: "Dysna-Ebene", hu: "Dysna-síkság", ro: "Câmpia Dysna", en: "Dysna Plain",
 image: "/poi-images/lithuania-dysna-plain-relief-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Dysna plain marshy landscape Lithuania",
     , image: "/poi-images/lithuania-dysna-plain-relief-v2.webp",
 },  {
     id: "lithuania-musa-nemunelis-lowland-relief-v2",
+    parent: "LT",
     type: "valley",
     name: { de: "Mūša-Nemunėlis-Tiefland", hu: "Mūša-Nemunėlis alföld", ro: "Câmpia Mūša-Nemunėlis", en: "Mūša-Nemunėlis Lowland",
 image: "/poi-images/lithuania-musa-nemunelis-lowland-relief-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania",
     , image: "/poi-images/lithuania-musa-nemunelis-lowland-relief-v2.webp",
 },  {
     id: "lithuania-sesupe-lowland-relief-v2",
+    parent: "LT",
     type: "valley",
     name: { de: "Šešupė-Tiefland", hu: "Šešupė-alföld", ro: "Câmpia Šešupė", en: "Šešupė Lowland",
 image: "/poi-images/lithuania-sesupe-lowland-relief-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Sesupe lowland river valley and fields Lithuania",
     , image: "/poi-images/lithuania-sesupe-lowland-relief-v2.webp",
 },  {
     id: "lithuania-birute-hill-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Birutė-Hügel", hu: "Birutė-domb", ro: "Dealul Birutė", en: "Birutė Hill",
 image: "/poi-images/lithuania-birute-hill-relief-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
     , image: "/poi-images/lithuania-birute-hill-relief-v2.webp",
 },  {
     id: "lithuania-ginuciai-hill-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Ginučiai-Burgberg", hu: "Ginučiai-várhegy", ro: "Dealul Ginučiai", en: "Ginučiai Hill Fort",
 image: "/poi-images/lithuania-ginuciai-hill-relief-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Ginuciai hill fort and lakes Lithuania",
     , image: "/poi-images/lithuania-ginuciai-hill-relief-v2.webp",
 },  {
     id: "lithuania-dyburiai-escarpment-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Dyburiai-Schleife", hu: "Dyburiai-kanyarulat", ro: "Escarpamentul Dyburiai", en: "Dyburiai Escarpment",
 image: "/poi-images/lithuania-dyburiai-escarpment-relief-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
     , image: "/poi-images/lithuania-dyburiai-escarpment-relief-v2.webp",
 },  {
     id: "lithuania-puckoriai-exposure-relief-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Pučkoriai-Aufschluss", hu: "Pučkoriai-feltárás", ro: "Aflorimentul Pučkoriai", en: "Pučkoriai Exposure",
 image: "/poi-images/lithuania-puckoriai-exposure-relief-v2.webp"

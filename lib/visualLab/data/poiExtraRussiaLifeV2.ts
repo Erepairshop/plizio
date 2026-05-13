@@ -3,6 +3,7 @@ export const russiaLifeV2: POI[] = [
 
   {
     id: "russia-lake-baikal-nerpa-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Baikalrobben-Habitat", hu: "Bajkáli fóka élőhely", ro: "Habitatul focilor de Baikal", en: "Lake Baikal Nerpa Habitat",
 image: "/poi-images/russia-lake-baikal-nerpa-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Baikal seal nerpa on ice",
     , image: "/poi-images/russia-lake-baikal-nerpa-life-v2.webp",
 },  {
     id: "russia-kronotsky-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Naturreservat Kronozki", hu: "Kronockij Természetvédelmi Terület", ro: "Rezervația Naturală Kronotski", en: "Kronotsky Nature Reserve",
 image: "/poi-images/russia-kronotsky-reserve-life-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Kamchatka brown bear catching salmon",
     , image: "/poi-images/russia-kronotsky-reserve-life-v2.webp",
 },  {
     id: "russia-wrangel-island-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Wrangelinsel-Reservat", hu: "Vrangel-szigeti Természetvédelmi Terület", ro: "Rezervația Insula Wrangel", en: "Wrangel Island Reserve",
 image: "/poi-images/russia-wrangel-island-life-v2.webp"
@@ -105,6 +108,7 @@ image: "/poi-images/russia-wrangel-island-life-v2.webp"
   },
   {
     id: "russia-sikhote-alin-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Sikhote-Alin Naturreservat", hu: "Szihote-Alin Természetvédelmi Terület", ro: "Rezervația Naturală Sihote-Alin", en: "Sikhote-Alin Nature Reserve",
 image: "/poi-images/russia-sikhote-alin-life-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Amur tiger in snowy forest",
     , image: "/poi-images/russia-sikhote-alin-life-v2.webp",
 },  {
     id: "russia-caucasus-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Kaukasus-Naturreservat", hu: "Kaukázusi Állami Természetvédelmi Terület", ro: "Rezervația Naturală a Caucazului", en: "Caucasus Nature Reserve",
 image: "/poi-images/russia-caucasus-reserve-life-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Caucasian bison in mountain meadow",
     , image: "/poi-images/russia-caucasus-reserve-life-v2.webp",
 },  {
     id: "russia-land-of-leopard-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Nationalpark Land des Leoparden", hu: "Leopárdok Földje Nemzeti Park", ro: "Parcul Național Țara Leopardului", en: "Land of the Leopard National Park",
 image: "/poi-images/russia-land-of-leopard-life-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Amur leopard in temperate forest",
     , image: "/poi-images/russia-land-of-leopard-life-v2.webp",
 },  {
     id: "russia-putorana-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Putorana-Naturreservat", hu: "Putorana Természetvédelmi Terület", ro: "Rezervația Naturală Putorana", en: "Putorana Nature Reserve",
 image: "/poi-images/russia-putorana-reserve-life-v2.webp"
@@ -242,6 +249,7 @@ imageHint: "Reindeer herd on Putorana plateau",
     , image: "/poi-images/russia-putorana-reserve-life-v2.webp",
 },  {
     id: "russia-altai-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Altai-Naturreservat", hu: "Altaji Állami Természetvédelmi Terület", ro: "Rezervația Naturală Altai", en: "Altai Nature Reserve",
 image: "/poi-images/russia-altai-reserve-life-v2.webp"
@@ -276,6 +284,7 @@ imageHint: "Snow leopard in Altai mountains",
     , image: "/poi-images/russia-altai-reserve-life-v2.webp",
 },  {
     id: "russia-barguzinsky-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Bargusinski-Naturreservat", hu: "Barguzini Természetvédelmi Terület", ro: "Rezervația Naturală Barguzin", en: "Barguzinsky Nature Reserve",
 image: "/poi-images/russia-barguzinsky-reserve-life-v2.webp"
@@ -310,6 +319,7 @@ imageHint: "Russian sable in pine forest",
     , image: "/poi-images/russia-barguzinsky-reserve-life-v2.webp",
 },  {
     id: "russia-voronezh-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Woronesch-Naturreservat", hu: "Voronyezsi Természetvédelmi Terület", ro: "Rezervația Naturală Voronej", en: "Voronezh Nature Reserve",
 image: "/poi-images/russia-voronezh-reserve-life-v2.webp"
@@ -344,6 +354,7 @@ image: "/poi-images/russia-voronezh-reserve-life-v2.webp"
   },
   {
     id: "russia-prioksko-terrasny-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Biosphärenreservat Prioksko-Terrasny", hu: "Priokszko-Terrasznij Bioszféra-rezervátum", ro: "Rezervația Biosferei Prioksko-Terrasny", en: "Prioksko-Terrasny Biosphere Reserve",
 image: "/poi-images/russia-prioksko-terrasny-life-v2.webp"
@@ -378,6 +389,7 @@ imageHint: "European bison in snowy Moscow forest",
     , image: "/poi-images/russia-prioksko-terrasny-life-v2.webp",
 },  {
     id: "russia-astrakhan-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Astrachan-Naturreservat", hu: "Asztraháni Állami Természetvédelmi Terület", ro: "Rezervația Naturală Astrahan", en: "Astrakhan Nature Reserve",
 image: "/poi-images/russia-astrakhan-reserve-life-v2.webp"
@@ -412,6 +424,7 @@ image: "/poi-images/russia-astrakhan-reserve-life-v2.webp"
   },
   {
     id: "russia-stolby-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Nationalpark Krasnojarsker Stolby", hu: "Krasznojarszki Stolbi Nemzeti Park", ro: "Parcul Național Stolbi Krasnoiarsk", en: "Krasnoyarsk Stolby National Park",
 image: "/poi-images/russia-stolby-reserve-life-v2.webp"
@@ -446,6 +459,7 @@ image: "/poi-images/russia-stolby-reserve-life-v2.webp"
   },
   {
     id: "russia-moscow-zoo-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Moskauer Zoo", hu: "Moszkvai Állatkert", ro: "Grădina Zoologică din Moscova", en: "Moscow Zoo",
 image: "/poi-images/russia-moscow-zoo-life-v2.webp"
@@ -480,6 +494,7 @@ imageHint: "Moscow Zoo entrance and animals",
     , image: "/poi-images/russia-moscow-zoo-life-v2.webp",
 },  {
     id: "russia-main-botanical-garden-life-v2",
+    parent: "RU",
     type: "park",
     name: { de: "Botanischer Hauptgarten der RAS", hu: "MTA Fő Botanikus Kert", ro: "Grădina Botanică Principală a Academiei", en: "Main Botanical Garden of RAS",
 image: "/poi-images/russia-main-botanical-garden-life-v2.webp"
@@ -514,6 +529,7 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
     , image: "/poi-images/russia-main-botanical-garden-life-v2.webp",
 },  {
     id: "russia-sochi-arboretum-life-v2",
+    parent: "RU",
     type: "park",
     name: { de: "Dendrologischer Park von Sotschi", hu: "Szocsi Arborétum", ro: "Arboretumul din Soci", en: "Sochi Arboretum",
 image: "/poi-images/russia-sochi-arboretum-life-v2.webp"
@@ -548,6 +564,7 @@ imageHint: "Sochi Arboretum palms and fountain",
     , image: "/poi-images/russia-sochi-arboretum-life-v2.webp",
 },  {
     id: "russia-curonian-spit-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Nationalpark Kurische Nehrung", hu: "Kur-földnyelv Nemzeti Park", ro: "Parcul Național Grindul Curonian", en: "Curonian Spit National Park",
 image: "/poi-images/russia-curonian-spit-life-v2.webp"
@@ -582,6 +599,7 @@ imageHint: "Dancing forest trees Curonian Spit",
     , image: "/poi-images/russia-curonian-spit-life-v2.webp",
 },  {
     id: "russia-lapland-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Lappland-Naturreservat", hu: "Lappföldi Természetvédelmi Terület", ro: "Rezervația Naturală Laponia", en: "Lapland Nature Reserve",
 image: "/poi-images/russia-lapland-reserve-life-v2.webp"
@@ -616,6 +634,7 @@ imageHint: "Wild reindeer in Lapland tundra",
     , image: "/poi-images/russia-lapland-reserve-life-v2.webp",
 },  {
     id: "russia-black-lands-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Naturreservat Schwarze Erden", hu: "Fekete Földek Természetvédelmi Terület", ro: "Rezervația Naturală Pământurile Negre", en: "Black Lands Nature Reserve",
 image: "/poi-images/russia-black-lands-life-v2.webp"
@@ -650,6 +669,7 @@ imageHint: "Saiga antelope in Russian steppe",
     , image: "/poi-images/russia-black-lands-life-v2.webp",
 },  {
     id: "russia-great-arctic-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Großes Arktisches Naturreservat", hu: "Nagy Arktiszi Természetvédelmi Terület", ro: "Marea Rezervație Naturală Arctică", en: "Great Arctic State Nature Reserve",
 image: "/poi-images/russia-great-arctic-reserve-life-v2.webp"
@@ -684,6 +704,7 @@ image: "/poi-images/russia-great-arctic-reserve-life-v2.webp"
   },
   {
     id: "russia-sayano-shushenski-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Sajano-Schuschenski-Naturreservat", hu: "Szajano-Susenszkij Természetvédelmi Terület", ro: "Rezervația Naturală Saiano-Șușenski", en: "Sayano-Shushenski Nature Reserve",
 image: "/poi-images/russia-sayano-shushenski-life-v2.webp"
@@ -718,6 +739,7 @@ imageHint: "Siberian ibex on mountain cliff",
     , image: "/poi-images/russia-sayano-shushenski-life-v2.webp",
 },  {
     id: "russia-commander-islands-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Kommandeurinseln-Reservat", hu: "Parancsnok-szigetek Természetvédelmi Terület", ro: "Rezervația Insulele Comandante", en: "Commander Islands Nature Reserve",
 image: "/poi-images/russia-commander-islands-life-v2.webp"
@@ -752,6 +774,7 @@ image: "/poi-images/russia-commander-islands-life-v2.webp"
   },
   {
     id: "russia-magadan-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Magadan-Naturreservat", hu: "Magadani Állami Természetvédelmi Terület", ro: "Rezervația Naturală Magadan", en: "Magadan Nature Reserve",
 image: "/poi-images/russia-magadan-reserve-life-v2.webp"
@@ -786,6 +809,7 @@ image: "/poi-images/russia-magadan-reserve-life-v2.webp"
   },
   {
     id: "russia-kuril-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Kurilen-Naturreservat", hu: "Kuril-szigeteki Természetvédelmi Terület", ro: "Rezervația Naturală Kurile", en: "Kuril Nature Reserve",
 image: "/poi-images/russia-kuril-reserve-life-v2.webp"
@@ -820,6 +844,7 @@ image: "/poi-images/russia-kuril-reserve-life-v2.webp"
   },
   {
     id: "russia-teberda-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Teberda-Biosphärenreservat", hu: "Teberda Bioszféra-rezervátum", ro: "Rezervația Biosferei Teberda", en: "Teberda Biosphere Reserve",
 image: "/poi-images/russia-teberda-reserve-life-v2.webp"
@@ -854,6 +879,7 @@ imageHint: "Caucasian chamois in high mountains",
     , image: "/poi-images/russia-teberda-reserve-life-v2.webp",
 },  {
     id: "russia-darwin-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Darwin-Naturreservat", hu: "Darwin Természetvédelmi Terület", ro: "Rezervația Naturală Darwin", en: "Darwin Nature Reserve",
 image: "/poi-images/russia-darwin-reserve-life-v2.webp"
@@ -888,6 +914,7 @@ image: "/poi-images/russia-darwin-reserve-life-v2.webp"
   },
   {
     id: "russia-oka-reserve-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Oka-Naturreservat", hu: "Okai Természetvédelmi Terület", ro: "Rezervația Naturală Oka", en: "Oka Nature Reserve",
 image: "/poi-images/russia-oka-reserve-life-v2.webp"
@@ -922,6 +949,7 @@ imageHint: "Russian desman swimming in water",
     , image: "/poi-images/russia-oka-reserve-life-v2.webp",
 },  {
     id: "russia-central-forest-reserve-life-v2",
+    parent: "RU",
     type: "forest",
     name: { de: "Zentrales Waldreservat", hu: "Központi Erdőrezervátum", ro: "Rezervația Naturală Centrală Forestieră", en: "Central Forest Nature Reserve",
 image: "/poi-images/russia-central-forest-reserve-life-v2.webp"
@@ -956,6 +984,7 @@ image: "/poi-images/russia-central-forest-reserve-life-v2.webp"
   },
   {
     id: "russia-pechora-ilych-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Petschora-Illytsch-Naturreservat", hu: "Pecsora-Illics Természetvédelmi Terület", ro: "Rezervația Naturală Peciora-Ilici", en: "Pechora-Ilych Nature Reserve",
 image: "/poi-images/russia-pechora-ilych-life-v2.webp"
@@ -990,6 +1019,7 @@ imageHint: "Moose farm in Komi forest",
     , image: "/poi-images/russia-pechora-ilych-life-v2.webp",
 },  {
     id: "russia-novosibirsk-zoo-life-v2",
+    parent: "RU",
     type: "wildlife",
     name: { de: "Zoo Nowosibirsk", hu: "Novoszibirszki Állatkert", ro: "Grădina Zoologică din Novosibirsk", en: "Novosibirsk Zoo",
 image: "/poi-images/russia-novosibirsk-zoo-life-v2.webp"

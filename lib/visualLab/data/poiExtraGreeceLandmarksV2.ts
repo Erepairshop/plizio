@@ -3,6 +3,7 @@ export const greeceLandmarksV2: POI[] = [
 
   {
     id: "greece-acropolis-athens-landmarks-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Akropolis von Athen", hu: "Athéni Akropolisz", ro: "Acropola din Atena", en: "Acropolis of Athens",
 image: "/poi-images/greece-acropolis-athens-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Aerial view of the Acropolis hill in Athens at sunset",
     image: "/poi-images/greece-acropolis-athens-landmarks-v2.webp",
 },  {
     id: "greece-temple-hephaestus-landmarks-v2",
+    parent: "GR",
     type: "landmark",
     name: { de: "Tempel des Hephaistos", hu: "Héphaisztosz temploma", ro: "Templul lui Hefaistos", en: "Temple of Hephaestus",
 image: "/poi-images/greece-temple-hephaestus-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "The Temple of Hephaestus in Athens surrounded by trees",
     image: "/poi-images/greece-temple-hephaestus-landmarks-v2.webp",
 },  {
     id: "greece-panathenaic-stadium-landmarks-v2",
+    parent: "GR",
     type: "landmark",
     name: { de: "Panathinaiko-Stadion", hu: "Panathinaiko Stadion", ro: "Stadionul Panathenaic", en: "Panathenaic Stadium",
 image: "/poi-images/greece-panathenaic-stadium-landmarks-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Wide view of the marble Panathenaic Stadium in Athens",
     image: "/poi-images/greece-panathenaic-stadium-landmarks-v2.webp",
 },  {
     id: "greece-temple-olympian-zeus-landmarks-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Tempel des Olympischen Zeus", hu: "Olümpiai Zeusz temploma", ro: "Templul lui Zeus din Atena", en: "Temple of Olympian Zeus",
 image: "/poi-images/greece-temple-olympian-zeus-landmarks-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Standing Corinthian columns of the Temple of Olympian Zeus",
     image: "/poi-images/greece-temple-olympian-zeus-landmarks-v2.webp",
 },  {
     id: "greece-odeon-herodes-atticus-landmarks-v2",
+    parent: "GR",
     type: "theater",
     name: { de: "Odeon des Herodes Atticus", hu: "Herodes Atticus Odeonja", ro: "Odeonul lui Herodes Atticus", en: "Odeon of Herodes Atticus",
 image: "/poi-images/greece-odeon-herodes-atticus-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Stone theater of Herodes Atticus seen from above",
     image: "/poi-images/greece-odeon-herodes-atticus-landmarks-v2.webp",
 },  {
     id: "greece-tower-winds-landmarks-v2",
+    parent: "GR",
     type: "tower",
     name: { de: "Turm der Winde", hu: "Szelek toronya", ro: "Turnul Vânturilor", en: "Tower of the Winds",
 image: "/poi-images/greece-tower-winds-landmarks-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Octagonal structure of the Tower of the Winds in Athens",
     image: "/poi-images/greece-tower-winds-landmarks-v2.webp",
 },  {
     id: "greece-rotunda-thessaloniki-landmarks-v2",
+    parent: "GR",
     type: "landmark",
     name: { de: "Rotunde von Thessaloniki", hu: "Szaloniki Rotunda", ro: "Rotonda din Salonic", en: "Rotunda of Thessaloniki",
 image: "/poi-images/greece-rotunda-thessaloniki-landmarks-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
     image: "/poi-images/greece-rotunda-thessaloniki-landmarks-v2.webp",
 },  {
     id: "greece-lindos-acropolis-landmarks-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Akropolis von Lindos", hu: "Lindoszi Akropolisz", ro: "Acropola din Lindos", en: "Lindos Acropolis",
 image: "/poi-images/greece-lindos-acropolis-landmarks-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Acropolis of Lindos ruins on top of a hill by the sea",
     image: "/poi-images/greece-lindos-acropolis-landmarks-v2.webp",
 },  {
     id: "greece-fortezza-rethymno-landmarks-v2",
+    parent: "GR",
     type: "castle",
     name: { de: "Fortezza von Rethymno", hu: "Rethymno erőd", ro: "Fortăreața din Rethymno", en: "Fortezza of Rethymno",
 image: "/poi-images/greece-fortezza-rethymno-landmarks-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
     image: "/poi-images/greece-fortezza-rethymno-landmarks-v2.webp",
 },  {
     id: "greece-temple-apollo-delphi-landmarks-v2",
+    parent: "GR",
     type: "ruins",
     name: { de: "Apollon-Tempel von Delphi", hu: "Delphoi Apollón-templom", ro: "Templul lui Apollo din Delfi", en: "Temple of Apollo (Delphi)",
 image: "/poi-images/greece-temple-apollo-delphi-landmarks-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
     image: "/poi-images/greece-temple-apollo-delphi-landmarks-v2.webp",
 },  {
     id: "greece-tholos-delphi-landmarks-v2",
+    parent: "GR",
     type: "landmark",
     name: { de: "Tholos von Delphi", hu: "Delphoi Tholosz", ro: "Tholos din Delfi", en: "Tholos of Delphi",
 image: "/poi-images/greece-tholos-delphi-landmarks-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
     image: "/poi-images/greece-tholos-delphi-landmarks-v2.webp",
 },  {
     id: "greece-epidaurus-theatre-landmarks-v2",
+    parent: "GR",
     type: "theater",
     name: { de: "Theater von Epidaurus", hu: "Epidauroszi színház", ro: "Teatrul din Epidaur", en: "Great Theatre of Epidaurus",
 image: "/poi-images/greece-epidaurus-theatre-landmarks-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Ancient semicircular stone theater of Epidaurus",
     image: "/poi-images/greece-epidaurus-theatre-landmarks-v2.webp",
 },  {
     id: "greece-lion-gate-mycenae-landmarks-v2",
+    parent: "GR",
     type: "monument",
     name: { de: "Löwentor von Mykene", hu: "Oroszlános kapu", ro: "Poarta Leilor din Micene", en: "Lion Gate (Mycenae)",
 image: "/poi-images/greece-lion-gate-mycenae-landmarks-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "The ancient Lion Gate entrance at Mycenae",
     image: "/poi-images/greece-lion-gate-mycenae-landmarks-v2.webp",
 },  {
     id: "greece-great-meteoron-landmarks-v2",
+    parent: "GR",
     type: "church",
     name: { de: "Kloster Metamorphosis (Groß-Meteora)", hu: "Nagy Meteoron-kolostor", ro: "Mănăstirea Marele Meteor", en: "Great Meteoron Monastery",
 image: "/poi-images/greece-great-meteoron-landmarks-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Monastery built on top of a giant rock pillar in Meteora",
     image: "/poi-images/greece-great-meteoron-landmarks-v2.webp",
 },  {
     id: "greece-rousanou-monastery-landmarks-v2",
+    parent: "GR",
     type: "church",
     name: { de: "Kloster Rousanou", hu: "Ruszanu-kolostor", ro: "Mănăstirea Rousanou", en: "Monastery of Rousanou",
 image: "/poi-images/greece-rousanou-monastery-landmarks-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "The Monastery of Rousanou perched on a steep rock in Meteora",
     image: "/poi-images/greece-rousanou-monastery-landmarks-v2.webp",
 },  {
     id: "greece-castle-monemvasia-landmarks-v2",
+    parent: "GR",
     type: "castle",
     name: { de: "Burg von Monemvasia", hu: "Monemvaszia vára", ro: "Cetatea Monemvasia", en: "Castle of Monemvasia",
 image: "/poi-images/greece-castle-monemvasia-landmarks-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Medieval town of Monemvasia on a rock island",
     image: "/poi-images/greece-castle-monemvasia-landmarks-v2.webp",
 },  {
     id: "greece-achilleion-palace-landmarks-v2",
+    parent: "GR",
     type: "palace",
     name: { de: "Achilleion", hu: "Achilleion-palota", ro: "Palatul Achilleion", en: "Achilleion Palace",
 image: "/poi-images/greece-achilleion-palace-landmarks-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Neoclassical Achilleion Palace and statues on Corfu",
     image: "/poi-images/greece-achilleion-palace-landmarks-v2.webp",
 },  {
     id: "greece-old-fortress-corfu-landmarks-v2",
+    parent: "GR",
     type: "castle",
     name: { de: "Alte Festung (Korfu)", hu: "Régi erőd (Korfu)", ro: "Vechea Cetate din Corfu", en: "Old Fortress (Corfu)",
 image: "/poi-images/greece-old-fortress-corfu-landmarks-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Venetian Old Fortress of Corfu on a peninsula",
     image: "/poi-images/greece-old-fortress-corfu-landmarks-v2.webp",
 },  {
     id: "greece-rio-antirrio-bridge-landmarks-v2",
+    parent: "GR",
     type: "bridge",
     name: { de: "Rio-Andirrio-Brücke", hu: "Rió-Antírió híd", ro: "Podul Rio-Antirrio", en: "Rio-Antirrio Bridge",
 image: "/poi-images/greece-rio-antirrio-bridge-landmarks-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "The modern Rio-Antirrio cable-stayed bridge over the sea",
     image: "/poi-images/greece-rio-antirrio-bridge-landmarks-v2.webp",
 },  {
     id: "greece-mystras-palace-landmarks-v2",
+    parent: "GR",
     type: "palace",
     name: { de: "Palast der Despoten (Mystras)", hu: "Deszpoták palotája (Misztra)", ro: "Palatul Despoților (Mystras)", en: "Mystras Palace",
 image: "/poi-images/greece-mystras-palace-landmarks-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Byzantine palace ruins of Mystras on a hillside",
     image: "/poi-images/greece-mystras-palace-landmarks-v2.webp",
 },  {
     id: "greece-academy-athens-landmarks-v2",
+    parent: "GR",
     type: "university",
     name: { de: "Akademie von Athen", hu: "Athéni Akadémia", ro: "Academia din Atena", en: "Academy of Athens",
 image: "/poi-images/greece-academy-athens-landmarks-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Neoclassical building of the Academy of Athens with statues",
     image: "/poi-images/greece-academy-athens-landmarks-v2.webp",
 },  {
     id: "greece-zappeion-hall-landmarks-v2",
+    parent: "GR",
     type: "landmark",
     name: { de: "Zappeion", hu: "Zappeion", ro: "Zappeion", en: "Zappeion Hall",
 image: "/poi-images/greece-zappeion-hall-landmarks-v2.webp"
@@ -752,6 +774,7 @@ imageHint: "Yellow neoclassical Zappeion Hall in Athens",
 },
   {
     id: "greece-national-archaeological-museum-landmarks-v2",
+    parent: "GR",
     type: "museum",
     name: { de: "Nationales Archäologisches Museum", hu: "Nemzeti Régészeti Múzeum", ro: "Muzeul Național de Arheologie", en: "National Archaeological Museum",
 image: "/poi-images/greece-national-archaeological-museum-landmarks-v2.webp"
@@ -785,6 +808,7 @@ image: "/poi-images/greece-national-archaeological-museum-landmarks-v2.webp"
   },
   {
     id: "greece-saint-demetrius-church-landmarks-v2",
+    parent: "GR",
     type: "church",
     name: { de: "Hagios Demetrios Kirche", hu: "Szent Demeter-bazilika", ro: "Biserica Sfântul Dumitru", en: "Saint Demetrius Church",
 image: "/poi-images/greece-saint-demetrius-church-landmarks-v2.webp"
@@ -818,6 +842,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
     image: "/poi-images/greece-saint-demetrius-church-landmarks-v2.webp",
 },  {
     id: "greece-methoni-castle-landmarks-v2",
+    parent: "GR",
     type: "castle",
     name: { de: "Burg von Methoni", hu: "Methóni vára", ro: "Castelul Methoni", en: "Methoni Castle",
 image: "/poi-images/greece-methoni-castle-landmarks-v2.webp"
@@ -851,6 +876,7 @@ image: "/poi-images/greece-methoni-castle-landmarks-v2.webp"
   },
   {
     id: "greece-hosios-loukas-monastery-landmarks-v2",
+    parent: "GR",
     type: "church",
     name: { de: "Kloster Hosios Loukas", hu: "Hosziosz Lukasz-kolostor", ro: "Mănăstirea Hosios Loukas", en: "Hosios Loukas Monastery",
 image: "/poi-images/greece-hosios-loukas-monastery-landmarks-v2.webp"
@@ -884,6 +910,7 @@ imageHint: "Hosios Loukas Monastery gold mosaics",
     image: "/poi-images/greece-hosios-loukas-monastery-landmarks-v2.webp",
 },  {
     id: "greece-bourtzi-castle-landmarks-v2",
+    parent: "GR",
     type: "castle",
     name: { de: "Festung Bourtzi", hu: "Bourtzi-erőd", ro: "Castelul Bourtzi", en: "Bourtzi Castle",
 image: "/poi-images/greece-bourtzi-castle-landmarks-v2.webp"
@@ -917,6 +944,7 @@ imageHint: "Bourtzi Castle Nafplio islet in harbor",
     image: "/poi-images/greece-bourtzi-castle-landmarks-v2.webp",
 },  {
     id: "greece-st-michael-george-palace-landmarks-v2",
+    parent: "GR",
     type: "palace",
     name: { de: "Palast von St. Michael und St. Georg", hu: "Szent Mihály és Szent György-palota", ro: "Palatul Sf. Mihail și Sf. Gheorghe", en: "Palace of St. Michael and St. George",
 image: "/poi-images/greece-st-michael-george-palace-landmarks-v2.webp"
@@ -950,6 +978,7 @@ image: "/poi-images/greece-st-michael-george-palace-landmarks-v2.webp"
   },
   {
     id: "greece-heraklion-archaeological-museum-landmarks-v2",
+    parent: "GR",
     type: "museum",
     name: { de: "Archäologisches Museum Iraklio", hu: "Irákliói Régészeti Múzeum", ro: "Muzeul de Arheologie din Heraklion", en: "Heraklion Archaeological Museum",
 image: "/poi-images/greece-heraklion-archaeological-museum-landmarks-v2.webp"
@@ -983,6 +1012,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
     image: "/poi-images/greece-heraklion-archaeological-museum-landmarks-v2.webp",
 },  {
     id: "greece-bridge-arta-landmarks-v2",
+    parent: "GR",
     type: "bridge",
     name: { de: "Brücke von Arta", hu: "Ártai híd", ro: "Podul din Arta", en: "Bridge of Arta",
 image: "/poi-images/greece-bridge-arta-landmarks-v2.webp"
@@ -1013,5 +1043,166 @@ image: "/poi-images/greece-bridge-arta-landmarks-v2.webp"
       ro: ["Anul construcției actuale: 1612.", "Lungime: 142 metri.", "Număr de arcuri: 4 principale.", "Înălțimea celui mai mare arc: 20 metri."],
       en: ["Year of current form: 1612.", "Length: 142 meters.", "Number of arches: 4 main arches.", "Highest arch height: 20 meters."],
     },
+  }
+,
+  {
+    id: "greece-ancient-agora-athens-landmarks-v2",
+    parent: "GR",
+    type: "ruins",
+    name: { de: "Antike Agora von Athen", hu: "Athéni ókori agora", ro: "Agora Antică din Atena", en: "Ancient Agora of Athens" },
+    coordinates: { lat: 37.9751, lng: 23.7225 },
+    description: {
+      de: "Das Zentrum des öffentlichen Lebens im antiken Athen. Es beherbergt den Tempel des Hephaistos und die Stoa des Attalos.",
+      hu: "Az ókori Athén közösségi és politikai életének központja. Itt áll a Héphaiszteion temploma és az Attalosz-sztoa.",
+      ro: "Centrul vieții publice din Atena antică. Găzduiește Templul lui Hefaistos și Stoa lui Attalos, reconstruită recent.",
+      en: "The center of public life in ancient Athens. It contains the Temple of Hephaestus and the reconstructed Stoa of Attalos.",
+    },
+    facts: {
+      de: ["Gegründet im 6. Jhd. v. Chr.", "Sitz der athenischen Demokratie", "Tempel des Hephaistos erhalten", "Stoa des Attalos als Museum"],
+      hu: ["I. e. 6. században alapították", "Az athéni demokrácia bölcsője", "Épen maradt Héphaiszteion", "Attalosz-sztoa múzeumként üzemel"],
+      ro: ["Fondată în sec. VI î.Hr.", "Sediul democrației ateniene", "Templul lui Hefaistos bine păstrat", "Stoa lui Attalos este muzeu"],
+      en: ["Founded in 6th century BC", "Seat of Athenian democracy", "Well-preserved Hephaestus temple", "Stoa of Attalos serves as museum"],
+    },
+    imageHint: "Ancient Agora of Athens with Temple of Hephaestus",
+  },
+  {
+    id: "greece-hellenic-parliament-landmarks-v2",
+    parent: "GR",
+    type: "palace",
+    name: { de: "Griechisches Parlament", hu: "Görög Parlament", ro: "Parlamentul Greciei", en: "Hellenic Parliament" },
+    coordinates: { lat: 37.9753, lng: 23.7371 },
+    description: {
+      de: "Das Parlamentsgebäude am Syntagma-Platz war ursprünglich das königliche Schloss. Vor dem Gebäude findet der Wachwechsel statt.",
+      hu: "A Szintagma téren álló épület eredetileg királyi palotaként épült. Előtte látható az őrségváltás a népi viseletbe öltözött katonákkal.",
+      ro: "Clădirea Parlamentului din Piața Syntagma a fost inițial palat regal. În fața sa are loc celebra schimbare a gărzii.",
+      en: "The parliament building on Syntagma Square was originally the Royal Palace. The changing of the guard takes place in front of it.",
+    },
+    facts: {
+      de: ["Ehemals Altes Königsschloss", "Baujahr 1843 abgeschlossen", "Sitz der Abgeordnetenkammer", "Grabmal des unbekannten Soldaten"],
+      hu: ["Egykori királyi palota", "1843-ban fejezték be az építést", "A görög törvényhozás székhelye", "Ismeretlen katona emlékhelye"],
+      ro: ["Fostul Palat Regal Vechi", "Construcție finalizată în 1843", "Sediul legislativului grec", "Mormântul Soldatului Necunoscut"],
+      en: ["Former Old Royal Palace", "Construction finished in 1843", "Seat of the Greek legislature", "Tomb of the Unknown Soldier"],
+    },
+    imageHint: "Hellenic Parliament Building Athens Syntagma Square",
+  },
+  {
+    id: "greece-acropolis-museum-landmarks-v2",
+    parent: "GR",
+    type: "museum",
+    name: { de: "Akropolis-Museum", hu: "Akropolisz Múzeum", ro: "Muzeul Acropole", en: "Acropolis Museum" },
+    coordinates: { lat: 37.9681, lng: 23.7285 },
+    description: {
+      de: "Ein modernes Museum am Fuße der Akropolis, das archäologische Funde des heiligen Hügels präsentiert.",
+      hu: "Az Akropolisz lábánál fekvő modern múzeum, amely a szent szikláról származó régészeti leleteket mutatja be.",
+      ro: "Un muzeu modern situat la poalele Acropolei, expunând descoperiri arheologice de pe stânca sacră.",
+      en: "A modern museum at the foot of the Acropolis, showcasing archaeological finds from the sacred hill.",
+    },
+    facts: {
+      de: ["Eröffnung im Jahr 2009", "Entwurf von Bernard Tschumi", "Über 4.000 Exponate", "Blick auf den Parthenon"],
+      hu: ["2009-ben nyílt meg", "Bernard Tschumi tervezte", "Több mint 4000 kiállított tárgy", "Közvetlen kilátás a Parthenónra"],
+      ro: ["Inaugurat în anul 2009", "Proiectat de Bernard Tschumi", "Peste 4.000 de exponate", "Vedere panoramică spre Partenon"],
+      en: ["Opened in 2009", "Designed by Bernard Tschumi", "Over 4,000 exhibits", "Direct view of the Parthenon"],
+    },
+    imageHint: "Modern Acropolis Museum Athens interior statues",
+  },
+  {
+    id: "greece-chlemoutsi-castle-landmarks-v2",
+    parent: "GR",
+    type: "castle",
+    name: { de: "Burg Chlemoutsi", hu: "Hlemúci vára", ro: "Castelul Chlemoutsi", en: "Chlemoutsi Castle" },
+    coordinates: { lat: 37.8902, lng: 21.1415 },
+    description: {
+      de: "Eine beeindruckende mittelalterliche Festung auf dem Peloponnes, erbaut von den Kreuzfahrern.",
+      hu: "Látványos középkori erődítmény a Peloponnészoszon, amelyet a keresztes lovagok építettek.",
+      ro: "O fortăreață medievală impresionantă din Peloponez, construită de cruciați.",
+      en: "An impressive medieval fortress in the Peloponnese, built by the Crusaders.",
+    },
+    facts: {
+      de: ["Erbaut um 1220", "Fränkisches Fürstentum Achaia", "Strategische Lage am Ionischen Meer", "Sehr gut erhaltene Hauptburg"],
+      hu: ["1220 körül épült", "Az Akháj Fejedelemség fő erődje", "Stratégiai pont a Jón-tengernél", "Épen maradt belső vár"],
+      ro: ["Construit în jurul anului 1220", "Fortăreața Principatului Ahaia", "Poziție strategică la Marea Ionică", "Castel central foarte bine păstrat"],
+      en: ["Built around 1220", "Stronghold of Principality of Achaea", "Strategic view over Ionian Sea", "Well-preserved inner keep"],
+    },
+    imageHint: "Chlemoutsi Castle Peloponnese aerial view",
+  },
+  {
+    id: "greece-castle-nafpaktos-landmarks-v2",
+    parent: "GR",
+    type: "castle",
+    name: { de: "Burg von Nafpaktos", hu: "Nafpaktosz vára", ro: "Castelul din Nafpaktos", en: "Castle of Nafpaktos" },
+    coordinates: { lat: 38.3951, lng: 21.8268 },
+    description: {
+      de: "Eine terrassenförmig angelegte Festung über der Hafenstadt Nafpaktos am Golf von Korinth.",
+      hu: "A Korinthoszi-öböl partján fekvő Nafpaktos városa fölé magasodó, teraszos elrendezésű erőd.",
+      ro: "O fortăreață terasată situată deasupra orașului port Nafpaktos, pe malul Golfului Corint.",
+      en: "A terraced fortress overlooking the port city of Nafpaktos on the Gulf of Corinth.",
+    },
+    facts: {
+      de: ["Fünf Befestigungsringe", "Antike Fundamente vorhanden", "Venezianische und osmanische Bauphasen", "Blick auf den kleinen Hafen"],
+      hu: ["Öt védelmi vonalból áll", "Ókori alapokra épült", "Velencei és oszmán építési stílus", "Kilátás a festői kikötőre"],
+      ro: ["Cinci rânduri de fortificații", "Fundații antice conservate", "Faze venețiene și otomane", "Vedere spre portul fortificat"],
+      en: ["Five defensive enclosures", "Built on ancient foundations", "Venetian and Ottoman phases", "View of the fortified harbor"],
+    },
+    imageHint: "Castle of Nafpaktos and fortified harbor view",
+  },
+  {
+    id: "greece-panagia-ekatontapyliani-landmarks-v2",
+    parent: "GR",
+    type: "church",
+    name: { de: "Panagia Ekatontapyliani", hu: "Panagia Ekatontapilianí", ro: "Panagia Ekatontapyliani", en: "Panagia Ekatontapyliani" },
+    coordinates: { lat: 37.0851, lng: 25.1524 },
+    description: {
+      de: "Eine historische byzantinische Kirche auf der Insel Paros, bekannt als die 'Kirche der hundert Tore'.",
+      hu: "Történelmi bizánci templom Párosz szigetén, amelyet a 'Százkapus templomként' ismernek.",
+      ro: "O biserică bizantină istorică de pe insula Paros, cunoscută sub numele de 'Biserica celor o sută de porți'.",
+      en: "A historic Byzantine church on the island of Paros, known as the 'Church of a Hundred Doors'.",
+    },
+    facts: {
+      de: ["Gegründet im 4. Jahrhundert", "Unter Justinian I. erweitert", "Ältestes Baptisterium im Osten", "Wichtiges Pilgerziel"],
+      hu: ["4. században alapították", "I. Iusztinianosz alatt bővítették", "Legrégebbi keleti keresztelőkápolna", "Fontos búcsújáró hely"],
+      ro: ["Fondată în secolul IV", "Extinsă sub Iustinian I", "Cel mai vechi baptisteriu ortodox", "Important loc de pelerinaj"],
+      en: ["Founded in 4th century", "Expanded under Justinian I", "Oldest baptistery in Orthodox world", "Major pilgrimage site"],
+    },
+    imageHint: "Panagia Ekatontapyliani church Paros exterior",
+  },
+  {
+    id: "greece-saint-spyridon-church-landmarks-v2",
+    parent: "GR",
+    type: "church",
+    name: { de: "Kirche des Heiligen Spyridon", hu: "Szent Szpiridon-templom", ro: "Biserica Sfântul Spiridon", en: "Saint Spyridon Church" },
+    coordinates: { lat: 39.6254, lng: 19.9231 },
+    description: {
+      de: "Die wichtigste Kirche der Stadt Korfu, in der die Reliquien des Schutzpatrons der Insel aufbewahrt werden.",
+      hu: "Korfu városának legfontosabb temploma, ahol a sziget védőszentjének ereklyéit őrzik.",
+      ro: "Cea mai importantă biserică din orașul Corfu, adăpostind moaștele sfântului ocrotitor al insulei.",
+      en: "The most important church in Corfu Town, housing the relics of the island's patron saint.",
+    },
+    facts: {
+      de: ["Erbaut in den 1580er Jahren", "Höchster Glockenturm der Ionischen Inseln", "Silbersarkophag des Heiligen", "Einfluss der venezianischen Architektur"],
+      hu: ["Az 1580-as években épült", "A Jón-szigetek legmagasabb harangtornya", "A szent ezüstszarkofágja itt látható", "Velencei építészeti hatás"],
+      ro: ["Construită în anii 1580", "Cel mai înalt turn din Insulele Ionice", "Sarcofag de argint al sfântului", "Influență arhitecturală venețiană"],
+      en: ["Built in the 1580s", "Highest bell tower in Ionian Islands", "Silver sarcophagus of the saint", "Venetian architectural influence"],
+    },
+    imageHint: "Saint Spyridon Church Corfu bell tower and red dome",
+  },
+  {
+    id: "greece-archaeological-museum-thessaloniki-landmarks-v2",
+    parent: "GR",
+    type: "museum",
+    name: { de: "Archäologisches Museum Thessaloniki", hu: "Thesszaloniki Régészeti Múzeum", ro: "Muzeul de Arheologie din Salonic", en: "Archaeological Museum of Thessaloniki" },
+    coordinates: { lat: 40.6251, lng: 22.9542 },
+    description: {
+      de: "Eines der bedeutendsten Museen Griechenlands mit Schätzen aus dem antiken Makedonien.",
+      hu: "Görögország egyik legjelentősebb múzeuma, amely az ókori Makedónia kincseit mutatja be.",
+      ro: "Unul dintre cele mai importante muzee din Grecia, expunând comorile Macedoniei antice.",
+      en: "One of the most significant museums in Greece, showcasing treasures from ancient Macedonia.",
+    },
+    facts: {
+      de: ["Baujahr 1962", "Architekt Patroklos Karantinos", "Funde aus der Region Chalkidiki", "Gold von Derveni ausgestellt"],
+      hu: ["1962-ben épült", "Patroklosz Karantinosz tervezte", "Halkidiki környéki leletek", "Itt látható a derveni aranylelet"],
+      ro: ["Clădire finalizată în 1962", "Arhitect Patroklos Karantinos", "Descoperiri din regiunea Halkidiki", "Expune aurul de la Derveni"],
+      en: ["Building completed in 1962", "Architect Patroklos Karantinos", "Finds from the Halkidiki region", "Derveni gold finds on display"],
+    },
+    imageHint: "Archaeological Museum of Thessaloniki exterior artifacts",
   }
 ];

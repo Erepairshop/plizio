@@ -3,6 +3,7 @@ export const belarusReliefV2: POI[] = [
 
   {
     id: "belarus-lysaya-hara-relief-v2",
+    parent: "BY",
     type: "peak",
     name: { de: "Lysaja Hara", hu: "Liszaja-hegy", ro: "Muntele Lîsaia", en: "Lysaya Hara",
 image: "/poi-images/belarus-lysaya-hara-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Lysaya Hara hill landscape near Minsk",
     , image: "/poi-images/belarus-lysaya-hara-relief-v2.webp",
 },  {
     id: "belarus-mayak-hill-relief-v2",
+    parent: "BY",
     type: "peak",
     name: { de: "Majak Hügel", hu: "Majak-domb", ro: "Dealul Maiak", en: "Mayak Hill",
 image: "/poi-images/belarus-mayak-hill-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Mayak Hill view over Braslaw Lakes",
     , image: "/poi-images/belarus-mayak-hill-relief-v2.webp",
 },  {
     id: "belarus-minsk-upland-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Minsker Hochland", hu: "Minszki-hátság", ro: "Podișul Minskului", en: "Minsk Upland",
 image: "/poi-images/belarus-minsk-upland-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Rolling hills of the Minsk Upland",
     , image: "/poi-images/belarus-minsk-upland-relief-v2.webp",
 },  {
     id: "belarus-navahrudak-upland-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Nowogrudoker Höhenzug", hu: "Navahrudaki-hátság", ro: "Podișul Navahrudak", en: "Navahrudak Upland",
 image: "/poi-images/belarus-navahrudak-upland-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Hilly terrain of Navahrudak Upland",
     , image: "/poi-images/belarus-navahrudak-upland-relief-v2.webp",
 },  {
     id: "belarus-vitebsk-upland-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Witebsker Hochland", hu: "Vicebszki-hátság", ro: "Podișul Vitebsk", en: "Vitebsk Upland",
 image: "/poi-images/belarus-vitebsk-upland-relief-v2.webp"
@@ -173,6 +178,7 @@ image: "/poi-images/belarus-vitebsk-upland-relief-v2.webp"
   },
   {
     id: "belarus-orsha-upland-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Orscha-Höhenzug", hu: "Orsai-hátság", ro: "Podișul Orsha", en: "Orsha Upland",
 image: "/poi-images/belarus-orsha-upland-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Orsha Upland fields and hills",
     , image: "/poi-images/belarus-orsha-upland-relief-v2.webp",
 },  {
     id: "belarus-oshmyany-upland-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Aschmjaner Höhenzug", hu: "Asmjani-hátság", ro: "Podișul Oshmyany", en: "Oshmyany Upland",
 image: "/poi-images/belarus-oshmyany-upland-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Boulders on the Oshmyany Upland",
     , image: "/poi-images/belarus-oshmyany-upland-relief-v2.webp",
 },  {
     id: "belarus-grodno-upland-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Grodnoer Höhenzug", hu: "Hrodnai-hátság", ro: "Podișul Grodno", en: "Grodno Upland",
 image: "/poi-images/belarus-grodno-upland-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "River Neman valley near Grodno Upland",
     , image: "/poi-images/belarus-grodno-upland-relief-v2.webp",
 },  {
     id: "belarus-volkovysk-upland-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Wolkowysker Höhenzug", hu: "Vavkaviszki-hátság", ro: "Podișul Volkovysk", en: "Volkovysk Upland",
 image: "/poi-images/belarus-volkovysk-upland-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Gentle hills of Volkovysk Upland",
     , image: "/poi-images/belarus-volkovysk-upland-relief-v2.webp",
 },  {
     id: "belarus-slonim-upland-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Slonimer Höhenzug", hu: "Szlonimi-hátság", ro: "Podișul Slonim", en: "Slonim Upland",
 image: "/poi-images/belarus-slonim-upland-relief-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Sandy hills and pine forest of Slonim",
     , image: "/poi-images/belarus-slonim-upland-relief-v2.webp",
 },  {
     id: "belarus-kopyl-ridge-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Kopylysker Rücken", hu: "Kapili-hátság", ro: "Culmea Kopyl", en: "Kopyl Ridge",
 image: "/poi-images/belarus-kopyl-ridge-relief-v2.webp"
@@ -365,6 +376,7 @@ image: "/poi-images/belarus-kopyl-ridge-relief-v2.webp"
     image: "/poi-images/belarus-kopyl-ridge-relief-v2.webp"},
   {
     id: "belarus-mozyr-ridge-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Masyrer Rücken", hu: "Maziri-hátság", ro: "Culmea Mozyr", en: "Mozyr Ridge",
 image: "/poi-images/belarus-mozyr-ridge-relief-v2.webp"
@@ -387,6 +399,7 @@ image: "/poi-images/belarus-mozyr-ridge-relief-v2.webp"
     image: "/poi-images/belarus-mozyr-ridge-relief-v2.webp"},
   {
     id: "belarus-polatsk-lowland-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Polazker Tiefland", hu: "Polacki-alföld", ro: "Câmpia Polatsk", en: "Polatsk Lowland",
 image: "/poi-images/belarus-polatsk-lowland-relief-v2.webp"
@@ -422,6 +435,7 @@ image: "/poi-images/belarus-polatsk-lowland-relief-v2.webp"
   },
   {
     id: "belarus-neman-lowland-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Memel-Tiefland", hu: "Nyeman-alföld", ro: "Câmpia Nemanului", en: "Neman Lowland",
 image: "/poi-images/belarus-neman-lowland-relief-v2.webp"
@@ -444,6 +458,7 @@ image: "/poi-images/belarus-neman-lowland-relief-v2.webp"
     image: "/poi-images/belarus-neman-lowland-relief-v2.webp"},
   {
     id: "belarus-polesie-lowland-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Polesien-Tiefland", hu: "Poléziai-alföld", ro: "Câmpia Polésia", en: "Polesie Lowland",
 image: "/poi-images/belarus-polesie-lowland-relief-v2.webp"
@@ -478,6 +493,7 @@ imageHint: "Vast marshlands of Polesie",
     , image: "/poi-images/belarus-polesie-lowland-relief-v2.webp",
 },  {
     id: "belarus-logoysk-crater-relief-v2",
+    parent: "BY",
     type: "landmark",
     name: { de: "Logoisker Einschlagkrater", hu: "Logojszki-kráter", ro: "Craterul Logoysk", en: "Logoysk Impact Crater",
 image: "/poi-images/belarus-logoysk-crater-relief-v2.webp"
@@ -512,6 +528,7 @@ imageHint: "Satellite topographic map of Logoysk",
     , image: "/poi-images/belarus-logoysk-crater-relief-v2.webp",
 },  {
     id: "belarus-vileyka-lowland-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Wilejka-Tiefland", hu: "Vilejkai-alföld", ro: "Câmpia Vileyka", en: "Vileyka Lowland",
 image: "/poi-images/belarus-vileyka-lowland-relief-v2.webp"
@@ -546,6 +563,7 @@ imageHint: "Vileyka reservoir and lowlands",
     , image: "/poi-images/belarus-vileyka-lowland-relief-v2.webp",
 },  {
     id: "belarus-lida-plain-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Lidaer Ebene", hu: "Lidai-síkság", ro: "Câmpia Lidei", en: "Lida Plain",
 image: "/poi-images/belarus-lida-plain-relief-v2.webp"
@@ -580,6 +598,7 @@ imageHint: "Pine forests on the Lida Plain",
     , image: "/poi-images/belarus-lida-plain-relief-v2.webp",
 },  {
     id: "belarus-baranovichi-plain-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Baranowitschi-Ebene", hu: "Baranavicsi-síkság", ro: "Câmpia Baranovichi", en: "Baranovichi Plain",
 image: "/poi-images/belarus-baranovichi-plain-relief-v2.webp"
@@ -614,6 +633,7 @@ imageHint: "Vast agricultural fields of Baranovichi",
     , image: "/poi-images/belarus-baranovichi-plain-relief-v2.webp",
 },  {
     id: "belarus-pribugskaya-plain-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Pribugskaja-Ebene", hu: "Pribugszkaja-síkság", ro: "Câmpia Pribugskaya", en: "Pribugskaya Plain",
 image: "/poi-images/belarus-pribugskaya-plain-relief-v2.webp"
@@ -636,6 +656,7 @@ image: "/poi-images/belarus-pribugskaya-plain-relief-v2.webp"
     image: "/poi-images/belarus-pribugskaya-plain-relief-v2.webp"},
   {
     id: "belarus-luninets-lowland-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Luninez-Tiefland", hu: "Luninyeci-alföld", ro: "Câmpia Luninets", en: "Luninets Lowland",
 image: "/poi-images/belarus-luninets-lowland-relief-v2.webp"
@@ -658,6 +679,7 @@ image: "/poi-images/belarus-luninets-lowland-relief-v2.webp"
     image: "/poi-images/belarus-luninets-lowland-relief-v2.webp"},
   {
     id: "belarus-stolin-lowland-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Stoliner Tiefland", hu: "Sztolini-alföld", ro: "Câmpia Stolin", en: "Stolin Lowland",
 image: "/poi-images/belarus-stolin-lowland-relief-v2.webp"
@@ -692,6 +714,7 @@ imageHint: "Sandy plain with dunes near Stolin",
     , image: "/poi-images/belarus-stolin-lowland-relief-v2.webp",
 },  {
     id: "belarus-gorodok-upland-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Gorodoker Höhenzug", hu: "Haradoki-hátság", ro: "Podișul Gorodok", en: "Gorodok Upland",
 image: "/poi-images/belarus-gorodok-upland-relief-v2.webp"
@@ -727,6 +750,7 @@ image: "/poi-images/belarus-gorodok-upland-relief-v2.webp"
   },
   {
     id: "belarus-chashniki-plain-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Tschaschniki-Ebene", hu: "Csasnyiki-síkság", ro: "Câmpia Chashniki", en: "Chashniki Plain",
 image: "/poi-images/belarus-chashniki-plain-relief-v2.webp"
@@ -761,6 +785,7 @@ imageHint: "Flat agricultural plain of Chashniki",
     , image: "/poi-images/belarus-chashniki-plain-relief-v2.webp",
 },  {
     id: "belarus-zamkavaya-hara-relief-v2",
+    parent: "BY",
     type: "peak",
     name: { de: "Schlossberg (Nowogrudok)", hu: "Vár-hegy (Navahrudak)", ro: "Dealul Castelului (Navahrudak)", en: "Zamkavaya Hara (Navahrudak)",
 image: "/poi-images/belarus-zamkavaya-hara-relief-v2.webp"
@@ -795,6 +820,7 @@ image: "/poi-images/belarus-zamkavaya-hara-relief-v2.webp"
   },
   {
     id: "belarus-ashmyany-ridge-relief-v2",
+    parent: "BY",
     type: "mountain",
     name: { de: "Aschmjaner Rücken", hu: "Asmjani-dombság", ro: "Culmea Oshmyany", en: "Ashmyany Ridge",
 image: "/poi-images/belarus-ashmyany-ridge-relief-v2.webp"
@@ -829,6 +855,7 @@ imageHint: "Steep moraine ridge in Oshmyany",
     , image: "/poi-images/belarus-ashmyany-ridge-relief-v2.webp",
 },  {
     id: "belarus-surazh-lowland-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Surasch-Tiefland", hu: "Szurazsi-alföld", ro: "Câmpia Suraj", en: "Surazh Lowland",
 image: "/poi-images/belarus-surazh-lowland-relief-v2.webp"
@@ -863,6 +890,7 @@ image: "/poi-images/belarus-surazh-lowland-relief-v2.webp"
   },
   {
     id: "belarus-middle-berezina-plain-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Mittlere Beresina-Ebene", hu: "Középső-Berezina-síkság", ro: "Câmpia Berezinei Mijlocii", en: "Middle Berezina Plain",
 image: "/poi-images/belarus-middle-berezina-plain-relief-v2.webp"
@@ -885,6 +913,7 @@ image: "/poi-images/belarus-middle-berezina-plain-relief-v2.webp"
     image: "/poi-images/belarus-middle-berezina-plain-relief-v2.webp"},
   {
     id: "belarus-orsha-mogilev-plain-relief-v2",
+    parent: "BY",
     type: "valley",
     name: { de: "Orscha-Mogilev-Ebene", hu: "Orsa-Mahiljov-síkság", ro: "Câmpia Orsha-Mogilev", en: "Orsha-Mogilev Plain",
 image: "/poi-images/belarus-orsha-mogilev-plain-relief-v2.webp"
@@ -907,6 +936,7 @@ image: "/poi-images/belarus-orsha-mogilev-plain-relief-v2.webp"
     image: "/poi-images/belarus-orsha-mogilev-plain-relief-v2.webp"},
   {
     id: "belarus-yurievichi-hills-relief-v2",
+    parent: "BY",
     type: "landmark",
     name: { de: "Jurjewitschi-Hügel", hu: "Jurjevicsi-dombok", ro: "Dealurile Yurievichi", en: "Yurievichi Hills",
 image: "/poi-images/belarus-yurievichi-hills-relief-v2.webp"

@@ -3,6 +3,7 @@ export const vaticanCitiesV2: POI[] = [
 
   {
     id: "vatican-st-peters-basilica-cities-v2",
+    parent: "VA",
     type: "cathedral",
     name: { de: "Petersdom", hu: "Szent Péter-bazilika", ro: "Bazilica Sfântul Petru", en: "St. Peter's Basilica",
 image: "/poi-images/vatican-st-peters-basilica-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "St. Peter's Basilica facade and dome",
     image: "/poi-images/vatican-st-peters-basilica-cities-v2.webp",
 },  {
     id: "vatican-st-peters-square-cities-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Petersplatz", hu: "Szent Péter tér", ro: "Piața Sfântul Petru", en: "St. Peter's Square",
 image: "/poi-images/vatican-st-peters-square-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "St. Peter's Square aerial view",
     image: "/poi-images/vatican-st-peters-square-cities-v2.webp",
 },  {
     id: "vatican-st-peters-dome-cities-v2",
+    parent: "VA",
     type: "tower",
     name: { de: "Kuppel des Petersdoms", hu: "Szent Péter-bazilika kupolája", ro: "Cupola Bazilicii Sfântul Petru", en: "St. Peter's Dome",
 image: "/poi-images/vatican-st-peters-dome-cities-v2.webp"
@@ -105,6 +108,7 @@ image: "/poi-images/vatican-st-peters-dome-cities-v2.webp"
   },
   {
     id: "vatican-governatorato-palace-cities-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "Palazzo del Governatorato", hu: "Kormányzósági Palota", ro: "Palatul Guvernatoratului", en: "Governatorato Palace",
 image: "/poi-images/vatican-governatorato-palace-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Governatorato Palace Vatican City",
     image: "/poi-images/vatican-governatorato-palace-cities-v2.webp",
 },  {
     id: "vatican-st-stephen-abyssinians-cities-v2",
+    parent: "VA",
     type: "church",
     name: { de: "Santo Stefano degli Abissini", hu: "Szent István-templom (Abesszin)", ro: "Biserica Sfântul Ștefan al Abisinienilor", en: "Church of Santo Stefano degli Abissini",
 image: "/poi-images/vatican-st-stephen-abyssinians-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Santo Stefano degli Abissini facade",
     image: "/poi-images/vatican-st-stephen-abyssinians-cities-v2.webp",
 },  {
     id: "vatican-ethiopian-college-cities-v2",
+    parent: "VA",
     type: "university",
     name: { de: "Pontificio Collegio Etiopico", hu: "Pápai Etióp Kollégium", ro: "Colegiul Pontifical Etiopian", en: "Ethiopian College",
 image: "/poi-images/vatican-ethiopian-college-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Pontifical Ethiopian College building",
     image: "/poi-images/vatican-ethiopian-college-cities-v2.webp",
 },  {
     id: "vatican-tower-san-giovanni-cities-v2",
+    parent: "VA",
     type: "tower",
     name: { de: "Torre San Giovanni", hu: "Szent János-torony", ro: "Turnul Sfântul Ioan", en: "Tower of San Giovanni",
 image: "/poi-images/vatican-tower-san-giovanni-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Tower of San Giovanni Vatican Gardens",
     image: "/poi-images/vatican-tower-san-giovanni-cities-v2.webp",
 },  {
     id: "vatican-railway-station-cities-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Vatikanischer Bahnhof", hu: "Vatikáni vasútállomás", ro: "Gara Vatican", en: "Vatican City Railway Station",
 image: "/poi-images/vatican-railway-station-cities-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Vatican City railway station building",
     image: "/poi-images/vatican-railway-station-cities-v2.webp",
 },  {
     id: "vatican-heliport-cities-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Vatikanischer Hubschrauberlandeplatz", hu: "Vatikáni heliport", ro: "Heliportul Vatican", en: "Vatican City Heliport",
 image: "/poi-images/vatican-heliport-cities-v2.webp"
@@ -309,6 +318,7 @@ image: "/poi-images/vatican-heliport-cities-v2.webp"
   },
   {
     id: "vatican-pinacoteca-vaticana-cities-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Vatikanische Pinakothek", hu: "Vatikáni Képtár", ro: "Pinacoteca Vaticană", en: "Vatican Pinacoteca",
 image: "/poi-images/vatican-pinacoteca-vaticana-cities-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Pinacoteca Vaticana gallery hall",
     image: "/poi-images/vatican-pinacoteca-vaticana-cities-v2.webp",
 },  {
     id: "vatican-gregorian-etruscan-museum-cities-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Gregorianisch-Etruskisches Museum", hu: "Gregorián Etruszk Múzeum", ro: "Muzeul Gregorian Etrusc", en: "Gregorian Etruscan Museum",
 image: "/poi-images/vatican-gregorian-etruscan-museum-cities-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Etruscan pottery Vatican Museum",
     image: "/poi-images/vatican-gregorian-etruscan-museum-cities-v2.webp",
 },  {
     id: "vatican-missionary-museum-cities-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Missions- und Ethnologisches Museum", hu: "Missziós és Néprajzi Múzeum", ro: "Muzeul Misionar-Etnologic", en: "Missionary-Ethnological Museum",
 image: "/poi-images/vatican-missionary-museum-cities-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Ethnological artifacts Vatican Museum",
     image: "/poi-images/vatican-missionary-museum-cities-v2.webp",
 },  {
     id: "vatican-pio-clementine-museum-cities-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Museum Pio-Clementino", hu: "Pio-Clementino Múzeum", ro: "Muzeul Pio-Clementino", en: "Pio-Clementine Museum",
 image: "/poi-images/vatican-pio-clementine-museum-cities-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Laocoön sculpture Vatican Museum",
     image: "/poi-images/vatican-pio-clementine-museum-cities-v2.webp",
 },  {
     id: "vatican-chiaramonti-museum-cities-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Museum Chiaramonti", hu: "Chiaramonti Múzeum", ro: "Muzeul Chiaramonti", en: "Chiaramonti Museum",
 image: "/poi-images/vatican-chiaramonti-museum-cities-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Chiaramonti Museum gallery busts",
     image: "/poi-images/vatican-chiaramonti-museum-cities-v2.webp",
 },  {
     id: "vatican-gallery-of-maps-cities-v2",
+    parent: "VA",
     type: "museum",
     name: { de: "Galerie der Landkarten", hu: "Térképek galériája", ro: "Galeria Hărților", en: "Gallery of Maps",
 image: "/poi-images/vatican-gallery-of-maps-cities-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Gallery of Maps Vatican Museum interior",
     image: "/poi-images/vatican-gallery-of-maps-cities-v2.webp",
 },  {
     id: "vatican-pinecone-courtyard-cities-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Cortile della Pigna", hu: "Fenyőtoboz-udvar", ro: "Curtea Pinului", en: "Pinecone Courtyard",
 image: "/poi-images/vatican-pinecone-courtyard-cities-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Sphere within Sphere sculpture Vatican",
     image: "/poi-images/vatican-pinecone-courtyard-cities-v2.webp",
 },  {
     id: "vatican-leonine-walls-cities-v2",
+    parent: "VA",
     type: "monument",
     name: { de: "Leoninische Mauer", hu: "Leoninus-fal", ro: "Zidurile Leonine", en: "Leonine Walls",
 image: "/poi-images/vatican-leonine-walls-cities-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Leonine Walls Vatican City",
     image: "/poi-images/vatican-leonine-walls-cities-v2.webp",
 },  {
     id: "vatican-domus-sanctae-marthae-cities-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "Domus Sanctae Marthae", hu: "Szent Márta-ház", ro: "Domus Sanctae Marthae", en: "Domus Sanctae Marthae",
 image: "/poi-images/vatican-domus-sanctae-marthae-cities-v2.webp"
@@ -616,6 +634,7 @@ imageHint: "Domus Sanctae Marthae building Vatican",
 },
   {
     id: "vatican-san-damaso-courtyard-cities-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "San-Damaso-Hof", hu: "San Damaso udvar", ro: "Curtea San Damaso", en: "San Damaso Courtyard",
 image: "/poi-images/vatican-san-damaso-courtyard-cities-v2.webp"
@@ -649,6 +668,7 @@ image: "/poi-images/vatican-san-damaso-courtyard-cities-v2.webp"
   },
   {
     id: "vatican-st-annes-gate-cities-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "St.-Anna-Tor", hu: "Szent Anna-kapu", ro: "Poarta Sfânta Ana", en: "Saint Anne's Gate",
 image: "/poi-images/vatican-st-annes-gate-cities-v2.webp"
@@ -682,6 +702,7 @@ image: "/poi-images/vatican-st-annes-gate-cities-v2.webp"
   },
   {
     id: "vatican-fire-station-cities-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Vatikanische Feuerwehrwache", hu: "Vatikáni Tűzoltóság", ro: "Stația de Pompieri a Vaticanului", en: "Vatican Fire Station",
 image: "/poi-images/vatican-fire-station-cities-v2.webp"
@@ -715,6 +736,7 @@ imageHint: "Vatican Fire Brigade station",
     image: "/poi-images/vatican-fire-station-cities-v2.webp",
 },  {
     id: "vatican-san-carlo-palace-cities-v2",
+    parent: "VA",
     type: "palace",
     name: { de: "Palazzo San Carlo", hu: "San Carlo-palota", ro: "Palatul San Carlo", en: "San Carlo Palace",
 image: "/poi-images/vatican-san-carlo-palace-cities-v2.webp"
@@ -748,6 +770,7 @@ imageHint: "Palazzo San Carlo Vatican City",
     image: "/poi-images/vatican-san-carlo-palace-cities-v2.webp",
 },  {
     id: "vatican-oven-square-cities-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Platz des Ofens", hu: "Forno tér", ro: "Piața Cuptorului", en: "Oven Square",
 image: "/poi-images/vatican-oven-square-cities-v2.webp"
@@ -781,6 +804,7 @@ imageHint: "Piazza del Forno Vatican City",
     image: "/poi-images/vatican-oven-square-cities-v2.webp",
 },  {
     id: "vatican-typography-street-cities-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Via della Tipografia", hu: "Tipográfia utca", ro: "Strada Tipografiei", en: "Typography Street",
 image: "/poi-images/vatican-typography-street-cities-v2.webp"
@@ -814,6 +838,7 @@ imageHint: "Via della Tipografia Vatican City",
     image: "/poi-images/vatican-typography-street-cities-v2.webp",
 },  {
     id: "vatican-bronze-door-cities-v2",
+    parent: "VA",
     type: "monument",
     name: { de: "Bronzetor", hu: "Bronzkapu", ro: "Poarta de Bronz", en: "Bronze Door",
 image: "/poi-images/vatican-bronze-door-cities-v2.webp"
@@ -847,6 +872,7 @@ imageHint: "Portone di Bronzo Vatican Swiss Guard",
     image: "/poi-images/vatican-bronze-door-cities-v2.webp",
 },  {
     id: "vatican-gendarmerie-barracks-cities-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Gendarmerie-Kaserne", hu: "Csendőrség laktanyája", ro: "Cazarma Jandarmeriei", en: "Gendarmerie Barracks",
 image: "/poi-images/vatican-gendarmerie-barracks-cities-v2.webp"
@@ -880,6 +906,7 @@ imageHint: "Gendarmeria Vaticana barracks",
     image: "/poi-images/vatican-gendarmerie-barracks-cities-v2.webp",
 },  {
     id: "vatican-santa-maria-pieta-cities-v2",
+    parent: "VA",
     type: "church",
     name: { de: "Kirche Santa Maria della Pietà", hu: "Santa Maria della Pietà templom", ro: "Biserica Santa Maria della Pietà", en: "Church of Santa Maria della Pietà",
 image: "/poi-images/vatican-santa-maria-pieta-cities-v2.webp"
@@ -913,6 +940,7 @@ imageHint: "Santa Maria della Pietà in Campo Santo Teutonico",
     image: "/poi-images/vatican-santa-maria-pieta-cities-v2.webp",
 },  {
     id: "vatican-postal-square-cities-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Platz des Postamtes", hu: "Posta tér", ro: "Piața Poștei", en: "Postal Service Square",
 image: "/poi-images/vatican-postal-square-cities-v2.webp"
@@ -943,5 +971,206 @@ image: "/poi-images/vatican-postal-square-cities-v2.webp"
       ro: ["Fondată în anul 1929", "Vinde timbre poștale exclusive", "Cod poștal propriu (00120)", "Membră a Uniunii Poștale Universale"],
       en: ["Founded in 1929", "Sells exclusive postage stamps", "Unique postal code (00120)", "Member of the Universal Postal Union"],
     },
+  }
+,
+  {
+    id: "vatican-palazzo-della-canonica-cities-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Palast der Kanoniker", hu: "Kánonoki palota", ro: "Palatul Canonicilor", en: "Canons' Palace" },
+    coordinates: { lat: 41.9019, lng: 12.4533 },
+    description: {
+      de: "Dieser monumentale Wohnkomplex beherbergt die Kanoniker des Petersdoms. Er liegt unmittelbar südlich der Basilika.",
+      hu: "Ez a monumentális lakóépület a Szent Péter-bazilika kánonokjainak ad otthont. Közvetlenül a bazilikától délre található.",
+      ro: "Acest complex rezidențial monumental găzduiește canonicii Bazilicii Sfântul Petru. Este situat imediat la sud de basilică.",
+      en: "This monumental residential complex houses the canons of St. Peter's Basilica. It is located directly south of the basilica.",
+    },
+    facts: {
+      de: ["Baujahr 1776", "Architekt Marchionni", "Wohnsitz der Kanoniker", "Südlich der Basilika"],
+      hu: ["1776-ban épült", "Carlo Marchionni műve", "Kánonokok lakhelye", "Bazilikától délre"],
+      ro: ["Construit în 1776", "Arhitect Marchionni", "Reședința canonicilor", "Sudul basilicii"],
+      en: ["Built in 1776", "Architect Marchionni", "Canons' residence", "South of basilica"],
+    },
+    imageHint: "Palazzo della Canonica Vatican exterior",
+  },
+  {
+    id: "vatican-palazzo-dell-arciprete-cities-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Palast des Erzpriesters", hu: "Arkipresbiteri palota", ro: "Palatul Arhipreotului", en: "Archpriest's Palace" },
+    coordinates: { lat: 41.9014, lng: 12.4542 },
+    description: {
+      de: "Dieses Gebäude dient als Amtssitz des Kardinal-Erzpriesters der Vatikanischen Basilika. Es befindet sich nahe dem südlichen Eingang.",
+      hu: "Ez az épület a vatikáni bazilika bíboros-arkipresbiterének hivatalos lakhelye. A déli bejárat közelében fekszik.",
+      ro: "Această clădire servește drept reședință oficială a cardinalului arhipreot al Bazilicii Vaticane. Se află lângă intrarea de sud.",
+      en: "This building serves as the official residence of the Cardinal Archpriest of the Vatican Basilica. It is located near the southern entrance.",
+    },
+    facts: {
+      de: ["Amtssitz des Erzpriesters", "Vatikanisches Staatsgebiet", "Nahe St. Petri", "Verwaltungsfunktion"],
+      hu: ["Arkipresbiter székhelye", "Vatikáni állami terület", "Szent Péter közelében", "Igazgatási funkció"],
+      ro: ["Sediul arhipreotului", "Teritoriu statal vatican", "Lângă Sfântul Petru", "Funcție administrativă"],
+      en: ["Archpriest's seat", "Vatican state territory", "Near St. Peter's", "Administrative function"],
+    },
+    imageHint: "Palazzo dell'Arciprete Vatican entrance",
+  },
+  {
+    id: "vatican-palazzo-di-sisto-v-cities-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Palast von Sixtus V.", hu: "V. Szixtusz palotája", ro: "Palatul lui Sixt al V-lea", en: "Palace of Sixtus V" },
+    coordinates: { lat: 41.9036, lng: 12.4563 },
+    description: {
+      de: "Dieser Flügel des Apostolischen Palastes dient traditionell als offizielle Residenz der Päpste. Er wurde Ende des 16. Jahrhunderts erbaut.",
+      hu: "Az Apostoli Palota ezen szárnya hagyományosan a pápák hivatalos lakhelyeként szolgál. A 16. század végén épült.",
+      ro: "Această aripă a Palatului Apostolic servește tradițional drept reședință oficială a papilor. A fost construită la sfârșitul secolului al XVI-lea.",
+      en: "This wing of the Apostolic Palace traditionally serves as the official residence of the Popes. It was built in the late 16th century.",
+    },
+    facts: {
+      de: ["Baujahr 1589", "Domenico Fontana", "Päpstliche Wohnung", "Apostolischer Palast"],
+      hu: ["1589-ben készült el", "Domenico Fontana tervezte", "Pápai lakosztályok", "Apostoli Palota része"],
+      ro: ["Finalizat în 1589", "Domenico Fontana", "Apartamente papale", "Parte a Palatului Apostolic"],
+      en: ["Completed in 1589", "Domenico Fontana", "Papal apartments", "Part of Apostolic Palace"],
+    },
+    imageHint: "Apostolic Palace Vatican Sixtus V wing",
+  },
+  {
+    id: "vatican-palazzo-di-gregorio-xiii-cities-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Palast von Gregor XIII.", hu: "XIII. Gergely palotája", ro: "Palatul lui Grigore al XIII-lea", en: "Palace of Gregory XIII" },
+    coordinates: { lat: 41.9038, lng: 12.4555 },
+    description: {
+      de: "Dieser Teil des Apostolischen Palastes umschließt den San-Damaso-Hof. Er wurde im späten 16. Jahrhundert für administrative Zwecke errichtet.",
+      hu: "Az Apostoli Palota ezen része a San Damaso-udvart öleli körül. A 16. század végén épült adminisztratív célokra.",
+      ro: "Această parte a Palatului Apostolic înconjoară curtea San Damaso. A fost construită la sfârșitul secolului al XVI-lea pentru scopuri administrative.",
+      en: "This part of the Apostolic Palace surrounds the San Damaso Courtyard. It was built in the late 16th century for administrative purposes.",
+    },
+    facts: {
+      de: ["Baujahr ca. 1575", "San-Damaso-Hof", "Verwaltungszentrum", "Renaissance-Stil"],
+      hu: ["1575 körül épült", "San Damaso-udvar", "Közigazgatási központ", "Reneszánsz stílus"],
+      ro: ["Construit cca. 1575", "Curtea San Damaso", "Centru administrativ", "Stil renascentist"],
+      en: ["Built circa 1575", "San Damaso Courtyard", "Administrative center", "Renaissance style"],
+    },
+    imageHint: "San Damaso Courtyard Vatican Palace",
+  },
+  {
+    id: "vatican-palazzo-di-innocenzo-viii-cities-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Palast von Innozenz VIII.", hu: "VIII. Ince palotája", ro: "Palatul lui Inocențiu al VIII-lea", en: "Palace of Innocent VIII" },
+    coordinates: { lat: 41.9064, lng: 12.4546 },
+    description: {
+      de: "Dieser Palast bildet den Kern der Belvedere-Anlage im Vatikan. Er wurde im 15. Jahrhundert als Sommerresidenz konzipiert.",
+      hu: "Ez a palota alkotja a vatikáni Belvedere-komplexum magját. A 15. században épült nyári rezidenciaként.",
+      ro: "Acest palat formează nucleul complexului Belvedere din Vatican. A fost conceput în secolul al XV-lea ca reședință de vară.",
+      en: "This palace forms the core of the Belvedere complex in the Vatican. It was designed in the 15th century as a summer residence.",
+    },
+    facts: {
+      de: ["Baujahr 1484", "Belvedere-Viertel", "Sommerpalast", "Frührenaissance"],
+      hu: ["1484-ben épült", "Belvedere-negyed", "Nyári palota", "Kora reneszánsz"],
+      ro: ["Construit în 1484", "Cartierul Belvedere", "Palat de vară", "Renaștere timpurie"],
+      en: ["Built in 1484", "Belvedere district", "Summer palace", "Early Renaissance"],
+    },
+    imageHint: "Vatican Belvedere Palace Innocent VIII",
+  },
+  {
+    id: "vatican-palazzo-di-paolo-v-cities-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Palast von Paul V.", hu: "V. Pál palotája", ro: "Palatul lui Paul al V-lea", en: "Palace of Paul V" },
+    coordinates: { lat: 41.9042, lng: 12.4559 },
+    description: {
+      de: "Dieser Palastflügel erweitert den Apostolischen Komplex nach Norden. Er wurde zu Beginn des 17. Jahrhunderts unter Paul V. Borghese errichtet.",
+      hu: "Ez a palotaszárny észak felé bővíti az Apostoli komplexumot. A 17. század elején épült V. Pál Borghese pápa alatt.",
+      ro: "Această aripă a palatului extinde complexul apostolic spre nord. A fost ridicată la începutul secolului al XVII-lea sub Paul al V-lea Borghese.",
+      en: "This palace wing extends the Apostolic complex to the north. It was built at the beginning of the 17th century under Paul V Borghese.",
+    },
+    facts: {
+      de: ["Barockbau", "Papst Paul V.", "Borghese-Wappen", "Apostolischer Palast"],
+      hu: ["Barokk épület", "V. Pál pápa", "Borghese-címer", "Apostoli Palota része"],
+      ro: ["Clădire barocă", "Papa Paul al V-lea", "Blazonul Borghese", "Parte a Palatului Apostolic"],
+      en: ["Baroque building", "Pope Paul V", "Borghese coat of arms", "Part of Apostolic Palace"],
+    },
+    imageHint: "Vatican Palace Paul V wing facade",
+  },
+  {
+    id: "vatican-palazzina-di-leone-xiii-cities-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Palast von Leo XIII.", hu: "XIII. Leó palotája", ro: "Palatul lui Leon al XIII-lea", en: "Palace of Leo XIII" },
+    coordinates: { lat: 41.9035, lng: 12.4518 },
+    description: {
+      de: "Dieses elegante Gebäude in den Vatikanischen Gärten wurde als Sommerresidenz für Papst Leo XIII. konzipiert.",
+      hu: "Ez az elegáns épület a Vatikáni Kertekben található, eredetileg XIII. Leó pápa nyári rezidenciájának készült.",
+      ro: "Această clădire elegantă din Grădinile Vaticane a fost concepută ca reședință de vară pentru Papa Leon al XIII-lea.",
+      en: "This elegant building in the Vatican Gardens was designed as a summer residence for Pope Leo XIII.",
+    },
+    facts: {
+      de: ["Baujahr 1891", "Vatikanische Gärten", "Sommerresidenz", "Neoklassizismus"],
+      hu: ["1891-ben épült", "Vatikáni Kertek", "Nyári rezidencia", "Neoklasszicista"],
+      ro: ["Construit în 1891", "Grădinile Vaticane", "Reședință de vară", "Neoclasicism"],
+      en: ["Built in 1891", "Vatican Gardens", "Summer residence", "Neoclassical"],
+    },
+    imageHint: "Palazzina di Leone XIII Vatican Gardens",
+  },
+  {
+    id: "vatican-palazzo-della-sacrestia-cities-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Palast der Sakristei", hu: "Sekrestye palota", ro: "Palatul Sacristiei", en: "Palace of the Sacristy" },
+    coordinates: { lat: 41.9016, lng: 12.4537 },
+    description: {
+      de: "Dieses massive Gebäude beherbergt die Sakristei von St. Peter und die Schatzkammer der Basilika. Es wurde im 18. Jahrhundert vollendet.",
+      hu: "Ez a masszív épület ad otthont a Szent Péter-bazilika sekrestyéjének és kincstárának. A 18. században fejezték be.",
+      ro: "Această clădire masivă găzduiește sacristia Sfântului Petru și tezaurul basilicii. A fost finalizată în secolul al XVIII-lea.",
+      en: "This massive building houses the sacristy of St. Peter's and the treasury of the basilica. It was completed in the 18th century.",
+    },
+    facts: {
+      de: ["Schatzkammer-Museum", "Architekt Marchionni", "Klassizismus", "Anbau an die Basilika"],
+      hu: ["Kincstári Múzeum", "Marchionni műve", "Klasszicista stílus", "Bazilika toldaléka"],
+      ro: ["Muzeul Tezaurului", "Arhitect Marchionni", "Clasicism", "Anexă la basilică"],
+      en: ["Treasury Museum", "Architect Marchionni", "Neoclassicism", "Annex to the basilica"],
+    },
+    imageHint: "Sacristy of St Peter's Vatican building",
+  },
+  {
+    id: "vatican-palazzo-del-sant-uffizio-cities-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Palast des Heiligen Offiziums", hu: "Szent Offícium palotája", ro: "Palatul Sfântului Oficiu", en: "Palace of the Holy Office" },
+    coordinates: { lat: 41.9009, lng: 12.4563 },
+    description: {
+      de: "Sitz der Glaubenskongregation, direkt an der Grenze des Vatikans gelegen. Es ist eines der bedeutendsten Verwaltungsgebäude der Kurie.",
+      hu: "A Hittani Kongregáció székhelye, közvetlenül a Vatikán határán. A Kúria egyik legjelentősebb igazgatási épülete.",
+      ro: "Sediul Congregației pentru Doctrina Credinței, situat chiar la granița Vaticanului. Este una dintre cele mai importante clădiri administrative ale Curiei.",
+      en: "Seat of the Congregation for the Doctrine of the Faith, located right on the Vatican border. It is one of the most significant administrative buildings of the Curia.",
+    },
+    facts: {
+      de: ["Sitz der DDF", "Extraterritorial", "Baujahr 1514", "Historisches Archiv"],
+      hu: ["Hittani Kongregáció", "Extraterritoriális", "1514-ben épült", "Történelmi archívum"],
+      ro: ["Sediul DDF", "Extrateritorial", "Construit în 1514", "Arhivă istorică"],
+      en: ["Seat of the DDF", "Extraterritorial", "Built in 1514", "Historical archive"],
+    },
+    imageHint: "Palazzo del Sant'Uffizio Rome Vatican border",
+  },
+  {
+    id: "vatican-palazzo-di-san-pio-x-cities-v2",
+    parent: "VA",
+    type: "palace",
+    name: { de: "Palast von Pius X.", hu: "X. Szent Piusz palotája", ro: "Palatul Sfântului Pius al X-lea", en: "Palace of St. Pius X" },
+    coordinates: { lat: 41.9026, lng: 12.4608 },
+    description: {
+      de: "Ein modernes Verwaltungsgebäude an der Via della Conciliazione. Es beherbergt verschiedene vatikanische Ministerien und Medienbüros.",
+      hu: "Modern igazgatási épület a Via della Conciliazione mentén. Különböző vatikáni minisztériumoknak és médiairodáknak ad otthont.",
+      ro: "O clădire administrativă modernă pe Via della Conciliazione. Găzduiește diverse ministere vaticane și birouri media.",
+      en: "A modern administrative building on Via della Conciliazione. It houses various Vatican ministries and media offices.",
+    },
+    facts: {
+      de: ["Baujahr 1950er", "Via Conciliazione", "Medienzentrum", "Extraterritorial"],
+      hu: ["1950-es években épült", "Via Conciliazione", "Médiaközpont", "Extraterritoriális"],
+      ro: ["Anii 1950", "Via Conciliazione", "Centru media", "Extrateritorial"],
+      en: ["1950s construction", "Via Conciliazione", "Media center", "Extraterritorial"],
+    },
+    imageHint: "Palazzo di San Pio X Via della Conciliazione",
   }
 ];

@@ -3,6 +3,7 @@ export const ukraineCitiesV2: POI[] = [
 
   {
     id: "ukraine-kyiv-cities-v2",
+    parent: "UA",
     type: "capital",
     name: { de: "Kiew", hu: "Kijev", ro: "Kiev", en: "Kyiv",
 image: "/poi-images/ukraine-kyiv-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Aerial view of Kyiv city center and Dnieper river",
     image: "/poi-images/ukraine-kyiv-cities-v2.webp",
 },  {
     id: "ukraine-kharkiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Charkiw", hu: "Harkiv", ro: "Harkov", en: "Kharkiv",
 image: "/poi-images/ukraine-kharkiv-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Freedom Square and Derzhprom building in Kharkiv",
     image: "/poi-images/ukraine-kharkiv-cities-v2.webp",
 },  {
     id: "ukraine-odesa-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Odessa", hu: "Odessza", ro: "Odesa", en: "Odesa",
 image: "/poi-images/ukraine-odesa-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Odesa Opera House and city streets",
     image: "/poi-images/ukraine-odesa-cities-v2.webp",
 },  {
     id: "ukraine-dnipro-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Dnipro", hu: "Dnipro", ro: "Dnipro", en: "Dnipro",
 image: "/poi-images/ukraine-dnipro-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Dnipro skyline and the Dnieper river",
     image: "/poi-images/ukraine-dnipro-cities-v2.webp",
 },  {
     id: "ukraine-donetsk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Donezk", hu: "Doneck", ro: "Donețk", en: "Donetsk",
 image: "/poi-images/ukraine-donetsk-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Donetsk city skyline and roses in park",
     image: "/poi-images/ukraine-donetsk-cities-v2.webp",
 },  {
     id: "ukraine-zaporizhzhia-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Saporischschja", hu: "Zaporizzsja", ro: "Zaporijjea", en: "Zaporizhzhia",
 image: "/poi-images/ukraine-zaporizhzhia-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Zaporizhzhia hydroelectric dam and Dnieper river",
     image: "/poi-images/ukraine-zaporizhzhia-cities-v2.webp",
 },  {
     id: "ukraine-lviv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Lwiw", hu: "Lviv", ro: "Liov", en: "Lviv",
 image: "/poi-images/ukraine-lviv-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Lviv Rynok Square and historical architecture",
     image: "/poi-images/ukraine-lviv-cities-v2.webp",
 },  {
     id: "ukraine-kryvyi-rih-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Krywyj Rih", hu: "Krivij Rih", ro: "Krîvîi Rih", en: "Kryvyi Rih",
 image: "/poi-images/ukraine-kryvyi-rih-cities-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     image: "/poi-images/ukraine-kryvyi-rih-cities-v2.webp",
 },  {
     id: "ukraine-mykolaiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Mykolajiw", hu: "Mikolajiv", ro: "Nikolaev", en: "Mykolaiv",
 image: "/poi-images/ukraine-mykolaiv-cities-v2.webp"
@@ -297,6 +306,7 @@ image: "/poi-images/ukraine-mykolaiv-cities-v2.webp"
     image: "/poi-images/ukraine-mykolaiv-cities-v2.webp"},
   {
     id: "ukraine-mariupol-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Mariupol", hu: "Mariupol", ro: "Mariupol", en: "Mariupol",
 image: "/poi-images/ukraine-mariupol-cities-v2.webp"
@@ -319,6 +329,7 @@ image: "/poi-images/ukraine-mariupol-cities-v2.webp"
     image: "/poi-images/ukraine-mariupol-cities-v2.webp"},
   {
     id: "ukraine-luhansk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Luhansk", hu: "Luhanszk", ro: "Lugansk", en: "Luhansk",
 image: "/poi-images/ukraine-luhansk-cities-v2.webp"
@@ -341,6 +352,7 @@ image: "/poi-images/ukraine-luhansk-cities-v2.webp"
     image: "/poi-images/ukraine-luhansk-cities-v2.webp"},
   {
     id: "ukraine-vinnytsia-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Winnyzja", hu: "Vinnicja", ro: "Vinița", en: "Vinnytsia",
 image: "/poi-images/ukraine-vinnytsia-cities-v2.webp"
@@ -363,6 +375,7 @@ image: "/poi-images/ukraine-vinnytsia-cities-v2.webp"
     image: "/poi-images/ukraine-vinnytsia-cities-v2.webp"},
   {
     id: "ukraine-makiivka-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Makijiwka", hu: "Makijivka", ro: "Makievka", en: "Makiivka",
 image: "/poi-images/ukraine-makiivka-cities-v2.webp"
@@ -385,6 +398,7 @@ image: "/poi-images/ukraine-makiivka-cities-v2.webp"
     image: "/poi-images/ukraine-makiivka-cities-v2.webp"},
   {
     id: "ukraine-sevastopol-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Sewastopol", hu: "Szevasztopol", ro: "Sevastopol", en: "Sevastopol",
 image: "/poi-images/ukraine-sevastopol-cities-v2.webp"
@@ -407,6 +421,7 @@ image: "/poi-images/ukraine-sevastopol-cities-v2.webp"
     image: "/poi-images/ukraine-sevastopol-cities-v2.webp"},
   {
     id: "ukraine-simferopol-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Simferopol", hu: "Szimferopol", ro: "Simferopol", en: "Simferopol",
 image: "/poi-images/ukraine-simferopol-cities-v2.webp"
@@ -429,6 +444,7 @@ image: "/poi-images/ukraine-simferopol-cities-v2.webp"
     image: "/poi-images/ukraine-simferopol-cities-v2.webp"},
   {
     id: "ukraine-kherson-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Cherson", hu: "Herszon", ro: "Herson", en: "Kherson",
 image: "/poi-images/ukraine-kherson-cities-v2.webp"
@@ -451,6 +467,7 @@ image: "/poi-images/ukraine-kherson-cities-v2.webp"
     image: "/poi-images/ukraine-kherson-cities-v2.webp"},
   {
     id: "ukraine-poltava-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Poltawa", hu: "Poltava", ro: "Poltava", en: "Poltava",
 image: "/poi-images/ukraine-poltava-cities-v2.webp"
@@ -473,6 +490,7 @@ image: "/poi-images/ukraine-poltava-cities-v2.webp"
     image: "/poi-images/ukraine-poltava-cities-v2.webp"},
   {
     id: "ukraine-chernihiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Tschernihiw", hu: "Csernyihiv", ro: "Cernigău", en: "Chernihiv",
 image: "/poi-images/ukraine-chernihiv-cities-v2.webp"
@@ -495,6 +513,7 @@ image: "/poi-images/ukraine-chernihiv-cities-v2.webp"
     image: "/poi-images/ukraine-chernihiv-cities-v2.webp"},
   {
     id: "ukraine-cherkasy-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Tscherkassy", hu: "Cserkaszi", ro: "Cerkasî", en: "Cherkasy",
 image: "/poi-images/ukraine-cherkasy-cities-v2.webp"
@@ -517,6 +536,7 @@ image: "/poi-images/ukraine-cherkasy-cities-v2.webp"
     image: "/poi-images/ukraine-cherkasy-cities-v2.webp"},
   {
     id: "ukraine-sumy-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Sumy", hu: "Szumi", ro: "Sumî", en: "Sumy",
 image: "/poi-images/ukraine-sumy-cities-v2.webp"
@@ -539,6 +559,7 @@ image: "/poi-images/ukraine-sumy-cities-v2.webp"
     image: "/poi-images/ukraine-sumy-cities-v2.webp"},
   {
     id: "ukraine-zhytomyr-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Schytomyr", hu: "Zsitomir", ro: "Jitomir", en: "Zhytomyr",
 image: "/poi-images/ukraine-zhytomyr-cities-v2.webp"
@@ -561,6 +582,7 @@ image: "/poi-images/ukraine-zhytomyr-cities-v2.webp"
     image: "/poi-images/ukraine-zhytomyr-cities-v2.webp"},
   {
     id: "ukraine-horlivka-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Horliwka", hu: "Horlivka", ro: "Gorlovka", en: "Horlivka",
 image: "/poi-images/ukraine-horlivka-cities-v2.webp"
@@ -583,6 +605,7 @@ image: "/poi-images/ukraine-horlivka-cities-v2.webp"
     image: "/poi-images/ukraine-horlivka-cities-v2.webp"},
   {
     id: "ukraine-rivne-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Riwne", hu: "Rivne", ro: "Rivne", en: "Rivne",
 image: "/poi-images/ukraine-rivne-cities-v2.webp"
@@ -605,6 +628,7 @@ image: "/poi-images/ukraine-rivne-cities-v2.webp"
     image: "/poi-images/ukraine-rivne-cities-v2.webp"},
   {
     id: "ukraine-kamianske-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kamjanske", hu: "Kamjanszke", ro: "Kamianske", en: "Kamianske",
 image: "/poi-images/ukraine-kamianske-cities-v2.webp"
@@ -627,6 +651,7 @@ image: "/poi-images/ukraine-kamianske-cities-v2.webp"
     image: "/poi-images/ukraine-kamianske-cities-v2.webp"},
   {
     id: "ukraine-kropyvnytskyi-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kropywnyzkyj", hu: "Kropivnickij", ro: "Kropîvnîțkîi", en: "Kropyvnytskyi",
 image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp"
@@ -649,6 +674,7 @@ image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp"
     image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp"},
   {
     id: "ukraine-chernivtsi-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Tscherniwzi", hu: "Csernyivci", ro: "Cernăuți", en: "Chernivtsi",
 image: "/poi-images/ukraine-chernivtsi-cities-v2.webp"
@@ -671,6 +697,7 @@ image: "/poi-images/ukraine-chernivtsi-cities-v2.webp"
     image: "/poi-images/ukraine-chernivtsi-cities-v2.webp"},
   {
     id: "ukraine-kremenchuk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Krementschuk", hu: "Kremencsuk", ro: "Kremenciuk", en: "Kremenchuk",
 image: "/poi-images/ukraine-kremenchuk-cities-v2.webp"
@@ -693,6 +720,7 @@ image: "/poi-images/ukraine-kremenchuk-cities-v2.webp"
     image: "/poi-images/ukraine-kremenchuk-cities-v2.webp"},
   {
     id: "ukraine-ternopil-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Ternopil", hu: "Ternopil", ro: "Ternopil", en: "Ternopil",
 image: "/poi-images/ukraine-ternopil-cities-v2.webp"
@@ -715,6 +743,7 @@ image: "/poi-images/ukraine-ternopil-cities-v2.webp"
     image: "/poi-images/ukraine-ternopil-cities-v2.webp"},
   {
     id: "ukraine-lutsk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Luzk", hu: "Luck", ro: "Luțk", en: "Lutsk",
 image: "/poi-images/ukraine-lutsk-cities-v2.webp"
@@ -737,6 +766,7 @@ image: "/poi-images/ukraine-lutsk-cities-v2.webp"
     image: "/poi-images/ukraine-lutsk-cities-v2.webp"},
   {
     id: "ukraine-bila-tserkva-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Bila Zerkwa", hu: "Bila Cerkva", ro: "Bila Țerkva", en: "Bila Tserkva",
 image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp"
@@ -759,6 +789,7 @@ image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp"
     image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp"},
   {
     id: "ukraine-kramatorsk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kramatorsk", hu: "Kramatorszk", ro: "Kramatorsk", en: "Kramatorsk",
 image: "/poi-images/ukraine-kramatorsk-cities-v2.webp"
@@ -781,6 +812,7 @@ image: "/poi-images/ukraine-kramatorsk-cities-v2.webp"
     image: "/poi-images/ukraine-kramatorsk-cities-v2.webp"},
   {
     id: "ukraine-melitopol-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Melitopol", hu: "Melitopol", ro: "Melitopol", en: "Melitopol",
 image: "/poi-images/ukraine-melitopol-cities-v2.webp"
@@ -803,6 +835,7 @@ image: "/poi-images/ukraine-melitopol-cities-v2.webp"
     image: "/poi-images/ukraine-melitopol-cities-v2.webp"},
   {
     id: "ukraine-kerch-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kertsch", hu: "Kercs", ro: "Kerci", en: "Kerch",
 image: "/poi-images/ukraine-kerch-cities-v2.webp"
@@ -825,6 +858,7 @@ image: "/poi-images/ukraine-kerch-cities-v2.webp"
     image: "/poi-images/ukraine-kerch-cities-v2.webp"},
   {
     id: "ukraine-nikopol-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Nikopol", hu: "Nyikopol", ro: "Nikopol", en: "Nikopol",
 image: "/poi-images/ukraine-nikopol-cities-v2.webp"
@@ -847,6 +881,7 @@ image: "/poi-images/ukraine-nikopol-cities-v2.webp"
     image: "/poi-images/ukraine-nikopol-cities-v2.webp"},
   {
     id: "ukraine-sloviansk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Slowjansk", hu: "Szlovjanszk", ro: "Sloviansk", en: "Sloviansk",
 image: "/poi-images/ukraine-sloviansk-cities-v2.webp"
@@ -869,6 +904,7 @@ image: "/poi-images/ukraine-sloviansk-cities-v2.webp"
     image: "/poi-images/ukraine-sloviansk-cities-v2.webp"},
   {
     id: "ukraine-berdiansk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Berdjansk", hu: "Bergyanszk", ro: "Berdiansk", en: "Berdiansk",
 image: "/poi-images/ukraine-berdiansk-cities-v2.webp"
@@ -891,6 +927,7 @@ image: "/poi-images/ukraine-berdiansk-cities-v2.webp"
     image: "/poi-images/ukraine-berdiansk-cities-v2.webp"},
   {
     id: "ukraine-sieverodonetsk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Sjewjerodonezk", hu: "Szjevjerodoneck", ro: "Severodonețk", en: "Sievierodonetsk",
 image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp"
@@ -913,6 +950,7 @@ image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp"
     image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp"},
   {
     id: "ukraine-alchevsk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Altschewsk", hu: "Alcsevszk", ro: "Alcevsk", en: "Alchevsk",
 image: "/poi-images/ukraine-alchevsk-cities-v2.webp"
@@ -935,6 +973,7 @@ image: "/poi-images/ukraine-alchevsk-cities-v2.webp"
     image: "/poi-images/ukraine-alchevsk-cities-v2.webp"},
   {
     id: "ukraine-pavlohrad-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Pawlohrad", hu: "Pavlohrad", ro: "Pavlohrad", en: "Pavlohrad",
 image: "/poi-images/ukraine-pavlohrad-cities-v2.webp"
@@ -957,6 +996,7 @@ image: "/poi-images/ukraine-pavlohrad-cities-v2.webp"
     image: "/poi-images/ukraine-pavlohrad-cities-v2.webp"},
   {
     id: "ukraine-uzhhorod-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Uschhorod", hu: "Ungvár", ro: "Ujhorod", en: "Uzhhorod",
 image: "/poi-images/ukraine-uzhhorod-cities-v2.webp"
@@ -979,6 +1019,7 @@ image: "/poi-images/ukraine-uzhhorod-cities-v2.webp"
     image: "/poi-images/ukraine-uzhhorod-cities-v2.webp"},
   {
     id: "ukraine-lysychansk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Lyssytschansk", hu: "Liszicsanszk", ro: "Lisiciansk", en: "Lysychansk",
 image: "/poi-images/ukraine-lysychansk-cities-v2.webp"
@@ -1001,6 +1042,7 @@ image: "/poi-images/ukraine-lysychansk-cities-v2.webp"
     image: "/poi-images/ukraine-lysychansk-cities-v2.webp"},
   {
     id: "ukraine-yevpatoria-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Jewpatorija", hu: "Jevpatorija", ro: "Eupatoria", en: "Yevpatoria",
 image: "/poi-images/ukraine-yevpatoria-cities-v2.webp"
@@ -1023,6 +1065,7 @@ image: "/poi-images/ukraine-yevpatoria-cities-v2.webp"
     image: "/poi-images/ukraine-yevpatoria-cities-v2.webp"},
   {
     id: "ukraine-yenakiieve-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Jenakijewe", hu: "Jenakijeve", ro: "Enakievo", en: "Yenakiieve",
 image: "/poi-images/ukraine-yenakiieve-cities-v2.webp"
@@ -1045,6 +1088,7 @@ image: "/poi-images/ukraine-yenakiieve-cities-v2.webp"
     image: "/poi-images/ukraine-yenakiieve-cities-v2.webp"},
   {
     id: "ukraine-kamianets-podilskyi-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kamjanez-Podilskyj", hu: "Kamjanec-Pogyilszkij", ro: "Kameneț-Podolsk", en: "Kamianets-Podilskyi",
 image: "/poi-images/ukraine-kamianets-podilskyi-cities-v2.webp"
@@ -1067,6 +1111,7 @@ image: "/poi-images/ukraine-kamianets-podilskyi-cities-v2.webp"
     image: "/poi-images/ukraine-kamianets-podilskyi-cities-v2.webp"},
   {
     id: "ukraine-kostiantynivka-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kostjantyniwka", hu: "Kosztyantinyivka", ro: "Kostiantînivka", en: "Kostiantynivka",
 image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp"
@@ -1089,6 +1134,7 @@ image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp"
     image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp"},
   {
     id: "ukraine-krasnyi-luch-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Chrustalnyj", hu: "Hrusztalnij", ro: "Hrustalnîi", en: "Khrustalnyi",
 image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp"
@@ -1111,6 +1157,7 @@ image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp"
     image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp"},
   {
     id: "ukraine-oleksandriia-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Oleksandrija", hu: "Olekszandrija", ro: "Oleksandria", en: "Oleksandriia",
 image: "/poi-images/ukraine-oleksandriia-cities-v2.webp"
@@ -1133,6 +1180,7 @@ image: "/poi-images/ukraine-oleksandriia-cities-v2.webp"
     image: "/poi-images/ukraine-oleksandriia-cities-v2.webp"},
   {
     id: "ukraine-konotop-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Konotop", hu: "Konotop", ro: "Konotop", en: "Konotop",
 image: "/poi-images/ukraine-konotop-cities-v2.webp"
@@ -1155,6 +1203,7 @@ image: "/poi-images/ukraine-konotop-cities-v2.webp"
     image: "/poi-images/ukraine-konotop-cities-v2.webp"},
   {
     id: "ukraine-kadiivka-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kadijiwka", hu: "Kagyiivka", ro: "Kadiivka", en: "Kadiivka",
 image: "/poi-images/ukraine-kadiivka-cities-v2.webp"
@@ -1177,6 +1226,7 @@ image: "/poi-images/ukraine-kadiivka-cities-v2.webp"
     image: "/poi-images/ukraine-kadiivka-cities-v2.webp"},
   {
     id: "ukraine-uman-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Uman", hu: "Umany", ro: "Uman", en: "Uman",
 image: "/poi-images/ukraine-uman-cities-v2.webp"
@@ -1199,6 +1249,7 @@ image: "/poi-images/ukraine-uman-cities-v2.webp"
     image: "/poi-images/ukraine-uman-cities-v2.webp"},
   {
     id: "ukraine-berdychiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Berdytschiw", hu: "Bergyicsiv", ro: "Berdicev", en: "Berdychiv",
 image: "/poi-images/ukraine-berdychiv-cities-v2.webp"
@@ -1221,6 +1272,7 @@ image: "/poi-images/ukraine-berdychiv-cities-v2.webp"
     image: "/poi-images/ukraine-berdychiv-cities-v2.webp"},
   {
     id: "ukraine-shostka-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Schostka", hu: "Szosztka", ro: "Șostka", en: "Shostka",
 image: "/poi-images/ukraine-shostka-cities-v2.webp"
@@ -1243,6 +1295,7 @@ image: "/poi-images/ukraine-shostka-cities-v2.webp"
     image: "/poi-images/ukraine-shostka-cities-v2.webp"},
   {
     id: "ukraine-brovary-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Browary", hu: "Brovari", ro: "Brovarî", en: "Brovary",
 image: "/poi-images/ukraine-brovary-cities-v2.webp"
@@ -1265,6 +1318,7 @@ image: "/poi-images/ukraine-brovary-cities-v2.webp"
     image: "/poi-images/ukraine-brovary-cities-v2.webp"},
   {
     id: "ukraine-izmail-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Ismajil", hu: "Izmajil", ro: "Ismail", en: "Izmail",
 image: "/poi-images/ukraine-izmail-cities-v2.webp"
@@ -1287,6 +1341,7 @@ image: "/poi-images/ukraine-izmail-cities-v2.webp"
     image: "/poi-images/ukraine-izmail-cities-v2.webp"},
   {
     id: "ukraine-bakhmut-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Bachmut", hu: "Bahmut", ro: "Bahmut", en: "Bakhmut",
 image: "/poi-images/ukraine-bakhmut-cities-v2.webp"
@@ -1309,6 +1364,7 @@ image: "/poi-images/ukraine-bakhmut-cities-v2.webp"
     image: "/poi-images/ukraine-bakhmut-cities-v2.webp"},
   {
     id: "ukraine-mukachevo-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Mukatschewo", hu: "Munkács", ro: "Mukacevo", en: "Mukachevo",
 image: "/poi-images/ukraine-mukachevo-cities-v2.webp"
@@ -1331,6 +1387,7 @@ image: "/poi-images/ukraine-mukachevo-cities-v2.webp"
     image: "/poi-images/ukraine-mukachevo-cities-v2.webp"},
   {
     id: "ukraine-drohobych-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Drohobytsch", hu: "Drohobics", ro: "Drogobîci", en: "Drohobych",
 image: "/poi-images/ukraine-drohobych-cities-v2.webp"
@@ -1353,6 +1410,7 @@ image: "/poi-images/ukraine-drohobych-cities-v2.webp"
     image: "/poi-images/ukraine-drohobych-cities-v2.webp"},
   {
     id: "ukraine-yalta-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Jalta", hu: "Jalta", ro: "Ialta", en: "Yalta",
 image: "/poi-images/ukraine-yalta-cities-v2.webp"
@@ -1375,6 +1433,7 @@ image: "/poi-images/ukraine-yalta-cities-v2.webp"
     image: "/poi-images/ukraine-yalta-cities-v2.webp"},
   {
     id: "ukraine-nizhyn-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Nischyn", hu: "Nyizsin", ro: "Nijîn", en: "Nizhyn",
 image: "/poi-images/ukraine-nizhyn-cities-v2.webp"
@@ -1397,6 +1456,7 @@ image: "/poi-images/ukraine-nizhyn-cities-v2.webp"
     image: "/poi-images/ukraine-nizhyn-cities-v2.webp"},
   {
     id: "ukraine-fastiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Fastiw", hu: "Fasztiv", ro: "Fastiv", en: "Fastiv",
 image: "/poi-images/ukraine-fastiv-cities-v2.webp"
@@ -1419,6 +1479,7 @@ image: "/poi-images/ukraine-fastiv-cities-v2.webp"
     image: "/poi-images/ukraine-fastiv-cities-v2.webp"},
   {
     id: "ukraine-smila-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Smila", hu: "Szmila", ro: "Smila", en: "Smila",
 image: "/poi-images/ukraine-smila-cities-v2.webp"
@@ -1441,6 +1502,7 @@ image: "/poi-images/ukraine-smila-cities-v2.webp"
     image: "/poi-images/ukraine-smila-cities-v2.webp"},
   {
     id: "ukraine-izium-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Isjum", hu: "Izjum", ro: "Izium", en: "Izium",
 image: "/poi-images/ukraine-izium-cities-v2.webp"
@@ -1463,6 +1525,7 @@ image: "/poi-images/ukraine-izium-cities-v2.webp"
     image: "/poi-images/ukraine-izium-cities-v2.webp"},
   {
     id: "ukraine-kalush-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kalusch", hu: "Kalus", ro: "Kaluș", en: "Kalush",
 image: "/poi-images/ukraine-kalush-cities-v2.webp"
@@ -1485,6 +1548,7 @@ image: "/poi-images/ukraine-kalush-cities-v2.webp"
     image: "/poi-images/ukraine-kalush-cities-v2.webp"},
   {
     id: "ukraine-lubny-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Lubny", hu: "Lubni", ro: "Lubnî", en: "Lubny",
 image: "/poi-images/ukraine-lubny-cities-v2.webp"
@@ -1507,6 +1571,7 @@ image: "/poi-images/ukraine-lubny-cities-v2.webp"
     image: "/poi-images/ukraine-lubny-cities-v2.webp"},
   {
     id: "ukraine-shovti-vody-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Schowti Wody", hu: "Zsovti Vogyi", ro: "Jovti Vodî", en: "Zhovti Vody",
 image: "/poi-images/ukraine-shovti-vody-cities-v2.webp"
@@ -1529,6 +1594,7 @@ image: "/poi-images/ukraine-shovti-vody-cities-v2.webp"
     image: "/poi-images/ukraine-shovti-vody-cities-v2.webp"},
   {
     id: "ukraine-pryluky-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Pryluky", hu: "Priluki", ro: "Prîlukî", en: "Pryluky",
 image: "/poi-images/ukraine-pryluky-cities-v2.webp"
@@ -1551,6 +1617,7 @@ image: "/poi-images/ukraine-pryluky-cities-v2.webp"
     image: "/poi-images/ukraine-pryluky-cities-v2.webp"},
   {
     id: "ukraine-korsun-shevchenkivskyi-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Korsun-Schewtschenkiwskyj", hu: "Korszun-Sevcsenkivszkij", ro: "Korsun-Șevcenkivskîi", en: "Korsun-Shevchenkivskyi",
 image: "/poi-images/ukraine-korsun-shevchenkivskyi-cities-v2.webp"
@@ -1573,6 +1640,7 @@ image: "/poi-images/ukraine-korsun-shevchenkivskyi-cities-v2.webp"
     image: "/poi-images/ukraine-korsun-shevchenkivskyi-cities-v2.webp"},
   {
     id: "ukraine-lozvaya-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Losowa", hu: "Lozova", ro: "Lozova", en: "Lozova",
 image: "/poi-images/ukraine-lozvaya-cities-v2.webp"
@@ -1595,6 +1663,7 @@ image: "/poi-images/ukraine-lozvaya-cities-v2.webp"
     image: "/poi-images/ukraine-lozvaya-cities-v2.webp"},
   {
     id: "ukraine-novomoskovsk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Nowomoskowsk", hu: "Novomoszkivszk", ro: "Novomoskovsk", en: "Novomoskovsk",
 image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp"
@@ -1617,6 +1686,7 @@ image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp"
     image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp"},
   {
     id: "ukraine-pokrovsk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Pokrowsk", hu: "Pokrovszk", ro: "Pokrovsk", en: "Pokrovsk",
 image: "/poi-images/ukraine-pokrovsk-cities-v2.webp"
@@ -1639,6 +1709,7 @@ image: "/poi-images/ukraine-pokrovsk-cities-v2.webp"
     image: "/poi-images/ukraine-pokrovsk-cities-v2.webp"},
   {
     id: "ukraine-rubizhne-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Rubischne", hu: "Rubizsne", ro: "Rubijne", en: "Rubizhne",
 image: "/poi-images/ukraine-rubizhne-cities-v2.webp"
@@ -1661,6 +1732,7 @@ image: "/poi-images/ukraine-rubizhne-cities-v2.webp"
     image: "/poi-images/ukraine-rubizhne-cities-v2.webp"},
   {
     id: "ukraine-drogobych-salt-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Drohobytsch-Salzstadt", hu: "Drohobics-sóváros", ro: "Drogobîci-Săreni", en: "Drohobych Salt-Town",
 image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp"
@@ -1683,6 +1755,7 @@ image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp"
     image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp"},
   {
     id: "ukraine-stryi-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Stryj", hu: "Sztrij", ro: "Strîi", en: "Stryi",
 image: "/poi-images/ukraine-stryi-cities-v2.webp"
@@ -1705,6 +1778,7 @@ image: "/poi-images/ukraine-stryi-cities-v2.webp"
     image: "/poi-images/ukraine-stryi-cities-v2.webp"},
   {
     id: "ukraine-kolomyia-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kolomyja", hu: "Kolomija", ro: "Colomeea", en: "Kolomyia",
 image: "/poi-images/ukraine-kolomyia-cities-v2.webp"
@@ -1727,6 +1801,7 @@ image: "/poi-images/ukraine-kolomyia-cities-v2.webp"
     image: "/poi-images/ukraine-kolomyia-cities-v2.webp"},
   {
     id: "ukraine-poryv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Warasch", hu: "Varas", ro: "Varaș", en: "Varash",
 image: "/poi-images/ukraine-poryv-cities-v2.webp"
@@ -1749,6 +1824,7 @@ image: "/poi-images/ukraine-poryv-cities-v2.webp"
     image: "/poi-images/ukraine-poryv-cities-v2.webp"},
   {
     id: "ukraine-shostka-powder-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Schostka-Industriestadt", hu: "Szosztka-iparváros", ro: "Șostka-Industrial", en: "Shostka-Industrial",
 image: "/poi-images/ukraine-shostka-powder-cities-v2.webp"
@@ -1771,6 +1847,7 @@ image: "/poi-images/ukraine-shostka-powder-cities-v2.webp"
     image: "/poi-images/ukraine-shostka-powder-cities-v2.webp"},
   {
     id: "ukraine-netishyn-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Netischyn", hu: "Netisin", ro: "Netișîn", en: "Netishyn",
 image: "/poi-images/ukraine-netishyn-cities-v2.webp"
@@ -1793,6 +1870,7 @@ image: "/poi-images/ukraine-netishyn-cities-v2.webp"
     image: "/poi-images/ukraine-netishyn-cities-v2.webp"},
   {
     id: "ukraine-enerhodar-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Enerhodar", hu: "Enerhodar", ro: "Enerhodar", en: "Enerhodar",
 image: "/poi-images/ukraine-enerhodar-cities-v2.webp"
@@ -1815,6 +1893,7 @@ image: "/poi-images/ukraine-enerhodar-cities-v2.webp"
     image: "/poi-images/ukraine-enerhodar-cities-v2.webp"},
   {
     id: "ukraine-shuzhhorod-sakura-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Uschhorod-Sakurastadt", hu: "Ungvár-szakuraváros", ro: "Ujhorod-Sakura", en: "Uzhhorod Sakura-Town",
 image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp"
@@ -1837,6 +1916,7 @@ image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp"
     image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp"},
   {
     id: "ukraine-morshyn-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Morschyn", hu: "Morsin", ro: "Morșîn", en: "Morshyn",
 image: "/poi-images/ukraine-morshyn-cities-v2.webp"
@@ -1859,6 +1939,7 @@ image: "/poi-images/ukraine-morshyn-cities-v2.webp"
     image: "/poi-images/ukraine-morshyn-cities-v2.webp"},
   {
     id: "ukraine-truskavets-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Truskawez", hu: "Truszkavec", ro: "Truskaveț", en: "Truskavets",
 image: "/poi-images/ukraine-truskavets-cities-v2.webp"
@@ -1881,6 +1962,7 @@ image: "/poi-images/ukraine-truskavets-cities-v2.webp"
     image: "/poi-images/ukraine-truskavets-cities-v2.webp"},
   {
     id: "ukraine-chornomorsk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Tschornomorsk", hu: "Csornomorszk", ro: "Ciornomorsk", en: "Chornomorsk",
 image: "/poi-images/ukraine-chornomorsk-cities-v2.webp"
@@ -1903,6 +1985,7 @@ image: "/poi-images/ukraine-chornomorsk-cities-v2.webp"
     image: "/poi-images/ukraine-chornomorsk-cities-v2.webp"},
   {
     id: "ukraine-bilhorod-dnistrovskyi-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Bilhorod-Dnistrowskyj", hu: "Bilhorod-Dnyisztrovszkij", ro: "Cetatea Albă", en: "Bilhorod-Dnistrovskyi",
 image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp"
@@ -1925,6 +2008,7 @@ image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp"
     image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp"},
   {
     id: "ukraine-kaniv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kaniw", hu: "Kanyiv", ro: "Kaniv", en: "Kaniv",
 image: "/poi-images/ukraine-kaniv-cities-v2.webp"
@@ -1947,6 +2031,7 @@ image: "/poi-images/ukraine-kaniv-cities-v2.webp"
     image: "/poi-images/ukraine-kaniv-cities-v2.webp"},
   {
     id: "ukraine-hlukhiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Hluchiw", hu: "Hluhiv", ro: "Hluhiv", en: "Hlukhiv",
 image: "/poi-images/ukraine-hlukhiv-cities-v2.webp"
@@ -1969,6 +2054,7 @@ image: "/poi-images/ukraine-hlukhiv-cities-v2.webp"
     image: "/poi-images/ukraine-hlukhiv-cities-v2.webp"},
   {
     id: "ukraine-vylkove-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Wylkowe", hu: "Vilkovo", ro: "Vâlcov", en: "Vylkove",
 image: "/poi-images/ukraine-vylkove-cities-v2.webp"
@@ -1991,6 +2077,7 @@ image: "/poi-images/ukraine-vylkove-cities-v2.webp"
     image: "/poi-images/ukraine-vylkove-cities-v2.webp"},
   {
     id: "ukraine-shhovkva-ideal-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Schowkwa-Idealstadt", hu: "Zsovkva-ideális város", ro: "Jovkva-Ideal", en: "Zhovkva Ideal-City",
 image: "/poi-images/ukraine-shhovkva-ideal-cities-v2.webp"
@@ -2013,6 +2100,7 @@ image: "/poi-images/ukraine-shhovkva-ideal-cities-v2.webp"
     image: "/poi-images/ukraine-shhovkva-ideal-cities-v2.webp"},
   {
     id: "ukraine-chuhuiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Tschuhujiw", hu: "Csuhujiv", ro: "Ciuhuiv", en: "Chuhuiv",
 image: "/poi-images/ukraine-chuhuiv-cities-v2.webp"
@@ -2035,6 +2123,7 @@ image: "/poi-images/ukraine-chuhuiv-cities-v2.webp"
     image: "/poi-images/ukraine-chuhuiv-cities-v2.webp"},
   {
     id: "ukraine-pereiaslav-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Perejaslaw", hu: "Perejaszlav", ro: "Pereiaslav", en: "Pereiaslav",
 image: "/poi-images/ukraine-pereiaslav-cities-v2.webp"
@@ -2057,6 +2146,7 @@ image: "/poi-images/ukraine-pereiaslav-cities-v2.webp"
     image: "/poi-images/ukraine-pereiaslav-cities-v2.webp"},
   {
     id: "ukraine-shytomyr-space-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Schytomyr-Raumfahrtstadt", hu: "Zsitomir-űrűrváros", ro: "Jitomir-Cosmos", en: "Zhytomyr Space-Town",
 image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp"
@@ -2079,6 +2169,7 @@ image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp"
     image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp"},
   {
     id: "ukraine-boyarka-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Bojarka", hu: "Bojarka", ro: "Boiarka", en: "Boyarka",
 image: "/poi-images/ukraine-boyarka-cities-v2.webp"
@@ -2101,6 +2192,7 @@ image: "/poi-images/ukraine-boyarka-cities-v2.webp"
     image: "/poi-images/ukraine-boyarka-cities-v2.webp"},
   {
     id: "ukraine-vasylkiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Wasylkiw", hu: "Vaszilkiv", ro: "Vasîlkiv", en: "Vasylkiv",
 image: "/poi-images/ukraine-vasylkiv-cities-v2.webp"
@@ -2123,6 +2215,7 @@ image: "/poi-images/ukraine-vasylkiv-cities-v2.webp"
     image: "/poi-images/ukraine-vasylkiv-cities-v2.webp"},
   {
     id: "ukraine-izmail-danube-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Ismajil-Donaustadt", hu: "Izmajil-dunaváros", ro: "Ismail-Dunăre", en: "Izmail Danube-City",
 image: "/poi-images/ukraine-izmail-danube-cities-v2.webp"
@@ -2146,6 +2239,7 @@ image: "/poi-images/ukraine-izmail-danube-cities-v2.webp"
 ,
   {
     id: "ukraine-irpin-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Irpin", hu: "Irpiny", ro: "Irpin", en: "Irpin",
 image: "/poi-images/ukraine-irpin-cities-v2.webp"
@@ -2167,6 +2261,7 @@ image: "/poi-images/ukraine-irpin-cities-v2.webp"
   },
   {
     id: "ukraine-bucha-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Butscha", hu: "Bucsa", ro: "Bucea", en: "Bucha",
 image: "/poi-images/ukraine-bucha-cities-v2.webp"
@@ -2188,6 +2283,7 @@ image: "/poi-images/ukraine-bucha-cities-v2.webp"
   },
   {
     id: "ukraine-boryspil-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Boryspil", hu: "Boriszpil", ro: "Borispil", en: "Boryspil",
 image: "/poi-images/ukraine-boryspil-cities-v2.webp"
@@ -2209,6 +2305,7 @@ image: "/poi-images/ukraine-boryspil-cities-v2.webp"
   },
   {
     id: "ukraine-zviahel-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Zviahel", hu: "Zviahel", ro: "Zviahel", en: "Zviahel",
 image: "/poi-images/ukraine-zviahel-cities-v2.webp"
@@ -2230,6 +2327,7 @@ image: "/poi-images/ukraine-zviahel-cities-v2.webp"
   },
   {
     id: "ukraine-korosten-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Korosten", hu: "Koroszteny", ro: "Korosten", en: "Korosten",
 image: "/poi-images/ukraine-korosten-cities-v2.webp"
@@ -2251,6 +2349,7 @@ image: "/poi-images/ukraine-korosten-cities-v2.webp"
   },
   {
     id: "ukraine-shepetivka-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Schepetiwka", hu: "Sepetivka", ro: "Șepetivka", en: "Shepetivka",
 image: "/poi-images/ukraine-shepetivka-cities-v2.webp"
@@ -2272,6 +2371,7 @@ image: "/poi-images/ukraine-shepetivka-cities-v2.webp"
   },
   {
     id: "ukraine-kovel-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kowel", hu: "Kovel", ro: "Kovel", en: "Kovel",
 image: "/poi-images/ukraine-kovel-cities-v2.webp"
@@ -2293,6 +2393,7 @@ image: "/poi-images/ukraine-kovel-cities-v2.webp"
   },
   {
     id: "ukraine-volodymyr-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Wolodymyr", hu: "Volodimir", ro: "Volodîmir", en: "Volodymyr",
 image: "/poi-images/ukraine-volodymyr-cities-v2.webp"
@@ -2314,6 +2415,7 @@ image: "/poi-images/ukraine-volodymyr-cities-v2.webp"
   },
   {
     id: "ukraine-chervonohrad-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Tscherwonohrad", hu: "Cservonohrad", ro: "Cervonohrad", en: "Chervonohrad",
 image: "/poi-images/ukraine-chervonohrad-cities-v2.webp"
@@ -2335,6 +2437,7 @@ image: "/poi-images/ukraine-chervonohrad-cities-v2.webp"
   },
   {
     id: "ukraine-sambir-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Sambir", hu: "Szambir", ro: "Sambir", en: "Sambir",
 image: "/poi-images/ukraine-sambir-cities-v2.webp"
@@ -2356,6 +2459,7 @@ image: "/poi-images/ukraine-sambir-cities-v2.webp"
   },
   {
     id: "ukraine-boryslav-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Boryslaw", hu: "Boriszlav", ro: "Borîslav", en: "Boryslav",
 image: "/poi-images/ukraine-boryslav-cities-v2.webp"
@@ -2377,6 +2481,7 @@ image: "/poi-images/ukraine-boryslav-cities-v2.webp"
   },
   {
     id: "ukraine-dubno-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Dubno", hu: "Dubno", ro: "Dubno", en: "Dubno",
 image: "/poi-images/ukraine-dubno-cities-v2.webp"
@@ -2398,6 +2503,7 @@ image: "/poi-images/ukraine-dubno-cities-v2.webp"
   },
   {
     id: "ukraine-khust-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Chust", hu: "Huszt", ro: "Hust", en: "Khust",
 image: "/poi-images/ukraine-khust-cities-v2.webp"
@@ -2419,6 +2525,7 @@ image: "/poi-images/ukraine-khust-cities-v2.webp"
   },
   {
     id: "ukraine-berehove-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Berehowe", hu: "Beregszász", ro: "Beregovo", en: "Berehove",
 image: "/poi-images/ukraine-berehove-cities-v2.webp"
@@ -2440,6 +2547,7 @@ image: "/poi-images/ukraine-berehove-cities-v2.webp"
   },
   {
     id: "ukraine-vynohradiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Wynohradiw", hu: "Nagyszőlős", ro: "Vinogradiv", en: "Vynohradiv",
 image: "/poi-images/ukraine-vynohradiv-cities-v2.webp"
@@ -2461,6 +2569,7 @@ image: "/poi-images/ukraine-vynohradiv-cities-v2.webp"
   },
   {
     id: "ukraine-chortkiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Tschortkiw", hu: "Csortkiv", ro: "Ciortkiv", en: "Chortkiv",
 image: "/poi-images/ukraine-chortkiv-cities-v2.webp"
@@ -2482,6 +2591,7 @@ image: "/poi-images/ukraine-chortkiv-cities-v2.webp"
   },
   {
     id: "ukraine-berezhany-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Bereschany", hu: "Berezsany", ro: "Berejanî", en: "Berezhany",
 image: "/poi-images/ukraine-berezhany-cities-v2.webp"
@@ -2503,6 +2613,7 @@ image: "/poi-images/ukraine-berezhany-cities-v2.webp"
   },
   {
     id: "ukraine-kremenets-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kremenez", hu: "Kremenyec", ro: "Kremeneț", en: "Kremenets",
 image: "/poi-images/ukraine-kremenets-cities-v2.webp"
@@ -2524,6 +2635,7 @@ image: "/poi-images/ukraine-kremenets-cities-v2.webp"
   },
   {
     id: "ukraine-zolochiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Solotschiw", hu: "Zolocsiv", ro: "Zolociv", en: "Zolochiv",
 image: "/poi-images/ukraine-zolochiv-cities-v2.webp"
@@ -2545,6 +2657,7 @@ image: "/poi-images/ukraine-zolochiv-cities-v2.webp"
   },
   {
     id: "ukraine-brody-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Brody", hu: "Brodi", ro: "Brody", en: "Brody",
 image: "/poi-images/ukraine-brody-cities-v2.webp"
@@ -2566,6 +2679,7 @@ image: "/poi-images/ukraine-brody-cities-v2.webp"
   },
   {
     id: "ukraine-myrhorod-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Myrhorod", hu: "Mirhorod", ro: "Mirhorod", en: "Myrhorod",
 image: "/poi-images/ukraine-myrhorod-cities-v2.webp"
@@ -2587,6 +2701,7 @@ image: "/poi-images/ukraine-myrhorod-cities-v2.webp"
   },
   {
     id: "ukraine-hadiach-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Hadjatsch", hu: "Hagyics", ro: "Hadiaci", en: "Hadiach",
 image: "/poi-images/ukraine-hadiach-cities-v2.webp"
@@ -2608,6 +2723,7 @@ image: "/poi-images/ukraine-hadiach-cities-v2.webp"
   },
   {
     id: "ukraine-okhtyrka-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Ochtyrka", hu: "Ohtirka", ro: "Ohtîrka", en: "Okhtyrka",
 image: "/poi-images/ukraine-okhtyrka-cities-v2.webp"
@@ -2629,6 +2745,7 @@ image: "/poi-images/ukraine-okhtyrka-cities-v2.webp"
   },
   {
     id: "ukraine-romny-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Romny", hu: "Romni", ro: "Romnî", en: "Romny",
 image: "/poi-images/ukraine-romny-cities-v2.webp"
@@ -2650,6 +2767,7 @@ image: "/poi-images/ukraine-romny-cities-v2.webp"
   },
   {
     id: "ukraine-kupiansk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Kupjansk", hu: "Kupjanszk", ro: "Kupeansk", en: "Kupiansk",
 image: "/poi-images/ukraine-kupiansk-cities-v2.webp"
@@ -2671,6 +2789,7 @@ image: "/poi-images/ukraine-kupiansk-cities-v2.webp"
   },
   {
     id: "ukraine-balakliia-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Balaklija", hu: "Balaklija", ro: "Balakliia", en: "Balakliia",
 image: "/poi-images/ukraine-balakliia-cities-v2.webp"
@@ -2692,6 +2811,7 @@ image: "/poi-images/ukraine-balakliia-cities-v2.webp"
   },
   {
     id: "ukraine-volnovakha-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Wolnowacha", hu: "Volnovaha", ro: "Volnovaha", en: "Volnovakha",
 image: "/poi-images/ukraine-volnovakha-cities-v2.webp"
@@ -2713,6 +2833,7 @@ image: "/poi-images/ukraine-volnovakha-cities-v2.webp"
   },
   {
     id: "ukraine-lyman-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Lyman", hu: "Liman", ro: "Lîman", en: "Lyman",
 image: "/poi-images/ukraine-lyman-cities-v2.webp"
@@ -2734,6 +2855,7 @@ image: "/poi-images/ukraine-lyman-cities-v2.webp"
   },
   {
     id: "ukraine-avdiivka-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Awdijiwka", hu: "Avgyijivka", ro: "Avdiivka", en: "Avdiivka",
 image: "/poi-images/ukraine-avdiivka-cities-v2.webp"
@@ -2755,6 +2877,7 @@ image: "/poi-images/ukraine-avdiivka-cities-v2.webp"
   },
   {
     id: "ukraine-popasna-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Popasna", hu: "Popaszna", ro: "Popasna", en: "Popasna",
 image: "/poi-images/ukraine-popasna-cities-v2.webp"
@@ -2776,6 +2899,7 @@ image: "/poi-images/ukraine-popasna-cities-v2.webp"
   },
   {
     id: "ukraine-merefa-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Merefa", hu: "Merefa", ro: "Merefa", en: "Merefa",
 image: "/poi-images/ukraine-merefa-cities-v2.webp"
@@ -2797,6 +2921,7 @@ image: "/poi-images/ukraine-merefa-cities-v2.webp"
   },
   {
     id: "ukraine-vilniansk-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Wilniansk", hu: "Vilnyanszk", ro: "Vilneansk", en: "Vilniansk",
 image: "/poi-images/ukraine-vilniansk-cities-v2.webp"
@@ -2818,6 +2943,7 @@ image: "/poi-images/ukraine-vilniansk-cities-v2.webp"
   },
   {
     id: "ukraine-orikhiv-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Orichiw", hu: "Orihiv", ro: "Orihiv", en: "Orikhiv",
 image: "/poi-images/ukraine-orikhiv-cities-v2.webp"
@@ -2839,6 +2965,7 @@ image: "/poi-images/ukraine-orikhiv-cities-v2.webp"
   },
   {
     id: "ukraine-polohy-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Polohy", hu: "Polohi", ro: "Polohî", en: "Polohy",
 image: "/poi-images/ukraine-polohy-cities-v2.webp"
@@ -2860,6 +2987,7 @@ image: "/poi-images/ukraine-polohy-cities-v2.webp"
   },
   {
     id: "ukraine-tokmak-cities-v2",
+    parent: "UA",
     type: "city",
     name: { de: "Tokmak", hu: "Tokmak", ro: "Tokmak", en: "Tokmak",
 image: "/poi-images/ukraine-tokmak-cities-v2.webp"

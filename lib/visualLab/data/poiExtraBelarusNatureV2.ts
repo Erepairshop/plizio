@@ -3,6 +3,7 @@ export const belarusNatureV2: POI[] = [
 
   {
     id: "belarus-belovezhskaya-pushcha-nature-v2",
+    parent: "BY",
     type: "forest",
     name: { de: "Belowescher Heide (Belarus)", hu: "Belavezsai-erdő", ro: "Pădurea Bialowieza (Belarus)", en: "Belovezhskaya Pushcha",
 image: "/poi-images/belarus-belovezhskaya-pushcha-nature-v2.webp"
@@ -36,6 +37,7 @@ image: "/poi-images/belarus-belovezhskaya-pushcha-nature-v2.webp"
     }, image: "/poi-images/belarus-belovezhskaya-pushcha-nature-v2.webp"},
   {
     id: "belarus-narach-lake-nature-v2",
+    parent: "BY",
     type: "lake",
     name: { de: "Naratsch-See", hu: "Naracs-tó", ro: "Lacul Naraci", en: "Lake Narach",
 image: "/poi-images/belarus-narach-lake-nature-v2.webp"
@@ -69,6 +71,7 @@ image: "/poi-images/belarus-narach-lake-nature-v2.webp"
     }, image: "/poi-images/belarus-narach-lake-nature-v2.webp"},
   {
     id: "belarus-braslav-lakes-nature-v2",
+    parent: "BY",
     type: "park",
     name: { de: "Braslauer Seen", hu: "Braszlavi-tavak", ro: "Lacurile Braslav", en: "Braslav Lakes",
 image: "/poi-images/belarus-braslav-lakes-nature-v2.webp"
@@ -102,6 +105,7 @@ image: "/poi-images/belarus-braslav-lakes-nature-v2.webp"
     }, image: "/poi-images/belarus-braslav-lakes-nature-v2.webp"},
   {
     id: "belarus-pripyat-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Pripjat (Fluss)", hu: "Pripjaty (folyó)", ro: "Râul Pripeat", en: "Pripyat River",
 image: "/poi-images/belarus-pripyat-river-nature-v2.webp"
@@ -135,6 +139,7 @@ image: "/poi-images/belarus-pripyat-river-nature-v2.webp"
     }, image: "/poi-images/belarus-pripyat-river-nature-v2.webp"},
   {
     id: "belarus-berezina-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Beresina (Fluss)", hu: "Berezina (folyó)", ro: "Râul Berezina", en: "Berezina River",
 image: "/poi-images/belarus-berezina-river-nature-v2.webp"
@@ -168,6 +173,7 @@ image: "/poi-images/belarus-berezina-river-nature-v2.webp"
     }, image: "/poi-images/belarus-berezina-river-nature-v2.webp"},
   {
     id: "belarus-dzyarzhynskaya-hara-nature-v2",
+    parent: "BY",
     type: "peak",
     name: { de: "Dsjarshynskaja Hara", hu: "Dzerzsinszkaja-hegy", ro: "Dealul Dzerjinskaia", en: "Dzyarzhynskaya Hara",
 image: "/poi-images/belarus-dzyarzhynskaya-hara-nature-v2.webp"
@@ -201,6 +207,7 @@ image: "/poi-images/belarus-dzyarzhynskaya-hara-nature-v2.webp"
     }, image: "/poi-images/belarus-dzyarzhynskaya-hara-nature-v2.webp"},
   {
     id: "belarus-yelnya-bog-nature-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Jelnja-Moor", hu: "Jelnya-láp", ro: "Mlaștina Elnia", en: "Yelnya Bog",
 image: "/poi-images/belarus-yelnya-bog-nature-v2.webp"
@@ -235,6 +242,7 @@ image: "/poi-images/belarus-yelnya-bog-nature-v2.webp"
   },
   {
     id: "belarus-neman-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Memel (Fluss)", hu: "Nyeman (folyó)", ro: "Râul Neman", en: "Neman River",
 image: "/poi-images/belarus-neman-river-nature-v2.webp"
@@ -268,6 +276,7 @@ image: "/poi-images/belarus-neman-river-nature-v2.webp"
     }, image: "/poi-images/belarus-neman-river-nature-v2.webp"},
   {
     id: "belarus-sozh-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Sosch (Fluss)", hu: "Szozs (folyó)", ro: "Râul Soj", en: "Sozh River",
 image: "/poi-images/belarus-sozh-river-nature-v2.webp"
@@ -301,6 +310,7 @@ image: "/poi-images/belarus-sozh-river-nature-v2.webp"
     }, image: "/poi-images/belarus-sozh-river-nature-v2.webp"},
   {
     id: "belarus-dnieper-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Dnepr (belarussischer Abschnitt)", hu: "Dnyeper (fehérorosz szakasz)", ro: "Nipru (secțiunea bielorusă)", en: "Dnieper River (Belarus section)",
 image: "/poi-images/belarus-dnieper-river-nature-v2.webp"
@@ -334,6 +344,7 @@ image: "/poi-images/belarus-dnieper-river-nature-v2.webp"
     }, image: "/poi-images/belarus-dnieper-river-nature-v2.webp"},
   {
     id: "belarus-osveya-lake-nature-v2",
+    parent: "BY",
     type: "lake",
     name: { de: "Osweja-See", hu: "Oszveja-tó", ro: "Lacul Osveia", en: "Lake Osveya",
 image: "/poi-images/belarus-osveya-lake-nature-v2.webp"
@@ -367,6 +378,7 @@ image: "/poi-images/belarus-osveya-lake-nature-v2.webp"
     }, image: "/poi-images/belarus-osveya-lake-nature-v2.webp"},
   {
     id: "belarus-chyrvonaye-lake-nature-v2",
+    parent: "BY",
     type: "lake",
     name: { de: "Chyrvonaye-See", hu: "Csirvonoje-tó", ro: "Lacul Cirvonaie", en: "Lake Chyrvonaye",
 image: "/poi-images/belarus-chyrvonaye-lake-nature-v2.webp"
@@ -400,6 +412,7 @@ image: "/poi-images/belarus-chyrvonaye-lake-nature-v2.webp"
     }, image: "/poi-images/belarus-chyrvonaye-lake-nature-v2.webp"},
   {
     id: "belarus-naliboki-forest-nature-v2",
+    parent: "BY",
     type: "forest",
     name: { de: "Naliboki-Wald", hu: "Naliboki-erdő", ro: "Pădurea Naliboki", en: "Naliboki Forest",
 image: "/poi-images/belarus-naliboki-forest-nature-v2.webp"
@@ -433,6 +446,7 @@ image: "/poi-images/belarus-naliboki-forest-nature-v2.webp"
     }, image: "/poi-images/belarus-naliboki-forest-nature-v2.webp"},
   {
     id: "belarus-western-dvina-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Düna (Fluss)", hu: "Nyugati-Dvina (folyó)", ro: "Daugava (Râul Dvina de Vest)", en: "Western Dvina River",
 image: "/poi-images/belarus-western-dvina-river-nature-v2.webp"
@@ -466,6 +480,7 @@ image: "/poi-images/belarus-western-dvina-river-nature-v2.webp"
     }, image: "/poi-images/belarus-western-dvina-river-nature-v2.webp"},
   {
     id: "belarus-viliya-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Wilija (Fluss)", hu: "Vilija (folyó)", ro: "Râul Vilia", en: "Viliya River",
 image: "/poi-images/belarus-viliya-river-nature-v2.webp"
@@ -499,6 +514,7 @@ image: "/poi-images/belarus-viliya-river-nature-v2.webp"
     }, image: "/poi-images/belarus-viliya-river-nature-v2.webp"},
   {
     id: "belarus-dryvyaty-lake-nature-v2",
+    parent: "BY",
     type: "lake",
     name: { de: "Drywjaty-See", hu: "Drivjati-tó", ro: "Lacul Drivyati", en: "Lake Dryvyaty",
 image: "/poi-images/belarus-dryvyaty-lake-nature-v2.webp"
@@ -532,6 +548,7 @@ image: "/poi-images/belarus-dryvyaty-lake-nature-v2.webp"
     }, image: "/poi-images/belarus-dryvyaty-lake-nature-v2.webp"},
   {
     id: "belarus-shchara-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Schtschara (Fluss)", hu: "Scsara (folyó)", ro: "Râul Șceara", en: "Shchara River",
 image: "/poi-images/belarus-shchara-river-nature-v2.webp"
@@ -566,6 +583,7 @@ imageHint: "Narrow river with overgrown banks and a quiet current",
     image: "/poi-images/belarus-shchara-river-nature-v2.webp",
 },  {
     id: "belarus-olmany-mires-nature-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Olmany-Sümpfe", hu: "Olmanyi-mocsarak", ro: "Mlaștinile Olmanî", en: "Olmany Mires",
 image: "/poi-images/belarus-olmany-mires-nature-v2.webp"
@@ -588,6 +606,7 @@ image: "/poi-images/belarus-olmany-mires-nature-v2.webp"
     image: "/poi-images/belarus-olmany-mires-nature-v2.webp"},
   {
     id: "belarus-sporovskoye-marsh-nature-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Sporowskoje-Moor", hu: "Sporovszkoje-mocsár", ro: "Mlaștina Sporovskoe", en: "Sporovskoye Marsh",
 image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp"
@@ -610,6 +629,7 @@ image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp"
     image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp"},
   {
     id: "belarus-vyhanoishchanskoye-lake-nature-v2",
+    parent: "BY",
     type: "lake",
     name: { de: "Wychanoischtschanske-See", hu: "Viganoscsanszkoje-tó", ro: "Lacul Vîganoișceanskoe", en: "Lake Vyhanoishchanskoye",
 image: "/poi-images/belarus-vyhanoishchanskoye-lake-nature-v2.webp"
@@ -644,6 +664,7 @@ image: "/poi-images/belarus-vyhanoishchanskoye-lake-nature-v2.webp"
     image: "/poi-images/belarus-vyhanoishchanskoye-lake-nature-v2.webp",
 },  {
     id: "belarus-svisloch-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Swislatsch (Fluss)", hu: "Szviszlocs (folyó)", ro: "Râul Svisloci", en: "Svisloch River",
 image: "/poi-images/belarus-svisloch-river-nature-v2.webp"
@@ -666,6 +687,7 @@ image: "/poi-images/belarus-svisloch-river-nature-v2.webp"
     image: "/poi-images/belarus-svisloch-river-nature-v2.webp"},
   {
     id: "belarus-lyuban-blue-lakes-nature-v2",
+    parent: "BY",
     type: "lake",
     name: { de: "Blaue Seen von Ljuban", hu: "Ljubanyi kék tavak", ro: "Lacurile Albastre din Liuban", en: "Blue Lakes of Lyuban",
 image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp"
@@ -688,6 +710,7 @@ image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp"
     image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp"},
   {
     id: "belarus-lisnaya-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Lisnaja (Fluss)", hu: "Lisznaja (folyó)", ro: "Râul Lesnaia", en: "Lisnaya River",
 image: "/poi-images/belarus-lisnaya-river-nature-v2.webp"
@@ -722,6 +745,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
     image: "/poi-images/belarus-lisnaya-river-nature-v2.webp",
 },  {
     id: "belarus-sorochanskiye-lakes-nature-v2",
+    parent: "BY",
     type: "lake",
     name: { de: "Sorotschanskie-Seen", hu: "Szorocsanszkije-tavak", ro: "Lacurile Soroceanskie", en: "Sorochanskiye Lakes",
 image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp"
@@ -744,6 +768,7 @@ image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp"
     image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp"},
   {
     id: "belarus-horyn-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Horyn (Fluss)", hu: "Horyn (folyó)", ro: "Râul Horîn", en: "Horyn River",
 image: "/poi-images/belarus-horyn-river-nature-v2.webp"
@@ -766,6 +791,7 @@ image: "/poi-images/belarus-horyn-river-nature-v2.webp"
     image: "/poi-images/belarus-horyn-river-nature-v2.webp"},
   {
     id: "belarus-ptich-river-nature-v2",
+    parent: "BY",
     type: "river",
     name: { de: "Ptitsch (Fluss)", hu: "Ptyics (folyó)", ro: "Râul Ptici", en: "Ptich River",
 image: "/poi-images/belarus-ptich-river-nature-v2.webp"
@@ -788,6 +814,7 @@ image: "/poi-images/belarus-ptich-river-nature-v2.webp"
     image: "/poi-images/belarus-ptich-river-nature-v2.webp"},
   {
     id: "belarus-svitiaz-lake-nature-v2",
+    parent: "BY",
     type: "lake",
     name: { de: "Switjas-See", hu: "Szvitjaz-tó", ro: "Lacul Svitiaz", en: "Svitiaz Lake",
 image: "/poi-images/belarus-svitiaz-lake-nature-v2.webp"

@@ -3,6 +3,7 @@ export const greeceEconomicV2: POI[] = [
 
   {
     id: "greece-piraeus-port-economic-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Hafen von Piräus", hu: "Pireusz kikötője", ro: "Portul Pireu", en: "Port of Piraeus",
 image: "/poi-images/greece-piraeus-port-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Port of Piraeus aerial view with container ships",
     image: "/poi-images/greece-piraeus-port-economic-v2.webp",
 },  {
     id: "greece-thessaloniki-port-economic-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Hafen von Thessaloniki", hu: "Szaloniki kikötője", ro: "Portul Salonic", en: "Port of Thessaloniki",
 image: "/poi-images/greece-thessaloniki-port-economic-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Port of Thessaloniki cranes and container terminal",
     image: "/poi-images/greece-thessaloniki-port-economic-v2.webp",
 },  {
     id: "greece-aspropyrgos-refinery-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Raffinerie Aspropyrgos", hu: "Aszpropirgoszi olajfinomító", ro: "Rafinăria Aspropyrgos", en: "Aspropyrgos Refinery",
 image: "/poi-images/greece-aspropyrgos-refinery-economic-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Aspropyrgos industrial refinery towers and pipes",
     image: "/poi-images/greece-aspropyrgos-refinery-economic-v2.webp",
 },  {
     id: "greece-ptolemaida-lignite-center-economic-v2",
+    parent: "GR",
     type: "mine",
     name: { de: "Lignitzentrum Ptolemaida", hu: "Ptolemaida lignitbánya", ro: "Centrul de lignit Ptolemaida", en: "Ptolemaida Lignite Center",
 image: "/poi-images/greece-ptolemaida-lignite-center-economic-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Ptolemaida open pit lignite mine with excavators",
     image: "/poi-images/greece-ptolemaida-lignite-center-economic-v2.webp",
 },  {
     id: "greece-elefsina-shipyards-economic-v2",
+    parent: "GR",
     type: "factory",
     name: { de: "Werft von Elefsina", hu: "Elefszinai hajógyár", ro: "Șantierul naval Elefsina", en: "Elefsina Shipyards",
 image: "/poi-images/greece-elefsina-shipyards-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Elefsina shipyards with large vessels in dry dock",
     image: "/poi-images/greece-elefsina-shipyards-economic-v2.webp",
 },  {
     id: "greece-megalopolis-power-plant-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Kraftwerk Megalopolis", hu: "Megalopoliszi erőmű", ro: "Centrala electrică Megalopolis", en: "Megalopolis Power Plant",
 image: "/poi-images/greece-megalopolis-power-plant-economic-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Megalopolis power plant cooling towers and industrial site",
     image: "/poi-images/greece-megalopolis-power-plant-economic-v2.webp",
 },  {
     id: "greece-skouries-mine-economic-v2",
+    parent: "GR",
     type: "mine",
     name: { de: "Skouries-Mine", hu: "Skouries-bánya", ro: "Mina Skouries", en: "Skouries Mine",
 image: "/poi-images/greece-skouries-mine-economic-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Skouries mining project site in Chalkidiki forest",
     image: "/poi-images/greece-skouries-mine-economic-v2.webp",
 },  {
     id: "greece-larymna-ferronickel-plant-economic-v2",
+    parent: "GR",
     type: "factory",
     name: { de: "Ferronickel-Werk Larymna", hu: "Larimnai ferronikkel gyár", ro: "Uzina de feronichel Larymna", en: "Larymna Ferronickel Plant",
 image: "/poi-images/greece-larymna-ferronickel-plant-economic-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Larymna industrial nickel smelting plant by the sea",
     image: "/poi-images/greece-larymna-ferronickel-plant-economic-v2.webp",
 },  {
     id: "greece-oinofyta-industrial-park-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Industriepark Oinofyta", hu: "Oinofyta ipari park", ro: "Parcul industrial Oinofyta", en: "Oinofyta Industrial Park",
 image: "/poi-images/greece-oinofyta-industrial-park-economic-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Oinofyta industrial zone with various factory buildings",
     image: "/poi-images/greece-oinofyta-industrial-park-economic-v2.webp",
 },  {
     id: "greece-sindos-industrial-zone-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Industriezone Sindos", hu: "Szindoszi ipari zóna", ro: "Zona industrială Sindos", en: "Sindos Industrial Zone",
 image: "/poi-images/greece-sindos-industrial-zone-economic-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
     image: "/poi-images/greece-sindos-industrial-zone-economic-v2.webp",
 },  {
     id: "greece-volos-port-economic-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Hafen von Volos", hu: "Voloszi kikötő", ro: "Portul Volos", en: "Port of Volos",
 image: "/poi-images/greece-volos-port-economic-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Volos port waterfront with ships and city background",
     image: "/poi-images/greece-volos-port-economic-v2.webp",
 },  {
     id: "greece-heraklion-port-economic-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Hafen von Heraklion", hu: "Iráklio kikötője", ro: "Portul Heraklion", en: "Port of Heraklion",
 image: "/poi-images/greece-heraklion-port-economic-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
     image: "/poi-images/greece-heraklion-port-economic-v2.webp",
 },  {
     id: "greece-patras-port-economic-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Hafen von Patras", hu: "Pátra kikötője", ro: "Portul Patras", en: "Port of Patras",
 image: "/poi-images/greece-patras-port-economic-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Patras port with large international ferries docked",
     image: "/poi-images/greece-patras-port-economic-v2.webp",
 },  {
     id: "greece-igoumenitsa-port-economic-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Hafen von Igoumenitsa", hu: "Igumeníca kikötője", ro: "Portul Igoumenitsa", en: "Port of Igoumenitsa",
 image: "/poi-images/greece-igoumenitsa-port-economic-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Igoumenitsa port ferry terminal and green hills",
     image: "/poi-images/greece-igoumenitsa-port-economic-v2.webp",
 },  {
     id: "greece-aliveri-power-plant-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Kraftwerk Aliveri", hu: "Aliveri erőmű", ro: "Centrala electrică Aliveri", en: "Aliveri Power Plant",
 image: "/poi-images/greece-aliveri-power-plant-economic-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
     image: "/poi-images/greece-aliveri-power-plant-economic-v2.webp",
 },  {
     id: "greece-naxos-emery-mines-economic-v2",
+    parent: "GR",
     type: "mine",
     name: { de: "Schmirgelminen von Naxos", hu: "Naxoszi smergelbányák", ro: "Minele de smirghel din Naxos", en: "Naxos Emery Mines",
 image: "/poi-images/greece-naxos-emery-mines-economic-v2.webp"
@@ -535,6 +551,7 @@ image: "/poi-images/greece-naxos-emery-mines-economic-v2.webp"
     image: "/poi-images/greece-naxos-emery-mines-economic-v2.webp"},
   {
     id: "greece-milos-perlite-mines-economic-v2",
+    parent: "GR",
     type: "mine",
     name: { de: "Perlitminen von Milos", hu: "Miloszi perlitbányák", ro: "Minele de perlit din Milos", en: "Milos Perlite Mines",
 image: "/poi-images/greece-milos-perlite-mines-economic-v2.webp"
@@ -557,6 +574,7 @@ image: "/poi-images/greece-milos-perlite-mines-economic-v2.webp"
     image: "/poi-images/greece-milos-perlite-mines-economic-v2.webp"},
   {
     id: "greece-koropi-business-park-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Gewerbepark Koropi", hu: "Koropi ipari övezet", ro: "Parcul de afaceri Koropi", en: "Koropi Business Park",
 image: "/poi-images/greece-koropi-business-park-economic-v2.webp"
@@ -579,6 +597,7 @@ image: "/poi-images/greece-koropi-business-park-economic-v2.webp"
     image: "/poi-images/greece-koropi-business-park-economic-v2.webp"},
   {
     id: "greece-corinth-canal-economic-v2",
+    parent: "GR",
     type: "bridge",
     name: { de: "Kanal von Korinth", hu: "Korinthoszi-csatorna", ro: "Canalul Corint", en: "Corinth Canal",
 image: "/poi-images/greece-corinth-canal-economic-v2.webp"
@@ -601,6 +620,7 @@ image: "/poi-images/greece-corinth-canal-economic-v2.webp"
     image: "/poi-images/greece-corinth-canal-economic-v2.webp"},
   {
     id: "greece-motor-oil-refinery-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Motor Oil Raffinerie Korinth", hu: "Motor Oil Korinthoszi finomító", ro: "Rafinăria Motor Oil Corint", en: "Motor Oil Corinth Refinery",
 image: "/poi-images/greece-motor-oil-refinery-economic-v2.webp"
@@ -623,6 +643,7 @@ image: "/poi-images/greece-motor-oil-refinery-economic-v2.webp"
     image: "/poi-images/greece-motor-oil-refinery-economic-v2.webp"},
   {
     id: "greece-halivourgiki-steel-economic-v2",
+    parent: "GR",
     type: "factory",
     name: { de: "Halivourgiki Stahlwerk", hu: "Halivourgiki acélmű", ro: "Combinatul siderurgic Halivourgiki", en: "Halivourgiki Steel Mill",
 image: "/poi-images/greece-halivourgiki-steel-economic-v2.webp"
@@ -645,6 +666,7 @@ image: "/poi-images/greece-halivourgiki-steel-economic-v2.webp"
     image: "/poi-images/greece-halivourgiki-steel-economic-v2.webp"},
   {
     id: "greece-hellenic-aerospace-industry-economic-v2",
+    parent: "GR",
     type: "factory",
     name: { de: "Griechische Luftfahrtindustrie (EAB)", hu: "Görög Repülőgépipar (EAB)", ro: "Industria Aeronautică Elenă (EAB)", en: "Hellenic Aerospace Industry (HAI)",
 image: "/poi-images/greece-hellenic-aerospace-industry-economic-v2.webp"
@@ -667,6 +689,7 @@ image: "/poi-images/greece-hellenic-aerospace-industry-economic-v2.webp"
     image: "/poi-images/greece-hellenic-aerospace-industry-economic-v2.webp"},
   {
     id: "greece-aluminum-of-greece-economic-v2",
+    parent: "GR",
     type: "factory",
     name: { de: "Aluminium von Griechenland", hu: "Görög Alumínium", ro: "Aluminiul Greciei", en: "Aluminum of Greece",
 image: "/poi-images/greece-aluminum-of-greece-economic-v2.webp"
@@ -689,6 +712,7 @@ image: "/poi-images/greece-aluminum-of-greece-economic-v2.webp"
     image: "/poi-images/greece-aluminum-of-greece-economic-v2.webp"},
   {
     id: "greece-lavrion-industrial-park-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Technologiepark Lavrion", hu: "Lavrioni Technológiai Park", ro: "Parcul tehnologic Lavrion", en: "Lavrion Technological Park",
 image: "/poi-images/greece-lavrion-industrial-park-economic-v2.webp"
@@ -711,6 +735,7 @@ image: "/poi-images/greece-lavrion-industrial-park-economic-v2.webp"
     image: "/poi-images/greece-lavrion-industrial-park-economic-v2.webp"},
   {
     id: "greece-neorion-shipyards-economic-v2",
+    parent: "GR",
     type: "factory",
     name: { de: "Neorion-Werft", hu: "Neorion hajógyár", ro: "Șantierul naval Neorion", en: "Neorion Shipyards",
 image: "/poi-images/greece-neorion-shipyards-economic-v2.webp"
@@ -733,6 +758,7 @@ image: "/poi-images/greece-neorion-shipyards-economic-v2.webp"
     image: "/poi-images/greece-neorion-shipyards-economic-v2.webp"},
   {
     id: "greece-skaramagas-shipyards-economic-v2",
+    parent: "GR",
     type: "factory",
     name: { de: "Werft von Skaramagas", hu: "Szkaramagaszi hajógyár", ro: "Șantierul naval Skaramagas", en: "Skaramagas Shipyards",
 image: "/poi-images/greece-skaramagas-shipyards-economic-v2.webp"
@@ -755,6 +781,7 @@ image: "/poi-images/greece-skaramagas-shipyards-economic-v2.webp"
   },
   {
     id: "greece-platygiali-port-economic-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Hafen Platygiali (Astakos)", hu: "Platygiali kikötő (Asztakosz)", ro: "Portul Platygiali (Astakos)", en: "Platygiali Port (Astakos)",
 image: "/poi-images/greece-platygiali-port-economic-v2.webp"
@@ -777,6 +804,7 @@ image: "/poi-images/greece-platygiali-port-economic-v2.webp"
   },
   {
     id: "greece-amyntaio-power-station-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Kraftwerk Amyntaio", hu: "Amindeo erőmű", ro: "Centrala electrică Amyntaio", en: "Amyntaio Power Station",
 image: "/poi-images/greece-amyntaio-power-station-economic-v2.webp"
@@ -799,6 +827,7 @@ image: "/poi-images/greece-amyntaio-power-station-economic-v2.webp"
     image: "/poi-images/greece-amyntaio-power-station-economic-v2.webp"},
   {
     id: "greece-titan-cement-kamari-economic-v2",
+    parent: "GR",
     type: "factory",
     name: { de: "Titan Zementwerk Kamari", hu: "Titan Cementgyár Kamari", ro: "Fabrica de ciment Titan Kamari", en: "Titan Cement Plant Kamari",
 image: "/poi-images/greece-titan-cement-kamari-economic-v2.webp"
@@ -821,6 +850,7 @@ image: "/poi-images/greece-titan-cement-kamari-economic-v2.webp"
     image: "/poi-images/greece-titan-cement-kamari-economic-v2.webp"},
   {
     id: "greece-kavala-oil-terminal-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Ölterminal Kavala", hu: "Kavalai olajterminál", ro: "Terminalul petrolier Kavala", en: "Kavala Oil Terminal",
 image: "/poi-images/greece-kavala-oil-terminal-economic-v2.webp"
@@ -843,6 +873,7 @@ image: "/poi-images/greece-kavala-oil-terminal-economic-v2.webp"
     image: "/poi-images/greece-kavala-oil-terminal-economic-v2.webp"},
   {
     id: "greece-syros-cotton-industry-economic-v2",
+    parent: "GR",
     type: "industry",
     name: { de: "Historische Baumwollindustrie Syros", hu: "Szüroszi pamutipar", ro: "Industria istorică a bumbacului Syros", en: "Historical Cotton Industry Syros",
 image: "/poi-images/greece-syros-cotton-industry-economic-v2.webp"

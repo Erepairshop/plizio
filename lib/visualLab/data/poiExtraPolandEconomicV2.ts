@@ -3,6 +3,7 @@ export const polandEconomicV2: POI[] = [
 
   {
     id: "poland-warsaw-business-district-economic-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Warschauer Geschäftsviertel", hu: "Varsói üzleti negyed", ro: "Districtul de afaceri din Varșovia", en: "Warsaw Business District",
 image: "/poi-images/poland-warsaw-business-district-economic-v2.webp"
@@ -36,6 +37,7 @@ image: "/poi-images/poland-warsaw-business-district-economic-v2.webp"
     }, image: "/poi-images/poland-warsaw-business-district-economic-v2.webp"},
   {
     id: "poland-port-of-gdansk-economic-v2",
+    parent: "PL",
     type: "port",
     name: { de: "Hafen von Danzig", hu: "Gdański kikötő", ro: "Portul Gdańsk", en: "Port of Gdańsk",
 image: "/poi-images/poland-port-of-gdansk-economic-v2.webp"
@@ -69,6 +71,7 @@ image: "/poi-images/poland-port-of-gdansk-economic-v2.webp"
     }, image: "/poi-images/poland-port-of-gdansk-economic-v2.webp"},
   {
     id: "poland-belchatow-power-station-economic-v2",
+    parent: "PL",
     type: "industry",
     name: { de: "Kraftwerk Bełchatów", hu: "Bełchatówi erőmű", ro: "Centrala electrică Bełchatów", en: "Bełchatów Power Station",
 image: "/poi-images/poland-belchatow-power-station-economic-v2.webp"
@@ -102,6 +105,7 @@ image: "/poi-images/poland-belchatow-power-station-economic-v2.webp"
     }, image: "/poi-images/poland-belchatow-power-station-economic-v2.webp"},
   {
     id: "poland-pkn-orlen-plock-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "PKN Orlen Raffinerie Płock", hu: "PKN Orlen Płocki Finomító", ro: "Rafinăria PKN Orlen Płock", en: "PKN Orlen Płock Refinery",
 image: "/poi-images/poland-pkn-orlen-plock-economic-v2.webp"
@@ -136,6 +140,7 @@ image: "/poi-images/poland-pkn-orlen-plock-economic-v2.webp"
   },
   {
     id: "poland-kghm-lubin-mine-economic-v2",
+    parent: "PL",
     type: "mine",
     name: { de: "KGHM Kupfermine Lubin", hu: "KGHM Lubini rézbánya", ro: "Mina de cupru KGHM Lubin", en: "KGHM Lubin Copper Mine",
 image: "/poi-images/poland-kghm-lubin-mine-economic-v2.webp"
@@ -169,6 +174,7 @@ image: "/poi-images/poland-kghm-lubin-mine-economic-v2.webp"
     }, image: "/poi-images/poland-kghm-lubin-mine-economic-v2.webp"},
   {
     id: "poland-huta-katowice-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Stahlwerk Huta Katowice", hu: "Huta Katowice acélmű", ro: "Combinatul siderurgic Huta Katowice", en: "Huta Katowice Steelworks",
 image: "/poi-images/poland-huta-katowice-economic-v2.webp"
@@ -202,6 +208,7 @@ image: "/poi-images/poland-huta-katowice-economic-v2.webp"
     }, image: "/poi-images/poland-huta-katowice-economic-v2.webp"},
   {
     id: "poland-port-of-gdynia-economic-v2",
+    parent: "PL",
     type: "port",
     name: { de: "Hafen von Gdingen", hu: "Gdyniai kikötő", ro: "Portul Gdynia", en: "Port of Gdynia",
 image: "/poi-images/poland-port-of-gdynia-economic-v2.webp"
@@ -235,6 +242,7 @@ image: "/poi-images/poland-port-of-gdynia-economic-v2.webp"
     }, image: "/poi-images/poland-port-of-gdynia-economic-v2.webp"},
   {
     id: "poland-port-of-szczecin-economic-v2",
+    parent: "PL",
     type: "port",
     name: { de: "Hafen von Stettin", hu: "Szczecini kikötő", ro: "Portul Szczecin", en: "Port of Szczecin",
 image: "/poi-images/poland-port-of-szczecin-economic-v2.webp"
@@ -268,6 +276,7 @@ image: "/poi-images/poland-port-of-szczecin-economic-v2.webp"
     }, image: "/poi-images/poland-port-of-szczecin-economic-v2.webp"},
   {
     id: "poland-swinoujscie-lng-terminal-economic-v2",
+    parent: "PL",
     type: "industry",
     name: { de: "LNG-Terminal Swinemünde", hu: "Świnoujściei LNG-terminál", ro: "Terminalul LNG Świnoujście", en: "Świnoujście LNG Terminal",
 image: "/poi-images/poland-swinoujscie-lng-terminal-economic-v2.webp"
@@ -301,6 +310,7 @@ image: "/poi-images/poland-swinoujscie-lng-terminal-economic-v2.webp"
     }, image: "/poi-images/poland-swinoujscie-lng-terminal-economic-v2.webp"},
   {
     id: "poland-fiat-factory-tychy-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Fiat-Werk Tychy", hu: "Tychyi Fiat autógyár", ro: "Fabrica Fiat Tychy", en: "Fiat Factory Tychy",
 image: "/poi-images/poland-fiat-factory-tychy-economic-v2.webp"
@@ -334,6 +344,7 @@ image: "/poi-images/poland-fiat-factory-tychy-economic-v2.webp"
     }, image: "/poi-images/poland-fiat-factory-tychy-economic-v2.webp"},
   {
     id: "poland-stellantis-factory-gliwice-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Stellantis-Werk Gleiwitz", hu: "Gliwicei Stellantis-gyár", ro: "Fabrica Stellantis Gliwice", en: "Stellantis Factory Gliwice",
 image: "/poi-images/poland-stellantis-factory-gliwice-economic-v2.webp"
@@ -368,6 +379,7 @@ image: "/poi-images/poland-stellantis-factory-gliwice-economic-v2.webp"
   },
   {
     id: "poland-poznan-international-fair-economic-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Internationale Messe Posen", hu: "Poznańi Nemzetközi Vásár", ro: "Târgul Internațional Poznań", en: "Poznań International Fair",
 image: "/poi-images/poland-poznan-international-fair-economic-v2.webp"
@@ -401,6 +413,7 @@ image: "/poi-images/poland-poznan-international-fair-economic-v2.webp"
     }, image: "/poi-images/poland-poznan-international-fair-economic-v2.webp"},
   {
     id: "poland-wieliczka-salt-mine-economic-v2",
+    parent: "PL",
     type: "mine",
     name: { de: "Salzbergwerk Wieliczka", hu: "Wieliczkai sóbánya", ro: "Salina Wieliczka", en: "Wieliczka Salt Mine",
 image: "/poi-images/poland-wieliczka-salt-mine-economic-v2.webp"
@@ -434,6 +447,7 @@ image: "/poi-images/poland-wieliczka-salt-mine-economic-v2.webp"
     }, image: "/poi-images/poland-wieliczka-salt-mine-economic-v2.webp"},
   {
     id: "poland-pulawy-nitrogen-works-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Stickstoffwerke Puławy", hu: "Puławyi Nitrogénművek", ro: "Combinatul chimic Puławy", en: "Puławy Nitrogen Works",
 image: "/poi-images/poland-pulawy-nitrogen-works-economic-v2.webp"
@@ -467,6 +481,7 @@ image: "/poi-images/poland-pulawy-nitrogen-works-economic-v2.webp"
     }, image: "/poi-images/poland-pulawy-nitrogen-works-economic-v2.webp"},
   {
     id: "poland-police-chemical-plant-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Chemiewerk Police", hu: "Policei Vegyiművek", ro: "Combinatul chimic Police", en: "Police Chemical Plant",
 image: "/poi-images/poland-police-chemical-plant-economic-v2.webp"
@@ -500,6 +515,7 @@ image: "/poi-images/poland-police-chemical-plant-economic-v2.webp"
     }, image: "/poi-images/poland-police-chemical-plant-economic-v2.webp"},
   {
     id: "poland-stalowa-wola-ironworks-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Huta Stalowa Wola", hu: "Huta Stalowa Wola", ro: "Combinatul Stalowa Wola", en: "Stalowa Wola Ironworks",
 image: "/poi-images/poland-stalowa-wola-ironworks-economic-v2.webp"
@@ -533,6 +549,7 @@ image: "/poi-images/poland-stalowa-wola-ironworks-economic-v2.webp"
     }, image: "/poi-images/poland-stalowa-wola-ironworks-economic-v2.webp"},
   {
     id: "poland-mielec-aviation-valley-economic-v2",
+    parent: "PL",
     type: "industry",
     name: { de: "Luftfahrtpark Mielec", hu: "Mieleci repülőgépgyár", ro: "Valea Aviației Mielec", en: "Mielec Aviation Valley",
 image: "/poi-images/poland-mielec-aviation-valley-economic-v2.webp"
@@ -566,6 +583,7 @@ image: "/poi-images/poland-mielec-aviation-valley-economic-v2.webp"
     }, image: "/poi-images/poland-mielec-aviation-valley-economic-v2.webp"},
   {
     id: "poland-bogdanka-coal-mine-economic-v2",
+    parent: "PL",
     type: "mine",
     name: { de: "Steinkohlebergwerk Bogdanka", hu: "Bogdankai kőszénbánya", ro: "Mina de cărbune Bogdanka", en: "Bogdanka Coal Mine",
 image: "/poi-images/poland-bogdanka-coal-mine-economic-v2.webp"
@@ -599,6 +617,7 @@ image: "/poi-images/poland-bogdanka-coal-mine-economic-v2.webp"
     }, image: "/poi-images/poland-bogdanka-coal-mine-economic-v2.webp"},
   {
     id: "poland-turow-lignite-mine-economic-v2",
+    parent: "PL",
     type: "mine",
     name: { de: "Tagebau Turów", hu: "Turówi külszíni fejtés", ro: "Mina de suprafață Turów", en: "Turów Lignite Mine",
 image: "/poi-images/poland-turow-lignite-mine-economic-v2.webp"
@@ -632,6 +651,7 @@ image: "/poi-images/poland-turow-lignite-mine-economic-v2.webp"
     }, image: "/poi-images/poland-turow-lignite-mine-economic-v2.webp"},
   {
     id: "poland-kozienice-power-station-economic-v2",
+    parent: "PL",
     type: "industry",
     name: { de: "Kraftwerk Kozienice", hu: "Kozienicei erőmű", ro: "Centrala electrică Kozienice", en: "Kozienice Power Station",
 image: "/poi-images/poland-kozienice-power-station-economic-v2.webp"
@@ -665,6 +685,7 @@ image: "/poi-images/poland-kozienice-power-station-economic-v2.webp"
     }, image: "/poi-images/poland-kozienice-power-station-economic-v2.webp"},
   {
     id: "poland-tarnow-chemical-plant-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Chemiewerk Tarnów", hu: "Tarnówi Vegyiművek", ro: "Combinatul chimic Tarnów", en: "Tarnów Chemical Plant",
 image: "/poi-images/poland-tarnow-chemical-plant-economic-v2.webp"
@@ -698,6 +719,7 @@ image: "/poi-images/poland-tarnow-chemical-plant-economic-v2.webp"
     }, image: "/poi-images/poland-tarnow-chemical-plant-economic-v2.webp"},
   {
     id: "poland-jaworzno-power-station-economic-v2",
+    parent: "PL",
     type: "industry",
     name: { de: "Kraftwerk Jaworzno", hu: "Jaworznoi erőmű", ro: "Centrala electrică Jaworzno", en: "Jaworzno Power Station",
 image: "/poi-images/poland-jaworzno-power-station-economic-v2.webp"
@@ -731,6 +753,7 @@ image: "/poi-images/poland-jaworzno-power-station-economic-v2.webp"
     }, image: "/poi-images/poland-jaworzno-power-station-economic-v2.webp"},
   {
     id: "poland-legnica-copper-smelter-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Kupferhütte Legnica", hu: "Legnicai rézkohó", ro: "Topitoria de cupru Legnica", en: "Legnica Copper Smelter",
 image: "/poi-images/poland-legnica-copper-smelter-economic-v2.webp"
@@ -764,6 +787,7 @@ image: "/poi-images/poland-legnica-copper-smelter-economic-v2.webp"
     }, image: "/poi-images/poland-legnica-copper-smelter-economic-v2.webp"},
   {
     id: "poland-elblag-turbine-factory-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Turbinenfabrik Elbing", hu: "Elblągi turbinagyár", ro: "Fabrica de turbine Elbląg", en: "Elbląg Turbine Factory",
 image: "/poi-images/poland-elblag-turbine-factory-economic-v2.webp"
@@ -797,6 +821,7 @@ image: "/poi-images/poland-elblag-turbine-factory-economic-v2.webp"
     }, image: "/poi-images/poland-elblag-turbine-factory-economic-v2.webp"},
   {
     id: "poland-kwidzyn-paper-mill-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Papierfabrik Kwidzyn", hu: "Kwidzyni papírgyár", ro: "Fabrica de hârtie Kwidzyn", en: "Kwidzyn Paper Mill",
 image: "/poi-images/poland-kwidzyn-paper-mill-economic-v2.webp"
@@ -830,6 +855,7 @@ image: "/poi-images/poland-kwidzyn-paper-mill-economic-v2.webp"
     }, image: "/poi-images/poland-kwidzyn-paper-mill-economic-v2.webp"},
   {
     id: "poland-opole-cement-works-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Zementwerk Opole", hu: "Opolei cementgyár", ro: "Fabrica de ciment Opole", en: "Opole Cement Works",
 image: "/poi-images/poland-opole-cement-works-economic-v2.webp"
@@ -863,6 +889,7 @@ image: "/poi-images/poland-opole-cement-works-economic-v2.webp"
     }, image: "/poi-images/poland-opole-cement-works-economic-v2.webp"},
   {
     id: "poland-starachowice-truck-plant-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Lkw-Werk Starachowice", hu: "Starachowicei teherautógyár", ro: "Fabrica de camioane Starachowice", en: "Starachowice Truck Plant",
 image: "/poi-images/poland-starachowice-truck-plant-economic-v2.webp"
@@ -896,6 +923,7 @@ image: "/poi-images/poland-starachowice-truck-plant-economic-v2.webp"
     }, image: "/poi-images/poland-starachowice-truck-plant-economic-v2.webp"},
   {
     id: "poland-bydgoszcz-nitro-chem-economic-v2",
+    parent: "PL",
     type: "factory",
     name: { de: "Nitro-Chem Bromberg", hu: "Bydgoszczi Nitro-Chem", ro: "Nitro-Chem Bydgoszcz", en: "Bydgoszcz Nitro-Chem",
 image: "/poi-images/poland-bydgoszcz-nitro-chem-economic-v2.webp"
@@ -930,6 +958,7 @@ image: "/poi-images/poland-bydgoszcz-nitro-chem-economic-v2.webp"
   },
   {
     id: "poland-walbrzych-economic-zone-economic-v2",
+    parent: "PL",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Waldenburg", hu: "Wałbrzychi különleges gazdasági övezet", ro: "Zona economică specială Wałbrzych", en: "Wałbrzych Special Economic Zone",
 image: "/poi-images/poland-walbrzych-economic-zone-economic-v2.webp"
@@ -963,6 +992,7 @@ image: "/poi-images/poland-walbrzych-economic-zone-economic-v2.webp"
     }, image: "/poi-images/poland-walbrzych-economic-zone-economic-v2.webp"},
   {
     id: "poland-lodz-manufaktura-economic-v2",
+    parent: "PL",
     type: "landmark",
     name: { de: "Manufaktura Lodz", hu: "Łódźi Manufaktura", ro: "Manufaktura Łódź", en: "Manufaktura Łódź",
 image: "/poi-images/poland-lodz-manufaktura-economic-v2.webp"
@@ -996,6 +1026,7 @@ image: "/poi-images/poland-lodz-manufaktura-economic-v2.webp"
     }, image: "/poi-images/poland-lodz-manufaktura-economic-v2.webp"},
   {
     id: "poland-katowice-business-center-economic-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Geschäftszentrum Kattowitz", hu: "Katowicei üzleti központ", ro: "Centrul de afaceri Katowice", en: "Katowice Business Center",
 image: "/poi-images/poland-katowice-business-center-economic-v2.webp"

@@ -3,6 +3,7 @@ export const lithuaniaNatureV2: POI[] = [
 
   {
     id: "lithuania-nemunas-river-nature-v2",
+    parent: "LT",
     type: "river",
     name: { de: "Nemunas", hu: "Nemunas", ro: "Nemunas", en: "Nemunas River",
 image: "/poi-images/lithuania-nemunas-river-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Aerial view of the Nemunas river loops in Lithuania",
     , image: "/poi-images/lithuania-nemunas-river-nature-v2.webp",
 },  {
     id: "lithuania-neris-river-nature-v2",
+    parent: "LT",
     type: "river",
     name: { de: "Neris", hu: "Neris", ro: "Neris", en: "Neris River",
 image: "/poi-images/lithuania-neris-river-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "The Neris river flowing through Vilnius city center",
     , image: "/poi-images/lithuania-neris-river-nature-v2.webp",
 },  {
     id: "lithuania-druksiai-lake-nature-v2",
+    parent: "LT",
     type: "lake",
     name: { de: "Drūkšiai-See", hu: "Drūkšiai-tó", ro: "Lacul Drūkšiai", en: "Lake Drūkšiai",
 image: "/poi-images/lithuania-druksiai-lake-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Wide view of Lake Druksiai near the border",
     , image: "/poi-images/lithuania-druksiai-lake-nature-v2.webp",
 },  {
     id: "lithuania-tauragnas-lake-nature-v2",
+    parent: "LT",
     type: "lake",
     name: { de: "Tauragnas-See", hu: "Tauragnas-tó", ro: "Lacul Tauragnas", en: "Lake Tauragnas",
 image: "/poi-images/lithuania-tauragnas-lake-nature-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Deep blue water of Lake Tauragnas in the forest",
     , image: "/poi-images/lithuania-tauragnas-lake-nature-v2.webp",
 },  {
     id: "lithuania-asveja-lake-nature-v2",
+    parent: "LT",
     type: "lake",
     name: { de: "Asveja-See", hu: "Asveja-tó", ro: "Lacul Asveja", en: "Lake Asveja",
 image: "/poi-images/lithuania-asveja-lake-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "The wooden Dubingiai bridge over Lake Asveja",
     , image: "/poi-images/lithuania-asveja-lake-nature-v2.webp",
 },  {
     id: "lithuania-parnidis-dune-nature-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Parnidis-Düne", hu: "Parnidis-dűne", ro: "Duna Parnidis", en: "Parnidis Dune",
 image: "/poi-images/lithuania-parnidis-dune-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Sundial monument on top of Parnidis Dune",
     , image: "/poi-images/lithuania-parnidis-dune-nature-v2.webp",
 },  {
     id: "lithuania-vente-cape-nature-v2",
+    parent: "LT",
     type: "wildlife",
     name: { de: "Windenburger Eck", hu: "Ventė-fok", ro: "Capul Ventė", en: "Ventė Cape",
 image: "/poi-images/lithuania-vente-cape-nature-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
     , image: "/poi-images/lithuania-vente-cape-nature-v2.webp",
 },  {
     id: "lithuania-rusne-island-nature-v2",
+    parent: "LT",
     type: "wildlife",
     name: { de: "Insel Rusnė", hu: "Rusnė-sziget", ro: "Insula Rusnė", en: "Rusnė Island",
 image: "/poi-images/lithuania-rusne-island-nature-v2.webp"
@@ -275,6 +283,7 @@ image: "/poi-images/lithuania-rusne-island-nature-v2.webp"
   },
   {
     id: "lithuania-aukstojas-hill-nature-v2",
+    parent: "LT",
     type: "peak",
     name: { de: "Aukštojas-Hügel", hu: "Aukštojas-hegy", ro: "Dealul Aukštojas", en: "Aukštojas Hill",
 image: "/poi-images/lithuania-aukstojas-hill-nature-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Observation tower on the green Aukstojas Hill",
     , image: "/poi-images/lithuania-aukstojas-hill-nature-v2.webp",
 },  {
     id: "lithuania-galve-lake-nature-v2",
+    parent: "LT",
     type: "lake",
     name: { de: "Galvė-See", hu: "Galvė-tó", ro: "Lacul Galvė", en: "Lake Galvė",
 image: "/poi-images/lithuania-galve-lake-nature-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Aerial view of Lake Galve with Trakai Castle",
     , image: "/poi-images/lithuania-galve-lake-nature-v2.webp",
 },  {
     id: "lithuania-vistytis-lake-nature-v2",
+    parent: "LT",
     type: "lake",
     name: { de: "Wystiter See", hu: "Vištytis-tó", ro: "Lacul Vištytis", en: "Lake Vištytis",
 image: "/poi-images/lithuania-vistytis-lake-nature-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Panoramic view of Lake Vistytis at sunset",
     , image: "/poi-images/lithuania-vistytis-lake-nature-v2.webp",
 },  {
     id: "lithuania-dusia-lake-nature-v2",
+    parent: "LT",
     type: "lake",
     name: { de: "Dusia-See", hu: "Dusia-tó", ro: "Lacul Dusia", en: "Lake Dusia",
 image: "/poi-images/lithuania-dusia-lake-nature-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
     , image: "/poi-images/lithuania-dusia-lake-nature-v2.webp",
 },  {
     id: "lithuania-sartai-lake-nature-v2",
+    parent: "LT",
     type: "lake",
     name: { de: "Sartai-See", hu: "Sartai-tó", ro: "Lacul Sartai", en: "Lake Sartai",
 image: "/poi-images/lithuania-sartai-lake-nature-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Winter horse racing on the frozen Lake Sartai",
     , image: "/poi-images/lithuania-sartai-lake-nature-v2.webp",
 },  {
     id: "lithuania-plateliai-lake-nature-v2",
+    parent: "LT",
     type: "lake",
     name: { de: "Plateliai-See", hu: "Plateliai-tó", ro: "Lacul Plateliai", en: "Lake Plateliai",
 image: "/poi-images/lithuania-plateliai-lake-nature-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Islands on the blue Lake Plateliai in Samogitia",
     , image: "/poi-images/lithuania-plateliai-lake-nature-v2.webp",
 },  {
     id: "lithuania-zuvintas-bog-nature-v2",
+    parent: "LT",
     type: "wildlife",
     name: { de: "Žuvintas-Biosphärenreservat", hu: "Žuvintas-láp", ro: "Rezervația Biosferei Žuvintas", en: "Žuvintas Bog",
 image: "/poi-images/lithuania-zuvintas-bog-nature-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Birdwatching tower at the Zuvintas wetlands",
     , image: "/poi-images/lithuania-zuvintas-bog-nature-v2.webp",
 },  {
     id: "lithuania-cepkeliai-marsh-nature-v2",
+    parent: "LT",
     type: "wildlife",
     name: { de: "Čepkeliai-Sumpf", hu: "Čepkeliai-mocsár", ro: "Mlaștina Čepkeliai", en: "Čepkeliai Marsh",
 image: "/poi-images/lithuania-cepkeliai-marsh-nature-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Wooden walkway through the Cepkeliai raised bog",
     , image: "/poi-images/lithuania-cepkeliai-marsh-nature-v2.webp",
 },  {
     id: "lithuania-labanoras-forest-nature-v2",
+    parent: "LT",
     type: "forest",
     name: { de: "Labanoras-Wald", hu: "Labanoras-erdő", ro: "Pădurea Labanoras", en: "Labanoras Forest",
 image: "/poi-images/lithuania-labanoras-forest-nature-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Dense pine forest and lake in Labanoras",
     , image: "/poi-images/lithuania-labanoras-forest-nature-v2.webp",
 },  {
     id: "lithuania-punia-forest-nature-v2",
+    parent: "LT",
     type: "forest",
     name: { de: "Punia-Wald", hu: "Punia-erdő", ro: "Pădurea Punia", en: "Punia Forest",
 image: "/poi-images/lithuania-punia-forest-nature-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Ancient oak trees in the Punia Forest",
     , image: "/poi-images/lithuania-punia-forest-nature-v2.webp",
 },  {
     id: "lithuania-anyksciai-treetop-path-nature-v2",
+    parent: "LT",
     type: "forest",
     name: { de: "Baumkronenpfad Anykščiai", hu: "Anykščiai lombkorona-sétány", ro: "Poteca prin coroana arborilor Anykščiai", en: "Anykščiai Treetop Path",
 image: "/poi-images/lithuania-anyksciai-treetop-path-nature-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Modern treetop walking path structure in a pine forest",
     , image: "/poi-images/lithuania-anyksciai-treetop-path-nature-v2.webp",
 },  {
     id: "lithuania-puntukas-stone-nature-v2",
+    parent: "LT",
     type: "monument",
     name: { de: "Puntukas-Stein", hu: "Puntukas-kő", ro: "Piatra Puntukas", en: "Puntukas Stone",
 image: "/poi-images/lithuania-puntukas-stone-nature-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Massive glacial boulder in the forest with carvings",
     , image: "/poi-images/lithuania-puntukas-stone-nature-v2.webp",
 },  {
     id: "lithuania-cows-cave-nature-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Kuhhöhle (Karvės ola)", hu: "Tehén-barlang (Karvės ola)", ro: "Peștera Vacii (Karvės ola)", en: "Cow's Cave",
 image: "/poi-images/lithuania-cows-cave-nature-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Deep circular sinkhole in the ground with water at bottom",
     , image: "/poi-images/lithuania-cows-cave-nature-v2.webp",
 },  {
     id: "lithuania-juniper-valley-nature-v2",
+    parent: "LT",
     type: "valley",
     name: { de: "Wacholdertal (Kadagiai)", hu: "Boróka-völgy (Kadagiai)", ro: "Valea Ienupărului (Kadagiai)", en: "Juniper Valley",
 image: "/poi-images/lithuania-juniper-valley-nature-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Wooden path overlooking a valley with junipers and a river",
     , image: "/poi-images/lithuania-juniper-valley-nature-v2.webp",
 },  {
     id: "lithuania-dubysa-valley-nature-v2",
+    parent: "LT",
     type: "valley",
     name: { de: "Dubysa-Tal", hu: "Dubysa-völgy", ro: "Valea Dubysa", en: "Dubysa Valley",
 image: "/poi-images/lithuania-dubysa-valley-nature-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Hilly landscape of the Dubysa river valley",
     , image: "/poi-images/lithuania-dubysa-valley-nature-v2.webp",
 },  {
     id: "lithuania-nemunas-loops-nature-v2",
+    parent: "LT",
     type: "park",
     name: { de: "Regionalpark Nemunas-Schleifen", hu: "Nemunas-kanyarulatok Regionális Park", ro: "Parcul Regional Meandrele Nemunasului", en: "Nemunas Loops Regional Park",
 image: "/poi-images/lithuania-nemunas-loops-nature-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Aerial view of a massive river loop in a forest",
     , image: "/poi-images/lithuania-nemunas-loops-nature-v2.webp",
 },  {
     id: "lithuania-sesupe-river-nature-v2",
+    parent: "LT",
     type: "river",
     name: { de: "Šešupė", hu: "Šešupė", ro: "Râul Šešupė", en: "Šešupė River",
 image: "/poi-images/lithuania-sesupe-river-nature-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Calm Sesupe river at the border area",
     , image: "/poi-images/lithuania-sesupe-river-nature-v2.webp",
 },  {
     id: "lithuania-lusiai-lake-nature-v2",
+    parent: "LT",
     type: "lake",
     name: { de: "Lūšiai-See", hu: "Lūšiai-tó", ro: "Lacul Lūšiai", en: "Lake Lūšiai",
 image: "/poi-images/lithuania-lusiai-lake-nature-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Kayaks on the shore of Lake Lusiai",
     , image: "/poi-images/lithuania-lusiai-lake-nature-v2.webp",
 },  {
     id: "lithuania-musos-tyrelis-nature-v2",
+    parent: "LT",
     type: "wildlife",
     name: { de: "Mūšos tyrelis", hu: "Mūšos tyrelis", ro: "Mlaștina Mūšos tyrelis", en: "Mūšos tyrelis Bog",
 image: "/poi-images/lithuania-musos-tyrelis-nature-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Extremely long wooden boardwalk through a bog",
     , image: "/poi-images/lithuania-musos-tyrelis-nature-v2.webp",
 },  {
     id: "lithuania-olando-kepure-nature-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Holländer Mütze (Olando Kepurė)", hu: "Holland sapka (Olando Kepurė)", ro: "Pălăria Olandezului (Olando Kepurė)", en: "Dutchman's Cap",
 image: "/poi-images/lithuania-olando-kepure-nature-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
     , image: "/poi-images/lithuania-olando-kepure-nature-v2.webp",
 },  {
     id: "lithuania-rambynas-hill-nature-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Rambynas", hu: "Rambynas-hegy", ro: "Dealul Rambynas", en: "Rambynas Hill",
 image: "/poi-images/lithuania-rambynas-hill-nature-v2.webp"

@@ -3,6 +3,7 @@ export const moldovaLandmarksV2: POI[] = [
 
   {
     id: "moldova-old-orhei-cave-monastery-landmarks-v2",
+    parent: "MD",
     type: "monastery",
     name: { de: "Höhlenkloster von Orheiul Vechi", hu: "Orheiul Vechi sziklatemplom", ro: "Mănăstirea rupestră Orheiul Vechi", en: "Old Orhei Cave Monastery",
 image: "/poi-images/moldova-old-orhei-cave-monastery-landmarks-v2.webp"
@@ -37,6 +38,7 @@ image: "/poi-images/moldova-old-orhei-cave-monastery-landmarks-v2.webp"
   },
   {
     id: "moldova-hancu-monastery-landmarks-v2",
+    parent: "MD",
     type: "monastery",
     name: { de: "Kloster Hâncu", hu: "Hancu kolostor", ro: "Mănăstirea Hâncu", en: "Hâncu Monastery",
 image: "/poi-images/moldova-hancu-monastery-landmarks-v2.webp"
@@ -71,6 +73,7 @@ image: "/poi-images/moldova-hancu-monastery-landmarks-v2.webp"
   },
   {
     id: "moldova-tipova-monastery-landmarks-v2",
+    parent: "MD",
     type: "monastery",
     name: { de: "Kloster Țipova", hu: "Tipova sziklakolostor", ro: "Mănăstirea Țipova", en: "Țipova Monastery",
 image: "/poi-images/moldova-tipova-monastery-landmarks-v2.webp"
@@ -106,6 +109,7 @@ image: "/poi-images/moldova-tipova-monastery-landmarks-v2.webp"
   },
   {
     id: "moldova-manuc-bey-mansion-landmarks-v2",
+    parent: "MD",
     type: "palace",
     name: { de: "Herrenhaus Manuc Bey", hu: "Manuc Bey udvarház", ro: "Conacul Manuc Bey", en: "Manuc Bey Mansion",
 image: "/poi-images/moldova-manuc-bey-mansion-landmarks-v2.webp"
@@ -141,6 +145,7 @@ image: "/poi-images/moldova-manuc-bey-mansion-landmarks-v2.webp"
   },
   {
     id: "moldova-nativity-cathedral-chisinau-landmarks-v2",
+    parent: "MD",
     type: "cathedral",
     name: { de: "Kathedrale der Geburt des Herrn", hu: "Krisztus születése székesegyház", ro: "Catedrala Mitropolitană Nașterea Domnului", en: "Nativity Cathedral (Chișinău)",
 image: "/poi-images/moldova-nativity-cathedral-chisinau-landmarks-v2.webp"
@@ -176,6 +181,7 @@ image: "/poi-images/moldova-nativity-cathedral-chisinau-landmarks-v2.webp"
   },
   {
     id: "moldova-national-history-museum-landmarks-v2",
+    parent: "MD",
     type: "museum",
     name: { de: "Nationalmuseum für Geschichte Moldawiens", hu: "Moldovai Nemzeti Történeti Múzeum", ro: "Muzeul Național de Istorie a Moldovei", en: "National Museum of History of Moldova",
 image: "/poi-images/moldova-national-history-museum-landmarks-v2.webp"
@@ -211,6 +217,7 @@ image: "/poi-images/moldova-national-history-museum-landmarks-v2.webp"
   },
   {
     id: "moldova-ethnography-museum-landmarks-v2",
+    parent: "MD",
     type: "museum",
     name: { de: "Nationalmuseum für Ethnographie und Naturgeschichte", hu: "Nemzeti Néprajzi és Természettudományi Múzeum", ro: "Muzeul Național de Etnografie și Istorie Naturală", en: "National Museum of Ethnography and Natural History",
 image: "/poi-images/moldova-ethnography-museum-landmarks-v2.webp"
@@ -246,6 +253,7 @@ image: "/poi-images/moldova-ethnography-museum-landmarks-v2.webp"
   },
   {
     id: "moldova-mimi-castle-landmarks-v2",
+    parent: "MD",
     type: "palace",
     name: { de: "Schloss Mimi", hu: "Mimi-kastély", ro: "Castel Mimi", en: "Mimi Castle",
 image: "/poi-images/moldova-mimi-castle-landmarks-v2.webp"
@@ -281,6 +289,7 @@ image: "/poi-images/moldova-mimi-castle-landmarks-v2.webp"
   },
   {
     id: "moldova-purcari-castle-landmarks-v2",
+    parent: "MD",
     type: "palace",
     name: { de: "Château Purcari", hu: "Purcari-birtok", ro: "Castelul Purcari", en: "Purcari Castle",
 image: "/poi-images/moldova-purcari-castle-landmarks-v2.webp"
@@ -316,6 +325,7 @@ image: "/poi-images/moldova-purcari-castle-landmarks-v2.webp"
   },
   {
     id: "moldova-bender-fortress-landmarks-v2",
+    parent: "MD",
     type: "castle",
     name: { de: "Festung Bender (Tighina)", hu: "Benderi (Tighinai) erőd", ro: "Cetatea Bender (Tighina)", en: "Bender Fortress (Tighina)",
 image: "/poi-images/moldova-bender-fortress-landmarks-v2.webp"
@@ -351,6 +361,7 @@ image: "/poi-images/moldova-bender-fortress-landmarks-v2.webp"
   },
   {
     id: "moldova-transfiguration-cathedral-bender-landmarks-v2",
+    parent: "MD",
     type: "cathedral",
     name: { de: "Verklärungskathedrale Bender", hu: "Urunk színeváltozása székesegyház (Bender)", ro: "Catedrala Schimbarea la Față din Bender", en: "Transfiguration Cathedral (Bender)",
 image: "/poi-images/moldova-transfiguration-cathedral-bender-landmarks-v2.webp"
@@ -386,6 +397,7 @@ image: "/poi-images/moldova-transfiguration-cathedral-bender-landmarks-v2.webp"
   },
   {
     id: "moldova-struve-geodetic-arc-rudi-landmarks-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Struve-Bogen in Rudi", hu: "Struve földmérő ív (Rudi)", ro: "Arcul Geodezic Struve de la Rudi", en: "Struve Geodetic Arc (Rudi)",
 image: "/poi-images/moldova-struve-geodetic-arc-rudi-landmarks-v2.webp"
@@ -421,6 +433,7 @@ image: "/poi-images/moldova-struve-geodetic-arc-rudi-landmarks-v2.webp"
   },
   {
     id: "moldova-chisinau-water-tower-landmarks-v2",
+    parent: "MD",
     type: "tower",
     name: { de: "Wasserturm von Chișinău", hu: "Kisinyovi víztorony", ro: "Turnul de apă din Chișinău", en: "Water Tower (Chișinău)",
 image: "/poi-images/moldova-chisinau-water-tower-landmarks-v2.webp"
@@ -455,6 +468,7 @@ image: "/poi-images/moldova-chisinau-water-tower-landmarks-v2.webp"
   },
   {
     id: "moldova-pushkin-museum-chisinau-landmarks-v2",
+    parent: "MD",
     type: "museum",
     name: { de: "Alexander-Puschkin-Museum", hu: "Puskin Múzeum (Kisinyov)", ro: "Muzeul Alexandr Pușkin din Chișinău", en: "Alexander Pushkin Museum",
 image: "/poi-images/moldova-pushkin-museum-chisinau-landmarks-v2.webp"
@@ -490,6 +504,7 @@ image: "/poi-images/moldova-pushkin-museum-chisinau-landmarks-v2.webp"
   },
   {
     id: "moldova-organ-hall-chisinau-landmarks-v2",
+    parent: "MD",
     type: "theater",
     name: { de: "Orgelsaal Chișinău", hu: "Orgona-terem (Kisinyov)", ro: "Sala cu Orgă din Chișinău", en: "Organ Hall (Chișinău)",
 image: "/poi-images/moldova-organ-hall-chisinau-landmarks-v2.webp"
@@ -524,6 +539,7 @@ image: "/poi-images/moldova-organ-hall-chisinau-landmarks-v2.webp"
   },
   {
     id: "moldova-national-opera-theater-landmarks-v2",
+    parent: "MD",
     type: "theater",
     name: { de: "Nationaltheater für Oper und Ballett", hu: "Nemzeti Opera- és Balettszínház", ro: "Teatrul Național de Operă și Balet Maria Bieșu", en: "National Opera and Ballet Theater",
 image: "/poi-images/moldova-national-opera-theater-landmarks-v2.webp"
@@ -559,6 +575,7 @@ image: "/poi-images/moldova-national-opera-theater-landmarks-v2.webp"
   },
   {
     id: "moldova-pommer-mansion-taul-landmarks-v2",
+    parent: "MD",
     type: "palace",
     name: { de: "Herrenhaus Pommer in Taul", hu: "Pommer-kastély (Țaul)", ro: "Conacul Pommer din Țaul", en: "Pommer Mansion (Țaul)",
 image: "/poi-images/moldova-pommer-mansion-taul-landmarks-v2.webp"
@@ -594,6 +611,7 @@ image: "/poi-images/moldova-pommer-mansion-taul-landmarks-v2.webp"
 ,
   {
     id: "moldova-chisinau-city-hall-landmarks-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Rathaus von Chișinău", hu: "Kisinyovi városháza", ro: "Primăria Chișinău", en: "Chisinau City Hall",
 image: "/poi-images/moldova-chisinau-city-hall-landmarks-v2.webp"
@@ -627,6 +645,7 @@ image: "/poi-images/moldova-chisinau-city-hall-landmarks-v2.webp"
   },
   {
     id: "moldova-national-museum-of-art-landmarks-v2",
+    parent: "MD",
     type: "museum",
     name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă", en: "National Museum of Art",
 image: "/poi-images/moldova-national-museum-of-art-landmarks-v2.webp"
@@ -661,6 +680,7 @@ image: "/poi-images/moldova-national-museum-of-art-landmarks-v2.webp"
   },
   {
     id: "moldova-eiffel-bridge-ungheni-landmarks-v2",
+    parent: "MD",
     type: "bridge",
     name: { de: "Eiffel-Brücke Ungheni", hu: "Ungheni-i Eiffel-híd", ro: "Podul Eiffel din Ungheni", en: "Ungheni Eiffel Bridge",
 image: "/poi-images/moldova-eiffel-bridge-ungheni-landmarks-v2.webp"
@@ -695,6 +715,7 @@ image: "/poi-images/moldova-eiffel-bridge-ungheni-landmarks-v2.webp"
   },
   {
     id: "moldova-mazarache-church-landmarks-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Mazarache-Kirche", hu: "Mazarache-templom", ro: "Biserica Mazarache", en: "Mazarache Church",
 image: "/poi-images/moldova-mazarache-church-landmarks-v2.webp"
@@ -729,6 +750,7 @@ image: "/poi-images/moldova-mazarache-church-landmarks-v2.webp"
   },
   {
     id: "moldova-chisinau-railway-station-landmarks-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Bahnhof Chișinău", hu: "Kisinyovi vasútállomás", ro: "Gara din Chișinău", en: "Chisinau Railway Station",
 image: "/poi-images/moldova-chisinau-railway-station-landmarks-v2.webp"
@@ -763,6 +785,7 @@ image: "/poi-images/moldova-chisinau-railway-station-landmarks-v2.webp"
   },
   {
     id: "moldova-national-library-landmarks-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Nationalbibliothek von Moldau", hu: "Moldovai Nemzeti Könyvtár", ro: "Biblioteca Națională", en: "National Library of Moldova",
 image: "/poi-images/moldova-national-library-landmarks-v2.webp"
@@ -797,6 +820,7 @@ image: "/poi-images/moldova-national-library-landmarks-v2.webp"
   },
   {
     id: "moldova-besalma-museum-landmarks-v2",
+    parent: "MD",
     type: "museum",
     name: { de: "Gagauzien-Museum Beșalma", hu: "Beșalmai Gagauz Múzeum", ro: "Muzeul din Beșalma", en: "Besalma Gagauz Museum",
 image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
@@ -831,6 +855,7 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
 ,
   {
     id: "moldova-noul-neamt-monastery-landmarks-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kloster Noul Neamț", hu: "Noul Neamț-kolostor", ro: "Mănăstirea Noul Neamț", en: "Noul Neamț Monastery" },
     coordinates: { lat: 46.8302, lng: 29.5855 },
@@ -850,6 +875,7 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
   },
   {
     id: "moldova-chisinau-circus-landmarks-v2",
+    parent: "MD",
     type: "theater",
     name: { de: "Zirkus Chișinău", hu: "Kisinyovi Cirkusz", ro: "Circul din Chișinău", en: "Chisinau Circus" },
     coordinates: { lat: 47.0375, lng: 28.8495 },
@@ -869,6 +895,7 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
   },
   {
     id: "moldova-ciuflea-monastery-landmarks-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Ciuflea-Kloster", hu: "Ciuflea-kolostor", ro: "Mănăstirea Ciuflea", en: "Ciuflea Monastery" },
     coordinates: { lat: 47.0133, lng: 28.8475 },
@@ -888,6 +915,7 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
   },
   {
     id: "moldova-candle-of-gratitude-landmarks-v2",
+    parent: "MD",
     type: "monument",
     name: { de: "Kerze der Dankbarkeit", hu: "A Hála Gyertyája", ro: "Lumânarea Recunoștinței", en: "Candle of Gratitude" },
     coordinates: { lat: 48.1364, lng: 28.3031 },
@@ -907,6 +935,7 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
   },
   {
     id: "moldova-st-teodora-de-la-sihla-landmarks-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kirche St. Teodora de la Sihla", hu: "Szt. Teodora de la Sihla-templom", ro: "Biserica Sfânta Teodora de la Sihla", en: "St. Teodora de la Sihla Church" },
     coordinates: { lat: 47.0223, lng: 28.8315 },
@@ -926,6 +955,7 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
   },
   {
     id: "moldova-mihai-eminescu-theatre-landmarks-v2",
+    parent: "MD",
     type: "theater",
     name: { de: "Nationaltheater \"Mihai Eminescu\"", hu: "Mihai Eminescu Nemzeti Színház", ro: "Teatrul Național \"Mihai Eminescu\"", en: "National Theatre \"Mihai Eminescu\"" },
     coordinates: { lat: 47.0232, lng: 28.8375 },
@@ -945,6 +975,7 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
   },
   {
     id: "moldova-balti-cathedral-landmarks-v2",
+    parent: "MD",
     type: "cathedral",
     name: { de: "Kathedrale der Heiligen Konstantin und Helena", hu: "Szent Konstantin és Ilona-székesegyház", ro: "Catedrala Sfinții Împărați Constantin și Elena", en: "Cathedral of Saints Constantine and Helen" },
     coordinates: { lat: 47.7667, lng: 27.9167 },

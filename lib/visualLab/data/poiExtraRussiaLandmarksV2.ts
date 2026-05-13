@@ -3,6 +3,7 @@ export const russiaLandmarksV2: POI[] = [
 
   {
     id: "russia-saint-basils-cathedral-landmarks-v2",
+    parent: "RU",
     type: "cathedral",
     name: { de: "Basilius-Kathedrale", hu: "Boldog Vazul-székesegyház", ro: "Catedrala Sfântul Vasile", en: "Saint Basil's Cathedral",
 image: "/poi-images/russia-saint-basils-cathedral-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Saint Basil's Cathedral Moscow Red Square colorful domes",
     , image: "/poi-images/russia-saint-basils-cathedral-landmarks-v2.webp",
 },  {
     id: "russia-hermitage-museum-landmarks-v2",
+    parent: "RU",
     type: "museum",
     name: { de: "Eremitage-Museum", hu: "Ermitázs Múzeum", ro: "Muzeul Ermitaj", en: "Hermitage Museum",
 image: "/poi-images/russia-hermitage-museum-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Winter Palace Hermitage Museum Saint Petersburg green facade",
     , image: "/poi-images/russia-hermitage-museum-landmarks-v2.webp",
 },  {
     id: "russia-motherland-calls-landmarks-v2",
+    parent: "RU",
     type: "monument",
     name: { de: "Mutter-Heimat-Statue", hu: "Haza anyácska hív", ro: "Statuia Patria Mamă te cheamă", en: "The Motherland Calls",
 image: "/poi-images/russia-motherland-calls-landmarks-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "The Motherland Calls statue Volgograd Mamayev Kurgan",
     , image: "/poi-images/russia-motherland-calls-landmarks-v2.webp",
 },  {
     id: "russia-savior-on-spilled-blood-landmarks-v2",
+    parent: "RU",
     type: "church",
     name: { de: "Auferstehungskirche", hu: "Vérző Megváltó temploma", ro: "Biserica Mântuitorului pe Sânge Vărsat", en: "Church of the Savior on Spilled Blood",
 image: "/poi-images/russia-savior-on-spilled-blood-landmarks-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Church of the Savior on Spilled Blood Saint Petersburg mosaics",
     , image: "/poi-images/russia-savior-on-spilled-blood-landmarks-v2.webp",
 },  {
     id: "russia-bolshoi-theatre-landmarks-v2",
+    parent: "RU",
     type: "theater",
     name: { de: "Bolschoi-Theater", hu: "Nagyszínház (Bolsoj)", ro: "Teatrul Bolșoi", en: "Bolshoi Theatre",
 image: "/poi-images/russia-bolshoi-theatre-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Bolshoi Theatre Moscow facade and Quadriga statue",
     , image: "/poi-images/russia-bolshoi-theatre-landmarks-v2.webp",
 },  {
     id: "russia-ostankino-tower-landmarks-v2",
+    parent: "RU",
     type: "tower",
     name: { de: "Ostankino-Turm", hu: "Osztankinói tévétorony", ro: "Turnul Ostankino", en: "Ostankino Tower",
 image: "/poi-images/russia-ostankino-tower-landmarks-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Ostankino Tower Moscow tall structure",
     , image: "/poi-images/russia-ostankino-tower-landmarks-v2.webp",
 },  {
     id: "russia-christ-the-saviour-cathedral-landmarks-v2",
+    parent: "RU",
     type: "cathedral",
     name: { de: "Christ-Erlöser-Kathedrale", hu: "Megváltó Krisztus-székesegyház", ro: "Catedrala Hristos Mântuitorul", en: "Cathedral of Christ the Saviour",
 image: "/poi-images/russia-christ-the-saviour-cathedral-landmarks-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Cathedral of Christ the Saviour Moscow white walls golden domes",
     , image: "/poi-images/russia-christ-the-saviour-cathedral-landmarks-v2.webp",
 },  {
     id: "russia-smolny-convent-landmarks-v2",
+    parent: "RU",
     type: "monastery",
     name: { de: "Smolny-Kloster", hu: "Szmolnij-kolostor", ro: "Mănăstirea Smolnîi", en: "Smolny Convent",
 image: "/poi-images/russia-smolny-convent-landmarks-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Smolny Convent Saint Petersburg blue and white Baroque",
     , image: "/poi-images/russia-smolny-convent-landmarks-v2.webp",
 },  {
     id: "russia-pskov-krom-landmarks-v2",
+    parent: "RU",
     type: "fortress",
     name: { de: "Pskower Kreml", hu: "Pszkovi Kreml (Krom)", ro: "Kremlinul din Pskov", en: "Pskov Krom",
 image: "/poi-images/russia-pskov-krom-landmarks-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Pskov Krom fortress walls and river",
     , image: "/poi-images/russia-pskov-krom-landmarks-v2.webp",
 },  {
     id: "russia-rostov-kremlin-landmarks-v2",
+    parent: "RU",
     type: "fortress",
     name: { de: "Rostower Kreml", hu: "Rosztovi Kreml", ro: "Kremlinul din Rostov", en: "Rostov Kremlin",
 image: "/poi-images/russia-rostov-kremlin-landmarks-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Rostov Kremlin white walls and silver domes",
     , image: "/poi-images/russia-rostov-kremlin-landmarks-v2.webp",
 },  {
     id: "russia-kul-sharif-mosque-landmarks-v2",
+    parent: "RU",
     type: "church",
     name: { de: "Kul-Scharif-Moschee", hu: "Kul-Sarif mecset", ro: "Moscheea Kul Sharif", en: "Kul Sharif Mosque",
 image: "/poi-images/russia-kul-sharif-mosque-landmarks-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Kul Sharif Mosque Kazan blue roof white walls",
     , image: "/poi-images/russia-kul-sharif-mosque-landmarks-v2.webp",
 },  {
     id: "russia-gum-landmarks-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Kaufhaus GUM", hu: "GUM áruház", ro: "Magazinul GUM", en: "GUM",
 image: "/poi-images/russia-gum-landmarks-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "GUM department store Moscow interior glass roof",
     , image: "/poi-images/russia-gum-landmarks-v2.webp",
 },  {
     id: "russia-mariinsky-theatre-landmarks-v2",
+    parent: "RU",
     type: "theater",
     name: { de: "Mariinski-Theater", hu: "Mariinszkij Színház", ro: "Teatrul Mariinski", en: "Mariinsky Theatre",
 image: "/poi-images/russia-mariinsky-theatre-landmarks-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Mariinsky Theatre Saint Petersburg facade",
     , image: "/poi-images/russia-mariinsky-theatre-landmarks-v2.webp",
 },  {
     id: "russia-palace-bridge-landmarks-v2",
+    parent: "RU",
     type: "bridge",
     name: { de: "Schlossbrücke", hu: "Palota híd", ro: "Podul Palatului", en: "Palace Bridge",
 image: "/poi-images/russia-palace-bridge-landmarks-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Palace Bridge Saint Petersburg open at night",
     , image: "/poi-images/russia-palace-bridge-landmarks-v2.webp",
 },  {
     id: "russia-peter-the-great-monument-landmarks-v2",
+    parent: "RU",
     type: "monument",
     name: { de: "Peter-der-Große-Denkmal", hu: "I. Péter emlékmű", ro: "Monumentul lui Petru cel Mare", en: "Monument to Peter I",
 image: "/poi-images/russia-peter-the-great-monument-landmarks-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
     , image: "/poi-images/russia-peter-the-great-monument-landmarks-v2.webp",
 },  {
     id: "russia-church-of-ascension-kolomenskoye-landmarks-v2",
+    parent: "RU",
     type: "church",
     name: { de: "Christi-Himmelfahrts-Kirche", hu: "Krisztus mennybemenetele templom", ro: "Biserica Înălțării din Kolomenskoe", en: "Church of the Ascension",
 image: "/poi-images/russia-church-of-ascension-kolomenskoye-landmarks-v2.webp"
@@ -548,6 +564,7 @@ imageHint: "Church of the Ascension Kolomenskoye tent roof",
 },
   {
     id: "russia-novodevichy-convent-landmarks-v2",
+    parent: "RU",
     type: "church",
     name: { de: "Nowodewitschi-Kloster", hu: "Novogyevicsij-kolostor", ro: "Mănăstirea Novodevici", en: "Novodevichy Convent",
 image: "/poi-images/russia-novodevichy-convent-landmarks-v2.webp"
@@ -582,6 +599,7 @@ image: "/poi-images/russia-novodevichy-convent-landmarks-v2.webp"
   },
   {
     id: "russia-state-historical-museum-landmarks-v2",
+    parent: "RU",
     type: "museum",
     name: { de: "Staatliches Historisches Museum", hu: "Állami Történeti Múzeum", ro: "Muzeul de Istorie de Stat", en: "State Historical Museum",
 image: "/poi-images/russia-state-historical-museum-landmarks-v2.webp"
@@ -616,6 +634,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
     , image: "/poi-images/russia-state-historical-museum-landmarks-v2.webp",
 },  {
     id: "russia-alexander-palace-landmarks-v2",
+    parent: "RU",
     type: "palace",
     name: { de: "Alexanderpalast", hu: "Alekszander-palota", ro: "Palatul Alexandru", en: "Alexander Palace",
 image: "/poi-images/russia-alexander-palace-landmarks-v2.webp"
@@ -651,6 +670,7 @@ imageHint: "Alexander Palace Neoclassical facade in Tsarskoye Selo",
 },
   {
     id: "russia-saint-isaacs-cathedral-landmarks-v2",
+    parent: "RU",
     type: "cathedral",
     name: { de: "Isaaks-Kathedrale", hu: "Szent Izsák-székesegyház", ro: "Catedrala Sfântul Isaac", en: "Saint Isaac's Cathedral",
 image: "/poi-images/russia-saint-isaacs-cathedral-landmarks-v2.webp"
@@ -685,6 +705,7 @@ image: "/poi-images/russia-saint-isaacs-cathedral-landmarks-v2.webp"
   },
   {
     id: "russia-kazan-cathedral-landmarks-v2",
+    parent: "RU",
     type: "cathedral",
     name: { de: "Kasaner Kathedrale", hu: "Kazanyi-székesegyház", ro: "Catedrala Kazan", en: "Kazan Cathedral",
 image: "/poi-images/russia-kazan-cathedral-landmarks-v2.webp"
@@ -719,6 +740,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
     , image: "/poi-images/russia-kazan-cathedral-landmarks-v2.webp",
 },  {
     id: "russia-tsaritsyno-palace-landmarks-v2",
+    parent: "RU",
     type: "palace",
     name: { de: "Zarizyno-Palast", hu: "Caricinoi palota", ro: "Palatul Țarițîno", en: "Tsaritsyno Palace",
 image: "/poi-images/russia-tsaritsyno-palace-landmarks-v2.webp"
@@ -753,6 +775,7 @@ imageHint: "Tsaritsyno Palace red brick architecture Moscow",
     , image: "/poi-images/russia-tsaritsyno-palace-landmarks-v2.webp",
 },  {
     id: "russia-tretyakov-gallery-landmarks-v2",
+    parent: "RU",
     type: "museum",
     name: { de: "Tretjakow-Galerie", hu: "Tretyakov Képtár", ro: "Galeria Tretiakov", en: "Tretyakov Gallery",
 image: "/poi-images/russia-tretyakov-gallery-landmarks-v2.webp"
@@ -787,6 +810,7 @@ imageHint: "Tretyakov Gallery facade in Moscow",
     , image: "/poi-images/russia-tretyakov-gallery-landmarks-v2.webp",
 },  {
     id: "russia-russian-museum-landmarks-v2",
+    parent: "RU",
     type: "museum",
     name: { de: "Russisches Museum", hu: "Orosz Múzeum", ro: "Muzeul Rus", en: "Russian Museum",
 image: "/poi-images/russia-russian-museum-landmarks-v2.webp"
@@ -821,6 +845,7 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
     , image: "/poi-images/russia-russian-museum-landmarks-v2.webp",
 },  {
     id: "russia-tobolsk-kremlin-landmarks-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Tobolsker Kreml", hu: "Tobolszki kreml", ro: "Kremlinul din Tobolsk", en: "Tobolsk Kremlin",
 image: "/poi-images/russia-tobolsk-kremlin-landmarks-v2.webp"
@@ -855,6 +880,7 @@ imageHint: "Tobolsk Kremlin white stone walls Siberia",
     , image: "/poi-images/russia-tobolsk-kremlin-landmarks-v2.webp",
 },  {
     id: "russia-russky-bridge-landmarks-v2",
+    parent: "RU",
     type: "bridge",
     name: { de: "Russki-Brücke", hu: "Russzkij-híd", ro: "Podul Russki", en: "Russky Bridge",
 image: "/poi-images/russia-russky-bridge-landmarks-v2.webp"
@@ -889,6 +915,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
     , image: "/poi-images/russia-russky-bridge-landmarks-v2.webp",
 },  {
     id: "russia-tula-kremlin-landmarks-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Tulaer Kreml", hu: "Tulai kreml", ro: "Kremlinul din Tula", en: "Tula Kremlin",
 image: "/poi-images/russia-tula-kremlin-landmarks-v2.webp"
@@ -923,6 +950,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
     , image: "/poi-images/russia-tula-kremlin-landmarks-v2.webp",
 },  {
     id: "russia-kuskovo-estate-landmarks-v2",
+    parent: "RU",
     type: "palace",
     name: { de: "Landgut Kuskowo", hu: "Kuszkovói kastély", ro: "Domeniul Kuskovo", en: "Kuskovo Estate",
 image: "/poi-images/russia-kuskovo-estate-landmarks-v2.webp"
@@ -957,6 +985,7 @@ imageHint: "Kuskovo Estate pink palace and pond",
     , image: "/poi-images/russia-kuskovo-estate-landmarks-v2.webp",
 },  {
     id: "russia-nizhny-novgorod-kremlin-landmarks-v2",
+    parent: "RU",
     type: "castle",
     name: { de: "Nischni-Nowgoroder Kreml", hu: "Nyizsnyij Novgorod-i kreml", ro: "Kremlinul din Nijni Novgorod", en: "Nizhny Novgorod Kremlin",
 image: "/poi-images/russia-nizhny-novgorod-kremlin-landmarks-v2.webp"
@@ -991,6 +1020,7 @@ imageHint: "Nizhny Novgorod Kremlin walls on a hill",
     , image: "/poi-images/russia-nizhny-novgorod-kremlin-landmarks-v2.webp",
 },  {
     id: "russia-smolensk-fortress-wall-landmarks-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Smolensker Festungsmauer", hu: "Szmolenszki várfal", ro: "Zidul cetății din Smolensk", en: "Smolensk Fortress Wall",
 image: "/poi-images/russia-smolensk-fortress-wall-landmarks-v2.webp"

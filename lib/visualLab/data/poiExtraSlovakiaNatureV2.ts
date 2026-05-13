@@ -3,6 +3,7 @@ export const slovakiaNatureV2: POI[] = [
 
   {
     id: "slovakia-low-tatras-nature-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Niedere Tatra", hu: "Alacsony-Tátra", ro: "Munții Tatra Joasă", en: "Low Tatras",
 image: "/poi-images/slovakia-low-tatras-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Dumbier peak in Low Tatras during summer",
     , image: "/poi-images/slovakia-low-tatras-nature-v2.webp",
 },  {
     id: "slovakia-mala-fatra-nature-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Kleine Fatra", hu: "Kis-Fatra", ro: "Mala Fatra", en: "Malá Fatra",
 image: "/poi-images/slovakia-mala-fatra-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Velky Rozsutec peak in Mala Fatra",
     , image: "/poi-images/slovakia-mala-fatra-nature-v2.webp",
 },  {
     id: "slovakia-velka-fatra-nature-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Große Fatra", hu: "Nagy-Fatra", ro: "Munții Velka Fatra", en: "Veľká Fatra",
 image: "/poi-images/slovakia-velka-fatra-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Meadows of Velka Fatra mountains",
     , image: "/poi-images/slovakia-velka-fatra-nature-v2.webp",
 },  {
     id: "slovakia-pieniny-nature-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Pieninen", hu: "Pieninek", ro: "Munții Pieniny", en: "Pieniny",
 image: "/poi-images/slovakia-pieniny-nature-v2.webp"
@@ -140,6 +144,7 @@ imageHint: "Rafting on Dunajec river in Pieniny",
     , image: "/poi-images/slovakia-pieniny-nature-v2.webp",
 },  {
     id: "slovakia-muranska-planina-nature-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Muraner Plateau", hu: "Murányi-fennsík", ro: "Podișul Muránska", en: "Muránska planina",
 image: "/poi-images/slovakia-muranska-planina-nature-v2.webp"
@@ -174,6 +179,7 @@ imageHint: "Wild horses on Muranska planina plateau",
     , image: "/poi-images/slovakia-muranska-planina-nature-v2.webp",
 },  {
     id: "slovakia-slovak-karst-nature-v2",
+    parent: "SK",
     type: "landmark",
     name: { de: "Slowakischer Karst", hu: "Szlovák-karszt", ro: "Carstul Slovac", en: "Slovak Karst",
 image: "/poi-images/slovakia-slovak-karst-nature-v2.webp"
@@ -208,6 +214,7 @@ imageHint: "Limestone plateau of Slovak Karst",
     , image: "/poi-images/slovakia-slovak-karst-nature-v2.webp",
 },  {
     id: "slovakia-orava-river-nature-v2",
+    parent: "SK",
     type: "river",
     name: { de: "Arwa (Fluss)", hu: "Árva (folyó)", ro: "Râul Orava", en: "Orava River",
 image: "/poi-images/slovakia-orava-river-nature-v2.webp"
@@ -242,6 +249,7 @@ imageHint: "Orava river flowing under a castle",
     , image: "/poi-images/slovakia-orava-river-nature-v2.webp",
 },  {
     id: "slovakia-vah-river-nature-v2",
+    parent: "SK",
     type: "river",
     name: { de: "Waag (Fluss)", hu: "Vág", ro: "Râul Váh", en: "Váh River",
 image: "/poi-images/slovakia-vah-river-nature-v2.webp"
@@ -276,6 +284,7 @@ imageHint: "The Vah river landscape near Zilina",
     , image: "/poi-images/slovakia-vah-river-nature-v2.webp",
 },  {
     id: "slovakia-hron-river-nature-v2",
+    parent: "SK",
     type: "river",
     name: { de: "Gran (Fluss)", hu: "Garam", ro: "Râul Hron", en: "Hron River",
 image: "/poi-images/slovakia-hron-river-nature-v2.webp"
@@ -310,6 +319,7 @@ imageHint: "Hron river valley in central Slovakia",
     , image: "/poi-images/slovakia-hron-river-nature-v2.webp",
 },  {
     id: "slovakia-ipel-river-nature-v2",
+    parent: "SK",
     type: "river",
     name: { de: "Eipel (Fluss)", hu: "Ipoly", ro: "Râul Ipeľ", en: "Ipeľ River",
 image: "/poi-images/slovakia-ipel-river-nature-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "Ipel river bordering Slovakia and Hungary",
     , image: "/poi-images/slovakia-ipel-river-nature-v2.webp",
 },  {
     id: "slovakia-zemplinska-sirava-nature-v2",
+    parent: "SK",
     type: "lake",
     name: { de: "Zemplínska šírava", hu: "Széles-tó", ro: "Zemplínska šírava", en: "Zemplínska šírava",
 image: "/poi-images/slovakia-zemplinska-sirava-nature-v2.webp"
@@ -378,6 +389,7 @@ imageHint: "Sunset over Zemplinska sirava lake",
     , image: "/poi-images/slovakia-zemplinska-sirava-nature-v2.webp",
 },  {
     id: "slovakia-orava-reservoir-nature-v2",
+    parent: "SK",
     type: "lake",
     name: { de: "Arwa-Stausee", hu: "Árvai-víztározó", ro: "Lacul de acumulare Orava", en: "Orava Reservoir",
 image: "/poi-images/slovakia-orava-reservoir-nature-v2.webp"
@@ -412,6 +424,7 @@ imageHint: "Orava reservoir with Slanica island",
     , image: "/poi-images/slovakia-orava-reservoir-nature-v2.webp",
 },  {
     id: "slovakia-liptovska-mara-nature-v2",
+    parent: "SK",
     type: "lake",
     name: { de: "Liptau-Stausee", hu: "Szentmáriai-víztározó", ro: "Liptovská Mara", en: "Liptovská Mara",
 image: "/poi-images/slovakia-liptovska-mara-nature-v2.webp"
@@ -446,6 +459,7 @@ imageHint: "Liptovska Mara lake with mountains in background",
     , image: "/poi-images/slovakia-liptovska-mara-nature-v2.webp",
 },  {
     id: "slovakia-morske-oko-nature-v2",
+    parent: "SK",
     type: "lake",
     name: { de: "Morské oko (Vihorlat)", hu: "Szinnai-tó", ro: "Morské oko", en: "Morské oko",
 image: "/poi-images/slovakia-morske-oko-nature-v2.webp"
@@ -480,6 +494,7 @@ imageHint: "Crystal clear water of Morske oko lake",
     , image: "/poi-images/slovakia-morske-oko-nature-v2.webp",
 },  {
     id: "slovakia-demanovska-cave-liberty-nature-v2",
+    parent: "SK",
     type: "landmark",
     name: { de: "Demänováer Freiheitshöhle", hu: "Deményfalvi-szabadság-barlang", ro: "Peștera Libertății Demänovská", en: "Demänovská Cave of Liberty",
 image: "/poi-images/slovakia-demanovska-cave-liberty-nature-v2.webp"
@@ -514,6 +529,7 @@ imageHint: "Inside Demanovska Cave of Liberty",
     , image: "/poi-images/slovakia-demanovska-cave-liberty-nature-v2.webp",
 },  {
     id: "slovakia-dobsina-ice-cave-nature-v2",
+    parent: "SK",
     type: "landmark",
     name: { de: "Dobschauer Eishöhle", hu: "Dobsinai-jégbarlang", ro: "Peștera de Gheață Dobšiná", en: "Dobšiná Ice Cave",
 image: "/poi-images/slovakia-dobsina-ice-cave-nature-v2.webp"
@@ -548,6 +564,7 @@ imageHint: "Massive ice formations in Dobsina cave",
     , image: "/poi-images/slovakia-dobsina-ice-cave-nature-v2.webp",
 },  {
     id: "slovakia-ochtinska-aragonite-cave-nature-v2",
+    parent: "SK",
     type: "landmark",
     name: { de: "Ochtinaer Aragonithöhle", hu: "Martonházi-aragonitbarlang", ro: "Peștera de Aragonit Ochtinská", en: "Ochtinská Aragonite Cave",
 image: "/poi-images/slovakia-ochtinska-aragonite-cave-nature-v2.webp"
@@ -570,6 +587,7 @@ image: "/poi-images/slovakia-ochtinska-aragonite-cave-nature-v2.webp"
     image: "/poi-images/slovakia-ochtinska-aragonite-cave-nature-v2.webp"},
   {
     id: "slovakia-domica-cave-nature-v2",
+    parent: "SK",
     type: "landmark",
     name: { de: "Domica-Höhle", hu: "Domica-barlang", ro: "Peștera Domica", en: "Domica Cave",
 image: "/poi-images/slovakia-domica-cave-nature-v2.webp"
@@ -604,6 +622,7 @@ imageHint: "Underground river Styx in Domica cave",
     , image: "/poi-images/slovakia-domica-cave-nature-v2.webp",
 },  {
     id: "slovakia-janosikove-diery-nature-v2",
+    parent: "SK",
     type: "valley",
     name: { de: "Jánošíkove diery", hu: "Jánosik-szurdok", ro: "Jánošíkove diery", en: "Jánošíkove diery",
 image: "/poi-images/slovakia-janosikove-diery-nature-v2.webp"
@@ -626,6 +645,7 @@ image: "/poi-images/slovakia-janosikove-diery-nature-v2.webp"
     image: "/poi-images/slovakia-janosikove-diery-nature-v2.webp"},
   {
     id: "slovakia-prosiecka-dolina-nature-v2",
+    parent: "SK",
     type: "valley",
     name: { de: "Prosiecka-Tal", hu: "Prószék-völgy", ro: "Valea Prosiecka", en: "Prosiecka dolina",
 image: "/poi-images/slovakia-prosiecka-dolina-nature-v2.webp"
@@ -660,6 +680,7 @@ imageHint: "Deep limestone canyon of Prosiecka dolina",
     , image: "/poi-images/slovakia-prosiecka-dolina-nature-v2.webp",
 },  {
     id: "slovakia-sulov-rocks-nature-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Súľover Felsen", hu: "Szulyói-sziklák", ro: "Stâncile Súľov", en: "Súľovské skaly",
 image: "/poi-images/slovakia-sulov-rocks-nature-v2.webp"
@@ -682,6 +703,7 @@ image: "/poi-images/slovakia-sulov-rocks-nature-v2.webp"
     image: "/poi-images/slovakia-sulov-rocks-nature-v2.webp"},
   {
     id: "slovakia-vihorlat-mountains-nature-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Vihorlat-Gebirge", hu: "Vihorlát-hegység", ro: "Munții Vihorlat", en: "Vihorlat Mountains",
 image: "/poi-images/slovakia-vihorlat-mountains-nature-v2.webp"
@@ -716,6 +738,7 @@ imageHint: "Forested slopes of Vihorlat mountains",
     , image: "/poi-images/slovakia-vihorlat-mountains-nature-v2.webp",
 },  {
     id: "slovakia-sninsky-kamen-nature-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Sninský kameň", hu: "Szinnai-kő", ro: "Sninský kameň", en: "Sninský kameň",
 image: "/poi-images/slovakia-sninsky-kamen-nature-v2.webp"
@@ -750,6 +773,7 @@ imageHint: "View from Sninsky kamen rock summit",
     , image: "/poi-images/slovakia-sninsky-kamen-nature-v2.webp",
 },  {
     id: "slovakia-maninska-tiesnava-nature-v2",
+    parent: "SK",
     type: "valley",
     name: { de: "Manín-Schlucht", hu: "Manini-szoros", ro: "Defileul Manínska", en: "Manínska tiesňava",
 image: "/poi-images/slovakia-maninska-tiesnava-nature-v2.webp"
@@ -784,6 +808,7 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
     , image: "/poi-images/slovakia-maninska-tiesnava-nature-v2.webp",
 },  {
     id: "slovakia-kvacianska-dolina-nature-v2",
+    parent: "SK",
     type: "valley",
     name: { de: "Kvačianska-Tal", hu: "Kvacsányi-völgy", ro: "Valea Kvačianska", en: "Kvačianska dolina",
 image: "/poi-images/slovakia-kvacianska-dolina-nature-v2.webp"
@@ -818,6 +843,7 @@ imageHint: "Old water mills in Kvacianska dolina",
     , image: "/poi-images/slovakia-kvacianska-dolina-nature-v2.webp",
 },  {
     id: "slovakia-devinska-kobyla-nature-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Devínska Kobyla", hu: "Dévényi-tető", ro: "Devínska Kobyla", en: "Devínska Kobyla",
 image: "/poi-images/slovakia-devinska-kobyla-nature-v2.webp"

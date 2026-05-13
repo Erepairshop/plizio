@@ -3,6 +3,7 @@ export const icelandEconomicV2: POI[] = [
 
   {
     id: "iceland-hellisheidi-power-station-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Geothermiekraftwerk Hellisheiði", hu: "Hellisheiði geotermikus erőmű", ro: "Centrala geotermală Hellisheiði", en: "Hellisheiði Geothermal Power Station",
 image: "/poi-images/iceland-hellisheidi-power-station-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Hellisheidi Geothermal Power Plant aerial view",
     image: "/poi-images/iceland-hellisheidi-power-station-economic-v2.webp",
 },  {
     id: "iceland-nesjavellir-power-station-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Nesjavellir", hu: "Nesjavellir erőmű", ro: "Centrala Nesjavellir", en: "Nesjavellir Power Station",
 image: "/poi-images/iceland-nesjavellir-power-station-economic-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Nesjavellir Power Station pipes and steam",
     image: "/poi-images/iceland-nesjavellir-power-station-economic-v2.webp",
 },  {
     id: "iceland-karahnjukar-hydropower-plant-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Wasserkraftwerk Kárahnjúkar", hu: "Kárahnjúkar vízerőmű", ro: "Centrala hidroelectrică Kárahnjúkar", en: "Kárahnjúkar Hydropower Plant",
 image: "/poi-images/iceland-karahnjukar-hydropower-plant-economic-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Karahnjukar dam and reservoir Iceland",
     image: "/poi-images/iceland-karahnjukar-hydropower-plant-economic-v2.webp",
 },  {
     id: "iceland-straumsvik-aluminium-smelter-economic-v2",
+    parent: "IS",
     type: "factory",
     name: { de: "Aluminiumhütte Straumsvík", hu: "Straumsvík alumíniumkohó", ro: "Topitoria de aluminiu Straumsvík", en: "Straumsvík Aluminium Smelter",
 image: "/poi-images/iceland-straumsvik-aluminium-smelter-economic-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Straumsvik aluminium smelter coast Iceland",
     image: "/poi-images/iceland-straumsvik-aluminium-smelter-economic-v2.webp",
 },  {
     id: "iceland-fjardaal-aluminium-smelter-economic-v2",
+    parent: "IS",
     type: "factory",
     name: { de: "Aluminiumhütte Fjardaál", hu: "Fjardaál alumíniumkohó", ro: "Topitoria de aluminiu Fjardaál", en: "Fjardaál Aluminium Smelter",
 image: "/poi-images/iceland-fjardaal-aluminium-smelter-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Alcoa Fjardaal smelter Reydarfjordur Iceland",
     image: "/poi-images/iceland-fjardaal-aluminium-smelter-economic-v2.webp",
 },  {
     id: "iceland-grundartangi-aluminium-smelter-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Industriezentrum Grundartangi", hu: "Grundartangi ipari központ", ro: "Centrul industrial Grundartangi", en: "Grundartangi Industrial Center",
 image: "/poi-images/iceland-grundartangi-aluminium-smelter-economic-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Grundartangi industrial site Hvalfjordur",
     image: "/poi-images/iceland-grundartangi-aluminium-smelter-economic-v2.webp",
 },  {
     id: "iceland-reykjavik-port-economic-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Hafen von Reykjavík", hu: "Reykjavíki kikötő", ro: "Portul Reykjavík", en: "Reykjavík Port",
 image: "/poi-images/iceland-reykjavik-port-economic-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Reykjavik Old Harbour with fishing boats",
     image: "/poi-images/iceland-reykjavik-port-economic-v2.webp",
 },  {
     id: "iceland-akureyri-port-economic-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Hafen von Akureyri", hu: "Akureyri kikötője", ro: "Portul Akureyri", en: "Akureyri Port",
 image: "/poi-images/iceland-akureyri-port-economic-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Port of Akureyri with cruise ship",
     image: "/poi-images/iceland-akureyri-port-economic-v2.webp",
 },  {
     id: "iceland-grindavik-port-economic-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Hafen von Grindavík", hu: "Grindavíki kikötő", ro: "Portul Grindavík", en: "Grindavík Port",
 image: "/poi-images/iceland-grindavik-port-economic-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Grindavik harbour with fishing fleet",
     image: "/poi-images/iceland-grindavik-port-economic-v2.webp",
 },  {
     id: "iceland-vestmannaeyjar-port-economic-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Hafen der Westmännerinseln", hu: "Vestmannaeyjar kikötője", ro: "Portul din Insulele Vestmann", en: "Vestmannaeyjar Port",
 image: "/poi-images/iceland-vestmannaeyjar-port-economic-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Heimaey harbour entrance volcanic rocks",
     image: "/poi-images/iceland-vestmannaeyjar-port-economic-v2.webp",
 },  {
     id: "iceland-keflavik-airport-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Flughafen Keflavík", hu: "Keflavík repülőtér", ro: "Aeroportul Keflavík", en: "Keflavík International Airport",
 image: "/poi-images/iceland-keflavik-airport-economic-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Keflavik International Airport terminal exterior",
     image: "/poi-images/iceland-keflavik-airport-economic-v2.webp",
 },  {
     id: "iceland-hveragerdi-greenhouses-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Gewächshäuser von Hveragerði", hu: "Hveragerði üvegházai", ro: "Serele din Hveragerði", en: "Hveragerði Greenhouses",
 image: "/poi-images/iceland-hveragerdi-greenhouses-economic-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Hveragerdi greenhouses lit up at night",
     image: "/poi-images/iceland-hveragerdi-greenhouses-economic-v2.webp",
 },  {
     id: "iceland-selfoss-dairy-plant-economic-v2",
+    parent: "IS",
     type: "factory",
     name: { de: "Molkerei Selfoss", hu: "Selfossi tejüzem", ro: "Fabrica de lactate Selfoss", en: "Selfoss Dairy Plant",
 image: "/poi-images/iceland-selfoss-dairy-plant-economic-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Selfoss dairy processing plant exterior",
     image: "/poi-images/iceland-selfoss-dairy-plant-economic-v2.webp",
 },  {
     id: "iceland-svartsengi-power-station-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Svartsengi", hu: "Svartsengi erőmű", ro: "Centrala Svartsengi", en: "Svartsengi Power Station",
 image: "/poi-images/iceland-svartsengi-power-station-economic-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Svartsengi power plant near Blue Lagoon",
     image: "/poi-images/iceland-svartsengi-power-station-economic-v2.webp",
 },  {
     id: "iceland-krafla-power-station-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Krafla", hu: "Krafla erőmű", ro: "Centrala Krafla", en: "Krafla Power Station",
 image: "/poi-images/iceland-krafla-power-station-economic-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Krafla geothermal power plant steam Iceland",
     image: "/poi-images/iceland-krafla-power-station-economic-v2.webp",
 },  {
     id: "iceland-burfell-hydropower-plant-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Wasserkraftwerk Búrfell", hu: "Búrfell vízerőmű", ro: "Centrala hidroelectrică Búrfell", en: "Búrfell Hydropower Plant",
 image: "/poi-images/iceland-burfell-hydropower-plant-economic-v2.webp"
@@ -547,6 +563,7 @@ image: "/poi-images/iceland-burfell-hydropower-plant-economic-v2.webp"
   },
   {
     id: "iceland-sultartangi-hydropower-plant-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Wasserkraftwerk Sultartangi", hu: "Sultartangi vízerőmű", ro: "Centrala hidroelectrică Sultartangi", en: "Sultartangi Hydropower Plant",
 image: "/poi-images/iceland-sultartangi-hydropower-plant-economic-v2.webp"
@@ -581,6 +598,7 @@ image: "/poi-images/iceland-sultartangi-hydropower-plant-economic-v2.webp"
   },
   {
     id: "iceland-sigalda-hydropower-plant-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Sigalda", hu: "Sigalda erőmű", ro: "Centrala Sigalda", en: "Sigalda Power Station",
 image: "/poi-images/iceland-sigalda-hydropower-plant-economic-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Sigalda power station in highlands",
     image: "/poi-images/iceland-sigalda-hydropower-plant-economic-v2.webp",
 },  {
     id: "iceland-hrauneyjafoss-hydropower-plant-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Wasserkraftwerk Hrauneyjafoss", hu: "Hrauneyjafoss vízerőmű", ro: "Hidrocentrala Hrauneyjafoss", en: "Hrauneyjafoss Hydropower Plant",
 image: "/poi-images/iceland-hrauneyjafoss-hydropower-plant-economic-v2.webp"
@@ -649,6 +668,7 @@ image: "/poi-images/iceland-hrauneyjafoss-hydropower-plant-economic-v2.webp"
   },
   {
     id: "iceland-vatnsfell-hydropower-plant-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Vatnsfell", hu: "Vatnsfell erőmű", ro: "Centrala Vatnsfell", en: "Vatnsfell Power Station",
 image: "/poi-images/iceland-vatnsfell-hydropower-plant-economic-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Vatnsfell power plant highland landscape",
     image: "/poi-images/iceland-vatnsfell-hydropower-plant-economic-v2.webp",
 },  {
     id: "iceland-blonda-hydropower-plant-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Wasserkraftwerk Blöndustöð", hu: "Blöndustöð vízerőmű", ro: "Hidrocentrala Blöndustöð", en: "Blöndustöð Hydropower Plant",
 image: "/poi-images/iceland-blonda-hydropower-plant-economic-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Blondustod hydropower plant dam area",
     image: "/poi-images/iceland-blonda-hydropower-plant-economic-v2.webp",
 },  {
     id: "iceland-ljosafoss-hydropower-plant-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Ljósafoss", hu: "Ljósafoss erőmű", ro: "Centrala Ljósafoss", en: "Ljósafoss Power Station",
 image: "/poi-images/iceland-ljosafoss-hydropower-plant-economic-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Ljosafoss power station at Sog river",
     image: "/poi-images/iceland-ljosafoss-hydropower-plant-economic-v2.webp",
 },  {
     id: "iceland-theistareykir-geothermal-power-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Geothermiekraftwerk Þeistareykir", hu: "Þeistareykir geotermikus erőmű", ro: "Centrala geotermală Þeistareykir", en: "Þeistareykir Geothermal Power Station",
 image: "/poi-images/iceland-theistareykir-geothermal-power-economic-v2.webp"
@@ -785,6 +808,7 @@ image: "/poi-images/iceland-theistareykir-geothermal-power-economic-v2.webp"
   },
   {
     id: "iceland-eskifjordur-port-economic-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Hafen von Eskifjörður", hu: "Eskifjörður kikötője", ro: "Portul Eskifjörður", en: "Eskifjörður Port",
 image: "/poi-images/iceland-eskifjordur-port-economic-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Eskifjordur harbour with fish processing plants",
     image: "/poi-images/iceland-eskifjordur-port-economic-v2.webp",
 },  {
     id: "iceland-neskaupstadur-port-economic-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Hafen von Neskaupstaður", hu: "Neskaupstaður kikötője", ro: "Portul Neskaupstaður", en: "Neskaupstaður Port",
 image: "/poi-images/iceland-neskaupstadur-port-economic-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Neskaupstadur port and mountain backdrop",
     image: "/poi-images/iceland-neskaupstadur-port-economic-v2.webp",
 },  {
     id: "iceland-hofn-port-economic-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Hafen von Höfn", hu: "Höfn kikötője", ro: "Portul din Höfn", en: "Höfn Port",
 image: "/poi-images/iceland-hofn-port-economic-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Hofn harbour with fishing boats Iceland",
     image: "/poi-images/iceland-hofn-port-economic-v2.webp",
 },  {
     id: "iceland-dalvik-port-economic-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Hafen von Dalvík", hu: "Dalvík kikötője", ro: "Portul Dalvík", en: "Dalvík Port",
 image: "/poi-images/iceland-dalvik-port-economic-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Dalvik harbour with mountains in north",
     image: "/poi-images/iceland-dalvik-port-economic-v2.webp",
 },  {
     id: "iceland-siglufjordur-port-economic-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Hafen von Siglufjörður", hu: "Siglufjörður kikötője", ro: "Portul Siglufjörður", en: "Siglufjörður Port",
 image: "/poi-images/iceland-siglufjordur-port-economic-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Siglufjordur harbour and Herring Era Museum",
     image: "/poi-images/iceland-siglufjordur-port-economic-v2.webp",
 },  {
     id: "iceland-akranes-port-economic-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Hafen von Akranes", hu: "Akranes kikötője", ro: "Portul Akranes", en: "Akranes Port",
 image: "/poi-images/iceland-akranes-port-economic-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Akranes harbour and old lighthouse",
     image: "/poi-images/iceland-akranes-port-economic-v2.webp",
 },  {
     id: "iceland-reykjanes-geothermal-power-economic-v2",
+    parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Reykjanes", hu: "Reykjanes erőmű", ro: "Centrala Reykjanes", en: "Reykjanes Power Plant",
 image: "/poi-images/iceland-reykjanes-geothermal-power-economic-v2.webp"

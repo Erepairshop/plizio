@@ -3,6 +3,7 @@ export const russiaCitiesV2: POI[] = [
 
   {
     id: "russia-moscow-cities-v2",
+    parent: "RU",
     type: "capital",
     name: { de: "Moskau", hu: "Moszkva", ro: "Moscova", en: "Moscow",
 image: "/poi-images/russia-moscow-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Moscow Kremlin and Saint Basil Cathedral",
     , image: "/poi-images/russia-moscow-cities-v2.webp",
 },  {
     id: "russia-saint-petersburg-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Sankt Petersburg", hu: "Szentpétervár", ro: "Sankt Petersburg", en: "Saint Petersburg",
 image: "/poi-images/russia-saint-petersburg-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Hermitage Museum in Saint Petersburg",
     , image: "/poi-images/russia-saint-petersburg-cities-v2.webp",
 },  {
     id: "russia-novosibirsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Nowosibirsk", hu: "Novoszibirszk", ro: "Novosibirsk", en: "Novosibirsk",
 image: "/poi-images/russia-novosibirsk-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
     , image: "/poi-images/russia-novosibirsk-cities-v2.webp",
 },  {
     id: "russia-yekaterinburg-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Jekaterinburg", hu: "Jekatyerinburg", ro: "Ekaterinburg", en: "Yekaterinburg",
 image: "/poi-images/russia-yekaterinburg-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Church on Blood in Yekaterinburg",
     , image: "/poi-images/russia-yekaterinburg-cities-v2.webp",
 },  {
     id: "russia-kazan-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Kasan", hu: "Kazany", ro: "Kazan", en: "Kazan",
 image: "/poi-images/russia-kazan-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Kazan Kremlin with Kul Sharif Mosque",
     , image: "/poi-images/russia-kazan-cities-v2.webp",
 },  {
     id: "russia-nizhny-novgorod-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Nischni Nowgorod", hu: "Nyizsnyij Novgorod", ro: "Nijni Novgorod", en: "Nizhny Novgorod",
 image: "/poi-images/russia-nizhny-novgorod-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Nizhny Novgorod Kremlin wall",
     , image: "/poi-images/russia-nizhny-novgorod-cities-v2.webp",
 },  {
     id: "russia-chelyabinsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Tscheljabinsk", hu: "Cseljabinszk", ro: "Celeabinsk", en: "Chelyabinsk",
 image: "/poi-images/russia-chelyabinsk-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Chelyabinsk city center architecture",
     , image: "/poi-images/russia-chelyabinsk-cities-v2.webp",
 },  {
     id: "russia-omsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Omsk", hu: "Omszk", ro: "Omsk", en: "Omsk",
 image: "/poi-images/russia-omsk-cities-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Omsk Assumption Cathedral",
     , image: "/poi-images/russia-omsk-cities-v2.webp",
 },  {
     id: "russia-rostov-on-don-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Rostow am Don", hu: "Rosztov-na-Donu", ro: "Rostov-pe-Don", en: "Rostov-on-Don",
 image: "/poi-images/russia-rostov-on-don-cities-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Don River embankment in Rostov",
     , image: "/poi-images/russia-rostov-on-don-cities-v2.webp",
 },  {
     id: "russia-ufa-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Ufa", hu: "Ufa", ro: "Ufa", en: "Ufa",
 image: "/poi-images/russia-ufa-cities-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
     , image: "/poi-images/russia-ufa-cities-v2.webp",
 },  {
     id: "russia-krasnoyarsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Krasnojarsk", hu: "Krasznojarszk", ro: "Krasnoiarsk", en: "Krasnoyarsk",
 image: "/poi-images/russia-krasnoyarsk-cities-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Paraskeva Pyatnitsa Chapel in Krasnoyarsk",
     , image: "/poi-images/russia-krasnoyarsk-cities-v2.webp",
 },  {
     id: "russia-voronezh-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Woronesch", hu: "Voronyezs", ro: "Voronej", en: "Voronezh",
 image: "/poi-images/russia-voronezh-cities-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Peter the Great monument in Voronezh",
     , image: "/poi-images/russia-voronezh-cities-v2.webp",
 },  {
     id: "russia-perm-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Perm", hu: "Perm", ro: "Perm", en: "Perm",
 image: "/poi-images/russia-perm-cities-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Kama River view in Perm",
     , image: "/poi-images/russia-perm-cities-v2.webp",
 },  {
     id: "russia-volgograd-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Wolgograd", hu: "Volgográd", ro: "Volgograd", en: "Volgograd",
 image: "/poi-images/russia-volgograd-cities-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "The Motherland Calls statue in Volgograd",
     , image: "/poi-images/russia-volgograd-cities-v2.webp",
 },  {
     id: "russia-krasnodar-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Krasnodar", hu: "Krasznodar", ro: "Krasnodar", en: "Krasnodar",
 image: "/poi-images/russia-krasnodar-cities-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Alexander Nevsky Cathedral in Krasnodar",
     , image: "/poi-images/russia-krasnodar-cities-v2.webp",
 },  {
     id: "russia-saratov-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Saratow", hu: "Szaratov", ro: "Saratov", en: "Saratov",
 image: "/poi-images/russia-saratov-cities-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Saratov bridge over the Volga River",
     , image: "/poi-images/russia-saratov-cities-v2.webp",
 },  {
     id: "russia-tyumen-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Tjumen", hu: "Tyumeny", ro: "Tiumen", en: "Tyumen",
 image: "/poi-images/russia-tyumen-cities-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Tyumen river embankment architecture",
     , image: "/poi-images/russia-tyumen-cities-v2.webp",
 },  {
     id: "russia-tolyatti-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Toljatti", hu: "Toljatti", ro: "Toliatti", en: "Tolyatti",
 image: "/poi-images/russia-tolyatti-cities-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "AvtoVAZ headquarters in Tolyatti",
     , image: "/poi-images/russia-tolyatti-cities-v2.webp",
 },  {
     id: "russia-izhevsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Ischewsk", hu: "Izsevszk", ro: "Ijevsk", en: "Izhevsk",
 image: "/poi-images/russia-izhevsk-cities-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Kalashnikov Museum in Izhevsk",
     , image: "/poi-images/russia-izhevsk-cities-v2.webp",
 },  {
     id: "russia-barnaul-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Barnaul", hu: "Barnaul", ro: "Barnaul", en: "Barnaul",
 image: "/poi-images/russia-barnaul-cities-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Barnaul city view with Ob river",
     , image: "/poi-images/russia-barnaul-cities-v2.webp",
 },  {
     id: "russia-ulyanovsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Uljanowsk", hu: "Uljanovszk", ro: "Ulianovsk", en: "Ulyanovsk",
 image: "/poi-images/russia-ulyanovsk-cities-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Lenin Memorial Complex in Ulyanovsk",
     , image: "/poi-images/russia-ulyanovsk-cities-v2.webp",
 },  {
     id: "russia-irkutsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Irkutsk", hu: "Irkutszk", ro: "Irkutsk", en: "Irkutsk",
 image: "/poi-images/russia-irkutsk-cities-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Wooden architecture in Irkutsk",
     , image: "/poi-images/russia-irkutsk-cities-v2.webp",
 },  {
     id: "russia-khabarovsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Chabarowsk", hu: "Habarovszk", ro: "Habarovsk", en: "Khabarovsk",
 image: "/poi-images/russia-khabarovsk-cities-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Amur River bridge in Khabarovsk",
     , image: "/poi-images/russia-khabarovsk-cities-v2.webp",
 },  {
     id: "russia-makhachkala-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Machatschkala", hu: "Mahacskala", ro: "Mahaci-Kala", en: "Makhachkala",
 image: "/poi-images/russia-makhachkala-cities-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Makhachkala Grand Mosque architecture",
     , image: "/poi-images/russia-makhachkala-cities-v2.webp",
 },  {
     id: "russia-yaroslavl-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Jaroslawl", hu: "Jaroszlavl", ro: "Iaroslavl", en: "Yaroslavl",
 image: "/poi-images/russia-yaroslavl-cities-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Yaroslavl historical center architecture",
     , image: "/poi-images/russia-yaroslavl-cities-v2.webp",
 },  {
     id: "russia-vladivostok-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Wladiwostok", hu: "Vlagyivosztok", ro: "Vladivostok", en: "Vladivostok",
 image: "/poi-images/russia-vladivostok-cities-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Vladivostok Golden Bridge at sunset",
     , image: "/poi-images/russia-vladivostok-cities-v2.webp",
 },  {
     id: "russia-orenburg-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Orenburg", hu: "Orenburg", ro: "Orenburg", en: "Orenburg",
 image: "/poi-images/russia-orenburg-cities-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Bridge over Ural river in Orenburg",
     , image: "/poi-images/russia-orenburg-cities-v2.webp",
 },  {
     id: "russia-tomsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Tomsk", hu: "Tomszk", ro: "Tomsk", en: "Tomsk",
 image: "/poi-images/russia-tomsk-cities-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Traditional wooden house in Tomsk",
     , image: "/poi-images/russia-tomsk-cities-v2.webp",
 },  {
     id: "russia-kemerovo-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Kemerowo", hu: "Kemerovo", ro: "Kemerovo", en: "Kemerovo",
 image: "/poi-images/russia-kemerovo-cities-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Kemerovo city center and Tom river",
     , image: "/poi-images/russia-kemerovo-cities-v2.webp",
 },  {
     id: "russia-ryazan-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Rjasan", hu: "Rjazany", ro: "Reazan", en: "Ryazan",
 image: "/poi-images/russia-ryazan-cities-v2.webp"
@@ -1023,6 +1053,7 @@ imageHint: "Ryazan Kremlin architecture",
     , image: "/poi-images/russia-ryazan-cities-v2.webp",
 },  {
     id: "russia-naberezhnye-chelny-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Nabereschnyje Tschelny", hu: "Naberezsnije Cselni", ro: "Naberejniîe Celnî", en: "Naberezhnye Chelny",
 image: "/poi-images/russia-naberezhnye-chelny-cities-v2.webp"
@@ -1057,6 +1088,7 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
     , image: "/poi-images/russia-naberezhnye-chelny-cities-v2.webp",
 },  {
     id: "russia-astrakhan-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Astrachan", hu: "Asztrahán", ro: "Astrahan", en: "Astrakhan",
 image: "/poi-images/russia-astrakhan-cities-v2.webp"
@@ -1091,6 +1123,7 @@ imageHint: "Astrakhan Kremlin and Volga river",
     , image: "/poi-images/russia-astrakhan-cities-v2.webp",
 },  {
     id: "russia-penza-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Pensa", hu: "Penza", ro: "Penza", en: "Penza",
 image: "/poi-images/russia-penza-cities-v2.webp"
@@ -1126,6 +1159,7 @@ imageHint: "Penza city center architecture",
     , image: "/poi-images/russia-penza-cities-v2.webp",
 },  {
     id: "russia-lipetsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Lipezk", hu: "Lipeck", ro: "Lipețk", en: "Lipetsk",
 image: "/poi-images/russia-lipetsk-cities-v2.webp"
@@ -1160,6 +1194,7 @@ imageHint: "Novolipetsk Steel plant in Lipetsk",
     , image: "/poi-images/russia-lipetsk-cities-v2.webp",
 },  {
     id: "russia-kirov-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Kirow", hu: "Kirov", ro: "Kirov", en: "Kirov",
 image: "/poi-images/russia-kirov-cities-v2.webp"
@@ -1194,6 +1229,7 @@ imageHint: "Kirov city park and Viatka river",
     , image: "/poi-images/russia-kirov-cities-v2.webp",
 },  {
     id: "russia-cheboksary-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Tscheboksary", hu: "Csebokszári", ro: "Ceboksarî", en: "Cheboksary",
 image: "/poi-images/russia-cheboksary-cities-v2.webp"
@@ -1228,6 +1264,7 @@ imageHint: "Mother of the Patron Monument in Cheboksary",
     , image: "/poi-images/russia-cheboksary-cities-v2.webp",
 },  {
     id: "russia-kaliningrad-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Kaliningrad", hu: "Kalinyingrád", ro: "Kaliningrad", en: "Kaliningrad",
 image: "/poi-images/russia-kaliningrad-cities-v2.webp"
@@ -1262,6 +1299,7 @@ imageHint: "Kaliningrad Cathedral on Kant Island",
     , image: "/poi-images/russia-kaliningrad-cities-v2.webp",
 },  {
     id: "russia-balashikha-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Balaschicha", hu: "Balasiha", ro: "Balașiha", en: "Balashikha",
 image: "/poi-images/russia-balashikha-cities-v2.webp"
@@ -1296,6 +1334,7 @@ imageHint: "Balashikha city park and architecture",
     , image: "/poi-images/russia-balashikha-cities-v2.webp",
 },  {
     id: "russia-kursk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Kursk", hu: "Kurszk", ro: "Kursk", en: "Kursk",
 image: "/poi-images/russia-kursk-cities-v2.webp"
@@ -1330,6 +1369,7 @@ imageHint: "Victory Memorial in Kursk",
     , image: "/poi-images/russia-kursk-cities-v2.webp",
 },  {
     id: "russia-ulan-ude-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Ulan-Ude", hu: "Ulan-Ude", ro: "Ulan-Ude", en: "Ulan-Ude",
 image: "/poi-images/russia-ulan-ude-cities-v2.webp"
@@ -1364,6 +1404,7 @@ imageHint: "Giant Lenin Head monument in Ulan-Ude",
     , image: "/poi-images/russia-ulan-ude-cities-v2.webp",
 },  {
     id: "russia-sochi-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Sotschi", hu: "Szocsi", ro: "Soci", en: "Sochi",
 image: "/poi-images/russia-sochi-cities-v2.webp"
@@ -1398,6 +1439,7 @@ imageHint: "Sochi Marine Terminal architecture",
     , image: "/poi-images/russia-sochi-cities-v2.webp",
 },  {
     id: "russia-stavropol-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Stawropol", hu: "Sztavropol", ro: "Stavropol", en: "Stavropol",
 image: "/poi-images/russia-stavropol-cities-v2.webp"
@@ -1432,6 +1474,7 @@ imageHint: "Guardian Angel monument in Stavropol",
     , image: "/poi-images/russia-stavropol-cities-v2.webp",
 },  {
     id: "russia-magnitogorsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Magnitogorsk", hu: "Magnyitogorszk", ro: "Magnitogorsk", en: "Magnitogorsk",
 image: "/poi-images/russia-magnitogorsk-cities-v2.webp"
@@ -1466,6 +1509,7 @@ imageHint: "Rear-to-Front Monument in Magnitogorsk",
     , image: "/poi-images/russia-magnitogorsk-cities-v2.webp",
 },  {
     id: "russia-tver-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Twer", hu: "Tver", ro: "Tver", en: "Tver",
 image: "/poi-images/russia-tver-cities-v2.webp"
@@ -1500,6 +1544,7 @@ imageHint: "Old Volga Bridge in Tver",
     , image: "/poi-images/russia-tver-cities-v2.webp",
 },  {
     id: "russia-ivanovo-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Iwanowo", hu: "Ivanovo", ro: "Ivanovo", en: "Ivanovo",
 image: "/poi-images/russia-ivanovo-cities-v2.webp"
@@ -1534,6 +1579,7 @@ imageHint: "Textile factory architecture in Ivanovo",
     , image: "/poi-images/russia-ivanovo-cities-v2.webp",
 },  {
     id: "russia-bryansk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Brjansk", hu: "Brjanszk", ro: "Breansk", en: "Bryansk",
 image: "/poi-images/russia-bryansk-cities-v2.webp"
@@ -1568,6 +1614,7 @@ imageHint: "Partisan Square in Bryansk",
     , image: "/poi-images/russia-bryansk-cities-v2.webp",
 },  {
     id: "russia-belgorod-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Belgorod", hu: "Belgorod", ro: "Belgorod", en: "Belgorod",
 image: "/poi-images/russia-belgorod-cities-v2.webp"
@@ -1602,6 +1649,7 @@ imageHint: "Belgorod city center architecture",
     , image: "/poi-images/russia-belgorod-cities-v2.webp",
 },  {
     id: "russia-surgut-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Surgut", hu: "Szurgut", ro: "Surgut", en: "Surgut",
 image: "/poi-images/russia-surgut-cities-v2.webp"
@@ -1636,6 +1684,7 @@ imageHint: "Yugra Bridge in Surgut",
     , image: "/poi-images/russia-surgut-cities-v2.webp",
 },  {
     id: "russia-vladimir-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Wladimir", hu: "Vlagyimir", ro: "Vladimir", en: "Vladimir",
 image: "/poi-images/russia-vladimir-cities-v2.webp"
@@ -1670,6 +1719,7 @@ imageHint: "Golden Gate of Vladimir architecture",
     , image: "/poi-images/russia-vladimir-cities-v2.webp",
 },  {
     id: "russia-arkhangelsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Archangelsk", hu: "Arhangelszk", ro: "Arhanghelsk", en: "Arkhangelsk",
 image: "/poi-images/russia-arkhangelsk-cities-v2.webp"
@@ -1704,6 +1754,7 @@ imageHint: "Arkhangelsk river port architecture",
     , image: "/poi-images/russia-arkhangelsk-cities-v2.webp",
 },  {
     id: "russia-chita-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Tschita", hu: "Csita", ro: "Cita", en: "Chita",
 image: "/poi-images/russia-chita-cities-v2.webp"
@@ -1738,6 +1789,7 @@ imageHint: "Chita railway station and architecture",
     , image: "/poi-images/russia-chita-cities-v2.webp",
 },  {
     id: "russia-kaluga-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Kaluga", hu: "Kaluga", ro: "Kaluga", en: "Kaluga",
 image: "/poi-images/russia-kaluga-cities-v2.webp"
@@ -1772,6 +1824,7 @@ imageHint: "Tsiolkovsky State Museum of the History of Cosmonautics",
     , image: "/poi-images/russia-kaluga-cities-v2.webp",
 },  {
     id: "russia-smolensk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Smolensk", hu: "Szmolenszk", ro: "Smolensk", en: "Smolensk",
 image: "/poi-images/russia-smolensk-cities-v2.webp"
@@ -1806,6 +1859,7 @@ imageHint: "Smolensk fortress wall and cathedral",
     , image: "/poi-images/russia-smolensk-cities-v2.webp",
 },  {
     id: "russia-saransk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Saransk", hu: "Szaranszk", ro: "Saransk", en: "Saransk",
 image: "/poi-images/russia-saransk-cities-v2.webp"
@@ -1840,6 +1894,7 @@ imageHint: "Mordovia Arena in Saransk",
     , image: "/poi-images/russia-saransk-cities-v2.webp",
 },  {
     id: "russia-cherepovets-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Tscherepowez", hu: "Cserepovec", ro: "Cerepoveț", en: "Cherepovets",
 image: "/poi-images/russia-cherepovets-cities-v2.webp"
@@ -1874,6 +1929,7 @@ imageHint: "Severstal steel plant in Cherepovets",
     , image: "/poi-images/russia-cherepovets-cities-v2.webp",
 },  {
     id: "russia-vologda-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Wologda", hu: "Vologda", ro: "Vologda", en: "Vologda",
 image: "/poi-images/russia-vologda-cities-v2.webp"
@@ -1908,6 +1964,7 @@ imageHint: "Vologda Kremlin and Saint Sophia Cathedral",
     , image: "/poi-images/russia-vologda-cities-v2.webp",
 },  {
     id: "russia-murmansk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Murmansk", hu: "Murmanszk", ro: "Murmansk", en: "Murmansk",
 image: "/poi-images/russia-murmansk-cities-v2.webp"
@@ -1943,6 +2000,7 @@ imageHint: "Alyosha Monument in Murmansk",
     , image: "/poi-images/russia-murmansk-cities-v2.webp",
 },  {
     id: "russia-petrozavodsk-cities-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Petrosawodsk", hu: "Petrozavodszk", ro: "Petrozavodsk", en: "Petrozavodsk",
 image: "/poi-images/russia-petrozavodsk-cities-v2.webp"

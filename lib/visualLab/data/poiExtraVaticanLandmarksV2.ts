@@ -3,6 +3,7 @@ export const vaticanLandmarksV2: POI[] = [
 
   {
     id: "vatican-santo-stefano-abissini-landmarks-v2",
+    parent: "VA",
     type: "church",
     name: { de: "Santo Stefano degli Abissini", hu: "Santo Stefano degli Abissini", ro: "Santo Stefano degli Abissini", en: "Church of Saint Stephen of the Abyssinians",
 image: "/poi-images/vatican-santo-stefano-abissini-landmarks-v2.webp"
@@ -25,6 +26,7 @@ image: "/poi-images/vatican-santo-stefano-abissini-landmarks-v2.webp"
     image: "/poi-images/vatican-santo-stefano-abissini-landmarks-v2.webp"},
   {
     id: "vatican-sant-anna-palafrenieri-landmarks-v2",
+    parent: "VA",
     type: "church",
     name: { de: "Sant'Anna dei Palafrenieri", hu: "Sant'Anna dei Palafrenieri", ro: "Sant'Anna dei Palafrenieri", en: "Church of Sant'Anna dei Palafrenieri",
 image: "/poi-images/vatican-sant-anna-palafrenieri-landmarks-v2.webp"
@@ -47,6 +49,7 @@ image: "/poi-images/vatican-sant-anna-palafrenieri-landmarks-v2.webp"
     image: "/poi-images/vatican-sant-anna-palafrenieri-landmarks-v2.webp"},
   {
     id: "vatican-palazzo-tribunale-landmarks-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Palazzo del Tribunale", hu: "Palazzo del Tribunale", ro: "Palazzo del Tribunale", en: "Tribunal Palace",
 image: "/poi-images/vatican-palazzo-tribunale-landmarks-v2.webp"
@@ -69,6 +72,7 @@ image: "/poi-images/vatican-palazzo-tribunale-landmarks-v2.webp"
     image: "/poi-images/vatican-palazzo-tribunale-landmarks-v2.webp"},
   {
     id: "vatican-radio-landmarks-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Radio Vatikan", hu: "Vatikáni Rádió", ro: "Radio Vatican", en: "Vatican Radio",
 image: "/poi-images/vatican-radio-landmarks-v2.webp"
@@ -91,6 +95,7 @@ image: "/poi-images/vatican-radio-landmarks-v2.webp"
     image: "/poi-images/vatican-radio-landmarks-v2.webp"},
   {
     id: "vatican-lourdes-grotto-landmarks-v2",
+    parent: "VA",
     type: "monument",
     name: { de: "Lourdes-Grotte", hu: "Lourdes-i barlang", ro: "Grota Lourdes", en: "Lourdes Grotto",
 image: "/poi-images/vatican-lourdes-grotto-landmarks-v2.webp"
@@ -113,6 +118,7 @@ image: "/poi-images/vatican-lourdes-grotto-landmarks-v2.webp"
     image: "/poi-images/vatican-lourdes-grotto-landmarks-v2.webp"},
   {
     id: "vatican-san-pellegrino-landmarks-v2",
+    parent: "VA",
     type: "church",
     name: { de: "San Pellegrino", hu: "San Pellegrino templom", ro: "Biserica San Pellegrino", en: "Church of San Pellegrino",
 image: "/poi-images/vatican-san-pellegrino-landmarks-v2.webp"

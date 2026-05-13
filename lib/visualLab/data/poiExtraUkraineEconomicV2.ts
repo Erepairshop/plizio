@@ -3,6 +3,7 @@ export const ukraineEconomicV2: POI[] = [
 
   {
     id: "ukraine-unit-city-economic-v2",
+    parent: "UA",
     type: "industry",
     name: { de: "UNIT.City Innovationspark", hu: "UNIT.City Innovációs Park", ro: "Parcul de Inovare UNIT.City", en: "UNIT.City Innovation Park",
 image: "/poi-images/ukraine-unit-city-economic-v2.webp"
@@ -37,6 +38,7 @@ image: "/poi-images/ukraine-unit-city-economic-v2.webp"
   },
   {
     id: "ukraine-dnieper-hydroelectric-economic-v2",
+    parent: "UA",
     type: "industry",
     name: { de: "DniproHES Wasserkraftwerk", hu: "DnyiproHESZ vízerőmű", ro: "Hidrocentrala Nipru", en: "Dnieper Hydroelectric Station",
 image: "/poi-images/ukraine-dnieper-hydroelectric-economic-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Dnieper Hydroelectric Station dam in Zaporizhzhia",
     image: "/poi-images/ukraine-dnieper-hydroelectric-economic-v2.webp",
 },  {
     id: "ukraine-arcelormittal-kryvyi-rih-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "ArcelorMittal Krywyj Rih", hu: "ArcelorMittal Krivij Rih", ro: "ArcelorMittal Krivoi Rog", en: "ArcelorMittal Kryvyi Rih",
 image: "/poi-images/ukraine-arcelormittal-kryvyi-rih-economic-v2.webp"
@@ -105,6 +108,7 @@ image: "/poi-images/ukraine-arcelormittal-kryvyi-rih-economic-v2.webp"
   },
   {
     id: "ukraine-port-odesa-economic-v2",
+    parent: "UA",
     type: "port",
     name: { de: "Hafen von Odesa", hu: "Odessa kikötője", ro: "Portul Odesa", en: "Port of Odesa",
 image: "/poi-images/ukraine-port-odesa-economic-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Cranes and container ships at the Port of Odesa",
     image: "/poi-images/ukraine-port-odesa-economic-v2.webp",
 },  {
     id: "ukraine-kremenchuk-refinery-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "Erdölraffinerie Krementschuk", hu: "Kremencsuki olajfinomító", ro: "Rafinăria Kremenciuk", en: "Kremenchuk Oil Refinery",
 image: "/poi-images/ukraine-kremenchuk-refinery-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Industrial columns of the Kremenchuk oil refinery",
     image: "/poi-images/ukraine-kremenchuk-refinery-economic-v2.webp",
 },  {
     id: "ukraine-zaporizhzhia-npp-economic-v2",
+    parent: "UA",
     type: "industry",
     name: { de: "Kernkraftwerk Saporischschja", hu: "Zaporizzsjai atomerőmű", ro: "Centrala nucleară Zaporojie", en: "Zaporizhzhia Nuclear Power Plant",
 image: "/poi-images/ukraine-zaporizhzhia-npp-economic-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Six reactor domes of the Zaporizhzhia NPP",
     image: "/poi-images/ukraine-zaporizhzhia-npp-economic-v2.webp",
 },  {
     id: "ukraine-motor-sich-zaporizhzhia-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "Motor Sitsch Werk", hu: "Motor Szics gyár", ro: "Fabrica Motor Sici", en: "Motor Sich Plant",
 image: "/poi-images/ukraine-motor-sich-zaporizhzhia-economic-v2.webp"
@@ -241,6 +248,7 @@ image: "/poi-images/ukraine-motor-sich-zaporizhzhia-economic-v2.webp"
   },
   {
     id: "ukraine-yuzhmash-dnipro-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "Juschmasch Maschinenfabrik", hu: "Juzsmmas gépgyár", ro: "Uzina de mașini Iujmaș", en: "Yuzhmash Machine Plant",
 image: "/poi-images/ukraine-yuzhmash-dnipro-economic-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Large rocket components inside Yuzhmash factory",
     image: "/poi-images/ukraine-yuzhmash-dnipro-economic-v2.webp",
 },  {
     id: "ukraine-port-pivdennyi-economic-v2",
+    parent: "UA",
     type: "port",
     name: { de: "Hafen Piwdennyj", hu: "Pivdennyij kikötő", ro: "Portul Pivdennîi", en: "Port Pivdennyi",
 image: "/poi-images/ukraine-port-pivdennyi-economic-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Deep-water port terminal at Pivdennyi",
     image: "/poi-images/ukraine-port-pivdennyi-economic-v2.webp",
 },  {
     id: "ukraine-roshen-vinnytsia-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "Roshen Süßwarenfabrik Winnyzja", hu: "Roshen édességgyár, Vinnyicja", ro: "Fabrica de dulciuri Roshen Vinnița", en: "Roshen Confectionery Factory Vinnytsia",
 image: "/poi-images/ukraine-roshen-vinnytsia-economic-v2.webp"
@@ -343,6 +353,7 @@ image: "/poi-images/ukraine-roshen-vinnytsia-economic-v2.webp"
   },
   {
     id: "ukraine-nikopol-ferroalloy-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "Ferrolegierungswerk Nikopol", hu: "Nikopoli ferroötvözet-gyár", ro: "Uzina de feroaliaje Nikopol", en: "Nikopol Ferroalloy Plant",
 image: "/poi-images/ukraine-nikopol-ferroalloy-economic-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
     image: "/poi-images/ukraine-nikopol-ferroalloy-economic-v2.webp",
 },  {
     id: "ukraine-burshtyn-tpp-economic-v2",
+    parent: "UA",
     type: "industry",
     name: { de: "Wärmekraftwerk Burschtyn", hu: "Bustyini hőerőmű", ro: "Termocentrala Burștîn", en: "Burshtyn Thermal Power Plant",
 image: "/poi-images/ukraine-burshtyn-tpp-economic-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Chimneys and cooling towers of Burshtyn TPP",
     image: "/poi-images/ukraine-burshtyn-tpp-economic-v2.webp",
 },  {
     id: "ukraine-port-izmail-economic-v2",
+    parent: "UA",
     type: "port",
     name: { de: "Hafen von Ismajil", hu: "Izmajil kikötője", ro: "Portul Ismail", en: "Port of Izmail",
 image: "/poi-images/ukraine-port-izmail-economic-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Barges and cranes on the Danube river in Izmail",
     image: "/poi-images/ukraine-port-izmail-economic-v2.webp",
 },  {
     id: "ukraine-khmelnytskyi-npp-economic-v2",
+    parent: "UA",
     type: "industry",
     name: { de: "Kernkraftwerk Chmelnyzkyj", hu: "Hmelnyickiji atomerőmű", ro: "Centrala nucleară Hmelnîțkîi", en: "Khmelnytskyi Nuclear Power Plant",
 image: "/poi-images/ukraine-khmelnytskyi-npp-economic-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Reactor buildings and cooling pond of Khmelnytskyi NPP",
     image: "/poi-images/ukraine-khmelnytskyi-npp-economic-v2.webp",
 },  {
     id: "ukraine-rivne-npp-economic-v2",
+    parent: "UA",
     type: "industry",
     name: { de: "Kernkraftwerk Riwne", hu: "Rivnei atomerőmű", ro: "Centrala nucleară Rivne", en: "Rivne Nuclear Power Plant",
 image: "/poi-images/ukraine-rivne-npp-economic-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "View of the Rivne nuclear power plant in Varash",
     image: "/poi-images/ukraine-rivne-npp-economic-v2.webp",
 },  {
     id: "ukraine-pavlohrad-coal-economic-v2",
+    parent: "UA",
     type: "mine",
     name: { de: "Pavlohrad Kohlebergwerk", hu: "Pavlohrádi szénbánya", ro: "Mina de cărbune Pavlohrad", en: "Pavlohrad Coal Mine",
 image: "/poi-images/ukraine-pavlohrad-coal-economic-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Mining tower and coal processing facility in Pavlohrad",
     image: "/poi-images/ukraine-pavlohrad-coal-economic-v2.webp",
 },  {
     id: "ukraine-vilnohirsk-titanium-economic-v2",
+    parent: "UA",
     type: "mine",
     name: { de: "Vilnohirsk Titan-Kombinat", hu: "Vilnohirszki titán-kombinát", ro: "Combinatul de titan Vilnohirsk", en: "Vilnohirsk Titanium Plant",
 image: "/poi-images/ukraine-vilnohirsk-titanium-economic-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Open-pit titanium mine in Vilnohirsk",
     image: "/poi-images/ukraine-vilnohirsk-titanium-economic-v2.webp",
 },  {
     id: "ukraine-turboatom-kharkiv-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "Turboatom Charkiw", hu: "Turboatom Harkiv", ro: "Turboatom Harkov", en: "Turboatom Kharkiv",
 image: "/poi-images/ukraine-turboatom-kharkiv-economic-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Large steam turbine rotors in Kharkiv factory",
     image: "/poi-images/ukraine-turboatom-kharkiv-economic-v2.webp",
 },  {
     id: "ukraine-poltava-mining-economic-v2",
+    parent: "UA",
     type: "mine",
     name: { de: "Poltava Bergbau-Kombinat", hu: "Poltavai bányászati kombinát", ro: "Combinatul minier Poltava", en: "Poltava Mining",
 image: "/poi-images/ukraine-poltava-mining-economic-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
     image: "/poi-images/ukraine-poltava-mining-economic-v2.webp",
 },  {
     id: "ukraine-antonov-kyiv-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "Antonow Flugzeugwerk", hu: "Antonov repülőgépgyár", ro: "Fabrica de avioane Antonov", en: "Antonov Aircraft Plant",
 image: "/poi-images/ukraine-antonov-kyiv-economic-v2.webp"
@@ -683,6 +703,7 @@ image: "/poi-images/ukraine-antonov-kyiv-economic-v2.webp"
   },
   {
     id: "ukraine-chornobyl-solar-economic-v2",
+    parent: "UA",
     type: "industry",
     name: { de: "Solarkraftwerk Tschornobyl", hu: "Csernobili naperőmű", ro: "Centrala solară Cernobîl", en: "Chornobyl Solar Farm",
 image: "/poi-images/ukraine-chornobyl-solar-economic-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
     image: "/poi-images/ukraine-chornobyl-solar-economic-v2.webp",
 },  {
     id: "ukraine-port-reni-economic-v2",
+    parent: "UA",
     type: "port",
     name: { de: "Hafen von Reni", hu: "Reni kikötője", ro: "Portul Reni", en: "Port of Reni",
 image: "/poi-images/ukraine-port-reni-economic-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "River port facilities on the Danube in Reni",
     image: "/poi-images/ukraine-port-reni-economic-v2.webp",
 },  {
     id: "ukraine-rosava-bila-tserkva-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "Rosava Reifenwerk", hu: "Rosava gumiabroncsgyár", ro: "Fabrica de anvelope Rosava", en: "Rosava Tire Plant",
 image: "/poi-images/ukraine-rosava-bila-tserkva-economic-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Stacks of new tires at the Rosava factory",
     image: "/poi-images/ukraine-rosava-bila-tserkva-economic-v2.webp",
 },  {
     id: "ukraine-skf-ukraine-lutsk-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "SKF Ukraine Lagerwerk", hu: "SKF Ukraine csapágygyár", ro: "Fabrica SKF Ucraina", en: "SKF Ukraine Bearing Plant",
 image: "/poi-images/ukraine-skf-ukraine-lutsk-economic-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Automated production line for bearings at SKF Lutsk",
     image: "/poi-images/ukraine-skf-ukraine-lutsk-economic-v2.webp",
 },  {
     id: "ukraine-leoni-stryi-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "Leoni Kabelwerk Stryj", hu: "Leoni kábelgyár, Sztrij", ro: "Fabrica de cabluri Leoni Strîi", en: "Leoni Wiring Systems Stryi",
 image: "/poi-images/ukraine-leoni-stryi-economic-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Workers assembling automotive wire harnesses at Leoni",
     image: "/poi-images/ukraine-leoni-stryi-economic-v2.webp",
 },  {
     id: "ukraine-vostgok-zhovti-vody-economic-v2",
+    parent: "UA",
     type: "mine",
     name: { de: "VostGOK Uranbergwerk", hu: "VosztGOK uránbánya", ro: "Mina de uraniu VostGOK", en: "VostGOK Uranium Mine",
 image: "/poi-images/ukraine-vostgok-zhovti-vody-economic-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Mining equipment at a uranium extraction site",
     image: "/poi-images/ukraine-vostgok-zhovti-vody-economic-v2.webp",
 },  {
     id: "ukraine-south-ukraine-npp-economic-v2",
+    parent: "UA",
     type: "industry",
     name: { de: "Kernkraftwerk Südukraine", hu: "Dél-ukrajnai atomerőmű", ro: "Centrala nucleară Ucraina de Sud", en: "South Ukraine Nuclear Power Plant",
 image: "/poi-images/ukraine-south-ukraine-npp-economic-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Power plant reactors near the Southern Bug river",
     image: "/poi-images/ukraine-south-ukraine-npp-economic-v2.webp",
 },  {
     id: "ukraine-karpatnaftokhim-economic-v2",
+    parent: "UA",
     type: "factory",
     name: { de: "Karpatnaftokhim Werk", hu: "Karpatnaftohim gyár", ro: "Uzina Karpatnaftohim", en: "Karpatnaftokhim Plant",
 image: "/poi-images/ukraine-karpatnaftokhim-economic-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Industrial petrochemical complex in Kalush",
     image: "/poi-images/ukraine-karpatnaftokhim-economic-v2.webp",
 },  {
     id: "ukraine-mykolaiv-shipyard-economic-v2",
+    parent: "UA",
     type: "port",
     name: { de: "Mykolajiw Schiffswerft", hu: "Mikolajivi hajógyár", ro: "Șantierul naval Nikolaev", en: "Mykolaiv Shipyard",
 image: "/poi-images/ukraine-mykolaiv-shipyard-economic-v2.webp"
@@ -989,6 +1018,7 @@ image: "/poi-images/ukraine-mykolaiv-shipyard-economic-v2.webp"
   },
   {
     id: "ukraine-port-chornomorsk-economic-v2",
+    parent: "UA",
     type: "port",
     name: { de: "Hafen Tschornomorsk", hu: "Csornomorszk kikötője", ro: "Portul Ciornomorsk", en: "Port of Chornomorsk",
 image: "/poi-images/ukraine-port-chornomorsk-economic-v2.webp"

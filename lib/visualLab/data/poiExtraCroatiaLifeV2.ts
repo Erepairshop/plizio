@@ -3,6 +3,7 @@ export const croatiaLifeV2: POI[] = [
 
   {
     id: "croatia-paklenica-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Nationalpark Paklenica", hu: "Paklenica Nemzeti Park", ro: "Parcul Național Paklenica", en: "Paklenica National Park",
 image: "/poi-images/croatia-paklenica-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Paklenica canyon cliffs",
     image: "/poi-images/croatia-paklenica-life-v2.webp",
 },  {
     id: "croatia-mljet-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Nationalpark Mljet", hu: "Mljet Nemzeti Park", ro: "Parcul Național Mljet", en: "Mljet National Park",
 image: "/poi-images/croatia-mljet-life-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Mljet island salt lake monastery",
     image: "/poi-images/croatia-mljet-life-v2.webp",
 },  {
     id: "croatia-sjeverni-velebit-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Nationalpark Nord-Velebit", hu: "Észak-Velebit Nemzeti Park", ro: "Parcul Național Velebitul de Nord", en: "Northern Velebit National Park",
 image: "/poi-images/croatia-sjeverni-velebit-life-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Northern Velebit karst peaks",
     image: "/poi-images/croatia-sjeverni-velebit-life-v2.webp",
 },  {
     id: "croatia-kopacki-rit-life-v2",
+    parent: "HR",
     type: "wildlife",
     name: { de: "Naturpark Kopački Rit", hu: "Kopácsi-rét Természetvédelmi Park", ro: "Parcul Natural Kopački Rit", en: "Kopački Rit Nature Park",
 image: "/poi-images/croatia-kopacki-rit-life-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Kopacki rit wetland birds",
     image: "/poi-images/croatia-kopacki-rit-life-v2.webp",
 },  {
     id: "croatia-lonjsko-polje-life-v2",
+    parent: "HR",
     type: "wildlife",
     name: { de: "Naturpark Lonjsko Polje", hu: "Lonjsko Polje Természetvédelmi Park", ro: "Parcul Natural Lonjsko Polje", en: "Lonjsko Polje Nature Park",
 image: "/poi-images/croatia-lonjsko-polje-life-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Lonjsko polje wooden houses storks",
     image: "/poi-images/croatia-lonjsko-polje-life-v2.webp",
 },  {
     id: "croatia-velebit-nature-park-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Naturpark Velebit", hu: "Velebit Természetvédelmi Park", ro: "Parcul Natural Velebit", en: "Velebit Nature Park",
 image: "/poi-images/croatia-velebit-nature-park-life-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Velebit mountain range view",
     image: "/poi-images/croatia-velebit-nature-park-life-v2.webp",
 },  {
     id: "croatia-biokovo-nature-park-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Naturpark Biokovo", hu: "Biokovo Természetvédelmi Park", ro: "Parcul Natural Biokovo", en: "Biokovo Nature Park",
 image: "/poi-images/croatia-biokovo-nature-park-life-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Biokovo mountain Skywalk",
     image: "/poi-images/croatia-biokovo-nature-park-life-v2.webp",
 },  {
     id: "croatia-telascica-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Naturpark Telašćica", hu: "Telašćica Természetvédelmi Park", ro: "Parcul Natural Telašćica", en: "Telašćica Nature Park",
 image: "/poi-images/croatia-telascica-life-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Telascica bay and cliffs",
     image: "/poi-images/croatia-telascica-life-v2.webp",
 },  {
     id: "croatia-ucka-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Naturpark Učka", hu: "Učka Természetvédelmi Park", ro: "Parcul Natural Učka", en: "Učka Nature Park",
 image: "/poi-images/croatia-ucka-life-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Ucka mountain Vojak tower view",
     image: "/poi-images/croatia-ucka-life-v2.webp",
 },  {
     id: "croatia-papuk-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Naturpark Papuk", hu: "Papuk Természetvédelmi Park", ro: "Parcul Natural Papuk", en: "Papuk Nature Park",
 image: "/poi-images/croatia-papuk-life-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Papuk nature park forest waterfall",
     image: "/poi-images/croatia-papuk-life-v2.webp",
 },  {
     id: "croatia-medvednica-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Naturpark Medvednica", hu: "Medvednica Természetvédelmi Park", ro: "Parcul Natural Medvednica", en: "Medvednica Nature Park",
 image: "/poi-images/croatia-medvednica-life-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Medvednica mountain Zagreb view",
     image: "/poi-images/croatia-medvednica-life-v2.webp",
 },  {
     id: "croatia-zumberak-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Naturpark Žumberak-Samoborsko gorje", hu: "Žumberak-Samobori-hegység Park", ro: "Parcul Žumberak-Samoborsko gorje", en: "Žumberak-Samoborsko gorje Nature Park",
 image: "/poi-images/croatia-zumberak-life-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Zumberak green hills landscape",
     image: "/poi-images/croatia-zumberak-life-v2.webp",
 },  {
     id: "croatia-lastovo-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Naturpark Lastovo-Archipel", hu: "Lastovo-szigetcsoport Park", ro: "Parcul Arhipelagul Lastovo", en: "Lastovo Archipelago Nature Park",
 image: "/poi-images/croatia-lastovo-life-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Lastovo island village and sea",
     image: "/poi-images/croatia-lastovo-life-v2.webp",
 },  {
     id: "croatia-vransko-jezero-life-v2",
+    parent: "HR",
     type: "lake",
     name: { de: "Naturpark Vransko Jezero", hu: "Vransko-tó Természetvédelmi Park", ro: "Parcul Natural Lacul Vrana", en: "Vransko Jezero Nature Park",
 image: "/poi-images/croatia-vransko-jezero-life-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Vransko jezero lake birds view",
     image: "/poi-images/croatia-vransko-jezero-life-v2.webp",
 },  {
     id: "croatia-zagreb-zoo-life-v2",
+    parent: "HR",
     type: "wildlife",
     name: { de: "Zoologischer Garten Zagreb", hu: "Zágrábi Állatkert", ro: "Grădina Zoologică din Zagreb", en: "Zagreb Zoo",
 image: "/poi-images/croatia-zagreb-zoo-life-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Zagreb zoo entrance and red panda",
     image: "/poi-images/croatia-zagreb-zoo-life-v2.webp",
 },  {
     id: "croatia-botanical-garden-zagreb-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Botanischer Garten Zagreb", hu: "Zágrábi Botanikus Kert", ro: "Grădina Botanică din Zagreb", en: "Zagreb Botanical Garden",
 image: "/poi-images/croatia-botanical-garden-zagreb-life-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Zagreb botanical garden flowers bridge",
     image: "/poi-images/croatia-botanical-garden-zagreb-life-v2.webp",
 },  {
     id: "croatia-arboretum-trsteno-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Arboretum Trsteno", hu: "Trstenói Arborétum", ro: "Arboretul Trsteno", en: "Arboretum Trsteno",
 image: "/poi-images/croatia-arboretum-trsteno-life-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Arboretum Trsteno fountain garden",
     image: "/poi-images/croatia-arboretum-trsteno-life-v2.webp",
 },  {
     id: "croatia-lokrum-life-v2",
+    parent: "HR",
     type: "wildlife",
     name: { de: "Insel Lokrum", hu: "Lokrum-sziget", ro: "Insula Lokrum", en: "Lokrum Island",
 image: "/poi-images/croatia-lokrum-life-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Lokrum island peacocks and sea",
     image: "/poi-images/croatia-lokrum-life-v2.webp",
 },  {
     id: "croatia-palud-life-v2",
+    parent: "HR",
     type: "wildlife",
     name: { de: "Ornithologisches Reservat Palud", hu: "Palud Madárrezervátum", ro: "Rezervația Ornitologică Palud", en: "Palud Ornithological Reserve",
 image: "/poi-images/croatia-palud-life-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Palud birdwatching swamp",
     image: "/poi-images/croatia-palud-life-v2.webp",
 },  {
     id: "croatia-crna-mlaka-life-v2",
+    parent: "HR",
     type: "wildlife",
     name: { de: "Ornithologisches Reservat Crna Mlaka", hu: "Crna Mlaka Madárrezervátum", ro: "Rezervația Ornitologică Crna Mlaka", en: "Crna Mlaka Ornithological Reserve",
 image: "/poi-images/croatia-crna-mlaka-life-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Crna mlaka ponds birds",
     image: "/poi-images/croatia-crna-mlaka-life-v2.webp",
 },  {
     id: "croatia-lim-channel-life-v2",
+    parent: "HR",
     type: "wildlife",
     name: { de: "Lim-Kanal", hu: "Lim-csatorna", ro: "Canalul Lim", en: "Lim Channel",
 image: "/poi-images/croatia-lim-channel-life-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Lim channel Istria fjord",
     image: "/poi-images/croatia-lim-channel-life-v2.webp",
 },  {
     id: "croatia-arboretum-opeka-life-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Arboretum Opeka", hu: "Opeka Arborétum", ro: "Arboretul Opeka", en: "Arboretum Opeka",
 image: "/poi-images/croatia-arboretum-opeka-life-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Arboretum Opeka trees castle",
     image: "/poi-images/croatia-arboretum-opeka-life-v2.webp",
 },  {
     id: "croatia-osijek-zoo-life-v2",
+    parent: "HR",
     type: "wildlife",
     name: { de: "Zoo Osijek", hu: "Eszéki Állatkert", ro: "Grădina Zoologică din Osijek", en: "Osijek Zoo",
 image: "/poi-images/croatia-osijek-zoo-life-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Osijek zoo tiger or lion",
     image: "/poi-images/croatia-osijek-zoo-life-v2.webp",
 },  {
     id: "croatia-kuterevo-bear-sanctuary-life-v2",
+    parent: "HR",
     type: "wildlife",
     name: { de: "Bärenrefugium Kuterevo", hu: "Kuterevói Medvemenhely", ro: "Sanctuarul de urși Kuterevo", en: "Kuterevo Bear Sanctuary",
 image: "/poi-images/croatia-kuterevo-bear-sanctuary-life-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Kuterevo brown bear sanctuary",
     image: "/poi-images/croatia-kuterevo-bear-sanctuary-life-v2.webp",
 },  {
     id: "croatia-golubinjak-forest-life-v2",
+    parent: "HR",
     type: "forest",
     name: { de: "Waldpark Golubinjak", hu: "Golubinjak Erdei Park", ro: "Parcul Forestier Golubinjak", en: "Golubinjak Forest Park",
 image: "/poi-images/croatia-golubinjak-forest-life-v2.webp"

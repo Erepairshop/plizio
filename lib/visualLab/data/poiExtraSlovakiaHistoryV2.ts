@@ -3,6 +3,7 @@ export const slovakiaHistoryV2: POI[] = [
 
   {
     id: "slovakia-dukla-pass-history-v2",
+    parent: "SK",
     type: "battlefield",
     name: { de: "Duklapass", hu: "Duklai-szoros", ro: "Pasul Dukla", en: "Dukla Pass",
 image: "/poi-images/slovakia-dukla-pass-history-v2.webp"
@@ -36,6 +37,7 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
     image: "/poi-images/slovakia-dukla-pass-history-v2.webp",
 },  {
     id: "slovakia-havranok-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Havránok", hu: "Havránok", ro: "Havránok", en: "Havránok",
 image: "/poi-images/slovakia-havranok-history-v2.webp"
@@ -69,6 +71,7 @@ imageHint: "Havranok archaeological site Celtic reconstructions",
     image: "/poi-images/slovakia-havranok-history-v2.webp",
 },  {
     id: "slovakia-gerulata-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Gerulata", hu: "Gerulata", ro: "Gerulata", en: "Gerulata",
 image: "/poi-images/slovakia-gerulata-history-v2.webp"
@@ -102,6 +105,7 @@ imageHint: "Gerulata Roman ruins Rusovce",
     image: "/poi-images/slovakia-gerulata-history-v2.webp",
 },  {
     id: "slovakia-pusty-hrad-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Pustý hrad", hu: "Pusztavár", ro: "Castelul Pustý", en: "Pustý hrad",
 image: "/poi-images/slovakia-pusty-hrad-history-v2.webp"
@@ -135,6 +139,7 @@ imageHint: "Pusty hrad Zvolen castle ruins aerial",
     image: "/poi-images/slovakia-pusty-hrad-history-v2.webp",
 },  {
     id: "slovakia-snp-museum-history-v2",
+    parent: "SK",
     type: "monument",
     name: { de: "Museum des Slowakischen Nationalaufstands", hu: "SZNF Múzeum", ro: "Muzeul Insurecției Naționale Slovace", en: "Museum of the Slovak National Uprising",
 image: "/poi-images/slovakia-snp-museum-history-v2.webp"
@@ -168,6 +173,7 @@ imageHint: "SNP Museum Banska Bystrica architecture",
     image: "/poi-images/slovakia-snp-museum-history-v2.webp",
 },  {
     id: "slovakia-primatial-palace-history-v2",
+    parent: "SK",
     type: "palace",
     name: { de: "Primatialpalais", hu: "Prímási palota", ro: "Palatul Primatului", en: "Primatial Palace",
 image: "/poi-images/slovakia-primatial-palace-history-v2.webp"
@@ -201,6 +207,7 @@ imageHint: "Primatial Palace Bratislava pink facade",
     image: "/poi-images/slovakia-primatial-palace-history-v2.webp",
 },  {
     id: "slovakia-svaty-anton-history-v2",
+    parent: "SK",
     type: "palace",
     name: { de: "Schloss Svätý Anton", hu: "Szentantali kastély", ro: "Conacul Sfântul Anton", en: "Svätý Anton Manor House",
 image: "/poi-images/slovakia-svaty-anton-history-v2.webp"
@@ -234,6 +241,7 @@ imageHint: "Svaty Anton manor house Slovakia",
     image: "/poi-images/slovakia-svaty-anton-history-v2.webp",
 },  {
     id: "slovakia-hronsky-benadik-history-v2",
+    parent: "SK",
     type: "church",
     name: { de: "Abtei Hronský Beňadik", hu: "Garamszentbenedeki apátság", ro: "Abația Hronský Beňadik", en: "Hronský Beňadik Abbey",
 image: "/poi-images/slovakia-hronsky-benadik-history-v2.webp"
@@ -267,6 +275,7 @@ imageHint: "Hronsky Benadik abbey monastery",
     image: "/poi-images/slovakia-hronsky-benadik-history-v2.webp",
 },  {
     id: "slovakia-rozhanovce-battlefield-history-v2",
+    parent: "SK",
     type: "battlefield",
     name: { de: "Schlachtfeld von Rozhanovce", hu: "Rozgonyi csatatér", ro: "Câmpul de luptă Rozhanovce", en: "Battle of Rozhanovce",
 image: "/poi-images/slovakia-rozhanovce-battlefield-history-v2.webp"
@@ -300,6 +309,7 @@ imageHint: "Rozhanovce battlefield memorial stone",
     image: "/poi-images/slovakia-rozhanovce-battlefield-history-v2.webp",
 },  {
     id: "slovakia-parkany-battlefield-history-v2",
+    parent: "SK",
     type: "battlefield",
     name: { de: "Schlachtfeld von Párkány", hu: "Párkányi csatatér", ro: "Câmpul de luptă Párkány", en: "Battle of Párkány",
 image: "/poi-images/slovakia-parkany-battlefield-history-v2.webp"
@@ -333,6 +343,7 @@ imageHint: "Sturovo Jan Sobieski monument",
     image: "/poi-images/slovakia-parkany-battlefield-history-v2.webp",
 },  {
     id: "slovakia-pressburg-907-battlefield-history-v2",
+    parent: "SK",
     type: "battlefield",
     name: { de: "Schlacht von Pressburg", hu: "Pozsonyi csatatér (907)", ro: "Bătălia de la Pressburg", en: "Battle of Pressburg",
 image: "/poi-images/slovakia-pressburg-907-battlefield-history-v2.webp"
@@ -366,6 +377,7 @@ imageHint: "Bratislava castle and Danube aerial history",
     image: "/poi-images/slovakia-pressburg-907-battlefield-history-v2.webp",
 },  {
     id: "slovakia-cerveny-klastor-history-v2",
+    parent: "SK",
     type: "museum",
     name: { de: "Rotes Kloster", hu: "Vörös kolostor", ro: "Mănăstirea Roșie", en: "Červený Kláštor",
 image: "/poi-images/slovakia-cerveny-klastor-history-v2.webp"
@@ -399,6 +411,7 @@ imageHint: "Cerveny Klastor monastery Pieniny",
     image: "/poi-images/slovakia-cerveny-klastor-history-v2.webp",
 },  {
     id: "slovakia-viglas-palace-history-v2",
+    parent: "SK",
     type: "palace",
     name: { de: "Schloss Vígľaš", hu: "Véglesi várkastély", ro: "Castelul Vígľaš", en: "Vígľaš Castle",
 image: "/poi-images/slovakia-viglas-palace-history-v2.webp"
@@ -432,6 +445,7 @@ imageHint: "Viglas castle Slovakia reconstructed",
     image: "/poi-images/slovakia-viglas-palace-history-v2.webp",
 },  {
     id: "slovakia-markusovce-mansion-history-v2",
+    parent: "SK",
     type: "palace",
     name: { de: "Herrenhaus Markušovce", hu: "Márkusfalvi kastély", ro: "Conacul Markušovce", en: "Markušovce Mansion",
 image: "/poi-images/slovakia-markusovce-mansion-history-v2.webp"
@@ -465,6 +479,7 @@ imageHint: "Markusovce mansion Dardanely pavilion",
     image: "/poi-images/slovakia-markusovce-mansion-history-v2.webp",
 },  {
     id: "slovakia-topolcianky-palace-history-v2",
+    parent: "SK",
     type: "palace",
     name: { de: "Schloss Topoľčianky", hu: "Kistapolcsányi kastély", ro: "Castelul Topoľčianky", en: "Topoľčianky Manor House",
 image: "/poi-images/slovakia-topolcianky-palace-history-v2.webp"
@@ -498,6 +513,7 @@ imageHint: "Topolcianky manor house facade",
     image: "/poi-images/slovakia-topolcianky-palace-history-v2.webp",
 },  {
     id: "slovakia-sered-holocaust-museum-history-v2",
+    parent: "SK",
     type: "museum",
     name: { de: "Holocaust-Museum Sereď", hu: "Szeredi Holokauszt Múzeum", ro: "Muzeul Holocaustului din Sereď", en: "Sereď Holocaust Museum",
 image: "/poi-images/slovakia-sered-holocaust-museum-history-v2.webp"
@@ -531,6 +547,7 @@ imageHint: "Sered Holocaust Museum barracks",
     image: "/poi-images/slovakia-sered-holocaust-museum-history-v2.webp",
 },  {
     id: "slovakia-drazovce-church-history-v2",
+    parent: "SK",
     type: "church",
     name: { de: "Kirche von Drážovce", hu: "Drázsóci templom", ro: "Biserica din Drážovce", en: "Drážovce Church",
 image: "/poi-images/slovakia-drazovce-church-history-v2.webp"
@@ -564,6 +581,7 @@ imageHint: "Drazovce Romanesque church on hill",
     image: "/poi-images/slovakia-drazovce-church-history-v2.webp",
 },  {
     id: "slovakia-krupina-vartovka-history-v2",
+    parent: "SK",
     type: "tower",
     name: { de: "Vartovka von Krupina", hu: "Korponai Vartovka", ro: "Turnul de veghe Krupina", en: "Krupina Watchtower",
 image: "/poi-images/slovakia-krupina-vartovka-history-v2.webp"
@@ -597,6 +615,7 @@ imageHint: "Krupina Vartovka watchtower",
     image: "/poi-images/slovakia-krupina-vartovka-history-v2.webp",
 },  {
     id: "slovakia-gymes-ruins-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Burgruine Gýmeš", hu: "Gímes vára", ro: "Cetatea Gýmeš", en: "Gýmeš Castle Ruins",
 image: "/poi-images/slovakia-gymes-ruins-history-v2.webp"
@@ -630,6 +649,7 @@ imageHint: "Gymes castle ruins Slovakia",
     image: "/poi-images/slovakia-gymes-ruins-history-v2.webp",
 },  {
     id: "slovakia-uhrovec-ruins-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Burgruine Uhrovec", hu: "Ugróc vára", ro: "Cetatea Uhrovec", en: "Uhrovec Castle Ruins",
 image: "/poi-images/slovakia-uhrovec-ruins-history-v2.webp"
@@ -663,6 +683,7 @@ imageHint: "Uhrovec castle ruins aerial",
     image: "/poi-images/slovakia-uhrovec-ruins-history-v2.webp",
 },  {
     id: "slovakia-sklabina-ruins-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Burgruine Sklabiňa", hu: "Szklabinya vára", ro: "Cetatea Sklabiňa", en: "Sklabiňa Castle Ruins",
 image: "/poi-images/slovakia-sklabina-ruins-history-v2.webp"
@@ -696,6 +717,7 @@ imageHint: "Sklabina castle ruins Turiec",
     image: "/poi-images/slovakia-sklabina-ruins-history-v2.webp",
 },  {
     id: "slovakia-tematin-ruins-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Burgruine Tematín", hu: "Temetvény vára", ro: "Cetatea Tematín", en: "Tematín Castle Ruins",
 image: "/poi-images/slovakia-tematin-ruins-history-v2.webp"
@@ -729,6 +751,7 @@ imageHint: "Tematin castle ruins Slovakia aerial",
     image: "/poi-images/slovakia-tematin-ruins-history-v2.webp",
 },  {
     id: "slovakia-muran-ruins-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Burgruine Muráň", hu: "Murány vára", ro: "Cetatea Muráň", en: "Muráň Castle Ruins",
 image: "/poi-images/slovakia-muran-ruins-history-v2.webp"
@@ -762,6 +785,7 @@ imageHint: "Muran castle ruins Slovakia",
     image: "/poi-images/slovakia-muran-ruins-history-v2.webp",
 },  {
     id: "slovakia-sitno-archaeology-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Archäologische Stätte Sitno", hu: "Szitnya régészeti lelőhely", ro: "Situl arheologic Sitno", en: "Sitno Archaeology Site",
 image: "/poi-images/slovakia-sitno-archaeology-history-v2.webp"
@@ -795,6 +819,7 @@ imageHint: "Sitno hill fort ruins",
     image: "/poi-images/slovakia-sitno-archaeology-history-v2.webp",
 },  {
     id: "slovakia-molpir-hillfort-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Wallburg Molpír", hu: "Molpír földvár", ro: "Fortificația Molpír", en: "Molpír Hillfort",
 image: "/poi-images/slovakia-molpir-hillfort-history-v2.webp"
@@ -828,6 +853,7 @@ imageHint: "Molpir archaeological site Smolenice",
     image: "/poi-images/slovakia-molpir-hillfort-history-v2.webp",
 },  {
     id: "slovakia-bina-fortifications-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Erdwälle von Bíňa", hu: "Bényi földsáncok", ro: "Fortificațiile de pământ din Bíňa", en: "Bíňa Earthen Walls",
 image: "/poi-images/slovakia-bina-fortifications-history-v2.webp"
@@ -861,6 +887,7 @@ imageHint: "Bina earthen walls Slovakia",
     image: "/poi-images/slovakia-bina-fortifications-history-v2.webp",
 },  {
     id: "slovakia-velka-maca-archaeology-history-v2",
+    parent: "SK",
     type: "ruins",
     name: { de: "Archäologische Stätte Veľká Mača", hu: "Nagymácsédi régészeti lelőhely", ro: "Situl arheologic Veľká Mača", en: "Veľká Mača Archaeology Site",
 image: "/poi-images/slovakia-velka-maca-archaeology-history-v2.webp"
@@ -894,6 +921,7 @@ image: "/poi-images/slovakia-velka-maca-archaeology-history-v2.webp"
   },
   {
     id: "slovakia-mirbach-palace-history-v2",
+    parent: "SK",
     type: "palace",
     name: { de: "Mirbach-Palais", hu: "Mirbach-palota", ro: "Palatul Mirbach", en: "Mirbach Palace",
 image: "/poi-images/slovakia-mirbach-palace-history-v2.webp"
@@ -927,6 +955,7 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-mirbach-palace-history-v2.webp",
 },  {
     id: "slovakia-apponyi-palace-history-v2",
+    parent: "SK",
     type: "palace",
     name: { de: "Apponyi-Palais", hu: "Apponyi-palota", ro: "Palatul Apponyi", en: "Apponyi Palace",
 image: "/poi-images/slovakia-apponyi-palace-history-v2.webp"

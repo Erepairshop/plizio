@@ -3,6 +3,7 @@ export const moldovaReliefV2: POI[] = [
 
   {
     id: "moldova-codru-highlands-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Codru-Hochland", hu: "Codru-hátság", ro: "Podișul Codrilor", en: "Codru Highlands",
 image: "/poi-images/moldova-codru-highlands-relief-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/moldova-codru-highlands-relief-v2.webp"
   },
   {
     id: "moldova-dniester-plateau-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Dnestr-Plateau", hu: "Dnyeszter-menti-hátság", ro: "Podișul Nistrului", en: "Dniester Plateau",
 image: "/poi-images/moldova-dniester-plateau-relief-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/moldova-dniester-plateau-relief-v2.webp"
   },
   {
     id: "moldova-balti-steppe-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Bălți-Steppe", hu: "Bălți-sztyeppe", ro: "Stepa Bălțului", en: "Bălți Steppe",
 image: "/poi-images/moldova-balti-steppe-relief-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/moldova-balti-steppe-relief-v2.webp"
   },
   {
     id: "moldova-south-moldavian-plain-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Südmoldauische Ebene", hu: "Dél-Moldovai-alföld", ro: "Câmpia Moldovei de Sud", en: "South Moldavian Plain",
 image: "/poi-images/moldova-south-moldavian-plain-relief-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/moldova-south-moldavian-plain-relief-v2.webp"
   },
   {
     id: "moldova-magura-hill-relief-v2",
+    parent: "MD",
     type: "peak",
     name: { de: "Măgura-Hügel", hu: "Măgura-domb", ro: "Dealul Măgura", en: "Măgura Hill",
 image: "/poi-images/moldova-magura-hill-relief-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/moldova-magura-hill-relief-v2.webp"
   },
   {
     id: "moldova-hundred-hills-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Die Hundert Hügel", hu: "Száz halom", ro: "Suta de Movile", en: "The Hundred Hills",
 image: "/poi-images/moldova-hundred-hills-relief-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/moldova-hundred-hills-relief-v2.webp"
   },
   {
     id: "moldova-prut-toltry-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Prut-Toltry", hu: "Pruti-toltrék", ro: "Toltrele Prutului", en: "Prut Toltry",
 image: "/poi-images/moldova-prut-toltry-relief-v2.webp"
@@ -247,6 +254,7 @@ image: "/poi-images/moldova-prut-toltry-relief-v2.webp"
   },
   {
     id: "moldova-duruitoarea-ravine-relief-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Duruitoarea-Schlucht", hu: "Duruitoarea-szurdok", ro: "Defileul Duruitoarea", en: "Duruitoarea Ravine",
 image: "/poi-images/moldova-duruitoarea-ravine-relief-v2.webp"
@@ -281,6 +289,7 @@ image: "/poi-images/moldova-duruitoarea-ravine-relief-v2.webp"
   },
   {
     id: "moldova-fetesti-switzerland-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Moldauische Schweiz (Fetești)", hu: "Moldáv Svájc (Fetești)", ro: "Elveția Moldovenească (Fetești)", en: "Moldavian Switzerland (Fetești)",
 image: "/poi-images/moldova-fetesti-switzerland-relief-v2.webp"
@@ -316,6 +325,7 @@ image: "/poi-images/moldova-fetesti-switzerland-relief-v2.webp"
   },
   {
     id: "moldova-vaden-hill-relief-v2",
+    parent: "MD",
     type: "peak",
     name: { de: "Vădeni-Hügel", hu: "Vădeni-domb", ro: "Dealul Vădeni", en: "Vădeni Hill",
 image: "/poi-images/moldova-vaden-hill-relief-v2.webp"
@@ -350,6 +360,7 @@ image: "/poi-images/moldova-vaden-hill-relief-v2.webp"
   },
   {
     id: "moldova-bechir-ravine-relief-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Bechir-Schlucht", hu: "Bechir-szurdok", ro: "Râpa lui Bechir", en: "Bechir Ravine",
 image: "/poi-images/moldova-bechir-ravine-relief-v2.webp"
@@ -385,6 +396,7 @@ image: "/poi-images/moldova-bechir-ravine-relief-v2.webp"
   },
   {
     id: "moldova-raut-river-canyon-relief-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Răut-Flusscanyon", hu: "Răut-folyó kanyonja", ro: "Defileul râului Răut", en: "Răut River Canyon",
 image: "/poi-images/moldova-raut-river-canyon-relief-v2.webp"
@@ -420,6 +432,7 @@ image: "/poi-images/moldova-raut-river-canyon-relief-v2.webp"
   },
   {
     id: "moldova-saharna-ravines-relief-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Saharna-Schluchten", hu: "Saharna-szurdokok", ro: "Defileele Saharna", en: "Saharna Ravines",
 image: "/poi-images/moldova-saharna-ravines-relief-v2.webp"
@@ -455,6 +468,7 @@ image: "/poi-images/moldova-saharna-ravines-relief-v2.webp"
   },
   {
     id: "moldova-tipova-cliffs-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Țipova-Klippen", hu: "Țipova-sziklák", ro: "Falezele Țipova", en: "Țipova Cliffs",
 image: "/poi-images/moldova-tipova-cliffs-relief-v2.webp"
@@ -490,6 +504,7 @@ image: "/poi-images/moldova-tipova-cliffs-relief-v2.webp"
   },
   {
     id: "moldova-lapusna-hills-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Lăpușna-Hügel", hu: "Lăpușna-dombság", ro: "Dealurile Lăpușnei", en: "Lăpușna Hills",
 image: "/poi-images/moldova-lapusna-hills-relief-v2.webp"
@@ -525,6 +540,7 @@ image: "/poi-images/moldova-lapusna-hills-relief-v2.webp"
   },
   {
     id: "moldova-cogalnic-plain-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Cogâlnic-Ebene", hu: "Cogâlnic-síkság", ro: "Câmpia Cogâlnicului", en: "Cogâlnic Plain",
 image: "/poi-images/moldova-cogalnic-plain-relief-v2.webp"
@@ -560,6 +576,7 @@ image: "/poi-images/moldova-cogalnic-plain-relief-v2.webp"
   },
   {
     id: "moldova-middle-prut-plain-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Mittlere Prut-Ebene", hu: "Középső-Prut-síkság", ro: "Câmpia Prutului de Mijloc", en: "Middle Prut Plain",
 image: "/poi-images/moldova-middle-prut-plain-relief-v2.webp"
@@ -595,6 +612,7 @@ image: "/poi-images/moldova-middle-prut-plain-relief-v2.webp"
   },
   {
     id: "moldova-ialpug-valley-relief-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Ialpug-Tal", hu: "Ialpug-völgy", ro: "Valea Ialpugului", en: "Ialpug Valley",
 image: "/poi-images/moldova-ialpug-valley-relief-v2.webp"
@@ -630,6 +648,7 @@ image: "/poi-images/moldova-ialpug-valley-relief-v2.webp"
   },
   {
     id: "moldova-bic-river-valley-relief-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Bîc-Tal", hu: "Bîc-völgy", ro: "Valea Bîcului", en: "Bîc Valley",
 image: "/poi-images/moldova-bic-river-valley-relief-v2.webp"
@@ -665,6 +684,7 @@ image: "/poi-images/moldova-bic-river-valley-relief-v2.webp"
   },
   {
     id: "moldova-ciuluc-hills-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Ciuluc-Hügel", hu: "Ciuluc-dombság", ro: "Podișul Ciuluc-Soloneț", en: "Ciuluc-Soloneț Hills",
 image: "/poi-images/moldova-ciuluc-hills-relief-v2.webp"
@@ -699,6 +719,7 @@ image: "/poi-images/moldova-ciuluc-hills-relief-v2.webp"
   },
   {
     id: "moldova-edinet-toltry-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Edineț-Toltry", hu: "Edineți-toltrék", ro: "Toltrele Edinețului", en: "Edineț Toltry",
 image: "/poi-images/moldova-edinet-toltry-relief-v2.webp"
@@ -733,6 +754,7 @@ image: "/poi-images/moldova-edinet-toltry-relief-v2.webp"
   },
   {
     id: "moldova-butesti-gorge-relief-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Schlucht von Butești", hu: "Butești-szurdok", ro: "Defileul Butești", en: "Butești Gorge",
 image: "/poi-images/moldova-butesti-gorge-relief-v2.webp"
@@ -768,6 +790,7 @@ image: "/poi-images/moldova-butesti-gorge-relief-v2.webp"
   },
   {
     id: "moldova-botna-valley-relief-v2",
+    parent: "MD",
     type: "valley",
     name: { de: "Botna-Tal", hu: "Botna-völgy", ro: "Valea Botnei", en: "Botna Valley",
 image: "/poi-images/moldova-botna-valley-relief-v2.webp"
@@ -803,6 +826,7 @@ image: "/poi-images/moldova-botna-valley-relief-v2.webp"
   },
   {
     id: "moldova-lower-prut-plain-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Untere Prut-Ebene", hu: "Alsó-Prut-síkság", ro: "Câmpia Prutului de Jos", en: "Lower Prut Plain",
 image: "/poi-images/moldova-lower-prut-plain-relief-v2.webp"
@@ -838,6 +862,7 @@ image: "/poi-images/moldova-lower-prut-plain-relief-v2.webp"
   },
   {
     id: "moldova-northern-plateau-relief-v2",
+    parent: "MD",
     type: "landmark",
     name: { de: "Nordmoldauisches Plateau", hu: "Észak-Moldovai-fennsík", ro: "Podișul Moldovei de Nord", en: "Northern Moldavian Plateau",
 image: "/poi-images/moldova-northern-plateau-relief-v2.webp"
@@ -873,6 +898,7 @@ image: "/poi-images/moldova-northern-plateau-relief-v2.webp"
   },
   {
     id: "moldova-nisporeni-hills-relief-v2",
+    parent: "MD",
     type: "peak",
     name: { de: "Nisporeni-Hügel", hu: "Nisporeni-dombság", ro: "Dealurile Nisporeniului", en: "Nisporeni Hills",
 image: "/poi-images/moldova-nisporeni-hills-relief-v2.webp"

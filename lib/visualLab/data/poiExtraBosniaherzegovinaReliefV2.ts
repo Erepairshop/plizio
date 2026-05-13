@@ -3,6 +3,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
 
   {
     id: "bosniaherzegovina-volujak-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Volujak", hu: "Volujak", ro: "Volujak", en: "Volujak",
 image: "/poi-images/bosniaherzegovina-volujak-relief-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/bosniaherzegovina-volujak-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-treskavica-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Treskavica", hu: "Treskavica", ro: "Treskavica", en: "Treskavica",
 image: "/poi-images/bosniaherzegovina-treskavica-relief-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/bosniaherzegovina-treskavica-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-vlasic-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Vlašić", hu: "Vlašić", ro: "Vlašić", en: "Vlašić",
 image: "/poi-images/bosniaherzegovina-vlasic-relief-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/bosniaherzegovina-vlasic-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-kozara-relief-v2",
+    parent: "BA",
     type: "park",
     name: { de: "Kozara", hu: "Kozara", ro: "Kozara", en: "Kozara",
 image: "/poi-images/bosniaherzegovina-kozara-relief-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/bosniaherzegovina-kozara-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-dinara-troglav-relief-v2",
+    parent: "BA",
     type: "peak",
     name: { de: "Dinara (Troglav)", hu: "Dinara (Troglav)", ro: "Dinara (Troglav)", en: "Dinara (Troglav)",
 image: "/poi-images/bosniaherzegovina-dinara-troglav-relief-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/bosniaherzegovina-dinara-troglav-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-romanija-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Romanija", hu: "Romanija", ro: "Romanija", en: "Romanija",
 image: "/poi-images/bosniaherzegovina-romanija-relief-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/bosniaherzegovina-romanija-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-grmec-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Grmeč", hu: "Grmeč", ro: "Grmeč", en: "Grmeč",
 image: "/poi-images/bosniaherzegovina-grmec-relief-v2.webp"
@@ -248,6 +255,7 @@ image: "/poi-images/bosniaherzegovina-grmec-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-majevica-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Majevica", hu: "Majevica", ro: "Majevica", en: "Majevica",
 image: "/poi-images/bosniaherzegovina-majevica-relief-v2.webp"
@@ -283,6 +291,7 @@ image: "/poi-images/bosniaherzegovina-majevica-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-ozren-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Ozren", hu: "Ozren", ro: "Ozren", en: "Ozren",
 image: "/poi-images/bosniaherzegovina-ozren-relief-v2.webp"
@@ -317,6 +326,7 @@ image: "/poi-images/bosniaherzegovina-ozren-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-cincar-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Cincar", hu: "Cincar", ro: "Cincar", en: "Cincar",
 image: "/poi-images/bosniaherzegovina-cincar-relief-v2.webp"
@@ -352,6 +362,7 @@ image: "/poi-images/bosniaherzegovina-cincar-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-vitorog-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Vitorog", hu: "Vitorog", ro: "Vitorog", en: "Vitorog",
 image: "/poi-images/bosniaherzegovina-vitorog-relief-v2.webp"
@@ -387,6 +398,7 @@ image: "/poi-images/bosniaherzegovina-vitorog-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-sator-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Šator", hu: "Šator", ro: "Šator", en: "Šator",
 image: "/poi-images/bosniaherzegovina-sator-relief-v2.webp"
@@ -422,6 +434,7 @@ image: "/poi-images/bosniaherzegovina-sator-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-klekovaca-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Klekovača", hu: "Klekovača", ro: "Klekovača", en: "Klekovača",
 image: "/poi-images/bosniaherzegovina-klekovaca-relief-v2.webp"
@@ -457,6 +470,7 @@ image: "/poi-images/bosniaherzegovina-klekovaca-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-konjuh-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Konjuh", hu: "Konjuh", ro: "Konjuh", en: "Konjuh",
 image: "/poi-images/bosniaherzegovina-konjuh-relief-v2.webp"
@@ -492,6 +506,7 @@ image: "/poi-images/bosniaherzegovina-konjuh-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-bitovnja-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Bitovnja", hu: "Bitovnja", ro: "Bitovnja", en: "Bitovnja",
 image: "/poi-images/bosniaherzegovina-bitovnja-relief-v2.webp"
@@ -527,6 +542,7 @@ image: "/poi-images/bosniaherzegovina-bitovnja-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-radusa-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Raduša", hu: "Raduša", ro: "Raduša", en: "Raduša",
 image: "/poi-images/bosniaherzegovina-radusa-relief-v2.webp"
@@ -562,6 +578,7 @@ image: "/poi-images/bosniaherzegovina-radusa-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-visocica-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Visočica", hu: "Visočica", ro: "Visočica", en: "Visočica",
 image: "/poi-images/bosniaherzegovina-visocica-relief-v2.webp"
@@ -597,6 +614,7 @@ image: "/poi-images/bosniaherzegovina-visocica-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-cabulja-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Čabulja", hu: "Čabulja", ro: "Čabulja", en: "Čabulja",
 image: "/poi-images/bosniaherzegovina-cabulja-relief-v2.webp"
@@ -632,6 +650,7 @@ image: "/poi-images/bosniaherzegovina-cabulja-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-vran-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Vran", hu: "Vran", ro: "Vran", en: "Vran",
 image: "/poi-images/bosniaherzegovina-vran-relief-v2.webp"
@@ -667,6 +686,7 @@ image: "/poi-images/bosniaherzegovina-vran-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-pljesevica-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Plješevica", hu: "Plješevica", ro: "Plješevica", en: "Plješevica",
 image: "/poi-images/bosniaherzegovina-pljesevica-relief-v2.webp"
@@ -702,6 +722,7 @@ image: "/poi-images/bosniaherzegovina-pljesevica-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-kamesnica-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Kamešnica", hu: "Kamešnica", ro: "Kamešnica", en: "Kamešnica",
 image: "/poi-images/bosniaherzegovina-kamesnica-relief-v2.webp"
@@ -737,6 +758,7 @@ image: "/poi-images/bosniaherzegovina-kamesnica-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-lelija-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Lelija", hu: "Lelija", ro: "Lelija", en: "Lelija",
 image: "/poi-images/bosniaherzegovina-lelija-relief-v2.webp"
@@ -772,6 +794,7 @@ image: "/poi-images/bosniaherzegovina-lelija-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-ivan-planina-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Ivan Planina", hu: "Ivan Planina", ro: "Ivan Planina", en: "Ivan Planina",
 image: "/poi-images/bosniaherzegovina-ivan-planina-relief-v2.webp"
@@ -808,6 +831,7 @@ image: "/poi-images/bosniaherzegovina-ivan-planina-relief-v2.webp"
 ,
   {
     id: "bosniaherzegovina-osjecenica-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Osječenica", hu: "Osječenica-hegység", ro: "Muntele Osječenica", en: "Osječenica",
 image: "/poi-images/bosniaherzegovina-osjecenica-relief-v2.webp"
@@ -841,6 +865,7 @@ image: "/poi-images/bosniaherzegovina-osjecenica-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-crvanj-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Crvanj", hu: "Crvanj-hegység", ro: "Muntele Crvanj", en: "Crvanj",
 image: "/poi-images/bosniaherzegovina-crvanj-relief-v2.webp"
@@ -875,6 +900,7 @@ image: "/poi-images/bosniaherzegovina-crvanj-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-popovopolje-relief-v2",
+    parent: "BA",
     type: "valley",
     name: { de: "Popovo Polje", hu: "Popovo Polje", ro: "Popovo Polje", en: "Popovo Polje",
 image: "/poi-images/bosniaherzegovina-popovopolje-relief-v2.webp"
@@ -909,6 +935,7 @@ image: "/poi-images/bosniaherzegovina-popovopolje-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-cemerno-relief-v2",
+    parent: "BA",
     type: "peak",
     name: { de: "Čemerno", hu: "Čemerno-hágó", ro: "Trecătoarea Čemerno", en: "Čemerno",
 image: "/poi-images/bosniaherzegovina-cemerno-relief-v2.webp"
@@ -943,6 +970,7 @@ image: "/poi-images/bosniaherzegovina-cemerno-relief-v2.webp"
   },
   {
     id: "bosniaherzegovina-manjaca-relief-v2",
+    parent: "BA",
     type: "mountain",
     name: { de: "Manjača", hu: "Manjača-hegység", ro: "Muntele Manjača", en: "Manjača",
 image: "/poi-images/bosniaherzegovina-manjaca-relief-v2.webp"

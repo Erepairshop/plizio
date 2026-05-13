@@ -3,6 +3,7 @@ export const sloveniaLandmarksV2: POI[] = [
 
   {
     id: "slovenia-triple-bridge-landmarks-v2",
+    parent: "SI",
     type: "bridge",
     name: { de: "Drei Brücken", hu: "Hármas híd", ro: "Podul Triplu", en: "Triple Bridge",
 image: "/poi-images/slovenia-triple-bridge-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Triple Bridge in Ljubljana with historical lamps",
     image: "/poi-images/slovenia-triple-bridge-landmarks-v2.webp",
 },  {
     id: "slovenia-dragon-bridge-landmarks-v2",
+    parent: "SI",
     type: "bridge",
     name: { de: "Drachenbrücke", hu: "Sárkány híd", ro: "Podul Dragonilor", en: "Dragon Bridge",
 image: "/poi-images/slovenia-dragon-bridge-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Dragon Bridge sculpture detail in Ljubljana",
     image: "/poi-images/slovenia-dragon-bridge-landmarks-v2.webp",
 },  {
     id: "slovenia-st-martin-church-bled-landmarks-v2",
+    parent: "SI",
     type: "church",
     name: { de: "Pfarrkirche St. Martin", hu: "Szent Márton-plébániatemplom", ro: "Biserica parohială Sfântul Martin", en: "St. Martin's Parish Church",
 image: "/poi-images/slovenia-st-martin-church-bled-landmarks-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "St. Martin Parish Church in Bled architecture",
     image: "/poi-images/slovenia-st-martin-church-bled-landmarks-v2.webp",
 },  {
     id: "slovenia-franciscan-church-ljubljana-landmarks-v2",
+    parent: "SI",
     type: "church",
     name: { de: "Franziskanerkirche", hu: "Ferences templom", ro: "Biserica Franciscană", en: "Franciscan Church",
 image: "/poi-images/slovenia-franciscan-church-ljubljana-landmarks-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Franciscan Church of the Annunciation in Ljubljana Prešeren Square"
     image: "/poi-images/slovenia-franciscan-church-ljubljana-landmarks-v2.webp",
 },  {
     id: "slovenia-st-nicholas-cathedral-landmarks-v2",
+    parent: "SI",
     type: "cathedral",
     name: { de: "St.-Nikolaus-Kathedrale", hu: "Szent Miklós-székesegyház", ro: "Catedrala Sfântul Nicolae", en: "St. Nicholas Cathedral",
 image: "/poi-images/slovenia-st-nicholas-cathedral-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Ljubljana Cathedral exterior with green dome",
     image: "/poi-images/slovenia-st-nicholas-cathedral-landmarks-v2.webp",
 },  {
     id: "slovenia-national-museum-landmarks-v2",
+    parent: "SI",
     type: "museum",
     name: { de: "Slowenisches Nationalmuseum", hu: "Szlovén Nemzeti Múzeum", ro: "Muzeul Național al Sloveniei", en: "National Museum of Slovenia",
 image: "/poi-images/slovenia-national-museum-landmarks-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "National Museum of Slovenia building in Ljubljana",
     image: "/poi-images/slovenia-national-museum-landmarks-v2.webp",
 },  {
     id: "slovenia-philharmonic-hall-landmarks-v2",
+    parent: "SI",
     type: "landmark",
     name: { de: "Slowenische Philharmonie", hu: "Szlovén Filharmónia", ro: "Filarmonica Slovenă", en: "Slovenian Philharmonic Hall",
 image: "/poi-images/slovenia-philharmonic-hall-landmarks-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Slovenian Philharmonic Hall building Congress Square",
     image: "/poi-images/slovenia-philharmonic-hall-landmarks-v2.webp",
 },  {
     id: "slovenia-ljubljana-town-hall-landmarks-v2",
+    parent: "SI",
     type: "landmark",
     name: { de: "Rathaus von Ljubljana", hu: "Ljubljanai városháza", ro: "Primăria din Ljubljana", en: "Ljubljana Town Hall",
 image: "/poi-images/slovenia-ljubljana-town-hall-landmarks-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
     image: "/poi-images/slovenia-ljubljana-town-hall-landmarks-v2.webp",
 },  {
     id: "slovenia-celje-castle-landmarks-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Altes Schloss Celje", hu: "Celjei óvár", ro: "Castelul Vechi din Celje", en: "Celje Old Castle",
 image: "/poi-images/slovenia-celje-castle-landmarks-v2.webp"
@@ -309,6 +318,7 @@ image: "/poi-images/slovenia-celje-castle-landmarks-v2.webp"
   },
   {
     id: "slovenia-zuzemberk-castle-landmarks-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Schloss Žužemberk", hu: "Zsusemberki vár", ro: "Castelul Žužemberk", en: "Žužemberk Castle",
 image: "/poi-images/slovenia-zuzemberk-castle-landmarks-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Žužemberk Castle towers above Krka river",
     image: "/poi-images/slovenia-zuzemberk-castle-landmarks-v2.webp",
 },  {
     id: "slovenia-plague-column-maribor-landmarks-v2",
+    parent: "SI",
     type: "monument",
     name: { de: "Pestsäule Maribor", hu: "Pestisoszlop Maribor", ro: "Coloana Ciumei din Maribor", en: "Plague Column in Maribor",
 image: "/poi-images/slovenia-plague-column-maribor-landmarks-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Plague Column in Maribor Main Square",
     image: "/poi-images/slovenia-plague-column-maribor-landmarks-v2.webp",
 },  {
     id: "slovenia-old-vine-house-landmarks-v2",
+    parent: "SI",
     type: "landmark",
     name: { de: "Haus der Alten Rebe", hu: "Az Öreg Szőlő Háza", ro: "Casa Vechii Vițe de Vie", en: "Old Vine House",
 image: "/poi-images/slovenia-old-vine-house-landmarks-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Old Vine House in Maribor with green vine on facade",
     image: "/poi-images/slovenia-old-vine-house-landmarks-v2.webp",
 },  {
     id: "slovenia-kostanjevica-monastery-landmarks-v2",
+    parent: "SI",
     type: "landmark",
     name: { de: "Zisterzienserkloster Kostanjevica", hu: "Kosztanjevicai ciszterci kolostor", ro: "Mănăstirea Cisterciană Kostanjevica", en: "Kostanjevica Monastery",
 image: "/poi-images/slovenia-kostanjevica-monastery-landmarks-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Kostanjevica na Krki monastery building and courtyard",
     image: "/poi-images/slovenia-kostanjevica-monastery-landmarks-v2.webp",
 },  {
     id: "slovenia-solkan-bridge-landmarks-v2",
+    parent: "SI",
     type: "bridge",
     name: { de: "Solkan-Brücke", hu: "Solkani híd", ro: "Podul Solkan", en: "Solkan Bridge",
 image: "/poi-images/slovenia-solkan-bridge-landmarks-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Solkan Bridge stone arch over Soča river",
     image: "/poi-images/slovenia-solkan-bridge-landmarks-v2.webp",
 },  {
     id: "slovenia-military-history-park-landmarks-v2",
+    parent: "SI",
     type: "museum",
     name: { de: "Park der Militärgeschichte Pivka", hu: "Pivkai Hadtörténeti Park", ro: "Parcul de Istorie Militară din Pivka", en: "Park of Military History in Pivka",
 image: "/poi-images/slovenia-military-history-park-landmarks-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Military History Park Pivka tanks and submarine",
     image: "/poi-images/slovenia-military-history-park-landmarks-v2.webp",
 },  {
     id: "slovenia-plecnik-house-landmarks-v2",
+    parent: "SI",
     type: "museum",
     name: { de: "Plečnik-Haus", hu: "Plečnik-ház", ro: "Casa Plečnik", en: "Plečnik House",
 image: "/poi-images/slovenia-plecnik-house-landmarks-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Plečnik House architecture Trnovo Ljubljana",
     image: "/poi-images/slovenia-plecnik-house-landmarks-v2.webp",
 },  {
     id: "slovenia-neboticnik-skyscraper-landmarks-v2",
+    parent: "SI",
     type: "landmark",
     name: { de: "Nebotičnik", hu: "Nebotičnik", ro: "Nebotičnik", en: "Nebotičnik (Skyscraper)",
 image: "/poi-images/slovenia-neboticnik-skyscraper-landmarks-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Nebotičnik skyscraper in Ljubljana with city view",
     image: "/poi-images/slovenia-neboticnik-skyscraper-landmarks-v2.webp",
 },  {
     id: "slovenia-velenje-castle-landmarks-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Schloss Velenje", hu: "Velenjei vár", ro: "Castelul Velenje", en: "Velenje Castle",
 image: "/poi-images/slovenia-velenje-castle-landmarks-v2.webp"
@@ -615,6 +633,7 @@ image: "/poi-images/slovenia-velenje-castle-landmarks-v2.webp"
   },
   {
     id: "slovenia-praetorian-palace-landmarks-v2",
+    parent: "SI",
     type: "palace",
     name: { de: "Prätorenpalast", hu: "Prétori palota", ro: "Palatul Pretorian", en: "Praetorian Palace",
 image: "/poi-images/slovenia-praetorian-palace-landmarks-v2.webp"
@@ -650,6 +669,7 @@ imageHint: "Praetorian Palace Koper Venetian Gothic architecture",
 },
   {
     id: "slovenia-koper-cathedral-landmarks-v2",
+    parent: "SI",
     type: "cathedral",
     name: { de: "Kathedrale von Koper", hu: "Koperi székesegyház", ro: "Catedrala din Koper", en: "Koper Cathedral",
 image: "/poi-images/slovenia-koper-cathedral-landmarks-v2.webp"
@@ -683,6 +703,7 @@ image: "/poi-images/slovenia-koper-cathedral-landmarks-v2.webp"
   },
   {
     id: "slovenia-piran-town-hall-landmarks-v2",
+    parent: "SI",
     type: "palace",
     name: { de: "Rathaus von Piran", hu: "Pirani városháza", ro: "Primăria din Piran", en: "Piran Town Hall",
 image: "/poi-images/slovenia-piran-town-hall-landmarks-v2.webp"
@@ -716,6 +737,7 @@ image: "/poi-images/slovenia-piran-town-hall-landmarks-v2.webp"
   },
   {
     id: "slovenia-ljubljana-opera-house-landmarks-v2",
+    parent: "SI",
     type: "theater",
     name: { de: "Opernhaus Ljubljana", hu: "Ljubljanai Operaház", ro: "Opera din Ljubljana", en: "Ljubljana Opera House",
 image: "/poi-images/slovenia-ljubljana-opera-house-landmarks-v2.webp"
@@ -749,6 +771,7 @@ imageHint: "Ljubljana Opera House Neo-Renaissance building exterior",
     image: "/poi-images/slovenia-ljubljana-opera-house-landmarks-v2.webp",
 },  {
     id: "slovenia-technical-museum-bistra-landmarks-v2",
+    parent: "SI",
     type: "museum",
     name: { de: "Technisches Museum Bistra", hu: "Bistrai Műszaki Múzeum", ro: "Muzeul Tehnic din Bistra", en: "Technical Museum of Slovenia",
 image: "/poi-images/slovenia-technical-museum-bistra-landmarks-v2.webp"
@@ -782,6 +805,7 @@ imageHint: "Technical Museum of Slovenia Bistra Castle exterior",
     image: "/poi-images/slovenia-technical-museum-bistra-landmarks-v2.webp",
 },  {
     id: "slovenia-grad-castle-goricko-landmarks-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Burg Grad", hu: "Felsőlendvai vár", ro: "Castelul Grad", en: "Grad Castle",
 image: "/poi-images/slovenia-grad-castle-goricko-landmarks-v2.webp"
@@ -815,6 +839,7 @@ imageHint: "Grad Castle Goričko Slovenia aerial view pentagonal shape",
     image: "/poi-images/slovenia-grad-castle-goricko-landmarks-v2.webp",
 },  {
     id: "slovenia-gewerkenegg-castle-landmarks-v2",
+    parent: "SI",
     type: "castle",
     name: { de: "Schloss Gewerkenegg", hu: "Gewerkenegg-kastély", ro: "Castelul Gewerkenegg", en: "Gewerkenegg Castle",
 image: "/poi-images/slovenia-gewerkenegg-castle-landmarks-v2.webp"
@@ -848,6 +873,7 @@ imageHint: "Gewerkenegg Castle Idrija courtyard sgraffito",
     image: "/poi-images/slovenia-gewerkenegg-castle-landmarks-v2.webp",
 },  {
     id: "slovenia-kostanjevica-monastery-nova-gorica-landmarks-v2",
+    parent: "SI",
     type: "landmark",
     name: { de: "Kloster Kostanjevica (Nova Gorica)", hu: "Kostanjevica-kolostor (Nova Gorica)", ro: "Mănăstirea Kostanjevica (Nova Gorica)", en: "Kostanjevica Monastery (Nova Gorica)",
 image: "/poi-images/slovenia-kostanjevica-monastery-nova-gorica-landmarks-v2.webp"
@@ -881,6 +907,7 @@ image: "/poi-images/slovenia-kostanjevica-monastery-nova-gorica-landmarks-v2.web
   },
   {
     id: "slovenia-vinarium-tower-landmarks-v2",
+    parent: "SI",
     type: "tower",
     name: { de: "Vinarium-Turm", hu: "Vinarium kilátó", ro: "Turnul Vinarium", en: "Vinarium Tower",
 image: "/poi-images/slovenia-vinarium-tower-landmarks-v2.webp"
@@ -914,6 +941,7 @@ imageHint: "Vinarium Tower Lendava observation deck panorama",
     image: "/poi-images/slovenia-vinarium-tower-landmarks-v2.webp",
 },  {
     id: "slovenia-nuk-library-landmarks-v2",
+    parent: "SI",
     type: "landmark",
     name: { de: "NUK-Bibliothek", hu: "NUK Könyvtár", ro: "Biblioteca NUK", en: "National and University Library",
 image: "/poi-images/slovenia-nuk-library-landmarks-v2.webp"
@@ -947,6 +975,7 @@ imageHint: "National and University Library Ljubljana Plecnik facade",
     image: "/poi-images/slovenia-nuk-library-landmarks-v2.webp",
 },  {
     id: "slovenia-maribor-cathedral-landmarks-v2",
+    parent: "SI",
     type: "cathedral",
     name: { de: "Dom von Maribor", hu: "Maribori székesegyház", ro: "Catedrala din Maribor", en: "Maribor Cathedral",
 image: "/poi-images/slovenia-maribor-cathedral-landmarks-v2.webp"
@@ -980,6 +1009,7 @@ imageHint: "Maribor Cathedral St John the Baptist exterior",
     image: "/poi-images/slovenia-maribor-cathedral-landmarks-v2.webp",
 },  {
     id: "slovenia-capuchin-bridge-skofja-loka-landmarks-v2",
+    parent: "SI",
     type: "bridge",
     name: { de: "Kapuzinerbrücke", hu: "Kapucinus híd", ro: "Podul Capucinilor", en: "Capuchin Bridge",
 image: "/poi-images/slovenia-capuchin-bridge-skofja-loka-landmarks-v2.webp"

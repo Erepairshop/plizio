@@ -3,6 +3,7 @@ export const belgiumReliefV2: POI[] = [
 
   {
     id: "belgium-plateau-de-herve-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Plateau von Herve", hu: "Herve-fennsík", ro: "Podișul Herve", en: "Plateau of Herve",
 image: "/poi-images/belgium-plateau-de-herve-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Hilly green pastures and orchards of the Herve Plateau",
     , image: "/poi-images/belgium-plateau-de-herve-relief-v2.webp",
 },  {
     id: "belgium-condroz-plateau-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Condroz-Plateau", hu: "Condroz-fennsík", ro: "Podișul Condroz", en: "Condroz Plateau",
 image: "/poi-images/belgium-condroz-plateau-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Rolling hills and valleys of the Condroz region",
     , image: "/poi-images/belgium-condroz-plateau-relief-v2.webp",
 },  {
     id: "belgium-famenne-depression-relief-v2",
+    parent: "BE",
     type: "valley",
     name: { de: "Famenne-Senke", hu: "Famenne-medence", ro: "Depresiunea Famenne", en: "Famenne Depression",
 image: "/poi-images/belgium-famenne-depression-relief-v2.webp"
@@ -105,6 +108,7 @@ image: "/poi-images/belgium-famenne-depression-relief-v2.webp"
   },
   {
     id: "belgium-calestienne-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Calestienne", hu: "Calestienne", ro: "Calestienne", en: "Calestienne",
 image: "/poi-images/belgium-calestienne-relief-v2.webp"
@@ -139,6 +143,7 @@ image: "/poi-images/belgium-calestienne-relief-v2.webp"
   },
   {
     id: "belgium-ardennes-highlands-relief-v2",
+    parent: "BE",
     type: "mountain",
     name: { de: "Ardennen-Massiv", hu: "Ardennek-hegység", ro: "Masivul Ardeni", en: "Ardennes Highlands",
 image: "/poi-images/belgium-ardennes-highlands-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
     , image: "/poi-images/belgium-ardennes-highlands-relief-v2.webp",
 },  {
     id: "belgium-kemmelberg-relief-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Kemmelberg", hu: "Kemmelberg", ro: "Kemmelberg", en: "Kemmelberg",
 image: "/poi-images/belgium-kemmelberg-relief-v2.webp"
@@ -195,6 +201,7 @@ image: "/poi-images/belgium-kemmelberg-relief-v2.webp"
     image: "/poi-images/belgium-kemmelberg-relief-v2.webp"},
   {
     id: "belgium-mont-de-l-enclus-relief-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Mont-de-l'Enclus", hu: "Mont-de-l'Enclus", ro: "Mont-de-l'Enclus", en: "Mont de l'Enclus",
 image: "/poi-images/belgium-mont-de-l-enclus-relief-v2.webp"
@@ -217,6 +224,7 @@ image: "/poi-images/belgium-mont-de-l-enclus-relief-v2.webp"
     image: "/poi-images/belgium-mont-de-l-enclus-relief-v2.webp"},
   {
     id: "belgium-mont-saint-aubert-relief-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Mont Saint-Aubert", hu: "Mont Saint-Aubert", ro: "Mont Saint-Aubert", en: "Mont Saint-Aubert",
 image: "/poi-images/belgium-mont-saint-aubert-relief-v2.webp"
@@ -239,6 +247,7 @@ image: "/poi-images/belgium-mont-saint-aubert-relief-v2.webp"
     image: "/poi-images/belgium-mont-saint-aubert-relief-v2.webp"},
   {
     id: "belgium-mont-noir-relief-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Mont Noir (Zwarteberg)", hu: "Mont Noir (Zwarteberg)", ro: "Mont Noir (Zwarteberg)", en: "Mont Noir (Zwarteberg)",
 image: "/poi-images/belgium-mont-noir-relief-v2.webp"
@@ -261,6 +270,7 @@ image: "/poi-images/belgium-mont-noir-relief-v2.webp"
     image: "/poi-images/belgium-mont-noir-relief-v2.webp"},
   {
     id: "belgium-mont-rouge-relief-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Mont Rouge (Rodeberg)", hu: "Mont Rouge (Rodeberg)", ro: "Mont Rouge (Rodeberg)", en: "Mont Rouge (Rodeberg)",
 image: "/poi-images/belgium-mont-rouge-relief-v2.webp"
@@ -283,6 +293,7 @@ image: "/poi-images/belgium-mont-rouge-relief-v2.webp"
     image: "/poi-images/belgium-mont-rouge-relief-v2.webp"},
   {
     id: "belgium-koppenberg-relief-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Koppenberg", hu: "Koppenberg", ro: "Koppenberg", en: "Koppenberg",
 image: "/poi-images/belgium-koppenberg-relief-v2.webp"
@@ -305,6 +316,7 @@ image: "/poi-images/belgium-koppenberg-relief-v2.webp"
     image: "/poi-images/belgium-koppenberg-relief-v2.webp"},
   {
     id: "belgium-paterberg-relief-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Paterberg", hu: "Paterberg", ro: "Paterberg", en: "Paterberg",
 image: "/poi-images/belgium-paterberg-relief-v2.webp"
@@ -327,6 +339,7 @@ image: "/poi-images/belgium-paterberg-relief-v2.webp"
     image: "/poi-images/belgium-paterberg-relief-v2.webp"},
   {
     id: "belgium-kanarieberg-relief-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Kanarieberg", hu: "Kanarieberg", ro: "Kanarieberg", en: "Kanarieberg",
 image: "/poi-images/belgium-kanarieberg-relief-v2.webp"
@@ -349,6 +362,7 @@ image: "/poi-images/belgium-kanarieberg-relief-v2.webp"
     image: "/poi-images/belgium-kanarieberg-relief-v2.webp"},
   {
     id: "belgium-brabant-plateau-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Brabanter Plateau", hu: "Brabanti-fennsík", ro: "Podișul Brabant", en: "Brabant Plateau",
 image: "/poi-images/belgium-brabant-plateau-relief-v2.webp"
@@ -371,6 +385,7 @@ image: "/poi-images/belgium-brabant-plateau-relief-v2.webp"
     image: "/poi-images/belgium-brabant-plateau-relief-v2.webp"},
   {
     id: "belgium-hesbaye-plateau-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Hesbaye-Plateau", hu: "Hesbaye-fennsík", ro: "Podișul Hesbaye", en: "Hesbaye Plateau",
 image: "/poi-images/belgium-hesbaye-plateau-relief-v2.webp"
@@ -393,6 +408,7 @@ image: "/poi-images/belgium-hesbaye-plateau-relief-v2.webp"
     image: "/poi-images/belgium-hesbaye-plateau-relief-v2.webp"},
   {
     id: "belgium-campine-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Kempen (Campine)", hu: "Kempen", ro: "Campine", en: "Campine (Kempen)",
 image: "/poi-images/belgium-campine-relief-v2.webp"
@@ -415,6 +431,7 @@ image: "/poi-images/belgium-campine-relief-v2.webp"
     image: "/poi-images/belgium-campine-relief-v2.webp"},
   {
     id: "belgium-polders-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Polderlandschaft", hu: "Polder-vidék", ro: "Poldere", en: "Polders",
 image: "/poi-images/belgium-polders-relief-v2.webp"
@@ -437,6 +454,7 @@ image: "/poi-images/belgium-polders-relief-v2.webp"
     image: "/poi-images/belgium-polders-relief-v2.webp"},
   {
     id: "belgium-meuse-valley-relief-v2",
+    parent: "BE",
     type: "valley",
     name: { de: "Maastal", hu: "Maas-völgy", ro: "Valea Meuse", en: "Meuse Valley",
 image: "/poi-images/belgium-meuse-valley-relief-v2.webp"
@@ -459,6 +477,7 @@ image: "/poi-images/belgium-meuse-valley-relief-v2.webp"
     image: "/poi-images/belgium-meuse-valley-relief-v2.webp"},
   {
     id: "belgium-ourthe-valley-relief-v2",
+    parent: "BE",
     type: "valley",
     name: { de: "Ourthetal", hu: "Ourthe-völgy", ro: "Valea Ourthe", en: "Ourthe Valley",
 image: "/poi-images/belgium-ourthe-valley-relief-v2.webp"
@@ -481,6 +500,7 @@ image: "/poi-images/belgium-ourthe-valley-relief-v2.webp"
     image: "/poi-images/belgium-ourthe-valley-relief-v2.webp"},
   {
     id: "belgium-plateau-de-saint-hubert-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Plateau von Saint-Hubert", hu: "Saint-Hubert-fennsík", ro: "Podișul Saint-Hubert", en: "Plateau of Saint-Hubert",
 image: "/poi-images/belgium-plateau-de-saint-hubert-relief-v2.webp"
@@ -503,6 +523,7 @@ image: "/poi-images/belgium-plateau-de-saint-hubert-relief-v2.webp"
     image: "/poi-images/belgium-plateau-de-saint-hubert-relief-v2.webp"},
   {
     id: "belgium-plateau-des-tailles-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Plateau des Tailles", hu: "Plateau des Tailles", ro: "Plateau des Tailles", en: "Plateau des Tailles",
 image: "/poi-images/belgium-plateau-des-tailles-relief-v2.webp"
@@ -537,6 +558,7 @@ image: "/poi-images/belgium-plateau-des-tailles-relief-v2.webp"
   },
   {
     id: "belgium-croix-scaille-relief-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Croix Scaille", hu: "Croix Scaille", ro: "Croix Scaille", en: "Croix Scaille",
 image: "/poi-images/belgium-croix-scaille-relief-v2.webp"
@@ -559,6 +581,7 @@ image: "/poi-images/belgium-croix-scaille-relief-v2.webp"
     image: "/poi-images/belgium-croix-scaille-relief-v2.webp"},
   {
     id: "belgium-montagne-saint-pierre-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Sint-Pietersberg", hu: "Sint-Pietersberg", ro: "Sint-Pietersberg", en: "Mount Saint Peter",
 image: "/poi-images/belgium-montagne-saint-pierre-relief-v2.webp"
@@ -581,6 +604,7 @@ image: "/poi-images/belgium-montagne-saint-pierre-relief-v2.webp"
     image: "/poi-images/belgium-montagne-saint-pierre-relief-v2.webp"},
   {
     id: "belgium-rocher-bayard-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Rocher Bayard", hu: "Bayard-szikla", ro: "Rocher Bayard", en: "Bayard Rock",
 image: "/poi-images/belgium-rocher-bayard-relief-v2.webp"
@@ -603,6 +627,7 @@ image: "/poi-images/belgium-rocher-bayard-relief-v2.webp"
     image: "/poi-images/belgium-rocher-bayard-relief-v2.webp"},
   {
     id: "belgium-tier-de-dieupart-relief-v2",
+    parent: "BE",
     type: "peak",
     name: { de: "Tier de Dieupart", hu: "Tier de Dieupart", ro: "Tier de Dieupart", en: "Tier de Dieupart",
 image: "/poi-images/belgium-tier-de-dieupart-relief-v2.webp"
@@ -625,6 +650,7 @@ image: "/poi-images/belgium-tier-de-dieupart-relief-v2.webp"
     image: "/poi-images/belgium-tier-de-dieupart-relief-v2.webp"},
   {
     id: "belgium-collines-des-flandres-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Flämische Hügelkette", hu: "Flamand-dombság", ro: "Dealurile Flandrei", en: "Flemish Hills",
 image: "/poi-images/belgium-collines-des-flandres-relief-v2.webp"
@@ -647,6 +673,7 @@ image: "/poi-images/belgium-collines-des-flandres-relief-v2.webp"
     image: "/poi-images/belgium-collines-des-flandres-relief-v2.webp"},
   {
     id: "belgium-plateau-de-bastogne-relief-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Plateau von Bastogne", hu: "Bastogne-fennsík", ro: "Podișul Bastogne", en: "Plateau of Bastogne",
 image: "/poi-images/belgium-plateau-de-bastogne-relief-v2.webp"

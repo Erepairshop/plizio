@@ -3,6 +3,7 @@ export const ukraineHistoryV2: POI[] = [
 
   {
     id: "ukraine-chersonesus-history-v2",
+    parent: "UA",
     type: "ruins",
     name: { de: "Chersones", hu: "Herszonészosz", ro: "Chersones", en: "Chersonesus",
 image: "/poi-images/ukraine-chersonesus-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Ruins of ancient Chersonesus with Byzantine columns near the sea",
     image: "/poi-images/ukraine-chersonesus-history-v2.webp",
 },  {
     id: "ukraine-khotyn-fortress-history-v2",
+    parent: "UA",
     type: "castle",
     name: { de: "Festung Chotyn", hu: "Hotini vár", ro: "Cetatea Hotin", en: "Khotyn Fortress",
 image: "/poi-images/ukraine-khotyn-fortress-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Medieval Khotyn Fortress with high stone walls by the Dniester river
     image: "/poi-images/ukraine-khotyn-fortress-history-v2.webp",
 },  {
     id: "ukraine-kamianets-podilskyi-castle-history-v2",
+    parent: "UA",
     type: "castle",
     name: { de: "Burg Kamjanez-Podilskyj", hu: "Kamjanec-pogyilszkiji vár", ro: "Cetatea Camenița", en: "Kamianets-Podilskyi Castle",
 image: "/poi-images/ukraine-kamianets-podilskyi-castle-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Kamianets-Podilskyi Castle with illuminated towers at dusk",
     image: "/poi-images/ukraine-kamianets-podilskyi-castle-history-v2.webp",
 },  {
     id: "ukraine-pidhirtsi-castle-history-v2",
+    parent: "UA",
     type: "palace",
     name: { de: "Schloss Pidhirtsi", hu: "Podhorcei kastély", ro: "Castelul Pidhirtsi", en: "Pidhirtsi Castle",
 image: "/poi-images/ukraine-pidhirtsi-castle-history-v2.webp"
@@ -139,6 +143,7 @@ image: "/poi-images/ukraine-pidhirtsi-castle-history-v2.webp"
   },
   {
     id: "ukraine-baturyn-citadel-history-v2",
+    parent: "UA",
     type: "fortress",
     name: { de: "Zitadelle von Baturyn", hu: "Baturini citadella", ro: "Citadela Baturin", en: "Baturyn Citadel",
 image: "/poi-images/ukraine-baturyn-citadel-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Reconstructed wooden Baturyn Citadel with defensive towers",
     image: "/poi-images/ukraine-baturyn-citadel-history-v2.webp",
 },  {
     id: "ukraine-poltava-battlefield-history-v2",
+    parent: "UA",
     type: "battlefield",
     name: { de: "Schlachtfeld von Poltawa", hu: "Poltavai csatatér", ro: "Câmpul de luptă de la Poltava", en: "Poltava Battlefield",
 image: "/poi-images/ukraine-poltava-battlefield-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Memorial park and museum at the Poltava Battlefield",
     image: "/poi-images/ukraine-poltava-battlefield-history-v2.webp",
 },  {
     id: "ukraine-khortytsia-sich-history-v2",
+    parent: "UA",
     type: "fortress",
     name: { de: "Saporoger Sitsch auf Chortyzja", hu: "Zaporozsjei Szics (Hortica)", ro: "Siciul Zaporojean de pe Hortițea", en: "Zaporizhzhian Sich (Khortytsia)",
 image: "/poi-images/ukraine-khortytsia-sich-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Wooden fortress and church of the Zaporizhzhian Sich on Khortytsia i
     image: "/poi-images/ukraine-khortytsia-sich-history-v2.webp",
 },  {
     id: "ukraine-babi-yar-memorial-history-v2",
+    parent: "UA",
     type: "monument",
     name: { de: "Gedenkstätte Babyn Jar", hu: "Babij Jar emlékhely", ro: "Memorialul de la Babi Yar", en: "Babi Yar Memorial Site",
 image: "/poi-images/ukraine-babi-yar-memorial-history-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Menorah monument and memorial at the Babi Yar ravine in Kyiv",
     image: "/poi-images/ukraine-babi-yar-memorial-history-v2.webp",
 },  {
     id: "ukraine-ostroh-castle-history-v2",
+    parent: "UA",
     type: "castle",
     name: { de: "Burg Ostroh", hu: "Osztrogi vár", ro: "Castelul Ostrog", en: "Ostroh Castle",
 image: "/poi-images/ukraine-ostroh-castle-history-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Medieval stone tower and cathedral of Ostroh Castle on a hill",
     image: "/poi-images/ukraine-ostroh-castle-history-v2.webp",
 },  {
     id: "ukraine-akkerman-fortress-history-v2",
+    parent: "UA",
     type: "fortress",
     name: { de: "Festung Akkerman", hu: "Akkermani erőd", ro: "Cetatea Albă", en: "Akkerman Fortress",
 image: "/poi-images/ukraine-akkerman-fortress-history-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Massive stone walls and towers of Akkerman Fortress by the water",
     image: "/poi-images/ukraine-akkerman-fortress-history-v2.webp",
 },  {
     id: "ukraine-palanok-castle-history-v2",
+    parent: "UA",
     type: "castle",
     name: { de: "Burg Palanok", hu: "Munkácsi vár", ro: "Cetatea Palanok", en: "Palanok Castle",
 image: "/poi-images/ukraine-palanok-castle-history-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Palanok Castle in Mukachevo on a high hill with multiple tiers",
     image: "/poi-images/ukraine-palanok-castle-history-v2.webp",
 },  {
     id: "ukraine-berestechko-battlefield-history-v2",
+    parent: "UA",
     type: "battlefield",
     name: { de: "Schlachtfeld von Berestetschko", hu: "Beresztecskói csatatér", ro: "Câmpul de luptă de la Beresteciko", en: "Berestechko Battlefield",
 image: "/poi-images/ukraine-berestechko-battlefield-history-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Memorial church and museum building at the Berestechko battlefield",
     image: "/poi-images/ukraine-berestechko-battlefield-history-v2.webp",
 },  {
     id: "ukraine-chyhyryn-hetman-residence-history-v2",
+    parent: "UA",
     type: "palace",
     name: { de: "Hetman-Residenz Tschyhyryn", hu: "Csihirini hetmani rezidencia", ro: "Reședința Hatmanului din Cihirin", en: "Chyhyryn Hetman Residence",
 image: "/poi-images/ukraine-chyhyryn-hetman-residence-history-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Reconstructed wooden residence of the Cossack Hetman in Chyhyryn",
     image: "/poi-images/ukraine-chyhyryn-hetman-residence-history-v2.webp",
 },  {
     id: "ukraine-lutsk-castle-history-v2",
+    parent: "UA",
     type: "castle",
     name: { de: "Burg Luzk", hu: "Lucki vár", ro: "Castelul din Luțk", en: "Lutsk Castle",
 image: "/poi-images/ukraine-lutsk-castle-history-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Medieval Lutsk Castle with tall brick towers and wooden galleries",
     image: "/poi-images/ukraine-lutsk-castle-history-v2.webp",
 },  {
     id: "ukraine-olesko-castle-history-v2",
+    parent: "UA",
     type: "castle",
     name: { de: "Burg Olesko", hu: "Oleszkói vár", ro: "Castelul Olesko", en: "Olesko Castle",
 image: "/poi-images/ukraine-olesko-castle-history-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Olesko Castle with white walls on a green hill surrounded by gardens
     image: "/poi-images/ukraine-olesko-castle-history-v2.webp",
 },  {
     id: "ukraine-medzhybizh-fortress-history-v2",
+    parent: "UA",
     type: "fortress",
     name: { de: "Festung Medschybisch", hu: "Medzsibizsi erőd", ro: "Cetatea Medjibij", en: "Medzhybizh Fortress",
 image: "/poi-images/ukraine-medzhybizh-fortress-history-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Medzhybizh Fortress with white stone walls and large towers",
     image: "/poi-images/ukraine-medzhybizh-fortress-history-v2.webp",
 },  {
     id: "ukraine-tarakaniv-fort-history-v2",
+    parent: "UA",
     type: "fortress",
     name: { de: "Fort Tarakaniw", hu: "Tarakanivi erőd", ro: "Fortul Tarakaniv", en: "Tarakaniv Fort",
 image: "/poi-images/ukraine-tarakaniv-fort-history-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Overgrown brick ruins and tunnels of the 19th-century Tarakaniv Fort
     image: "/poi-images/ukraine-tarakaniv-fort-history-v2.webp",
 },  {
     id: "ukraine-zhovkva-ideal-city-history-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Zhovkva 'Ideale Stadt'", hu: "Zsovkva 'ideális város'", ro: "Jovkva 'orașul ideal'", en: "Zhovkva 'Ideal City'",
 image: "/poi-images/ukraine-zhovkva-ideal-city-history-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Central square of Zhovkva with Renaissance castle and church",
     image: "/poi-images/ukraine-zhovkva-ideal-city-history-v2.webp",
 },  {
     id: "ukraine-sudak-fortress-history-v2",
+    parent: "UA",
     type: "fortress",
     name: { de: "Genuesische Festung Sudak", hu: "Szudaki genovai erőd", ro: "Cetatea genoveză din Sudak", en: "Genoese Fortress of Sudak",
 image: "/poi-images/ukraine-sudak-fortress-history-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Genoese Fortress of Sudak with stone towers on a rocky cliff by the 
     image: "/poi-images/ukraine-sudak-fortress-history-v2.webp",
 },  {
     id: "ukraine-panteleimon-church-halych-history-v2",
+    parent: "UA",
     type: "church",
     name: { de: "Panteleimon-Kirche in Halych", hu: "Szent Pantaleon-templom (Halics)", ro: "Biserica Sfântul Pantelimon din Halici", en: "St. Panteleimon Church in Halych",
 image: "/poi-images/ukraine-panteleimon-church-halych-history-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
     image: "/poi-images/ukraine-panteleimon-church-halych-history-v2.webp",
 },  {
     id: "ukraine-vorontsov-palace-history-v2",
+    parent: "UA",
     type: "palace",
     name: { de: "Woronzow-Palast", hu: "Voroncov-kastély", ro: "Palatul Voronțov", en: "Vorontsov Palace",
 image: "/poi-images/ukraine-vorontsov-palace-history-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Vorontsov Palace in Alupka with eclectic architecture and lion statu
     image: "/poi-images/ukraine-vorontsov-palace-history-v2.webp",
 },  {
     id: "ukraine-livadia-palace-history-v2",
+    parent: "UA",
     type: "palace",
     name: { de: "Liwadija-Palast", hu: "Livádiai palota", ro: "Palatul Livadia", en: "Livadia Palace",
 image: "/poi-images/ukraine-livadia-palace-history-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "White stone Livadia Palace with elegant arches and Italian courtyard
     image: "/poi-images/ukraine-livadia-palace-history-v2.webp",
 },  {
     id: "ukraine-massandra-palace-history-v2",
+    parent: "UA",
     type: "palace",
     name: { de: "Schloss Massandra", hu: "Masszandrai palota", ro: "Palatul Massandra", en: "Massandra Palace",
 image: "/poi-images/ukraine-massandra-palace-history-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "French-style Massandra Palace with ornate towers and yellow brickwor
     image: "/poi-images/ukraine-massandra-palace-history-v2.webp",
 },  {
     id: "ukraine-kachanivka-estate-history-v2",
+    parent: "UA",
     type: "palace",
     name: { de: "Landsitz Katschaniwka", hu: "Kacsanyivkai birtok", ro: "Domeniul Kacanivka", en: "Kachanivka Estate",
 image: "/poi-images/ukraine-kachanivka-estate-history-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Neoclassical white palace of Kachanivka with a green dome and park",
     image: "/poi-images/ukraine-kachanivka-estate-history-v2.webp",
 },  {
     id: "ukraine-tustan-rock-fortress-history-v2",
+    parent: "UA",
     type: "ruins",
     name: { de: "Felsenfestung Tustan", hu: "Tusztáni sziklavár", ro: "Cetatea pe stâncă Tustan", en: "Tustan Rock Fortress",
 image: "/poi-images/ukraine-tustan-rock-fortress-history-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Giant sandstone rocks of Tustan where a medieval fortress once stood
     image: "/poi-images/ukraine-tustan-rock-fortress-history-v2.webp",
 },  {
     id: "ukraine-mangup-kale-history-v2",
+    parent: "UA",
     type: "ruins",
     name: { de: "Mangup-Kale", hu: "Mangup-Kale", ro: "Mangup-Kale", en: "Mangup-Kale",
 image: "/poi-images/ukraine-mangup-kale-history-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Cave structures and ruined walls on the plateau of Mangup-Kale",
     image: "/poi-images/ukraine-mangup-kale-history-v2.webp",
 },  {
     id: "ukraine-olbia-ancient-city-history-v2",
+    parent: "UA",
     type: "ruins",
     name: { de: "Olbia", hu: "Olbia", ro: "Olbia", en: "Olbia",
 image: "/poi-images/ukraine-olbia-ancient-city-history-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Archaeological excavations and stone foundations of ancient Olbia",
     image: "/poi-images/ukraine-olbia-ancient-city-history-v2.webp",
 },  {
     id: "ukraine-uzhhorod-castle-history-v2",
+    parent: "UA",
     type: "castle",
     name: { de: "Burg Uschhorod", hu: "Ungvári vár", ro: "Cetatea Ujhorod", en: "Uzhhorod Castle",
 image: "/poi-images/ukraine-uzhhorod-castle-history-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Medieval stone Uzhhorod Castle with massive bastions and museum cour
     image: "/poi-images/ukraine-uzhhorod-castle-history-v2.webp",
 },  {
     id: "ukraine-st-cyril-church-kyiv-history-v2",
+    parent: "UA",
     type: "church",
     name: { de: "St.-Kyrill-Kirche (Kiew)", hu: "Szent Cirill-templom (Kijev)", ro: "Biserica Sfântul Chiril din Kiev", en: "St. Cyril's Church (Kyiv)",
 image: "/poi-images/ukraine-st-cyril-church-kyiv-history-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     image: "/poi-images/ukraine-st-cyril-church-kyiv-history-v2.webp",
 },  {
     id: "ukraine-bakota-cave-monastery-history-v2",
+    parent: "UA",
     type: "ruins",
     name: { de: "Höhlenkloster Bakota", hu: "Bakotai barlangkolostor", ro: "Mănăstirea rupestră Bakota", en: "Bakota Cave Monastery",
 image: "/poi-images/ukraine-bakota-cave-monastery-history-v2.webp"

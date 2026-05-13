@@ -3,6 +3,7 @@ export const russiaReliefV2: POI[] = [
 
   {
     id: "russia-verkhoyansk-range-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Werchojansker Gebirge", hu: "Verhojanszki-hegylánc", ro: "Munții Verhoiansk", en: "Verkhoyansk Range",
 image: "/poi-images/russia-verkhoyansk-range-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Snowy Verkhoyansk Range peaks under Arctic light",
     , image: "/poi-images/russia-verkhoyansk-range-relief-v2.webp",
 },  {
     id: "russia-chersky-range-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Tschersky-Gebirge", hu: "Cserszkij-hegylánc", ro: "Munții Cerski", en: "Chersky Range",
 image: "/poi-images/russia-chersky-range-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Rugged granite peaks of the Chersky Range",
     , image: "/poi-images/russia-chersky-range-relief-v2.webp",
 },  {
     id: "russia-west-siberian-plain-relief-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Westsibirisches Tiefland", hu: "Nyugat-szibériai-alföld", ro: "Câmpia Siberiei de Vest", en: "West Siberian Plain",
 image: "/poi-images/russia-west-siberian-plain-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Vast marshy plain with meandering rivers in West Siberia",
     , image: "/poi-images/russia-west-siberian-plain-relief-v2.webp",
 },  {
     id: "russia-central-siberian-plateau-relief-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Mittelsibirisches Bergland", hu: "Közép-szibériai-fennsík", ro: "Podișul Siberiei Centrale", en: "Central Siberian Plateau",
 image: "/poi-images/russia-central-siberian-plateau-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Elevated forest plateau with river canyon in Central Siberia",
     , image: "/poi-images/russia-central-siberian-plateau-relief-v2.webp",
 },  {
     id: "russia-valdai-hills-relief-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Waldaihöhen", hu: "Valdaj-hátság", ro: "Podișul Valdai", en: "Valdai Hills",
 image: "/poi-images/russia-valdai-hills-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Gently rolling green hills with lakes in Valdai region",
     , image: "/poi-images/russia-valdai-hills-relief-v2.webp",
 },  {
     id: "russia-sayan-mountains-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Sajan-Gebirge", hu: "Szajánok", ro: "Munții Saian", en: "Sayan Mountains",
 image: "/poi-images/russia-sayan-mountains-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Dramatic granite rock formations in the Sayan Mountains",
     , image: "/poi-images/russia-sayan-mountains-relief-v2.webp",
 },  {
     id: "russia-stanovoy-highlands-relief-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Stanowoihochland", hu: "Sztanovoj-felföld", ro: "Munții Stanovoi", en: "Stanovoy Highlands",
 image: "/poi-images/russia-stanovoy-highlands-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "High mountain ridges and deep valleys of the Stanovoy Highlands",
     , image: "/poi-images/russia-stanovoy-highlands-relief-v2.webp",
 },  {
     id: "russia-byrranga-mountains-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Byrrangagebirge", hu: "Birranga-hegység", ro: "Munții Bîrranga", en: "Byrranga Mountains",
 image: "/poi-images/russia-byrranga-mountains-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Desolate Arctic mountain landscape of the Byrranga range",
     , image: "/poi-images/russia-byrranga-mountains-relief-v2.webp",
 },  {
     id: "russia-khibiny-mountains-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Chibinen", hu: "Hibi-hegység", ro: "Munții Hibini", en: "Khibiny Mountains",
 image: "/poi-images/russia-khibiny-mountains-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Flat-topped tundra mountains of the Khibiny massif",
     , image: "/poi-images/russia-khibiny-mountains-relief-v2.webp",
 },  {
     id: "russia-mount-dykh-tau-relief-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Dychtau", hu: "Dihtau", ro: "Muntele Dîhtau", en: "Mount Dykh-Tau",
 image: "/poi-images/russia-mount-dykh-tau-relief-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Sharp granite pyramid of Mount Dykh-Tau in the Caucasus",
     , image: "/poi-images/russia-mount-dykh-tau-relief-v2.webp",
 },  {
     id: "russia-mount-koshtan-tau-relief-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Koschtantau", hu: "Kostantau", ro: "Muntele Koștantau", en: "Mount Koshtan-Tau",
 image: "/poi-images/russia-mount-koshtan-tau-relief-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Snowy peak of Mount Koshtan-Tau against blue sky",
     , image: "/poi-images/russia-mount-koshtan-tau-relief-v2.webp",
 },  {
     id: "russia-mount-pobeda-relief-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Pik Pobeda (Sacha)", hu: "Pobeda-csúcs", ro: "Vârful Pobeda", en: "Mount Pobeda",
 image: "/poi-images/russia-mount-pobeda-relief-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Isolated snowy peak of Mount Pobeda in Yakutia",
     , image: "/poi-images/russia-mount-pobeda-relief-v2.webp",
 },  {
     id: "russia-mount-munku-sardyk-relief-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Munku Sardyk", hu: "Munku-Szardik", ro: "Munku Sardîk", en: "Mount Munku-Sardyk",
 image: "/poi-images/russia-mount-munku-sardyk-relief-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Snowy peak of Munku-Sardyk on the Mongolian border",
     , image: "/poi-images/russia-mount-munku-sardyk-relief-v2.webp",
 },  {
     id: "russia-kronotsky-volcano-relief-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Kronozki-Vulkan", hu: "Kronockij-vulkán", ro: "Vulcanul Kronoțki", en: "Kronotsky Volcano",
 image: "/poi-images/russia-kronotsky-volcano-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Symmetrical snowy volcano cone reflected in a lake",
     , image: "/poi-images/russia-kronotsky-volcano-relief-v2.webp",
 },  {
     id: "russia-koryaksky-volcano-relief-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Korjakski", hu: "Korjakszkij-vulkán", ro: "Vulcanul Koriakski", en: "Koryaksky Volcano",
 image: "/poi-images/russia-koryaksky-volcano-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Large volcano overlooking Petropavlovsk-Kamchatsky city",
     , image: "/poi-images/russia-koryaksky-volcano-relief-v2.webp",
 },  {
     id: "russia-avachinsky-volcano-relief-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Awatschinskaja Sopka", hu: "Avacsinszkij-vulkán", ro: "Vulcanul Avacinski", en: "Avachinsky Volcano",
 image: "/poi-images/russia-avachinsky-volcano-relief-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Volcano crater with solidified lava and steam vents",
     , image: "/poi-images/russia-avachinsky-volcano-relief-v2.webp",
 },  {
     id: "russia-dzhugdzhur-mountains-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Dschugdschur", hu: "Dzsugdzsur-hegység", ro: "Munții Djugdjur", en: "Dzhugdzhur Mountains",
 image: "/poi-images/russia-dzhugdzhur-mountains-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Mountain range meeting the cold Okhotsk sea coast",
     , image: "/poi-images/russia-dzhugdzhur-mountains-relief-v2.webp",
 },  {
     id: "russia-kolyma-mountains-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Kolyma-Gebirge", hu: "Kolima-hegyvidék", ro: "Munții Kolîma", en: "Kolyma Mountains",
 image: "/poi-images/russia-kolyma-mountains-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Vast undulating mountain tundra of the Kolyma region",
     , image: "/poi-images/russia-kolyma-mountains-relief-v2.webp",
 },  {
     id: "russia-anadyr-plateau-relief-v2",
+    parent: "RU",
     type: "landmark",
     name: { de: "Anadyr-Plateau", hu: "Anadir-fennsík", ro: "Podișul Anadîr", en: "Anadyr Plateau",
 image: "/poi-images/russia-anadyr-plateau-relief-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Barren rocky plateau in the Chukotka wilderness",
     , image: "/poi-images/russia-anadyr-plateau-relief-v2.webp",
 },  {
     id: "russia-barguzin-range-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Bargusingebirge", hu: "Barguzin-hegység", ro: "Munții Barguzin", en: "Barguzin Range",
 image: "/poi-images/russia-barguzin-range-relief-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Jagged mountain peaks overlooking Lake Baikal",
     , image: "/poi-images/russia-barguzin-range-relief-v2.webp",
 },  {
     id: "russia-khamar-daban-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Chamar-Daban", hu: "Hamar-Daban", ro: "Munții Hamar-Daban", en: "Khamar-Daban",
 image: "/poi-images/russia-khamar-daban-relief-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Lush green mountain forests and rocky ridges south of Baikal",
     , image: "/poi-images/russia-khamar-daban-relief-v2.webp",
 },  {
     id: "russia-baikal-mountains-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Baikalgebirge", hu: "Bajkál-hegység", ro: "Munții Baikal", en: "Baikal Mountains",
 image: "/poi-images/russia-baikal-mountains-relief-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Snow-capped mountains rising directly from the blue Baikal water",
     , image: "/poi-images/russia-baikal-mountains-relief-v2.webp",
 },  {
     id: "russia-mount-narodnaya-relief-v2",
+    parent: "RU",
     type: "peak",
     name: { de: "Narodnaja", hu: "Narodnaja", ro: "Muntele Narodnaia", en: "Mount Narodnaya",
 image: "/poi-images/russia-mount-narodnaya-relief-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Highest peak of the Ural mountains with rocky terrain",
     , image: "/poi-images/russia-mount-narodnaya-relief-v2.webp",
 },  {
     id: "russia-stanovoy-range-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Stanowoigebirge", hu: "Sztanovoj-hegylánc", ro: "Munții Stanovoi", en: "Stanovoy Range",
 image: "/poi-images/russia-stanovoy-range-relief-v2.webp"
@@ -820,6 +844,7 @@ imageHint: "Forested mountain ridges in the Russian Far East",
 },
   {
     id: "russia-central-russian-upland-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Mittelrussische Platte", hu: "Közép-orosz-hátság", ro: "Podișul Central Rus", en: "Central Russian Upland",
 image: "/poi-images/russia-central-russian-upland-relief-v2.webp"
@@ -854,6 +879,7 @@ image: "/poi-images/russia-central-russian-upland-relief-v2.webp"
   },
   {
     id: "russia-kodar-mountains-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Kodargebirge", hu: "Kodar-hegység", ro: "Munții Kodar", en: "Kodar Mountains",
 image: "/poi-images/russia-kodar-mountains-relief-v2.webp"
@@ -888,6 +914,7 @@ imageHint: "Sharp peaks of Kodar Mountains in Transbaikalia",
     , image: "/poi-images/russia-kodar-mountains-relief-v2.webp",
 },  {
     id: "russia-chukchi-highlands-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Tschuktschenhochland", hu: "Csukcs-föld", ro: "Podișul Ciukotka", en: "Chukchi Highlands",
 image: "/poi-images/russia-chukchi-highlands-relief-v2.webp"
@@ -922,6 +949,7 @@ image: "/poi-images/russia-chukchi-highlands-relief-v2.webp"
   },
   {
     id: "russia-timan-ridge-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Timanrücken", hu: "Tyiman-hátság", ro: "Creasta Timan", en: "Timan Ridge",
 image: "/poi-images/russia-timan-ridge-relief-v2.webp"
@@ -956,6 +984,7 @@ imageHint: "Eroded hills and forests of Timan Ridge",
     , image: "/poi-images/russia-timan-ridge-relief-v2.webp",
 },  {
     id: "russia-volga-upland-relief-v2",
+    parent: "RU",
     type: "mountain",
     name: { de: "Wolgaplatte", hu: "Volga-menti-hátság", ro: "Podișul Volgăi", en: "Volga Upland",
 image: "/poi-images/russia-volga-upland-relief-v2.webp"

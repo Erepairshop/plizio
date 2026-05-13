@@ -3,6 +3,7 @@ export const belgiumLifeV2: POI[] = [
 
   {
     id: "belgium-hoge-kempen-life-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Nationalpark Hoge Kempen", hu: "Hoge Kempen Nemzeti Park", ro: "Parcul Național Hoge Kempen", en: "Hoge Kempen National Park",
 image: "/poi-images/belgium-hoge-kempen-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Purple heathland and pine trees in Hoge Kempen National Park",
     , image: "/poi-images/belgium-hoge-kempen-life-v2.webp",
 },  {
     id: "belgium-het-zwin-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Naturpark Zwin", hu: "Zwin Természetvédelmi Park", ro: "Parcul Natural Zwin", en: "Zwin Nature Park",
 image: "/poi-images/belgium-het-zwin-life-v2.webp"
@@ -71,6 +73,7 @@ image: "/poi-images/belgium-het-zwin-life-v2.webp"
   },
   {
     id: "belgium-pairi-daiza-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Pairi Daiza", hu: "Pairi Daiza", ro: "Pairi Daiza", en: "Pairi Daiza",
 image: "/poi-images/belgium-pairi-daiza-life-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Giant panda in a thematic enclosure at Pairi Daiza",
     , image: "/poi-images/belgium-pairi-daiza-life-v2.webp",
 },  {
     id: "belgium-antwerp-zoo-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Zoo Antwerpen", hu: "Antwerpeni Állatkert", ro: "Grădina Zoologică din Anvers", en: "Antwerp Zoo",
 image: "/poi-images/belgium-antwerp-zoo-life-v2.webp"
@@ -127,6 +131,7 @@ image: "/poi-images/belgium-antwerp-zoo-life-v2.webp"
     image: "/poi-images/belgium-antwerp-zoo-life-v2.webp"},
   {
     id: "belgium-planckendael-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Planckendael", hu: "Planckendael Állatpark", ro: "Planckendael", en: "Planckendael",
 image: "/poi-images/belgium-planckendael-life-v2.webp"
@@ -161,6 +166,7 @@ imageHint: "Elephants in a naturalistic enclosure at Planckendael",
     , image: "/poi-images/belgium-planckendael-life-v2.webp",
 },  {
     id: "belgium-meise-botanical-garden-life-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Botanischer Garten Meise", hu: "Meisei Botanikus Kert", ro: "Grădina Botanică Meise", en: "Meise Botanical Garden",
 image: "/poi-images/belgium-meise-botanical-garden-life-v2.webp"
@@ -195,6 +201,7 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
     , image: "/poi-images/belgium-meise-botanical-garden-life-v2.webp",
 },  {
     id: "belgium-high-fens-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Hohes Venn", hu: "Hoge Venen", ro: "Hautes Fagnes", en: "High Fens",
 image: "/poi-images/belgium-high-fens-life-v2.webp"
@@ -217,6 +224,7 @@ image: "/poi-images/belgium-high-fens-life-v2.webp"
     image: "/poi-images/belgium-high-fens-life-v2.webp"},
   {
     id: "belgium-kalmthoutse-heide-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Kalmthoutse Heide", hu: "Kalmthoutse Heide", ro: "Kalmthoutse Heide", en: "Kalmthoutse Heide",
 image: "/poi-images/belgium-kalmthoutse-heide-life-v2.webp"
@@ -239,6 +247,7 @@ image: "/poi-images/belgium-kalmthoutse-heide-life-v2.webp"
     image: "/poi-images/belgium-kalmthoutse-heide-life-v2.webp"},
   {
     id: "belgium-hallerbos-life-v2",
+    parent: "BE",
     type: "forest",
     name: { de: "Hallerbos", hu: "Hallerbos", ro: "Hallerbos", en: "Hallerbos",
 image: "/poi-images/belgium-hallerbos-life-v2.webp"
@@ -261,6 +270,7 @@ image: "/poi-images/belgium-hallerbos-life-v2.webp"
     image: "/poi-images/belgium-hallerbos-life-v2.webp"},
   {
     id: "belgium-forest-of-soignes-life-v2",
+    parent: "BE",
     type: "forest",
     name: { de: "Zoniënwoud", hu: "Zoniënwoud", ro: "Pădurea Soignes", en: "Forest of Soignes",
 image: "/poi-images/belgium-forest-of-soignes-life-v2.webp"
@@ -283,6 +293,7 @@ image: "/poi-images/belgium-forest-of-soignes-life-v2.webp"
     image: "/poi-images/belgium-forest-of-soignes-life-v2.webp"},
   {
     id: "belgium-wildlife-park-han-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Wildtierpark Han-sur-Lesse", hu: "Han-sur-Lesse Vadaspark", ro: "Parcul de Animale Sălbatice Han-sur-Lesse", en: "Wildlife Park Han-sur-Lesse",
 image: "/poi-images/belgium-wildlife-park-han-life-v2.webp"
@@ -317,6 +328,7 @@ imageHint: "European bison in a hilly landscape at Han Wildlife Park",
     , image: "/poi-images/belgium-wildlife-park-han-life-v2.webp",
 },  {
     id: "belgium-bourgoyen-ossemeersen-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Bourgoyen-Ossemeersen", hu: "Bourgoyen-Ossemeersen", ro: "Bourgoyen-Ossemeersen", en: "Bourgoyen-Ossemeersen",
 image: "/poi-images/belgium-bourgoyen-ossemeersen-life-v2.webp"
@@ -351,6 +363,7 @@ imageHint: "Birdwatching hut overlooking a wetland area",
     , image: "/poi-images/belgium-bourgoyen-ossemeersen-life-v2.webp",
 },  {
     id: "belgium-deux-ourthes-life-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Naturpark Deux Ourthes", hu: "Deux Ourthes Natúrpark", ro: "Parcul Natural Deux Ourthes", en: "Deux Ourthes Natural Park",
 image: "/poi-images/belgium-deux-ourthes-life-v2.webp"
@@ -385,6 +398,7 @@ imageHint: "Winding river through deep green forested valleys",
     , image: "/poi-images/belgium-deux-ourthes-life-v2.webp",
 },  {
     id: "belgium-viroin-hermeton-life-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Naturpark Viroin-Hermeton", hu: "Viroin-Hermeton Natúrpark", ro: "Parcul Natural Viroin-Hermeton", en: "Viroin-Hermeton Natural Park",
 image: "/poi-images/belgium-viroin-hermeton-life-v2.webp"
@@ -419,6 +433,7 @@ imageHint: "Wild orchids growing on a limestone slope",
     , image: "/poi-images/belgium-viroin-hermeton-life-v2.webp",
 },  {
     id: "belgium-westhoek-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Naturschutzgebiet De Westhoek", hu: "Westhoek Természetvédelmi Terület", ro: "Rezervația Naturală Westhoek", en: "Westhoek Nature Reserve",
 image: "/poi-images/belgium-westhoek-life-v2.webp"
@@ -453,6 +468,7 @@ image: "/poi-images/belgium-westhoek-life-v2.webp"
   },
   {
     id: "belgium-sea-life-blankenberge-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Sea Life Blankenberge", hu: "Sea Life Blankenberge", ro: "Sea Life Blankenberge", en: "Sea Life Blankenberge",
 image: "/poi-images/belgium-sea-life-blankenberge-life-v2.webp"
@@ -487,6 +503,7 @@ imageHint: "Rescued seal pup in a rehabilitation pool",
     , image: "/poi-images/belgium-sea-life-blankenberge-life-v2.webp",
 },  {
     id: "belgium-monde-sauvage-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Monde Sauvage Safari", hu: "Monde Sauvage Szafari", ro: "Monde Sauvage Safari", en: "Monde Sauvage Safari",
 image: "/poi-images/belgium-monde-sauvage-life-v2.webp"
@@ -509,6 +526,7 @@ image: "/poi-images/belgium-monde-sauvage-life-v2.webp"
     image: "/poi-images/belgium-monde-sauvage-life-v2.webp"},
   {
     id: "belgium-arboretum-kalmthout-life-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Arboretum Kalmthout", hu: "Kalmthout-i Arborétum", ro: "Arboretumul Kalmthout", en: "Arboretum Kalmthout",
 image: "/poi-images/belgium-arboretum-kalmthout-life-v2.webp"
@@ -543,6 +561,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
     , image: "/poi-images/belgium-arboretum-kalmthout-life-v2.webp",
 },  {
     id: "belgium-de-blankaart-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Naturschutzgebiet De Blankaart", hu: "De Blankaart Természetvédelmi Terület", ro: "Rezervația Naturală De Blankaart", en: "De Blankaart Nature Reserve",
 image: "/poi-images/belgium-de-blankaart-life-v2.webp"
@@ -565,6 +584,7 @@ image: "/poi-images/belgium-de-blankaart-life-v2.webp"
     image: "/poi-images/belgium-de-blankaart-life-v2.webp"},
   {
     id: "belgium-het-vinne-life-v2",
+    parent: "BE",
     type: "lake",
     name: { de: "Provvinzialdomäne Het Vinne", hu: "Het Vinne Tartományi Birtok", ro: "Domeniul Provincial Het Vinne", en: "Provincial Domain Het Vinne",
 image: "/poi-images/belgium-het-vinne-life-v2.webp"
@@ -587,6 +607,7 @@ image: "/poi-images/belgium-het-vinne-life-v2.webp"
     image: "/poi-images/belgium-het-vinne-life-v2.webp"},
   {
     id: "belgium-schulensmeer-life-v2",
+    parent: "BE",
     type: "lake",
     name: { de: "Schulensmeer", hu: "Schulensmeer", ro: "Schulensmeer", en: "Schulensmeer",
 image: "/poi-images/belgium-schulensmeer-life-v2.webp"
@@ -609,6 +630,7 @@ image: "/poi-images/belgium-schulensmeer-life-v2.webp"
     image: "/poi-images/belgium-schulensmeer-life-v2.webp"},
   {
     id: "belgium-de-maten-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Naturschutzgebiet De Maten", hu: "De Maten Természetvédelmi Terület", ro: "Rezervația Naturală De Maten", en: "De Maten Nature Reserve",
 image: "/poi-images/belgium-de-maten-life-v2.webp"
@@ -643,6 +665,7 @@ image: "/poi-images/belgium-de-maten-life-v2.webp"
   },
   {
     id: "belgium-burdinale-mehaigne-life-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Naturpark Burdinale-Mehaigne", hu: "Burdinale-Mehaigne Natúrpark", ro: "Parcul Natural Burdinale-Mehaigne", en: "Burdinale-Mehaigne Natural Park",
 image: "/poi-images/belgium-burdinale-mehaigne-life-v2.webp"
@@ -665,6 +688,7 @@ image: "/poi-images/belgium-burdinale-mehaigne-life-v2.webp"
     image: "/poi-images/belgium-burdinale-mehaigne-life-v2.webp"},
   {
     id: "belgium-foret-anlier-life-v2",
+    parent: "BE",
     type: "forest",
     name: { de: "Naturpark Haute-Sûre Forêt d'Anlier", hu: "Haute-Sûre Forêt d'Anlier Natúrpark", ro: "Parcul Natural Haute-Sûre Forêt d'Anlier", en: "Haute-Sûre Forêt d'Anlier Natural Park",
 image: "/poi-images/belgium-foret-anlier-life-v2.webp"
@@ -687,6 +711,7 @@ image: "/poi-images/belgium-foret-anlier-life-v2.webp"
     image: "/poi-images/belgium-foret-anlier-life-v2.webp"},
   {
     id: "belgium-prinsenpark-life-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Prinsenpark", hu: "Prinsenpark", ro: "Prinsenpark", en: "Prinsenpark",
 image: "/poi-images/belgium-prinsenpark-life-v2.webp"
@@ -709,6 +734,7 @@ image: "/poi-images/belgium-prinsenpark-life-v2.webp"
     image: "/poi-images/belgium-prinsenpark-life-v2.webp"},
   {
     id: "belgium-de-zegge-life-v2",
+    parent: "BE",
     type: "wildlife",
     name: { de: "Naturschutzgebiet De Zegge", hu: "De Zegge Természetvédelmi Terület", ro: "Rezervația Naturală De Zegge", en: "De Zegge Nature Reserve",
 image: "/poi-images/belgium-de-zegge-life-v2.webp"
@@ -743,6 +769,7 @@ image: "/poi-images/belgium-de-zegge-life-v2.webp"
   },
   {
     id: "belgium-rivierenhof-life-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Rivierenhof", hu: "Rivierenhof", ro: "Rivierenhof", en: "Rivierenhof",
 image: "/poi-images/belgium-rivierenhof-life-v2.webp"
@@ -765,6 +792,7 @@ image: "/poi-images/belgium-rivierenhof-life-v2.webp"
     image: "/poi-images/belgium-rivierenhof-life-v2.webp"},
   {
     id: "belgium-ghent-botanical-garden-life-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Botanischer Garten der Universität Gent", hu: "Genti Egyetemi Botanikus Kert", ro: "Grădina Botanică a Universității din Gent", en: "Ghent University Botanical Garden",
 image: "/poi-images/belgium-ghent-botanical-garden-life-v2.webp"
@@ -787,6 +815,7 @@ image: "/poi-images/belgium-ghent-botanical-garden-life-v2.webp"
     image: "/poi-images/belgium-ghent-botanical-garden-life-v2.webp"},
   {
     id: "belgium-park-tervuren-life-v2",
+    parent: "BE",
     type: "park",
     name: { de: "Park von Tervuren", hu: "Tervureni Park", ro: "Parcul din Tervuren", en: "Park of Tervuren",
 image: "/poi-images/belgium-park-tervuren-life-v2.webp"
@@ -809,6 +838,7 @@ image: "/poi-images/belgium-park-tervuren-life-v2.webp"
     image: "/poi-images/belgium-park-tervuren-life-v2.webp"},
   {
     id: "belgium-de-gavers-life-v2",
+    parent: "BE",
     type: "lake",
     name: { de: "Provvinzialdomäne De Gavers", hu: "De Gavers Tartományi Birtok", ro: "Domeniul Provincial De Gavers", en: "Provincial Domain De Gavers",
 image: "/poi-images/belgium-de-gavers-life-v2.webp"

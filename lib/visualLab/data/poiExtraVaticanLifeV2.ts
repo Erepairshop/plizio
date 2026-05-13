@@ -3,6 +3,7 @@ export const vaticanLifeV2: POI[] = [
 
   {
     id: "vatican-italian-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Italienischer Garten", hu: "Olasz kert", ro: "Grădina Italiană", en: "Italian Garden",
 image: "/poi-images/vatican-italian-garden-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Manicured hedges and gravel paths in the Italian Garden of Vatican",
     image: "/poi-images/vatican-italian-garden-life-v2.webp",
 },  {
     id: "vatican-french-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Französischer Garten", hu: "Francia kert", ro: "Grădina Franceză", en: "French Garden",
 image: "/poi-images/vatican-french-garden-life-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Wide lawns and flower beds in the French Garden of Vatican",
     image: "/poi-images/vatican-french-garden-life-v2.webp",
 },  {
     id: "vatican-english-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Englischer Garten", hu: "Angol kert", ro: "Grădina Engleză", en: "English Garden",
 image: "/poi-images/vatican-english-garden-life-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Winding path through trees in the English Garden of Vatican",
     image: "/poi-images/vatican-english-garden-life-v2.webp",
 },  {
     id: "vatican-casina-pio-iv-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten der Casina Pio IV", hu: "IV. Piusz nyári lakának kertje", ro: "Grădina Casinei Pio IV", en: "Casina Pio IV Garden",
 image: "/poi-images/vatican-casina-pio-iv-garden-life-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Ornate Casina Pio IV building surrounded by lush garden greenery",
     image: "/poi-images/vatican-casina-pio-iv-garden-life-v2.webp",
 },  {
     id: "vatican-heliport-greenery-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Grünanlage am Heliport", hu: "Heliport zöldterület", ro: "Spațiul verde de la Heliport", en: "Heliport Greenery",
 image: "/poi-images/vatican-heliport-greenery-life-v2.webp"
@@ -173,6 +178,7 @@ image: "/poi-images/vatican-heliport-greenery-life-v2.webp"
   },
   {
     id: "vatican-mater-ecclesiae-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten des Klosters Mater Ecclesiae", hu: "Mater Ecclesiae monostor kertje", ro: "Grădina Mănăstirii Mater Ecclesiae", en: "Mater Ecclesiae Monastery Garden",
 image: "/poi-images/vatican-mater-ecclesiae-garden-life-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Small secluded garden with flowers near the Mater Ecclesiae building
     image: "/poi-images/vatican-mater-ecclesiae-garden-life-v2.webp",
 },  {
     id: "vatican-eagle-fountain-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten am Adlerbrunnen", hu: "Sasos-kút kertje", ro: "Grădina de la Fântâna Vulturului", en: "Eagle Fountain Garden",
 image: "/poi-images/vatican-eagle-fountain-garden-life-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Ornate Eagle Fountain with water flowing over mossy rocks",
     image: "/poi-images/vatican-eagle-fountain-garden-life-v2.webp",
 },  {
     id: "vatican-galleon-fountain-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten am Galeerenbrunnen", hu: "Gályás-kút környéke", ro: "Grădina de la Fântâna Galerei", en: "Galleon Fountain Garden",
 image: "/poi-images/vatican-galleon-fountain-garden-life-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Stone ship fountain with water jets surrounded by garden plants",
     image: "/poi-images/vatican-galleon-fountain-garden-life-v2.webp",
 },  {
     id: "vatican-st-therese-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten der Heiligen Therese", hu: "Szent Teréz kertje", ro: "Grădina Sfintei Tereza", en: "St. Therese Garden",
 image: "/poi-images/vatican-st-therese-garden-life-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Rose garden with a small statue of St. Therese in the Vatican",
     image: "/poi-images/vatican-st-therese-garden-life-v2.webp",
 },  {
     id: "vatican-israel-olive-tree-life-v2",
+    parent: "VA",
     type: "wildlife",
     name: { de: "Olivenbaum aus Israel", hu: "Izraeli olajfa", ro: "Măslinul din Israel", en: "Israel Olive Tree",
 image: "/poi-images/vatican-israel-olive-tree-life-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "An ancient gnarled olive tree in a prominent garden spot",
     image: "/poi-images/vatican-israel-olive-tree-life-v2.webp",
 },  {
     id: "vatican-guadalupe-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Guadalupe-Garten", hu: "Guadalupe-kert", ro: "Grădina Guadalupe", en: "Guadalupe Garden",
 image: "/poi-images/vatican-guadalupe-garden-life-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Bronze statue of Our Lady of Guadalupe among tropical-looking plants
     image: "/poi-images/vatican-guadalupe-garden-life-v2.webp",
 },  {
     id: "vatican-giardino-quadrato-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Quadratischer Garten", hu: "Négyszögletes kert", ro: "Grădina Pătrată", en: "Giardino Quadrato",
 image: "/poi-images/vatican-giardino-quadrato-life-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Large open square garden with geometric grass patches and wall",
     image: "/poi-images/vatican-giardino-quadrato-life-v2.webp",
 },  {
     id: "vatican-governors-palace-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten am Gouverneurspalast", hu: "Kormányzói palota kertje", ro: "Grădina Palatului Guvernatorului", en: "Governor's Palace Gardens",
 image: "/poi-images/vatican-governors-palace-garden-life-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Vatican coat of arms made of colorful flowers in front of a building
     image: "/poi-images/vatican-governors-palace-garden-life-v2.webp",
 },  {
     id: "vatican-railway-station-greenery-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Grünanlage am Vatikanbahnhof", hu: "Vatikáni vasútállomás zöldövezete", ro: "Spațiul verde de la Gara Vatican", en: "Railway Station Greenery",
 image: "/poi-images/vatican-railway-station-greenery-life-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Small train station building surrounded by trees and shrubs",
     image: "/poi-images/vatican-railway-station-greenery-life-v2.webp",
 },  {
     id: "vatican-ethiopian-college-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten des Äthiopischen Kollegs", hu: "Etióp Kollégium kertje", ro: "Grădina Colegiului Etiopian", en: "Ethiopian College Garden",
 image: "/poi-images/vatican-ethiopian-college-garden-life-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Courtyard garden with green plants inside the Ethiopian College",
     image: "/poi-images/vatican-ethiopian-college-garden-life-v2.webp",
 },  {
     id: "vatican-mosaic-studio-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten der Mosaikwerkstatt", hu: "Mozaikműhely kertje", ro: "Grădina Atelierului de Mozaic", en: "Mosaic Studio Garden",
 image: "/poi-images/vatican-mosaic-studio-garden-life-v2.webp"
@@ -547,6 +563,7 @@ image: "/poi-images/vatican-mosaic-studio-garden-life-v2.webp"
   },
   {
     id: "vatican-tower-san-giovanni-park-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Park am Turm San Giovanni", hu: "Szent János-torony parkja", ro: "Parcul de la Turnul San Giovanni", en: "Tower of San Giovanni Park",
 image: "/poi-images/vatican-tower-san-giovanni-park-life-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Ancient stone tower surrounded by tall umbrella pine trees",
     image: "/poi-images/vatican-tower-san-giovanni-park-life-v2.webp",
 },  {
     id: "vatican-st-peter-statue-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten an der Petrusstatue", hu: "Szent Péter-szobor kertje", ro: "Grădina de la Statuia Sfântului Petru", en: "Statue of St. Peter Garden",
 image: "/poi-images/vatican-st-peter-statue-garden-life-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Tall statue of St. Peter standing among green bushes and trees",
     image: "/poi-images/vatican-st-peter-statue-garden-life-v2.webp",
 },  {
     id: "vatican-rose-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Rosengarten", hu: "Rózsakert", ro: "Grădina de Trandafiri", en: "Rose Garden",
 image: "/poi-images/vatican-rose-garden-life-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Beds of blooming red, pink and white roses in a garden",
     image: "/poi-images/vatican-rose-garden-life-v2.webp",
 },  {
     id: "vatican-citrus-grove-life-v2",
+    parent: "VA",
     type: "wildlife",
     name: { de: "Zitrusgarten", hu: "Citruskert", ro: "Grădina de Citrice", en: "Citrus Grove",
 image: "/poi-images/vatican-citrus-grove-life-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Citrus trees with ripe lemons in terracotta pots along a wall",
     image: "/poi-images/vatican-citrus-grove-life-v2.webp",
 },  {
     id: "vatican-palm-collection-life-v2",
+    parent: "VA",
     type: "wildlife",
     name: { de: "Palmensammlung", hu: "Pálmagyűjtemény", ro: "Colecția de Palmieri", en: "Palm Tree Collection",
 image: "/poi-images/vatican-palm-collection-life-v2.webp"
@@ -717,6 +738,7 @@ image: "/poi-images/vatican-palm-collection-life-v2.webp"
   },
   {
     id: "vatican-pine-forest-life-v2",
+    parent: "VA",
     type: "forest",
     name: { de: "Pinienwald (Bosco)", hu: "Fenyőerdő (Bosco)", ro: "Pădurea de Pini (Bosco)", en: "Pine Forest (Bosco)",
 image: "/poi-images/vatican-pine-forest-life-v2.webp"
@@ -751,6 +773,7 @@ image: "/poi-images/vatican-pine-forest-life-v2.webp"
   },
   {
     id: "vatican-leonine-wall-green-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Grüngürtel der Leoninischen Mauer", hu: "Leoninus-fal zöldövezete", ro: "Centura verde a Zidului Leonin", en: "Leonine Wall Green Belt",
 image: "/poi-images/vatican-leonine-wall-green-life-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Old stone wall covered in green ivy and surrounded by trees",
     image: "/poi-images/vatican-leonine-wall-green-life-v2.webp",
 },  {
     id: "vatican-japanese-maple-life-v2",
+    parent: "VA",
     type: "wildlife",
     name: { de: "Japanischer Ahorn-Bereich", hu: "Japán juhar terület", ro: "Zona Arțarului Japonez", en: "Japanese Maple Area",
 image: "/poi-images/vatican-japanese-maple-life-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Japanese maple tree with bright red leaves in a green garden setting
     image: "/poi-images/vatican-japanese-maple-life-v2.webp",
 },  {
     id: "vatican-gendarmerie-monument-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten am Gendarmerie-Denkmal", hu: "Csendőrségi emlékmű kertje", ro: "Grădina Monumentului Jandarmeriei", en: "Gendarmerie Monument Garden",
 image: "/poi-images/vatican-gendarmerie-monument-garden-life-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Statue or monument in a small clean garden plot with white flowers",
     image: "/poi-images/vatican-gendarmerie-monument-garden-life-v2.webp",
 },  {
     id: "vatican-sacramento-fountain-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten am Sakramentsbrunnen", hu: "Oltáriszentség-kút kertje", ro: "Grădina de la Fântâna Sacramentului", en: "Sacramento Fountain Garden",
 image: "/poi-images/vatican-sacramento-fountain-garden-life-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Large stone fountain with multiple jets and water lilies in the basi
     image: "/poi-images/vatican-sacramento-fountain-garden-life-v2.webp",
 },  {
     id: "vatican-radio-vatican-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten von Radio Vatikan", hu: "Vatikáni Rádió kertje", ro: "Grădina Radio Vatican", en: "Radio Vatican Garden",
 image: "/poi-images/vatican-radio-vatican-garden-life-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "A large radio antenna mast rising from a green wooded area",
     image: "/poi-images/vatican-radio-vatican-garden-life-v2.webp",
 },  {
     id: "vatican-st-martha-garden-life-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten des Hauses Sanctae Marthae", hu: "Szent Márta-ház kertje", ro: "Grădina Casei Sfânta Marta", en: "St. Martha's House Garden",
 image: "/poi-images/vatican-st-martha-garden-life-v2.webp"

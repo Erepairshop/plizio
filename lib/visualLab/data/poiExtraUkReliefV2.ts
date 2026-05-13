@@ -3,6 +3,7 @@ export const ukReliefV2: POI[] = [
 
   {
     id: "uk-slieve-donard-relief-v2",
+    parent: "GB",
     type: "peak",
     name: { de: "Slieve Donard", hu: "Slieve Donard", ro: "Slieve Donard", en: "Slieve Donard",
 image: "/poi-images/uk-slieve-donard-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Slieve Donard peak overlooking the Irish Sea",
     image: "/poi-images/uk-slieve-donard-relief-v2.webp",
 },  {
     id: "uk-the-pennines-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Penninen", hu: "Pennine-hegység", ro: "Munții Penini", en: "The Pennines",
 image: "/poi-images/uk-the-pennines-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Rolling hills of the Pennines landscape in England",
     image: "/poi-images/uk-the-pennines-relief-v2.webp",
 },  {
     id: "uk-the-cairngorms-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Cairngorms", hu: "Cairngorm-hegység", ro: "Munții Cairngorms", en: "The Cairngorms",
 image: "/poi-images/uk-the-cairngorms-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Cairngorms mountain plateau in Scotland",
     image: "/poi-images/uk-the-cairngorms-relief-v2.webp",
 },  {
     id: "uk-the-fens-relief-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "The Fens", hu: "The Fens", ro: "The Fens", en: "The Fens",
 image: "/poi-images/uk-the-fens-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Flat agricultural landscape of the Fens in England",
     image: "/poi-images/uk-the-fens-relief-v2.webp",
 },  {
     id: "uk-brecon-beacons-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Brecon Beacons", hu: "Brecon Beacons", ro: "Brecon Beacons", en: "Brecon Beacons",
 image: "/poi-images/uk-brecon-beacons-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
     image: "/poi-images/uk-brecon-beacons-relief-v2.webp",
 },  {
     id: "uk-dartmoor-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Dartmoor", hu: "Dartmoor", ro: "Dartmoor", en: "Dartmoor",
 image: "/poi-images/uk-dartmoor-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Dartmoor moorland with granite tor rock formation",
     image: "/poi-images/uk-dartmoor-relief-v2.webp",
 },  {
     id: "uk-grampian-mountains-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Grampian Mountains", hu: "Grampian-hegység", ro: "Munții Grampiani", en: "Grampian Mountains",
 image: "/poi-images/uk-grampian-mountains-relief-v2.webp"
@@ -242,6 +249,7 @@ imageHint: "Grampian Mountains landscape in central Scotland",
 },
   {
     id: "uk-pennines-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Penninen", hu: "Pennine-hegység", ro: "Munții Penini", en: "Pennines",
 image: "/poi-images/uk-pennines-relief-v2.webp"
@@ -276,6 +284,7 @@ image: "/poi-images/uk-pennines-relief-v2.webp"
   },
   {
     id: "uk-peak-district-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Peak District", hu: "Peak District", ro: "Peak District", en: "Peak District",
 image: "/poi-images/uk-peak-district-relief-v2.webp"
@@ -310,6 +319,7 @@ imageHint: "Rolling hills of the Peak District at sunrise",
     image: "/poi-images/uk-peak-district-relief-v2.webp",
 },  {
     id: "uk-cotswolds-relief-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "Cotswolds", hu: "Cotswolds", ro: "Cotswolds", en: "Cotswolds",
 image: "/poi-images/uk-cotswolds-relief-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "Rolling green hills of the Cotswolds",
     image: "/poi-images/uk-cotswolds-relief-v2.webp",
 },  {
     id: "uk-lake-district-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Lake District", hu: "Lake District", ro: "Lake District", en: "Lake District",
 image: "/poi-images/uk-lake-district-relief-v2.webp"
@@ -378,6 +389,7 @@ imageHint: "Mountainous landscape and lakes of the Lake District",
     image: "/poi-images/uk-lake-district-relief-v2.webp",
 },  {
     id: "uk-mourne-mountains-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Mourne Mountains", hu: "Mourne-hegység", ro: "Munții Mourne", en: "Mourne Mountains",
 image: "/poi-images/uk-mourne-mountains-relief-v2.webp"
@@ -412,6 +424,7 @@ imageHint: "Slieve Donard peak in the Mourne Mountains",
     image: "/poi-images/uk-mourne-mountains-relief-v2.webp",
 },  {
     id: "uk-antrim-plateau-relief-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "Antrim Plateau", hu: "Antrim-fennsík", ro: "Podișul Antrim", en: "Antrim Plateau",
 image: "/poi-images/uk-antrim-plateau-relief-v2.webp"
@@ -446,6 +459,7 @@ imageHint: "Basalt cliffs of the Antrim Plateau",
     image: "/poi-images/uk-antrim-plateau-relief-v2.webp",
 },  {
     id: "uk-cairngorms-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Cairngorms", hu: "Cairngorms", ro: "Munții Cairngorm", en: "Cairngorms",
 image: "/poi-images/uk-cairngorms-relief-v2.webp"
@@ -481,6 +495,7 @@ imageHint: "High arctic plateau of the Cairngorm Mountains",
 },
   {
     id: "uk-bodmin-moor-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Bodmin Moor", hu: "Bodmin Moor", ro: "Bodmin Moor", en: "Bodmin Moor",
 image: "/poi-images/uk-bodmin-moor-relief-v2.webp"
@@ -515,6 +530,7 @@ image: "/poi-images/uk-bodmin-moor-relief-v2.webp"
   },
   {
     id: "uk-kinder-scout-relief-v2",
+    parent: "GB",
     type: "peak",
     name: { de: "Kinder Scout", hu: "Kinder Scout", ro: "Kinder Scout", en: "Kinder Scout",
 image: "/poi-images/uk-kinder-scout-relief-v2.webp"
@@ -549,6 +565,7 @@ imageHint: "Kinder Scout plateau landscape with rocky edges",
     image: "/poi-images/uk-kinder-scout-relief-v2.webp",
 },  {
     id: "uk-salisbury-plain-relief-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "Salisbury Plain", hu: "Salisbury Plain", ro: "Câmpia Salisbury", en: "Salisbury Plain",
 image: "/poi-images/uk-salisbury-plain-relief-v2.webp"
@@ -583,6 +600,7 @@ imageHint: "Rolling chalk grasslands of Salisbury Plain",
     image: "/poi-images/uk-salisbury-plain-relief-v2.webp",
 },  {
     id: "uk-the-cuillin-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "The Cuillin", hu: "The Cuillin", ro: "Munții Cuillin", en: "The Cuillin",
 image: "/poi-images/uk-the-cuillin-relief-v2.webp"
@@ -617,6 +635,7 @@ imageHint: "Jagged peaks of the Black Cuillin on Skye",
     image: "/poi-images/uk-the-cuillin-relief-v2.webp",
 },  {
     id: "uk-mendip-hills-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Mendip Hills", hu: "Mendip Hills", ro: "Mendip Hills", en: "Mendip Hills",
 image: "/poi-images/uk-mendip-hills-relief-v2.webp"
@@ -651,6 +670,7 @@ imageHint: "Cheddar Gorge in the Mendip Hills",
     image: "/poi-images/uk-mendip-hills-relief-v2.webp",
 },  {
     id: "uk-sperrin-mountains-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Sperrin Mountains", hu: "Sperrin-hegység", ro: "Munții Sperrin", en: "Sperrin Mountains",
 image: "/poi-images/uk-sperrin-mountains-relief-v2.webp"
@@ -685,6 +705,7 @@ imageHint: "Rounded peaks of the Sperrin Mountains",
     image: "/poi-images/uk-sperrin-mountains-relief-v2.webp",
 },  {
     id: "uk-north-york-moors-relief-v2",
+    parent: "GB",
     type: "park",
     name: { de: "North York Moors", hu: "North York Moors", ro: "North York Moors", en: "North York Moors",
 image: "/poi-images/uk-north-york-moors-relief-v2.webp"
@@ -719,6 +740,7 @@ imageHint: "North York Moors landscape with purple heather",
     image: "/poi-images/uk-north-york-moors-relief-v2.webp",
 },  {
     id: "uk-malvern-hills-relief-v2",
+    parent: "GB",
     type: "mountain",
     name: { de: "Malvern Hills", hu: "Malvern Hills", ro: "Malvern Hills", en: "Malvern Hills",
 image: "/poi-images/uk-malvern-hills-relief-v2.webp"

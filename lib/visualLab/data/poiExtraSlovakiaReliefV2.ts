@@ -3,6 +3,7 @@ export const slovakiaReliefV2: POI[] = [
 
   {
     id: "slovakia-gerlachovsky-stit-relief-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Gerlachovský štít", hu: "Gerlachfalvi-csúcs", ro: "Vârful Gerlachovský", en: "Gerlachovský štít",
 image: "/poi-images/slovakia-gerlachovsky-stit-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Gerlachovsky stit peak in High Tatras",
     , image: "/poi-images/slovakia-gerlachovsky-stit-relief-v2.webp",
 },  {
     id: "slovakia-lomnicky-stit-relief-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Lomnický štít", hu: "Lomnici-csúcs", ro: "Vârful Lomnický", en: "Lomnický štít",
 image: "/poi-images/slovakia-lomnicky-stit-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Lomnicky stit peak with observatory",
     , image: "/poi-images/slovakia-lomnicky-stit-relief-v2.webp",
 },  {
     id: "slovakia-krivan-relief-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Kriváň", hu: "Kriván", ro: "Vârful Kriváň", en: "Kriváň",
 image: "/poi-images/slovakia-krivan-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Krivan mountain peak Slovakia",
     , image: "/poi-images/slovakia-krivan-relief-v2.webp",
 },  {
     id: "slovakia-dumbier-relief-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Ďumbier", hu: "Gyömbér-csúcs", ro: "Vârful Ďumbier", en: "Ďumbier",
 image: "/poi-images/slovakia-dumbier-relief-v2.webp"
@@ -127,6 +131,7 @@ image: "/poi-images/slovakia-dumbier-relief-v2.webp"
     image: "/poi-images/slovakia-dumbier-relief-v2.webp"},
   {
     id: "slovakia-chopok-relief-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Chopok", hu: "Chopok", ro: "Vârful Chopok", en: "Chopok",
 image: "/poi-images/slovakia-chopok-relief-v2.webp"
@@ -161,6 +166,7 @@ imageHint: "Chopok peak with stone shelter",
     , image: "/poi-images/slovakia-chopok-relief-v2.webp",
 },  {
     id: "slovakia-velky-rozsutec-relief-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Veľký Rozsutec", hu: "Nagy-Rozsutec", ro: "Vârful Veľký Rozsutec", en: "Veľký Rozsutec",
 image: "/poi-images/slovakia-velky-rozsutec-relief-v2.webp"
@@ -195,6 +201,7 @@ imageHint: "Velky Rozsutec rocky peak",
     , image: "/poi-images/slovakia-velky-rozsutec-relief-v2.webp",
 },  {
     id: "slovakia-ostredok-relief-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Ostredok", hu: "Ostredok", ro: "Vârful Ostredok", en: "Ostredok",
 image: "/poi-images/slovakia-ostredok-relief-v2.webp"
@@ -229,6 +236,7 @@ imageHint: "Ostredok peak Velka Fatra",
     , image: "/poi-images/slovakia-ostredok-relief-v2.webp",
 },  {
     id: "slovakia-stiavnicke-vrchy-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Schemnitzer Berge", hu: "Selmeci-hegység", ro: "Munții Štiavnica", en: "Štiavnica Mountains",
 image: "/poi-images/slovakia-stiavnicke-vrchy-relief-v2.webp"
@@ -251,6 +259,7 @@ image: "/poi-images/slovakia-stiavnicke-vrchy-relief-v2.webp"
     image: "/poi-images/slovakia-stiavnicke-vrchy-relief-v2.webp"},
   {
     id: "slovakia-sitno-relief-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Sitno", hu: "Szitnya", ro: "Vârful Sitno", en: "Sitno",
 image: "/poi-images/slovakia-sitno-relief-v2.webp"
@@ -273,6 +282,7 @@ image: "/poi-images/slovakia-sitno-relief-v2.webp"
     image: "/poi-images/slovakia-sitno-relief-v2.webp"},
   {
     id: "slovakia-poloniny-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Poloniny", hu: "Polonyinák", ro: "Munții Poloniny", en: "Poloniny",
 image: "/poi-images/slovakia-poloniny-relief-v2.webp"
@@ -295,6 +305,7 @@ image: "/poi-images/slovakia-poloniny-relief-v2.webp"
     image: "/poi-images/slovakia-poloniny-relief-v2.webp"},
   {
     id: "slovakia-podunajska-nizina-relief-v2",
+    parent: "SK",
     type: "valley",
     name: { de: "Donautiefland", hu: "Dunamenti-alföld", ro: "Câmpia Dunării", en: "Danubian Lowland",
 image: "/poi-images/slovakia-podunajska-nizina-relief-v2.webp"
@@ -329,6 +340,7 @@ imageHint: "Danubian Lowland fields Slovakia",
     , image: "/poi-images/slovakia-podunajska-nizina-relief-v2.webp",
 },  {
     id: "slovakia-vychodoslovenska-nizina-relief-v2",
+    parent: "SK",
     type: "valley",
     name: { de: "Ostslowakisches Tiefland", hu: "Keletszlovákiai-alföld", ro: "Câmpia Slovaciei de Est", en: "Eastern Slovak Lowland",
 image: "/poi-images/slovakia-vychodoslovenska-nizina-relief-v2.webp"
@@ -363,6 +375,7 @@ imageHint: "Eastern Slovak Lowland landscape",
     , image: "/poi-images/slovakia-vychodoslovenska-nizina-relief-v2.webp",
 },  {
     id: "slovakia-zahorska-nizina-relief-v2",
+    parent: "SK",
     type: "valley",
     name: { de: "Zahorska-Tiefland", hu: "Erdőhát", ro: "Câmpia Záhorie", en: "Zahorska Lowland",
 image: "/poi-images/slovakia-zahorska-nizina-relief-v2.webp"
@@ -397,6 +410,7 @@ imageHint: "Zahorska Lowland pine forest",
     , image: "/poi-images/slovakia-zahorska-nizina-relief-v2.webp",
 },  {
     id: "slovakia-biele-karpaty-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Weiße Karpaten", hu: "Fehér-Kárpátok", ro: "Carpații Albi", en: "White Carpathians",
 image: "/poi-images/slovakia-biele-karpaty-relief-v2.webp"
@@ -419,6 +433,7 @@ image: "/poi-images/slovakia-biele-karpaty-relief-v2.webp"
     image: "/poi-images/slovakia-biele-karpaty-relief-v2.webp"},
   {
     id: "slovakia-male-karpaty-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Kleine Karpaten", hu: "Kis-Kárpátok", ro: "Carpații Mici", en: "Little Carpathians",
 image: "/poi-images/slovakia-male-karpaty-relief-v2.webp"
@@ -441,6 +456,7 @@ image: "/poi-images/slovakia-male-karpaty-relief-v2.webp"
     image: "/poi-images/slovakia-male-karpaty-relief-v2.webp"},
   {
     id: "slovakia-kralova-hola-relief-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Kráľova hoľa", hu: "Király-hegy", ro: "Vârful Kráľova hoľa", en: "Kráľova hoľa",
 image: "/poi-images/slovakia-kralova-hola-relief-v2.webp"
@@ -463,6 +479,7 @@ image: "/poi-images/slovakia-kralova-hola-relief-v2.webp"
     image: "/poi-images/slovakia-kralova-hola-relief-v2.webp"},
   {
     id: "slovakia-chocske-vrchy-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Choč-Gebirge", hu: "Kócs-hegység", ro: "Munții Choč", en: "Choč Mountains",
 image: "/poi-images/slovakia-chocske-vrchy-relief-v2.webp"
@@ -497,6 +514,7 @@ imageHint: "Chocske vrchy mountains forest",
     , image: "/poi-images/slovakia-chocske-vrchy-relief-v2.webp",
 },  {
     id: "slovakia-velky-choc-relief-v2",
+    parent: "SK",
     type: "peak",
     name: { de: "Veľký Choč", hu: "Nagy-Kócs", ro: "Vârful Veľký Choč", en: "Veľký Choč",
 image: "/poi-images/slovakia-velky-choc-relief-v2.webp"
@@ -519,6 +537,7 @@ image: "/poi-images/slovakia-velky-choc-relief-v2.webp"
     image: "/poi-images/slovakia-velky-choc-relief-v2.webp"},
   {
     id: "slovakia-strazovske-vrchy-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Strážov-Gebirge", hu: "Sztrázsó-hegység", ro: "Munții Strážov", en: "Strážov Mountains",
 image: "/poi-images/slovakia-strazovske-vrchy-relief-v2.webp"
@@ -541,6 +560,7 @@ image: "/poi-images/slovakia-strazovske-vrchy-relief-v2.webp"
     image: "/poi-images/slovakia-strazovske-vrchy-relief-v2.webp"},
   {
     id: "slovakia-vtacnik-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Vtačnik", hu: "Madaras", ro: "Munții Vtáčnik", en: "Vtáčnik",
 image: "/poi-images/slovakia-vtacnik-relief-v2.webp"
@@ -563,6 +583,7 @@ image: "/poi-images/slovakia-vtacnik-relief-v2.webp"
     image: "/poi-images/slovakia-vtacnik-relief-v2.webp"},
   {
     id: "slovakia-povazsky-inovec-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Považský Inovec", hu: "Vágújhelyi-hegység", ro: "Munții Považský Inovec", en: "Považský Inovec",
 image: "/poi-images/slovakia-povazsky-inovec-relief-v2.webp"
@@ -586,6 +607,7 @@ image: "/poi-images/slovakia-povazsky-inovec-relief-v2.webp"
 ,
   {
     id: "slovakia-slovenske-rudohorie-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Slowakisches Erzgebirge", hu: "Szlovák-érchegység", ro: "Munții Metaliferi Slovaci", en: "Slovak Ore Mountains",
 image: "/poi-images/slovakia-slovenske-rudohorie-relief-v2.webp"
@@ -619,6 +641,7 @@ image: "/poi-images/slovakia-slovenske-rudohorie-relief-v2.webp"
   },
   {
     id: "slovakia-bielanske-tatry-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Belaer Tatra", hu: "Bélai-Tátra", ro: "Munții Belianske", en: "Belianske Tatras",
 image: "/poi-images/slovakia-bielanske-tatry-relief-v2.webp"
@@ -652,6 +675,7 @@ image: "/poi-images/slovakia-bielanske-tatry-relief-v2.webp"
   },
   {
     id: "slovakia-slanske-vrchy-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Slanské-Gebirge", hu: "Szalánci-hegység", ro: "Munții Slanské", en: "Slanské Mountains",
 image: "/poi-images/slovakia-slanske-vrchy-relief-v2.webp"
@@ -673,6 +697,7 @@ image: "/poi-images/slovakia-slanske-vrchy-relief-v2.webp"
     image: "/poi-images/slovakia-slanske-vrchy-relief-v2.webp"},
   {
     id: "slovakia-tribec-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Tribeč", hu: "Tribecs", ro: "Munții Tríbeč", en: "Tribeč",
 image: "/poi-images/slovakia-tribec-relief-v2.webp"
@@ -694,6 +719,7 @@ image: "/poi-images/slovakia-tribec-relief-v2.webp"
     image: "/poi-images/slovakia-tribec-relief-v2.webp"},
   {
     id: "slovakia-cerova-vrchovina-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Cerová-Bergland", hu: "Cseres-hegység", ro: "Podișul Cerová", en: "Cerová Highlands",
 image: "/poi-images/slovakia-cerova-vrchovina-relief-v2.webp"
@@ -715,6 +741,7 @@ image: "/poi-images/slovakia-cerova-vrchovina-relief-v2.webp"
     image: "/poi-images/slovakia-cerova-vrchovina-relief-v2.webp"},
   {
     id: "slovakia-levocske-vrchy-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Levoča-Berge", hu: "Lőcsei-hegység", ro: "Munții Levoča", en: "Levoča Mountains",
 image: "/poi-images/slovakia-levocske-vrchy-relief-v2.webp"
@@ -736,6 +763,7 @@ image: "/poi-images/slovakia-levocske-vrchy-relief-v2.webp"
     image: "/poi-images/slovakia-levocske-vrchy-relief-v2.webp"},
   {
     id: "slovakia-krupinska-planina-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Krupina-Hochebene", hu: "Korponai-fennsík", ro: "Câmpia Krupina", en: "Krupina Plain",
 image: "/poi-images/slovakia-krupinska-planina-relief-v2.webp"
@@ -757,6 +785,7 @@ image: "/poi-images/slovakia-krupinska-planina-relief-v2.webp"
     image: "/poi-images/slovakia-krupinska-planina-relief-v2.webp"},
   {
     id: "slovakia-oravska-magura-relief-v2",
+    parent: "SK",
     type: "mountain",
     name: { de: "Oravská Magura", hu: "Árvai-Magura", ro: "Munții Oravská Magura", en: "Oravska Magura",
 image: "/poi-images/slovakia-oravska-magura-relief-v2.webp"

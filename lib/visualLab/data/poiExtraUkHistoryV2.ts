@@ -3,6 +3,7 @@ export const ukHistoryV2: POI[] = [
 
   {
     id: "uk-stonehenge-history-v2",
+    parent: "GB",
     type: "ruins",
     name: { de: "Stonehenge", hu: "Stonehenge", ro: "Stonehenge", en: "Stonehenge",
 image: "/poi-images/uk-stonehenge-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Stonehenge monoliths at sunrise",
     image: "/poi-images/uk-stonehenge-history-v2.webp",
 },  {
     id: "uk-hadrians-wall-history-v2",
+    parent: "GB",
     type: "ruins",
     name: { de: "Hadrianswall", hu: "Hadrianus fala", ro: "Zidul lui Hadrian", en: "Hadrian's Wall",
 image: "/poi-images/uk-hadrians-wall-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Hadrian's Wall ruins in Northumberland landscape",
     image: "/poi-images/uk-hadrians-wall-history-v2.webp",
 },  {
     id: "uk-tower-of-london-history-v2",
+    parent: "GB",
     type: "castle",
     name: { de: "Tower von London", hu: "Tower of London", ro: "Turnul Londrei", en: "Tower of London",
 image: "/poi-images/uk-tower-of-london-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Tower of London White Tower view",
     image: "/poi-images/uk-tower-of-london-history-v2.webp",
 },  {
     id: "uk-hastings-battlefield-history-v2",
+    parent: "GB",
     type: "battlefield",
     name: { de: "Schlachtfeld von Hastings", hu: "Hastingsi csatatér", ro: "Câmpul de luptă de la Hastings", en: "Hastings Battlefield",
 image: "/poi-images/uk-hastings-battlefield-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Battle Abbey ruins and Hastings battlefield",
     image: "/poi-images/uk-hastings-battlefield-history-v2.webp",
 },  {
     id: "uk-roman-baths-history-v2",
+    parent: "GB",
     type: "museum",
     name: { de: "Römische Bäder von Bath", hu: "Római fürdők (Bath)", ro: "Băile Romane din Bath", en: "Roman Baths",
 image: "/poi-images/uk-roman-baths-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Roman Baths Great Bath and Bath Abbey",
     image: "/poi-images/uk-roman-baths-history-v2.webp",
 },  {
     id: "uk-canterbury-cathedral-history-v2",
+    parent: "GB",
     type: "cathedral",
     name: { de: "Kathedrale von Canterbury", hu: "Canterburyi katedrális", ro: "Catedrala din Canterbury", en: "Canterbury Cathedral",
 image: "/poi-images/uk-canterbury-cathedral-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Canterbury Cathedral gothic architecture",
     image: "/poi-images/uk-canterbury-cathedral-history-v2.webp",
 },  {
     id: "uk-culloden-battlefield-history-v2",
+    parent: "GB",
     type: "battlefield",
     name: { de: "Schlachtfeld von Culloden", hu: "Cullodeni csatatér", ro: "Câmpul de luptă de la Culloden", en: "Culloden Battlefield",
 image: "/poi-images/uk-culloden-battlefield-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Culloden Battlefield memorial cairn",
     image: "/poi-images/uk-culloden-battlefield-history-v2.webp",
 },  {
     id: "uk-iron-bridge-history-v2",
+    parent: "GB",
     type: "bridge",
     name: { de: "Iron Bridge", hu: "Vashíd (Ironbridge)", ro: "Podul de Fier", en: "Iron Bridge",
 image: "/poi-images/uk-iron-bridge-history-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Iron Bridge Shropshire across River Severn",
     image: "/poi-images/uk-iron-bridge-history-v2.webp",
 },  {
     id: "uk-skara-brae-history-v2",
+    parent: "GB",
     type: "ruins",
     name: { de: "Skara Brae", hu: "Skara Brae", ro: "Skara Brae", en: "Skara Brae",
 image: "/poi-images/uk-skara-brae-history-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Skara Brae Neolithic village ruins",
     image: "/poi-images/uk-skara-brae-history-v2.webp",
 },  {
     id: "uk-old-sarum-history-v2",
+    parent: "GB",
     type: "ruins",
     name: { de: "Old Sarum", hu: "Old Sarum", ro: "Old Sarum", en: "Old Sarum",
 image: "/poi-images/uk-old-sarum-history-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "Old Sarum hillfort and castle ruins",
 },
   {
     id: "uk-battle-of-hastings-history-v2",
+    parent: "GB",
     type: "battlefield",
     name: { de: "Schlacht von Hastings", hu: "Hastingsi csata", ro: "Bătălia de la Hastings", en: "Battle of Hastings",
 image: "/poi-images/uk-battle-of-hastings-history-v2.webp"
@@ -378,6 +389,7 @@ image: "/poi-images/uk-battle-of-hastings-history-v2.webp"
   },
   {
     id: "uk-fountains-abbey-history-v2",
+    parent: "GB",
     type: "ruins",
     name: { de: "Fountains Abbey", hu: "Fountains-apátság", ro: "Abația Fountains", en: "Fountains Abbey",
 image: "/poi-images/uk-fountains-abbey-history-v2.webp"
@@ -412,6 +424,7 @@ imageHint: "Ruins of Fountains Abbey in North Yorkshire",
     image: "/poi-images/uk-fountains-abbey-history-v2.webp",
 },  {
     id: "uk-tintagel-castle-history-v2",
+    parent: "GB",
     type: "castle",
     name: { de: "Tintagel Castle", hu: "Tintagel vára", ro: "Castelul Tintagel", en: "Tintagel Castle",
 image: "/poi-images/uk-tintagel-castle-history-v2.webp"
@@ -446,6 +459,7 @@ imageHint: "Tintagel Castle ruins on Cornwall coast",
     image: "/poi-images/uk-tintagel-castle-history-v2.webp",
 },  {
     id: "uk-warwick-castle-history-v2",
+    parent: "GB",
     type: "castle",
     name: { de: "Warwick Castle", hu: "Warwick vára", ro: "Castelul Warwick", en: "Warwick Castle",
 image: "/poi-images/uk-warwick-castle-history-v2.webp"
@@ -480,6 +494,7 @@ imageHint: "Warwick Castle and River Avon",
     image: "/poi-images/uk-warwick-castle-history-v2.webp",
 },  {
     id: "uk-hampton-court-palace-history-v2",
+    parent: "GB",
     type: "palace",
     name: { de: "Hampton Court Palast", hu: "Hampton Court-palota", ro: "Palatul Hampton Court", en: "Hampton Court Palace",
 image: "/poi-images/uk-hampton-court-palace-history-v2.webp"
@@ -514,6 +529,7 @@ imageHint: "Hampton Court Palace Tudor architecture",
     image: "/poi-images/uk-hampton-court-palace-history-v2.webp",
 },  {
     id: "uk-battle-of-culloden-history-v2",
+    parent: "GB",
     type: "battlefield",
     name: { de: "Schlacht von Culloden", hu: "Cullodeni csata", ro: "Bătălia de la Culloden", en: "Battle of Culloden",
 image: "/poi-images/uk-battle-of-culloden-history-v2.webp"
@@ -548,6 +564,7 @@ imageHint: "Culloden Moor battlefield memorial cairn",
     image: "/poi-images/uk-battle-of-culloden-history-v2.webp",
 },  {
     id: "uk-jarrow-monastery-history-v2",
+    parent: "GB",
     type: "ruins",
     name: { de: "Kloster Jarrow", hu: "Jarrow-i kolostor", ro: "Mănăstirea Jarrow", en: "Jarrow Monastery",
 image: "/poi-images/uk-jarrow-monastery-history-v2.webp"
@@ -582,6 +599,7 @@ imageHint: "St Paul's Church and Jarrow monastery ruins",
     image: "/poi-images/uk-jarrow-monastery-history-v2.webp",
 },  {
     id: "uk-caernarfon-castle-history-v2",
+    parent: "GB",
     type: "castle",
     name: { de: "Burg Caernarfon", hu: "Caernarfoni vár", ro: "Castelul Caernarfon", en: "Caernarfon Castle",
 image: "/poi-images/uk-caernarfon-castle-history-v2.webp"
@@ -617,6 +635,7 @@ imageHint: "Caernarfon Castle fortress in Wales",
 },
   {
     id: "uk-blenheim-palace-history-v2",
+    parent: "GB",
     type: "palace",
     name: { de: "Blenheim Palace", hu: "Blenheim-kastély", ro: "Palatul Blenheim", en: "Blenheim Palace",
 image: "/poi-images/uk-blenheim-palace-history-v2.webp"
@@ -651,6 +670,7 @@ image: "/poi-images/uk-blenheim-palace-history-v2.webp"
   },
   {
     id: "uk-vindolanda-history-v2",
+    parent: "GB",
     type: "ruins",
     name: { de: "Vindolanda", hu: "Vindolanda", ro: "Vindolanda", en: "Vindolanda",
 image: "/poi-images/uk-vindolanda-history-v2.webp"
@@ -685,6 +705,7 @@ imageHint: "Vindolanda Roman fort archaeological ruins",
     image: "/poi-images/uk-vindolanda-history-v2.webp",
 },  {
     id: "uk-bannockburn-battlefield-history-v2",
+    parent: "GB",
     type: "battlefield",
     name: { de: "Schlachtfeld von Bannockburn", hu: "Bannockburni csatatér", ro: "Câmpul de luptă Bannockburn", en: "Bannockburn Battlefield",
 image: "/poi-images/uk-bannockburn-battlefield-history-v2.webp"
@@ -719,6 +740,7 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
     image: "/poi-images/uk-bannockburn-battlefield-history-v2.webp",
 },  {
     id: "uk-sutton-hoo-history-v2",
+    parent: "GB",
     type: "ruins",
     name: { de: "Sutton Hoo", hu: "Sutton Hoo", ro: "Sutton Hoo", en: "Sutton Hoo",
 image: "/poi-images/uk-sutton-hoo-history-v2.webp"

@@ -3,6 +3,7 @@ export const croatiaCitiesV2: POI[] = [
 
   {
     id: "croatia-zadar-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Zadar", hu: "Zára", ro: "Zadar", en: "Zadar",
 image: "/poi-images/croatia-zadar-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Zadar sea organ and sun salutation",
     image: "/poi-images/croatia-zadar-cities-v2.webp",
 },  {
     id: "croatia-osijek-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Osijek", hu: "Eszék", ro: "Osijek", en: "Osijek",
 image: "/poi-images/croatia-osijek-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Osijek Tvrdja fortress aerial view",
     image: "/poi-images/croatia-osijek-cities-v2.webp",
 },  {
     id: "croatia-slavonski-brod-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Slavonski Brod", hu: "Bród", ro: "Slavonski Brod", en: "Slavonski Brod",
 image: "/poi-images/croatia-slavonski-brod-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Brod Fortress Slavonski Brod aerial",
     image: "/poi-images/croatia-slavonski-brod-cities-v2.webp",
 },  {
     id: "croatia-karlovac-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Karlovac", hu: "Károlyváros", ro: "Karlovac", en: "Karlovac",
 image: "/poi-images/croatia-karlovac-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Karlovac star shaped city layout",
     image: "/poi-images/croatia-karlovac-cities-v2.webp",
 },  {
     id: "croatia-varazdin-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Varaždin", hu: "Varasd", ro: "Varaždin", en: "Varaždin",
 image: "/poi-images/croatia-varazdin-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Varazdin Stari Grad castle white",
     image: "/poi-images/croatia-varazdin-cities-v2.webp",
 },  {
     id: "croatia-sibenik-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Šibenik", hu: "Sibenik", ro: "Šibenik", en: "Šibenik",
 image: "/poi-images/croatia-sibenik-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Sibenik St James Cathedral and waterfront",
     image: "/poi-images/croatia-sibenik-cities-v2.webp",
 },  {
     id: "croatia-sisak-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Sisak", hu: "Sziszek", ro: "Sisak", en: "Sisak",
 image: "/poi-images/croatia-sisak-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Sisak fortress Stari Grad triangular",
     image: "/poi-images/croatia-sisak-cities-v2.webp",
 },  {
     id: "croatia-vinkovci-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Vinkovci", hu: "Vinkovce", ro: "Vinkovci", en: "Vinkovci",
 image: "/poi-images/croatia-vinkovci-cities-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Vinkovci central square and church",
     image: "/poi-images/croatia-vinkovci-cities-v2.webp",
 },  {
     id: "croatia-velika-gorica-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Velika Gorica", hu: "Nagygoricza", ro: "Velika Gorica", en: "Velika Gorica",
 image: "/poi-images/croatia-velika-gorica-cities-v2.webp"
@@ -297,6 +306,7 @@ image: "/poi-images/croatia-velika-gorica-cities-v2.webp"
     image: "/poi-images/croatia-velika-gorica-cities-v2.webp"},
   {
     id: "croatia-samobor-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Samobor", hu: "Szamobor", ro: "Samobor", en: "Samobor",
 image: "/poi-images/croatia-samobor-cities-v2.webp"
@@ -319,6 +329,7 @@ image: "/poi-images/croatia-samobor-cities-v2.webp"
     image: "/poi-images/croatia-samobor-cities-v2.webp"},
   {
     id: "croatia-vukovar-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Vukovar", hu: "Vukovár", ro: "Vukovar", en: "Vukovar",
 image: "/poi-images/croatia-vukovar-cities-v2.webp"
@@ -341,6 +352,7 @@ image: "/poi-images/croatia-vukovar-cities-v2.webp"
     image: "/poi-images/croatia-vukovar-cities-v2.webp"},
   {
     id: "croatia-bjelovar-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Bjelovar", hu: "Belovár", ro: "Bjelovar", en: "Bjelovar",
 image: "/poi-images/croatia-bjelovar-cities-v2.webp"
@@ -363,6 +375,7 @@ image: "/poi-images/croatia-bjelovar-cities-v2.webp"
     image: "/poi-images/croatia-bjelovar-cities-v2.webp"},
   {
     id: "croatia-koprivnica-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Koprivnica", hu: "Kapronca", ro: "Koprivnica", en: "Koprivnica",
 image: "/poi-images/croatia-koprivnica-cities-v2.webp"
@@ -385,6 +398,7 @@ image: "/poi-images/croatia-koprivnica-cities-v2.webp"
     image: "/poi-images/croatia-koprivnica-cities-v2.webp"},
   {
     id: "croatia-pozega-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Požega", hu: "Pozsega", ro: "Požega", en: "Požega",
 image: "/poi-images/croatia-pozega-cities-v2.webp"
@@ -407,6 +421,7 @@ image: "/poi-images/croatia-pozega-cities-v2.webp"
     image: "/poi-images/croatia-pozega-cities-v2.webp"},
   {
     id: "croatia-dakovo-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Đakovo", hu: "Diakovár", ro: "Đakovo", en: "Đakovo",
 image: "/poi-images/croatia-dakovo-cities-v2.webp"
@@ -429,6 +444,7 @@ image: "/poi-images/croatia-dakovo-cities-v2.webp"
     image: "/poi-images/croatia-dakovo-cities-v2.webp"},
   {
     id: "croatia-cakovec-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Čakovec", hu: "Csáktornya", ro: "Čakovec", en: "Čakovec",
 image: "/poi-images/croatia-cakovec-cities-v2.webp"
@@ -451,6 +467,7 @@ image: "/poi-images/croatia-cakovec-cities-v2.webp"
     image: "/poi-images/croatia-cakovec-cities-v2.webp"},
   {
     id: "croatia-virovitica-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Virovitica", hu: "Verőce", ro: "Virovitica", en: "Virovitica",
 image: "/poi-images/croatia-virovitica-cities-v2.webp"
@@ -473,6 +490,7 @@ image: "/poi-images/croatia-virovitica-cities-v2.webp"
     image: "/poi-images/croatia-virovitica-cities-v2.webp"},
   {
     id: "croatia-zapresic-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Zaprešić", hu: "Zaprešić", ro: "Zaprešić", en: "Zaprešić",
 image: "/poi-images/croatia-zapresic-cities-v2.webp"
@@ -495,6 +513,7 @@ image: "/poi-images/croatia-zapresic-cities-v2.webp"
     image: "/poi-images/croatia-zapresic-cities-v2.webp"},
   {
     id: "croatia-kutina-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Kutina", hu: "Kutina", ro: "Kutina", en: "Kutina",
 image: "/poi-images/croatia-kutina-cities-v2.webp"
@@ -517,6 +536,7 @@ image: "/poi-images/croatia-kutina-cities-v2.webp"
     image: "/poi-images/croatia-kutina-cities-v2.webp"},
   {
     id: "croatia-petrinja-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Petrinja", hu: "Petrinja", ro: "Petrinja", en: "Petrinja",
 image: "/poi-images/croatia-petrinja-cities-v2.webp"
@@ -539,6 +559,7 @@ image: "/poi-images/croatia-petrinja-cities-v2.webp"
     image: "/poi-images/croatia-petrinja-cities-v2.webp"},
   {
     id: "croatia-solin-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Solin", hu: "Szolin", ro: "Solin", en: "Solin",
 image: "/poi-images/croatia-solin-cities-v2.webp"
@@ -561,6 +582,7 @@ image: "/poi-images/croatia-solin-cities-v2.webp"
     image: "/poi-images/croatia-solin-cities-v2.webp"},
   {
     id: "croatia-metkovic-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Metković", hu: "Metković", ro: "Metković", en: "Metković",
 image: "/poi-images/croatia-metkovic-cities-v2.webp"
@@ -583,6 +605,7 @@ image: "/poi-images/croatia-metkovic-cities-v2.webp"
     image: "/poi-images/croatia-metkovic-cities-v2.webp"},
   {
     id: "croatia-porec-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Poreč", hu: "Poreč", ro: "Poreč", en: "Poreč",
 image: "/poi-images/croatia-porec-cities-v2.webp"
@@ -605,6 +628,7 @@ image: "/poi-images/croatia-porec-cities-v2.webp"
     image: "/poi-images/croatia-porec-cities-v2.webp"},
   {
     id: "croatia-sinj-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Sinj", hu: "Sinj", ro: "Sinj", en: "Sinj",
 image: "/poi-images/croatia-sinj-cities-v2.webp"
@@ -627,6 +651,7 @@ image: "/poi-images/croatia-sinj-cities-v2.webp"
     image: "/poi-images/croatia-sinj-cities-v2.webp"},
   {
     id: "croatia-nasice-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Našice", hu: "Nekcse", ro: "Našice", en: "Našice",
 image: "/poi-images/croatia-nasice-cities-v2.webp"
@@ -649,6 +674,7 @@ image: "/poi-images/croatia-nasice-cities-v2.webp"
     image: "/poi-images/croatia-nasice-cities-v2.webp"},
   {
     id: "croatia-sveta-nedelja-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Sveta Nedelja", hu: "Sveta Nedelja", ro: "Sveta Nedelja", en: "Sveta Nedelja",
 image: "/poi-images/croatia-sveta-nedelja-cities-v2.webp"
@@ -671,6 +697,7 @@ image: "/poi-images/croatia-sveta-nedelja-cities-v2.webp"
     image: "/poi-images/croatia-sveta-nedelja-cities-v2.webp"},
   {
     id: "croatia-makarska-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Makarska", hu: "Makarska", ro: "Makarska", en: "Makarska",
 image: "/poi-images/croatia-makarska-cities-v2.webp"
@@ -693,6 +720,7 @@ image: "/poi-images/croatia-makarska-cities-v2.webp"
     image: "/poi-images/croatia-makarska-cities-v2.webp"},
   {
     id: "croatia-umag-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Umag", hu: "Umag", ro: "Umag", en: "Umag",
 image: "/poi-images/croatia-umag-cities-v2.webp"
@@ -715,6 +743,7 @@ image: "/poi-images/croatia-umag-cities-v2.webp"
     image: "/poi-images/croatia-umag-cities-v2.webp"},
   {
     id: "croatia-kastela-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Kaštela", hu: "Kastela", ro: "Kaštela", en: "Kaštela",
 image: "/poi-images/croatia-kastela-cities-v2.webp"
@@ -737,6 +766,7 @@ image: "/poi-images/croatia-kastela-cities-v2.webp"
     image: "/poi-images/croatia-kastela-cities-v2.webp"},
   {
     id: "croatia-ivanic-grad-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Ivanić-Grad", hu: "Ivanić-Grad", ro: "Ivanić-Grad", en: "Ivanić-Grad",
 image: "/poi-images/croatia-ivanic-grad-cities-v2.webp"
@@ -759,6 +789,7 @@ image: "/poi-images/croatia-ivanic-grad-cities-v2.webp"
     image: "/poi-images/croatia-ivanic-grad-cities-v2.webp"},
   {
     id: "croatia-labin-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Labin", hu: "Labin", ro: "Labin", en: "Labin",
 image: "/poi-images/croatia-labin-cities-v2.webp"
@@ -781,6 +812,7 @@ image: "/poi-images/croatia-labin-cities-v2.webp"
     image: "/poi-images/croatia-labin-cities-v2.webp"},
   {
     id: "croatia-krizevci-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Križevci", hu: "Kőrös", ro: "Križevci", en: "Križevci",
 image: "/poi-images/croatia-krizevci-cities-v2.webp"
@@ -803,6 +835,7 @@ image: "/poi-images/croatia-krizevci-cities-v2.webp"
     image: "/poi-images/croatia-krizevci-cities-v2.webp"},
   {
     id: "croatia-knin-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Knin", hu: "Knin", ro: "Knin", en: "Knin",
 image: "/poi-images/croatia-knin-cities-v2.webp"
@@ -825,6 +858,7 @@ image: "/poi-images/croatia-knin-cities-v2.webp"
     image: "/poi-images/croatia-knin-cities-v2.webp"},
   {
     id: "croatia-valpovo-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Valpovo", hu: "Valpó", ro: "Valpovo", en: "Valpovo",
 image: "/poi-images/croatia-valpovo-cities-v2.webp"
@@ -847,6 +881,7 @@ image: "/poi-images/croatia-valpovo-cities-v2.webp"
     image: "/poi-images/croatia-valpovo-cities-v2.webp"},
   {
     id: "croatia-trogir-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Trogir", hu: "Trau", ro: "Trogir", en: "Trogir",
 image: "/poi-images/croatia-trogir-cities-v2.webp"
@@ -869,6 +904,7 @@ image: "/poi-images/croatia-trogir-cities-v2.webp"
     image: "/poi-images/croatia-trogir-cities-v2.webp"},
   {
     id: "croatia-zupanja-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Županja", hu: "Zsupanya", ro: "Županja", en: "Županja",
 image: "/poi-images/croatia-zupanja-cities-v2.webp"
@@ -891,6 +927,7 @@ image: "/poi-images/croatia-zupanja-cities-v2.webp"
     image: "/poi-images/croatia-zupanja-cities-v2.webp"},
   {
     id: "croatia-ogulin-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Ogulin", hu: "Ogulin", ro: "Ogulin", en: "Ogulin",
 image: "/poi-images/croatia-ogulin-cities-v2.webp"
@@ -913,6 +950,7 @@ image: "/poi-images/croatia-ogulin-cities-v2.webp"
     image: "/poi-images/croatia-ogulin-cities-v2.webp"},
   {
     id: "croatia-slatina-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Slatina", hu: "Szlatina", ro: "Slatina", en: "Slatina",
 image: "/poi-images/croatia-slatina-cities-v2.webp"
@@ -935,6 +973,7 @@ image: "/poi-images/croatia-slatina-cities-v2.webp"
     image: "/poi-images/croatia-slatina-cities-v2.webp"},
   {
     id: "croatia-novska-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Novska", hu: "Novska", ro: "Novska", en: "Novska",
 image: "/poi-images/croatia-novska-cities-v2.webp"
@@ -957,6 +996,7 @@ image: "/poi-images/croatia-novska-cities-v2.webp"
     image: "/poi-images/croatia-novska-cities-v2.webp"},
   {
     id: "croatia-dugo-selo-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Dugo Selo", hu: "Dugo Selo", ro: "Dugo Selo", en: "Dugo Selo",
 image: "/poi-images/croatia-dugo-selo-cities-v2.webp"
@@ -979,6 +1019,7 @@ image: "/poi-images/croatia-dugo-selo-cities-v2.webp"
     image: "/poi-images/croatia-dugo-selo-cities-v2.webp"},
   {
     id: "croatia-opatija-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Opatija", hu: "Abbázia", ro: "Opatija", en: "Opatija",
 image: "/poi-images/croatia-opatija-cities-v2.webp"
@@ -1001,6 +1042,7 @@ image: "/poi-images/croatia-opatija-cities-v2.webp"
     image: "/poi-images/croatia-opatija-cities-v2.webp"},
   {
     id: "croatia-jastrebarsko-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Jastrebarsko", hu: "Jaska", ro: "Jastrebarsko", en: "Jastrebarsko",
 image: "/poi-images/croatia-jastrebarsko-cities-v2.webp"
@@ -1023,6 +1065,7 @@ image: "/poi-images/croatia-jastrebarsko-cities-v2.webp"
     image: "/poi-images/croatia-jastrebarsko-cities-v2.webp"},
   {
     id: "croatia-pazin-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Pazin", hu: "Pazin", ro: "Pazin", en: "Pazin",
 image: "/poi-images/croatia-pazin-cities-v2.webp"
@@ -1045,6 +1088,7 @@ image: "/poi-images/croatia-pazin-cities-v2.webp"
     image: "/poi-images/croatia-pazin-cities-v2.webp"},
   {
     id: "croatia-crikvenica-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Crikvenica", hu: "Crikvenica", ro: "Crikvenica", en: "Crikvenica",
 image: "/poi-images/croatia-crikvenica-cities-v2.webp"
@@ -1067,6 +1111,7 @@ image: "/poi-images/croatia-crikvenica-cities-v2.webp"
     image: "/poi-images/croatia-crikvenica-cities-v2.webp"},
   {
     id: "croatia-vodice-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Vodice", hu: "Vodice", ro: "Vodice", en: "Vodice",
 image: "/poi-images/croatia-vodice-cities-v2.webp"
@@ -1089,6 +1134,7 @@ image: "/poi-images/croatia-vodice-cities-v2.webp"
     image: "/poi-images/croatia-vodice-cities-v2.webp"},
   {
     id: "croatia-imotski-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Imotski", hu: "Imotski", ro: "Imotski", en: "Imotski",
 image: "/poi-images/croatia-imotski-cities-v2.webp"
@@ -1111,6 +1157,7 @@ image: "/poi-images/croatia-imotski-cities-v2.webp"
     image: "/poi-images/croatia-imotski-cities-v2.webp"},
   {
     id: "croatia-daruvar-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Daruvar", hu: "Daruvár", ro: "Daruvar", en: "Daruvar",
 image: "/poi-images/croatia-daruvar-cities-v2.webp"
@@ -1133,6 +1180,7 @@ image: "/poi-images/croatia-daruvar-cities-v2.webp"
     image: "/poi-images/croatia-daruvar-cities-v2.webp"},
   {
     id: "croatia-gospic-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Gospić", hu: "Gospić", ro: "Gospić", en: "Gospić",
 image: "/poi-images/croatia-gospic-cities-v2.webp"
@@ -1155,6 +1203,7 @@ image: "/poi-images/croatia-gospic-cities-v2.webp"
     image: "/poi-images/croatia-gospic-cities-v2.webp"},
   {
     id: "croatia-biograd-na-moru-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Biograd na Moru", hu: "Tengerfehérvár", ro: "Biograd na Moru", en: "Biograd na Moru",
 image: "/poi-images/croatia-biograd-na-moru-cities-v2.webp"
@@ -1177,6 +1226,7 @@ image: "/poi-images/croatia-biograd-na-moru-cities-v2.webp"
     image: "/poi-images/croatia-biograd-na-moru-cities-v2.webp"},
   {
     id: "croatia-benkovac-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Benkovac", hu: "Benkovac", ro: "Benkovac", en: "Benkovac",
 image: "/poi-images/croatia-benkovac-cities-v2.webp"
@@ -1199,6 +1249,7 @@ image: "/poi-images/croatia-benkovac-cities-v2.webp"
     image: "/poi-images/croatia-benkovac-cities-v2.webp"},
   {
     id: "croatia-kastav-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Kastav", hu: "Kasztav", ro: "Kastav", en: "Kastav",
 image: "/poi-images/croatia-kastav-cities-v2.webp"
@@ -1221,6 +1272,7 @@ image: "/poi-images/croatia-kastav-cities-v2.webp"
     image: "/poi-images/croatia-kastav-cities-v2.webp"},
   {
     id: "croatia-ivanec-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Ivanec", hu: "Ivanec", ro: "Ivanec", en: "Ivanec",
 image: "/poi-images/croatia-ivanec-cities-v2.webp"
@@ -1243,6 +1295,7 @@ image: "/poi-images/croatia-ivanec-cities-v2.webp"
     image: "/poi-images/croatia-ivanec-cities-v2.webp"},
   {
     id: "croatia-pleternica-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Pleternica", hu: "Pleternica", ro: "Pleternica", en: "Pleternica",
 image: "/poi-images/croatia-pleternica-cities-v2.webp"
@@ -1265,6 +1318,7 @@ image: "/poi-images/croatia-pleternica-cities-v2.webp"
     image: "/poi-images/croatia-pleternica-cities-v2.webp"},
   {
     id: "croatia-mursko-sredisce-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Mursko Središće", hu: "Muraszerdahely", ro: "Mursko Središće", en: "Mursko Središće",
 image: "/poi-images/croatia-mursko-sredisce-cities-v2.webp"
@@ -1287,6 +1341,7 @@ image: "/poi-images/croatia-mursko-sredisce-cities-v2.webp"
     image: "/poi-images/croatia-mursko-sredisce-cities-v2.webp"},
   {
     id: "croatia-beli-manastir-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Beli Manastir", hu: "Pélmonostor", ro: "Beli Manastir", en: "Beli Manastir",
 image: "/poi-images/croatia-beli-manastir-cities-v2.webp"
@@ -1309,6 +1364,7 @@ image: "/poi-images/croatia-beli-manastir-cities-v2.webp"
     image: "/poi-images/croatia-beli-manastir-cities-v2.webp"},
   {
     id: "croatia-otocac-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Otočac", hu: "Otocsác", ro: "Otočac", en: "Otočac",
 image: "/poi-images/croatia-otocac-cities-v2.webp"
@@ -1331,6 +1387,7 @@ image: "/poi-images/croatia-otocac-cities-v2.webp"
     image: "/poi-images/croatia-otocac-cities-v2.webp"},
   {
     id: "croatia-senj-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Senj", hu: "Zengg", ro: "Senj", en: "Senj",
 image: "/poi-images/croatia-senj-cities-v2.webp"
@@ -1353,6 +1410,7 @@ image: "/poi-images/croatia-senj-cities-v2.webp"
     image: "/poi-images/croatia-senj-cities-v2.webp"},
   {
     id: "croatia-pucko-toplice-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Krapinske Toplice", hu: "Krapinske Toplice", ro: "Krapinske Toplice", en: "Krapinske Toplice",
 image: "/poi-images/croatia-pucko-toplice-cities-v2.webp"
@@ -1375,6 +1433,7 @@ image: "/poi-images/croatia-pucko-toplice-cities-v2.webp"
     image: "/poi-images/croatia-pucko-toplice-cities-v2.webp"},
   {
     id: "croatia-ludbreg-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Ludbreg", hu: "Ludbreg", ro: "Ludbreg", en: "Ludbreg",
 image: "/poi-images/croatia-ludbreg-cities-v2.webp"
@@ -1397,6 +1456,7 @@ image: "/poi-images/croatia-ludbreg-cities-v2.webp"
     image: "/poi-images/croatia-ludbreg-cities-v2.webp"},
   {
     id: "croatia-pula-v2-cities-v2",
+    parent: "HR",
     type: "town",
     name: { de: "Kutjevo", hu: "Kutjevo", ro: "Kutjevo", en: "Kutjevo",
 image: "/poi-images/croatia-pula-v2-cities-v2.webp"
@@ -1419,6 +1479,7 @@ image: "/poi-images/croatia-pula-v2-cities-v2.webp"
     image: "/poi-images/croatia-pula-v2-cities-v2.webp"},
   {
     id: "croatia-biograd-v2-cities-v2",
+    parent: "HR",
     type: "town",
     name: { de: "Nin", hu: "Nona", ro: "Nin", en: "Nin",
 image: "/poi-images/croatia-biograd-v2-cities-v2.webp"
@@ -1441,6 +1502,7 @@ image: "/poi-images/croatia-biograd-v2-cities-v2.webp"
     image: "/poi-images/croatia-biograd-v2-cities-v2.webp"},
   {
     id: "croatia-novi-marof-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Novi Marof", hu: "Novi Marof", ro: "Novi Marof", en: "Novi Marof",
 image: "/poi-images/croatia-novi-marof-cities-v2.webp"
@@ -1463,6 +1525,7 @@ image: "/poi-images/croatia-novi-marof-cities-v2.webp"
     image: "/poi-images/croatia-novi-marof-cities-v2.webp"},
   {
     id: "croatia-prelog-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Prelog", hu: "Perlak", ro: "Prelog", en: "Prelog",
 image: "/poi-images/croatia-prelog-cities-v2.webp"
@@ -1485,6 +1548,7 @@ image: "/poi-images/croatia-prelog-cities-v2.webp"
     image: "/poi-images/croatia-prelog-cities-v2.webp"},
   {
     id: "croatia-grubisno-polje-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Grubišno Polje", hu: "Grubišno Polje", ro: "Grubišno Polje", en: "Grubišno Polje",
 image: "/poi-images/croatia-grubisno-polje-cities-v2.webp"
@@ -1507,6 +1571,7 @@ image: "/poi-images/croatia-grubisno-polje-cities-v2.webp"
     image: "/poi-images/croatia-grubisno-polje-cities-v2.webp"},
   {
     id: "croatia-belisce-cities-v2",
+    parent: "HR",
     type: "city",
     name: { de: "Belišće", hu: "Belistye", ro: "Belišće", en: "Belišće",
 image: "/poi-images/croatia-belisce-cities-v2.webp"
@@ -1529,6 +1594,7 @@ image: "/poi-images/croatia-belisce-cities-v2.webp"
     image: "/poi-images/croatia-belisce-cities-v2.webp"},
   {
     id: "croatia-pazin-v2-cities-v2",
+    parent: "HR",
     type: "town",
     name: { de: "Buje", hu: "Buje", ro: "Buje", en: "Buje",
 image: "/poi-images/croatia-pazin-v2-cities-v2.webp"
@@ -1551,6 +1617,7 @@ image: "/poi-images/croatia-pazin-v2-cities-v2.webp"
     image: "/poi-images/croatia-pazin-v2-cities-v2.webp"},
   {
     id: "croatia-vukovar-v2-cities-v2",
+    parent: "HR",
     type: "town",
     name: { de: "Ilok", hu: "Újlak", ro: "Ilok", en: "Ilok",
 image: "/poi-images/croatia-vukovar-v2-cities-v2.webp"

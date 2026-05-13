@@ -118,6 +118,7 @@ image: "/poi-images/ar-parque-de-la-costa-life-v2.webp"
   },
   {
     id: "ar-republica-ninos-life-v2",
+    parent: "AR",
     description: "An educational theme park designed for children, built in the style of a miniature city to teach civic values.",
     facts: [
       "Theme park",

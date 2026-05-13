@@ -3,6 +3,7 @@ export const polandCitiesV2: POI[] = [
 
   {
     id: "poland-warsaw-cities-v2",
+    parent: "PL",
     type: "capital",
     name: { de: "Warschau", hu: "Varsó", ro: "Varșovia", en: "Warsaw",
 image: "/poi-images/poland-warsaw-cities-v2.webp"
@@ -36,6 +37,7 @@ image: "/poi-images/poland-warsaw-cities-v2.webp"
     }, image: "/poi-images/poland-warsaw-cities-v2.webp"},
   {
     id: "poland-krakow-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Krakau", hu: "Krakkó", ro: "Cracovia", en: "Kraków",
 image: "/poi-images/poland-krakow-cities-v2.webp"
@@ -69,6 +71,7 @@ image: "/poi-images/poland-krakow-cities-v2.webp"
     }, image: "/poi-images/poland-krakow-cities-v2.webp"},
   {
     id: "poland-lodz-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Lodz", hu: "Łódź", ro: "Łódź", en: "Łódź",
 image: "/poi-images/poland-lodz-cities-v2.webp"
@@ -102,6 +105,7 @@ image: "/poi-images/poland-lodz-cities-v2.webp"
     }, image: "/poi-images/poland-lodz-cities-v2.webp"},
   {
     id: "poland-wroclaw-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Breslau", hu: "Wrocław", ro: "Wrocław", en: "Wrocław",
 image: "/poi-images/poland-wroclaw-cities-v2.webp"
@@ -135,6 +139,7 @@ image: "/poi-images/poland-wroclaw-cities-v2.webp"
     }, image: "/poi-images/poland-wroclaw-cities-v2.webp"},
   {
     id: "poland-poznan-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Posen", hu: "Poznań", ro: "Poznań", en: "Poznań",
 image: "/poi-images/poland-poznan-cities-v2.webp"
@@ -168,6 +173,7 @@ image: "/poi-images/poland-poznan-cities-v2.webp"
     }, image: "/poi-images/poland-poznan-cities-v2.webp"},
   {
     id: "poland-gdansk-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Danzig", hu: "Gdańsk", ro: "Gdańsk", en: "Gdańsk",
 image: "/poi-images/poland-gdansk-cities-v2.webp"
@@ -201,6 +207,7 @@ image: "/poi-images/poland-gdansk-cities-v2.webp"
     }, image: "/poi-images/poland-gdansk-cities-v2.webp"},
   {
     id: "poland-szczecin-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Stettin", hu: "Szczecin", ro: "Szczecin", en: "Szczecin",
 image: "/poi-images/poland-szczecin-cities-v2.webp"
@@ -234,6 +241,7 @@ image: "/poi-images/poland-szczecin-cities-v2.webp"
     }, image: "/poi-images/poland-szczecin-cities-v2.webp"},
   {
     id: "poland-bydgoszcz-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Bromberg", hu: "Bydgoszcz", ro: "Bydgoszcz", en: "Bydgoszcz",
 image: "/poi-images/poland-bydgoszcz-cities-v2.webp"
@@ -267,6 +275,7 @@ image: "/poi-images/poland-bydgoszcz-cities-v2.webp"
     }, image: "/poi-images/poland-bydgoszcz-cities-v2.webp"},
   {
     id: "poland-lublin-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Lublin", hu: "Lublin", ro: "Lublin", en: "Lublin",
 image: "/poi-images/poland-lublin-cities-v2.webp"
@@ -300,6 +309,7 @@ image: "/poi-images/poland-lublin-cities-v2.webp"
     }, image: "/poi-images/poland-lublin-cities-v2.webp"},
   {
     id: "poland-bialystok-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Bialystok", hu: "Białystok", ro: "Bialystok", en: "Białystok",
 image: "/poi-images/poland-bialystok-cities-v2.webp"
@@ -333,6 +343,7 @@ image: "/poi-images/poland-bialystok-cities-v2.webp"
     }, image: "/poi-images/poland-bialystok-cities-v2.webp"},
   {
     id: "poland-katowice-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Kattowitz", hu: "Katowice", ro: "Katowice", en: "Katowice",
 image: "/poi-images/poland-katowice-cities-v2.webp"
@@ -366,6 +377,7 @@ image: "/poi-images/poland-katowice-cities-v2.webp"
     }, image: "/poi-images/poland-katowice-cities-v2.webp"},
   {
     id: "poland-gdynia-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Gdingen", hu: "Gdynia", ro: "Gdynia", en: "Gdynia",
 image: "/poi-images/poland-gdynia-cities-v2.webp"
@@ -399,6 +411,7 @@ image: "/poi-images/poland-gdynia-cities-v2.webp"
     }, image: "/poi-images/poland-gdynia-cities-v2.webp"},
   {
     id: "poland-czestochowa-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Tschenstochau", hu: "Częstochowa", ro: "Częstochowa", en: "Częstochowa",
 image: "/poi-images/poland-czestochowa-cities-v2.webp"
@@ -432,6 +445,7 @@ image: "/poi-images/poland-czestochowa-cities-v2.webp"
     }, image: "/poi-images/poland-czestochowa-cities-v2.webp"},
   {
     id: "poland-radom-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Radom", hu: "Radom", ro: "Radom", en: "Radom",
 image: "/poi-images/poland-radom-cities-v2.webp"
@@ -465,6 +479,7 @@ image: "/poi-images/poland-radom-cities-v2.webp"
     }, image: "/poi-images/poland-radom-cities-v2.webp"},
   {
     id: "poland-sosnowiec-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Sosnowitz", hu: "Sosnowiec", ro: "Sosnowiec", en: "Sosnowiec",
 image: "/poi-images/poland-sosnowiec-cities-v2.webp"
@@ -498,6 +513,7 @@ image: "/poi-images/poland-sosnowiec-cities-v2.webp"
     }, image: "/poi-images/poland-sosnowiec-cities-v2.webp"},
   {
     id: "poland-torun-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Thorn", hu: "Toruń", ro: "Toruń", en: "Toruń",
 image: "/poi-images/poland-torun-cities-v2.webp"
@@ -531,6 +547,7 @@ image: "/poi-images/poland-torun-cities-v2.webp"
     }, image: "/poi-images/poland-torun-cities-v2.webp"},
   {
     id: "poland-kielce-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Kielce", hu: "Kielce", ro: "Kielce", en: "Kielce",
 image: "/poi-images/poland-kielce-cities-v2.webp"
@@ -564,6 +581,7 @@ image: "/poi-images/poland-kielce-cities-v2.webp"
     }, image: "/poi-images/poland-kielce-cities-v2.webp"},
   {
     id: "poland-rzeszow-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Reichshof", hu: "Rzeszów", ro: "Rzeszów", en: "Rzeszów",
 image: "/poi-images/poland-rzeszow-cities-v2.webp"
@@ -586,6 +604,7 @@ image: "/poi-images/poland-rzeszow-cities-v2.webp"
     image: "/poi-images/poland-rzeszow-cities-v2.webp"},
   {
     id: "poland-gliwice-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Gleiwitz", hu: "Gliwice", ro: "Gliwice", en: "Gliwice",
 image: "/poi-images/poland-gliwice-cities-v2.webp"
@@ -608,6 +627,7 @@ image: "/poi-images/poland-gliwice-cities-v2.webp"
     image: "/poi-images/poland-gliwice-cities-v2.webp"},
   {
     id: "poland-zabrze-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Hindenburg", hu: "Zabrze", ro: "Zabrze", en: "Zabrze",
 image: "/poi-images/poland-zabrze-cities-v2.webp"
@@ -630,6 +650,7 @@ image: "/poi-images/poland-zabrze-cities-v2.webp"
     image: "/poi-images/poland-zabrze-cities-v2.webp"},
   {
     id: "poland-olsztyn-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Allenstein", hu: "Olsztyn", ro: "Olsztyn", en: "Olsztyn",
 image: "/poi-images/poland-olsztyn-cities-v2.webp"
@@ -652,6 +673,7 @@ image: "/poi-images/poland-olsztyn-cities-v2.webp"
     image: "/poi-images/poland-olsztyn-cities-v2.webp"},
   {
     id: "poland-bielsko-biala-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Bielitz-Biala", hu: "Bielsko-Biała", ro: "Bielsko-Biała", en: "Bielsko-Biała",
 image: "/poi-images/poland-bielsko-biala-cities-v2.webp"
@@ -674,6 +696,7 @@ image: "/poi-images/poland-bielsko-biala-cities-v2.webp"
     image: "/poi-images/poland-bielsko-biala-cities-v2.webp"},
   {
     id: "poland-bytom-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Beuthen", hu: "Bytom", ro: "Bytom", en: "Bytom",
 image: "/poi-images/poland-bytom-cities-v2.webp"
@@ -696,6 +719,7 @@ image: "/poi-images/poland-bytom-cities-v2.webp"
     image: "/poi-images/poland-bytom-cities-v2.webp"},
   {
     id: "poland-zielona-gora-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Grünberg", hu: "Zielona Góra", ro: "Zielona Góra", en: "Zielona Góra",
 image: "/poi-images/poland-zielona-gora-cities-v2.webp"
@@ -718,6 +742,7 @@ image: "/poi-images/poland-zielona-gora-cities-v2.webp"
     image: "/poi-images/poland-zielona-gora-cities-v2.webp"},
   {
     id: "poland-rybnik-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Rybnik", hu: "Rybnik", ro: "Rybnik", en: "Rybnik",
 image: "/poi-images/poland-rybnik-cities-v2.webp"
@@ -740,6 +765,7 @@ image: "/poi-images/poland-rybnik-cities-v2.webp"
     image: "/poi-images/poland-rybnik-cities-v2.webp"},
   {
     id: "poland-ruda-slaska-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Ruda Slaska", hu: "Ruda Śląska", ro: "Ruda Śląska", en: "Ruda Śląska",
 image: "/poi-images/poland-ruda-slaska-cities-v2.webp"
@@ -762,6 +788,7 @@ image: "/poi-images/poland-ruda-slaska-cities-v2.webp"
     image: "/poi-images/poland-ruda-slaska-cities-v2.webp"},
   {
     id: "poland-opole-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Oppeln", hu: "Opole", ro: "Opole", en: "Opole",
 image: "/poi-images/poland-opole-cities-v2.webp"
@@ -784,6 +811,7 @@ image: "/poi-images/poland-opole-cities-v2.webp"
     image: "/poi-images/poland-opole-cities-v2.webp"},
   {
     id: "poland-tychy-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Tychy", hu: "Tychy", ro: "Tychy", en: "Tychy",
 image: "/poi-images/poland-tychy-cities-v2.webp"
@@ -806,6 +834,7 @@ image: "/poi-images/poland-tychy-cities-v2.webp"
     image: "/poi-images/poland-tychy-cities-v2.webp"},
   {
     id: "poland-gorzow-wielkopolski-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Landsberg an der Warthe", hu: "Gorzów Wielkopolski", ro: "Gorzów Wielkopolski", en: "Gorzów Wielkopolski",
 image: "/poi-images/poland-gorzow-wielkopolski-cities-v2.webp"
@@ -828,6 +857,7 @@ image: "/poi-images/poland-gorzow-wielkopolski-cities-v2.webp"
     image: "/poi-images/poland-gorzow-wielkopolski-cities-v2.webp"},
   {
     id: "poland-elblag-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Elbing", hu: "Elbląg", ro: "Elbląg", en: "Elbląg",
 image: "/poi-images/poland-elblag-cities-v2.webp"
@@ -850,6 +880,7 @@ image: "/poi-images/poland-elblag-cities-v2.webp"
     image: "/poi-images/poland-elblag-cities-v2.webp"},
   {
     id: "poland-plock-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Plotzk", hu: "Płock", ro: "Płock", en: "Płock",
 image: "/poi-images/poland-plock-cities-v2.webp"
@@ -872,6 +903,7 @@ image: "/poi-images/poland-plock-cities-v2.webp"
     image: "/poi-images/poland-plock-cities-v2.webp"},
   {
     id: "poland-dabrowa-gornicza-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Dabrowa Gornicza", hu: "Dąbrowa Górnicza", ro: "Dąbrowa Górnicza", en: "Dąbrowa Górnicza",
 image: "/poi-images/poland-dabrowa-gornicza-cities-v2.webp"
@@ -894,6 +926,7 @@ image: "/poi-images/poland-dabrowa-gornicza-cities-v2.webp"
     image: "/poi-images/poland-dabrowa-gornicza-cities-v2.webp"},
   {
     id: "poland-walbrzych-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Waldenburg", hu: "Wałbrzych", ro: "Wałbrzych", en: "Wałbrzych",
 image: "/poi-images/poland-walbrzych-cities-v2.webp"
@@ -916,6 +949,7 @@ image: "/poi-images/poland-walbrzych-cities-v2.webp"
     image: "/poi-images/poland-walbrzych-cities-v2.webp"},
   {
     id: "poland-wloclawek-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Leslau", hu: "Włocławek", ro: "Włocławek", en: "Włocławek",
 image: "/poi-images/poland-wloclawek-cities-v2.webp"
@@ -938,6 +972,7 @@ image: "/poi-images/poland-wloclawek-cities-v2.webp"
     image: "/poi-images/poland-wloclawek-cities-v2.webp"},
   {
     id: "poland-tarnow-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Tarnau", hu: "Tarnów", ro: "Tarnów", en: "Tarnów",
 image: "/poi-images/poland-tarnow-cities-v2.webp"
@@ -960,6 +995,7 @@ image: "/poi-images/poland-tarnow-cities-v2.webp"
     image: "/poi-images/poland-tarnow-cities-v2.webp"},
   {
     id: "poland-chorzow-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Königshütte", hu: "Chorzów", ro: "Chorzów", en: "Chorzów",
 image: "/poi-images/poland-chorzow-cities-v2.webp"
@@ -982,6 +1018,7 @@ image: "/poi-images/poland-chorzow-cities-v2.webp"
     image: "/poi-images/poland-chorzow-cities-v2.webp"},
   {
     id: "poland-koszalin-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Köslin", hu: "Koszalin", ro: "Koszalin", en: "Koszalin",
 image: "/poi-images/poland-koszalin-cities-v2.webp"
@@ -1004,6 +1041,7 @@ image: "/poi-images/poland-koszalin-cities-v2.webp"
     image: "/poi-images/poland-koszalin-cities-v2.webp"},
   {
     id: "poland-kalisz-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Kalisch", hu: "Kalisz", ro: "Kalisz", en: "Kalisz",
 image: "/poi-images/poland-kalisz-cities-v2.webp"
@@ -1026,6 +1064,7 @@ image: "/poi-images/poland-kalisz-cities-v2.webp"
     image: "/poi-images/poland-kalisz-cities-v2.webp"},
   {
     id: "poland-legnica-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Liegnitz", hu: "Legnica", ro: "Legnica", en: "Legnica",
 image: "/poi-images/poland-legnica-cities-v2.webp"
@@ -1048,6 +1087,7 @@ image: "/poi-images/poland-legnica-cities-v2.webp"
     image: "/poi-images/poland-legnica-cities-v2.webp"},
   {
     id: "poland-grudziadz-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Graudenz", hu: "Grudziądz", ro: "Grudziądz", en: "Grudziądz",
 image: "/poi-images/poland-grudziadz-cities-v2.webp"
@@ -1070,6 +1110,7 @@ image: "/poi-images/poland-grudziadz-cities-v2.webp"
     image: "/poi-images/poland-grudziadz-cities-v2.webp"},
   {
     id: "poland-jaworzno-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Jaworzno", hu: "Jaworzno", ro: "Jaworzno", en: "Jaworzno",
 image: "/poi-images/poland-jaworzno-cities-v2.webp"
@@ -1092,6 +1133,7 @@ image: "/poi-images/poland-jaworzno-cities-v2.webp"
     image: "/poi-images/poland-jaworzno-cities-v2.webp"},
   {
     id: "poland-slupsk-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Stolp", hu: "Słupsk", ro: "Słupsk", en: "Słupsk",
 image: "/poi-images/poland-slupsk-cities-v2.webp"
@@ -1114,6 +1156,7 @@ image: "/poi-images/poland-slupsk-cities-v2.webp"
     image: "/poi-images/poland-slupsk-cities-v2.webp"},
   {
     id: "poland-jastrzebie-zdroj-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Jastrzebie-Zdroj", hu: "Jastrzębie-Zdrój", ro: "Jastrzębie-Zdrój", en: "Jastrzębie-Zdrój",
 image: "/poi-images/poland-jastrzebie-zdroj-cities-v2.webp"
@@ -1136,6 +1179,7 @@ image: "/poi-images/poland-jastrzebie-zdroj-cities-v2.webp"
     image: "/poi-images/poland-jastrzebie-zdroj-cities-v2.webp"},
   {
     id: "poland-nowy-sacz-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Neu Sandez", hu: "Nowy Sącz", ro: "Nowy Sącz", en: "Nowy Sącz",
 image: "/poi-images/poland-nowy-sacz-cities-v2.webp"
@@ -1158,6 +1202,7 @@ image: "/poi-images/poland-nowy-sacz-cities-v2.webp"
     image: "/poi-images/poland-nowy-sacz-cities-v2.webp"},
   {
     id: "poland-siedlce-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Siedlce", hu: "Siedlce", ro: "Siedlce", en: "Siedlce",
 image: "/poi-images/poland-siedlce-cities-v2.webp"
@@ -1180,6 +1225,7 @@ image: "/poi-images/poland-siedlce-cities-v2.webp"
     image: "/poi-images/poland-siedlce-cities-v2.webp"},
   {
     id: "poland-myslowice-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Myslowitz", hu: "Mysłowice", ro: "Mysłowice", en: "Mysłowice",
 image: "/poi-images/poland-myslowice-cities-v2.webp"
@@ -1202,6 +1248,7 @@ image: "/poi-images/poland-myslowice-cities-v2.webp"
     image: "/poi-images/poland-myslowice-cities-v2.webp"},
   {
     id: "poland-konin-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Konin", hu: "Konin", ro: "Konin", en: "Konin",
 image: "/poi-images/poland-konin-cities-v2.webp"
@@ -1224,6 +1271,7 @@ image: "/poi-images/poland-konin-cities-v2.webp"
     image: "/poi-images/poland-konin-cities-v2.webp"},
   {
     id: "poland-pila-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Schneidemühl", hu: "Piła", ro: "Piła", en: "Piła",
 image: "/poi-images/poland-pila-cities-v2.webp"
@@ -1246,6 +1294,7 @@ image: "/poi-images/poland-pila-cities-v2.webp"
     image: "/poi-images/poland-pila-cities-v2.webp"},
   {
     id: "poland-piotrkow-trybunalski-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Petrikau", hu: "Piotrków Trybunalski", ro: "Piotrków Trybunalski", en: "Piotrków Trybunalski",
 image: "/poi-images/poland-piotrkow-trybunalski-cities-v2.webp"
@@ -1268,6 +1317,7 @@ image: "/poi-images/poland-piotrkow-trybunalski-cities-v2.webp"
     image: "/poi-images/poland-piotrkow-trybunalski-cities-v2.webp"},
   {
     id: "poland-inowroclaw-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Hohensalza", hu: "Inowrocław", ro: "Inowrocław", en: "Inowrocław",
 image: "/poi-images/poland-inowroclaw-cities-v2.webp"
@@ -1290,6 +1340,7 @@ image: "/poi-images/poland-inowroclaw-cities-v2.webp"
     image: "/poi-images/poland-inowroclaw-cities-v2.webp"},
   {
     id: "poland-lubin-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Lüben", hu: "Lubin", ro: "Lubin", en: "Lubin",
 image: "/poi-images/poland-lubin-cities-v2.webp"
@@ -1312,6 +1363,7 @@ image: "/poi-images/poland-lubin-cities-v2.webp"
     image: "/poi-images/poland-lubin-cities-v2.webp"},
   {
     id: "poland-ostrow-wielkopolski-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Ostrowo", hu: "Ostrów Wielkopolski", ro: "Ostrów Wielkopolski", en: "Ostrów Wielkopolski",
 image: "/poi-images/poland-ostrow-wielkopolski-cities-v2.webp"
@@ -1334,6 +1386,7 @@ image: "/poi-images/poland-ostrow-wielkopolski-cities-v2.webp"
     image: "/poi-images/poland-ostrow-wielkopolski-cities-v2.webp"},
   {
     id: "poland-suwalki-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Suwalki", hu: "Suwałki", ro: "Suwałki", en: "Suwałki",
 image: "/poi-images/poland-suwalki-cities-v2.webp"
@@ -1356,6 +1409,7 @@ image: "/poi-images/poland-suwalki-cities-v2.webp"
     image: "/poi-images/poland-suwalki-cities-v2.webp"},
   {
     id: "poland-stargard-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Stargard in Pommern", hu: "Stargard", ro: "Stargard", en: "Stargard",
 image: "/poi-images/poland-stargard-cities-v2.webp"
@@ -1378,6 +1432,7 @@ image: "/poi-images/poland-stargard-cities-v2.webp"
     image: "/poi-images/poland-stargard-cities-v2.webp"},
   {
     id: "poland-gniezno-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Gnesen", hu: "Gniezno", ro: "Gniezno", en: "Gniezno",
 image: "/poi-images/poland-gniezno-cities-v2.webp"
@@ -1400,6 +1455,7 @@ image: "/poi-images/poland-gniezno-cities-v2.webp"
     image: "/poi-images/poland-gniezno-cities-v2.webp"},
   {
     id: "poland-ostrowiec-swietokrzyski-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Ostrowiec Swietokrzyski", hu: "Ostrowiec Świętokrzyski", ro: "Ostrowiec Świętokrzyski", en: "Ostrowiec Świętokrzyski",
 image: "/poi-images/poland-ostrowiec-swietokrzyski-cities-v2.webp"
@@ -1422,6 +1478,7 @@ image: "/poi-images/poland-ostrowiec-swietokrzyski-cities-v2.webp"
     image: "/poi-images/poland-ostrowiec-swietokrzyski-cities-v2.webp"},
   {
     id: "poland-siemianowice-slaskie-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Laurahütte", hu: "Siemianowice Śląskie", ro: "Siemianowice Śląskie", en: "Siemianowice Śląskie",
 image: "/poi-images/poland-siemianowice-slaskie-cities-v2.webp"
@@ -1444,6 +1501,7 @@ image: "/poi-images/poland-siemianowice-slaskie-cities-v2.webp"
     image: "/poi-images/poland-siemianowice-slaskie-cities-v2.webp"},
   {
     id: "poland-glogow-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Glogau", hu: "Głogów", ro: "Głogów", en: "Głogów",
 image: "/poi-images/poland-glogow-cities-v2.webp"
@@ -1466,6 +1524,7 @@ image: "/poi-images/poland-glogow-cities-v2.webp"
     image: "/poi-images/poland-glogow-cities-v2.webp"},
   {
     id: "poland-pabianice-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Pabianice", hu: "Pabianice", ro: "Pabianice", en: "Pabianice",
 image: "/poi-images/poland-pabianice-cities-v2.webp"
@@ -1488,6 +1547,7 @@ image: "/poi-images/poland-pabianice-cities-v2.webp"
     image: "/poi-images/poland-pabianice-cities-v2.webp"},
   {
     id: "poland-zamosc-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Zamosch", hu: "Zamość", ro: "Zamość", en: "Zamość",
 image: "/poi-images/poland-zamosc-cities-v2.webp"
@@ -1510,6 +1570,7 @@ image: "/poi-images/poland-zamosc-cities-v2.webp"
     image: "/poi-images/poland-zamosc-cities-v2.webp"},
   {
     id: "poland-lomza-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Lomscha", hu: "Łomża", ro: "Łomża", en: "Łomża",
 image: "/poi-images/poland-lomza-cities-v2.webp"
@@ -1532,6 +1593,7 @@ image: "/poi-images/poland-lomza-cities-v2.webp"
     image: "/poi-images/poland-lomza-cities-v2.webp"},
   {
     id: "poland-chelm-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Chelm", hu: "Chełm", ro: "Chełm", en: "Chełm",
 image: "/poi-images/poland-chelm-cities-v2.webp"
@@ -1554,6 +1616,7 @@ image: "/poi-images/poland-chelm-cities-v2.webp"
     image: "/poi-images/poland-chelm-cities-v2.webp"},
   {
     id: "poland-tomaszow-mazowiecki-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Tomaschow-Masowien", hu: "Tomaszów Mazowiecki", ro: "Tomaszów Mazowiecki", en: "Tomaszów Mazowiecki",
 image: "/poi-images/poland-tomaszow-mazowiecki-cities-v2.webp"
@@ -1576,6 +1639,7 @@ image: "/poi-images/poland-tomaszow-mazowiecki-cities-v2.webp"
     image: "/poi-images/poland-tomaszow-mazowiecki-cities-v2.webp"},
   {
     id: "poland-stalowa-wola-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Stahlwille", hu: "Stalowa Wola", ro: "Stalowa Wola", en: "Stalowa Wola",
 image: "/poi-images/poland-stalowa-wola-cities-v2.webp"
@@ -1598,6 +1662,7 @@ image: "/poi-images/poland-stalowa-wola-cities-v2.webp"
     image: "/poi-images/poland-stalowa-wola-cities-v2.webp"},
   {
     id: "poland-przemysl-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Przemysl", hu: "Przemyśl", ro: "Przemyśl", en: "Przemyśl",
 image: "/poi-images/poland-przemysl-cities-v2.webp"
@@ -1620,6 +1685,7 @@ image: "/poi-images/poland-przemysl-cities-v2.webp"
     image: "/poi-images/poland-przemysl-cities-v2.webp"},
   {
     id: "poland-kedzierzyn-kozle-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Kandrzin-Cosel", hu: "Kędzierzyn-Koźle", ro: "Kędzierzyn-Koźle", en: "Kędzierzyn-Koźle",
 image: "/poi-images/poland-kedzierzyn-kozle-cities-v2.webp"
@@ -1642,6 +1708,7 @@ image: "/poi-images/poland-kedzierzyn-kozle-cities-v2.webp"
     image: "/poi-images/poland-kedzierzyn-kozle-cities-v2.webp"},
   {
     id: "poland-mielec-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Mielec", hu: "Mielec", ro: "Mielec", en: "Mielec",
 image: "/poi-images/poland-mielec-cities-v2.webp"
@@ -1664,6 +1731,7 @@ image: "/poi-images/poland-mielec-cities-v2.webp"
     image: "/poi-images/poland-mielec-cities-v2.webp"},
   {
     id: "poland-tczew-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Dirschau", hu: "Tczew", ro: "Tczew", en: "Tczew",
 image: "/poi-images/poland-tczew-cities-v2.webp"
@@ -1686,6 +1754,7 @@ image: "/poi-images/poland-tczew-cities-v2.webp"
     image: "/poi-images/poland-tczew-cities-v2.webp"},
   {
     id: "poland-belchatow-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Belchatow", hu: "Bełchatów", ro: "Bełchatów", en: "Bełchatów",
 image: "/poi-images/poland-belchatow-cities-v2.webp"
@@ -1708,6 +1777,7 @@ image: "/poi-images/poland-belchatow-cities-v2.webp"
     image: "/poi-images/poland-belchatow-cities-v2.webp"},
   {
     id: "poland-swidnica-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Schweidnitz", hu: "Świdnica", ro: "Świdnica", en: "Świdnica",
 image: "/poi-images/poland-swidnica-cities-v2.webp"
@@ -1730,6 +1800,7 @@ image: "/poi-images/poland-swidnica-cities-v2.webp"
     image: "/poi-images/poland-swidnica-cities-v2.webp"},
   {
     id: "poland-bedzin-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Bendzin", hu: "Będzin", ro: "Będzin", en: "Będzin",
 image: "/poi-images/poland-bedzin-cities-v2.webp"
@@ -1752,6 +1823,7 @@ image: "/poi-images/poland-bedzin-cities-v2.webp"
     image: "/poi-images/poland-bedzin-cities-v2.webp"},
   {
     id: "poland-zgierz-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Gieresch", hu: "Zgierz", ro: "Zgierz", en: "Zgierz",
 image: "/poi-images/poland-zgierz-cities-v2.webp"
@@ -1774,6 +1846,7 @@ image: "/poi-images/poland-zgierz-cities-v2.webp"
   },
   {
     id: "poland-piekary-slaskie-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Deutsch Piekar", hu: "Piekary Śląskie", ro: "Piekary Śląskie", en: "Piekary Śląskie",
 image: "/poi-images/poland-piekary-slaskie-cities-v2.webp"
@@ -1796,6 +1869,7 @@ image: "/poi-images/poland-piekary-slaskie-cities-v2.webp"
     image: "/poi-images/poland-piekary-slaskie-cities-v2.webp"},
   {
     id: "poland-raciborz-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Ratibor", hu: "Racibórz", ro: "Racibórz", en: "Racibórz",
 image: "/poi-images/poland-raciborz-cities-v2.webp"
@@ -1818,6 +1892,7 @@ image: "/poi-images/poland-raciborz-cities-v2.webp"
     image: "/poi-images/poland-raciborz-cities-v2.webp"},
   {
     id: "poland-legionowo-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Legionowo", hu: "Legionowo", ro: "Legionowo", en: "Legionowo",
 image: "/poi-images/poland-legionowo-cities-v2.webp"
@@ -1840,6 +1915,7 @@ image: "/poi-images/poland-legionowo-cities-v2.webp"
     image: "/poi-images/poland-legionowo-cities-v2.webp"},
   {
     id: "poland-zory-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Sohrau", hu: "Żory", ro: "Żory", en: "Żory",
 image: "/poi-images/poland-zory-cities-v2.webp"
@@ -1862,6 +1938,7 @@ image: "/poi-images/poland-zory-cities-v2.webp"
     image: "/poi-images/poland-zory-cities-v2.webp"},
   {
     id: "poland-tarnowskie-gory-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Tarnowitz", hu: "Tarnowskie Góry", ro: "Tarnowskie Góry", en: "Tarnowskie Góry",
 image: "/poi-images/poland-tarnowskie-gory-cities-v2.webp"
@@ -1884,6 +1961,7 @@ image: "/poi-images/poland-tarnowskie-gory-cities-v2.webp"
     image: "/poi-images/poland-tarnowskie-gory-cities-v2.webp"},
   {
     id: "poland-pruszkow-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Pruschkow", hu: "Pruszków", ro: "Pruszków", en: "Pruszków",
 image: "/poi-images/poland-pruszkow-cities-v2.webp"
@@ -1906,6 +1984,7 @@ image: "/poi-images/poland-pruszkow-cities-v2.webp"
     image: "/poi-images/poland-pruszkow-cities-v2.webp"},
   {
     id: "poland-ostroleka-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Ostrolenka", hu: "Ostrołęka", ro: "Ostrołęka", en: "Ostrołęka",
 image: "/poi-images/poland-ostroleka-cities-v2.webp"
@@ -1928,6 +2007,7 @@ image: "/poi-images/poland-ostroleka-cities-v2.webp"
     image: "/poi-images/poland-ostroleka-cities-v2.webp"},
   {
     id: "poland-nowy-targ-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Neumarkt", hu: "Nowy Targ", ro: "Nowy Targ", en: "Nowy Targ",
 image: "/poi-images/poland-nowy-targ-cities-v2.webp"
@@ -1950,6 +2030,7 @@ image: "/poi-images/poland-nowy-targ-cities-v2.webp"
     image: "/poi-images/poland-nowy-targ-cities-v2.webp"},
   {
     id: "poland-zywiec-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Saybusch", hu: "Żywiec", ro: "Żywiec", en: "Żywiec",
 image: "/poi-images/poland-zywiec-cities-v2.webp"
@@ -1972,6 +2053,7 @@ image: "/poi-images/poland-zywiec-cities-v2.webp"
     image: "/poi-images/poland-zywiec-cities-v2.webp"},
   {
     id: "poland-ketrzyn-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Rastenburg", hu: "Kętrzyn", ro: "Kętrzyn", en: "Kętrzyn",
 image: "/poi-images/poland-ketrzyn-cities-v2.webp"
@@ -1994,6 +2076,7 @@ image: "/poi-images/poland-ketrzyn-cities-v2.webp"
     image: "/poi-images/poland-ketrzyn-cities-v2.webp"},
   {
     id: "poland-cieszyn-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Teschen", hu: "Cieszyn", ro: "Cieszyn", en: "Cieszyn",
 image: "/poi-images/poland-cieszyn-cities-v2.webp"
@@ -2016,6 +2099,7 @@ image: "/poi-images/poland-cieszyn-cities-v2.webp"
     image: "/poi-images/poland-cieszyn-cities-v2.webp"},
   {
     id: "poland-bochnia-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Salzberg", hu: "Bochnia", ro: "Bochnia", en: "Bochnia",
 image: "/poi-images/poland-bochnia-cities-v2.webp"
@@ -2038,6 +2122,7 @@ image: "/poi-images/poland-bochnia-cities-v2.webp"
     image: "/poi-images/poland-bochnia-cities-v2.webp"},
   {
     id: "poland-oswiecim-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Auschwitz", hu: "Oświęcim", ro: "Oświęcim", en: "Oświęcim",
 image: "/poi-images/poland-oswiecim-cities-v2.webp"
@@ -2060,6 +2145,7 @@ image: "/poi-images/poland-oswiecim-cities-v2.webp"
     image: "/poi-images/poland-oswiecim-cities-v2.webp"},
   {
     id: "poland-augustow-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Augustow", hu: "Augustów", ro: "Augustów", en: "Augustów",
 image: "/poi-images/poland-augustow-cities-v2.webp"
@@ -2082,6 +2168,7 @@ image: "/poi-images/poland-augustow-cities-v2.webp"
     image: "/poi-images/poland-augustow-cities-v2.webp"},
   {
     id: "poland-kwidzyn-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Marienwerder", hu: "Kwidzyn", ro: "Kwidzyn", en: "Kwidzyn",
 image: "/poi-images/poland-kwidzyn-cities-v2.webp"
@@ -2104,6 +2191,7 @@ image: "/poi-images/poland-kwidzyn-cities-v2.webp"
     image: "/poi-images/poland-kwidzyn-cities-v2.webp"},
   {
     id: "poland-boleslawiec-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Bunzlau", hu: "Bolesławiec", ro: "Bolesławiec", en: "Bolesławiec",
 image: "/poi-images/poland-boleslawiec-cities-v2.webp"
@@ -2126,6 +2214,7 @@ image: "/poi-images/poland-boleslawiec-cities-v2.webp"
     image: "/poi-images/poland-boleslawiec-cities-v2.webp"},
   {
     id: "poland-malbork-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Marienburg", hu: "Malbork", ro: "Malbork", en: "Malbork",
 image: "/poi-images/poland-malbork-cities-v2.webp"
@@ -2148,6 +2237,7 @@ image: "/poi-images/poland-malbork-cities-v2.webp"
     image: "/poi-images/poland-malbork-cities-v2.webp"},
   {
     id: "poland-krosno-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Krossen", hu: "Krosno", ro: "Krosno", en: "Krosno",
 image: "/poi-images/poland-krosno-cities-v2.webp"
@@ -2170,6 +2260,7 @@ image: "/poi-images/poland-krosno-cities-v2.webp"
     image: "/poi-images/poland-krosno-cities-v2.webp"},
   {
     id: "poland-nysa-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Neisse", hu: "Nysa", ro: "Nysa", en: "Nysa",
 image: "/poi-images/poland-nysa-cities-v2.webp"
@@ -2192,6 +2283,7 @@ image: "/poi-images/poland-nysa-cities-v2.webp"
     image: "/poi-images/poland-nysa-cities-v2.webp"},
   {
     id: "poland-zakopane-cities-v2",
+    parent: "PL",
     type: "city",
     name: { de: "Zakopane", hu: "Zakopane", ro: "Zakopane", en: "Zakopane",
 image: "/poi-images/poland-zakopane-cities-v2.webp"

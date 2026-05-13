@@ -4,6 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraBoliviaHistoryV2: POI[] = [
   {
     id: "bo-tiwanaku-history-v2",
+    parent: "BO",
     description: {
       de: "Tiwanaku war das spirituelle und politische Zentrum einer bedeutenden präkolumbianischen Zivilisation in den Anden.",
       hu: "Az egyik legfontosabb pre-inka régészeti lelőhely, amely több mint ezer évvel ezelőtt virágzott.",
@@ -40,6 +41,7 @@ image: "/poi-images/bo-tiwanaku-history-v2.webp"
     }, image: "/poi-images/bo-tiwanaku-history-v2.webp"},
   {
     id: "bo-puma-punku-history-v2",
+    parent: "BO",
     description: {
       de: "Puma Punku ist ein Teil des Tiwanaku-Komplexes und berühmt für seine präzise bearbeiteten, massiven Steinblöcke.",
       hu: "A Tiwanaku-komplexum része, amely lenyűgöző kőfaragási technikájáról híres.",
@@ -76,6 +78,7 @@ image: "/poi-images/bo-puma-punku-history-v2.webp"
     }, image: "/poi-images/bo-puma-punku-history-v2.webp"},
   {
     id: "bo-akapana-history-v2",
+    parent: "BO",
     description: {
       de: "Die Akapana-Pyramide ist eines der größten Bauwerke in Tiwanaku und diente vermutlich als ritueller Ort.",
       hu: "Egy nagy mesterséges piramis, amely vallási központként szolgált Tiwanakuban.",
@@ -112,6 +115,7 @@ image: "/poi-images/bo-akapana-history-v2.webp"
     }, image: "/poi-images/bo-akapana-history-v2.webp"},
   {
     id: "bo-puerta-del-sol-history-v2",
+    parent: "BO",
     description: {
       de: "Das Sonnentor ist ein monolithisches Portal in Tiwanaku, verziert mit komplexen ikonographischen Reliefs.",
       hu: "A híres Napkapu, egy monolitikus kőkapu, amely a tiwanakui kultúra ikonikus szimbóluma.",
@@ -148,6 +152,7 @@ image: "/poi-images/bo-puerta-del-sol-history-v2.webp"
     }, image: "/poi-images/bo-puerta-del-sol-history-v2.webp"},
   {
     id: "bo-kalasasaya-history-v2",
+    parent: "BO",
     description: {
       de: "Kalasasaya ist ein großer, rechteckiger Tempelhof in Tiwanaku, der für astronomische Beobachtungen genutzt wurde.",
       hu: "A Tiwanaku-komplexum egyik legnagyobb, szertartási célokra használt központi udvara.",

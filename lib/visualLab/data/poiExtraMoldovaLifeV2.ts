@@ -3,6 +3,7 @@ export const moldovaLifeV2: POI[] = [
 
   {
     id: "moldova-codru-reserve-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Naturreservat Codru", hu: "Codru Természetvédelmi Terület", ro: "Rezervația Științifică Codru", en: "Codru Scientific Reserve",
 image: "/poi-images/moldova-codru-reserve-life-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/moldova-codru-reserve-life-v2.webp"
   },
   {
     id: "moldova-padurea-domneasca-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Fürstlicher Wald", hu: "Királyi Erdő", ro: "Pădurea Domnească", en: "Royal Forest",
 image: "/poi-images/moldova-padurea-domneasca-life-v2.webp"
@@ -72,6 +74,7 @@ image: "/poi-images/moldova-padurea-domneasca-life-v2.webp"
   },
   {
     id: "moldova-plaiul-fagului-life-v2",
+    parent: "MD",
     type: "forest",
     name: { de: "Buchenland Reservat", hu: "Bükkös-vidék Rezervátum", ro: "Rezervația Plaiul Fagului", en: "Plaiul Fagului Reserve",
 image: "/poi-images/moldova-plaiul-fagului-life-v2.webp"
@@ -107,6 +110,7 @@ image: "/poi-images/moldova-plaiul-fagului-life-v2.webp"
   },
   {
     id: "moldova-prutul-de-jos-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Unterer Pruth Reservat", hu: "Alsó-Prut Rezervátum", ro: "Rezervația Prutul de Jos", en: "Lower Prut Reserve",
 image: "/poi-images/moldova-prutul-de-jos-life-v2.webp"
@@ -142,6 +146,7 @@ image: "/poi-images/moldova-prutul-de-jos-life-v2.webp"
   },
   {
     id: "moldova-iagorlic-reserve-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Wissenschaftliches Reservat Iagorlic", hu: "Iagorlîc Tudományos Rezervátum", ro: "Rezervația Științifică Iagorlîc", en: "Iagorlic Scientific Reserve",
 image: "/poi-images/moldova-iagorlic-reserve-life-v2.webp"
@@ -177,6 +182,7 @@ image: "/poi-images/moldova-iagorlic-reserve-life-v2.webp"
   },
   {
     id: "moldova-chisinau-botanical-garden-life-v2",
+    parent: "MD",
     type: "park",
     name: { de: "Botanischer Garten Chișinău", hu: "Kisinyovi Botanikus Kert", ro: "Grădina Botanică din Chișinău", en: "Chișinău Botanical Garden",
 image: "/poi-images/moldova-chisinau-botanical-garden-life-v2.webp"
@@ -212,6 +218,7 @@ image: "/poi-images/moldova-chisinau-botanical-garden-life-v2.webp"
   },
   {
     id: "moldova-chisinau-zoo-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Zoo Chișinău", hu: "Kisinyovi Állatkert", ro: "Grădina Zoologică din Chișinău", en: "Chișinău Zoo",
 image: "/poi-images/moldova-chisinau-zoo-life-v2.webp"
@@ -247,6 +254,7 @@ image: "/poi-images/moldova-chisinau-zoo-life-v2.webp"
   },
   {
     id: "moldova-taul-park-life-v2",
+    parent: "MD",
     type: "park",
     name: { de: "Park von Țaul", hu: "Țaul-park", ro: "Parcul Țaul", en: "Taul Park",
 image: "/poi-images/moldova-taul-park-life-v2.webp"
@@ -282,6 +290,7 @@ image: "/poi-images/moldova-taul-park-life-v2.webp"
   },
   {
     id: "moldova-saharna-reserve-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Landschaftsreservat Saharna", hu: "Saharna Tájvédelmi Körzet", ro: "Rezervația peisajistică Saharna", en: "Saharna Landscape Reserve",
 image: "/poi-images/moldova-saharna-reserve-life-v2.webp"
@@ -317,6 +326,7 @@ image: "/poi-images/moldova-saharna-reserve-life-v2.webp"
   },
   {
     id: "moldova-tipova-reserve-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Landschaftsreservat Țîpova", hu: "Țîpova Tájvédelmi Körzet", ro: "Rezervația peisajistică Țîpova", en: "Tipova Landscape Reserve",
 image: "/poi-images/moldova-tipova-reserve-life-v2.webp"
@@ -352,6 +362,7 @@ image: "/poi-images/moldova-tipova-reserve-life-v2.webp"
   },
   {
     id: "moldova-naslavcea-clisura-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Naslavcea-Bogen", hu: "Naslavcea-szoros", ro: "Clisura Naslavcea", en: "Naslavcea Gorges",
 image: "/poi-images/moldova-naslavcea-clisura-life-v2.webp"
@@ -387,6 +398,7 @@ image: "/poi-images/moldova-naslavcea-clisura-life-v2.webp"
   },
   {
     id: "moldova-hundred-mounds-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Hundert Hügel", hu: "Száz halom", ro: "Suta de Movile", en: "Hundred Mounds",
 image: "/poi-images/moldova-hundred-mounds-life-v2.webp"
@@ -422,6 +434,7 @@ image: "/poi-images/moldova-hundred-mounds-life-v2.webp"
   },
   {
     id: "moldova-beleu-lake-life-v2",
+    parent: "MD",
     type: "lake",
     name: { de: "Beleu-See", hu: "Beleu-tó", ro: "Lacul Beleu", en: "Beleu Lake",
 image: "/poi-images/moldova-beleu-lake-life-v2.webp"
@@ -457,6 +470,7 @@ image: "/poi-images/moldova-beleu-lake-life-v2.webp"
   },
   {
     id: "moldova-manta-lake-life-v2",
+    parent: "MD",
     type: "lake",
     name: { de: "Manta-See", hu: "Manta-tó", ro: "Lacul Manta", en: "Manta Lake",
 image: "/poi-images/moldova-manta-lake-life-v2.webp"
@@ -492,6 +506,7 @@ image: "/poi-images/moldova-manta-lake-life-v2.webp"
   },
   {
     id: "moldova-fetesti-reserve-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Reservat Fetești", hu: "Fetești Tájvédelmi Körzet", ro: "Rezervația peisajistică Fetești", en: "Fetesti Landscape Reserve",
 image: "/poi-images/moldova-fetesti-reserve-life-v2.webp"
@@ -527,6 +542,7 @@ image: "/poi-images/moldova-fetesti-reserve-life-v2.webp"
   },
   {
     id: "moldova-la-castel-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Landschaftsreservat La Castel", hu: "La Castel Tájvédelmi Körzet", ro: "Rezervația peisajistică La Castel", en: "La Castel Landscape Reserve",
 image: "/poi-images/moldova-la-castel-life-v2.webp"
@@ -561,6 +577,7 @@ image: "/poi-images/moldova-la-castel-life-v2.webp"
   },
   {
     id: "moldova-rudi-arionesti-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Rudi-Arionești Reservat", hu: "Rudi-Arionești Tájvédelmi Körzet", ro: "Rezervația Rudi-Arionești", en: "Rudi-Arionesti Reserve",
 image: "/poi-images/moldova-rudi-arionesti-life-v2.webp"
@@ -595,6 +612,7 @@ image: "/poi-images/moldova-rudi-arionesti-life-v2.webp"
   },
   {
     id: "moldova-cosauti-reserve-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Reservat Cosăuți", hu: "Cosăuți Tájvédelmi Körzet", ro: "Rezervația peisajistică Cosăuți", en: "Cosauti Landscape Reserve",
 image: "/poi-images/moldova-cosauti-reserve-life-v2.webp"
@@ -629,6 +647,7 @@ image: "/poi-images/moldova-cosauti-reserve-life-v2.webp"
   },
   {
     id: "moldova-trebujeni-reserve-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Landschaftsreservat Trebujeni", hu: "Trebujeni Tájvédelmi Körzet", ro: "Rezervația peisajistică Trebujeni", en: "Trebujeni Landscape Reserve",
 image: "/poi-images/moldova-trebujeni-reserve-life-v2.webp"
@@ -664,6 +683,7 @@ image: "/poi-images/moldova-trebujeni-reserve-life-v2.webp"
   },
   {
     id: "moldova-capriana-scoreni-life-v2",
+    parent: "MD",
     type: "forest",
     name: { de: "Landschaftsreservat Căpriana-Scoreni", hu: "Căpriana-Scoreni Tájvédelmi Körzet", ro: "Rezervația peisajistică Căpriana-Scoreni", en: "Capriana-Scoreni Landscape Reserve",
 image: "/poi-images/moldova-capriana-scoreni-life-v2.webp"
@@ -699,6 +719,7 @@ image: "/poi-images/moldova-capriana-scoreni-life-v2.webp"
   },
   {
     id: "moldova-tipova-waterfalls-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Țîpova-Wasserfälle", hu: "Țîpova-vízesések", ro: "Cascadele Țîpova", en: "Tipova Waterfalls",
 image: "/poi-images/moldova-tipova-waterfalls-life-v2.webp"
@@ -734,6 +755,7 @@ image: "/poi-images/moldova-tipova-waterfalls-life-v2.webp"
   },
   {
     id: "moldova-saharna-waterfalls-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Saharna-Wasserfälle", hu: "Saharna-vízesések", ro: "Cascadele Saharna", en: "Saharna Waterfalls",
 image: "/poi-images/moldova-saharna-waterfalls-life-v2.webp"
@@ -769,6 +791,7 @@ image: "/poi-images/moldova-saharna-waterfalls-life-v2.webp"
   },
   {
     id: "moldova-duruitoarea-gorges-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Schluchten von Duruitoarea Veche", hu: "Duruitoarea Veche-szurdok", ro: "Defileul Duruitoarea Veche", en: "Duruitoarea Veche Gorges",
 image: "/poi-images/moldova-duruitoarea-gorges-life-v2.webp"
@@ -803,6 +826,7 @@ image: "/poi-images/moldova-duruitoarea-gorges-life-v2.webp"
   },
   {
     id: "moldova-butesti-reef-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Riff von Butești", hu: "Butești-zátony", ro: "Reciful Butești", en: "Butesti Reef",
 image: "/poi-images/moldova-butesti-reef-life-v2.webp"
@@ -838,6 +862,7 @@ image: "/poi-images/moldova-butesti-reef-life-v2.webp"
   },
   {
     id: "moldova-cobani-molla-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Stînca Mare bei Cobani", hu: "Cobani Nagy-szikla", ro: "Stînca Mare (Cobani)", en: "Great Rock of Cobani",
 image: "/poi-images/moldova-cobani-molla-life-v2.webp"
@@ -873,6 +898,7 @@ image: "/poi-images/moldova-cobani-molla-life-v2.webp"
   },
   {
     id: "moldova-dendrarium-chisinau-life-v2",
+    parent: "MD",
     type: "park",
     name: { de: "Dendrarium-Park Chișinău", hu: "Kisinyovi Dendrárium", ro: "Parcul Dendrariu din Chișinău", en: "Dendrarium Park Chișinău",
 image: "/poi-images/moldova-dendrarium-chisinau-life-v2.webp"
@@ -908,6 +934,7 @@ image: "/poi-images/moldova-dendrarium-chisinau-life-v2.webp"
   },
   {
     id: "moldova-ivancea-reserve-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Landschaftsreservat Ivancea", hu: "Ivancea Tájvédelmi Körzet", ro: "Rezervația peisajistică Ivancea", en: "Ivancea Landscape Reserve",
 image: "/poi-images/moldova-ivancea-reserve-life-v2.webp"
@@ -943,6 +970,7 @@ image: "/poi-images/moldova-ivancea-reserve-life-v2.webp"
   },
   {
     id: "moldova-lower-dniester-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Nationalpark Unterer Dnister", hu: "Alsó-Dnyeszter Nemzeti Park", ro: "Parcul Național Nistrul de Jos", en: "Lower Dniester National Park",
 image: "/poi-images/moldova-lower-dniester-life-v2.webp"
@@ -978,6 +1006,7 @@ image: "/poi-images/moldova-lower-dniester-life-v2.webp"
   },
   {
     id: "moldova-emil-racovita-cave-life-v2",
+    parent: "MD",
     type: "wildlife",
     name: { de: "Emil-Racoviță-Höhle", hu: "Emil Racoviță-barlang", ro: "Peștera Emil Racoviță", en: "Emil Racovita Cave",
 image: "/poi-images/moldova-emil-racovita-cave-life-v2.webp"
@@ -1013,6 +1042,7 @@ image: "/poi-images/moldova-emil-racovita-cave-life-v2.webp"
   },
   {
     id: "moldova-garbovat-forest-life-v2",
+    parent: "MD",
     type: "forest",
     name: { de: "Waldreservat Gîrbovăț", hu: "Gîrbovăț-erdő", ro: "Rezervația peisajistică Gîrbovăț", en: "Garbovat Forest Reserve",
 image: "/poi-images/moldova-garbovat-forest-life-v2.webp"

@@ -3,6 +3,7 @@ export const lithuaniaCitiesV2: POI[] = [
 
   {
     id: "lithuania-siauliai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Šiauliai", hu: "Šiauliai", ro: "Šiauliai", en: "Šiauliai",
 image: "/poi-images/lithuania-siauliai-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Siauliai city square and cathedral",
     , image: "/poi-images/lithuania-siauliai-cities-v2.webp",
 },  {
     id: "lithuania-panevezys-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Panevėžys", hu: "Panevėžys", ro: "Panevėžys", en: "Panevėžys",
 image: "/poi-images/lithuania-panevezys-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Panevezys city park and river",
     , image: "/poi-images/lithuania-panevezys-cities-v2.webp",
 },  {
     id: "lithuania-alytus-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Alytus", hu: "Alytus", ro: "Alytus", en: "Alytus",
 image: "/poi-images/lithuania-alytus-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Alytus bridge over Nemunas river",
     , image: "/poi-images/lithuania-alytus-cities-v2.webp",
 },  {
     id: "lithuania-marijampole-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Marijampolė", hu: "Marijampolė", ro: "Marijampolė", en: "Marijampolė",
 image: "/poi-images/lithuania-marijampole-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Marijampole city square and church",
     , image: "/poi-images/lithuania-marijampole-cities-v2.webp",
 },  {
     id: "lithuania-mazeikiai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Mažeikiai", hu: "Mažeikiai", ro: "Mažeikiai", en: "Mažeikiai",
 image: "/poi-images/lithuania-mazeikiai-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Mazeikiai industrial skyline and refinery",
     , image: "/poi-images/lithuania-mazeikiai-cities-v2.webp",
 },  {
     id: "lithuania-jonava-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Jonava", hu: "Jonava", ro: "Jonava", en: "Jonava",
 image: "/poi-images/lithuania-jonava-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Jonava city view and bridge",
     , image: "/poi-images/lithuania-jonava-cities-v2.webp",
 },  {
     id: "lithuania-utena-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Utena", hu: "Utena", ro: "Utena", en: "Utena",
 image: "/poi-images/lithuania-utena-cities-v2.webp"
@@ -242,6 +249,7 @@ imageHint: "Utena brewery and city park",
     , image: "/poi-images/lithuania-utena-cities-v2.webp",
 },  {
     id: "lithuania-kedainiai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Kėdainiai", hu: "Kėdainiai", ro: "Kėdainiai", en: "Kėdainiai",
 image: "/poi-images/lithuania-kedainiai-cities-v2.webp"
@@ -276,6 +284,7 @@ imageHint: "Kedainiai old town market square",
     , image: "/poi-images/lithuania-kedainiai-cities-v2.webp",
 },  {
     id: "lithuania-telsiai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Telšiai", hu: "Telšiai", ro: "Telšiai", en: "Telšiai",
 image: "/poi-images/lithuania-telsiai-cities-v2.webp"
@@ -310,6 +319,7 @@ imageHint: "Telsiai cathedral on the hill",
     , image: "/poi-images/lithuania-telsiai-cities-v2.webp",
 },  {
     id: "lithuania-visaginas-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Visaginas", hu: "Visaginas", ro: "Visaginas", en: "Visaginas",
 image: "/poi-images/lithuania-visaginas-cities-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "Visaginas modern apartment buildings in forest",
     , image: "/poi-images/lithuania-visaginas-cities-v2.webp",
 },  {
     id: "lithuania-taurage-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Tauragė", hu: "Tauragė", ro: "Tauragė", en: "Tauragė",
 image: "/poi-images/lithuania-taurage-cities-v2.webp"
@@ -378,6 +389,7 @@ imageHint: "Taurage castle and museum",
     , image: "/poi-images/lithuania-taurage-cities-v2.webp",
 },  {
     id: "lithuania-ukmerge-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Ukmergė", hu: "Ukmergė", ro: "Ukmergė", en: "Ukmergė",
 image: "/poi-images/lithuania-ukmerge-cities-v2.webp"
@@ -412,6 +424,7 @@ imageHint: "Ukmerge hillfort and old town",
     , image: "/poi-images/lithuania-ukmerge-cities-v2.webp",
 },  {
     id: "lithuania-plunge-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Plungė", hu: "Plungė", ro: "Plungė", en: "Plungė",
 image: "/poi-images/lithuania-plunge-cities-v2.webp"
@@ -446,6 +459,7 @@ imageHint: "Plunge Oginski palace and park",
     , image: "/poi-images/lithuania-plunge-cities-v2.webp",
 },  {
     id: "lithuania-kretinga-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Kretinga", hu: "Kretinga", ro: "Kretinga", en: "Kretinga",
 image: "/poi-images/lithuania-kretinga-cities-v2.webp"
@@ -480,6 +494,7 @@ imageHint: "Kretinga manor and winter garden",
     , image: "/poi-images/lithuania-kretinga-cities-v2.webp",
 },  {
     id: "lithuania-silute-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Šilutė", hu: "Šilutė", ro: "Šilutė", en: "Šilutė",
 image: "/poi-images/lithuania-silute-cities-v2.webp"
@@ -514,6 +529,7 @@ imageHint: "Silute old post office and canal",
     , image: "/poi-images/lithuania-silute-cities-v2.webp",
 },  {
     id: "lithuania-radviliskis-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Radviliškis", hu: "Radviliškis", ro: "Radviliškis", en: "Radviliškis",
 image: "/poi-images/lithuania-radviliskis-cities-v2.webp"
@@ -548,6 +564,7 @@ imageHint: "Radviliskis railway station and locomotive",
     , image: "/poi-images/lithuania-radviliskis-cities-v2.webp",
 },  {
     id: "lithuania-palanga-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Palanga", hu: "Palanga", ro: "Palanga", en: "Palanga",
 image: "/poi-images/lithuania-palanga-cities-v2.webp"
@@ -582,6 +599,7 @@ imageHint: "Palanga beach and sea pier at sunset",
     , image: "/poi-images/lithuania-palanga-cities-v2.webp",
 },  {
     id: "lithuania-gargzdai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Gargždai", hu: "Gargždai", ro: "Gargždai", en: "Gargždai",
 image: "/poi-images/lithuania-gargzdai-cities-v2.webp"
@@ -616,6 +634,7 @@ imageHint: "Gargzdai city center and park",
     , image: "/poi-images/lithuania-gargzdai-cities-v2.webp",
 },  {
     id: "lithuania-druskininkai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Druskininkai", hu: "Druskininkai", ro: "Druskininkai", en: "Druskininkai",
 image: "/poi-images/lithuania-druskininkai-cities-v2.webp"
@@ -650,6 +669,7 @@ imageHint: "Druskininkai spa center and fountain",
     , image: "/poi-images/lithuania-druskininkai-cities-v2.webp",
 },  {
     id: "lithuania-rokiskis-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Rokiškis", hu: "Rokiškis", ro: "Rokiškis", en: "Rokiškis",
 image: "/poi-images/lithuania-rokiskis-cities-v2.webp"
@@ -684,6 +704,7 @@ imageHint: "Rokiskis manor and church square",
     , image: "/poi-images/lithuania-rokiskis-cities-v2.webp",
 },  {
     id: "lithuania-birzai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Biržai", hu: "Biržai", ro: "Biržai", en: "Biržai",
 image: "/poi-images/lithuania-birzai-cities-v2.webp"
@@ -718,6 +739,7 @@ imageHint: "Birzai castle and lake bridge",
     , image: "/poi-images/lithuania-birzai-cities-v2.webp",
 },  {
     id: "lithuania-elektrenai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Elektrėnai", hu: "Elektrėnai", ro: "Elektrėnai", en: "Elektrėnai",
 image: "/poi-images/lithuania-elektrenai-cities-v2.webp"
@@ -752,6 +774,7 @@ imageHint: "Elektrenai power plant and church",
     , image: "/poi-images/lithuania-elektrenai-cities-v2.webp",
 },  {
     id: "lithuania-kursenai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Kuršėnai", hu: "Kuršėnai", ro: "Kuršėnai", en: "Kuršėnai",
 image: "/poi-images/lithuania-kursenai-cities-v2.webp"
@@ -786,6 +809,7 @@ imageHint: "Kursenai pottery monument and bridge",
     , image: "/poi-images/lithuania-kursenai-cities-v2.webp",
 },  {
     id: "lithuania-jurbarkas-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Jurbarkas", hu: "Jurbarkas", ro: "Jurbarkas", en: "Jurbarkas",
 image: "/poi-images/lithuania-jurbarkas-cities-v2.webp"
@@ -820,6 +844,7 @@ imageHint: "Jurbarkas bridge over Nemunas and park",
     , image: "/poi-images/lithuania-jurbarkas-cities-v2.webp",
 },  {
     id: "lithuania-garliava-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Garliava", hu: "Garliava", ro: "Garliava", en: "Garliava",
 image: "/poi-images/lithuania-garliava-cities-v2.webp"
@@ -854,6 +879,7 @@ imageHint: "Garliava church and main street",
     , image: "/poi-images/lithuania-garliava-cities-v2.webp",
 },  {
     id: "lithuania-vilkaviskis-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Vilkaviškis", hu: "Vilkaviškis", ro: "Vilkaviškis", en: "Vilkaviškis",
 image: "/poi-images/lithuania-vilkaviskis-cities-v2.webp"
@@ -888,6 +914,7 @@ imageHint: "Vilkaviskis cathedral and park",
     , image: "/poi-images/lithuania-vilkaviskis-cities-v2.webp",
 },  {
     id: "lithuania-raseiniai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Raseiniai", hu: "Raseiniai", ro: "Raseiniai", en: "Raseiniai",
 image: "/poi-images/lithuania-raseiniai-cities-v2.webp"
@@ -922,6 +949,7 @@ imageHint: "Raseiniai monument and church",
     , image: "/poi-images/lithuania-raseiniai-cities-v2.webp",
 },  {
     id: "lithuania-anyksciai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Anykščiai", hu: "Anykščiai", ro: "Anykščiai", en: "Anykščiai",
 image: "/poi-images/lithuania-anyksciai-cities-v2.webp"
@@ -957,6 +985,7 @@ imageHint: "Anyksciai treetop walking path",
     , image: "/poi-images/lithuania-anyksciai-cities-v2.webp",
 },  {
     id: "lithuania-lentvaris-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Lentvaris", hu: "Lentvaris", ro: "Lentvaris", en: "Lentvaris",
 image: "/poi-images/lithuania-lentvaris-cities-v2.webp"
@@ -991,6 +1020,7 @@ imageHint: "Lentvaris palace and lake",
     , image: "/poi-images/lithuania-lentvaris-cities-v2.webp",
 },  {
     id: "lithuania-grigiskes-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Grigiškės", hu: "Grigiškės", ro: "Grigiškės", en: "Grigiškės",
 image: "/poi-images/lithuania-grigiskes-cities-v2.webp"
@@ -1025,6 +1055,7 @@ imageHint: "Grigiskes industrial area and river",
     , image: "/poi-images/lithuania-grigiskes-cities-v2.webp",
 },  {
     id: "lithuania-naujoji-akmene-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Naujoji Akmenė", hu: "Naujoji Akmenė", ro: "Naujoji Akmenė", en: "Naujoji Akmenė",
 image: "/poi-images/lithuania-naujoji-akmene-cities-v2.webp"
@@ -1059,6 +1090,7 @@ imageHint: "Naujoji Akmene cement factory and quarries",
     , image: "/poi-images/lithuania-naujoji-akmene-cities-v2.webp",
 },  {
     id: "lithuania-prienai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Prienai", hu: "Prienai", ro: "Prienai", en: "Prienai",
 image: "/poi-images/lithuania-prienai-cities-v2.webp"
@@ -1093,6 +1125,7 @@ imageHint: "Prienai bridge and river loops",
     , image: "/poi-images/lithuania-prienai-cities-v2.webp",
 },  {
     id: "lithuania-joniskis-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Joniškis", hu: "Joniškis", ro: "Joniškis", en: "Joniškis",
 image: "/poi-images/lithuania-joniskis-cities-v2.webp"
@@ -1127,6 +1160,7 @@ imageHint: "Joniskis synagogue and church",
     , image: "/poi-images/lithuania-joniskis-cities-v2.webp",
 },  {
     id: "lithuania-varena-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Varėna", hu: "Varėna", ro: "Varėna", en: "Varėna",
 image: "/poi-images/lithuania-varena-cities-v2.webp"
@@ -1161,6 +1195,7 @@ imageHint: "Varena forest and railway station",
     , image: "/poi-images/lithuania-varena-cities-v2.webp",
 },  {
     id: "lithuania-kelme-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Kelmė", hu: "Kelmė", ro: "Kelmė", en: "Kelmė",
 image: "/poi-images/lithuania-kelme-cities-v2.webp"
@@ -1195,6 +1230,7 @@ imageHint: "Kelme manor and park",
     , image: "/poi-images/lithuania-kelme-cities-v2.webp",
 },  {
     id: "lithuania-kaisiadorys-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Kaišiadorys", hu: "Kaišiadorys", ro: "Kaišiadorys", en: "Kaišiadorys",
 image: "/poi-images/lithuania-kaisiadorys-cities-v2.webp"
@@ -1229,6 +1265,7 @@ imageHint: "Kaisiadorys cathedral and railway",
     , image: "/poi-images/lithuania-kaisiadorys-cities-v2.webp",
 },  {
     id: "lithuania-pasvalys-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Pasvalys", hu: "Pasvalys", ro: "Pasvalys", en: "Pasvalys",
 image: "/poi-images/lithuania-pasvalys-cities-v2.webp"
@@ -1263,6 +1300,7 @@ imageHint: "Pasvalys river and sinkhole park",
     , image: "/poi-images/lithuania-pasvalys-cities-v2.webp",
 },  {
     id: "lithuania-kupiskis-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Kupiškis", hu: "Kupiškis", ro: "Kupiškis", en: "Kupiškis",
 image: "/poi-images/lithuania-kupiskis-cities-v2.webp"
@@ -1297,6 +1335,7 @@ imageHint: "Kupiskis church and reservoir",
     , image: "/poi-images/lithuania-kupiskis-cities-v2.webp",
 },  {
     id: "lithuania-zarasai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Zarasai", hu: "Zarasai", ro: "Zarasai", en: "Zarasai",
 image: "/poi-images/lithuania-zarasai-cities-v2.webp"
@@ -1331,6 +1370,7 @@ imageHint: "Zarasai lake panoramic view and bridge",
     , image: "/poi-images/lithuania-zarasai-cities-v2.webp",
 },  {
     id: "lithuania-skuodas-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Skuodas", hu: "Skuodas", ro: "Skuodas", en: "Skuodas",
 image: "/poi-images/lithuania-skuodas-cities-v2.webp"
@@ -1365,6 +1405,7 @@ imageHint: "Skuodas city square and park",
     , image: "/poi-images/lithuania-skuodas-cities-v2.webp",
 },  {
     id: "lithuania-kazlu-ruda-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Kazlų Rūda", hu: "Kazlų Rūda", ro: "Kazlų Rūda", en: "Kazlų Rūda",
 image: "/poi-images/lithuania-kazlu-ruda-cities-v2.webp"
@@ -1399,6 +1440,7 @@ imageHint: "Kazlu Ruda railway station and forest",
     , image: "/poi-images/lithuania-kazlu-ruda-cities-v2.webp",
 },  {
     id: "lithuania-sirvintos-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Širvintos", hu: "Širvintos", ro: "Širvintos", en: "Širvintos",
 image: "/poi-images/lithuania-sirvintos-cities-v2.webp"
@@ -1433,6 +1475,7 @@ imageHint: "Sirvintos city park and river",
     , image: "/poi-images/lithuania-sirvintos-cities-v2.webp",
 },  {
     id: "lithuania-moletai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Molėtai", hu: "Molėtai", ro: "Molėtai", en: "Molėtai",
 image: "/poi-images/lithuania-moletai-cities-v2.webp"
@@ -1468,6 +1511,7 @@ imageHint: "Moletai ethnocosmology museum architecture",
     , image: "/poi-images/lithuania-moletai-cities-v2.webp",
 },  {
     id: "lithuania-salcininkai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Šalčininkai", hu: "Šalčininkai", ro: "Šalčininkai", en: "Šalčininkai",
 image: "/poi-images/lithuania-salcininkai-cities-v2.webp"
@@ -1502,6 +1546,7 @@ imageHint: "Salcininkai manor house and park",
     , image: "/poi-images/lithuania-salcininkai-cities-v2.webp",
 },  {
     id: "lithuania-sakiai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Šakiai", hu: "Šakiai", ro: "Šakiai", en: "Šakiai",
 image: "/poi-images/lithuania-sakiai-cities-v2.webp"
@@ -1536,6 +1581,7 @@ imageHint: "Sakiai city square and park",
     , image: "/poi-images/lithuania-sakiai-cities-v2.webp",
 },  {
     id: "lithuania-kybartai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Kybartai", hu: "Kybartai", ro: "Kybartai", en: "Kybartai",
 image: "/poi-images/lithuania-kybartai-cities-v2.webp"
@@ -1570,6 +1616,7 @@ imageHint: "Kybartai railway border crossing",
     , image: "/poi-images/lithuania-kybartai-cities-v2.webp",
 },  {
     id: "lithuania-pabrade-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Pabradė", hu: "Pabradė", ro: "Pabradė", en: "Pabradė",
 image: "/poi-images/lithuania-pabrade-cities-v2.webp"
@@ -1604,6 +1651,7 @@ imageHint: "Pabrade bridge and pine forest",
     , image: "/poi-images/lithuania-pabrade-cities-v2.webp",
 },  {
     id: "lithuania-silale-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Šilalė", hu: "Šilalė", ro: "Šilale", en: "Šilalė",
 image: "/poi-images/lithuania-silale-cities-v2.webp"
@@ -1638,6 +1686,7 @@ imageHint: "Silale church and central park",
     , image: "/poi-images/lithuania-silale-cities-v2.webp",
 },  {
     id: "lithuania-ignalina-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Ignalina", hu: "Ignalina", ro: "Ignalina", en: "Ignalina",
 image: "/poi-images/lithuania-ignalina-cities-v2.webp"
@@ -1672,6 +1721,7 @@ imageHint: "Ignalina winter sports center and lake",
     , image: "/poi-images/lithuania-ignalina-cities-v2.webp",
 },  {
     id: "lithuania-nemencine-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Nemenčinė", hu: "Nemenčinė", ro: "Nemenčinė", en: "Nemenčinė",
 image: "/poi-images/lithuania-nemencine-cities-v2.webp"
@@ -1706,6 +1756,7 @@ imageHint: "Nemencine bridge over Neris river",
     , image: "/poi-images/lithuania-nemencine-cities-v2.webp",
 },  {
     id: "lithuania-pakruojis-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Pakruojis", hu: "Pakruojis", ro: "Pakruojis", en: "Pakruojis",
 image: "/poi-images/lithuania-pakruojis-cities-v2.webp"
@@ -1740,6 +1791,7 @@ imageHint: "Pakruojis manor and stone bridge",
     , image: "/poi-images/lithuania-pakruojis-cities-v2.webp",
 },  {
     id: "lithuania-svencioneliai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Švenčionėliai", hu: "Švenčionėliai", ro: "Švenčionėliai", en: "Švenčionėliai",
 image: "/poi-images/lithuania-svencioneliai-cities-v2.webp"
@@ -1774,6 +1826,7 @@ imageHint: "Svencioneliai railway station and forest",
     , image: "/poi-images/lithuania-svencioneliai-cities-v2.webp",
 },  {
     id: "lithuania-vievis-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Vievis", hu: "Vievis", ro: "Vievis", en: "Vievis",
 image: "/poi-images/lithuania-vievis-cities-v2.webp"
@@ -1808,6 +1861,7 @@ imageHint: "Vievis lake and church",
     , image: "/poi-images/lithuania-vievis-cities-v2.webp",
 },  {
     id: "lithuania-lazdijai-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Lazdijai", hu: "Lazdijai", ro: "Lazdijai", en: "Lazdijai",
 image: "/poi-images/lithuania-lazdijai-cities-v2.webp"
@@ -1842,6 +1896,7 @@ imageHint: "Lazdijai border crossing and church",
     , image: "/poi-images/lithuania-lazdijai-cities-v2.webp",
 },  {
     id: "lithuania-kalvarija-cities-v2",
+    parent: "LT",
     type: "city",
     name: { de: "Kalvarija", hu: "Kalvarija", ro: "Kalvarija", en: "Kalvarija",
 image: "/poi-images/lithuania-kalvarija-cities-v2.webp"

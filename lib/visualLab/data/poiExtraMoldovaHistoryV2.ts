@@ -3,6 +3,7 @@ export const moldovaHistoryV2: POI[] = [
 
   {
     id: "moldova-orheiul-vechi-history-v2",
+    parent: "MD",
     type: "ruins",
     name: { de: "Orheiul Vechi", hu: "Orheiul Vechi", ro: "Orheiul Vechi", en: "Old Orhei",
 image: "/poi-images/moldova-orheiul-vechi-history-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/moldova-orheiul-vechi-history-v2.webp"
   },
   {
     id: "moldova-soroca-fortress-history-v2",
+    parent: "MD",
     type: "castle",
     name: { de: "Festung Soroca", hu: "Sorocai erőd", ro: "Cetatea Soroca", en: "Soroca Fortress",
 image: "/poi-images/moldova-soroca-fortress-history-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/moldova-soroca-fortress-history-v2.webp"
   },
   {
     id: "moldova-bender-fortress-history-v2",
+    parent: "MD",
     type: "castle",
     name: { de: "Festung Bender", hu: "Benderi erőd", ro: "Cetatea Bender", en: "Bender Fortress",
 image: "/poi-images/moldova-bender-fortress-history-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/moldova-bender-fortress-history-v2.webp"
   },
   {
     id: "moldova-manuc-bei-mansion-history-v2",
+    parent: "MD",
     type: "palace",
     name: { de: "Manuc Bei Herrenhaus", hu: "Manuc Bei kúria", ro: "Conacul Manuc Bei", en: "Manuc Bei Mansion",
 image: "/poi-images/moldova-manuc-bei-mansion-history-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/moldova-manuc-bei-mansion-history-v2.webp"
   },
   {
     id: "moldova-saharna-monastery-history-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kloster Saharna", hu: "Saharna kolostor", ro: "Mănăstirea Saharna", en: "Saharna Monastery",
 image: "/poi-images/moldova-saharna-monastery-history-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/moldova-saharna-monastery-history-v2.webp"
   },
   {
     id: "moldova-rudi-monastery-history-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kloster Rudi", hu: "Rudi kolostor", ro: "Mănăstirea Rudi", en: "Rudi Monastery",
 image: "/poi-images/moldova-rudi-monastery-history-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/moldova-rudi-monastery-history-v2.webp"
   },
   {
     id: "moldova-pommer-manor-history-v2",
+    parent: "MD",
     type: "palace",
     name: { de: "Pommer Herrenhaus", hu: "Pommer-kastély", ro: "Conacul Pommer", en: "Pommer Manor",
 image: "/poi-images/moldova-pommer-manor-history-v2.webp"
@@ -248,6 +255,7 @@ image: "/poi-images/moldova-pommer-manor-history-v2.webp"
   },
   {
     id: "moldova-zamfir-ralli-mansion-history-v2",
+    parent: "MD",
     type: "palace",
     name: { de: "Zamfir Ralli Herrenhaus", hu: "Zamfir Ralli udvarház", ro: "Conacul lui Zamfir Ralli", en: "Zamfir Ralli Mansion",
 image: "/poi-images/moldova-zamfir-ralli-mansion-history-v2.webp"
@@ -283,6 +291,7 @@ image: "/poi-images/moldova-zamfir-ralli-mansion-history-v2.webp"
   },
   {
     id: "moldova-chisinau-triumphal-arch-history-v2",
+    parent: "MD",
     type: "monument",
     name: { de: "Triumphbogen von Chisinau", hu: "Kisinyovi diadalív", ro: "Arcul de Triumf din Chișinău", en: "Chisinau Triumphal Arch",
 image: "/poi-images/moldova-chisinau-triumphal-arch-history-v2.webp"
@@ -318,6 +327,7 @@ image: "/poi-images/moldova-chisinau-triumphal-arch-history-v2.webp"
   },
   {
     id: "moldova-stephen-the-great-monument-history-v2",
+    parent: "MD",
     type: "monument",
     name: { de: "Denkmal für Stephan den Großen", hu: "Nagy István emlékmű", ro: "Monumentul lui Ștefan cel Mare", en: "Stephen the Great Monument",
 image: "/poi-images/moldova-stephen-the-great-monument-history-v2.webp"
@@ -353,6 +363,7 @@ image: "/poi-images/moldova-stephen-the-great-monument-history-v2.webp"
   },
   {
     id: "moldova-eternity-memorial-complex-history-v2",
+    parent: "MD",
     type: "monument",
     name: { de: "Gedenkstätte Ewigkeit", hu: "Örökkévalóság emlékmű", ro: "Complexul Memorial Eternitate", en: "Eternity Memorial Complex",
 image: "/poi-images/moldova-eternity-memorial-complex-history-v2.webp"
@@ -388,6 +399,7 @@ image: "/poi-images/moldova-eternity-memorial-complex-history-v2.webp"
   },
   {
     id: "moldova-struve-arc-rudi-history-v2",
+    parent: "MD",
     type: "monument",
     name: { de: "Struve-Bogen Punkt Rudi", hu: "Struve földmérő ív Rudi", ro: "Punctul Rudi al Arcului Struve", en: "Struve Geodetic Arc Rudi Point",
 image: "/poi-images/moldova-struve-arc-rudi-history-v2.webp"
@@ -423,6 +435,7 @@ image: "/poi-images/moldova-struve-arc-rudi-history-v2.webp"
   },
   {
     id: "moldova-condrita-monastery-history-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kloster Condrița", hu: "Condrița kolostor", ro: "Mănăstirea Condrița", en: "Condrița Monastery",
 image: "/poi-images/moldova-condrita-monastery-history-v2.webp"
@@ -457,6 +470,7 @@ image: "/poi-images/moldova-condrita-monastery-history-v2.webp"
   },
   {
     id: "moldova-hirbovat-monastery-history-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kloster Hîrbovăț", hu: "Hîrbovăț kolostor", ro: "Mănăstirea Hîrbovăț", en: "Hîrbovăț Monastery",
 image: "/poi-images/moldova-hirbovat-monastery-history-v2.webp"
@@ -491,6 +505,7 @@ image: "/poi-images/moldova-hirbovat-monastery-history-v2.webp"
   },
   {
     id: "moldova-hirjauca-monastery-history-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kloster Hîrjauca", hu: "Hîrjauca kolostor", ro: "Mănăstirea Hîrjauca", en: "Hîrjauca Monastery",
 image: "/poi-images/moldova-hirjauca-monastery-history-v2.webp"
@@ -526,6 +541,7 @@ image: "/poi-images/moldova-hirjauca-monastery-history-v2.webp"
   },
   {
     id: "moldova-raciula-monastery-history-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kloster Răciula", hu: "Răciula kolostor", ro: "Mănăstirea Răciula", en: "Răciula Monastery",
 image: "/poi-images/moldova-raciula-monastery-history-v2.webp"
@@ -560,6 +576,7 @@ image: "/poi-images/moldova-raciula-monastery-history-v2.webp"
   },
   {
     id: "moldova-frumoasa-monastery-history-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kloster Frumoasa", hu: "Frumoasa kolostor", ro: "Mănăstirea Frumoasa", en: "Frumoasa Monastery",
 image: "/poi-images/moldova-frumoasa-monastery-history-v2.webp"
@@ -594,6 +611,7 @@ image: "/poi-images/moldova-frumoasa-monastery-history-v2.webp"
   },
   {
     id: "moldova-tabara-monastery-history-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kloster Tabăra", hu: "Tabăra kolostor", ro: "Mănăstirea Tabăra", en: "Tabăra Monastery",
 image: "/poi-images/moldova-tabara-monastery-history-v2.webp"
@@ -629,6 +647,7 @@ image: "/poi-images/moldova-tabara-monastery-history-v2.webp"
   },
   {
     id: "moldova-cuizauca-monastery-history-v2",
+    parent: "MD",
     type: "church",
     name: { de: "Kloster Cuizăuca", hu: "Cuizăuca kolostor", ro: "Mănăstirea Cuizăuca", en: "Cuizăuca Monastery",
 image: "/poi-images/moldova-cuizauca-monastery-history-v2.webp"
@@ -664,6 +683,7 @@ image: "/poi-images/moldova-cuizauca-monastery-history-v2.webp"
   },
   {
     id: "moldova-stolniceni-ancient-fortress-history-v2",
+    parent: "MD",
     type: "ruins",
     name: { de: "Geto-dakische Festung Stolniceni", hu: "Stolniceni dák erőd", ro: "Cetatea geto-dacică de la Stolniceni", en: "Stolniceni Geto-Dacian Fortress",
 image: "/poi-images/moldova-stolniceni-ancient-fortress-history-v2.webp"
@@ -699,6 +719,7 @@ image: "/poi-images/moldova-stolniceni-ancient-fortress-history-v2.webp"
   },
   {
     id: "moldova-hansca-archaeological-site-history-v2",
+    parent: "MD",
     type: "ruins",
     name: { de: "Archäologische Stätte Hansca", hu: "Hansca régészeti település", ro: "Așezarea arheologică Hansca", en: "Hansca Archaeological Site",
 image: "/poi-images/moldova-hansca-archaeological-site-history-v2.webp"
@@ -734,6 +755,7 @@ image: "/poi-images/moldova-hansca-archaeological-site-history-v2.webp"
   },
   {
     id: "moldova-butuceni-village-history-v2",
+    parent: "MD",
     type: "village",
     name: { de: "Historisches Dorf Butuceni", hu: "Butuceni történelmi falu", ro: "Satul istoric Butuceni", en: "Butuceni Historical Village",
 image: "/poi-images/moldova-butuceni-village-history-v2.webp"
@@ -768,6 +790,7 @@ image: "/poi-images/moldova-butuceni-village-history-v2.webp"
   },
   {
     id: "moldova-chisinau-water-tower-history-v2",
+    parent: "MD",
     type: "tower",
     name: { de: "Wasserturm von Chisinau", hu: "Kisinyovi víztorony", ro: "Turnul de apă din Chișinău", en: "Chisinau Water Tower",
 image: "/poi-images/moldova-chisinau-water-tower-history-v2.webp"

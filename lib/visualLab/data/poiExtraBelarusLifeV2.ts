@@ -3,6 +3,7 @@ export const belarusLifeV2: POI[] = [
 
   {
     id: "belarus-belovezhskaya-pushcha-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Nationalpark Belaweschskaja Puschtscha", hu: "Belavezsszkaja Puscsa Nemzeti Park", ro: "Parcul Național Belovezhskaya Pushcha", en: "Belovezhskaya Pushcha National Park",
 image: "/poi-images/belarus-belovezhskaya-pushcha-life-v2.webp"
@@ -37,6 +38,7 @@ image: "/poi-images/belarus-belovezhskaya-pushcha-life-v2.webp"
   },
   {
     id: "belarus-berezinsky-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Biosphärenreservat Beresinski", hu: "Berezinszkij Bioszféra-rezervátum", ro: "Rezervația Biosferei Berezinski", en: "Berezinsky Biosphere Reserve",
 image: "/poi-images/belarus-berezinsky-reserve-life-v2.webp"
@@ -70,6 +72,7 @@ image: "/poi-images/belarus-berezinsky-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-berezinsky-reserve-life-v2.webp"},
   {
     id: "belarus-pripyatsky-national-park-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Nationalpark Pripjazki", hu: "Pripjaty Nemzeti Park", ro: "Parcul Național Pripyatsky", en: "Pripyatsky National Park",
 image: "/poi-images/belarus-pripyatsky-national-park-life-v2.webp"
@@ -103,6 +106,7 @@ image: "/poi-images/belarus-pripyatsky-national-park-life-v2.webp"
     }, image: "/poi-images/belarus-pripyatsky-national-park-life-v2.webp"},
   {
     id: "belarus-narochansky-national-park-life-v2",
+    parent: "BY",
     type: "lake",
     name: { de: "Nationalpark Narotschanski", hu: "Narocsanszkij Nemzeti Park", ro: "Parcul Național Narochansky", en: "Narochansky National Park",
 image: "/poi-images/belarus-narochansky-national-park-life-v2.webp"
@@ -136,6 +140,7 @@ image: "/poi-images/belarus-narochansky-national-park-life-v2.webp"
     }, image: "/poi-images/belarus-narochansky-national-park-life-v2.webp"},
   {
     id: "belarus-braslav-lakes-national-park-life-v2",
+    parent: "BY",
     type: "lake",
     name: { de: "Nationalpark Braslauer Seen", hu: "Braszlavi-tavak Nemzeti Park", ro: "Parcul Național Lacurile Braslav", en: "Braslav Lakes National Park",
 image: "/poi-images/belarus-braslav-lakes-national-park-life-v2.webp"
@@ -169,6 +174,7 @@ image: "/poi-images/belarus-braslav-lakes-national-park-life-v2.webp"
     }, image: "/poi-images/belarus-braslav-lakes-national-park-life-v2.webp"},
   {
     id: "belarus-yelnya-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Jelnja", hu: "Jelnya Tájvédelmi Körzet", ro: "Rezervația Peisagistică Yelnya", en: "Yelnya Landscape Reserve",
 image: "/poi-images/belarus-yelnya-reserve-life-v2.webp"
@@ -202,6 +208,7 @@ image: "/poi-images/belarus-yelnya-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-yelnya-reserve-life-v2.webp"},
   {
     id: "belarus-olman-mires-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Olman-Sümpfe", hu: "Olman-mocsarak", ro: "Mlaștinile Olman", en: "Olman Mires",
 image: "/poi-images/belarus-olman-mires-life-v2.webp"
@@ -235,6 +242,7 @@ image: "/poi-images/belarus-olman-mires-life-v2.webp"
     }, image: "/poi-images/belarus-olman-mires-life-v2.webp"},
   {
     id: "belarus-nalibokskaya-pushcha-life-v2",
+    parent: "BY",
     type: "forest",
     name: { de: "Nalibokskaja Puschtscha", hu: "Nalibokszkaja Puscsa", ro: "Pădurea Naliboki", en: "Nalibokskaya Pushcha",
 image: "/poi-images/belarus-nalibokskaya-pushcha-life-v2.webp"
@@ -268,6 +276,7 @@ image: "/poi-images/belarus-nalibokskaya-pushcha-life-v2.webp"
     }, image: "/poi-images/belarus-nalibokskaya-pushcha-life-v2.webp"},
   {
     id: "belarus-sporovsky-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Biologisches Reservat Sporowski", hu: "Szporovszkij Biológiai Rezervátum", ro: "Rezervația Biologică Sporovsky", en: "Sporovsky Biological Reserve",
 image: "/poi-images/belarus-sporovsky-reserve-life-v2.webp"
@@ -301,6 +310,7 @@ image: "/poi-images/belarus-sporovsky-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-sporovsky-reserve-life-v2.webp"},
   {
     id: "belarus-zvanets-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Biologisches Reservat Swanetz", hu: "Zvanec Biológiai Rezervátum", ro: "Rezervația Biologică Zvanets", en: "Zvanets Biological Reserve",
 image: "/poi-images/belarus-zvanets-reserve-life-v2.webp"
@@ -334,6 +344,7 @@ image: "/poi-images/belarus-zvanets-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-zvanets-reserve-life-v2.webp"},
   {
     id: "belarus-mid-pripyat-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Mittlerer Pripjat", hu: "Közép-Pripjaty Tájvédelmi Körzet", ro: "Rezervația Peisagistică Pripyat Mijlociu", en: "Mid-Pripyat Landscape Reserve",
 image: "/poi-images/belarus-mid-pripyat-reserve-life-v2.webp"
@@ -367,6 +378,7 @@ image: "/poi-images/belarus-mid-pripyat-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-mid-pripyat-reserve-life-v2.webp"},
   {
     id: "belarus-osveysky-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Osweiski", hu: "Oszvejszkij Tájvédelmi Körzet", ro: "Rezervația Peisagistică Osveysky", en: "Osveysky Landscape Reserve",
 image: "/poi-images/belarus-osveysky-reserve-life-v2.webp"
@@ -400,6 +412,7 @@ image: "/poi-images/belarus-osveysky-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-osveysky-reserve-life-v2.webp"},
   {
     id: "belarus-vygonoshchanskoye-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Wygonoschtschanskoje", hu: "Vigonoscsanszkoje Tájvédelmi Körzet", ro: "Rezervația Peisagistică Vygonoshchanskoye", en: "Vygonoshchanskoye Landscape Reserve",
 image: "/poi-images/belarus-vygonoshchanskoye-reserve-life-v2.webp"
@@ -433,6 +446,7 @@ image: "/poi-images/belarus-vygonoshchanskoye-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-vygonoshchanskoye-reserve-life-v2.webp"},
   {
     id: "belarus-krasny-bor-reserve-life-v2",
+    parent: "BY",
     type: "forest",
     name: { de: "Landschaftsschutzgebiet Krasny Bor", hu: "Krasznij Bor Tájvédelmi Körzet", ro: "Rezervația Peisagistică Krasny Bor", en: "Krasny Bor Landscape Reserve",
 image: "/poi-images/belarus-krasny-bor-reserve-life-v2.webp"
@@ -466,6 +480,7 @@ image: "/poi-images/belarus-krasny-bor-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-krasny-bor-reserve-life-v2.webp"},
   {
     id: "belarus-kozyansky-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Biologisches Reservat Kosjanski", hu: "Kozjanszkij Biológiai Rezervátum", ro: "Rezervația Biologică Kozyansky", en: "Kozyansky Biological Reserve",
 image: "/poi-images/belarus-kozyansky-reserve-life-v2.webp"
@@ -499,6 +514,7 @@ image: "/poi-images/belarus-kozyansky-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-kozyansky-reserve-life-v2.webp"},
   {
     id: "belarus-lipichanskaya-pushcha-life-v2",
+    parent: "BY",
     type: "forest",
     name: { de: "Lipitschanskaja Puschtscha", hu: "Lipicsanszkaja Puscsa", ro: "Pădurea Lipichanskaya", en: "Lipichanskaya Pushcha",
 image: "/poi-images/belarus-lipichanskaya-pushcha-life-v2.webp"
@@ -532,6 +548,7 @@ image: "/poi-images/belarus-lipichanskaya-pushcha-life-v2.webp"
     }, image: "/poi-images/belarus-lipichanskaya-pushcha-life-v2.webp"},
   {
     id: "belarus-grodnenskaya-pushcha-life-v2",
+    parent: "BY",
     type: "forest",
     name: { de: "Grodnenskaja Puschtscha", hu: "Grodnyenszkaja Puscsa", ro: "Pădurea Grodno", en: "Grodnenskaya Pushcha",
 image: "/poi-images/belarus-grodnenskaya-pushcha-life-v2.webp"
@@ -565,6 +582,7 @@ image: "/poi-images/belarus-grodnenskaya-pushcha-life-v2.webp"
     }, image: "/poi-images/belarus-grodnenskaya-pushcha-life-v2.webp"},
   {
     id: "belarus-minsk-botanical-garden-life-v2",
+    parent: "BY",
     type: "park",
     name: { de: "Zentraler Botanischer Garten Minsk", hu: "Minszki Központi Botanikus Kert", ro: "Grădina Botanică Centrală din Minsk", en: "Central Botanical Garden of Minsk",
 image: "/poi-images/belarus-minsk-botanical-garden-life-v2.webp"
@@ -599,6 +617,7 @@ image: "/poi-images/belarus-minsk-botanical-garden-life-v2.webp"
   },
   {
     id: "belarus-minsk-zoo-life-v2",
+    parent: "BY",
     type: "park",
     name: { de: "Minsker Zoo", hu: "Minszki Állatkert", ro: "Grădina Zoologică din Minsk", en: "Minsk Zoo",
 image: "/poi-images/belarus-minsk-zoo-life-v2.webp"
@@ -632,6 +651,7 @@ image: "/poi-images/belarus-minsk-zoo-life-v2.webp"
     }, image: "/poi-images/belarus-minsk-zoo-life-v2.webp"},
   {
     id: "belarus-grodno-zoo-life-v2",
+    parent: "BY",
     type: "park",
     name: { de: "Grodnoer Zoo", hu: "Grodnói Állatkert", ro: "Grădina Zoologică din Grodno", en: "Grodno Zoo",
 image: "/poi-images/belarus-grodno-zoo-life-v2.webp"
@@ -666,6 +686,7 @@ image: "/poi-images/belarus-grodno-zoo-life-v2.webp"
   },
   {
     id: "belarus-vitebsk-zoo-life-v2",
+    parent: "BY",
     type: "park",
     name: { de: "Witebsker Zoo", hu: "Vitebszki Állatkert", ro: "Grădina Zoologică din Vitebsk", en: "Vitebsk Zoo",
 image: "/poi-images/belarus-vitebsk-zoo-life-v2.webp"
@@ -699,6 +720,7 @@ image: "/poi-images/belarus-vitebsk-zoo-life-v2.webp"
     }, image: "/poi-images/belarus-vitebsk-zoo-life-v2.webp"},
   {
     id: "belarus-vitebsk-botanical-garden-life-v2",
+    parent: "BY",
     type: "park",
     name: { de: "Botanischer Garten der Universität Witebsk", hu: "Vitebszki Egyetemi Botanikus Kert", ro: "Grădina Botanică a Universității din Vitebsk", en: "Botanical Garden of Vitebsk State University",
 image: "/poi-images/belarus-vitebsk-botanical-garden-life-v2.webp"
@@ -732,6 +754,7 @@ image: "/poi-images/belarus-vitebsk-botanical-garden-life-v2.webp"
     }, image: "/poi-images/belarus-vitebsk-botanical-garden-life-v2.webp"},
   {
     id: "belarus-mogilev-zoo-life-v2",
+    parent: "BY",
     type: "park",
     name: { de: "Mogiljower Zoo-Garten", hu: "Mogiljovi Állatkert", ro: "Grădina Zoologică din Mogilev", en: "Mogilev Zoo-Garden",
 image: "/poi-images/belarus-mogilev-zoo-life-v2.webp"
@@ -765,6 +788,7 @@ image: "/poi-images/belarus-mogilev-zoo-life-v2.webp"
     }, image: "/poi-images/belarus-mogilev-zoo-life-v2.webp"},
   {
     id: "belarus-loshitsa-park-life-v2",
+    parent: "BY",
     type: "park",
     name: { de: "Loshiza-Park", hu: "Losicai Park", ro: "Parcul Loshitsa", en: "Loshitsa Park",
 image: "/poi-images/belarus-loshitsa-park-life-v2.webp"
@@ -798,6 +822,7 @@ image: "/poi-images/belarus-loshitsa-park-life-v2.webp"
     }, image: "/poi-images/belarus-loshitsa-park-life-v2.webp"},
   {
     id: "belarus-polessky-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Polesskij-Reservat", hu: "Polesszkij Állami Sugárökológiai Rezervátum", ro: "Rezervația Radioecologică de Stat Polessky", en: "Polessky State Radioecological Reserve",
 image: "/poi-images/belarus-polessky-reserve-life-v2.webp"
@@ -831,6 +856,7 @@ image: "/poi-images/belarus-polessky-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-polessky-reserve-life-v2.webp"},
   {
     id: "belarus-kotra-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Kotra", hu: "Kotra Tájvédelmi Körzet", ro: "Rezervația Peisagistică Kotra", en: "Kotra Landscape Reserve",
 image: "/poi-images/belarus-kotra-reserve-life-v2.webp"
@@ -864,6 +890,7 @@ image: "/poi-images/belarus-kotra-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-kotra-reserve-life-v2.webp"},
   {
     id: "belarus-svisloch-berezina-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Reservat Swislotsch-Beresina", hu: "Szviszlocs-Berezina Rezervátum", ro: "Rezervația Svisloch-Berezina", en: "Svisloch-Berezina Reserve",
 image: "/poi-images/belarus-svisloch-berezina-reserve-life-v2.webp"
@@ -898,6 +925,7 @@ image: "/poi-images/belarus-svisloch-berezina-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-svisloch-berezina-reserve-life-v2.webp"},
   {
     id: "belarus-sinsha-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Landschaftsschutzgebiet Sinscha", hu: "Szinsa Tájvédelmi Körzet", ro: "Rezervația Peisagistică Sinsha", en: "Sinsha Landscape Reserve",
 image: "/poi-images/belarus-sinsha-reserve-life-v2.webp"
@@ -931,6 +959,7 @@ image: "/poi-images/belarus-sinsha-reserve-life-v2.webp"
     }, image: "/poi-images/belarus-sinsha-reserve-life-v2.webp"},
   {
     id: "belarus-stary-zhaden-reserve-life-v2",
+    parent: "BY",
     type: "wildlife",
     name: { de: "Reservat Stary Schaden", hu: "Sztarij Zsaden Rezervátum", ro: "Rezervația Stary Zhaden", en: "Stary Zhaden Reserve",
 image: "/poi-images/belarus-stary-zhaden-reserve-life-v2.webp"

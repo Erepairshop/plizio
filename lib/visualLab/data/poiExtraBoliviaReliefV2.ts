@@ -4,6 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraBoliviaReliefV2: POI[] = [
   {
     id: "bolivia-cordillera-real-relief-v2",
+    parent: "BO",
     description: {
       de: "Die Cordillera Real ist die spektakulärste Gebirgskette der bolivianischen Anden mit zahlreichen Sechstausendern.",
       hu: "Az Andok látványos, hófödte hegyvonulata, amely Bolívia felföldje felett magasodik.",
@@ -40,6 +41,7 @@ image: "/poi-images/bolivia-cordillera-real-relief-v2.webp"
     }, image: "/poi-images/bolivia-cordillera-real-relief-v2.webp"},
   {
     id: "bolivia-cordillera-occidental-relief-v2",
+    parent: "BO",
     description: {
       de: "Die Cordillera Occidental bildet die natürliche vulkanische Grenze zwischen Bolivien und Chile.",
       hu: "A nyugati hegyvonulat, amely Bolívia és Chile természetes határát alkotja.",
@@ -76,6 +78,7 @@ image: "/poi-images/bolivia-cordillera-occidental-relief-v2.webp"
     }, image: "/poi-images/bolivia-cordillera-occidental-relief-v2.webp"},
   {
     id: "bolivia-altiplano-andino-relief-v2",
+    parent: "BO",
     description: {
       de: "Die Altiplano-Hochebene ist eine weite, hochgelegene Ebene zwischen den Andenketten und das kulturelle Herz der Region.",
       hu: "A hatalmas, nagy magasságban fekvő fennsík, az andoki kultúrák bölcsője.",
@@ -112,6 +115,7 @@ image: "/poi-images/bolivia-altiplano-andino-relief-v2.webp"
     }, image: "/poi-images/bolivia-altiplano-andino-relief-v2.webp"},
   {
     id: "bolivia-llanos-de-moxos-relief-v2",
+    parent: "BO",
     description: {
       de: "Die Ebenen von Moxos sind ein riesiges tropisches Feuchtgebiet im Norden Boliviens mit reicher prähistorischer Geschichte.",
       hu: "Kiterjedt síkság és vizes élőhely az ország északi részén.",
@@ -148,6 +152,7 @@ image: "/poi-images/bolivia-llanos-de-moxos-relief-v2.webp"
     }, image: "/poi-images/bolivia-llanos-de-moxos-relief-v2.webp"},
   {
     id: "bolivia-bosque-seco-chiquitano-relief-v2",
+    parent: "BO",
     description: {
       de: "Der Chiquitano-Trockenwald ist das weltweit größte intakte Ökosystem dieser Art und liegt im Osten Boliviens.",
       hu: "Egyedi trópusi száraz erdő régió a bolíviai keleten.",

@@ -3,6 +3,7 @@ export const croatiaNatureV2: POI[] = [
 
   {
     id: "croatia-mljet-island-nature-v2",
+    parent: "HR",
     type: "island",
     name: { de: "Insel Mljet", hu: "Mljet-sziget", ro: "Insula Mljet", en: "Mljet Island",
 image: "/poi-images/croatia-mljet-island-nature-v2.webp"
@@ -58,6 +59,7 @@ imageHint: "Mljet island monastery on lake",
     , image: "/poi-images/croatia-mljet-island-nature-v2.webp",
 },  {
     id: "croatia-kornati-islands-nature-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Kornati-Inseln", hu: "Kornati-szigetek", ro: "Insulele Kornati", en: "Kornati Islands",
 image: "/poi-images/croatia-kornati-islands-nature-v2.webp"
@@ -113,6 +115,7 @@ imageHint: "Kornati islands aerial view",
     , image: "/poi-images/croatia-kornati-islands-nature-v2.webp",
 },  {
     id: "croatia-brijuni-islands-nature-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Brijuni-Inseln", hu: "Brijuni-szigetek", ro: "Insulele Brijuni", en: "Brijuni Islands",
 image: "/poi-images/croatia-brijuni-islands-nature-v2.webp"
@@ -168,6 +171,7 @@ imageHint: "Brijuni islands landscape and sea",
     , image: "/poi-images/croatia-brijuni-islands-nature-v2.webp",
 },  {
     id: "croatia-north-velebit-park-nature-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Nationalpark NÃ¶rdlicher Velebit", hu: "Ã‰szaki-Velebit Nemzeti Park", ro: "Parcul NaÈ›ional Velebitul de Nord", en: "North Velebit National Park",
 image: "/poi-images/croatia-north-velebit-park-nature-v2.webp"
@@ -223,6 +227,7 @@ imageHint: "North Velebit rocky peaks",
     , image: "/poi-images/croatia-north-velebit-park-nature-v2.webp",
 },  {
     id: "croatia-kopacki-rit-nature-v2",
+    parent: "HR",
     type: "park",
     name: { de: "KopaÄki Rit", hu: "KopÃ¡csi-rÃ©t", ro: "KopaÄki Rit", en: "KopaÄki Rit",
 image: "/poi-images/croatia-kopacki-rit-nature-v2.webp"
@@ -278,6 +283,7 @@ imageHint: "Kopacki Rit wetland birds",
     , image: "/poi-images/croatia-kopacki-rit-nature-v2.webp",
 },  {
     id: "croatia-lonjsko-polje-nature-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Lonjsko Polje", hu: "Lonjsko Polje", ro: "Lonjsko Polje", en: "Lonjsko Polje",
 image: "/poi-images/croatia-lonjsko-polje-nature-v2.webp"
@@ -333,6 +339,7 @@ imageHint: "Lonjsko Polje wooden houses and storks",
     , image: "/poi-images/croatia-lonjsko-polje-nature-v2.webp",
 },  {
     id: "croatia-medvednica-mountain-nature-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Medvednica", hu: "Medve-hegysÃ©g", ro: "Medvednica", en: "Medvednica",
 image: "/poi-images/croatia-medvednica-mountain-nature-v2.webp"
@@ -388,6 +395,7 @@ imageHint: "Medvednica mountain forest",
     , image: "/poi-images/croatia-medvednica-mountain-nature-v2.webp",
 },  {
     id: "croatia-lastovo-archipelago-nature-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Inseln von Lastovo", hu: "Lastovo-szigetek", ro: "Arhipelagul Lastovo", en: "Lastovo Archipelago",
 image: "/poi-images/croatia-lastovo-archipelago-nature-v2.webp"
@@ -443,6 +451,7 @@ imageHint: "Lastovo islands aerial view",
     , image: "/poi-images/croatia-lastovo-archipelago-nature-v2.webp",
 },  {
     id: "croatia-vransko-lake-nature-v2",
+    parent: "HR",
     type: "lake",
     name: { de: "Vrana-See (Dalmatien)", hu: "Vranai-tÃ³", ro: "Lacul Vrana", en: "Vrana Lake",
 image: "/poi-images/croatia-vransko-lake-nature-v2.webp"
@@ -498,6 +507,7 @@ imageHint: "Vrana lake bird sanctuary",
     , image: "/poi-images/croatia-vransko-lake-nature-v2.webp",
 },  {
     id: "croatia-cetina-spring-nature-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Cetina-Quelle", hu: "Cetina-forrÃ¡s", ro: "Izvorul rÃ¢ului Cetina", en: "Cetina River Spring",
 image: "/poi-images/croatia-cetina-spring-nature-v2.webp"
@@ -553,6 +563,7 @@ imageHint: "Cetina river spring Eye of the Earth",
     , image: "/poi-images/croatia-cetina-spring-nature-v2.webp",
 },  {
     id: "croatia-zrmanja-river-nature-v2",
+    parent: "HR",
     type: "river",
     name: { de: "Zrmanja Canyon", hu: "Zrmanja-kanyon", ro: "Canionul Zrmanja", en: "Zrmanja Canyon",
 image: "/poi-images/croatia-zrmanja-river-nature-v2.webp"
@@ -608,6 +619,7 @@ image: "/poi-images/croatia-zrmanja-river-nature-v2.webp"
   },
   {
     id: "croatia-galesnjak-island-nature-v2",
+    parent: "HR",
     type: "island",
     name: { de: "GaleÅ¡njak", hu: "GaleÅ¡njak", ro: "GaleÅ¡njak", en: "GaleÅ¡njak",
 image: "/poi-images/croatia-galesnjak-island-nature-v2.webp"
@@ -663,6 +675,7 @@ imageHint: "Galesnjak heart shaped island aerial",
     , image: "/poi-images/croatia-galesnjak-island-nature-v2.webp",
 },  {
     id: "croatia-lim-fjord-nature-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Lim-Fjord", hu: "Lim-fjord", ro: "Canalul Lim", en: "Lim Fjord",
 image: "/poi-images/croatia-lim-fjord-nature-v2.webp"
@@ -718,6 +731,7 @@ imageHint: "Lim Fjord Istria aerial",
     , image: "/poi-images/croatia-lim-fjord-nature-v2.webp",
 },  {
     id: "croatia-dinara-peak-nature-v2",
+    parent: "HR",
     type: "mountain",
     name: { de: "Dinara", hu: "Dinara", ro: "Muntele Dinara", en: "Dinara",
 image: "/poi-images/croatia-dinara-peak-nature-v2.webp"
@@ -773,6 +787,7 @@ imageHint: "Dinara mountain rocky summit",
     , image: "/poi-images/croatia-dinara-peak-nature-v2.webp",
 },  {
     id: "croatia-neretva-delta-nature-v2",
+    parent: "HR",
     type: "wildlife",
     name: { de: "Neretva Delta", hu: "Neretva-delta", ro: "Delta rÃ¢ului Neretva", en: "Neretva Delta",
 image: "/poi-images/croatia-neretva-delta-nature-v2.webp"
@@ -828,6 +843,7 @@ imageHint: "Neretva delta mandarin fields",
     , image: "/poi-images/croatia-neretva-delta-nature-v2.webp",
 },  {
     id: "croatia-rastoke-falls-nature-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Rastoke", hu: "Rastoke", ro: "Rastoke", en: "Rastoke",
 image: "/poi-images/croatia-rastoke-falls-nature-v2.webp"
@@ -883,6 +899,7 @@ imageHint: "Rastoke waterfalls and houses",
     , image: "/poi-images/croatia-rastoke-falls-nature-v2.webp",
 },  {
     id: "croatia-dragons-eye-lake-nature-v2",
+    parent: "HR",
     type: "lake",
     name: { de: "Drachenaugensee", hu: "SÃ¡rkÃ¡ny-szem tÃ³", ro: "Lacul Ochiul Dragonului", en: "Dragon's Eye Lake",
 image: "/poi-images/croatia-dragons-eye-lake-nature-v2.webp"
@@ -938,6 +955,7 @@ imageHint: "Dragons Eye lake Rogoznica",
     , image: "/poi-images/croatia-dragons-eye-lake-nature-v2.webp",
 },  {
     id: "croatia-zlatni-rat-beach-nature-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Zlatni Rat", hu: "Zlatni Rat", ro: "Zlatni Rat", en: "Zlatni Rat",
 image: "/poi-images/croatia-zlatni-rat-beach-nature-v2.webp"
@@ -993,6 +1011,7 @@ imageHint: "Zlatni Rat beach aerial view",
     , image: "/poi-images/croatia-zlatni-rat-beach-nature-v2.webp",
 },  {
     id: "croatia-blue-lake-imotski-nature-v2",
+    parent: "HR",
     type: "lake",
     name: { de: "Blauer See (Imotski)", hu: "KÃ©k-tÃ³ (Imotski)", ro: "Lacul Albastru (Imotski)", en: "Blue Lake (Imotski)",
 image: "/poi-images/croatia-blue-lake-imotski-nature-v2.webp"
@@ -1048,6 +1067,7 @@ imageHint: "Blue lake Imotski sinkhole",
     , image: "/poi-images/croatia-blue-lake-imotski-nature-v2.webp",
 },  {
     id: "croatia-red-lake-imotski-nature-v2",
+    parent: "HR",
     type: "lake",
     name: { de: "Roter See (Imotski)", hu: "VÃ¶rÃ¶s-tÃ³ (Imotski)", ro: "Lacul RoÈ™u (Imotski)", en: "Red Lake (Imotski)",
 image: "/poi-images/croatia-red-lake-imotski-nature-v2.webp"
@@ -1103,6 +1123,7 @@ imageHint: "Red lake Imotski deep hole",
     , image: "/poi-images/croatia-red-lake-imotski-nature-v2.webp",
 },  {
     id: "croatia-blue-cave-bisevo-nature-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Blaue Grotte von BiÅ¡evo", hu: "BiÅ¡evÃ³i KÃ©k-barlang", ro: "PeÈ™tera AlbastrÄƒ din BiÅ¡evo", en: "Blue Cave of BiÅ¡evo",
 image: "/poi-images/croatia-blue-cave-bisevo-nature-v2.webp"
@@ -1157,6 +1178,7 @@ image: "/poi-images/croatia-blue-cave-bisevo-nature-v2.webp"
   },
   {
     id: "croatia-klek-mountain-nature-v2",
+    parent: "HR",
     type: "peak",
     name: { de: "Klek-Berg", hu: "Klek-hegy", ro: "Muntele Klek", en: "Klek Mountain",
 image: "/poi-images/croatia-klek-mountain-nature-v2.webp"
@@ -1211,6 +1233,7 @@ imageHint: "Klek mountain peak sleeping giant shape",
     , image: "/poi-images/croatia-klek-mountain-nature-v2.webp",
 },  {
     id: "croatia-krupa-river-nature-v2",
+    parent: "HR",
     type: "river",
     name: { de: "Krupa-Fluss", hu: "Krupa-folyÃ³", ro: "RÃ¢ul Krupa", en: "Krupa River",
 image: "/poi-images/croatia-krupa-river-nature-v2.webp"
@@ -1265,6 +1288,7 @@ imageHint: "Krupa river canyon Kudin most bridge",
     , image: "/poi-images/croatia-krupa-river-nature-v2.webp",
 },  {
     id: "croatia-stiniva-cove-nature-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Stiniva-Bucht", hu: "Stiniva-Ã¶bÃ¶l", ro: "Golful Stiniva", en: "Stiniva Cove",
 image: "/poi-images/croatia-stiniva-cove-nature-v2.webp"
@@ -1319,6 +1343,7 @@ imageHint: "Stiniva cove Vis island cliffs beach",
     , image: "/poi-images/croatia-stiniva-cove-nature-v2.webp",
 },  {
     id: "croatia-bijele-samarske-rocks-nature-v2",
+    parent: "HR",
     type: "park",
     name: { de: "Bijele und Samarske stijene", hu: "Bijele Ã©s Samarske stijene", ro: "StÃ¢ncile Bijele È™i Samarske", en: "Bijele and Samarske Rocks",
 image: "/poi-images/croatia-bijele-samarske-rocks-nature-v2.webp"
@@ -1373,6 +1398,7 @@ imageHint: "Bijele stijene karst rocks Gorski Kotar",
     , image: "/poi-images/croatia-bijele-samarske-rocks-nature-v2.webp",
 },  {
     id: "croatia-bacina-lakes-nature-v2",
+    parent: "HR",
     type: "lake",
     name: { de: "BaÄ‡ina-Seen", hu: "BaÄ‡ina-tavak", ro: "Lacurile BaÄ‡ina", en: "BaÄ‡ina Lakes",
 image: "/poi-images/croatia-bacina-lakes-nature-v2.webp"
@@ -1427,6 +1453,7 @@ imageHint: "Bacina lakes aerial view Croatia",
     , image: "/poi-images/croatia-bacina-lakes-nature-v2.webp",
 },  {
     id: "croatia-mreznica-river-nature-v2",
+    parent: "HR",
     type: "river",
     name: { de: "MreÅ¾nica-Fluss", hu: "MreÅ¾nica-folyÃ³", ro: "RÃ¢ul MreÅ¾nica", en: "MreÅ¾nica River",
 image: "/poi-images/croatia-mreznica-river-nature-v2.webp"
@@ -1481,6 +1508,7 @@ imageHint: "Mreznica river waterfalls kayaking",
     , image: "/poi-images/croatia-mreznica-river-nature-v2.webp",
 },  {
     id: "croatia-susak-island-nature-v2",
+    parent: "HR",
     type: "island",
     name: { de: "Insel Susak", hu: "Susak-sziget", ro: "Insula Susak", en: "Susak Island",
 image: "/poi-images/croatia-susak-island-nature-v2.webp"
@@ -1535,6 +1563,7 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
     , image: "/poi-images/croatia-susak-island-nature-v2.webp",
 },  {
     id: "croatia-kamacnik-canyon-nature-v2",
+    parent: "HR",
     type: "valley",
     name: { de: "KamaÄnik-Schlucht", hu: "KamaÄnik-szurdok", ro: "Canionul KamaÄnik", en: "KamaÄnik Canyon",
 image: "/poi-images/croatia-kamacnik-canyon-nature-v2.webp"
@@ -1586,5 +1615,166 @@ image: "/poi-images/croatia-kamacnik-canyon-nature-v2.webp"
         "Source depth exceeds 95 meters"
     ]
     }
+  }
+,
+  {
+    id: "croatia-vrazji-prolaz-nature-v2",
+    parent: "HR",
+    type: "valley",
+    name: { de: "Vražji prolaz", hu: "Ördög-szoros", ro: "Pasajul Diavolului", en: "Devil's Passage" },
+    coordinates: { lat: 45.421, lng: 14.908 },
+    description: {
+      de: "Diese schmale Schlucht im Gorski Kotar beeindruckt durch steile Felswände und einen tosenden Bach. Metallstege ermöglichen den Zugang durch die tiefen Felsspalten.",
+      hu: "Ez a szűk szurdok a Gorski Kotar régióban meredek sziklafalaival és zúgó patakjával nyűgöz le. Fémpallók teszik lehetővé az átjutást a mély sziklahasadékokon.",
+      ro: "Acest canion îngust din Gorski Kotar impresionează prin pereții stâncoși abrupți și un pârâu învolburat. Podurile metalice permit accesul prin crăpăturile adânci.",
+      en: "This narrow canyon in Gorski Kotar impresses with steep rock walls and a roaring stream. Metal walkways allow access through the deep rock crevices.",
+    },
+    facts: {
+      de: ["800 Meter Länge", "Gorski Kotar Region", "Schmale Felswände", "Jasle-Bach"],
+      hu: ["800 méter hosszú", "Gorski Kotar régió", "Szűk sziklafalak", "Jasle-patak"],
+      ro: ["800 metri lungime", "Regiunea Gorski Kotar", "Pereți înguști", "Pârâul Jasle"],
+      en: ["800 meters long", "Gorski Kotar region", "Narrow rock walls", "Jasle stream"],
+    },
+    imageHint: "Vrazji prolaz canyon canyon walkways",
+  },
+  {
+    id: "croatia-zeleni-vir-nature-v2",
+    parent: "HR",
+    type: "landmark",
+    name: { de: "Zeleni vir", hu: "Zöld örvény", ro: "Vârtejul Verde", en: "Green Whirlpool" },
+    coordinates: { lat: 45.424, lng: 14.904 },
+    description: {
+      de: "Ein spektakulärer 70 Meter hoher Wasserfall stürzt über eine Höhlenöffnung in einen smaragdgrünen See. Der Ort beherbergt das erste Wasserkraftwerk der Region.",
+      hu: "Egy látványos, 70 méter magas vízesés zúdul le egy barlangnyílás felett egy smaragdzöld tóba. Itt található a régió első vízierőműve is.",
+      ro: "O cascadă spectaculoasă de 70 de metri înălțime cade peste gura unei peșteri într-un lac de smarald. Locul găzduiește prima hidrocentrală din regiune.",
+      en: "A spectacular 70-meter high waterfall plunges over a cave opening into an emerald green lake. The site hosts the region's first hydroelectric power plant.",
+    },
+    facts: {
+      de: ["70 Meter Fallhöhe", "Smaragdgrüner See", "Skrad Gemeinde", "Höhlensystem"],
+      hu: ["70 méteres magasság", "Smaragdzöld tó", "Skrad község", "Barlangrendszer"],
+      ro: ["70 metri înălțime", "Lac verde smarald", "Comuna Skrad", "Sistem de peșteri"],
+      en: ["70-meter drop height", "Emerald green lake", "Skrad municipality", "Cave system"],
+    },
+    imageHint: "Zeleni vir waterfall and cave Skrad",
+  },
+  {
+    id: "croatia-kupa-source-nature-v2",
+    parent: "HR",
+    type: "river",
+    name: { de: "Kupa-Quelle", hu: "Kupa-forrás", ro: "Izvorul Kupa", en: "Source of the Kupa" },
+    coordinates: { lat: 45.48, lng: 14.735 },
+    description: {
+      de: "Diese tiefe Karstquelle im Nationalpark Risnjak bildet einen stillen, tiefblauen See unter hohen Felsen. Sie gehört zu den tiefsten und rätselhaftesten Quellen Kroatiens.",
+      hu: "Ez a mély karsztforrás a Risnjak Nemzeti Parkban egy csendes, mélykék tavat alkot a magas sziklák alatt. Horvátország egyik legmélyebb és legrejtélyesebb forrása.",
+      ro: "Acest izvor carstic adânc din Parcul Național Risnjak formează un lac liniștit, albastru închis, sub stânci înalte. Este unul dintre cele mai adânci și enigmatice izvoare din Croația.",
+      en: "This deep karst spring in Risnjak National Park forms a quiet, deep blue lake beneath towering cliffs. It is one of Croatia's deepest and most enigmatic springs.",
+    },
+    facts: {
+      de: ["154 Meter Tauchtiefe", "Risnjak Nationalpark", "Türkisfarbenes Wasser", "Karstphänomen"],
+      hu: ["154 méter merülési mélység", "Risnjak Nemzeti Park", "Türkizkék víz", "Karsztjelenség"],
+      ro: ["154 metri adâncime scufundare", "Parcul Național Risnjak", "Apă turcoaz", "Fenomen carstic"],
+      en: ["154-meter diving depth", "Risnjak National Park", "Turquoise water", "Karst phenomenon"],
+    },
+    imageHint: "Source of the Kupa blue spring Risnjak",
+  },
+  {
+    id: "croatia-una-spring-nature-v2",
+    parent: "HR",
+    type: "river",
+    name: { de: "Una-Quelle", hu: "Una-forrás", ro: "Izvorul Una", en: "Source of the Una" },
+    coordinates: { lat: 44.401, lng: 16.103 },
+    description: {
+      de: "Eine beeindruckende vertikale Karstquelle, die als hydrologisches Denkmal geschützt ist. Das eiskalte, kristallklare Wasser tritt in einem tiefen, blau-grünen Becken an die Oberfläche.",
+      hu: "Lenyűgöző függőleges karsztforrás, amely hidrológiai műemlékvédelem alatt áll. A jéghideg, kristálytiszta víz egy mély, kék-zöld medencében tör a felszínre.",
+      ro: "O sursă carstică verticală impresionantă, protejată ca monument hidrologic. Apa înghețată și cristalină iese la suprafață într-un bazin adânc de culoare albastru-verde.",
+      en: "An impressive vertical karst spring protected as a hydrological monument. The ice-cold, crystal-clear water emerges at the surface in a deep, blue-green basin.",
+    },
+    facts: {
+      de: ["248 Meter Tiefe", "Hydrologisches Denkmal", "Dinarisches Gebirge", "Kristallklares Wasser"],
+      hu: ["248 méter mély", "Hidrológiai műemlék", "Dinári-hegység", "Kristálytiszta víz"],
+      ro: ["248 metri adâncime", "Monument hidrologic", "Munții Dinari", "Apă cristalină"],
+      en: ["248-meter depth", "Hydrological monument", "Dinaric Alps", "Crystal clear water"],
+    },
+    imageHint: "Source of the Una spring deep blue",
+  },
+  {
+    id: "croatia-vrana-lake-cres-nature-v2",
+    parent: "HR",
+    type: "lake",
+    name: { de: "Vrana-See (Cres)", hu: "Vrana-tó (Cres)", ro: "Lacul Vrana (Cres)", en: "Vrana Lake (Cres)" },
+    coordinates: { lat: 44.86, lng: 14.414 },
+    description: {
+      de: "Dieser riesige Süßwassersee auf der Insel Cres ist ein außergewöhnliches Naturphänomen. Sein Boden liegt weit unter dem Meeresspiegel, was ihn zu einer Kryptodepression macht.",
+      hu: "Ez a hatalmas édesvízi tó Cres szigetén különleges természeti jelenség. Medre messze a tengerszint alatt fekszik, ami kriptodepresszióvá teszi.",
+      ro: "Acest lac imens de apă dulce de pe insula Cres este un fenomen natural extraordinar. Fundul său se află mult sub nivelul mării, ceea ce îl face o criptodepresiune.",
+      en: "This vast freshwater lake on the island of Cres is an extraordinary natural phenomenon. Its bottom lies far below sea level, making it a cryptodepression.",
+    },
+    facts: {
+      de: ["74 Meter tief", "Süßwasserreservoir", "Insel Cres", "Kryptodepression"],
+      hu: ["74 méter mély", "Édesvízkészlet", "Cres-sziget", "Kriptodepresszió"],
+      ro: ["74 metri adâncime", "Rezervor de apă dulce", "Insula Cres", "Criptodepresiune"],
+      en: ["74-meter depth", "Freshwater reservoir", "Cres island", "Cryptodepression"],
+    },
+    imageHint: "Vrana Lake Cres island freshwater",
+  },
+  {
+    id: "croatia-jankovac-valley-nature-v2",
+    parent: "HR",
+    type: "valley",
+    name: { de: "Jankovac-Tal", hu: "Jankovác-völgy", ro: "Valea Jankovac", en: "Jankovac Valley" },
+    coordinates: { lat: 45.52, lng: 17.685 },
+    description: {
+      de: "Ein idyllisches Bergtal im Papuk-Gebirge, bekannt für seine Seen und den beeindruckenden Skakavac-Wasserfall. Es ist eines der beliebtesten Ausflugsziele in Slawonien.",
+      hu: "Idilli hegyi völgy a Papuk-hegységben, amely tavairól és a lenyűgöző Skakavac-vízesésről ismert. Szlavónia egyik legnépszerűbb kirándulóhelye.",
+      ro: "O vale montană idilică în munții Papuk, cunoscută pentru lacurile sale și impresionanta cascadă Skakavac. Este una dintre cele mai populare destinații din Slavonia.",
+      en: "An idyllic mountain valley in the Papuk mountains, known for its lakes and the impressive Skakavac waterfall. It is one of the most popular excursion sites in Slavonia.",
+    },
+    facts: {
+      de: ["Skakavac Wasserfall", "Papuk Gebirge", "Zwei künstliche Seen", "Graf Janković Park"],
+      hu: ["Skakavac-vízesés", "Papuk-hegység", "Két mesterséges tó", "Jankovics gróf parkja"],
+      ro: ["Cascada Skakavac", "Munții Papuk", "Două lacuri artificiale", "Parcul Contelui Janković"],
+      en: ["Skakavac waterfall", "Papuk mountains", "Two artificial lakes", "Count Janković park"],
+    },
+    imageHint: "Jankovac waterfall Skakavac Papuk",
+  },
+  {
+    id: "croatia-elafiti-islands-nature-v2",
+    parent: "HR",
+    type: "landmark",
+    name: { de: "Elafiten-Inseln", hu: "Elafit-szigetek", ro: "Insulele Elafiti", en: "Elafiti Islands" },
+    coordinates: { lat: 42.724, lng: 17.884 },
+    description: {
+      de: "Ein Archipel aus 13 Inseln nordwestlich von Dubrovnik, von denen nur drei bewohnt sind. Die Inseln sind für ihre üppige mediterrane Vegetation und versteckten Buchten bekannt.",
+      hu: "Dubrovniktól északnyugatra fekvő 13 szigetből álló szigetcsoport, amelyek közül csak három lakott. A szigetek buja mediterrán növényzetükről és rejtett öbleikről ismertek.",
+      ro: "Un arhipelag de 13 insule la nord-vest de Dubrovnik, dintre care doar trei sunt locuite. Insulele sunt cunoscute pentru vegetația lor mediteraneană luxuriantă și golfurile ascunse.",
+      en: "An archipelago of 13 islands northwest of Dubrovnik, of which only three are inhabited. The islands are known for their lush Mediterranean vegetation and hidden coves.",
+    },
+    facts: {
+      de: ["13 Inseln insgesamt", "3 bewohnte Inseln", "Nahe Dubrovnik", "Mediterrane Flora"],
+      hu: ["Összesen 13 sziget", "3 lakott sziget", "Dubrovnik közelében", "Mediterrán flóra"],
+      ro: ["13 insule în total", "3 insule locuite", "Lângă Dubrovnik", "Floră mediteraneană"],
+      en: ["13 islands total", "3 inhabited islands", "Near Dubrovnik", "Mediterranean flora"],
+    },
+    imageHint: "Elafiti islands aerial view Dubrovnik",
+  },
+  {
+    id: "croatia-vela-draga-nature-v2",
+    parent: "HR",
+    type: "valley",
+    name: { de: "Vela Draga-Schlucht", hu: "Vela Draga-szurdok", ro: "Canionul Vela Draga", en: "Vela Draga" },
+    coordinates: { lat: 45.303, lng: 14.204 },
+    description: {
+      de: "Ein spektakuläres geomorphologisches Denkmal im Naturpark Učka mit bizarren Kalksteintürmen. Die Schlucht bietet dramatische Ausblicke und ist ein Paradies für Kletterer.",
+      hu: "Látványos geomorfológiai emlék az Učka Természeti Parkban, bizarr mészkőtornyokkal. A szurdok drámai kilátást nyújt, és a sziklamászók paradicsoma.",
+      ro: "Un monument geomorfologic spectaculos în Parcul Natural Učka, cu turnuri de calcar bizare. Canionul oferă vederi dramatice și este un paradis pentru alpiniști.",
+      en: "A spectacular geomorphological monument in Učka Nature Park featuring bizarre limestone towers. The canyon offers dramatic views and is a paradise for climbers.",
+    },
+    facts: {
+      de: ["Kalksteintürme bis 100m", "Učka Naturpark", "Geomorphologisches Denkmal", "Klettergebiet"],
+      hu: ["100 méteres mészkőtornyok", "Učka Természeti Park", "Geomorfológiai emlék", "Mászóhely"],
+      ro: ["Turnuri de calcar de 100m", "Parcul Natural Učka", "Monument geomorfologic", "Zonă de escaladă"],
+      en: ["100m limestone towers", "Učka Nature Park", "Geomorphological monument", "Climbing area"],
+    },
+    imageHint: "Vela Draga limestone towers Ucka",
   }
 ];

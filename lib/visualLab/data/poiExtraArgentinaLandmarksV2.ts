@@ -4,6 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraArgentinaLandmarksV2: POI[] = [
   {
     id: "obelisco-buenos-aires-landmarks-v2",
+    parent: "AR",
     description: { en: "An iconic monument located in the center of Buenos Aires, symbolising the city's identity.",
       hu: "Buenos Aires legismertebb jelképe az Avenida 9 de Julio sugárúton. A város alapításának 400. évfordulójára épült 1936-ban.",
       de: "Das ikonische Denkmal im Zentrum von Buenos Aires ist das Wahrzeichen der Stadt und ein nationales Symbol.",
@@ -43,6 +44,7 @@ image: "/poi-images/obelisco-buenos-aires-landmarks-v2.webp"
     }, image: "/poi-images/obelisco-buenos-aires-landmarks-v2.webp"},
   {
     id: "casa-rosada-landmarks-v2",
+    parent: "AR",
     description: { en: "The executive mansion and office of the President of Argentina, famous for its pink exterior.",
       hu: "Az argentin elnöki palota a Plaza de Mayo téren, jellegzetes rózsaszín falairól kapta a nevét. Itt található az elnök hivatala.",
       de: "Der markante rosafarbene Regierungspalast an der Plaza de Mayo ist der Sitz des argentinischen Präsidenten.",
@@ -82,6 +84,7 @@ image: "/poi-images/casa-rosada-landmarks-v2.webp"
     }, image: "/poi-images/casa-rosada-landmarks-v2.webp"},
   {
     id: "teatro-colon-landmarks-v2",
+    parent: "AR",
     description: { en: "One of the world's most acclaimed opera houses, known for its incredible acoustics and beauty.",
       hu: "A világ egyik legfontosabb operaháza Buenos Airesben, amely világhírű akusztikájáról és pazar belső díszítéséről ismert.",
       de: "Eines der bedeutendsten Opernhäuser der Welt, berühmt für seine außergewöhnliche Akustik und prunkvolle Architektur.",
@@ -121,6 +124,7 @@ image: "/poi-images/teatro-colon-landmarks-v2.webp"
     }, image: "/poi-images/teatro-colon-landmarks-v2.webp"},
   {
     id: "puente-de-la-mujer-landmarks-v2",
+    parent: "AR",
     description: { en: "A modern, rotating footbridge in the Puerto Madero district, symbolising female grace.",
       hu: "Modern gyalogoshíd Puerto Madero negyedben, Santiago Calatrava tervezte. A híd egy tangót táncoló párt jelképez absztrakt formában.",
       de: "Eine moderne, elegante Drehbrücke im Stadtteil Puerto Madero, entworfen von Santiago Calatrava.",
@@ -160,6 +164,7 @@ image: "/poi-images/puente-de-la-mujer-landmarks-v2.webp"
     }, image: "/poi-images/puente-de-la-mujer-landmarks-v2.webp"},
   {
     id: "floralis-generica-landmarks-v2",
+    parent: "AR",
     description: { en: "A giant metal flower sculpture that opens and closes throughout the day.",
       hu: "Hatalmas acélból készült virágszobor a Recoleta negyedben. A sziromszerű lemezek a napszaknak megfelelően nyílnak ki és csukódnak be.",
       de: "Eine riesige mechanische Blume aus Edelstahl, die sich je nach Tageszeit öffnet und schließt.",
@@ -199,6 +204,7 @@ image: "/poi-images/floralis-generica-landmarks-v2.webp"
     }, image: "/poi-images/floralis-generica-landmarks-v2.webp"},
   {
     id: "palacio-barolo-landmarks-v2",
+    parent: "AR",
     description: { en: "An exquisite building inspired by Dante's Divine Comedy, known for its unique tower.",
       hu: "Egyedülálló épület Buenos Airesben, amelyet Dante Isteni színjátéka ihletett. A torony tetején található világítótoronyból csodás a kilátás.",
       de: "Ein architektonisches Meisterwerk, dessen Design von Dantes 'Göttlicher Komödie' inspiriert wurde.",
@@ -238,6 +244,7 @@ image: "/poi-images/palacio-barolo-landmarks-v2.webp"
     }, image: "/poi-images/palacio-barolo-landmarks-v2.webp"},
   {
     id: "recoleta-cemetery-landmarks-v2",
+    parent: "AR",
     description: { en: "A historic cemetery featuring elaborate mausoleums, including the grave of Eva Perón.",
       hu: "A világ egyik legszebb temetője, ahol Argentína legfontosabb történelmi alakjai nyugszanak, köztük Eva Perón.",
       de: "Ein prachtvoller Friedhof, der wie eine kleine Stadt aus Marmorstatuen und Mausoleen wirkt.",
@@ -277,6 +284,7 @@ image: "/poi-images/recoleta-cemetery-landmarks-v2.webp"
     }, image: "/poi-images/recoleta-cemetery-landmarks-v2.webp"},
   {
     id: "metropolitan-cathedral-landmarks-v2",
+    parent: "AR",
     description: { en: "The main Catholic church in Buenos Aires, reflecting neoclassical architecture and history.",
       hu: "Buenos Aires főtemploma a Plaza de Mayo téren. Itt található San Martín tábornok, a nemzeti hős mauzóleuma.",
       de: "Die Hauptkirche von Buenos Aires, in der sich das Mausoleum des Nationalhelden José de San Martín befindet.",
@@ -316,6 +324,7 @@ image: "/poi-images/metropolitan-cathedral-landmarks-v2.webp"
     }, image: "/poi-images/metropolitan-cathedral-landmarks-v2.webp"},
   {
     id: "la-bombonera-landmarks-v2",
+    parent: "AR",
     description: { en: "The legendary home stadium of Boca Juniors, known for its unique shape and fan atmosphere.",
       hu: "A Boca Juniors futballklub világhírű stadionja La Boca negyedben. Különleges, meredek kialakítása miatt híres a hangulatáról.",
       de: "Das legendäre Heimstadion von Boca Juniors, bekannt für seine steilen Tribünen und intensive Atmosphäre.",
@@ -355,6 +364,7 @@ image: "/poi-images/la-bombonera-landmarks-v2.webp"
     }, image: "/poi-images/la-bombonera-landmarks-v2.webp"},
   {
     id: "estadio-monumental-landmarks-v2",
+    parent: "AR",
     description: { en: "The largest football stadium in Argentina and home to the national team.",
       hu: "A River Plate klub és az argentin nemzeti válogatott otthona. Ez az ország legnagyobb stadionja, számos nagy mérkőzés helyszíne.",
       de: "Das größte Stadion Argentiniens und Heimstätte der Nationalmannschaft sowie des Clubs River Plate.",
@@ -394,6 +404,7 @@ image: "/poi-images/estadio-monumental-landmarks-v2.webp"
     }, image: "/poi-images/estadio-monumental-landmarks-v2.webp"},
   {
     id: "cabildo-buenos-aires-landmarks-v2",
+    parent: "AR",
     description: { en: "The site of the May Revolution, representing the birth of Argentine independence.",
       hu: "A gyarmati kori városháza a Plaza de Mayo téren, ahol az 1810-es májusi forradalom eseményei zajlottak.",
       de: "Das historische Regierungsgebäude an der Plaza de Mayo, in dem die Unabhängigkeitsbewegung ihren Anfang nahm.",
@@ -433,6 +444,7 @@ image: "/poi-images/cabildo-buenos-aires-landmarks-v2.webp"
     }, image: "/poi-images/cabildo-buenos-aires-landmarks-v2.webp"},
   {
     id: "monumento-nacional-bandera-landmarks-v2",
+    parent: "AR",
     description: { en: "An imposing monument in Rosario, dedicated to the creation of the Argentine flag.",
       hu: "Impozáns emlékmű Rosario városában a nemzeti zászló tiszteletére. Azon a helyen áll, ahol először vonták fel a lobogót.",
       de: "Ein monumentaler Komplex in Rosario, der an den Ort erinnert, an dem die Nationalflagge zum ersten Mal gehisst wurde.",
@@ -472,6 +484,7 @@ image: "/poi-images/monumento-nacional-bandera-landmarks-v2.webp"
     }, image: "/poi-images/monumento-nacional-bandera-landmarks-v2.webp"},
   {
     id: "cristo-redentor-andes-landmarks-v2",
+    parent: "AR",
     description: { en: "A symbolic statue on the border with Chile, representing peace between the two nations.",
       hu: "Hatalmas Krisztus-szobor az Andok hegycsúcsai között, az argentin-chilei határon. A két ország közötti békét szimbolizálja.",
       de: "Eine imposante Christusstatue in den Anden, die als Symbol für den Frieden zwischen Argentinien und Chile errichtet wurde.",
@@ -511,6 +524,7 @@ image: "/poi-images/cristo-redentor-andes-landmarks-v2.webp"
     }, image: "/poi-images/cristo-redentor-andes-landmarks-v2.webp"},
   {
     id: "basilica-de-lujan-landmarks-v2",
+    parent: "AR",
     description: { en: "A massive Neo-Gothic basilica and a major pilgrimage site for Catholics in Argentina.",
       hu: "Hatalmas neogótikus bazilika Luján városában, Argentína legfontosabb zarándokhelye. A Lujáni Szűzanya tiszteletére épült.",
       de: "Das wichtigste religiöse Zentrum Argentiniens, gewidmet der Schutzpatronin des Landes.",
@@ -550,6 +564,7 @@ image: "/poi-images/basilica-de-lujan-landmarks-v2.webp"
     }, image: "/poi-images/basilica-de-lujan-landmarks-v2.webp"},
   {
     id: "iglesia-san-francisco-salta-landmarks-v2",
+    parent: "AR",
     description: { en: "A famous church in Salta, known for its striking red and yellow facade and colonial beauty.",
       hu: "Salta egyik legszebb temploma, amely vibráló vörös és arany színeiről, valamint rendkívül magas harangtornyáról híres.",
       de: "Eine der farbenprächtigsten Kirchen Argentiniens, bekannt für ihren leuchtend roten Turm und die barocke Verzierung.",
@@ -589,6 +604,7 @@ image: "/poi-images/iglesia-san-francisco-salta-landmarks-v2.webp"
     }, image: "/poi-images/iglesia-san-francisco-salta-landmarks-v2.webp"},
   {
     id: "pucara-de-tilcara-landmarks-v2",
+    parent: "AR",
     description: { en: "A restored pre-Inca fortress located in the dramatic landscape of Tilcara.",
       hu: "Pre-inka kori erődítmény Jujuy tartományban, a Humahuaca-völgyben. A részben rekonstruált romok bepillantást engednek az őslakosok életébe.",
       de: "Eine rekonstruierte präkolumbianische Festung in der Quebrada de Humahuaca mit Blick über das Tal.",
@@ -628,6 +644,7 @@ image: "/poi-images/pucara-de-tilcara-landmarks-v2.webp"
     }, image: "/poi-images/pucara-de-tilcara-landmarks-v2.webp"},
   {
     id: "ruinas-de-quilmes-landmarks-v2",
+    parent: "AR",
     description: { en: "Remains of an ancient city, illustrating the resistance of the Quilmes people against colonization.",
       hu: "Az ország egyik legnagyobb pre-kolumbiai településének romjai Tucumán tartományban. A quilmes indiánok utolsó bástyája volt a spanyolok ellen.",
       de: "Die Überreste der größten präkolumbianischen Siedlung Argentiniens, erbaut vom Volk der Quilmes.",
@@ -668,6 +685,7 @@ image: "/poi-images/ruinas-de-quilmes-landmarks-v2.webp"
   },
   {
     id: "san-ignacio-mini-landmarks-v2",
+    parent: "AR",
     description: { en: "Well-preserved remains of a Jesuit mission, providing insight into 17th-century missionary life.",
       hu: "A legjobban megőrzött jezsuita misszió Argentínában. A vörös homokkőből épült monumentális romok Misiones tartomány ékkövei.",
       de: "Die am besten erhaltene Jesuitenmission Argentiniens, bekannt für ihre prachtvollen Reliefs aus rotem Sandstein.",
@@ -707,6 +725,7 @@ image: "/poi-images/san-ignacio-mini-landmarks-v2.webp"
     }, image: "/poi-images/san-ignacio-mini-landmarks-v2.webp"},
   {
     id: "manzana-jesuitica-landmarks-v2",
+    parent: "AR",
     description: { en: "A collection of historic Jesuit buildings in Córdoba, listed as a world heritage site.",
       hu: "Történelmi tömb Córdoba központjában, amely a jezsuita rend oktatási és hitéleti központja volt Dél-Amerikában.",
       de: "Das historische Jesuitenviertel im Herzen von Córdoba, ein Zeugnis kolonialer Bildung und Religion.",
@@ -746,6 +765,7 @@ image: "/poi-images/manzana-jesuitica-landmarks-v2.webp"
     }, image: "/poi-images/manzana-jesuitica-landmarks-v2.webp"},
   {
     id: "faro-les-eclaireurs-landmarks-v2",
+    parent: "AR",
     description: { en: "A scenic lighthouse in the Beagle Channel, often called the lighthouse at the end of the world.",
       hu: "Ikonikus vörös-fehér világítótorony a Beagle-csatornán, Ushuaia közelében. Gyakran nevezik tévesen a világvégi világítótoronynak.",
       de: "Der berühmte rot-weiße Leuchtturm im Beagle-Kanal, oft als der Leuchtturm am Ende der Welt bezeichnet.",
@@ -785,6 +805,7 @@ image: "/poi-images/faro-les-eclaireurs-landmarks-v2.webp"
     }, image: "/poi-images/faro-les-eclaireurs-landmarks-v2.webp"},
   {
     id: "monumento-al-indio-landmarks-v2",
+    parent: "AR",
     description: { en: "A tribute monument celebrating the indigenous roots and heritage of Argentina's northwestern region.",
       hu: "Az őslakos népek tiszteletére emelt monumentális szobor Tucumán tartományban, az Andok völgyében.",
       de: "Ein monumentales Denkmal in den Bergen von Tucumán, das den indigenen Völkern der Region gewidmet ist.",
@@ -824,6 +845,7 @@ image: "/poi-images/monumento-al-indio-landmarks-v2.webp"
     }, image: "/poi-images/monumento-al-indio-landmarks-v2.webp"},
   {
     id: "planetario-galileo-galilei-landmarks-v2",
+    parent: "AR",
     description: { en: "A popular planetarium in Buenos Aires, recognized for its distinctive modern design.",
       hu: "Buenos Aires futurisztikus megjelenésű planetáriuma a Palermo negyedben. Az épület egy Szaturnusz-gyűrűt formáz.",
       de: "Das futuristische Planetarium von Buenos Aires, das für seine markante kugelförmige Architektur bekannt ist.",
@@ -863,6 +885,7 @@ image: "/poi-images/planetario-galileo-galilei-landmarks-v2.webp"
     }, image: "/poi-images/planetario-galileo-galilei-landmarks-v2.webp"},
   {
     id: "torre-monumental-landmarks-v2",
+    parent: "AR",
     description: { en: "A historic clock tower in Buenos Aires, formerly known as the Torre de los Ingleses.",
       hu: "A brit közösség ajándékaként épült óratorony Buenos Airesben. Gyakran 'Torre de los Ingleses'-nek (Angolok tornyának) is nevezik.",
       de: "Ein prachtvoller Uhrturm im britischen Stil, ein Geschenk der britischen Gemeinschaft an Buenos Aires.",
@@ -902,6 +925,7 @@ image: "/poi-images/torre-monumental-landmarks-v2.webp"
     }, image: "/poi-images/torre-monumental-landmarks-v2.webp"},
   {
     id: "palacio-aguas-corrientes-landmarks-v2",
+    parent: "AR",
     description: { en: "A visually stunning building that once served as a major water pumping station, known for its facade.",
       hu: "A világ egyik legszebb víztározó épülete Buenos Airesben. A pazar terrakotta díszítésű homlokzat egy hatalmas víztartály-rendszert rejt.",
       de: "Eines der prachtvollsten Gebäude der Welt, das hinter seiner verzierten Fassade riesige Wassertanks verbirgt.",
@@ -941,6 +965,7 @@ image: "/poi-images/palacio-aguas-corrientes-landmarks-v2.webp"
     }, image: "/poi-images/palacio-aguas-corrientes-landmarks-v2.webp"},
   {
     id: "mnba-buenos-aires-landmarks-v2",
+    parent: "AR",
     description: { en: "The National Museum of Fine Arts, housing a vast collection of Argentine and international art.",
       hu: "Az Argentin Szépművészeti Múzeum, amely az ország legjelentősebb művészeti gyűjteményének ad otthont a Recoleta negyedben.",
       de: "Das Nationalmuseum der Schönen Künste beherbergt die bedeutendste Kunstsammlung Argentiniens.",
@@ -980,6 +1005,7 @@ image: "/poi-images/mnba-buenos-aires-landmarks-v2.webp"
     }, image: "/poi-images/mnba-buenos-aires-landmarks-v2.webp"},
   {
     id: "centro-cultural-kirchner-landmarks-v2",
+    parent: "AR",
     description: { en: "A large cultural center housed in a historic building, hosting various arts and musical performances.",
       hu: "Hatalmas kulturális központ Buenos Airesben, amely a felújított egykori Központi Postapalota épületében kapott helyet.",
       de: "Eines der größten Kulturzentren der Welt, untergebracht im prächtigen ehemaligen Postpalast.",
@@ -1020,6 +1046,7 @@ image: "/poi-images/centro-cultural-kirchner-landmarks-v2.webp"
   },
   {
     id: "congreso-nacion-argentina-landmarks-v2",
+    parent: "AR",
     description: { en: "The monumental building housing the Argentine National Congress, with a prominent dome.",
       hu: "Az argentin parlament monumentális neoklasszicista épülete Buenos Airesben, hatalmas zöld kupolájáról ismert.",
       de: "Der Sitz des argentinischen Parlaments, ein monumentales Gebäude mit einer beeindruckenden Kuppel.",
@@ -1059,6 +1086,7 @@ image: "/poi-images/congreso-nacion-argentina-landmarks-v2.webp"
     }, image: "/poi-images/congreso-nacion-argentina-landmarks-v2.webp"},
   {
     id: "dique-san-roque-landmarks-v2",
+    parent: "AR",
     description: { en: "A large dam in the Córdoba province, significant for its role in energy and tourism.",
       hu: "Történelmi és mérnöki jelentőségű gát Córdoba tartományban, amely a San Roque-tavat hozta létre. Fontos szerepe van a vízellátásban.",
       de: "Ein monumentaler Staudamm in Córdoba, der den San-Roque-See bildet und für seine Ingenieurskunst bekannt ist.",
@@ -1098,6 +1126,7 @@ image: "/poi-images/dique-san-roque-landmarks-v2.webp"
     }, image: "/poi-images/dique-san-roque-landmarks-v2.webp"},
   {
     id: "puente-rosario-victoria-landmarks-v2",
+    parent: "AR",
     description: { en: "A long cable-stayed bridge spanning the Paraná River, connecting the provinces of Santa Fe and Entre Ríos.",
       hu: "Hatalmas hídrendszer a Paraná folyó felett, amely Rosario városát köti össze Victoria településsel. Fontos kereskedelmi útvonal.",
       de: "Eine gewaltige Schrägseilbrücke, die die Städte Rosario und Victoria über den Paraná-Fluss verbindet.",
@@ -1137,6 +1166,7 @@ image: "/poi-images/puente-rosario-victoria-landmarks-v2.webp"
     }, image: "/poi-images/puente-rosario-victoria-landmarks-v2.webp"},
   {
     id: "viaducto-la-polvorilla-landmarks-v2",
+    parent: "AR",
     description: { en: "A famous high-altitude railway viaduct, a marvel of engineering on the Train to the Clouds route.",
       hu: "A Felhők Vonatának leghíresebb viaduktja Salta tartományban. A hatalmas acélszerkezet 4200 méteres magasságban ível át a völgy felett.",
       de: "Ein spektakuläres Eisenbahnviadukt in den Anden, das Teil der Route des berühmten 'Zugs in die Wolken' ist.",

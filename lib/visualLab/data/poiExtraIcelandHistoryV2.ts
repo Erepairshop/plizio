@@ -3,6 +3,7 @@ export const icelandHistoryV2: POI[] = [
 
   {
     id: "iceland-thingvellir-history-v2",
+    parent: "IS",
     type: "ruins",
     name: { de: "Þingvellir", hu: "Þingvellir", ro: "Þingvellir", en: "Þingvellir",
 image: "/poi-images/iceland-thingvellir-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Thingvellir national park assembly site Iceland",
     image: "/poi-images/iceland-thingvellir-history-v2.webp",
 },  {
     id: "iceland-skalholt-history-v2",
+    parent: "IS",
     type: "cathedral",
     name: { de: "Skálholt", hu: "Skálholt", ro: "Skálholt", en: "Skálholt",
 image: "/poi-images/iceland-skalholt-history-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Skalholt cathedral historic site Iceland",
     image: "/poi-images/iceland-skalholt-history-v2.webp",
 },  {
     id: "iceland-holar-history-v2",
+    parent: "IS",
     type: "cathedral",
     name: { de: "Hólar í Hjaltadal", hu: "Hólar í Hjaltadal", ro: "Hólar í Hjaltadal", en: "Hólar í Hjaltadal",
 image: "/poi-images/iceland-holar-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Holar cathedral and university Iceland",
     image: "/poi-images/iceland-holar-history-v2.webp",
 },  {
     id: "iceland-reykholt-history-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Reykholt", hu: "Reykholt", ro: "Reykholt", en: "Reykholt",
 image: "/poi-images/iceland-reykholt-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Reykholt Snorri Sturluson historic site Iceland",
     image: "/poi-images/iceland-reykholt-history-v2.webp",
 },  {
     id: "iceland-bessastadir-history-v2",
+    parent: "IS",
     type: "palace",
     name: { de: "Bessastaðir", hu: "Bessastaðir", ro: "Bessastaðir", en: "Bessastaðir",
 image: "/poi-images/iceland-bessastadir-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Bessastadir presidential residence Iceland",
     image: "/poi-images/iceland-bessastadir-history-v2.webp",
 },  {
     id: "iceland-eiriksstadir-history-v2",
+    parent: "IS",
     type: "ruins",
     name: { de: "Eiríksstaðir", hu: "Eiríksstaðir", ro: "Eiríksstaðir", en: "Eiríksstaðir",
 image: "/poi-images/iceland-eiriksstadir-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Eiriksstadir viking longhouse reconstruction Iceland",
     image: "/poi-images/iceland-eiriksstadir-history-v2.webp",
 },  {
     id: "iceland-videy-island-history-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Viðey", hu: "Viðey", ro: "Viðey", en: "Viðey Island",
 image: "/poi-images/iceland-videy-island-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Videy Island historic house Reykjavik",
     image: "/poi-images/iceland-videy-island-history-v2.webp",
 },  {
     id: "iceland-keldur-history-v2",
+    parent: "IS",
     type: "monument",
     name: { de: "Keldur", hu: "Keldur", ro: "Keldur", en: "Keldur",
 image: "/poi-images/iceland-keldur-history-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Keldur turf farm South Iceland",
     image: "/poi-images/iceland-keldur-history-v2.webp",
 },  {
     id: "iceland-laufas-history-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Laufás", hu: "Laufás", ro: "Laufás", en: "Laufás",
 image: "/poi-images/iceland-laufas-history-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Laufas turf farm Akureyri Iceland",
     image: "/poi-images/iceland-laufas-history-v2.webp",
 },  {
     id: "iceland-glaumbaer-history-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Glaumbær", hu: "Glaumbær", ro: "Glaumbær", en: "Glaumbær",
 image: "/poi-images/iceland-glaumbaer-history-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Glaumbaer turf farm museum Iceland",
     image: "/poi-images/iceland-glaumbaer-history-v2.webp",
 },  {
     id: "iceland-vidimyrarkirkja-history-v2",
+    parent: "IS",
     type: "church",
     name: { de: "Víðimýrarkirkja", hu: "Víðimýrarkirkja", ro: "Víðimýrarkirkja", en: "Víðimýrarkirkja",
 image: "/poi-images/iceland-vidimyrarkirkja-history-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Vidimyrarkirkja turf church Iceland",
     image: "/poi-images/iceland-vidimyrarkirkja-history-v2.webp",
 },  {
     id: "iceland-thingeyrar-history-v2",
+    parent: "IS",
     type: "church",
     name: { de: "Þingeyrar", hu: "Þingeyrar", ro: "Þingeyrar", en: "Þingeyrar",
 image: "/poi-images/iceland-thingeyrar-history-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Thingeyrar stone church Iceland",
     image: "/poi-images/iceland-thingeyrar-history-v2.webp",
 },  {
     id: "iceland-munkathvera-history-v2",
+    parent: "IS",
     type: "ruins",
     name: { de: "Munkaþverá", hu: "Munkaþverá", ro: "Munkaþverá", en: "Munkaþverá",
 image: "/poi-images/iceland-munkathvera-history-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Munkathvera church and historic site Iceland",
     image: "/poi-images/iceland-munkathvera-history-v2.webp",
 },  {
     id: "iceland-stong-history-v2",
+    parent: "IS",
     type: "ruins",
     name: { de: "Stöng", hu: "Stöng", ro: "Stöng", en: "Stöng",
 image: "/poi-images/iceland-stong-history-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Stong viking farm ruins Iceland",
     image: "/poi-images/iceland-stong-history-v2.webp",
 },  {
     id: "iceland-kirkjubaejarklaustur-history-v2",
+    parent: "IS",
     type: "ruins",
     name: { de: "Kirkjubæjarklaustur", hu: "Kirkjubæjarklaustur", ro: "Kirkjubæjarklaustur", en: "Kirkjubæjarklaustur",
 image: "/poi-images/iceland-kirkjubaejarklaustur-history-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Kirkjubaejarklaustur historic site Iceland",
     image: "/poi-images/iceland-kirkjubaejarklaustur-history-v2.webp",
 },  {
     id: "iceland-oddi-history-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Oddi", hu: "Oddi", ro: "Oddi", en: "Oddi",
 image: "/poi-images/iceland-oddi-history-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Oddi church Rangárvallasýsla Iceland",
     image: "/poi-images/iceland-oddi-history-v2.webp",
 },  {
     id: "iceland-helgafell-history-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Helgafell", hu: "Helgafell", ro: "Helgafell", en: "Helgafell",
 image: "/poi-images/iceland-helgafell-history-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Helgafell mountain and church Snaefellsnes",
     image: "/poi-images/iceland-helgafell-history-v2.webp",
 },  {
     id: "iceland-hofstadir-history-v2",
+    parent: "IS",
     type: "ruins",
     name: { de: "Hofstaðir", hu: "Hofstaðir", ro: "Hofstaðir", en: "Hofstaðir",
 image: "/poi-images/iceland-hofstadir-history-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Hofstadir archaeological site Myvatn Iceland",
     image: "/poi-images/iceland-hofstadir-history-v2.webp",
 },  {
     id: "iceland-borg-a-myrum-history-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Borg á Mýrum", hu: "Borg á Mýrum", ro: "Borg á Mýrum", en: "Borg á Mýrum",
 image: "/poi-images/iceland-borg-a-myrum-history-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Borg a Myrum historic site Iceland",
     image: "/poi-images/iceland-borg-a-myrum-history-v2.webp",
 },  {
     id: "iceland-gasir-history-v2",
+    parent: "IS",
     type: "ruins",
     name: { de: "Gásir", hu: "Gásir", ro: "Gásir", en: "Gásir",
 image: "/poi-images/iceland-gasir-history-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Gasir medieval trading post ruins Iceland",
     image: "/poi-images/iceland-gasir-history-v2.webp",
 },  {
     id: "iceland-hrafnseyri-history-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Hrafnseyri", hu: "Hrafnseyri", ro: "Hrafnseyri", en: "Hrafnseyri",
 image: "/poi-images/iceland-hrafnseyri-history-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Hrafnseyri Jon Sigurdsson museum Iceland",
     image: "/poi-images/iceland-hrafnseyri-history-v2.webp",
 },  {
     id: "iceland-eyrarbakki-history-v2",
+    parent: "IS",
     type: "port",
     name: { de: "Eyrarbakki", hu: "Eyrarbakki", ro: "Eyrarbakki", en: "Eyrarbakki",
 image: "/poi-images/iceland-eyrarbakki-history-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Eyrarbakki The House historic building Iceland",
     image: "/poi-images/iceland-eyrarbakki-history-v2.webp",
 },  {
     id: "iceland-vatnsfjordur-history-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Vatnsfjörður", hu: "Vatnsfjörður", ro: "Vatnsfjörður", en: "Vatnsfjörður",
 image: "/poi-images/iceland-vatnsfjordur-history-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Vatnsfjordur Westfjords historic site Iceland",
     image: "/poi-images/iceland-vatnsfjordur-history-v2.webp",
 },  {
     id: "iceland-modruvellir-history-v2",
+    parent: "IS",
     type: "university",
     name: { de: "Möðruvellir", hu: "Möðruvellir", ro: "Möðruvellir", en: "Möðruvellir",
 image: "/poi-images/iceland-modruvellir-history-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Modruvellir church and school site Iceland",
     image: "/poi-images/iceland-modruvellir-history-v2.webp",
 },  {
     id: "iceland-saurbaer-history-v2",
+    parent: "IS",
     type: "church",
     name: { de: "Saurbær", hu: "Saurbær", ro: "Saurbær", en: "Saurbær",
 image: "/poi-images/iceland-saurbaer-history-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Saurbaer turf church Eyjafjordur Iceland",
     image: "/poi-images/iceland-saurbaer-history-v2.webp",
 },  {
     id: "iceland-breidabolstadur-history-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Breiðabólstaður", hu: "Breiðabólstaður", ro: "Breiðabólstaður", en: "Breiðabólstaður",
 image: "/poi-images/iceland-breidabolstadur-history-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Breidabolstadur church Hunavatnssysla Iceland",
     image: "/poi-images/iceland-breidabolstadur-history-v2.webp",
 },  {
     id: "iceland-hitardalur-history-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Hítardalur", hu: "Hítardalur", ro: "Hítardalur", en: "Hítardalur",
 image: "/poi-images/iceland-hitardalur-history-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Hitardalur valley and historic farm Iceland",
     image: "/poi-images/iceland-hitardalur-history-v2.webp",
 },  {
     id: "iceland-thvotta-history-v2",
+    parent: "IS",
     type: "monument",
     name: { de: "Þvottá", hu: "Þvottá", ro: "Þvottá", en: "Þvottá",
 image: "/poi-images/iceland-thvotta-history-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Thvotta historic baptism site Iceland",
     image: "/poi-images/iceland-thvotta-history-v2.webp",
 },  {
     id: "iceland-steinsholt-history-v2",
+    parent: "IS",
     type: "ruins",
     name: { de: "Steinsholt", hu: "Steinsholt", ro: "Steinsholt", en: "Steinsholt",
 image: "/poi-images/iceland-steinsholt-history-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Steinsholt archaeological ruins Iceland",
     image: "/poi-images/iceland-steinsholt-history-v2.webp",
 },  {
     id: "iceland-herjolfsdalur-history-v2",
+    parent: "IS",
     type: "ruins",
     name: { de: "Herjólfsdalur", hu: "Herjólfsdalur", ro: "Herjólfsdalur", en: "Herjólfsdalur",
 image: "/poi-images/iceland-herjolfsdalur-history-v2.webp"

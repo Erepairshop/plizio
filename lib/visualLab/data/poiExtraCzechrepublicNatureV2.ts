@@ -3,6 +3,7 @@ export const czechrepublicNatureV2: POI[] = [
 
   {
     id: "czechrepublic-sumava-nature-v2",
+    parent: "CZ",
     type: "forest",
     name: { de: "Böhmerwald", hu: "Šumava", ro: "Munții Šumava", en: "Bohemian Forest",
 image: "/poi-images/czechrepublic-sumava-nature-v2.webp"
@@ -24,20 +25,21 @@ image: "/poi-images/czechrepublic-sumava-nature-v2.webp"
     imageHint: "Bohemian Forest Sumava misty spruce trees",
     image: "/poi-images/czechrepublic-sumava-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Der Nationalpark Šumava schützt das größte zusammenhängende Waldgebiet Mitteleuropas und bildet mit dem Bayerischen Wald das grüne Dach Europas.",
-      hu: "A Šumava Nemzeti Park Közép-Európa legnagyobb összefüggő erdősége, amely a Bajor-erdővel együtt alkotja a kontinens zöld szívét.",
-      ro: "Parcul Național Šumava protejează cea mai mare zonă forestieră continuă din Europa Centrală, fiind numit și acoperișul verde al continentului.",
-      en: "The Šumava National Park protects the largest continuous forest area in Central Europe, forming the Green Roof of Europe with the Bavarian Forest.",
+      de: "Der Böhmerwald, tschechisch Šumava, ist ein ausgedehntes Mittelgebirge entlang der deutsch-tschechisch-österreichischen Grenze und bildet das größte zusammenhängende Waldgebiet Mitteleuropas. Als UNESCO-Biosphärenreservat und Nationalpark schützt er eine einzigartige Landschaft aus Urwäldern, geheimnisvollen Mooren und kristallklaren Gletscherseen wie dem Schwarzen See (Černé jezero) und dem Teufelssee (Čertovo jezero). Die Region ist ein Mosaik aus dichten Fichten-, Tannen- und Buchenwäldern, die von sanften Hügeln und schroffen Gipfeln wie dem Plöckenstein (Plechý) durchzogen sind. Die Šumava ist nicht nur ein Refugium für seltene Tierarten wie Luchs und Auerhahn, sondern auch ein bedeutendes Wasserreservoir, aus dem unter anderem die Moldau entspringt. Das Gebiet ist durch ein dichtes Netz von Wander- und Radwegen erschlossen, die Besucher zu den schönsten Naturschätzen führen, und gilt als das 'Grüne Dach Europas'.",
+      hu: "A Šumava, németül Böhmerwald, egy kiterjedt hegyvidék Csehország, Németország és Ausztria határán, amely Közép-Európa legnagyobb egybefüggő erdőségét alkotja. A terület UNESCO bioszféra-rezervátum és nemzeti park, amely egyedülálló tájat véd: őserdőket, titokzatos lápokat és kristálytiszta gleccsertavakat, mint a Černé jezero (Fekete-tó) és a Čertovo jezero (Ördög-tó). A régió sűrű luc-, jegenyefenyő- és bükkerdők mozaikja, amelyet szelíd dombok és zord csúcsok, például a Plechý (Plöckenstein) tarkítanak. A Šumava nemcsak ritka állatfajok, mint a hiúz és a siketfajd menedéke, hanem fontos víztározó is, itt ered többek között a Moldva folyó. A területet sűrű gyalogos- és kerékpárút-hálózat szövi át, amely a látogatókat a legszebb természeti kincsekhez vezeti, és méltán viseli az 'Európa zöld teteje' elnevezést.",
+      ro: "Munții Šumava, cunoscuți în germană ca Böhmerwald, formează un lanț muntos extins de-a lungul graniței dintre Cehia, Germania și Austria, constituind cea mai mare zonă forestieră contiguă din Europa Centrală. În calitate de rezervație a biosferei UNESCO și parc național, protejează un peisaj unic format din păduri virgine, turbării misterioase și lacuri glaciare cristaline, precum Černé jezero (Lacul Negru) și Čertovo jezero (Lacul Diavolului). Regiunea este un mozaic de păduri dense de molid, brad și fag, intercalate cu dealuri domoale și vârfuri stâncoase precum Plechý. Šumava nu este doar un refugiu pentru specii rare de animale, cum ar fi râsul și cocoșul de munte, ci și un rezervor de apă important, fiind locul de unde izvorăște, printre altele, râul Vltava. Zona este traversată de o rețea densă de trasee de drumeție și ciclism, care ghidează vizitatorii către cele mai prețioase comori naturale, fiind considerată 'Acoperișul Verde al Europei'.",
+      en: "The Bohemian Forest, known as Šumava in Czech, is an extensive low mountain range along the border of the Czech Republic, Germany, and Austria, forming the largest contiguous forest in Central Europe. As a UNESCO Biosphere Reserve and National Park, it protects a unique landscape of primeval forests, mysterious peat bogs, and crystal-clear glacial lakes like Černé jezero (Black Lake) and Čertovo jezero (Devil's Lake). The region is a mosaic of dense spruce, fir, and beech forests, interspersed with gentle hills and rugged peaks such as Plechý. Šumava is not only a refuge for rare animal species like the lynx and capercaillie but also an important water reservoir, being the source of the Vltava River, among others. The area is well-developed with a dense network of hiking and cycling trails that lead visitors to its most beautiful natural treasures, earning it the name 'the Green Roof of Europe'.",
     },
     factsAdvanced: {
-      de: ["Fläche von 680 km²", "Gegründet im Jahr 1991", "Höchster Berg ist Plechý (1378 m)", "UNESCO-Biosphärenreservat"],
-      hu: ["Területe 680 négyzetkilométer", "1991-ben alapították", "Legmagasabb pontja a Plechý (1378 m)", "UNESCO bioszféra-rezervátum"],
-      ro: ["Suprafață de 680 km²", "Fondat în anul 1991", "Cel mai înalt vârf este Plechý (1378 m)", "Rezervație a Biosferei UNESCO"],
-      en: ["Area of 680 square kilometers", "Established in 1991", "Highest peak is Plechý (1,378 m)", "UNESCO Biosphere Reserve"],
+      de: ["Der Nationalpark Šumava wurde 1991 gegründet.", "Die Gesamtfläche des Schutzgebiets beträgt 680,6 km².", "Der höchste Gipfel auf tschechischer Seite ist der Plechý mit 1.378 Metern.", "Zusammen mit dem angrenzenden Bayerischen Wald bildet er das 'Grüne Dach Europas'.", "Im Park entspringen die Flüsse Moldau (Vltava) und Wottawa (Otava).", "Seit 1990 ist die Šumava ein UNESCO-Biosphärenreservat.", "Es gibt acht Gletscherseen, die während der letzten Eiszeit entstanden sind.", "Das Gebiet ist ein wichtiges Rückzugsgebiet für den Eurasischen Luchs."],
+      hu: [],
+      ro: [],
+      en: [],
     },
   },
   {
     id: "czechrepublic-pravcicka-brana-nature-v2",
+    parent: "CZ",
     type: "landmark",
     name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravčická", en: "Pravcice Gate",
 image: "/poi-images/czechrepublic-pravcicka-brana-nature-v2.webp"
@@ -59,20 +61,21 @@ image: "/poi-images/czechrepublic-pravcicka-brana-nature-v2.webp"
     imageHint: "Pravcice Gate sandstone arch Czech Switzerland",
     image: "/poi-images/czechrepublic-pravcicka-brana-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Das Prebischtor ist das größte natürliche Sandsteinfelsentor in Europa und ein monumentales Symbol der Böhmischen Schweiz.",
-      hu: "A Pravčice-kapu Európa legnagyobb természetes homokkő sziklakapuja, a Cseh Svájc nemzeti park monumentális jelképe.",
-      ro: "Poarta Pravčice este cea mai mare poartă naturală de gresie din Europa, fiind un simbol monumental al Elveției Boeme.",
-      en: "The Pravčice Gate is the largest natural sandstone arch in Europe and a monumental symbol of the Bohemian Switzerland region.",
+      de: "Das Prebischtor (Pravčická brána) ist das beeindruckendste Naturdenkmal im Nationalpark Böhmische Schweiz und das größte natürliche Sandsteintor Europas. Mit einer Spannweite von 26,5 Metern und einer lichten Höhe von 16 Metern thront es majestätisch auf einem Felsmassiv. Die Formation entstand über Millionen von Jahren durch Verwitterungsprozesse im weicheren Sandstein. Direkt neben dem Tor befindet sich das historische Ausflugsrestaurant 'Sokolfalkennest' (Sokolí hnízdo), das 1881 im alpinen Stil erbaut wurde und eine märchenhafte Atmosphäre schafft. Der Zugang zum Bogen selbst ist seit 1982 für Besucher gesperrt, um die empfindliche Struktur vor Erosion zu schützen, aber zahlreiche Aussichtspunkte in der Umgebung bieten atemberaubende Blicke auf das Tor und die umliegende Felsenlandschaft. Das Prebischtor war auch Drehort für einige Szenen des Films 'Die Chroniken von Narnia'.",
+      hu: "A Pravčická brána (németül Prebischtor) a Cseh Svájc Nemzeti Park leglenyűgözőbb természeti emléke és Európa legnagyobb természetes homokkő sziklakapuja. A 26,5 méteres fesztávolságú és 16 méteres belső magasságú kapu fenségesen magasodik egy sziklamasszívumon. A formáció évmilliók során, a puhább homokkő mállási folyamatai révén jött létre. Közvetlenül a kapu mellett található a történelmi 'Sólyomfészek' (Sokolí hnízdo) kirándulóvendéglő, amely 1881-ben épült alpesi stílusban, mesebeli hangulatot teremtve. Magára a boltívre 1982 óta tilos a belépés, hogy megvédjék az érzékeny szerkezetet az eróziótól, de a környéken számos kilátópontról lélegzetelállító látvány nyílik a kapura és a környező sziklavilágra. A Pravčická brána a 'Narnia krónikái' című film egyes jeleneteinek forgatási helyszínéül is szolgált.",
+      ro: "Poarta Pravčická (Pravčická brána) este cel mai impresionant monument natural din Parcul Național Elveția Boemă și cea mai mare poartă naturală de gresie din Europa. Cu o deschidere de 26,5 metri și o înălțime de 16 metri, se înalță maiestuos pe un masiv stâncos. Formațiunea a apărut de-a lungul a milioane de ani prin procese de eroziune a gresiei mai moi. Chiar lângă poartă se află restaurantul istoric 'Cuibul de Șoim' (Sokolí hnízdo), construit în 1881 în stil alpin, creând o atmosferă de basm. Accesul pe arcadă este interzis vizitatorilor din 1982 pentru a proteja structura sensibilă de eroziune, dar numeroase puncte de belvedere din jur oferă priveliști uluitoare asupra porții și peisajului stâncos înconjurător. Poarta Pravčická a fost, de asemenea, o locație de filmare pentru unele scene din filmul 'Cronicile din Narnia'.",
+      en: "The Pravčice Gate (Pravčická brána) is the most impressive natural monument in the Bohemian Switzerland National Park and the largest natural sandstone arch in Europe. With a span of 26.5 meters and a clear height of 16 meters, it sits majestically atop a rock massif. The formation was created over millions of years through weathering processes in the softer sandstone. Right next to the arch is the historic 'Falcon's Nest' (Sokolí hnízdo) excursion restaurant, built in 1881 in an alpine style, creating a fairytale atmosphere. Access to the arch itself has been prohibited for visitors since 1982 to protect the delicate structure from erosion, but numerous viewpoints in the vicinity offer breathtaking views of the gate and the surrounding rock landscape. The Pravčice Gate also served as a filming location for some scenes in the movie 'The Chronicles of Narnia'.",
     },
     factsAdvanced: {
-      de: ["Spannweite von 26,5 Metern", "Höhe der Öffnung beträgt 16 Meter", "Breite des Bogens bis zu 8 Meter", "Seit 1881 steht das Hotel Sokolí hnízdo"],
-      hu: ["Fesztávolsága 26,5 méter", "A nyílás magassága 16 méter", "Az ív szélessége akár 8 méter", "1881-ben épült mellette a Sólyomfészek hotel"],
-      ro: ["Deschiderea arcului de 26,5 metri", "Înălțimea deschiderii este de 16 metri", "Lățimea boltei de până la 8 metri", "Hotelul Sokolí hnízdo datează din 1881"],
-      en: ["Span of 26.5 meters", "Height of the opening is 16 meters", "Arch width up to 8 meters", "Falcon's Nest hotel built in 1881"],
+      de: ["Es ist das größte natürliche Sandsteintor in Europa.", "Die Spannweite des Bogens beträgt 26,5 Meter.", "Die Höhe des Tores beträgt 16 Meter.", "Das Ausflugsrestaurant 'Sokolfalkennest' wurde 1881 erbaut.", "Seit 1982 ist das Betreten des Tores verboten, um es zu schützen.", "Es ist ein nationales Naturdenkmal der Tschechischen Republik.", "Befindet sich im Nationalpark Böhmische Schweiz.", "Der Name leitet sich wahrscheinlich von Einsiedlern ab, die hier lebten (pravidelní)."],
+      hu: [],
+      ro: [],
+      en: [],
     },
   },
   {
     id: "czechrepublic-macocha-abyss-nature-v2",
+    parent: "CZ",
     type: "valley",
     name: { de: "Macocha-Abgrund", hu: "Macocha-szakadék", ro: "Prăpastia Macocha", en: "Macocha Abyss",
 image: "/poi-images/czechrepublic-macocha-abyss-nature-v2.webp"
@@ -94,20 +97,22 @@ image: "/poi-images/czechrepublic-macocha-abyss-nature-v2.webp"
     imageHint: "Macocha Abyss sinkhole Moravian Karst",
     image: "/poi-images/czechrepublic-macocha-abyss-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Die Macocha-Schlucht ist die tiefste Einsturzdoline dieser Art in Mitteleuropa und Teil des komplexen Punkva-Höhlensystems.",
-      hu: "A Macocha-szakadék Közép-Európa legmélyebb ilyen típusú beszakadt dolinája, a Punkva-barlangrendszer lenyűgöző része.",
-      ro: "Abisul Macocha este cea mai adâncă dolină de prăbușire de acest tip din Europa Centrală, parte a sistemului de peșteri Punkva.",
-      en: "The Macocha Abyss is the deepest light-hole type abyss in Central Europe, forming a spectacular part of the Punkva cave system.",
+      de: "Die Macocha-Schlucht ist eine gewaltige Einsturzdoline im Herzen des Mährischen Karstes und mit einer Tiefe von 138,5 Metern die tiefste ihrer Art in Mitteleuropa. Sie entstand durch den Einsturz der Decke einer riesigen unterirdischen Höhle. Vom oberen Rand bieten zwei Aussichtsplattformen, die Obere und die Untere Brücke, schwindelerregende Ausblicke in die Tiefe. Am Grund der Schlucht fließt der unterirdische Fluss Punkva, der hier ans Tageslicht tritt und zwei kleine Seen bildet. Die Macocha ist untrennbar mit den nahegelegenen Punkva-Höhlen verbunden; eine Besichtigungstour durch die Höhlen endet mit einer Bootsfahrt auf dem unterirdischen Fluss, die die Besucher direkt in die Schlucht führt. Die Vegetation an den steilen, schattigen Wänden ist einzigartig und beherbergt seltene, kälteliebende Pflanzenarten, die sonst nur im Hochgebirge zu finden sind.",
+      hu: "A Macocha-szakadék egy hatalmas beomlott víznyelőbarlang a Morva-karszt szívében, amely 138,5 méteres mélységével Közép-Európa legmélyebb ilyen jellegű képződménye. Egy óriási földalatti barlang mennyezetének beszakadásával jött létre. A felső peremről két kilátóterasz, a Felső és az Alsó híd nyújt szédítő kilátást a mélybe. A szakadék alján a Punkva-folyó bukkan a felszínre, két kis tavat alkotva. A Macocha elválaszthatatlanul kapcsolódik a közeli Punkva-barlangokhoz; a barlangtúra egy földalatti csónakázással végződik a folyón, amely a látogatókat közvetlenül a szakadékba vezeti. A meredek, árnyékos falak növényzete egyedülálló, és olyan ritka, hidegtűrő növényfajoknak ad otthont, amelyek egyébként csak a magashegységekben találhatók meg.",
+      ro: "Prăpastia Macocha este o dolină de prăbușire masivă în inima Carstului Moravian și, cu o adâncime de 138,5 metri, este cea mai adâncă de acest tip din Europa Centrală. S-a format prin prăbușirea tavanului unei peșteri subterane uriașe. De la marginea superioară, două platforme de observare, Podul Superior și cel Inferior, oferă priveliști amețitoare în adâncuri. La baza prăpastiei, râul subteran Punkva iese la suprafață, formând două mici lacuri. Macocha este inseparabil legată de Peșterile Punkva din apropiere; un tur al peșterilor se încheie cu o plimbare cu barca pe râul subteran, care duce vizitatorii direct în prăpastie. Vegetația de pe pereții abrupți și umbroși este unică, găzduind specii rare de plante iubitoare de frig, care altfel se găsesc doar în munții înalți.",
+      en: "The Macocha Abyss is a massive sinkhole in the heart of the Moravian Karst and, at a depth of 138.5 meters, it is the deepest of its kind in Central Europe. It was formed by the collapse of the ceiling of a huge underground cavern. From the top rim, two viewing platforms, the Upper and Lower Bridges, offer dizzying views into the depths. At the bottom of the abyss, the subterranean Punkva River emerges, forming two small lakes. Macocha is inseparably linked to the nearby Punkva Caves; a tour of the caves concludes with a boat trip on the underground river that takes visitors directly into the abyss. The vegetation on the steep, shaded walls is unique, hosting rare, cold-loving plant species otherwise found only in high mountains.",
     },
     factsAdvanced: {
-      de: ["Tiefe von 138,5 Metern", "Länge beträgt 174 Meter", "Entstanden durch Einsturz einer Höhlendecke", "Am Boden fließen die Punkva-Seen"],
-      hu: ["Mélysége 138,5 méter", "Hosszúsága 174 méter", "Egy barlang mennyezetének beomlásával keletkezett", "Alján folynak a Punkva-tavak"],
-      ro: ["Adâncime de 138,5 metri", "Lungime de 174 metri", "Formată prin prăbușirea tavanului unei peșteri", "Râul Punkva formează lacuri în bază"],
+      de: ["Die Tiefe des trockenen Teils beträgt 138,5 Meter.", "Entstanden durch den Einsturz einer riesigen Höhlendecke.", "Der unterirdische Fluss Punkva fließt am Grund der Schlucht.", "Es gibt zwei Aussichtsplattformen: die Obere Brücke (1882) und die Untere Brücke (1899).", "Teil des Nationalen Naturreservats Mährischer Karst.", "Die erste schriftliche Erwähnung stammt aus dem Jahr 1663.", "Die Legende besagt, dass eine böse Stiefmutter (tschechisch: macecha) ihren Stiefsohn hineinstieß.", "Die Temperatur am Boden ist das ganze Jahr über konstant niedrig."],
+      hu: [],
+      ro: [],
       en: ["Depth of 138.5 meters", "Length of 174 meters", "Formed by a cave ceiling collapse", "Punkva lakes flow at the bottom"],
+      en: []
     },
   },
   {
     id: "czechrepublic-vltava-river-nature-v2",
+    parent: "CZ",
     type: "river",
     name: { de: "Moldau", hu: "Vltava", ro: "Râul Vltava", en: "Vltava River",
 image: "/poi-images/czechrepublic-vltava-river-nature-v2.webp"
@@ -129,20 +134,21 @@ image: "/poi-images/czechrepublic-vltava-river-nature-v2.webp"
     imageHint: "Vltava river bend Czech landscape",
     image: "/poi-images/czechrepublic-vltava-river-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Die Moldau ist der längste Fluss in der Tschechischen Republik und gilt als der nationale Strom, der das Land von Süd nach Nord durchfließt.",
-      hu: "A Moldva Csehország leghosszabb folyója és nemzeti jelképe, amely délről észak felé szeli át az országot a Dunától az Elbáig.",
-      ro: "Vltava este cel mai lung râu din Republica Cehă, fiind considerat fluviul național care străbate țara de la sud la nord.",
-      en: "The Vltava is the longest river in the Czech Republic, often called the national river, flowing through the country from south to north.",
+      de: "Die Moldau, auf Tschechisch Vltava, ist mit einer Länge von 430 Kilometern der längste Fluss der Tschechischen Republik und gilt als Nationalfluss des Landes. Sie entspringt im Böhmerwald (Šumava) aus zwei Quellflüssen, der Warmen und der Kalten Moldau, und fließt in einem weiten Bogen von Süden nach Norden durch Böhmen. Auf ihrem Weg durchquert sie historische Städte wie Český Krumlov, České Budějovice und die Hauptstadt Prag, wo sie von der berühmten Karlsbrücke überspannt wird. Die Landschaft entlang der Moldau ist äußerst vielfältig und reicht von den dichten Wäldern der Šumava über die sanften Hügel Mittelböhmens bis hin zu tiefen, felsigen Tälern. Eine Reihe von neun Stauseen, die sogenannte Moldau-Kaskade, reguliert den Flusslauf und dient der Energieerzeugung und Erholung. Die Moldau war und ist eine Quelle der Inspiration für Künstler, am berühmtesten verewigt in Bedřich Smetanas sinfonischer Dichtung 'Die Moldau'.",
+      hu: "A Moldva, csehül Vltava, 430 kilométeres hosszával Csehország leghosszabb folyója, és az ország nemzeti folyójának számít. A Šumavában ered két forráspatak, a Teplá Vltava (Meleg Moldva) és a Studená Vltava (Hideg Moldva) összefolyásából, majd egy nagy ívben délről észak felé halad Csehországon keresztül. Útja során olyan történelmi városokat érint, mint Český Krumlov, České Budějovice és a főváros, Prága, ahol a híres Károly-híd ível át felette. A Moldva menti táj rendkívül változatos, a Šumava sűrű erdőitől Közép-Csehország lankás dombvidékén át a mély, sziklás völgyekig terjed. Kilenc víztározóból álló rendszer, az úgynevezett Moldva-kaszkád szabályozza a folyó vízjárását, és energiatermelési, valamint rekreációs célokat szolgál. A Moldva a művészek ihletforrása volt és maradt, leghíresebben Bedřich Smetana 'Moldva' című szimfonikus költeményében örökítette meg.",
+      ro: "Vltava, cunoscută în română ca Moldau, este, cu o lungime de 430 de kilometri, cel mai lung râu din Republica Cehă și este considerat râul național al țării. Izvorăște din Munții Šumava din două pâraie, Vltava Caldă și Vltava Rece, și curge într-un arc larg de la sud la nord prin Boemia. Pe parcursul său, traversează orașe istorice precum Český Krumlov, České Budějovice și capitala Praga, unde este traversat de faimosul Pod Carol. Peisajul de-a lungul Vltavei este extrem de divers, variind de la pădurile dense din Šumava la dealurile domoale din Boemia Centrală și văile adânci și stâncoase. O serie de nouă lacuri de acumulare, numită Cascada Vltava, reglează cursul râului și este utilizată pentru producerea de energie și recreere. Vltava a fost și este o sursă de inspirație pentru artiști, fiind cel mai faimos imortalizată în poemul simfonic 'Vltava' de Bedřich Smetana.",
+      en: "The Vltava, known as Moldau in German, is, with a length of 430 kilometers, the longest river in the Czech Republic and is considered the country's national river. It originates in the Bohemian Forest (Šumava) from two headstreams, the Warm Vltava and the Cold Vltava, and flows in a wide arc from south to north through Bohemia. On its way, it passes through historic cities such as Český Krumlov, České Budějovice, and the capital, Prague, where it is crossed by the famous Charles Bridge. The landscape along the Vltava is extremely diverse, ranging from the dense forests of Šumava to the gentle hills of Central Bohemia and deep, rocky valleys. A series of nine reservoirs, the so-called Vltava Cascade, regulates the river's flow and serves for energy production and recreation. The Vltava was and is a source of inspiration for artists, most famously immortalized in Bedřich Smetana's symphonic poem 'Vltava' (The Moldau).",
     },
     factsAdvanced: {
-      de: ["Gesamtlänge von 430 Kilometern", "Quelle im Böhmerwald auf 1172 m", "Mündung in die Elbe bei Mělník", "Kaskade von 9 Talsperren (Moldau-Kaskade)"],
-      hu: ["Teljes hossza 430 kilométer", "Forrása a Šumavában, 1172 méteren van", "Mělníknél torkollik az Elbába", "9 gátból álló vízlépcsőrendszer védi"],
-      ro: ["Lungime totală de 430 kilometri", "Izvorăște în Šumava la 1172 m", "Se varsă în Elba lângă Mělník", "Cascadă de 9 baraje pe parcursul său"],
-      en: ["Total length of 430 kilometers", "Source in Bohemian Forest at 1,172 m", "Flows into the Elbe near Mělník", "Cascade of 9 dams and reservoirs"],
+      de: ["Mit 430 km ist sie der längste Fluss in der Tschechischen Republik.", "Sie entspringt im Böhmerwald (Šumava).", "Sie durchfließt die historischen Städte Český Krumlov, České Budějovice und Prag.", "Bei Mělník mündet die Moldau in die Elbe.", "Die Moldau-Kaskade besteht aus neun Stauseen.", "Bedřich Smetana widmete ihr die berühmte sinfonische Dichtung 'Die Moldau'.", "Der Name 'Vltava' stammt vom altgermanischen 'Wilth-ahwa', was 'wildes Wasser' bedeutet.", "Die durchschnittliche Abflussmenge in Prag beträgt etwa 151 m³/s."],
+      hu: [],
+      ro: [],
+      en: [],
     },
   },
   {
     id: "czechrepublic-punkva-caves-nature-v2",
+    parent: "CZ",
     type: "landmark",
     name: { de: "Punkva-Höhlen", hu: "Punkva-barlang", ro: "Peșterile Punkva", en: "Punkva Caves",
 image: "/poi-images/czechrepublic-punkva-caves-nature-v2.webp"
@@ -178,6 +184,7 @@ image: "/poi-images/czechrepublic-punkva-caves-nature-v2.webp"
   },
   {
     id: "czechrepublic-elbe-river-nature-v2",
+    parent: "CZ",
     type: "river",
     name: { de: "Elbe", hu: "Elba", ro: "Râul Elba", en: "Elbe River",
 image: "/poi-images/czechrepublic-elbe-river-nature-v2.webp"
@@ -213,6 +220,7 @@ image: "/poi-images/czechrepublic-elbe-river-nature-v2.webp"
   },
   {
     id: "czechrepublic-prachov-rocks-nature-v2",
+    parent: "CZ",
     type: "landmark",
     name: { de: "Prachauer Felsen", hu: "Prachovské skály", ro: "Stâncile Prachov", en: "Prachov Rocks",
 image: "/poi-images/czechrepublic-prachov-rocks-nature-v2.webp"
@@ -248,6 +256,7 @@ image: "/poi-images/czechrepublic-prachov-rocks-nature-v2.webp"
   },
   {
     id: "czechrepublic-boubin-forest-nature-v2",
+    parent: "CZ",
     type: "forest",
     name: { de: "Boubín-Urwald", hu: "Boubín-őserdő", ro: "Pădurea Virgină Boubín", en: "Boubin Virgin Forest",
 image: "/poi-images/czechrepublic-boubin-forest-nature-v2.webp"
@@ -283,6 +292,7 @@ image: "/poi-images/czechrepublic-boubin-forest-nature-v2.webp"
   },
   {
     id: "czechrepublic-macha-lake-nature-v2",
+    parent: "CZ",
     type: "lake",
     name: { de: "Mácha-See", hu: "Máchovo jezero", ro: "Lacul Mácha", en: "Macha Lake",
 image: "/poi-images/czechrepublic-macha-lake-nature-v2.webp"
@@ -318,6 +328,7 @@ image: "/poi-images/czechrepublic-macha-lake-nature-v2.webp"
   },
   {
     id: "czechrepublic-hranice-abyss-nature-v2",
+    parent: "CZ",
     type: "valley",
     name: { de: "Abgrund von Hranice", hu: "Hranicei-szakadék", ro: "Abisul Hranice", en: "Hranice Abyss",
 image: "/poi-images/czechrepublic-hranice-abyss-nature-v2.webp"
@@ -353,6 +364,7 @@ image: "/poi-images/czechrepublic-hranice-abyss-nature-v2.webp"
   },
   {
     id: "czechrepublic-jizera-mountains-nature-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Isergebirge", hu: "Jizera-hegység", ro: "Munții Jizera", en: "Jizera Mountains",
 image: "/poi-images/czechrepublic-jizera-mountains-nature-v2.webp"
@@ -388,6 +400,7 @@ image: "/poi-images/czechrepublic-jizera-mountains-nature-v2.webp"
   },
   {
     id: "czechrepublic-soos-reserve-nature-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Nationales Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos Nature Reserve",
 image: "/poi-images/czechrepublic-soos-reserve-nature-v2.webp"
@@ -423,6 +436,7 @@ image: "/poi-images/czechrepublic-soos-reserve-nature-v2.webp"
   },
   {
     id: "czechrepublic-ohre-river-nature-v2",
+    parent: "CZ",
     type: "river",
     name: { de: "Eger", hu: "Ohře", ro: "Râul Ohře", en: "Ohre River",
 image: "/poi-images/czechrepublic-ohre-river-nature-v2.webp"
@@ -458,6 +472,7 @@ image: "/poi-images/czechrepublic-ohre-river-nature-v2.webp"
   },
   {
     id: "czechrepublic-cerne-jezero-nature-v2",
+    parent: "CZ",
     type: "lake",
     name: { de: "Schwarzer See", hu: "Černé jezero", ro: "Lacul Negru", en: "Black Lake",
 image: "/poi-images/czechrepublic-cerne-jezero-nature-v2.webp"
@@ -493,6 +508,7 @@ image: "/poi-images/czechrepublic-cerne-jezero-nature-v2.webp"
   },
   {
     id: "czechrepublic-kralicky-sneznik-nature-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Glatzer Schneeberg", hu: "Králický Sněžník", ro: "Muntele Králický Sněžník", en: "Kralicky Sneznik",
 image: "/poi-images/czechrepublic-kralicky-sneznik-nature-v2.webp"
@@ -528,6 +544,7 @@ image: "/poi-images/czechrepublic-kralicky-sneznik-nature-v2.webp"
   },
   {
     id: "czechrepublic-lusatian-mountains-nature-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Lausitzer Gebirge", hu: "Luzsicei-hegység", ro: "Munții Lužické", en: "Lusatian Mountains",
 image: "/poi-images/czechrepublic-lusatian-mountains-nature-v2.webp"
@@ -563,6 +580,7 @@ image: "/poi-images/czechrepublic-lusatian-mountains-nature-v2.webp"
   },
   {
     id: "czechrepublic-berounka-river-nature-v2",
+    parent: "CZ",
     type: "river",
     name: { de: "Berounka", hu: "Berounka", ro: "Râul Berounka", en: "Berounka River",
 image: "/poi-images/czechrepublic-berounka-river-nature-v2.webp"
@@ -598,6 +616,7 @@ image: "/poi-images/czechrepublic-berounka-river-nature-v2.webp"
   },
   {
     id: "czechrepublic-sazava-river-nature-v2",
+    parent: "CZ",
     type: "river",
     name: { de: "Sázava", hu: "Sázava", ro: "Râul Sázava", en: "Sazava River",
 image: "/poi-images/czechrepublic-sazava-river-nature-v2.webp"
@@ -633,6 +652,7 @@ image: "/poi-images/czechrepublic-sazava-river-nature-v2.webp"
   },
   {
     id: "czechrepublic-certovo-jezero-nature-v2",
+    parent: "CZ",
     type: "lake",
     name: { de: "Teufelssee", hu: "Ördög-tó", ro: "Lacul Diavolului", en: "Devil's Lake",
 image: "/poi-images/czechrepublic-certovo-jezero-nature-v2.webp"
@@ -668,6 +688,7 @@ image: "/poi-images/czechrepublic-certovo-jezero-nature-v2.webp"
   },
   {
     id: "czechrepublic-rejviz-lake-nature-v2",
+    parent: "CZ",
     type: "lake",
     name: { de: "Rejvíz-Moossee", hu: "Rejvízi-lápitó", ro: "Lacul de turbă Rejvíz", en: "Rejviz Moss Lake",
 image: "/poi-images/czechrepublic-rejviz-lake-nature-v2.webp"
@@ -703,6 +724,7 @@ image: "/poi-images/czechrepublic-rejviz-lake-nature-v2.webp"
   },
   {
     id: "czechrepublic-bohemian-switzerland-nature-v2",
+    parent: "CZ",
     type: "park",
     name: { de: "Böhmische Schweiz", hu: "Cseh Svájc", ro: "Elveția Boemă", en: "Bohemian Switzerland",
 image: "/poi-images/czechrepublic-bohemian-switzerland-nature-v2.webp"
@@ -739,6 +761,7 @@ image: "/poi-images/czechrepublic-bohemian-switzerland-nature-v2.webp"
 ,
   {
     id: "czechrepublic-mumlava-waterfall-nature-v2",
+    parent: "CZ",
     type: "river",
     name: { de: "Mumlavský vodopád", hu: "Mumlava-vízesés", ro: "Cascada Mumlava", en: "Mumlava Waterfall",
 image: "/poi-images/czechrepublic-mumlava-waterfall-nature-v2.webp"
@@ -772,6 +795,7 @@ image: "/poi-images/czechrepublic-mumlava-waterfall-nature-v2.webp"
   },
   {
     id: "czechrepublic-broumov-walls-nature-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Broumovské stěny", hu: "Broumov-falak", ro: "Pereții Broumov", en: "Broumov Walls",
 image: "/poi-images/czechrepublic-broumov-walls-nature-v2.webp"
@@ -806,6 +830,7 @@ image: "/poi-images/czechrepublic-broumov-walls-nature-v2.webp"
   },
   {
     id: "czechrepublic-velka-amerika-nature-v2",
+    parent: "CZ",
     type: "valley",
     name: { de: "Velká Amerika", hu: "Velká Amerika", ro: "Velká Amerika", en: "Velká Amerika Canyon",
 image: "/poi-images/czechrepublic-velka-amerika-nature-v2.webp"
@@ -840,6 +865,7 @@ image: "/poi-images/czechrepublic-velka-amerika-nature-v2.webp"
   },
   {
     id: "czechrepublic-bila-opava-valley-nature-v2",
+    parent: "CZ",
     type: "valley",
     name: { de: "Bílá Opava Tal", hu: "Bílá Opava-völgy", ro: "Valea Bílá Opava", en: "Bílá Opava Valley",
 image: "/poi-images/czechrepublic-bila-opava-valley-nature-v2.webp"
@@ -874,6 +900,7 @@ image: "/poi-images/czechrepublic-bila-opava-valley-nature-v2.webp"
   },
   {
     id: "czechrepublic-doupov-mountains-nature-v2",
+    parent: "CZ",
     type: "mountain",
     name: { de: "Duppauer Gebirge", hu: "Doupov-hegység", ro: "Munții Doupov", en: "Doupov Mountains",
 image: "/poi-images/czechrepublic-doupov-mountains-nature-v2.webp"
@@ -908,6 +935,7 @@ image: "/poi-images/czechrepublic-doupov-mountains-nature-v2.webp"
   },
   {
     id: "czechrepublic-luznice-river-nature-v2",
+    parent: "CZ",
     type: "river",
     name: { de: "Lužnice", hu: "Lužnice", ro: "Lužnice", en: "Lužnice River",
 image: "/poi-images/czechrepublic-luznice-river-nature-v2.webp"

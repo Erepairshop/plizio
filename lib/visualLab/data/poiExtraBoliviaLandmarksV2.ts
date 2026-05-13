@@ -4,6 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraBoliviaLandmarksV2: POI[] = [
   {
     id: "cristo-concordia-landmarks-v2",
+    parent: "BO",
     description: {
       de: "Der Cristo de la Concordia in Cochabamba ist eine der höchsten Christusstatue der Welt und bietet einen Panoramablick über das Tal.",
       hu: "Hatalmas Jézus-szobor Cochabambában, amely a városra tekint a San Pedro-dombról.",
@@ -40,6 +41,7 @@ image: "/poi-images/cristo-concordia-landmarks-v2.webp"
     }, image: "/poi-images/cristo-concordia-landmarks-v2.webp"},
   {
     id: "basilica-san-francisco-landmarks-v2",
+    parent: "BO",
     description: {
       de: "Die Basilika San Francisco in La Paz ist ein Meisterwerk des mestizischen Barocks und eines der bedeutendsten religiösen Gebäude des Landes.",
       hu: "La Paz történelmi központjában található gyönyörű gyarmati kori bazilika.",
@@ -76,6 +78,7 @@ image: "/poi-images/basilica-san-francisco-landmarks-v2.webp"
     }, image: "/poi-images/basilica-san-francisco-landmarks-v2.webp"},
   {
     id: "catedral-metropolitana-sucre-landmarks-v2",
+    parent: "BO",
     description: {
       de: "Die Kathedrale von Sucre kombiniert Renaissance- und Barockelemente und ist ein Symbol der kolonialen Geschichte der Hauptstadt.",
       hu: "Sucre városának fő katedrálisa, az ország egyik legfontosabb szakrális helye.",
@@ -112,6 +115,7 @@ image: "/poi-images/catedral-metropolitana-sucre-landmarks-v2.webp"
     }, image: "/poi-images/catedral-metropolitana-sucre-landmarks-v2.webp"},
   {
     id: "plaza-murillo-landmarks-v2",
+    parent: "BO",
     description: {
       de: "Die Plaza Murillo ist das politische Herz Boliviens, umgeben vom Regierungspalast, dem Kongress und der Kathedrale von La Paz.",
       hu: "La Paz központi tere, a bolíviai politika és kormányzat szívverése.",
@@ -148,6 +152,7 @@ image: "/poi-images/plaza-murillo-landmarks-v2.webp"
     }, image: "/poi-images/plaza-murillo-landmarks-v2.webp"},
   {
     id: "convento-santa-teresa-landmarks-v2",
+    parent: "BO",
     description: {
       de: "Das Kloster Santa Teresa in Cochabamba ist ein beeindruckendes Beispiel kolonialer Architektur und spirituellen Lebens.",
       hu: "Kolostor és múzeum Cochabambában, amely bepillantást enged az egyházi művészetbe.",

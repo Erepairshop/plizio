@@ -3,6 +3,7 @@ export const spainHistoryV2: POI[] = [
 
   {
     id: "spain-sagunto-ruins-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Burg von Sagunto", hu: "Sagunto vára", ro: "Castelul Sagunto", en: "Sagunto Castle",
 image: "/poi-images/spain-sagunto-ruins-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Ancient ruins of Sagunto Castle walls and Roman forum",
     , image: "/poi-images/spain-sagunto-ruins-history-v2.webp",
 },  {
     id: "spain-numancia-ruins-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Numancia", hu: "Numancia", ro: "Numancia", en: "Numantia",
 image: "/poi-images/spain-numancia-ruins-history-v2.webp"
@@ -59,6 +61,7 @@ image: "/poi-images/spain-numancia-ruins-history-v2.webp"
     image: "/poi-images/spain-numancia-ruins-history-v2.webp"},
   {
     id: "spain-italica-ruins-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Itálica", hu: "Itálica", ro: "Itálica", en: "Italica",
 image: "/poi-images/spain-italica-ruins-history-v2.webp"
@@ -93,6 +96,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
     , image: "/poi-images/spain-italica-ruins-history-v2.webp",
 },  {
     id: "spain-merida-theatre-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Römisches Theater von Mérida", hu: "Méridai római színház", ro: "Teatrul Roman din Mérida", en: "Roman Theatre of Mérida",
 image: "/poi-images/spain-merida-theatre-history-v2.webp"
@@ -127,6 +131,7 @@ imageHint: "The Scaenae frons of the Roman Theatre in Merida",
     , image: "/poi-images/spain-merida-theatre-history-v2.webp",
 },  {
     id: "spain-tarraco-amphitheatre-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Amphitheater von Tarraco", hu: "Tarraco amfiteátruma", ro: "Amfiteatrul din Tarraco", en: "Tarraco Amphitheatre",
 image: "/poi-images/spain-tarraco-amphitheatre-history-v2.webp"
@@ -149,6 +154,7 @@ image: "/poi-images/spain-tarraco-amphitheatre-history-v2.webp"
     image: "/poi-images/spain-tarraco-amphitheatre-history-v2.webp"},
   {
     id: "spain-medina-azahara-ruins-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Medina Azahara", hu: "Medina Azahara", ro: "Medina Azahara", en: "Medina Azahara",
 image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp"
@@ -183,6 +189,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
     , image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp",
 },  {
     id: "spain-alcazar-segovia-history-v2",
+    parent: "ES",
     type: "castle",
     name: { de: "Alcázar von Segovia", hu: "Segoviai Alcázar", ro: "Alcázar din Segovia", en: "Alcázar of Segovia",
 image: "/poi-images/spain-alcazar-segovia-history-v2.webp"
@@ -205,6 +212,7 @@ image: "/poi-images/spain-alcazar-segovia-history-v2.webp"
     image: "/poi-images/spain-alcazar-segovia-history-v2.webp"},
   {
     id: "spain-el-escorial-palace-history-v2",
+    parent: "ES",
     type: "palace",
     name: { de: "El Escorial", hu: "Escorial", ro: "El Escorial", en: "El Escorial",
 image: "/poi-images/spain-el-escorial-palace-history-v2.webp"
@@ -227,6 +235,7 @@ image: "/poi-images/spain-el-escorial-palace-history-v2.webp"
     image: "/poi-images/spain-el-escorial-palace-history-v2.webp"},
   {
     id: "spain-royal-palace-madrid-history-v2",
+    parent: "ES",
     type: "palace",
     name: { de: "Königlicher Palast von Madrid", hu: "Madridi királyi palota", ro: "Palatul Regal din Madrid", en: "Royal Palace of Madrid",
 image: "/poi-images/spain-royal-palace-madrid-history-v2.webp"
@@ -249,6 +258,7 @@ image: "/poi-images/spain-royal-palace-madrid-history-v2.webp"
     image: "/poi-images/spain-royal-palace-madrid-history-v2.webp"},
   {
     id: "spain-valley-fallen-monument-history-v2",
+    parent: "ES",
     type: "monument",
     name: { de: "Tal der Gefallenen", hu: "Elesettek Völgye", ro: "Valea celor Căzuți", en: "Valley of the Fallen",
 image: "/poi-images/spain-valley-fallen-monument-history-v2.webp"
@@ -271,6 +281,7 @@ image: "/poi-images/spain-valley-fallen-monument-history-v2.webp"
     image: "/poi-images/spain-valley-fallen-monument-history-v2.webp"},
   {
     id: "spain-belchite-ruins-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Altes Belchite", hu: "Belchite óvárosa", ro: "Belchite Vechi", en: "Old Belchite",
 image: "/poi-images/spain-belchite-ruins-history-v2.webp"
@@ -293,6 +304,7 @@ image: "/poi-images/spain-belchite-ruins-history-v2.webp"
     image: "/poi-images/spain-belchite-ruins-history-v2.webp"},
   {
     id: "spain-castle-loarre-history-v2",
+    parent: "ES",
     type: "castle",
     name: { de: "Burg Loarre", hu: "Loarre vára", ro: "Castelul Loarre", en: "Castle of Loarre",
 image: "/poi-images/spain-castle-loarre-history-v2.webp"
@@ -315,6 +327,7 @@ image: "/poi-images/spain-castle-loarre-history-v2.webp"
     image: "/poi-images/spain-castle-loarre-history-v2.webp"},
   {
     id: "spain-battle-bailen-history-v2",
+    parent: "ES",
     type: "battlefield",
     name: { de: "Schlachtfeld von Bailén", hu: "Bailéni csatatér", ro: "Câmpul de luptă de la Bailén", en: "Battlefield of Bailén",
 image: "/poi-images/spain-battle-bailen-history-v2.webp"
@@ -349,6 +362,7 @@ imageHint: "Monument commemorating the Battle of Bailen",
     , image: "/poi-images/spain-battle-bailen-history-v2.webp",
 },  {
     id: "spain-battle-las-navas-tolosa-history-v2",
+    parent: "ES",
     type: "battlefield",
     name: { de: "Schlachtfeld von Las Navas de Tolosa", hu: "Las Navas de Tolosa-i csatatér", ro: "Câmpul de luptă Las Navas de Tolosa", en: "Battlefield of Las Navas de Tolosa",
 image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp"
@@ -383,6 +397,7 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
     , image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp",
 },  {
     id: "spain-battle-brunete-history-v2",
+    parent: "ES",
     type: "battlefield",
     name: { de: "Schlachtfeld von Brunete", hu: "Brunetei csatatér", ro: "Câmpul de luptă Brunete", en: "Battlefield of Brunete",
 image: "/poi-images/spain-battle-brunete-history-v2.webp"
@@ -405,6 +420,7 @@ image: "/poi-images/spain-battle-brunete-history-v2.webp"
     image: "/poi-images/spain-battle-brunete-history-v2.webp"},
   {
     id: "spain-dolmens-antequera-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Dolmen von Antequera", hu: "Antequerai dolmenek", ro: "Dolmenele din Antequera", en: "Dolmens of Antequera",
 image: "/poi-images/spain-dolmens-antequera-history-v2.webp"
@@ -427,6 +443,7 @@ image: "/poi-images/spain-dolmens-antequera-history-v2.webp"
     image: "/poi-images/spain-dolmens-antequera-history-v2.webp"},
   {
     id: "spain-altamira-cave-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Höhle von Altamira", hu: "Altamira-barlang", ro: "Peștera Altamira", en: "Cave of Altamira",
 image: "/poi-images/spain-altamira-cave-history-v2.webp"
@@ -449,6 +466,7 @@ image: "/poi-images/spain-altamira-cave-history-v2.webp"
     image: "/poi-images/spain-altamira-cave-history-v2.webp"},
   {
     id: "spain-atapuerca-site-history-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Atapuerca", hu: "Atapuerca", ro: "Atapuerca", en: "Atapuerca",
 image: "/poi-images/spain-atapuerca-site-history-v2.webp"
@@ -471,6 +489,7 @@ image: "/poi-images/spain-atapuerca-site-history-v2.webp"
     image: "/poi-images/spain-atapuerca-site-history-v2.webp"},
   {
     id: "spain-lugo-walls-ruins-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Römische Mauern von Lugo", hu: "Lugo római városfala", ro: "Zidurile romane din Lugo", en: "Roman Walls of Lugo",
 image: "/poi-images/spain-lugo-walls-ruins-history-v2.webp"
@@ -493,6 +512,7 @@ image: "/poi-images/spain-lugo-walls-ruins-history-v2.webp"
     image: "/poi-images/spain-lugo-walls-ruins-history-v2.webp"},
   {
     id: "spain-tower-hercules-landmark-history-v2",
+    parent: "ES",
     type: "tower",
     name: { de: "Herkulesturm", hu: "Herkules-torony", ro: "Turnul lui Hercule", en: "Tower of Hercules",
 image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp"
@@ -527,6 +547,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
     , image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp",
 },  {
     id: "spain-palace-olite-history-v2",
+    parent: "ES",
     type: "palace",
     name: { de: "Palast der Könige von Navarra in Olite", hu: "Olitei királyi palota", ro: "Palatul Regilor Navarei din Olite", en: "Palace of the Kings of Navarre of Olite",
 image: "/poi-images/spain-palace-olite-history-v2.webp"
@@ -549,6 +570,7 @@ image: "/poi-images/spain-palace-olite-history-v2.webp"
     image: "/poi-images/spain-palace-olite-history-v2.webp"},
   {
     id: "spain-poblet-monastery-history-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Kloster von Poblet", hu: "Poblet-kolostor", ro: "Mănăstirea Poblet", en: "Poblet Monastery",
 image: "/poi-images/spain-poblet-monastery-history-v2.webp"
@@ -571,6 +593,7 @@ image: "/poi-images/spain-poblet-monastery-history-v2.webp"
     image: "/poi-images/spain-poblet-monastery-history-v2.webp"},
   {
     id: "spain-yuste-monastery-history-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Kloster von Yuste", hu: "Yuste-kolostor", ro: "Mănăstirea Yuste", en: "Monastery of Yuste",
 image: "/poi-images/spain-yuste-monastery-history-v2.webp"
@@ -593,6 +616,7 @@ image: "/poi-images/spain-yuste-monastery-history-v2.webp"
     image: "/poi-images/spain-yuste-monastery-history-v2.webp"},
   {
     id: "spain-san-juan-pena-history-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "San Juan de la Peña", hu: "San Juan de la Peña", ro: "San Juan de la Peña", en: "San Juan de la Peña",
 image: "/poi-images/spain-san-juan-pena-history-v2.webp"
@@ -615,6 +639,7 @@ image: "/poi-images/spain-san-juan-pena-history-v2.webp"
     image: "/poi-images/spain-san-juan-pena-history-v2.webp"},
   {
     id: "spain-baelo-claudia-ruins-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Baelo Claudia", hu: "Baelo Claudia", ro: "Baelo Claudia", en: "Baelo Claudia",
 image: "/poi-images/spain-baelo-claudia-ruins-history-v2.webp"
@@ -637,6 +662,7 @@ image: "/poi-images/spain-baelo-claudia-ruins-history-v2.webp"
     image: "/poi-images/spain-baelo-claudia-ruins-history-v2.webp"},
   {
     id: "spain-empuries-ruins-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Empúries", hu: "Empúries", ro: "Empúries", en: "Empuries",
 image: "/poi-images/spain-empuries-ruins-history-v2.webp"
@@ -671,6 +697,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     , image: "/poi-images/spain-empuries-ruins-history-v2.webp",
 },  {
     id: "spain-castle-coca-history-v2",
+    parent: "ES",
     type: "castle",
     name: { de: "Burg von Coca", hu: "Cocai vár", ro: "Castelul Coca", en: "Castle of Coca",
 image: "/poi-images/spain-castle-coca-history-v2.webp"
@@ -693,6 +720,7 @@ image: "/poi-images/spain-castle-coca-history-v2.webp"
     image: "/poi-images/spain-castle-coca-history-v2.webp"},
   {
     id: "spain-castle-butron-history-v2",
+    parent: "ES",
     type: "castle",
     name: { de: "Burg Butrón", hu: "Butrón-vár", ro: "Castelul Butrón", en: "Butron Castle",
 image: "/poi-images/spain-castle-butron-history-v2.webp"
@@ -715,6 +743,7 @@ image: "/poi-images/spain-castle-butron-history-v2.webp"
     image: "/poi-images/spain-castle-butron-history-v2.webp"},
   {
     id: "spain-corbera-ebre-ruins-history-v2",
+    parent: "ES",
     type: "ruins",
     name: { de: "Corbera d'Ebre", hu: "Corbera d'Ebre", ro: "Corbera d'Ebre", en: "Corbera d'Ebre",
 image: "/poi-images/spain-corbera-ebre-ruins-history-v2.webp"

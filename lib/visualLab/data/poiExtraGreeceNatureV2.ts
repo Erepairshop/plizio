@@ -3,6 +3,7 @@ export const greeceNatureV2: POI[] = [
 
   {
     id: "greece-lake-plastira-nature-v2",
+    parent: "GR",
     type: "lake",
     name: { de: "Plastira-See", hu: "Plasztira-tó", ro: "Lacul Plastira", en: "Lake Plastira",
 image: "/poi-images/greece-lake-plastira-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
     image: "/poi-images/greece-lake-plastira-nature-v2.webp",
 },  {
     id: "greece-vikos-gorge-nature-v2",
+    parent: "GR",
     type: "valley",
     name: { de: "Vikos-Schlucht", hu: "Vikosz-szurdok", ro: "Defileul Vikos", en: "Vikos Gorge",
 image: "/poi-images/greece-vikos-gorge-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
     image: "/poi-images/greece-vikos-gorge-nature-v2.webp",
 },  {
     id: "greece-samaria-gorge-nature-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Samaria-Schlucht", hu: "Szamaria-szurdok", ro: "Defileul Samaria", en: "Samaria Gorge",
 image: "/poi-images/greece-samaria-gorge-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Samaria Gorge narrow canyon walls",
     image: "/poi-images/greece-samaria-gorge-nature-v2.webp",
 },  {
     id: "greece-lake-prespa-nature-v2",
+    parent: "GR",
     type: "lake",
     name: { de: "Prespa-Seen", hu: "Preszpa-tavak", ro: "Lacurile Prespa", en: "Lake Prespa",
 image: "/poi-images/greece-lake-prespa-nature-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Lake Prespa with pelicans",
     image: "/poi-images/greece-lake-prespa-nature-v2.webp",
 },  {
     id: "greece-mount-athos-nature-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Berg Athos", hu: "Athosz-hegy", ro: "Muntele Athos", en: "Mount Athos",
 image: "/poi-images/greece-mount-athos-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Mount Athos peak from the sea",
     image: "/poi-images/greece-mount-athos-nature-v2.webp",
 },  {
     id: "greece-aliakmon-river-nature-v2",
+    parent: "GR",
     type: "river",
     name: { de: "Aliakmonas", hu: "Aliákmonasz", ro: "Râul Aliakmon", en: "Aliakmon River",
 image: "/poi-images/greece-aliakmon-river-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Aliakmon River aerial view",
     image: "/poi-images/greece-aliakmon-river-nature-v2.webp",
 },  {
     id: "greece-pindus-mountains-nature-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Pindos-Gebirge", hu: "Pindosz-hegység", ro: "Munții Pindului", en: "Pindus Mountains",
 image: "/poi-images/greece-pindus-mountains-nature-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Pindus Mountains snow-capped peaks",
     image: "/poi-images/greece-pindus-mountains-nature-v2.webp",
 },  {
     id: "greece-mount-pelion-nature-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Pilion", hu: "Pélion-hegység", ro: "Muntele Pelion", en: "Mount Pelion",
 image: "/poi-images/greece-mount-pelion-nature-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Mount Pelion lush forest landscape",
     image: "/poi-images/greece-mount-pelion-nature-v2.webp",
 },  {
     id: "greece-mount-ida-nature-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Psiloritis (Berg Ida)", hu: "Psziloritisz (Ida-hegy)", ro: "Muntele Ida (Psiloritis)", en: "Mount Ida (Psiloritis)",
 image: "/poi-images/greece-mount-ida-nature-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Mount Ida Psiloritis Crete rocky peak",
     image: "/poi-images/greece-mount-ida-nature-v2.webp",
 },  {
     id: "greece-lake-volvi-nature-v2",
+    parent: "GR",
     type: "lake",
     name: { de: "Volvi-See", hu: "Volvi-tó", ro: "Lacul Volvi", en: "Lake Volvi",
 image: "/poi-images/greece-lake-volvi-nature-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Lake Volvi landscape Macedonia Greece",
     image: "/poi-images/greece-lake-volvi-nature-v2.webp",
 },  {
     id: "greece-acheloos-river-nature-v2",
+    parent: "GR",
     type: "river",
     name: { de: "Achelous", hu: "Ahelóosz", ro: "Râul Acheloos", en: "Acheloos River",
 image: "/poi-images/greece-acheloos-river-nature-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Acheloos River valley and dam",
     image: "/poi-images/greece-acheloos-river-nature-v2.webp",
 },  {
     id: "greece-mount-smolikas-nature-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Smolikas", hu: "Szmolikasz", ro: "Muntele Smolikas", en: "Mount Smolikas",
 image: "/poi-images/greece-mount-smolikas-nature-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Mount Smolikas Drakolimni alpine lake",
     image: "/poi-images/greece-mount-smolikas-nature-v2.webp",
 },  {
     id: "greece-edessa-waterfalls-nature-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Edessa-Wasserfälle", hu: "Edesszai vízesések", ro: "Cascadele din Edessa", en: "Edessa Waterfalls",
 image: "/poi-images/greece-edessa-waterfalls-nature-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Edessa Waterfalls Karanos waterfall",
     image: "/poi-images/greece-edessa-waterfalls-nature-v2.webp",
 },  {
     id: "greece-mount-helmos-nature-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Helmos-Gebirge", hu: "Helmosz-hegység", ro: "Munții Helmos", en: "Mount Helmos",
 image: "/poi-images/greece-mount-helmos-nature-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Mount Helmos snow peaks observatory",
     image: "/poi-images/greece-mount-helmos-nature-v2.webp",
 },  {
     id: "greece-mount-parnassus-nature-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Parnass", hu: "Parnasszosz", ro: "Muntele Parnas", en: "Mount Parnassus",
 image: "/poi-images/greece-mount-parnassus-nature-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Mount Parnassus snow peaks",
     image: "/poi-images/greece-mount-parnassus-nature-v2.webp",
 },  {
     id: "greece-mount-taygetos-nature-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Taygetos-Gebirge", hu: "Taügetosz-hegység", ro: "Munții Taiget", en: "Mount Taygetos",
 image: "/poi-images/greece-mount-taygetos-nature-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Mount Taygetos pyramid peak",
     image: "/poi-images/greece-mount-taygetos-nature-v2.webp",
 },  {
     id: "greece-nestos-river-nature-v2",
+    parent: "GR",
     type: "river",
     name: { de: "Nestos", hu: "Nesztosz", ro: "Râul Nestos", en: "Nestos River",
 image: "/poi-images/greece-nestos-river-nature-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Nestos River meanders gorge",
     image: "/poi-images/greece-nestos-river-nature-v2.webp",
 },  {
     id: "greece-pineios-river-nature-v2",
+    parent: "GR",
     type: "river",
     name: { de: "Pinios", hu: "Peneiosz", ro: "Râul Pineios", en: "Pineios River",
 image: "/poi-images/greece-pineios-river-nature-v2.webp"
@@ -615,6 +633,7 @@ image: "/poi-images/greece-pineios-river-nature-v2.webp"
   },
   {
     id: "greece-lake-vegoritida-nature-v2",
+    parent: "GR",
     type: "lake",
     name: { de: "Vegoritida-See", hu: "Vegoritida-tó", ro: "Lacul Vegoritida", en: "Lake Vegoritida",
 image: "/poi-images/greece-lake-vegoritida-nature-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Lake Vegoritida blue water mountains",
     image: "/poi-images/greece-lake-vegoritida-nature-v2.webp",
 },  {
     id: "greece-lake-trichonida-nature-v2",
+    parent: "GR",
     type: "lake",
     name: { de: "Trichonida-See", hu: "Trihonida-tó", ro: "Lacul Trichonida", en: "Lake Trichonida",
 image: "/poi-images/greece-lake-trichonida-nature-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Lake Trichonida panoramic landscape",
     image: "/poi-images/greece-lake-trichonida-nature-v2.webp",
 },  {
     id: "greece-mount-dirfi-nature-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Dirfys", hu: "Dirfisz", ro: "Muntele Dirfi", en: "Mount Dirfi",
 image: "/poi-images/greece-mount-dirfi-nature-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
     image: "/poi-images/greece-mount-dirfi-nature-v2.webp",
 },  {
     id: "greece-mount-aenos-nature-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Enos", hu: "Énosz-hegy", ro: "Muntele Aenos", en: "Mount Aenos",
 image: "/poi-images/greece-mount-aenos-nature-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Mount Aenos Kefalonia fir trees",
     image: "/poi-images/greece-mount-aenos-nature-v2.webp",
 },  {
     id: "greece-mount-giona-nature-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Giona", hu: "Giona", ro: "Muntele Giona", en: "Mount Giona",
 image: "/poi-images/greece-mount-giona-nature-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Mount Giona Pyramida peak cliff",
     image: "/poi-images/greece-mount-giona-nature-v2.webp",
 },  {
     id: "greece-enipeas-waterfall-nature-v2",
+    parent: "GR",
     type: "park",
     name: { de: "Enipeas-Wasserfälle", hu: "Enipeasz-vízesések", ro: "Cascada Enipeas", en: "Enipeas Waterfall",
 image: "/poi-images/greece-enipeas-waterfall-nature-v2.webp"
@@ -820,6 +844,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
 },
   {
     id: "greece-lake-orestiada-nature-v2",
+    parent: "GR",
     type: "lake",
     name: { de: "Orestiada-See", hu: "Orestiada-tó", ro: "Lacul Orestiada", en: "Lake Orestiada",
 image: "/poi-images/greece-lake-orestiada-nature-v2.webp"
@@ -853,6 +878,7 @@ image: "/poi-images/greece-lake-orestiada-nature-v2.webp"
   },
   {
     id: "greece-acheron-river-nature-v2",
+    parent: "GR",
     type: "river",
     name: { de: "Acheron-Fluss", hu: "Acheron-folyó", ro: "Râul Acheron", en: "Acheron River",
 image: "/poi-images/greece-acheron-river-nature-v2.webp"
@@ -886,6 +912,7 @@ imageHint: "Acheron river crystal clear water in rocky gorge",
     image: "/poi-images/greece-acheron-river-nature-v2.webp",
 },  {
     id: "greece-vouraikos-gorge-nature-v2",
+    parent: "GR",
     type: "valley",
     name: { de: "Vouraikos-Schlucht", hu: "Vouraikos-szurdok", ro: "Cheile Vouraikos", en: "Vouraikos Gorge",
 image: "/poi-images/greece-vouraikos-gorge-nature-v2.webp"
@@ -919,6 +946,7 @@ imageHint: "Vouraikos gorge cliffs with rack railway tracks",
     image: "/poi-images/greece-vouraikos-gorge-nature-v2.webp",
 },  {
     id: "greece-mount-mainalo-nature-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Berg Mainalo", hu: "Mainalo-hegy", ro: "Muntele Mainalo", en: "Mount Mainalo",
 image: "/poi-images/greece-mount-mainalo-nature-v2.webp"
@@ -952,6 +980,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
     image: "/poi-images/greece-mount-mainalo-nature-v2.webp",
 },  {
     id: "greece-polylimnio-waterfalls-nature-v2",
+    parent: "GR",
     type: "landmark",
     name: { de: "Polylimnio-Wasserfälle", hu: "Polylimnio-vízesések", ro: "Cascadele Polylimnio", en: "Polylimnio Waterfalls",
 image: "/poi-images/greece-polylimnio-waterfalls-nature-v2.webp"
@@ -985,6 +1014,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
     image: "/poi-images/greece-polylimnio-waterfalls-nature-v2.webp",
 },  {
     id: "greece-lake-stymphalia-nature-v2",
+    parent: "GR",
     type: "lake",
     name: { de: "Stymphalia-See", hu: "Sztümphaloszi-tó", ro: "Lacul Stymphalia", en: "Lake Stymphalia",
 image: "/poi-images/greece-lake-stymphalia-nature-v2.webp"
@@ -1015,5 +1045,126 @@ image: "/poi-images/greece-lake-stymphalia-nature-v2.webp"
       ro: ["Altitudine de 600 metri", "Suprafață variabilă (3,5 km2)", "Popas pentru păsări migratoare", "Găzduiește un muzeu ecologic"],
       en: ["Altitude of 600 meters", "Variable area (approx 3.5 sq km)", "Key stop for migratory birds", "Home to Environment Museum"],
     },
+  }
+,
+  {
+    id: "greece-melissani-cave-nature-v2",
+    parent: "GR",
+    type: "lake",
+    name: { de: "Melissani-Höhle", hu: "Melisszani-barlang", ro: "Peștera Melissani", en: "Melissani Cave" },
+    coordinates: { lat: 38.2569, lng: 20.6235 },
+    description: {
+      de: "Die Melissani-Höhle auf Kefalonia beherbergt einen unterirdischen See. Das Wasser wird durch die eingestürzte Decke in leuchtendem Blau beleuchtet.",
+      hu: "Kefalónia szigetén található barlang, amely egy kristálytiszta vizű föld alatti tavat rejt. Beomlott tetején keresztül besüt a nap.",
+      ro: "O peșteră de pe insula Kefalonia care adăpostește un lac subteran spectaculos. Lumina soarelui pătrunde prin tavanul prăbușit al peșterii.",
+      en: "A subterranean lake on Kefalonia island discovered in 1951. It is famous for its crystal blue waters illuminated by the collapsed roof.",
+    },
+    facts: {
+      de: ["Wiederentdeckung im Jahr 1951", "Mischung aus Süß- und Salzwasser", "Befindet sich nahe Karavomylos", "Besichtigung per Boot möglich"],
+      hu: ["1951-ben fedezték fel újra", "Édes és sós víz keveréke", "Karavomilosz közelében fekszik", "Csónakkal látogatható"],
+      ro: ["Redescoperită în anul 1951", "Amestec de apă dulce și sărată", "Situată lângă Karavomylos", "Vizitabilă cu barca"],
+      en: ["Rediscovered in 1951", "Mix of fresh and salt water", "Located near Karavomylos", "Accessible by boat tours"],
+    },
+    imageHint: "Melissani Cave boat trip blue water",
+  },
+  {
+    id: "greece-lousios-gorge-nature-v2",
+    parent: "GR",
+    type: "valley",
+    name: { de: "Lousios-Schlucht", hu: "Lusziosz-szurdok", ro: "Cheile Lousios", en: "Lousios Gorge" },
+    coordinates: { lat: 37.55, lng: 22.05 },
+    description: {
+      de: "Eine tiefe Schlucht in Arkadien, durch die der Fluss Lousios fließt. Sie ist bekannt für ihre in die Felswände gebauten Klöster.",
+      hu: "Mély szurdok Árkádiában, amelyen a Lusziosz-folyó halad át. Híres a függőleges sziklafalakba épített kolostorairól.",
+      ro: "Un defileu adânc în Arcadia, traversat de râul Lousios. Este cunoscut pentru mănăstirile istorice construite direct în stâncă.",
+      en: "A deep gorge in Arcadia through which the Lousios River flows. It is famous for its historic monasteries built into the cliffs.",
+    },
+    facts: {
+      de: ["Etwa 15 Kilometer Gesamtlänge", "Standort antiker Ruinen von Gortys", "Zentrum der Peloponnes-Wanderwege", "Fluss mündet in den Alpheios"],
+      hu: ["Körülbelül 15 kilométer hosszú", "Itt találhatók az ókori Gortisz romjai", "A Peloponnészoszi túraútvonalak központja", "A folyó az Alfeioszba torkollik"],
+      ro: ["Aproximativ 15 kilometri lungime", "Locul ruinelor antice din Gortys", "Centrul traseelor de drumeție din Peloponez", "Râul se varsă în Alfeios"],
+      en: ["Approximately 15 kilometers long", "Home to the ancient ruins of Gortys", "Center for Peloponnese hiking trails", "River flows into the Alfeios"],
+    },
+    imageHint: "Lousios Gorge monastery cliff",
+  },
+  {
+    id: "greece-lake-doxa-nature-v2",
+    parent: "GR",
+    type: "lake",
+    name: { de: "Doxa-See", hu: "Doxa-tó", ro: "Lacul Doxa", en: "Lake Doxa" },
+    coordinates: { lat: 37.9265, lng: 22.2875 },
+    description: {
+      de: "Ein künstlicher See in der Region Korinthia, umgeben von dichten Tannenwäldern. Er wird oft als die 'griechische Schweiz' bezeichnet.",
+      hu: "Mesterséges tó Korinthia régióban, sűrű fenyőerdőkkel körülvéve. Gyakran nevezik a 'görög Svájcnak' a táj jellege miatt.",
+      ro: "Un lac artificial în regiunea Corintia, înconjurat de păduri dense de brazi. Este adesea numit 'Elveția grecească'.",
+      en: "An artificial lake in the Corinthia region, surrounded by dense fir forests. It is often referred to as the 'Greek Switzerland'.",
+    },
+    facts: {
+      de: ["Liegt auf 900 Metern Höhe", "Bauabschluss im Jahr 1996", "Zentrum des Feneos-Beckens", "Kapelle des Hl. Phanourios auf Landzunge"],
+      hu: ["900 méteres magasságban fekszik", "1996-ban fejezték be az építését", "A Feneosz-medence központja", "Szent Fanouriosz kápolna a félszigeten"],
+      ro: ["Situat la 900 de metri altitudine", "Construcție finalizată în anul 1996", "Centrul bazinului Feneos", "Capela Sf. Fanourios pe o peninsulă"],
+      en: ["Located at 900 meters altitude", "Construction completed in 1996", "Center of the Feneos basin", "St. Phanourios chapel on a peninsula"],
+    },
+    imageHint: "Lake Doxa chapel peninsula autumn",
+  },
+  {
+    id: "greece-alfeios-river-nature-v2",
+    parent: "GR",
+    type: "river",
+    name: { de: "Alpheios", hu: "Alfeiosz-folyó", ro: "Râul Alfeios", en: "Alfeios River" },
+    coordinates: { lat: 37.6186, lng: 21.5361 },
+    description: {
+      de: "Der längste Fluss der Peloponnes-Halbinsel, der durch Arkadien und Elis fließt. Er ist eng mit dem antiken Olympia und der Mythologie verbunden.",
+      hu: "A Peloponnészoszi-félsziget leghosszabb folyója, amely Árkádián és Éliszen halad át. Szorosan kapcsolódik az ókori Olümpiához.",
+      ro: "Cel mai lung râu din Peninsula Peloponez, care traversează regiunile Arcadia și Elis. Este strâns legat de Olimpia antică.",
+      en: "The longest river in the Peloponnese peninsula, flowing through Arcadia and Elis. It is deeply connected to ancient Olympia and mythology.",
+    },
+    facts: {
+      de: ["Gesamtlänge von 110 Kilometern", "Mündet in das Ionische Meer", "Passiert das antike Olympia", "Größter Zufluss ist der Ladon"],
+      hu: ["Teljes hossza 110 kilométer", "A Jón-tengerbe torkollik", "Elhalad az ókori Olümpia mellett", "Legnagyobb mellékfolyója a Ladon"],
+      ro: ["Lungime totală de 110 kilometri", "Se varsă în Marea Ionică", "Trece pe lângă Olimpia antică", "Cel mai mare afluent este Ladon"],
+      en: ["Total length of 110 kilometers", "Empties into the Ionian Sea", "Passes by Ancient Olympia", "Largest tributary is the Ladon"],
+    },
+    imageHint: "Alfeios river Peloponnese valley",
+  },
+  {
+    id: "greece-ha-gorge-nature-v2",
+    parent: "GR",
+    type: "valley",
+    name: { de: "Ha-Schlucht", hu: "Ha-szurdok", ro: "Cheile Ha", en: "Ha Gorge" },
+    coordinates: { lat: 35.0845, lng: 25.834 },
+    description: {
+      de: "Eine extrem enge und steile Schlucht im Osten Kretas. Sie gilt als eine der anspruchsvollsten Schluchten für Canyoning in Europa.",
+      hu: "Rendkívül szűk és meredek szurdok Kelet-Krétán. Európa egyik legnehezebb canyoning terepeként tartják számon.",
+      ro: "Un defileu extrem de îngust și abrupt în estul Cretei. Este considerat unul dintre cele mai dificile locuri de canyoning din Europa.",
+      en: "An extremely narrow and steep gorge in eastern Crete. It is considered one of the most challenging canyoning sites in Europe.",
+    },
+    facts: {
+      de: ["Wände sind bis zu 300 m hoch", "Nur etwa 1,6 km Gesamtlänge", "Liegt im Thripti-Gebirge", "An der Basis nur 2 m breit"],
+      hu: ["A falak akár 300 m magasak", "Mindössze 1,6 km hosszú", "A Thripti-hegységben található", "Az alján csak 2 méter széles"],
+      ro: ["Pereții au până la 300 m înălțime", "Lungime totală de doar 1,6 km", "Situat în munții Thripti", "Doar 2 metri lățime la bază"],
+      en: ["Walls reach up to 300m high", "Only 1.6 kilometers total length", "Located in the Thripti mountains", "Only 2 meters wide at the base"],
+    },
+    imageHint: "Ha Gorge narrow crevice Crete",
+  },
+  {
+    id: "greece-neda-river-nature-v2",
+    parent: "GR",
+    type: "river",
+    name: { de: "Neda", hu: "Neda-folyó", ro: "Râul Neda", en: "Neda River" },
+    coordinates: { lat: 37.4092, lng: 21.6811 },
+    description: {
+      de: "Einer der wenigen Flüsse in Griechenland mit weiblichem Namen. Er bildet die natürliche Grenze zwischen Messenien und Elis.",
+      hu: "Görögország kevés női nevű folyójának egyike. Messzénia és Élisz természetes határát képezi a Peloponnészoszon.",
+      ro: "Unul dintre puținele râuri din Grecia cu nume feminin. Formează granița naturală între regiunile Mesenia și Elis.",
+      en: "One of the few rivers in Greece with a female name. It forms the natural boundary between Messenia and Elis in the Peloponnese.",
+    },
+    facts: {
+      de: ["Gesamtlänge von 32 Kilometern", "Berühmt für zwei große Wasserfälle", "Mündet in den Golf von Kyparissia", "Reich an üppiger Vegetation"],
+      hu: ["Teljes hossza 32 kilométer", "Híres két nagy vízeséséről", "A Küparissziai-öbölbe torkollik", "Gazdag, buja növényzet jellemzi"],
+      ro: ["Lungime totală de 32 de kilometri", "Faimos pentru cele două cascade mari", "Se varsă în Golful Kyparissia", "Bogat în vegetație luxuriantă"],
+      en: ["Total length of 32 kilometers", "Famous for two large waterfalls", "Empties into the Kyparissia Gulf", "Rich in lush riverside vegetation"],
+    },
+    imageHint: "Neda river waterfall Peloponnese",
   }
 ];

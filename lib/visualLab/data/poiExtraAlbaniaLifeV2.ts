@@ -3,6 +3,7 @@ export const albaniaLifeV2: POI[] = [
 
   {
     id: "albania-butrint-national-park-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Nationalpark Butrint", hu: "Butrinti Nemzeti Park", ro: "Parcul Național Butrint", en: "Butrint National Park",
 image: "/poi-images/albania-butrint-national-park-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Butrint National Park lagoon and forest landscape",
     image: "/poi-images/albania-butrint-national-park-life-v2.webp",
 },  {
     id: "albania-dajti-national-park-life-v2",
+    parent: "AL",
     type: "park",
     name: { de: "Nationalpark Dajti", hu: "Dajti-hegy Nemzeti Park", ro: "Parcul Național Dajti", en: "Dajti National Park",
 image: "/poi-images/albania-dajti-national-park-life-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Dajti mountain forest and peak Albania",
     image: "/poi-images/albania-dajti-national-park-life-v2.webp",
 },  {
     id: "albania-lura-national-park-life-v2",
+    parent: "AL",
     type: "park",
     name: { de: "Nationalpark Lura", hu: "Lura Nemzeti Park", ro: "Parcul Național Lura", en: "Lura National Park",
 image: "/poi-images/albania-lura-national-park-life-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Lura National Park glacial lake and pine trees",
     image: "/poi-images/albania-lura-national-park-life-v2.webp",
 },  {
     id: "albania-valbona-valley-national-park-life-v2",
+    parent: "AL",
     type: "park",
     name: { de: "Nationalpark Valbonatal", hu: "Valbona-völgy Nemzeti Park", ro: "Parcul Național Valea Valbonei", en: "Valbona Valley National Park",
 image: "/poi-images/albania-valbona-valley-national-park-life-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Valbona Valley river and high peaks",
     image: "/poi-images/albania-valbona-valley-national-park-life-v2.webp",
 },  {
     id: "albania-divjaka-karavasta-national-park-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Nationalpark Divjaka-Karavasta", hu: "Divjaka-Karavasta Nemzeti Park", ro: "Parcul Național Divjaka-Karavasta", en: "Divjaka-Karavasta National Park",
 image: "/poi-images/albania-divjaka-karavasta-national-park-life-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Karavasta lagoon with dalmatian pelicans",
     image: "/poi-images/albania-divjaka-karavasta-national-park-life-v2.webp",
 },  {
     id: "albania-karaburun-sazan-marine-park-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Meeresnationalpark Karaburun-Sazan", hu: "Karaburun-Sazan Tengeri Nemzeti Park", ro: "Parcul Marin Karaburun-Sazan", en: "Karaburun-Sazan Marine Park",
 image: "/poi-images/albania-karaburun-sazan-marine-park-life-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Karaburun Sazan marine park turquoise water",
     image: "/poi-images/albania-karaburun-sazan-marine-park-life-v2.webp",
 },  {
     id: "albania-prespa-national-park-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Nationalpark Prespa", hu: "Preszpa Nemzeti Park", ro: "Parcul Național Prespa", en: "Prespa National Park",
 image: "/poi-images/albania-prespa-national-park-life-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Lake Prespa Albania scenic view with birds",
     image: "/poi-images/albania-prespa-national-park-life-v2.webp",
 },  {
     id: "albania-shebenik-jabllanica-national-park-life-v2",
+    parent: "AL",
     type: "park",
     name: { de: "Nationalpark Shebenik-Jabllanica", hu: "Shebenik-Jabllanica Nemzeti Park", ro: "Parcul Național Shebenik-Jabllanica", en: "Shebenik-Jabllanica National Park",
 image: "/poi-images/albania-shebenik-jabllanica-national-park-life-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Shebenik Jabllanica mountain and beech forest",
     image: "/poi-images/albania-shebenik-jabllanica-national-park-life-v2.webp",
 },  {
     id: "albania-tomorr-national-park-life-v2",
+    parent: "AL",
     type: "park",
     name: { de: "Nationalpark Tomorr", hu: "Tomorr-hegy Nemzeti Park", ro: "Parcul Național Tomorr", en: "Tomorr National Park",
 image: "/poi-images/albania-tomorr-national-park-life-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Tomorr mountain peak Albania nature",
     image: "/poi-images/albania-tomorr-national-park-life-v2.webp",
 },  {
     id: "albania-bredhi-i-hotoves-national-park-life-v2",
+    parent: "AL",
     type: "forest",
     name: { de: "Nationalpark Bredhi i Hotovës-Dangelli", hu: "Bredhi i Hotovës Nemzeti Park", ro: "Parcul Național Bredhi i Hotovës", en: "Bredhi i Hotovës-Dangelli National Park",
 image: "/poi-images/albania-bredhi-i-hotoves-national-park-life-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Bredhi i Hotoves fir forest landscape",
     image: "/poi-images/albania-bredhi-i-hotoves-national-park-life-v2.webp",
 },  {
     id: "albania-shtame-pass-national-park-life-v2",
+    parent: "AL",
     type: "forest",
     name: { de: "Nationalpark Shtamë-Pass", hu: "Shtamë-hágó Nemzeti Park", ro: "Parcul Național Pasul Shtamë", en: "Shtamë Pass National Park",
 image: "/poi-images/albania-shtame-pass-national-park-life-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Shtame Pass pine forest and mountain road",
     image: "/poi-images/albania-shtame-pass-national-park-life-v2.webp",
 },  {
     id: "albania-fir-of-drenove-national-park-life-v2",
+    parent: "AL",
     type: "forest",
     name: { de: "Nationalpark Tanne von Drenovë", hu: "Drenovai Jegenyefenyő Nemzeti Park", ro: "Parcul Național Bradul din Drenovë", en: "Fir of Drenovë National Park",
 image: "/poi-images/albania-fir-of-drenove-national-park-life-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Fir of Drenove forest Korce Albania",
     image: "/poi-images/albania-fir-of-drenove-national-park-life-v2.webp",
 },  {
     id: "albania-tirana-botanical-garden-life-v2",
+    parent: "AL",
     type: "park",
     name: { de: "Botanischer Garten Tirana", hu: "Tiranai Botanikus Kert", ro: "Grădina Botanică din Tirana", en: "Tirana Botanical Garden",
 image: "/poi-images/albania-tirana-botanical-garden-life-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Tirana Botanical Garden plants and lake",
     image: "/poi-images/albania-tirana-botanical-garden-life-v2.webp",
 },  {
     id: "albania-tirana-zoo-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Zoo Tirana", hu: "Tiranai Állatkert", ro: "Grădina Zoologică din Tirana", en: "Tirana Zoo",
 image: "/poi-images/albania-tirana-zoo-life-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Tirana Zoo entrance and park",
     image: "/poi-images/albania-tirana-zoo-life-v2.webp",
 },  {
     id: "albania-narta-lagoon-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Narta-Lagune", hu: "Narta-lagúna", ro: "Laguna Narta", en: "Narta Lagoon",
 image: "/poi-images/albania-narta-lagoon-life-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Narta Lagoon flamingos and landscape",
     image: "/poi-images/albania-narta-lagoon-life-v2.webp",
 },  {
     id: "albania-vjosa-wild-river-national-park-life-v2",
+    parent: "AL",
     type: "river",
     name: { de: "Nationalpark Vjosa-Wildfluss", hu: "Vjosa Vadvíz Nemzeti Park", ro: "Parcul Național Râul Sălbatic Vjosa", en: "Vjosa Wild River National Park",
 image: "/poi-images/albania-vjosa-wild-river-national-park-life-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Vjosa river wild landscape Albania",
     image: "/poi-images/albania-vjosa-wild-river-national-park-life-v2.webp",
 },  {
     id: "albania-kune-vain-tale-nature-reserve-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Naturreservat Kune-Vain-Tale", hu: "Kune-Vain-Tale Természetvédelmi Terület", ro: "Rezervația Naturală Kune-Vain-Tale", en: "Kune-Vain-Tale Nature Reserve",
 image: "/poi-images/albania-kune-vain-tale-nature-reserve-life-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Kune Vain Tale wetland and lagoons",
     image: "/poi-images/albania-kune-vain-tale-nature-reserve-life-v2.webp",
 },  {
     id: "albania-patok-lagoon-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Patok-Lagune", hu: "Patoki-lagúna", ro: "Laguna Patok", en: "Patok Lagoon",
 image: "/poi-images/albania-patok-lagoon-life-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Patok Lagoon turtle research area and water",
     image: "/poi-images/albania-patok-lagoon-life-v2.webp",
 },  {
     id: "albania-shkoder-lake-life-v2",
+    parent: "AL",
     type: "lake",
     name: { de: "Skutarisee", hu: "Skadari-tó", ro: "Lacul Shkodër", en: "Shkodër Lake",
 image: "/poi-images/albania-shkoder-lake-life-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Shkoder lake landscape with water lilies",
     image: "/poi-images/albania-shkoder-lake-life-v2.webp",
 },  {
     id: "albania-orikum-lagoon-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Orikum-Lagune", hu: "Oriku-lagúna", ro: "Laguna Orikum", en: "Orikum Lagoon",
 image: "/poi-images/albania-orikum-lagoon-life-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Orikum Lagoon and coastal reeds",
     image: "/poi-images/albania-orikum-lagoon-life-v2.webp",
 },  {
     id: "albania-butrint-wetland-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Butrint-Feuchtgebiet", hu: "Butrinti vizes élőhelyek", ro: "Zona Umedă Butrint", en: "Butrint Wetland",
 image: "/poi-images/albania-butrint-wetland-life-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Butrint Lake and Vivari channel wetlands",
     image: "/poi-images/albania-butrint-wetland-life-v2.webp",
 },  {
     id: "albania-nikaj-mertur-park-life-v2",
+    parent: "AL",
     type: "park",
     name: { de: "Regionaler Naturpark Nikaj-Mërtur", hu: "Nikaj-Mërtur Regionális Naturpark", ro: "Parcul Natural Regional Nikaj-Mërtur", en: "Nikaj-Mërtur Regional Nature Park",
 image: "/poi-images/albania-nikaj-mertur-park-life-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Nikaj Mertur mountains and rugged forest",
     image: "/poi-images/albania-nikaj-mertur-park-life-v2.webp",
 },  {
     id: "albania-gashi-river-reserve-life-v2",
+    parent: "AL",
     type: "river",
     name: { de: "Naturreservat Gashi-Fluss", hu: "Gashi-folyó Természetvédelmi Terület", ro: "Rezervația Naturală Râul Gashi", en: "Gashi River Nature Reserve",
 image: "/poi-images/albania-gashi-river-reserve-life-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Gashi river and ancient beech forest",
     image: "/poi-images/albania-gashi-river-reserve-life-v2.webp",
 },  {
     id: "albania-rrajca-nature-reserve-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Naturreservat Rrajca", hu: "Rrajca Természetvédelmi Terület", ro: "Rezervația Naturală Rrajca", en: "Rrajca Nature Reserve",
 image: "/poi-images/albania-rrajca-nature-reserve-life-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Rrajca ancient beech forest UNESCO",
     image: "/poi-images/albania-rrajca-nature-reserve-life-v2.webp",
 },  {
     id: "albania-morava-mountain-park-life-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Naturpark Morava-Gebirge", hu: "Morava-hegység Naturpark", ro: "Parcul Natural Muntele Morava", en: "Morava Mountain Park",
 image: "/poi-images/albania-morava-mountain-park-life-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Morava mountain forest overlooking Korce",
     image: "/poi-images/albania-morava-mountain-park-life-v2.webp",
 },  {
     id: "albania-velipoje-nature-reserve-life-v2",
+    parent: "AL",
     type: "wildlife",
     name: { de: "Naturreservat Velipojë", hu: "Velipojei Természetvédelmi Terület", ro: "Rezervația Naturală Velipojë", en: "Velipojë Nature Reserve",
 image: "/poi-images/albania-velipoje-nature-reserve-life-v2.webp"
@@ -887,6 +913,7 @@ image: "/poi-images/albania-velipoje-nature-reserve-life-v2.webp"
   },
   {
     id: "albania-mali-i-polisit-life-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Mali i Polisit Gebirgspark", hu: "Mali i Polisit Natúrpark", ro: "Parcul Montan Mali i Polisit", en: "Mali i Polisit Mountain Park",
 image: "/poi-images/albania-mali-i-polisit-life-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Mali i Polisit mountain flora and landscape",
     image: "/poi-images/albania-mali-i-polisit-life-v2.webp",
 },  {
     id: "albania-cukal-mali-i-zi-life-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Cukal-Mali i Zi Schutzgebiet", hu: "Cukal-Mali i Zi védett terület", ro: "Zona Protejată Cukal-Mali i Zi", en: "Cukal-Mali i Zi Protected Area",
 image: "/poi-images/albania-cukal-mali-i-zi-life-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Cukal mountains karst landscape Albania",
     image: "/poi-images/albania-cukal-mali-i-zi-life-v2.webp",
 },  {
     id: "albania-lake-ohrid-al-life-v2",
+    parent: "AL",
     type: "lake",
     name: { de: "Ohridsee (albanischer Teil)", hu: "Ohridi-tó (albán rész)", ro: "Lacul Ohrid (partea albaneză)", en: "Lake Ohrid (Albanian part)",
 image: "/poi-images/albania-lake-ohrid-al-life-v2.webp"

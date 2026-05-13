@@ -3,6 +3,7 @@ export const ukraineNatureV2: POI[] = [
 
   {
     id: "ukraine-hoverla-nature-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Hoverla", hu: "Hóvár", ro: "Hoverla", en: "Hoverla",
 image: "/poi-images/ukraine-hoverla-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Hoverla mountain peak with Ukrainian flag",
     image: "/poi-images/ukraine-hoverla-nature-v2.webp",
 },  {
     id: "ukraine-synevyr-nature-v2",
+    parent: "UA",
     type: "lake",
     name: { de: "Synevyr-See", hu: "Szinevéri-tó", ro: "Lacul Sinevir", en: "Synevyr Lake",
 image: "/poi-images/ukraine-synevyr-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Lake Synevyr with small island in the middle",
     image: "/poi-images/ukraine-synevyr-nature-v2.webp",
 },  {
     id: "ukraine-dnipro-nature-v2",
+    parent: "UA",
     type: "river",
     name: { de: "Dnipro", hu: "Dnyeper", ro: "Nipru", en: "Dnipro River",
 image: "/poi-images/ukraine-dnipro-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Dnipro river aerial view in Kyiv",
     image: "/poi-images/ukraine-dnipro-nature-v2.webp",
 },  {
     id: "ukraine-dniester-canyon-nature-v2",
+    parent: "UA",
     type: "valley",
     name: { de: "Dnister-Canyon", hu: "Dnyeszter-kanyon", ro: "Canionul Nistrului", en: "Dniester Canyon",
 image: "/poi-images/ukraine-dniester-canyon-nature-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Dniester Canyon river bend aerial view",
     image: "/poi-images/ukraine-dniester-canyon-nature-v2.webp",
 },  {
     id: "ukraine-svityaz-nature-v2",
+    parent: "UA",
     type: "lake",
     name: { de: "Switjas-See", hu: "Szvityáz-tó", ro: "Lacul Svitiaz", en: "Lake Svityaz",
 image: "/poi-images/ukraine-svityaz-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Lake Svityaz crystal clear water and beach",
     image: "/poi-images/ukraine-svityaz-nature-v2.webp",
 },  {
     id: "ukraine-askania-nova-nature-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Askanija-Nowa", hu: "Aszkanyija-Nova", ro: "Askania-Nova", en: "Askania-Nova",
 image: "/poi-images/ukraine-askania-nova-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Askania-Nova steppe with wild horses",
     image: "/poi-images/ukraine-askania-nova-nature-v2.webp",
 },  {
     id: "ukraine-oleshky-sands-nature-v2",
+    parent: "UA",
     type: "valley",
     name: { de: "Oleschky-Sande", hu: "Oleski-homok", ro: "Nisipurile Oleșki", en: "Oleshky Sands",
 image: "/poi-images/ukraine-oleshky-sands-nature-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Oleshky Sands desert dunes",
     image: "/poi-images/ukraine-oleshky-sands-nature-v2.webp",
 },  {
     id: "ukraine-shypit-nature-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Schypit-Wasserfall", hu: "Sipit-vízesés", ro: "Cascada Șipot", en: "Shypit Waterfall",
 image: "/poi-images/ukraine-shypit-nature-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Shypit waterfall in the forest",
     image: "/poi-images/ukraine-shypit-nature-v2.webp",
 },  {
     id: "ukraine-pip-ivan-chornohora-nature-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Pip Iwan (Tschornohora)", hu: "Pip Iván (Csornohora)", ro: "Pip Ivan (Ciornohora)", en: "Pip Ivan (Chornohora)",
 image: "/poi-images/ukraine-pip-ivan-chornohora-nature-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Pip Ivan mountain with White Elephant observatory",
     image: "/poi-images/ukraine-pip-ivan-chornohora-nature-v2.webp",
 },  {
     id: "ukraine-dzharylhach-nature-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Dsharylhatsch", hu: "Dzsarihalcs-sziget", ro: "Insula Djarîlhaci", en: "Dzharylhach Island",
 image: "/poi-images/ukraine-dzharylhach-nature-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Dzharylhach island coastline and lighthouse",
     image: "/poi-images/ukraine-dzharylhach-nature-v2.webp",
 },  {
     id: "ukraine-snake-island-nature-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Schlangeninsel", hu: "Kígyó-sziget", ro: "Insula Șerpilor", en: "Snake Island",
 image: "/poi-images/ukraine-snake-island-nature-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Snake Island Zmiinyi aerial view",
     image: "/poi-images/ukraine-snake-island-nature-v2.webp",
 },  {
     id: "ukraine-tuzly-lagoons-nature-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Tusly-Lagunen", hu: "Tuzlai-lagúnák", ro: "Lagunele Tuzla", en: "Tuzly Lagoons",
 image: "/poi-images/ukraine-tuzly-lagoons-nature-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Tuzly Lagoons national park aerial view",
     image: "/poi-images/ukraine-tuzly-lagoons-nature-v2.webp",
 },  {
     id: "ukraine-petros-nature-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Petros", hu: "Petrovsz-csúcs", ro: "Vârful Petros", en: "Mount Petros",
 image: "/poi-images/ukraine-petros-nature-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Mount Petros peak in winter",
     image: "/poi-images/ukraine-petros-nature-v2.webp",
 },  {
     id: "ukraine-southern-bug-nature-v2",
+    parent: "UA",
     type: "river",
     name: { de: "Südlicher Bug", hu: "Déli-Bug", ro: "Bugul de Sud", en: "Southern Bug",
 image: "/poi-images/ukraine-southern-bug-nature-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Southern Bug river rapids and rocks",
     image: "/poi-images/ukraine-southern-bug-nature-v2.webp",
 },  {
     id: "ukraine-aktove-canyon-nature-v2",
+    parent: "UA",
     type: "valley",
     name: { de: "Aktowe-Canyon", hu: "Aktove-kanyon", ro: "Canionul Aktove", en: "Aktove Canyon",
 image: "/poi-images/ukraine-aktove-canyon-nature-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Aktove Canyon granite rocks and river",
     image: "/poi-images/ukraine-aktove-canyon-nature-v2.webp",
 },  {
     id: "ukraine-vorozheska-nature-v2",
+    parent: "UA",
     type: "lake",
     name: { de: "Woroscheska-See", hu: "Vorozseszka-tó", ro: "Lacul Vorojeska", en: "Vorozheska Lake",
 image: "/poi-images/ukraine-vorozheska-nature-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Vorozheska mountain lake aerial view",
     image: "/poi-images/ukraine-vorozheska-nature-v2.webp",
 },  {
     id: "ukraine-nesamovyte-nature-v2",
+    parent: "UA",
     type: "lake",
     name: { de: "Nesamowyte-See", hu: "Nesamovite-tó", ro: "Lacul Nesamovite", en: "Nesamovyte Lake",
 image: "/poi-images/ukraine-nesamovyte-nature-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Nesamovyte lake in the mountains",
     image: "/poi-images/ukraine-nesamovyte-nature-v2.webp",
 },  {
     id: "ukraine-brebeneskul-peak-nature-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Brebeneskul", hu: "Brebeneszkul-csúcs", ro: "Vârful Brebeneskul", en: "Mount Brebeneskul",
 image: "/poi-images/ukraine-brebeneskul-peak-nature-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Mount Brebeneskul peak and lake",
     image: "/poi-images/ukraine-brebeneskul-peak-nature-v2.webp",
 },  {
     id: "ukraine-desna-nature-v2",
+    parent: "UA",
     type: "river",
     name: { de: "Desna", hu: "Deszna", ro: "Desna", en: "Desna River",
 image: "/poi-images/ukraine-desna-nature-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Desna river floodplains aerial view",
     image: "/poi-images/ukraine-desna-nature-v2.webp",
 },  {
     id: "ukraine-danube-delta-nature-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Donaudelta (Ukraine)", hu: "Duna-delta", ro: "Delta Dunării", en: "Danube Delta",
 image: "/poi-images/ukraine-danube-delta-nature-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Danube Delta canals and pelicans",
     image: "/poi-images/ukraine-danube-delta-nature-v2.webp",
 },  {
     id: "ukraine-kinburn-spit-nature-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Kinburn-Halbinsel", hu: "Kinburn-félsziget", ro: "Grindul Kinburn", en: "Kinburn Spit",
 image: "/poi-images/ukraine-kinburn-spit-nature-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Kinburn Spit sandy beach and sea",
     image: "/poi-images/ukraine-kinburn-spit-nature-v2.webp",
 },  {
     id: "ukraine-syvash-nature-v2",
+    parent: "UA",
     type: "lake",
     name: { de: "Sywasch", hu: "Szivas-tó", ro: "Sîvaș", en: "Syvash Lake",
 image: "/poi-images/ukraine-syvash-nature-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Syvash pink lake aerial view",
     image: "/poi-images/ukraine-syvash-nature-v2.webp",
 },  {
     id: "ukraine-bakota-nature-v2",
+    parent: "UA",
     type: "valley",
     name: { de: "Bakota-Bucht", hu: "Bakotai-öböl", ro: "Golful Bakota", en: "Bakota Bay",
 image: "/poi-images/ukraine-bakota-nature-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Bakota bay Dniester river and cliffs",
     image: "/poi-images/ukraine-bakota-nature-v2.webp",
 },  {
     id: "ukraine-probiy-nature-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Probiy-Wasserfall", hu: "Probij-vízesés", ro: "Cascada Probii", en: "Probiy Waterfall",
 image: "/poi-images/ukraine-probiy-nature-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Probiy waterfall Yaremche bridge view",
     image: "/poi-images/ukraine-probiy-nature-v2.webp",
 },  {
     id: "ukraine-pip-ivan-marmaros-nature-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Pip Iwan (Marmarosch)", hu: "Pip Iván (Máramaros)", ro: "Pip Ivan (Maramureș)", en: "Pip Ivan Marmaros",
 image: "/poi-images/ukraine-pip-ivan-marmaros-nature-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Pip Ivan Marmaros mountain landscape",
     image: "/poi-images/ukraine-pip-ivan-marmaros-nature-v2.webp",
 },  {
     id: "ukraine-tysa-nature-v2",
+    parent: "UA",
     type: "river",
     name: { de: "Theiß", hu: "Tisza", ro: "Tisa", en: "Tysa River",
 image: "/poi-images/ukraine-tysa-nature-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Tysa river in the Carpathian mountains",
     image: "/poi-images/ukraine-tysa-nature-v2.webp",
 },  {
     id: "ukraine-yalpuh-nature-v2",
+    parent: "UA",
     type: "lake",
     name: { de: "Jalpuh-See", hu: "Jalpuh-tó", ro: "Lacul Ialpug", en: "Lake Yalpuh",
 image: "/poi-images/ukraine-yalpuh-nature-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Lake Yalpuh aerial view sunset",
     image: "/poi-images/ukraine-yalpuh-nature-v2.webp",
 },  {
     id: "ukraine-stone-village-nature-v2",
+    parent: "UA",
     type: "park",
     name: { de: "Steinernes Dorf", hu: "Kőfalu", ro: "Satul de Piatră", en: "Stone Village",
 image: "/poi-images/ukraine-stone-village-nature-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Stone Village Zhytomyr giant boulders in forest",
     image: "/poi-images/ukraine-stone-village-nature-v2.webp",
 },  {
     id: "ukraine-manyava-nature-v2",
+    parent: "UA",
     type: "landmark",
     name: { de: "Manjawa-Wasserfall", hu: "Manyavai-vízesés", ro: "Cascada Maniava", en: "Manyava Waterfall",
 image: "/poi-images/ukraine-manyava-nature-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Manyava waterfall in the mountains",
     image: "/poi-images/ukraine-manyava-nature-v2.webp",
 },  {
     id: "ukraine-blyznytsya-nature-v2",
+    parent: "UA",
     type: "peak",
     name: { de: "Blyznyzja", hu: "Bliznyicja", ro: "Vârful Bliznița", en: "Mount Blyznytsya",
 image: "/poi-images/ukraine-blyznytsya-nature-v2.webp"

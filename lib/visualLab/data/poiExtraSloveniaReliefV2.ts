@@ -3,6 +3,7 @@ export const sloveniaReliefV2: POI[] = [
 
   {
     id: "slovenia-skrlatica-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Škrlatica", hu: "Škrlatica", ro: "Škrlatica", en: "Škrlatica",
 image: "/poi-images/slovenia-skrlatica-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Skrlatica mountain summit Julian Alps",
     image: "/poi-images/slovenia-skrlatica-relief-v2.webp",
 },  {
     id: "slovenia-mangart-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Mangart", hu: "Mangart", ro: "Mangart", en: "Mangart",
 image: "/poi-images/slovenia-mangart-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Mangart mountain peak and saddle",
     image: "/poi-images/slovenia-mangart-relief-v2.webp",
 },  {
     id: "slovenia-jalovec-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Jalovec", hu: "Jalovec", ro: "Jalovec", en: "Jalovec",
 image: "/poi-images/slovenia-jalovec-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Jalovec mountain peak Slovenia",
     image: "/poi-images/slovenia-jalovec-relief-v2.webp",
 },  {
     id: "slovenia-grintovec-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Grintovec", hu: "Grintovec", ro: "Grintovec", en: "Grintovec",
 image: "/poi-images/slovenia-grintovec-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Grintovec mountain peak Kamnik Alps",
     image: "/poi-images/slovenia-grintovec-relief-v2.webp",
 },  {
     id: "slovenia-stol-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Stol", hu: "Stol", ro: "Stol", en: "Stol",
 image: "/poi-images/slovenia-stol-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Stol mountain Karawanks",
     image: "/poi-images/slovenia-stol-relief-v2.webp",
 },  {
     id: "slovenia-vogel-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Vogel", hu: "Vogel", ro: "Vogel", en: "Vogel",
 image: "/poi-images/slovenia-vogel-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Vogel mountain ski resort Slovenia",
     image: "/poi-images/slovenia-vogel-relief-v2.webp",
 },  {
     id: "slovenia-krn-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Krn", hu: "Krn", ro: "Krn", en: "Krn",
 image: "/poi-images/slovenia-krn-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Krn mountain peak Soca valley",
     image: "/poi-images/slovenia-krn-relief-v2.webp",
 },  {
     id: "slovenia-smarna-gora-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Šmarna gora", hu: "Šmarna gora", ro: "Šmarna gora", en: "Šmarna gora",
 image: "/poi-images/slovenia-smarna-gora-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Smarna gora mountain Ljubljana view",
     image: "/poi-images/slovenia-smarna-gora-relief-v2.webp",
 },  {
     id: "slovenia-pokljuka-relief-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Pokljuka", hu: "Pokljuka", ro: "Pokljuka", en: "Pokljuka",
 image: "/poi-images/slovenia-pokljuka-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Pokljuka plateau forest snow",
     image: "/poi-images/slovenia-pokljuka-relief-v2.webp",
 },  {
     id: "slovenia-jelovica-relief-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Jelovica", hu: "Jelovica", ro: "Jelovica", en: "Jelovica",
 image: "/poi-images/slovenia-jelovica-relief-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Jelovica plateau forest landscape",
     image: "/poi-images/slovenia-jelovica-relief-v2.webp",
 },  {
     id: "slovenia-nanos-relief-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Nanos", hu: "Nanos", ro: "Nanos", en: "Nanos",
 image: "/poi-images/slovenia-nanos-relief-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Nanos plateau steep slopes Slovenia",
     image: "/poi-images/slovenia-nanos-relief-v2.webp",
 },  {
     id: "slovenia-slavnik-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Slavnik", hu: "Slavnik", ro: "Slavnik", en: "Slavnik",
 image: "/poi-images/slovenia-slavnik-relief-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Slavnik mountain summit view",
     image: "/poi-images/slovenia-slavnik-relief-v2.webp",
 },  {
     id: "slovenia-ojstrica-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Ojstrica", hu: "Ojstrica", ro: "Ojstrica", en: "Ojstrica",
 image: "/poi-images/slovenia-ojstrica-relief-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Ojstrica mountain peak Logar Valley",
     image: "/poi-images/slovenia-ojstrica-relief-v2.webp",
 },  {
     id: "slovenia-raduha-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Raduha", hu: "Raduha", ro: "Raduha", en: "Raduha",
 image: "/poi-images/slovenia-raduha-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Raduha mountain peak Slovenia",
     image: "/poi-images/slovenia-raduha-relief-v2.webp",
 },  {
     id: "slovenia-gorjanci-relief-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Gorjanci", hu: "Gorjanci", ro: "Gorjanci", en: "Gorjanci",
 image: "/poi-images/slovenia-gorjanci-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Gorjanci mountains forest trail",
     image: "/poi-images/slovenia-gorjanci-relief-v2.webp",
 },  {
     id: "slovenia-haloze-relief-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Haloze", hu: "Haloze", ro: "Haloze", en: "Haloze",
 image: "/poi-images/slovenia-haloze-relief-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Haloze hills vineyards Slovenia",
     image: "/poi-images/slovenia-haloze-relief-v2.webp",
 },  {
     id: "slovenia-slovenske-gorice-relief-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Slovenske gorice", hu: "Slovenske gorice", ro: "Slovenske gorice", en: "Slovenske gorice",
 image: "/poi-images/slovenia-slovenske-gorice-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Slovenske gorice hills landscape",
     image: "/poi-images/slovenia-slovenske-gorice-relief-v2.webp",
 },  {
     id: "slovenia-cerknisko-polje-relief-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Cerknica-Feld", hu: "Cerkniško polje", ro: "Câmpia Cerknica", en: "Cerknica Plain",
 image: "/poi-images/slovenia-cerknisko-polje-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Cerknica plain karst landscape",
     image: "/poi-images/slovenia-cerknisko-polje-relief-v2.webp",
 },  {
     id: "slovenia-planinsko-polje-relief-v2",
+    parent: "SI",
     type: "valley",
     name: { de: "Planina-Feld", hu: "Planinsko polje", ro: "Câmpia Planina", en: "Planina Plain",
 image: "/poi-images/slovenia-planinsko-polje-relief-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Planina plain karst field Unica river",
     image: "/poi-images/slovenia-planinsko-polje-relief-v2.webp",
 },  {
     id: "slovenia-prisojnik-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Prisojnik", hu: "Prisojnik", ro: "Prisojnik", en: "Prisojnik",
 image: "/poi-images/slovenia-prisojnik-relief-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Prisojnik mountain Heathen Maiden face",
     image: "/poi-images/slovenia-prisojnik-relief-v2.webp",
 },  {
     id: "slovenia-razor-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Razor", hu: "Razor", ro: "Razor", en: "Razor",
 image: "/poi-images/slovenia-razor-relief-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Razor mountain peak Julian Alps",
     image: "/poi-images/slovenia-razor-relief-v2.webp",
 },  {
     id: "slovenia-krim-relief-v2",
+    parent: "SI",
     type: "peak",
     name: { de: "Krim", hu: "Krim", ro: "Krim", en: "Krim",
 image: "/poi-images/slovenia-krim-relief-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Krim mountain peak Ljubljana",
     image: "/poi-images/slovenia-krim-relief-v2.webp",
 },  {
     id: "slovenia-menina-planina-relief-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Menina planina", hu: "Menina planina", ro: "Menina planina", en: "Menina planina",
 image: "/poi-images/slovenia-menina-planina-relief-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Menina planina plateau landscape",
     image: "/poi-images/slovenia-menina-planina-relief-v2.webp",
 },  {
     id: "slovenia-goricko-relief-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Goričko", hu: "Goričko", ro: "Goričko", en: "Goričko",
 image: "/poi-images/slovenia-goricko-relief-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Goricko hills landscape Slovenia",
     image: "/poi-images/slovenia-goricko-relief-v2.webp",
 },  {
     id: "slovenia-kolovrat-relief-v2",
+    parent: "SI",
     type: "mountain",
     name: { de: "Kolovrat", hu: "Kolovrat", ro: "Kolovrat", en: "Kolovrat",
 image: "/poi-images/slovenia-kolovrat-relief-v2.webp"

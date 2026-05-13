@@ -3,6 +3,7 @@ export const belarusLandmarksV2: POI[] = [
 
   {
     id: "belarus-mir-castle-landmarks-v2",
+    parent: "BY",
     type: "castle",
     name: { de: "Schloss Mir", hu: "Miri várkastély", ro: "Castelul Mir", en: "Mir Castle Complex",
 image: "/poi-images/belarus-mir-castle-landmarks-v2.webp"
@@ -36,6 +37,7 @@ image: "/poi-images/belarus-mir-castle-landmarks-v2.webp"
     }, image: "/poi-images/belarus-mir-castle-landmarks-v2.webp"},
   {
     id: "belarus-national-library-landmarks-v2",
+    parent: "BY",
     type: "landmark",
     name: { de: "Nationalbibliothek von Belarus", hu: "Fehérorosz Nemzeti Könyvtár", ro: "Biblioteca Națională a Belarusului", en: "National Library of Belarus",
 image: "/poi-images/belarus-national-library-landmarks-v2.webp"
@@ -69,6 +71,7 @@ image: "/poi-images/belarus-national-library-landmarks-v2.webp"
     }, image: "/poi-images/belarus-national-library-landmarks-v2.webp"},
   {
     id: "belarus-red-church-minsk-landmarks-v2",
+    parent: "BY",
     type: "church",
     name: { de: "Rote Kirche (Minsk)", hu: "Vörös templom (Minszk)", ro: "Biserica Roșie din Minsk", en: "Red Church (Saints Simon and Helena)",
 image: "/poi-images/belarus-red-church-minsk-landmarks-v2.webp"
@@ -102,6 +105,7 @@ image: "/poi-images/belarus-red-church-minsk-landmarks-v2.webp"
     }, image: "/poi-images/belarus-red-church-minsk-landmarks-v2.webp"},
   {
     id: "belarus-holy-spirit-cathedral-minsk-landmarks-v2",
+    parent: "BY",
     type: "cathedral",
     name: { de: "Heiliggeist-Kathedrale (Minsk)", hu: "Szentlélek-székesegyház (Minszk)", ro: "Catedrala Duhul Sfânt din Minsk", en: "Cathedral of the Holy Spirit",
 image: "/poi-images/belarus-holy-spirit-cathedral-minsk-landmarks-v2.webp"
@@ -135,6 +139,7 @@ image: "/poi-images/belarus-holy-spirit-cathedral-minsk-landmarks-v2.webp"
     }, image: "/poi-images/belarus-holy-spirit-cathedral-minsk-landmarks-v2.webp"},
   {
     id: "belarus-great-patriotic-war-museum-landmarks-v2",
+    parent: "BY",
     type: "museum",
     name: { de: "Museum des Großen Vaterländischen Krieges", hu: "A Nagy Honvédő Háború Múzeuma", ro: "Muzeul Marelui Război pentru Apărarea Patriei", en: "Great Patriotic War Museum",
 image: "/poi-images/belarus-great-patriotic-war-museum-landmarks-v2.webp"
@@ -168,6 +173,7 @@ image: "/poi-images/belarus-great-patriotic-war-museum-landmarks-v2.webp"
     }, image: "/poi-images/belarus-great-patriotic-war-museum-landmarks-v2.webp"},
   {
     id: "belarus-kolozha-church-grodno-landmarks-v2",
+    parent: "BY",
     type: "church",
     name: { de: "Koloscha-Kirche (Grodno)", hu: "Koloizsai templom (Hrodna)", ro: "Biserica Caloja din Grodno", en: "Kolozha Church (St. Boris and Gleb)",
 image: "/poi-images/belarus-kolozha-church-grodno-landmarks-v2.webp"
@@ -202,6 +208,7 @@ image: "/poi-images/belarus-kolozha-church-grodno-landmarks-v2.webp"
   },
   {
     id: "belarus-old-grodno-castle-landmarks-v2",
+    parent: "BY",
     type: "castle",
     name: { de: "Altes Schloss Grodno", hu: "Hrodnai öregvár", ro: "Castelul Vechi din Grodno", en: "Old Grodno Castle",
 image: "/poi-images/belarus-old-grodno-castle-landmarks-v2.webp"
@@ -235,6 +242,7 @@ image: "/poi-images/belarus-old-grodno-castle-landmarks-v2.webp"
     }, image: "/poi-images/belarus-old-grodno-castle-landmarks-v2.webp"},
   {
     id: "belarus-new-grodno-castle-landmarks-v2",
+    parent: "BY",
     type: "palace",
     name: { de: "Neues Schloss Grodno", hu: "Hrodnai újvár", ro: "Castelul Nou din Grodno", en: "New Grodno Castle",
 image: "/poi-images/belarus-new-grodno-castle-landmarks-v2.webp"
@@ -268,6 +276,7 @@ image: "/poi-images/belarus-new-grodno-castle-landmarks-v2.webp"
     }, image: "/poi-images/belarus-new-grodno-castle-landmarks-v2.webp"},
   {
     id: "belarus-kosava-castle-landmarks-v2",
+    parent: "BY",
     type: "palace",
     name: { de: "Palast von Kosava", hu: "Kosszavai palota", ro: "Palatul din Cosava", en: "Kosava Castle (Puslowski Palace)",
 image: "/poi-images/belarus-kosava-castle-landmarks-v2.webp"
@@ -301,6 +310,7 @@ image: "/poi-images/belarus-kosava-castle-landmarks-v2.webp"
     }, image: "/poi-images/belarus-kosava-castle-landmarks-v2.webp"},
   {
     id: "belarus-ruzhany-palace-ruins-landmarks-v2",
+    parent: "BY",
     type: "ruins",
     name: { de: "Palastruine von Ruschany", hu: "Ruzsanyi palotarom", ro: "Ruinele Palatului Rujani", en: "Ruzhany Palace Ruins",
 image: "/poi-images/belarus-ruzhany-palace-ruins-landmarks-v2.webp"
@@ -334,6 +344,7 @@ image: "/poi-images/belarus-ruzhany-palace-ruins-landmarks-v2.webp"
     }, image: "/poi-images/belarus-ruzhany-palace-ruins-landmarks-v2.webp"},
   {
     id: "belarus-stalin-line-complex-landmarks-v2",
+    parent: "BY",
     type: "museum",
     name: { de: "Stalin-Linie Gedenkkomplex", hu: "Sztálin-vonal emlékpark", ro: "Complexul Memorial Linia Stalin", en: "Stalin Line Historical Complex",
 image: "/poi-images/belarus-stalin-line-complex-landmarks-v2.webp"
@@ -368,6 +379,7 @@ image: "/poi-images/belarus-stalin-line-complex-landmarks-v2.webp"
   },
   {
     id: "belarus-kamyanets-tower-landmarks-v2",
+    parent: "BY",
     type: "tower",
     name: { de: "Turm von Kamjanez", hu: "Kamjaneci torony", ro: "Turnul din Cameneț", en: "Kamyanets Tower (White Tower)",
 image: "/poi-images/belarus-kamyanets-tower-landmarks-v2.webp"
@@ -401,6 +413,7 @@ image: "/poi-images/belarus-kamyanets-tower-landmarks-v2.webp"
     }, image: "/poi-images/belarus-kamyanets-tower-landmarks-v2.webp"},
   {
     id: "belarus-muravanka-fortified-church-landmarks-v2",
+    parent: "BY",
     type: "church",
     name: { de: "Wehrkirche Muravanka", hu: "Muravankai erődtemplom", ro: "Biserica fortificată Muravanka", en: "Church of the Nativity of the Blessed Virgin Mary (Muravanka)",
 image: "/poi-images/belarus-muravanka-fortified-church-landmarks-v2.webp"
@@ -435,6 +448,7 @@ image: "/poi-images/belarus-muravanka-fortified-church-landmarks-v2.webp"
   },
   {
     id: "belarus-farny-church-grodno-landmarks-v2",
+    parent: "BY",
     type: "cathedral",
     name: { de: "Franz-Xaver-Kathedrale (Grodno)", hu: "Szent Ferenc-Xavér-székesegyház (Hrodna)", ro: "Catedrala Sfântul Francisc Xaveriu din Grodno", en: "Farny Church (St. Francis Xavier Cathedral)",
 image: "/poi-images/belarus-farny-church-grodno-landmarks-v2.webp"
@@ -469,6 +483,7 @@ image: "/poi-images/belarus-farny-church-grodno-landmarks-v2.webp"
   },
   {
     id: "belarus-st-nicholas-monastery-mogilev-landmarks-v2",
+    parent: "BY",
     type: "church",
     name: { de: "Nikolaus-Kloster (Mahiljou)", hu: "Szent Miklós-kolostor (Mahiljov)", ro: "Mănăstirea Sfântul Nicolae din Moghilău", en: "Saint Nicholas Monastery (Mogilev)",
 image: "/poi-images/belarus-st-nicholas-monastery-mogilev-landmarks-v2.webp"
@@ -502,6 +517,7 @@ image: "/poi-images/belarus-st-nicholas-monastery-mogilev-landmarks-v2.webp"
     }, image: "/poi-images/belarus-st-nicholas-monastery-mogilev-landmarks-v2.webp"},
   {
     id: "belarus-vitebsk-town-hall-landmarks-v2",
+    parent: "BY",
     type: "landmark",
     name: { de: "Rathaus Wizebsk", hu: "Vicebszki városháza", ro: "Primăria din Vitebsk", en: "Vitebsk Town Hall",
 image: "/poi-images/belarus-vitebsk-town-hall-landmarks-v2.webp"
@@ -536,6 +552,7 @@ image: "/poi-images/belarus-vitebsk-town-hall-landmarks-v2.webp"
   },
   {
     id: "belarus-marc-chagall-museum-vitebsk-landmarks-v2",
+    parent: "BY",
     type: "museum",
     name: { de: "Marc Chagall Museum (Wizebsk)", hu: "Marc Chagall Múzeum (Vicebszk)", ro: "Muzeul Marc Chagall din Vitebsk", en: "Marc Chagall Museum",
 image: "/poi-images/belarus-marc-chagall-museum-vitebsk-landmarks-v2.webp"
@@ -569,6 +586,7 @@ image: "/poi-images/belarus-marc-chagall-museum-vitebsk-landmarks-v2.webp"
     }, image: "/poi-images/belarus-marc-chagall-museum-vitebsk-landmarks-v2.webp"},
   {
     id: "belarus-corpus-christi-church-nesvizh-landmarks-v2",
+    parent: "BY",
     type: "church",
     name: { de: "Fronleichnamskirche (Neswisch)", hu: "Úrnapja-templom (Nyaszvizs)", ro: "Biserica Corpus Christi din Nesvîj", en: "Corpus Christi Church",
 image: "/poi-images/belarus-corpus-christi-church-nesvizh-landmarks-v2.webp"
@@ -603,6 +621,7 @@ image: "/poi-images/belarus-corpus-christi-church-nesvizh-landmarks-v2.webp"
   },
   {
     id: "belarus-holy-trinity-church-herviaty-landmarks-v2",
+    parent: "BY",
     type: "church",
     name: { de: "Dreifaltigkeitskirche (Herwjaty)", hu: "Szentháromság-templom (Gervjati)", ro: "Biserica Sfânta Treime din Gherviatî", en: "Church of the Holy Trinity (Herviaty)",
 image: "/poi-images/belarus-holy-trinity-church-herviaty-landmarks-v2.webp"
@@ -637,6 +656,7 @@ image: "/poi-images/belarus-holy-trinity-church-herviaty-landmarks-v2.webp"
   },
   {
     id: "belarus-halshany-castle-ruins-landmarks-v2",
+    parent: "BY",
     type: "ruins",
     name: { de: "Burgruine Halshany", hu: "Halsanyi várrom", ro: "Ruinele Castelului Holșanî", en: "Halshany Castle Ruins",
 image: "/poi-images/belarus-halshany-castle-ruins-landmarks-v2.webp"
@@ -670,6 +690,7 @@ image: "/poi-images/belarus-halshany-castle-ruins-landmarks-v2.webp"
     }, image: "/poi-images/belarus-halshany-castle-ruins-landmarks-v2.webp"},
   {
     id: "belarus-bobruisk-fortress-landmarks-v2",
+    parent: "BY",
     type: "monument",
     name: { de: "Festung Babrujsk", hu: "Babrujszki erőd", ro: "Cetatea Bobruisk", en: "Bobruisk Fortress",
 image: "/poi-images/belarus-bobruisk-fortress-landmarks-v2.webp"
@@ -704,6 +725,7 @@ image: "/poi-images/belarus-bobruisk-fortress-landmarks-v2.webp"
 ,
   {
     id: "belarus-budslau-basilica-landmarks-v2",
+    parent: "BY",
     type: "cathedral",
     name: { de: "Basilika von Budslau", hu: "Budslaui bazilika", ro: "Basilica din Budslau", en: "Budslau Basilica",
 image: "/poi-images/belarus-budslau-basilica-landmarks-v2.webp"
@@ -738,6 +760,7 @@ image: "/poi-images/belarus-budslau-basilica-landmarks-v2.webp"
   },
   {
     id: "belarus-bolshoi-theatre-minsk-landmarks-v2",
+    parent: "BY",
     type: "theater",
     name: { de: "Nationaloper Minsk", hu: "Belorusz Nemzeti Operaház", ro: "Teatrul Național de Operă și Balet din Minsk", en: "Bolshoi Theatre of Belarus",
 image: "/poi-images/belarus-bolshoi-theatre-minsk-landmarks-v2.webp"
@@ -771,6 +794,7 @@ image: "/poi-images/belarus-bolshoi-theatre-minsk-landmarks-v2.webp"
     }, image: "/poi-images/belarus-bolshoi-theatre-minsk-landmarks-v2.webp"},
   {
     id: "belarus-national-art-museum-minsk-landmarks-v2",
+    parent: "BY",
     type: "museum",
     name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă al Belarusului", en: "National Art Museum of Belarus",
 image: "/poi-images/belarus-national-art-museum-minsk-landmarks-v2.webp"
@@ -804,6 +828,7 @@ image: "/poi-images/belarus-national-art-museum-minsk-landmarks-v2.webp"
     }, image: "/poi-images/belarus-national-art-museum-minsk-landmarks-v2.webp"},
   {
     id: "belarus-slonim-great-synagogue-landmarks-v2",
+    parent: "BY",
     type: "landmark",
     name: { de: "Große Synagoge von Slonim", hu: "Szlonimi nagyzsinagóga", ro: "Sinagoga Mare din Slonim", en: "Slonim Great Synagogue",
 image: "/poi-images/belarus-slonim-great-synagogue-landmarks-v2.webp"
@@ -838,6 +863,7 @@ image: "/poi-images/belarus-slonim-great-synagogue-landmarks-v2.webp"
   },
   {
     id: "belarus-st-stanislaus-cathedral-mogilev-landmarks-v2",
+    parent: "BY",
     type: "cathedral",
     name: { de: "St.-Stanislaus-Kathedrale", hu: "Szent Szaniszló-székesegyház", ro: "Catedrala Sfântul Stanislav din Moghilău", en: "Cathedral of St. Stanislaus",
 image: "/poi-images/belarus-st-stanislaus-cathedral-mogilev-landmarks-v2.webp"
@@ -872,6 +898,7 @@ image: "/poi-images/belarus-st-stanislaus-cathedral-mogilev-landmarks-v2.webp"
     }, image: "/poi-images/belarus-st-stanislaus-cathedral-mogilev-landmarks-v2.webp"},
   {
     id: "belarus-tyzenhauz-palace-postavy-landmarks-v2",
+    parent: "BY",
     type: "palace",
     name: { de: "Tyzenhauz-Palast", hu: "Tyzenhauz-palota", ro: "Palatul Tyzenhauz din Pastavy", en: "Tyzenhauz Palace",
 image: "/poi-images/belarus-tyzenhauz-palace-postavy-landmarks-v2.webp"
@@ -905,6 +932,7 @@ image: "/poi-images/belarus-tyzenhauz-palace-postavy-landmarks-v2.webp"
     }, image: "/poi-images/belarus-tyzenhauz-palace-postavy-landmarks-v2.webp"},
   {
     id: "belarus-shklov-town-hall-landmarks-v2",
+    parent: "BY",
     type: "landmark",
     name: { de: "Rathaus von Schklow", hu: "Sklovi városháza", ro: "Primăria din Șklov", en: "Shklov Town Hall",
 image: "/poi-images/belarus-shklov-town-hall-landmarks-v2.webp"
@@ -938,6 +966,7 @@ image: "/poi-images/belarus-shklov-town-hall-landmarks-v2.webp"
     }, image: "/poi-images/belarus-shklov-town-hall-landmarks-v2.webp"},
   {
     id: "belarus-butrimovich-palace-pinsk-landmarks-v2",
+    parent: "BY",
     type: "palace",
     name: { de: "Butrimowitsch-Palast", hu: "Butrimovics-palota", ro: "Palatul Butrimovici din Pinsk", en: "Butrimovich Palace",
 image: "/poi-images/belarus-butrimovich-palace-pinsk-landmarks-v2.webp"

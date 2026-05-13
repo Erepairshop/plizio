@@ -3,6 +3,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
 
   {
     id: "bosniaherzegovina-sanskimost-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Sanski Most", hu: "Sanski Most", ro: "Sanski Most", en: "Sanski Most",
 image: "/poi-images/bosniaherzegovina-sanskimost-cities-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/bosniaherzegovina-sanskimost-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-zivinice-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Živinice", hu: "Živinice", ro: "Živinice", en: "Živinice",
 image: "/poi-images/bosniaherzegovina-zivinice-cities-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/bosniaherzegovina-zivinice-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-bugojno-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Bugojno", hu: "Bugojno", ro: "Bugojno", en: "Bugojno",
 image: "/poi-images/bosniaherzegovina-bugojno-cities-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/bosniaherzegovina-bugojno-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-travnik-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Travnik", hu: "Travnik", ro: "Travnik", en: "Travnik",
 image: "/poi-images/bosniaherzegovina-travnik-cities-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/bosniaherzegovina-travnik-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-gradiska-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Gradiška", hu: "Gradiška", ro: "Gradiška", en: "Gradiška",
 image: "/poi-images/bosniaherzegovina-gradiska-cities-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/bosniaherzegovina-gradiska-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-cazin-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Cazin", hu: "Cazin", ro: "Cazin", en: "Cazin",
 image: "/poi-images/bosniaherzegovina-cazin-cities-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/bosniaherzegovina-cazin-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-gracanica-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Gračanica", hu: "Gračanica", ro: "Gračanica", en: "Gračanica",
 image: "/poi-images/bosniaherzegovina-gracanica-cities-v2.webp"
@@ -248,6 +255,7 @@ image: "/poi-images/bosniaherzegovina-gracanica-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-lukavac-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Lukavac", hu: "Lukavac", ro: "Lukavac", en: "Lukavac",
 image: "/poi-images/bosniaherzegovina-lukavac-cities-v2.webp"
@@ -283,6 +291,7 @@ image: "/poi-images/bosniaherzegovina-lukavac-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-gradacac-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Gradačac", hu: "Gradačac", ro: "Gradačac", en: "Gradačac",
 image: "/poi-images/bosniaherzegovina-gradacac-cities-v2.webp"
@@ -318,6 +327,7 @@ image: "/poi-images/bosniaherzegovina-gradacac-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-visoko-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Visoko", hu: "Visoko", ro: "Visoko", en: "Visoko",
 image: "/poi-images/bosniaherzegovina-visoko-cities-v2.webp"
@@ -353,6 +363,7 @@ image: "/poi-images/bosniaherzegovina-visoko-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-konjic-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Konjic", hu: "Konjic", ro: "Konjic", en: "Konjic",
 image: "/poi-images/bosniaherzegovina-konjic-cities-v2.webp"
@@ -388,6 +399,7 @@ image: "/poi-images/bosniaherzegovina-konjic-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-derventa-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Derventa", hu: "Derventa", ro: "Derventa", en: "Derventa",
 image: "/poi-images/bosniaherzegovina-derventa-cities-v2.webp"
@@ -423,6 +435,7 @@ image: "/poi-images/bosniaherzegovina-derventa-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-sirokibrijeg-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Široki Brijeg", hu: "Široki Brijeg", ro: "Široki Brijeg", en: "Široki Brijeg",
 image: "/poi-images/bosniaherzegovina-sirokibrijeg-cities-v2.webp"
@@ -458,6 +471,7 @@ image: "/poi-images/bosniaherzegovina-sirokibrijeg-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-vogosca-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Vogošća", hu: "Vogošća", ro: "Vogošća", en: "Vogošća",
 image: "/poi-images/bosniaherzegovina-vogosca-cities-v2.webp"
@@ -493,6 +507,7 @@ image: "/poi-images/bosniaherzegovina-vogosca-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-janja-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Janja", hu: "Janja", ro: "Janja", en: "Janja",
 image: "/poi-images/bosniaherzegovina-janja-cities-v2.webp"
@@ -528,6 +543,7 @@ image: "/poi-images/bosniaherzegovina-janja-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-jajce-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Jajce", hu: "Jajce", ro: "Jajce", en: "Jajce",
 image: "/poi-images/bosniaherzegovina-jajce-cities-v2.webp"
@@ -563,6 +579,7 @@ image: "/poi-images/bosniaherzegovina-jajce-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-kakanj-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Kakanj", hu: "Kakanj", ro: "Kakanj", en: "Kakanj",
 image: "/poi-images/bosniaherzegovina-kakanj-cities-v2.webp"
@@ -598,6 +615,7 @@ image: "/poi-images/bosniaherzegovina-kakanj-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-modrica-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Modriča", hu: "Modriča", ro: "Modriča", en: "Modriča",
 image: "/poi-images/bosniaherzegovina-modrica-cities-v2.webp"
@@ -633,6 +651,7 @@ image: "/poi-images/bosniaherzegovina-modrica-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-novitravnik-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Novi Travnik", hu: "Novi Travnik", ro: "Novi Travnik", en: "Novi Travnik",
 image: "/poi-images/bosniaherzegovina-novitravnik-cities-v2.webp"
@@ -668,6 +687,7 @@ image: "/poi-images/bosniaherzegovina-novitravnik-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-zavidovici-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Zavidovići", hu: "Zavidovići", ro: "Zavidovići", en: "Zavidovići",
 image: "/poi-images/bosniaherzegovina-zavidovici-cities-v2.webp"
@@ -703,6 +723,7 @@ image: "/poi-images/bosniaherzegovina-zavidovici-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-foca-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Foča", hu: "Foča", ro: "Foča", en: "Foča",
 image: "/poi-images/bosniaherzegovina-foca-cities-v2.webp"
@@ -738,6 +759,7 @@ image: "/poi-images/bosniaherzegovina-foca-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-pale-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Pale", hu: "Pale", ro: "Pale", en: "Pale",
 image: "/poi-images/bosniaherzegovina-pale-cities-v2.webp"
@@ -773,6 +795,7 @@ image: "/poi-images/bosniaherzegovina-pale-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-bosanskakrupa-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Bosanska Krupa", hu: "Bosanska Krupa", ro: "Bosanska Krupa", en: "Bosanska Krupa",
 image: "/poi-images/bosniaherzegovina-bosanskakrupa-cities-v2.webp"
@@ -808,6 +831,7 @@ image: "/poi-images/bosniaherzegovina-bosanskakrupa-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-teslic-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Teslić", hu: "Teslić", ro: "Teslić", en: "Teslić",
 image: "/poi-images/bosniaherzegovina-teslic-cities-v2.webp"
@@ -843,6 +867,7 @@ image: "/poi-images/bosniaherzegovina-teslic-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-vitez-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Vitez", hu: "Vitez", ro: "Vitez", en: "Vitez",
 image: "/poi-images/bosniaherzegovina-vitez-cities-v2.webp"
@@ -878,6 +903,7 @@ image: "/poi-images/bosniaherzegovina-vitez-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-tomislavgrad-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Tomislavgrad", hu: "Tomislavgrad", ro: "Tomislavgrad", en: "Tomislavgrad",
 image: "/poi-images/bosniaherzegovina-tomislavgrad-cities-v2.webp"
@@ -913,6 +939,7 @@ image: "/poi-images/bosniaherzegovina-tomislavgrad-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-vlasenica-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Vlasenica", hu: "Vlasenica", ro: "Vlasenica", en: "Vlasenica",
 image: "/poi-images/bosniaherzegovina-vlasenica-cities-v2.webp"
@@ -948,6 +975,7 @@ image: "/poi-images/bosniaherzegovina-vlasenica-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-rogatica-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Rogatica", hu: "Rogatica", ro: "Rogatica", en: "Rogatica",
 image: "/poi-images/bosniaherzegovina-rogatica-cities-v2.webp"
@@ -983,6 +1011,7 @@ image: "/poi-images/bosniaherzegovina-rogatica-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-bratunac-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Bratunac", hu: "Bratunac", ro: "Bratunac", en: "Bratunac",
 image: "/poi-images/bosniaherzegovina-bratunac-cities-v2.webp"
@@ -1018,6 +1047,7 @@ image: "/poi-images/bosniaherzegovina-bratunac-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-visegrad-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Višegrad", hu: "Višegrad", ro: "Višegrad", en: "Višegrad",
 image: "/poi-images/bosniaherzegovina-visegrad-cities-v2.webp"
@@ -1053,6 +1083,7 @@ image: "/poi-images/bosniaherzegovina-visegrad-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-kiseljak-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Kiseljak", hu: "Kiseljak", ro: "Kiseljak", en: "Kiseljak",
 image: "/poi-images/bosniaherzegovina-kiseljak-cities-v2.webp"
@@ -1088,6 +1119,7 @@ image: "/poi-images/bosniaherzegovina-kiseljak-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-laktasi-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Laktaši", hu: "Laktaši", ro: "Laktaši", en: "Laktaši",
 image: "/poi-images/bosniaherzegovina-laktasi-cities-v2.webp"
@@ -1123,6 +1155,7 @@ image: "/poi-images/bosniaherzegovina-laktasi-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-maglaj-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Maglaj", hu: "Maglaj", ro: "Maglaj", en: "Maglaj",
 image: "/poi-images/bosniaherzegovina-maglaj-cities-v2.webp"
@@ -1158,6 +1191,7 @@ image: "/poi-images/bosniaherzegovina-maglaj-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-novigrad-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Novi Grad", hu: "Novi Grad", ro: "Novi Grad", en: "Novi Grad",
 image: "/poi-images/bosniaherzegovina-novigrad-cities-v2.webp"
@@ -1193,6 +1227,7 @@ image: "/poi-images/bosniaherzegovina-novigrad-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-ilijas-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Ilijaš", hu: "Ilijaš", ro: "Ilijaš", en: "Ilijaš",
 image: "/poi-images/bosniaherzegovina-ilijas-cities-v2.webp"
@@ -1228,6 +1263,7 @@ image: "/poi-images/bosniaherzegovina-ilijas-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-jablanica-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Jablanica", hu: "Jablanica", ro: "Jablanica", en: "Jablanica",
 image: "/poi-images/bosniaherzegovina-jablanica-cities-v2.webp"
@@ -1263,6 +1299,7 @@ image: "/poi-images/bosniaherzegovina-jablanica-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-prnjavor-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Prnjavor", hu: "Prnjavor", ro: "Prnjavor", en: "Prnjavor",
 image: "/poi-images/bosniaherzegovina-prnjavor-cities-v2.webp"
@@ -1298,6 +1335,7 @@ image: "/poi-images/bosniaherzegovina-prnjavor-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-srebrenik-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Srebrenik", hu: "Srebrenik", ro: "Srebrenik", en: "Srebrenik",
 image: "/poi-images/bosniaherzegovina-srebrenik-cities-v2.webp"
@@ -1333,6 +1371,7 @@ image: "/poi-images/bosniaherzegovina-srebrenik-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-hadzici-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Hadžići", hu: "Hadžići", ro: "Hadžići", en: "Hadžići",
 image: "/poi-images/bosniaherzegovina-hadzici-cities-v2.webp"
@@ -1367,6 +1406,7 @@ image: "/poi-images/bosniaherzegovina-hadzici-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-capljina-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Čapljina", hu: "Čapljina", ro: "Čapljina", en: "Čapljina",
 image: "/poi-images/bosniaherzegovina-capljina-cities-v2.webp"
@@ -1402,6 +1442,7 @@ image: "/poi-images/bosniaherzegovina-capljina-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-ljubuski-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Ljubuški", hu: "Ljubuški", ro: "Ljubuški", en: "Ljubuški",
 image: "/poi-images/bosniaherzegovina-ljubuski-cities-v2.webp"
@@ -1437,6 +1478,7 @@ image: "/poi-images/bosniaherzegovina-ljubuski-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-kladanj-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Kladanj", hu: "Kladanj", ro: "Kladanj", en: "Kladanj",
 image: "/poi-images/bosniaherzegovina-kladanj-cities-v2.webp"
@@ -1472,6 +1514,7 @@ image: "/poi-images/bosniaherzegovina-kladanj-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-velikakladusa-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Velika Kladuša", hu: "Velika Kladuša", ro: "Velika Kladuša", en: "Velika Kladuša",
 image: "/poi-images/bosniaherzegovina-velikakladusa-cities-v2.webp"
@@ -1507,6 +1550,7 @@ image: "/poi-images/bosniaherzegovina-velikakladusa-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-bileca-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Bileća", hu: "Bileća", ro: "Bileća", en: "Bileća",
 image: "/poi-images/bosniaherzegovina-bileca-cities-v2.webp"
@@ -1542,6 +1586,7 @@ image: "/poi-images/bosniaherzegovina-bileca-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-zvornik-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Zvornik", hu: "Zvornik", ro: "Zvornik", en: "Zvornik",
 image: "/poi-images/bosniaherzegovina-zvornik-cities-v2.webp"
@@ -1577,6 +1622,7 @@ image: "/poi-images/bosniaherzegovina-zvornik-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-gacko-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Gacko", hu: "Gacko", ro: "Gacko", en: "Gacko",
 image: "/poi-images/bosniaherzegovina-gacko-cities-v2.webp"
@@ -1612,6 +1658,7 @@ image: "/poi-images/bosniaherzegovina-gacko-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-odzak-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Odžak", hu: "Odžak", ro: "Odžak", en: "Odžak",
 image: "/poi-images/bosniaherzegovina-odzak-cities-v2.webp"
@@ -1647,6 +1694,7 @@ image: "/poi-images/bosniaherzegovina-odzak-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-srebrenica-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Srebrenica", hu: "Srebrenica", ro: "Srebrenica", en: "Srebrenica",
 image: "/poi-images/bosniaherzegovina-srebrenica-cities-v2.webp"
@@ -1682,6 +1730,7 @@ image: "/poi-images/bosniaherzegovina-srebrenica-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-busovaca-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Busovača", hu: "Busovača", ro: "Busovača", en: "Busovača",
 image: "/poi-images/bosniaherzegovina-busovaca-cities-v2.webp"
@@ -1717,6 +1766,7 @@ image: "/poi-images/bosniaherzegovina-busovaca-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-drvar-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Drvar", hu: "Drvar", ro: "Drvar", en: "Drvar",
 image: "/poi-images/bosniaherzegovina-drvar-cities-v2.webp"
@@ -1752,6 +1802,7 @@ image: "/poi-images/bosniaherzegovina-drvar-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-stolac-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Stolac", hu: "Stolac", ro: "Stolac", en: "Stolac",
 image: "/poi-images/bosniaherzegovina-stolac-cities-v2.webp"
@@ -1787,6 +1838,7 @@ image: "/poi-images/bosniaherzegovina-stolac-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-krupannaui-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Krupa na Uni", hu: "Krupa na Uni", ro: "Krupa na Uni", en: "Krupa na Uni",
 image: "/poi-images/bosniaherzegovina-krupannaui-cities-v2.webp"
@@ -1822,6 +1874,7 @@ image: "/poi-images/bosniaherzegovina-krupannaui-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-sipovo-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Šipovo", hu: "Šipovo", ro: "Šipovo", en: "Šipovo",
 image: "/poi-images/bosniaherzegovina-sipovo-cities-v2.webp"
@@ -1857,6 +1910,7 @@ image: "/poi-images/bosniaherzegovina-sipovo-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-mrkonjicgrad-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Mrkonjić Grad", hu: "Mrkonjić Grad", ro: "Mrkonjić Grad", en: "Mrkonjić Grad",
 image: "/poi-images/bosniaherzegovina-mrkonjicgrad-cities-v2.webp"
@@ -1892,6 +1946,7 @@ image: "/poi-images/bosniaherzegovina-mrkonjicgrad-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-knezevo-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Kneževo", hu: "Knezevo", ro: "Kneževo", en: "Kneževo",
 image: "/poi-images/bosniaherzegovina-knezevo-cities-v2.webp"
@@ -1927,6 +1982,7 @@ image: "/poi-images/bosniaherzegovina-knezevo-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-sekovici-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Šekovići", hu: "Šekovići", ro: "Šekovići", en: "Šekovići",
 image: "/poi-images/bosniaherzegovina-sekovici-cities-v2.webp"
@@ -1962,6 +2018,7 @@ image: "/poi-images/bosniaherzegovina-sekovici-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-glamoc-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Glamoč", hu: "Glamoč", ro: "Glamoč", en: "Glamoč",
 image: "/poi-images/bosniaherzegovina-glamoc-cities-v2.webp"
@@ -1997,6 +2054,7 @@ image: "/poi-images/bosniaherzegovina-glamoc-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-bosanskograhovo-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Bosansko Grahovo", hu: "Bosansko Grahovo", ro: "Bosansko Grahovo", en: "Bosansko Grahovo",
 image: "/poi-images/bosniaherzegovina-bosanskograhovo-cities-v2.webp"
@@ -2032,6 +2090,7 @@ image: "/poi-images/bosniaherzegovina-bosanskograhovo-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-ribnik-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Ribnik", hu: "Ribnik", ro: "Ribnik", en: "Ribnik",
 image: "/poi-images/bosniaherzegovina-ribnik-cities-v2.webp"
@@ -2067,6 +2126,7 @@ image: "/poi-images/bosniaherzegovina-ribnik-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-kalinovik-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Kalinovik", hu: "Kalinovik", ro: "Kalinovik", en: "Kalinovik",
 image: "/poi-images/bosniaherzegovina-kalinovik-cities-v2.webp"
@@ -2102,6 +2162,7 @@ image: "/poi-images/bosniaherzegovina-kalinovik-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-hanpijesak-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Han Pijesak", hu: "Han Pijesak", ro: "Han Pijesak", en: "Han Pijesak",
 image: "/poi-images/bosniaherzegovina-hanpijesak-cities-v2.webp"
@@ -2137,6 +2198,7 @@ image: "/poi-images/bosniaherzegovina-hanpijesak-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-trnovo-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Trnovo", hu: "Trnovo", ro: "Trnovo", en: "Trnovo",
 image: "/poi-images/bosniaherzegovina-trnovo-cities-v2.webp"
@@ -2172,6 +2234,7 @@ image: "/poi-images/bosniaherzegovina-trnovo-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-osmaci-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Osmaci", hu: "Osmaci", ro: "Osmaci", en: "Osmaci",
 image: "/poi-images/bosniaherzegovina-osmaci-cities-v2.webp"
@@ -2207,6 +2270,7 @@ image: "/poi-images/bosniaherzegovina-osmaci-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-istocnosarajevo-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Istočno Sarajevo", hu: "Istočno Sarajevo", ro: "Istočno Sarajevo", en: "East Sarajevo",
 image: "/poi-images/bosniaherzegovina-istocnosarajevo-cities-v2.webp"
@@ -2242,6 +2306,7 @@ image: "/poi-images/bosniaherzegovina-istocnosarajevo-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-petrovo-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Petrovo", hu: "Petrovo", ro: "Petrovo", en: "Petrovo",
 image: "/poi-images/bosniaherzegovina-petrovo-cities-v2.webp"
@@ -2277,6 +2342,7 @@ image: "/poi-images/bosniaherzegovina-petrovo-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-milići-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Milići", hu: "Milići", ro: "Milići", en: "Milići",
 image: "/poi-images/bosniaherzegovina-milići-cities-v2.webp"
@@ -2312,6 +2378,7 @@ image: "/poi-images/bosniaherzegovina-milići-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-ukrina-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Stanari", hu: "Stanari", ro: "Stanari", en: "Stanari",
 image: "/poi-images/bosniaherzegovina-ukrina-cities-v2.webp"
@@ -2347,6 +2414,7 @@ image: "/poi-images/bosniaherzegovina-ukrina-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-pelagicevo-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Pelagićevo", hu: "Pelagićevo", ro: "Pelagićevo", en: "Pelagićevo",
 image: "/poi-images/bosniaherzegovina-pelagicevo-cities-v2.webp"
@@ -2381,6 +2449,7 @@ image: "/poi-images/bosniaherzegovina-pelagicevo-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-donjizabar-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Donji Žabar", hu: "Donji Žabar", ro: "Donji Žabar", en: "Donji Žabar",
 image: "/poi-images/bosniaherzegovina-donjizabar-cities-v2.webp"
@@ -2415,6 +2484,7 @@ image: "/poi-images/bosniaherzegovina-donjizabar-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-lovare-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Lopare", hu: "Lopare", ro: "Lopare", en: "Lopare",
 image: "/poi-images/bosniaherzegovina-lovare-cities-v2.webp"
@@ -2450,6 +2520,7 @@ image: "/poi-images/bosniaherzegovina-lovare-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-vukosavlje-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Vukosavlje", hu: "Vukosavlje", ro: "Vukosavlje", en: "Vukosavlje",
 image: "/poi-images/bosniaherzegovina-vukosavlje-cities-v2.webp"
@@ -2485,6 +2556,7 @@ image: "/poi-images/bosniaherzegovina-vukosavlje-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-petrovac-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Petrovac", hu: "Petrovac", ro: "Petrovac", en: "Petrovac",
 image: "/poi-images/bosniaherzegovina-petrovac-cities-v2.webp"
@@ -2520,6 +2592,7 @@ image: "/poi-images/bosniaherzegovina-petrovac-cities-v2.webp"
   },
   {
     id: "bosniaherzegovina-istocnimostar-cities-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Istočni Mostar", hu: "Istočni Mostar", ro: "Istočni Mostar", en: "East Mostar",
 image: "/poi-images/bosniaherzegovina-istocnimostar-cities-v2.webp"

@@ -3,6 +3,7 @@ export const ukEconomicV2: POI[] = [
 
   {
     id: "uk-port-of-felixstowe-economic-v2",
+    parent: "GB",
     type: "port",
     name: { de: "Hafen von Felixstowe", hu: "Felixstowe kikötője", ro: "Portul Felixstowe", en: "Port of Felixstowe",
 image: "/poi-images/uk-port-of-felixstowe-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Aerial view of Felixstowe container port terminal",
     image: "/poi-images/uk-port-of-felixstowe-economic-v2.webp",
 },  {
     id: "uk-canary-wharf-economic-v2",
+    parent: "GB",
     type: "landmark",
     name: { de: "Canary Wharf", hu: "Canary Wharf", ro: "Canary Wharf", en: "Canary Wharf",
 image: "/poi-images/uk-canary-wharf-economic-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Canary Wharf skyline with skyscrapers at twilight",
     image: "/poi-images/uk-canary-wharf-economic-v2.webp",
 },  {
     id: "uk-mediacityuk-economic-v2",
+    parent: "GB",
     type: "industry",
     name: { de: "MediaCityUK", hu: "MediaCityUK", ro: "MediaCityUK", en: "MediaCityUK",
 image: "/poi-images/uk-mediacityuk-economic-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Modern architecture of MediaCityUK buildings in Salford Quays",
     image: "/poi-images/uk-mediacityuk-economic-v2.webp",
 },  {
     id: "uk-drax-power-station-economic-v2",
+    parent: "GB",
     type: "industry",
     name: { de: "Kraftwerk Drax", hu: "Drax erőmű", ro: "Centrala electrică Drax", en: "Drax Power Station",
 image: "/poi-images/uk-drax-power-station-economic-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Drax Power Station with cooling towers and chimneys",
     image: "/poi-images/uk-drax-power-station-economic-v2.webp",
 },  {
     id: "uk-aberdeen-energy-hub-economic-v2",
+    parent: "GB",
     type: "port",
     name: { de: "Energiezentrum Aberdeen", hu: "Aberdeen energia-központ", ro: "Centrul energetic Aberdeen", en: "Aberdeen Energy Hub",
 image: "/poi-images/uk-aberdeen-energy-hub-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Industrial supply vessels in Aberdeen Harbour",
     image: "/poi-images/uk-aberdeen-energy-hub-economic-v2.webp",
 },  {
     id: "uk-scunthorpe-steelworks-economic-v2",
+    parent: "GB",
     type: "factory",
     name: { de: "Stahlwerk Scunthorpe", hu: "Scunthorpe-i acélmű", ro: "Combinatul siderurgic Scunthorpe", en: "Scunthorpe Steelworks",
 image: "/poi-images/uk-scunthorpe-steelworks-economic-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Blast furnaces and industrial structures of Scunthorpe Steelworks",
     image: "/poi-images/uk-scunthorpe-steelworks-economic-v2.webp",
 },  {
     id: "uk-port-of-immingham-economic-v2",
+    parent: "GB",
     type: "port",
     name: { de: "Hafen von Immingham", hu: "Immingham kikötője", ro: "Portul Immingham", en: "Port of Immingham",
 image: "/poi-images/uk-port-of-immingham-economic-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Cargo ships and docks at the Port of Immingham",
     image: "/poi-images/uk-port-of-immingham-economic-v2.webp",
 },  {
     id: "uk-milton-keynes-economic-v2",
+    parent: "GB",
     type: "city",
     name: { de: "Milton Keynes", hu: "Milton Keynes", ro: "Milton Keynes", en: "Milton Keynes",
 image: "/poi-images/uk-milton-keynes-economic-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
     image: "/poi-images/uk-milton-keynes-economic-v2.webp",
 },  {
     id: "uk-port-talbot-steelworks-economic-v2",
+    parent: "GB",
     type: "factory",
     name: { de: "Stahlwerk Port Talbot", hu: "Port Talbot acélmű", ro: "Combinatul siderurgic Port Talbot", en: "Port Talbot Steelworks",
 image: "/poi-images/uk-port-talbot-steelworks-economic-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Massive steel production facility at Port Talbot on the coast",
     image: "/poi-images/uk-port-talbot-steelworks-economic-v2.webp",
 },  {
     id: "uk-london-gateway-economic-v2",
+    parent: "GB",
     type: "port",
     name: { de: "London Gateway", hu: "London Gateway", ro: "London Gateway", en: "London Gateway",
 image: "/poi-images/uk-london-gateway-economic-v2.webp"
@@ -344,6 +354,7 @@ image: "/poi-images/uk-london-gateway-economic-v2.webp"
 ,
   {
     id: "uk-aberdeen-harbour-economic-v2",
+    parent: "GB",
     type: "port",
     name: { de: "Hafen von Aberdeen", hu: "Aberdeeni kikötő", ro: "Portul Aberdeen", en: "Aberdeen Harbour",
 image: "/poi-images/uk-aberdeen-harbour-economic-v2.webp"
@@ -378,6 +389,7 @@ image: "/poi-images/uk-aberdeen-harbour-economic-v2.webp"
   },
   {
     id: "uk-hinkley-point-c-economic-v2",
+    parent: "GB",
     type: "industry",
     name: { de: "Hinkley Point C", hu: "Hinkley Point C", ro: "Hinkley Point C", en: "Hinkley Point C",
 image: "/poi-images/uk-hinkley-point-c-economic-v2.webp"
@@ -412,6 +424,7 @@ image: "/poi-images/uk-hinkley-point-c-economic-v2.webp"
   },
   {
     id: "uk-port-of-dover-economic-v2",
+    parent: "GB",
     type: "port",
     name: { de: "Hafen von Dover", hu: "Doveri kikötő", ro: "Portul Dover", en: "Port of Dover",
 image: "/poi-images/uk-port-of-dover-economic-v2.webp"
@@ -446,6 +459,7 @@ imageHint: "Ferries at the terminals in the Port of Dover with white cliffs",
     image: "/poi-images/uk-port-of-dover-economic-v2.webp",
 },  {
     id: "uk-milford-haven-energy-economic-v2",
+    parent: "GB",
     type: "port",
     name: { de: "Milford Haven Energiehafen", hu: "Milford Haven energiakikötő", ro: "Portul energetic Milford Haven", en: "Milford Haven Energy Port",
 image: "/poi-images/uk-milford-haven-energy-economic-v2.webp"
@@ -480,6 +494,7 @@ imageHint: "Oil refineries and LNG terminals at Milford Haven waterway",
     image: "/poi-images/uk-milford-haven-energy-economic-v2.webp",
 },  {
     id: "uk-grangemouth-refinery-economic-v2",
+    parent: "GB",
     type: "factory",
     name: { de: "Grangemouth Raffinerie", hu: "Grangemouth finomító", ro: "Rafinăria Grangemouth", en: "Grangemouth Refinery",
 image: "/poi-images/uk-grangemouth-refinery-economic-v2.webp"
@@ -514,6 +529,7 @@ imageHint: "Industrial skyline of Grangemouth oil refinery and chemical plant",
     image: "/poi-images/uk-grangemouth-refinery-economic-v2.webp",
 },  {
     id: "uk-east-midlands-airport-cargo-economic-v2",
+    parent: "GB",
     type: "industry",
     name: { de: "Frachtzentrum East Midlands", hu: "East Midlands teherforgalmi központ", ro: "Hub cargo East Midlands", en: "East Midlands Cargo Hub",
 image: "/poi-images/uk-east-midlands-airport-cargo-economic-v2.webp"
@@ -548,6 +564,7 @@ imageHint: "Cargo aircraft and logistics warehouses at East Midlands Airport",
     image: "/poi-images/uk-east-midlands-airport-cargo-economic-v2.webp",
 },  {
     id: "uk-sullom-voe-terminal-economic-v2",
+    parent: "GB",
     type: "industry",
     name: { de: "Sullom Voe Terminal", hu: "Sullom Voe terminál", ro: "Terminalul Sullom Voe", en: "Sullom Voe Terminal",
 image: "/poi-images/uk-sullom-voe-terminal-economic-v2.webp"

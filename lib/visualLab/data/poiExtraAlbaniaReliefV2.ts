@@ -3,6 +3,7 @@ export const albaniaReliefV2: POI[] = [
 
   {
     id: "albania-maja-e-jezerces-relief-v2",
+    parent: "AL",
     type: "peak",
     name: { de: "Jezerca-Spitze", hu: "Jezerca-csúcs", ro: "Vârful Jezercë", en: "Maja Jezercë",
 image: "/poi-images/albania-maja-e-jezerces-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Maja Jezerce peak Albanian Alps",
     image: "/poi-images/albania-maja-e-jezerces-relief-v2.webp",
 },  {
     id: "albania-maja-e-cikes-relief-v2",
+    parent: "AL",
     type: "peak",
     name: { de: "Maja e Çikës", hu: "Çika-csúcs", ro: "Vârful Çika", en: "Maja e Çikës",
 image: "/poi-images/albania-maja-e-cikes-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Maja e Cikes mountain Ionian sea coast",
     image: "/poi-images/albania-maja-e-cikes-relief-v2.webp",
 },  {
     id: "albania-myzeqe-plain-relief-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Myzeqe-Ebene", hu: "Myzeqe-alföld", ro: "Câmpia Myzeqe", en: "Myzeqe Plain",
 image: "/poi-images/albania-myzeqe-plain-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
     image: "/poi-images/albania-myzeqe-plain-relief-v2.webp",
 },  {
     id: "albania-mali-i-gramosit-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Gramos-Gebirge", hu: "Gramos-hegység", ro: "Munții Gramos", en: "Mount Gramos",
 image: "/poi-images/albania-mali-i-gramosit-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Mount Gramos Albania border mountains",
     image: "/poi-images/albania-mali-i-gramosit-relief-v2.webp",
 },  {
     id: "albania-nemercka-range-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Nemërçka-Gebirge", hu: "Nemërçka-hegység", ro: "Munții Nemërçka", en: "Nemërçka Range",
 image: "/poi-images/albania-nemercka-range-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Nemercka mountain range Albania Vjosa valley",
     image: "/poi-images/albania-nemercka-range-relief-v2.webp",
 },  {
     id: "albania-maja-e-gjallices-relief-v2",
+    parent: "AL",
     type: "peak",
     name: { de: "Gjallica", hu: "Gjallica-csúcs", ro: "Vârful Gjallica", en: "Maja e Gjallicës",
 image: "/poi-images/albania-maja-e-gjallices-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Maja e Gjallices mountain Kukes Albania",
     image: "/poi-images/albania-maja-e-gjallices-relief-v2.webp",
 },  {
     id: "albania-mali-i-shpiragut-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Shpirag", hu: "Shpirag-hegy", ro: "Muntele Shpirag", en: "Mount Shpirag",
 image: "/poi-images/albania-mali-i-shpiragut-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Mount Shpirag Berat vertical ridges",
     image: "/poi-images/albania-mali-i-shpiragut-relief-v2.webp",
 },  {
     id: "albania-maja-e-valamares-relief-v2",
+    parent: "AL",
     type: "peak",
     name: { de: "Valamara-Gipfel", hu: "Valamara-csúcs", ro: "Vârful Valamara", en: "Maja e Valamarës",
 image: "/poi-images/albania-maja-e-valamares-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Maja e Valamares peak glacial lakes",
     image: "/poi-images/albania-maja-e-valamares-relief-v2.webp",
 },  {
     id: "albania-mali-i-munelles-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Munella-Berg", hu: "Munella-hegy", ro: "Muntele Munella", en: "Munella Mountain",
 image: "/poi-images/albania-mali-i-munelles-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Munella mountain northern Albania",
     image: "/poi-images/albania-mali-i-munelles-relief-v2.webp",
 },  {
     id: "albania-dumre-plateau-relief-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Dumre-Plateau", hu: "Dumre-fennsík", ro: "Podișul Dumre", en: "Dumre Plateau",
 image: "/poi-images/albania-dumre-plateau-relief-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Dumre Plateau karst lakes Albania aerial",
     image: "/poi-images/albania-dumre-plateau-relief-v2.webp",
 },  {
     id: "albania-maja-e-papingut-relief-v2",
+    parent: "AL",
     type: "peak",
     name: { de: "Maja e Papingut", hu: "Papingut-csúcs", ro: "Vârful Papingut", en: "Maja e Papingut",
 image: "/poi-images/albania-maja-e-papingut-relief-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Maja e Papingut peak Nemercka Albania",
     image: "/poi-images/albania-maja-e-papingut-relief-v2.webp",
 },  {
     id: "albania-mali-i-bardhe-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Weiße Berge", hu: "Fehér-hegység", ro: "Muntele Alb", en: "White Mountain",
 image: "/poi-images/albania-mali-i-bardhe-relief-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Mali i Bardhe mountain Albania limestone",
     image: "/poi-images/albania-mali-i-bardhe-relief-v2.webp",
 },  {
     id: "albania-mali-i-zi-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Schwarze Berge", hu: "Fekete-hegység", ro: "Muntele Negru", en: "Black Mountain",
 image: "/poi-images/albania-mali-i-zi-relief-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Mali i Zi mountain Albania dark rock",
     image: "/poi-images/albania-mali-i-zi-relief-v2.webp",
 },  {
     id: "albania-zadrima-plain-relief-v2",
+    parent: "AL",
     type: "landmark",
     name: { de: "Zadrima-Ebene", hu: "Zadrima-alföld", ro: "Câmpia Zadrima", en: "Zadrima Plain",
 image: "/poi-images/albania-zadrima-plain-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Zadrima Plain Albania landscape",
     image: "/poi-images/albania-zadrima-plain-relief-v2.webp",
 },  {
     id: "albania-maja-e-radohimes-relief-v2",
+    parent: "AL",
     type: "peak",
     name: { de: "Radohima-Gipfel", hu: "Radohima-csúcs", ro: "Vârful Radohima", en: "Maja e Radohimës",
 image: "/poi-images/albania-maja-e-radohimes-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Maja e Radohimes peak Albanian Alps",
     image: "/poi-images/albania-maja-e-radohimes-relief-v2.webp",
 },  {
     id: "albania-maja-e-hekurave-relief-v2",
+    parent: "AL",
     type: "peak",
     name: { de: "Eisenberg", hu: "Hekurave-csúcs", ro: "Vârful Hekurave", en: "Maja e Hekurave",
 image: "/poi-images/albania-maja-e-hekurave-relief-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Maja e Hekurave peak Albanian Alps",
     image: "/poi-images/albania-maja-e-hekurave-relief-v2.webp",
 },  {
     id: "albania-mali-i-krujes-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Kruja-Berg", hu: "Kruja-hegy", ro: "Muntele Kruja", en: "Mount Kruja",
 image: "/poi-images/albania-mali-i-krujes-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Mount Kruja cliff Albania Sarisalltik",
     image: "/poi-images/albania-mali-i-krujes-relief-v2.webp",
 },  {
     id: "albania-mali-i-shebenikut-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Shebenik-Gebirge", hu: "Shebenik-hegység", ro: "Munții Shebenik", en: "Shebenik Mountain",
 image: "/poi-images/albania-mali-i-shebenikut-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Shebenik mountain Albania glacial lake",
     image: "/poi-images/albania-mali-i-shebenikut-relief-v2.webp",
 },  {
     id: "albania-mali-i-jabllanices-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Jabllanica", hu: "Jabllanica-hegység", ro: "Muntele Jabllanica", en: "Jabllanica Mountain",
 image: "/poi-images/albania-mali-i-jabllanices-relief-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Jabllanica mountain Albania North Macedonia border",
     image: "/poi-images/albania-mali-i-jabllanices-relief-v2.webp",
 },  {
     id: "albania-maja-e-thate-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Trockener Berg", hu: "Száraz-hegy", ro: "Muntele Uscat", en: "Maja e Thatë",
 image: "/poi-images/albania-maja-e-thate-relief-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Mali i Thate mountain Albania Prespa",
     image: "/poi-images/albania-maja-e-thate-relief-v2.webp",
 },  {
     id: "albania-gryka-e-kelcyres-relief-v2",
+    parent: "AL",
     type: "valley",
     name: { de: "Këlcyra-Schlucht", hu: "Këlcyra-szoros", ro: "Cheile Këlcyra", en: "Këlcyra Gorge",
 image: "/poi-images/albania-gryka-e-kelcyres-relief-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Kelcyra Gorge Vjosa river Albania",
     image: "/poi-images/albania-gryka-e-kelcyres-relief-v2.webp",
 },  {
     id: "albania-mali-i-moraves-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Morava-Gebirge", hu: "Morava-hegység", ro: "Munții Morava", en: "Mount Morava",
 image: "/poi-images/albania-mali-i-moraves-relief-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Mount Morava Korca Albania winter",
     image: "/poi-images/albania-mali-i-moraves-relief-v2.webp",
 },  {
     id: "albania-mali-i-gjere-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Mali i Gjerë", hu: "Mali i Gjerë", ro: "Mali i Gjeră", en: "Mali i Gjerë",
 image: "/poi-images/albania-mali-i-gjere-relief-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Mali i Gjere mountain Gjirokastra Albania",
     image: "/poi-images/albania-mali-i-gjere-relief-v2.webp",
 },  {
     id: "albania-mali-i-lunxherise-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Lunxhëria-Gebirge", hu: "Lunxhëria-hegység", ro: "Munții Lunxhëria", en: "Lunxhëria Mountain",
 image: "/poi-images/albania-mali-i-lunxherise-relief-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Lunxheria mountain Albania landscape",
     image: "/poi-images/albania-mali-i-lunxherise-relief-v2.webp",
 },  {
     id: "albania-mali-i-cukalit-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Cukali-Massiv", hu: "Cukali-masszívum", ro: "Masivul Cukali", en: "Cukali Mountain",
 image: "/poi-images/albania-mali-i-cukalit-relief-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Cukali mountain Shkodra Albania",
     image: "/poi-images/albania-mali-i-cukalit-relief-v2.webp",
 },  {
     id: "albania-lugina-e-vermoshit-relief-v2",
+    parent: "AL",
     type: "valley",
     name: { de: "Vermosh-Tal", hu: "Vermosh-völgy", ro: "Valea Vermosh", en: "Vermosh Valley",
 image: "/poi-images/albania-lugina-e-vermoshit-relief-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Vermosh valley Albania alpine landscape",
     image: "/poi-images/albania-lugina-e-vermoshit-relief-v2.webp",
 },  {
     id: "albania-ceraunian-mountains-relief-v2",
+    parent: "AL",
     type: "mountain",
     name: { de: "Ceraunisches Gebirge", hu: "Keravni-hegység", ro: "Munții Ceraunici", en: "Ceraunian Mountains",
 image: "/poi-images/albania-ceraunian-mountains-relief-v2.webp"

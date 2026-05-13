@@ -3,6 +3,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
 
   {
     id: "bosniaherzegovina-sarajevo-city-hall-landmarks-v2",
+    parent: "BA",
     type: "palace",
     name: { de: "Rathaus von Sarajevo", hu: "Szarajevói városháza", ro: "Primăria din Sarajevo", en: "Sarajevo City Hall",
 image: "/poi-images/bosniaherzegovina-sarajevo-city-hall-landmarks-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/bosniaherzegovina-sarajevo-city-hall-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Gazi-Husrev-Beg-Moschee", hu: "Gazi Husrev bég mecset", ro: "Moscheea Gazi Husrev-beg", en: "Gazi Husrev-beg Mosque",
 image: "/poi-images/bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-yellow-bastion-landmarks-v2",
+    parent: "BA",
     type: "tower",
     name: { de: "Gelbe Bastion", hu: "Sárga bástya", ro: "Bastionul Galben", en: "Yellow Bastion",
 image: "/poi-images/bosniaherzegovina-yellow-bastion-landmarks-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/bosniaherzegovina-yellow-bastion-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-pocitelj-fortress-landmarks-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Festung Počitelj", hu: "Počitelj vára", ro: "Cetatea Počitelj", en: "Počitelj Fortress",
 image: "/poi-images/bosniaherzegovina-pocitelj-fortress-landmarks-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/bosniaherzegovina-pocitelj-fortress-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-ferhadija-mosque-landmarks-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Ferhadija-Moschee", hu: "Ferhadija-mecset", ro: "Moscheea Ferhadija", en: "Ferhadija Mosque",
 image: "/poi-images/bosniaherzegovina-ferhadija-mosque-landmarks-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/bosniaherzegovina-ferhadija-mosque-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-v2",
+    parent: "BA",
     type: "cathedral",
     name: { de: "Herz-Jesu-Kathedrale", hu: "Jézus Szíve-székesegyház", ro: "Catedrala Inima lui Isus", en: "Cathedral of Jesus' Sacred Heart",
 image: "/poi-images/bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-
   },
   {
     id: "bosniaherzegovina-old-orthodox-church-landmarks-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Alte Orthodoxe Kirche", hu: "Régi ortodox templom", ro: "Biserica Ortodoxă Veche", en: "Old Orthodox Church",
 image: "/poi-images/bosniaherzegovina-old-orthodox-church-landmarks-v2.webp"
@@ -248,6 +255,7 @@ image: "/poi-images/bosniaherzegovina-old-orthodox-church-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-sebilj-fountain-landmarks-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Sebilj-Brunnen", hu: "Sebilj-kút", ro: "Fântâna Sebilj", en: "Sebilj Fountain",
 image: "/poi-images/bosniaherzegovina-sebilj-fountain-landmarks-v2.webp"
@@ -283,6 +291,7 @@ image: "/poi-images/bosniaherzegovina-sebilj-fountain-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-national-museum-landmarks-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Nationalmuseum von Bosnien und Herzegowina", hu: "Bosznia-Hercegovinai Nemzeti Múzeum", ro: "Muzeul Național al Bosniei și Herțegovinei", en: "National Museum of Bosnia and Herzegovina",
 image: "/poi-images/bosniaherzegovina-national-museum-landmarks-v2.webp"
@@ -318,6 +327,7 @@ image: "/poi-images/bosniaherzegovina-national-museum-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-ljubuski-fortress-landmarks-v2",
+    parent: "BA",
     type: "castle",
     name: { de: "Festung Ljubuški", hu: "Ljubuški vára", ro: "Cetatea Ljubuški", en: "Ljubuški Fortress",
 image: "/poi-images/bosniaherzegovina-ljubuski-fortress-landmarks-v2.webp"
@@ -352,6 +362,7 @@ image: "/poi-images/bosniaherzegovina-ljubuski-fortress-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-arslanagic-bridge-landmarks-v2",
+    parent: "BA",
     type: "bridge",
     name: { de: "Arslanagić-Brücke", hu: "Arslanagić-híd", ro: "Podul Arslanagić", en: "Arslanagić Bridge",
 image: "/poi-images/bosniaherzegovina-arslanagic-bridge-landmarks-v2.webp"
@@ -386,6 +397,7 @@ image: "/poi-images/bosniaherzegovina-arslanagic-bridge-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-eternal-flame-landmarks-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Ewige Flamme", hu: "Örökmécses", ro: "Flacăra Eternă", en: "Eternal Flame",
 image: "/poi-images/bosniaherzegovina-eternal-flame-landmarks-v2.webp"
@@ -421,6 +433,7 @@ image: "/poi-images/bosniaherzegovina-eternal-flame-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Museum Sarajevo 1878–1918", hu: "Szarajevó Múzeum 1878–1918", ro: "Muzeul Sarajevo 1878–1918", en: "Museum of Sarajevo 1878–1918",
 image: "/poi-images/bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2.webp"
@@ -457,6 +470,7 @@ image: "/poi-images/bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2.
 ,
   {
     id: "bosniaherzegovina-banski-dvor-landmarks-v2",
+    parent: "BA",
     type: "palace",
     name: { de: "Banski Dvor", hu: "Bánsági palota", ro: "Banski Dvor", en: "Banski Dvor",
 image: "/poi-images/bosniaherzegovina-banski-dvor-landmarks-v2.webp"
@@ -490,6 +504,7 @@ image: "/poi-images/bosniaherzegovina-banski-dvor-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-mostar-peace-bell-tower-landmarks-v2",
+    parent: "BA",
     type: "tower",
     name: { de: "Friedensglockenturm Mostar", hu: "Mostari béke-harangtorony", ro: "Turnul clopotniță al păcii din Mostar", en: "Mostar Peace Bell Tower",
 image: "/poi-images/bosniaherzegovina-mostar-peace-bell-tower-landmarks-v2.webp"
@@ -524,6 +539,7 @@ image: "/poi-images/bosniaherzegovina-mostar-peace-bell-tower-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2",
+    parent: "BA",
     type: "cathedral",
     name: { de: "Kathedrale des heiligen Bonaventura", hu: "Szent Bonaventura-székesegyház", ro: "Catedrala Sfântul Bonaventura", en: "Cathedral of Saint Bonaventure",
 image: "/poi-images/bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2.webp"
@@ -558,6 +574,7 @@ image: "/poi-images/bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2.webp
   },
   {
     id: "bosniaherzegovina-hercegovacka-gracanica-landmarks-v2",
+    parent: "BA",
     type: "church",
     name: { de: "Hercegovačka Gračanica", hu: "Hercegovačka Gračanica", ro: "Hercegovačka Gračanica", en: "Hercegovačka Gračanica",
 image: "/poi-images/bosniaherzegovina-hercegovacka-gracanica-landmarks-v2.webp"
@@ -592,6 +609,7 @@ image: "/poi-images/bosniaherzegovina-hercegovacka-gracanica-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Museum für zeitgenössische Kunst der RS", hu: "Szerb Köztársaság Kortárs Művészeti Múzeuma", ro: "Muzeul de Artă Contemporană al RS", en: "Museum of Contemporary Art of RS",
 image: "/poi-images/bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2.webp"
@@ -626,6 +644,7 @@ image: "/poi-images/bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2.we
   },
   {
     id: "bosniaherzegovina-gradacac-tower-landmarks-v2",
+    parent: "BA",
     type: "tower",
     name: { de: "Turm von Gradačac", hu: "Gradačaci torony", ro: "Turnul din Gradačac", en: "Tower of Gradačac",
 image: "/poi-images/bosniaherzegovina-gradacac-tower-landmarks-v2.webp"
@@ -659,6 +678,7 @@ image: "/poi-images/bosniaherzegovina-gradacac-tower-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-partisan-memorial-cemetery-landmarks-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Partisanenfriedhof Mostar", hu: "Partizán emléktemető", ro: "Cimitirul Memorial al Partizanilor", en: "Partisan Memorial Cemetery",
 image: "/poi-images/bosniaherzegovina-partisan-memorial-cemetery-landmarks-v2.webp"
@@ -692,6 +712,7 @@ image: "/poi-images/bosniaherzegovina-partisan-memorial-cemetery-landmarks-v2.we
   },
   {
     id: "bosniaherzegovina-sahat-kula-sarajevo-landmarks-v2",
+    parent: "BA",
     type: "tower",
     name: { de: "Uhrturm von Sarajevo", hu: "Szarajevói óratorony", ro: "Turnul cu ceas din Sarajevo", en: "Sarajevo Clock Tower",
 image: "/poi-images/bosniaherzegovina-sahat-kula-sarajevo-landmarks-v2.webp"
@@ -726,6 +747,7 @@ image: "/poi-images/bosniaherzegovina-sahat-kula-sarajevo-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-war-child-museum-landmarks-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Kriegskind-Museum", hu: "Háborús Gyermekkor Múzeuma", ro: "Muzeul Copilăriei în Război", en: "War Child Museum",
 image: "/poi-images/bosniaherzegovina-war-child-museum-landmarks-v2.webp"
@@ -760,6 +782,7 @@ image: "/poi-images/bosniaherzegovina-war-child-museum-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Kaisermoschee", hu: "Császár-dzsámi", ro: "Moscheea Împăratului", en: "Emperor's Mosque",
 image: "/poi-images/bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2.webp"
@@ -794,6 +817,7 @@ image: "/poi-images/bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2.webp
   },
   {
     id: "bosniaherzegovina-sarajevo-synagogue-landmarks-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Synagoge von Sarajevo", hu: "Szarajevói zsinagóga", ro: "Sinagoga din Sarajevo", en: "Sarajevo Synagogue",
 image: "/poi-images/bosniaherzegovina-sarajevo-synagogue-landmarks-v2.webp"
@@ -828,6 +852,7 @@ image: "/poi-images/bosniaherzegovina-sarajevo-synagogue-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-muslibegovic-house-landmarks-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Muslibegović-Haus", hu: "Muslibegović-ház", ro: "Casa Muslibegović", en: "Muslibegović House",
 image: "/poi-images/bosniaherzegovina-muslibegovic-house-landmarks-v2.webp"
@@ -862,6 +887,7 @@ image: "/poi-images/bosniaherzegovina-muslibegovic-house-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-jewish-museum-bih-landmarks-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Jüdisches Museum", hu: "Bosznia-Hercegovinai Zsidó Múzeum", ro: "Muzeul Evreiesc din BiH", en: "Jewish Museum of Bosnia and Herzegovina",
 image: "/poi-images/bosniaherzegovina-jewish-museum-bih-landmarks-v2.webp"
@@ -896,6 +922,7 @@ image: "/poi-images/bosniaherzegovina-jewish-museum-bih-landmarks-v2.webp"
   },
   {
     id: "bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2",
+    parent: "BA",
     type: "monument",
     name: { de: "Tvrtko-I.-Denkmal", hu: "I. Tvrtko emlékmű", ro: "Monumentul lui Tvrtko I", en: "Tvrtko I Monument",
 image: "/poi-images/bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2.webp"
@@ -930,6 +957,7 @@ image: "/poi-images/bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2.webp
   },
   {
     id: "bosniaherzegovina-svrzos-house-landmarks-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Svrzo-Haus", hu: "Svrzo-ház", ro: "Casa Svrzo", en: "Svrzo's House",
 image: "/poi-images/bosniaherzegovina-svrzos-house-landmarks-v2.webp"
@@ -963,6 +991,7 @@ image: "/poi-images/bosniaherzegovina-svrzos-house-landmarks-v2.webp"
   }
 ,
   {id: "bosniaherzegovina-st-james-church-medjugorje-landmarks-v2",
+    parent: "BA",
     type: "church",
     name: { de: "Kirche St. Jakobus", hu: "Szent Jakab-templom", ro: "Biserica Sfântul Iacob", en: "Saint James Church",
 image: "/poi-images/bosniaherzegovina-st-james-church-medjugorje-landmarks-v2.webp"
@@ -983,6 +1012,7 @@ image: "/poi-images/bosniaherzegovina-st-james-church-medjugorje-landmarks-v2.we
     imageHint: "Saint James Church Medjugorje twin towers facade",
   },
   {id: "bosniaherzegovina-ali-pasha-mosque-landmarks-v2",
+    parent: "BA",
     type: "church",
     name: { de: "Ali-Pascha-Moschee", hu: "Ali pasa mecset", ro: "Moscheea Ali Pașa", en: "Ali Pasha Mosque",
 image: "/poi-images/bosniaherzegovina-ali-pasha-mosque-landmarks-v2.webp"
@@ -1003,6 +1033,7 @@ image: "/poi-images/bosniaherzegovina-ali-pasha-mosque-landmarks-v2.webp"
     imageHint: "Ali Pasha Mosque Sarajevo Ottoman architecture garden",
   },
   {id: "bosniaherzegovina-history-museum-bih-landmarks-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Historisches Museum von Bosnien", hu: "Bosznia-Hercegovina Történeti Múzeuma", ro: "Muzeul de Istorie al Bosniei și Herțegovinei", en: "History Museum of Bosnia and Herzegovina",
 image: "/poi-images/bosniaherzegovina-history-museum-bih-landmarks-v2.webp"
@@ -1023,6 +1054,7 @@ image: "/poi-images/bosniaherzegovina-history-museum-bih-landmarks-v2.webp"
     imageHint: "History Museum of Bosnia and Herzegovina Sarajevo building tanks",
   },
   {id: "bosniaherzegovina-zavala-monastery-landmarks-v2",
+    parent: "BA",
     type: "landmark",
     name: { de: "Kloster Zavala", hu: "Zavala kolostor", ro: "Mănăstirea Zavala", en: "Zavala Monastery",
 image: "/poi-images/bosniaherzegovina-zavala-monastery-landmarks-v2.webp"
@@ -1043,6 +1075,7 @@ image: "/poi-images/bosniaherzegovina-zavala-monastery-landmarks-v2.webp"
     imageHint: "Zavala Monastery rock church Popovo Polje",
   },
   {id: "bosniaherzegovina-zitomislic-monastery-landmarks-v2",
+    parent: "BA",
     type: "landmark",
     name: { de: "Kloster Žitomislić", hu: "Žitomislić kolostor", ro: "Mănăstirea Žitomislić", en: "Žitomislić Monastery",
 image: "/poi-images/bosniaherzegovina-zitomislic-monastery-landmarks-v2.webp"
@@ -1063,6 +1096,7 @@ image: "/poi-images/bosniaherzegovina-zitomislic-monastery-landmarks-v2.webp"
     imageHint: "Zitomislic Monastery Neretva valley Mostar",
   },
   {id: "bosniaherzegovina-karadjoz-bey-mosque-landmarks-v2",
+    parent: "BA",
     type: "church",
     name: { de: "Karađoz-beg-Moschee", hu: "Karađoz-bég mecset", ro: "Moscheea Karađoz Bey", en: "Karadjoz Bey Mosque",
 image: "/poi-images/bosniaherzegovina-karadjoz-bey-mosque-landmarks-v2.webp"
@@ -1083,6 +1117,7 @@ image: "/poi-images/bosniaherzegovina-karadjoz-bey-mosque-landmarks-v2.webp"
     imageHint: "Karadjoz Bey Mosque Mostar minaret dome",
   },
   {id: "bosniaherzegovina-banja-luka-city-hall-landmarks-v2",
+    parent: "BA",
     type: "palace",
     name: { de: "Rathaus von Banja Luka", hu: "Banja Luka városháza", ro: "Primăria din Banja Luka", en: "Banja Luka City Hall",
 image: "/poi-images/bosniaherzegovina-banja-luka-city-hall-landmarks-v2.webp"
@@ -1103,6 +1138,7 @@ image: "/poi-images/bosniaherzegovina-banja-luka-city-hall-landmarks-v2.webp"
     imageHint: "Banja Luka City Hall administration building facade",
   },
   {id: "bosniaherzegovina-art-gallery-bih-landmarks-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Kunstgalerie von Bosnien", hu: "Bosznia-Hercegovina Művészeti Galériája", ro: "Galeria de Artă a Bosniei și Herțegovinei", en: "Art Gallery of Bosnia and Herzegovina",
 image: "/poi-images/bosniaherzegovina-art-gallery-bih-landmarks-v2.webp"
@@ -1123,6 +1159,7 @@ image: "/poi-images/bosniaherzegovina-art-gallery-bih-landmarks-v2.webp"
     imageHint: "Art Gallery of Bosnia and Herzegovina Sarajevo facade",
   },
   {id: "bosniaherzegovina-biscevic-house-landmarks-v2",
+    parent: "BA",
     type: "museum",
     name: { de: "Bišćević-Haus", hu: "Bišćević-ház", ro: "Casa Bišćević", en: "Bišćević House",
 image: "/poi-images/bosniaherzegovina-biscevic-house-landmarks-v2.webp"
@@ -1143,6 +1180,7 @@ image: "/poi-images/bosniaherzegovina-biscevic-house-landmarks-v2.webp"
     imageHint: "Biscevic House Mostar Turkish house Neretva river",
   },
   {id: "bosniaherzegovina-tavna-monastery-landmarks-v2",
+    parent: "BA",
     type: "landmark",
     name: { de: "Kloster Tavna", hu: "Tavna kolostor", ro: "Mănăstirea Tavna", en: "Tavna Monastery",
 image: "/poi-images/bosniaherzegovina-tavna-monastery-landmarks-v2.webp"

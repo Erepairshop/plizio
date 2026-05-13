@@ -3,6 +3,7 @@ export const luxembourgReliefV2: POI[] = [
 
   {
     id: "luxembourg-kneiff-relief-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Kneiff", hu: "Kneiff", ro: "Kneiff", en: "Kneiff",
 image: "/poi-images/luxembourg-kneiff-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Kneiff summit stone marker Luxembourg",
     image: "/poi-images/luxembourg-kneiff-relief-v2.webp",
 },  {
     id: "luxembourg-buurgplaatz-relief-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Buurgplaatz", hu: "Buurgplaatz", ro: "Buurgplaatz", en: "Buurgplaatz",
 image: "/poi-images/luxembourg-buurgplaatz-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Buurgplaatz water tower and summit Luxembourg",
     image: "/poi-images/luxembourg-buurgplaatz-relief-v2.webp",
 },  {
     id: "luxembourg-napoleonsgaart-relief-v2",
+    parent: "LU",
     type: "peak",
     name: { de: "Napoléonsgaart", hu: "Napoléonsgaart", ro: "Napoléonsgaart", en: "Napoléonsgaart",
 image: "/poi-images/luxembourg-napoleonsgaart-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Napoléonsgaart viewpoint and tower Luxembourg",
     image: "/poi-images/luxembourg-napoleonsgaart-relief-v2.webp",
 },  {
     id: "luxembourg-wolfsschlucht-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Wolfsschlucht", hu: "Wolfsschlucht", ro: "Wolfsschlucht", en: "Wolfsschlucht",
 image: "/poi-images/luxembourg-wolfsschlucht-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Wolfsschlucht rock gorge Echternach Luxembourg",
     image: "/poi-images/luxembourg-wolfsschlucht-relief-v2.webp",
 },  {
     id: "luxembourg-priedegtstull-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Priedegtstull", hu: "Priedegtstull", ro: "Priedegtstull", en: "Priedegtstull",
 image: "/poi-images/luxembourg-priedegtstull-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Priedegtstull rock formation Müllerthal Luxembourg",
     image: "/poi-images/luxembourg-priedegtstull-relief-v2.webp",
 },  {
     id: "luxembourg-huel-lee-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Huel Lee", hu: "Huel Lee", ro: "Huel Lee", en: "Huel Lee",
 image: "/poi-images/luxembourg-huel-lee-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Huel Lee cave Berdorf Luxembourg",
     image: "/poi-images/luxembourg-huel-lee-relief-v2.webp",
 },  {
     id: "luxembourg-schiessentuempel-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Schiessentümpel", hu: "Schiessentümpel", ro: "Schiessentümpel", en: "Schiessentümpel",
 image: "/poi-images/luxembourg-schiessentuempel-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Schiessentümpel waterfall and bridge Luxembourg",
     image: "/poi-images/luxembourg-schiessentuempel-relief-v2.webp",
 },  {
     id: "luxembourg-alzette-valley-relief-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Alzette-Tal", hu: "Alzette-völgy", ro: "Valea Alzette", en: "Alzette Valley",
 image: "/poi-images/luxembourg-alzette-valley-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Alzette Valley Luxembourg City Grund",
     image: "/poi-images/luxembourg-alzette-valley-relief-v2.webp",
 },  {
     id: "luxembourg-petrusse-valley-relief-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Petruss-Tal", hu: "Pétrusse-völgy", ro: "Valea Pétrusse", en: "Pétrusse Valley",
 image: "/poi-images/luxembourg-petrusse-valley-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Pétrusse Valley Luxembourg City park",
     image: "/poi-images/luxembourg-petrusse-valley-relief-v2.webp",
 },  {
     id: "luxembourg-moselle-valley-relief-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Moseltal", hu: "Mosel-völgy", ro: "Valea Moselle", en: "Moselle Valley",
 image: "/poi-images/luxembourg-moselle-valley-relief-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Moselle Valley Luxembourg vineyards",
     image: "/poi-images/luxembourg-moselle-valley-relief-v2.webp",
 },  {
     id: "luxembourg-upper-sure-valley-relief-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Obersauer-Tal", hu: "Felső-Sauer-völgy", ro: "Valea Sauer Superioară", en: "Upper Sûre Valley",
 image: "/poi-images/luxembourg-upper-sure-valley-relief-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Upper Sûre Valley Luxembourg aerial",
     image: "/poi-images/luxembourg-upper-sure-valley-relief-v2.webp",
 },  {
     id: "luxembourg-our-valley-relief-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Our-Tal", hu: "Our-völgy", ro: "Valea Our", en: "Our Valley",
 image: "/poi-images/luxembourg-our-valley-relief-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Our Valley Luxembourg Vianden",
     image: "/poi-images/luxembourg-our-valley-relief-v2.webp",
 },  {
     id: "luxembourg-giele-botter-relief-v2",
+    parent: "LU",
     type: "mine",
     name: { de: "Giele Botter", hu: "Giele Botter", ro: "Giele Botter", en: "Giele Botter",
 image: "/poi-images/luxembourg-giele-botter-relief-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Giele Botter red earth Luxembourg",
     image: "/poi-images/luxembourg-giele-botter-relief-v2.webp",
 },  {
     id: "luxembourg-widdebierg-relief-v2",
+    parent: "LU",
     type: "mountain",
     name: { de: "Widdebierg", hu: "Widdebierg", ro: "Widdebierg", en: "Widdebierg",
 image: "/poi-images/luxembourg-widdebierg-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Widdebierg hill Luxembourg landscape",
     image: "/poi-images/luxembourg-widdebierg-relief-v2.webp",
 },  {
     id: "luxembourg-galgenberg-relief-v2",
+    parent: "LU",
     type: "mountain",
     name: { de: "Galgenberg", hu: "Galgenberg", ro: "Galgenberg", en: "Galgenberg",
 image: "/poi-images/luxembourg-galgenberg-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Galgenberg Esch-sur-Alzette Luxembourg",
     image: "/poi-images/luxembourg-galgenberg-relief-v2.webp",
 },  {
     id: "luxembourg-perekop-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Perekop", hu: "Perekop", ro: "Perekop", en: "Perekop",
 image: "/poi-images/luxembourg-perekop-relief-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Perekop rock Berdorf Luxembourg",
     image: "/poi-images/luxembourg-perekop-relief-v2.webp",
 },  {
     id: "luxembourg-haard-nature-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Haard", hu: "Haard", ro: "Haard", en: "Haard",
 image: "/poi-images/luxembourg-haard-nature-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Haard nature reserve Dudelange Luxembourg",
     image: "/poi-images/luxembourg-haard-nature-relief-v2.webp",
 },  {
     id: "luxembourg-kirchberg-plateau-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Kirchberg-Plateau", hu: "Kirchberg-fennsík", ro: "Platoul Kirchberg", en: "Kirchberg Plateau",
 image: "/poi-images/luxembourg-kirchberg-plateau-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Kirchberg Plateau Luxembourg City aerial",
     image: "/poi-images/luxembourg-kirchberg-plateau-relief-v2.webp",
 },  {
     id: "luxembourg-rham-plateau-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Rham-Plateau", hu: "Rham-fennsík", ro: "Platoul Rham", en: "Rham Plateau",
 image: "/poi-images/luxembourg-rham-plateau-relief-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Rham Plateau Luxembourg fortifications",
     image: "/poi-images/luxembourg-rham-plateau-relief-v2.webp",
 },  {
     id: "luxembourg-kohlscheuer-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Kohlscheuer", hu: "Kohlscheuer", ro: "Kohlscheuer", en: "Kohlscheuer",
 image: "/poi-images/luxembourg-kohlscheuer-relief-v2.webp"
@@ -683,6 +703,7 @@ image: "/poi-images/luxembourg-kohlscheuer-relief-v2.webp"
   },
   {
     id: "luxembourg-goldkaul-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Goldkaul", hu: "Goldkaul", ro: "Goldkaul", en: "Goldkaul",
 image: "/poi-images/luxembourg-goldkaul-relief-v2.webp"
@@ -717,6 +738,7 @@ image: "/poi-images/luxembourg-goldkaul-relief-v2.webp"
   },
   {
     id: "luxembourg-rittergang-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Rittergang", hu: "Rittergang", ro: "Rittergang", en: "Rittergang",
 image: "/poi-images/luxembourg-rittergang-relief-v2.webp"
@@ -751,6 +773,7 @@ image: "/poi-images/luxembourg-rittergang-relief-v2.webp"
   },
   {
     id: "luxembourg-herrenberg-relief-v2",
+    parent: "LU",
     type: "mountain",
     name: { de: "Herrenberg", hu: "Herrenberg", ro: "Herrenberg", en: "Herrenberg",
 image: "/poi-images/luxembourg-herrenberg-relief-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Herrenberg hill Diekirch Luxembourg",
     image: "/poi-images/luxembourg-herrenberg-relief-v2.webp",
 },  {
     id: "luxembourg-black-ernz-valley-relief-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Tal der Schwarzen Ernz", hu: "Fekete-Ernz völgy", ro: "Valea Ernz Neagră", en: "Black Ernz Valley",
 image: "/poi-images/luxembourg-black-ernz-valley-relief-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Black Ernz Valley river Luxembourg",
     image: "/poi-images/luxembourg-black-ernz-valley-relief-v2.webp",
 },  {
     id: "luxembourg-kallektuffquell-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Kallektuffquell", hu: "Kallektuffquell", ro: "Kallektuffquell", en: "Kallektuffquell",
 image: "/poi-images/luxembourg-kallektuffquell-relief-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Kallektuffquell waterfall Müllerthal",
     image: "/poi-images/luxembourg-kallektuffquell-relief-v2.webp",
 },  {
     id: "luxembourg-kuelscheier-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Kuelscheier", hu: "Kuelscheier", ro: "Kuelscheier", en: "Kuelscheier",
 image: "/poi-images/luxembourg-kuelscheier-relief-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Kuelscheier rock labyrinth Luxembourg",
     image: "/poi-images/luxembourg-kuelscheier-relief-v2.webp",
 },  {
     id: "luxembourg-oesling-plateau-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Ösling-Plateau", hu: "Ösling-fennsík", ro: "Platoul Oesling", en: "Oesling Plateau",
 image: "/poi-images/luxembourg-oesling-plateau-relief-v2.webp"
@@ -921,6 +948,7 @@ image: "/poi-images/luxembourg-oesling-plateau-relief-v2.webp"
   },
   {
     id: "luxembourg-stafelter-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Stafelter", hu: "Stafelter", ro: "Stafelter", en: "Stafelter",
 image: "/poi-images/luxembourg-stafelter-relief-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Stafelter forest plateau Luxembourg",
     image: "/poi-images/luxembourg-stafelter-relief-v2.webp",
 },  {
     id: "luxembourg-bourbon-plateau-relief-v2",
+    parent: "LU",
     type: "landmark",
     name: { de: "Plateau Bourbon", hu: "Bourbon-fennsík", ro: "Platoul Bourbon", en: "Bourbon Plateau",
 image: "/poi-images/luxembourg-bourbon-plateau-relief-v2.webp"
@@ -989,6 +1018,7 @@ image: "/poi-images/luxembourg-bourbon-plateau-relief-v2.webp"
   },
   {
     id: "luxembourg-white-ernz-valley-relief-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Tal der Weißen Ernz", hu: "Fehér-Ernz völgy", ro: "Valea Ernz Albă", en: "White Ernz Valley",
 image: "/poi-images/luxembourg-white-ernz-valley-relief-v2.webp"

@@ -3,6 +3,7 @@ export const icelandCitiesV2: POI[] = [
 
   {
     id: "iceland-reykjavik-cities-v2",
+    parent: "IS",
     type: "capital",
     name: { de: "Reykjavík", hu: "Reykjavík", ro: "Reykjavík", en: "Reykjavík",
 image: "/poi-images/iceland-reykjavik-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
     image: "/poi-images/iceland-reykjavik-cities-v2.webp",
 },  {
     id: "iceland-kopavogur-cities-v2",
+    parent: "IS",
     type: "city",
     name: { de: "Kópavogur", hu: "Kópavogur", ro: "Kópavogur", en: "Kópavogur",
 image: "/poi-images/iceland-kopavogur-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Kopavogur city view with modern church",
     image: "/poi-images/iceland-kopavogur-cities-v2.webp",
 },  {
     id: "iceland-hafnarfjordur-cities-v2",
+    parent: "IS",
     type: "city",
     name: { de: "Hafnarfjörður", hu: "Hafnarfjörður", ro: "Hafnarfjörður", en: "Hafnarfjörður",
 image: "/poi-images/iceland-hafnarfjordur-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Hafnarfjordur harbor and colorful houses",
     image: "/poi-images/iceland-hafnarfjordur-cities-v2.webp",
 },  {
     id: "iceland-akureyri-cities-v2",
+    parent: "IS",
     type: "city",
     name: { de: "Akureyri", hu: "Akureyri", ro: "Akureyri", en: "Akureyri",
 image: "/poi-images/iceland-akureyri-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Akureyri church and fjord view",
     image: "/poi-images/iceland-akureyri-cities-v2.webp",
 },  {
     id: "iceland-keflavik-cities-v2",
+    parent: "IS",
     type: "city",
     name: { de: "Keflavík", hu: "Keflavík", ro: "Keflavík", en: "Keflavík",
 image: "/poi-images/iceland-keflavik-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Keflavik harbor and rocky coastline",
     image: "/poi-images/iceland-keflavik-cities-v2.webp",
 },  {
     id: "iceland-gardabaer-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Garðabær", hu: "Garðabær", ro: "Garðabær", en: "Garðabær",
 image: "/poi-images/iceland-gardabaer-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Gardabaer residential area and nature scenery",
     image: "/poi-images/iceland-gardabaer-cities-v2.webp",
 },  {
     id: "iceland-mosfellsbaer-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Mosfellsbær", hu: "Mosfellsbær", ro: "Mosfellsbær", en: "Mosfellsbær",
 image: "/poi-images/iceland-mosfellsbaer-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Mosfellsbaer landscape with mountains",
     image: "/poi-images/iceland-mosfellsbaer-cities-v2.webp",
 },  {
     id: "iceland-selfoss-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Selfoss", hu: "Selfoss", ro: "Selfoss", en: "Selfoss",
 image: "/poi-images/iceland-selfoss-cities-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Selfoss bridge over Olfusa river",
     image: "/poi-images/iceland-selfoss-cities-v2.webp",
 },  {
     id: "iceland-akranes-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Akranes", hu: "Akranes", ro: "Akranes", en: "Akranes",
 image: "/poi-images/iceland-akranes-cities-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Akranes lighthouse at the coast",
     image: "/poi-images/iceland-akranes-cities-v2.webp",
 },  {
     id: "iceland-seltjarnarnes-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Seltjarnarnes", hu: "Seltjarnarnes", ro: "Seltjarnarnes", en: "Seltjarnarnes",
 image: "/poi-images/iceland-seltjarnarnes-cities-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
     image: "/poi-images/iceland-seltjarnarnes-cities-v2.webp",
 },  {
     id: "iceland-vestmannaeyjar-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Vestmannaeyjar", hu: "Vestmannaeyjar", ro: "Vestmannaeyjar", en: "Vestmannaeyjar",
 image: "/poi-images/iceland-vestmannaeyjar-cities-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Vestmannaeyjar harbor and steep cliffs",
     image: "/poi-images/iceland-vestmannaeyjar-cities-v2.webp",
 },  {
     id: "iceland-grindavik-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Grindavík", hu: "Grindavík", ro: "Grindavík", en: "Grindavík",
 image: "/poi-images/iceland-grindavik-cities-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Grindavik harbor with fishing boats",
     image: "/poi-images/iceland-grindavik-cities-v2.webp",
 },  {
     id: "iceland-isafjordur-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Ísafjörður", hu: "Ísafjörður", ro: "Ísafjörður", en: "Ísafjörður",
 image: "/poi-images/iceland-isafjordur-cities-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Isafjordur town view from above the fjord",
     image: "/poi-images/iceland-isafjordur-cities-v2.webp",
 },  {
     id: "iceland-saudarkrokur-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Sauðárkrókur", hu: "Sauðárkrókur", ro: "Sauðárkrókur", en: "Sauðárkrókur",
 image: "/poi-images/iceland-saudarkrokur-cities-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Saudarkrokur town and the fjord",
     image: "/poi-images/iceland-saudarkrokur-cities-v2.webp",
 },  {
     id: "iceland-hveragerdi-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Hveragerði", hu: "Hveragerði", ro: "Hveragerði", en: "Hveragerði",
 image: "/poi-images/iceland-hveragerdi-cities-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Hveragerdi greenhouses and steam vents",
     image: "/poi-images/iceland-hveragerdi-cities-v2.webp",
 },  {
     id: "iceland-husavik-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Húsavík", hu: "Húsavík", ro: "Húsavík", en: "Húsavík",
 image: "/poi-images/iceland-husavik-cities-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Husavik harbor with traditional wooden boats",
     image: "/poi-images/iceland-husavik-cities-v2.webp",
 },  {
     id: "iceland-borgarnes-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Borgarnes", hu: "Borgarnes", ro: "Borgarnes", en: "Borgarnes",
 image: "/poi-images/iceland-borgarnes-cities-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Borgarnes town view with mountains in background",
     image: "/poi-images/iceland-borgarnes-cities-v2.webp",
 },  {
     id: "iceland-sandgerdi-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Sandgerði", hu: "Sandgerði", ro: "Sandgerði", en: "Sandgerði",
 image: "/poi-images/iceland-sandgerdi-cities-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Sandgerdi harbor with coastal scenery",
     image: "/poi-images/iceland-sandgerdi-cities-v2.webp",
 },  {
     id: "iceland-hofn-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Höfn", hu: "Höfn", ro: "Höfn", en: "Höfn",
 image: "/poi-images/iceland-hofn-cities-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Hofn town with Vatnajokull glacier in background",
     image: "/poi-images/iceland-hofn-cities-v2.webp",
 },  {
     id: "iceland-thorlakshofn-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Þorlákshöfn", hu: "Þorlákshöfn", ro: "Þorlákshöfn", en: "Þorlákshöfn",
 image: "/poi-images/iceland-thorlakshofn-cities-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Thorlakshofn harbor and black sand beach",
     image: "/poi-images/iceland-thorlakshofn-cities-v2.webp",
 },  {
     id: "iceland-dalvik-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Dalvík", hu: "Dalvík", ro: "Dalvík", en: "Dalvík",
 image: "/poi-images/iceland-dalvik-cities-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Dalvik harbor with snow-capped mountains",
     image: "/poi-images/iceland-dalvik-cities-v2.webp",
 },  {
     id: "iceland-siglufjordur-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Siglufjörður", hu: "Siglufjörður", ro: "Siglufjörður", en: "Siglufjörður",
 image: "/poi-images/iceland-siglufjordur-cities-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Siglufjordur colorful houses and harbor",
     image: "/poi-images/iceland-siglufjordur-cities-v2.webp",
 },  {
     id: "iceland-stykkisholmur-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Stykkishólmur", hu: "Stykkishólmur", ro: "Stykkishólmur", en: "Stykkishólmur",
 image: "/poi-images/iceland-stykkisholmur-cities-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Stykkisholmur harbor and Súgandisey cliff",
     image: "/poi-images/iceland-stykkisholmur-cities-v2.webp",
 },  {
     id: "iceland-seydisfjordur-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Seyðisfjörður", hu: "Seyðisfjörður", ro: "Seyðisfjörður", en: "Seyðisfjörður",
 image: "/poi-images/iceland-seydisfjordur-cities-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Seydisfjordur rainbow road and blue church",
     image: "/poi-images/iceland-seydisfjordur-cities-v2.webp",
 },  {
     id: "iceland-vogar-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Vogar", hu: "Vogar", ro: "Vogar", en: "Vogar",
 image: "/poi-images/iceland-vogar-cities-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-vogar-cities-v2.webp",
 },  {
     id: "iceland-faskrudsfjordur-cities-v2",
+    parent: "IS",
     type: "town",
     name: { de: "Fáskrúðsfjörður", hu: "Fáskrúðsfjörður", ro: "Fáskrúðsfjörður", en: "Fáskrúðsfjörður",
 image: "/poi-images/iceland-faskrudsfjordur-cities-v2.webp"

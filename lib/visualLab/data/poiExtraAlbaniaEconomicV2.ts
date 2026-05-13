@@ -3,6 +3,7 @@ export const albaniaEconomicV2: POI[] = [
 
   {
     id: "albania-port-of-durres-economic-v2",
+    parent: "AL",
     type: "port",
     name: { de: "Hafen von Durrës", hu: "Durrësi kikötő", ro: "Portul Durrës", en: "Port of Durrës",
 image: "/poi-images/albania-port-of-durres-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Aerial view of the industrial Port of Durres with shipping container
     image: "/poi-images/albania-port-of-durres-economic-v2.webp",
 },  {
     id: "albania-koman-hydroelectric-plant-economic-v2",
+    parent: "AL",
     type: "industry",
     name: { de: "Wasserkraftwerk Koman", hu: "Komani vízerőmű", ro: "Hidrocentrala Koman", en: "Koman Hydroelectric Power Station",
 image: "/poi-images/albania-koman-hydroelectric-plant-economic-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Large hydroelectric dam and power station at Koman Lake",
     image: "/poi-images/albania-koman-hydroelectric-plant-economic-v2.webp",
 },  {
     id: "albania-patos-marinza-oil-field-economic-v2",
+    parent: "AL",
     type: "mine",
     name: { de: "Ölfeld Patos-Marinza", hu: "Patos-Marinza olajmező", ro: "Câmpul petrolifer Patos-Marinza", en: "Patos-Marinza Oil Field",
 image: "/poi-images/albania-patos-marinza-oil-field-economic-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Oil pumps and industrial drilling rigs in Patos-Marinza",
     image: "/poi-images/albania-patos-marinza-oil-field-economic-v2.webp",
 },  {
     id: "albania-bulqize-chrome-mine-economic-v2",
+    parent: "AL",
     type: "mine",
     name: { de: "Chrommine Bulqizë", hu: "Bulqizëi krómabánya", ro: "Mina de crom Bulqizë", en: "Bulqizë Chrome Mine",
 image: "/poi-images/albania-bulqize-chrome-mine-economic-v2.webp"
@@ -139,6 +143,7 @@ image: "/poi-images/albania-bulqize-chrome-mine-economic-v2.webp"
   },
   {
     id: "albania-elbasan-steel-mill-economic-v2",
+    parent: "AL",
     type: "factory",
     name: { de: "Stahlwerk Elbasan", hu: "Elbasani acélmű", ro: "Combinatul siderurgic Elbasan", en: "Elbasan Steel Mill",
 image: "/poi-images/albania-elbasan-steel-mill-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Large industrial steel mill complex with chimneys in Elbasan",
     image: "/poi-images/albania-elbasan-steel-mill-economic-v2.webp",
 },  {
     id: "albania-tirana-airport-economic-v2",
+    parent: "AL",
     type: "industry",
     name: { de: "Flughafen Tirana Nënë Tereza", hu: "Tiranai Teréz anya repülőtér", ro: "Aeroportul Internațional Tirana", en: "Tirana International Airport Nënë Tereza",
 image: "/poi-images/albania-tirana-airport-economic-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Modern terminal of Tirana International Airport",
     image: "/poi-images/albania-tirana-airport-economic-v2.webp",
 },  {
     id: "albania-fierza-hydroelectric-plant-economic-v2",
+    parent: "AL",
     type: "industry",
     name: { de: "Wasserkraftwerk Fierza", hu: "Fierzai vízerőmű", ro: "Hidrocentrala Fierza", en: "Fierza Hydroelectric Power Station",
 image: "/poi-images/albania-fierza-hydroelectric-plant-economic-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "High dam wall and large reservoir lake in Fierza",
     image: "/poi-images/albania-fierza-hydroelectric-plant-economic-v2.webp",
 },  {
     id: "albania-port-of-vlore-economic-v2",
+    parent: "AL",
     type: "port",
     name: { de: "Hafen von Vlorë", hu: "Vlorai kikötő", ro: "Portul Vlorë", en: "Port of Vlorë",
 image: "/poi-images/albania-port-of-vlore-economic-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Vlore port with ferries and industrial docks",
     image: "/poi-images/albania-port-of-vlore-economic-v2.webp",
 },  {
     id: "albania-ballsh-oil-refinery-economic-v2",
+    parent: "AL",
     type: "factory",
     name: { de: "Ölraffinerie Ballsh", hu: "Ballshi olajfinomító", ro: "Rafinăria de petrol Ballsh", en: "Ballsh Oil Refinery",
 image: "/poi-images/albania-ballsh-oil-refinery-economic-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Industrial pipes and towers of an oil refinery in Ballsh",
     image: "/poi-images/albania-ballsh-oil-refinery-economic-v2.webp",
 },  {
     id: "albania-vau-i-dejes-power-plant-economic-v2",
+    parent: "AL",
     type: "industry",
     name: { de: "Wasserkraftwerk Vau i Dejës", hu: "Vau i Dejës-i vízerőmű", ro: "Hidrocentrala Vau i Dejës", en: "Vau i Dejës Hydroelectric Power Station",
 image: "/poi-images/albania-vau-i-dejes-power-plant-economic-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Hydroelectric power plant building and spillway at Vau i Dejes",
     image: "/poi-images/albania-vau-i-dejes-power-plant-economic-v2.webp",
 },  {
     id: "albania-lushnje-agricultural-hub-economic-v2",
+    parent: "AL",
     type: "industry",
     name: { de: "Agrarzentrum Lushnjë", hu: "Lushnjëi mezőgazdasági központ", ro: "Centrul agricol Lushnjë", en: "Lushnjë Agricultural Hub",
 image: "/poi-images/albania-lushnje-agricultural-hub-economic-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Vast agricultural fields and greenhouses near Lushnje",
     image: "/poi-images/albania-lushnje-agricultural-hub-economic-v2.webp",
 },  {
     id: "albania-korca-brewery-economic-v2",
+    parent: "AL",
     type: "factory",
     name: { de: "Brauerei Korça", hu: "Korçai sörgyár", ro: "Fabrica de bere Korça", en: "Korça Brewery",
 image: "/poi-images/albania-korca-brewery-economic-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Exterior of the historic Birra Korca brewery factory",
     image: "/poi-images/albania-korca-brewery-economic-v2.webp",
 },  {
     id: "albania-kruje-cement-plant-economic-v2",
+    parent: "AL",
     type: "factory",
     name: { de: "Zementwerk Krujë", hu: "Krujëi cementgyár", ro: "Fabrica de ciment Krujë", en: "Krujë Cement Plant",
 image: "/poi-images/albania-kruje-cement-plant-economic-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Large industrial cement factory with silos near Kruje",
     image: "/poi-images/albania-kruje-cement-plant-economic-v2.webp",
 },  {
     id: "albania-tirana-business-park-economic-v2",
+    parent: "AL",
     type: "industry",
     name: { de: "Tirana Business Park", hu: "Tirana Business Park", ro: "Tirana Business Park", en: "Tirana Business Park",
 image: "/poi-images/albania-tirana-business-park-economic-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Modern office buildings and landscaped areas of a business park",
     image: "/poi-images/albania-tirana-business-park-economic-v2.webp",
 },  {
     id: "albania-port-of-shengjin-economic-v2",
+    parent: "AL",
     type: "port",
     name: { de: "Hafen von Shëngjin", hu: "Shëngjini kikötő", ro: "Portul Shëngjin", en: "Port of Shëngjin",
 image: "/poi-images/albania-port-of-shengjin-economic-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Port docks with small ships and fishing boats in Shengjin",
     image: "/poi-images/albania-port-of-shengjin-economic-v2.webp",
 },  {
     id: "albania-kucove-oil-field-economic-v2",
+    parent: "AL",
     type: "mine",
     name: { de: "Ölfeld Kuçovë", hu: "Kuçovëi olajmező", ro: "Câmpul petrolifer Kuçovë", en: "Kuçovë Oil Field",
 image: "/poi-images/albania-kucove-oil-field-economic-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Vintage oil derricks and modern drilling equipment in Kucove",
     image: "/poi-images/albania-kucove-oil-field-economic-v2.webp",
 },  {
     id: "albania-port-of-sarande-economic-v2",
+    parent: "AL",
     type: "port",
     name: { de: "Hafen von Sarandë", hu: "Sarandai kikötő", ro: "Portul Sarandë", en: "Port of Sarandë",
 image: "/poi-images/albania-port-of-sarande-economic-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Sarande harbor with cruise ships and ferries",
     image: "/poi-images/albania-port-of-sarande-economic-v2.webp",
 },  {
     id: "albania-durres-railway-hub-economic-v2",
+    parent: "AL",
     type: "industry",
     name: { de: "Bahnhof Durrës", hu: "Durrësi vasúti csomópont", ro: "Nodul feroviar Durrës", en: "Durrës Railway Hub",
 image: "/poi-images/albania-durres-railway-hub-economic-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Railway tracks and freight trains at the Durres station",
     image: "/poi-images/albania-durres-railway-hub-economic-v2.webp",
 },  {
     id: "albania-shkoder-industrial-zone-economic-v2",
+    parent: "AL",
     type: "factory",
     name: { de: "Industriezone Shkodër", hu: "Shkodëri ipari zóna", ro: "Zona industrială Shkodër", en: "Shkodër Industrial Zone",
 image: "/poi-images/albania-shkoder-industrial-zone-economic-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Modern factory buildings in the industrial outskirts of Shkoder",
     image: "/poi-images/albania-shkoder-industrial-zone-economic-v2.webp",
 },  {
     id: "albania-prrenjas-nickel-mine-economic-v2",
+    parent: "AL",
     type: "mine",
     name: { de: "Nickelmine Prrenjas", hu: "Prrenjasi nikkelbánya", ro: "Mina de nichel Prrenjas", en: "Prrenjas Nickel Mine",
 image: "/poi-images/albania-prrenjas-nickel-mine-economic-v2.webp"
@@ -683,6 +703,7 @@ image: "/poi-images/albania-prrenjas-nickel-mine-economic-v2.webp"
   },
   {
     id: "albania-memaliaj-coal-mine-economic-v2",
+    parent: "AL",
     type: "mine",
     name: { de: "Kohlebergwerk Memaliaj", hu: "Memaliaji szénbánya", ro: "Mina de cărbune Memaliaj", en: "Memaliaj Coal Mine",
 image: "/poi-images/albania-memaliaj-coal-mine-economic-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Old coal mining structures and industrial heritage site in Memaliaj"
     image: "/poi-images/albania-memaliaj-coal-mine-economic-v2.webp",
 },  {
     id: "albania-rubik-copper-plant-economic-v2",
+    parent: "AL",
     type: "factory",
     name: { de: "Kupferwerk Rubik", hu: "Rubiki rézmű", ro: "Uzina de cupru Rubik", en: "Rubik Copper Industry",
 image: "/poi-images/albania-rubik-copper-plant-economic-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Industrial copper smelting plant in a valley in Rubik",
     image: "/poi-images/albania-rubik-copper-plant-economic-v2.webp",
 },  {
     id: "albania-lac-industrial-zone-economic-v2",
+    parent: "AL",
     type: "factory",
     name: { de: "Industriezone Laç", hu: "Laçi ipari zóna", ro: "Zona industrială Laç", en: "Laç Industrial Zone",
 image: "/poi-images/albania-lac-industrial-zone-economic-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Large chemical factory complex and industrial area in Lac",
     image: "/poi-images/albania-lac-industrial-zone-economic-v2.webp",
 },  {
     id: "albania-berat-textile-mill-economic-v2",
+    parent: "AL",
     type: "factory",
     name: { de: "Textilkombinat Berat", hu: "Berati textilgyár", ro: "Combinatul textil Berat", en: "Berat Textile Mill",
 image: "/poi-images/albania-berat-textile-mill-economic-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Old industrial textile factory buildings in Berat",
     image: "/poi-images/albania-berat-textile-mill-economic-v2.webp",
 },  {
     id: "albania-pogradec-nickel-mine-economic-v2",
+    parent: "AL",
     type: "mine",
     name: { de: "Ferro-Nickel-Mine Pogradec", hu: "Pogradeci nikkelbánya", ro: "Mina de fero-nichel Pogradec", en: "Pogradec Ferro-Nickel Mine",
 image: "/poi-images/albania-pogradec-nickel-mine-economic-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Mining pits and mineral processing equipment near Pogradec",
     image: "/poi-images/albania-pogradec-nickel-mine-economic-v2.webp",
 },  {
     id: "albania-kukes-airport-economic-v2",
+    parent: "AL",
     type: "industry",
     name: { de: "Flughafen Kukës Zayed", hu: "Kukësi Zayed repülőtér", ro: "Aeroportul Kukës Zayed", en: "Kukës International Airport Zayed",
 image: "/poi-images/albania-kukes-airport-economic-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Modern terminal and runway of Kukes Airport",
     image: "/poi-images/albania-kukes-airport-economic-v2.webp",
 },  {
     id: "albania-divjake-gas-field-economic-v2",
+    parent: "AL",
     type: "mine",
     name: { de: "Erdgasfeld Divjakë", hu: "Divjakëi földgázmező", ro: "Câmpul de gaze naturale Divjakë", en: "Divjakë Natural Gas Field",
 image: "/poi-images/albania-divjake-gas-field-economic-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Natural gas extraction facility and pipelines in Divjake",
     image: "/poi-images/albania-divjake-gas-field-economic-v2.webp",
 },  {
     id: "albania-sarande-ferry-terminal-economic-v2",
+    parent: "AL",
     type: "port",
     name: { de: "Fährterminal Sarandë", hu: "Sarandai kompterminál", ro: "Terminalul de feribot Sarandë", en: "Sarandë Ferry Terminal",
 image: "/poi-images/albania-sarande-ferry-terminal-economic-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Busy ferry terminal with ships docking in Sarande",
     image: "/poi-images/albania-sarande-ferry-terminal-economic-v2.webp",
 },  {
     id: "albania-vlore-industrial-park-economic-v2",
+    parent: "AL",
     type: "industry",
     name: { de: "Industriepark Vlorë", hu: "Vlorai ipari park", ro: "Parcul industrial Vlorë", en: "Vlorë Industrial Park",
 image: "/poi-images/albania-vlore-industrial-park-economic-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Modern industrial warehouses and factories near the coast of Vlore",
     image: "/poi-images/albania-vlore-industrial-park-economic-v2.webp",
 },  {
     id: "albania-bitincka-mining-area-economic-v2",
+    parent: "AL",
     type: "mine",
     name: { de: "Bergbauregion Bitincka", hu: "Bitinckai bányavidék", ro: "Zona minieră Bitincka", en: "Bitincka Mining Area",
 image: "/poi-images/albania-bitincka-mining-area-economic-v2.webp"

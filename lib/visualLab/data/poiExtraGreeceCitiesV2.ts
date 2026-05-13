@@ -3,6 +3,7 @@ export const greeceCitiesV2: POI[] = [
 
   {
     id: "greece-patras-cities-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Patras", hu: "Pátra", ro: "Patras", en: "Patras",
 image: "/poi-images/greece-patras-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Patras port view with Rio-Antirrio bridge in background",
     image: "/poi-images/greece-patras-cities-v2.webp",
 },  {
     id: "greece-heraklion-cities-v2",
+    parent: "GR",
     type: "capital",
     name: { de: "Iraklio", hu: "Iráklio", ro: "Heraklion", en: "Heraklion",
 image: "/poi-images/greece-heraklion-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Heraklion Venetian harbor and Koules fortress",
     image: "/poi-images/greece-heraklion-cities-v2.webp",
 },  {
     id: "greece-larissa-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Larissa", hu: "Lárisza", ro: "Larissa", en: "Larissa",
 image: "/poi-images/greece-larissa-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Ancient Theater of Larissa in city center",
     image: "/poi-images/greece-larissa-cities-v2.webp",
 },  {
     id: "greece-volos-cities-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Volos", hu: "Vólosz", ro: "Volos", en: "Volos",
 image: "/poi-images/greece-volos-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Volos port promenade and Pagasetic Gulf",
     image: "/poi-images/greece-volos-cities-v2.webp",
 },  {
     id: "greece-ioannina-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Ioannina", hu: "Joánina", ro: "Ioannina", en: "Ioannina",
 image: "/poi-images/greece-ioannina-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Ioannina lakefront and castle walls",
     image: "/poi-images/greece-ioannina-cities-v2.webp",
 },  {
     id: "greece-trikala-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Trikala", hu: "Tríkala", ro: "Trikala", en: "Trikala",
 image: "/poi-images/greece-trikala-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Trikala river Lithaios and central bridge",
     image: "/poi-images/greece-trikala-cities-v2.webp",
 },  {
     id: "greece-serres-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Serres", hu: "Szerresz", ro: "Serres", en: "Serres",
 image: "/poi-images/greece-serres-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Serres city panorama with Koulas fortress",
     image: "/poi-images/greece-serres-cities-v2.webp",
 },  {
     id: "greece-alexandroupoli-cities-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Alexandroupoli", hu: "Alexandrúpoli", ro: "Alexandroupoli", en: "Alexandroupoli",
 image: "/poi-images/greece-alexandroupoli-cities-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Alexandroupoli lighthouse at sunset",
     image: "/poi-images/greece-alexandroupoli-cities-v2.webp",
 },  {
     id: "greece-xanthi-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Xanthi", hu: "Xánthi", ro: "Xanthi", en: "Xanthi",
 image: "/poi-images/greece-xanthi-cities-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Xanthi Old Town mansions and narrow streets",
     image: "/poi-images/greece-xanthi-cities-v2.webp",
 },  {
     id: "greece-kavala-cities-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Kavala", hu: "Kavála", ro: "Kavala", en: "Kavala",
 image: "/poi-images/greece-kavala-cities-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Kavala Ottoman aqueduct Kamares",
     image: "/poi-images/greece-kavala-cities-v2.webp",
 },  {
     id: "greece-veria-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Veria", hu: "Véroia", ro: "Veria", en: "Veria",
 image: "/poi-images/greece-veria-cities-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Veria Saint Paul's Altar monument",
     image: "/poi-images/greece-veria-cities-v2.webp",
 },  {
     id: "greece-rhodes-cities-v2",
+    parent: "GR",
     type: "capital",
     name: { de: "Rhodos-Stadt", hu: "Rodosz város", ro: "Orașul Rodos", en: "Rhodes Town",
 image: "/poi-images/greece-rhodes-cities-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Rhodes Palace of the Grand Master",
     image: "/poi-images/greece-rhodes-cities-v2.webp",
 },  {
     id: "greece-agrinio-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Agrinio", hu: "Agrínio", ro: "Agrinio", en: "Agrinio",
 image: "/poi-images/greece-agrinio-cities-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Agrinio central square and public buildings",
     image: "/poi-images/greece-agrinio-cities-v2.webp",
 },  {
     id: "greece-katerini-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Katerini", hu: "Kateríni", ro: "Katerini", en: "Katerini",
 image: "/poi-images/greece-katerini-cities-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Katerini city park and Olympus in background",
     image: "/poi-images/greece-katerini-cities-v2.webp",
 },  {
     id: "greece-chania-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Chania", hu: "Haniá", ro: "Chania", en: "Chania",
 image: "/poi-images/greece-chania-cities-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-chania-cities-v2.webp",
 },  {
     id: "greece-kalamata-cities-v2",
+    parent: "GR",
     type: "port",
     name: { de: "Kalamata", hu: "Kalamáta", ro: "Kalamata", en: "Kalamata",
 image: "/poi-images/greece-kalamata-cities-v2.webp"
@@ -535,6 +551,7 @@ image: "/poi-images/greece-kalamata-cities-v2.webp"
     image: "/poi-images/greece-kalamata-cities-v2.webp"},
   {
     id: "greece-rethymno-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Rethymno", hu: "Réthimno", ro: "Rethymno", en: "Rethymno",
 image: "/poi-images/greece-rethymno-cities-v2.webp"
@@ -557,6 +574,7 @@ image: "/poi-images/greece-rethymno-cities-v2.webp"
     image: "/poi-images/greece-rethymno-cities-v2.webp"},
   {
     id: "greece-kozani-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Kozani", hu: "Kozáni", ro: "Kozani", en: "Kozani",
 image: "/poi-images/greece-kozani-cities-v2.webp"
@@ -579,6 +597,7 @@ image: "/poi-images/greece-kozani-cities-v2.webp"
     image: "/poi-images/greece-kozani-cities-v2.webp"},
   {
     id: "greece-komotini-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Komotini", hu: "Komotiní", ro: "Komotini", en: "Komotini",
 image: "/poi-images/greece-komotini-cities-v2.webp"
@@ -601,6 +620,7 @@ image: "/poi-images/greece-komotini-cities-v2.webp"
     image: "/poi-images/greece-komotini-cities-v2.webp"},
   {
     id: "greece-corfu-town-cities-v2",
+    parent: "GR",
     type: "capital",
     name: { de: "Korfu-Stadt", hu: "Korfu város", ro: "Orașul Corfu", en: "Corfu Town",
 image: "/poi-images/greece-corfu-town-cities-v2.webp"
@@ -623,6 +643,7 @@ image: "/poi-images/greece-corfu-town-cities-v2.webp"
     image: "/poi-images/greece-corfu-town-cities-v2.webp"},
   {
     id: "greece-sparta-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Sparta", hu: "Spárta", ro: "Sparta", en: "Sparta",
 image: "/poi-images/greece-sparta-cities-v2.webp"
@@ -645,6 +666,7 @@ image: "/poi-images/greece-sparta-cities-v2.webp"
     image: "/poi-images/greece-sparta-cities-v2.webp"},
   {
     id: "greece-edessa-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Edessa", hu: "Édessza", ro: "Edessa", en: "Edessa",
 image: "/poi-images/greece-edessa-cities-v2.webp"
@@ -667,6 +689,7 @@ image: "/poi-images/greece-edessa-cities-v2.webp"
     image: "/poi-images/greece-edessa-cities-v2.webp"},
   {
     id: "greece-florina-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Florina", hu: "Flórina", ro: "Florina", en: "Florina",
 image: "/poi-images/greece-florina-cities-v2.webp"
@@ -689,6 +712,7 @@ image: "/poi-images/greece-florina-cities-v2.webp"
     image: "/poi-images/greece-florina-cities-v2.webp"},
   {
     id: "greece-kastoria-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Kastoria", hu: "Kasztoriá", ro: "Kastoria", en: "Kastoria",
 image: "/poi-images/greece-kastoria-cities-v2.webp"
@@ -711,6 +735,7 @@ image: "/poi-images/greece-kastoria-cities-v2.webp"
     image: "/poi-images/greece-kastoria-cities-v2.webp"},
   {
     id: "greece-grevena-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Grevena", hu: "Grevená", ro: "Grevena", en: "Grevena",
 image: "/poi-images/greece-grevena-cities-v2.webp"
@@ -733,6 +758,7 @@ image: "/poi-images/greece-grevena-cities-v2.webp"
     image: "/poi-images/greece-grevena-cities-v2.webp"},
   {
     id: "greece-nafplio-cities-v2",
+    parent: "GR",
     type: "capital",
     name: { de: "Nafplio", hu: "Návplio", ro: "Nafplio", en: "Nafplio",
 image: "/poi-images/greece-nafplio-cities-v2.webp"
@@ -755,6 +781,7 @@ image: "/poi-images/greece-nafplio-cities-v2.webp"
     image: "/poi-images/greece-nafplio-cities-v2.webp"},
   {
     id: "greece-argos-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Argos", hu: "Árgosz", ro: "Argos", en: "Argos",
 image: "/poi-images/greece-argos-cities-v2.webp"
@@ -777,6 +804,7 @@ image: "/poi-images/greece-argos-cities-v2.webp"
     image: "/poi-images/greece-argos-cities-v2.webp"},
   {
     id: "greece-mesolonghi-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Messolongi", hu: "Meszolóngi", ro: "Mesolonghi", en: "Mesolonghi",
 image: "/poi-images/greece-mesolonghi-cities-v2.webp"
@@ -799,6 +827,7 @@ image: "/poi-images/greece-mesolonghi-cities-v2.webp"
     image: "/poi-images/greece-mesolonghi-cities-v2.webp"},
   {
     id: "greece-amfissa-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Amfissa", hu: "Ámfissza", ro: "Amfissa", en: "Amfissa",
 image: "/poi-images/greece-amfissa-cities-v2.webp"
@@ -821,6 +850,7 @@ image: "/poi-images/greece-amfissa-cities-v2.webp"
     image: "/poi-images/greece-amfissa-cities-v2.webp"},
   {
     id: "greece-karpenisi-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Karpenisi", hu: "Karpeníszi", ro: "Karpenisi", en: "Karpenisi",
 image: "/poi-images/greece-karpenisi-cities-v2.webp"
@@ -843,6 +873,7 @@ image: "/poi-images/greece-karpenisi-cities-v2.webp"
     image: "/poi-images/greece-karpenisi-cities-v2.webp"},
   {
     id: "greece-agios-nikolaos-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Agios Nikolaos", hu: "Ágiosz Nikólaosz", ro: "Agios Nikolaos", en: "Agios Nikolaos",
 image: "/poi-images/greece-agios-nikolaos-cities-v2.webp"
@@ -865,6 +896,7 @@ image: "/poi-images/greece-agios-nikolaos-cities-v2.webp"
     image: "/poi-images/greece-agios-nikolaos-cities-v2.webp"},
   {
     id: "greece-ierapetra-cities-v2",
+    parent: "GR",
     type: "city",
     name: { de: "Ierapetra", hu: "Ierápetra", ro: "Ierapetra", en: "Ierapetra",
 image: "/poi-images/greece-ierapetra-cities-v2.webp"

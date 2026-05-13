@@ -3,6 +3,7 @@ export const belgiumLandmarksV2: POI[] = [
 
   {
     id: "belgium-grand-place-landmarks-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Grand-Place", hu: "Grand-Place", ro: "Grand-Place", en: "Grand Place",
 image: "/poi-images/belgium-grand-place-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Brussels Grand Place square with guildhalls",
     , image: "/poi-images/belgium-grand-place-landmarks-v2.webp",
 },  {
     id: "belgium-atomium-landmarks-v2",
+    parent: "BE",
     type: "monument",
     name: { de: "Atomium", hu: "Atomium", ro: "Atomium", en: "Atomium",
 image: "/poi-images/belgium-atomium-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Atomium monument in Brussels daytime",
     , image: "/poi-images/belgium-atomium-landmarks-v2.webp",
 },  {
     id: "belgium-gravensteen-landmarks-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Gravensteen", hu: "Gravensteen", ro: "Castelul Gravensteen", en: "Gravensteen",
 image: "/poi-images/belgium-gravensteen-landmarks-v2.webp"
@@ -93,6 +96,7 @@ image: "/poi-images/belgium-gravensteen-landmarks-v2.webp"
     image: "/poi-images/belgium-gravensteen-landmarks-v2.webp"},
   {
     id: "belgium-antwerp-central-station-landmarks-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Bahnhof Antwerpen-Centraal", hu: "Antwerpen-Centraal pályaudvar", ro: "Gara Centrală din Anvers", en: "Antwerp Central Station",
 image: "/poi-images/belgium-antwerp-central-station-landmarks-v2.webp"
@@ -115,6 +119,7 @@ image: "/poi-images/belgium-antwerp-central-station-landmarks-v2.webp"
     image: "/poi-images/belgium-antwerp-central-station-landmarks-v2.webp"},
   {
     id: "belgium-manneken-pis-landmarks-v2",
+    parent: "BE",
     type: "monument",
     name: { de: "Manneken Pis", hu: "Manneken Pis", ro: "Manneken Pis", en: "Manneken Pis",
 image: "/poi-images/belgium-manneken-pis-landmarks-v2.webp"
@@ -137,6 +142,7 @@ image: "/poi-images/belgium-manneken-pis-landmarks-v2.webp"
     image: "/poi-images/belgium-manneken-pis-landmarks-v2.webp"},
   {
     id: "belgium-cathedral-of-our-lady-antwerp-landmarks-v2",
+    parent: "BE",
     type: "cathedral",
     name: { de: "Liebfrauenkathedrale", hu: "Miasszonyunk-székesegyház", ro: "Catedrala Maicii Domnului din Anvers", en: "Cathedral of Our Lady",
 image: "/poi-images/belgium-cathedral-of-our-lady-antwerp-landmarks-v2.webp"
@@ -159,6 +165,7 @@ image: "/poi-images/belgium-cathedral-of-our-lady-antwerp-landmarks-v2.webp"
     image: "/poi-images/belgium-cathedral-of-our-lady-antwerp-landmarks-v2.webp"},
   {
     id: "belgium-st-bavos-cathedral-landmarks-v2",
+    parent: "BE",
     type: "cathedral",
     name: { de: "St.-Bavo-Kathedrale", hu: "Szent Bávó-székesegyház", ro: "Catedrala Sfântul Bavo din Gent", en: "St. Bavo's Cathedral",
 image: "/poi-images/belgium-st-bavos-cathedral-landmarks-v2.webp"
@@ -181,6 +188,7 @@ image: "/poi-images/belgium-st-bavos-cathedral-landmarks-v2.webp"
     image: "/poi-images/belgium-st-bavos-cathedral-landmarks-v2.webp"},
   {
     id: "belgium-royal-palace-brussels-landmarks-v2",
+    parent: "BE",
     type: "palace",
     name: { de: "Königlicher Palast von Brüssel", hu: "Brüsszeli királyi palota", ro: "Palatul Regal din Bruxelles", en: "Royal Palace of Brussels",
 image: "/poi-images/belgium-royal-palace-brussels-landmarks-v2.webp"
@@ -203,6 +211,7 @@ image: "/poi-images/belgium-royal-palace-brussels-landmarks-v2.webp"
     image: "/poi-images/belgium-royal-palace-brussels-landmarks-v2.webp"},
   {
     id: "belgium-lions-mound-landmarks-v2",
+    parent: "BE",
     type: "monument",
     name: { de: "Löwenhügel", hu: "Oroszlános domb", ro: "Tumulul Leului", en: "Lion's Mound",
 image: "/poi-images/belgium-lions-mound-landmarks-v2.webp"
@@ -237,6 +246,7 @@ imageHint: "Lion's Mound Waterloo monument",
     , image: "/poi-images/belgium-lions-mound-landmarks-v2.webp",
 },  {
     id: "belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2",
+    parent: "BE",
     type: "cathedral",
     name: { de: "Kathedrale St. Michael und St. Gudula", hu: "Szent Mihály és Szent Gudula-székesegyház", ro: "Catedrala Sfinții Mihail și Gudula din Bruxelles", en: "Cathedral of St. Michael and St. Gudula",
 image: "/poi-images/belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2.webp"
@@ -259,6 +269,7 @@ image: "/poi-images/belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2.w
     image: "/poi-images/belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2.webp"},
   {
     id: "belgium-mas-museum-landmarks-v2",
+    parent: "BE",
     type: "museum",
     name: { de: "MAS - Museum am Strom", hu: "MAS - Museum aan de Stroom", ro: "MAS - Museum aan de Stroom", en: "MAS Museum",
 image: "/poi-images/belgium-mas-museum-landmarks-v2.webp"
@@ -281,6 +292,7 @@ image: "/poi-images/belgium-mas-museum-landmarks-v2.webp"
     image: "/poi-images/belgium-mas-museum-landmarks-v2.webp"},
   {
     id: "belgium-plantin-moretus-museum-landmarks-v2",
+    parent: "BE",
     type: "museum",
     name: { de: "Plantin-Moretus-Museum", hu: "Plantin-Moretus Múzeum", ro: "Muzeul Plantin-Moretus din Anvers", en: "Plantin-Moretus Museum",
 image: "/poi-images/belgium-plantin-moretus-museum-landmarks-v2.webp"
@@ -303,6 +315,7 @@ image: "/poi-images/belgium-plantin-moretus-museum-landmarks-v2.webp"
     image: "/poi-images/belgium-plantin-moretus-museum-landmarks-v2.webp"},
   {
     id: "belgium-basilica-of-the-holy-blood-landmarks-v2",
+    parent: "BE",
     type: "church",
     name: { de: "Heilig-Blut-Basilika", hu: "Szent Vér-bazilika", ro: "Bazilica Sângelui Sfânt din Bruges", en: "Basilica of the Holy Blood",
 image: "/poi-images/belgium-basilica-of-the-holy-blood-landmarks-v2.webp"
@@ -325,6 +338,7 @@ image: "/poi-images/belgium-basilica-of-the-holy-blood-landmarks-v2.webp"
     image: "/poi-images/belgium-basilica-of-the-holy-blood-landmarks-v2.webp"},
   {
     id: "belgium-chateau-de-beloeil-landmarks-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Schloss Belœil", hu: "Belœil-i kastély", ro: "Castelul Belœil", en: "Château de Belœil",
 image: "/poi-images/belgium-chateau-de-beloeil-landmarks-v2.webp"
@@ -347,6 +361,7 @@ image: "/poi-images/belgium-chateau-de-beloeil-landmarks-v2.webp"
     image: "/poi-images/belgium-chateau-de-beloeil-landmarks-v2.webp"},
   {
     id: "belgium-church-of-our-lady-bruges-landmarks-v2",
+    parent: "BE",
     type: "church",
     name: { de: "Liebfrauenkirche", hu: "Miasszonyunk-templom", ro: "Biserica Maicii Domnului din Bruges", en: "Church of Our Lady",
 image: "/poi-images/belgium-church-of-our-lady-bruges-landmarks-v2.webp"
@@ -369,6 +384,7 @@ image: "/poi-images/belgium-church-of-our-lady-bruges-landmarks-v2.webp"
     image: "/poi-images/belgium-church-of-our-lady-bruges-landmarks-v2.webp"},
   {
     id: "belgium-saint-peters-abbey-landmarks-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "St.-Peters-Abtei", hu: "Szent Péter-apátság", ro: "Abația Sfântul Petru din Gent", en: "Saint Peter's Abbey",
 image: "/poi-images/belgium-saint-peters-abbey-landmarks-v2.webp"
@@ -391,6 +407,7 @@ image: "/poi-images/belgium-saint-peters-abbey-landmarks-v2.webp"
     image: "/poi-images/belgium-saint-peters-abbey-landmarks-v2.webp"},
   {
     id: "belgium-royal-museums-of-fine-arts-landmarks-v2",
+    parent: "BE",
     type: "museum",
     name: { de: "Königliche Museen der Schönen Künste", hu: "Királyi Szépművészeti Múzeum", ro: "Muzee Regale de Arte Frumoase din Belgia", en: "Royal Museums of Fine Arts",
 image: "/poi-images/belgium-royal-museums-of-fine-arts-landmarks-v2.webp"
@@ -413,6 +430,7 @@ image: "/poi-images/belgium-royal-museums-of-fine-arts-landmarks-v2.webp"
     image: "/poi-images/belgium-royal-museums-of-fine-arts-landmarks-v2.webp"},
   {
     id: "belgium-town-hall-leuven-landmarks-v2",
+    parent: "BE",
     type: "monument",
     name: { de: "Rathaus von Löwen", hu: "Leuveni városháza", ro: "Primăria din Leuven", en: "Town Hall",
 image: "/poi-images/belgium-town-hall-leuven-landmarks-v2.webp"
@@ -435,6 +453,7 @@ image: "/poi-images/belgium-town-hall-leuven-landmarks-v2.webp"
     image: "/poi-images/belgium-town-hall-leuven-landmarks-v2.webp"},
   {
     id: "belgium-st-peters-church-leuven-landmarks-v2",
+    parent: "BE",
     type: "church",
     name: { de: "St.-Peters-Kirche", hu: "Szent Péter-templom", ro: "Biserica Sfântul Petru din Leuven", en: "St. Peter's Church",
 image: "/poi-images/belgium-st-peters-church-leuven-landmarks-v2.webp"
@@ -457,6 +476,7 @@ image: "/poi-images/belgium-st-peters-church-leuven-landmarks-v2.webp"
     image: "/poi-images/belgium-st-peters-church-leuven-landmarks-v2.webp"},
   {
     id: "belgium-orval-abbey-landmarks-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Abtei Orval", hu: "Orvali apátság", ro: "Abația Orval", en: "Orval Abbey",
 image: "/poi-images/belgium-orval-abbey-landmarks-v2.webp"
@@ -479,6 +499,7 @@ image: "/poi-images/belgium-orval-abbey-landmarks-v2.webp"
     image: "/poi-images/belgium-orval-abbey-landmarks-v2.webp"},
   {
     id: "belgium-modave-castle-landmarks-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Schloss Modave", hu: "Modave-i kastély", ro: "Castelul Modave", en: "Modave Castle",
 image: "/poi-images/belgium-modave-castle-landmarks-v2.webp"
@@ -501,6 +522,7 @@ image: "/poi-images/belgium-modave-castle-landmarks-v2.webp"
     image: "/poi-images/belgium-modave-castle-landmarks-v2.webp"},
   {
     id: "belgium-cinquantenaire-arch-landmarks-v2",
+    parent: "BE",
     type: "monument",
     name: { de: "Triumphbogen des Cinquantenaire", hu: "Cinquantenaire diadalív", ro: "Arcul Cinquantenaire", en: "Cinquantenaire Arch",
 image: "/poi-images/belgium-cinquantenaire-arch-landmarks-v2.webp"
@@ -524,6 +546,7 @@ image: "/poi-images/belgium-cinquantenaire-arch-landmarks-v2.webp"
 ,
   {
     id: "belgium-brussels-justice-palace-landmarks-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Justizpalast von Brüssel", hu: "Brüsszeli Igazságügyi Palota", ro: "Palatul de Justiție din Bruxelles", en: "Palace of Justice of Brussels",
 image: "/poi-images/belgium-brussels-justice-palace-landmarks-v2.webp"
@@ -557,6 +580,7 @@ image: "/poi-images/belgium-brussels-justice-palace-landmarks-v2.webp"
   },
   {
     id: "belgium-koekelberg-basilica-landmarks-v2",
+    parent: "BE",
     type: "church",
     name: { de: "Nationalbasilika des Heiligen Herzens", hu: "Koekelbergi bazilika", ro: "Bazilica Inimii Sacre din Koekelberg", en: "Basilica of the Sacred Heart",
 image: "/poi-images/belgium-koekelberg-basilica-landmarks-v2.webp"
@@ -578,6 +602,7 @@ image: "/poi-images/belgium-koekelberg-basilica-landmarks-v2.webp"
     image: "/poi-images/belgium-koekelberg-basilica-landmarks-v2.webp"},
   {
     id: "belgium-antwerp-port-house-landmarks-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Hafenhaus Antwerpen", hu: "Antwerpeni Kikötőház", ro: "Casa Portului din Anvers", en: "Antwerp Port House",
 image: "/poi-images/belgium-antwerp-port-house-landmarks-v2.webp"
@@ -599,6 +624,7 @@ image: "/poi-images/belgium-antwerp-port-house-landmarks-v2.webp"
     image: "/poi-images/belgium-antwerp-port-house-landmarks-v2.webp"},
   {
     id: "belgium-laeken-royal-greenhouses-landmarks-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Königliche Gewächshäuser von Laeken", hu: "Laekeni Királyi Üvegházak", ro: "Serele Regale de la Laeken", en: "Royal Greenhouses of Laeken",
 image: "/poi-images/belgium-laeken-royal-greenhouses-landmarks-v2.webp"
@@ -620,6 +646,7 @@ image: "/poi-images/belgium-laeken-royal-greenhouses-landmarks-v2.webp"
     image: "/poi-images/belgium-laeken-royal-greenhouses-landmarks-v2.webp"},
   {
     id: "belgium-freyr-castle-landmarks-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Schloss Freÿr", hu: "Freÿr kastélya", ro: "Castelul Freÿr", en: "Castle of Freÿr",
 image: "/poi-images/belgium-freyr-castle-landmarks-v2.webp"
@@ -641,6 +668,7 @@ image: "/poi-images/belgium-freyr-castle-landmarks-v2.webp"
     image: "/poi-images/belgium-freyr-castle-landmarks-v2.webp"},
   {
     id: "belgium-alden-biesen-landmarks-v2",
+    parent: "BE",
     type: "castle",
     name: { de: "Landkommende Alden Biesen", hu: "Alden Biesen lovagrendi kastély", ro: "Comanderia Alden Biesen", en: "Alden Biesen Commandery",
 image: "/poi-images/belgium-alden-biesen-landmarks-v2.webp"
@@ -662,6 +690,7 @@ image: "/poi-images/belgium-alden-biesen-landmarks-v2.webp"
     image: "/poi-images/belgium-alden-biesen-landmarks-v2.webp"},
   {
     id: "belgium-ghent-st-nicholas-church-landmarks-v2",
+    parent: "BE",
     type: "church",
     name: { de: "Sankt-Niklas-Kirche", hu: "Szent Miklós-templom", ro: "Biserica Sfântul Nicolae", en: "St. Nicholas' Church",
 image: "/poi-images/belgium-ghent-st-nicholas-church-landmarks-v2.webp"
@@ -683,6 +712,7 @@ image: "/poi-images/belgium-ghent-st-nicholas-church-landmarks-v2.webp"
     image: "/poi-images/belgium-ghent-st-nicholas-church-landmarks-v2.webp"},
   {
     id: "belgium-brussels-bourse-landmarks-v2",
+    parent: "BE",
     type: "landmark",
     name: { de: "Brüsseler Börse", hu: "Brüsszeli Tőzsde", ro: "Bursa din Bruxelles", en: "Brussels Stock Exchange",
 image: "/poi-images/belgium-brussels-bourse-landmarks-v2.webp"

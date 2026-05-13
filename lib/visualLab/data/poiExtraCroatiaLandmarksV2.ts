@@ -3,6 +3,7 @@ export const croatiaLandmarksV2: POI[] = [
 
   {
     id: "croatia-zagreb-cathedral-landmarks-v2",
+    parent: "HR",
     type: "cathedral",
     name: { de: "Kathedrale von Zagreb", hu: "Zágrábi székesegyház", ro: "Catedrala din Zagreb", en: "Zagreb Cathedral",
 image: "/poi-images/croatia-zagreb-cathedral-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Zagreb Cathedral neo-gothic spires",
     image: "/poi-images/croatia-zagreb-cathedral-landmarks-v2.webp",
 },  {
     id: "croatia-st-marks-church-landmarks-v2",
+    parent: "HR",
     type: "church",
     name: { de: "Markuskirche", hu: "Szent Márk-templom", ro: "Biserica Sfântul Marcu", en: "St. Mark's Church",
 image: "/poi-images/croatia-st-marks-church-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "St Mark's Church Zagreb colorful tiled roof",
     image: "/poi-images/croatia-st-marks-church-landmarks-v2.webp",
 },  {
     id: "croatia-varazdin-old-town-landmarks-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Burg Varaždin", hu: "Varasdi vár", ro: "Castelul din Varaždin", en: "Varaždin Castle",
 image: "/poi-images/croatia-varazdin-old-town-landmarks-v2.webp"
@@ -105,6 +108,7 @@ image: "/poi-images/croatia-varazdin-old-town-landmarks-v2.webp"
   },
   {
     id: "croatia-osijek-fortress-landmarks-v2",
+    parent: "HR",
     type: "monument",
     name: { de: "Tvrđa Osijek", hu: "Eszéki vár", ro: "Cetatea Osijek", en: "Osijek Fortress",
 image: "/poi-images/croatia-osijek-fortress-landmarks-v2.webp"
@@ -139,6 +143,7 @@ image: "/poi-images/croatia-osijek-fortress-landmarks-v2.webp"
   },
   {
     id: "croatia-sea-organ-landmarks-v2",
+    parent: "HR",
     type: "monument",
     name: { de: "Meeresorgel Zadar", hu: "Tengeri orgona", ro: "Orga mării", en: "Sea Organ",
 image: "/poi-images/croatia-sea-organ-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Sea Organ Zadar stone steps by the sea",
     image: "/poi-images/croatia-sea-organ-landmarks-v2.webp",
 },  {
     id: "croatia-ston-walls-landmarks-v2",
+    parent: "HR",
     type: "monument",
     name: { de: "Mauern von Ston", hu: "Stoni várfalak", ro: "Zidurile din Ston", en: "Ston Walls",
 image: "/poi-images/croatia-ston-walls-landmarks-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Ston Walls aerial view Peljesac",
     image: "/poi-images/croatia-ston-walls-landmarks-v2.webp",
 },  {
     id: "croatia-lovrijenac-fortress-landmarks-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Festung Lovrijenac", hu: "Lovrijenac-erőd", ro: "Cetatea Lovrijenac", en: "Lovrijenac Fortress",
 image: "/poi-images/croatia-lovrijenac-fortress-landmarks-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Lovrijenac Fortress cliff view Dubrovnik",
     image: "/poi-images/croatia-lovrijenac-fortress-landmarks-v2.webp",
 },  {
     id: "croatia-rectors-palace-landmarks-v2",
+    parent: "HR",
     type: "palace",
     name: { de: "Rektorenpalast", hu: "Rektori palota", ro: "Palatul Rectorului", en: "Rector's Palace",
 image: "/poi-images/croatia-rectors-palace-landmarks-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Rectors Palace Dubrovnik facade columns",
     image: "/poi-images/croatia-rectors-palace-landmarks-v2.webp",
 },  {
     id: "croatia-st-euphemia-church-landmarks-v2",
+    parent: "HR",
     type: "church",
     name: { de: "Kirche der Heiligen Euphemia", hu: "Szent Eufémia-templom", ro: "Biserica Sfânta Eufemia", en: "Church of St. Euphemia",
 image: "/poi-images/croatia-st-euphemia-church-landmarks-v2.webp"
@@ -309,6 +318,7 @@ image: "/poi-images/croatia-st-euphemia-church-landmarks-v2.webp"
   },
   {
     id: "croatia-national-theatre-zagreb-landmarks-v2",
+    parent: "HR",
     type: "theater",
     name: { de: "Kroatisches Nationaltheater Zagreb", hu: "Horvát Nemzeti Színház", ro: "Teatrul Național Croat din Zagreb", en: "Croatian National Theatre in Zagreb",
 image: "/poi-images/croatia-national-theatre-zagreb-landmarks-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "Croatian National Theatre Zagreb yellow building",
 },
   {
     id: "croatia-st-nicholas-fortress-landmarks-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Festung St. Nikolaus", hu: "Szent Miklós-erőd", ro: "Cetatea Sfântul Nicolae", en: "St. Nicholas Fortress",
 image: "/poi-images/croatia-st-nicholas-fortress-landmarks-v2.webp"
@@ -377,6 +388,7 @@ image: "/poi-images/croatia-st-nicholas-fortress-landmarks-v2.webp"
   },
   {
     id: "croatia-dubrovnik-cathedral-landmarks-v2",
+    parent: "HR",
     type: "cathedral",
     name: { de: "Kathedrale von Dubrovnik", hu: "Dubrovniki katedrális", ro: "Catedrala din Dubrovnik", en: "Dubrovnik Cathedral",
 image: "/poi-images/croatia-dubrovnik-cathedral-landmarks-v2.webp"
@@ -410,6 +422,7 @@ imageHint: "Dubrovnik Cathedral Baroque facade",
     image: "/poi-images/croatia-dubrovnik-cathedral-landmarks-v2.webp",
 },  {
     id: "croatia-church-holy-cross-nin-landmarks-v2",
+    parent: "HR",
     type: "church",
     name: { de: "Heilig-Kreuz-Kirche", hu: "Szent Kereszt-templom", ro: "Biserica Sfânta Cruce", en: "Church of the Holy Cross",
 image: "/poi-images/croatia-church-holy-cross-nin-landmarks-v2.webp"
@@ -443,6 +456,7 @@ imageHint: "Church of the Holy Cross Nin Croatia",
     image: "/poi-images/croatia-church-holy-cross-nin-landmarks-v2.webp",
 },  {
     id: "croatia-stone-gate-zagreb-landmarks-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Steinernes Tor", hu: "Kőkapu", ro: "Poarta de Piatră", en: "Stone Gate",
 image: "/poi-images/croatia-stone-gate-zagreb-landmarks-v2.webp"
@@ -476,6 +490,7 @@ imageHint: "Stone Gate Zagreb shrine interior",
     image: "/poi-images/croatia-stone-gate-zagreb-landmarks-v2.webp",
 },  {
     id: "croatia-mirogoj-cemetery-landmarks-v2",
+    parent: "HR",
     type: "landmark",
     name: { de: "Mirogoj-Friedhof", hu: "Mirogoj temető", ro: "Cimitirul Mirogoj", en: "Mirogoj Cemetery",
 image: "/poi-images/croatia-mirogoj-cemetery-landmarks-v2.webp"
@@ -509,6 +524,7 @@ imageHint: "Mirogoj Cemetery arcades Zagreb",
     image: "/poi-images/croatia-mirogoj-cemetery-landmarks-v2.webp",
 },  {
     id: "croatia-lotrscak-tower-landmarks-v2",
+    parent: "HR",
     type: "tower",
     name: { de: "Lotrščak-Turm", hu: "Lotrščak-torony", ro: "Turnul Lotrščak", en: "Lotrščak Tower",
 image: "/poi-images/croatia-lotrscak-tower-landmarks-v2.webp"
@@ -542,6 +558,7 @@ imageHint: "Lotrscak Tower Zagreb exterior",
     image: "/poi-images/croatia-lotrscak-tower-landmarks-v2.webp",
 },  {
     id: "croatia-st-michaels-fortress-landmarks-v2",
+    parent: "HR",
     type: "castle",
     name: { de: "Festung St. Michael", hu: "Szent Mihály-erőd", ro: "Cetatea Sfântul Mihail", en: "St. Michaels Fortress",
 image: "/poi-images/croatia-st-michaels-fortress-landmarks-v2.webp"
@@ -575,6 +592,7 @@ imageHint: "St. Michaels Fortress Sibenik open air stage",
     image: "/poi-images/croatia-st-michaels-fortress-landmarks-v2.webp",
 },  {
     id: "croatia-st-lawrence-cathedral-trogir-landmarks-v2",
+    parent: "HR",
     type: "cathedral",
     name: { de: "Kathedrale St. Laurentius", hu: "Szent Lőrinc-székesegyház", ro: "Catedrala Sfântul Laurențiu", en: "St. Lawrence Cathedral",
 image: "/poi-images/croatia-st-lawrence-cathedral-trogir-landmarks-v2.webp"
@@ -608,6 +626,7 @@ imageHint: "St. Lawrence Cathedral Trogir portal",
     image: "/poi-images/croatia-st-lawrence-cathedral-trogir-landmarks-v2.webp",
 },  {
     id: "croatia-mimara-museum-landmarks-v2",
+    parent: "HR",
     type: "museum",
     name: { de: "Mimara-Museum", hu: "Mimara Múzeum", ro: "Muzeul Mimara", en: "Mimara Museum",
 image: "/poi-images/croatia-mimara-museum-landmarks-v2.webp"
@@ -641,6 +660,7 @@ imageHint: "Mimara Museum Zagreb exterior",
     image: "/poi-images/croatia-mimara-museum-landmarks-v2.webp",
 },  {
     id: "croatia-st-blaise-church-dubrovnik-landmarks-v2",
+    parent: "HR",
     type: "church",
     name: { de: "St.-Blasius-Kirche", hu: "Szent Balázs-templom", ro: "Biserica Sfântul Blasiu", en: "Church of St. Blaise",
 image: "/poi-images/croatia-st-blaise-church-dubrovnik-landmarks-v2.webp"
@@ -671,5 +691,206 @@ image: "/poi-images/croatia-st-blaise-church-dubrovnik-landmarks-v2.webp"
       ro: ["Anul finalizării: 1715", "Arhitect: Marino Gropelli", "Stil: baroc venețian", "Ocrotitor: Sfântul Vlaho"],
       en: ["Built: 1715", "Architect: Marino Gropelli", "Style: Venetian Baroque", "Patron saint: St. Blaise (Vlaho)"],
     },
+  }
+,
+  {
+    id: "croatia-dubovac-castle-landmarks-v2",
+    parent: "HR",
+    type: "castle",
+    name: { de: "Burg Dubovac", hu: "Dubovac vára", ro: "Castelul Dubovac", en: "Dubovac Castle" },
+    coordinates: { lat: 45.4955, lng: 15.5283 },
+    description: {
+      de: "Diese mittelalterliche Festung thront auf einem Hügel über der Stadt Karlovac. Der charakteristische quadratische Turm stammt aus dem 15. Jahrhundert.",
+      hu: "Ez a középkori erődítmény a Karlovac feletti dombon trónol. Jellegzetes négyszögletes tornya a 15. századból származik.",
+      ro: "Această fortăreață medievală tronează pe un deal deasupra orașului Karlovac. Turnul pătrat caracteristic datează din secolul al XV-lea.",
+      en: "This medieval fortress stands on a hill overlooking the city of Karlovac. Its characteristic square tower dates back to the 15th century.",
+    },
+    facts: {
+      de: ["Bau im 13. Jahrhundert", "Renaissance-Umbau", "Blick auf Karlovac", "Museum im Turm"],
+      hu: ["13. századi építés", "Reneszánsz átépítés", "Kilátás Károlyvárosra", "Múzeum a toronyban"],
+      ro: ["Construit în sec. XIII", "Remodelare renascentistă", "Vedere spre Karlovac", "Muzeu în turn"],
+      en: ["Built in 13th century", "Renaissance remodeling", "View over Karlovac", "Museum in the tower"],
+    },
+    imageHint: "Dubovac Castle Karlovac panoramic view",
+  },
+  {
+    id: "croatia-st-anastasia-cathedral-landmarks-v2",
+    parent: "HR",
+    type: "cathedral",
+    name: { de: "Kathedrale der Heiligen Anastasia", hu: "Szent Anasztázia-székesegyház", ro: "Catedrala Sfânta Anastasia", en: "Cathedral of St. Anastasia" },
+    coordinates: { lat: 44.1161, lng: 15.2244 },
+    description: {
+      de: "Diese bedeutende Kirche in Zadar ist das größte Gotteshaus in Dalmatien. Die Fassade ist durch prachtvolle romanische Blendbögen und zwei Fensterrosen geprägt.",
+      hu: "Ez a zadari templom Dalmácia legnagyobb katedrálisa. Homlokzatát pompás román stílusú vakárkádok és két rózsaablak díszíti.",
+      ro: "Această biserică importantă din Zadar este cea mai mare catedrală din Dalmația. Fațada este marcată de arcade oarbe romanice și două rozase.",
+      en: "This major church in Zadar is the largest cathedral in Dalmatia. The facade is characterized by magnificent Romanesque blind arches and two rose windows.",
+    },
+    facts: {
+      de: ["Größte Kirche Dalmatiens", "Romanischer Baustil", "Reliquien der Hl. Anastasia", "Glockenturm-Aussicht"],
+      hu: ["Dalmácia legnagyobb temploma", "Román építészeti stílus", "Szent Anasztázia ereklyéi", "Kilátás a harangtoronyból"],
+      ro: ["Cea mai mare biserică din Dalmația", "Stil arhitectural romanic", "Moaștele Sf. Anastasia", "Turn clopotniță cu vedere"],
+      en: ["Largest church in Dalmatia", "Romanesque architecture", "Relics of St. Anastasia", "Bell tower panorama view"],
+    },
+    imageHint: "Cathedral of St. Anastasia Zadar facade",
+  },
+  {
+    id: "croatia-morosini-grimani-castle-landmarks-v2",
+    parent: "HR",
+    type: "castle",
+    name: { de: "Morosini-Grimani Burg", hu: "Morosini-Grimani vár", ro: "Castelul Morosini-Grimani", en: "Morosini-Grimani Castle" },
+    coordinates: { lat: 45.0878, lng: 13.8819 },
+    description: {
+      de: "Diese imposante venezianische Festung dominiert den Hauptplatz von Svetvinčenat in Istrien. Sie ist eine der besterhaltenen Burgen auf der Halbinsel.",
+      hu: "Ez az impozáns velencei erődítmény uralja az isztriai Svetvinčenat főterét. A félsziget egyik legjobb állapotban fennmaradt vára.",
+      ro: "Această fortăreață venețiană impunătoare domină piața centrală din Svetvinčenat, Istria. Este unul dintre cele mai bine conservate castele din peninsulă.",
+      en: "This imposing Venetian fortress dominates the main square of Svetvinčenat in Istria. It is one of the best-preserved castles on the peninsula.",
+    },
+    facts: {
+      de: ["Venezianische Architektur", "Sitz der Grimani-Familie", "Drei Wehrtürme", "Kulturzentrum heute"],
+      hu: ["Velencei építészet", "A Grimani család székhelye", "Három védőtorony", "Ma kulturális központ"],
+      ro: ["Arhitectură venețiană", "Reședința familiei Grimani", "Trei turnuri de apărare", "Astăzi centru cultural"],
+      en: ["Venetian architecture", "Seat of the Grimani family", "Three defense towers", "Cultural center today"],
+    },
+    imageHint: "Morosini-Grimani Castle Svetvincenat square",
+  },
+  {
+    id: "croatia-land-gate-zadar-landmarks-v2",
+    parent: "HR",
+    type: "monument",
+    name: { de: "Landtor von Zadar", hu: "Szárazföldi kapu (Zadar)", ro: "Poarta de Teră din Zadar", en: "Land Gate of Zadar" },
+    coordinates: { lat: 44.1132, lng: 15.2305 },
+    description: {
+      de: "Das Landtor ist das prächtigste historische Stadttor von Zadar. Es wurde 1543 vom venezianischen Architekten Michele Sanmicheli im Renaissancestil erbaut.",
+      hu: "A Szárazföldi kapu Zadar legpompásabb történelmi városkapuja. 1543-ban építette Michele Sanmicheli velencei építész reneszánsz stílusban.",
+      ro: "Poarta de Teră este cea mai magnifică poartă istorică a orașului Zadar. A fost construită în 1543 de arhitectul venețian Michele Sanmicheli în stil renascentist.",
+      en: "The Land Gate is the most magnificent historical city gate of Zadar. It was built in 1543 by the Venetian architect Michele Sanmicheli in Renaissance style.",
+    },
+    facts: {
+      de: ["Baujahr 1543", "Relief des Markuslöwen", "Renaissance-Architektur", "Ehemaliger Haupteingang"],
+      hu: ["1543-as építés", "Szent Márk oroszlánja dombormű", "Reneszánsz építészet", "Egykori főbejárat"],
+      ro: ["Construită în 1543", "Relief cu leul Sfântului Marcu", "Arhitectură renascentistă", "Fosta intrare principală"],
+      en: ["Built in 1543", "Relief of St. Mark's Lion", "Renaissance architecture", "Former main entrance"],
+    },
+    imageHint: "Land Gate Zadar Venetian Lion relief",
+  },
+  {
+    id: "croatia-osijek-co-cathedral-landmarks-v2",
+    parent: "HR",
+    type: "cathedral",
+    name: { de: "Konkathedrale St. Peter und Paul", hu: "Szent Péter és Szent Pál társszékesegyház", ro: "Cocatedrala Sfinții Petru și Paul", en: "Cathedral of St. Peter and St. Paul" },
+    coordinates: { lat: 45.5603, lng: 18.6761 },
+    description: {
+      de: "Diese neugotische Kirche ist das Wahrzeichen von Osijek. Ihr 90 Meter hoher Glockenturm ist weithin über die Ebene von Slawonien sichtbar.",
+      hu: "Ez a neogótikus templom Eszék jelképe. 90 méter magas harangtornya messziről látható Szlavónia síkságán.",
+      ro: "Această biserică neogotică este simbolul orașului Osijek. Turnul său de 90 de metri este vizibil de la mare distanță peste câmpia Slavoniei.",
+      en: "This Neo-Gothic church is the landmark of Osijek. Its 90-meter-high bell tower is visible from far across the Slavonian plains.",
+    },
+    facts: {
+      de: ["90 Meter hoher Turm", "Neugotischer Backsteinbau", "Zweitgrößte Kirche Kroatiens", "Fertigstellung 1898"],
+      hu: ["90 méter magas torony", "Neogótikus téglaépület", "Horvátország 2. legnagyobb temploma", "1898-ban készült el"],
+      ro: ["Turn de 90 de metri înălțime", "Construcție din cărămidă neogotică", "A doua cea mai mare biserică din Croația", "Finalizată în 1898"],
+      en: ["90-meter high tower", "Neo-Gothic brick building", "Second largest church in Croatia", "Completed in 1898"],
+    },
+    imageHint: "Co-cathedral of St. Peter and St. Paul Osijek exterior",
+  },
+  {
+    id: "croatia-museum-broken-relationships-landmarks-v2",
+    parent: "HR",
+    type: "museum",
+    name: { de: "Museum der zerbrochenen Beziehungen", hu: "Megszakadt Kapcsolatok Múzeuma", ro: "Muzeul Relațiilor Destrămate", en: "Museum of Broken Relationships" },
+    coordinates: { lat: 45.8151, lng: 15.9733 },
+    description: {
+      de: "Dieses einzigartige Museum in der Zagreber Oberstadt zeigt persönliche Gegenstände von ehemaligen Liebespaaren, ergänzt durch deren Geschichten.",
+      hu: "Ez az egyedülálló múzeum Zágráb felsővárosában található, és egykori szerelmespárok személyes tárgyait mutatja be történeteikkel együtt.",
+      ro: "Acest muzeu unic din orașul vechi al Zagrebului expune obiecte personale ale foștilor iubiți, însoțite de poveștile lor.",
+      en: "This unique museum in Zagreb's Upper Town displays personal objects left over from former lovers, accompanied by their stories.",
+    },
+    facts: {
+      de: ["Gegründet 2006", "Standort im Kulmer-Palast", "EMYA Kenneth Hudson Preis", "Weltweite Wanderausstellung"],
+      hu: ["2006-ban alapították", "A Kulmer-palotában található", "EMYA Kenneth Hudson-díj", "Világszerte vándorkiállítás"],
+      ro: ["Fondat în 2006", "Situat în Palatul Kulmer", "Premiul EMYA Kenneth Hudson", "Expoziție itinerantă mondială"],
+      en: ["Founded in 2006", "Located in Kulmer Palace", "EMYA Kenneth Hudson Award", "Global traveling exhibition"],
+    },
+    imageHint: "Museum of Broken Relationships Zagreb interior",
+  },
+  {
+    id: "croatia-governors-palace-rijeka-landmarks-v2",
+    parent: "HR",
+    type: "palace",
+    name: { de: "Gouverneurspalast Rijeka", hu: "Kormányzói palota (Fiume)", ro: "Palatul Guvernatorului din Rijeka", en: "Governor's Palace in Rijeka" },
+    coordinates: { lat: 45.3311, lng: 14.4425 },
+    description: {
+      de: "Dieser prächtige Neorenaissance-Palast in Rijeka war einst der Sitz der ungarischen Gouverneure. Heute beherbergt er das Seefahrts- und Geschichtsmuseum.",
+      hu: "Ez a pompás neoreneszánsz palota Fiumében egykor a magyar kormányzók székhelye volt. Ma a Tengerészeti és Történeti Múzeumnak ad otthont.",
+      ro: "Acest palat neorenascentist magnific din Rijeka a fost odinioară reședința guvernatorilor maghiari. Astăzi găzduiește Muzeul Maritim și de Istorie.",
+      en: "This magnificent Neo-Renaissance palace in Rijeka was once the seat of Hungarian governors. Today it houses the Maritime and History Museum.",
+    },
+    facts: {
+      de: ["Baujahr 1896", "Architekt Alajos Hauszmann", "Sitz der ungarischen Verwaltung", "Seefahrtsmuseum heute"],
+      hu: ["1896-ban épült", "Hauszmann Alajos tervezte", "Magyar közigazgatási központ", "Ma Tengerészeti Múzeum"],
+      ro: ["Construit în 1896", "Arhitect Alajos Hauszmann", "Sediul administrației maghiare", "Muzeu maritim astăzi"],
+      en: ["Built in 1896", "Architect Alajos Hauszmann", "Seat of Hungarian administration", "Maritime museum today"],
+    },
+    imageHint: "Governor's Palace Rijeka Maritime Museum",
+  },
+  {
+    id: "croatia-prokurative-split-landmarks-v2",
+    parent: "HR",
+    type: "palace",
+    name: { de: "Prokurative (Platz der Republik)", hu: "Prokurative (Köztársaság tér)", ro: "Prokurative (Piața Republicii)", en: "Prokurative (Republic Square)" },
+    coordinates: { lat: 43.5085, lng: 16.4372 },
+    description: {
+      de: "Dieser weitläufige Platz in Split ist von Gebäuden mit roten Fassaden und markanten Arkaden umgeben. Er erinnert stark an den Markusplatz in Venedig.",
+      hu: "Ez a tágas spliti tér vörös homlokzatú, jellegzetes árkádos épületekkel van körülvéve. Erősen emlékeztet a velencei Szent Márk térre.",
+      ro: "Această piață vastă din Split este înconjurată de clădiri cu fațade roșii și arcade distinctive. Amintește puternic de Piața San Marco din Veneția.",
+      en: "This spacious square in Split is surrounded by buildings with red facades and distinctive arches. It strongly resembles St. Mark's Square in Venice.",
+    },
+    facts: {
+      de: ["Neorenaissance-Stil", "Blick auf das Meer", "Schauplatz des Split Festivals", "Erbaut im 19. Jahrhundert"],
+      hu: ["Neoreneszánsz stílus", "Kilátás a tengerre", "A Spliti Fesztivál helyszíne", "A 19. században épült"],
+      ro: ["Stil neorenascentist", "Vedere spre mare", "Locul Festivalului de la Split", "Construită în secolul al XIX-lea"],
+      en: ["Neo-Renaissance style", "Overlooks the sea", "Venue for Split Music Festival", "Built in the 19th century"],
+    },
+    imageHint: "Republic Square Prokurative Split red buildings",
+  },
+  {
+    id: "croatia-st-stephen-cathedral-hvar-landmarks-v2",
+    parent: "HR",
+    type: "cathedral",
+    name: { de: "Kathedrale des Heiligen Stephan", hu: "Szent István-székesegyház (Hvar)", ro: "Catedrala Sfântul Ștefan din Hvar", en: "Cathedral of St. Stephen" },
+    coordinates: { lat: 43.1725, lng: 16.4428 },
+    description: {
+      de: "Diese Kathedrale bildet das Herzstück des Hauptplatzes von Hvar. Ihr prächtiger vierstöckiger Glockenturm ist ein Meisterwerk der dalmatinischen Renaissance.",
+      hu: "Ez a székesegyház Hvar főterének központi eleme. Pompás négyszintes harangtornya a dalmát reneszánsz mesterműve.",
+      ro: "Această catedrală formează piesa centrală a pieței principale din Hvar. Turnul său magnific cu patru etaje este o capodoperă a Renașterii dalmate.",
+      en: "This cathedral forms the centerpiece of Hvar's main square. Its magnificent four-story bell tower is a masterpiece of Dalmatian Renaissance.",
+    },
+    facts: {
+      de: ["Renaissance-Barock-Stil", "Blick auf die Pjaca", "Vierstöckiger Glockenturm", "Bau im 16. Jahrhundert"],
+      hu: ["Reneszánsz-barokk stílus", "Kilátás a főtérre (Pjaca)", "Négyszintes harangtorony", "16. századi építés"],
+      ro: ["Stil renascentist-baroc", "Vedere spre piața Pjaca", "Turn clopotniță cu 4 etaje", "Construită în sec. XVI"],
+      en: ["Renaissance-Baroque style", "Overlooks the main square", "Four-story bell tower", "Built in the 16th century"],
+    },
+    imageHint: "Cathedral of St. Stephen Hvar bell tower and square",
+  },
+  {
+    id: "croatia-onofrios-fountain-landmarks-v2",
+    parent: "HR",
+    type: "monument",
+    name: { de: "Großer Onofrio-Brunnen", hu: "Nagy Onofrio-kút", ro: "Marea Fântână a lui Onofrio", en: "Large Onofrio's Fountain" },
+    coordinates: { lat: 42.6414, lng: 18.1075 },
+    description: {
+      de: "Dieser monumentale Brunnen steht direkt am Pile-Tor am Anfang der Stradun in Dubrovnik. Er war Teil des städtischen Wasserversorgungssystems aus dem 15. Jahrhundert.",
+      hu: "Ez a monumentális kút a dubrovniki Stradun elején, a Pile-kapunál áll. A 15. századi városi vízellátó rendszer része volt.",
+      ro: "Această fântână monumentală se află lângă Poarta Pile, la începutul străzii Stradun din Dubrovnik. Face parte din sistemul de alimentare cu apă din sec. XV.",
+      en: "This monumental fountain stands right by the Pile Gate at the start of the Stradun in Dubrovnik. It was part of the 15th-century city water supply system.",
+    },
+    facts: {
+      de: ["Baujahr 1438", "16 wasserspeiende Masken", "Trinkwasserqualität", "Architekt Onofrio della Cava"],
+      hu: ["1438-as építés", "16 vízköpő maszk (maskeron)", "Ivóvíz minőségű víz", "Onofrio della Cava építész"],
+      ro: ["Construită în 1438", "16 măști care scuipă apă", "Apă potabilă", "Arhitect Onofrio della Cava"],
+      en: ["Built in 1438", "16 carved masks (maskeroni)", "Drinkable water", "Architect Onofrio della Cava"],
+    },
+    imageHint: "Large Onofrio's Fountain Dubrovnik Stradun",
   }
 ];

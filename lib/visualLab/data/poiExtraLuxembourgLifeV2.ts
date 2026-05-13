@@ -3,6 +3,7 @@ export const luxembourgLifeV2: POI[] = [
 
   {
     id: "luxembourg-haff-reimech-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Haff Réimech Naturschutzgebiet", hu: "Haff Réimech természetvédelmi terület", ro: "Rezervația Naturală Haff Réimech", en: "Haff Réimech Nature Reserve",
 image: "/poi-images/luxembourg-haff-reimech-life-v2.webp"
@@ -36,6 +37,7 @@ imageHint: "Haff Reimech nature reserve lakes and reed beds",
     image: "/poi-images/luxembourg-haff-reimech-life-v2.webp",
 },  {
     id: "luxembourg-parc-merveilleux-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Parc Merveilleux", hu: "Parc Merveilleux", ro: "Parc Merveilleux", en: "Parc Merveilleux",
 image: "/poi-images/luxembourg-parc-merveilleux-life-v2.webp"
@@ -69,6 +71,7 @@ imageHint: "Parc Merveilleux Bettembourg zoo entrance or animals",
     image: "/poi-images/luxembourg-parc-merveilleux-life-v2.webp",
 },  {
     id: "luxembourg-escher-deierepark-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Escher Déierepark", hu: "Escher Déierepark vadaspark", ro: "Parcul de Animale Esch", en: "Escher Déierepark",
 image: "/poi-images/luxembourg-escher-deierepark-life-v2.webp"
@@ -102,6 +105,7 @@ imageHint: "Escher Deierepark animals in forest enclosure",
     image: "/poi-images/luxembourg-escher-deierepark-life-v2.webp",
 },  {
     id: "luxembourg-upper-sure-nature-park-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Naturpark Öewersauer", hu: "Felső-Sûre Natúrpark", ro: "Parcul Natural Haute-Sûre", en: "Upper Sûre Nature Park",
 image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp"
@@ -135,6 +139,7 @@ imageHint: "Upper Sure Nature Park landscape with lake and hills",
     image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp",
 },  {
     id: "luxembourg-our-nature-park-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Naturpark Our", hu: "Our Natúrpark", ro: "Parcul Natural Our", en: "Our Nature Park",
 image: "/poi-images/luxembourg-our-nature-park-life-v2.webp"
@@ -168,6 +173,7 @@ imageHint: "Our Nature Park valley scenery and winding river",
     image: "/poi-images/luxembourg-our-nature-park-life-v2.webp",
 },  {
     id: "luxembourg-mellerdall-geopark-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Mëllerdall UNESCO Global Geopark", hu: "Mëllerdall UNESCO Globális Geopark", ro: "Geoparcul Global UNESCO Mëllerdall", en: "Mëllerdall UNESCO Global Geopark",
 image: "/poi-images/luxembourg-mellerdall-geopark-life-v2.webp"
@@ -201,6 +207,7 @@ imageHint: "Mëllerdall Geopark sandstone rocks and green forest",
     image: "/poi-images/luxembourg-mellerdall-geopark-life-v2.webp",
 },  {
     id: "luxembourg-schlammwiss-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Schlammwiss", hu: "Schlammwiss természetvédelmi terület", ro: "Rezervația Naturală Schlammwiss", en: "Schlammwiss Nature Reserve",
 image: "/poi-images/luxembourg-schlammwiss-life-v2.webp"
@@ -234,6 +241,7 @@ imageHint: "Schlammwiss nature reserve reed beds and bird station",
     image: "/poi-images/luxembourg-schlammwiss-life-v2.webp",
 },  {
     id: "luxembourg-aarnescht-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Aarnescht", hu: "Aarnescht természetvédelmi terület", ro: "Rezervația Naturală Aarnescht", en: "Aarnescht Nature Reserve",
 image: "/poi-images/luxembourg-aarnescht-life-v2.webp"
@@ -267,6 +275,7 @@ imageHint: "Aarnescht nature reserve with wild orchids and sunny slopes",
     image: "/poi-images/luxembourg-aarnescht-life-v2.webp",
 },  {
     id: "luxembourg-ellergronn-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Ellergronn", hu: "Ellergronn természetvédelmi terület", ro: "Rezervația Naturală Ellergronn", en: "Ellergronn Nature Reserve",
 image: "/poi-images/luxembourg-ellergronn-life-v2.webp"
@@ -300,6 +309,7 @@ imageHint: "Ellergronn nature center and reclaimed mining landscape",
     image: "/poi-images/luxembourg-ellergronn-life-v2.webp",
 },  {
     id: "luxembourg-sonnebierg-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Sonnebierg", hu: "Sonnebierg természetvédelmi terület", ro: "Rezervația Naturală Sonnebierg", en: "Sonnebierg Nature Reserve",
 image: "/poi-images/luxembourg-sonnebierg-life-v2.webp"
@@ -333,6 +343,7 @@ imageHint: "Sonnebierg nature reserve flowers and valley view",
     image: "/poi-images/luxembourg-sonnebierg-life-v2.webp",
 },  {
     id: "luxembourg-dumontshaff-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Dumontshaff", hu: "Dumontshaff természetvédelmi terület", ro: "Rezervația Naturală Dumontshaff", en: "Dumontshaff Nature Reserve",
 image: "/poi-images/luxembourg-dumontshaff-life-v2.webp"
@@ -366,6 +377,7 @@ imageHint: "Dumontshaff wetlands with storks and river",
     image: "/poi-images/luxembourg-dumontshaff-life-v2.webp",
 },  {
     id: "luxembourg-biodiversum-life-v2",
+    parent: "LU",
     type: "museum",
     name: { de: "Biodiversum Remerschen", hu: "Biodiversum Remerschen", ro: "Biodiversum Remerschen", en: "Biodiversum Remerschen",
 image: "/poi-images/luxembourg-biodiversum-life-v2.webp"
@@ -399,6 +411,7 @@ imageHint: "Biodiversum Remerschen wooden building on lake",
     image: "/poi-images/luxembourg-biodiversum-life-v2.webp",
 },  {
     id: "luxembourg-arboretum-kirchberg-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Arboretum Kirchberg", hu: "Kirchberg Arborétum", ro: "Arboretumul Kirchberg", en: "Arboretum Kirchberg",
 image: "/poi-images/luxembourg-arboretum-kirchberg-life-v2.webp"
@@ -432,6 +445,7 @@ imageHint: "Arboretum Kirchberg park trees and modern buildings",
     image: "/poi-images/luxembourg-arboretum-kirchberg-life-v2.webp",
 },  {
     id: "luxembourg-rose-garden-limpertsberg-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Rosengarten Limpertsberg", hu: "Limpertsbergi Rózsakert", ro: "Grădina de Trandafiri Limpertsberg", en: "Rose Garden Limpertsberg",
 image: "/poi-images/luxembourg-rose-garden-limpertsberg-life-v2.webp"
@@ -465,6 +479,7 @@ imageHint: "Limpertsberg rose garden flowers and park",
     image: "/poi-images/luxembourg-rose-garden-limpertsberg-life-v2.webp",
 },  {
     id: "luxembourg-bambesch-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Bambësch Wald", hu: "Bambësch erdő", ro: "Pădurea Bambësch", en: "Bambësch Forest",
 image: "/poi-images/luxembourg-bambesch-life-v2.webp"
@@ -498,6 +513,7 @@ imageHint: "Bambesch forest trails and tall beech trees",
     image: "/poi-images/luxembourg-bambesch-life-v2.webp",
 },  {
     id: "luxembourg-grunewald-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Grünewald", hu: "Grünewald", ro: "Pădurea Grünewald", en: "Grünewald Forest",
 image: "/poi-images/luxembourg-grunewald-life-v2.webp"
@@ -531,6 +547,7 @@ imageHint: "Grunewald forest landscape and ancient trees",
     image: "/poi-images/luxembourg-grunewald-life-v2.webp",
 },  {
     id: "luxembourg-petruss-park-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Petruss-Park", hu: "Pétrusse-park", ro: "Parcul Pétrusse", en: "Petruss Park",
 image: "/poi-images/luxembourg-petruss-park-life-v2.webp"
@@ -564,6 +581,7 @@ image: "/poi-images/luxembourg-petruss-park-life-v2.webp"
   },
   {
     id: "luxembourg-parc-de-merl-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Parc de Merl", hu: "Merl-park", ro: "Parcul Merl", en: "Parc de Merl",
 image: "/poi-images/luxembourg-parc-de-merl-life-v2.webp"
@@ -597,6 +615,7 @@ imageHint: "Parc de Merl pond and fountain in Luxembourg City",
     image: "/poi-images/luxembourg-parc-de-merl-life-v2.webp",
 },  {
     id: "luxembourg-municipal-park-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Stadtpark Luxemburg", hu: "Luxemburgi Városliget", ro: "Parcul Municipal Luxemburg", en: "Municipal Park Luxembourg",
 image: "/poi-images/luxembourg-municipal-park-life-v2.webp"
@@ -630,6 +649,7 @@ image: "/poi-images/luxembourg-municipal-park-life-v2.webp"
   },
   {
     id: "luxembourg-tony-neuman-park-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Parc Tony Neuman", hu: "Tony Neuman park", ro: "Parcul Tony Neuman", en: "Tony Neuman Park",
 image: "/poi-images/luxembourg-tony-neuman-park-life-v2.webp"
@@ -663,6 +683,7 @@ imageHint: "Tony Neuman Park sculptures and green lawn",
     image: "/poi-images/luxembourg-tony-neuman-park-life-v2.webp",
 },  {
     id: "luxembourg-am-groussebesch-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Am Groussebësch", hu: "Am Groussebësch természetvédelmi terület", ro: "Rezervația Naturală Am Groussebësch", en: "Am Groussebësch Nature Reserve",
 image: "/poi-images/luxembourg-am-groussebesch-life-v2.webp"
@@ -696,6 +717,7 @@ imageHint: "Am Groussebesch forest reserve ancient beech trees",
     image: "/poi-images/luxembourg-am-groussebesch-life-v2.webp",
 },  {
     id: "luxembourg-canecher-wengertsbierg-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Canecher Wéngertsbierg", hu: "Canecher Wéngertsbierg természetvédelmi terület", ro: "Rezervația Naturală Canecher Wéngertsbierg", en: "Canecher Wéngertsbierg",
 image: "/poi-images/luxembourg-canecher-wengertsbierg-life-v2.webp"
@@ -729,6 +751,7 @@ image: "/poi-images/luxembourg-canecher-wengertsbierg-life-v2.webp"
   },
   {
     id: "luxembourg-deiwelskopp-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Deiwelskopp", hu: "Deiwelskopp természetvédelmi terület", ro: "Rezervația Naturală Deiwelskopp", en: "Deiwelskopp Nature Reserve",
 image: "/poi-images/luxembourg-deiwelskopp-life-v2.webp"
@@ -762,6 +785,7 @@ image: "/poi-images/luxembourg-deiwelskopp-life-v2.webp"
   },
   {
     id: "luxembourg-streissel-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Stréissel", hu: "Stréissel természetvédelmi terület", ro: "Rezervația Naturală Stréissel", en: "Stréissel Nature Reserve",
 image: "/poi-images/luxembourg-streissel-life-v2.webp"
@@ -795,6 +819,7 @@ imageHint: "Streissel nature reserve ponds and wet meadows",
     image: "/poi-images/luxembourg-streissel-life-v2.webp",
 },  {
     id: "luxembourg-krounebierg-park-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Park Krounebierg", hu: "Krounebierg-park", ro: "Parcul Krounebierg", en: "Krounebierg Park",
 image: "/poi-images/luxembourg-krounebierg-park-life-v2.webp"
@@ -828,6 +853,7 @@ imageHint: "Krounebierg park Mersch view and tower",
     image: "/poi-images/luxembourg-krounebierg-park-life-v2.webp",
 },  {
     id: "luxembourg-manternacher-fiels-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Manternacher Fiels", hu: "Manternacher Fiels természetvédelmi terület", ro: "Rezervația Naturală Manternacher Fiels", en: "Manternacher Fiels Nature Reserve",
 image: "/poi-images/luxembourg-manternacher-fiels-life-v2.webp"
@@ -861,6 +887,7 @@ imageHint: "Manternacher Fiels forest ravine and rocks",
     image: "/poi-images/luxembourg-manternacher-fiels-life-v2.webp",
 },  {
     id: "luxembourg-beetebuerger-besch-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Beetebuerger Bësch", hu: "Bettemburgi erdő", ro: "Pădurea Bettembourg", en: "Beetebuerger Bësch",
 image: "/poi-images/luxembourg-beetebuerger-besch-life-v2.webp"
@@ -894,6 +921,7 @@ imageHint: "Beetebuerger Besch forest path and sunbeams",
     image: "/poi-images/luxembourg-beetebuerger-besch-life-v2.webp",
 },  {
     id: "luxembourg-mirador-steinfort-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzzentrum Mirador", hu: "Mirador természetvédelmi központ", ro: "Centrul de Natură Mirador", en: "Mirador Nature Center",
 image: "/poi-images/luxembourg-mirador-steinfort-life-v2.webp"
@@ -927,6 +955,7 @@ imageHint: "Mirador Steinfort nature center building",
     image: "/poi-images/luxembourg-mirador-steinfort-life-v2.webp",
 },  {
     id: "luxembourg-cornelysmillen-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Cornelysmillen", hu: "Cornelysmillen természetvédelmi terület", ro: "Rezervația Naturală Cornelysmillen", en: "Cornelysmillen Nature Reserve",
 image: "/poi-images/luxembourg-cornelysmillen-life-v2.webp"
@@ -960,6 +989,7 @@ image: "/poi-images/luxembourg-cornelysmillen-life-v2.webp"
   },
   {
     id: "luxembourg-conzefenn-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Conzefenn", hu: "Conzefenn természetvédelmi terület", ro: "Rezervația Naturală Conzefenn", en: "Conzefenn Nature Reserve",
 image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
@@ -994,6 +1024,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
 ,
   {
     id: "luxembourg-kuebebierg-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Naturschutzgebiet Kuebebierg", hu: "Kuebebierg természetvédelmi terület", ro: "Rezervația Naturală Kuebebierg", en: "Kuebebierg Nature Reserve" },
     coordinates: { lat: 49.6335, lng: 6.1682 },
@@ -1013,6 +1044,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-jardin-botanique-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Botanischer Garten Luxemburg", hu: "Luxemburgi Botanikus Kert", ro: "Grădina Botanică Luxemburg", en: "Luxembourg Botanical Garden" },
     coordinates: { lat: 49.6105, lng: 6.1218 },
@@ -1032,6 +1064,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-grouf-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Grouf", hu: "Grouf természetvédelmi terület", ro: "Rezervația Naturală Grouf", en: "Grouf Nature Reserve" },
     coordinates: { lat: 49.4755, lng: 6.3542 },
@@ -1051,6 +1084,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-kelsbaach-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Kelsbaach", hu: "Kelsbaach természetvédelmi terület", ro: "Rezervația Naturală Kelsbaach", en: "Kelsbaach Nature Reserve" },
     coordinates: { lat: 49.6742, lng: 6.4185 },
@@ -1070,6 +1104,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-pettenberbesch-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Naturschutzgebiet Pëttenerbësch", hu: "Pëttenerbësch természetvédelmi terület", ro: "Rezervația Naturală Pëttenerbësch", en: "Pëttenerbësch Nature Reserve" },
     coordinates: { lat: 49.7682, lng: 6.1125 },
@@ -1089,6 +1124,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-hierberbesch-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Naturschutzgebiet Hierberbësch", hu: "Hierberbësch természetvédelmi terület", ro: "Rezervația Naturală Hierberbësch", en: "Hierberbësch Nature Reserve" },
     coordinates: { lat: 49.7425, lng: 6.4532 },
@@ -1108,6 +1144,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-lensterbierg-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Naturschutzgebiet Lënsterbierg", hu: "Lënsterbierg természetvédelmi terület", ro: "Rezervația Naturală Lënsterbierg", en: "Lënsterbierg Nature Reserve" },
     coordinates: { lat: 49.7045, lng: 6.2415 },
@@ -1127,6 +1164,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-obeler-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Feuchtgebiet Obeler", hu: "Obeler vizes élőhely", ro: "Zona Umedă Obeler", en: "Obeler Wetland" },
     coordinates: { lat: 49.5215, lng: 6.1012 },
@@ -1146,6 +1184,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-peffeschhaff-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Peffeschhaff", hu: "Peffeschhaff természetvédelmi terület", ro: "Rezervația Naturală Peffeschhaff", en: "Peffeschhaff Nature Reserve" },
     coordinates: { lat: 49.5412, lng: 6.1345 },
@@ -1165,6 +1204,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-millebierg-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Millebierg", hu: "Millebierg természetvédelmi terület", ro: "Rezervația Naturală Millebierg", en: "Millebierg Nature Reserve" },
     coordinates: { lat: 49.6715, lng: 6.1312 },
@@ -1184,6 +1224,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-millewiesen-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Feuchtgebiet Millewiesen", hu: "Millewiesen vizes élőhely", ro: "Zona Umedă Millewiesen", en: "Millewiesen Wetland" },
     coordinates: { lat: 49.7542, lng: 6.0215 },
@@ -1203,6 +1244,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-hirschbierg-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Hirschbierg", hu: "Hirschbierg természetvédelmi terület", ro: "Rezervația Naturală Hirschbierg", en: "Hirschbierg Nature Reserve" },
     coordinates: { lat: 49.8512, lng: 6.2015 },
@@ -1222,6 +1264,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-ourmündung-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Ourmündung", hu: "Our-torkolat természetvédelmi terület", ro: "Rezervația Naturală Ourmündung", en: "Ourmündung Nature Reserve" },
     coordinates: { lat: 49.8835, lng: 6.2912 },
@@ -1241,6 +1284,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-hallerbachtal-life-v2",
+    parent: "LU",
     type: "valley",
     name: { de: "Naturschutzgebiet Hallerbachtal", hu: "Hallerbachtal természetvédelmi terület", ro: "Rezervația Naturală Hallerbachtal", en: "Hallerbachtal Nature Reserve" },
     coordinates: { lat: 49.8315, lng: 6.2942 },
@@ -1260,6 +1304,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-manzebaach-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Manzebaach", hu: "Manzebaach természetvédelmi terület", ro: "Rezervația Naturală Manzebaach", en: "Manzebaach Nature Reserve" },
     coordinates: { lat: 49.8242, lng: 6.2215 },
@@ -1279,6 +1324,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-osterbour-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Osterbour", hu: "Osterbour természetvédelmi terület", ro: "Rezervația Naturală Osterbour", en: "Osterbour Nature Reserve" },
     coordinates: { lat: 49.7715, lng: 6.1842 },
@@ -1298,6 +1344,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-marscherwald-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Naturschutzgebiet Marscherwald", hu: "Marscherwald természetvédelmi terület", ro: "Rezervația Naturală Marscherwald", en: "Marscherwald Nature Reserve" },
     coordinates: { lat: 49.7542, lng: 6.2515 },
@@ -1317,6 +1364,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-elteschmuel-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Elteschmuel", hu: "Elteschmuel természetvédelmi terület", ro: "Rezervația Naturală Elteschmuel", en: "Elteschmuel Nature Reserve" },
     coordinates: { lat: 49.7912, lng: 6.1315 },
@@ -1336,6 +1384,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-gourmangslee-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Gourmangslee", hu: "Gourmangslee természetvédelmi terület", ro: "Rezervația Naturală Gourmangslee", en: "Gourmangslee Nature Reserve" },
     coordinates: { lat: 49.6915, lng: 6.1512 },
@@ -1355,6 +1404,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-grousswiss-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Grousswiss", hu: "Grousswiss természetvédelmi terület", ro: "Rezervația Naturală Grousswiss", en: "Grousswiss Nature Reserve" },
     coordinates: { lat: 49.7942, lng: 6.0715 },
@@ -1374,6 +1424,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-saueruecht-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Naturschutzgebiet Saueruecht", hu: "Saueruecht természetvédelmi terület", ro: "Rezervația Naturală Saueruecht", en: "Saueruecht Nature Reserve" },
     coordinates: { lat: 49.8445, lng: 6.1212 },
@@ -1393,6 +1444,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-diekirch-haardt-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Naturschutzgebiet Haardt (Diekirch)", hu: "Haardt természetvédelmi terület (Diekirch)", ro: "Rezervația Naturală Haardt (Diekirch)", en: "Haardt Nature Reserve (Diekirch)" },
     coordinates: { lat: 49.8745, lng: 6.1685 },
@@ -1412,6 +1464,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-niklosbierg-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Niklosbierg", hu: "Niklosbierg természetvédelmi terület", ro: "Rezervația Naturală Niklosbierg", en: "Niklosbierg Nature Reserve" },
     coordinates: { lat: 49.9415, lng: 6.1812 },
@@ -1431,6 +1484,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-stolzembourg-nature-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturlehrgebiet Stolzembourg", hu: "Stolzembourg természetvédelmi terület", ro: "Zona Naturală Stolzembourg", en: "Stolzembourg Nature Area" },
     coordinates: { lat: 49.9642, lng: 6.1615 },
@@ -1450,6 +1504,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-tuebebierg-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Tuebebierg", hu: "Tuebebierg természetvédelmi terület", ro: "Rezervația Naturală Tuebebierg", en: "Tuebebierg Nature Reserve" },
     coordinates: { lat: 49.4912, lng: 6.0215 },
@@ -1469,6 +1524,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-parc-gaalgebierg-life-v2",
+    parent: "LU",
     type: "park",
     name: { de: "Stadtpark Gaalgebierg", hu: "Gaalgebierg városi park", ro: "Parcul Municipal Gaalgebierg", en: "Gaalgebierg City Park" },
     coordinates: { lat: 49.4915, lng: 5.9842 },
@@ -1488,6 +1544,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-stromberg-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Stromberg", hu: "Stromberg természetvédelmi terület", ro: "Rezervația Naturală Stromberg", en: "Stromberg Nature Reserve" },
     coordinates: { lat: 49.4715, lng: 6.3685 },
@@ -1507,6 +1564,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-hopelslay-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Hopelslay", hu: "Hopelslay természetvédelmi terület", ro: "Rezervația Naturală Hopelslay", en: "Hopelslay Nature Reserve" },
     coordinates: { lat: 49.5442, lng: 6.3512 },
@@ -1526,6 +1584,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-scheierbierg-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Scheierbierg", hu: "Scheierbierg természetvédelmi terület", ro: "Rezervația Naturală Scheierbierg", en: "Scheierbierg Nature Reserve" },
     coordinates: { lat: 49.5142, lng: 6.3215 },
@@ -1545,6 +1604,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-jongenbesch-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Waldschutzgebiet Jongenbësch", hu: "Jongenbësch erdővédelmi terület", ro: "Rezervația Forestieră Jongenbësch", en: "Jongenbësch Forest Reserve" },
     coordinates: { lat: 49.5312, lng: 6.3415 },
@@ -1564,6 +1624,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-brouch-millewiesen-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Millewiesen bei Brouch", hu: "Brouchi Millewiesen", ro: "Millewiesen lângă Brouch", en: "Millewiesen at Brouch" },
     coordinates: { lat: 49.7542, lng: 6.0215 },
@@ -1583,6 +1644,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-elteschmuel-wetland-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Feuchtgebiet Elteschmuel", hu: "Elteschmuel mocsárvidék", ro: "Mlaștina Elteschmuel", en: "Elteschmuel Wetland" },
     coordinates: { lat: 49.7915, lng: 6.1312 },
@@ -1602,6 +1664,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-bissen-grousswiss-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Grousswiss bei Bissen", hu: "Bisseni Grousswiss", ro: "Grousswiss la Bissen", en: "Grousswiss at Bissen" },
     coordinates: { lat: 49.7945, lng: 6.0712 },
@@ -1621,6 +1684,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-diekirch-haardt-forest-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Waldreservat Haardt (Diekirch)", hu: "Haardt erdőrezervátum (Diekirch)", ro: "Rezervația Forestieră Haardt (Diekirch)", en: "Haardt Forest Reserve (Diekirch)" },
     coordinates: { lat: 49.8712, lng: 6.1645 },
@@ -1640,6 +1704,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-erpeldingen-saueruecht-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Waldschutzgebiet Saueruecht (Erpeldange)", hu: "Saueruecht erdővédelmi terület (Erpeldange)", ro: "Rezervația Forestieră Saueruecht (Erpeldange)", en: "Saueruecht Forest Reserve (Erpeldange)" },
     coordinates: { lat: 49.8512, lng: 6.1112 },
@@ -1659,6 +1724,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-schengen-stromberg-nature-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Stromberg Naturreservat (Schengen)", hu: "Schengen-Stromberg természetvédelmi terület", ro: "Rezervația Naturală Stromberg (Schengen)", en: "Stromberg Nature Reserve (Schengen)" },
     coordinates: { lat: 49.4745, lng: 6.3612 },
@@ -1678,6 +1744,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-remich-hopelslay-nature-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Hopelslay Naturreservat (Remich)", hu: "Remichi Hopelslay természetvédelmi terület", ro: "Rezervația Naturală Hopelslay (Remich)", en: "Hopelslay Nature Reserve (Remich)" },
     coordinates: { lat: 49.5412, lng: 6.3542 },
@@ -1697,6 +1764,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-wellenstein-scheierbierg-nature-life-v2",
+    parent: "LU",
     type: "wildlife",
     name: { de: "Scheierbierg Naturreservat (Wellenstein)", hu: "Wellenstein-Scheierbierg természetvédelmi terület", ro: "Rezervația Naturală Scheierbierg (Wellenstein)", en: "Scheierbierg Nature Reserve (Wellenstein)" },
     coordinates: { lat: 49.5112, lng: 6.3242 },
@@ -1716,6 +1784,7 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
   },
   {
     id: "luxembourg-bech-kleinmacher-jongenbesch-life-v2",
+    parent: "LU",
     type: "forest",
     name: { de: "Jongenbesch bei Bech-Kleinmacher", hu: "Bech-Kleinmacher-i Jongenbësch", ro: "Jongenbësch la Bech-Kleinmacher", en: "Jongenbësch at Bech-Kleinmacher" },
     coordinates: { lat: 49.5342, lng: 6.3442 },

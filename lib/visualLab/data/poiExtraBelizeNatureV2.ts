@@ -4,6 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraBelizeNatureV2: POI[] = [
   {
     id: "bz-rio-hondo-river-nature-v2",
+    parent: "BZ",
     description: {
       de: "Der Rio Hondo bildet die natürliche Grenze zwischen Belize und Mexiko.",
       hu: "Der Rio Hondo bildet die natürliche Grenze zwischen Belize und Mexiko.",

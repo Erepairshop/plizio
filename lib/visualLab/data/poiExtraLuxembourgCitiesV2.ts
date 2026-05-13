@@ -3,6 +3,7 @@ export const luxembourgCitiesV2: POI[] = [
 
   {
     id: "luxembourg-esch-sur-alzette-cities-v2",
+    parent: "LU",
     type: "city",
     name: { de: "Esch an der Alzette", hu: "Esch-sur-Alzette", ro: "Esch-sur-Alzette", en: "Esch-sur-Alzette",
 image: "/poi-images/luxembourg-esch-sur-alzette-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
     image: "/poi-images/luxembourg-esch-sur-alzette-cities-v2.webp",
 },  {
     id: "luxembourg-differdange-cities-v2",
+    parent: "LU",
     type: "city",
     name: { de: "Differdingen", hu: "Differdange", ro: "Differdange", en: "Differdange",
 image: "/poi-images/luxembourg-differdange-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Modern architecture and industrial heritage in Differdange",
     image: "/poi-images/luxembourg-differdange-cities-v2.webp",
 },  {
     id: "luxembourg-dudelange-cities-v2",
+    parent: "LU",
     type: "city",
     name: { de: "Düdelingen", hu: "Dudelange", ro: "Dudelange", en: "Dudelange",
 image: "/poi-images/luxembourg-dudelange-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "City hall and central square of Dudelange",
     image: "/poi-images/luxembourg-dudelange-cities-v2.webp",
 },  {
     id: "luxembourg-petange-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Petingen", hu: "Pétange", ro: "Pétange", en: "Pétange",
 image: "/poi-images/luxembourg-petange-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Historic steam train near Pétange station",
     image: "/poi-images/luxembourg-petange-cities-v2.webp",
 },  {
     id: "luxembourg-sanem-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Sassenheim", hu: "Sanem", ro: "Sanem", en: "Sanem",
 image: "/poi-images/luxembourg-sanem-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Sanem Castle and its surrounding gardens",
     image: "/poi-images/luxembourg-sanem-cities-v2.webp",
 },  {
     id: "luxembourg-hesperange-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Hesperingen", hu: "Hesperange", ro: "Hesperange", en: "Hesperange",
 image: "/poi-images/luxembourg-hesperange-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Ruins of Hesperange Castle overlooking the town",
     image: "/poi-images/luxembourg-hesperange-cities-v2.webp",
 },  {
     id: "luxembourg-bettembourg-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Bettemburg", hu: "Bettembourg", ro: "Bettembourg", en: "Bettembourg",
 image: "/poi-images/luxembourg-bettembourg-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Entrance to Parc Merveilleux in Bettembourg",
     image: "/poi-images/luxembourg-bettembourg-cities-v2.webp",
 },  {
     id: "luxembourg-schifflange-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Schifflingen", hu: "Schifflange", ro: "Schifflange", en: "Schifflange",
 image: "/poi-images/luxembourg-schifflange-cities-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Industrial steel structures in Schifflange",
     image: "/poi-images/luxembourg-schifflange-cities-v2.webp",
 },  {
     id: "luxembourg-ettelbruck-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Ettelbrück", hu: "Ettelbruck", ro: "Ettelbruck", en: "Ettelbruck",
 image: "/poi-images/luxembourg-ettelbruck-cities-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Patton Square and monument in Ettelbruck",
     image: "/poi-images/luxembourg-ettelbruck-cities-v2.webp",
 },  {
     id: "luxembourg-kayl-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Kayl", hu: "Kayl", ro: "Kayl", en: "Kayl",
 image: "/poi-images/luxembourg-kayl-cities-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "The National Miners' Monument in Kayl",
     image: "/poi-images/luxembourg-kayl-cities-v2.webp",
 },  {
     id: "luxembourg-mamer-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Mamer", hu: "Mamer", ro: "Mamer", en: "Mamer",
 image: "/poi-images/luxembourg-mamer-cities-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Roman bath ruins in Mamer",
     image: "/poi-images/luxembourg-mamer-cities-v2.webp",
 },  {
     id: "luxembourg-strassen-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Strassen", hu: "Strassen", ro: "Strassen", en: "Strassen",
 image: "/poi-images/luxembourg-strassen-cities-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Modern architecture of Les Thermes in Strassen",
     image: "/poi-images/luxembourg-strassen-cities-v2.webp",
 },  {
     id: "luxembourg-bertrange-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Bartringen", hu: "Bertrange", ro: "Bertrange", en: "Bertrange",
 image: "/poi-images/luxembourg-bertrange-cities-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Main square and church in Bertrange",
     image: "/poi-images/luxembourg-bertrange-cities-v2.webp",
 },  {
     id: "luxembourg-walferdange-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Walferdingen", hu: "Walferdange", ro: "Walferdange", en: "Walferdange",
 image: "/poi-images/luxembourg-walferdange-cities-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Walferdange Castle facade",
     image: "/poi-images/luxembourg-walferdange-cities-v2.webp",
 },  {
     id: "luxembourg-junglinster-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Junglinster", hu: "Junglinster", ro: "Junglinster", en: "Junglinster",
 image: "/poi-images/luxembourg-junglinster-cities-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Tall radio towers of Junglinster",
     image: "/poi-images/luxembourg-junglinster-cities-v2.webp",
 },  {
     id: "luxembourg-diekirch-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Diekirch", hu: "Diekirch", ro: "Diekirch", en: "Diekirch",
 image: "/poi-images/luxembourg-diekirch-cities-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Central square of Diekirch with the donkey fountain",
     image: "/poi-images/luxembourg-diekirch-cities-v2.webp",
 },  {
     id: "luxembourg-bascharage-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Niederkerschen", hu: "Bascharage", ro: "Bascharage", en: "Bascharage",
 image: "/poi-images/luxembourg-bascharage-cities-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Bofferding brewery buildings in Bascharage",
     image: "/poi-images/luxembourg-bascharage-cities-v2.webp",
 },  {
     id: "luxembourg-kehlen-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Kehlen", hu: "Kehlen", ro: "Kehlen", en: "Kehlen",
 image: "/poi-images/luxembourg-kehlen-cities-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Aerial view of Kehlen on the plateau",
     image: "/poi-images/luxembourg-kehlen-cities-v2.webp",
 },  {
     id: "luxembourg-wiltz-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Wiltz", hu: "Wiltz", ro: "Wiltz", en: "Wiltz",
 image: "/poi-images/luxembourg-wiltz-cities-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Wiltz Castle with its outdoor amphitheater",
     image: "/poi-images/luxembourg-wiltz-cities-v2.webp",
 },  {
     id: "luxembourg-echternach-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Echternach", hu: "Echternach", ro: "Echternach", en: "Echternach",
 image: "/poi-images/luxembourg-echternach-cities-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Echternach Abbey and its gardens",
     image: "/poi-images/luxembourg-echternach-cities-v2.webp",
 },  {
     id: "luxembourg-mondercange-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Monnerich", hu: "Mondercange", ro: "Mondercange", en: "Mondercange",
 image: "/poi-images/luxembourg-mondercange-cities-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Modern church tower in Mondercange",
     image: "/poi-images/luxembourg-mondercange-cities-v2.webp",
 },  {
     id: "luxembourg-roeser-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Roeser", hu: "Roeser", ro: "Roeser", en: "Roeser",
 image: "/poi-images/luxembourg-roeser-cities-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Rural landscape and fields near Roeser",
     image: "/poi-images/luxembourg-roeser-cities-v2.webp",
 },  {
     id: "luxembourg-steinsel-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Steinsel", hu: "Steinsel", ro: "Steinsel", en: "Steinsel",
 image: "/poi-images/luxembourg-steinsel-cities-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Strawberry fields in the Alzette valley near Steinsel",
     image: "/poi-images/luxembourg-steinsel-cities-v2.webp",
 },  {
     id: "luxembourg-niederanven-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Niederanven", hu: "Niederanven", ro: "Niederanven", en: "Niederanven",
 image: "/poi-images/luxembourg-niederanven-cities-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "The terminal of Luxembourg Airport in Findel",
     image: "/poi-images/luxembourg-niederanven-cities-v2.webp",
 },  {
     id: "luxembourg-rumelange-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Rümelingen", hu: "Rumelange", ro: "Rumelange", en: "Rumelange",
 image: "/poi-images/luxembourg-rumelange-cities-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Mining cart outside the museum in Rumelange",
     image: "/poi-images/luxembourg-rumelange-cities-v2.webp",
 },  {
     id: "luxembourg-steinfort-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Steinfort", hu: "Steinfort", ro: "Steinfort", en: "Steinfort",
 image: "/poi-images/luxembourg-steinfort-cities-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Historic villa in Steinfort near the border",
     image: "/poi-images/luxembourg-steinfort-cities-v2.webp",
 },  {
     id: "luxembourg-mondorf-les-bains-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Bad Mondorf", hu: "Mondorf-les-Bains", ro: "Mondorf-les-Bains", en: "Mondorf-les-Bains",
 image: "/poi-images/luxembourg-mondorf-les-bains-cities-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Thermal baths building in Mondorf-les-Bains",
     image: "/poi-images/luxembourg-mondorf-les-bains-cities-v2.webp",
 },  {
     id: "luxembourg-grevenmacher-cities-v2",
+    parent: "LU",
     type: "town",
     name: { de: "Grevenmacher", hu: "Grevenmacher", ro: "Grevenmacher", en: "Grevenmacher",
 image: "/poi-images/luxembourg-grevenmacher-cities-v2.webp"

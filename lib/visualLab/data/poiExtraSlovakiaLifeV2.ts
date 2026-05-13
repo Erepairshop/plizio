@@ -3,6 +3,7 @@ export const slovakiaLifeV2: POI[] = [
 
   {
     id: "slovakia-low-tatras-national-park-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Nationalpark Niedere Tatra", hu: "Alacsony-Tátra Nemzeti Park", ro: "Parcul Național Tatra Joasă", en: "Low Tatras National Park",
 image: "/poi-images/slovakia-low-tatras-national-park-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Low Tatras mountains landscape",
     , image: "/poi-images/slovakia-low-tatras-national-park-life-v2.webp",
 },  {
     id: "slovakia-slovak-paradise-national-park-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Nationalpark Slowakischer Raj", hu: "Szlovák Paradicsom Nemzeti Park", ro: "Parcul Național Paradisul Slovac", en: "Slovak Paradise National Park",
 image: "/poi-images/slovakia-slovak-paradise-national-park-life-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
     , image: "/poi-images/slovakia-slovak-paradise-national-park-life-v2.webp",
 },  {
     id: "slovakia-mala-fatra-national-park-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Nationalpark Kleine Fatra", hu: "Kis-Fátra Nemzeti Park", ro: "Parcul Național Mica Fatra", en: "Malá Fatra National Park",
 image: "/poi-images/slovakia-mala-fatra-national-park-life-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Malá Fatra mountain ridge",
     , image: "/poi-images/slovakia-mala-fatra-national-park-life-v2.webp",
 },  {
     id: "slovakia-muranska-planina-national-park-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Nationalpark Muránska planina", hu: "Murányi-fennsík Nemzeti Park", ro: "Parcul Național Muránska planina", en: "Muránska planina National Park",
 image: "/poi-images/slovakia-muranska-planina-national-park-life-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Muránska planina karst plateau",
     , image: "/poi-images/slovakia-muranska-planina-national-park-life-v2.webp",
 },  {
     id: "slovakia-poloniny-national-park-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Nationalpark Poloniny", hu: "Poloniny Nemzeti Park", ro: "Parcul Național Poloniny", en: "Poloniny National Park",
 image: "/poi-images/slovakia-poloniny-national-park-life-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Primeval beech forest in Poloniny",
     , image: "/poi-images/slovakia-poloniny-national-park-life-v2.webp",
 },  {
     id: "slovakia-slovak-karst-national-park-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Nationalpark Slowakischer Karst", hu: "Szlovák Karszt Nemzeti Park", ro: "Parcul Național Carstul Slovac", en: "Slovak Karst National Park",
 image: "/poi-images/slovakia-slovak-karst-national-park-life-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Karst landscape in Slovakia",
     , image: "/poi-images/slovakia-slovak-karst-national-park-life-v2.webp",
 },  {
     id: "slovakia-velka-fatra-national-park-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Nationalpark Große Fatra", hu: "Nagy-Fátra Nemzeti Park", ro: "Parcul Național Marea Fatra", en: "Veľká Fatra National Park",
 image: "/poi-images/slovakia-velka-fatra-national-park-life-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Veľká Fatra mountain meadows",
     , image: "/poi-images/slovakia-velka-fatra-national-park-life-v2.webp",
 },  {
     id: "slovakia-bojnice-zoo-life-v2",
+    parent: "SK",
     type: "wildlife",
     name: { de: "Nationalzoo Bojnice", hu: "Bajmóci Állatkert", ro: "Grădina Zoologică Bojnice", en: "Bojnice National Zoo",
 image: "/poi-images/slovakia-bojnice-zoo-life-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Elephants in Bojnice Zoo",
     , image: "/poi-images/slovakia-bojnice-zoo-life-v2.webp",
 },  {
     id: "slovakia-bratislava-zoo-life-v2",
+    parent: "SK",
     type: "wildlife",
     name: { de: "Zoo Bratislava", hu: "Pozsonyi Állatkert", ro: "Grădina Zoologică Bratislava", en: "Bratislava Zoo",
 image: "/poi-images/slovakia-bratislava-zoo-life-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Tigers in Bratislava Zoo",
     , image: "/poi-images/slovakia-bratislava-zoo-life-v2.webp",
 },  {
     id: "slovakia-kosice-zoo-life-v2",
+    parent: "SK",
     type: "wildlife",
     name: { de: "Zoo Košice", hu: "Kassai Állatkert", ro: "Grădina Zoologică Košice", en: "Košice Zoo",
 image: "/poi-images/slovakia-kosice-zoo-life-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Bears in Košice Zoo enclosure",
     , image: "/poi-images/slovakia-kosice-zoo-life-v2.webp",
 },  {
     id: "slovakia-mlynany-arboretum-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Arboretum Mlyňany", hu: "Mlyňanyi Arborétum", ro: "Arboretum Mlyňany", en: "Arboretum Mlyňany",
 image: "/poi-images/slovakia-mlynany-arboretum-life-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Arboretum Mlyňany botanical garden",
     , image: "/poi-images/slovakia-mlynany-arboretum-life-v2.webp",
 },  {
     id: "slovakia-topolcianky-bison-park-life-v2",
+    parent: "SK",
     type: "wildlife",
     name: { de: "Wisentgehege Topoľčianky", hu: "Kistapolcsányi Bölényrezervátum", ro: "Rezervația de Zimbri Topoľčianky", en: "Topoľčianky European Bison Park",
 image: "/poi-images/slovakia-topolcianky-bison-park-life-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "European bison in forest enclosure",
     , image: "/poi-images/slovakia-topolcianky-bison-park-life-v2.webp",
 },  {
     id: "slovakia-morske-oko-lake-life-v2",
+    parent: "SK",
     type: "lake",
     name: { de: "See Morské oko", hu: "Morské oko (tó)", ro: "Lacul Morské oko", en: "Morské oko Lake",
 image: "/poi-images/slovakia-morske-oko-lake-life-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Morské oko lake in Vihorlat forest",
     , image: "/poi-images/slovakia-morske-oko-lake-life-v2.webp",
 },  {
     id: "slovakia-sur-nature-reserve-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Naturreservat Šúr", hu: "Šúr természetvédelmi terület", ro: "Rezervația Naturală Šúr", en: "Šúr Nature Reserve",
 image: "/poi-images/slovakia-sur-nature-reserve-life-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Alder fen forest in Šúr",
     , image: "/poi-images/slovakia-sur-nature-reserve-life-v2.webp",
 },  {
     id: "slovakia-devinska-kobyla-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Naturreservat Devínska Kobyla", hu: "Dévényi-tető természetvédelmi terület", ro: "Rezervația Naturală Devínska Kobyla", en: "Devínska Kobyla Nature Reserve",
 image: "/poi-images/slovakia-devinska-kobyla-life-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Sandberg fossils on Devínska Kobyla",
     , image: "/poi-images/slovakia-devinska-kobyla-life-v2.webp",
 },  {
     id: "slovakia-latorica-protected-area-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Landschaftsschutzgebiet Latorica", hu: "Latorca Tájvédelmi Körzet", ro: "Aria Protejată Latorica", en: "Latorica Protected Landscape Area",
 image: "/poi-images/slovakia-latorica-protected-area-life-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Latorica river and wetlands",
     , image: "/poi-images/slovakia-latorica-protected-area-life-v2.webp",
 },  {
     id: "slovakia-danube-floodplains-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Landschaftsschutzgebiet Dunajské luhy", hu: "Dunajské luhy Tájvédelmi Körzet", ro: "Aria Protejată Luncile Dunării", en: "Danube Floodplains Protected Landscape Area",
 image: "/poi-images/slovakia-danube-floodplains-life-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Danube river floodplain forest",
     , image: "/poi-images/slovakia-danube-floodplains-life-v2.webp",
 },  {
     id: "slovakia-polana-protected-area-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Landschaftsschutzgebiet Poľana", hu: "Polyána Tájvédelmi Körzet", ro: "Aria Protejată Poľana", en: "Poľana Protected Landscape Area",
 image: "/poi-images/slovakia-polana-protected-area-life-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Poľana mountain forest landscape",
     , image: "/poi-images/slovakia-polana-protected-area-life-v2.webp",
 },  {
     id: "slovakia-kysuce-protected-area-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Landschaftsschutzgebiet Kysuce", hu: "Kiszuca Tájvédelmi Körzet", ro: "Aria Protejată Kysuce", en: "Kysuce Protected Landscape Area",
 image: "/poi-images/slovakia-kysuce-protected-area-life-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Kysuce mountain village and meadows",
     , image: "/poi-images/slovakia-kysuce-protected-area-life-v2.webp",
 },  {
     id: "slovakia-horna-orava-protected-area-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Landschaftsschutzgebiet Horná Orava", hu: "Felső-Árva Tájvédelmi Körzet", ro: "Aria Protejată Orava Superioară", en: "Horná Orava Protected Landscape Area",
 image: "/poi-images/slovakia-horna-orava-protected-area-life-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Orava reservoir with mountains",
     , image: "/poi-images/slovakia-horna-orava-protected-area-life-v2.webp",
 },  {
     id: "slovakia-male-karpaty-protected-area-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Landschaftsschutzgebiet Kleine Karpaten", hu: "Kis-Kárpátok Tájvédelmi Körzet", ro: "Aria Protejată Carpații Mici", en: "Malé Karpaty Protected Landscape Area",
 image: "/poi-images/slovakia-male-karpaty-protected-area-life-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Small Carpathians forest and vineyard",
     , image: "/poi-images/slovakia-male-karpaty-protected-area-life-v2.webp",
 },  {
     id: "slovakia-vihorlat-protected-area-life-v2",
+    parent: "SK",
     type: "park",
     name: { de: "Landschaftsschutzgebiet Vihorlat", hu: "Vihorlát Tájvédelmi Körzet", ro: "Aria Protejată Vihorlat", en: "Vihorlat Protected Landscape Area",
 image: "/poi-images/slovakia-vihorlat-protected-area-life-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Vihorlat mountains forest",
     , image: "/poi-images/slovakia-vihorlat-protected-area-life-v2.webp",
 },  {
     id: "slovakia-badin-primeval-forest-life-v2",
+    parent: "SK",
     type: "forest",
     name: { de: "Urwald Badín", hu: "Badíni-őserdő", ro: "Pădurea Virgina Badín", en: "Badín Primeval Forest",
 image: "/poi-images/slovakia-badin-primeval-forest-life-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Old growth forest in Badín",
     , image: "/poi-images/slovakia-badin-primeval-forest-life-v2.webp",
 },  {
     id: "slovakia-dobroc-primeval-forest-life-v2",
+    parent: "SK",
     type: "forest",
     name: { de: "Urwald Dobroč", hu: "Dobroči-őserdő", ro: "Pădurea Virgina Dobroč", en: "Dobroč Primeval Forest",
 image: "/poi-images/slovakia-dobroc-primeval-forest-life-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Giant primeval forest trees",
     , image: "/poi-images/slovakia-dobroc-primeval-forest-life-v2.webp",
 },  {
     id: "slovakia-stuzica-primeval-forest-life-v2",
+    parent: "SK",
     type: "forest",
     name: { de: "Urwald Stužica", hu: "Stužica-őserdő", ro: "Pădurea Virgina Stužica", en: "Stužica Primeval Forest",
 image: "/poi-images/slovakia-stuzica-primeval-forest-life-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Stužica primeval forest interior",
     , image: "/poi-images/slovakia-stuzica-primeval-forest-life-v2.webp",
 },  {
     id: "slovakia-havesova-nature-reserve-life-v2",
+    parent: "SK",
     type: "forest",
     name: { de: "Naturreservat Havešová", hu: "Havešová természetvédelmi terület", ro: "Rezervația Naturală Havešová", en: "Havešová Nature Reserve",
 image: "/poi-images/slovakia-havesova-nature-reserve-life-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Tall beech trees in Havešová",
     , image: "/poi-images/slovakia-havesova-nature-reserve-life-v2.webp",
 },  {
     id: "slovakia-rozok-nature-reserve-life-v2",
+    parent: "SK",
     type: "forest",
     name: { de: "Naturreservat Rožok", hu: "Rožok természetvédelmi terület", ro: "Rezervația Naturală Rožok", en: "Rožok Nature Reserve",
 image: "/poi-images/slovakia-rozok-nature-reserve-life-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Compact beech forest Rožok",
     , image: "/poi-images/slovakia-rozok-nature-reserve-life-v2.webp",
 },  {
     id: "slovakia-maninska-tiesnava-life-v2",
+    parent: "SK",
     type: "valley",
     name: { de: "Manínska-Schlucht", hu: "Maníni-szurdok", ro: "Cheile Manínska", en: "Manínska tiesňava Gorge",
 image: "/poi-images/slovakia-maninska-tiesnava-life-v2.webp"

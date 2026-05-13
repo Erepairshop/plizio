@@ -3,6 +3,7 @@ export const russiaEconomicV2: POI[] = [
 
   {
     id: "russia-magnitogorsk-steel-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Magnitogorsker Eisen- und Stahlkombinat", hu: "Magnyitogorszki Vas- és Acélművek", ro: "Combinatul Siderurgic din Magnitogorsk", en: "Magnitogorsk Iron and Steel Works",
 image: "/poi-images/russia-magnitogorsk-steel-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Industrial skyline of Magnitogorsk Iron and Steel Works",
     , image: "/poi-images/russia-magnitogorsk-steel-economic-v2.webp",
 },  {
     id: "russia-norilsk-nickel-economic-v2",
+    parent: "RU",
     type: "mine",
     name: { de: "Nornickel Bergbaukomplex", hu: "Nornickel bányászati komplexum", ro: "Complexul minier Nornickel", en: "Nornickel Mining Complex",
 image: "/poi-images/russia-norilsk-nickel-economic-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Mining industrial facility in Norilsk Arctic landscape",
     , image: "/poi-images/russia-norilsk-nickel-economic-v2.webp",
 },  {
     id: "russia-moscow-city-economic-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Moskau City Geschäftsviertel", hu: "Moszkva-City üzleti negyed", ro: "Centrul Internațional de Afaceri din Moscova", en: "Moscow City Business District",
 image: "/poi-images/russia-moscow-city-economic-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Skyscrapers of Moscow City international business district",
     , image: "/poi-images/russia-moscow-city-economic-v2.webp",
 },  {
     id: "russia-avtovaz-factory-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "AvtoVAZ Automobilwerk", hu: "AvtoVAZ autógyár", ro: "Fabrica de automobile AvtoVAZ", en: "AvtoVAZ Automobile Plant",
 image: "/poi-images/russia-avtovaz-factory-economic-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "AvtoVAZ car factory assembly line or building in Tolyatti",
     , image: "/poi-images/russia-avtovaz-factory-economic-v2.webp",
 },  {
     id: "russia-kamaz-factory-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Kamaz LKW-Werk", hu: "Kamaz teherautógyár", ro: "Fabrica de camioane Kamaz", en: "Kamaz Truck Plant",
 image: "/poi-images/russia-kamaz-factory-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Kamaz truck manufacturing plant or heavy truck",
     , image: "/poi-images/russia-kamaz-factory-economic-v2.webp",
 },  {
     id: "russia-mir-mine-economic-v2",
+    parent: "RU",
     type: "mine",
     name: { de: "Mir Diamantenmine", hu: "Mir gyémántbánya", ro: "Mina de diamante Mir", en: "Mir Diamond Mine",
 image: "/poi-images/russia-mir-mine-economic-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Massive open-pit Mir diamond mine in Siberia",
     , image: "/poi-images/russia-mir-mine-economic-v2.webp",
 },  {
     id: "russia-port-novorossiysk-economic-v2",
+    parent: "RU",
     type: "port",
     name: { de: "Seehafen von Noworossijsk", hu: "Novorosszijszki tengeri kikötő", ro: "Portul maritim Novorossiisk", en: "Port of Novorossiysk",
 image: "/poi-images/russia-port-novorossiysk-economic-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Cargo ships and cranes at Port of Novorossiysk",
     , image: "/poi-images/russia-port-novorossiysk-economic-v2.webp",
 },  {
     id: "russia-sayano-shushenskaya-dam-economic-v2",
+    parent: "RU",
     type: "industry",
     name: { de: "Sajano-Schuschensker Wasserkraftwerk", hu: "Szajano-susenszkojei vízerőmű", ro: "Hidrocentrala Saiano-Șușenskaia", en: "Sayano-Shushenskaya Hydroelectric Station",
 image: "/poi-images/russia-sayano-shushenskaya-dam-economic-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
     , image: "/poi-images/russia-sayano-shushenskaya-dam-economic-v2.webp",
 },  {
     id: "russia-surgut-oil-gas-economic-v2",
+    parent: "RU",
     type: "industry",
     name: { de: "Erdölzentrum Surgut", hu: "Szurgut olajipari központ", ro: "Centrul petrolier Surgut", en: "Surgut Oil and Gas Hub",
 image: "/poi-images/russia-surgut-oil-gas-economic-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Oil refinery and industrial skyline of Surgut",
     , image: "/poi-images/russia-surgut-oil-gas-economic-v2.webp",
 },  {
     id: "russia-vostochny-cosmodrome-economic-v2",
+    parent: "RU",
     type: "industry",
     name: { de: "Kosmodrom Wostotschny", hu: "Vosztocsnij kozmodrom", ro: "Cosmodromul Vostochny", en: "Vostochny Cosmodrome",
 image: "/poi-images/russia-vostochny-cosmodrome-economic-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Launch pad and rocket assembly at Vostochny Cosmodrome",
     , image: "/poi-images/russia-vostochny-cosmodrome-economic-v2.webp",
 },  {
     id: "russia-uralvagonzavod-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Uralvagonzawod Maschinenbau", hu: "Uralvagonzavod gépgyár", ro: "Uzina Uralvagonzavod", en: "Uralvagonzavod Machine Building",
 image: "/poi-images/russia-uralvagonzavod-economic-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Industrial complex of Uralvagonzavod in Nizhny Tagil",
     , image: "/poi-images/russia-uralvagonzavod-economic-v2.webp",
 },  {
     id: "russia-yamal-lng-sabetta-economic-v2",
+    parent: "RU",
     type: "industry",
     name: { de: "Yamal LNG Anlage Sabetta", hu: "Jamal LNG üzem, Szabetta", ro: "Instalația Yamal LNG Sabetta", en: "Yamal LNG Plant Sabetta",
 image: "/poi-images/russia-yamal-lng-sabetta-economic-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "LNG processing facility and port at Sabetta Arctic",
     , image: "/poi-images/russia-yamal-lng-sabetta-economic-v2.webp",
 },  {
     id: "russia-severstal-cherepovets-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Severstal Stahlwerk Tscherepowez", hu: "Szeversztal acélmű, Cserepovec", ro: "Combinatul Severstal din Cerepoveț", en: "Severstal Cherepovets Steel Mill",
 image: "/poi-images/russia-severstal-cherepovets-economic-v2.webp"
@@ -445,6 +458,7 @@ image: "/poi-images/russia-severstal-cherepovets-economic-v2.webp"
   },
   {
     id: "russia-omsk-oil-refinery-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Raffinerie Omsk", hu: "Omszki olajfinomító", ro: "Rafinăria de petrol Omsk", en: "Omsk Oil Refinery",
 image: "/poi-images/russia-omsk-oil-refinery-economic-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Vast industrial oil refinery complex in Omsk",
     , image: "/poi-images/russia-omsk-oil-refinery-economic-v2.webp",
 },  {
     id: "russia-bratsk-aluminum-smelter-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Aluminiumhütte Bratsk", hu: "Bratszki alumíniumkohó", ro: "Topitoria de aluminiu Bratsk", en: "Bratsk Aluminum Smelter",
 image: "/poi-images/russia-bratsk-aluminum-smelter-economic-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Bratsk aluminum smelter industrial buildings",
     , image: "/poi-images/russia-bratsk-aluminum-smelter-economic-v2.webp",
 },  {
     id: "russia-ust-luga-port-economic-v2",
+    parent: "RU",
     type: "port",
     name: { de: "Seehafen Ust-Luga", hu: "Uszt-Luga tengeri kikötő", ro: "Portul Ust-Luga", en: "Port of Ust-Luga",
 image: "/poi-images/russia-ust-luga-port-economic-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Modern shipping terminals at Port of Ust-Luga",
     , image: "/poi-images/russia-ust-luga-port-economic-v2.webp",
 },  {
     id: "russia-udachnaya-pipe-economic-v2",
+    parent: "RU",
     type: "mine",
     name: { de: "Diamantenmine Udatschnaja", hu: "Udacsnaja gyémántbánya", ro: "Mina de diamante Udacinaia", en: "Udachnaya Diamond Pipe",
 image: "/poi-images/russia-udachnaya-pipe-economic-v2.webp"
@@ -581,6 +598,7 @@ image: "/poi-images/russia-udachnaya-pipe-economic-v2.webp"
   },
   {
     id: "russia-beloyarsk-nuclear-economic-v2",
+    parent: "RU",
     type: "industry",
     name: { de: "Kernkraftwerk Belojarsk", hu: "Belojarszki atomerőmű", ro: "Centrala nucleară Beloiarsk", en: "Beloyarsk Nuclear Power Station",
 image: "/poi-images/russia-beloyarsk-nuclear-economic-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Beloyarsk nuclear power plant reactors and cooling towers",
     , image: "/poi-images/russia-beloyarsk-nuclear-economic-v2.webp",
 },  {
     id: "russia-alabuga-sez-economic-v2",
+    parent: "RU",
     type: "industry",
     name: { de: "Sonderwirtschaftszone Alabuga", hu: "Alabuga különleges gazdasági övezet", ro: "Zona Economică Specială Alabuga", en: "Alabuga Special Economic Zone",
 image: "/poi-images/russia-alabuga-sez-economic-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Modern industrial warehouses and factories in Alabuga SEZ",
     , image: "/poi-images/russia-alabuga-sez-economic-v2.webp",
 },  {
     id: "russia-innopolis-tech-economic-v2",
+    parent: "RU",
     type: "city",
     name: { de: "Innopolis Technologiestadt", hu: "Innopolis technológiai város", ro: "Orașul tehnologic Innopolis", en: "Innopolis Tech City",
 image: "/poi-images/russia-innopolis-tech-economic-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Modern university building and tech campus in Innopolis",
     , image: "/poi-images/russia-innopolis-tech-economic-v2.webp",
 },  {
     id: "russia-angarsk-petrochemical-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Petrochemisches Kombinat Angarsk", hu: "Angarszki petrolkémiai kombinát", ro: "Combinatul petrochimic Angarsk", en: "Angarsk Petrochemical Complex",
 image: "/poi-images/russia-angarsk-petrochemical-economic-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Large industrial towers of Angarsk petrochemical complex",
     , image: "/poi-images/russia-angarsk-petrochemical-economic-v2.webp",
 },  {
     id: "russia-vyksa-steel-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Stahlwerk Wyksa", hu: "Vixai acélmű", ro: "Uzina siderurgică din Vyksa", en: "Vyksa Steel Works",
 image: "/poi-images/russia-vyksa-steel-economic-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Large steel factory interior or exterior in Vyksa",
     , image: "/poi-images/russia-vyksa-steel-economic-v2.webp",
 },  {
     id: "russia-port-murmansk-economic-v2",
+    parent: "RU",
     type: "port",
     name: { de: "Seehafen Murmansk", hu: "Murmanszki tengeri kikötő", ro: "Portul Murmansk", en: "Port of Murmansk",
 image: "/poi-images/russia-port-murmansk-economic-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Cargo port with ships in Murmansk winter",
     , image: "/poi-images/russia-port-murmansk-economic-v2.webp",
 },  {
     id: "russia-nlmk-lipetsk-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "NLMK Stahlwerk Lipezk", hu: "NLMK acélmű, Lipeck", ro: "Combinatul NLMK Lipetsk", en: "NLMK Lipetsk Steel Works",
 image: "/poi-images/russia-nlmk-lipetsk-economic-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "NLMK industrial steel factory panorama in Lipetsk",
     , image: "/poi-images/russia-nlmk-lipetsk-economic-v2.webp",
 },  {
     id: "russia-chelyabinsk-tractor-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Tscheljabinsker Traktorenwerk", hu: "Cseljabinszki Traktorgyár", ro: "Uzina de tractoare din Celeabinsk", en: "Chelyabinsk Tractor Plant",
 image: "/poi-images/russia-chelyabinsk-tractor-economic-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Chelyabinsk tractor plant industrial gate or vehicles",
     , image: "/poi-images/russia-chelyabinsk-tractor-economic-v2.webp",
 },  {
     id: "russia-volzhsky-pipe-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Rohrwerk Wolzhsky", hu: "Volzsszkiji csőgyár", ro: "Uzina de țevi Volzhsky", en: "Volzhsky Pipe Plant",
 image: "/poi-images/russia-volzhsky-pipe-economic-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Stacks of large steel pipes at Volzhsky factory",
     , image: "/poi-images/russia-volzhsky-pipe-economic-v2.webp",
 },  {
     id: "russia-krasnoyarsk-aluminum-economic-v2",
+    parent: "RU",
     type: "factory",
     name: { de: "Aluminiumhütte Krasnojarsk", hu: "Krasznojarszki alumíniumkohó", ro: "Topitoria de aluminiu Krasnoiarsk", en: "Krasnoyarsk Aluminum Smelter",
 image: "/poi-images/russia-krasnoyarsk-aluminum-economic-v2.webp"
@@ -921,6 +948,7 @@ image: "/poi-images/russia-krasnoyarsk-aluminum-economic-v2.webp"
   },
   {
     id: "russia-sakhalin-2-lng-economic-v2",
+    parent: "RU",
     type: "industry",
     name: { de: "Sakhalin-2 LNG-Anlage", hu: "Szahalin-2 LNG-üzem", ro: "Instalația GNL Sahalin-2", en: "Sakhalin-2 LNG Plant",
 image: "/poi-images/russia-sakhalin-2-lng-economic-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "LNG storage tanks and shipping terminal on Sakhalin Island",
     , image: "/poi-images/russia-sakhalin-2-lng-economic-v2.webp",
 },  {
     id: "russia-bilibino-nuclear-economic-v2",
+    parent: "RU",
     type: "industry",
     name: { de: "Kernkraftwerk Bilibino", hu: "Bilibinói atomerőmű", ro: "Centrala nucleară Bilibino", en: "Bilibino Nuclear Power Plant",
 image: "/poi-images/russia-bilibino-nuclear-economic-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
     , image: "/poi-images/russia-bilibino-nuclear-economic-v2.webp",
 },  {
     id: "russia-st-petersburg-port-economic-v2",
+    parent: "RU",
     type: "port",
     name: { de: "Großer Hafen von Sankt Petersburg", hu: "Szentpétervári nagy kikötő", ro: "Marele Port Sankt Petersburg", en: "Big Port St. Petersburg",
 image: "/poi-images/russia-st-petersburg-port-economic-v2.webp"

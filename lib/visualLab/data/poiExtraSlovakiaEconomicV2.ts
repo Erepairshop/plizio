@@ -3,6 +3,7 @@ export const slovakiaEconomicV2: POI[] = [
 
   {
     id: "slovakia-volkswagen-bratislava-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Volkswagen-Werk Bratislava", hu: "Pozsonyi Volkswagen gyár", ro: "Fabrica Volkswagen Bratislava", en: "Volkswagen Bratislava Plant",
 image: "/poi-images/slovakia-volkswagen-bratislava-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Modern car assembly line in a large industrial hall",
     , image: "/poi-images/slovakia-volkswagen-bratislava-economic-v2.webp",
 },  {
     id: "slovakia-slovnaft-bratislava-economic-v2",
+    parent: "SK",
     type: "industry",
     name: { de: "Slovnaft-Raffinerie", hu: "Slovnaft finomító", ro: "Rafinăria Slovnaft", en: "Slovnaft Refinery",
 image: "/poi-images/slovakia-slovnaft-bratislava-economic-v2.webp"
@@ -71,6 +73,7 @@ image: "/poi-images/slovakia-slovnaft-bratislava-economic-v2.webp"
   },
   {
     id: "slovakia-us-steel-kosice-economic-v2",
+    parent: "SK",
     type: "industry",
     name: { de: "U. S. Steel Košice", hu: "U. S. Steel Kassa", ro: "U. S. Steel Košice", en: "U. S. Steel Košice",
 image: "/poi-images/slovakia-us-steel-kosice-economic-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Massive steel mill with glowing molten metal",
     , image: "/poi-images/slovakia-us-steel-kosice-economic-v2.webp",
 },  {
     id: "slovakia-kia-zilina-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Kia-Werk Žilina", hu: "Zsolnai Kia gyár", ro: "Fabrica Kia Žilina", en: "Kia Slovakia Plant",
 image: "/poi-images/slovakia-kia-zilina-economic-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Kia factory exterior with finished cars in the lot",
     , image: "/poi-images/slovakia-kia-zilina-economic-v2.webp",
 },  {
     id: "slovakia-stellantis-trnava-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Stellantis-Werk Trnava", hu: "Nagyszombati Stellantis gyár", ro: "Fabrica Stellantis Trnava", en: "Stellantis Trnava Plant",
 image: "/poi-images/slovakia-stellantis-trnava-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Car factory production line with robots",
     , image: "/poi-images/slovakia-stellantis-trnava-economic-v2.webp",
 },  {
     id: "slovakia-jaguar-land-rover-nitra-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Jaguar Land Rover Nitra", hu: "Jaguar Land Rover Nyitra", ro: "Jaguar Land Rover Nitra", en: "Jaguar Land Rover Nitra",
 image: "/poi-images/slovakia-jaguar-land-rover-nitra-economic-v2.webp"
@@ -207,6 +213,7 @@ image: "/poi-images/slovakia-jaguar-land-rover-nitra-economic-v2.webp"
   },
   {
     id: "slovakia-mochovce-power-plant-economic-v2",
+    parent: "SK",
     type: "industry",
     name: { de: "Kernkraftwerk Mochovce", hu: "Mohi atomerőmű", ro: "Centrala nucleară Mochovce", en: "Mochovce Nuclear Power Plant",
 image: "/poi-images/slovakia-mochovce-power-plant-economic-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Nuclear power plant cooling towers with steam",
     , image: "/poi-images/slovakia-mochovce-power-plant-economic-v2.webp",
 },  {
     id: "slovakia-jaslovske-bohunice-power-plant-economic-v2",
+    parent: "SK",
     type: "industry",
     name: { de: "Kernkraftwerk Jaslovské Bohunice", hu: "Apátszentkereszti (Bohunice) atomerőmű", ro: "Centrala nucleară Jaslovské Bohunice", en: "Jaslovské Bohunice Nuclear Power Plant",
 image: "/poi-images/slovakia-jaslovske-bohunice-power-plant-economic-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Industrial power plant complex with cooling towers",
     , image: "/poi-images/slovakia-jaslovske-bohunice-power-plant-economic-v2.webp",
 },  {
     id: "slovakia-gabcikovo-dam-economic-v2",
+    parent: "SK",
     type: "industry",
     name: { de: "Wasserkraftwerk Gabčíkovo", hu: "Bősi vízerőmű", ro: "Hidrocentrala Gabčíkovo", en: "Gabčíkovo Hydroelectric Plant",
 image: "/poi-images/slovakia-gabcikovo-dam-economic-v2.webp"
@@ -310,6 +319,7 @@ imageHint: "Large hydroelectric dam on a wide river",
     , image: "/poi-images/slovakia-gabcikovo-dam-economic-v2.webp",
 },  {
     id: "slovakia-mondi-scp-ruzomberok-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Mondi SCP Ružomberok", hu: "Mondi SCP Rózsahegy", ro: "Mondi SCP Ružomberok", en: "Mondi SCP Ružomberok",
 image: "/poi-images/slovakia-mondi-scp-ruzomberok-economic-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "Large industrial paper mill with smoke stacks",
     , image: "/poi-images/slovakia-mondi-scp-ruzomberok-economic-v2.webp",
 },  {
     id: "slovakia-slovalco-ziar-nad-hronom-economic-v2",
+    parent: "SK",
     type: "industry",
     name: { de: "Slovalco Aluminiumwerk", hu: "Slovalco alumíniumgyár", ro: "Uzina de aluminiu Slovalco", en: "Slovalco Aluminum Plant",
 image: "/poi-images/slovakia-slovalco-ziar-nad-hronom-economic-v2.webp"
@@ -378,6 +389,7 @@ imageHint: "Industrial aluminum smelting facility",
     , image: "/poi-images/slovakia-slovalco-ziar-nad-hronom-economic-v2.webp",
 },  {
     id: "slovakia-continental-puchov-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Continental Matador Púchov", hu: "Continental Matador Puhó", ro: "Continental Matador Púchov", en: "Continental Púchov",
 image: "/poi-images/slovakia-continental-puchov-economic-v2.webp"
@@ -412,6 +424,7 @@ imageHint: "Stacks of new black tires in a factory warehouse",
     , image: "/poi-images/slovakia-continental-puchov-economic-v2.webp",
 },  {
     id: "slovakia-zentiva-hlohovec-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Zentiva-Pharmawerk", hu: "Zentiva gyógyszergyár", ro: "Fabrica Zentiva Hlohovec", en: "Zentiva Hlohovec",
 image: "/poi-images/slovakia-zentiva-hlohovec-economic-v2.webp"
@@ -446,6 +459,7 @@ image: "/poi-images/slovakia-zentiva-hlohovec-economic-v2.webp"
   },
   {
     id: "slovakia-samsung-galanta-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Samsung Electronics Galanta", hu: "Samsung Electronics Galánta", ro: "Samsung Electronics Galanta", en: "Samsung Electronics Slovakia",
 image: "/poi-images/slovakia-samsung-galanta-economic-v2.webp"
@@ -480,6 +494,7 @@ imageHint: "Large modern electronics assembly plant",
     , image: "/poi-images/slovakia-samsung-galanta-economic-v2.webp",
 },  {
     id: "slovakia-amazon-sered-economic-v2",
+    parent: "SK",
     type: "industry",
     name: { de: "Amazon-Logistikzentrum Sereď", hu: "Szeredi Amazon logisztikai központ", ro: "Centrul logistic Amazon Sereď", en: "Amazon Fulfillment Center Sereď",
 image: "/poi-images/slovakia-amazon-sered-economic-v2.webp"
@@ -514,6 +529,7 @@ imageHint: "Massive modern warehouse building with many loading docks",
     , image: "/poi-images/slovakia-amazon-sered-economic-v2.webp",
 },  {
     id: "slovakia-whirlpool-poprad-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Whirlpool-Werk Poprad", hu: "Poprádi Whirlpool gyár", ro: "Fabrica Whirlpool Poprad", en: "Whirlpool Poprad",
 image: "/poi-images/slovakia-whirlpool-poprad-economic-v2.webp"
@@ -548,6 +564,7 @@ image: "/poi-images/slovakia-whirlpool-poprad-economic-v2.webp"
   },
   {
     id: "slovakia-embraco-spisska-nova-ves-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Embraco-Werk", hu: "Embraco gyár", ro: "Fabrica Embraco", en: "Embraco Slovakia",
 image: "/poi-images/slovakia-embraco-spisska-nova-ves-economic-v2.webp"
@@ -582,6 +599,7 @@ imageHint: "Precision industrial manufacturing equipment",
     , image: "/poi-images/slovakia-embraco-spisska-nova-ves-economic-v2.webp",
 },  {
     id: "slovakia-chemosvit-svit-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Chemosvit Svit", hu: "Chemosvit Szvit", ro: "Chemosvit Svit", en: "Chemosvit Svit",
 image: "/poi-images/slovakia-chemosvit-svit-economic-v2.webp"
@@ -616,6 +634,7 @@ imageHint: "Industrial facility for plastic film production",
     , image: "/poi-images/slovakia-chemosvit-svit-economic-v2.webp",
 },  {
     id: "slovakia-zeleziarne-podbrezova-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Eisenwerk Podbrezová", hu: "Zólyombrézó vasgyár", ro: "Combinatul siderurgic Podbrezová", en: "Železiarne Podbrezová",
 image: "/poi-images/slovakia-zeleziarne-podbrezova-economic-v2.webp"
@@ -650,6 +669,7 @@ imageHint: "Steel pipes stacked in an industrial facility",
     , image: "/poi-images/slovakia-zeleziarne-podbrezova-economic-v2.webp",
 },  {
     id: "slovakia-slovmag-lubenik-economic-v2",
+    parent: "SK",
     type: "mine",
     name: { de: "Slovmag Lubeník", hu: "Slovmag Lubény", ro: "Slovmag Lubeník", en: "Slovmag Lubeník",
 image: "/poi-images/slovakia-slovmag-lubenik-economic-v2.webp"
@@ -684,6 +704,7 @@ imageHint: "Industrial mineral mining and processing site",
     , image: "/poi-images/slovakia-slovmag-lubenik-economic-v2.webp",
 },  {
     id: "slovakia-handlova-coal-mine-economic-v2",
+    parent: "SK",
     type: "mine",
     name: { de: "Kohlebergwerk Handlová", hu: "Nyitrabányai szénbánya", ro: "Mina de cărbune Handlová", en: "Handlová Coal Mine",
 image: "/poi-images/slovakia-handlova-coal-mine-economic-v2.webp"
@@ -706,6 +727,7 @@ image: "/poi-images/slovakia-handlova-coal-mine-economic-v2.webp"
     image: "/poi-images/slovakia-handlova-coal-mine-economic-v2.webp"},
   {
     id: "slovakia-ses-tlmace-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "SES Tlmače", hu: "SES Garamtolmács", ro: "SES Tlmače", en: "SES Tlmače",
 image: "/poi-images/slovakia-ses-tlmace-economic-v2.webp"
@@ -740,6 +762,7 @@ imageHint: "Large industrial steel components for power plants",
     , image: "/poi-images/slovakia-ses-tlmace-economic-v2.webp",
 },  {
     id: "slovakia-pps-group-detva-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "PPS Group Detva", hu: "PPS Group Gyetva", ro: "PPS Group Detva", en: "PPS Group Detva",
 image: "/poi-images/slovakia-pps-group-detva-economic-v2.webp"
@@ -774,6 +797,7 @@ imageHint: "Heavy construction machinery being assembled",
     , image: "/poi-images/slovakia-pps-group-detva-economic-v2.webp",
 },  {
     id: "slovakia-way-industries-krupina-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Way Industries Krupina", hu: "Way Industries Korpona", ro: "Way Industries Krupina", en: "Way Industries Krupina",
 image: "/poi-images/slovakia-way-industries-krupina-economic-v2.webp"
@@ -808,6 +832,7 @@ imageHint: "Specialized demining robot in a field",
     , image: "/poi-images/slovakia-way-industries-krupina-economic-v2.webp",
 },  {
     id: "slovakia-kremnica-mint-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Münzstätte Kremnitz", hu: "Körmöcbányai Pénzverde", ro: "Monezi Kremnica", en: "Kremnica Mint",
 image: "/poi-images/slovakia-kremnica-mint-economic-v2.webp"
@@ -842,6 +867,7 @@ imageHint: "Golden and silver coins being minted",
     , image: "/poi-images/slovakia-kremnica-mint-economic-v2.webp",
 },  {
     id: "slovakia-port-of-bratislava-economic-v2",
+    parent: "SK",
     type: "port",
     name: { de: "Hafen Bratislava", hu: "Pozsonyi kikötő", ro: "Portul Bratislava", en: "Port of Bratislava",
 image: "/poi-images/slovakia-port-of-bratislava-economic-v2.webp"
@@ -876,6 +902,7 @@ imageHint: "River port with cranes and cargo ships on the Danube",
     , image: "/poi-images/slovakia-port-of-bratislava-economic-v2.webp",
 },  {
     id: "slovakia-port-of-komarno-economic-v2",
+    parent: "SK",
     type: "port",
     name: { de: "Hafen Komárno", hu: "Komáromi kikötő", ro: "Portul Komárno", en: "Port of Komárno",
 image: "/poi-images/slovakia-port-of-komarno-economic-v2.webp"
@@ -910,6 +937,7 @@ imageHint: "Cargo port on a river with storage silos",
     , image: "/poi-images/slovakia-port-of-komarno-economic-v2.webp",
 },  {
     id: "slovakia-tatravagonka-poprad-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Tatravagónka Poprad", hu: "Tatravagónka Poprád", ro: "Tatravagónka Poprad", en: "Tatravagónka Poprad",
 image: "/poi-images/slovakia-tatravagonka-poprad-economic-v2.webp"
@@ -944,6 +972,7 @@ imageHint: "New freight train wagons in an industrial yard",
     , image: "/poi-images/slovakia-tatravagonka-poprad-economic-v2.webp",
 },  {
     id: "slovakia-smurfit-kappa-sturovo-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "Smurfit Kappa Štúrovo", hu: "Smurfit Kappa Párkány", ro: "Smurfit Kappa Štúrovo", en: "Smurfit Kappa Štúrovo",
 image: "/poi-images/slovakia-smurfit-kappa-sturovo-economic-v2.webp"
@@ -978,6 +1007,7 @@ imageHint: "Industrial paper production rolls in a factory",
     , image: "/poi-images/slovakia-smurfit-kappa-sturovo-economic-v2.webp",
 },  {
     id: "slovakia-bsh-michalovce-economic-v2",
+    parent: "SK",
     type: "factory",
     name: { de: "BSH Hausgeräte Michalovce", hu: "BSH Hausgeräte Nagymihály", ro: "BSH Hausgeräte Michalovce", en: "BSH Michalovce",
 image: "/poi-images/slovakia-bsh-michalovce-economic-v2.webp"

@@ -3,6 +3,7 @@ export const spainEconomicV2: POI[] = [
 
   {
     id: "spain-port-algeciras-economic-v2",
+    parent: "ES",
     type: "port",
     name: { de: "Hafen von Algeciras", hu: "Algeciras kikötője", ro: "Portul Algeciras", en: "Port of Algeciras",
 image: "/poi-images/spain-port-algeciras-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
     , image: "/poi-images/spain-port-algeciras-economic-v2.webp",
 },  {
     id: "spain-port-valencia-economic-v2",
+    parent: "ES",
     type: "port",
     name: { de: "Hafen von Valencia", hu: "Valenciai kikötő", ro: "Portul Valencia", en: "Port of Valencia",
 image: "/poi-images/spain-port-valencia-economic-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Port of Valencia container ships and logistics area",
     , image: "/poi-images/spain-port-valencia-economic-v2.webp",
 },  {
     id: "spain-port-barcelona-economic-v2",
+    parent: "ES",
     type: "port",
     name: { de: "Hafen von Barcelona", hu: "Barcelonai kikötő", ro: "Portul Barcelona", en: "Port of Barcelona",
 image: "/poi-images/spain-port-barcelona-economic-v2.webp"
@@ -106,6 +109,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
     , image: "/poi-images/spain-port-barcelona-economic-v2.webp",
 },  {
     id: "spain-port-bilbao-economic-v2",
+    parent: "ES",
     type: "port",
     name: { de: "Hafen von Bilbao", hu: "Bilbaói kikötő", ro: "Portul Bilbao", en: "Port of Bilbao",
 image: "/poi-images/spain-port-bilbao-economic-v2.webp"
@@ -140,6 +144,7 @@ imageHint: "Industrial docks of Port of Bilbao",
     , image: "/poi-images/spain-port-bilbao-economic-v2.webp",
 },  {
     id: "spain-seat-martorell-economic-v2",
+    parent: "ES",
     type: "factory",
     name: { de: "SEAT-Werk Martorell", hu: "SEAT Martorell gyár", ro: "Fabrica SEAT Martorell", en: "SEAT Martorell Plant",
 image: "/poi-images/spain-seat-martorell-economic-v2.webp"
@@ -174,6 +179,7 @@ image: "/poi-images/spain-seat-martorell-economic-v2.webp"
   },
   {
     id: "spain-stellantis-vigo-economic-v2",
+    parent: "ES",
     type: "factory",
     name: { de: "Stellantis-Werk Vigo", hu: "Stellantis Vigo gyár", ro: "Fabrica Stellantis Vigo", en: "Stellantis Vigo Plant",
 image: "/poi-images/spain-stellantis-vigo-economic-v2.webp"
@@ -208,6 +214,7 @@ imageHint: "Stellantis Vigo automobile factory exterior",
     , image: "/poi-images/spain-stellantis-vigo-economic-v2.webp",
 },  {
     id: "spain-almeria-greenhouses-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Gewächshäuser von Almería", hu: "Almería üvegházai", ro: "Serele din Almería", en: "Almería Greenhouses",
 image: "/poi-images/spain-almeria-greenhouses-economic-v2.webp"
@@ -242,6 +249,7 @@ image: "/poi-images/spain-almeria-greenhouses-economic-v2.webp"
   },
   {
     id: "spain-inditex-hq-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Inditex-Hauptsitz", hu: "Inditex központ", ro: "Sediul Inditex", en: "Inditex Headquarters",
 image: "/poi-images/spain-inditex-hq-economic-v2.webp"
@@ -276,6 +284,7 @@ imageHint: "Modern Inditex headquarters building in Arteixo",
     , image: "/poi-images/spain-inditex-hq-economic-v2.webp",
 },  {
     id: "spain-cuatro-torres-economic-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "Cuatro Torres Business Area", hu: "Cuatro Torres üzleti negyed", ro: "Cuatro Torres Business Area", en: "Cuatro Torres Business Area",
 image: "/poi-images/spain-cuatro-torres-economic-v2.webp"
@@ -310,6 +319,7 @@ imageHint: "Four skyscrapers of Cuatro Torres in Madrid",
     , image: "/poi-images/spain-cuatro-torres-economic-v2.webp",
 },  {
     id: "spain-azca-district-economic-v2",
+    parent: "ES",
     type: "landmark",
     name: { de: "AZCA-Geschäftsviertel", hu: "AZCA üzleti negyed", ro: "Cartierul AZCA", en: "AZCA District",
 image: "/poi-images/spain-azca-district-economic-v2.webp"
@@ -344,6 +354,7 @@ imageHint: "AZCA business district skyscrapers in Madrid",
     , image: "/poi-images/spain-azca-district-economic-v2.webp",
 },  {
     id: "spain-22-arrob-barcelona-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "22@ Barcelona", hu: "22@ Barcelona", ro: "22@ Barcelona", en: "22@ Barcelona",
 image: "/poi-images/spain-22-arrob-barcelona-economic-v2.webp"
@@ -378,6 +389,7 @@ image: "/poi-images/spain-22-arrob-barcelona-economic-v2.webp"
   },
   {
     id: "spain-rio-tinto-mines-economic-v2",
+    parent: "ES",
     type: "mine",
     name: { de: "Minas de Ríotinto", hu: "Río Tinto bányák", ro: "Minele Rio Tinto", en: "Rio Tinto Mines",
 image: "/poi-images/spain-rio-tinto-mines-economic-v2.webp"
@@ -412,6 +424,7 @@ imageHint: "Open pit mine and red river of Rio Tinto",
     , image: "/poi-images/spain-rio-tinto-mines-economic-v2.webp",
 },  {
     id: "spain-puertollano-industrial-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Industriezentrum Puertollano", hu: "Puertollano ipari központ", ro: "Complexul Industrial Puertollano", en: "Puertollano Industrial Complex",
 image: "/poi-images/spain-puertollano-industrial-economic-v2.webp"
@@ -447,6 +460,7 @@ image: "/poi-images/spain-puertollano-industrial-economic-v2.webp"
   },
   {
     id: "spain-huelva-chemical-pole-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Chemiepol von Huelva", hu: "Huelvai vegyipari központ", ro: "Polul Chimic Huelva", en: "Huelva Chemical Pole",
 image: "/poi-images/spain-huelva-chemical-pole-economic-v2.webp"
@@ -481,6 +495,7 @@ imageHint: "Industrial skyline of Huelva chemical plants",
     , image: "/poi-images/spain-huelva-chemical-pole-economic-v2.webp",
 },  {
     id: "spain-solar-platform-almeria-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Solarplattform von Almería", hu: "Almeríai Napenergia Platform", ro: "Platforma Solară din Almería", en: "Solar Platform of Almería",
 image: "/poi-images/spain-solar-platform-almeria-economic-v2.webp"
@@ -515,6 +530,7 @@ imageHint: "Solar tower and heliostats at Plataforma Solar de Almería",
     , image: "/poi-images/spain-solar-platform-almeria-economic-v2.webp",
 },  {
     id: "spain-gemasolar-plant-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Gemasolar Solarkraftwerk", hu: "Gemasolar naperőmű", ro: "Centrala Gemasolar", en: "Gemasolar Plant",
 image: "/poi-images/spain-gemasolar-plant-economic-v2.webp"
@@ -549,6 +565,7 @@ imageHint: "Circular array of mirrors and central tower at Gemasolar",
     , image: "/poi-images/spain-gemasolar-plant-economic-v2.webp",
 },  {
     id: "spain-arcelormittal-aviles-economic-v2",
+    parent: "ES",
     type: "factory",
     name: { de: "ArcelorMittal Werk Avilés", hu: "ArcelorMittal Avilés gyár", ro: "Fabrica ArcelorMittal Avilés", en: "ArcelorMittal Avilés Plant",
 image: "/poi-images/spain-arcelormittal-aviles-economic-v2.webp"
@@ -583,6 +600,7 @@ imageHint: "Heavy industry blast furnaces in Avilés",
     , image: "/poi-images/spain-arcelormittal-aviles-economic-v2.webp",
 },  {
     id: "spain-cartagena-refinery-economic-v2",
+    parent: "ES",
     type: "factory",
     name: { de: "Raffinerie von Cartagena", hu: "Cartagenai finomító", ro: "Rafinăria din Cartagena", en: "Cartagena Refinery",
 image: "/poi-images/spain-cartagena-refinery-economic-v2.webp"
@@ -617,6 +635,7 @@ image: "/poi-images/spain-cartagena-refinery-economic-v2.webp"
   },
   {
     id: "spain-mercamadrid-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Mercamadrid", hu: "Mercamadrid", ro: "Mercamadrid", en: "Mercamadrid",
 image: "/poi-images/spain-mercamadrid-economic-v2.webp"
@@ -651,6 +670,7 @@ imageHint: "Busy fish market hall in Mercamadrid",
     , image: "/poi-images/spain-mercamadrid-economic-v2.webp",
 },  {
     id: "spain-mercabarna-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Mercabarna", hu: "Mercabarna", ro: "Mercabarna", en: "Mercabarna",
 image: "/poi-images/spain-mercabarna-economic-v2.webp"
@@ -685,6 +705,7 @@ imageHint: "Wholesale fruit and vegetable stands at Mercabarna",
     , image: "/poi-images/spain-mercabarna-economic-v2.webp",
 },  {
     id: "spain-airbus-getafe-economic-v2",
+    parent: "ES",
     type: "factory",
     name: { de: "Airbus-Werk Getafe", hu: "Airbus Getafe gyár", ro: "Fabrica Airbus Getafe", en: "Airbus Getafe Plant",
 image: "/poi-images/spain-airbus-getafe-economic-v2.webp"
@@ -719,6 +740,7 @@ imageHint: "Airbus airplane components in Getafe factory hall",
     , image: "/poi-images/spain-airbus-getafe-economic-v2.webp",
 },  {
     id: "spain-airbus-seville-economic-v2",
+    parent: "ES",
     type: "factory",
     name: { de: "Airbus San Pablo (Sevilla)", hu: "Airbus San Pablo (Sevilla)", ro: "Airbus San Pablo (Sevilla)", en: "Airbus San Pablo (Seville)",
 image: "/poi-images/spain-airbus-seville-economic-v2.webp"
@@ -753,6 +775,7 @@ imageHint: "Airbus A400M transport plane in assembly hangar",
     , image: "/poi-images/spain-airbus-seville-economic-v2.webp",
 },  {
     id: "spain-castellon-ceramic-cluster-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Keramikcluster von Castellón", hu: "Castellóni kerámia-klaszter", ro: "Clusterul de Ceramică Castellón", en: "Castellón Ceramic Cluster",
 image: "/poi-images/spain-castellon-ceramic-cluster-economic-v2.webp"
@@ -787,6 +810,7 @@ imageHint: "Ceramic tiles factory and showroom in Castellón",
     , image: "/poi-images/spain-castellon-ceramic-cluster-economic-v2.webp",
 },  {
     id: "spain-elche-footwear-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Schuhindustrie von Elche", hu: "Elchei cipőipar", ro: "Industria de încălțăminte din Elche", en: "Elche Footwear Industry",
 image: "/poi-images/spain-elche-footwear-economic-v2.webp"
@@ -821,6 +845,7 @@ imageHint: "Traditional shoemaking workshop in Elche",
     , image: "/poi-images/spain-elche-footwear-economic-v2.webp",
 },  {
     id: "spain-almaden-mercury-mines-economic-v2",
+    parent: "ES",
     type: "mine",
     name: { de: "Quecksilberminen von Almadén", hu: "Almadéni higanybányák", ro: "Minele de mercur din Almadén", en: "Almadén Mercury Mines",
 image: "/poi-images/spain-almaden-mercury-mines-economic-v2.webp"
@@ -855,6 +880,7 @@ imageHint: "Entrance to historical Almadén mercury mine",
     , image: "/poi-images/spain-almaden-mercury-mines-economic-v2.webp",
 },  {
     id: "spain-sagunto-industrial-port-economic-v2",
+    parent: "ES",
     type: "port",
     name: { de: "Industriehafen von Sagunto", hu: "Saguntói ipari kikötő", ro: "Portul Industrial Sagunto", en: "Sagunto Industrial Port",
 image: "/poi-images/spain-sagunto-industrial-port-economic-v2.webp"
@@ -889,6 +915,7 @@ imageHint: "Steel industry plants near Sagunto port",
     , image: "/poi-images/spain-sagunto-industrial-port-economic-v2.webp",
 },  {
     id: "spain-las-cruces-mine-economic-v2",
+    parent: "ES",
     type: "mine",
     name: { de: "Las Cruces Kupfermine", hu: "Las Cruces rézbánya", ro: "Mina de cupru Las Cruces", en: "Las Cruces Copper Mine",
 image: "/poi-images/spain-las-cruces-mine-economic-v2.webp"
@@ -923,6 +950,7 @@ imageHint: "Large excavator at Las Cruces open pit mine",
     , image: "/poi-images/spain-las-cruces-mine-economic-v2.webp",
 },  {
     id: "spain-escombreras-valley-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Escombreras-Tal", hu: "Escombreras-völgy", ro: "Valea Escombreras", en: "Escombreras Valley",
 image: "/poi-images/spain-escombreras-valley-economic-v2.webp"
@@ -957,6 +985,7 @@ image: "/poi-images/spain-escombreras-valley-economic-v2.webp"
   },
   {
     id: "spain-tarragona-petrochemical-economic-v2",
+    parent: "ES",
     type: "industry",
     name: { de: "Petrochemiepark Tarragona", hu: "Tarragonai petrolkémiai park", ro: "Parcul Petrochimic Tarragona", en: "Tarragona Petrochemical Camp",
 image: "/poi-images/spain-tarragona-petrochemical-economic-v2.webp"
@@ -991,6 +1020,7 @@ imageHint: "Large petrochemical industrial complex in Tarragona",
     , image: "/poi-images/spain-tarragona-petrochemical-economic-v2.webp",
 },  {
     id: "spain-guissona-food-complex-economic-v2",
+    parent: "ES",
     type: "factory",
     name: { de: "Lebensmittelkomplex Guissona", hu: "Guissonai élelmiszer-komplexum", ro: "Complexul Alimentar Guissona", en: "Guissona Food Complex",
 image: "/poi-images/spain-guissona-food-complex-economic-v2.webp"

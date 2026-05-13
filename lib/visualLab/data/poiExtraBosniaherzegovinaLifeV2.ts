@@ -3,6 +3,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
 
   {
     id: "bosniaherzegovina-kozara-life-v2",
+    parent: "BA",
     type: "park",
     name: { de: "Nationalpark Kozara", hu: "Kozara Nemzeti Park", ro: "Parcul Național Kozara", en: "Kozara National Park",
 image: "/poi-images/bosniaherzegovina-kozara-life-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/bosniaherzegovina-kozara-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-drina-life-v2",
+    parent: "BA",
     type: "park",
     name: { de: "Nationalpark Drina", hu: "Drina Nemzeti Park", ro: "Parcul Național Drina", en: "Drina National Park",
 image: "/poi-images/bosniaherzegovina-drina-life-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/bosniaherzegovina-drina-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-bardaca-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Feuchtgebiet Bardača", hu: "Bardača-mocsár", ro: "Zona umedă Bardača", en: "Bardača Wetland",
 image: "/poi-images/bosniaherzegovina-bardaca-life-v2.webp"
@@ -107,6 +110,7 @@ image: "/poi-images/bosniaherzegovina-bardaca-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-sarajevo-zoo-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Zoo Sarajevo", hu: "Szarajevói Állatkert", ro: "Grădina Zoologică Sarajevo", en: "Sarajevo Zoo",
 image: "/poi-images/bosniaherzegovina-sarajevo-zoo-life-v2.webp"
@@ -142,6 +146,7 @@ image: "/poi-images/bosniaherzegovina-sarajevo-zoo-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-botanical-garden-sarajevo-life-v2",
+    parent: "BA",
     type: "park",
     name: { de: "Botanischer Garten Sarajevo", hu: "Szarajevói Botanikus Kert", ro: "Grădina Botanică Sarajevo", en: "Botanical Garden of Sarajevo",
 image: "/poi-images/bosniaherzegovina-botanical-garden-sarajevo-life-v2.webp"
@@ -177,6 +182,7 @@ image: "/poi-images/bosniaherzegovina-botanical-garden-sarajevo-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-vrelo-bosne-life-v2",
+    parent: "BA",
     type: "park",
     name: { de: "Vrelo Bosne", hu: "Vrelo Bosne", ro: "Vrelo Bosne", en: "Vrelo Bosne",
 image: "/poi-images/bosniaherzegovina-vrelo-bosne-life-v2.webp"
@@ -212,6 +218,7 @@ image: "/poi-images/bosniaherzegovina-vrelo-bosne-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-bijambare-life-v2",
+    parent: "BA",
     type: "park",
     name: { de: "Bijambare Schutzlandschaft", hu: "Bijambare védett terület", ro: "Peisajul protejat Bijambare", en: "Bijambare Protected Landscape",
 image: "/poi-images/bosniaherzegovina-bijambare-life-v2.webp"
@@ -247,6 +254,7 @@ image: "/poi-images/bosniaherzegovina-bijambare-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-tajan-life-v2",
+    parent: "BA",
     type: "park",
     name: { de: "Naturpark Tajan", hu: "Tajan Natúrpark", ro: "Parcul Natural Tajan", en: "Tajan Nature Park",
 image: "/poi-images/bosniaherzegovina-tajan-life-v2.webp"
@@ -282,6 +290,7 @@ image: "/poi-images/bosniaherzegovina-tajan-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-trebevic-life-v2",
+    parent: "BA",
     type: "park",
     name: { de: "Schutzlandschaft Trebević", hu: "Trebević védett terület", ro: "Peisajul protejat Trebević", en: "Trebević Protected Landscape",
 image: "/poi-images/bosniaherzegovina-trebevic-life-v2.webp"
@@ -317,6 +326,7 @@ image: "/poi-images/bosniaherzegovina-trebevic-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-skakavac-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Skakavac Wasserfall", hu: "Skakavac-vízesés", ro: "Cascada Skakavac", en: "Skakavac Waterfall",
 image: "/poi-images/bosniaherzegovina-skakavac-life-v2.webp"
@@ -352,6 +362,7 @@ image: "/poi-images/bosniaherzegovina-skakavac-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-janjske-otoke-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Janjske Otoke", hu: "Janj-szigetek", ro: "Janjske Otoke", en: "Janj Islands",
 image: "/poi-images/bosniaherzegovina-janjske-otoke-life-v2.webp"
@@ -387,6 +398,7 @@ image: "/poi-images/bosniaherzegovina-janjske-otoke-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-gromizelj-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Sonderreservat Gromiželj", hu: "Gromiželj különleges rezervátum", ro: "Rezervația specială Gromiželj", en: "Gromiželj Special Nature Reserve",
 image: "/poi-images/bosniaherzegovina-gromizelj-life-v2.webp"
@@ -422,6 +434,7 @@ image: "/poi-images/bosniaherzegovina-gromizelj-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-tisina-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Ornithologisches Reservat Tišina", hu: "Tišina madárrezervátum", ro: "Rezervația ornitologică Tišina", en: "Tišina Ornithological Reserve",
 image: "/poi-images/bosniaherzegovina-tisina-life-v2.webp"
@@ -457,6 +470,7 @@ image: "/poi-images/bosniaherzegovina-tisina-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-konjuh-life-v2",
+    parent: "BA",
     type: "park",
     name: { de: "Schutzlandschaft Konjuh", hu: "Konjuh védett terület", ro: "Peisajul protejat Konjuh", en: "Konjuh Protected Landscape",
 image: "/poi-images/bosniaherzegovina-konjuh-life-v2.webp"
@@ -492,6 +506,7 @@ image: "/poi-images/bosniaherzegovina-konjuh-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-livanjsko-polje-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Livanjsko Polje", hu: "Livnói-mező", ro: "Livanjsko Polje", en: "Livanjsko Polje",
 image: "/poi-images/bosniaherzegovina-livanjsko-polje-life-v2.webp"
@@ -527,6 +542,7 @@ image: "/poi-images/bosniaherzegovina-livanjsko-polje-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-rakitnica-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Rakitnica-Schlucht", hu: "Rakitnica-szurdok", ro: "Canionul Rakitnica", en: "Rakitnica Canyon",
 image: "/poi-images/bosniaherzegovina-rakitnica-life-v2.webp"
@@ -562,6 +578,7 @@ image: "/poi-images/bosniaherzegovina-rakitnica-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-zelengora-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Zelengora Gletscherseen", hu: "Zelengora-tavak", ro: "Lacurile glaciare Zelengora", en: "Zelengora Glacial Lakes",
 image: "/poi-images/bosniaherzegovina-zelengora-life-v2.webp"
@@ -597,6 +614,7 @@ image: "/poi-images/bosniaherzegovina-zelengora-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-prenj-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Prenj Gebirgsmassiv", hu: "Prenj-hegység", ro: "Masivul Prenj", en: "Prenj Mountain Range",
 image: "/poi-images/bosniaherzegovina-prenj-life-v2.webp"
@@ -632,6 +650,7 @@ image: "/poi-images/bosniaherzegovina-prenj-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-cvrsnica-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Čvrsnica Berg", hu: "Čvrsnica-hegy", ro: "Muntele Čvrsnica", en: "Čvrsnica Mountain",
 image: "/poi-images/bosniaherzegovina-cvrsnica-life-v2.webp"
@@ -667,6 +686,7 @@ image: "/poi-images/bosniaherzegovina-cvrsnica-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-maglic-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Maglić Gebirge", hu: "Maglić-hegység", ro: "Munții Maglić", en: "Maglić Mountain",
 image: "/poi-images/bosniaherzegovina-maglic-life-v2.webp"
@@ -702,6 +722,7 @@ image: "/poi-images/bosniaherzegovina-maglic-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-kravica-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Kravica Wasserfälle", hu: "Kravica-vízesés", ro: "Cascada Kravica", en: "Kravica Waterfalls",
 image: "/poi-images/bosniaherzegovina-kravica-life-v2.webp"
@@ -737,6 +758,7 @@ image: "/poi-images/bosniaherzegovina-kravica-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-prokosko-lake-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Prokoško See", hu: "Prokoško-tó", ro: "Lacul Prokoško", en: "Prokoško Lake",
 image: "/poi-images/bosniaherzegovina-prokosko-lake-life-v2.webp"
@@ -772,6 +794,7 @@ image: "/poi-images/bosniaherzegovina-prokosko-lake-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-vjetrenica-life-v2",
+    parent: "BA",
     type: "wildlife",
     name: { de: "Vjetrenica Höhle", hu: "Vjetrenica-barlang", ro: "Peștera Vjetrenica", en: "Vjetrenica Cave",
 image: "/poi-images/bosniaherzegovina-vjetrenica-life-v2.webp"
@@ -807,6 +830,7 @@ image: "/poi-images/bosniaherzegovina-vjetrenica-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-lom-forest-life-v2",
+    parent: "BA",
     type: "forest",
     name: { de: "Urwaldreservat Lom", hu: "Lom őserdő-rezervátum", ro: "Rezervația forestieră Lom", en: "Lom Forest Reserve",
 image: "/poi-images/bosniaherzegovina-lom-forest-life-v2.webp"
@@ -842,6 +866,7 @@ image: "/poi-images/bosniaherzegovina-lom-forest-life-v2.webp"
   },
   {
     id: "bosniaherzegovina-janj-forest-life-v2",
+    parent: "BA",
     type: "forest",
     name: { de: "Urwaldreservat Janj", hu: "Janj őserdő-rezervátum", ro: "Rezervația forestieră Janj", en: "Janj Forest Reserve",
 image: "/poi-images/bosniaherzegovina-janj-forest-life-v2.webp"

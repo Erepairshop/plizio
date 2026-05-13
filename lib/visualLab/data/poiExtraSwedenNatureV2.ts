@@ -3,6 +3,7 @@ export const swedenNatureV2: POI[] = [
 
   {
     id: "sweden-vanern-nature-v2",
+    parent: "SE",
     type: "lake",
     name: { de: "Vänern", hu: "Vänern", ro: "Vänern", en: "Vänern",
 image: "/poi-images/sweden-vanern-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Large blue lake with rocky islands and small lighthouse in Sweden",
     image: "/poi-images/sweden-vanern-nature-v2.webp",
 },  {
     id: "sweden-vattern-nature-v2",
+    parent: "SE",
     type: "lake",
     name: { de: "Vättern", hu: "Vättern", ro: "Vättern", en: "Vättern",
 image: "/poi-images/sweden-vattern-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
     image: "/poi-images/sweden-vattern-nature-v2.webp",
 },  {
     id: "sweden-kebnekaise-nature-v2",
+    parent: "SE",
     type: "peak",
     name: { de: "Kebnekaise", hu: "Kebnekaise", ro: "Kebnekaise", en: "Kebnekaise",
 image: "/poi-images/sweden-kebnekaise-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Snow-capped peaks of Kebnekaise mountain under a clear sky",
     image: "/poi-images/sweden-kebnekaise-nature-v2.webp",
 },  {
     id: "sweden-torne-river-nature-v2",
+    parent: "SE",
     type: "river",
     name: { de: "Torne älv", hu: "Torne-folyó", ro: "Râul Torne", en: "Torne River",
 image: "/poi-images/sweden-torne-river-nature-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Wide river flowing through snowy pine forests in Lapland",
     image: "/poi-images/sweden-torne-river-nature-v2.webp",
 },  {
     id: "sweden-oland-nature-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Öland", hu: "Öland", ro: "Öland", en: "Öland",
 image: "/poi-images/sweden-oland-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Traditional wooden windmills on a flat green field in Öland",
     image: "/poi-images/sweden-oland-nature-v2.webp",
 },  {
     id: "sweden-gotland-nature-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Gotland", hu: "Gotland", ro: "Gotland", en: "Gotland",
 image: "/poi-images/sweden-gotland-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Limestone sea stacks (raukar) on the coast of Gotland",
     image: "/poi-images/sweden-gotland-nature-v2.webp",
 },  {
     id: "sweden-klaralven-nature-v2",
+    parent: "SE",
     type: "river",
     name: { de: "Klarälven", hu: "Klarälven", ro: "Klarälven", en: "Klarälven",
 image: "/poi-images/sweden-klaralven-nature-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "River Klarälven with log rafts floating on the water",
     image: "/poi-images/sweden-klaralven-nature-v2.webp",
 },  {
     id: "sweden-siljan-nature-v2",
+    parent: "SE",
     type: "lake",
     name: { de: "Siljan", hu: "Siljan-tó", ro: "Lacul Siljan", en: "Siljan",
 image: "/poi-images/sweden-siljan-nature-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Blue lake Siljan with traditional red wooden houses on the shore",
     image: "/poi-images/sweden-siljan-nature-v2.webp",
 },  {
     id: "sweden-njupeskar-nature-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Njupeskär", hu: "Njupeskär-vízesés", ro: "Cascada Njupeskär", en: "Njupeskär Waterfall",
 image: "/poi-images/sweden-njupeskar-nature-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "High waterfall plunging into a narrow canyon in Sweden",
     image: "/poi-images/sweden-njupeskar-nature-v2.webp",
 },  {
     id: "sweden-storforsen-nature-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Storforsen", hu: "Storforsen", ro: "Storforsen", en: "Storforsen",
 image: "/poi-images/sweden-storforsen-nature-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Massive rushing white water rapids in a pine forest",
     image: "/poi-images/sweden-storforsen-nature-v2.webp",
 },  {
     id: "sweden-hornavan-nature-v2",
+    parent: "SE",
     type: "lake",
     name: { de: "Hornavan", hu: "Hornavan", ro: "Hornavan", en: "Hornavan",
 image: "/poi-images/sweden-hornavan-nature-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Deep blue mountain lake surrounded by birch forests in Sweden",
     image: "/poi-images/sweden-hornavan-nature-v2.webp",
 },  {
     id: "sweden-tornetrask-nature-v2",
+    parent: "SE",
     type: "lake",
     name: { de: "Torneträsk", hu: "Torneträsk", ro: "Torneträsk", en: "Torneträsk",
 image: "/poi-images/sweden-tornetrask-nature-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Large arctic lake with floating ice chunks and distant mountains",
     image: "/poi-images/sweden-tornetrask-nature-v2.webp",
 },  {
     id: "sweden-dalalven-nature-v2",
+    parent: "SE",
     type: "river",
     name: { de: "Dalälven", hu: "Dalälven", ro: "Dalälven", en: "Dalälven",
 image: "/poi-images/sweden-dalalven-nature-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Wide river flowing through green valleys and forests in central Swed
     image: "/poi-images/sweden-dalalven-nature-v2.webp",
 },  {
     id: "sweden-lule-river-nature-v2",
+    parent: "SE",
     type: "river",
     name: { de: "Lule älv", hu: "Lule-folyó", ro: "Râul Lule", en: "Lule River",
 image: "/poi-images/sweden-lule-river-nature-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Large river with a massive hydroelectric dam in Lapland",
     image: "/poi-images/sweden-lule-river-nature-v2.webp",
 },  {
     id: "sweden-angermanalven-nature-v2",
+    parent: "SE",
     type: "river",
     name: { de: "Ångermanälven", hu: "Ångermanälven", ro: "Ångermanälven", en: "Ångermanälven",
 image: "/poi-images/sweden-angermanalven-nature-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Wide river mouth near a high bridge at the High Coast of Sweden",
     image: "/poi-images/sweden-angermanalven-nature-v2.webp",
 },  {
     id: "sweden-helagsfjallet-nature-v2",
+    parent: "SE",
     type: "mountain",
     name: { de: "Helagsfjället", hu: "Helagsfjället", ro: "Helagsfjället", en: "Helagsfjället",
 image: "/poi-images/sweden-helagsfjallet-nature-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Snowy mountain with a small glacier bowl in Härjedalen",
     image: "/poi-images/sweden-helagsfjallet-nature-v2.webp",
 },  {
     id: "sweden-tannforsen-nature-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Tännforsen", hu: "Tännforsen", ro: "Tännforsen", en: "Tännforsen",
 image: "/poi-images/sweden-tannforsen-nature-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Wide and powerful waterfall in a snowy landscape in Sweden",
     image: "/poi-images/sweden-tannforsen-nature-v2.webp",
 },  {
     id: "sweden-vindelfjallen-nature-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Vindelfjällen", hu: "Vindelfjällen", ro: "Vindelfjällen", en: "Vindelfjällen",
 image: "/poi-images/sweden-vindelfjallen-nature-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Vast tundra landscape with winding rivers and low mountains",
     image: "/poi-images/sweden-vindelfjallen-nature-v2.webp",
 },  {
     id: "sweden-stockholm-archipelago-nature-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Stockholmer Schärengarten", hu: "Stockholmi szigetvilág", ro: "Arhipelagul Stockholm", en: "Stockholm Archipelago",
 image: "/poi-images/sweden-stockholm-archipelago-nature-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
     image: "/poi-images/sweden-stockholm-archipelago-nature-v2.webp",
 },  {
     id: "sweden-malaren-nature-v2",
+    parent: "SE",
     type: "lake",
     name: { de: "Mälaren", hu: "Mälaren-tó", ro: "Lacul Mälaren", en: "Mälaren",
 image: "/poi-images/sweden-malaren-nature-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Large calm lake with wooded shorelines near Stockholm",
     image: "/poi-images/sweden-malaren-nature-v2.webp",
 },  {
     id: "sweden-storsjon-nature-v2",
+    parent: "SE",
     type: "lake",
     name: { de: "Storsjön", hu: "Storsjön", ro: "Storsjön", en: "Storsjön",
 image: "/poi-images/sweden-storsjon-nature-v2.webp"
@@ -718,6 +739,7 @@ imageHint: "Large lake with snowy mountains in the background and a town on its 
 },
   {
     id: "sweden-hjalmaren-nature-v2",
+    parent: "SE",
     type: "lake",
     name: { de: "Hjälmaren", hu: "Hjälmaren-tó", ro: "Lacul Hjälmaren", en: "Hjälmaren",
 image: "/poi-images/sweden-hjalmaren-nature-v2.webp"
@@ -751,6 +773,7 @@ image: "/poi-images/sweden-hjalmaren-nature-v2.webp"
   },
   {
     id: "sweden-indalsalven-nature-v2",
+    parent: "SE",
     type: "river",
     name: { de: "Indalsälven", hu: "Indalsälven-folyó", ro: "Râul Indalsälven", en: "Indalsälven",
 image: "/poi-images/sweden-indalsalven-nature-v2.webp"
@@ -784,6 +807,7 @@ imageHint: "Wide river Indalsälven winding through a forested valley in Jämtla
     image: "/poi-images/sweden-indalsalven-nature-v2.webp",
 },  {
     id: "sweden-ristafallet-nature-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Ristafallet", hu: "Ristafallet-vízesés", ro: "Cascada Ristafallet", en: "Ristafallet",
 image: "/poi-images/sweden-ristafallet-nature-v2.webp"
@@ -817,6 +841,7 @@ imageHint: "Powerful wide waterfall Ristafallet in a lush forest setting",
     image: "/poi-images/sweden-ristafallet-nature-v2.webp",
 },  {
     id: "sweden-ven-island-nature-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Insel Ven", hu: "Ven-sziget", ro: "Insula Ven", en: "Ven Island",
 image: "/poi-images/sweden-ven-island-nature-v2.webp"
@@ -850,6 +875,7 @@ imageHint: "Scenic view of the island of Ven with green fields and coastal cliff
     image: "/poi-images/sweden-ven-island-nature-v2.webp",
 },  {
     id: "sweden-bla-jungfrun-nature-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Blå Jungfrun", hu: "Blå Jungfrun Nemzeti Park", ro: "Parcul Național Blå Jungfrun", en: "Blå Jungfrun National Park",
 image: "/poi-images/sweden-bla-jungfrun-nature-v2.webp"
@@ -883,6 +909,7 @@ imageHint: "Solitary granite island of Blå Jungfrun in the blue Baltic Sea",
     image: "/poi-images/sweden-bla-jungfrun-nature-v2.webp",
 },  {
     id: "sweden-lapporten-nature-v2",
+    parent: "SE",
     type: "valley",
     name: { de: "Lapporten", hu: "Lapp-kapu", ro: "Poarta Laponiei", en: "Lapporten",
 image: "/poi-images/sweden-lapporten-nature-v2.webp"
@@ -916,6 +943,7 @@ imageHint: "Iconic U-shaped mountain pass Lapporten under the midnight sun",
     image: "/poi-images/sweden-lapporten-nature-v2.webp",
 },  {
     id: "sweden-ume-river-nature-v2",
+    parent: "SE",
     type: "river",
     name: { de: "Umeälven", hu: "Ume-folyó", ro: "Râul Ume", en: "Ume River",
 image: "/poi-images/sweden-ume-river-nature-v2.webp"
@@ -949,6 +977,7 @@ imageHint: "Wide Umeälven river flowing through the city of Umeå",
     image: "/poi-images/sweden-ume-river-nature-v2.webp",
 },  {
     id: "sweden-hoga-kusten-nature-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Hohe Küste", hu: "Magas-part", ro: "Coasta Înaltă", en: "The High Coast",
 image: "/poi-images/sweden-hoga-kusten-nature-v2.webp"
@@ -982,6 +1011,7 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
     image: "/poi-images/sweden-hoga-kusten-nature-v2.webp",
 },  {
     id: "sweden-handolsforsen-nature-v2",
+    parent: "SE",
     type: "landmark",
     name: { de: "Handölsforsen", hu: "Handölsforsen-vízesés", ro: "Cascada Handölsforsen", en: "Handölsforsen",
 image: "/poi-images/sweden-handolsforsen-nature-v2.webp"

@@ -4,6 +4,7 @@ import type { POI } from "./poi";
 export const poiExtraBoliviaNatureV2: POI[] = [
   {
     id: "bo-illimani-nature-v2",
+    parent: "BO",
     description: {
       de: "Der Illimani ist der majestätische, schneebedeckte Gipfel, der über der Stadt La Paz thront.",
       hu: "Az Andok látványos, hófödte csúcsa, amely La Paz városának hátterét adja.",
@@ -40,6 +41,7 @@ image: "/poi-images/bo-illimani-nature-v2.webp"
     }, image: "/poi-images/bo-illimani-nature-v2.webp"},
   {
     id: "bo-sajama-nature-v2",
+    parent: "BO",
     description: {
       de: "Der Sajama ist der höchste Berg Boliviens und ein erloschener Vulkan inmitten eines gleichnamigen Nationalparks.",
       hu: "Bolívia legmagasabb hegycsúcsa, egy inaktív vulkán az Andok hegyvonulatában.",
@@ -76,6 +78,7 @@ image: "/poi-images/bo-sajama-nature-v2.webp"
     }, image: "/poi-images/bo-sajama-nature-v2.webp"},
   {
     id: "bo-huayna-potosi-nature-v2",
+    parent: "BO",
     description: {
       de: "Der Huayna Potosí ist einer der beliebtesten Sechstausender für Bergsteiger aufgrund seines relativ einfachen Zugangs von La Paz.",
       hu: "Népszerű hegymászó célpont, amely La Paz közelében található az Andokban.",
@@ -112,6 +115,7 @@ image: "/poi-images/bo-huayna-potosi-nature-v2.webp"
     }, image: "/poi-images/bo-huayna-potosi-nature-v2.webp"},
   {
     id: "bo-illampu-nature-v2",
+    parent: "BO",
     description: {
       de: "Der Illampu ist einer der mächtigsten und technisch anspruchsvollsten Gipfel in der Cordillera Real.",
       hu: "Az Andok Cordillera Real vonulatának egyik monumentális csúcsa.",
@@ -148,6 +152,7 @@ image: "/poi-images/bo-illampu-nature-v2.webp"
     }, image: "/poi-images/bo-illampu-nature-v2.webp"},
   {
     id: "bo-ancohuma-nature-v2",
+    parent: "BO",
     description: {
       de: "Der Ancohuma ist der zweithöchste Berg der Cordillera Real und besticht durch seine ausgedehnten Gletscherflächen.",
       hu: "Az Ancohuma a Cordillera Real része, az ország egyik legmagasabb hegycsúcsa.",

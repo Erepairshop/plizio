@@ -325,6 +325,7 @@ image: "/poi-images/marmorbruch-idadjo-economic-v2.webp"
     factsAdvanced: { multi4: ["Standort: Idadjo, bei Savè, Dép. Collines", "Gesteinsart: Marmor", "Qualität: Hochwertig, für dekorative Zwecke", "Abbau: Tagebau mit Spezialschnitt-Techniken", "Produkte: Rohblöcke, Platten, Fliesen", "Markt: National und international", "Verwendung: Prestigebauten, Innenausstattung", "Bedeutung: Nutzung von nicht-agrarischen Ressourcen"] }},
   {
     id: "palmoelraffinerie-agonvy-economic-v2",
+    parent: "BJ",
     description: "This facility is a key center for palm oil processing in the Agonvy region. It plays a vital role in local agricultural industrialization.",
     facts: [
       "Located in Agonvy",

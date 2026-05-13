@@ -3,6 +3,7 @@ export const lithuaniaHistoryV2: POI[] = [
 
   {
     id: "lithuania-kernave-archaeological-site-history-v2",
+    parent: "LT",
     type: "ruins",
     name: { de: "Archäologische Stätte Kernavė", hu: "Kernavė régészeti helyszíne", ro: "Situl arheologic Kernavė", en: "Kernavė Archaeological Site",
 image: "/poi-images/lithuania-kernave-archaeological-site-history-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Kernavė hillforts aerial view green landscape",
     , image: "/poi-images/lithuania-kernave-archaeological-site-history-v2.webp",
 },  {
     id: "lithuania-trakai-island-castle-history-v2",
+    parent: "LT",
     type: "castle",
     name: { de: "Inselburg Trakai", hu: "Trakai szigetvára", ro: "Castelul din Trakai", en: "Trakai Island Castle",
 image: "/poi-images/lithuania-trakai-island-castle-history-v2.webp"
@@ -71,6 +73,7 @@ image: "/poi-images/lithuania-trakai-island-castle-history-v2.webp"
   },
   {
     id: "lithuania-vilnius-old-town-history-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Altstadt von Vilnius", hu: "Vilnius óvárosa", ro: "Orașul Vechi din Vilnius", en: "Vilnius Old Town",
 image: "/poi-images/lithuania-vilnius-old-town-history-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Vilnius Old Town aerial view red roofs churches",
     , image: "/poi-images/lithuania-vilnius-old-town-history-v2.webp",
 },  {
     id: "lithuania-ninth-fort-history-v2",
+    parent: "LT",
     type: "monument",
     name: { de: "Neuntes Fort", hu: "Kilencedik erőd", ro: "Fortul al Nouălea", en: "Ninth Fort",
 image: "/poi-images/lithuania-ninth-fort-history-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Kaunas Ninth Fort monument massive concrete sculpture",
     , image: "/poi-images/lithuania-ninth-fort-history-v2.webp",
 },  {
     id: "lithuania-gediminas-tower-history-v2",
+    parent: "LT",
     type: "tower",
     name: { de: "Gediminas-Turm", hu: "Gediminas-torony", ro: "Turnul lui Gediminas", en: "Gediminas' Tower",
 image: "/poi-images/lithuania-gediminas-tower-history-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Gediminas Tower Vilnius brick tower on hill",
     , image: "/poi-images/lithuania-gediminas-tower-history-v2.webp",
 },  {
     id: "lithuania-palace-grand-dukes-history-v2",
+    parent: "LT",
     type: "palace",
     name: { de: "Großfürstliches Schloss Vilnius", hu: "Litván nagyfejedelmi palota", ro: "Palatul Marilor Duci ai Lituaniei", en: "Palace of the Grand Dukes of Lithuania",
 image: "/poi-images/lithuania-palace-grand-dukes-history-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
     , image: "/poi-images/lithuania-palace-grand-dukes-history-v2.webp",
 },  {
     id: "lithuania-medininkai-castle-history-v2",
+    parent: "LT",
     type: "castle",
     name: { de: "Burg Medininkai", hu: "Medininkai vára", ro: "Castelul Medininkai", en: "Medininkai Castle",
 image: "/poi-images/lithuania-medininkai-castle-history-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Medininkai Castle brick walls and tower aerial",
     , image: "/poi-images/lithuania-medininkai-castle-history-v2.webp",
 },  {
     id: "lithuania-pazaislis-monastery-history-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Kloster Pažaislis", hu: "Pažaislis kolostor", ro: "Mănăstirea Pažaislis", en: "Pažaislis Monastery",
 image: "/poi-images/lithuania-pazaislis-monastery-history-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Pažaislis Monastery Baroque church facade dome",
     , image: "/poi-images/lithuania-pazaislis-monastery-history-v2.webp",
 },  {
     id: "lithuania-birzai-castle-history-v2",
+    parent: "LT",
     type: "castle",
     name: { de: "Burg Biržai", hu: "Biržai vára", ro: "Castelul Biržai", en: "Biržai Castle",
 image: "/poi-images/lithuania-birzai-castle-history-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Biržai Castle white walls bridge reflection",
     , image: "/poi-images/lithuania-birzai-castle-history-v2.webp",
 },  {
     id: "lithuania-paneriai-memorial-history-v2",
+    parent: "LT",
     type: "monument",
     name: { de: "Gedenkstätte Paneriai", hu: "Paneriai emlékhely", ro: "Memorialul de la Paneriai", en: "Paneriai Memorial",
 image: "/poi-images/lithuania-paneriai-memorial-history-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Paneriai Memorial stone monument forest path",
     , image: "/poi-images/lithuania-paneriai-memorial-history-v2.webp",
 },  {
     id: "lithuania-raudone-castle-history-v2",
+    parent: "LT",
     type: "castle",
     name: { de: "Schloss Raudonė", hu: "Raudonė vára", ro: "Castelul Raudonė", en: "Raudonė Castle",
 image: "/poi-images/lithuania-raudone-castle-history-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Raudonė Castle red brick tower river view",
     , image: "/poi-images/lithuania-raudone-castle-history-v2.webp",
 },  {
     id: "lithuania-kedainiai-old-town-history-v2",
+    parent: "LT",
     type: "town",
     name: { de: "Altstadt von Kėdainiai", hu: "Kėdainiai óvárosa", ro: "Orașul Vechi din Kėdainiai", en: "Kėdainiai Old Town",
 image: "/poi-images/lithuania-kedainiai-old-town-history-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Kėdainiai Old Town market square colorful houses",
     , image: "/poi-images/lithuania-kedainiai-old-town-history-v2.webp",
 },  {
     id: "lithuania-stelmuze-oak-site-history-v2",
+    parent: "LT",
     type: "landmark",
     name: { de: "Stelmužė-Eiche", hu: "Stelmužėi tölgy", ro: "Stejarul din Stelmužė", en: "Stelmužė Oak",
 image: "/poi-images/lithuania-stelmuze-oak-site-history-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Stelmužė Oak massive old tree Lithuania",
     , image: "/poi-images/lithuania-stelmuze-oak-site-history-v2.webp",
 },  {
     id: "lithuania-apuole-hillfort-history-v2",
+    parent: "LT",
     type: "ruins",
     name: { de: "Burgberg Apuolė", hu: "Apuolė várhalom", ro: "Cetatea Apuolė", en: "Apuolė Hillfort",
 image: "/poi-images/lithuania-apuole-hillfort-history-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Apuolė hillfort green plateau landscape",
     , image: "/poi-images/lithuania-apuole-hillfort-history-v2.webp",
 },  {
     id: "lithuania-pakruojis-manor-history-v2",
+    parent: "LT",
     type: "palace",
     name: { de: "Gutshof Pakruojis", hu: "Pakruojis udvarház", ro: "Conacul Pakruojis", en: "Pakruojis Manor",
 image: "/poi-images/lithuania-pakruojis-manor-history-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Pakruojis Manor neoclassical architecture bridge",
     , image: "/poi-images/lithuania-pakruojis-manor-history-v2.webp",
 },  {
     id: "lithuania-panemune-castle-history-v2",
+    parent: "LT",
     type: "castle",
     name: { de: "Schloss Panemunė", hu: "Panemunė vára", ro: "Castelul Panemunė", en: "Panemunė Castle",
 image: "/poi-images/lithuania-panemune-castle-history-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Panemunė Castle Renaissance towers courtyard",
     , image: "/poi-images/lithuania-panemune-castle-history-v2.webp",
 },  {
     id: "lithuania-klaipeda-castle-history-v2",
+    parent: "LT",
     type: "ruins",
     name: { de: "Burg Klaipėda", hu: "Klaipėda vára", ro: "Castelul Klaipėda", en: "Klaipėda Castle",
 image: "/poi-images/lithuania-klaipeda-castle-history-v2.webp"
@@ -581,6 +598,7 @@ image: "/poi-images/lithuania-klaipeda-castle-history-v2.webp"
   },
   {
     id: "lithuania-uzutrakis-manor-history-v2",
+    parent: "LT",
     type: "palace",
     name: { de: "Gutshof Užutrakis", hu: "Užutrakis udvarház", ro: "Conacul Užutrakis", en: "Užutrakis Manor",
 image: "/poi-images/lithuania-uzutrakis-manor-history-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Užutrakis Manor white neoclassical facade lake",
     , image: "/poi-images/lithuania-uzutrakis-manor-history-v2.webp",
 },  {
     id: "lithuania-cold-war-museum-history-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Museum des Kalten Krieges", hu: "Hidegháborús Múzeum", ro: "Muzeul Războiului Rece", en: "Cold War Museum",
 image: "/poi-images/lithuania-cold-war-museum-history-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Cold War Museum Lithuania missile silo underground",
     , image: "/poi-images/lithuania-cold-war-museum-history-v2.webp",
 },  {
     id: "lithuania-liubavas-manor-history-v2",
+    parent: "LT",
     type: "palace",
     name: { de: "Gutshof Liubavas", hu: "Liubavas udvarház", ro: "Conacul Liubavas", en: "Liubavas Manor",
 image: "/poi-images/lithuania-liubavas-manor-history-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Liubavas Manor stone watermill museum",
     , image: "/poi-images/lithuania-liubavas-manor-history-v2.webp",
 },  {
     id: "lithuania-norviliskes-castle-history-v2",
+    parent: "LT",
     type: "castle",
     name: { de: "Schloss Norviliškės", hu: "Norviliškės vára", ro: "Castelul Norviliškės", en: "Norviliškės Castle",
 image: "/poi-images/lithuania-norviliskes-castle-history-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Norviliškės Castle Renaissance architecture facade",
     , image: "/poi-images/lithuania-norviliskes-castle-history-v2.webp",
 },  {
     id: "lithuania-taurage-castle-history-v2",
+    parent: "LT",
     type: "castle",
     name: { de: "Schloss Tauragė", hu: "Tauragė vára", ro: "Castelul Tauragė", en: "Tauragė Castle",
 image: "/poi-images/lithuania-taurage-castle-history-v2.webp"
@@ -751,6 +773,7 @@ image: "/poi-images/lithuania-taurage-castle-history-v2.webp"
   },
   {
     id: "lithuania-siesikai-castle-history-v2",
+    parent: "LT",
     type: "castle",
     name: { de: "Schloss Siesikai", hu: "Siesikai vára", ro: "Castelul Siesikai", en: "Siesikai Castle",
 image: "/poi-images/lithuania-siesikai-castle-history-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Siesikai Castle Renaissance building lake view",
     , image: "/poi-images/lithuania-siesikai-castle-history-v2.webp",
 },  {
     id: "lithuania-rumsiskes-museum-history-v2",
+    parent: "LT",
     type: "museum",
     name: { de: "Freilichtmuseum Rumšiškės", hu: "Rumšiškési Szabadtéri Múzeum", ro: "Muzeul Satului din Rumšiškės", en: "Rumšiškės Open Air Museum",
 image: "/poi-images/lithuania-rumsiskes-museum-history-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Rumšiškės Open Air Museum wooden farmhouses",
     , image: "/poi-images/lithuania-rumsiskes-museum-history-v2.webp",
 },  {
     id: "lithuania-plunge-manor-history-v2",
+    parent: "LT",
     type: "palace",
     name: { de: "Gutshof Plungė", hu: "Plungėi udvarház", ro: "Conacul Plungė", en: "Plungė Manor",
 image: "/poi-images/lithuania-plunge-manor-history-v2.webp"
@@ -853,6 +878,7 @@ image: "/poi-images/lithuania-plunge-manor-history-v2.webp"
   },
   {
     id: "lithuania-zapyskis-church-history-v2",
+    parent: "LT",
     type: "church",
     name: { de: "Kirche von Zapyškis", hu: "Zapyškisi templom", ro: "Biserica din Zapyškis", en: "Zapyškis Church",
 image: "/poi-images/lithuania-zapyskis-church-history-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Zapyškis Church brick Gothic river meadow",
     , image: "/poi-images/lithuania-zapyskis-church-history-v2.webp",
 },  {
     id: "lithuania-saule-battlefield-history-v2",
+    parent: "LT",
     type: "battlefield",
     name: { de: "Schlachtfeld von Saulė", hu: "Saulėi csatamező", ro: "Câmpul de luptă de la Saulė", en: "Battle of Saulė Site",
 image: "/poi-images/lithuania-saule-battlefield-history-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Battle of Saulė memorial wooden sculptures",
     , image: "/poi-images/lithuania-saule-battlefield-history-v2.webp",
 },  {
     id: "lithuania-varniai-diocese-history-v2",
+    parent: "LT",
     type: "town",
     name: { de: "Varniai (Bistum Samogitien)", hu: "Varniai (Szamogit püspökség)", ro: "Varniai (Episcopia Samogitiei)", en: "Varniai (Samogitian Diocese)",
 image: "/poi-images/lithuania-varniai-diocese-history-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Varniai Cathedral church history Lithuania",
     , image: "/poi-images/lithuania-varniai-diocese-history-v2.webp",
 },  {
     id: "lithuania-kretinga-manor-history-v2",
+    parent: "LT",
     type: "palace",
     name: { de: "Gutshof Kretinga", hu: "Kretingai udvarház", ro: "Conacul Kretinga", en: "Kretinga Manor",
 image: "/poi-images/lithuania-kretinga-manor-history-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Kretinga Manor glass winter garden palace",
     , image: "/poi-images/lithuania-kretinga-manor-history-v2.webp",
 },  {
     id: "lithuania-radviliskis-battlefield-history-v2",
+    parent: "LT",
     type: "battlefield",
     name: { de: "Schlachtfeld von Radviliškis", hu: "Radviliškisi csatamező", ro: "Câmpul de luptă de la Radviliškis", en: "Radviliškis Battlefield",
 image: "/poi-images/lithuania-radviliskis-battlefield-history-v2.webp"

@@ -3,6 +3,7 @@ export const czechrepublicCitiesV2: POI[] = [
 
   {
     id: "czechrepublic-prague-cities-v2",
+    parent: "CZ",
     type: "capital",
     name: { de: "Prag", hu: "Prága", ro: "Praga", en: "Prague",
 image: "/poi-images/czechrepublic-prague-cities-v2.webp"
@@ -38,6 +39,7 @@ image: "/poi-images/czechrepublic-prague-cities-v2.webp"
   },
   {
     id: "czechrepublic-brno-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Brünn", hu: "Brno", ro: "Brno", en: "Brno",
 image: "/poi-images/czechrepublic-brno-cities-v2.webp"
@@ -73,6 +75,7 @@ image: "/poi-images/czechrepublic-brno-cities-v2.webp"
   },
   {
     id: "czechrepublic-ostrava-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Ostrava", hu: "Ostrava", ro: "Ostrava", en: "Ostrava",
 image: "/poi-images/czechrepublic-ostrava-cities-v2.webp"
@@ -108,6 +111,7 @@ image: "/poi-images/czechrepublic-ostrava-cities-v2.webp"
   },
   {
     id: "czechrepublic-plzen-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Pilsen", hu: "Plzeň", ro: "Plzeň", en: "Plzeň",
 image: "/poi-images/czechrepublic-plzen-cities-v2.webp"
@@ -143,6 +147,7 @@ image: "/poi-images/czechrepublic-plzen-cities-v2.webp"
   },
   {
     id: "czechrepublic-liberec-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Liberec", hu: "Liberec", ro: "Liberec", en: "Liberec",
 image: "/poi-images/czechrepublic-liberec-cities-v2.webp"
@@ -178,6 +183,7 @@ image: "/poi-images/czechrepublic-liberec-cities-v2.webp"
   },
   {
     id: "czechrepublic-olomouc-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Olomouc", hu: "Olomouc", ro: "Olomouc", en: "Olomouc",
 image: "/poi-images/czechrepublic-olomouc-cities-v2.webp"
@@ -213,6 +219,7 @@ image: "/poi-images/czechrepublic-olomouc-cities-v2.webp"
   },
   {
     id: "czechrepublic-ceske-budejovice-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Budweis", hu: "České Budějovice", ro: "České Budějovice", en: "České Budějovice",
 image: "/poi-images/czechrepublic-ceske-budejovice-cities-v2.webp"
@@ -248,6 +255,7 @@ image: "/poi-images/czechrepublic-ceske-budejovice-cities-v2.webp"
   },
   {
     id: "czechrepublic-hradec-kralove-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Königgrätz", hu: "Hradec Králové", ro: "Hradec Králové", en: "Hradec Králové",
 image: "/poi-images/czechrepublic-hradec-kralove-cities-v2.webp"
@@ -283,6 +291,7 @@ image: "/poi-images/czechrepublic-hradec-kralove-cities-v2.webp"
   },
   {
     id: "czechrepublic-pardubice-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Pardubitz", hu: "Pardubice", ro: "Pardubice", en: "Pardubice",
 image: "/poi-images/czechrepublic-pardubice-cities-v2.webp"
@@ -318,6 +327,7 @@ image: "/poi-images/czechrepublic-pardubice-cities-v2.webp"
   },
   {
     id: "czechrepublic-zlin-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Zlín", hu: "Zlín", ro: "Zlín", en: "Zlín",
 image: "/poi-images/czechrepublic-zlin-cities-v2.webp"
@@ -353,6 +363,7 @@ image: "/poi-images/czechrepublic-zlin-cities-v2.webp"
   },
   {
     id: "czechrepublic-havirov-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Havířov", hu: "Havířov", ro: "Havířov", en: "Havířov",
 image: "/poi-images/czechrepublic-havirov-cities-v2.webp"
@@ -388,6 +399,7 @@ image: "/poi-images/czechrepublic-havirov-cities-v2.webp"
   },
   {
     id: "czechrepublic-kladno-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Kladno", hu: "Kladno", ro: "Kladno", en: "Kladno",
 image: "/poi-images/czechrepublic-kladno-cities-v2.webp"
@@ -423,6 +435,7 @@ image: "/poi-images/czechrepublic-kladno-cities-v2.webp"
   },
   {
     id: "czechrepublic-most-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Most", hu: "Most", ro: "Most", en: "Most",
 image: "/poi-images/czechrepublic-most-cities-v2.webp"
@@ -458,6 +471,7 @@ image: "/poi-images/czechrepublic-most-cities-v2.webp"
   },
   {
     id: "czechrepublic-opava-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Troppau", hu: "Opava", ro: "Opava", en: "Opava",
 image: "/poi-images/czechrepublic-opava-cities-v2.webp"
@@ -493,6 +507,7 @@ image: "/poi-images/czechrepublic-opava-cities-v2.webp"
   },
   {
     id: "czechrepublic-frydek-mistek-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Friedeck-Mistek", hu: "Frýdek-Místek", ro: "Frýdek-Místek", en: "Frýdek-Místek",
 image: "/poi-images/czechrepublic-frydek-mistek-cities-v2.webp"
@@ -528,6 +543,7 @@ image: "/poi-images/czechrepublic-frydek-mistek-cities-v2.webp"
   },
   {
     id: "czechrepublic-karvina-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Karwin", hu: "Karviná", ro: "Karviná", en: "Karviná",
 image: "/poi-images/czechrepublic-karvina-cities-v2.webp"
@@ -563,6 +579,7 @@ image: "/poi-images/czechrepublic-karvina-cities-v2.webp"
   },
   {
     id: "czechrepublic-jihlava-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Iglau", hu: "Jihlava", ro: "Jihlava", en: "Jihlava",
 image: "/poi-images/czechrepublic-jihlava-cities-v2.webp"
@@ -598,6 +615,7 @@ image: "/poi-images/czechrepublic-jihlava-cities-v2.webp"
   },
   {
     id: "czechrepublic-teplice-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Teplitz", hu: "Teplice", ro: "Teplice", en: "Teplice",
 image: "/poi-images/czechrepublic-teplice-cities-v2.webp"
@@ -633,6 +651,7 @@ image: "/poi-images/czechrepublic-teplice-cities-v2.webp"
   },
   {
     id: "czechrepublic-decin-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Tetschen", hu: "Děčín", ro: "Děčín", en: "Děčín",
 image: "/poi-images/czechrepublic-decin-cities-v2.webp"
@@ -668,6 +687,7 @@ image: "/poi-images/czechrepublic-decin-cities-v2.webp"
   },
   {
     id: "czechrepublic-karlovy-vary-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Karlsbad", hu: "Karlovy Vary", ro: "Karlovy Vary", en: "Karlovy Vary",
 image: "/poi-images/czechrepublic-karlovy-vary-cities-v2.webp"
@@ -703,6 +723,7 @@ image: "/poi-images/czechrepublic-karlovy-vary-cities-v2.webp"
   },
   {
     id: "czechrepublic-chomutov-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Chomutov", hu: "Chomutov", ro: "Chomutov", en: "Chomutov",
 image: "/poi-images/czechrepublic-chomutov-cities-v2.webp"
@@ -738,6 +759,7 @@ image: "/poi-images/czechrepublic-chomutov-cities-v2.webp"
   },
   {
     id: "czechrepublic-jablonec-nad-nisou-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Gablonz an der Neiße", hu: "Jablonec nad Nisou", ro: "Jablonec nad Nisou", en: "Jablonec nad Nisou",
 image: "/poi-images/czechrepublic-jablonec-nad-nisou-cities-v2.webp"
@@ -773,6 +795,7 @@ image: "/poi-images/czechrepublic-jablonec-nad-nisou-cities-v2.webp"
   },
   {
     id: "czechrepublic-mlada-boleslav-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Jungbunzlau", hu: "Mladá Boleslav", ro: "Mladá Boleslav", en: "Mladá Boleslav",
 image: "/poi-images/czechrepublic-mlada-boleslav-cities-v2.webp"
@@ -808,6 +831,7 @@ image: "/poi-images/czechrepublic-mlada-boleslav-cities-v2.webp"
   },
   {
     id: "czechrepublic-prostejov-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Proßnitz in Mähren", hu: "Prostějov", ro: "Prostějov", en: "Prostějov",
 image: "/poi-images/czechrepublic-prostejov-cities-v2.webp"
@@ -843,6 +867,7 @@ image: "/poi-images/czechrepublic-prostejov-cities-v2.webp"
   },
   {
     id: "czechrepublic-prerov-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Prerau", hu: "Přerov", ro: "Přerov", en: "Přerov",
 image: "/poi-images/czechrepublic-prerov-cities-v2.webp"
@@ -878,6 +903,7 @@ image: "/poi-images/czechrepublic-prerov-cities-v2.webp"
   },
   {
     id: "czechrepublic-ceska-lipa-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Böhmisch Leipa", hu: "Česká Lípa", ro: "Česká Lípa", en: "Česká Lípa",
 image: "/poi-images/czechrepublic-ceska-lipa-cities-v2.webp"
@@ -913,6 +939,7 @@ image: "/poi-images/czechrepublic-ceska-lipa-cities-v2.webp"
   },
   {
     id: "czechrepublic-trebic-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Trebitsch", hu: "Třebíč", ro: "Třebíč", en: "Třebíč",
 image: "/poi-images/czechrepublic-trebic-cities-v2.webp"
@@ -948,6 +975,7 @@ image: "/poi-images/czechrepublic-trebic-cities-v2.webp"
   },
   {
     id: "czechrepublic-tabor-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Tabor", hu: "Tábor", ro: "Tábor", en: "Tábor",
 image: "/poi-images/czechrepublic-tabor-cities-v2.webp"
@@ -983,6 +1011,7 @@ image: "/poi-images/czechrepublic-tabor-cities-v2.webp"
   },
   {
     id: "czechrepublic-trinec-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Trzynietz", hu: "Třinec", ro: "Třinec", en: "Třinec",
 image: "/poi-images/czechrepublic-trinec-cities-v2.webp"
@@ -1018,6 +1047,7 @@ image: "/poi-images/czechrepublic-trinec-cities-v2.webp"
   },
   {
     id: "czechrepublic-pribram-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Pibrans", hu: "Příbram", ro: "Příbram", en: "Příbram",
 image: "/poi-images/czechrepublic-pribram-cities-v2.webp"
@@ -1053,6 +1083,7 @@ image: "/poi-images/czechrepublic-pribram-cities-v2.webp"
   },
   {
     id: "czechrepublic-orlova-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Orlau", hu: "Orlová", ro: "Orlová", en: "Orlová",
 image: "/poi-images/czechrepublic-orlova-cities-v2.webp"
@@ -1088,6 +1119,7 @@ image: "/poi-images/czechrepublic-orlova-cities-v2.webp"
   },
   {
     id: "czechrepublic-trutnov-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Trautenau", hu: "Trutnov", ro: "Trutnov", en: "Trutnov",
 image: "/poi-images/czechrepublic-trutnov-cities-v2.webp"
@@ -1123,6 +1155,7 @@ image: "/poi-images/czechrepublic-trutnov-cities-v2.webp"
   },
   {
     id: "czechrepublic-kolin-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Kolin", hu: "Kolín", ro: "Kolín", en: "Kolín",
 image: "/poi-images/czechrepublic-kolin-cities-v2.webp"
@@ -1158,6 +1191,7 @@ image: "/poi-images/czechrepublic-kolin-cities-v2.webp"
   },
   {
     id: "czechrepublic-pisek-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Pisek", hu: "Písek", ro: "Písek", en: "Písek",
 image: "/poi-images/czechrepublic-pisek-cities-v2.webp"
@@ -1193,6 +1227,7 @@ image: "/poi-images/czechrepublic-pisek-cities-v2.webp"
   },
   {
     id: "czechrepublic-kromeriz-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Kremsier", hu: "Kroměříž", ro: "Kroměříž", en: "Kroměříž",
 image: "/poi-images/czechrepublic-kromeriz-cities-v2.webp"
@@ -1228,6 +1263,7 @@ image: "/poi-images/czechrepublic-kromeriz-cities-v2.webp"
   },
   {
     id: "czechrepublic-sumperk-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Mährisch Schönberg", hu: "Šumperk", ro: "Šumperk", en: "Šumperk",
 image: "/poi-images/czechrepublic-sumperk-cities-v2.webp"
@@ -1263,6 +1299,7 @@ image: "/poi-images/czechrepublic-sumperk-cities-v2.webp"
   },
   {
     id: "czechrepublic-vsetin-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Wsetin", hu: "Vsetín", ro: "Vsetín", en: "Vsetín",
 image: "/poi-images/czechrepublic-vsetin-cities-v2.webp"
@@ -1298,6 +1335,7 @@ image: "/poi-images/czechrepublic-vsetin-cities-v2.webp"
   },
   {
     id: "czechrepublic-valasske-mezirici-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Wallachisch Meseritsch", hu: "Valašské Meziříčí", ro: "Valašské Meziříčí", en: "Valašské Meziříčí",
 image: "/poi-images/czechrepublic-valasske-mezirici-cities-v2.webp"
@@ -1333,6 +1371,7 @@ image: "/poi-images/czechrepublic-valasske-mezirici-cities-v2.webp"
   },
   {
     id: "czechrepublic-litvinov-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Oberleutensdorf", hu: "Litvínov", ro: "Litvínov", en: "Litvínov",
 image: "/poi-images/czechrepublic-litvinov-cities-v2.webp"
@@ -1368,6 +1407,7 @@ image: "/poi-images/czechrepublic-litvinov-cities-v2.webp"
   },
   {
     id: "czechrepublic-uherske-hradiste-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Ungarisch Hradisch", hu: "Uherské Hradiště", ro: "Uherské Hradiště", en: "Uherské Hradiště",
 image: "/poi-images/czechrepublic-uherske-hradiste-cities-v2.webp"
@@ -1403,6 +1443,7 @@ image: "/poi-images/czechrepublic-uherske-hradiste-cities-v2.webp"
   },
   {
     id: "czechrepublic-hodonin-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Göding", hu: "Hodonín", ro: "Hodonín", en: "Hodonín",
 image: "/poi-images/czechrepublic-hodonin-cities-v2.webp"
@@ -1438,6 +1479,7 @@ image: "/poi-images/czechrepublic-hodonin-cities-v2.webp"
   },
   {
     id: "czechrepublic-breclav-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Lundenburg", hu: "Břeclav", ro: "Břeclav", en: "Břeclav",
 image: "/poi-images/czechrepublic-breclav-cities-v2.webp"
@@ -1473,6 +1515,7 @@ image: "/poi-images/czechrepublic-breclav-cities-v2.webp"
   },
   {
     id: "czechrepublic-krnov-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Jägerndorf", hu: "Krnov", ro: "Krnov", en: "Krnov",
 image: "/poi-images/czechrepublic-krnov-cities-v2.webp"
@@ -1508,6 +1551,7 @@ image: "/poi-images/czechrepublic-krnov-cities-v2.webp"
   },
   {
     id: "czechrepublic-litomerice-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Leitmeritz", hu: "Litoměřice", ro: "Litoměřice", en: "Litoměřice",
 image: "/poi-images/czechrepublic-litomerice-cities-v2.webp"
@@ -1543,6 +1587,7 @@ image: "/poi-images/czechrepublic-litomerice-cities-v2.webp"
   },
   {
     id: "czechrepublic-havlickuv-brod-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Deutschbrod", hu: "Havlíčkův Brod", ro: "Havlíčkův Brod", en: "Havlíčkův Brod",
 image: "/poi-images/czechrepublic-havlickuv-brod-cities-v2.webp"
@@ -1578,6 +1623,7 @@ image: "/poi-images/czechrepublic-havlickuv-brod-cities-v2.webp"
   },
   {
     id: "czechrepublic-zdar-nad-sazavou-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Saar", hu: "Žďár nad Sázavou", ro: "Žďár nad Sázavou", en: "Žďár nad Sázavou",
 image: "/poi-images/czechrepublic-zdar-nad-sazavou-cities-v2.webp"
@@ -1614,6 +1660,7 @@ image: "/poi-images/czechrepublic-zdar-nad-sazavou-cities-v2.webp"
   },
   {
     id: "czechrepublic-chrudim-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Chrudim", hu: "Chrudim", ro: "Chrudim", en: "Chrudim",
 image: "/poi-images/czechrepublic-chrudim-cities-v2.webp"
@@ -1633,9 +1680,23 @@ image: "/poi-images/czechrepublic-chrudim-cities-v2.webp"
       en: ["Museum of Puppet Culture", "Center of Czech puppetry art", "Church of the Assumption of Mary", "Founded before 1276"],
     },
     imageHint: "Chrudim historic puppet museum building",
-    image: "/poi-images/czechrepublic-chrudim-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-chrudim-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Chrudim, oft als das 'Athen Ostböhmens' bezeichnet, ist eine historische Stadt mit einem reichen kulturellen Erbe. Besonders bekannt ist die Stadt für ihre lange Tradition des Puppenspiels, die im Puppenspielmuseum eindrucksvoll dokumentiert wird. Das historische Zentrum ist gut erhalten und wird von der gotischen Himmelfahrtskirche dominiert. Ein weiteres markantes Gebäude ist das Alte Rathaus im Renaissancestil. Chrudim war eine wichtige Königsstadt und ein bedeutendes Handelszentrum. Heute ist die Stadt für das Loutkářská Chrudim, ein jährliches internationales Puppenspielfestival, bekannt, das Künstler und Besucher aus aller Welt anzieht und die Stadt in eine lebendige Bühne verwandelt.",
+      hu: "A gyakran 'Kelet-Csehország Athénjának' is nevezett Chrudim gazdag kulturális örökséggel rendelkező történelmi város. Különösen a bábművészet hosszú hagyományairól ismert, amelyet a Bábmúzeum lenyűgözően mutat be. A történelmi központ jó állapotban maradt fenn, és a gótikus Nagyboldogasszony-templom uralja. Egy másik jellegzetes épület a reneszánsz Régi Városháza. Chrudim fontos királyi város és jelentős kereskedelmi központ volt. Ma a város a Loutkářská Chrudim nevű, évente megrendezett nemzetközi bábfesztiválról híres, amely a világ minden tájáról vonzza a művészeket és a látogatókat, és a várost egy élettel teli színpaddá változtatja.",
+      ro: "Chrudim, adesea numit 'Atena Boemiei de Est', este un oraș istoric cu o bogată moștenire culturală. Orașul este cunoscut în special pentru lunga sa tradiție în arta păpușăriei, documentată impresionant la Muzeul Păpușilor. Centrul istoric este bine conservat și dominat de Biserica gotică a Adormirii Maicii Domnului. O altă clădire distinctivă este Primăria Veche în stil renascentist. Chrudim a fost un important oraș regal și un centru comercial semnificativ. Astăzi, orașul este renumit pentru Loutkářská Chrudim, un festival internațional anual de păpuși care atrage artiști și vizitatori din întreaga lume, transformând orașul într-o scenă vibrantă.",
+      en: "Chrudim, often called the 'Athens of East Bohemia,' is a historic town with a rich cultural heritage. The town is particularly known for its long tradition of puppetry, which is impressively documented in the Museum of Puppetry Cultures. The historic center is well-preserved and dominated by the Gothic Church of the Assumption of the Virgin Mary. Another distinctive building is the Renaissance-style Old Town Hall. Chrudim was an important royal town and a significant trade center. Today, the town is famous for Loutkářská Chrudim, an annual international puppet festival that attracts artists and visitors from all over the world, turning the city into a vibrant stage."
+    },
+    factsAdvanced: {
+      de: ["Das Puppenspielmuseum wurde 1972 gegründet.", "Das Festival Loutkářská Chrudim findet seit 1951 jährlich statt.", "Die Stadt wurde im 13. Jahrhundert gegründet.", "Die Mydlář-Haus, ein Renaissancegebäude, beherbergt das Puppenspielmuseum.", "Die Stadtmauern aus dem 14. und 15. Jahrhundert sind teilweise erhalten.", "In der Nähe der Stadt befindet sich der Naturpark Střela.", "Der Komponist Josef Ressel, Erfinder des Schiffspropellers, wurde 1793 in Chrudim geboren.", "Chrudim hatte eine bedeutende jüdische Gemeinde; der alte jüdische Friedhof ist erhalten."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-strakonice-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Strakonitz", hu: "Strakonice", ro: "Strakonice", en: "Strakonice",
 image: "/poi-images/czechrepublic-strakonice-cities-v2.webp"
@@ -1655,9 +1716,24 @@ image: "/poi-images/czechrepublic-strakonice-cities-v2.webp"
       en: ["International Bagpipe Festival", "Significant motorcycle production (ČZ)", "Strakonice Castle (formerly Knights Hospitaller)", "Textile industry center (Feze)"],
     },
     imageHint: "Strakonice Castle and river",
-    image: "/poi-images/czechrepublic-strakonice-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-strakonice-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Strakonice liegt am Zusammenfluss der Flüsse Otava und Volyňka in Südböhmen. Die Stadt ist untrennbar mit drei Traditionen verbunden: dem Dudelsack, dem Fez (einer orientalischen Kopfbedeckung) und der Motorradmarke ČZ. Die imposante Burg von Strakonice, eine Kombination aus Burg und Kommende des Johanniterordens, dominiert die Stadt und beherbergt das Museum des mittleren Otava-Tals. Alle zwei Jahre findet hier das Internationale Dudelsackfestival statt, das Musiker aus aller Welt anzieht. Die industrielle Geschichte wurde durch die Hutfabrik (später Tonak) und die Waffen- und Motorradfabrik Česká zbrojovka (ČZ) geprägt, deren Motorräder einst weltberühmt waren.",
+      hu: "Strakonice Dél-Csehországban, az Otava és a Volyňka folyók összefolyásánál fekszik. A város neve elválaszthatatlanul összefonódik három hagyománnyal: a dudával, a fezzel (egy keleti fejfedő) és a ČZ motorkerékpár-márkával. A lenyűgöző strakonicei vár, amely a johannita lovagrend várának és komendájának kombinációja, uralja a várost, és a Középső-Otava-völgy Múzeumának ad otthont. Kétévente itt rendezik meg a Nemzetközi Dudafesztivált, amely a világ minden tájáról vonzza a zenészeket. Az ipartörténetet a kalapgyár (később Tonak) és a Česká zbrojovka (ČZ) fegyver- és motorkerékpárgyár határozta meg, amelynek motorjai egykor világhírűek voltak.",
+      ro: "Strakonice este situat la confluența râurilor Otava și Volyňka în Boemia de Sud. Orașul este indisolubil legat de trei tradiții: cimpoiul, fesul (o acoperitoare de cap orientală) și marca de motociclete ČZ. Impunătorul Castel Strakonice, o combinație de castel și comandă a Ordinului Ioaniților, domină orașul și găzduiește Muzeul Văii Mijlocii a Otava. La fiecare doi ani, aici are loc Festivalul Internațional de Cimpoi, care atrage muzicieni din întreaga lume. Istoria industrială a fost marcată de fabrica de pălării (mai târziu Tonak) și de fabrica de arme și motociclete Česká zbrojovka (ČZ), ale cărei motociclete au fost cândva renumite la nivel mondial.",
+      en: "",
+      en: "Strakonice is located at the confluence of the Otava and Volyňka rivers in South Bohemia. The city is inextricably linked with three traditions: the bagpipes, the fez (an oriental headdress), and the ČZ motorcycle brand. The imposing Strakonice Castle, a combination of a castle and a commandery of the Knights of St. John, dominates the town and houses the Museum of the Middle Otava River Region. Every two years, the International Bagpipe Festival is held here, attracting musicians from all over the world. The industrial history was shaped by the hat factory (later Tonak) and the arms and motorcycle factory Česká zbrojovka (ČZ), whose motorcycles were once world-famous."
+    },
+    factsAdvanced: {
+      de: ["Die Burg Strakonice wurde im 13. Jahrhundert gegründet.", "Das Internationale Dudelsackfestival findet seit 1967 statt.", "Die Firma ČZ (Česká zbrojovka) wurde 1919 gegründet.", "Die Produktion von Fez-Hüten begann in Strakonice im Jahr 1807.", "Die Stadt war ein wichtiges Zentrum der tschechischen Nationalen Wiedergeburt.", "Der Rumpál-Turm in der Burg bietet einen weiten Blick über die Stadt.", "Die Legende vom Dudelsackpfeifer Švanda ist eng mit Strakonice verbunden.", "Die Otava war früher ein wichtiger Fluss für die Flößerei und die Goldwäsche."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-koprivnice-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Nesselsdorf", hu: "Kopřivnice", ro: "Kopřivnice", en: "Kopřivnice",
 image: "/poi-images/czechrepublic-koprivnice-cities-v2.webp"
@@ -1677,9 +1753,23 @@ image: "/poi-images/czechrepublic-koprivnice-cities-v2.webp"
       en: ["Tatra Technical Museum", "Birthplace of runner Emil Zátopek", "First automobile in Austria-Hungary (Präsident)", "Šostýn castle ruins nearby"],
     },
     imageHint: "Koprivnice Tatra Museum vehicles",
-    image: "/poi-images/czechrepublic-koprivnice-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-koprivnice-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kopřivnice ist weltweit als die Wiege der Automobilmarke Tatra bekannt. Die Geschichte der Stadt ist untrennbar mit der 1850 gegründeten Firma verbunden, die zunächst Kutschen und Eisenbahnwaggons und ab 1897 das erste Automobil in Mitteleuropa, den 'Präsident', herstellte. Das einzigartige Tatra-Museum für Technik zeigt die Entwicklung der Marke, darunter die berühmten stromlinienförmigen Limousinen von Hans Ledwinka und die robusten Lastwagen. Neben dem Automobilbau ist die Stadt auch mit dem Olympiasieger und Langstreckenläufer Emil Zátopek verbunden, der hier geboren wurde. Die Burgruine Šostýn auf einem nahegelegenen Hügel erinnert an die mittelalterliche Vergangenheit der Region.",
+      hu: "Kopřivnice világszerte a Tatra autómárka bölcsőjeként ismert. A város története elválaszthatatlanul összefonódik az 1850-ben alapított céggel, amely kezdetben hintókat és vasúti kocsikat gyártott, majd 1897-től az első közép-európai autót, a 'Präsident'-et. Az egyedülálló Tatra Műszaki Múzeum bemutatja a márka fejlődését, beleértve Hans Ledwinka híres áramvonalas limuzinjait és a robusztus teherautókat. Az autógyártás mellett a város Emil Zátopek olimpiai bajnok és hosszútávfutóhoz is kötődik, aki itt született. A közeli dombon található Šostýn várának romjai a régió középkori múltjára emlékeztetnek.",
+      ro: "Kopřivnice este cunoscut la nivel mondial ca leagănul mărcii de automobile Tatra. Istoria orașului este indisolubil legată de compania fondată în 1850, care a produs inițial trăsuri și vagoane de cale ferată, iar din 1897 primul automobil din Europa Centrală, 'Präsident'. Unicul Muzeu Tehnic Tatra prezintă evoluția mărcii, inclusiv celebrele limuzine aerodinamice ale lui Hans Ledwinka și camioanele robuste. Pe lângă construcția de automobile, orașul este asociat și cu campionul olimpic și alergătorul de fond Emil Zátopek, care s-a născut aici. Ruinele castelului Šostýn de pe un deal din apropiere amintesc de trecutul medieval al regiunii.",
+      en: "Kopřivnice is known worldwide as the cradle of the Tatra automobile brand. The city's history is inextricably linked to the company founded in 1850, which initially produced carriages and railway wagons, and from 1897, the first automobile in Central Europe, the 'Präsident.' The unique Tatra Technical Museum showcases the brand's evolution, including Hans Ledwinka's famous streamlined limousines and rugged trucks. Besides car manufacturing, the city is also associated with the Olympic champion and long-distance runner Emil Zátopek, who was born here. The ruins of Šostýn Castle on a nearby hill recall the region's medieval past."
+    },
+    factsAdvanced: {
+      de: ["Das erste Auto, der 'Präsident', wurde 1897 hergestellt.", "Der Tatra 87, gefahren von Hanzelka und Zikmund, ist eine Ikone des tschechischen Designs.", "Emil Zátopek (1922–2000) gewann vier olympische Goldmedaillen.", "Das Unternehmen Tatra wurde 1850 als Ignatz Schustala & Comp. gegründet.", "Das Tatra-Konzept verwendete ein zentrales Tragrohr-Chassis und luftgekühlte Heckmotoren.", "Das Technische Museum wurde 1997 eröffnet.", "Die Burg Šostýn wurde wahrscheinlich im späten 13. Jahrhundert gegründet.", "Die Stadt liegt in der Lachei, einer ethnographischen Region am Fuße der Beskiden."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-bohumin-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Oderberg", hu: "Bohumín", ro: "Bohumín", en: "Bohumín",
 image: "/poi-images/czechrepublic-bohumin-cities-v2.webp"
@@ -1699,9 +1789,23 @@ image: "/poi-images/czechrepublic-bohumin-cities-v2.webp"
       en: ["One of the most important railway stations in Czechia", "Major metal industry (ŽDB)", "Meanders of the Oder protected area", "Founded in the 13th century"],
     },
     imageHint: "Bohumin railway station and town hall",
-    image: "/poi-images/czechrepublic-bohumin-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-bohumin-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bohumín ist ein bedeutender Eisenbahnknotenpunkt und eine Industriestadt im äußersten Nordosten Tschechiens, nahe der polnischen Grenze am Zusammenfluss von Oder und Olsa. Die Entwicklung der Stadt wurde im 19. Jahrhundert durch den Bau der Kaiser-Ferdinands-Nordbahn und die Entdeckung von Steinkohle in der Region maßgeblich vorangetrieben. Dies führte zur Ansiedlung von Eisenhütten und Drahtwerken (heute Třinecké železárny - Werk Bohumín). Die Architektur der Stadt ist stark von der industriellen Entwicklung geprägt. Ein interessantes technisches Denkmal sind die Oder-Mäander (Meandry Odry), ein geschütztes Naturgebiet, das den unregulierten, natürlich mäandrierenden Flusslauf zeigt – ein starker Kontrast zur umliegenden Industrielandschaft.",
+      hu: "Bohumín fontos vasúti csomópont és ipari város Csehország legészakkeletibb csücskében, a lengyel határ közelében, az Odera és az Olza folyók összefolyásánál. A város fejlődését a 19. században az Északi Ferdinánd Császár Vasút megépítése és a régióban talált kőszén-lelőhelyek mozdították elő jelentősen. Ez vasművek és drótgyárak (ma a Třineci Vasmű bohumíni üzeme) letelepedéséhez vezetett. A város építészetét erősen meghatározza az ipari fejlődés. Érdekes technikai műemlék az Odera-meanderek (Meandry Odry), egy védett természeti terület, amely a szabályozatlan, természetesen kanyargó folyószakaszt mutatja be – éles ellentétben a környező ipari tájjal.",
+      ro: "Bohumín este un nod feroviar important și un oraș industrial în extremitatea de nord-est a Cehiei, lângă granița cu Polonia, la confluența râurilor Oder și Olza. Dezvoltarea orașului a fost impulsionată semnificativ în secolul al XIX-lea de construcția căii ferate nordice Împăratul Ferdinand și de descoperirea huilei în regiune. Acest lucru a dus la înființarea de oțelării și fabrici de sârmă (astăzi Uzina Bohumín a Oțelăriilor Třinec). Arhitectura orașului este puternic marcată de dezvoltarea industrială. Un monument natural interesant sunt Meandrele Odrei, o arie naturală protejată care prezintă cursul neregulat, natural șerpuitor al râului - un contrast puternic cu peisajul industrial înconjurător.",
+      en: "Bohumín is an important railway junction and industrial city in the far northeast of the Czech Republic, near the Polish border at the confluence of the Oder and Olza rivers. The city's development was significantly driven in the 19th century by the construction of the Emperor Ferdinand Northern Railway and the discovery of hard coal in the region. This led to the establishment of ironworks and wire mills (today Třinecké železárny - Bohumín Plant). The city's architecture is heavily marked by industrial development. An interesting natural monument is the Oder Meanders (Meandry Odry), a protected natural area showcasing the unregulated, naturally meandering river course—a stark contrast to the surrounding industrial landscape."
+    },
+    factsAdvanced: {
+      de: ["Der Bahnhof von Bohumín wurde 1847 eröffnet.", "Die Stadt liegt am Zusammenfluss von Oder und Olsa.", "Die Drahtwerke (Železárny a drátovny Bohumín) wurden 1885 gegründet.", "Bohumín war ein historisch umstrittenes Gebiet zwischen Polen und der Tschechoslowakei (Olsa-Gebiet).", "Die neugotische Herz-Jesu-Kirche ist ein Wahrzeichen der Stadt.", "Der Baťa-Kanal, eine historische Wasserstraße, endet in der Nähe.", "Die Oder-Mäander sind ein seltenes Beispiel für einen Tieflandfluss in seinem natürlichen Zustand.", "Die Stadt hat eine große polnische Minderheit."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-klatovy-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Klattau", hu: "Klatovy", ro: "Klatovy", en: "Klatovy",
 image: "/poi-images/czechrepublic-klatovy-cities-v2.webp"
@@ -1721,9 +1825,23 @@ image: "/poi-images/czechrepublic-klatovy-cities-v2.webp"
       en: ["Klatovy catacombs with mummies", "Baroque Jesuit pharmacy", "Black Tower (71 meters high)", "Founded around 1260"],
     },
     imageHint: "Klatovy Black Tower and square",
-    image: "/poi-images/czechrepublic-klatovy-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-klatovy-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Klatovy, eine Königsstadt in Westböhmen, wird oft als das 'Tor zum Böhmerwald' bezeichnet. Ihr Wahrzeichen ist der Schwarze Turm, der einen beeindruckenden Blick über die Stadt und die umliegende Landschaft bietet. Direkt daneben befindet sich die Jesuitenkirche der Unbefleckten Empfängnis Mariens und des Heiligen Ignatius, unter der sich die berühmten Katakomben befinden. In diesen Krypten wurden die Leichen von Jesuiten und Adligen durch ein ausgeklügeltes Belüftungssystem auf natürliche Weise mumifiziert. Ein weiteres einzigartiges Merkmal der Stadt ist die barocke Apotheke 'Zum weißen Einhorn', deren originale Einrichtung vollständig erhalten ist und heute als Museum dient. Klatovy ist auch für den Anbau von Nelken bekannt, eine Tradition, die bis ins 19. Jahrhundert zurückreicht.",
+      hu: "A nyugat-csehországi királyi város, Klatovy, gyakran a 'Šumava kapujaként' emlegetik. Jelképe a Fekete-torony, ahonnan lenyűgöző kilátás nyílik a városra és a környező tájra. Közvetlenül mellette található a Szeplőtelen Fogantatás és Szent Ignác jezsuita templom, amely alatt a híres katakombák rejtőznek. Ezekben a kriptákban jezsuiták és nemesek holttesteit egy kifinomult szellőzőrendszer segítségével természetes úton mumifikálták. A város másik egyedülálló jellegzetessége a 'Fehér Egyszarvúhoz' címzett barokk gyógyszertár, amelynek eredeti berendezése teljes egészében megmaradt, és ma múzeumként szolgál. Klatovy a szegfűtermesztéséről is ismert, ez a hagyomány egészen a 19. századig nyúlik vissza.",
+      ro: "Klatovy, un oraș regal din Boemia de Vest, este adesea numit 'Poarta către Munții Šumava'. Simbolul său este Turnul Negru, care oferă o vedere impresionantă asupra orașului și a peisajului înconjurător. Chiar lângă acesta se află biserica iezuită a Imaculatei Concepții a Fecioarei Maria și a Sfântului Ignațiu, sub care se găsesc faimoasele catacombe. În aceste cripte, trupurile iezuiților și nobililor au fost mumificate în mod natural printr-un sistem ingenios de ventilație. O altă caracteristică unică a orașului este farmacia barocă 'La Unicornul Alb', al cărei interior original este complet conservat și servește astăzi ca muzeu. Klatovy este, de asemenea, cunoscut pentru cultivarea garoafelor, o tradiție care datează din secolul al XIX-lea.",
+      en: "Klatovy, a royal town in West Bohemia, is often called the 'Gateway to the Šumava Mountains.' Its landmark is the Black Tower, which offers an impressive view over the town and the surrounding landscape. Right next to it is the Jesuit Church of the Immaculate Conception of the Virgin Mary and St. Ignatius, beneath which lie the famous catacombs. In these crypts, the bodies of Jesuits and nobles were naturally mummified by a sophisticated ventilation system. Another unique feature of the town is the Baroque pharmacy 'At the White Unicorn,' whose original interior is fully preserved and now serves as a museum. Klatovy is also known for the cultivation of carnations, a tradition dating back to the 19th century."
+    },
+    factsAdvanced: {
+      de: ["Der Schwarze Turm wurde im 16. Jahrhundert als Wachturm und Glockenturm erbaut.", "Die Katakomben beherbergten einst über 200 Mumien, von denen heute noch etwa 30 zu sehen sind.", "Die Apotheke 'Zum weißen Einhorn' wurde 1639 gegründet.", "Die Stadt wurde um 1260 von König Ottokar II. Přemysl gegründet.", "Das jährliche Stadtfest, die 'Klatovská pouť', ist eines der größten in Westböhmen.", "Klatovy war ein wichtiges Zentrum der Gegenreformation.", "Die Tradition des Nelkenanbaus begann um 1813.", "Der jüdische Friedhof der Stadt wurde im 19. Jahrhundert angelegt."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-jindrichuv-hradec-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Neuhaus", hu: "Jindřichův Hradec", ro: "Jindřichův Hradec", en: "Jindřichův Hradec",
 image: "/poi-images/czechrepublic-jindrichuv-hradec-cities-v2.webp"
@@ -1743,9 +1861,23 @@ image: "/poi-images/czechrepublic-jindrichuv-hradec-cities-v2.webp"
       en: ["Third largest castle complex in Czechia", "Largest mechanical nativity scene (Krýza's crèche)", "Historic narrow-gauge railway", "Founded in the 13th century"],
     },
     imageHint: "Jindrichuv Hradec castle and lake",
-    image: "/poi-images/czechrepublic-jindrichuv-hradec-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-jindrichuv-hradec-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jindřichův Hradec in Südböhmen ist berühmt für seinen weitläufigen Schloss- und Burgkomplex, den drittgrößten in Tschechien. Das Schloss, eine Mischung aus Gotik, Renaissance und Barock, war der Sitz der mächtigen Herren von Hradec und später der Familien Slawata und Czernin. Eine besondere Attraktion ist die 'Schwarze Küche', eine der größten erhaltenen Renaissance-Küchen Mitteleuropas. Die Stadt selbst bezaubert mit ihrem historischen Zentrum am Ufer des Vajgar-Teichs. Ein weiteres Highlight ist die Krýza-Krippe, die größte mechanische Weihnachtskrippe der Welt, die im Guinness-Buch der Rekorde verzeichnet ist. Jindřichův Hradec ist auch Ausgangspunkt zweier malerischer Schmalspurbahnen, die durch die Landschaft von Tschechisch-Kanada führen.",
+      hu: "A dél-csehországi Jindřichův Hradec hatalmas vár- és kastélykomplexumáról híres, amely a harmadik legnagyobb Csehországban. A gótikus, reneszánsz és barokk stílusjegyeket ötvöző kastély a hatalmas Hradec-i urak, majd később a Slawata és Czernin családok székhelye volt. Különleges látványosság a 'Fekete konyha', Közép-Európa egyik legnagyobb, épségben megmaradt reneszánsz konyhája. Maga a város a Vajgar-tó partján fekvő történelmi központjával varázsol el. További látványosság a Krýza-betlehem, a világ legnagyobb mechanikus karácsonyi jászola, amely a Guinness Rekordok Könyvében is szerepel. Jindřichův Hradec két festői keskeny nyomtávú vasútvonal kiindulópontja is, amelyek a 'Cseh Kanada' tájain vezetnek keresztül.",
+      ro: "Jindřichův Hradec, în Boemia de Sud, este renumit pentru vastul său complex de castel și palat, al treilea ca mărime din Cehia. Castelul, un amestec de stiluri gotic, renascentist și baroc, a fost reședința puternicilor lorzi de Hradec și, ulterior, a familiilor Slawata și Czernin. O atracție specială este 'Bucătăria Neagră', una dintre cele mai mari bucătării renascentiste conservate din Europa Centrală. Orașul însuși încântă cu centrul său istoric de pe malul iazului Vajgar. Un alt punct de atracție este Scena Nașterii a lui Krýza, cea mai mare scenă mecanică a nașterii din lume, înregistrată în Cartea Recordurilor Guinness. Jindřichův Hradec este, de asemenea, punctul de plecare a două căi ferate pitorești cu ecartament îngust care străbat peisajul 'Canadei Cehe'.",
+      en: "Jindřichův Hradec in South Bohemia is famous for its extensive castle and chateau complex, the third largest in the Czech Republic. The complex, a blend of Gothic, Renaissance, and Baroque styles, was the seat of the powerful Lords of Hradec and later the Slawata and Czernin families. A special attraction is the 'Black Kitchen,' one of the largest preserved Renaissance kitchens in Central Europe. The town itself is charming, with its historic center on the banks of the Vajgar pond. Another highlight is the Krýza Nativity Scene, the largest mechanical nativity scene in the world, listed in the Guinness Book of Records. Jindřichův Hradec is also the starting point for two scenic narrow-gauge railways that run through the 'Czech Canada' landscape."
+    },
+    factsAdvanced: {
+      de: ["Der Schlosskomplex umfasst etwa 320 Räume.", "Die Krýza-Krippe wurde über einen Zeitraum von 60 Jahren von Tomáš Krýza gebaut.", "Der 15. Längengrad Ost, der die Mitteleuropäische Zeit definiert, verläuft durch das Stadtzentrum.", "Das Schloss war Schauplatz des 'Zweiten Prager Fenstersturzes' von 1618, als die Statthalter aus den Fenstern geworfen wurden, aber überlebten.", "Die Schmalspurbahnen wurden Ende des 19. Jahrhunderts gebaut.", "Der runde Renaissance-Pavillon 'Rondell' im Schlosspark ist bekannt für seine Akustik.", "Die Stadt hat eine lange Tradition in der Teppichweberei.", "Der Name bedeutet 'Heinrichsburg'."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-vyskov-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Wischau", hu: "Vyškov", ro: "Vyškov", en: "Vyškov",
 image: "/poi-images/czechrepublic-vyskov-cities-v2.webp"
@@ -1765,9 +1897,23 @@ image: "/poi-images/czechrepublic-vyskov-cities-v2.webp"
       en: ["DinoPark and Vyškov Zoo", "Czech Armed Forces Academy", "Baroque castle with a garden", "Founded in the 12th century"],
     },
     imageHint: "Vyskov DinoPark dinosaur models",
-    image: "/poi-images/czechrepublic-vyskov-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-vyskov-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Vyškov in Südmähren ist eine Stadt mit starker militärischer Präsenz, da sie der Hauptstandort der tschechischen Heeresakademie ist. Das historische Zentrum wird von einem Renaissanceschloss dominiert, das heute das Museum der Region Vyškov beherbergt. Der Hauptplatz ist von gut erhaltenen Bürgerhäusern gesäumt. Eine beliebte Attraktion, besonders für Familien, ist der Zoopark, der sich auf die Zucht einheimischer und exotischer Haustiere spezialisiert hat. Angeschlossen ist ein einzigartiger DinoPark mit lebensgroßen, beweglichen Modellen von Dinosauriern. Die Stadt liegt an der historischen Handelsroute von Brünn nach Olmütz und war einst eine wichtige Ackerbürgerstadt.",
+      hu: "A dél-morvaországi Vyškov egy erős katonai jelenléttel bíró város, mivel itt található a cseh hadsereg akadémiájának fő telephelye. A történelmi központot egy reneszánsz kastély uralja, amely ma a Vyškovi Régió Múzeumának ad otthont. A főteret jó állapotban megmaradt polgárházak szegélyezik. Népszerű látványosság, különösen a családok körében, az állatkert, amely hazai és egzotikus háziállatok tenyésztésére szakosodott. Hozzá kapcsolódik egy egyedülálló DinoPark életnagyságú, mozgó dinoszaurusz-modellekkel. A város a Brnóból Olmützbe vezető történelmi kereskedelmi útvonal mentén fekszik, és egykor fontos mezőváros volt.",
+      ro: "Vyškov, în Moravia de Sud, este un oraș cu o puternică prezență militară, fiind locația principală a Academiei Armatei Cehe. Centrul istoric este dominat de un castel renascentist, care găzduiește astăzi Muzeul Regiunii Vyškov. Piața principală este mărginită de case burgheze bine conservate. O atracție populară, în special pentru familii, este Grădina Zoologică, specializată în creșterea animalelor domestice native și exotice. Anexat acesteia este un DinoPark unic, cu modele de dinozauri în mărime naturală, care se mișcă. Orașul este situat pe ruta comercială istorică de la Brno la Olomouc și a fost cândva un important oraș agricol.",
+      en: "Vyškov in South Moravia is a town with a strong military presence, as it is the main site of the Czech Army Academy. The historic center is dominated by a Renaissance chateau, which now houses the Museum of the Vyškov Region. The main square is lined with well-preserved townhouses. A popular attraction, especially for families, is the Zoopark, which specializes in breeding native and exotic domestic animals. Attached to it is a unique DinoPark with life-size, moving models of dinosaurs. The town is situated on the historic trade route from Brno to Olomouc and was once an important agricultural town."
+    },
+    factsAdvanced: {
+      de: ["Die Heeresakademie in Vyškov ist die einzige militärische Hochschule ihrer Art in Tschechien.", "Das Schloss Vyškov wurde ursprünglich als gotische Burg im 14. Jahrhundert erbaut.", "Der DinoPark wurde 2006 eröffnet.", "Der Zoopark wurde 1965 gegründet.", "Die Stadt liegt in der Nähe des Schlachtfelds von Austerlitz (Slavkov u Brna).", "Das Rathaus aus dem 17. Jahrhundert hat einen markanten Turm.", "Vyškov war historisch gesehen ein Zentrum der deutschsprachigen Bevölkerung in Mähren.", "Die Brauerei Vyškov wurde bereits 1680 gegründet."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-kutna-hora-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Kuttenberg", hu: "Kutná Hora", ro: "Kutná Hora", en: "Kutná Hora",
 image: "/poi-images/czechrepublic-kutna-hora-cities-v2.webp"
@@ -1787,9 +1933,23 @@ image: "/poi-images/czechrepublic-kutna-hora-cities-v2.webp"
       en: ["Historic center is a UNESCO World Heritage site", "Famous Sedlec Ossuary (Bone Church)", "Gothic St. Barbara's Cathedral", "Former royal mint (Italian Court)"],
     },
     imageHint: "Kutna Hora St Barbara Cathedral exterior",
-    image: "/poi-images/czechrepublic-kutna-hora-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-kutna-hora-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kutná Hora, die 'Schatzkammer des böhmischen Königreichs', verdankt ihren Reichtum dem Silberbergbau im Mittelalter. Die Stadt konkurrierte einst wirtschaftlich und kulturell mit Prag. Ihr außergewöhnlicher Reichtum führte zum Bau prächtiger Bauwerke, die der Stadt 1995 den Status eines UNESCO-Weltkulturerbes einbrachten. Das Wahrzeichen ist der monumentale gotische Dom der Heiligen Barbara, der den Bergleuten gewidmet ist. Ein weiteres Juwel ist der Welsche Hof (Vlašský dvůr), die ehemalige königliche Münzprägeanstalt, in der der berühmte Prager Groschen geprägt wurde. Weltberühmt ist auch das Sedletz-Ossarium, eine Kapelle, die mit den Knochen von Zehntausenden von Menschen dekoriert ist, was eine makabre, aber faszinierende Sehenswürdigkeit darstellt.",
+      hu: "Kutná Hora, a 'Cseh Királyság kincstára', a középkori ezüstbányászatnak köszönheti gazdagságát. A város egykor gazdaságilag és kulturálisan is Prágával vetekedett. Rendkívüli gazdagsága pompás építmények létrehozásához vezetett, amelyek 1995-ben a városnak UNESCO Világörökségi státuszt hoztak. Jelképe a monumentális gótikus Szent Borbála-katedrális, amelyet a bányászoknak szenteltek. Egy másik ékkő az Olasz udvar (Vlašský dvůr), az egykori királyi pénzverde, ahol a híres prágai garast verték. Világhírű a sedleci osszárium is, egy kápolna, amelyet több tízezer ember csontjaival díszítettek, ami egy morbid, de lenyűgöző látványosság.",
+      ro: "Kutná Hora, 'Trezoreria Regatului Boemiei', își datorează bogăția mineritului de argint din Evul Mediu. Orașul a concurat cândva economic și cultural cu Praga. Bogăția sa excepțională a dus la construcția unor edificii magnifice, care i-au adus orașului statutul de Patrimoniu Mondial UNESCO în 1995. Simbolul său este monumentala Catedrală gotică Sfânta Barbara, dedicată minerilor. O altă bijuterie este Curtea Italiană (Vlašský dvůr), fosta monetărie regală unde se bătea celebrul groș de Praga. De renume mondial este și Osuarul de la Sedlec, o capelă decorată cu oasele a zeci de mii de oameni, creând un obiectiv turistic macabru, dar fascinant.",
+      en: "Kutná Hora, the 'Treasury of the Bohemian Kingdom,' owes its wealth to silver mining in the Middle Ages. The city once competed economically and culturally with Prague. Its extraordinary wealth led to the construction of magnificent buildings, earning the city UNESCO World Heritage status in 1995. Its landmark is the monumental Gothic Cathedral of St. Barbara, dedicated to the miners. Another gem is the Italian Court (Vlašský dvůr), the former royal mint where the famous Prague groschen was struck. Also world-famous is the Sedlec Ossuary, a chapel decorated with the bones of tens of thousands of people, creating a macabre yet fascinating sight."
+    },
+    factsAdvanced: {
+      de: ["Das historische Stadtzentrum wurde 1995 zum UNESCO-Weltkulturerbe erklärt.", "Der Bau des Doms der Heiligen Barbara begann 1388.", "Der Prager Groschen wurde in Kutná Hora von 1300 bis 1547 geprägt.", "Das Sedletz-Ossarium enthält die Überreste von schätzungsweise 40.000 bis 70.000 Menschen.", "Im 14. Jahrhundert war Kutná Hora die zweitgrößte Stadt in Böhmen nach Prag.", "Das Hrádek, eine kleine Burg, beherbergt heute das Tschechische Silbermuseum.", "Der steinerne Brunnen aus dem 15. Jahrhundert ist ein Meisterwerk der spätgotischen Steinmetzkunst.", "Die Stadt erlebte nach der Erschöpfung der Silberminen im 16. Jahrhundert einen Niedergang."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-jirkov-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Görkau", hu: "Jirkov", ro: "Jirkov", en: "Jirkov",
 image: "/poi-images/czechrepublic-jirkov-cities-v2.webp"
@@ -1809,9 +1969,23 @@ image: "/poi-images/czechrepublic-jirkov-cities-v2.webp"
       en: ["Červený Hrádek Castle", "Historic underground cellars", "Former center of the brewing industry", "Near the Jirkov Reservoir"],
     },
     imageHint: "Jirkov Cerveny Hradek castle",
-    image: "/poi-images/czechrepublic-jirkov-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-jirkov-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jirkov liegt am Fuße des Erzgebirges nahe der Stadt Chomutov. Die Stadt hat eine lange industrielle Tradition, die ursprünglich auf dem Erzbergbau und später auf der Textilindustrie basierte. In der zweiten Hälfte des 20. Jahrhunderts wurden große Wohnsiedlungen errichtet, um Arbeiter für die nahegelegenen Industrie- und Bergbaugebiete unterzubringen. Ein bedeutendes historisches Wahrzeichen ist das Schloss Červený Hrádek (Rothenhaus), das am Rande der Stadt liegt. Dieses Schloss erlangte 1938 traurige Berühmtheit, als hier Lord Runciman mit sudetendeutschen Führern verhandelte, was dem Münchner Abkommen vorausging. Heute dient das Schloss als Kultur- und Bildungszentrum. Die historischen Weinkeller (Jirkovské sklepy), die in den Sandsteinfelsen gehauen sind, sind eine weitere einzigartige Attraktion.",
+      hu: "Jirkov az Érchegység lábánál, Chomutov város közelében fekszik. A város hosszú ipari hagyományokkal rendelkezik, amelyek eredetileg az ércbányászaton, később pedig a textiliparon alapultak. A 20. század második felében nagy lakótelepeket építettek a közeli ipari és bányászati területek munkásainak elszállásolására. Jelentős történelmi nevezetessége a város szélén található Červený Hrádek (Rothenhaus) kastély. A kastély 1938-ban szomorú hírnévre tett szert, amikor Lord Runciman itt tárgyalt a szudétanémet vezetőkkel, ami megelőzte a müncheni egyezményt. Ma a kastély kulturális és oktatási központként szolgál. A homokkő sziklákba vájt történelmi borospincék (Jirkovské sklepy) egy másik egyedülálló látványosságot jelentenek.",
+      ro: "Jirkov este situat la poalele Munților Metaliferi, lângă orașul Chomutov. Orașul are o lungă tradiție industrială, bazată inițial pe mineritul de minereuri și mai târziu pe industria textilă. În a doua jumătate a secolului al XX-lea, au fost construite mari ansambluri rezidențiale pentru a găzdui muncitorii din zonele industriale și miniere din apropiere. Un punct de reper istoric important este Castelul Červený Hrádek (Rothenhaus), situat la marginea orașului. Acest castel a devenit notoriu în 1938, când Lordul Runciman a negociat aici cu liderii germanilor sudeți, negocieri care au precedat Acordul de la München. Astăzi, castelul servește drept centru cultural și educațional. Pivnițele istorice de vin (Jirkovské sklepy), săpate în stâncile de gresie, reprezintă o altă atracție unică.",
+      en: "Jirkov is located at the foot of the Ore Mountains, near the city of Chomutov. The town has a long industrial tradition, originally based on ore mining and later on the textile industry. In the second half of the 20th century, large housing estates were built to accommodate workers for the nearby industrial and mining areas. A significant historical landmark is the Červený Hrádek (Rothenhaus) Castle, situated on the outskirts of the town. This castle gained notoriety in 1938 when Lord Runciman negotiated here with Sudeten German leaders, preceding the Munich Agreement. Today, the castle serves as a cultural and educational center. The historic wine cellars (Jirkovské sklepy), carved into the sandstone rocks, are another unique attraction."
+    },
+    factsAdvanced: {
+      de: ["Schloss Červený Hrádek wurde ursprünglich als gotische Burg im 14. Jahrhundert erbaut.", "Die Verhandlungen von Lord Runciman fanden im September 1938 auf dem Schloss statt.", "Die unterirdischen Sandsteinkeller wurden im 16. und 17. Jahrhundert zur Lagerung von Bier und Wein angelegt.", "Jirkov erhielt im 15. Jahrhundert die Stadtrechte.", "Die Kirche St. Ägidius ist das älteste erhaltene Gebäude der Stadt.", "In der Nähe befindet sich der Stausee von Jirkov, der die Region mit Trinkwasser versorgt.", "Die Stadt erlebte nach dem Zweiten Weltkrieg einen starken Zuzug tschechischer Bevölkerung.", "Die industrielle Entwicklung wurde durch die Nähe zum nordböhmischen Braunkohlerevier bestimmt."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-blansko-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Blansko", hu: "Blansko", ro: "Blansko", en: "Blansko",
 image: "/poi-images/czechrepublic-blansko-cities-v2.webp"
@@ -1831,9 +2005,23 @@ image: "/poi-images/czechrepublic-blansko-cities-v2.webp"
       en: ["Center of iron processing (artistic casting)", "Starting point for the Punkva Caves", "Renaissance Blansko Castle", "Near the Macocha Abyss"],
     },
     imageHint: "Blansko town hall and square",
-    image: "/poi-images/czechrepublic-blansko-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-blansko-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Blansko, am Fluss Svitava gelegen, wird oft als das 'Tor zum Mährischen Karst' bezeichnet, einer der wichtigsten Karstregionen Mitteleuropas. Die Stadt ist ein idealer Ausgangspunkt für die Erkundung berühmter Höhlen wie der Punkva-Höhle mit ihrer unterirdischen Bootsfahrt und der Macocha-Schlucht. Die Geschichte von Blansko ist eng mit der Eisenindustrie verbunden. Das hiesige Eisenwerk war im 19. Jahrhundert unter der Leitung der Familie Salm-Reifferscheidt ein Zentrum technischer Innovation. Das Schloss Blansko, ursprünglich eine Renaissancefestung, beherbergt ein Museum, das sich der Geschichte des Mährischen Karstes und der Eisenverhüttung in Blansko widmet. Der berühmte österreichische Arzt und Forscher Karl von Rokitansky wurde 1804 in Blansko geboren.",
+      hu: "A Svitava folyó partján fekvő Blansko-t gyakran a 'Morva-karszt kapujának' nevezik, amely Közép-Európa egyik legfontosabb karsztvidéke. A város ideális kiindulópont az olyan híres barlangok felfedezéséhez, mint a Punkva-barlang a föld alatti csónakázással és a Macocha-szakadék. Blansko története szorosan kapcsolódik a vasiparhoz. A helyi vasmű a 19. században a Salm-Reifferscheidt család vezetése alatt a technikai innováció központja volt. A blanskói kastély, amely eredetileg egy reneszánsz erődítmény volt, egy múzeumnak ad otthont, amely a Morva-karszt történetét és a blanskói vasgyártást mutatja be. A híres osztrák orvos és kutató, Karl von Rokitansky 1804-ben született Blanskóban.",
+      ro: "Blansko, situat pe râul Svitava, este adesea numit 'Poarta către Carstul Morav', una dintre cele mai importante regiuni carstice din Europa Centrală. Orașul este un punct de plecare ideal pentru explorarea peșterilor renumite, cum ar fi Peștera Punkva cu plimbarea sa subterană cu barca și prăpastia Macocha. Istoria orașului Blansko este strâns legată de industria fierului. Oțelăria locală a fost un centru de inovație tehnică în secolul al XIX-lea, sub conducerea familiei Salm-Reifferscheidt. Castelul Blansko, inițial o fortăreață renascentistă, găzduiește un muzeu dedicat istoriei Carstului Morav și a metalurgiei fierului din Blansko. Celebrul medic și cercetător austriac Karl von Rokitansky s-a născut la Blansko în 1804.",
+      en: "Blansko, situated on the Svitava River, is often called the 'Gateway to the Moravian Karst,' one of Central Europe's most important karst regions. The town is an ideal starting point for exploring famous caves like the Punkva Caves with its underground boat trip and the Macocha Abyss. Blansko's history is closely linked to the iron industry. The local ironworks were a center of technical innovation in the 19th century under the management of the Salm-Reifferscheidt family. Blansko Chateau, originally a Renaissance fortress, houses a museum dedicated to the history of the Moravian Karst and iron metallurgy in Blansko. The famous Austrian physician and researcher Karl von Rokitansky was born in Blansko in 1804."
+    },
+    factsAdvanced: {
+      de: ["Der Mährische Karst umfasst über 1100 Höhlen und Schluchten.", "Die Macocha-Schlucht ist über 138 Meter tief.", "Die Salm'schen Eisenwerke waren im 19. Jahrhundert führend in der Herstellung von Kunstguss.", "Das Schloss Blansko wurde im 16. Jahrhundert erbaut.", "Karl von Rokitansky (1804–1878) war ein Pionier der modernen Pathologie.", "Die erste schriftliche Erwähnung von Blansko stammt aus dem Jahr 1136.", "In der Nähe befindet sich die Kateřinská-Höhle, die für ihre einzigartigen Stalagmiten bekannt ist.", "Die Stadt hat eine lange Tradition im Maschinenbau, die bis heute andauert."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-hranice-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Mährisch Weißkirchen", hu: "Hranice", ro: "Hranice", en: "Hranice",
 image: "/poi-images/czechrepublic-hranice-cities-v2.webp"
@@ -1853,9 +2041,23 @@ image: "/poi-images/czechrepublic-hranice-cities-v2.webp"
       en: ["Hranice Abyss (Hranická propast)", "Former military academy", "Renaissance castle with an arcaded courtyard", "Founded in the 12th century"],
     },
     imageHint: "Hranice abyss and Bečva river",
-    image: "/poi-images/czechrepublic-hranice-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-hranice-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Hranice, oft auch Hranice na Moravě (Mährisch Weißkirchen) genannt, liegt an der Mährischen Pforte, einem historischen Tal, das die Sudeten mit den Karpaten verbindet. Diese strategische Lage machte die Stadt zu einem wichtigen Militärstandort. Sie beherbergt die älteste Militärschule in den tschechischen Ländern, die seit dem 19. Jahrhundert besteht. Das historische Zentrum wird von einem Renaissanceschloss und der Pfarrkirche Enthauptung des heiligen Johannes des Täufers dominiert. Eine weltweite Kuriosität ist der Hranice-Abgrund (Hranická propast), der als der tiefste überflutete Süßwasserabgrund der Welt gilt. Seine erforschte Tiefe beträgt über 450 Meter, doch der Grund wurde noch nicht erreicht. Die Stadt ist auch ein Heilbad, das auf die Behandlung von Herz-Kreislauf-Erkrankungen spezialisiert ist.",
+      hu: "Hranice, gyakran Hranice na Moravě (Morva Fehértemplom) néven is emlegetik, a Morva-kapunál, egy történelmi völgyben fekszik, amely összeköti a Szudétákat a Kárpátokkal. Ez a stratégiai fekvés fontos katonai helyszínné tette a várost. Itt található a cseh területek legrégebbi katonai iskolája, amely a 19. század óta működik. A történelmi központot egy reneszánsz kastély és a Keresztelő Szent János lefejezése plébániatemplom uralja. Világszerte kuriózumnak számít a hranicei szakadék (Hranická propast), amelyet a világ legmélyebb elárasztott édesvízi szakadékának tartanak. Feltárt mélysége meghaladja a 450 métert, de a fenekét még nem érték el. A város egyben gyógyfürdő is, amely szív- és érrendszeri betegségek kezelésére specializálódott.",
+      ro: "Hranice, adesea numit și Hranice na Moravě (Biserica Albă Moravă), este situat la Poarta Moravă, o vale istorică ce leagă Sudeții de Carpați. Această locație strategică a făcut din oraș un important centru militar. Acesta găzduiește cea mai veche școală militară din ținuturile cehe, existentă din secolul al XIX-lea. Centrul istoric este dominat de un castel renascentist și de biserica parohială a Tăierii Capului Sfântului Ioan Botezătorul. O curiozitate mondială este Abisul Hranice (Hranická propast), considerat cel mai adânc abis de apă dulce inundat din lume. Adâncimea sa explorată depășește 450 de metri, dar fundul nu a fost încă atins. Orașul este, de asemenea, o stațiune balneară specializată în tratarea bolilor cardiovasculare.",
+      en: "Hranice, often called Hranice na Moravě (Moravian Weisskirchen), is located at the Moravian Gate, a historic valley connecting the Sudetes and the Carpathians. This strategic location made the town an important military site. It is home to the oldest military school in the Czech lands, existing since the 19th century. The historic center is dominated by a Renaissance chateau and the parish Church of the Beheading of St. John the Baptist. A worldwide curiosity is the Hranice Abyss (Hranická propast), considered the deepest flooded freshwater abyss in the world. Its explored depth exceeds 450 meters, but the bottom has not yet been reached. The town is also a spa, specializing in the treatment of cardiovascular diseases."
+    },
+    factsAdvanced: {
+      de: ["Der Hranice-Abgrund wurde 2016 offiziell als der tiefste der Welt bestätigt.", "Die Militärakademie wurde 1919 in Hranice gegründet, ihre Tradition reicht aber weiter zurück.", "Das Schloss Hranice stammt aus dem 16. Jahrhundert.", "Die Stadt wurde im 12. Jahrhundert gegründet.", "Das historische jüdische Viertel mit seiner Synagoge ist teilweise erhalten.", "Hranice liegt am Fluss Bečva.", "Das Heilbad Teplice nad Bečvou befindet sich in unmittelbarer Nähe.", "Die Eisenbahnlinie Wien-Krakau, die durch die Stadt führt, wurde 1847 eröffnet."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-beroun-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Beraun", hu: "Beroun", ro: "Beroun", en: "Beroun",
 image: "/poi-images/czechrepublic-beroun-cities-v2.webp"
@@ -1875,9 +2077,23 @@ image: "/poi-images/czechrepublic-beroun-cities-v2.webp"
       en: ["Significant pottery markets", "Bear enclosure on the town hill", "Medieval town walls with two gates", "Near the Koněprusy dripstone caves"],
     },
     imageHint: "Beroun historic square and gates",
-    image: "/poi-images/czechrepublic-beroun-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-beroun-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Beroun, an der Mündung des Flusses Litavka in die Berounka gelegen, ist eine historische Stadt unweit von Prag. Sie wurde im 13. Jahrhundert als Königsstadt gegründet und verfügt über ein gut erhaltenes historisches Zentrum mit zwei Stadttoren und Teilen der mittelalterlichen Stadtmauer. Die Stadt ist ein beliebter Ausgangspunkt für Ausflüge in die nahe gelegenen Schutzgebiete des Böhmischen Karstes und des Křivoklátsko. Beroun ist auch bekannt für seine Töpfermärkte, die zweimal im Jahr stattfinden und Handwerker aus dem ganzen Land anziehen. In der Nähe der Stadt befinden sich die berühmten Koněprusy-Höhlen, das größte Höhlensystem in Böhmen. Die Stadt ist auch mit dem Schriftsteller und Regisseur Jaroslav Hasek verbunden, der hier einige Zeit lebte.",
+      hu: "A Litavka folyó Berounkába torkollásánál fekvő Beroun egy történelmi város Prága közelében. A 13. században alapították királyi városként, és jó állapotban megőrzött történelmi központtal rendelkezik, két városkapuval és a középkori városfalak részeivel. A város népszerű kiindulópont a közeli Cseh-karszt és Křivoklátsko védett területeire tett kirándulásokhoz. Beroun a fazekasvásárairól is ismert, amelyeket évente kétszer rendeznek meg, és az ország minden tájáról vonzzák a kézműveseket. A város közelében található a híres Koněprusy-barlang, Csehország legnagyobb barlangrendszere. A város Jaroslav Hašek íróhoz és rendezőhöz is kötődik, aki egy ideig itt élt.",
+      ro: "Beroun, situat la confluența râului Litavka cu Berounka, este un oraș istoric nu departe de Praga. A fost fondat în secolul al XIII-lea ca oraș regal și are un centru istoric bine conservat, cu două porți ale orașului și porțiuni din zidurile medievale. Orașul este un punct de plecare popular pentru excursii în zonele protejate din apropiere, Carstul Boemian și Křivoklátsko. Beroun este, de asemenea, cunoscut pentru târgurile sale de ceramică, care au loc de două ori pe an și atrag meșteri din toată țara. În apropierea orașului se află faimoasele Peșteri Koněprusy, cel mai mare sistem de peșteri din Boemia. Orașul este, de asemenea, asociat cu scriitorul și regizorul Jaroslav Hašek, care a locuit aici o perioadă.",
+      en: "Beroun, located at the confluence of the Litavka and Berounka rivers, is a historic town not far from Prague. It was founded in the 13th century as a royal town and has a well-preserved historic center with two town gates and parts of the medieval walls. The town is a popular starting point for trips to the nearby protected areas of the Bohemian Karst and Křivoklátsko. Beroun is also known for its pottery markets, held twice a year, attracting artisans from all over the country. Near the town are the famous Koněprusy Caves, the largest cave system in Bohemia. The city is also associated with the writer and director Jaroslav Hašek, who lived here for some time."
+    },
+    factsAdvanced: {
+      de: ["Beroun wurde um 1265 von König Ottokar II. Přemysl gegründet.", "Die Koněprusy-Höhlen wurden 1950 entdeckt.", "Die Töpfermärkte finden im Frühjahr und Herbst statt.", "Die Stadtmauern wurden im 14. Jahrhundert erbaut.", "Die beiden erhaltenen Stadttore sind das Prager Tor und das Pilsener Tor.", "Der Fluss Berounka ist bei Wassersportlern sehr beliebt.", "Die nahegelegene Burg Karlštejn ist eine der berühmtesten Burgen Tschechiens.", "Beroun hatte eine wichtige Textilindustrie im 19. und 20. Jahrhundert."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-zatec-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Saaz", hu: "Žatec", ro: "Žatec", en: "Žatec",
 image: "/poi-images/czechrepublic-zatec-cities-v2.webp"
@@ -1897,9 +2113,23 @@ image: "/poi-images/czechrepublic-zatec-cities-v2.webp"
       en: ["UNESCO site: Žatec and the Landscape of Saaz Hops", "Hop Seal Office and Hop Museum", "Founded before 1004", "Traditional Saaz hop variety"],
     },
     imageHint: "Zatec hop storage buildings and square",
-    image: "/poi-images/czechrepublic-zatec-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-zatec-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Žatec ist das weltberühmte Zentrum des Saazer Hopfenanbaugebiets, das für die Produktion von hochwertigem Aromahopfen bekannt ist. Die über tausendjährige Tradition des Hopfenanbaus prägt die Stadt und ihre Landschaft und wurde 2023 in die UNESCO-Welterbeliste aufgenommen. Das Hopfen- und Biermuseum im Zentrum der Stadt dokumentiert diese einzigartige Geschichte. Der 'Hopfen- und Biertempel' ist ein unterhaltsamer Touristenkomplex mit einem Aussichtsturm, einer astronomischen Uhr und einem Labyrinth. Das historische Zentrum von Žatec ist ein städtisches Denkmalreservat mit einer Fülle von gut erhaltenen Renaissance- und Barockgebäuden. Die Stadt war auch ein bedeutender Drehort für internationale Filme, darunter 'Les Misérables' und 'Jojo Rabbit'.",
+      hu: "Žatec a világhírű saazi komlótermesztő vidék központja, amely a kiváló minőségű aromakomló termesztéséről ismert. A komlótermesztés több mint ezeréves hagyománya határozza meg a várost és tájképét, és 2023-ban felkerült az UNESCO Világörökség listájára. A város központjában található Komló- és Sörmúzeum ezt az egyedülálló történelmet dokumentálja. A 'Komló- és Sörtemplom' egy szórakoztató turisztikai komplexum kilátótoronnyal, csillagászati órával és labirintussal. Žatec történelmi központja városi műemlék-rezervátum, ahol rengeteg jó állapotban megmaradt reneszánsz és barokk épület található. A város fontos nemzetközi filmforgatási helyszín is volt, többek között itt forgatták a 'Nyomorultak' és a 'Jojo Nyuszi' című filmeket.",
+      ro: "Žatec este centrul renumit la nivel mondial al regiunii de cultivare a hameiului Saaz, cunoscută pentru producția de hamei aromat de înaltă calitate. Tradiția de peste o mie de ani a cultivării hameiului modelează orașul și peisajul său și a fost inclusă în 2023 pe lista Patrimoniului Mondial UNESCO. Muzeul Hameiului și al Berii din centrul orașului documentează această istorie unică. 'Templul Hameiului și al Berii' este un complex turistic distractiv cu un turn de observație, un ceas astronomic și un labirint. Centrul istoric al orașului Žatec este o rezervație de monumente urbane cu o abundență de clădiri renascentiste și baroce bine conservate. Orașul a fost, de asemenea, o locație importantă de filmare pentru filme internaționale, inclusiv 'Les Misérables' și 'Jojo Rabbit'.",
+      en: "Žatec is the world-renowned center of the Saaz hop-growing region, known for producing high-quality aroma hops. The more than thousand-year-old tradition of hop growing shapes the town and its landscape and was inscribed on the UNESCO World Heritage List in 2023. The Hop and Beer Museum in the town center documents this unique history. The 'Hop and Beer Temple' is an entertaining tourist complex with a lookout tower, an astronomical clock, and a labyrinth. The historic center of Žatec is an urban monument reservation with a wealth of well-preserved Renaissance and Baroque buildings. The town has also been a major filming location for international movies, including 'Les Misérables' and 'Jojo Rabbit'."
+    },
+    factsAdvanced: {
+      de: ["Die Hopfenlandschaft um Žatec wurde 2023 zum UNESCO-Welterbe erklärt.", "Saazer Hopfen ist eine geschützte Ursprungsbezeichnung der EU.", "Die erste schriftliche Erwähnung des Hopfenanbaus in der Region stammt aus dem 11. Jahrhundert.", "Das Hopfenmuseum ist das größte seiner Art in Mitteleuropa.", "Die kleinste Hopfengarten der Welt befindet sich auf dem Hauptplatz von Žatec.", "Die Stadt hat die höchste Konzentration an historischen Hopfentrocknungsanlagen und Lagerhäusern.", "Das jährliche Hopfenfest 'Dočesná' feiert die Ernte.", "Die Silhouette der Stadt wird von den Türmen der Hopfendarren geprägt."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-louny-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Laun", hu: "Louny", ro: "Louny", en: "Louny",
 image: "/poi-images/czechrepublic-louny-cities-v2.webp"
@@ -1919,9 +2149,23 @@ image: "/poi-images/czechrepublic-louny-cities-v2.webp"
       en: ["Late Gothic St. Nicholas Church", "Preserved town walls with Saaz Gate", "Traditional hop growing in the area", "Founded in the 12th century"],
     },
     imageHint: "Louny St Nicholas Church roof silhouette",
-    image: "/poi-images/czechrepublic-louny-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-louny-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Louny, die 'Perle an der Eger', ist eine historische Königsstadt in Nordböhmen. Ihr unverkennbares Wahrzeichen ist die spätgotische St.-Nikolaus-Kirche, ein Meisterwerk des Architekten Benedikt Ried. Ihr dreischiffiges Zeltdach ist einzigartig in der böhmischen Architektur. Vom Kirchturm aus bietet sich ein herrlicher Blick auf die Stadt und das Böhmische Mittelgebirge. Das historische Zentrum ist gut erhalten, mit Resten der mittelalterlichen Stadtbefestigung, einschließlich des Žatec-Tors. Louny war ein wichtiges Zentrum der Hussitenbewegung. Die Stadt hat auch eine reiche kulturelle Tradition und ist stolz auf ihre Galerie, die dem Konstruktivismus und der tschechischen Kunst des 20. Jahrhunderts gewidmet ist.",
+      hu: "Louny, az 'Ohře gyöngyszeme', egy történelmi királyi város Észak-Csehországban. Összetéveszthetetlen jelképe a késő gótikus Szent Miklós-templom, Benedikt Ried építész mesterműve. Háromhajós sátorteteje egyedülálló a cseh építészetben. A templomtoronyból csodálatos kilátás nyílik a városra és a Cseh-középhegységre. A történelmi központ jó állapotban maradt fenn, a középkori városfalak maradványaival, köztük a Žateci-kapuval. Louny a huszita mozgalom fontos központja volt. A város gazdag kulturális hagyományokkal is rendelkezik, és büszke a galériájára, amelyet a konstruktivizmusnak és a 20. századi cseh művészetnek szenteltek.",
+      ro: "Louny, 'Perla de pe Ohře', este un oraș regal istoric în nordul Boemiei. Simbolul său inconfundabil este Biserica Sfântul Nicolae, o capodoperă a arhitectului Benedikt Ried în stil gotic târziu. Acoperișul său cu trei nave, în formă de cort, este unic în arhitectura cehă. Din turnul bisericii se oferă o priveliște magnifică asupra orașului și a Munților Centrali Boemi. Centrul istoric este bine conservat, cu rămășițe ale fortificațiilor medievale, inclusiv Poarta Žatec. Louny a fost un centru important al mișcării husite. Orașul are, de asemenea, o bogată tradiție culturală și se mândrește cu galeria sa dedicată constructivismului și artei cehe din secolul XX.",
+      en: "Louny, the 'Pearl on the Ohře River,' is a historic royal town in North Bohemia. Its unmistakable landmark is the late-Gothic Church of St. Nicholas, a masterpiece by the architect Benedikt Ried. Its triple-naved tent-like roof is unique in Bohemian architecture. From the church tower, there is a magnificent view of the town and the Bohemian Central Highlands. The historic center is well-preserved, with remnants of the medieval fortifications, including the Žatec Gate. Louny was an important center of the Hussite movement. The town also has a rich cultural tradition and is proud of its gallery dedicated to Constructivism and 20th-century Czech art."
+    },
+    factsAdvanced: {
+      de: ["Die St.-Nikolaus-Kirche wurde zwischen 1517 und 1538 erbaut.", "Benedikt Ried war der Hofarchitekt von König Vladislav Jagiello.", "Die Stadt wurde in der zweiten Hälfte des 13. Jahrhunderts gegründet.", "Das Žatec-Tor (Žatecká brána) ist ein erhaltener Teil der Stadtbefestigung aus dem 15. Jahrhundert.", "Louny war eine der radikalsten Hussitenstädte.", "Die Galerie Benedikt Rejt ist in einem ehemaligen Brauhaus untergebracht.", "Die Landschaft um Louny ist bekannt für ihre konischen Vulkankegel des Böhmischen Mittelgebirges.", "Die Stadt liegt am Fluss Eger (Ohře)."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-nachod-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Nachod", hu: "Náchod", ro: "Náchod", en: "Náchod",
 image: "/poi-images/czechrepublic-nachod-cities-v2.webp"
@@ -1941,9 +2185,23 @@ image: "/poi-images/czechrepublic-nachod-cities-v2.webp"
       en: ["Baroque Náchod Castle", "Significant border fortifications (bunker system)", "Home of the writer Josef Škvorecký", "Significant textile industry (formerly)"],
     },
     imageHint: "Nachod Castle view from the square",
-    image: "/poi-images/czechrepublic-nachod-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-nachod-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Náchod ist eine Grenzstadt im Nordosten Böhmens, die als Tor zur Region Kladské pomezí und nach Polen dient. Dominante der Stadt ist das weitläufige Renaissanceschloss, das auf einem Hügel über dem Zentrum thront. Das Schloss wurde über Jahrhunderte von bedeutenden Adelsfamilien wie den Piccolominis umgebaut und erweitert und beherbergt einzigartige Sammlungen, darunter wertvolle Brüsseler Wandteppiche. Die Stadt selbst hat einen malerischen Marktplatz mit dem Alten Rathaus und der Dekanatskirche St. Laurentius. Náchod war Schauplatz einer wichtigen Schlacht im Deutschen Krieg von 1866. Die Stadt ist auch mit dem Schriftsteller Josef Škvorecký verbunden, dessen Romane oft in Náchod spielen, das er als 'Kostelec' fiktionalisierte.",
+      hu: "Náchod egy határváros Északkelet-Csehországban, amely kapuként szolgál a Kladské pomezí régió és Lengyelország felé. A város domináns épülete a központ feletti dombon trónoló, kiterjedt reneszánsz kastély. A kastélyt évszázadokon át olyan jelentős nemesi családok, mint a Piccolominik, építették át és bővítették, és egyedülálló gyűjteményeknek ad otthont, köztük értékes brüsszeli faliszőnyegeknek. Maga a város festői főtérrel rendelkezik, a Régi Városházával és a Szent Lőrinc dékáni templommal. Náchod az 1866-os porosz-osztrák háború egyik fontos csatájának helyszíne volt. A város Josef Škvorecký íróhoz is kötődik, akinek regényei gyakran játszódnak Náchodban, amelyet 'Kostelec' néven fiktionalizált.",
+      ro: "Náchod este un oraș de graniță în nord-estul Boemiei, servind drept poartă de acces către regiunea Kladské pomezí și Polonia. Dominanta orașului este vastul castel renascentist, cocoțat pe un deal deasupra centrului. Castelul a fost reconstruit și extins de-a lungul secolelor de familii nobiliare importante, precum Piccolomini, și găzduiește colecții unice, inclusiv tapiserii valoroase de la Bruxelles. Orașul însuși are o piață pitorească, cu Primăria Veche și biserica decanală Sfântul Laurențiu. Náchod a fost scena unei bătălii importante în Războiul Austro-Prusac din 1866. Orașul este, de asemenea, asociat cu scriitorul Josef Škvorecký, ale cărui romane se desfășoară adesea în Náchod, pe care l-a ficționalizat sub numele de 'Kostelec'.",
+      en: "Náchod is a border town in northeastern Bohemia, serving as a gateway to the Kladské pomezí region and Poland. The town's dominant feature is the expansive Renaissance chateau, perched on a hill above the center. The chateau was rebuilt and expanded over centuries by prominent noble families like the Piccolominis and houses unique collections, including valuable Brussels tapestries. The town itself has a picturesque square with the Old Town Hall and the Dean's Church of St. Lawrence. Náchod was the site of a major battle in the Austro-Prussian War of 1866. The city is also associated with the writer Josef Škvorecký, whose novels are often set in Náchod, which he fictionalized as 'Kostelec'."
+    },
+    factsAdvanced: {
+      de: ["Das Schloss Náchod wurde im 13. Jahrhundert als Burg gegründet.", "Die Schlacht bei Náchod fand am 27. Juni 1866 statt.", "Ottavio Piccolomini, ein Feldherr aus dem Dreißigjährigen Krieg, baute das Schloss im Barockstil um.", "Josef Škvorecký (1924–2012) war einer der bedeutendsten tschechischen Nachkriegsautoren.", "Die Stadt beherbergt eine Brauerei, die seit dem 19. Jahrhundert Bier braut.", "In der Nähe befindet sich die Festung Dobrošov, ein Teil des tschechoslowakischen Wallsystems aus den 1930er Jahren.", "Das Hotel Beránek im Jugendstil ist ein architektonisches Wahrzeichen.", "Der Marktplatz ist von Arkadenhäusern gesäumt."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-marianske-lazne-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Marienbad", hu: "Mariánské Lázně", ro: "Mariánské Lázně", en: "Mariánské Lázně",
 image: "/poi-images/czechrepublic-marianske-lazne-cities-v2.webp"
@@ -1963,9 +2221,23 @@ image: "/poi-images/czechrepublic-marianske-lazne-cities-v2.webp"
       en: ["UNESCO World Heritage spa town", "Singing Fountain at the main colonnade", "Over 100 mineral springs in the city", "Favorite spot of Goethe and Chopin"],
     },
     imageHint: "Marianske Lazne singing fountain and colonnade",
-    image: "/poi-images/czechrepublic-marianske-lazne-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-marianske-lazne-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mariánské Lázně (Marienbad) ist eine weltberühmte Kurstadt und Teil des UNESCO-Weltkulturerbes 'Great Spas of Europe'. Die Stadt ist bekannt für ihre elegante Architektur des 19. Jahrhunderts, die von Kolonnaden, Pavillons und Kurhäusern geprägt ist. Das Herz des Kurviertels ist die neobarocke gusseiserne Kolonnade, die längste ihrer Art in Tschechien. Davor befindet sich die Singende Fontäne, die zu jeder ungeraden Stunde zu klassischer Musik spielt. Mehr als 40 Mineralquellen mit unterschiedlicher chemischer Zusammensetzung entspringen in der Stadt und ihrer Umgebung. Berühmte Besucher wie König Edward VII., Goethe und Chopin trugen zum internationalen Ruhm des Kurortes bei, der von bewaldeten Hügeln umgeben ist und eine Atmosphäre der Ruhe und Eleganz ausstrahlt.",
+      hu: "Mariánské Lázně (Marienbad) világhírű fürdőváros, az UNESCO Világörökség részét képező 'Európa nagy fürdővárosai' egyike. A város a 19. századi elegáns építészetéről ismert, amelyet oszlopcsarnokok, pavilonok és gyógyszállók jellemeznek. A fürdőnegyed szíve a neobarokk öntöttvas oszlopcsarnok, amely a leghosszabb a maga nemében Csehországban. Előtte található az Éneklő szökőkút, amely minden páratlan órában klasszikus zenére játszik. A városban és környékén több mint 40, különböző kémiai összetételű ásványvízforrás tör a felszínre. Olyan híres látogatók, mint VII. Eduárd király, Goethe és Chopin hozzájárultak a fürdőhely nemzetközi hírnevéhez, amelyet erdős dombok vesznek körül, és a nyugalom és elegancia légkörét árasztja.",
+      ro: "Mariánské Lázně (Marienbad) este un oraș balnear de renume mondial și parte a Patrimoniului Mondial UNESCO 'Marile Stațiuni Balneare ale Europei'. Orașul este cunoscut pentru arhitectura sa elegantă din secolul al XIX-lea, caracterizată prin colonade, pavilioane și hoteluri balneare. Inima cartierului balnear este colonada neobarocă din fontă, cea mai lungă de acest fel din Cehia. În fața ei se află Fântâna Cântătoare, care cântă pe muzică clasică la fiecare oră impară. Peste 40 de izvoare minerale cu compoziții chimice diferite izvorăsc în oraș și în împrejurimile sale. Vizitatori celebri precum Regele Eduard al VII-lea, Goethe și Chopin au contribuit la faima internațională a stațiunii, care este înconjurată de dealuri împădurite și emană o atmosferă de liniște și eleganță.",
+      en: "Mariánské Lázně (Marienbad) is a world-famous spa town and part of the UNESCO World Heritage site 'Great Spas of Europe.' The town is known for its elegant 19th-century architecture, characterized by colonnades, pavilions, and spa houses. The heart of the spa quarter is the neo-baroque cast-iron colonnade, the longest of its kind in the Czech Republic. In front of it is the Singing Fountain, which plays to classical music every odd hour. More than 40 mineral springs with different chemical compositions rise in the town and its surroundings. Famous visitors like King Edward VII, Goethe, and Chopin contributed to the international fame of the spa, which is surrounded by wooded hills and exudes an atmosphere of tranquility and elegance."
+    },
+    factsAdvanced: {
+      de: ["Zusammen mit 10 anderen europäischen Kurstädten 2021 zum UNESCO-Welterbe ernannt.", "Die Hauptkolonnade wurde 1888-1889 erbaut.", "Die Singende Fontäne wurde 1986 in Betrieb genommen.", "Goethe besuchte Marienbad mehrmals und verliebte sich hier in die junge Ulrike von Levetzow.", "Das Chopin-Festival findet jährlich in der Stadt statt.", "Die Stadt wurde Anfang des 19. Jahrhunderts vom Abt des Klosters Tepl gegründet.", "Der Royal Golf Club Mariánské Lázně wurde 1905 von König Edward VII. eröffnet.", "Die Quellen werden zur Behandlung von Nieren-, Harnwegs- und Stoffwechselerkrankungen eingesetzt."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-pelhrimov-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Pilgrams", hu: "Pelhřimov", ro: "Pelhřimov", en: "Pelhřimov",
 image: "/poi-images/czechrepublic-pelhrimov-cities-v2.webp"
@@ -1985,9 +2257,23 @@ image: "/poi-images/czechrepublic-pelhrimov-cities-v2.webp"
       en: ["Museum of Records and Curiosities", "Historic city center (heritage site)", "Located on the border of Bohemia and Moravia", "Founded in the 13th century"],
     },
     imageHint: "Pelhrimov main square and gates",
-    image: "/poi-images/czechrepublic-pelhrimov-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-pelhrimov-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pelhřimov, auf der Böhmisch-Mährischen Höhe gelegen, trägt den Beinamen 'Stadt der Rekorde'. Dieser Titel ist wohlverdient, denn die Stadt beherbergt ein einzigartiges Museum für Rekorde und Kuriositäten, das die erstaunlichsten tschechischen und weltweiten Leistungen dokumentiert. Jährlich findet hier auch ein internationales Festival 'Pelhřimov – Stadt der Rekorde' statt. Das historische Zentrum wird von zwei Stadttoren und einem Renaissance-Schloss dominiert, das das Museum der Vysočina-Region beherbergt. Der Hauptplatz ist von sorgfältig restaurierten Bürgerhäusern gesäumt. Die Stadt ist ein gutes Beispiel dafür, wie eine kleinere Stadt durch eine einzigartige Idee erfolgreich eine Nische im Tourismus besetzen kann.",
+      hu: "A Cseh-Morva-dombságon fekvő Pelhřimov a 'rekordok városa' becenevet viseli. Ezt a címet méltán érdemelte ki, mivel a város egy egyedülálló Rekordok és Kuriózumok Múzeumának ad otthont, amely a legelképesztőbb cseh és világrekordokat dokumentálja. Évente megrendezik a 'Pelhřimov – a rekordok városa' nemzetközi fesztivált is. A történelmi központot két városkapu és egy reneszánsz kastély uralja, amely a Vysočina Régió Múzeumának ad otthont. A főteret gondosan felújított polgárházak szegélyezik. A város jó példa arra, hogyan tud egy kisebb város egy egyedi ötlettel sikeresen rést találni a turizmusban.",
+      ro: "Pelhřimov, situat în Înălțimile Boemio-Morave, poartă supranumele de 'Orașul Recordurilor'. Acest titlu este bine meritat, deoarece orașul găzduiește un muzeu unic de recorduri și curiozități, care documentează cele mai uimitoare realizări cehe și mondiale. Aici are loc și un festival internațional anual 'Pelhřimov – Orașul Recordurilor'. Centrul istoric este dominat de două porți ale orașului și de un castel renascentist, care găzduiește Muzeul Regiunii Vysočina. Piața principală este mărginită de case burgheze restaurate cu grijă. Orașul este un bun exemplu al modului în care un oraș mai mic poate ocupa cu succes o nișă în turism printr-o idee unică.",
+      en: "Pelhřimov, located in the Bohemian-Moravian Highlands, bears the nickname 'City of Records.' This title is well-deserved, as the city is home to a unique Museum of Records and Curiosities, documenting the most amazing Czech and world achievements. An international festival 'Pelhřimov – City of Records' is also held here annually. The historic center is dominated by two town gates and a Renaissance chateau, which houses the Museum of the Vysočina Region. The main square is lined with carefully restored townhouses. The city is a great example of how a smaller town can successfully occupy a niche in tourism with a unique idea."
+    },
+    factsAdvanced: {
+      de: ["Das Museum der Rekorde und Kuriositäten wurde 1994 gegründet.", "Das Festival findet jährlich im Juni statt.", "Die Stadt wurde im 13. Jahrhundert gegründet.", "Das Schloss der Herren von Říčany wurde im 16. Jahrhundert umgebaut.", "Die beiden erhaltenen Stadttore heißen Jihlavská und Rynárecká.", "Die Dekanatskirche St. Bartholomäus ist das älteste Gebäude der Stadt.", "Pelhřimov wird wegen seiner Lage manchmal als das 'Herz der Vysočina' bezeichnet.", "In der Nähe befindet sich der Berg Křemešník mit einem Aussichtsturm und einer Wallfahrtskirche."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-slany-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Schlan", hu: "Slaný", ro: "Slaný", en: "Slaný",
 image: "/poi-images/czechrepublic-slany-cities-v2.webp"
@@ -2007,9 +2293,23 @@ image: "/poi-images/czechrepublic-slany-cities-v2.webp"
       en: ["Name derives from the word 'salty'", "Historic city center with Velvary Gate", "Significant machinery industry", "Founded in the 13th century"],
     },
     imageHint: "Slany Velvary Gate and square",
-    image: "/poi-images/czechrepublic-slany-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-slany-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Slaný ist eine historische Königsstadt nordwestlich von Prag. Ihr Name leitet sich vom tschechischen Wort für 'salzig' ab, was auf eine mittelalterliche Salzquelle zurückgeht, die für die frühe Entwicklung der Stadt von entscheidender Bedeutung war. Das historische Zentrum ist gut erhalten und steht unter Denkmalschutz. Wahrzeichen der Stadt sind die gotische Dekanatskirche St. Gotthard und das ehemalige Piaristenkolleg, das heute als Stadtmuseum dient. Die Stadtmauern aus dem 14. Jahrhundert sind teilweise erhalten, einschließlich des Velvary-Tors. Slaný war ein wichtiges Zentrum des böhmischen Aufstands zu Beginn des Dreißigjährigen Krieges. Heute ist die Stadt ein wichtiges Industrie- und Handelszentrum für die Region.",
+      hu: "Slaný egy történelmi királyi város Prágától északnyugatra. Neve a cseh 'sós' szóból származik, ami egy középkori sóforrásra utal, amely döntő fontosságú volt a város korai fejlődésében. A történelmi központ jó állapotban maradt fenn és műemlékvédelem alatt áll. A város jelképei a gótikus Szent Gotthárd dékáni templom és az egykori piarista kollégium, amely ma városi múzeumként működik. A 14. századi városfalak részben megmaradtak, beleértve a Velvary-kaput is. Slaný a harmincéves háború elején a cseh felkelés fontos központja volt. Ma a város a régió fontos ipari és kereskedelmi központja.",
+      ro: "Slaný este un oraș regal istoric la nord-vest de Praga. Numele său derivă din cuvântul ceh pentru 'sărat', referindu-se la un izvor de sare medieval care a fost crucial pentru dezvoltarea timpurie a orașului. Centrul istoric este bine conservat și este o rezervație de monumente urbane. Simbolurile orașului sunt biserica decanală gotică Sfântul Gothard și fostul colegiu piarist, care servește acum ca muzeu al orașului. Zidurile orașului din secolul al XIV-lea sunt parțial conservate, inclusiv Poarta Velvary. Slaný a fost un centru important al Răscoalei Boeme la începutul Războiului de Treizeci de Ani. Astăzi, orașul este un important centru industrial și comercial pentru regiune.",
+      en: "Slaný is a historic royal town northwest of Prague. Its name is derived from the Czech word for 'salty,' referring to a medieval salt spring that was crucial for the town's early development. The historic center is well-preserved and is an urban monument reservation. The town's landmarks are the Gothic Deanery Church of St. Gothard and the former Piarist college, which now serves as the town museum. The 14th-century town walls are partially preserved, including the Velvary Gate. Slaný was an important center of the Bohemian Revolt at the beginning of the Thirty Years' War. Today, the city is an important industrial and commercial center for the region."
+    },
+    factsAdvanced: {
+      de: ["Slaný wurde im 13. Jahrhundert zur Königsstadt erhoben.", "Die erste schriftliche Erwähnung stammt aus dem Jahr 1262.", "Die Salzquelle versiegte im 17. Jahrhundert.", "Das Piaristenkolleg wurde 1658 gegründet.", "In der Nähe der Stadt liegt der Berg Slaná hora, ein markanter Basaltkegel.", "Die Stadt hat eine lange Tradition der Stahl- und Maschinenbauindustrie.", "Der Humanist Václav Písecký wurde in Slaný geboren.", "Die Stadt war einer der Orte, an denen die Führer des böhmischen Aufstands 1621 hingerichtet wurden."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-vlasim-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Wlaschim", hu: "Vlašim", ro: "Vlašim", en: "Vlašim",
 image: "/poi-images/czechrepublic-vlasim-cities-v2.webp"
@@ -2029,9 +2329,23 @@ image: "/poi-images/czechrepublic-vlasim-cities-v2.webp"
       en: ["Vlašim Castle with Blaník Region Museum", "Major ammunition factory (Sellier & Bellot)", "Chinese Pavilion in the castle park", "Located near the Blaník mountain"],
     },
     imageHint: "Vlasim Castle and park bridge",
-    image: "/poi-images/czechrepublic-vlasim-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-vlasim-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Vlašim, eine Stadt in Mittelböhmen, ist vor allem für ihr Schloss und den weitläufigen englischen Landschaftspark bekannt. Das Schloss, ursprünglich eine gotische Burg, wurde im 19. Jahrhundert im neugotischen Stil umgebaut. Der Park ist einer der ältesten und bedeutendsten seiner Art in Tschechien und beherbergt mehrere romantische Bauten, darunter ein chinesischer Pavillon und künstliche Ruinen. Ein Teil des Schlosses dient heute als Museum des Podblanicko-Gebiets und als Umweltbildungszentrum. Vlašim ist auch für seine Waffenherstellung bekannt, insbesondere durch die Firma Sellier & Bellot, einen der ältesten Munitionshersteller der Welt, der 1825 gegründet wurde. Die Stadt liegt in der malerischen Hügellandschaft der Vlašimská pahorkatina.",
+      hu: "A közép-csehországi Vlašim elsősorban a kastélyáról és a kiterjedt angol tájképi parkjáról ismert. Az eredetileg gótikus várat a 19. században neogótikus stílusban építették át. A park az egyik legrégebbi és legjelentősebb a maga nemében Csehországban, és több romantikus építménynek ad otthont, köztük egy kínai pavilonnak és mesterséges romoknak. A kastély egy része ma a Podblanicko Régió Múzeumaként és környezetvédelmi oktatási központként működik. Vlašim a fegyvergyártásáról is ismert, különösen a Sellier & Bellot cég révén, amely a világ egyik legrégebbi lőszergyártója, 1825-ben alapították. A város a Vlašimská pahorkatina festői dombvidékén fekszik.",
+      ro: "Vlašim, un oraș din Boemia Centrală, este cunoscut în principal pentru castelul său și parcul peisagistic englezesc extins. Castelul, inițial o fortăreață gotică, a fost reconstruit în stil neogotic în secolul al XIX-lea. Parcul este unul dintre cele mai vechi și mai importante de acest fel din Cehia și găzduiește mai multe structuri romantice, inclusiv un pavilion chinezesc și ruine artificiale. O parte a castelului servește astăzi ca Muzeu al regiunii Podblanicko și ca centru de educație ecologică. Vlašim este, de asemenea, cunoscut pentru producția sa de armament, în special prin compania Sellier & Bellot, unul dintre cei mai vechi producători de muniție din lume, fondat în 1825. Orașul este situat în peisajul deluros pitoresc al Vlašimská pahorkatina.",
+      en: "Vlašim, a town in Central Bohemia, is primarily known for its chateau and extensive English landscape park. The chateau, originally a Gothic castle, was rebuilt in the neo-Gothic style in the 19th century. The park is one of the oldest and most significant of its kind in the Czech Republic and is home to several romantic structures, including a Chinese pavilion and artificial ruins. Part of the chateau now serves as the Museum of the Podblanicko Region and an environmental education center. Vlašim is also known for its arms manufacturing, particularly through the company Sellier & Bellot, one of the oldest ammunition manufacturers in the world, founded in 1825. The town is situated in the picturesque hilly landscape of the Vlašimská pahorkatina."
+    },
+    factsAdvanced: {
+      de: ["Die Firma Sellier & Bellot wurde 1825 gegründet.", "Der Schlosspark wurde in den 1770er Jahren angelegt.", "Das Schloss Vlašim wurde im frühen 14. Jahrhundert gegründet.", "Der chinesische Pavillon im Park ist einzigartig in Tschechien.", "Die Stadt hat drei Eingangstore zum Schlosspark, die im neugotischen Stil erbaut wurden.", "Vlašim liegt am Fluss Blanice.", "Die Region Podblanicko ist mit der Legende der schlafenden Ritter im Berg Blaník verbunden.", "Das Museum im Schloss konzentriert sich auf die Natur und Geschichte der Region."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-humpolec-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Humpoletz", hu: "Humpolec", ro: "Humpolec", en: "Humpolec",
 image: "/poi-images/czechrepublic-humpolec-cities-v2.webp"
@@ -2051,9 +2365,23 @@ image: "/poi-images/czechrepublic-humpolec-cities-v2.webp"
       en: ["Orlík castle ruins above the town", "Bernard Brewery (traditional beer)", "Dr. Aleš Hrdlička Museum", "Important transport hub"],
     },
     imageHint: "Humpolec Bernard brewery and square",
-    image: "/poi-images/czechrepublic-humpolec-cities-v2.webp"},
+    image: "/poi-images/czechrepublic-humpolec-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Humpolec, eine Stadt in der Region Vysočina, ist in der tschechischen Popkultur unsterblich geworden durch den Satz 'Humpolec? Ich kenne kein Humpolec!' aus dem berühmten Film 'Marečku, podejte mi pero!'. Die Stadt hat jedoch weit mehr zu bieten. Sie war historisch ein Zentrum der Tuchmacherei. Heute ist sie vor allem für die Familienbrauerei Bernard bekannt, die für ihr unpasteurisiertes Bier berühmt ist und landesweit einen hervorragenden Ruf genießt. Das historische Zentrum hat einen gut erhaltenen Marktplatz. Eine moderne Kuriosität ist das 'Hliníkárium', ein Museum, das dem fiktiven Charakter Hliník gewidmet ist, der nach dem berühmten Filmzitat 'nach Humpolec zog'. Die Ruine der Burg Orlík in der Nähe bietet einen schönen Blick auf die Landschaft der Böhmisch-Mährischen Höhe.",
+      hu: "Humpolec, a Vysočina régió egyik városa, a cseh popkultúrában a 'Marečku, podejte mi pero!' című híres film 'Humpolec? Nem ismerek semmilyen Humpolecet!' mondata révén vált halhatatlanná. A város azonban ennél sokkal többet kínál. Történelmileg a posztógyártás központja volt. Ma leginkább a Bernard családi sörfőzdéről ismert, amely pasztőrözetlen söréről híres, és országszerte kiváló hírnévnek örvend. A történelmi központban jó állapotú főtér található. Modern kuriózum a 'Hliníkárium', egy múzeum, amelyet a fiktív Hliník karakternek szenteltek, aki a híres filmes idézet szerint 'Humpolecbe költözött'. A közeli Orlík várának romjai gyönyörű kilátást nyújtanak a Cseh-Morva-dombság tájára.",
+      ro: "Humpolec, un oraș din regiunea Vysočina, a devenit nemuritor în cultura pop cehă datorită replicii 'Humpolec? Nu cunosc niciun Humpolec!' din celebrul film 'Marečku, podejte mi pero!'. Cu toate acestea, orașul are mult mai multe de oferit. Din punct de vedere istoric, a fost un centru al producției de postav. Astăzi, este cel mai bine cunoscut pentru fabrica de bere de familie Bernard, renumită pentru berea sa nepasteurizată, care se bucură de o reputație excelentă la nivel național. Centrul istoric are o piață bine conservată. O curiozitate modernă este 'Hliníkárium', un muzeu dedicat personajului fictiv Hliník, care 's-a mutat la Humpolec' conform celebrului citat din film. Ruinele castelului Orlík din apropiere oferă o priveliște frumoasă asupra peisajului Înălțimilor Boemio-Morave.",
+      en: "Humpolec, a town in the Vysočina Region, has become immortalized in Czech pop culture through the line 'Humpolec? I don't know any Humpolec!' from the famous film 'Marečku, podejte mi pero!'. However, the town has much more to offer. Historically, it was a center for cloth manufacturing. Today, it is best known for the Bernard family brewery, famous for its unpasteurized beer, which enjoys an excellent reputation nationwide. The historic center has a well-preserved square. A modern curiosity is the 'Hliníkárium,' a museum dedicated to the fictional character Hliník, who 'moved to Humpolec' according to the famous movie quote. The ruins of Orlík Castle nearby offer a beautiful view of the Bohemian-Moravian Highlands landscape."
+    },
+    factsAdvanced: {
+      de: ["Die Bernard-Brauerei wurde 1991 wiederbelebt.", "Der Film 'Marečku, podejte mi pero!' stammt aus dem Jahr 1976.", "Humpolec erhielt die Stadtrechte im 14. Jahrhundert.", "Die Tuchmacherei war vom 15. bis zum 19. Jahrhundert der wichtigste Wirtschaftszweig.", "Das Hliníkárium-Museum wurde 2006 eröffnet.", "Die Burg Orlík wurde im 14. Jahrhundert erbaut, ist aber seit dem 16. Jahrhundert eine Ruine.", "Die Stadt liegt an der Autobahn D1, die Prag und Brünn verbindet.", "Gustav Mahler, der berühmte Komponist, verbrachte einen Teil seiner Kindheit in Humpolec."],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "czechrepublic-domazlice-cities-v2",
+    parent: "CZ",
     type: "city",
     name: { de: "Taus", hu: "Domažlice", ro: "Domažlice", en: "Domažlice",
 image: "/poi-images/czechrepublic-domazlice-cities-v2.webp"
@@ -2073,5 +2401,17 @@ image: "/poi-images/czechrepublic-domazlice-cities-v2.webp"
       en: ["Chod Castle with museum", "Leaning tower on the market square", "Chod Festival (major folklore event)", "Historic urban monument"],
     },
     imageHint: "Domazlice main square with leaning tower",
+    descriptionAdvanced: {
+      de: "Domažlice ist das Herz der Choden-Region, einer einzigartigen ethnographischen Gegend in Westböhmen, deren Bewohner, die Choden, historisch mit der Bewachung der Landesgrenze betraut waren. Diese Tradition spiegelt sich in einem starken regionalen Bewusstsein und einer lebendigen Folklore wider. Das Stadtbild wird vom schiefen Turm der Dekanatskirche und dem Choden-Schloss dominiert, das ein Museum über die Geschichte der Region beherbergt. Der längliche Marktplatz ist von malerischen Laubenhäusern gesäumt. Jedes Jahr im August findet hier das Choden-Fest (Chodské slavnosti) statt, eines der ältesten und größten Folklorefestivals in der Tschechischen Republik, das die einzigartige Kultur, die Trachten, die Musik und den Dialekt der Choden feiert.",
+      hu: "Domažlice a Chod-régió szíve, egy egyedülálló néprajzi terület Nyugat-Csehországban, amelynek lakói, a chodok, történelmileg az országhatár őrzésével voltak megbízva. Ez a hagyomány erős regionális öntudatban és élénk folklórban tükröződik. A városképet a dékáni templom ferde tornya és a Chod-vár uralja, amely a régió történelmét bemutató múzeumnak ad otthont. A hosszúkás főteret festői árkádos házak szegélyezik. Minden év augusztusában itt rendezik meg a Chod-fesztivált (Chodské slavnosti), Csehország egyik legrégebbi és legnagyobb folklórfesztiválját, amely a chodok egyedülálló kultúráját, népviseletét, zenéjét és nyelvjárását ünnepli.",
+      ro: "Domažlice este inima regiunii Chod, o zonă etnografică unică în Boemia de Vest, ai cărei locuitori, chodii, au fost însărcinați istoric cu paza frontierei de stat. Această tradiție se reflectă într-o conștiință regională puternică și un folclor vibrant. Peisajul urban este dominat de turnul înclinat al bisericii decanale și de Castelul Chod, care găzduiește un muzeu despre istoria regiunii. Piața alungită este mărginită de case pitorești cu arcade. În fiecare an, în luna august, aici are loc Festivalul Chod (Chodské slavnosti), unul dintre cele mai vechi și mai mari festivaluri folclorice din Republica Cehă, care celebrează cultura, costumele, muzica și dialectul unic al chodilor.",
+      en: "Domažlice is the heart of the Chodsko Region, a unique ethnographic area in West Bohemia whose inhabitants, the Chods, were historically entrusted with guarding the national border. This tradition is reflected in a strong regional identity and vibrant folklore. The town's skyline is dominated by the leaning tower of the deanery church and the Chod Castle, which houses a museum on the region's history. The elongated main square is lined with picturesque arcaded houses. Every August, the Chod Festival (Chodské slavnosti) takes place here, one of the oldest and largest folklore festivals in the Czech Republic, celebrating the unique culture, costumes, music, and dialect of the Chod people."
+    },
+    factsAdvanced: {
+      de: ["Die Choden waren freie Bauern, die im Gegenzug für den Grenzdienst königliche Privilegien genossen.", "Das Choden-Fest findet jährlich am Wochenende nach dem 10. August statt.", "Der Turm der Dekanatskirche ist um etwa 60 cm von der Vertikalen geneigt.", "Das Choden-Schloss wurde im 13. Jahrhundert von König Ottokar II. Přemysl gegründet.", "Die Stadt hat ein gut erhaltenes historisches Zentrum, das unter Denkmalschutz steht.", "Der Schriftsteller Alois Jirásek setzte den Choden in seinem Roman 'Psohlavci' (Die Hundsköpfigen) ein literarisches Denkmal.", "Die traditionelle Choden-Keramik ist für ihre floralen Muster bekannt.", "Der Dudelsack ist ein typisches Instrument der Choden-Volksmusik."],
+      hu: [],
+      ro: [],
+      en: []
+    }
   }
 ];

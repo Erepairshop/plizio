@@ -3,6 +3,7 @@ export const greeceReliefV2: POI[] = [
 
   {
     id: "greece-pindus-range-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Pindos-Gebirge", hu: "Pindosz-hegység", ro: "Munții Pindului", en: "Pindus Mountain Range",
 image: "/poi-images/greece-pindus-range-relief-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Pindus mountain range landscape overview",
     image: "/poi-images/greece-pindus-range-relief-v2.webp",
 },  {
     id: "greece-lefka-ori-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Weiße Berge (Lefka Ori)", hu: "Fehér-hegység (Lefka Ori)", ro: "Munții Albi (Lefka Ori)", en: "White Mountains (Lefka Ori)",
 image: "/poi-images/greece-lefka-ori-relief-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "White Mountains Lefka Ori Crete landscape",
     image: "/poi-images/greece-lefka-ori-relief-v2.webp",
 },  {
     id: "greece-thessalian-plain-relief-v2",
+    parent: "GR",
     type: "valley",
     name: { de: "Thessalische Ebene", hu: "Thesszáliai-alföld", ro: "Câmpia Tesaliei", en: "Thessalian Plain",
 image: "/poi-images/greece-thessalian-plain-relief-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Thessalian Plain agricultural landscape",
     image: "/poi-images/greece-thessalian-plain-relief-v2.webp",
 },  {
     id: "greece-mount-tymfi-relief-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Tymfi-Gebirge", hu: "Tümfi-hegység", ro: "Muntele Tymfi", en: "Mount Tymfi",
 image: "/poi-images/greece-mount-tymfi-relief-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Mount Tymfi Gamila peak and cliffs",
     image: "/poi-images/greece-mount-tymfi-relief-v2.webp",
 },  {
     id: "greece-mount-oeta-relief-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Oite", hu: "Oiti-hegység", ro: "Muntele Oeta", en: "Mount Oeta",
 image: "/poi-images/greece-mount-oeta-relief-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Mount Oeta mountain landscape",
     image: "/poi-images/greece-mount-oeta-relief-v2.webp",
 },  {
     id: "greece-rhodope-mountains-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Rhodopen", hu: "Rodope-hegység", ro: "Munții Rodopi", en: "Rhodope Mountains",
 image: "/poi-images/greece-rhodope-mountains-relief-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Rhodope mountains forested landscape",
     image: "/poi-images/greece-rhodope-mountains-relief-v2.webp",
 },  {
     id: "greece-mount-falakro-relief-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Falakro", hu: "Falakro-hegység", ro: "Muntele Falakro", en: "Mount Falakro",
 image: "/poi-images/greece-mount-falakro-relief-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Mount Falakro barren rocky peaks",
     image: "/poi-images/greece-mount-falakro-relief-v2.webp",
 },  {
     id: "greece-mount-ossa-relief-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Ossa (Kissavos)", hu: "Ossza-hegy (Kisszavosz)", ro: "Muntele Ossa (Kissavos)", en: "Mount Ossa (Kissavos)",
 image: "/poi-images/greece-mount-ossa-relief-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Mount Ossa Kissavos peak landscape",
     image: "/poi-images/greece-mount-ossa-relief-v2.webp",
 },  {
     id: "greece-mount-paiko-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Paiko", hu: "Paiko-hegység", ro: "Muntele Paiko", en: "Mount Paiko",
 image: "/poi-images/greece-mount-paiko-relief-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Mount Paiko forested slopes",
     image: "/poi-images/greece-mount-paiko-relief-v2.webp",
 },  {
     id: "greece-mount-parnitha-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Parnitha", hu: "Parnitha-hegység", ro: "Muntele Parnitha", en: "Mount Parnitha",
 image: "/poi-images/greece-mount-parnitha-relief-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Mount Parnitha peaks near Athens",
     image: "/poi-images/greece-mount-parnitha-relief-v2.webp",
 },  {
     id: "greece-mount-pentelicus-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Pentelikon", hu: "Pentelikon-hegy", ro: "Muntele Pentelic", en: "Mount Pentelicus",
 image: "/poi-images/greece-mount-pentelicus-relief-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Mount Pentelicus marble quarries",
     image: "/poi-images/greece-mount-pentelicus-relief-v2.webp",
 },  {
     id: "greece-mount-hymettus-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Hymettos", hu: "Hümettosz-hegység", ro: "Muntele Imitos", en: "Mount Hymettus",
 image: "/poi-images/greece-mount-hymettus-relief-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Mount Hymettus ridge near Athens",
     image: "/poi-images/greece-mount-hymettus-relief-v2.webp",
 },  {
     id: "greece-mount-voras-relief-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Voras (Kaimaktsalan)", hu: "Vorasz-hegység (Kajmakcsalan)", ro: "Muntele Voras (Kaimaktsalan)", en: "Mount Voras (Kaimaktsalan)",
 image: "/poi-images/greece-mount-voras-relief-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Mount Voras Kaimaktsalan peaks",
     image: "/poi-images/greece-mount-voras-relief-v2.webp",
 },  {
     id: "greece-mount-vardousia-relief-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Vardousia", hu: "Vardouszia-hegység", ro: "Munții Vardousia", en: "Mount Vardousia",
 image: "/poi-images/greece-mount-vardousia-relief-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Mount Vardousia alpine peaks",
     image: "/poi-images/greece-mount-vardousia-relief-v2.webp",
 },  {
     id: "greece-mount-chelmos-relief-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Chelmos (Aroania)", hu: "Helmosz-hegység (Aroania)", ro: "Muntele Chelmos (Aroania)", en: "Mount Chelmos (Aroania)",
 image: "/poi-images/greece-mount-chelmos-relief-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Mount Chelmos snow and rocky slopes",
     image: "/poi-images/greece-mount-chelmos-relief-v2.webp",
 },  {
     id: "greece-mount-erymanthos-relief-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Erymanthos", hu: "Erümanthosz-hegység", ro: "Muntele Erymanthos", en: "Mount Erymanthos",
 image: "/poi-images/greece-mount-erymanthos-relief-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Mount Erymanthos rocky peaks",
     image: "/poi-images/greece-mount-erymanthos-relief-v2.webp",
 },  {
     id: "greece-mount-kyllini-relief-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Kyllini (Ziria)", hu: "Küllini-hegység (Ziria)", ro: "Muntele Kyllini (Ziria)", en: "Mount Kyllini (Ziria)",
 image: "/poi-images/greece-mount-kyllini-relief-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Mount Kyllini Ziria mountain landscape",
     image: "/poi-images/greece-mount-kyllini-relief-v2.webp",
 },  {
     id: "greece-mount-dikti-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Dikti-Gebirge", hu: "Dikti-hegység", ro: "Munții Dikti", en: "Mount Dikti",
 image: "/poi-images/greece-mount-dikti-relief-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Mount Dikti and Lassithi plateau view",
     image: "/poi-images/greece-mount-dikti-relief-v2.webp",
 },  {
     id: "greece-mount-pangaion-relief-v2",
+    parent: "GR",
     type: "peak",
     name: { de: "Pangaion", hu: "Pangaion-hegység", ro: "Muntele Pangaion", en: "Mount Pangaion",
 image: "/poi-images/greece-mount-pangaion-relief-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Mount Pangaion peak landscape",
     image: "/poi-images/greece-mount-pangaion-relief-v2.webp",
 },  {
     id: "greece-copais-plain-relief-v2",
+    parent: "GR",
     type: "valley",
     name: { de: "Kopaïs-Ebene", hu: "Kopaisz-síkság", ro: "Câmpia Copais", en: "Copais Plain",
 image: "/poi-images/greece-copais-plain-relief-v2.webp"
@@ -684,6 +704,7 @@ image: "/poi-images/greece-copais-plain-relief-v2.webp"
 ,
   {
     id: "greece-mount-grammos-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Grammos-Gebirge", hu: "Grammosz-hegység", ro: "Muntele Grammos", en: "Mount Grammos",
 image: "/poi-images/greece-mount-grammos-relief-v2.webp"
@@ -717,6 +738,7 @@ image: "/poi-images/greece-mount-grammos-relief-v2.webp"
   },
   {
     id: "greece-mount-pieria-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Pieria-Gebirge", hu: "Pieria-hegység", ro: "Munții Pieria", en: "Mount Pieria",
 image: "/poi-images/greece-mount-pieria-relief-v2.webp"
@@ -750,6 +772,7 @@ imageHint: "Mount Pieria forests and snowy peaks",
     image: "/poi-images/greece-mount-pieria-relief-v2.webp",
 },  {
     id: "greece-mount-vermio-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Vermio-Gebirge", hu: "Vermio-hegység", ro: "Munții Vermio", en: "Mount Vermio",
 image: "/poi-images/greece-mount-vermio-relief-v2.webp"
@@ -783,6 +806,7 @@ imageHint: "Mount Vermio ski resort and slopes",
     image: "/poi-images/greece-mount-vermio-relief-v2.webp",
 },  {
     id: "greece-mount-parnon-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Parnon-Gebirge", hu: "Parnon-hegység", ro: "Munții Parnon", en: "Mount Parnon",
 image: "/poi-images/greece-mount-parnon-relief-v2.webp"
@@ -816,6 +840,7 @@ imageHint: "Mount Parnon Peloponnese rocky ridges",
     image: "/poi-images/greece-mount-parnon-relief-v2.webp",
 },  {
     id: "greece-mount-menalon-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Menalon-Gebirge", hu: "Menalon-hegység", ro: "Munții Menalon", en: "Mount Menalon",
 image: "/poi-images/greece-mount-menalon-relief-v2.webp"
@@ -849,6 +874,7 @@ imageHint: "Mount Menalon forest trail Arcadia",
     image: "/poi-images/greece-mount-menalon-relief-v2.webp",
 },  {
     id: "greece-lassithi-plateau-relief-v2",
+    parent: "GR",
     type: "valley",
     name: { de: "Lassithi-Hochebene", hu: "Laszithi-fennsík", ro: "Podișul Lassithi", en: "Lassithi Plateau",
 image: "/poi-images/greece-lassithi-plateau-relief-v2.webp"
@@ -882,6 +908,7 @@ imageHint: "Lassithi Plateau windmills and mountains Crete",
     image: "/poi-images/greece-lassithi-plateau-relief-v2.webp",
 },  {
     id: "greece-mount-athamanika-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Athamanika-Gebirge", hu: "Athamanika-hegység", ro: "Munții Athamanika", en: "Mount Athamanika",
 image: "/poi-images/greece-mount-athamanika-relief-v2.webp"
@@ -915,6 +942,7 @@ imageHint: "Tzoumerka mountains rugged peaks Greece",
     image: "/poi-images/greece-mount-athamanika-relief-v2.webp",
 },  {
     id: "greece-mount-helicon-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Helikon-Gebirge", hu: "Helikon-hegység", ro: "Muntele Helicon", en: "Mount Helicon",
 image: "/poi-images/greece-mount-helicon-relief-v2.webp"
@@ -948,6 +976,7 @@ imageHint: "Mount Helicon slopes and valley Boeotia",
     image: "/poi-images/greece-mount-helicon-relief-v2.webp",
 },  {
     id: "greece-mount-agrafa-relief-v2",
+    parent: "GR",
     type: "mountain",
     name: { de: "Agrafa-Gebirge", hu: "Agrafa-hegység", ro: "Munții Agrafa", en: "Mount Agrafa",
 image: "/poi-images/greece-mount-agrafa-relief-v2.webp"
@@ -981,6 +1010,7 @@ imageHint: "Agrafa mountains remote landscape Greece",
     image: "/poi-images/greece-mount-agrafa-relief-v2.webp",
 },  {
     id: "greece-messara-plain-relief-v2",
+    parent: "GR",
     type: "valley",
     name: { de: "Messara-Ebene", hu: "Messzara-síkság", ro: "Câmpia Messara", en: "Messara Plain",
 image: "/poi-images/greece-messara-plain-relief-v2.webp"
@@ -1011,5 +1041,206 @@ image: "/poi-images/greece-messara-plain-relief-v2.webp"
       ro: ["Lungime: aproximativ 50 km", "Principalul bazin olivicol din Creta", "Locația palatului minoic Phaistos", "Mărginită la nord de muntele Ida"],
       en: ["Length: approx. 50 kilometers", "Primary olive oil region of Crete", "Home to the Minoan palace of Phaistos", "Bounded by the Ida Mountains to the north"],
     },
+  }
+,
+  {
+    id: "greece-mount-othrys-relief-v2",
+    parent: "GR",
+    type: "mountain",
+    name: { de: "Othrys-Gebirge", hu: "Othrisz-hegység", ro: "Munții Othrys", en: "Mount Othrys" },
+    coordinates: { lat: 39.02, lng: 22.7 },
+    description: {
+      de: "Das Bergmassiv liegt in Mittelgriechenland an der Grenze zu Magnesia. Der höchste Gipfel Gerakovouni erreicht eine Höhe von 1.726 Metern.",
+      hu: "Közép-Görögországban fekvő hegység Phthiotisz és Magnézia határán. Legmagasabb csúcsa a Gerakovouni, amely 1726 méter magas.",
+      ro: "Masiv muntos în Grecia Centrală la granița cu Magnesia. Cel mai înalt vârf, Gerakovouni, atinge o altitudine de 1726 de metri.",
+      en: "A mountain range in central Greece on the border of Magnesia. Its highest peak, Gerakovouni, reaches an elevation of 1,726 meters.",
+    },
+    facts: {
+      de: ["Höhe: 1.726 m", "Lage: Mittelgriechenland", "Hauptgipfel: Gerakovouni", "Region: Magnesia"],
+      hu: ["Magasság: 1726 m", "Elhelyezkedés: Közép-Görögország", "Főcsúcs: Gerakovouni", "Régió: Magnézia"],
+      ro: ["Altitudine: 1726 m", "Locație: Grecia Centrală", "Vârf principal: Gerakovouni", "Regiune: Magnesia"],
+      en: ["Elevation: 1,726 m", "Location: Central Greece", "Peak: Gerakovouni", "Region: Magnesia"],
+    },
+    imageHint: "Mount Othrys landscape Central Greece",
+  },
+  {
+    id: "greece-mount-belles-relief-v2",
+    parent: "GR",
+    type: "mountain",
+    name: { de: "Belles-Gebirge", hu: "Bellesz-hegység", ro: "Munții Belasica", en: "Mount Belles" },
+    coordinates: { lat: 41.33, lng: 23.25 },
+    description: {
+      de: "Dieses Grenzgebirge zwischen Griechenland und Bulgarien erreicht eine Höhe von 2.031 Metern am Gipfel Radomir. Es dominiert die Region Serres.",
+      hu: "Görögország és Bulgária határán fekvő hegység, amelynek legmagasabb pontja a 2031 méteres Radomir-csúcs. Serres régióját uralja.",
+      ro: "Acest munte de frontieră între Grecia și Bulgaria atinge o altitudine de 2031 de metri în vârful Radomir. Domină regiunea Serres.",
+      en: "A border mountain range between Greece and Bulgaria, reaching an elevation of 2,031 meters at Radomir peak. It dominates the Serres region.",
+    },
+    facts: {
+      de: ["Höhe: 2.031 m", "Lage: Nordgriechenland", "Grenze: Bulgarien/Nordmazedonien", "Gipfel: Radomir"],
+      hu: ["Magasság: 2031 m", "Helyszín: Észak-Görögország", "Határ: Bulgária/Észak-Macedónia", "Csúcs: Radomir"],
+      ro: ["Altitudine: 2031 m", "Locație: Nordul Greciei", "Graniță: Bulgaria/Macedonia de Nord", "Vârf: Radomir"],
+      en: ["Elevation: 2,031 m", "Location: Northern Greece", "Border: Bulgaria/North Macedonia", "Peak: Radomir"],
+    },
+    imageHint: "Mount Belles Belasica mountain range Serres",
+  },
+  {
+    id: "greece-mount-lykaion-relief-v2",
+    parent: "GR",
+    type: "mountain",
+    name: { de: "Lykaion-Gebirge", hu: "Lükaion-hegység", ro: "Muntele Lykaion", en: "Mount Lykaion" },
+    coordinates: { lat: 37.48, lng: 21.93 },
+    description: {
+      de: "Ein geschichtsträchtiger Berg auf dem Peloponnes mit einer Höhe von 1.421 Metern. Er liegt in der Nähe der antiken Stadt Megalopolis.",
+      hu: "Történelmi jelentőségű hegy a Peloponnészoszon, 1421 méteres magassággal. Megalopolisz ókori városa közelében található.",
+      ro: "Un munte bogat în istorie în Peloponez, cu o altitudine de 1421 de metri. Se află în apropierea orașului antic Megalopolis.",
+      en: "A mountain steeped in history in the Peloponnese with an elevation of 1,421 meters. It is located near the ancient city of Megalopolis.",
+    },
+    facts: {
+      de: ["Höhe: 1.421 m", "Region: Arkadien", "Mythologie: Zeus/Pan", "Gipfel: Profitis Ilias"],
+      hu: ["Magasság: 1421 m", "Régió: Árkádia", "Mitológia: Zeusz/Pán", "Csúcs: Profitis Ilias"],
+      ro: ["Altitudine: 1421 m", "Regiune: Arcadia", "Mitologie: Zeus/Pan", "Vârf: Profitis Ilias"],
+      en: ["Elevation: 1,421 m", "Region: Arcadia", "Mythology: Zeus/Pan", "Peak: Profitis Ilias"],
+    },
+    imageHint: "Mount Lykaion ruins Peloponnese",
+  },
+  {
+    id: "greece-mount-mitsikeli-relief-v2",
+    parent: "GR",
+    type: "mountain",
+    name: { de: "Mitsikeli-Gebirge", hu: "Micikeli-hegység", ro: "Muntele Mitsikeli", en: "Mount Mitsikeli" },
+    coordinates: { lat: 39.75, lng: 20.88 },
+    description: {
+      de: "Ein markanter Gebirgszug in Epirus, der sich über der Stadt Ioannina erhebt. Der höchste Punkt erreicht 1.810 Meter.",
+      hu: "Jellegzetes hegylánc Epiruszban, amely Joánina városa fölé magasodik. Legmagasabb pontja 1810 méter.",
+      ro: "O creastă muntoasă proeminentă în Epir, care se înalță deasupra orașului Ioannina. Cel mai înalt punct atinge 1810 metri.",
+      en: "A prominent mountain range in Epirus, rising above the city of Ioannina. Its highest point reaches 1,810 meters.",
+    },
+    facts: {
+      de: ["Höhe: 1.810 m", "Region: Epirus", "Nähe: Ioannina-See", "Typ: Kalksteinmassiv"],
+      hu: ["Magasság: 1810 m", "Régió: Epirusz", "Közelben: Joánina-tó", "Típus: Mészkőmasszívum"],
+      ro: ["Altitudine: 1810 m", "Regiune: Epir", "Aproape de: Lacul Ioannina", "Tip: Masiv calcaros"],
+      en: ["Elevation: 1,810 m", "Region: Epirus", "Proximity: Lake Ioannina", "Type: Limestone massif"],
+    },
+    imageHint: "Mount Mitsikeli Ioannina Epirus view",
+  },
+  {
+    id: "greece-mount-cithaeron-relief-v2",
+    parent: "GR",
+    type: "mountain",
+    name: { de: "Kithairon-Gebirge", hu: "Kithairón-hegység", ro: "Munții Cithaeron", en: "Mount Cithaeron" },
+    coordinates: { lat: 38.18, lng: 23.25 },
+    description: {
+      de: "Ein Gebirgszug in Zentralgriechenland, der Attika von Böotien trennt. Die höchste Erhebung erreicht 1.409 Meter.",
+      hu: "Közép-Görögországi hegylánc, amely elválasztja Attikát Boiotiától. Legmagasabb pontja 1409 méter.",
+      ro: "Un lanț muntos în Grecia Centrală care separă Atica de Beoția. Cea mai înaltă cotă atinge 1409 metri.",
+      en: "A mountain range in Central Greece separating Attica from Boeotia. The highest elevation reaches 1,409 meters.",
+    },
+    facts: {
+      de: ["Höhe: 1.409 m", "Region: Attika/Böotien", "Gipfel: Profitis Ilias", "Lage: Zentralgriechenland"],
+      hu: ["Magasság: 1409 m", "Régió: Attika/Boiotia", "Csúcs: Profitis Ilias", "Helyszín: Közép-Görögország"],
+      ro: ["Altitudine: 1409 m", "Regiune: Atica/Beoția", "Vârf: Profitis Ilias", "Locație: Grecia Centrală"],
+      en: ["Elevation: 1,409 m", "Region: Attica/Boeotia", "Peak: Profitis Ilias", "Location: Central Greece"],
+    },
+    imageHint: "Mount Kithaironas landscape Greece",
+  },
+  {
+    id: "greece-mount-saos-relief-v2",
+    parent: "GR",
+    type: "mountain",
+    name: { de: "Saos-Gebirge (Fengari)", hu: "Szaosz-hegység (Fengari)", ro: "Muntele Saos", en: "Mount Saos (Fengari)" },
+    coordinates: { lat: 40.45, lng: 25.58 },
+    description: {
+      de: "Das höchste Bergmassiv der Insel Samothraki in der Ägäis. Der Gipfel Fengari erreicht 1.611 Meter und überragt das Meer direkt.",
+      hu: "Szamothraké szigetének legmagasabb hegytömbje az Égei-tengeren. A Fengari-csúcs 1611 méter magas, közvetlenül a tenger fölé magasodik.",
+      ro: "Cel mai înalt masiv muntos de pe insula Samothraki din Marea Egee. Vârful Fengari atinge 1611 metri, dominând marea.",
+      en: "The highest mountain massif on the island of Samothrace in the Aegean. The Fengari peak reaches 1,611 meters, towering directly over the sea.",
+    },
+    facts: {
+      de: ["Höhe: 1.611 m", "Ort: Insel Samothraki", "Gipfelname: Fengari", "Dominanz: Nordägäis"],
+      hu: ["Magasság: 1611 m", "Hely: Szamothraké szigete", "Csúcs neve: Fengari", "Jellemző: Észak-Égei-tenger"],
+      ro: ["Altitudine: 1611 m", "Locație: Insula Samothraki", "Nume vârf: Fengari", "Dominanță: Marea Egee de Nord"],
+      en: ["Elevation: 1,611 m", "Location: Samothrace Island", "Peak name: Fengari", "Feature: North Aegean"],
+    },
+    imageHint: "Mount Saos Samothrace Fengari peak",
+  },
+  {
+    id: "greece-mount-zas-relief-v2",
+    parent: "GR",
+    type: "peak",
+    name: { de: "Berg Zas", hu: "Zeusz-hegy (Zasz)", ro: "Muntele Zas", en: "Mount Zas" },
+    coordinates: { lat: 37.03, lng: 25.5 },
+    description: {
+      de: "Der höchste Berg der Kykladen auf der Insel Naxos mit einer Höhe von 1.004 Metern. Er ist ein markantes Wahrzeichen der Insel.",
+      hu: "A Kükládok legmagasabb hegye Naxosz szigetén, 1004 méteres magassággal. A sziget meghatározó jelképe.",
+      ro: "Cel mai înalt munte din Ciclade, pe insula Naxos, având o altitudine de 1004 metri. Este un simbol proeminent al insulei.",
+      en: "The highest mountain of the Cyclades on the island of Naxos with an elevation of 1,004 meters. It is a prominent landmark of the island.",
+    },
+    facts: {
+      de: ["Höhe: 1.004 m", "Insel: Naxos", "Region: Kykladen", "Name: Abgeleitet von Zeus"],
+      hu: ["Magasság: 1004 m", "Sziget: Naxosz", "Régió: Kükládok", "Név: Zeusztól származik"],
+      ro: ["Altitudine: 1004 m", "Insulă: Naxos", "Regiune: Ciclade", "Nume: Derivat de la Zeus"],
+      en: ["Elevation: 1,004 m", "Island: Naxos", "Region: Cyclades", "Name: Derived from Zeus"],
+    },
+    imageHint: "Mount Zas Naxos summit view",
+  },
+  {
+    id: "greece-mount-kerkis-relief-v2",
+    parent: "GR",
+    type: "mountain",
+    name: { de: "Berg Kerkis", hu: "Kerkisz-hegy", ro: "Muntele Kerkis", en: "Mount Kerkis" },
+    coordinates: { lat: 37.72, lng: 26.62 },
+    description: {
+      de: "Ein erloschener Vulkan auf der Insel Samos, der mit 1.433 Metern den westlichen Teil der Insel dominiert. Er besteht hauptsächlich aus weißem Marmor.",
+      hu: "Samos szigetén található kialudt vulkán, amely 1433 méterével uralja a sziget nyugati részét. Főként fehér márványból áll.",
+      ro: "Un vulcan stins pe insula Samos, care domină partea de vest a insulei cu cei 1433 de metri ai săi. Este format în principal din marmură albă.",
+      en: "An extinct volcano on the island of Samos, dominating the western part of the island at 1,433 meters. It consists mainly of white marble.",
+    },
+    facts: {
+      de: ["Höhe: 1.433 m", "Insel: Samos", "Gestein: Marmor", "Typ: Erloschener Vulkan"],
+      hu: ["Magasság: 1433 m", "Sziget: Számosz", "Kőzet: Márvány", "Típus: Kialudt vulkán"],
+      ro: ["Altitudine: 1433 m", "Insulă: Samos", "Rocă: Marmură", "Tip: Vulcan stins"],
+      en: ["Elevation: 1,433 m", "Island: Samos", "Rock: Marble", "Type: Extinct volcano"],
+    },
+    imageHint: "Mount Kerkis Samos white marble slopes",
+  },
+  {
+    id: "greece-mount-kallidromo-relief-v2",
+    parent: "GR",
+    type: "mountain",
+    name: { de: "Kallidromo-Gebirge", hu: "Kallidromo-hegység", ro: "Munții Kallidromo", en: "Mount Kallidromo" },
+    coordinates: { lat: 38.75, lng: 22.58 },
+    description: {
+      de: "Ein Gebirgszug in Phthiotis, der parallel zum Golf von Euböa verläuft. Die höchste Erhebung erreicht 1.399 Meter.",
+      hu: "Phthiotiszban fekvő hegylánc, amely párhuzamosan fut az Euboiai-öböllel. Legmagasabb pontja 1399 méter.",
+      ro: "Un lanț muntos în Phthiotis, care se desfășoară paralel cu Golful Evia. Cea mai înaltă cotă atinge 1399 metri.",
+      en: "A mountain range in Phthiotis, running parallel to the Gulf of Euboea. The highest elevation reaches 1,399 meters.",
+    },
+    facts: {
+      de: ["Höhe: 1.399 m", "Region: Phthiotis", "Nähe: Thermopylen", "Hauptgipfel: Giona"],
+      hu: ["Magasság: 1399 m", "Régió: Phthiotisz", "Közelben: Thermopülai", "Főcsúcs: Giona"],
+      ro: ["Altitudine: 1399 m", "Regiune: Phthiotis", "Aproape de: Termopile", "Vârf principal: Giona"],
+      en: ["Elevation: 1,399 m", "Region: Phthiotis", "Proximity: Thermopylae", "Main peak: Giona"],
+    },
+    imageHint: "Mount Kallidromo Phthiotis landscape",
+  },
+  {
+    id: "greece-mount-geraneia-relief-v2",
+    parent: "GR",
+    type: "mountain",
+    name: { de: "Geraneia-Gebirge", hu: "Geraneia-hegység", ro: "Munții Geraneia", en: "Mount Geraneia" },
+    coordinates: { lat: 38.01, lng: 23.11 },
+    description: {
+      de: "Ein Gebirgszug, der den Isthmus von Korinth dominiert und Attika mit dem Peloponnes verbindet. Der höchste Gipfel liegt bei 1.351 Metern.",
+      hu: "A Korintoszi-földszorost uraló hegység, amely összeköti Attikát a Peloponnészosszal. Legmagasabb csúcsa 1351 méter.",
+      ro: "Un lanț muntos care domină Istmul Corint, legând Atica de Peloponez. Cel mai înalt vârf are 1351 de metri.",
+      en: "A mountain range dominating the Isthmus of Corinth, linking Attica to the Peloponnese. Its highest peak is at 1,351 meters.",
+    },
+    facts: {
+      de: ["Höhe: 1.351 m", "Lage: Isthmus von Korinth", "Gipfel: Makriplagi", "Typ: Küstengebirge"],
+      hu: ["Magasság: 1351 m", "Hely: Korintoszi-földszoros", "Csúcs: Makriplagi", "Típus: Parti hegység"],
+      ro: ["Altitudine: 1351 m", "Locație: Istmul Corint", "Vârf: Makriplagi", "Tip: Munte de coastă"],
+      en: ["Elevation: 1,351 m", "Location: Isthmus of Corinth", "Peak: Makriplagi", "Type: Coastal mountain"],
+    },
+    imageHint: "Mount Geraneia Corinthian Gulf view",
   }
 ];

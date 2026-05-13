@@ -1,6 +1,7 @@
 import { POI } from './poi';
 export const albaniaHistoryV2: POI[] = [
   { id: "albania-byllis-history-v2",
+    parent: "AL",
     type: "ruins",
     name: { de: "Byllis", hu: "Byllis", ro: "Byllis", en: "Byllis",
 image: "/poi-images/albania-byllis-history-v2.webp"
@@ -53,7 +54,8 @@ imageHint: "Ancient ruins of Byllis theater with Vjosa valley view",
     en: "Byllis was a major Illyrian city in southern Albania. Its ruins feature a large theater and massive walls that showcase the power of this 4th-century BC civilization."
   }
   },
-  { id: "albania-amantia-history-v2",    type: "ruins",
+  { id: "albania-amantia-history-v2",
+    parent: "AL",    type: "ruins",
     name: { de: "Amantia", hu: "Amantia", ro: "Amantia", en: "Amantia",
 image: "/poi-images/albania-amantia-history-v2.webp"
 },
@@ -105,7 +107,8 @@ imageHint: "Ancient stadium of Amantia in Albania",
     en: "Amantia was founded in the 4th century BC by the Amantes tribe. The city is noted for its well-preserved ancient stadium and strategic location in the hinterland of Vlora."
   }
   },
-  { id: "albania-antigonea-history-v2",    type: "ruins",
+  { id: "albania-antigonea-history-v2",
+    parent: "AL",    type: "ruins",
     name: { de: "Antigonea", hu: "Antigonea", ro: "Antigonea", en: "Antigonea",
 image: "/poi-images/albania-antigonea-history-v2.webp"
 },
@@ -157,7 +160,8 @@ imageHint: "Archaeological park of Antigonea ruins",
     en: "Antigonea was founded in 295 BC by King Pyrrhus and named after his wife. The city lasted only a short time before being completely destroyed by the Romans in 167 BC."
   }
   },
-  { id: "albania-oricum-history-v2",    type: "ruins",
+  { id: "albania-oricum-history-v2",
+    parent: "AL",    type: "ruins",
     name: { de: "Oricum", hu: "Oricum", ro: "Oricum", en: "Oricum",
 image: "/poi-images/albania-oricum-history-v2.webp"
 },
@@ -209,7 +213,8 @@ imageHint: "Ancient theater of Oricum near the sea",
     en: "Oricum was an ancient port city at the southern end of the Bay of Vlora. It played a major role in the wars between Caesar and Pompey, serving as a naval base."
   }
   },
-  { id: "albania-phoenice-history-v2",    type: "ruins",
+  { id: "albania-phoenice-history-v2",
+    parent: "AL",    type: "ruins",
     name: { de: "Phoenice (Finiq)", hu: "Phoenice (Finiq)", ro: "Phoenice (Finiq)", en: "Phoenice (Finiq)",
 image: "/poi-images/albania-phoenice-history-v2.webp"
 },
@@ -261,7 +266,8 @@ imageHint: "Ruins of Phoenice archaeological park Finiq",
     en: "Phoenice was the capital of the Chaonian tribe and a powerful political center of ancient Epirus. The acropolis is one of the largest in the entire Mediterranean region."
   }
   },
-  { id: "albania-durres-amphitheatre-history-v2",    type: "theater",
+  { id: "albania-durres-amphitheatre-history-v2",
+    parent: "AL",    type: "theater",
     name: { de: "Amphitheater von Durrës", hu: "Durrësi amfiteátrum", ro: "Amfiteatrul din Durrës", en: "Durrës Amphitheatre",
 image: "/poi-images/albania-durres-amphitheatre-history-v2.webp"
 },
@@ -313,7 +319,8 @@ imageHint: "Durres Roman Amphitheatre aerial view",
     en: "The Durrës Amphitheatre is the largest in the Balkans, built in the 2nd century AD. It houses a rare medieval chapel decorated with precious wall mosaics."
   }
   },
-  { id: "albania-preza-castle-history-v2",    type: "castle",
+  { id: "albania-preza-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg von Preza", hu: "Prezai vár", ro: "Castelul Preza", en: "Preza Castle",
 image: "/poi-images/albania-preza-castle-history-v2.webp"
 },
@@ -365,7 +372,8 @@ imageHint: "Preza Castle tower with Tirana landscape",
     en: "Preza Castle dates back to the 15th century and was a strategic outpost for Skanderbeg. It offers a sweeping view over the Tirana plain to the Adriatic Sea."
   }
   },
-  { id: "albania-petrela-castle-history-v2",    type: "castle",
+  { id: "albania-petrela-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg von Petrela", hu: "Petrelai vár", ro: "Castelul Petrela", en: "Petrela Castle",
 image: "/poi-images/albania-petrela-castle-history-v2.webp"
 },
@@ -417,7 +425,8 @@ imageHint: "Petrela Castle on a rocky hill at sunset",
     en: "Petrela Castle sits on a steep rock and guarded the access to Tirana for centuries. It was the residence of Mamica, the sister of the national hero Skanderbeg."
   }
   },
-  { id: "albania-bashtove-castle-history-v2",    type: "castle",
+  { id: "albania-bashtove-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg Bashtovë", hu: "Bashtovëi vár", ro: "Castelul Bashtovë", en: "Bashtovë Castle",
 image: "/poi-images/albania-bashtove-castle-history-v2.webp"
 },
@@ -469,7 +478,8 @@ imageHint: "Bashtove Castle walls in the field",
     en: "Bashtovë Castle is a rare lowland fortress located near the mouth of the Shkumbin River. It was built by Venetians to protect grain exports along the Adriatic coast."
   }
   },
-  { id: "albania-porto-palermo-castle-history-v2",    type: "castle",
+  { id: "albania-porto-palermo-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg Porto Palermo", hu: "Porto Palermo vár", ro: "Castelul Porto Palermo", en: "Porto Palermo Castle",
 image: "/poi-images/albania-porto-palermo-castle-history-v2.webp"
 },
@@ -521,7 +531,8 @@ imageHint: "Porto Palermo Castle triangular fortress",
     en: "Porto Palermo Castle is an imposing triangular fortress on the Albanian Riviera. It was built by Ali Pasha of Tepelena in the 19th century in honor of his wife Vasiliqi."
   }
   },
-  { id: "albania-tepelena-castle-history-v2",    type: "castle",
+  { id: "albania-tepelena-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg von Tepelena", hu: "Tepelenai vár", ro: "Castelul Tepelena", en: "Tepelena Castle",
 image: "/poi-images/albania-tepelena-castle-history-v2.webp"
 },
@@ -573,7 +584,8 @@ imageHint: "Tepelena Castle walls and Ali Pasha statue",
     en: "Tepelena Castle was the main stronghold and birthplace of the powerful Ali Pasha. It was massively expanded in the 19th century as a symbol of his independence."
   }
   },
-  { id: "albania-kanine-castle-history-v2",    type: "castle",
+  { id: "albania-kanine-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg von Kaninë", hu: "Kaninëi vár", ro: "Castelul Kaninë", en: "Kaninë Castle",
 image: "/poi-images/albania-kanine-castle-history-v2.webp"
 },
@@ -625,7 +637,8 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
     en: "Kaninë Castle is located on Mt. Shushica, overlooking the city of Vlora. It has a long history dating back to Illyrian times, shaped by Byzantine and Ottoman influences."
   }
   },
-  { id: "albania-himara-castle-history-v2",    type: "castle",
+  { id: "albania-himara-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg von Himara", hu: "Himarai vár", ro: "Castelul Himara", en: "Himara Castle",
 image: "/poi-images/albania-himara-castle-history-v2.webp"
 },
@@ -677,7 +690,8 @@ imageHint: "Himara old town castle ruins",
     en: "Himara Castle forms the historical core of the city and has been inhabited since antiquity. It houses ancient churches and offers spectacular views of the Ionian Sea."
   }
   },
-  { id: "albania-borsh-castle-history-v2",    type: "castle",
+  { id: "albania-borsh-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg von Borsh", hu: "Borshi vár", ro: "Castelul Borsh", en: "Borsh Castle",
 image: "/poi-images/albania-borsh-castle-history-v2.webp"
 },
@@ -729,7 +743,8 @@ imageHint: "Borsh Castle ruins on the mountain peak",
     en: "Borsh Castle, also known as Sopot Castle, sits on a high rocky outcrop. It controlled the coastal road for centuries and served as a defense point against invasions."
   }
   },
-  { id: "albania-libohove-castle-history-v2",    type: "castle",
+  { id: "albania-libohove-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg von Libohovë", hu: "Libohovëi vár", ro: "Castelul Libohovë", en: "Libohovë Castle",
 image: "/poi-images/albania-libohove-castle-history-v2.webp"
 },
@@ -781,7 +796,8 @@ imageHint: "Libohove Castle towers and Drino valley",
     en: "Libohovë Castle was built by Ali Pasha as a gift for his sister Shanisha. It is an impressive square fortress that dominates the Dropull valley."
   }
   },
-  { id: "albania-peqin-castle-history-v2",    type: "castle",
+  { id: "albania-peqin-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg von Peqin", hu: "Peqini vár", ro: "Castelul Peqin", en: "Peqin Castle",
 image: "/poi-images/albania-peqin-castle-history-v2.webp"
 },
@@ -833,7 +849,8 @@ imageHint: "Peqin Castle fortress walls in Albania",
     en: "Peqin Castle is located along the ancient Via Egnatia and has Roman origins. It was extensively rebuilt during the Ottoman period to protect trade routes."
   }
   },
-  { id: "albania-ishmi-castle-history-v2",    type: "castle",
+  { id: "albania-ishmi-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg von Ishmi", hu: "Ishmi vár", ro: "Castelul Ishmi", en: "Ishmi Castle",
 image: "/poi-images/albania-ishmi-castle-history-v2.webp"
 },
@@ -885,7 +902,8 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
     en: "Ishmi Castle was built by the Ottomans in the 16th century to secure the coast against Venetian incursions. It is strategically located near the mouth of the Ishm River."
   }
   },
-  { id: "albania-rodoni-castle-history-v2",    type: "castle",
+  { id: "albania-rodoni-castle-history-v2",
+    parent: "AL",    type: "castle",
     name: { de: "Burg von Rodoni", hu: "Rodoni vár", ro: "Castelul Rodoni", en: "Rodoni Castle",
 image: "/poi-images/albania-rodoni-castle-history-v2.webp"
 },
@@ -937,7 +955,8 @@ imageHint: "Rodoni Castle ruins on Cape Rodon beach",
     en: "Rodoni Castle is located directly on the sea at the Cape of Rodon. It was built by Skanderbeg to establish a naval base and control access to the coast."
   }
   },
-  { id: "albania-mes-bridge-history-v2",    type: "bridge",
+  { id: "albania-mes-bridge-history-v2",
+    parent: "AL",    type: "bridge",
     name: { de: "Brücke von Mes", hu: "Mes híd", ro: "Podul Mes", en: "Mes Bridge",
 image: "/poi-images/albania-mes-bridge-history-v2.webp"
 },
@@ -989,7 +1008,8 @@ imageHint: "Mes Bridge ottoman stone bridge near Shkoder",
     en: "The Mes Bridge near Shkodra is a masterpiece of 18th-century Ottoman architecture. It spans the Kir River and is one of the longest preserved bridges from that era."
   }
   },
-  { id: "albania-selca-e-poshtme-history-v2",    type: "ruins",
+  { id: "albania-selca-e-poshtme-history-v2",
+    parent: "AL",    type: "ruins",
     name: { de: "Selca e Poshtme", hu: "Alsó-Selca", ro: "Selca e Poshtme", en: "Selca e Poshtme",
 image: "/poi-images/albania-selca-e-poshtme-history-v2.webp"
 },
@@ -1041,7 +1061,8 @@ imageHint: "Illyrian royal tombs at Selca e Poshtme",
     en: "Selca e Poshtme is home to monumental Illyrian rock tombs from the 4th and 3rd centuries BC. They testify to the burial culture and wealth of Illyrian kings."
   }
   },
-  { id: "albania-hadrianopolis-history-v2",    type: "theater",
+  { id: "albania-hadrianopolis-history-v2",
+    parent: "AL",    type: "theater",
     name: { de: "Hadrianopolis", hu: "Hadrianopolis", ro: "Hadrianopolis", en: "Hadrianopolis",
 image: "/poi-images/albania-hadrianopolis-history-v2.webp"
 },
@@ -1093,7 +1114,8 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
     en: "Hadrianopolis was a Roman city in the Drino Valley that flourished under Emperor Hadrian in the 2nd century AD. Its ruins, including a well-preserved theater, are visible near Sofratike."
   }
   },
-  { id: "albania-ethem-bey-mosque-history-v2",    type: "monument",
+  { id: "albania-ethem-bey-mosque-history-v2",
+    parent: "AL",    type: "monument",
     name: { de: "Ethem-Bey-Moschee", hu: "Ethem bég mecset", ro: "Moscheea Et'hem Bey", en: "Ethem Bey Mosque",
 image: "/poi-images/albania-ethem-bey-mosque-history-v2.webp"
 },

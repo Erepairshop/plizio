@@ -3,6 +3,7 @@ export const vaticanNatureV2: POI[] = [
 
   {
     id: "vatican-vatican-hill-nature-v2",
+    parent: "VA",
     type: "mountain",
     name: { de: "Vatikanischer Hügel", hu: "Vatikán-domb", ro: "Dealul Vatican", en: "Vatican Hill",
 image: "/poi-images/vatican-vatican-hill-nature-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Vatican Hill overview from St Peter Dome",
     image: "/poi-images/vatican-vatican-hill-nature-v2.webp",
 },  {
     id: "vatican-the-vatican-wood-nature-v2",
+    parent: "VA",
     type: "forest",
     name: { de: "Vatikanischer Wald", hu: "Vatikáni erdő", ro: "Pădurea Vaticanului", en: "Vatican Wood",
 image: "/poi-images/vatican-the-vatican-wood-nature-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Dense trees in Vatican Gardens",
     image: "/poi-images/vatican-the-vatican-wood-nature-v2.webp",
 },  {
     id: "vatican-eagle-fountain-pond-nature-v2",
+    parent: "VA",
     type: "lake",
     name: { de: "Adlerbrunnen-Teich", hu: "Sas-kút tava", ro: "Iazul Fântânii Vulturului", en: "Eagle Fountain Pond",
 image: "/poi-images/vatican-eagle-fountain-pond-nature-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Eagle Fountain Vatican Gardens pond",
     image: "/poi-images/vatican-eagle-fountain-pond-nature-v2.webp",
 },  {
     id: "vatican-vatican-olive-grove-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Vatikanischer Olivenhain", hu: "Vatikáni olajfaliget", ro: "Livada de măslini a Vaticanului", en: "Vatican Olive Grove",
 image: "/poi-images/vatican-vatican-olive-grove-nature-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Olive trees in Vatican Gardens",
     image: "/poi-images/vatican-vatican-olive-grove-nature-v2.webp",
 },  {
     id: "vatican-rose-garden-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Rosengarten des Vatikans", hu: "Vatikáni rózsakert", ro: "Grădina de trandafiri a Vaticanului", en: "Vatican Rose Garden",
 image: "/poi-images/vatican-rose-garden-nature-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Vatican Rose Garden blooms",
     image: "/poi-images/vatican-rose-garden-nature-v2.webp",
 },  {
     id: "vatican-cactus-garden-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Kaktusgarten", hu: "Kaktuszkert", ro: "Grădina de cactuși", en: "Cactus Garden",
 image: "/poi-images/vatican-cactus-garden-nature-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Cacti in Vatican Gardens",
     image: "/poi-images/vatican-cactus-garden-nature-v2.webp",
 },  {
     id: "vatican-vatican-orchard-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Vatikanischer Obstgarten", hu: "Vatikáni gyümölcsöskert", ro: "Livada Vaticanului", en: "Vatican Orchard",
 image: "/poi-images/vatican-vatican-orchard-nature-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Fruit trees in Vatican Gardens",
     image: "/poi-images/vatican-vatican-orchard-nature-v2.webp",
 },  {
     id: "vatican-lebanon-cedars-nature-v2",
+    parent: "VA",
     type: "wildlife",
     name: { de: "Libanon-Zedern am Hang", hu: "Libanoni cédrusok lejtője", ro: "Cedrii Libanului de pe versant", en: "Lebanon Cedars Slope",
 image: "/poi-images/vatican-lebanon-cedars-nature-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Large cedar trees Vatican Gardens",
     image: "/poi-images/vatican-lebanon-cedars-nature-v2.webp",
 },  {
     id: "vatican-magnolia-alley-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Magnolienallee", hu: "Magnólia fasor", ro: "Aleea Magnoliilor", en: "Magnolia Alley",
 image: "/poi-images/vatican-magnolia-alley-nature-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Magnolia trees Vatican Gardens",
     image: "/poi-images/vatican-magnolia-alley-nature-v2.webp",
 },  {
     id: "vatican-papal-crest-flowerbed-nature-v2",
+    parent: "VA",
     type: "landmark",
     name: { de: "Wappen-Blumenbeet", hu: "Címeres virágágyás", ro: "Răzorul cu blazonul papal", en: "Papal Crest Flowerbed",
 image: "/poi-images/vatican-papal-crest-flowerbed-nature-v2.webp"
@@ -343,6 +353,7 @@ image: "/poi-images/vatican-papal-crest-flowerbed-nature-v2.webp"
   },
   {
     id: "vatican-st-john-tower-slopes-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Hänge am Johannesturm", hu: "Szent János-torony lejtői", ro: "Versanții Turnului Sf. Ioan", en: "St. John's Tower Slopes",
 image: "/poi-images/vatican-st-john-tower-slopes-nature-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Green slopes around St John Tower Vatican",
     image: "/poi-images/vatican-st-john-tower-slopes-nature-v2.webp",
 },  {
     id: "vatican-rock-garden-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Steingarten des Vatikans", hu: "Vatikáni sziklakert", ro: "Grădina de stânci a Vaticanului", en: "Vatican Rock Garden",
 image: "/poi-images/vatican-rock-garden-nature-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Vatican rock garden plants",
     image: "/poi-images/vatican-rock-garden-nature-v2.webp",
 },  {
     id: "vatican-cycad-collection-nature-v2",
+    parent: "VA",
     type: "wildlife",
     name: { de: "Palmfarn-Sammlung", hu: "Cikász-gyűjtemény", ro: "Colecția de cicade", en: "Cycad Collection",
 image: "/poi-images/vatican-cycad-collection-nature-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Cycad plants Vatican Gardens",
     image: "/poi-images/vatican-cycad-collection-nature-v2.webp",
 },  {
     id: "vatican-camellia-path-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Kamelienpfad", hu: "Kamélia ösvény", ro: "Calea Cameliilor", en: "Camellia Path",
 image: "/poi-images/vatican-camellia-path-nature-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Camellia flowers Vatican Gardens",
     image: "/poi-images/vatican-camellia-path-nature-v2.webp",
 },  {
     id: "vatican-ethnobotanical-garden-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Ethnobotanischer Garten", hu: "Etnobotanikai kert", ro: "Grădina etnobotanică", en: "Ethnobotanical Garden",
 image: "/poi-images/vatican-ethnobotanical-garden-nature-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Educational plant garden Vatican",
     image: "/poi-images/vatican-ethnobotanical-garden-nature-v2.webp",
 },  {
     id: "vatican-secret-garden-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Geheimer Garten", hu: "Titkos kert", ro: "Grădina Secretă", en: "Secret Garden",
 image: "/poi-images/vatican-secret-garden-nature-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Walled secret garden Vatican",
     image: "/poi-images/vatican-secret-garden-nature-v2.webp",
 },  {
     id: "vatican-casina-pio-iv-garden-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Gärten der Casina Pio IV", hu: "Casina Pio IV kertjei", ro: "Grădinile Casinei Pio al IV-lea", en: "Casina Pio IV Gardens",
 image: "/poi-images/vatican-casina-pio-iv-garden-nature-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Casina Pio IV gardens Vatican",
     image: "/poi-images/vatican-casina-pio-iv-garden-nature-v2.webp",
 },  {
     id: "vatican-fountain-of-the-sacrament-pond-nature-v2",
+    parent: "VA",
     type: "lake",
     name: { de: "Teich des Sakramentsbrunnens", hu: "Szentség-kút tava", ro: "Iazul Fântânii Sacramentului", en: "Fountain of the Sacrament Pond",
 image: "/poi-images/vatican-fountain-of-the-sacrament-pond-nature-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Water pond in Vatican Gardens",
     image: "/poi-images/vatican-fountain-of-the-sacrament-pond-nature-v2.webp",
 },  {
     id: "vatican-our-lady-of-guadalupe-garden-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten der Jungfrau von Guadalupe", hu: "Guadalupei Szűz kertje", ro: "Grădina Fecioarei de Guadalupe", en: "Our Lady of Guadalupe Garden",
 image: "/poi-images/vatican-our-lady-of-guadalupe-garden-nature-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Guadalupe monument Vatican Gardens",
     image: "/poi-images/vatican-our-lady-of-guadalupe-garden-nature-v2.webp",
 },  {
     id: "vatican-st-martha-house-garden-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Garten am Gästehaus Santa Marta", hu: "Szent Márta-ház kertje", ro: "Grădina Casei Sfânta Marta", en: "St. Martha's House Garden",
 image: "/poi-images/vatican-st-martha-house-garden-nature-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Santa Marta garden area Vatican",
     image: "/poi-images/vatican-st-martha-house-garden-nature-v2.webp",
 },  {
     id: "vatican-belvedere-slopes-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Belvedere-Hänge", hu: "Belvedere-lejtők", ro: "Versanții Belvedere", en: "Belvedere Slopes",
 image: "/poi-images/vatican-belvedere-slopes-nature-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Sloping gardens near Vatican Museums",
     image: "/poi-images/vatican-belvedere-slopes-nature-v2.webp",
 },  {
     id: "vatican-governor-palace-gardens-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Gärten des Gouverneurspalastes", hu: "Kormányzói Palota kertjei", ro: "Grădinile Palatului Guvernatorului", en: "Governor's Palace Gardens",
 image: "/poi-images/vatican-governor-palace-gardens-nature-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Gardens in front of Governor Palace Vatican",
     image: "/poi-images/vatican-governor-palace-gardens-nature-v2.webp",
 },  {
     id: "vatican-vatican-heliport-green-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Grünanlage am Heliport", hu: "Heliport zöldövezete", ro: "Zona verde a heliportului", en: "Vatican Heliport Green",
 image: "/poi-images/vatican-vatican-heliport-green-nature-v2.webp"
@@ -785,6 +808,7 @@ image: "/poi-images/vatican-vatican-heliport-green-nature-v2.webp"
   },
   {
     id: "vatican-japanese-garden-section-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Japanischer Gartenabschnitt", hu: "Japán kertrészlet", ro: "Secțiunea grădinii japoneze", en: "Japanese Garden Section",
 image: "/poi-images/vatican-japanese-garden-section-nature-v2.webp"
@@ -820,6 +844,7 @@ imageHint: "Bamboo and stones Vatican Gardens",
 },
   {
     id: "vatican-oak-grove-nature-v2",
+    parent: "VA",
     type: "forest",
     name: { de: "Vatikanischer Eichenhain", hu: "Vatikáni tölgyfaliget", ro: "Crângul de stejari din Vatican", en: "Vatican Oak Grove",
 image: "/poi-images/vatican-oak-grove-nature-v2.webp"
@@ -853,6 +878,7 @@ image: "/poi-images/vatican-oak-grove-nature-v2.webp"
   },
   {
     id: "vatican-bamboo-collection-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Vatikanische Bambussammlung", hu: "Vatikáni bambuszgyűjtemény", ro: "Colecția de bambus din Vatican", en: "Vatican Bamboo Collection",
 image: "/poi-images/vatican-bamboo-collection-nature-v2.webp"
@@ -886,6 +912,7 @@ imageHint: "Dense green bamboo forest path Vatican",
     image: "/poi-images/vatican-bamboo-collection-nature-v2.webp",
 },  {
     id: "vatican-exotic-greenery-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Exotisches Grün am Gewächshaus", hu: "Üvegházi egzotikus növényzet", ro: "Vegetația exotică de lângă seră", en: "Vatican Exotic Greenery",
 image: "/poi-images/vatican-exotic-greenery-nature-v2.webp"
@@ -919,6 +946,7 @@ imageHint: "Tropical plants outside Vatican greenhouse",
     image: "/poi-images/vatican-exotic-greenery-nature-v2.webp",
 },  {
     id: "vatican-aromatic-garden-nature-v2",
+    parent: "VA",
     type: "park",
     name: { de: "Aromatischer Garten", hu: "Aromás kert", ro: "Grădina aromatică", en: "Vatican Aromatic Garden",
 image: "/poi-images/vatican-aromatic-garden-nature-v2.webp"
@@ -952,6 +980,7 @@ imageHint: "Symmetrical lavender and rosemary herb garden",
     image: "/poi-images/vatican-aromatic-garden-nature-v2.webp",
 },  {
     id: "vatican-fern-valley-nature-v2",
+    parent: "VA",
     type: "valley",
     name: { de: "Farntal", hu: "Páfrány-völgy", ro: "Valea ferigilor", en: "Vatican Fern Valley",
 image: "/poi-images/vatican-fern-valley-nature-v2.webp"
@@ -985,6 +1014,7 @@ imageHint: "Green ferns and moss in shaded garden area",
     image: "/poi-images/vatican-fern-valley-nature-v2.webp",
 },  {
     id: "vatican-mediterranean-maquis-nature-v2",
+    parent: "VA",
     type: "wildlife",
     name: { de: "Mediterrane Macchia", hu: "Mediterrán macchia", ro: "Makiul mediteranean", en: "Vatican Mediterranean Maquis",
 image: "/poi-images/vatican-mediterranean-maquis-nature-v2.webp"
@@ -1015,5 +1045,126 @@ image: "/poi-images/vatican-mediterranean-maquis-nature-v2.webp"
       ro: ["Plante: Mirt, mastic", "Adaptare: Rezistent la secetă", "Ecoregiune: Mediteraneană", "Îngrijire: Tăieri minime"],
       en: ["Plants: Myrtle, mastic shrub", "Adaptation: Drought-resistant", "Eco-region: Mediterranean", "Maintenance: Minimal pruning"],
     },
+  }
+,
+  {
+    id: "vatican-vigna-papa-nature-v2",
+    parent: "VA",
+    type: "park",
+    name: { de: "Weinberg des Papstes", hu: "A pápa szőlőskertje", ro: "Podgoria Papei", en: "The Pope's Vineyard" },
+    coordinates: { lat: 41.9041, lng: 12.4498 },
+    description: {
+      de: "Der vatikanische Weinberg ist eine kleine landwirtschaftliche Fläche. Er wurde 2014 neu bepflanzt, um päpstlichen Wein zu erzeugen.",
+      hu: "A vatikáni szőlőskert a pápai kertek mezőgazdasági része. 2014-ben telepítették újra hagyományos bortermelés céljából.",
+      ro: "Podgoria Vaticanului este o parcelă agricolă situată în grădini. A fost restaurată în 2014 pentru a produce vin papal tradițional.",
+      en: "The Vatican Vineyard is a small agricultural plot located within the Leonine Walls. It was restored in 2014 to produce traditional papal wine.",
+    },
+    facts: {
+      de: ["Neupflanzung im Jahr 2014", "Sorte Santa Maria", "1000 Quadratmeter Fläche", "Nähe zur Casina Pio IV"],
+      hu: ["2014-es újratelepítés", "Santa Maria szőlőfajta", "1000 négyzetméteres terület", "A Casina Pio IV közelében"],
+      ro: ["Replantată în anul 2014", "Soiul de struguri Santa Maria", "Suprafață de 1000 metri pătrați", "Lângă Casina Pio IV"],
+      en: ["Replanted in 2014", "Santa Maria grape variety", "1000 square meters area", "Located near Casina Pio IV"],
+    },
+    imageHint: "Vatican vineyard rows with Leonine walls",
+  },
+  {
+    id: "vatican-mirror-garden-nature-v2",
+    parent: "VA",
+    type: "park",
+    name: { de: "Spiegelgarten", hu: "Tükörkert", ro: "Grădina Oglinzilor", en: "Mirror Garden" },
+    coordinates: { lat: 41.9035, lng: 12.4489 },
+    description: {
+      de: "Der Spiegelgarten ist eine formelle Anlage im italienischen Stil. Er zeichnet sich durch geometrische Hecken und eine axiale Ausrichtung aus.",
+      hu: "A Tükörkert egy formális olasz stílusú kertrészlet. Geometrikus sövények és tengelyes elrendezés jellemzi a vatikáni kertekben.",
+      ro: "Grădina Oglinzilor este o amenajare formală în stil italian. Se remarcă prin garduri vii geometrice și o orientare axială precisă.",
+      en: "The Mirror Garden is a formal Italian-style arrangement within the Vatican. It is characterized by geometric hedges and a precise axial layout.",
+    },
+    facts: {
+      de: ["Klassischer italienischer Stil", "Ursprung im 16. Jahrhundert", "Geometrische Buchsbaumhecken", "Zentrales gestalterisches Element"],
+      hu: ["Klasszikus olasz kertstílus", "16. századi eredet", "Geometrikus puszpángsövények", "Központi tervezési elem"],
+      ro: ["Stil italian clasic", "Origini în secolul al XVI-lea", "Garduri vii geometrice din cimișir", "Element central de design"],
+      en: ["Classic Italian garden style", "Origins in the 16th century", "Geometric boxwood hedges", "Central design element"],
+    },
+    imageHint: "Mirror Garden Vatican Italian style hedges",
+  },
+  {
+    id: "vatican-plane-tree-walk-nature-v2",
+    parent: "VA",
+    type: "forest",
+    name: { de: "Platanenallee", hu: "Platánsor", ro: "Aleea Platanilor", en: "Plane Tree Walk" },
+    coordinates: { lat: 41.9055, lng: 12.4502 },
+    description: {
+      de: "Die Platanenallee ist ein schattiger Weg, der von riesigen Bäumen gesäumt wird. Er verbindet verschiedene Sektoren der vatikanischen Gärten.",
+      hu: "A Platánsor egy hatalmas fákkal szegélyezett árnyékos sétány. A vatikáni kertek különböző szektorait köti össze a falak mentén.",
+      ro: "Aleea Platanilor este un drum umbrit, mărginit de arbori gigantici. Conectează diferite sectoare ale grădinilor vaticane.",
+      en: "The Plane Tree Walk is a shaded path lined with giant trees. It connects various sectors of the Vatican Gardens along the fortification walls.",
+    },
+    facts: {
+      de: ["Riesige Morgenländische Platanen", "Hoher Schattenanteil im Sommer", "Teil der Leoninischen Mauer", "Lebensraum für zahlreiche Vögel"],
+      hu: ["Hatalmas keleti platánfák", "Nagy árnyékfedettség nyáron", "A Leoninus-fal részét képezi", "Számos madár élőhelye"],
+      ro: ["Platani orientali uriași", "Grad ridicat de umbră vara", "Parte a zidului Leonin", "Habitat pentru numeroase păsări"],
+      en: ["Giant Oriental Plane trees", "High shade coverage in summer", "Part of the Leonine Wall area", "Habitat for numerous bird species"],
+    },
+    imageHint: "Plane tree walk Vatican gardens shaded path",
+  },
+  {
+    id: "vatican-nativity-grotto-nature-v2",
+    parent: "VA",
+    type: "landmark",
+    name: { de: "Geburtsgrotte", hu: "Születés barlangja", ro: "Grota Nativității", en: "The Nativity Grotto" },
+    coordinates: { lat: 41.9025, lng: 12.4472 },
+    description: {
+      de: "Die Geburtsgrotte ist eine religiöse Felsformation in den Gärten. Sie wurde im Jahr 1888 erbaut und ist von natürlichem Gestein umgeben.",
+      hu: "A Születés barlangja egy vallási sziklaformáció a kertekben. 1888-ban épült, és természetes kőzetek, valamint dús növényzet veszi körül.",
+      ro: "Grota Nativității este o formațiune stâncoasă religioasă în grădini. A fost construită în 1888 și este înconjurată de rocă naturală.",
+      en: "The Nativity Grotto is a religious rock formation within the gardens. Built in 1888, it is surrounded by natural stone and lush vegetation.",
+    },
+    facts: {
+      de: ["Baujahr im Jahr 1888", "Natürliche Travertinfelsen", "In der Nähe des Johannesturms", "Beinhaltet einen kleinen Brunnen"],
+      hu: ["1888-ban épült", "Természetes travertin sziklák", "A Szent János-torony közelében", "Egy kis szökőkutat is tartalmaz"],
+      ro: ["Construită în anul 1888", "Roci naturale de travertin", "Lângă Turnul Sfântului Ioan", "Include o mică fântână"],
+      en: ["Built in the year 1888", "Natural travertine rockwork", "Near the Tower of Saint John", "Includes a small water fountain"],
+    },
+    imageHint: "Nativity Grotto Vatican gardens rock formation",
+  },
+  {
+    id: "vatican-holm-oak-path-nature-v2",
+    parent: "VA",
+    type: "forest",
+    name: { de: "Steineichenweg", hu: "Magyaltölgy-sétány", ro: "Aleea Stejarilor Veșnic Verzi", en: "Holm Oak Path" },
+    coordinates: { lat: 41.903, lng: 12.4478 },
+    description: {
+      de: "Der Steineichenweg besteht aus uralten immergrünen Eichen. Diese Bäume bilden einen natürlichen kühlen Tunnel für sommerliche Spaziergänge.",
+      hu: "A Magyaltölgy-sétány ősi örökzöld tölgyekből áll. Ezek a fák természetes hűvös alagutat alkotnak a nyári sétákhoz a vatikáni dombon.",
+      ro: "Aleea Stejarilor Veșnic Verzi este formată din stejari antici. Acești arbori creează un tunel natural răcoros pentru plimbările de vară.",
+      en: "The Holm Oak Path consists of ancient evergreen oaks. These trees create a natural cool tunnel for summer strolls on the Vatican Hill.",
+    },
+    facts: {
+      de: ["Alte Quercus ilex Bestände", "Immergrünes dichtes Blätterdach", "Jahrhundertealte Exemplare", "Schutz vor starken Winden"],
+      hu: ["Öreg Quercus ilex állomány", "Örökzöld sűrű lombozat", "Évszázados példányok", "Védelem az erős szelek ellen"],
+      ro: ["Exemplare vechi de Quercus ilex", "Bolvă de frunziș veșnic verde", "Arbori vechi de secole", "Protecție împotriva vânturilor puternice"],
+      en: ["Ancient Quercus ilex trees", "Evergreen dense canopy", "Centuries-old specimens", "Protection from strong winds"],
+    },
+    imageHint: "Holm Oak path Vatican gardens evergreen trees",
+  },
+  {
+    id: "vatican-pomegranate-grove-nature-v2",
+    parent: "VA",
+    type: "park",
+    name: { de: "Granatapfelhain", hu: "Gránátalmaliget", ro: "Livada de Rodii", en: "Pomegranate Grove" },
+    coordinates: { lat: 41.9048, lng: 12.451 },
+    description: {
+      de: "Der Granatapfelhain ist eine kleine Obstplantage in der Nähe des Heliports. Er dient als Symbol der Einheit und des Friedens im Vatikan.",
+      hu: "A Gránátalmaliget egy kis gyümölcsös a helikopter-leszálló közelében. Az egység és a béke szimbólumaként szolgál a Vatikánban.",
+      ro: "Livada de Rodii este o mică plantație de pomi fructiferi lângă heliport. Servește ca simbol al unității și păcii în Vatican.",
+      en: "The Pomegranate Grove is a small fruit orchard located near the heliport. It serves as a symbol of unity and peace within the Vatican.",
+    },
+    facts: {
+      de: ["Kleine Obstplantage", "Symbol der Auferstehung", "Geschenk aus dem Ausland", "Blütezeit im Frühsommer"],
+      hu: ["Kis gyümölcsöskert", "A feltámadás szimbóluma", "Külföldről érkezett ajándék", "Virágzás kora nyáron"],
+      ro: ["Mică livadă de fructe", "Simbol al învierii", "Cadou primit din străinătate", "Înflorire la începutul verii"],
+      en: ["Small fruit orchard", "Symbol of resurrection", "Diplomatic gift from abroad", "Blooms in early summer"],
+    },
+    imageHint: "Pomegranate trees Vatican gardens fruit detail",
   }
 ];

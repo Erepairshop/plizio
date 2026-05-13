@@ -3,6 +3,7 @@ export const icelandLandmarksV2: POI[] = [
 
   {
     id: "iceland-hallgrimskirkja-landmarks-v2",
+    parent: "IS",
     type: "church",
     name: { de: "Hallgrímskirkja", hu: "Hallgrímskirkja", ro: "Hallgrímskirkja", en: "Hallgrímskirkja",
 image: "/poi-images/iceland-hallgrimskirkja-landmarks-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Hallgrimskirkja church in Reykjavik",
     image: "/poi-images/iceland-hallgrimskirkja-landmarks-v2.webp",
 },  {
     id: "iceland-harpa-concert-hall-landmarks-v2",
+    parent: "IS",
     type: "theater",
     name: { de: "Konzerthaus Harpa", hu: "Harpa hangversenyterem", ro: "Sala de concerte Harpa", en: "Harpa Concert Hall",
 image: "/poi-images/iceland-harpa-concert-hall-landmarks-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Harpa Concert Hall Reykjavik at night",
     image: "/poi-images/iceland-harpa-concert-hall-landmarks-v2.webp",
 },  {
     id: "iceland-sun-voyager-landmarks-v2",
+    parent: "IS",
     type: "monument",
     name: { de: "Sonnenschiff Sólfar", hu: "Naputazó szobor", ro: "Călătorul Soarelui", en: "Sun Voyager",
 image: "/poi-images/iceland-sun-voyager-landmarks-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Sun Voyager sculpture Reykjavik",
     image: "/poi-images/iceland-sun-voyager-landmarks-v2.webp",
 },  {
     id: "iceland-perlan-landmarks-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Perlan", hu: "Perlan", ro: "Perlan", en: "Perlan",
 image: "/poi-images/iceland-perlan-landmarks-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Perlan building Reykjavik dome",
     image: "/poi-images/iceland-perlan-landmarks-v2.webp",
 },  {
     id: "iceland-national-museum-landmarks-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Isländisches Nationalmuseum", hu: "Izlandi Nemzeti Múzeum", ro: "Muzeul Național al Islandei", en: "National Museum of Iceland",
 image: "/poi-images/iceland-national-museum-landmarks-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "National Museum of Iceland building",
     image: "/poi-images/iceland-national-museum-landmarks-v2.webp",
 },  {
     id: "iceland-reykjavik-city-hall-landmarks-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Rathaus von Reykjavík", hu: "Reykjavíki városháza", ro: "Primăria din Reykjavík", en: "Reykjavík City Hall",
 image: "/poi-images/iceland-reykjavik-city-hall-landmarks-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Reykjavik City Hall lake Tjornin",
     image: "/poi-images/iceland-reykjavik-city-hall-landmarks-v2.webp",
 },  {
     id: "iceland-hofdi-house-landmarks-v2",
+    parent: "IS",
     type: "landmark",
     name: { de: "Höfði-Haus", hu: "Höfði-ház", ro: "Casa Höfði", en: "Höfði House",
 image: "/poi-images/iceland-hofdi-house-landmarks-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Hofdi House Reykjavik summit",
     image: "/poi-images/iceland-hofdi-house-landmarks-v2.webp",
 },  {
     id: "iceland-skalholt-cathedral-landmarks-v2",
+    parent: "IS",
     type: "cathedral",
     name: { de: "Kathedrale von Skálholt", hu: "Skálholti székesegyház", ro: "Catedrala din Skálholt", en: "Skálholt Cathedral",
 image: "/poi-images/iceland-skalholt-cathedral-landmarks-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Skalholt Cathedral Iceland",
     image: "/poi-images/iceland-skalholt-cathedral-landmarks-v2.webp",
 },  {
     id: "iceland-akureyrarkirkja-landmarks-v2",
+    parent: "IS",
     type: "church",
     name: { de: "Akureyrarkirkja", hu: "Akureyrarkirkja", ro: "Akureyrarkirkja", en: "Akureyrarkirkja",
 image: "/poi-images/iceland-akureyrarkirkja-landmarks-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Akureyrarkirkja church Akureyri",
     image: "/poi-images/iceland-akureyrarkirkja-landmarks-v2.webp",
 },  {
     id: "iceland-husavikurkirkja-landmarks-v2",
+    parent: "IS",
     type: "church",
     name: { de: "Kirche von Húsavík", hu: "Húsavíki templom", ro: "Biserica din Húsavík", en: "Húsavík Church",
 image: "/poi-images/iceland-husavikurkirkja-landmarks-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Husavikurkirkja wooden church Iceland",
     image: "/poi-images/iceland-husavikurkirkja-landmarks-v2.webp",
 },  {
     id: "iceland-seydisfjardarkirkja-landmarks-v2",
+    parent: "IS",
     type: "church",
     name: { de: "Blaue Kirche von Seyðisfjörður", hu: "Seyðisfjörðuri kék templom", ro: "Biserica Albastră din Seyðisfjörður", en: "Seyðisfjörður Blue Church",
 image: "/poi-images/iceland-seydisfjardarkirkja-landmarks-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Blue Church Seydisfjordur rainbow path",
     image: "/poi-images/iceland-seydisfjardarkirkja-landmarks-v2.webp",
 },  {
     id: "iceland-budakirkja-landmarks-v2",
+    parent: "IS",
     type: "church",
     name: { de: "Búðakirkja", hu: "Búðakirkja", ro: "Búðakirkja", en: "Búðakirkja",
 image: "/poi-images/iceland-budakirkja-landmarks-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Budakirkja black church Iceland",
     image: "/poi-images/iceland-budakirkja-landmarks-v2.webp",
 },  {
     id: "iceland-vikurkirkja-landmarks-v2",
+    parent: "IS",
     type: "church",
     name: { de: "Víkurkirkja", hu: "Víkurkirkja", ro: "Víkurkirkja", en: "Víkurkirkja",
 image: "/poi-images/iceland-vikurkirkja-landmarks-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Vik church red roof Iceland",
     image: "/poi-images/iceland-vikurkirkja-landmarks-v2.webp",
 },  {
     id: "iceland-glaumbaer-farm-museum-landmarks-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Torfgof Glaumbær", hu: "Glaumbær skanzen", ro: "Ferma Glaumbær", en: "Glaumbær Farm Museum",
 image: "/poi-images/iceland-glaumbaer-farm-museum-landmarks-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Glaumbaer turf farm museum Iceland",
     image: "/poi-images/iceland-glaumbaer-farm-museum-landmarks-v2.webp",
 },  {
     id: "iceland-laufas-turf-house-landmarks-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Torfgof Laufás", hu: "Laufás gyeptéglás házak", ro: "Casa din turbă Laufás", en: "Laufás Turf House",
 image: "/poi-images/iceland-laufas-turf-house-landmarks-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Laufas turf house museum Iceland",
     image: "/poi-images/iceland-laufas-turf-house-landmarks-v2.webp",
 },  {
     id: "iceland-settlement-exhibition-landmarks-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Siedlungsausstellung Reykjavík 871±2", hu: "Reykjavíki honfoglalás-kiállítás", ro: "Expoziția Colonizării Reykjavík", en: "The Settlement Exhibition",
 image: "/poi-images/iceland-settlement-exhibition-landmarks-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Settlement Exhibition Reykjavik Viking longhouse",
     image: "/poi-images/iceland-settlement-exhibition-landmarks-v2.webp",
 },  {
     id: "iceland-maritime-museum-landmarks-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Seefahrtsmuseum Víkin", hu: "Víkin Tengerészeti Múzeum", ro: "Muzeul Maritim din Reykjavík", en: "Reykjavík Maritime Museum",
 image: "/poi-images/iceland-maritime-museum-landmarks-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Reykjavik Maritime Museum building and ship",
     image: "/poi-images/iceland-maritime-museum-landmarks-v2.webp",
 },  {
     id: "iceland-arbaer-open-air-museum-landmarks-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Freilichtmuseum Árbær", hu: "Árbær Szabadtéri Múzeum", ro: "Muzeul Satului Árbær", en: "Árbær Open Air Museum",
 image: "/poi-images/iceland-arbaer-open-air-museum-landmarks-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Arbaer Open Air Museum Reykjavik houses",
     image: "/poi-images/iceland-arbaer-open-air-museum-landmarks-v2.webp",
 },  {
     id: "iceland-imagine-peace-tower-landmarks-v2",
+    parent: "IS",
     type: "monument",
     name: { de: "Imagine Peace Tower", hu: "Imagine Peace Tower", ro: "Imagine Peace Tower", en: "Imagine Peace Tower",
 image: "/poi-images/iceland-imagine-peace-tower-landmarks-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Imagine Peace Tower Videy Island light",
     image: "/poi-images/iceland-imagine-peace-tower-landmarks-v2.webp",
 },  {
     id: "iceland-borgarvirki-landmarks-v2",
+    parent: "IS",
     type: "ruins",
     name: { de: "Borgarvirki", hu: "Borgarvirki", ro: "Borgarvirki", en: "Borgarvirki",
 image: "/poi-images/iceland-borgarvirki-landmarks-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Borgarvirki natural fortress Iceland",
     image: "/poi-images/iceland-borgarvirki-landmarks-v2.webp",
 },  {
     id: "iceland-videyjarkirkja-landmarks-v2",
+    parent: "IS",
     type: "church",
     name: { de: "Viðeyjarkirkja", hu: "Viðeyjarkirkja", ro: "Viðeyjarkirkja", en: "Viðeyjarkirkja",
 image: "/poi-images/iceland-videyjarkirkja-landmarks-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Videyjarkirkja stone church Iceland",
     image: "/poi-images/iceland-videyjarkirkja-landmarks-v2.webp",
 },  {
     id: "iceland-holar-cathedral-landmarks-v2",
+    parent: "IS",
     type: "cathedral",
     name: { de: "Kathedrale von Hólar", hu: "Hólari székesegyház", ro: "Catedrala din Hólar", en: "Hólar Cathedral",
 image: "/poi-images/iceland-holar-cathedral-landmarks-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "Holar Cathedral sandstone Iceland",
     image: "/poi-images/iceland-holar-cathedral-landmarks-v2.webp",
 },  {
     id: "iceland-knarrarosviti-lighthouse-landmarks-v2",
+    parent: "IS",
     type: "tower",
     name: { de: "Leuchtturm Knarrarósviti", hu: "Knarrarósviti világítótorony", ro: "Farul Knarrarósviti", en: "Knarrarósviti Lighthouse",
 image: "/poi-images/iceland-knarrarosviti-lighthouse-landmarks-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Knarrarosviti lighthouse white tower",
     image: "/poi-images/iceland-knarrarosviti-lighthouse-landmarks-v2.webp",
 },  {
     id: "iceland-grotta-lighthouse-landmarks-v2",
+    parent: "IS",
     type: "tower",
     name: { de: "Leuchtturm Grótta", hu: "Grótta világítótorony", ro: "Farul Grótta", en: "Grótta Lighthouse",
 image: "/poi-images/iceland-grotta-lighthouse-landmarks-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Grotta Lighthouse Reykjavik sunset",
     image: "/poi-images/iceland-grotta-lighthouse-landmarks-v2.webp",
 },  {
     id: "iceland-gardskagaviti-lighthouse-landmarks-v2",
+    parent: "IS",
     type: "tower",
     name: { de: "Leuchtturm Garðskagaviti", hu: "Garðskagaviti világítótorony", ro: "Farul Garðskagaviti", en: "Garðskagaviti Lighthouse",
 image: "/poi-images/iceland-gardskagaviti-lighthouse-landmarks-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Gardskagaviti lighthouses Reykjanes",
     image: "/poi-images/iceland-gardskagaviti-lighthouse-landmarks-v2.webp",
 },  {
     id: "iceland-borgarnes-settlement-center-landmarks-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Landnahmezentrum Borgarnes", hu: "Borgarnesi Honfoglalás-központ", ro: "Centrul Colonizării Borgarnes", en: "Borgarnes Settlement Center",
 image: "/poi-images/iceland-borgarnes-settlement-center-landmarks-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Settlement Center Borgarnes building",
     image: "/poi-images/iceland-borgarnes-settlement-center-landmarks-v2.webp",
 },  {
     id: "iceland-skogar-museum-landmarks-v2",
+    parent: "IS",
     type: "museum",
     name: { de: "Skógar Museum", hu: "Skógar Múzeum", ro: "Muzeul Skógar", en: "Skógar Museum",
 image: "/poi-images/iceland-skogar-museum-landmarks-v2.webp"

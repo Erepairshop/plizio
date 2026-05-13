@@ -3,6 +3,7 @@ export const sloveniaEconomicV2: POI[] = [
 
   {
     id: "slovenia-luka-koper-economic-v2",
+    parent: "SI",
     type: "port",
     name: { de: "Hafen von Koper", hu: "Koperi kikötő", ro: "Portul Koper", en: "Port of Koper",
 image: "/poi-images/slovenia-luka-koper-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Aerial view of the Port of Koper container terminal",
     image: "/poi-images/slovenia-luka-koper-economic-v2.webp",
 },  {
     id: "slovenia-krka-novo-mesto-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Krka Pharmazeutik", hu: "Krka Gyógyszergyár", ro: "Krka Farmaceutice", en: "Krka Pharmaceuticals",
 image: "/poi-images/slovenia-krka-novo-mesto-economic-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Modern factory complex of Krka in Novo Mesto",
     image: "/poi-images/slovenia-krka-novo-mesto-economic-v2.webp",
 },  {
     id: "slovenia-revoz-novo-mesto-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Revoz Automobilwerk", hu: "Revoz Autógyár", ro: "Fabrica Auto Revoz", en: "Revoz Car Factory",
 image: "/poi-images/slovenia-revoz-novo-mesto-economic-v2.webp"
@@ -105,6 +108,7 @@ image: "/poi-images/slovenia-revoz-novo-mesto-economic-v2.webp"
   },
   {
     id: "slovenia-gorenje-velenje-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Gorenje Haushaltsgeräte", hu: "Gorenje Háztartási Gépek", ro: "Gorenje Electrocasnice", en: "Gorenje Home Appliances",
 image: "/poi-images/slovenia-gorenje-velenje-economic-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Gorenje industrial complex in Velenje",
     image: "/poi-images/slovenia-gorenje-velenje-economic-v2.webp",
 },  {
     id: "slovenia-nek-krsko-economic-v2",
+    parent: "SI",
     type: "industry",
     name: { de: "Kernkraftwerk Krško", hu: "Krskói Atomerőmű", ro: "Centrala Nucleară Krško", en: "Krško Nuclear Power Plant",
 image: "/poi-images/slovenia-nek-krsko-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Exterior of the Krško Nuclear Power Plant with cooling towers",
     image: "/poi-images/slovenia-nek-krsko-economic-v2.webp",
 },  {
     id: "slovenia-talum-kidricevo-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Talum Aluminiumwerk", hu: "Talum Alumíniumgyár", ro: "Fabrica de Aluminiu Talum", en: "Talum Aluminum Factory",
 image: "/poi-images/slovenia-talum-kidricevo-economic-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Talum industrial site in Kidričevo",
     image: "/poi-images/slovenia-talum-kidricevo-economic-v2.webp",
 },  {
     id: "slovenia-steklarna-rogaska-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Steklarna Rogaška Kristall", hu: "Steklarna Rogaška Kristálygyár", ro: "Fabrica de Cristal Rogaška", en: "Steklarna Rogaška Crystal",
 image: "/poi-images/slovenia-steklarna-rogaska-economic-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Skilled glassblower working at Steklarna Rogaška",
     image: "/poi-images/slovenia-steklarna-rogaska-economic-v2.webp",
 },  {
     id: "slovenia-lek-ljubljana-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Lek Pharmazeutik", hu: "Lek Gyógyszergyár", ro: "Lek Farmaceutice", en: "Lek Pharmaceuticals",
 image: "/poi-images/slovenia-lek-ljubljana-economic-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Modern pharmaceutical laboratory at Lek Ljubljana",
     image: "/poi-images/slovenia-lek-ljubljana-economic-v2.webp",
 },  {
     id: "slovenia-akrapovic-ivancna-gorica-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Akrapovič Abgassysteme", hu: "Akrapovič Kipufogórendszerek", ro: "Sisteme de Evacuare Akrapovič", en: "Akrapovič Exhaust Systems",
 image: "/poi-images/slovenia-akrapovic-ivancna-gorica-economic-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Akrapovič titanium exhaust system for a sports car",
     image: "/poi-images/slovenia-akrapovic-ivancna-gorica-economic-v2.webp",
 },  {
     id: "slovenia-pipistrel-ajdovscina-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Pipistrel Flugzeugbau", hu: "Pipistrel Repülőgépgyár", ro: "Producătorul de Avioane Pipistrel", en: "Pipistrel Aircraft",
 image: "/poi-images/slovenia-pipistrel-ajdovscina-economic-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Pipistrel Velis Electro plane on an airfield",
     image: "/poi-images/slovenia-pipistrel-ajdovscina-economic-v2.webp",
 },  {
     id: "slovenia-idrija-mercury-mine-economic-v2",
+    parent: "SI",
     type: "mine",
     name: { de: "Quecksilberbergwerk Idrija", hu: "Idrijai higanybánya", ro: "Mina de Mercur din Idrija", en: "Idrija Mercury Mine",
 image: "/poi-images/slovenia-idrija-mercury-mine-economic-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Entrance to the Anthony Main Road of the Idrija mine",
     image: "/poi-images/slovenia-idrija-mercury-mine-economic-v2.webp",
 },  {
     id: "slovenia-mezica-mine-economic-v2",
+    parent: "SI",
     type: "mine",
     name: { de: "Blei- und Zinkbergwerk Mežica", hu: "Mežicai ólom- és cinkbánya", ro: "Mina de Plumb și Zinc Mežica", en: "Mežica Lead and Zinc Mine",
 image: "/poi-images/slovenia-mezica-mine-economic-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Tourists cycling through an underground mine tunnel",
     image: "/poi-images/slovenia-mezica-mine-economic-v2.webp",
 },  {
     id: "slovenia-sostanj-power-plant-economic-v2",
+    parent: "SI",
     type: "industry",
     name: { de: "Thermisches Kraftwerk Šoštanj", hu: "Šoštanji hőerőmű", ro: "Termocentrala Šoštanj", en: "Šoštanj Thermal Power Plant",
 image: "/poi-images/slovenia-sostanj-power-plant-economic-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Large cooling tower of the Šoštanj power plant",
     image: "/poi-images/slovenia-sostanj-power-plant-economic-v2.webp",
 },  {
     id: "slovenia-velenje-coal-mine-economic-v2",
+    parent: "SI",
     type: "mine",
     name: { de: "Braunkohlebergwerk Velenje", hu: "Velenjei lignitbánya", ro: "Mina de Cărbune Velenje", en: "Velenje Coal Mine",
 image: "/poi-images/slovenia-velenje-coal-mine-economic-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Mining equipment at the Velenje coal mine surface",
     image: "/poi-images/slovenia-velenje-coal-mine-economic-v2.webp",
 },  {
     id: "slovenia-cinkarna-celje-economic-v2",
+    parent: "SI",
     type: "industry",
     name: { de: "Cinkarna Celje Chemie", hu: "Cinkarna Celje Vegyiüzem", ro: "Cinkarna Celje Chimie", en: "Cinkarna Celje Chemicals",
 image: "/poi-images/slovenia-cinkarna-celje-economic-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Industrial skyline of Cinkarna Celje factory",
     image: "/poi-images/slovenia-cinkarna-celje-economic-v2.webp",
 },  {
     id: "slovenia-perutnina-ptuj-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Perutnina Ptuj Lebensmittel", hu: "Perutnina Ptuj Élelmiszergyár", ro: "Perutnina Ptuj Alimente", en: "Perutnina Ptuj Food",
 image: "/poi-images/slovenia-perutnina-ptuj-economic-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Modern food processing facility of Perutnina Ptuj",
     image: "/poi-images/slovenia-perutnina-ptuj-economic-v2.webp",
 },  {
     id: "slovenia-radenska-boraceva-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Radenska Mineralwasser", hu: "Radenska Ásványvíz", ro: "Apa Minerală Radenska", en: "Radenska Mineral Water",
 image: "/poi-images/slovenia-radenska-boraceva-economic-v2.webp"
@@ -581,6 +598,7 @@ image: "/poi-images/slovenia-radenska-boraceva-economic-v2.webp"
   },
   {
     id: "slovenia-elan-begunje-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Elan Sportartikel", hu: "Elan Sporteszközök", ro: "Echipamente Sportive Elan", en: "Elan Sporting Goods",
 image: "/poi-images/slovenia-elan-begunje-economic-v2.webp"
@@ -615,6 +633,7 @@ image: "/poi-images/slovenia-elan-begunje-economic-v2.webp"
   },
   {
     id: "slovenia-btc-city-ljubljana-economic-v2",
+    parent: "SI",
     type: "landmark",
     name: { de: "BTC City Ljubljana", hu: "BTC City Ljubljana", ro: "BTC City Ljubljana", en: "BTC City Ljubljana",
 image: "/poi-images/slovenia-btc-city-ljubljana-economic-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Aerial view of the massive BTC City complex in Ljubljana",
     image: "/poi-images/slovenia-btc-city-ljubljana-economic-v2.webp",
 },  {
     id: "slovenia-secovlje-salt-pans-economic-v2",
+    parent: "SI",
     type: "industry",
     name: { de: "Salinen von Sečovlje", hu: "Sečovljei sólepárló", ro: "Salinele din Sečovlje", en: "Sečovlje Salt Pans",
 image: "/poi-images/slovenia-secovlje-salt-pans-economic-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Traditional salt harvesting at Sečovlje pans",
     image: "/poi-images/slovenia-secovlje-salt-pans-economic-v2.webp",
 },  {
     id: "slovenia-impol-slovenska-bistrica-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Impol Aluminiumverarbeitung", hu: "Impol Alumíniumfeldolgozó", ro: "Impol Prelucrarea Aluminiului", en: "Impol Aluminum Industry",
 image: "/poi-images/slovenia-impol-slovenska-bistrica-economic-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Aluminum rolling process in the Impol factory",
     image: "/poi-images/slovenia-impol-slovenska-bistrica-economic-v2.webp",
 },  {
     id: "slovenia-sava-tires-kranj-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Sava Tires (Goodyear)", hu: "Sava Gumiabroncsgyár", ro: "Anvelope Sava (Goodyear)", en: "Sava Tires (Goodyear)",
 image: "/poi-images/slovenia-sava-tires-kranj-economic-v2.webp"
@@ -751,6 +773,7 @@ imageHint: "New tires stacked in a storage facility in Kranj",
     image: "/poi-images/slovenia-sava-tires-kranj-economic-v2.webp",
 },  {
     id: "slovenia-helios-domzale-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Helios Lacke und Farben", hu: "Helios Festékgyár", ro: "Vopsele și Lacuri Helios", en: "Helios Coatings",
 image: "/poi-images/slovenia-helios-domzale-economic-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Industrial paint mixing equipment at the Helios factory",
     image: "/poi-images/slovenia-helios-domzale-economic-v2.webp",
 },  {
     id: "slovenia-paloma-sladki-vrh-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Paloma Papierfabrik", hu: "Paloma Papírgyár", ro: "Fabrica de Hârtie Paloma", en: "Paloma Paper Factory",
 image: "/poi-images/slovenia-paloma-sladki-vrh-economic-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Paper manufacturing machine at the Paloma factory",
     image: "/poi-images/slovenia-paloma-sladki-vrh-economic-v2.webp",
 },  {
     id: "slovenia-zito-ljubljana-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Žito Lebensmittelindustrie", hu: "Žito Élelmiszeripar", ro: "Industria Alimentară Žito", en: "Žito Food Industry",
 image: "/poi-images/slovenia-zito-ljubljana-economic-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Freshly baked bread at a Žito industrial bakery",
     image: "/poi-images/slovenia-zito-ljubljana-economic-v2.webp",
 },  {
     id: "slovenia-unior-zrece-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Unior Werkzeuge", hu: "Unior Szerszámgyár", ro: "Unior Scule și Unelte", en: "Unior Tools",
 image: "/poi-images/slovenia-unior-zrece-economic-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Precision hand tools manufactured at the Unior plant",
     image: "/poi-images/slovenia-unior-zrece-economic-v2.webp",
 },  {
     id: "slovenia-zlatolicje-hydro-power-economic-v2",
+    parent: "SI",
     type: "industry",
     name: { de: "Wasserkraftwerk Zlatoličje", hu: "Zlatoličjei vízerőmű", ro: "Hidrocentrala Zlatoličje", en: "Zlatoličje Hydroelectric Power Plant",
 image: "/poi-images/slovenia-zlatolicje-hydro-power-economic-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Aerial view of the Zlatoličje dam and power station",
     image: "/poi-images/slovenia-zlatolicje-hydro-power-economic-v2.webp",
 },  {
     id: "slovenia-trbovlje-chimney-economic-v2",
+    parent: "SI",
     type: "industry",
     name: { de: "Schornstein von Trbovlje", hu: "Trbovljei kémény", ro: "Coșul de fum din Trbovlje", en: "Trbovlje Chimney",
 image: "/poi-images/slovenia-trbovlje-chimney-economic-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "The towering Trbovlje chimney rising above the valley",
     image: "/poi-images/slovenia-trbovlje-chimney-economic-v2.webp",
 },  {
     id: "slovenia-ljubljanske-mlekarne-economic-v2",
+    parent: "SI",
     type: "factory",
     name: { de: "Ljubljanaer Molkerei", hu: "Ljubljanai Tejgyár", ro: "Lactatele Ljubljana", en: "Ljubljana Dairy",
 image: "/poi-images/slovenia-ljubljanske-mlekarne-economic-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Dairy production line at Ljubljanske mlekarne",
     image: "/poi-images/slovenia-ljubljanske-mlekarne-economic-v2.webp",
 },  {
     id: "slovenia-intereuropa-koper-economic-v2",
+    parent: "SI",
     type: "industry",
     name: { de: "Intereuropa Logistik", hu: "Intereuropa Logisztika", ro: "Logistica Intereuropa", en: "Intereuropa Logistics",
 image: "/poi-images/slovenia-intereuropa-koper-economic-v2.webp"

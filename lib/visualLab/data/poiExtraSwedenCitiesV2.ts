@@ -3,6 +3,7 @@ export const swedenCitiesV2: POI[] = [
 
   {
     id: "sweden-helsingborg-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Helsingborg", hu: "Helsingborg", ro: "Helsingborg", en: "Helsingborg",
 image: "/poi-images/sweden-helsingborg-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
     image: "/poi-images/sweden-helsingborg-cities-v2.webp",
 },  {
     id: "sweden-norrkoping-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Norrköping", hu: "Norrköping", ro: "Norrköping", en: "Norrköping",
 image: "/poi-images/sweden-norrkoping-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Industrial landscape of Norrköping along the river",
     image: "/poi-images/sweden-norrkoping-cities-v2.webp",
 },  {
     id: "sweden-boras-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Borås", hu: "Borås", ro: "Borås", en: "Borås",
 image: "/poi-images/sweden-boras-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Modern street art and sculptures in Borås city center",
     image: "/poi-images/sweden-boras-cities-v2.webp",
 },  {
     id: "sweden-eskilstuna-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Eskilstuna", hu: "Eskilstuna", ro: "Eskilstuna", en: "Eskilstuna",
 image: "/poi-images/sweden-eskilstuna-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Eskilstuna city center river view",
     image: "/poi-images/sweden-eskilstuna-cities-v2.webp",
 },  {
     id: "sweden-gavle-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Gävle", hu: "Gävle", ro: "Gävle", en: "Gävle",
 image: "/poi-images/sweden-gavle-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
     image: "/poi-images/sweden-gavle-cities-v2.webp",
 },  {
     id: "sweden-vaxjo-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Växjö", hu: "Växjö", ro: "Växjö", en: "Växjö",
 image: "/poi-images/sweden-vaxjo-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Växjö Cathedral with its unique twin towers",
     image: "/poi-images/sweden-vaxjo-cities-v2.webp",
 },  {
     id: "sweden-sodertalje-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Södertälje", hu: "Södertälje", ro: "Södertälje", en: "Södertälje",
 image: "/poi-images/sweden-sodertalje-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Aerial view of the Södertälje Canal and industrial area",
     image: "/poi-images/sweden-sodertalje-cities-v2.webp",
 },  {
     id: "sweden-trollhattan-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Trollhättan", hu: "Trollhättan", ro: "Trollhättan", en: "Trollhättan",
 image: "/poi-images/sweden-trollhattan-cities-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-trollhattan-cities-v2.webp",
 },  {
     id: "sweden-falun-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Falun", hu: "Falun", ro: "Falun", en: "Falun",
 image: "/poi-images/sweden-falun-cities-v2.webp"
@@ -297,6 +306,7 @@ image: "/poi-images/sweden-falun-cities-v2.webp"
     image: "/poi-images/sweden-falun-cities-v2.webp"},
   {
     id: "sweden-kalmar-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Kalmar", hu: "Kalmar", ro: "Kalmar", en: "Kalmar",
 image: "/poi-images/sweden-kalmar-cities-v2.webp"
@@ -319,6 +329,7 @@ image: "/poi-images/sweden-kalmar-cities-v2.webp"
     image: "/poi-images/sweden-kalmar-cities-v2.webp"},
   {
     id: "sweden-skovde-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Skövde", hu: "Skövde", ro: "Skövde", en: "Skövde",
 image: "/poi-images/sweden-skovde-cities-v2.webp"
@@ -341,6 +352,7 @@ image: "/poi-images/sweden-skovde-cities-v2.webp"
     image: "/poi-images/sweden-skovde-cities-v2.webp"},
   {
     id: "sweden-kristianstad-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Kristianstad", hu: "Kristianstad", ro: "Kristianstad", en: "Kristianstad",
 image: "/poi-images/sweden-kristianstad-cities-v2.webp"
@@ -363,6 +375,7 @@ image: "/poi-images/sweden-kristianstad-cities-v2.webp"
     image: "/poi-images/sweden-kristianstad-cities-v2.webp"},
   {
     id: "sweden-landskrona-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Landskrona", hu: "Landskrona", ro: "Landskrona", en: "Landskrona",
 image: "/poi-images/sweden-landskrona-cities-v2.webp"
@@ -385,6 +398,7 @@ image: "/poi-images/sweden-landskrona-cities-v2.webp"
     image: "/poi-images/sweden-landskrona-cities-v2.webp"},
   {
     id: "sweden-motala-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Motala", hu: "Motala", ro: "Motala", en: "Motala",
 image: "/poi-images/sweden-motala-cities-v2.webp"
@@ -407,6 +421,7 @@ image: "/poi-images/sweden-motala-cities-v2.webp"
     image: "/poi-images/sweden-motala-cities-v2.webp"},
   {
     id: "sweden-karlskrona-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Karlskrona", hu: "Karlskrona", ro: "Karlskrona", en: "Karlskrona",
 image: "/poi-images/sweden-karlskrona-cities-v2.webp"
@@ -429,6 +444,7 @@ image: "/poi-images/sweden-karlskrona-cities-v2.webp"
     image: "/poi-images/sweden-karlskrona-cities-v2.webp"},
   {
     id: "sweden-uddevalla-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Uddevalla", hu: "Uddevalla", ro: "Uddevalla", en: "Uddevalla",
 image: "/poi-images/sweden-uddevalla-cities-v2.webp"
@@ -451,6 +467,7 @@ image: "/poi-images/sweden-uddevalla-cities-v2.webp"
     image: "/poi-images/sweden-uddevalla-cities-v2.webp"},
   {
     id: "sweden-varberg-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Varberg", hu: "Varberg", ro: "Varberg", en: "Varberg",
 image: "/poi-images/sweden-varberg-cities-v2.webp"
@@ -473,6 +490,7 @@ image: "/poi-images/sweden-varberg-cities-v2.webp"
     image: "/poi-images/sweden-varberg-cities-v2.webp"},
   {
     id: "sweden-trelleborg-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Trelleborg", hu: "Trelleborg", ro: "Trelleborg", en: "Trelleborg",
 image: "/poi-images/sweden-trelleborg-cities-v2.webp"
@@ -495,6 +513,7 @@ image: "/poi-images/sweden-trelleborg-cities-v2.webp"
     image: "/poi-images/sweden-trelleborg-cities-v2.webp"},
   {
     id: "sweden-lidkoping-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Lidköping", hu: "Lidköping", ro: "Lidköping", en: "Lidköping",
 image: "/poi-images/sweden-lidkoping-cities-v2.webp"
@@ -517,6 +536,7 @@ image: "/poi-images/sweden-lidkoping-cities-v2.webp"
     image: "/poi-images/sweden-lidkoping-cities-v2.webp"},
   {
     id: "sweden-enkoping-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Enköping", hu: "Enköping", ro: "Enköping", en: "Enköping",
 image: "/poi-images/sweden-enkoping-cities-v2.webp"
@@ -539,6 +559,7 @@ image: "/poi-images/sweden-enkoping-cities-v2.webp"
     image: "/poi-images/sweden-enkoping-cities-v2.webp"},
   {
     id: "sweden-nykoping-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Nyköping", hu: "Nyköping", ro: "Nyköping", en: "Nyköping",
 image: "/poi-images/sweden-nykoping-cities-v2.webp"
@@ -561,6 +582,7 @@ image: "/poi-images/sweden-nykoping-cities-v2.webp"
     image: "/poi-images/sweden-nykoping-cities-v2.webp"},
   {
     id: "sweden-pitea-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Piteå", hu: "Piteå", ro: "Piteå", en: "Piteå",
 image: "/poi-images/sweden-pitea-cities-v2.webp"
@@ -583,6 +605,7 @@ image: "/poi-images/sweden-pitea-cities-v2.webp"
     image: "/poi-images/sweden-pitea-cities-v2.webp"},
   {
     id: "sweden-skelleftea-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Skellefteå", hu: "Skellefteå", ro: "Skellefteå", en: "Skellefteå",
 image: "/poi-images/sweden-skelleftea-cities-v2.webp"
@@ -605,6 +628,7 @@ image: "/poi-images/sweden-skelleftea-cities-v2.webp"
     image: "/poi-images/sweden-skelleftea-cities-v2.webp"},
   {
     id: "sweden-angelholm-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Ängelholm", hu: "Ängelholm", ro: "Ängelholm", en: "Ängelholm",
 image: "/poi-images/sweden-angelholm-cities-v2.webp"
@@ -627,6 +651,7 @@ image: "/poi-images/sweden-angelholm-cities-v2.webp"
     image: "/poi-images/sweden-angelholm-cities-v2.webp"},
   {
     id: "sweden-katrineholm-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Katrineholm", hu: "Katrineholm", ro: "Katrineholm", en: "Katrineholm",
 image: "/poi-images/sweden-katrineholm-cities-v2.webp"
@@ -649,6 +674,7 @@ image: "/poi-images/sweden-katrineholm-cities-v2.webp"
     image: "/poi-images/sweden-katrineholm-cities-v2.webp"},
   {
     id: "sweden-vastervik-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Västervik", hu: "Västervik", ro: "Västervik", en: "Västervik",
 image: "/poi-images/sweden-vastervik-cities-v2.webp"
@@ -671,6 +697,7 @@ image: "/poi-images/sweden-vastervik-cities-v2.webp"
     image: "/poi-images/sweden-vastervik-cities-v2.webp"},
   {
     id: "sweden-karlshamn-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Karlshamn", hu: "Karlshamn", ro: "Karlshamn", en: "Karlshamn",
 image: "/poi-images/sweden-karlshamn-cities-v2.webp"
@@ -693,6 +720,7 @@ image: "/poi-images/sweden-karlshamn-cities-v2.webp"
     image: "/poi-images/sweden-karlshamn-cities-v2.webp"},
   {
     id: "sweden-hudiksvall-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Hudiksvall", hu: "Hudiksvall", ro: "Hudiksvall", en: "Hudiksvall",
 image: "/poi-images/sweden-hudiksvall-cities-v2.webp"
@@ -715,6 +743,7 @@ image: "/poi-images/sweden-hudiksvall-cities-v2.webp"
     image: "/poi-images/sweden-hudiksvall-cities-v2.webp"},
   {
     id: "sweden-varnamo-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Värnamo", hu: "Värnamo", ro: "Värnamo", en: "Värnamo",
 image: "/poi-images/sweden-varnamo-cities-v2.webp"
@@ -737,6 +766,7 @@ image: "/poi-images/sweden-varnamo-cities-v2.webp"
     image: "/poi-images/sweden-varnamo-cities-v2.webp"},
   {
     id: "sweden-ystad-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Ystad", hu: "Ystad", ro: "Ystad", en: "Ystad",
 image: "/poi-images/sweden-ystad-cities-v2.webp"
@@ -759,6 +789,7 @@ image: "/poi-images/sweden-ystad-cities-v2.webp"
     image: "/poi-images/sweden-ystad-cities-v2.webp"},
   {
     id: "sweden-kristinehamn-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Kristinehamn", hu: "Kristinehamn", ro: "Kristinehamn", en: "Kristinehamn",
 image: "/poi-images/sweden-kristinehamn-cities-v2.webp"
@@ -781,6 +812,7 @@ image: "/poi-images/sweden-kristinehamn-cities-v2.webp"
     image: "/poi-images/sweden-kristinehamn-cities-v2.webp"},
   {
     id: "sweden-harnosand-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Härnösand", hu: "Härnösand", ro: "Härnösand", en: "Härnösand",
 image: "/poi-images/sweden-harnosand-cities-v2.webp"
@@ -803,6 +835,7 @@ image: "/poi-images/sweden-harnosand-cities-v2.webp"
     image: "/poi-images/sweden-harnosand-cities-v2.webp"},
   {
     id: "sweden-ostersund-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Östersund", hu: "Östersund", ro: "Östersund", en: "Östersund",
 image: "/poi-images/sweden-ostersund-cities-v2.webp"
@@ -825,6 +858,7 @@ image: "/poi-images/sweden-ostersund-cities-v2.webp"
     image: "/poi-images/sweden-ostersund-cities-v2.webp"},
   {
     id: "sweden-hassleholm-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Hässleholm", hu: "Hässleholm", ro: "Hässleholm", en: "Hässleholm",
 image: "/poi-images/sweden-hassleholm-cities-v2.webp"
@@ -847,6 +881,7 @@ image: "/poi-images/sweden-hassleholm-cities-v2.webp"
     image: "/poi-images/sweden-hassleholm-cities-v2.webp"},
   {
     id: "sweden-koping-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Köping", hu: "Köping", ro: "Köping", en: "Köping",
 image: "/poi-images/sweden-koping-cities-v2.webp"
@@ -869,6 +904,7 @@ image: "/poi-images/sweden-koping-cities-v2.webp"
     image: "/poi-images/sweden-koping-cities-v2.webp"},
   {
     id: "sweden-oskarshamn-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Oskarshamn", hu: "Oskarshamn", ro: "Oskarshamn", en: "Oskarshamn",
 image: "/poi-images/sweden-oskarshamn-cities-v2.webp"
@@ -891,6 +927,7 @@ image: "/poi-images/sweden-oskarshamn-cities-v2.webp"
     image: "/poi-images/sweden-oskarshamn-cities-v2.webp"},
   {
     id: "sweden-mariestad-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Mariestad", hu: "Mariestad", ro: "Mariestad", en: "Mariestad",
 image: "/poi-images/sweden-mariestad-cities-v2.webp"
@@ -913,6 +950,7 @@ image: "/poi-images/sweden-mariestad-cities-v2.webp"
     image: "/poi-images/sweden-mariestad-cities-v2.webp"},
   {
     id: "sweden-borlange-cities-v2",
+    parent: "SE",
     type: "city",
     name: { de: "Borlänge", hu: "Borlänge", ro: "Borlänge", en: "Borlänge",
 image: "/poi-images/sweden-borlange-cities-v2.webp"
@@ -935,6 +973,7 @@ image: "/poi-images/sweden-borlange-cities-v2.webp"
     image: "/poi-images/sweden-borlange-cities-v2.webp"},
   {
     id: "sweden-sandviken-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Sandviken", hu: "Sandviken", ro: "Sandviken", en: "Sandviken",
 image: "/poi-images/sweden-sandviken-cities-v2.webp"
@@ -957,6 +996,7 @@ image: "/poi-images/sweden-sandviken-cities-v2.webp"
     image: "/poi-images/sweden-sandviken-cities-v2.webp"},
   {
     id: "sweden-falkenberg-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Falkenberg", hu: "Falkenberg", ro: "Falkenberg", en: "Falkenberg",
 image: "/poi-images/sweden-falkenberg-cities-v2.webp"
@@ -979,6 +1019,7 @@ image: "/poi-images/sweden-falkenberg-cities-v2.webp"
     image: "/poi-images/sweden-falkenberg-cities-v2.webp"},
   {
     id: "sweden-arvika-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Arvika", hu: "Arvika", ro: "Arvika", en: "Arvika",
 image: "/poi-images/sweden-arvika-cities-v2.webp"
@@ -1001,6 +1042,7 @@ image: "/poi-images/sweden-arvika-cities-v2.webp"
     image: "/poi-images/sweden-arvika-cities-v2.webp"},
   {
     id: "sweden-tranas-cities-v2",
+    parent: "SE",
     type: "town",
     name: { de: "Tranås", hu: "Tranås", ro: "Tranås", en: "Tranås",
 image: "/poi-images/sweden-tranas-cities-v2.webp"

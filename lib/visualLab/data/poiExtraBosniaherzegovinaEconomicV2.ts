@@ -3,6 +3,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
 
   {
     id: "bosniaherzegovina-zenica-steelworks-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Stahlwerk Zenica", hu: "Zenicai Acélmű", ro: "Combinatul Siderurgic Zenica", en: "Zenica Steelworks",
 image: "/poi-images/bosniaherzegovina-zenica-steelworks-economic-v2.webp"
@@ -37,6 +38,7 @@ image: "/poi-images/bosniaherzegovina-zenica-steelworks-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-tuzla-power-plant-economic-v2",
+    parent: "BA",
     type: "industry",
     name: { de: "Kraftwerk Tuzla", hu: "Tuzlai Hőerőmű", ro: "Termocentrala Tuzla", en: "Tuzla Thermal Power Plant",
 image: "/poi-images/bosniaherzegovina-tuzla-power-plant-economic-v2.webp"
@@ -72,6 +74,7 @@ image: "/poi-images/bosniaherzegovina-tuzla-power-plant-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-kakanj-coal-power-economic-v2",
+    parent: "BA",
     type: "industry",
     name: { de: "Industriezentrum Kakanj", hu: "Kakanji Ipari Központ", ro: "Centrul Industrial Kakanj", en: "Kakanj Industrial Hub",
 image: "/poi-images/bosniaherzegovina-kakanj-coal-power-economic-v2.webp"
@@ -107,6 +110,7 @@ image: "/poi-images/bosniaherzegovina-kakanj-coal-power-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-mostar-aluminium-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Aluminiumwerk Mostar", hu: "Mostari Alumíniumgyár", ro: "Combinatul de Aluminiu Mostar", en: "Aluminij Mostar",
 image: "/poi-images/bosniaherzegovina-mostar-aluminium-economic-v2.webp"
@@ -142,6 +146,7 @@ image: "/poi-images/bosniaherzegovina-mostar-aluminium-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-modrica-oil-refinery-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Ölraffinerie Modriča", hu: "Modričai Olajfinomító", ro: "Rafinăria de Petrol Modriča", en: "Modriča Oil Refinery",
 image: "/poi-images/bosniaherzegovina-modrica-oil-refinery-economic-v2.webp"
@@ -176,6 +181,7 @@ image: "/poi-images/bosniaherzegovina-modrica-oil-refinery-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-brod-oil-refinery-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Raffinerie Brod", hu: "Brodi Olajfinomító", ro: "Rafinăria Brod", en: "Brod Oil Refinery",
 image: "/poi-images/bosniaherzegovina-brod-oil-refinery-economic-v2.webp"
@@ -210,6 +216,7 @@ image: "/poi-images/bosniaherzegovina-brod-oil-refinery-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-zvornik-alumina-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Alumina Fabrik Zvornik", hu: "Zvorniki Timföldgyár", ro: "Fabrica de Alumină Zvornik", en: "Alumina Zvornik",
 image: "/poi-images/bosniaherzegovina-zvornik-alumina-economic-v2.webp"
@@ -245,6 +252,7 @@ image: "/poi-images/bosniaherzegovina-zvornik-alumina-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-jablanica-hydro-economic-v2",
+    parent: "BA",
     type: "industry",
     name: { de: "Wasserkraftwerk Jablanica", hu: "Jablanicai Vízerőmű", ro: "Hidrocentrala Jablanica", en: "Jablanica Hydroelectric Power Plant",
 image: "/poi-images/bosniaherzegovina-jablanica-hydro-economic-v2.webp"
@@ -280,6 +288,7 @@ image: "/poi-images/bosniaherzegovina-jablanica-hydro-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-lukavac-cement-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Zementwerk Lukavac", hu: "Lukavaci Cementgyár", ro: "Fabrica de Ciment Lukavac", en: "Lukavac Cement Factory",
 image: "/poi-images/bosniaherzegovina-lukavac-cement-economic-v2.webp"
@@ -315,6 +324,7 @@ image: "/poi-images/bosniaherzegovina-lukavac-cement-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-gacko-power-plant-economic-v2",
+    parent: "BA",
     type: "industry",
     name: { de: "Kraftwerk Gacko", hu: "Gackói Hőerőmű", ro: "Termocentrala Gacko", en: "Gacko Thermal Power Plant",
 image: "/poi-images/bosniaherzegovina-gacko-power-plant-economic-v2.webp"
@@ -350,6 +360,7 @@ image: "/poi-images/bosniaherzegovina-gacko-power-plant-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-ugljevik-power-plant-economic-v2",
+    parent: "BA",
     type: "industry",
     name: { de: "Kraftwerk Ugljevik", hu: "Ugljeviki Hőerőmű", ro: "Termocentrala Ugljevik", en: "Ugljevik Thermal Power Plant",
 image: "/poi-images/bosniaherzegovina-ugljevik-power-plant-economic-v2.webp"
@@ -385,6 +396,7 @@ image: "/poi-images/bosniaherzegovina-ugljevik-power-plant-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-stanari-power-plant-economic-v2",
+    parent: "BA",
     type: "industry",
     name: { de: "EFT Kraftwerk Stanari", hu: "Stanari Hőerőmű", ro: "Termocentrala Stanari", en: "Stanari Thermal Power Plant",
 image: "/poi-images/bosniaherzegovina-stanari-power-plant-economic-v2.webp"
@@ -420,6 +432,7 @@ image: "/poi-images/bosniaherzegovina-stanari-power-plant-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-vares-silver-mine-economic-v2",
+    parent: "BA",
     type: "mine",
     name: { de: "Silber- und Zinkmine Vareš", hu: "Vareši Ezüst- és Cinkbánya", ro: "Mina de Argint și Zinc Vareș", en: "Vareš Silver and Zinc Mine",
 image: "/poi-images/bosniaherzegovina-vares-silver-mine-economic-v2.webp"
@@ -455,6 +468,7 @@ image: "/poi-images/bosniaherzegovina-vares-silver-mine-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-omarska-iron-mine-economic-v2",
+    parent: "BA",
     type: "mine",
     name: { de: "Eisenerzmine Omarska", hu: "Omarskai Vasércbánya", ro: "Mina de Fier Omarska", en: "Omarska Iron Ore Mine",
 image: "/poi-images/bosniaherzegovina-omarska-iron-mine-economic-v2.webp"
@@ -490,6 +504,7 @@ image: "/poi-images/bosniaherzegovina-omarska-iron-mine-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-konjic-igman-factory-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Munitionsfabrik Igman", hu: "Igman Muníciógyár", ro: "Fabrica de Muniție Igman", en: "Igman Konjic Factory",
 image: "/poi-images/bosniaherzegovina-konjic-igman-factory-economic-v2.webp"
@@ -524,6 +539,7 @@ image: "/poi-images/bosniaherzegovina-konjic-igman-factory-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-brcko-bimal-factory-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Speiseölfabrik Bimal", hu: "Bimal Étovajgyár", ro: "Fabrica de Ulei Comestibil Bimal", en: "Bimal Brčko Factory",
 image: "/poi-images/bosniaherzegovina-brcko-bimal-factory-economic-v2.webp"
@@ -559,6 +575,7 @@ image: "/poi-images/bosniaherzegovina-brcko-bimal-factory-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-visoko-prevent-factory-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Prevent Lederfabrik Visoko", hu: "Visokói Prevent Bőrgyár", ro: "Fabrica de Piele Prevent Visoko", en: "Prevent Visoko Factory",
 image: "/poi-images/bosniaherzegovina-visoko-prevent-factory-economic-v2.webp"
@@ -594,6 +611,7 @@ image: "/poi-images/bosniaherzegovina-visoko-prevent-factory-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-gorazde-bekto-precisa-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Bekto Precisa Goražde", hu: "Bekto Precisa Goražde", ro: "Bekto Precisa Goražde", en: "Bekto Precisa Goražde",
 image: "/poi-images/bosniaherzegovina-gorazde-bekto-precisa-economic-v2.webp"
@@ -629,6 +647,7 @@ image: "/poi-images/bosniaherzegovina-gorazde-bekto-precisa-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-hadzici-coca-cola-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Coca-Cola Abfüllanlage Hadžići", hu: "Hadžići Coca-Cola Palackozó", ro: "Unitatea de Îmbuteliere Coca-Cola Hadžići", en: "Coca-Cola HBC Hadžići",
 image: "/poi-images/bosniaherzegovina-hadzici-coca-cola-economic-v2.webp"
@@ -664,6 +683,7 @@ image: "/poi-images/bosniaherzegovina-hadzici-coca-cola-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-grude-violeta-factory-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Violeta Fabrik Grude", hu: "Grudei Violeta Gyár", ro: "Fabrica Violeta Grude", en: "Violeta Grude Factory",
 image: "/poi-images/bosniaherzegovina-grude-violeta-factory-economic-v2.webp"
@@ -698,6 +718,7 @@ image: "/poi-images/bosniaherzegovina-grude-violeta-factory-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-siroki-brijeg-feal-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "FEAL Široki Brijeg", hu: "Široki Brijeg-i FEAL", ro: "FEAL Široki Brijeg", en: "FEAL Široki Brijeg",
 image: "/poi-images/bosniaherzegovina-siroki-brijeg-feal-economic-v2.webp"
@@ -733,6 +754,7 @@ image: "/poi-images/bosniaherzegovina-siroki-brijeg-feal-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-brcko-river-port-economic-v2",
+    parent: "BA",
     type: "port",
     name: { de: "Hafen Brčko", hu: "Brčkói Kikötő", ro: "Portul Brčko", en: "Port of Brčko",
 image: "/poi-images/bosniaherzegovina-brcko-river-port-economic-v2.webp"
@@ -767,6 +789,7 @@ image: "/poi-images/bosniaherzegovina-brcko-river-port-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-semberija-agriculture-economic-v2",
+    parent: "BA",
     type: "industry",
     name: { de: "Agrarregion Semberija", hu: "Semberija Mezőgazdasági Régió", ro: "Regiunea Agricolă Semberija", en: "Semberija Agricultural Region",
 image: "/poi-images/bosniaherzegovina-semberija-agriculture-economic-v2.webp"
@@ -802,6 +825,7 @@ image: "/poi-images/bosniaherzegovina-semberija-agriculture-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-vitez-business-zone-economic-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Gewerbezone PC-96 Vitez", hu: "Vitezi PC-96 Üzleti Zóna", ro: "Zona de Afaceri PC-96 Vitez", en: "Vitez PC-96 Business Zone",
 image: "/poi-images/bosniaherzegovina-vitez-business-zone-economic-v2.webp"
@@ -837,6 +861,7 @@ image: "/poi-images/bosniaherzegovina-vitez-business-zone-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-visegrad-hydro-economic-v2",
+    parent: "BA",
     type: "industry",
     name: { de: "Wasserkraftwerk Višegrad", hu: "Višegradi Vízerőmű", ro: "Hidrocentrala Višegrad", en: "Višegrad Hydroelectric Power Plant",
 image: "/poi-images/bosniaherzegovina-visegrad-hydro-economic-v2.webp"
@@ -872,6 +897,7 @@ image: "/poi-images/bosniaherzegovina-visegrad-hydro-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-rama-hydro-economic-v2",
+    parent: "BA",
     type: "industry",
     name: { de: "Wasserkraftwerk Rama", hu: "Ramai Vízerőmű", ro: "Hidrocentrala Rama", en: "Rama Hydroelectric Power Plant",
 image: "/poi-images/bosniaherzegovina-rama-hydro-economic-v2.webp"
@@ -907,6 +933,7 @@ image: "/poi-images/bosniaherzegovina-rama-hydro-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-maglaj-natron-hayat-economic-v2",
+    parent: "BA",
     type: "factory",
     name: { de: "Natron-Hayat Maglaj", hu: "Natron-Hayat Maglaj", ro: "Natron-Hayat Maglaj", en: "Natron-Hayat Maglaj",
 image: "/poi-images/bosniaherzegovina-maglaj-natron-hayat-economic-v2.webp"
@@ -942,6 +969,7 @@ image: "/poi-images/bosniaherzegovina-maglaj-natron-hayat-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-tuzla-salt-works-economic-v2",
+    parent: "BA",
     type: "mine",
     name: { de: "Salzwerk Tuzla", hu: "Tuzlai Sóbánya és Lepárló", ro: "Salina și Fabrica de Sare Tuzla", en: "Tuzla Salt Works",
 image: "/poi-images/bosniaherzegovina-tuzla-salt-works-economic-v2.webp"
@@ -977,6 +1005,7 @@ image: "/poi-images/bosniaherzegovina-tuzla-salt-works-economic-v2.webp"
   },
   {
     id: "bosniaherzegovina-banja-luka-business-district-economic-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Geschäftsviertel Banja Luka", hu: "Banja Luka-i Üzleti Negyed", ro: "Districtul de Afaceri Banja Luka", en: "Banja Luka Business District",
 image: "/poi-images/bosniaherzegovina-banja-luka-business-district-economic-v2.webp"
@@ -1011,6 +1040,7 @@ image: "/poi-images/bosniaherzegovina-banja-luka-business-district-economic-v2.w
   },
   {
     id: "bosniaherzegovina-sarajevo-stock-exchange-economic-v2",
+    parent: "BA",
     type: "city",
     name: { de: "Börse Sarajevo (SASE)", hu: "Szarajevói Tőzsde (SASE)", ro: "Bursa de Valori Sarajevo (SASE)", en: "Sarajevo Stock Exchange (SASE)",
 image: "/poi-images/bosniaherzegovina-sarajevo-stock-exchange-economic-v2.webp"

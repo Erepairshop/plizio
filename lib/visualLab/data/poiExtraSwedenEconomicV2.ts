@@ -3,6 +3,7 @@ export const swedenEconomicV2: POI[] = [
 
   {
     id: "sweden-kiruna-mine-economic-v2",
+    parent: "SE",
     type: "mine",
     name: { de: "Eisenerzgrube Kiruna", hu: "Kirunai vasércbánya", ro: "Mina de fier Kiruna", en: "Kiruna Iron Ore Mine",
 image: "/poi-images/sweden-kiruna-mine-economic-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Kiruna underground iron ore mine machinery",
     image: "/poi-images/sweden-kiruna-mine-economic-v2.webp",
 },  {
     id: "sweden-gothenburg-port-economic-v2",
+    parent: "SE",
     type: "port",
     name: { de: "Hafen Göteborg", hu: "Göteborgi kikötő", ro: "Portul Göteborg", en: "Port of Gothenburg",
 image: "/poi-images/sweden-gothenburg-port-economic-v2.webp"
@@ -71,6 +73,7 @@ image: "/poi-images/sweden-gothenburg-port-economic-v2.webp"
   },
   {
     id: "sweden-northvolt-ett-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "Northvolt Ett Batteriefabrik", hu: "Northvolt Ett akkumulátorgyár", ro: "Fabrica de baterii Northvolt Ett", en: "Northvolt Ett Battery Factory",
 image: "/poi-images/sweden-northvolt-ett-economic-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Large modern industrial battery factory Northvolt",
     image: "/poi-images/sweden-northvolt-ett-economic-v2.webp",
 },  {
     id: "sweden-ssab-lulea-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "SSAB Stahlwerk Luleå", hu: "SSAB luleåi acélmű", ro: "Combinatul siderurgic SSAB Luleå", en: "SSAB Luleå Steelworks",
 image: "/poi-images/sweden-ssab-lulea-economic-v2.webp"
@@ -139,6 +143,7 @@ image: "/poi-images/sweden-ssab-lulea-economic-v2.webp"
   },
   {
     id: "sweden-scania-sodertalje-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "Scania Hauptquartier Södertälje", hu: "Scania központ Södertälje", ro: "Sediul Scania Södertälje", en: "Scania Södertälje Headquarters",
 image: "/poi-images/sweden-scania-sodertalje-economic-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Scania truck factory and headquarters building",
     image: "/poi-images/sweden-scania-sodertalje-economic-v2.webp",
 },  {
     id: "sweden-abb-vasteras-economic-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "ABB-Campus Västerås", hu: "ABB Västerås kampusz", ro: "Campusul ABB Västerås", en: "ABB Västerås Campus",
 image: "/poi-images/sweden-abb-vasteras-economic-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "ABB industrial research and manufacturing facility",
     image: "/poi-images/sweden-abb-vasteras-economic-v2.webp",
 },  {
     id: "sweden-saab-linkoping-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "Saab Luftfahrtzentrum Linköping", hu: "Saab repülési központ Linköping", ro: "Centrul aviatic Saab Linköping", en: "Saab Aeronautics Linköping",
 image: "/poi-images/sweden-saab-linkoping-economic-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Saab aerospace hangar with military aircraft",
     image: "/poi-images/sweden-saab-linkoping-economic-v2.webp",
 },  {
     id: "sweden-sandvik-sandviken-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "Sandvik Hauptwerk Sandviken", hu: "Sandvik központ Sandviken", ro: "Unitatea principală Sandvik Sandviken", en: "Sandvik Sandviken Works",
 image: "/poi-images/sweden-sandvik-sandviken-economic-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Sandvik industrial complex and steel manufacturing",
     image: "/poi-images/sweden-sandvik-sandviken-economic-v2.webp",
 },  {
     id: "sweden-aitik-mine-economic-v2",
+    parent: "SE",
     type: "mine",
     name: { de: "Aitik Kupfermine", hu: "Aitik rézbánya", ro: "Mina de cupru Aitik", en: "Aitik Copper Mine",
 image: "/poi-images/sweden-aitik-mine-economic-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Large open pit copper mine with massive trucks",
     image: "/poi-images/sweden-aitik-mine-economic-v2.webp",
 },  {
     id: "sweden-kista-science-city-economic-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "Kista Science City", hu: "Kista Science City", ro: "Kista Science City", en: "Kista Science City",
 image: "/poi-images/sweden-kista-science-city-economic-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Modern office buildings in Kista Science City Stockholm",
     image: "/poi-images/sweden-kista-science-city-economic-v2.webp",
 },  {
     id: "sweden-stenungsund-petrochemical-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "Chemiepark Stenungsund", hu: "Stenungsundi petrolkémiai központ", ro: "Centrul petrochimic Stenungsund", en: "Stenungsund Petrochemical Center",
 image: "/poi-images/sweden-stenungsund-petrochemical-economic-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
     image: "/poi-images/sweden-stenungsund-petrochemical-economic-v2.webp",
 },  {
     id: "sweden-ssab-oxelosund-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "SSAB Oxelösund", hu: "SSAB Oxelösund", ro: "SSAB Oxelösund", en: "SSAB Oxelösund",
 image: "/poi-images/sweden-ssab-oxelosund-economic-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Steel factory by the sea with shipping docks",
     image: "/poi-images/sweden-ssab-oxelosund-economic-v2.webp",
 },  {
     id: "sweden-forsmark-npp-economic-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "Kernkraftwerk Forsmark", hu: "Forsmarki atomerőmű", ro: "Centrala nucleară Forsmark", en: "Forsmark Nuclear Power Plant",
 image: "/poi-images/sweden-forsmark-npp-economic-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Forsmark nuclear power plant buildings by the coast",
     image: "/poi-images/sweden-forsmark-npp-economic-v2.webp",
 },  {
     id: "sweden-oskarshamn-npp-economic-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "Kernkraftwerk Oskarshamn", hu: "Oskarshamni atomerőmű", ro: "Centrala nucleară Oskarshamn", en: "Oskarshamn Nuclear Power Plant",
 image: "/poi-images/sweden-oskarshamn-npp-economic-v2.webp"
@@ -479,6 +493,7 @@ imageHint: "Oskarshamn nuclear facility Simpevarp",
     image: "/poi-images/sweden-oskarshamn-npp-economic-v2.webp",
 },  {
     id: "sweden-ringhals-npp-economic-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "Kernkraftwerk Ringhals", hu: "Ringhalsi atomerőmű", ro: "Centrala nucleară Ringhals", en: "Ringhals Nuclear Power Plant",
 image: "/poi-images/sweden-ringhals-npp-economic-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Ringhals nuclear plant at the Swedish west coast",
     image: "/poi-images/sweden-ringhals-npp-economic-v2.webp",
 },  {
     id: "sweden-harspranget-power-economic-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "Wasserkraftwerk Harsprånget", hu: "Harsprånget vízerőmű", ro: "Hidrocentrala Harsprånget", en: "Harsprånget Power Station",
 image: "/poi-images/sweden-harspranget-power-economic-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Large dam and hydroelectric power plant Harsprånget",
     image: "/poi-images/sweden-harspranget-power-economic-v2.webp",
 },  {
     id: "sweden-ikea-almhult-economic-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "IKEA-Zentrum Älmhult", hu: "IKEA központ Älmhult", ro: "Centrul IKEA Älmhult", en: "IKEA Älmhult Center",
 image: "/poi-images/sweden-ikea-almhult-economic-v2.webp"
@@ -581,6 +598,7 @@ image: "/poi-images/sweden-ikea-almhult-economic-v2.webp"
   },
   {
     id: "sweden-boras-textile-economic-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "Textilzentrum Borås", hu: "Boråsi textilipari központ", ro: "Centrul textil Borås", en: "Borås Textile Hub",
 image: "/poi-images/sweden-boras-textile-economic-v2.webp"
@@ -615,6 +633,7 @@ imageHint: "Modern textile and fashion center building Borås",
     image: "/poi-images/sweden-boras-textile-economic-v2.webp",
 },  {
     id: "sweden-karlskoga-bofors-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "Bofors Industriegebiet Karlskoga", hu: "Karlskoga Bofors ipari negyed", ro: "Zona industrială Bofors Karlskoga", en: "Karlskoga Bofors Industrial Area",
 image: "/poi-images/sweden-karlskoga-bofors-economic-v2.webp"
@@ -649,6 +668,7 @@ image: "/poi-images/sweden-karlskoga-bofors-economic-v2.webp"
   },
   {
     id: "sweden-molndal-life-science-economic-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "Life Science Cluster Mölndal", hu: "Mölndali élettudományi klaszter", ro: "Clusterul de Life Science Mölndal", en: "Mölndal Life Science Cluster",
 image: "/poi-images/sweden-molndal-life-science-economic-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Modern pharmaceutical research laboratory building",
     image: "/poi-images/sweden-molndal-life-science-economic-v2.webp",
 },  {
     id: "sweden-trollhattan-innovatum-economic-v2",
+    parent: "SE",
     type: "industry",
     name: { de: "Innovatum Science Park Trollhättan", hu: "Innovatum Science Park Trollhättan", ro: "Innovatum Science Park Trollhättan", en: "Innovatum Science Park Trollhättan",
 image: "/poi-images/sweden-trollhattan-innovatum-economic-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Industrial heritage buildings converted to science park",
     image: "/poi-images/sweden-trollhattan-innovatum-economic-v2.webp",
 },  {
     id: "sweden-ludvika-power-grid-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "Hitachi Energy Campus Ludvika", hu: "Hitachi Energy Ludvika kampusz", ro: "Campusul Hitachi Energy Ludvika", en: "Hitachi Energy Ludvika Campus",
 image: "/poi-images/sweden-ludvika-power-grid-economic-v2.webp"
@@ -751,6 +773,7 @@ image: "/poi-images/sweden-ludvika-power-grid-economic-v2.webp"
   },
   {
     id: "sweden-skutskar-mill-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "Zellstoffwerk Skutskär", hu: "Skutskäri cellulózgyár", ro: "Fabrica de celuloză Skutskär", en: "Skutskär Pulp Mill",
 image: "/poi-images/sweden-skutskar-mill-economic-v2.webp"
@@ -785,6 +808,7 @@ image: "/poi-images/sweden-skutskar-mill-economic-v2.webp"
   },
   {
     id: "sweden-monsteras-mill-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "Zellstoffwerk Mönsterås", hu: "Mönsteråsi cellulózgyár", ro: "Fabrica de celuloză Mönsterås", en: "Mönsterås Pulp Mill",
 image: "/poi-images/sweden-monsteras-mill-economic-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Large industrial pulp mill with wood storage",
     image: "/poi-images/sweden-monsteras-mill-economic-v2.webp",
 },  {
     id: "sweden-hallstavik-mill-economic-v2",
+    parent: "SE",
     type: "factory",
     name: { de: "Papierfabrik Hallsta", hu: "Hallsta papírgyár", ro: "Fabrica de hârtie Hallsta", en: "Hallsta Paper Mill",
 image: "/poi-images/sweden-hallstavik-mill-economic-v2.webp"
@@ -853,6 +878,7 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
     image: "/poi-images/sweden-hallstavik-mill-economic-v2.webp",
 },  {
     id: "sweden-gavle-port-economic-v2",
+    parent: "SE",
     type: "port",
     name: { de: "Hafen Gävle", hu: "Gävlei kikötő", ro: "Portul Gävle", en: "Port of Gävle",
 image: "/poi-images/sweden-gavle-port-economic-v2.webp"
@@ -887,6 +913,7 @@ image: "/poi-images/sweden-gavle-port-economic-v2.webp"
   },
   {
     id: "sweden-helsingborg-port-economic-v2",
+    parent: "SE",
     type: "port",
     name: { de: "Hafen Helsingborg", hu: "Helsingborgi kikötő", ro: "Portul Helsingborg", en: "Port of Helsingborg",
 image: "/poi-images/sweden-helsingborg-port-economic-v2.webp"
@@ -921,6 +948,7 @@ image: "/poi-images/sweden-helsingborg-port-economic-v2.webp"
   },
   {
     id: "sweden-trelleborg-port-economic-v2",
+    parent: "SE",
     type: "port",
     name: { de: "Hafen Trelleborg", hu: "Trelleborgi kikötő", ro: "Portul Trelleborg", en: "Port of Trelleborg",
 image: "/poi-images/sweden-trelleborg-port-economic-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Ferry terminal and trucks in Trelleborg port",
     image: "/poi-images/sweden-trelleborg-port-economic-v2.webp",
 },  {
     id: "sweden-malmo-harbor-economic-v2",
+    parent: "SE",
     type: "port",
     name: { de: "Industriehafen Malmö", hu: "Malmői ipari kikötő", ro: "Portul industrial Malmö", en: "Malmö Industrial Harbor",
 image: "/poi-images/sweden-malmo-harbor-economic-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Malmö harbor area with cars and cargo",
     image: "/poi-images/sweden-malmo-harbor-economic-v2.webp",
 },  {
     id: "sweden-svappavaara-mine-economic-v2",
+    parent: "SE",
     type: "mine",
     name: { de: "Eisenerzgrube Svappavaara", hu: "Svappavaarai vasércbánya", ro: "Mina de fier Svappavaara", en: "Svappavaara Iron Ore Mine",
 image: "/poi-images/sweden-svappavaara-mine-economic-v2.webp"

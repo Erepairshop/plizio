@@ -3,6 +3,7 @@ export const swedenLifeV2: POI[] = [
 
   {
     id: "sweden-sarek-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Sarek", hu: "Sarek Nemzeti Park", ro: "Parcul Național Sarek", en: "Sarek National Park",
 image: "/poi-images/sweden-sarek-national-park-life-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Sarek National Park rugged mountain peaks and glaciers",
     image: "/poi-images/sweden-sarek-national-park-life-v2.webp",
 },  {
     id: "sweden-padjelanta-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Padjelanta", hu: "Padjelanta Nemzeti Park", ro: "Parcul Național Padjelanta", en: "Padjelanta National Park",
 image: "/poi-images/sweden-padjelanta-national-park-life-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Padjelanta National Park vast plateau and lake Virihaure",
     image: "/poi-images/sweden-padjelanta-national-park-life-v2.webp",
 },  {
     id: "sweden-stora-sjofallet-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Stora Sjöfallet", hu: "Stora Sjöfallet Nemzeti Park", ro: "Parcul Național Stora Sjöfallet", en: "Stora Sjöfallet National Park",
 image: "/poi-images/sweden-stora-sjofallet-life-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Stora Sjöfallet National Park with Akka mountain massif",
     image: "/poi-images/sweden-stora-sjofallet-life-v2.webp",
 },  {
     id: "sweden-muddus-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Muddus", hu: "Muddus Nemzeti Park", ro: "Parcul Național Muddus", en: "Muddus National Park",
 image: "/poi-images/sweden-muddus-national-park-life-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Muddus National Park ancient forest and waterfall",
     image: "/poi-images/sweden-muddus-national-park-life-v2.webp",
 },  {
     id: "sweden-fulufjallet-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Fulufjället", hu: "Fulufjället Nemzeti Park", ro: "Parcul Național Fulufjället", en: "Fulufjället National Park",
 image: "/poi-images/sweden-fulufjallet-national-park-life-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Fulufjället National Park Njupeskär waterfall",
     image: "/poi-images/sweden-fulufjallet-national-park-life-v2.webp",
 },  {
     id: "sweden-skuleskogen-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Skuleskogen", hu: "Skuleskogen Nemzeti Park", ro: "Parcul Național Skuleskogen", en: "Skuleskogen National Park",
 image: "/poi-images/sweden-skuleskogen-national-park-life-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "Skuleskogen National Park Slåttdalsskrevan crevice",
     image: "/poi-images/sweden-skuleskogen-national-park-life-v2.webp",
 },  {
     id: "sweden-tyresta-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Tyresta", hu: "Tyresta Nemzeti Park", ro: "Parcul Național Tyresta", en: "Tyresta National Park",
 image: "/poi-images/sweden-tyresta-national-park-life-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Tyresta National Park old-growth forest trail",
     image: "/poi-images/sweden-tyresta-national-park-life-v2.webp",
 },  {
     id: "sweden-store-mosse-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Store Mosse", hu: "Store Mosse Nemzeti Park", ro: "Parcul Național Store Mosse", en: "Store Mosse National Park",
 image: "/poi-images/sweden-store-mosse-national-park-life-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Store Mosse National Park bog landscape with boardwalk",
     image: "/poi-images/sweden-store-mosse-national-park-life-v2.webp",
 },  {
     id: "sweden-stenshuvud-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Stenshuvud", hu: "Stenshuvud Nemzeti Park", ro: "Parcul Național Stenshuvud", en: "Stenshuvud National Park",
 image: "/poi-images/sweden-stenshuvud-national-park-life-v2.webp"
@@ -309,6 +318,7 @@ imageHint: "Stenshuvud National Park coastal hill and beach",
     image: "/poi-images/sweden-stenshuvud-national-park-life-v2.webp",
 },  {
     id: "sweden-kosterhavet-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Kosterhavet", hu: "Kosterhavet Nemzeti Park", ro: "Parcul Național Kosterhavet", en: "Kosterhavet National Park",
 image: "/poi-images/sweden-kosterhavet-life-v2.webp"
@@ -343,6 +353,7 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
     image: "/poi-images/sweden-kosterhavet-life-v2.webp",
 },  {
     id: "sweden-tiveden-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Tiveden", hu: "Tiveden Nemzeti Park", ro: "Parcul Național Tiveden", en: "Tiveden National Park",
 image: "/poi-images/sweden-tiveden-national-park-life-v2.webp"
@@ -377,6 +388,7 @@ imageHint: "Tiveden National Park mossy boulders and forest",
     image: "/poi-images/sweden-tiveden-national-park-life-v2.webp",
 },  {
     id: "sweden-nordens-ark-life-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Nordens Ark", hu: "Nordens Ark", ro: "Nordens Ark", en: "Nordens Ark",
 image: "/poi-images/sweden-nordens-ark-life-v2.webp"
@@ -411,6 +423,7 @@ imageHint: "Nordens Ark snow leopard in enclosure",
     image: "/poi-images/sweden-nordens-ark-life-v2.webp",
 },  {
     id: "sweden-kolmarden-wildlife-park-life-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Tierpark Kolmården", hu: "Kolmården Állatpark", ro: "Parcul Zoologic Kolmården", en: "Kolmården Wildlife Park",
 image: "/poi-images/sweden-kolmarden-wildlife-park-life-v2.webp"
@@ -445,6 +458,7 @@ imageHint: "Kolmården Wildlife Park safari gondola over animals",
     image: "/poi-images/sweden-kolmarden-wildlife-park-life-v2.webp",
 },  {
     id: "sweden-boras-zoo-life-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Tierpark Borås", hu: "Borås Állatkert", ro: "Grădina Zoologică Borås", en: "Borås Zoo",
 image: "/poi-images/sweden-boras-zoo-life-v2.webp"
@@ -479,6 +493,7 @@ image: "/poi-images/sweden-boras-zoo-life-v2.webp"
   },
   {
     id: "sweden-gothenburg-botanical-garden-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Botanischer Garten Göteborg", hu: "Göteborgi Botanikus Kert", ro: "Grădina Botanică din Göteborg", en: "Gothenburg Botanical Garden",
 image: "/poi-images/sweden-gothenburg-botanical-garden-life-v2.webp"
@@ -513,6 +528,7 @@ imageHint: "Gothenburg Botanical Garden flowers and pathways",
     image: "/poi-images/sweden-gothenburg-botanical-garden-life-v2.webp",
 },  {
     id: "sweden-bergius-botanical-garden-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Bergianscher Garten", hu: "Bergius Botanikus Kert", ro: "Grădina Botanică Bergius", en: "Bergius Botanical Garden",
 image: "/poi-images/sweden-bergius-botanical-garden-life-v2.webp"
@@ -547,6 +563,7 @@ imageHint: "Bergius Botanical Garden historic greenhouse",
     image: "/poi-images/sweden-bergius-botanical-garden-life-v2.webp",
 },  {
     id: "sweden-hornborgasjon-life-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Hornborgasjön", hu: "Hornborgasjön", ro: "Hornborgasjön", en: "Hornborgasjön",
 image: "/poi-images/sweden-hornborgasjon-life-v2.webp"
@@ -581,6 +598,7 @@ imageHint: "Hornborgasjön lake with thousands of cranes",
     image: "/poi-images/sweden-hornborgasjon-life-v2.webp",
 },  {
     id: "sweden-getteron-nature-reserve-life-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Naturschutzgebiet Getterön", hu: "Getterön Természetvédelmi Terület", ro: "Rezervația Naturală Getterön", en: "Getterön Nature Reserve",
 image: "/poi-images/sweden-getteron-nature-reserve-life-v2.webp"
@@ -615,6 +633,7 @@ image: "/poi-images/sweden-getteron-nature-reserve-life-v2.webp"
   },
   {
     id: "sweden-takern-life-v2",
+    parent: "SE",
     type: "lake",
     name: { de: "Tåkern", hu: "Tåkern", ro: "Tåkern", en: "Tåkern",
 image: "/poi-images/sweden-takern-life-v2.webp"
@@ -649,6 +668,7 @@ imageHint: "Tåkern lake with reeds and bird life",
     image: "/poi-images/sweden-takern-life-v2.webp",
 },  {
     id: "sweden-falsterbo-bird-observatory-life-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Vogelstation Falsterbo", hu: "Falsterbo Madárvárta", ro: "Observatorul de Păsări Falsterbo", en: "Falsterbo Bird Observatory",
 image: "/poi-images/sweden-falsterbo-bird-observatory-life-v2.webp"
@@ -683,6 +703,7 @@ imageHint: "Falsterbo lighthouse and migrating birds",
     image: "/poi-images/sweden-falsterbo-bird-observatory-life-v2.webp",
 },  {
     id: "sweden-eriksberg-wildlife-park-life-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Eriksberg Wild- und Naturpark", hu: "Eriksberg Vadaspark", ro: "Parcul de Animale Eriksberg", en: "Eriksberg Wildlife Park",
 image: "/poi-images/sweden-eriksberg-wildlife-park-life-v2.webp"
@@ -717,6 +738,7 @@ imageHint: "Eriksberg Wildlife Park bison in landscape",
     image: "/poi-images/sweden-eriksberg-wildlife-park-life-v2.webp",
 },  {
     id: "sweden-lycksele-zoo-life-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Tierpark Lycksele", hu: "Lycksele Állatkert", ro: "Grădina Zoologică Lycksele", en: "Lycksele Zoo",
 image: "/poi-images/sweden-lycksele-zoo-life-v2.webp"
@@ -751,6 +773,7 @@ image: "/poi-images/sweden-lycksele-zoo-life-v2.webp"
   },
   {
     id: "sweden-skanes-djurpark-life-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Skånes Tierpark", hu: "Skånes Állatpark", ro: "Parcul Zoologic Skånes", en: "Skånes Djurpark",
 image: "/poi-images/sweden-skanes-djurpark-life-v2.webp"
@@ -785,6 +808,7 @@ imageHint: "Skånes Djurpark moose in green enclosure",
     image: "/poi-images/sweden-skanes-djurpark-life-v2.webp",
 },  {
     id: "sweden-skansen-zoo-life-v2",
+    parent: "SE",
     type: "wildlife",
     name: { de: "Skansen Tierpark", hu: "Skansen Állatkert", ro: "Grădina Zoologică Skansen", en: "Skansen Zoo",
 image: "/poi-images/sweden-skansen-zoo-life-v2.webp"
@@ -819,6 +843,7 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
     image: "/poi-images/sweden-skansen-zoo-life-v2.webp",
 },  {
     id: "sweden-kullaberg-nature-reserve-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Naturschutzgebiet Kullaberg", hu: "Kullaberg Természetvédelmi Terület", ro: "Rezervația Naturală Kullaberg", en: "Kullaberg Nature Reserve",
 image: "/poi-images/sweden-kullaberg-nature-reserve-life-v2.webp"
@@ -853,6 +878,7 @@ image: "/poi-images/sweden-kullaberg-nature-reserve-life-v2.webp"
   },
   {
     id: "sweden-soderasen-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Söderåsen", hu: "Söderåsen Nemzeti Park", ro: "Parcul Național Söderåsen", en: "Söderåsen National Park",
 image: "/poi-images/sweden-soderasen-national-park-life-v2.webp"
@@ -887,6 +913,7 @@ imageHint: "Söderåsen National Park autumn beech forest",
     image: "/poi-images/sweden-soderasen-national-park-life-v2.webp",
 },  {
     id: "sweden-gotska-sandon-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Gotska Sandön", hu: "Gotska Sandön Nemzeti Park", ro: "Parcul Național Gotska Sandön", en: "Gotska Sandön National Park",
 image: "/poi-images/sweden-gotska-sandon-national-park-life-v2.webp"
@@ -921,6 +948,7 @@ imageHint: "Gotska Sandön National Park sand dunes and pines",
     image: "/poi-images/sweden-gotska-sandon-national-park-life-v2.webp",
 },  {
     id: "sweden-bjornlandet-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Björnlandet", hu: "Björnlandet Nemzeti Park", ro: "Parcul Național Björnlandet", en: "Björnlandet National Park",
 image: "/poi-images/sweden-bjornlandet-national-park-life-v2.webp"
@@ -955,6 +983,7 @@ imageHint: "Björnlandet National Park old pine forest",
     image: "/poi-images/sweden-bjornlandet-national-park-life-v2.webp",
 },  {
     id: "sweden-sonfjallet-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Sonfjället", hu: "Sonfjället Nemzeti Park", ro: "Parcul Național Sonfjället", en: "Sonfjället National Park",
 image: "/poi-images/sweden-sonfjallet-national-park-life-v2.webp"
@@ -989,6 +1018,7 @@ imageHint: "Sonfjället National Park mountain silhouette",
     image: "/poi-images/sweden-sonfjallet-national-park-life-v2.webp",
 },  {
     id: "sweden-hamra-national-park-life-v2",
+    parent: "SE",
     type: "park",
     name: { de: "Nationalpark Hamra", hu: "Hamra Nemzeti Park", ro: "Parcul Național Hamra", en: "Hamra National Park",
 image: "/poi-images/sweden-hamra-national-park-life-v2.webp"

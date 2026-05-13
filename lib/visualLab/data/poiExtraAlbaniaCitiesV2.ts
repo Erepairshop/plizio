@@ -3,6 +3,7 @@ export const albaniaCitiesV2: POI[] = [
 
   {
     id: "albania-elbasan-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Elbasan", hu: "Elbasan", ro: "Elbasan", en: "Elbasan",
 image: "/poi-images/albania-elbasan-cities-v2.webp"
@@ -37,6 +38,7 @@ imageHint: "Elbasan fortress walls and clock tower",
     image: "/poi-images/albania-elbasan-cities-v2.webp",
 },  {
     id: "albania-kamez-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Kamëz", hu: "Kamëz", ro: "Kamëz", en: "Kamëz",
 image: "/poi-images/albania-kamez-cities-v2.webp"
@@ -71,6 +73,7 @@ imageHint: "Kamëz city center and boulevard",
     image: "/poi-images/albania-kamez-cities-v2.webp",
 },  {
     id: "albania-lushnje-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Lushnjë", hu: "Lushnjë", ro: "Lushnjë", en: "Lushnjë",
 image: "/poi-images/albania-lushnje-cities-v2.webp"
@@ -105,6 +108,7 @@ imageHint: "Lushnjë city center and memorial",
     image: "/poi-images/albania-lushnje-cities-v2.webp",
 },  {
     id: "albania-pogradec-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Pogradec", hu: "Pogradec", ro: "Pogradec", en: "Pogradec",
 image: "/poi-images/albania-pogradec-cities-v2.webp"
@@ -139,6 +143,7 @@ imageHint: "Pogradec lakeside promenade at sunset",
     image: "/poi-images/albania-pogradec-cities-v2.webp",
 },  {
     id: "albania-kavaje-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Kavajë", hu: "Kavajë", ro: "Kavajë", en: "Kavajë",
 image: "/poi-images/albania-kavaje-cities-v2.webp"
@@ -173,6 +178,7 @@ imageHint: "Kavajë clock tower and mosque",
     image: "/poi-images/albania-kavaje-cities-v2.webp",
 },  {
     id: "albania-lac-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Laç", hu: "Laç", ro: "Laç", en: "Laç",
 image: "/poi-images/albania-lac-cities-v2.webp"
@@ -207,6 +213,7 @@ imageHint: "St. Anthony Church on the hill above Laç",
     image: "/poi-images/albania-lac-cities-v2.webp",
 },  {
     id: "albania-lezhe-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Lezhë", hu: "Lezhë", ro: "Lezhë", en: "Lezhë",
 image: "/poi-images/albania-lezhe-cities-v2.webp"
@@ -241,6 +248,7 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
     image: "/poi-images/albania-lezhe-cities-v2.webp",
 },  {
     id: "albania-kruje-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Krujë", hu: "Krujë", ro: "Krujë", en: "Krujë",
 image: "/poi-images/albania-kruje-cities-v2.webp"
@@ -275,6 +283,7 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-kruje-cities-v2.webp",
 },  {
     id: "albania-patos-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Patos", hu: "Patos", ro: "Patos", en: "Patos",
 image: "/poi-images/albania-patos-cities-v2.webp"
@@ -297,6 +306,7 @@ image: "/poi-images/albania-patos-cities-v2.webp"
     image: "/poi-images/albania-patos-cities-v2.webp"},
   {
     id: "albania-kucove-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Kuçovë", hu: "Kuçovë", ro: "Kuçovë", en: "Kuçovë",
 image: "/poi-images/albania-kucove-cities-v2.webp"
@@ -319,6 +329,7 @@ image: "/poi-images/albania-kucove-cities-v2.webp"
     image: "/poi-images/albania-kucove-cities-v2.webp"},
   {
     id: "albania-kukes-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Kukës", hu: "Kukës", ro: "Kukës", en: "Kukës",
 image: "/poi-images/albania-kukes-cities-v2.webp"
@@ -341,6 +352,7 @@ image: "/poi-images/albania-kukes-cities-v2.webp"
     image: "/poi-images/albania-kukes-cities-v2.webp"},
   {
     id: "albania-peshkopi-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Peshkopi", hu: "Peshkopi", ro: "Peshkopi", en: "Peshkopi",
 image: "/poi-images/albania-peshkopi-cities-v2.webp"
@@ -363,6 +375,7 @@ image: "/poi-images/albania-peshkopi-cities-v2.webp"
     image: "/poi-images/albania-peshkopi-cities-v2.webp"},
   {
     id: "albania-burrel-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Burrel", hu: "Burrel", ro: "Burrel", en: "Burrel",
 image: "/poi-images/albania-burrel-cities-v2.webp"
@@ -385,6 +398,7 @@ image: "/poi-images/albania-burrel-cities-v2.webp"
     image: "/poi-images/albania-burrel-cities-v2.webp"},
   {
     id: "albania-cerrik-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Cërrik", hu: "Cërrik", ro: "Cërrik", en: "Cërrik",
 image: "/poi-images/albania-cerrik-cities-v2.webp"
@@ -407,6 +421,7 @@ image: "/poi-images/albania-cerrik-cities-v2.webp"
     image: "/poi-images/albania-cerrik-cities-v2.webp"},
   {
     id: "albania-shijak-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Shijak", hu: "Shijak", ro: "Shijak", en: "Shijak",
 image: "/poi-images/albania-shijak-cities-v2.webp"
@@ -429,6 +444,7 @@ image: "/poi-images/albania-shijak-cities-v2.webp"
     image: "/poi-images/albania-shijak-cities-v2.webp"},
   {
     id: "albania-corovode-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Çorovodë", hu: "Çorovodë", ro: "Çorovodë", en: "Çorovodë",
 image: "/poi-images/albania-corovode-cities-v2.webp"
@@ -451,6 +467,7 @@ image: "/poi-images/albania-corovode-cities-v2.webp"
     image: "/poi-images/albania-corovode-cities-v2.webp"},
   {
     id: "albania-librazhd-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Librazhd", hu: "Librazhd", ro: "Librazhd", en: "Librazhd",
 image: "/poi-images/albania-librazhd-cities-v2.webp"
@@ -473,6 +490,7 @@ image: "/poi-images/albania-librazhd-cities-v2.webp"
     image: "/poi-images/albania-librazhd-cities-v2.webp"},
   {
     id: "albania-tepelene-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Tepelenë", hu: "Tepelenë", ro: "Tepelenë", en: "Tepelenë",
 image: "/poi-images/albania-tepelene-cities-v2.webp"
@@ -495,6 +513,7 @@ image: "/poi-images/albania-tepelene-cities-v2.webp"
     image: "/poi-images/albania-tepelene-cities-v2.webp"},
   {
     id: "albania-gramsh-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Gramsh", hu: "Gramsh", ro: "Gramsh", en: "Gramsh",
 image: "/poi-images/albania-gramsh-cities-v2.webp"
@@ -517,6 +536,7 @@ image: "/poi-images/albania-gramsh-cities-v2.webp"
     image: "/poi-images/albania-gramsh-cities-v2.webp"},
   {
     id: "albania-permet-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Përmet", hu: "Përmet", ro: "Përmet", en: "Përmet",
 image: "/poi-images/albania-permet-cities-v2.webp"
@@ -539,6 +559,7 @@ image: "/poi-images/albania-permet-cities-v2.webp"
     image: "/poi-images/albania-permet-cities-v2.webp"},
   {
     id: "albania-ballsh-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Ballsh", hu: "Ballsh", ro: "Ballsh", en: "Ballsh",
 image: "/poi-images/albania-ballsh-cities-v2.webp"
@@ -561,6 +582,7 @@ image: "/poi-images/albania-ballsh-cities-v2.webp"
     image: "/poi-images/albania-ballsh-cities-v2.webp"},
   {
     id: "albania-fushe-kruje-cities-v2",
+    parent: "AL",
     type: "town",
     name: { de: "Fushë-Krujë", hu: "Fushë-Krujë", ro: "Fushë-Krujë", en: "Fushë-Krujë",
 image: "/poi-images/albania-fushe-kruje-cities-v2.webp"
@@ -583,6 +605,7 @@ image: "/poi-images/albania-fushe-kruje-cities-v2.webp"
     image: "/poi-images/albania-fushe-kruje-cities-v2.webp"},
   {
     id: "albania-rreshen-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Rrëshen", hu: "Rrëshen", ro: "Rrëshen", en: "Rrëshen",
 image: "/poi-images/albania-rreshen-cities-v2.webp"
@@ -605,6 +628,7 @@ image: "/poi-images/albania-rreshen-cities-v2.webp"
     image: "/poi-images/albania-rreshen-cities-v2.webp"},
   {
     id: "albania-puke-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Pukë", hu: "Pukë", ro: "Pukë", en: "Pukë",
 image: "/poi-images/albania-puke-cities-v2.webp"
@@ -627,6 +651,7 @@ image: "/poi-images/albania-puke-cities-v2.webp"
     image: "/poi-images/albania-puke-cities-v2.webp"},
   {
     id: "albania-koplik-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Koplik", hu: "Koplik", ro: "Koplik", en: "Koplik",
 image: "/poi-images/albania-koplik-cities-v2.webp"
@@ -649,6 +674,7 @@ image: "/poi-images/albania-koplik-cities-v2.webp"
   },
   {
     id: "albania-memaliaj-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Memaliaj", hu: "Memaliaj", ro: "Memaliaj", en: "Memaliaj",
 image: "/poi-images/albania-memaliaj-cities-v2.webp"
@@ -671,6 +697,7 @@ image: "/poi-images/albania-memaliaj-cities-v2.webp"
     image: "/poi-images/albania-memaliaj-cities-v2.webp"},
   {
     id: "albania-erseke-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Ersekë", hu: "Ersekë", ro: "Ersekë", en: "Ersekë",
 image: "/poi-images/albania-erseke-cities-v2.webp"
@@ -693,6 +720,7 @@ image: "/poi-images/albania-erseke-cities-v2.webp"
     image: "/poi-images/albania-erseke-cities-v2.webp"},
   {
     id: "albania-bajram-curri-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Bajram Curri", hu: "Bajram Curri", ro: "Bajram Curri", en: "Bajram Curri",
 image: "/poi-images/albania-bajram-curri-cities-v2.webp"
@@ -715,6 +743,7 @@ image: "/poi-images/albania-bajram-curri-cities-v2.webp"
     image: "/poi-images/albania-bajram-curri-cities-v2.webp"},
   {
     id: "albania-selenice-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Selenicë", hu: "Selenicë", ro: "Selenicë", en: "Selenicë",
 image: "/poi-images/albania-selenice-cities-v2.webp"
@@ -737,6 +766,7 @@ image: "/poi-images/albania-selenice-cities-v2.webp"
     image: "/poi-images/albania-selenice-cities-v2.webp"},
   {
     id: "albania-bilisht-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Bilisht", hu: "Bilisht", ro: "Bilisht", en: "Bilisht",
 image: "/poi-images/albania-bilisht-cities-v2.webp"
@@ -759,6 +789,7 @@ image: "/poi-images/albania-bilisht-cities-v2.webp"
     image: "/poi-images/albania-bilisht-cities-v2.webp"},
   {
     id: "albania-roskovec-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Roskovec", hu: "Roskovec", ro: "Roskovec", en: "Roskovec",
 image: "/poi-images/albania-roskovec-cities-v2.webp"
@@ -781,6 +812,7 @@ image: "/poi-images/albania-roskovec-cities-v2.webp"
     image: "/poi-images/albania-roskovec-cities-v2.webp"},
   {
     id: "albania-peqin-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Peqin", hu: "Peqin", ro: "Peqin", en: "Peqin",
 image: "/poi-images/albania-peqin-cities-v2.webp"
@@ -803,6 +835,7 @@ image: "/poi-images/albania-peqin-cities-v2.webp"
     image: "/poi-images/albania-peqin-cities-v2.webp"},
   {
     id: "albania-krume-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Krumë", hu: "Krumë", ro: "Krumë", en: "Krumë",
 image: "/poi-images/albania-krume-cities-v2.webp"
@@ -825,6 +858,7 @@ image: "/poi-images/albania-krume-cities-v2.webp"
     image: "/poi-images/albania-krume-cities-v2.webp"},
   {
     id: "albania-libohove-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Libohovë", hu: "Libohovë", ro: "Libohovë", en: "Libohovë",
 image: "/poi-images/albania-libohove-cities-v2.webp"
@@ -847,6 +881,7 @@ image: "/poi-images/albania-libohove-cities-v2.webp"
     image: "/poi-images/albania-libohove-cities-v2.webp"},
   {
     id: "albania-vore-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Vorë", hu: "Vorë", ro: "Vorë", en: "Vorë",
 image: "/poi-images/albania-vore-cities-v2.webp"
@@ -869,6 +904,7 @@ image: "/poi-images/albania-vore-cities-v2.webp"
     image: "/poi-images/albania-vore-cities-v2.webp"},
   {
     id: "albania-himare-cities-v2",
+    parent: "AL",
     type: "town",
     name: { de: "Himarë", hu: "Himarë", ro: "Himarë", en: "Himarë",
 image: "/poi-images/albania-himare-cities-v2.webp"
@@ -891,6 +927,7 @@ image: "/poi-images/albania-himare-cities-v2.webp"
     image: "/poi-images/albania-himare-cities-v2.webp"},
   {
     id: "albania-delvine-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Delvinë", hu: "Delvinë", ro: "Delvinë", en: "Delvinë",
 image: "/poi-images/albania-delvine-cities-v2.webp"
@@ -913,6 +950,7 @@ image: "/poi-images/albania-delvine-cities-v2.webp"
     image: "/poi-images/albania-delvine-cities-v2.webp"},
   {
     id: "albania-orikum-cities-v2",
+    parent: "AL",
     type: "town",
     name: { de: "Orikum", hu: "Orikum", ro: "Orikum", en: "Orikum",
 image: "/poi-images/albania-orikum-cities-v2.webp"
@@ -935,6 +973,7 @@ image: "/poi-images/albania-orikum-cities-v2.webp"
     image: "/poi-images/albania-orikum-cities-v2.webp"},
   {
     id: "albania-polican-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Poliçan", hu: "Poliçan", ro: "Poliçan", en: "Poliçan",
 image: "/poi-images/albania-polican-cities-v2.webp"
@@ -957,6 +996,7 @@ image: "/poi-images/albania-polican-cities-v2.webp"
     image: "/poi-images/albania-polican-cities-v2.webp"},
   {
     id: "albania-shengjin-cities-v2",
+    parent: "AL",
     type: "port",
     name: { de: "Shëngjin", hu: "Shëngjin", ro: "Shëngjin", en: "Shëngjin",
 image: "/poi-images/albania-shengjin-cities-v2.webp"
@@ -979,6 +1019,7 @@ image: "/poi-images/albania-shengjin-cities-v2.webp"
     image: "/poi-images/albania-shengjin-cities-v2.webp"},
   {
     id: "albania-rubik-cities-v2",
+    parent: "AL",
     type: "town",
     name: { de: "Rubik", hu: "Rubik", ro: "Rubik", en: "Rubik",
 image: "/poi-images/albania-rubik-cities-v2.webp"
@@ -1001,6 +1042,7 @@ image: "/poi-images/albania-rubik-cities-v2.webp"
     image: "/poi-images/albania-rubik-cities-v2.webp"},
   {
     id: "albania-kelcyre-cities-v2",
+    parent: "AL",
     type: "town",
     name: { de: "Këlcyrë", hu: "Këlcyrë", ro: "Këlcyrë", en: "Këlcyrë",
 image: "/poi-images/albania-kelcyre-cities-v2.webp"
@@ -1023,6 +1065,7 @@ image: "/poi-images/albania-kelcyre-cities-v2.webp"
     image: "/poi-images/albania-kelcyre-cities-v2.webp"},
   {
     id: "albania-maliq-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Maliq", hu: "Maliq", ro: "Maliq", en: "Maliq",
 image: "/poi-images/albania-maliq-cities-v2.webp"
@@ -1045,6 +1088,7 @@ image: "/poi-images/albania-maliq-cities-v2.webp"
     image: "/poi-images/albania-maliq-cities-v2.webp"},
   {
     id: "albania-prrenjas-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Prrenjas", hu: "Prrenjas", ro: "Prrenjas", en: "Prrenjas",
 image: "/poi-images/albania-prrenjas-cities-v2.webp"
@@ -1067,6 +1111,7 @@ image: "/poi-images/albania-prrenjas-cities-v2.webp"
     image: "/poi-images/albania-prrenjas-cities-v2.webp"},
   {
     id: "albania-sukth-cities-v2",
+    parent: "AL",
     type: "town",
     name: { de: "Sukth", hu: "Sukth", ro: "Sukth", en: "Sukth",
 image: "/poi-images/albania-sukth-cities-v2.webp"
@@ -1089,6 +1134,7 @@ image: "/poi-images/albania-sukth-cities-v2.webp"
     image: "/poi-images/albania-sukth-cities-v2.webp"},
   {
     id: "albania-mamurras-cities-v2",
+    parent: "AL",
     type: "town",
     name: { de: "Mamurras", hu: "Mamurras", ro: "Mamurras", en: "Mamurras",
 image: "/poi-images/albania-mamurras-cities-v2.webp"
@@ -1111,6 +1157,7 @@ image: "/poi-images/albania-mamurras-cities-v2.webp"
     image: "/poi-images/albania-mamurras-cities-v2.webp"},
   {
     id: "albania-bulqize-cities-v2",
+    parent: "AL",
     type: "city",
     name: { de: "Bulqizë", hu: "Bulqizë", ro: "Bulqizë", en: "Bulqizë",
 image: "/poi-images/albania-bulqize-cities-v2.webp"
@@ -1133,6 +1180,7 @@ image: "/poi-images/albania-bulqize-cities-v2.webp"
     image: "/poi-images/albania-bulqize-cities-v2.webp"},
   {
     id: "albania-divjake-cities-v2",
+    parent: "AL",
     type: "town",
     name: { de: "Divjakë", hu: "Divjakë", ro: "Divjakë", en: "Divjakë",
 image: "/poi-images/albania-divjake-cities-v2.webp"
@@ -1155,6 +1203,7 @@ image: "/poi-images/albania-divjake-cities-v2.webp"
     image: "/poi-images/albania-divjake-cities-v2.webp"},
   {
     id: "albania-belsh-cities-v2",
+    parent: "AL",
     type: "town",
     name: { de: "Belsh", hu: "Belsh", ro: "Belsh", en: "Belsh",
 image: "/poi-images/albania-belsh-cities-v2.webp"
@@ -1177,6 +1226,7 @@ image: "/poi-images/albania-belsh-cities-v2.webp"
     image: "/poi-images/albania-belsh-cities-v2.webp"},
   {
     id: "albania-konispol-cities-v2",
+    parent: "AL",
     type: "town",
     name: { de: "Konispol", hu: "Konispol", ro: "Konispol", en: "Konispol",
 image: "/poi-images/albania-konispol-cities-v2.webp"
