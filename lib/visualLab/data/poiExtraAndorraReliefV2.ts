@@ -6,7 +6,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Tristaina", hu: "Pic de Tristaina", ro: "Pic de Tristaina", en: "Pic de Tristaina" },
-    coordinates: { lat: 42.6375, lng: 1.4703 },
+    coords: [1.4703, 42.6375],
     description: {
       de: "Der Pic de Tristaina ist ein 2.878 Meter hoher Gipfel an der Grenze zwischen Andorra und Frankreich. Er ist ein markanter Bestandteil der östlichen Pyrenäen-Kette.",
       hu: "A Pic de Tristaina egy 2878 méter magas hegycsúcs Andorra és Franciaország határán. A keleti Pireneusok hegyláncának jelentős része.",
@@ -38,7 +38,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de la Creveta", hu: "Pic de la Creveta", ro: "Pic de la Creveta", en: "Pic de la Creveta" },
-    coordinates: { lat: 42.5322, lng: 1.7136 },
+    coords: [1.7136, 42.5322],
     description: {
       de: "Der Pic de la Creveta erreicht eine Höhe von 2.656 Metern in der Region Encamp. Der Gipfel bietet einen weiten Blick über die umliegenden Täler.",
       hu: "A Pic de la Creveta 2656 méteres magasságot ér el Encamp régióban. A csúcs széles kilátást nyújt a környező völgyekre.",
@@ -70,7 +70,7 @@ export const andorraReliefV2: POI[] = [
     type: "mountain",
     parent: "AD",
     name: { de: "Serra de l'Obaga", hu: "Serra de l'Obaga", ro: "Serra de l'Obaga", en: "Serra de l'Obaga" },
-    coordinates: { lat: 42.5447, lng: 1.6256 },
+    coords: [1.6256, 42.5447],
     description: {
       de: "Die Serra de l'Obaga ist ein langgezogener Bergrücken in den zentralen Pyrenäen Andorras. Das Gebiet ist durch steile Hänge geprägt.",
       hu: "A Serra de l'Obaga egy elnyúló hegyhát Andorra központi Pireneusaiban. A területet meredek lejtők jellemzik.",
@@ -102,7 +102,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Bastenies", hu: "Pic de Bastenies", ro: "Pic de Bastenies", en: "Pic de Bastenies" },
-    coordinates: { lat: 42.6108, lng: 1.5472 },
+    coords: [1.5472, 42.6108],
     description: {
       de: "Der Pic de Bastenies liegt im Nordwesten Andorras und erreicht 2.628 Meter. Er ist Teil eines komplexen Systems aus Tälern und Kämmen.",
       hu: "A Pic de Bastenies Andorra északnyugati részén található, 2628 méter magas. Egy összetett völgy- és hegyhátrendszer része.",
@@ -134,7 +134,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de la Font Negra", hu: "Pic de la Font Negra", ro: "Pic de la Font Negra", en: "Pic de la Font Negra" },
-    coordinates: { lat: 42.5186, lng: 1.7425 },
+    coords: [1.7425, 42.5186],
     description: {
       de: "Dieser Gipfel erhebt sich nahe der französischen Grenze auf 2.668 Meter. Er bietet eine weite Aussicht auf das Valira-Tal-System.",
       hu: "Ez a csúcs a francia határ közelében emelkedik 2668 méter magasra. Széles kilátást nyújt a Valira-völgy rendszerére.",
@@ -166,7 +166,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Cataperdis", hu: "Pic de Cataperdis", ro: "Pic de Cataperdis", en: "Pic de Cataperdis" },
-    coordinates: { lat: 42.6164, lng: 1.4881 },
+    coords: [1.4881, 42.6164],
     description: {
       de: "Der 2.805 Meter hohe Pic de Cataperdis gehört zur Bergkette von Tristaina. Die Region ist für ihre ausgeprägte glaziale Geologie bekannt.",
       hu: "A 2805 méter magas Pic de Cataperdis a Tristaina-hegyvonulathoz tartozik. A régió híres jellegzetes glaciális geológiájáról.",
@@ -198,7 +198,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic d'Arcalís", hu: "Pic d'Arcalís", ro: "Pic d'Arcalís", en: "Pic d'Arcalís" },
-    coordinates: { lat: 42.6289, lng: 1.4914 },
+    coords: [1.4914, 42.6289],
     description: {
       de: "Der Pic d'Arcalís erreicht eine Höhe von 2.776 Metern. Er liegt zentral im Skigebiet Ordino-Arcalís und ist ein bedeutendes Reliefmerkmal.",
       hu: "A Pic d'Arcalís 2776 méteres magasságot ér el. Központilag az Ordino-Arcalís síközpontban található, és jelentős domborzati jellemző.",
@@ -230,7 +230,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Serra Secca", hu: "Pic de Serra Secca", ro: "Pic de Serra Secca", en: "Pic de Serra Secca" },
-    coordinates: { lat: 42.5692, lng: 1.5583 },
+    coords: [1.5583, 42.5692],
     description: {
       de: "Der Pic de Serra Secca ist ein 2.730 Meter hoher Berg nahe der Grenze zu Spanien. Er dominiert die Berglandschaft der Gemeinde La Massana.",
       hu: "A Pic de Serra Secca egy 2730 méter magas hegy a spanyol határ közelében. Uralja a La Massana község hegyi táját.",
@@ -262,7 +262,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de la Mina", hu: "Pic de la Mina", ro: "Pic de la Mina", en: "Pic de la Mina" },
-    coordinates: { lat: 42.5075, lng: 1.7011 },
+    coords: [1.7011, 42.5075],
     description: {
       de: "Der Pic de la Mina ist ein 2.650 Meter hoher Gipfel in der Region Encamp. Das Gelände ist bekannt für seine steinigen Nordhänge.",
       hu: "A Pic de la Mina egy 2650 méter magas csúcs Encamp régióban. A terep ismert köves északi lejtőiről.",
@@ -294,7 +294,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Salòria", hu: "Pic de Salòria", ro: "Pic de Salòria", en: "Pic de Salòria" },
-    coordinates: { lat: 42.4828, lng: 1.4389 },
+    coords: [1.4389, 42.4828],
     description: {
       de: "Mit 2.789 Metern ist der Pic de Salòria einer der höchsten Berge im Südwesten Andorras. Er markiert die Grenze zwischen Andorra und Spanien.",
       hu: "2789 méterével a Pic de Salòria az egyik legmagasabb hegy Andorra délnyugati részén. Andorra és Spanyolország határát jelöli.",
@@ -326,7 +326,7 @@ export const andorraReliefV2: POI[] = [
     type: "mountain",
     parent: "AD",
     name: { de: "Serra de Ensagents", hu: "Serra de Ensagents", ro: "Serra de Ensagents", en: "Serra de Ensagents" },
-    coordinates: { lat: 42.5489, lng: 1.6664 },
+    coords: [1.6664, 42.5489],
     description: {
       de: "Die Serra de Ensagents ist ein markanter Gebirgskamm in der Gemeinde Encamp. Das Gebiet umfasst mehrere Seen und alpine Becken.",
       hu: "A Serra de Ensagents egy markáns hegygerinc Encamp községben. A terület több tavat és alpesi medencét foglal magában.",
@@ -358,7 +358,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de les Broues", hu: "Pic de les Broues", ro: "Pic de les Broues", en: "Pic de les Broues" },
-    coordinates: { lat: 42.5256, lng: 1.7333 },
+    coords: [1.7333, 42.5256],
     description: {
       de: "Der Pic de les Broues ist ein 2.605 Meter hoher Gipfel im Osten Andorras. Er ist Teil des weitläufigen Massivs von Pas de la Casa.",
       hu: "A Pic de les Broues egy 2605 méter magas csúcs Andorra keleti részén. A Pas de la Casa kiterjedt masszívumának része.",
@@ -390,7 +390,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Racó Gaudre", hu: "Pic de Racó Gaudre", ro: "Pic de Racó Gaudre", en: "Pic de Racó Gaudre" },
-    coordinates: { lat: 42.5775, lng: 1.6967 },
+    coords: [1.6967, 42.5775],
     description: {
       de: "Der Pic de Racó Gaudre liegt auf 2.610 Metern Höhe und bietet ein zerklüftetes Bergpanorama. Er befindet sich im Gemeindegebiet von Encamp.",
       hu: "A Pic de Racó Gaudre 2610 méter magasan fekszik, és zord hegyi panorámát kínál. Encamp község területén található.",
@@ -422,7 +422,7 @@ export const andorraReliefV2: POI[] = [
     type: "mountain",
     parent: "AD",
     name: { de: "Serra de l'Estanyo", hu: "Serra de l'Estanyo", ro: "Serra de l'Estanyo", en: "Serra de l'Estanyo" },
-    coordinates: { lat: 42.6017, lng: 1.5839 },
+    coords: [1.5839, 42.6017],
     description: {
       de: "Die Serra de l'Estanyo ist ein Gebirgsrücken, der den Pic de l'Estanyo mit den umliegenden Massiven verbindet. Er bietet weite Hochflächen.",
       hu: "A Serra de l'Estanyo egy hegygerinc, amely összeköti a Pic de l'Estanyo-t a környező masszívumokkal. Széles fennsíkokat kínál.",
@@ -454,7 +454,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic d'Aixeus", hu: "Pic d'Aixeus", ro: "Pic d'Aixeus", en: "Pic d'Aixeus" },
-    coordinates: { lat: 42.5108, lng: 1.5161 },
+    coords: [1.5161, 42.5108],
     description: {
       de: "Der Pic d'Aixeus ist ein 2.227 Meter hoher Berg im Süden Andorras. Er ist ein markanter Aussichtspunkt über das Tal von Sant Julià de Lòria.",
       hu: "A Pic d'Aixeus egy 2227 méter magas hegy Andorra déli részén. Jellegzetes kilátópont Sant Julià de Lòria völgye felett.",
@@ -486,7 +486,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Comaloforno", hu: "Pic de Comaloforno", ro: "Pic de Comaloforno", en: "Pic de Comaloforno" },
-    coordinates: { lat: 42.5358, lng: 1.4883 },
+    coords: [1.4883, 42.5358],
     description: {
       de: "Dieser Gipfel erreicht 2.650 Meter und ist für seine anspruchsvollen Gratverbindungen bekannt. Er liegt im Bereich der Gemeinde La Massana.",
       hu: "Ez a csúcs eléri a 2650 métert, és híres az igényes gerincösszeköttetéseiről. La Massana község területén található.",
@@ -518,7 +518,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Tor", hu: "Pic de Tor", ro: "Pic de Tor", en: "Pic de Tor" },
-    coordinates: { lat: 42.5708, lng: 1.4653 },
+    coords: [1.4653, 42.5708],
     description: {
       de: "Der Pic de Tor erhebt sich an der Grenze zu Spanien auf 2.690 Meter. Die Gipfelregion ist durch ihre abgelegene Lage geprägt.",
       hu: "A Pic de Tor a spanyol határ mentén emelkedik 2690 méter magasra. A csúcsrégiót távoli elhelyezkedése jellemzi.",
@@ -550,7 +550,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de la Canal de Riba", hu: "Pic de la Canal de Riba", ro: "Pic de la Canal de Riba", en: "Pic de la Canal de Riba" },
-    coordinates: { lat: 42.5975, lng: 1.5439 },
+    coords: [1.5439, 42.5975],
     description: {
       de: "Der Pic de la Canal de Riba ist ein markanter Gipfel in Ordino mit einer Höhe von 2.645 Metern. Er ist Teil eines komplexen Reliefs.",
       hu: "A Pic de la Canal de Riba egy jellegzetes csúcs Ordinóban, 2645 méteres magassággal. Egy összetett domborzat része.",
@@ -582,7 +582,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de la Sella", hu: "Pic de la Sella", ro: "Pic de la Sella", en: "Pic de la Sella" },
-    coordinates: { lat: 42.5208, lng: 1.6883 },
+    coords: [1.6883, 42.5208],
     description: {
       de: "Dieser Gipfel erreicht 2.590 Meter und liegt in der Nähe von Encamp. Er bietet einen guten Überblick über die östliche Bergregion.",
       hu: "Ez a csúcs eléri a 2590 métert, és Encamp közelében fekszik. Jó áttekintést nyújt a keleti hegyvidékről.",
@@ -614,7 +614,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de les Pedrusques", hu: "Pic de les Pedrusques", ro: "Pic de les Pedrusques", en: "Pic de les Pedrusques" },
-    coordinates: { lat: 42.5317, lng: 1.7083 },
+    coords: [1.7083, 42.5317],
     description: {
       de: "Der Pic de les Pedrusques ist ein 2.618 Meter hoher Berg. Er ist bekannt für seine steinige und raue Oberfläche.",
       hu: "A Pic de les Pedrusques egy 2618 méter magas hegy. Ismert köves és érdes felszínéről.",
@@ -646,7 +646,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de la Capa", hu: "Pic de la Capa", ro: "Pic de la Capa", en: "Pic de la Capa" },
-    coordinates: { lat: 42.5925, lng: 1.4925 },
+    coords: [1.4925, 42.5925],
     description: {
       de: "Der Pic de la Capa erreicht 2.572 Meter. Er liegt im Nordwesten Andorras und bietet eine typische Hochgebirgslandschaft.",
       hu: "A Pic de la Capa eléri a 2572 métert. Andorra északnyugati részén található, tipikus magashegyi tájat kínál.",
@@ -678,7 +678,7 @@ export const andorraReliefV2: POI[] = [
     type: "mountain",
     parent: "AD",
     name: { de: "Serra del Padern", hu: "Serra del Padern", ro: "Serra del Padern", en: "Serra del Padern" },
-    coordinates: { lat: 42.5564, lng: 1.5714 },
+    coords: [1.5714, 42.5564],
     description: {
       de: "Die Serra del Padern ist ein kleiner Gebirgszug, der die Täler zwischen La Massana und Ordino trennt.",
       hu: "A Serra del Padern egy kisebb hegylánc, amely elválasztja a La Massana és Ordino közötti völgyeket.",
@@ -710,7 +710,7 @@ export const andorraReliefV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de la Sella de les Ones", hu: "Pic de la Sella de les Ones", ro: "Pic de la Sella de les Ones", en: "Pic de la Sella de les Ones" },
-    coordinates: { lat: 42.5356, lng: 1.6667 },
+    coords: [1.6667, 42.5356],
     description: {
       de: "Dieser 2.650 Meter hohe Gipfel gehört zum Massiv von Encamp. Er zeichnet sich durch seine steilen Flanken und alpinem Gestein aus.",
       hu: "Ez a 2650 méter magas csúcs az Encamp-masszívumhoz tartozik. Meredek oldalaival és alpesi kőzeteivel tűnik ki.",

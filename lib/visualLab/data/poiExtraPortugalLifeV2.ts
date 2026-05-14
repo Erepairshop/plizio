@@ -6,7 +6,7 @@ export const portugalLifeV2: POI[] = [
     type: "wildlife",
     parent: "PT",
     name: { de: "Naturschutzgebiet Sapal de Castro Marim", hu: "Sapal de Castro Marim Természetvédelmi Terület", ro: "Rezervația Naturală Sapal de Castro Marim", en: "Sapal de Castro Marim Nature Reserve" },
-    coordinates: { lat: 37.2167, lng: -7.45 },
+    coords: [-7.45, 37.2167],
     description: {
       de: "Das Sumpfgebiet an der Mündung des Guadiana beherbergt zahlreiche Vogelarten. Es dient als wichtiges Brut- und Rastgebiet für Zugvögel.",
       hu: "A Guadiana torkolatvidékén található mocsárvidék számos madárfajnak ad otthont. Fontos költő- és pihenőhely a vándormadarak számára.",
@@ -38,7 +38,7 @@ export const portugalLifeV2: POI[] = [
     type: "park",
     parent: "PT",
     name: { de: "Naturpark Litoral Norte", hu: "Litoral Norte Natúrpark", ro: "Parcul Natural Litoral Norte", en: "Litoral Norte Natural Park" },
-    coordinates: { lat: 41.5167, lng: -8.7833 },
+    coords: [-8.7833, 41.5167],
     description: {
       de: "Der Naturpark erstreckt sich entlang der Atlantikküste nördlich von Porto. Er umfasst Dünen, Kiefernwälder und Flussmündungsökosysteme.",
       hu: "A natúrpark Porto északi részén, az Atlanti-óceán partvidéke mentén terül el. Dűnéket, fenyőerdőket és torkolati ökoszisztémákat foglal magában.",
@@ -70,7 +70,7 @@ export const portugalLifeV2: POI[] = [
     type: "park",
     parent: "PT",
     name: { de: "Botanischer Garten Ajuda", hu: "Ajuda Botanikus Kert", ro: "Grădina Botanică Ajuda", en: "Ajuda Botanical Garden" },
-    coordinates: { lat: 38.7139, lng: -9.2028 },
+    coords: [-9.2028, 38.7139],
     description: {
       de: "Dies ist der älteste botanische Garten in Lissabon. Er wurde im 18. Jahrhundert angelegt und enthält seltene Pflanzenarten.",
       hu: "Ez Lisszabon legrégebbi botanikus kertje. A 18. században hozták létre, és ritka növényfajokat tartalmaz.",
@@ -102,7 +102,7 @@ export const portugalLifeV2: POI[] = [
     type: "wildlife",
     parent: "PT",
     name: { de: "Biologischer Park Gaia", hu: "Gaia Biológiai Park", ro: "Parcul Biologic Gaia", en: "Gaia Biological Park" },
-    coordinates: { lat: 41.0833, lng: -8.5333 },
+    coords: [-8.5333, 41.0833],
     description: {
       de: "Ein 35 Hektar großes Naturschutzgebiet zur Erhaltung der regionalen Fauna und Flora. Es bietet pädagogische Programme zur Umweltbildung.",
       hu: "Egy 35 hektáros természetvédelmi terület a regionális növény- és állatvilág megőrzésére. Környezeti nevelési programokat kínál.",
@@ -134,7 +134,7 @@ export const portugalLifeV2: POI[] = [
     type: "park",
     parent: "PT",
     name: { de: "Tapada das Necessidades", hu: "Tapada das Necessidades", ro: "Tapada das Necessidades", en: "Tapada das Necessidades" },
-    coordinates: { lat: 38.7083, lng: -9.1667 },
+    coords: [-9.1667, 38.7083],
     description: {
       de: "Ein historischer Park in Lissabon, der einst zur königlichen Anlage gehörte. Er zeichnet sich durch seine botanischen Sammlungen aus.",
       hu: "Egy történelmi park Lisszabonban, amely egykor a királyi komplexum része volt. Botanikai gyűjteményeiről ismert.",
@@ -166,7 +166,7 @@ export const portugalLifeV2: POI[] = [
     type: "wildlife",
     parent: "PT",
     name: { de: "Naturschutzgebiet Sapal de Vougela", hu: "Sapal de Vougela Természetvédelmi Terület", ro: "Rezervația Naturală Sapal de Vougela", en: "Sapal de Vougela Nature Reserve" },
-    coordinates: { lat: 40.6667, lng: -8.3333 },
+    coords: [-8.3333, 40.6667],
     description: {
       de: "Dieses Gebiet schützt die Uferregionen des Vouga-Flusses. Es dient als wichtiger Rückzugsort für diverse Amphibien und Wasservögel.",
       hu: "Ez a terület a Vouga folyó part menti régióit védi. Fontos menedékhely különböző kétéltűek és vízi madarak számára.",
@@ -198,7 +198,7 @@ export const portugalLifeV2: POI[] = [
     type: "park",
     parent: "PT",
     name: { de: "Friedenspark Almada", hu: "Almada Béke Park", ro: "Parcul Păcii din Almada", en: "Peace Park of Almada" },
-    coordinates: { lat: 38.6667, lng: -9.1667 },
+    coords: [-9.1667, 38.6667],
     description: {
       de: "Ein großflächiger Stadtpark in Almada, der der Erholung und Natur dient. Er verfügt über ausgedehnte Grünflächen und Teiche.",
       hu: "Egy kiterjedt városi park Almadában, amely a pihenést és a természetet szolgálja. Kiterjedt zöldterületekkel és tavakkal rendelkezik.",
@@ -230,7 +230,7 @@ export const portugalLifeV2: POI[] = [
     type: "park",
     parent: "PT",
     name: { de: "Tropischer Botanischer Garten", hu: "Trópusi Botanikus Kert", ro: "Grădina Botanică Tropicală", en: "Tropical Botanical Garden" },
-    coordinates: { lat: 38.6944, lng: -9.2056 },
+    coords: [-9.2056, 38.6944],
     description: {
       de: "Dieser in Belém gelegene Garten spezialisiert sich auf tropische und subtropische Pflanzen. Er wurde im frühen 20. Jahrhundert gegründet.",
       hu: "Ez a Belémben található kert trópusi és szubtrópusi növényekre szakosodott. A 20. század elején alapították.",
@@ -262,7 +262,7 @@ export const portugalLifeV2: POI[] = [
     type: "wildlife",
     parent: "PT",
     name: { de: "Naturschutzgebiet Tejo-Mündung", hu: "Tejo-torkolat Természetvédelmi Terület", ro: "Rezervația Naturală a Estuarului Tejo", en: "Tejo Estuary Nature Reserve" },
-    coordinates: { lat: 38.8667, lng: -9.0167 },
+    coords: [-9.0167, 38.8667],
     description: {
       de: "Ein bedeutendes Feuchtgebiet bei Lissabon, das als wichtiges Überwinterungsgebiet für Wasservögel fungiert. Es ist eines der größten Europas.",
       hu: "Egy jelentős vizes élőhely Lisszabon közelében, amely fontos telelőhely a vízi madarak számára. Európa egyik legnagyobbja.",
@@ -294,7 +294,7 @@ export const portugalLifeV2: POI[] = [
     type: "park",
     parent: "PT",
     name: { de: "Botanischer Garten Porto", hu: "Portói Botanikus Kert", ro: "Grădina Botanică din Porto", en: "Porto Botanical Garden" },
-    coordinates: { lat: 41.1569, lng: -8.6417 },
+    coords: [-8.6417, 41.1569],
     description: {
       de: "Ein historischer Garten in der Nähe des Felgueiras-Palastes, der akademische Forschungen unterstützt. Er bietet eine Vielzahl an exotischen Pflanzen.",
       hu: "Egy történelmi kert a Felgueiras-palota közelében, amely támogatja az akadémiai kutatást. Egzotikus növények sokaságát kínálja.",
@@ -326,7 +326,7 @@ export const portugalLifeV2: POI[] = [
     type: "wildlife",
     parent: "PT",
     name: { de: "Naturschutzgebiet Sado-Mündung", hu: "Sado-torkolat Természetvédelmi Terület", ro: "Rezervația Naturală a Estuarului Sado", en: "Sado Estuary Nature Reserve" },
-    coordinates: { lat: 38.45, lng: -8.7667 },
+    coords: [-8.7667, 38.45],
     description: {
       de: "Ein geschütztes Ästuar bei Setúbal, bekannt für seine Delfinpopulationen. Es umfasst Salzwiesen, Sandbänke und Reisfelder.",
       hu: "Egy védett torkolatvidék Setúbal közelében, amely a delfinpopulációiról ismert. Sólepárlókat, homokpadokat és rizsföldeket foglal magában.",
@@ -358,7 +358,7 @@ export const portugalLifeV2: POI[] = [
     type: "park",
     parent: "PT",
     name: { de: "Stadtpark Porto", hu: "Portói Városliget", ro: "Parcul Orașului din Porto", en: "Porto City Park" },
-    coordinates: { lat: 41.1667, lng: -8.6667 },
+    coords: [-8.6667, 41.1667],
     description: {
       de: "Der größte städtische Park Portugals, direkt am Atlantischen Ozean gelegen. Er bietet weitläufige Grünflächen und einen See.",
       hu: "Portugália legnagyobb városi parkja, közvetlenül az Atlanti-óceán partján. Kiterjedt zöldfelületeket és egy tavat kínál.",
@@ -390,7 +390,7 @@ export const portugalLifeV2: POI[] = [
     type: "park",
     parent: "PT",
     name: { de: "Botanischer Garten Coimbra", hu: "Coimbrai Botanikus Kert", ro: "Grădina Botanică din Coimbra", en: "Coimbra Botanical Garden" },
-    coordinates: { lat: 40.2056, lng: -8.4222 },
+    coords: [-8.4222, 40.2056],
     description: {
       de: "Ein historisch bedeutender botanischer Garten, der zur Universität Coimbra gehört. Er enthält eine große Auswahl an Pflanzen aus allen Kontinenten.",
       hu: "Egy történelmileg jelentős botanikus kert, amely a Coimbrai Egyetemhez tartozik. Minden kontinensről származó növények széles választékát tartalmazza.",
@@ -422,7 +422,7 @@ export const portugalLifeV2: POI[] = [
     type: "park",
     parent: "PT",
     name: { de: "Monterreo Park", hu: "Monterreo Park", ro: "Parcul Monterreo", en: "Monterreo Park" },
-    coordinates: { lat: 38.65, lng: -9.1 },
+    coords: [-9.1, 38.65],
     description: {
       de: "Ein landschaftlich gestalteter Park mit einheimischen Baumarten. Er bietet Aussichtspunkte über die Umgebung von Setúbal.",
       hu: "Egy tájépítészeti park őshonos fafajokkal. Kilátást kínál Setúbal környékére.",

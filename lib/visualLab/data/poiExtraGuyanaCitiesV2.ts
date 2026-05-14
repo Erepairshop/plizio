@@ -814,7 +814,20 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Triumph városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Triumph este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Triumph is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }, image: "/poi-images/triumph-cities-v2.webp"}, {
+    }, image: "/poi-images/triumph-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Triumph ist eine Siedlung in Guyana, im East Berbice-Corentyne Bezirk. Sie liegt am Ufer des Corentyne-Flusses, der die Grenze zu Suriname bildet. Der Ort ist landwirtschaftlich geprägt, insbesondere durch Zuckerrohrplantagen. Triumph hat etwa 2.000 Einwohner. Die Siedlung wurde im 19. Jahrhundert gegründet. Sie verfügt über eine Grundschule und einige kleine Geschäfte. Der Corentyne-Fluss ist wichtig für den Transport.",
+      hu: "Triumph egy település Guyanában, East Berbice-Corentyne körzetben. A Corentyne folyó partján fekszik, amely Suriname határa. Mezőgazdasági jellegű, különösen cukornádültetvények jellemzik. Lakossága kb. 2000 fő. A települést a 19. században alapították. Van egy általános iskolája és néhány kis üzlet. A Corentyne folyó fontos szállítási útvonal.",
+      ro: "Triumph este o așezare în Guyana, în districtul East Berbice-Corentyne. Situat pe malul râului Corentyne, care face granița cu Surinam. Economia este agricolă, predominant plantații de trestie de zahăr. Are aproximativ 2.000 de locuitori. A fost fondată în secolul al XIX-lea. Dispune de o școală primară și câteva magazine mici. Râul Corentyne este important pentru transport.",
+      en: "Triumph is a settlement in Guyana's East Berbice-Corentyne region, on the Corentyne River bordering Suriname. Agriculture dominates, especially sugarcane plantations. Population around 2,000. Founded in the 19th century, it has a primary school and small shops. The river is vital for transport.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 2.000.", "Lage: Corentyne-Fluss.", "Grenze zu Suriname.", "Gründung: 19. Jahrhundert.", "Haupterzeugnis: Zuckerrohr.", "Entfernung nach New Amsterdam: 30 km."],
+      hu: ["Lakosság: kb. 2000.", "Corentyne folyó partján.", "Suriname határa.", "Alapítás: 19. század.", "Fő termék: cukornád.", "Távolság New Amsterdamtól: 30 km."],
+      ro: ["Populație: cca 2.000.", "Situat pe râul Corentyne.", "Graniță cu Surinam.", "Înființare: secolul al XIX-lea.", "Produs principal: trestie de zahăr.", "Distanță până la New Amsterdam: 30 km."],
+      en: ["Population: about 2,000.", "Location: Corentyne River.", "Border with Suriname.", "Founded: 19th century.", "Main product: sugarcane.", "Distance to New Amsterdam: 30 km."],
+    },
+  }, {
     id: "better-hope-cities-v2",
     type: "city",
     parent: "GY-DE",

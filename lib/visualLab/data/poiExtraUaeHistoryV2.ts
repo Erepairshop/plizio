@@ -122,7 +122,19 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Sardzsa szárazföldi részén található.", "Több száz emberi maradványt fedeztek fel itt."],
       ro: ["Se află în interiorul emiratului Sharjah.", "Au fost descoperite sute de rămășițe umane."],
       en: ["Located in the inland area of Sharjah.", "Hundreds of human remains have been discovered here."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Jebel Buhais ist eine archäologische Stätte im Emirat Sharjah, VAE. Sie liegt etwa 50 Kilometer südöstlich von Sharjah-Stadt. Die Stätte umfasst eine Reihe von Gräberfeldern aus der Bronze- und Eisenzeit, die zwischen 3000 v. Chr. und 1300 v. Chr. datiert werden. Die Ausgrabungen haben zahlreiche Grabbeigaben wie Keramik, Waffen und Schmuck zutage gefördert. Jebel Buhais ist als eines der wichtigsten archäologischen Zeugnisse der frühen Besiedlung der VAE anerkannt. Die Felsformationen der Umgebung bestehen aus Kalkstein und Mergel. Das Gebiet ist seit 2015 Teil eines archäologischen Parks.",
+      hu: "Jebel Buhais egy régészeti lelőhely Sharjah emírségben, az Egyesült Arab Emírségekben. A területen bronz- és vaskori sírok találhatók, amelyek i. e. 3000-től i. e. 1300-ig terjedő időszakból származnak. Eddig több mint 100 sírt tártak fel, amelyekben ékszereket, fegyvereket és kerámiákat találtak. A lelőhely fontos információkat nyújt a korai kereskedelmi kapcsolatokról Mezopotámiával és az Indus-völggyel. A környék geológiai érdekessége a tengeri kövületek jelenléte. 2015-ben nyitották meg a nagyközönség előtt.",
+      ro: "Jebel Buhais este un sit arheologic situat în emiratul Sharjah, UAE. Situl conține morminte din epoca bronzului și a fierului, datate între 3000 î.Hr. și 1300 î.Hr. Săpăturile au scos la iveală peste 100 de morminte cu obiecte funerare, inclusiv arme, bijuterii și ceramică. Situl este important pentru înțelegerea comerțului antic cu Mesopotamia și civilizația Indusului. Zona este formată din calcar și marnă, cu fosile marine. În 2015, situl a fost deschis publicului ca parc arheologic. Temperaturile de vară depășesc frecvent 45°C.",
+      en: "Jebel Buhais is an archaeological site in Sharjah, UAE, dating back to the Bronze and Iron Ages (3000–1300 BCE). It comprises over 100 tombs with grave goods such as pottery, weapons, and jewelry. The site provides evidence of trade links with Mesopotamia and the Indus Valley. The geology is limestone and marl with marine fossils. The area was excavated in the 1970s and later turned into a protected archaeological park, opened in 2015. It covers about 20 km². The site is also known for its petroglyphs.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Gräber: über 100", "Zeitraum: 3000-1300 v. Chr.", "Fläche des Parks: 20 km²", "Entfernung zu Sharjah: 50 km", "Eröffnung des Parks: 2015", "Grabbeigaben gefunden: Keramik, Waffen, Schmuck"],
+      hu: ["Sírok száma: 100+", "Korszak: i. e. 3000-1300", "Park területe: 20 km²", "Távolság Sharjahtól: 50 km", "Megnyitás: 2015", "Leletek: kerámia, fegyverek, ékszerek"],
+      ro: ["Număr morminte: 100+", "Datare: 3000-1300 î.Hr.", "Suprafață parc: 20 km²", "Distanță de Sharjah: 50 km", "Deschis public: 2015", "Artefacte: ceramică, arme, bijuterii"],
+      en: ["Number of tombs: 100+", "Date range: 3000-1300 BCE", "Park area: 20 km²", "Distance from Sharjah: 50 km", "Opened to public: 2015", "Artifacts: pottery, weapons, jewelry"],
+    },
   },
   {
     id: "sakamkam-fort-history-v2",
@@ -434,7 +446,20 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["Az épületeket kőalapzatra emelték.", "Fejlett mezőgazdasági gyakorlatok bizonyítékait mutatja."],
       ro: ["Clădirile au fost ridicate pe fundații de piatră.", "Prezintă dovezi ale unor practici agricole avansate."],
       en: ["The buildings were constructed on stone foundations.", "Shows evidence of advanced agricultural practices."]
-    }, image: "/poi-images/rumailah-site-history-v2.webp"},
+    }, image: "/poi-images/rumailah-site-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Rumailah ist eine archäologische Stätte im Osten der VAE, in der Nähe von Al Ain. Die Siedlung stammt aus der Eisenzeit (ca. 1300-300 v. Chr.) und umfasst Überreste von Lehmziegelgebäuden, Bewässerungskanälen und Gräbern. Die Funde belegen eine landwirtschaftlich geprägte Gesellschaft mit Hirse- und Dattelanbau. Rumailah war Teil des Netzwerks der Oasenstädte in der Region. Die Stätte wurde in den 1960er Jahren entdeckt und seitdem mehrfach ausgegraben. Sie liefert wichtige Erkenntnisse über die frühe Bewässerungstechnik in der Wüste. Heute ist sie für Besucher zugänglich.",
+      hu: "Rumailah egy vaskori régészeti lelőhely Al-Ain közelében. A település i. e. 1300 és i. e. 300 között létezett. A maradványok között vályogházak, öntözőcsatornák és temetők találhatók. A leletek közé tartoznak kőeszközök, kerámiák és állatcsontok. A gazdaság alapja a mezőgazdaság és a pásztorkodás volt. A lelőhelyet az 1960-as években fedezték fel. Jelentősége abban rejlik, hogy bizonyítékot szolgáltat a korai településszerkezetre és a vízgazdálkodásra. A terület jelenleg védett.",
+      ro: "Rumailah este un sit arheologic din epoca fierului, situat lângă Al Ain, UAE. Așezarea a fost locuită între 1300 și 300 î.Hr. Săpăturile au scos la iveală clădiri din cărămidă de lut, canale de irigații și morminte. Artefactele includ unelte de piatră, ceramică și oase de animale. Economia era bazată pe agricultură (curmale, mei) și creșterea animalelor. Situl a fost descoperit în anii 1960. Este important pentru înțelegerea sistemelor timpurii de irigație din deșert. Vizitarea este permisă.",
+      en: "Rumailah is an Iron Age archaeological site near Al Ain, UAE, occupied from 1300 to 300 BCE. It features mudbrick structures, irrigation channels, and tombs. Artifacts include stone tools, pottery, and animal remains. The settlement practiced agriculture with date palms and millet, and raised livestock. Discovered in the 1960s, it has undergone several excavations. The site covers approximately 5 hectares. It provides evidence of early water management in arid environments. Today, it is a protected heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Zeitraum: 1300-300 v. Chr.", "Fläche: ca. 5 Hektar", "Entdeckung: 1960er Jahre", "Gefundene Artefakte: Keramik, Steinwerkzeuge", "Bewässerungskanäle: nachgewiesen", "Angebaute Pflanzen: Datteln, Hirse"],
+      hu: ["Korszak: i. e. 1300-300", "Terület: 5 hektár", "Felfedezés: 1960-as évek", "Leletek: kőeszközök, kerámia", "Öntözőrendszer: igen", "Növények: datolya, köles"],
+      ro: ["Perioadă: 1300-300 î.Hr.", "Suprafață: 5 ha", "Descoperit: 1960", "Artefacte: unelte de piatră, ceramică", "Irigații: canale", "Culturi: curmale, mei"],
+      en: ["Period: 1300-300 BCE", "Area: 5 hectares", "Discovered: 1960s", "Artifacts: stone tools, pottery", "Irrigation channels: present", "Crops: dates, millet"],
+    },
+  },
   {
     id: "tell-abraq-history-v2",
     type: "ruin",
@@ -502,6 +527,18 @@ export const poiExtraUaeHistoryV2: POI[] = [
       hu: ["A leleteket az Al Ain Nemzeti Múzeumban állítják ki.", "A Mezopotámiával folytatott korai kereskedelmet mutatják be."],
       ro: ["Descoperirile sunt expuse la Muzeul Național Al Ain.", "Arată comerțul timpuriu cu Mesopotamia."],
       en: ["The finds are exhibited in the Al Ain National Museum.", "Show early trade with Mesopotamia."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Al-Qattara-Gräber sind eine archäologische Stätte im Emirat Abu Dhabi, etwa 15 Kilometer nördlich von Al Ain. Die Gräber stammen aus der Umm-an-Nar-Periode (2500-2000 v. Chr.) und sind kreisförmige Steinkonstruktionen mit mehreren Kammern. Ausgrabungen haben Skelette, Keramik und Schmuck zutage gefördert. Die Stätte ist Teil eines größeren Grabkomplexes in der Region. Die Gräber sind aus lokalem Kalkstein erbaut und haben einen Durchmesser von bis zu 8 Metern. Sie wurden in den 1970er Jahren entdeckt und stehen unter Denkmalschutz. Sie zeugen von frühen Bestattungsritualen.",
+      hu: "Az Al-Qattara-sírok egy régészeti lelőhely Abu-Dzabi emírségben, Al-Aintól északra. A sírok az Umm an-Nar-korszakból (i. e. 2500-2000) származnak, és kerek kőszerkezetek, amelyek több kamrából állnak. Átmérőjük eléri a 8 métert. A feltárások során csontvázakat, kerámiákat és ékszereket találtak. A lelőhelyet az 1970-es években fedezték fel. A sírok fontos információkat nyújtanak a bronzkori temetkezési szokásokról és társadalmi struktúráról. Ma védett terület.",
+      ro: "Mormintele Al Qattara sunt un sit arheologic datând din perioada Umm an-Nar (2500-2000 î.Hr.), situat la 15 km nord de Al Ain, Abu Dhabi. Mormintele sunt circulare, construite din piatră calcaroasă, cu diametrul de până la 8 metri și mai multe camere. Săpăturile au descoperit schelete, ceramică și bijuterii. Situl a fost descoperit în anii 1970. Aceste morminte sunt importante pentru studiul ritualurilor funerare din epoca bronzului timpuriu. Acum sunt protejate de lege.",
+      en: "The Al Qattara Tombs are a Bronze Age archaeological site in Abu Dhabi, north of Al Ain, dating to the Umm an-Nar period (2500-2000 BCE). The tombs are circular stone structures with multiple chambers, up to 8 meters in diameter. Excavations have yielded human remains, pottery, and ornaments. The site was discovered in the 1970s and is now a protected monument. It provides insight into early burial practices and social hierarchy. The tombs are built from local limestone and are part of a larger necropolis.",
+    },
+    factsAdvanced: {
+      de: ["Zeitraum: 2500-2000 v. Chr.", "Durchmesser der Gräber: bis 8 m", "Entdeckung: 1970er Jahre", "Material: Kalkstein", "Gefundene Objekte: Skelette, Keramik, Schmuck", "Entfernung zu Al Ain: 15 km"],
+      hu: ["Korszak: i. e. 2500-2000", "Sírok átmérője: 8 m", "Felfedezés: 1970-es évek", "Anyag: mészkő", "Leletek: csontváz, kerámia, ékszer", "Távolság Al-Aintól: 15 km"],
+      ro: ["Perioadă: 2500-2000 î.Hr.", "Diametru morminte: 8 m", "Descoperit: 1970", "Material: calcar", "Artefacte: schelete, ceramică, bijuterii", "Distanță de Al Ain: 15 km"],
+      en: ["Period: 2500-2000 BCE", "Tomb diameter: up to 8 m", "Discovered: 1970s", "Material: limestone", "Findings: skeletons, pottery, jewelry", "Distance from Al Ain: 15 km"],
+    },
   }
 ];

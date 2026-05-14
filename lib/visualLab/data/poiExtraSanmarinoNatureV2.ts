@@ -6,7 +6,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "river",
     parent: "SM",
     name: { de: "Marano Fluss", hu: "Marano-folyó", ro: "Râul Marano", en: "Marano River" },
-    coordinates: { lat: 43.9555, lng: 12.4872 },
+    coords: [12.4872, 43.9555],
     description: {
       de: "Der Marano fließt durch das östliche Gebiet von San Marino. Er entspringt im hügeligen Terrain und führt Richtung Adria.",
       hu: "A Marano folyó San Marino keleti területein halad át. Dombvidéki forrásból ered és az Adria-tenger felé folyik.",
@@ -38,7 +38,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "valley",
     parent: "SM",
     name: { de: "Cailungo Schlucht", hu: "Cailungo-szurdok", ro: "Cheile Cailungo", en: "Cailungo Gorge" },
-    coordinates: { lat: 43.9483, lng: 12.4514 },
+    coords: [12.4514, 43.9483],
     description: {
       de: "Die Cailungo-Schlucht ist ein natürliches Tal, geformt durch Erosion des örtlichen Baches. Sie zeichnet sich durch steile Felswände aus.",
       hu: "A Cailungo-szurdok egy természetes völgy, amelyet a helyi patak eróziója alakított ki. Meredek sziklafalak jellemzik.",
@@ -70,7 +70,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "forest",
     parent: "SM",
     name: { de: "Monte Giardino Wald", hu: "Monte Giardino-erdő", ro: "Pădurea Monte Giardino", en: "Monte Giardino Forest" },
-    coordinates: { lat: 43.9103, lng: 12.4761 },
+    coords: [12.4761, 43.9103],
     description: {
       de: "Dieser Laubwald erstreckt sich über die Hänge bei Montegiardino. Er beherbergt einheimische Baumarten wie Eichen und Buchen.",
       hu: "Ez a lombos erdő a Montegiardino melletti lejtőkön húzódik. Őshonos fafajoknak, például tölgyeknek és bükköknek ad otthont.",
@@ -102,7 +102,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "lake",
     parent: "SM",
     name: { de: "Acquaviva Quelle", hu: "Acquaviva-forrás", ro: "Izvorul Acquaviva", en: "Acquaviva Spring" },
-    coordinates: { lat: 43.9389, lng: 12.4278 },
+    coords: [12.4278, 43.9389],
     description: {
       de: "Die Quelle bei Acquaviva ist ein historisch bedeutender Wasserpunkt in der Region. Sie speist ein kleines natürliches Becken.",
       hu: "Az Acquaviva melletti forrás történelmileg jelentős vízforrás a régióban. Egy kis természetes medencét táplál.",
@@ -134,7 +134,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Faetano Felswand", hu: "Faetano-sziklafal", ro: "Peretele stâncos Faetano", en: "Faetano Rock Cliff" },
-    coordinates: { lat: 43.9215, lng: 12.4933 },
+    coords: [12.4933, 43.9215],
     description: {
       de: "Ein ausgeprägter Felsvorsprung im Osten von San Marino. Die geologischen Schichten sind hier besonders gut sichtbar.",
       hu: "Egy jellegzetes sziklaképződmény San Marino keleti részén. A geológiai rétegek itt különösen jól láthatók.",
@@ -166,7 +166,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "valley",
     parent: "SM",
     name: { de: "Rio San Marino Tal", hu: "Rio San Marino-völgy", ro: "Valea Rio San Marino", en: "Rio San Marino Valley" },
-    coordinates: { lat: 43.9667, lng: 12.4708 },
+    coords: [12.4708, 43.9667],
     description: {
       de: "Das Tal des Rio San Marino bildet einen natürlichen Korridor im Norden. Es bietet Lebensraum für zahlreiche Vogelarten.",
       hu: "A Rio San Marino völgye természetes folyosót alkot északon. Számos madárfaj számára nyújt élőhelyet.",
@@ -198,7 +198,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Chiesanuova Hügel", hu: "Chiesanuova-domb", ro: "Dealul Chiesanuova", en: "Chiesanuova Hill" },
-    coordinates: { lat: 43.9231, lng: 12.4172 },
+    coords: [12.4172, 43.9231],
     description: {
       de: "Eine markante Erhebung im Südwesten. Der Hügel ist teilweise bewaldet und bietet Panoramablicke über die Region.",
       hu: "Egy jellegzetes magaslat délnyugaton. A domb részben erdős és panorámás kilátást kínál a régióra.",
@@ -230,7 +230,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "river",
     parent: "SM",
     name: { de: "Oberer Ausa Fluss", hu: "Felső-Ausa folyó", ro: "Râul Ausa Superior", en: "Upper Ausa River" },
-    coordinates: { lat: 43.9412, lng: 12.4455 },
+    coords: [12.4455, 43.9412],
     description: {
       de: "Der Ausa-Bach entspringt nahe der Bergkämme. Er ist ein wesentlicher Bestandteil der Hydrologie des zentralen Gebiets.",
       hu: "Az Ausa-patak a hegygerincek közelében ered. A központi terület hidrológiájának szerves része.",
@@ -262,7 +262,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "forest",
     parent: "SM",
     name: { de: "Serravalle Wald", hu: "Serravalle-erdő", ro: "Pădurea Serravalle", en: "Serravalle Forest" },
-    coordinates: { lat: 43.9782, lng: 12.4633 },
+    coords: [12.4633, 43.9782],
     description: {
       de: "Ein kleineres Waldgebiet im Norden des Landes. Es besteht vorwiegend aus Eichenbeständen und mediterraner Macchie.",
       hu: "Egy kisebb erdőterület az ország északi részén. Főleg tölgyesekből és mediterrán macchiából áll.",
@@ -294,7 +294,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "peak",
     parent: "SM",
     name: { de: "Fiorentino Bergkamm", hu: "Fiorentino-hegygerinc", ro: "Creasta Fiorentino", en: "Fiorentino Ridge" },
-    coordinates: { lat: 43.9167, lng: 12.4583 },
+    coords: [12.4583, 43.9167],
     description: {
       de: "Ein natürlicher Grat südlich der Hauptstadt. Er bietet einen hervorragenden Blick auf das umliegende hügelige Land.",
       hu: "Természetes gerinc a fővárostól délre. Kiváló kilátást nyújt a környező dombvidékre.",
@@ -326,7 +326,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "valley",
     parent: "SM",
     name: { de: "Borgo Maggiore Tal", hu: "Borgo Maggiore-völgy", ro: "Valea Borgo Maggiore", en: "Borgo Maggiore Valley" },
-    coordinates: { lat: 43.9467, lng: 12.4497 },
+    coords: [12.4497, 43.9467],
     description: {
       de: "Dieses Tal erstreckt sich unterhalb des Monte Titano. Es wird landwirtschaftlich genutzt und ist landschaftlich reizvoll.",
       hu: "Ez a völgy a Monte Titano alatt húzódik. Mezőgazdasági művelés alatt áll és festői táj jellemzi.",
@@ -358,7 +358,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "lake",
     parent: "SM",
     name: { de: "Faetano Quelle", hu: "Faetano-forrás", ro: "Izvorul Faetano", en: "Faetano Spring" },
-    coordinates: { lat: 43.9267, lng: 12.4983 },
+    coords: [12.4983, 43.9267],
     description: {
       de: "Eine natürliche Quelle in der Nähe von Faetano. Sie versorgt das lokale Ökosystem mit frischem Grundwasser.",
       hu: "Természetes forrás Faetano közelében. Friss talajvízzel látja el a helyi ökoszisztémát.",
@@ -390,7 +390,7 @@ export const sanmarinoNatureV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Domagnano Hügel", hu: "Domagnano-domb", ro: "Dealul Domagnano", en: "Domagnano Hill" },
-    coordinates: { lat: 43.9556, lng: 12.4678 },
+    coords: [12.4678, 43.9556],
     description: {
       de: "Eine markante Erhebung bei Domagnano. Der Hügel bietet einen weiten Blick über die sanmarinesische Landschaft.",
       hu: "Jellegzetes magaslat Domagnano közelében. A domb széles kilátást nyújt a san marinói tájra.",

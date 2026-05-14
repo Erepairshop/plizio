@@ -46,7 +46,20 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       hu: ["1881-ben nyitották meg.", "Viktoriánus stílusban tervezték."],
       ro: ["Deschisă în 1881.", "Proiectată în stil victorian."],
       en: ["Opened in 1881.", "Designed in Victorian style."]
-    }, image: "/poi-images/stabroek-market-landmarks-v2.webp"}, {
+    }, image: "/poi-images/stabroek-market-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Stabroek-Markt ist ein historischer Markt in Georgetown, Guyana, gelegen am Ufer des Demerara-Flusses. Das Gebäude wurde 1842 erbaut und ist ein markantes Beispiel kolonialer Architektur, mit einem hohen Glockenturm. Der Markt ist das wichtigste Handelszentrum für lokale Erzeugnisse wie Obst, Gemüse, Fleisch und Handwerkskunst. Er ist nach dem niederländischen Namen für Georgetown (Stabroek) benannt. Der Markt ist ein kultureller Treffpunkt und eine der Hauptattraktionen der Stadt.",
+      hu: "A Stabroek-piac egy történelmi piac Georgetownban, Guyanában, a Demerara folyó partján. Az épület 1842-ben épült, a gyarmati építészet kiemelkedő példája, magas harangtoronnyal. A piac a helyi termékek, mint gyümölcsök, zöldségek, húsok és kézműves termékek legfontosabb kereskedelmi központja. Nevét Georgetown holland nevéről (Stabroek) kapta. A piac kulturális találkozóhely és a város egyik fő látványossága.",
+      ro: "Piața Stabroek este o piață istorică din Georgetown, Guyana, situată pe malul râului Demerara. Clădirea a fost construită în 1842 și este un exemplu remarcabil de arhitectură colonială, cu un turn înalt cu clopot. Piața este cel mai important centru comercial pentru produse locale precum fructe, legume, carne și meșteșuguri. Este numită după numele olandez al orașului Georgetown (Stabroek). Piața este un loc de întâlnire cultural și una dintre principalele atracții ale orașului.",
+      en: "Stabroek Market is a historic market in Georgetown, Guyana, on the Demerara River. Built in 1842, it is a fine example of colonial architecture with a tall clock tower. It is the main trading hub for local produce, including fruits, vegetables, meat, and crafts. Named after the Dutch name for Georgetown (Stabroek). It is a cultural gathering place and a major city attraction.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1842.", "Architekt: C. D. W. Comma.", "Glockenturm: 30 m hoch.", "Fläche: ca. 2 Hektar.", "Anzahl der Stände: über 500.", "Am Demerara-Fluss."],
+      hu: ["Épült 1842-ben.", "Építész: C. D. W. Comma.", "Harangtorony magassága: 30 m.", "Terület: kb. 2 hektár.", "Standok száma: több mint 500.", "A Demerara folyó partján."],
+      ro: ["Construit în 1842.", "Arhitect: C. D. W. Comma.", "Turn cu clopot: 30 m înălțime.", "Suprafață: cca 2 ha.", "Număr de tarabe: peste 500.", "Pe malul râului Demerara."],
+      en: ["Built in 1842.", "Architect: C. D. W. Comma.", "Clock tower height: 30 m.", "Area: about 2 hectares.", "Number of stalls: over 500.", "Located on the Demerara River."],
+    },
+  }, {
     id: "parliament-building-guyana-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",

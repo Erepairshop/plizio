@@ -6,7 +6,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Tal-Balal Kamm", hu: "Tal-Balal-gerinc", ro: "Creasta Tal-Balal", en: "Tal-Balal Ridge" },
-    coordinates: { lat: 35.885, lng: 14.475 },
+    coords: [14.475, 35.885],
     description: {
       de: "Dieser Bergrücken trennt die Ebenen von San Ġwann und Naxxar. Er besteht hauptsächlich aus Kalksteinformationen.",
       hu: "Ez a gerinc választja el San Ġwann és Naxxar síkságait. Főleg mészkőformációkból áll.",
@@ -38,7 +38,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Wardija Hochland", hu: "Wardija-felföld", ro: "Podisul Wardija", en: "Wardija Highland" },
-    coordinates: { lat: 35.938, lng: 14.385 },
+    coords: [14.385, 35.938],
     description: {
       de: "Ein erhöhtes Plateau im Norden Maltas. Es bietet einen weiten Blick über die St. Paul's Bay.",
       hu: "Magas fennsík Malta északi részén. Széles kilátást nyújt a Szent Pál-öbölre.",
@@ -70,7 +70,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Ta' Ċenċ Plateau", hu: "Ta' Ċenċ-fennsík", ro: "Platoul Ta' Ċenċ", en: "Ta' Ċenċ Plateau" },
-    coordinates: { lat: 36.015, lng: 14.258 },
+    coords: [14.258, 36.015],
     description: {
       de: "Eine ausgedehnte Hochebene im Süden von Gozo. Die Klippen ragen steil aus dem Meer empor.",
       hu: "Kiterjedt fennsík Gozo déli részén. A sziklák meredeken emelkednek ki a tengerből.",
@@ -102,7 +102,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Il-Qortin Kamm", hu: "Il-Qortin-gerinc", ro: "Creasta Il-Qortin", en: "Il-Qortin Ridge" },
-    coordinates: { lat: 35.972, lng: 14.368 },
+    coords: [14.368, 35.972],
     description: {
       de: "Ein schmaler Bergrücken nordöstlich von Mellieħa. Er grenzt an den Marfa-Kamm.",
       hu: "Keskeny gerinc Mellieħától északkeletre. A Marfa-gerinccel határos.",
@@ -134,7 +134,7 @@ export const maltaReliefV2: POI[] = [
     type: "peak",
     parent: "MT",
     name: { de: "Ta' Ġordan Hügel", hu: "Ta' Ġordan-domb", ro: "Dealul Ta' Ġordan", en: "Ta' Ġordan Hill" },
-    coordinates: { lat: 36.065, lng: 14.215 },
+    coords: [14.215, 36.065],
     description: {
       de: "Ein markanter kegelförmiger Hügel auf der Insel Gozo. Er liegt nahe der Ortschaft Għasri.",
       hu: "Jellegzetes kúp alakú domb Gozo szigetén. Għasri falu közelében található.",
@@ -166,7 +166,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Ix-Xagħra ta' l-Iskorba", hu: "Ix-Xagħra ta' l-Iskorba-fennsík", ro: "Platoul Ix-Xagħra ta' l-Iskorba", en: "Ix-Xagħra ta' l-Iskorba Plateau" },
-    coordinates: { lat: 35.922, lng: 14.368 },
+    coords: [14.368, 35.922],
     description: {
       de: "Eine sanfte Erhebung bei Żebbiegħ. Das Gebiet ist für seine prähistorischen Siedlungsspuren bekannt.",
       hu: "Szelíd emelkedő Żebbiegħ közelében. A terület az őskori településnyomokról ismert.",
@@ -198,7 +198,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Ras il-Waħx Klippen", hu: "Ras il-Waħx-sziklák", ro: "Stâncile Ras il-Waħx", en: "Ras il-Waħx Cliffs" },
-    coordinates: { lat: 35.918, lng: 14.342 },
+    coords: [14.342, 35.918],
     description: {
       de: "Steile Küstenklippen an der Westküste Maltas. Sie gehören zur geologischen Struktur der Dingli-Klippen.",
       hu: "Meredek tengerparti sziklák Málta nyugati partján. A Dingli-sziklák geológiai szerkezetéhez tartoznak.",
@@ -230,7 +230,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Il-Bidnija Kamm", hu: "Il-Bidnija-gerinc", ro: "Creasta Il-Bidnija", en: "Il-Bidnija Ridge" },
-    coordinates: { lat: 35.932, lng: 14.412 },
+    coords: [14.412, 35.932],
     description: {
       de: "Ein bewaldeter und landwirtschaftlich genutzter Kamm im Norden Maltas. Er trennt das Pwales-Tal vom Wardija-Plateau.",
       hu: "Erdős és mezőgazdaságilag hasznosított gerinc Észak-Máltán. Elválasztja a Pwales-völgyet a Wardija-fennsíktól.",
@@ -262,7 +262,7 @@ export const maltaReliefV2: POI[] = [
     type: "peak",
     parent: "MT",
     name: { de: "Ta' Ċieda Hügel", hu: "Ta' Ċieda-domb", ro: "Dealul Ta' Ċieda", en: "Ta' Ċieda Hill" },
-    coordinates: { lat: 35.892, lng: 14.482 },
+    coords: [14.482, 35.892],
     description: {
       de: "Eine flache Erhebung bei Swieqi. Der Hügel ist bekannt für seine archäologischen Überreste aus der Punierzeit.",
       hu: "Lapos emelkedő Swieqi közelében. A domb a pun kori régészeti maradványairól ismert.",
@@ -294,7 +294,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Il-Għażżenin Kamm", hu: "Il-Għażżenin-gerinc", ro: "Creasta Il-Għażżenin", en: "Il-Għażżenin Ridge" },
-    coordinates: { lat: 35.938, lng: 14.348 },
+    coords: [14.348, 35.938],
     description: {
       de: "Ein niedriger, felsiger Bergrücken nahe St. Paul's Bay. Er liegt zwischen Küste und Landesinnerem.",
       hu: "Alacsony, sziklás gerinc Szent Pál-öböl közelében. A tengerpart és a belterület között fekszik.",
@@ -326,7 +326,7 @@ export const maltaReliefV2: POI[] = [
     type: "peak",
     parent: "MT",
     name: { de: "Ta' Pinu Hügel", hu: "Ta' Pinu-domb", ro: "Dealul Ta' Pinu", en: "Ta' Pinu Hill" },
-    coordinates: { lat: 36.058, lng: 14.218 },
+    coords: [14.218, 36.058],
     description: {
       de: "Eine markante Erhebung auf Gozo, die die Ta' Pinu Basilika umgibt. Das Gelände ist sanft gewölbt.",
       hu: "Jellegzetes emelkedő Gozón, a Ta' Pinu-bazilika körül. A terep enyhén ívelt.",
@@ -358,7 +358,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Il-Għallies Plateau", hu: "Il-Għallies-fennsík", ro: "Platoul Il-Għallies", en: "Il-Għallies Plateau" },
-    coordinates: { lat: 35.952, lng: 14.415 },
+    coords: [14.415, 35.952],
     description: {
       de: "Eine Hochfläche nördlich von Baħar iċ-Ċagħaq. Sie besteht aus freiliegenden Kalksteinschichten.",
       hu: "Fennsík Baħar iċ-Ċagħaqtól északra. Szabadon álló mészkőrétegekből áll.",
@@ -390,7 +390,7 @@ export const maltaReliefV2: POI[] = [
     type: "peak",
     parent: "MT",
     name: { de: "Ta' Ċinċ Hügel", hu: "Ta' Ċinċ-domb", ro: "Dealul Ta' Ċinċ", en: "Ta' Ċinċ Hill" },
-    coordinates: { lat: 35.915, lng: 14.425 },
+    coords: [14.425, 35.915],
     description: {
       de: "Ein Hügel bei Birkirkara, der als Teil der inneren Topographie fungiert. Das Gelände ist überwiegend bebaut.",
       hu: "Domb Birkirkara közelében, amely a belső domborzat részeként funkcionál. A terület nagyrészt beépített.",
@@ -422,7 +422,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Il-Mistra Kamm", hu: "Il-Mistra-gerinc", ro: "Creasta Il-Mistra", en: "Il-Mistra Ridge" },
-    coordinates: { lat: 35.955, lng: 14.375 },
+    coords: [14.375, 35.955],
     description: {
       de: "Ein schmaler, bewaldeter Bergrücken bei Mistra Bay. Er trennt das Tal von der Küste.",
       hu: "Keskeny, erdős gerinc a Mistra-öböl közelében. Elválasztja a völgyet a parttól.",
@@ -454,7 +454,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Ras il-Pellegrin Plateau", hu: "Ras il-Pellegrin-fennsík", ro: "Platoul Ras il-Pellegrin", en: "Ras il-Pellegrin Plateau" },
-    coordinates: { lat: 35.925, lng: 14.335 },
+    coords: [14.335, 35.925],
     description: {
       de: "Ein erodiertes Plateau nahe Ġnejna Bay. Es weist deutliche Sedimentschichten auf.",
       hu: "Erodált fennsík Ġnejna-öböl közelében. Jellegzetes üledékrétegekkel rendelkezik.",
@@ -486,7 +486,7 @@ export const maltaReliefV2: POI[] = [
     type: "peak",
     parent: "MT",
     name: { de: "Ta' l-Agħara Hügel", hu: "Ta' l-Agħara-domb", ro: "Dealul Ta' l-Agħara", en: "Ta' l-Agħara Hill" },
-    coordinates: { lat: 35.882, lng: 14.455 },
+    coords: [14.455, 35.882],
     description: {
       de: "Eine flache Hügelkuppe bei Ħal Qormi. Das Gebiet ist Teil des zentralen Hochlands Maltas.",
       hu: "Lapos dombhát Ħal Qormi közelében. A terület Málta központi fennsíkjának része.",
@@ -518,7 +518,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Il-Għaxaq Kamm", hu: "Il-Għaxaq-gerinc", ro: "Creasta Il-Għaxaq", en: "Il-Għaxaq Ridge" },
-    coordinates: { lat: 35.855, lng: 14.525 },
+    coords: [14.525, 35.855],
     description: {
       de: "Eine sanfte Erhebung bei Għaxaq. Sie bildet einen natürlichen Rand zum südlichen Küstengebiet.",
       hu: "Szelíd emelkedő Għaxaq közelében. Természetes peremet alkot a déli partvidék felé.",
@@ -550,7 +550,7 @@ export const maltaReliefV2: POI[] = [
     type: "peak",
     parent: "MT",
     name: { de: "Ta' Duna Hügel", hu: "Ta' Duna-domb", ro: "Dealul Ta' Duna", en: "Ta' Duna Hill" },
-    coordinates: { lat: 36.035, lng: 14.235 },
+    coords: [14.235, 36.035],
     description: {
       de: "Ein kleiner Hügel auf Gozo in der Nähe von Xagħra. Das Gelände zeichnet sich durch seine sanften Hänge aus.",
       hu: "Kis domb Gozón, Xagħra közelében. A terepet a szelíd lejtők jellemzik.",
@@ -582,7 +582,7 @@ export const maltaReliefV2: POI[] = [
     type: "peak",
     parent: "MT",
     name: { de: "Il-Qlajja Hügel", hu: "Il-Qlajja-domb", ro: "Dealul Il-Qlajja", en: "Il-Qlajja Hill" },
-    coordinates: { lat: 35.895, lng: 14.415 },
+    coords: [14.415, 35.895],
     description: {
       de: "Eine markante Kuppe nahe Mdina. Sie bietet einen guten Überblick über das umliegende Tal.",
       hu: "Jellegzetes dombhát Mdina közelében. Jó áttekintést nyújt a környező völgyről.",
@@ -614,7 +614,7 @@ export const maltaReliefV2: POI[] = [
     type: "peak",
     parent: "MT",
     name: { de: "Ta' Randu Hügel", hu: "Ta' Randu-domb", ro: "Dealul Ta' Randu", en: "Ta' Randu Hill" },
-    coordinates: { lat: 35.875, lng: 14.445 },
+    coords: [14.445, 35.875],
     description: {
       de: "Ein Hügel bei Siġġiewi, der das Landschaftsbild im Südwesten Maltas dominiert.",
       hu: "Domb Siġġiewi közelében, amely uralja a tájat Málta délnyugati részén.",
@@ -646,7 +646,7 @@ export const maltaReliefV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Il-Għollieqa Kamm", hu: "Il-Għollieqa-gerinc", ro: "Creasta Il-Għollieqa", en: "Il-Għollieqa Ridge" },
-    coordinates: { lat: 35.912, lng: 14.475 },
+    coords: [14.475, 35.912],
     description: {
       de: "Ein bewaldeter Bergrücken, der das Tal von San Ġwann begrenzt.",
       hu: "Erdős gerinc, amely határolja San Ġwann völgyét.",

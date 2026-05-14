@@ -6,7 +6,7 @@ export const franceHistoryV2: POI[] = [
     type: "battlefield",
     parent: "FR",
     name: { de: "Alesia", hu: "Alésia", ro: "Alesia", en: "Alesia" },
-    coordinates: { lat: 47.53, lng: 4.5 },
+    coords: [4.5, 47.53],
     description: {
       de: "Ort der entscheidenden Schlacht zwischen Julius Cäsar und Vercingetorix im Jahr 52 v. Chr. Die Belagerung beendete den gallischen Widerstand.",
       hu: "Iulius Caesar és Vercingetorix döntő csatájának helyszíne Kr. e. 52-ben. Az ostrom véget vetett a gall ellenállásnak.",
@@ -38,7 +38,7 @@ export const franceHistoryV2: POI[] = [
     type: "battlefield",
     parent: "FR",
     name: { de: "Verdun", hu: "Verdun", ro: "Verdun", en: "Verdun" },
-    coordinates: { lat: 49.16, lng: 5.38 },
+    coords: [5.38, 49.16],
     description: {
       de: "Schauplatz einer der längsten und blutigsten Schlachten des Ersten Weltkriegs im Jahr 1916. Heute ein nationales Gedenkzentrum.",
       hu: "Az első világháború egyik leghosszabb és legvéresebb csatájának helyszíne 1916-ban. Ma nemzeti emlékhely.",
@@ -70,7 +70,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Guédelon", hu: "Guédelon", ro: "Guédelon", en: "Guédelon" },
-    coordinates: { lat: 47.58, lng: 3.15 },
+    coords: [3.15, 47.58],
     description: {
       de: "Ein experimentelles archäologisches Projekt, bei dem eine Burg mit Methoden des 13. Jahrhunderts erbaut wird. Begonnen 1997.",
       hu: "Kísérleti régészeti projekt, amelyben egy 13. századi módszerekkel épülő várat építenek. 1997-ben kezdődött.",
@@ -102,7 +102,7 @@ export const franceHistoryV2: POI[] = [
     type: "bridge",
     parent: "FR",
     name: { de: "Pont Valentré", hu: "Pont Valentré", ro: "Pont Valentré", en: "Pont Valentré" },
-    coordinates: { lat: 44.44, lng: 1.43 },
+    coords: [1.43, 44.44],
     description: {
       de: "Eine befestigte mittelalterliche Brücke in Cahors aus dem 14. Jahrhundert. Sie ist bekannt für ihre drei Wehrtürme.",
       hu: "Erődített középkori híd Cahorsban a 14. századból. Három védelmi tornyáról ismert.",
@@ -134,7 +134,7 @@ export const franceHistoryV2: POI[] = [
     type: "ruins",
     parent: "FR",
     name: { de: "Montségur", hu: "Montségur", ro: "Montségur", en: "Montségur" },
-    coordinates: { lat: 42.87, lng: 1.83 },
+    coords: [1.83, 42.87],
     description: {
       de: "Eine strategisch wichtige Burgruine und letzte Hochburg der Katharer. Sie fiel im Jahr 1244 nach einer langen Belagerung.",
       hu: "Stratégiailag fontos várrom és a katharok utolsó fellegvára. 1244-ben esett el egy hosszú ostrom után.",
@@ -166,7 +166,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Château de Pau", hu: "Pau-i kastély", ro: "Castelul Pau", en: "Château de Pau" },
-    coordinates: { lat: 43.29, lng: -0.37 },
+    coords: [-0.37, 43.29],
     description: {
       de: "Eine historische Burg in Pau, bekannt als Geburtsort von Heinrich IV. von Frankreich. Sie stammt ursprünglich aus dem 12. Jahrhundert.",
       hu: "Történelmi kastély Pau-ban, IV. Henrik francia király szülőhelyeként ismert. Eredetileg a 12. századból származik.",
@@ -198,7 +198,7 @@ export const franceHistoryV2: POI[] = [
     type: "town",
     parent: "FR",
     name: { de: "Semur-en-Auxois", hu: "Semur-en-Auxois", ro: "Semur-en-Auxois", en: "Semur-en-Auxois" },
-    coordinates: { lat: 47.49, lng: 4.33 },
+    coords: [4.33, 47.49],
     description: {
       de: "Mittelalterliche Stadt in Burgund mit gut erhaltenen Befestigungsanlagen und Türmen. Sie liegt in einer Schleife des Flusses Armançon.",
       hu: "Középkori város Burgundiában, jól megőrzött erődítményekkel és tornyokkal. Az Armançon folyó kanyarulatában fekszik.",
@@ -230,7 +230,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Festung Chinon", hu: "Chinoni erőd", ro: "Cetatea Chinon", en: "Fortress of Chinon" },
-    coordinates: { lat: 47.16, lng: 0.23 },
+    coords: [0.23, 47.16],
     description: {
       de: "Eine beeindruckende Festung im Loire-Tal. Hier traf Jeanne d'Arc im Jahr 1429 den Dauphin Karl VII.",
       hu: "Lenyűgöző erőd a Loire-völgyben. Jeanne d'Arc 1429-ben itt találkozott VII. Károly dauphinnal.",
@@ -262,7 +262,7 @@ export const franceHistoryV2: POI[] = [
     type: "museum",
     parent: "FR",
     name: { de: "Maison de Jeanne d'Arc", hu: "Jeanne d'Arc háza", ro: "Casa Ioanei d'Arc", en: "House of Joan of Arc" },
-    coordinates: { lat: 47.9, lng: 1.9 },
+    coords: [1.9, 47.9],
     description: {
       de: "Ein historisches Gebäude in Orléans, das an den Aufenthalt von Jeanne d'Arc während der Belagerung 1429 erinnert.",
       hu: "Történelmi épület Orléans-ban, amely Jeanne d'Arc 1429-es ostrom alatti tartózkodására emlékeztet.",
@@ -294,7 +294,7 @@ export const franceHistoryV2: POI[] = [
     type: "cathedral",
     parent: "FR",
     name: { de: "Kathedrale von Albi", hu: "Albi katedrális", ro: "Catedrala din Albi", en: "Albi Cathedral" },
-    coordinates: { lat: 43.92, lng: 2.14 },
+    coords: [2.14, 43.92],
     description: {
       de: "Eine massive gotische Kathedrale aus Backstein, die nach dem Albigenserkreuzzug erbaut wurde. Sie gleicht einer Festung.",
       hu: "Masszív gótikus tégla-katedrális, amelyet az albigens keresztes hadjárat után építettek. Erődítményre hasonlít.",
@@ -326,7 +326,7 @@ export const franceHistoryV2: POI[] = [
     type: "town",
     parent: "FR",
     name: { de: "Provins", hu: "Provins", ro: "Provins", en: "Provins" },
-    coordinates: { lat: 48.56, lng: 3.3 },
+    coords: [3.3, 48.56],
     description: {
       de: "Mittelalterliche Marktstadt bei Paris, bekannt für ihre gut erhaltenen Stadtmauern und den Tour César aus dem 12. Jahrhundert.",
       hu: "Középkori vásárváros Párizs közelében, jól megőrzött városfalairól és a 12. századi Tour César-ról ismert.",
@@ -358,7 +358,7 @@ export const franceHistoryV2: POI[] = [
     type: "village",
     parent: "FR",
     name: { de: "Domrémy-la-Pucelle", hu: "Domrémy-la-Pucelle", ro: "Domrémy-la-Pucelle", en: "Domrémy-la-Pucelle" },
-    coordinates: { lat: 48.43, lng: 5.67 },
+    coords: [5.67, 48.43],
     description: {
       de: "Das Geburtsdorf von Jeanne d'Arc. Das Haus, in dem sie aufwuchs, ist heute ein nationales Denkmal.",
       hu: "Jeanne d'Arc szülőfaluja. A ház, ahol felnőtt, ma nemzeti emlékhely.",
@@ -390,7 +390,7 @@ export const franceHistoryV2: POI[] = [
     type: "church",
     parent: "FR",
     name: { de: "Couvent des Jacobins", hu: "Jacobins-kolostor", ro: "Mănăstirea Iacobinilor", en: "Couvent des Jacobins" },
-    coordinates: { lat: 43.6, lng: 1.44 },
+    coords: [1.44, 43.6],
     description: {
       de: "Ein bedeutendes gotisches Kloster in Toulouse aus dem 13. Jahrhundert, das die Reliquien des Heiligen Thomas von Aquin beherbergt.",
       hu: "Jelentős 13. századi gótikus kolostor Toulouse-ban, amely Aquinói Szent Tamás ereklyéit őrzi.",
@@ -422,7 +422,7 @@ export const franceHistoryV2: POI[] = [
     type: "village",
     parent: "FR",
     name: { de: "Rocamadour", hu: "Rocamadour", ro: "Rocamadour", en: "Rocamadour" },
-    coordinates: { lat: 44.8, lng: 1.63 },
+    coords: [1.63, 44.8],
     description: {
       de: "Ein mittelalterliches Dorf, das steil in eine Felswand über dem Alzou-Tal gebaut wurde. Berühmter Wallfahrtsort.",
       hu: "Meredek sziklafalba épült középkori falu az Alzou-völgy felett. Híres zarándokhely.",
@@ -454,7 +454,7 @@ export const franceHistoryV2: POI[] = [
     type: "town",
     parent: "FR",
     name: { de: "Aigues-Mortes", hu: "Aigues-Mortes", ro: "Aigues-Mortes", en: "Aigues-Mortes" },
-    coordinates: { lat: 43.56, lng: 4.19 },
+    coords: [4.19, 43.56],
     description: {
       de: "Eine befestigte Stadt in der Camargue, gegründet von Ludwig IX. Sie diente als Ausgangspunkt für Kreuzzüge.",
       hu: "Erődített város a Camargue-ban, IX. Lajos alapította. A keresztes hadjáratok kiindulópontjaként szolgált.",
@@ -468,13 +468,25 @@ export const franceHistoryV2: POI[] = [
       en: ["13th century", "City walls", "Camargue", "Louis IX"],
     },
     imageHint: "Aigues-Mortes city walls",
+    descriptionAdvanced: {
+      de: "Aigues-Mortes ist eine befestigte Stadt im Süden Frankreichs, im Département Gard in der Region Okzitanien. Sie wurde im 13. Jahrhundert von König Ludwig IX. als Hafen für die Kreuzzüge gegründet. Die Stadtmauern sind fast vollständig erhalten und zählen zu den besten Beispielen mittelalterlicher Festungsarchitektur in Frankreich. Aigues-Mortes liegt in der Camargue, einem Feuchtgebiet. Die Salzproduktion aus den nahen Salinen ist traditionell bedeutend. Die Stadt hat etwa 8.000 Einwohner.",
+      hu: "Aigues-Mortes egy erődített város Dél-Franciaországban, Gard megyében, Occitanie régióban. A 13. században alapította IX. Lajos király, mint kikötőt a keresztes hadjáratokhoz. A városfalak szinte teljesen épen maradtak, és a középkori erődítmény építészet egyik legjobb példája Franciaországban. Aigues-Mortes a Camargue régióban található, amely vizes élőhely. A közeli sólepárlók sótermelése hagyományosan fontos. A városnak mintegy 8.000 lakosa van.",
+      ro: "Aigues-Mortes este un oraș fortificat în sudul Franței, în departamentul Gard, regiunea Occitania. A fost fondat în secolul al XIII-lea de regele Ludovic al IX-lea ca port pentru cruciade. Zidurile orașului sunt aproape complet conservate și sunt printre cele mai bune exemple de arhitectură medievală fortificată din Franța. Aigues-Mortes este situat în Camargue, o zonă umedă. Producția de sare din salinele din apropiere este tradițional importantă. Orașul are aproximativ 8.000 de locuitori.",
+      en: "Aigues-Mortes is a fortified city in southern France, in the Gard department, Occitanie region. Founded in the 13th century by King Louis IX as a port for the Crusades, its city walls are almost completely preserved and among the finest examples of medieval fortress architecture. Aigues-Mortes lies in the Camargue wetlands. Salt production from nearby salt pans has been historically significant. The city has about 8,000 inhabitants.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1240 gegründet.", "Die Stadtmauern sind 1,6 km lang.", "Der Tour de Constance ist 30 m hoch.", "Die Salinen produzieren 500.000 Tonnen Salz pro Jahr.", "Die Fläche der Stadtmauern beträgt 24 ha.", "Die Einwohnerzahl beträgt etwa 8.000."],
+      hu: ["A várost 1240-ben alapították.", "A városfalak 1,6 km hosszúak.", "A Tour de Constance 30 m magas.", "A sólepárlók évente 500.000 tonna sót termelnek.", "A városfalak területe 24 hektár.", "A lakosság mintegy 8.000 fő."],
+      ro: ["Orașul a fost fondat în 1240.", "Zidurile orașului au 1,6 km lungime.", "Turnul Tour de Constance are 30 m înălțime.", "Salinele produc 500.000 de tone de sare pe an.", "Suprafața zidurilor este de 24 de hectare.", "Populația este de aproximativ 8.000 de locuitori."],
+      en: ["The city was founded in 1240.", "City walls are 1.6 km long.", "Tour de Constance is 30 m high.", "Salt pans produce 500,000 tons of salt per year.", "The walled area is 24 hectares.", "Population is about 8,000."],
+    },
   },
   {
     id: "france-les-baux-history-v2",
     type: "ruins",
     parent: "FR",
     name: { de: "Les Baux-de-Provence", hu: "Les Baux-de-Provence", ro: "Les Baux-de-Provence", en: "Les Baux-de-Provence" },
-    coordinates: { lat: 43.74, lng: 4.79 },
+    coords: [4.79, 43.74],
     description: {
       de: "Ein historisches Dorf mit Burgruinen auf einem felsigen Plateau in der Provence. Bekannt für seine dramatische Lage.",
       hu: "Történelmi falu várromokkal egy sziklás fennsíkon Provence-ban. Drámai elhelyezkedéséről ismert.",
@@ -506,7 +518,7 @@ export const franceHistoryV2: POI[] = [
     type: "church",
     parent: "FR",
     name: { de: "Abtei Sénanque", hu: "Sénanque apátság", ro: "Abația Sénanque", en: "Sénanque Abbey" },
-    coordinates: { lat: 43.93, lng: 5.18 },
+    coords: [5.18, 43.93],
     description: {
       de: "Ein romanisches Zisterzienserkloster in der Provence, umgeben von berühmten Lavendelfeldern. Erbaut im 12. Jahrhundert.",
       hu: "Román stílusú ciszterci kolostor Provence-ban, híres levendulamezőkkel körülvéve. A 12. században épült.",
@@ -538,7 +550,7 @@ export const franceHistoryV2: POI[] = [
     type: "church",
     parent: "FR",
     name: { de: "Fontenay-Abtei", hu: "Fontenay apátság", ro: "Abația Fontenay", en: "Fontenay Abbey" },
-    coordinates: { lat: 47.63, lng: 4.39 },
+    coords: [4.39, 47.63],
     description: {
       de: "Eines der ältesten und am besten erhaltenen Zisterzienserklöster Europas. Es gehört zum UNESCO-Weltkulturerbe.",
       hu: "Európa egyik legrégebbi és legjobban megőrzött ciszterci kolostora. Az UNESCO világörökség része.",
@@ -570,7 +582,7 @@ export const franceHistoryV2: POI[] = [
     type: "village",
     parent: "FR",
     name: { de: "Conques", hu: "Conques", ro: "Conques", en: "Conques" },
-    coordinates: { lat: 44.59, lng: 2.39 },
+    coords: [2.39, 44.59],
     description: {
       de: "Ein malerisches mittelalterliches Dorf, bekannt für seine Abteikirche Sainte-Foy mit dem berühmten Tympanon.",
       hu: "Festői középkori falu, amely a híres timpanonnal díszített Sainte-Foy apátsági templomáról ismert.",
@@ -584,13 +596,25 @@ export const franceHistoryV2: POI[] = [
       en: ["Camino de Santiago", "Romanesque", "Sainte-Foy", "Medieval"],
     },
     imageHint: "Conques village and church",
+    descriptionAdvanced: {
+      de: "Conques ist ein mittelalterliches Dorf im Département Aveyron in Südfrankreich, bekannt für die Abteikirche Sainte-Foy, die am Jakobsweg liegt. Die Kirche wurde zwischen dem 11. und 12. Jahrhundert erbaut und ist ein Meisterwerk der romanischen Architektur. Sie beherbergt einen Reliquienschrein der Heiligen Fides. Das Dorf ist mit seinen engen Gassen und Steinhäusern gut erhalten. Conques hat etwa 250 Einwohner, wird aber jährlich von tausenden Pilgern und Touristen besucht.",
+      hu: "Conques egy középkori falu Dél-Franciaországban, Aveyron megyében, híres a Sainte-Foy apátsági templomról, amely a Szent Jakab-úton található. A templom a 11. és 12. század között épült, és a román építészet remekműve. Szent Fidesz ereklyetartóját őrzi. A falu keskeny utcáival és kőházaival jól megőrződött. Conquesnak mintegy 250 lakosa van, de évente több ezer zarándok és turista látogatja.",
+      ro: "Conques este un sat medieval în departamentul Aveyron, sudul Franței, cunoscut pentru biserica abațială Sainte-Foy, situată pe drumul de pelerinaj către Santiago de Compostela. Biserica a fost construită între secolele al XI-lea și al XII-lea și este o capodoperă a arhitecturii romanice. Adăpostește un relicvar al Sfintei Fides. Satul este bine conservat, cu străzi înguste și case de piatră. Conques are aproximativ 250 de locuitori, dar este vizitat anual de mii de pelerini și turiști.",
+      en: "Conques is a medieval village in the Aveyron department, southern France, known for the Abbey Church of Sainte-Foy, a stop on the Way of St. James. The church was built between the 11th and 12th centuries and is a masterpiece of Romanesque architecture. It houses a reliquary of Saint Faith. The village is well preserved with narrow streets and stone houses. Conques has about 250 inhabitants, but is visited by thousands of pilgrims and tourists annually.",
+    },
+    factsAdvanced: {
+      de: ["Die Abteikirche wurde 1050-1130 erbaut.", "Der Reliquienschrein stammt aus dem 9. Jahrhundert.", "Die Höhe des Gewölbes beträgt 20 m.", "Die Einwohnerzahl liegt bei 250.", "Conques liegt auf 250 m Höhe.", "Der Jakobsweg führt 500 km nach Santiago."],
+      hu: ["Az apátsági templom 1050-1130 között épült.", "Az ereklyetartó a 9. századból származik.", "A boltozat magassága 20 m.", "A lakosságszám 250 fő.", "Conques 250 m tengerszint feletti magasságban fekszik.", "A Szent Jakab-út 500 km-re van Santiagótól."],
+      ro: ["Biserica abațială a fost construită între 1050 și 1130.", "Relicvarul datează din secolul al IX-lea.", "Înălțimea bolții este de 20 m.", "Populația este de 250 de locuitori.", "Conques este la 250 m altitudine.", "Drumul de pelerinaj are 500 km până la Santiago."],
+      en: ["The abbey church was built 1050-1130.", "The reliquary dates from the 9th century.", "Vault height is 20 m.", "Population is 250.", "Conques is at 250 m elevation.", "The pilgrimage route is 500 km to Santiago."],
+    },
   },
   {
     id: "france-mont-st-michel-abbey-history-v2",
     type: "monument",
     parent: "FR",
     name: { de: "Abtei Mont-Saint-Michel", hu: "Mont-Saint-Michel apátság", ro: "Abația Mont-Saint-Michel", en: "Mont-Saint-Michel Abbey" },
-    coordinates: { lat: 48.63, lng: -1.51 },
+    coords: [-1.51, 48.63],
     description: {
       de: "Eine weltberühmte Abtei auf einer Gezeiteninsel in der Normandie. Ein Meisterwerk der mittelalterlichen Architektur.",
       hu: "Világhírű apátság egy árapályszigeten Normandiában. A középkori építészet remekműve.",
@@ -622,7 +646,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Burg Haut-Koenigsbourg", hu: "Haut-Koenigsbourg vár", ro: "Castelul Haut-Koenigsbourg", en: "Haut-Koenigsbourg Castle" },
-    coordinates: { lat: 48.24, lng: 7.34 },
+    coords: [7.34, 48.24],
     description: {
       de: "Eine beeindruckende Burg im Elsass, im frühen 20. Jahrhundert umfassend restauriert. Sie bietet einen weiten Blick über die Ebene.",
       hu: "Lenyűgöző vár Elzászban, amelyet a 20. század elején alaposan helyreállítottak. Kilátást nyújt az alföldre.",
@@ -654,7 +678,7 @@ export const franceHistoryV2: POI[] = [
     type: "palace",
     parent: "FR",
     name: { de: "Schloss Fontainebleau", hu: "Fontainebleau-i kastély", ro: "Palatul Fontainebleau", en: "Palace of Fontainebleau" },
-    coordinates: { lat: 48.4, lng: 2.7 },
+    coords: [2.7, 48.4],
     description: {
       de: "Eine der größten königlichen Residenzen Frankreichs, bewohnt von Herrschern vom 12. bis zum 19. Jahrhundert.",
       hu: "Franciaország egyik legnagyobb királyi rezidenciája, a 12. és 19. század közötti uralkodók lakták.",
@@ -686,7 +710,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Schloss Valençay", hu: "Valençay kastély", ro: "Castelul Valençay", en: "Château de Valençay" },
-    coordinates: { lat: 47.16, lng: 1.56 },
+    coords: [1.56, 47.16],
     description: {
       de: "Ein prächtiges Schloss im Loire-Tal, erbaut im 16. Jahrhundert. Bekannt als Wohnsitz von Talleyrand.",
       hu: "Pompás kastély a Loire-völgyben, a 16. században épült. Talleyrand rezidenciájaként ismert.",
@@ -718,7 +742,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Schloss Blois", hu: "Blois-i kastély", ro: "Castelul Blois", en: "Château de Blois" },
-    coordinates: { lat: 47.58, lng: 1.33 },
+    coords: [1.33, 47.58],
     description: {
       de: "Das Schloss von Blois vereint verschiedene Baustile von der Gotik bis zur Klassik. Es war Residenz mehrerer französischer Könige.",
       hu: "A Blois-i kastély a gótikától a klasszicizmusig ötvözi a különböző építészeti stílusokat. Több francia király rezidenciája volt.",
@@ -750,7 +774,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Schloss Amboise", hu: "Amboise-i kastély", ro: "Castelul Amboise", en: "Château d'Amboise" },
-    coordinates: { lat: 47.41, lng: 0.98 },
+    coords: [0.98, 47.41],
     description: {
       de: "Ehemalige Residenz der französischen Könige im Loire-Tal. Leonardo da Vinci wurde hier begraben.",
       hu: "A francia királyok egykori rezidenciája a Loire-völgyben. Leonardo da Vincit itt temették el.",
@@ -782,7 +806,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Schloss Azay-le-Rideau", hu: "Azay-le-Rideau kastély", ro: "Castelul Azay-le-Rideau", en: "Château d'Azay-le-Rideau" },
-    coordinates: { lat: 47.25, lng: 0.46 },
+    coords: [0.46, 47.25],
     description: {
       de: "Ein Juwel der französischen Renaissance im Loire-Tal, gelegen auf einer Insel im Fluss Indre.",
       hu: "A francia reneszánsz ékköve a Loire-völgyben, az Indre folyó egy szigetén fekszik.",
@@ -814,7 +838,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Schloss Carrouges", hu: "Carrouges kastély", ro: "Castelul Carrouges", en: "Château de Carrouges" },
-    coordinates: { lat: 48.54, lng: -0.15 },
+    coords: [-0.15, 48.54],
     description: {
       de: "Ein befestigtes Schloss in der Normandie mit einer beeindruckenden Backsteinfassade aus dem 15. Jahrhundert.",
       hu: "Erődített kastély Normandiában, lenyűgöző 15. századi tégla homlokzattal.",
@@ -846,7 +870,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Schloss Villandry", hu: "Villandry kastély", ro: "Castelul Villandry", en: "Château de Villandry" },
-    coordinates: { lat: 47.34, lng: 0.51 },
+    coords: [0.51, 47.34],
     description: {
       de: "Bekannt für seine weitläufigen, kunstvollen Renaissance-Gärten, die im frühen 20. Jahrhundert rekonstruiert wurden.",
       hu: "Híres kiterjedt, díszes reneszánsz kertjeiről, amelyeket a 20. század elején rekonstruáltak.",
@@ -878,7 +902,7 @@ export const franceHistoryV2: POI[] = [
     type: "castle",
     parent: "FR",
     name: { de: "Schloss Saumur", hu: "Saumur-i kastély", ro: "Castelul Saumur", en: "Château de Saumur" },
-    coordinates: { lat: 47.25, lng: -0.07 },
+    coords: [-0.07, 47.25],
     description: {
       de: "Eine beeindruckende Burg über der Loire, die als Residenz der Herzöge von Anjou diente.",
       hu: "Lenyűgöző vár a Loire felett, amely az Anjou hercegek rezidenciájaként szolgált.",
@@ -910,7 +934,7 @@ export const franceHistoryV2: POI[] = [
     type: "museum",
     parent: "FR",
     name: { de: "Museum Talleyrand", hu: "Talleyrand Múzeum", ro: "Muzeul Talleyrand", en: "Talleyrand Museum" },
-    coordinates: { lat: 47.16, lng: 1.56 },
+    coords: [1.56, 47.16],
     description: {
       de: "Das Museum widmet sich dem Leben von Charles-Maurice de Talleyrand, einem einflussreichen Diplomaten des 18. und 19. Jahrhunderts.",
       hu: "A múzeum Charles-Maurice de Talleyrand, a 18-19. századi befolyásos diplomata életének szentelt.",
@@ -942,7 +966,7 @@ export const franceHistoryV2: POI[] = [
     type: "ruins",
     parent: "FR",
     name: { de: "Burg La Ferté-Milon", hu: "La Ferté-Milon vára", ro: "Castelul La Ferté-Milon", en: "Château de La Ferté-Milon" },
-    coordinates: { lat: 49.17, lng: 3.12 },
+    coords: [3.12, 49.17],
     description: {
       de: "Eine monumentale Burgruine im Nordosten Frankreichs, deren Bau unter Ludwig I. von Orléans nie vollendet wurde.",
       hu: "Monumentális várrom Franciaország északkeleti részén, amelynek építése Orléans-i I. Lajos alatt sosem fejeződött be.",
@@ -974,7 +998,7 @@ export const franceHistoryV2: POI[] = [
     type: "town",
     parent: "FR",
     name: { de: "Brouage", hu: "Brouage", ro: "Brouage", en: "Brouage" },
-    coordinates: { lat: 45.85, lng: -1.06 },
+    coords: [-1.06, 45.85],
     description: {
       de: "Eine befestigte Stadt im Westen Frankreichs, einst ein bedeutender Salzhafen. Heute liegt sie im Landesinneren.",
       hu: "Erődített város Franciaország nyugati részén, egykor jelentős sókikötő volt. Ma a szárazföld belsejében található.",
@@ -1006,7 +1030,7 @@ export const franceHistoryV2: POI[] = [
     type: "town",
     parent: "FR",
     name: { de: "Caylus", hu: "Caylus", ro: "Caylus", en: "Caylus" },
-    coordinates: { lat: 44.23, lng: 1.77 },
+    coords: [1.77, 44.23],
     description: {
       de: "Ein mittelalterliches Dorf in Okzitanien mit erhaltenen Fachwerkhäusern und einer imposanten Burganlage.",
       hu: "Középkori falu Okzitániában, megőrzött favázas házakkal és impozáns várral.",
@@ -1038,7 +1062,7 @@ export const franceHistoryV2: POI[] = [
     type: "village",
     parent: "FR",
     name: { de: "Lavardin", hu: "Lavardin", ro: "Lavardin", en: "Lavardin" },
-    coordinates: { lat: 47.77, lng: 0.88 },
+    coords: [0.88, 47.77],
     description: {
       de: "Eines der schönsten Dörfer Frankreichs, bekannt für seine Burgruinen und die Kirche Saint-Genest mit Fresken.",
       hu: "Franciaország egyik legszebb faluja, amely várromjairól és freskókkal díszített Saint-Genest templomáról ismert.",
@@ -1070,7 +1094,7 @@ export const franceHistoryV2: POI[] = [
     type: "town",
     parent: "FR",
     name: { de: "Mont-Dore", hu: "Mont-Dore", ro: "Mont-Dore", en: "Mont-Dore" },
-    coordinates: { lat: 45.57, lng: 2.81 },
+    coords: [2.81, 45.57],
     description: {
       de: "Ein historischer Kurort in der Auvergne, berühmt für seine Thermalbäder im neobyzantinischen Stil.",
       hu: "Történelmi fürdőváros az Auvergne-ben, híres neobizánci stílusú termálfürdőiről.",

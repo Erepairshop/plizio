@@ -6,7 +6,7 @@ export const hungaryLifeV2: POI[] = [
     type: "park",
     parent: "HU",
     name: { de: "Donau-Ipoly-Nationalpark", hu: "Duna-Ipoly Nemzeti Park", ro: "Parcul Național Dunăre-Ipoly", en: "Danube-Ipoly National Park" },
-    coordinates: { lat: 47.7833, lng: 18.9167 },
+    coords: [18.9167, 47.7833],
     description: {
       de: "Der 1997 gegründete Nationalpark erstreckt sich entlang des Donauknies und des Ipoly-Flusses. Er schützt diverse Lebensräume von Flussauen bis zu bewaldeten Hügeln.",
       hu: "Az 1997-ben alapított nemzeti park a Dunakanyar és az Ipoly folyó mentén terül el. Folyómenti élőhelyektől az erdős dombságokig terjedő ökoszisztémákat véd.",
@@ -38,7 +38,7 @@ export const hungaryLifeV2: POI[] = [
     type: "park",
     parent: "HU",
     name: { de: "Körös-Maros-Nationalpark", hu: "Körös-Maros Nemzeti Park", ro: "Parcul Național Körös-Maros", en: "Körös-Maros National Park" },
-    coordinates: { lat: 46.55, lng: 20.9333 },
+    coords: [20.9333, 46.55],
     description: {
       de: "Dieser 1997 eingerichtete Park im Südosten Ungarns umfasst Feuchtgebiete und Puszta-Landschaften. Er ist ein bedeutendes Schutzgebiet für den Zug der Kraniche.",
       hu: "Az 1997-ben létrehozott dél-alföldi park vizes élőhelyeket és pusztai tájakat foglal magába. Jelentős védett terület a darvak vonulása számára.",
@@ -70,7 +70,7 @@ export const hungaryLifeV2: POI[] = [
     type: "wildlife",
     parent: "HU",
     name: { de: "Wildpark Százhalombatta", hu: "Százhalombattai Vadaspark", ro: "Parcul de animale Százhalombatta", en: "Százhalombatta Wildlife Park" },
-    coordinates: { lat: 47.3, lng: 18.9167 },
+    coords: [18.9167, 47.3],
     description: {
       de: "Der Wildpark in der Nähe von Százhalombatta bietet Besuchern die Möglichkeit, heimische ungarische Wildtierarten in einer natürlichen Umgebung zu beobachten.",
       hu: "A Százhalombatta melletti vadaspark lehetőséget biztosít a látogatóknak, hogy természetes környezetben figyeljék meg a honos magyar vadfajokat.",

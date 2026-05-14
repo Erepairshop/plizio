@@ -8,7 +8,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Böhmerwald", hu: "Šumava", ro: "Munții Šumava", en: "Bohemian Forest"},
     image: "/poi-images/czechrepublic-sumava-nature-v2.webp",
     coords: [13.5, 49.0],
-    coordinates: { lat: 49.0, lng: 13.5 },
+    coords: [13.5, 49.0],
     description: {
       de: "Dieses ausgedehnte Gebirge an der Grenze zu Deutschland und Österreich bildet eines der größten zusammenhängenden Waldgebiete Mitteleuropas. Es beherbergt zahlreiche Gletscherseen und Hochmoore.",
       hu: "Németországgal és Ausztriával határos hegység, Közép-Európa egyik legnagyobb összefüggő erdősége. Számos gleccsertó és magashegyi láp található a területén.",
@@ -43,7 +43,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravčická", en: "Pravcice Gate"},
     image: "/poi-images/czechrepublic-pravcicka-brana-nature-v2.webp",
     coords: [14.2817, 50.8839],
-    coordinates: { lat: 50.8839, lng: 14.2817 },
+    coords: [14.2817, 50.8839],
     description: {
       de: "Das Prebischtor ist das größte natürliche Sandsteinfelsentor in Europa und ein Wahrzeichen der Böhmischen Schweiz. Es überspannt eine beachtliche Breite am Rande einer Felswand.",
       hu: "Európa legnagyobb természetes homokkő kapuja, a Cseh Svájc jelképe. Egy sziklafal peremén található, monumentális méretekkel rendelkezik.",
@@ -78,7 +78,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Macocha-Abgrund", hu: "Macocha-szakadék", ro: "Prăpastia Macocha", en: "Macocha Abyss"},
     image: "/poi-images/czechrepublic-macocha-abyss-nature-v2.webp",
     coords: [16.729, 49.373],
-    coordinates: { lat: 49.373, lng: 16.729 },
+    coords: [16.729, 49.373],
     description: {
       de: "Diese Doline im Mährischen Karst ist die tiefste ihrer Art in Mitteleuropa. Sie entstand durch den Einsturz der Decke einer riesigen Höhle, durch die der Fluss Punkva fließt.",
       hu: "A Morva-karszt területén található víznyelő Közép-Európa legmélyebb ilyen jellegű szakadéka. Egy hatalmas barlang mennyezetének beomlásával keletkezett.",
@@ -114,7 +114,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Moldau", hu: "Vltava", ro: "Râul Vltava", en: "Vltava River"},
     image: "/poi-images/czechrepublic-vltava-river-nature-v2.webp",
     coords: [14.3, 49.5],
-    coordinates: { lat: 49.5, lng: 14.3 },
+    coords: [14.3, 49.5],
     description: {
       de: "Die Moldau ist der längste Fluss in der Tschechischen Republik und gilt als tschechischer Nationalfluss. Sie entspringt im Böhmerwald und fließt durch Prag, bevor sie in die Elbe mündet.",
       hu: "A Vltava (Moldva) Csehország leghosszabb folyója és nemzeti jelképe. A Šumavában ered, átfolyik Prágán, majd az Elbába torkollik.",
@@ -149,7 +149,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Punkva-Höhlen", hu: "Punkva-barlang", ro: "Peșterile Punkva", en: "Punkva Caves"},
     image: "/poi-images/czechrepublic-punkva-caves-nature-v2.webp",
     coords: [16.71, 49.37],
-    coordinates: { lat: 49.37, lng: 16.71 },
+    coords: [16.71, 49.37],
     description: {
       de: "Die Punkva-Höhlen sind das meistbesuchte Höhlensystem in Tschechien. Sie bieten eine unterirdische Bootsfahrt auf dem Fluss Punkva und enden am Boden des Macocha-Abgrunds.",
       hu: "A Punkva-barlang Csehország leglátogatottabb barlangrendszere. Föld alatti csónakázást kínál a Punkva folyón, és a Macocha-szakadék alján ér véget.",
@@ -184,7 +184,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Elbe", hu: "Elba", ro: "Râul Elba", en: "Elbe River"},
     image: "/poi-images/czechrepublic-elbe-river-nature-v2.webp",
     coords: [14.1, 50.5],
-    coordinates: { lat: 50.5, lng: 14.1 },
+    coords: [14.1, 50.5],
     description: {
       de: "Die Elbe entspringt im Riesengebirge und ist eine der wichtigsten Wasserstraßen Mitteleuropas. In Tschechien fließt sie durch fruchtbare Ebenen und tiefe Sandsteintäler.",
       hu: "Az Elba az Óriás-hegységben ered, és Közép-Európa egyik legfontosabb vízi útja. Csehországban termékeny síkságokon és mély homokkő völgyeken halad át.",
@@ -220,7 +220,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Prachauer Felsen", hu: "Prachovské skály", ro: "Stâncile Prachov", en: "Prachov Rocks"},
     image: "/poi-images/czechrepublic-prachov-rocks-nature-v2.webp",
     coords: [15.285, 50.468],
-    coordinates: { lat: 50.468, lng: 15.285 },
+    coords: [15.285, 50.468],
     description: {
       de: "Diese berühmte Felsengruppe im Böhmischen Paradies besteht aus hohen Sandsteintürmen, die durch Erosion geformt wurden. Sie bieten spektakuläre Aussichten und schmale Felsspalten.",
       hu: "A Cseh Paradicsom híres sziklacsoportja erózió által formált magas homokkő tornyokból áll. Látványos kilátóhelyeket és szűk sziklahadakat kínál.",
@@ -255,7 +255,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Boubín-Urwald", hu: "Boubín-őserdő", ro: "Pădurea Virgină Boubín", en: "Boubin Virgin Forest"},
     image: "/poi-images/czechrepublic-boubin-forest-nature-v2.webp",
     coords: [13.82, 48.98],
-    coordinates: { lat: 48.98, lng: 13.82 },
+    coords: [13.82, 48.98],
     description: {
       de: "Der Boubín-Urwald im Böhmerwald ist eines der ältesten und am besten erhaltenen Waldreservate Europas. Hier wachsen Fichten, Tannen und Buchen, die mehrere hundert Jahre alt sind.",
       hu: "A Šumavában található Boubín-őserdő Európa egyik legrégebbi és legjobb állapotban fennmaradt erdőrezervátuma. Több száz éves fenyők és bükkfák nőnek itt.",
@@ -290,7 +290,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Mácha-See", hu: "Máchovo jezero", ro: "Lacul Mácha", en: "Macha Lake"},
     image: "/poi-images/czechrepublic-macha-lake-nature-v2.webp",
     coords: [14.65, 50.58],
-    coordinates: { lat: 50.58, lng: 14.65 },
+    coords: [14.65, 50.58],
     description: {
       de: "Der Mácha-See ist eigentlich ein großer Teich, der im 14. Jahrhundert von Kaiser Karl IV. angelegt wurde. Heute ist er ein beliebtes Erholungsgebiet mit Sandstränden und Kiefernwäldern.",
       hu: "A Mácha-tó valójában egy hatalmas halastó, amelyet IV. Károly császár alapított a 14. században. Ma kedvelt üdülőhely homokos strandokkal és fenyőerdőkkel.",
@@ -325,7 +325,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Abgrund von Hranice", hu: "Hranicei-szakadék", ro: "Abisul Hranice", en: "Hranice Abyss"},
     image: "/poi-images/czechrepublic-hranice-abyss-nature-v2.webp",
     coords: [17.751, 49.531],
-    coordinates: { lat: 49.531, lng: 17.751 },
+    coords: [17.751, 49.531],
     description: {
       de: "Der Abgrund von Hranice ist die tiefste geflutete Höhle der Welt. Während der trockene Teil knapp 70 Meter tief ist, erreicht der wassergefüllte Teil Tiefen, die bisher nicht vollständig erforscht sind.",
       hu: "A Hranicei-szakadék a világ legmélyebb víz alatti barlangja. Míg a száraz rész közel 70 méter mély, a vízzel telt rész olyan mélységeket ér el, amelyeket még nem tudtak teljesen feltárni.",
@@ -360,7 +360,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Isergebirge", hu: "Jizera-hegység", ro: "Munții Jizera", en: "Jizera Mountains"},
     image: "/poi-images/czechrepublic-jizera-mountains-nature-v2.webp",
     coords: [15.25, 50.84],
-    coordinates: { lat: 50.84, lng: 15.25 },
+    coords: [15.25, 50.84],
     description: {
       de: "Das Isergebirge im Norden Böhmens schließt an das Riesengebirge an. Es ist bekannt für seine Granitfelsen, ausgedehnten Moore und als wichtiges Wintersportzentrum.",
       hu: "Észak-csehországi hegység, amely az Óriás-hegységhez kapcsolódik. Gránit szikláiról, kiterjedt lápjairól és fontos téli sportközpontjairól ismert.",
@@ -395,7 +395,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Nationales Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos Nature Reserve"},
     image: "/poi-images/czechrepublic-soos-reserve-nature-v2.webp",
     coords: [12.404, 50.147],
-    coordinates: { lat: 50.147, lng: 12.404 },
+    coords: [12.404, 50.147],
     description: {
       de: "Soos ist ein einzigartiges Moor- und Heidegebiet bei Franzensbad. Es ist bekannt für seine 'Mofetten' – kleine Schlammvulkane, aus denen Kohlendioxid sprudelt.",
       hu: "Soos egy egyedülálló lápvidék Františkovy Lázně közelében. Híres mofettáiról – kis sárvulkánokról, amelyekből szén-dioxid tör fel.",
@@ -430,7 +430,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Eger", hu: "Ohře", ro: "Râul Ohře", en: "Ohre River"},
     image: "/poi-images/czechrepublic-ohre-river-nature-v2.webp",
     coords: [13.0, 50.2],
-    coordinates: { lat: 50.2, lng: 13.0 },
+    coords: [13.0, 50.2],
     description: {
       de: "Die Eger entspringt in Bayern und fließt durch West- und Nordböhmen. Sie ist ein beliebter Fluss für Wasserwanderer und führt an bedeutenden Kurstädten wie Karlsbad vorbei.",
       hu: "Az Ohře Bajorországban ered, majd Nyugat- és Észak-Csehországon folyik keresztül. A vízi túrázók kedvelt folyója, érintve olyan fürdővárosokat, mint Karlovy Vary.",
@@ -465,7 +465,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Schwarzer See", hu: "Černé jezero", ro: "Lacul Negru", en: "Black Lake"},
     image: "/poi-images/czechrepublic-cerne-jezero-nature-v2.webp",
     coords: [13.18, 49.18],
-    coordinates: { lat: 49.18, lng: 13.18 },
+    coords: [13.18, 49.18],
     description: {
       de: "Der Schwarze See ist der größte und tiefste natürliche See in der Tschechischen Republik. Er liegt im Böhmerwald unterhalb der Seewand und ist glazialen Ursprungs.",
       hu: "A Fekete-tó Csehország legnagyobb és legmélyebb természetes tava. A Šumavában található a tófal alatt, gleccser eredetű.",
@@ -500,7 +500,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Glatzer Schneeberg", hu: "Králický Sněžník", ro: "Muntele Králický Sněžník", en: "Kralicky Sneznik"},
     image: "/poi-images/czechrepublic-kralicky-sneznik-nature-v2.webp",
     coords: [16.848, 50.207],
-    coordinates: { lat: 50.207, lng: 16.848 },
+    coords: [16.848, 50.207],
     description: {
       de: "Dieser Berg wird oft als 'Dach Europas' bezeichnet, da hier die Wasserscheiden von drei Meeren zusammentreffen. Er liegt an der Grenze zwischen Böhmen, Mähren und Polen.",
       hu: "Ezt a hegyet gyakran 'Európa tetőjének' nevezik, mivel itt találkozik három tenger vízválasztója. Csehország, Morvaország és Lengyelország határán fekszik.",
@@ -536,7 +536,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Lausitzer Gebirge", hu: "Luzsicei-hegység", ro: "Munții Lužické", en: "Lusatian Mountains"},
     image: "/poi-images/czechrepublic-lusatian-mountains-nature-v2.webp",
     coords: [14.65, 50.84],
-    coordinates: { lat: 50.84, lng: 14.65 },
+    coords: [14.65, 50.84],
     description: {
       de: "Das Lausitzer Gebirge ist ein Mittelgebirge an der Grenze zu Deutschland. Es ist geprägt durch Vulkankegel, Sandsteinfelsen und malerische Dörfer mit traditioneller Volksarchitektur.",
       hu: "A Luzsicei-hegység egy középhegység a német határon. Vulkáni kúpok, homokkő sziklák és festői falvak jellemzik hagyományos népi építészettel.",
@@ -571,7 +571,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Berounka", hu: "Berounka", ro: "Râul Berounka", en: "Berounka River"},
     image: "/poi-images/czechrepublic-berounka-river-nature-v2.webp",
     coords: [13.9, 49.9],
-    coordinates: { lat: 49.9, lng: 13.9 },
+    coords: [13.9, 49.9],
     description: {
       de: "Die Berounka entsteht durch den Zusammenfluss von vier Flüssen in Pilsen. Sie fließt durch das malerische Křivoklát-Gebiet und ist einer der beliebtesten tschechischen Flüsse für Kanufahrer.",
       hu: "A Berounka négy folyó összefolyásával keletkezik Plzeňben. A festői Křivoklát-vidéken folyik keresztül, és a cseh kenusok egyik legkedveltebb folyója.",
@@ -608,7 +608,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Sázava", hu: "Sázava", ro: "Râul Sázava", en: "Sazava River"},
     image: "/poi-images/czechrepublic-sazava-river-nature-v2.webp",
     coords: [14.7, 49.8],
-    coordinates: { lat: 49.8, lng: 14.7 },
+    coords: [14.7, 49.8],
     description: {
       de: "Die Sázava wird wegen ihrer goldfarbenen Trübung oft als 'Goldener Fluss' bezeichnet. Sie ist bekannt für ihre vielen Stromschnellen und tiefen Täler, die besonders bei Wanderern und Paddlern beliebt sind.",
       hu: "A Sázavát aranyszínű zavarossága miatt gyakran 'Aranyfolyónak' hívják. Sok zúgójáról és mély völgyéről ismert, amelyek a túrázók és evezősök kedvencei.",
@@ -643,7 +643,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Teufelssee", hu: "Ördög-tó", ro: "Lacul Diavolului", en: "Devil's Lake"},
     image: "/poi-images/czechrepublic-certovo-jezero-nature-v2.webp",
     coords: [13.203, 49.165],
-    coordinates: { lat: 49.165, lng: 13.203 },
+    coords: [13.203, 49.165],
     description: {
       de: "Der Teufelssee ist der am schwersten zugängliche Gletschersee im Böhmerwald. Er ist von Legenden umgeben und liegt in einem tiefen Kar unterhalb des Berges Jezerní hora.",
       hu: "Az Ördög-tó (Čertovo jezero) a Šumava legnehezebben megközelíthető gleccsertava. Legendák övezik, és a Jezerní hora alatti mély völgyben fekszik.",
@@ -678,7 +678,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Rejvíz-Moossee", hu: "Rejvízi-lápitó", ro: "Lacul de turbă Rejvíz", en: "Rejviz Moss Lake"},
     image: "/poi-images/czechrepublic-rejviz-lake-nature-v2.webp",
     coords: [17.301, 50.228],
-    coordinates: { lat: 50.228, lng: 17.301 },
+    coords: [17.301, 50.228],
     description: {
       de: "Der Große Moossee bei Rejvíz ist das Herzstück des größten Hochmoores in Mähren. Ein Holzsteg führt Besucher durch diese einzigartige, fast nordisch anmutende Landschaft.",
       hu: "A Rejvíz melletti Nagy-mohos-tó Morvaország legnagyobb magaslápjának szíve. Fapallókon járható be ez az egyedülálló, északi jellegű táj.",
@@ -713,7 +713,7 @@ export const czechrepublicNatureV2: POI[] = [
     name: { de: "Böhmische Schweiz", hu: "Cseh Svájc", ro: "Elveția Boemă", en: "Bohemian Switzerland"},
     image: "/poi-images/czechrepublic-bohemian-switzerland-nature-v2.webp",
     coords: [14.3, 50.9],
-    coordinates: { lat: 50.9, lng: 14.3 },
+    coords: [14.3, 50.9],
     description: {
       de: "Dieser Nationalpark im Norden Tschechiens ist Teil des Elbsandsteingebirges. Er ist geprägt durch monumentale Felsentürme, tiefe Täler und dichte Wälder.",
       hu: "Ez az észak-csehországi nemzeti park az Elbai-homokkőhegység része. Monumentális sziklatornyok, mély völgyek és sűrű erdők jellemzik.",
@@ -748,7 +748,7 @@ export const czechrepublicNatureV2: POI[] = [
     type: "river",
     name: { de: "Mumlavský vodopád", hu: "Mumlava-vízesés", ro: "Cascada Mumlava", en: "Mumlava Waterfall"},
     image: "/poi-images/czechrepublic-mumlava-waterfall-nature-v2.webp",
-    coordinates: { lat: 50.761, lng: 15.451 },
+    coords: [15.451, 50.761],
     description: {
       de: "Der Mumlavský vodopád ist ein wasserreicher Wasserfall in der Nähe von Harrachov im Riesengebirge. Er stürzt über Granitfelsen etwa 10 Meter tief in das Flussbett der Mumlava.",
       hu: "A Mumlava-vízesés egy látványos zuhatag Harrachov közelében, az Óriás-hegységben. A víz körülbelül 10 méter magasról zúdul le a gránit sziklákon kialakult medencékbe.",
@@ -781,7 +781,7 @@ export const czechrepublicNatureV2: POI[] = [
     type: "mountain",
     name: { de: "Broumovské stěny", hu: "Broumov-falak", ro: "Pereții Broumov", en: "Broumov Walls"},
     image: "/poi-images/czechrepublic-broumov-walls-nature-v2.webp",
-    coordinates: { lat: 50.55, lng: 16.283 },
+    coords: [16.283, 50.55],
     description: {
       de: "Die Broumovské stěny sind ein markanter Sandsteinrücken im Nordosten Böhmens. Das Gebiet zeichnet sich durch bizarre Felsformationen, tiefe Schluchten und weite Aussichtspunkte aus.",
       hu: "A Broumov-falak egy látványos homokkő gerinc Csehország északkeleti részén. A területet különleges sziklaformációk, mély szakadékok és panorámás kilátóhelyek jellemzik.",
@@ -815,7 +815,7 @@ export const czechrepublicNatureV2: POI[] = [
     type: "valley",
     name: { de: "Velká Amerika", hu: "Velká Amerika", ro: "Velká Amerika", en: "Velká Amerika Canyon"},
     image: "/poi-images/czechrepublic-velka-amerika-nature-v2.webp",
-    coordinates: { lat: 49.955, lng: 14.194 },
+    coords: [14.194, 49.955],
     description: {
       de: "Velká Amerika ist ein ehemaliger Kalksteinbruch in der Nähe der Burg Karlštejn, der oft als tschechischer Grand Canyon bezeichnet wird. Der tiefe Canyon ist teilweise mit einem blauen See gefüllt.",
       hu: "A Velká Amerika egy egykori mészkőbánya Karlštejn vára közelében, amelyet gyakran cseh Grand Canyonnak neveznek. A mély szurdok alján egy kék vizű tó található.",
@@ -849,7 +849,7 @@ export const czechrepublicNatureV2: POI[] = [
     type: "valley",
     name: { de: "Bílá Opava Tal", hu: "Bílá Opava-völgy", ro: "Valea Bílá Opava", en: "Bílá Opava Valley"},
     image: "/poi-images/czechrepublic-bila-opava-valley-nature-v2.webp",
-    coordinates: { lat: 50.076, lng: 17.26 },
+    coords: [17.26, 50.076],
     description: {
       de: "Das Tal der Weißen Oppa ist einer der schönsten Naturpfade im Altvatergebirge. Der Gebirgsfluss stürzt über zahlreiche Kaskaden und Wasserfälle durch eine wilde Felsschlucht.",
       hu: "A Bílá Opava-völgy a Jeseníky-hegység egyik legszebb tanösvénye. A hegyi patak számos zúgón és vízesésen keresztül folyik egy vadregényes sziklaszorosban.",
@@ -883,7 +883,7 @@ export const czechrepublicNatureV2: POI[] = [
     type: "mountain",
     name: { de: "Duppauer Gebirge", hu: "Doupov-hegység", ro: "Munții Doupov", en: "Doupov Mountains"},
     image: "/poi-images/czechrepublic-doupov-mountains-nature-v2.webp",
-    coordinates: { lat: 50.25, lng: 13.15 },
+    coords: [13.15, 50.25],
     description: {
       de: "Die Duppauer Gebirge sind eine ausgedehnte vulkanische Gebirgskette im Nordwesten Böhmens. Das Gebiet ist weitgehend unbewohnt und bietet eine wilde, unberührte Naturlandschaft.",
       hu: "A Doupov-hegység egy kiterjedt vulkanikus hegylánc Csehország északnyugati részén. A terület nagyrészt lakatlan, és vad, érintetlen természeti tájat kínál.",
@@ -917,7 +917,7 @@ export const czechrepublicNatureV2: POI[] = [
     type: "river",
     name: { de: "Lužnice", hu: "Lužnice", ro: "Lužnice", en: "Lužnice River"},
     image: "/poi-images/czechrepublic-luznice-river-nature-v2.webp",
-    coordinates: { lat: 49.23, lng: 14.43 },
+    coords: [14.43, 49.23],
     description: {
       de: "Die Lainsitz ist ein bedeutender Fluss in Südböhmen, der für seine Mäander und seine Bedeutung für den Kanusport bekannt ist. Sie fließt durch eine abwechslungsreiche Teichlandschaft.",
       hu: "A Lužnice egy jelentős dél-csehországi folyó, amely kanyarulatairól és a vízi turizmusban betöltött szerepéről ismert. Változatos, tavakkal tarkított tájon folyik keresztül.",

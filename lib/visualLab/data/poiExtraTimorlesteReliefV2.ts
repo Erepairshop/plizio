@@ -339,7 +339,20 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       hu: ["Jelentése 'Fehér Homok'.", "Népszerű helyi pihenőhely.", "A Cristo Rei szobor tekint le rá.", "Sok helyi étterem van a közelben."],
       ro: ["Înseamnă 'Nisip Alb'.", "Zonă de recreere populară.", "Supravegheată de statuia Cristo Rei.", "Multe restaurante locale în apropiere."],
       en: ["Means 'White Sand'.", "Popular local recreation area.", "Overlooked by the Cristo Rei statue.", "Many local restaurants nearby."]
-    }, image: "/poi-images/areia-branca-coast-relief-v2.webp"},
+    }, image: "/poi-images/areia-branca-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Areia Branca Coast ist ein Küstenabschnitt in Osttimor etwa 10 Kilometer westlich von Dili. Bekannt ist die Gegend für ihre schneeweißen Sandstrände und das klare türkisfarbene Wasser. Der Name 'Areia Branca' bedeutet auf Portugiesisch 'Weißer Sand'. Die Küste besteht aus Korallenriffen und flachen Buchten, ideal zum Schnorcheln. In der Nähe gibt es kleine Resorts und Restaurants. Der Strand ist bei Einheimischen und Touristen beliebt. Die Region erlebt starken Küstentourismus. Geologisch besteht die Küste aus gehobenem Korallenkalkstein.",
+      hu: "Az Areia Branca-part egy tengerparti szakasz Kelet-Timorban, mintegy 10 kilométerre nyugatra Dilitől. Híres hófehér homokos strandjairól és tiszta türkizkék vizéről. Az 'Areia Branca' portugálul 'Fehér Homok'-ot jelent. A part korallzátonyokból és sekély öblökből áll, ideális a snorkelezéshez. A közelben kis üdülőhelyek és éttermek találhatók. A strand népszerű a helyiek és a turisták körében. A régió erős tengerparti turizmust él meg. Geológiailag a part emelt korallmészkőből áll.",
+      ro: "Coasta Areia Branca este o porțiune de coastă în Timorul de Est, la aproximativ 10 kilometri vest de Dili. Este renumită pentru plajele sale cu nisip alb și apa turcoaz limpede. Numele 'Areia Branca' înseamnă 'Nisip Alb' în portugheză. Coasta constă din recife de corali și golfuri puțin adânci, ideale pentru snorkeling. În apropiere există stațiuni mici și restaurante. Plaja este populară printre localnici și turiști. Regiunea se confruntă cu un turism costier intens. Din punct de vedere geologic, coasta este formată din calcar coraligen ridicat.",
+      en: "The Areia Branca Coast is a coastal stretch in East Timor about 10 kilometers west of Dili. It is known for its white sand beaches and clear turquoise water. The name 'Areia Branca' means 'White Sand' in Portuguese. The coast features coral reefs and shallow bays, ideal for snorkeling. Nearby there are small resorts and restaurants. The beach is popular with locals and tourists. The region experiences strong coastal tourism. Geologically, the coast consists of uplifted coral limestone.",
+    },
+    factsAdvanced: {
+      de: ["Entfernung von Dili: 10 km", "Länge des Strandes: ca. 3 km", "Wassertemperatur: durchschnittlich 27°C", "Korallenrifffläche: ca. 50 ha", "Maximale Tiefe in den Buchten: 5 m", "Anzahl der Resorts: 5"],
+      hu: ["Távolság Dilitől: 10 km", "Strand hossza: kb. 3 km", "Víz hőmérséklete: átlagosan 27°C", "Korallzátony területe: kb. 50 ha", "Öblök maximális mélysége: 5 m", "Üdülőhelyek száma: 5"],
+      ro: ["Distanță de Dili: 10 km", "Lungimea plajei: circa 3 km", "Temperatura apei: medie 27°C", "Suprafața recifului de corali: circa 50 ha", "Adâncimea maximă a golfurilor: 5 m", "Număr de stațiuni: 5"],
+      en: ["Distance from Dili: 10 km", "Beach length: approx. 3 km", "Water temperature: average 27°C", "Coral reef area: approx. 50 ha", "Maximum depth in bays: 5 m", "Number of resorts: 5"],
+    },
+  },
   {
     id: "maliana-valley-relief-v2",
     type: "valley",

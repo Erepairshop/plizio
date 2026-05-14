@@ -275,7 +275,20 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Tel-Avivon folyik keresztül", "Népszerű pihenőövezet", "A Földközi-tengerbe ömlik", "Történelmi malmok a part mentén"],
       ro: ["Curge prin Tel Aviv", "Zonă populară de recreere", "Se varsă în Marea Mediterană", "Mori istorice de-a lungul râului"],
       en: ["Flows through Tel Aviv", "Popular recreation area", "Empties into the Mediterranean Sea", "Historical mills along the river"]
-    }, image: "/poi-images/il-yarkon-river-nature-v2.webp"},
+    }, image: "/poi-images/il-yarkon-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Yarkon-Fluss ist ein 27 km langer Küstenfluss im zentralen Israel, der in den Quellen des Yarkon (Rosh HaAyin) entspringt und bei Tel Aviv ins Mittelmeer mündet. Der Fluss war einst stark verschmutzt, wurde aber ab den 1990er Jahren umfassend saniert. Heute fließt er weitgehend naturnah und ist von Parks umgeben, darunter der Yarkon-Park in Tel Aviv. Der Fluss spielt eine wichtige Rolle bei der Ableitung von Hochwasser und der Grundwasserneubildung. Seine Ufer beherbergen verschiedene Vogelarten und Kleinsäuger. Die Wasserqualität wird regelmäßig überwacht. Der Yarkon ist auch ein Naherholungsgebiet für die Bevölkerung des Großraums Tel Aviv. Sein Einzugsgebiet umfasst etwa 1.800 km².",
+      hu: "A Jarkon folyó egy 27 km hosszú parti folyó Közép-Izraelben, amely a Jarkon-forrásokból (Rosh HaAyin) ered és Tel-Avivnál ömlik a Földközi-tengerbe. A folyó egykor erősen szennyezett volt, de az 1990-es évektől kezdődően nagyszabású tisztítási programok folytak. Ma már többnyire természetközeli állapotú, és parkok övezik, közülük a legnagyobb a Tel-Avivi Jarkon Park. A folyó fontos szerepet játszik az árvizek elvezetésében és a talajvíz utánpótlásában. Partjain madarak és kisemlősök élnek. Vízminőségét rendszeresen ellenőrzik. A Jarkon a nagytel-avivi térség lakóinak kedvelt pihenőhelye. Vízgyűjtő területe kb. 1800 km².",
+      ro: "Râul Yarkon este un râu de coastă de 27 km lungime în centrul Israelului, care izvorăște din izvoarele Yarkon (Rosh HaAyin) și se varsă în Marea Mediterană lângă Tel Aviv. A fost puternic poluat, dar începând cu anii 1990 a fost supus unor ample lucrări de reabilitare. Acum curge în mare parte natural și este înconjurat de parcuri, inclusiv Parcul Yarkon din Tel Aviv. Râul joacă un rol important în drenarea inundațiilor și realimentarea apelor subterane. Malurile sale găzduiesc diverse păsări și mamifere mici. Calitatea apei este monitorizată periodic. Yarkon este o zonă de agrement pentru populația din zona metropolitană Tel Aviv. Bazinul său hidrografic acoperă aproximativ 1.800 km².",
+      en: "The Yarkon River is a 27 km coastal river in central Israel, originating from the Yarkon springs (Rosh HaAyin) and flowing into the Mediterranean Sea near Tel Aviv. It was heavily polluted but underwent major rehabilitation from the 1990s onward. Today it flows mostly in a natural state and is flanked by parks, notably the Yarkon Park in Tel Aviv. The river is important for flood control and groundwater recharge. Its banks host diverse bird species and small mammals. Water quality is regularly monitored. The Yarkon is a recreational area for the Tel Aviv metropolitan population. Its drainage basin covers about 1,800 km².",
+    },
+    factsAdvanced: {
+      de: ["Länge: 27 km", "Quelle: Yarkon-Quellen bei Rosh HaAyin", "Mündung: Mittelmeer nahe Tel Aviv", "Sanierung ab den 1990er Jahren", "Einzugsgebiet: ca. 1.800 km²", "Yarkon-Park: größter Park Tel Avivs"],
+      hu: ["Hossz: 27 km", "Forrás: Jarkon-források (Rosh HaAyin)", "Torkolat: Földközi-tenger Tel-Avivnál", "Tisztítás az 1990-es évektől", "Vízgyűjtő terület: kb. 1800 km²", "Jarkon Park: Tel-Aviv legnagyobb parkja"],
+      ro: ["Lungime: 27 km", "Izvor: Izvoarele Yarkon (Rosh HaAyin)", "Varsare: Marea Mediterana langa Tel Aviv", "Reabilitare incepand cu anii 1990", "Bazin hidrografic: cca 1.800 km²", "Parcul Yarkon: cel mai mare parc din Tel Aviv"],
+      en: ["Length: 27 km", "Source: Yarkon springs at Rosh HaAyin", "Mouth: Mediterranean Sea near Tel Aviv", "Rehabilitation started in 1990s", "Drainage basin: approx. 1,800 km²", "Yarkon Park: largest park in Tel Aviv"],
+    },
+  },
   {
     id: "il-mount-meron-nature-v2",
     type: "mountain",
@@ -422,7 +435,20 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Látványos sziklafalak", "Kilátás a Galileai-tengerre", "Történelmi barlangerődök", "Népszerű túracélpont"],
       ro: ["Stânci impresionante", "Vedere spre Marea Galileei", "Cetăți rupestre istorice", "Destinație populară pentru drumeții"],
       en: ["Impressive cliffs", "View of the Sea of Galilee", "Historical cave fortresses", "Popular hiking destination"]
-    }, image: "/poi-images/il-mount-arbel-nature-v2.webp"},
+    }, image: "/poi-images/il-mount-arbel-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Berg Arbel ist ein 380 m hoher Berg in Galiläa im Nordosten Israels, nahe dem See Genezareth. Bekannt ist er für seine steilen Klippen, die aus Kalkstein des Miozäns bestehen. Auf dem Gipfel befinden sich die Ruinen einer jüdischen Siedlung aus der Zeit des Zweiten Tempels und eine Festung. Der Berg war ein strategischer Punkt während des Jüdischen Aufstands gegen die Römer. Der Nationalpark Arbel umfasst eine Fläche von etwa 2 Quadratkilometern und schützt eine vielfältige Flora und Fauna, darunter seltene Orchideen und Greifvögel. Vom Gipfel hat man einen weiten Blick auf das galiläische Bergland und den See Genezareth. Der Berg ist ein beliebtes Ziel für Wanderer und Kletterer. Jährlich besuchen etwa 150.000 Menschen das Gebiet.",
+      hu: "Az Arbel-hegy egy 380 méter magas hegy Galileában, Izrael északkeleti részén, a Genezáreti-tó közelében. Híres meredek szikláiról, melyek miocén kori mészkőből állnak. A csúcson egy második templom kori zsidó település és erőd romjai találhatók. A hegy stratégiai pont volt a zsidó felkelés idején a rómaiak ellen. Az Arbel Nemzeti Park körülbelül 2 négyzetkilométer területet ölel fel, és változatos növény- és állatvilágot véd, beleértve ritka orchideákat és ragadozó madarakat. A csúcsról kilátás nyílik Galilea hegyeire és a Genezáreti-tóra. A hegy népszerű túra- és mászóhely. Évente mintegy 150.000 látogató keresi fel.",
+      ro: "Muntele Arbel este un munte de 380 m înălțime în Galileea, nord-estul Israelului, lângă Marea Galileii. Este celebru pentru stâncile sale abrupte, formate din calcar miocen. Pe vârf se află ruinele unei așezări evreiești din perioada celui de-al Doilea Templu și ale unei fortărețe. Muntele a fost un punct strategic în timpul revoltei evreiești împotriva romanilor. Parcul Național Arbel se întinde pe aproximativ 2 km² și protejează o floră și faună diversă, inclusiv orhidee rare și păsări de pradă. De pe vârf se vede o panoramă a munților Galileii și a Mării Galileii. Muntele este o destinație populară pentru drumeții și alpinism. Aproximativ 150.000 de vizitatori vin anual.",
+      en: "Mount Arbel is a 380 m high mountain in Galilee, northeastern Israel, near the Sea of Galilee. It is known for its steep cliffs composed of Miocene limestone. On the summit are ruins of a Jewish settlement from the Second Temple period and a fortress. The mountain was a strategic site during the Jewish revolt against Rome. The Arbel National Park covers about 2 square kilometers, protecting diverse flora and fauna, including rare orchids and birds of prey. The summit offers panoramic views of the Galilean hills and the Sea of Galilee. The mountain is popular for hiking and climbing. Approximately 150,000 visitors come annually.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 380 m", "Gestein: miozäner Kalkstein", "Nationalparkfläche: ca. 2 km²", "Besucher jährlich: ca. 150.000", "Archäologie: Ruinen aus der Zeit des Zweiten Tempels", "Lage: nahe See Genezareth"],
+      hu: ["Magasság: 380 m", "Kőzet: miocén mészkő", "Nemzeti Park területe: kb. 2 km²", "Éves látogatók: kb. 150.000", "Régészet: második templom kori romok", "Elhelyezkedés: Genezáreti-tó közelében"],
+      ro: ["Inaltime: 380 m", "Roca: calcar miocen", "Suprafata parc national: cca 2 km²", "Vizitatori anual: cca 150.000", "Arheologie: ruine din perioada celui de-al Doilea Templu", "Langa Marea Galileii"],
+      en: ["Elevation: 380 m", "Rock type: Miocene limestone", "National park area: approx. 2 km²", "Annual visitors: approx. 150,000", "Archaeology: Second Temple period ruins", "Near Sea of Galilee"],
+    },
+  },
   {
     id: "il-yatir-forest-nature-v2",
     type: "forest",
@@ -441,7 +467,20 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["A legnagyobb telepített erdő", "Védvonal a sivatag ellen", "Fák milliói alkotják", "Egy borászat is található itt"],
       ro: ["Cea mai mare pădure plantată", "Barieră împotriva deșertului", "Milioane de copaci", "Găzduiește o cramă"],
       en: ["Largest planted forest", "Bulwark against the desert", "Millions of trees", "Home to a winery"]
-    }, image: "/poi-images/il-yatir-forest-nature-v2.webp"},
+    }, image: "/poi-images/il-yatir-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Yatir-Wald ist ein aufgeforstetes Waldgebiet im nördlichen Negev in Israel, nahe der Stadt Meitar. Er wurde ab 1964 vom Jüdischen Nationalfonds (KKL) gepflanzt und bedeckt heute etwa 30 Quadratkilometer. Der Wald besteht hauptsächlich aus Kiefern (Aleppo-Kiefer) und Zypressen, die in der halbtrockenen Region angepflanzt wurden. Der Wald ist wichtig für den Bodenschutz und die Kohlenstoffbindung. Aufgrund der Lage am Rande der Wüste ist er ein einzigartiger Lebensraum für Arten wie den Negev-Küsten-Skorpion und verschiedene Vogelarten. Der Wald ist Teil eines Forschungsprojekts zur Messung von Kohlenstoffflüssen, dem Yatir Forest Eddy Flux Tower. Er wird für Erholungszwecke genutzt, mit Wanderwegen und Picknickplätzen. Jährlich besuchen etwa 200.000 Menschen den Wald.",
+      hu: "A Jatir-erdő egy erdősített terület a Negev északi részén, Izraelben, Meitar városa közelében. 1964 óta ülteti a Zsidó Nemzeti Alap (KKL), ma kb. 30 négyzetkilométeren terül el. Főként aleppói fenyőből és ciprusból áll, melyeket a félszáraz éghajlaton telepítettek. Az erdő fontos szerepet játszik a talajvédelemben és a szén-dioxid megkötésében. A sivatag szélén fekszik, így egyedülálló élőhely olyan fajok számára, mint a negevi partiskorpió és különféle madarak. Az erdő része egy szén-dioxid-áramlást mérő kutatási projektnek, a Jatir Forest Eddy Flux Tower-nek. Szabadidős célokra is használják, túra- és piknikezőhelyekkel. Évente mintegy 200.000 látogató keresi fel.",
+      ro: "Pădurea Yatir este o pădure reîmpădurită în nordul deșertului Negev, Israel, lângă orașul Meitar. Plantată de Fondul Național Evreiesc (KKL) începând din 1964, acoperă acum aproximativ 30 km². Este compusă în principal din pin de Alep și chiparoși, adaptați la climatul semiarid. Pădurea are un rol important în protejarea solului și sechestrarea carbonului. Aflată la marginea deșertului, este un habitat unic pentru specii precum scorpionul de coastă al Negevului și diverse păsări. Face parte dintr-un proiect de cercetare a fluxului de carbon, Turnul de Vânt Yatir. Este utilizată pentru recreere, cu trasee de drumeții și zone de picnic. Aproximativ 200.000 de vizitatori vin anual.",
+      en: "Yatir Forest is a planted forest in the northern Negev of Israel, near the town of Meitar. It was established by the Jewish National Fund (KKL) in 1964 and now covers about 30 square kilometers. The forest is composed mainly of Aleppo pine and cypress trees, grown in a semi-arid environment. It plays a role in soil conservation and carbon sequestration. Located at the edge of the desert, it provides a unique habitat for species such as the Negev coastal scorpion and various birds. The forest is part of the Yatir Forest Eddy Flux Tower research project measuring carbon fluxes. It is used for recreation with hiking trails and picnic areas. Approximately 200,000 visitors come annually.",
+    },
+    factsAdvanced: {
+      de: ["Aufforstung ab 1964", "Fläche: ca. 30 km²", "Hauptbaumarten: Aleppo-Kiefer, Zypresse", "Lage: nördlicher Negev", "Besucher jährlich: ca. 200.000", "Forschung: Kohlenstofffluss-Messung"],
+      hu: ["Erdősítés kezdete: 1964", "Terület: kb. 30 km²", "Fő fafaj: aleppói fenyő, ciprus", "Elhelyezkedés: északi Negev", "Éves látogatók: kb. 200.000", "Kutatás: szén-dioxid áramlás mérése"],
+      ro: ["Plantare inceputa: 1964", "Suprafata: cca 30 km²", "Specii principale: pin de Alep, chiparos", "Localizare: nordul Negevului", "Vizitatori anual: cca 200.000", "Cercetare: masurarea fluxului de carbon"],
+      en: ["Afforestation started: 1964", "Area: approx. 30 km²", "Main tree species: Aleppo pine, cypress", "Location: northern Negev", "Annual visitors: approx. 200,000", "Research: carbon flux measurement"],
+    },
+  },
   {
     id: "il-snir-stream-nature-v2",
     type: "national-park",
@@ -460,7 +499,20 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["A Jordán leghosszabb forrásága", "Sűrű parti növényzet", "Egész évben folyó víz", "A vízben haladó túraútvonalak"],
       ro: ["Cel mai lung afluent al Iordanului", "Vegetație riverană densă", "Apă curgătoare tot anul", "Trasee de drumeție prin apă"],
       en: ["Longest source of the Jordan River", "Dense riparian vegetation", "Year-round flowing water", "Hiking trails through the water"]
-    }, image: "/poi-images/il-snir-stream-nature-v2.webp"},
+    }, image: "/poi-images/il-snir-stream-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Snir-Bach (hebräisch Nachal Snir) ist einer der Hauptzuflüsse des Jordans, der an den Hängen des Hermongebirges entspringt. Der Bach ist etwa 30 km lang und fließt durch die Golanhöhen. Er ist ein wichtiger Süßwasserlieferant für den See Genezareth. Das Snir-Bach Naturreservat wurde 1974 gegründet und erstreckt sich über etwa 3 Quadratkilometer. Es umfasst dichte Auwälder aus Platanen und Weiden. Die Region ist bekannt für ihre reiche Vogelwelt, darunter der Schwarzstorch und der Eisvogel. Im Frühling blühen zahlreiche Wildblumen. Der Bach ist ein beliebtes Ziel für Wanderungen und Picknicks. Jährlich besuchen rund 300.000 Menschen das Reservat.",
+      hu: "A Snir-patak (héberül Nachal Snir) a Jordán egyik fő mellékfolyója, amely a Hermon-hegység lejtőin ered. Hossza kb. 30 km, és a Golán-fennsíkon keresztül folyik. Fontos édesvízforrás a Genezáreti-tó számára. A Snir-patak Természetvédelmi Területet 1974-ben hozták létre, területe kb. 3 négyzetkilométer. Sűrű ártéri erdők jellemzik, platánokkal és fűzfákkal. A régió gazdag madárvilággal rendelkezik, például fekete gólyák és jégmadarak élnek itt. Tavasszal számos vadvirág nyílik. A patak népszerű túra- és piknikezőhely. Évente mintegy 300.000 látogató keresi fel.",
+      ro: "Pârâul Snir (ebraică Nachal Snir) este unul dintre principalii afluenți ai Iordanului, care izvorăște pe versanții Muntelui Hermon. Are aproximativ 30 km lungime și curge prin Înălțimile Golan. Este o sursă importantă de apă dulce pentru Marea Galileii. Rezervația Naturală Snir Stream a fost înființată în 1974 și se întinde pe circa 3 km². Cuprinde păduri de luncă dense, cu platani și sălcii. Zona este cunoscută pentru bogăția avifaunei, inclusiv barză neagră și pescăruș albastru. Primăvara înfloresc numeroase flori sălbatice. Pârâul este o destinație populară pentru drumeții și picnicuri. Aproximativ 300.000 de vizitatori anual.",
+      en: "The Snir Stream (Hebrew: Nachal Snir) is a major tributary of the Jordan River, originating on the slopes of Mount Hermon. It is approximately 30 km long and flows through the Golan Heights. It is a significant freshwater source for the Sea of Galilee. The Snir Stream Nature Reserve was established in 1974 and covers about 3 square kilometers. It features dense riparian forests of plane trees and willows. The area is noted for its birdlife, including black storks and kingfishers. In spring, wildflowers bloom abundantly. The stream is a popular spot for hiking and picnics. Around 300,000 visitors come annually.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 30 km", "Quelle: Hermon-Gebirge", "Mündung: Jordan", "Schutzgebietsgründung: 1974", "Fläche des Reservats: ca. 3 km²", "Jährliche Besucher: ca. 300.000"],
+      hu: ["Hossz: kb. 30 km", "Eredet: Hermon-hegység", "Torkolat: Jordán", "Védett terület alapítása: 1974", "Terület: kb. 3 km²", "Éves látogatók: kb. 300.000"],
+      ro: ["Lungime: cca 30 km", "Izvor: Muntele Hermon", "Varsare: raul Iordan", "Infinitare rezervatie: 1974", "Suprafata rezervatie: cca 3 km²", "Vizitatori anual: cca 300.000"],
+      en: ["Length: approx. 30 km", "Source: Mount Hermon", "Mouth: Jordan River", "Reserve established: 1974", "Reserve area: approx. 3 km²", "Annual visitors: approx. 300,000"],
+    },
+  },
   {
     id: "il-lake-ram-nature-v2",
     type: "lake",
@@ -479,7 +531,20 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Vulkáni krátertó", "A Golán-fennsíkon fekszik", "Almaültetvények veszik körül", "Nincs természetes lefolyása"],
       ro: ["Lac de crater vulcanic", "Situat în Înălțimile Golan", "Înconjurat de livezi de meri", "Fără scurgere naturală"],
       en: ["Volcanic crater lake", "Located in the Golan Heights", "Surrounded by apple orchards", "No natural outlet"]
-    }, image: "/poi-images/il-lake-ram-nature-v2.webp"},
+    }, image: "/poi-images/il-lake-ram-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ram-See (hebräisch Agam Ram) ist ein kleiner Kratersee im Norden Israels, am Fuße des Berges Ram auf den Golanhöhen. Der See liegt in einem Maarkrater, der durch vulkanische Aktivität entstanden ist. Der See hat eine Fläche von etwa 3,5 Hektar und eine maximale Tiefe von 6 Metern. Das Wasser des Sees ist sauerstoffarm, beherbergt aber eine einzigartige Mikrofauna. Der See ist von Vulkanitgestein und mediterraner Macchia umgeben. Das Naturreservat Ram Lake wurde 1971 ausgewiesen. Das Gebiet ist ein wichtiger Rastplatz für Zugvögel. Der Ram-See ist auch ein beliebter Ort zum Picknicken und Wandern. Die durchschnittliche Wassertemperatur beträgt im Sommer 25°C.",
+      hu: "A Ram-tó (héberül Agam Ram) egy kis krátertó Izrael északi részén, a Ram-hegy lábánál, a Golán-fennsíkon. A tó vulkanikus tevékenység következtében kialakult maar-kráterben fekszik. Területe kb. 3,5 hektár, maximális mélysége 6 méter. Vize oxigénszegény, de egyedi mikrofaunának ad otthont. A tavat vulkanikus kőzetek és mediterrán macchia veszi körül. A Ram-tó Természetvédelmi Területet 1971-ben hozták létre. A terület fontos pihenőhely a vonuló madarak számára. A tó népszerű piknikező és túrázóhely. Nyáron az átlagos vízhőmérséklet 25°C.",
+      ro: "Lacul Ram (ebraică Agam Ram) este un mic lac de crater în nordul Israelului, la poalele Muntelui Ram în Înălțimile Golan. Lacul se află într-un maar format prin activitate vulcanică. Are o suprafață de aproximativ 3,5 hectare și o adâncime maximă de 6 metri. Apa este săracă în oxigen, dar găzduiește o microfaună unică. Lacul este înconjurat de roci vulcanice și maki mediteranean. Rezervația Naturală Lacul Ram a fost declarată în 1971. Zona este un important loc de popas pentru păsările migratoare. Lacul este popular pentru picnicuri și drumeții. Temperatura medie a apei vara este de 25°C.",
+      en: "Lake Ram (Hebrew: Agam Ram) is a small crater lake in northern Israel, at the foot of Mount Ram on the Golan Heights. The lake sits in a maar crater formed by volcanic activity. It covers about 3.5 hectares with a maximum depth of 6 meters. The water is oxygen-poor but hosts a unique microfauna. The lake is surrounded by volcanic rocks and Mediterranean maquis. The Lake Ram Nature Reserve was established in 1971. The area is an important stopover for migratory birds. Lake Ram is a popular spot for picnicking and hiking. Summer average water temperature is 25°C.",
+    },
+    factsAdvanced: {
+      de: ["Typ: Maarkratersee", "Fläche: ca. 3,5 ha", "Maximale Tiefe: 6 m", "Schutzgebietsausweisung: 1971", "Lage: Golánhöhen", "Sommerwassertemperatur: 25°C"],
+      hu: ["Típus: maar-krátertó", "Terület: kb. 3,5 hektár", "Maximális mélység: 6 m", "Védetté nyilvánítás: 1971", "Elhelyezkedés: Golán-fennsík", "Nyári vízhőmérséklet: 25°C"],
+      ro: ["Tip: lac de crater maar", "Suprafata: cca 3,5 ha", "Adancime maxima: 6 m", "Declarare rezervatie: 1971", "Locatie: Inaltimile Golan", "Temperatura apei vara: 25°C"],
+      en: ["Type: maar crater lake", "Area: approx. 3.5 ha", "Maximum depth: 6 m", "Reserve declared: 1971", "Location: Golan Heights", "Summer water temperature: 25°C"],
+    },
+  },
   {
     id: "il-mount-gilboa-nature-v2",
     type: "mountain",
@@ -498,7 +563,20 @@ export const poiExtraIsraelNatureV2: POI[] = [
       hu: ["Híres tavaszi nősziromvirágzás", "Bibliai csaták helyszíne", "Kilátás a Jezréel-völgyre", "Népszerű panorámaút"],
       ro: ["Înflorirea faimoasă a irișilor", "Locul unor bătălii biblice", "Vedere spre Valea Izreel", "Drum panoramic popular"],
       en: ["Famous iris blossom in spring", "Site of biblical battles", "Overlooks the Jezreel Valley", "Popular scenic route"]
-    }, image: "/poi-images/il-mount-gilboa-nature-v2.webp"},
+    }, image: "/poi-images/il-mount-gilboa-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Berg Gilboa (hebräisch Har HaGilboa) ist ein Gebirgszug im Nordosten Israels, südlich der Jesreel-Ebene. Der höchste Gipfel ist der Höhenzug mit 497 m. Das Gebirge besteht aus Kalkstein und Kreide. Bekannt ist der Gilboa für seine endemische Flora, insbesondere die Gilboa-Schwertlilie (Iris haynei), die nur hier wächst. Auf dem Gebirge liegen mehrere archäologische Stätten, darunter die Ruinen der antiken Stadt Beth-Schean. In der Bibel wird der Gilboa als Ort der Schlacht erwähnt, in der König Saul fiel. Der Nationalpark Gilboa umfasst etwa 30 Quadratkilometer und ist ein beliebtes Wandergebiet. Der Berg bietet einen weiten Blick über die Jesreel-Ebene und das Jordantal.",
+      hu: "A Gilboa-hegy (héberül Har HaGilboa) egy hegyvonulat Izrael északkeleti részén, a Jezréel-síkságtól délre. Legmagasabb csúcsa 497 m. A hegység mészkőből és krétából áll. Híres endemikus növényvilágáról, különösen a Gilboa-nősziromról (Iris haynei), amely kizárólag itt nő. A hegyen több régészeti lelőhely található, köztük Bet-Sean ókori város romjai. A Bibliában a Gilboa Saul király halálának helyszíne. A Gilboa Nemzeti Park kb. 30 négyzetkilométeren terül el, népszerű túrázóhely. A hegyről kilátás nyílik a Jezréel-síkságra és a Jordán-völgyre.",
+      ro: "Muntele Gilboa (ebraică Har HaGilboa) este un lanț muntos în nord-estul Israelului, la sud de Câmpia Jezreel. Cel mai înalt vârf atinge 497 m. Munții sunt formați din calcar și cretă. Sunt cunoscuți pentru flora endemică, în special stânjenelul Gilboa (Iris haynei), care crește doar aici. Pe munte se află situri arheologice, inclusiv ruinele orașului antic Beit She'an. În Biblie, Gilboa este menționat ca locul bătăliei în care a murit regele Saul. Parcul Național Gilboa se întinde pe aproximativ 30 km² și este o zonă populară pentru drumeții. Muntele oferă o panoramă a Câmpiei Jezreel și a Văii Iordanului.",
+      en: "Mount Gilboa (Hebrew: Har HaGilboa) is a mountain range in northeastern Israel, south of the Jezreel Valley. Its highest peak is at 497 m. The mountains are composed of limestone and chalk. They are known for endemic flora, particularly the Gilboa iris (Iris haynei) that grows only there. Several archaeological sites exist, including ruins of the ancient city of Beit She'an. In the Bible, Gilboa is the site of the battle where King Saul fell. Gilboa National Park covers about 30 square kilometers and is popular for hiking. The mountain offers views of the Jezreel Valley and the Jordan Valley.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 497 m", "Gestein: Kalkstein, Kreide", "Endemische Art: Gilboa-Schwertlilie", "Nationalparkfläche: ca. 30 km²", "Biblischer Ort: Schlacht Sauls", "Lage: südlich der Jesreel-Ebene"],
+      hu: ["Legmagasabb csúcs: 497 m", "Kőzet: mészkő, kréta", "Endemikus faj: Gilboa-nőszirom", "Nemzeti Park területe: kb. 30 km²", "Bibliai hely: Saúl király csatája", "Jezréel-síkságtól délre"],
+      ro: ["Cel mai inalt varf: 497 m", "Roca: calcar, creta", "Specie endemica: stânjenel Gilboa", "Suprafata parc national: cca 30 km²", "Loc biblic: batalia regelui Saul", "Sudul Campiei Jezreel"],
+      en: ["Highest peak: 497 m", "Rock type: limestone, chalk", "Endemic species: Gilboa iris", "National park area: approx. 30 km²", "Biblical site: King Saul's battle", "South of Jezreel Valley"],
+    },
+  },
   {
     id: "il-ben-shemen-forest-nature-v2",
     type: "forest",

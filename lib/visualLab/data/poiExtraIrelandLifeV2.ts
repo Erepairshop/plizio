@@ -6,7 +6,7 @@ export const irelandLifeV2: POI[] = [
     type: "park",
     parent: "IE",
     name: { de: "Ballycroy National Park", hu: "Ballycroy Nemzeti Park", ro: "Parcul Național Ballycroy", en: "Ballycroy National Park" },
-    coordinates: { lat: 54.0833, lng: -9.6667 },
+    coords: [-9.6667, 54.0833],
     description: {
       de: "Dieser 1998 gegründete Park liegt in der Region Erris im County Mayo. Er schützt eine der größten unberührten Torfmoorlandschaften Irlands.",
       hu: "Az 1998-ban alapított park a Mayo megyei Erris régióban található. Írország egyik legnagyobb érintetlen tőzegláp területét védi.",
@@ -38,7 +38,7 @@ export const irelandLifeV2: POI[] = [
     type: "park",
     parent: "IE",
     name: { de: "Killarney Nationalpark", hu: "Killarney Nemzeti Park", ro: "Parcul Național Killarney", en: "Killarney National Park" },
-    coordinates: { lat: 52.0167, lng: -9.5 },
+    coords: [-9.5, 52.0167],
     description: {
       de: "Dieser Park umfasst die drei Seen von Killarney und die umliegenden Berge. Er war der erste Nationalpark, der 1932 in Irland ausgewiesen wurde.",
       hu: "A park a Killarney-i tavakat és a környező hegyeket foglalja magában. 1932-ben ez volt az első nemzeti park, amelyet Írországban kijelöltek.",
@@ -70,7 +70,7 @@ export const irelandLifeV2: POI[] = [
     type: "park",
     parent: "IE",
     name: { de: "Wicklow Mountains Nationalpark", hu: "Wicklow-hegység Nemzeti Park", ro: "Parcul Național Munții Wicklow", en: "Wicklow Mountains National Park" },
-    coordinates: { lat: 53.05, lng: -6.3333 },
+    coords: [-6.3333, 53.05],
     description: {
       de: "Der Park erstreckt sich über 20.000 Hektar in den Wicklow Mountains. Er schützt Moorlandschaften, Seen und historische Stätten.",
       hu: "A park 20 000 hektáron terül el a Wicklow-hegységben. Tőzeglápokat, tavakat és történelmi helyszíneket véd.",
@@ -102,7 +102,7 @@ export const irelandLifeV2: POI[] = [
     type: "park",
     parent: "IE",
     name: { de: "Burren Nationalpark", hu: "Burren Nemzeti Park", ro: "Parcul Național Burren", en: "Burren National Park" },
-    coordinates: { lat: 53.0333, lng: -9.1 },
+    coords: [-9.1, 53.0333],
     description: {
       de: "Dieser Park befindet sich im Südosten der Karstlandschaft Burren. Er ist bekannt für seine einzigartige Flora und Geologie.",
       hu: "Ez a park a Burren karsztvidék délkeleti részén található. Egyedülálló növényvilágáról és geológiájáról ismert.",
@@ -134,7 +134,7 @@ export const irelandLifeV2: POI[] = [
     type: "park",
     parent: "IE",
     name: { de: "Connemara Nationalpark", hu: "Connemara Nemzeti Park", ro: "Parcul Național Connemara", en: "Connemara National Park" },
-    coordinates: { lat: 53.55, lng: -9.9 },
+    coords: [-9.9, 53.55],
     description: {
       de: "Der Park im County Galway umfasst die Twelve Bens Bergkette. Er schützt Heideflächen, Moore und Graslandschaften.",
       hu: "A Galway megyében található park a Twelve Bens hegyvonulatot foglalja magában. Lápréteket, mocsarakat és gyepeket véd.",
@@ -166,7 +166,7 @@ export const irelandLifeV2: POI[] = [
     type: "park",
     parent: "IE",
     name: { de: "Fota Arboretum und Gärten", hu: "Fota Arborétum és Kertek", ro: "Arboretumul și Grădinile Fota", en: "Fota Arboretum and Gardens" },
-    coordinates: { lat: 51.8667, lng: -8.3 },
+    coords: [-8.3, 51.8667],
     description: {
       de: "Diese Gärten auf Fota Island beherbergen eine der bedeutendsten Pflanzensammlungen Irlands. Sie nutzen das milde Klima des Südens.",
       hu: "A Fota-szigeten található kertek Írország egyik legjelentősebb növénygyűjteményét őrzik. Kihasználják a déli part enyhe klímáját.",
@@ -198,7 +198,7 @@ export const irelandLifeV2: POI[] = [
     type: "park",
     parent: "IE",
     name: { de: "National Botanic Gardens Glasnevin", hu: "Glasnevin Nemzeti Botanikus Kert", ro: "Grădina Botanică Națională Glasnevin", en: "National Botanic Gardens Glasnevin" },
-    coordinates: { lat: 53.3717, lng: -6.2708 },
+    coords: [-6.2708, 53.3717],
     description: {
       de: "Die Gärten liegen in Glasnevin bei Dublin und wurden 1795 gegründet. Sie sind ein Zentrum für pflanzenkundliche Forschung.",
       hu: "A kertek a Dublin melletti Glasnevinben találhatók, és 1795-ben alapították őket. A botanikai kutatások központja.",
@@ -230,7 +230,7 @@ export const irelandLifeV2: POI[] = [
     type: "forest",
     parent: "IE",
     name: { de: "Slieve Bloom Mountains", hu: "Slieve Bloom-hegység", ro: "Munții Slieve Bloom", en: "Slieve Bloom Mountains" },
-    coordinates: { lat: 53.0833, lng: -7.6667 },
+    coords: [-7.6667, 53.0833],
     description: {
       de: "Diese sanften Berge liegen zwischen den Countys Laois und Offaly. Sie sind bekannt für ihre ausgedehnten Wälder und Moorlandschaften.",
       hu: "Ezek a szelíd hegyek Laois és Offaly megyék között húzódnak. Kiterjedt erdeikről és lápvidékeikről ismertek.",
@@ -262,7 +262,7 @@ export const irelandLifeV2: POI[] = [
     type: "valley",
     parent: "IE",
     name: { de: "Glendalough-Tal", hu: "Glendalough-völgy", ro: "Valea Glendalough", en: "Glendalough Valley" },
-    coordinates: { lat: 53.0117, lng: -6.3314 },
+    coords: [-6.3314, 53.0117],
     description: {
       de: "Das Tal liegt in den Wicklow Mountains und ist für seine zwei Seen bekannt. Es ist ein bedeutendes Ökosystem und Kulturerbe.",
       hu: "A völgy a Wicklow-hegységben található, és két taváról ismert. Jelentős ökoszisztéma és kulturális örökség.",
@@ -294,7 +294,7 @@ export const irelandLifeV2: POI[] = [
     type: "forest",
     parent: "IE",
     name: { de: "Derryclare Wald", hu: "Derryclare erdő", ro: "Pădurea Derryclare", en: "Derryclare Wood" },
-    coordinates: { lat: 53.4833, lng: -9.7 },
+    coords: [-9.7, 53.4833],
     description: {
       de: "Dieser Wald liegt am Ufer des Derryclare Lake in Connemara. Er besteht hauptsächlich aus alten Eichen- und Kiefernbeständen.",
       hu: "Ez az erdő a Connemara-beli Derryclare-tó partján fekszik. Főként régi tölgy- és fenyőállományokból áll.",
@@ -326,7 +326,7 @@ export const irelandLifeV2: POI[] = [
     type: "wildlife",
     parent: "IE",
     name: { de: "North Bull Island", hu: "North Bull-sziget", ro: "Insula North Bull", en: "North Bull Island" },
-    coordinates: { lat: 53.3667, lng: -6.15 },
+    coords: [-6.15, 53.3667],
     description: {
       de: "Diese künstliche Insel liegt in der Dublin Bay. Sie ist ein bedeutendes Vogelschutzgebiet und Ramsar-Gebiet.",
       hu: "Ez a mesterséges sziget a Dublini-öbölben található. Jelentős madárvédelmi terület és Ramsar-helyszín.",
@@ -358,7 +358,7 @@ export const irelandLifeV2: POI[] = [
     type: "forest",
     parent: "IE",
     name: { de: "Killarney Eichenwälder", hu: "Killarney tölgyerdők", ro: "Pădurile de stejar Killarney", en: "Killarney Oak Forests" },
-    coordinates: { lat: 51.9833, lng: -9.5167 },
+    coords: [-9.5167, 51.9833],
     description: {
       de: "Diese Wälder gehören zu den letzten intakten Eichenwäldern Irlands. Sie bieten ein einzigartiges Mikroklima und Artenvielfalt.",
       hu: "Ezek az erdők Írország utolsó épen maradt tölgyesei közé tartoznak. Egyedülálló mikroklímát és biológiai sokféleséget kínálnak.",
@@ -390,7 +390,7 @@ export const irelandLifeV2: POI[] = [
     type: "lake",
     parent: "IE",
     name: { de: "Lady's Island Lake", hu: "Lady's Island-tó", ro: "Lacul Lady's Island", en: "Lady's Island Lake" },
-    coordinates: { lat: 52.2333, lng: -6.4 },
+    coords: [-6.4, 52.2333],
     description: {
       de: "Ein Brackwassersee im County Wexford, der durch eine Nehrung vom Meer getrennt ist. Er dient als wichtiges Brutgebiet für Seeschwalben.",
       hu: "Wexford megyei brakkvizes tó, amelyet egy földsáv választ el a tengertől. Fontos költőhely a csérek számára.",
@@ -422,7 +422,7 @@ export const irelandLifeV2: POI[] = [
     type: "park",
     parent: "IE",
     name: { de: "Coole Park", hu: "Coole Park", ro: "Coole Park", en: "Coole Park" },
-    coordinates: { lat: 53.1167, lng: -8.8167 },
+    coords: [-8.8167, 53.1167],
     description: {
       de: "Dieser Park bei Gort im County Galway ist bekannt für seine 'Turloughs' oder periodischen Seen. Er ist Teil des Burren-Systems.",
       hu: "Ez a Galway megyei Gort melletti park a 'turlough'-okról, vagyis az időszakos tavakról ismert. A Burren-rendszer része.",
@@ -454,7 +454,7 @@ export const irelandLifeV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Nephin Beg Range", hu: "Nephin Beg hegylánc", ro: "Munții Nephin Beg", en: "Nephin Beg Range" },
-    coordinates: { lat: 54.05, lng: -9.5833 },
+    coords: [-9.5833, 54.05],
     description: {
       de: "Eine Gebirgskette in der Grafschaft Mayo. Sie bilden das Herzstück einer der abgelegensten Wildnisgebiete Irlands.",
       hu: "Hegylánc Mayo megyében. Írország egyik legtávolabbi vadonjának szívét alkotják.",
@@ -486,7 +486,7 @@ export const irelandLifeV2: POI[] = [
     type: "forest",
     parent: "IE",
     name: { de: "Glengarriff Wälder", hu: "Glengarriff erdők", ro: "Pădurile Glengarriff", en: "Glengarriff Woods" },
-    coordinates: { lat: 51.75, lng: -9.55 },
+    coords: [-9.55, 51.75],
     description: {
       de: "Ein Naturreservat im County Cork, bekannt für seine alten Eichenwälder. Es schützt auch seltene Farn- und Moosarten.",
       hu: "Természetvédelmi terület Cork megyében, amely régi tölgyeseiről ismert. Védi a ritka páfrányokat és mohafajokat is.",
@@ -518,7 +518,7 @@ export const irelandLifeV2: POI[] = [
     type: "landmark",
     parent: "IE",
     name: { de: "Slieve League Klippen", hu: "Slieve League sziklák", ro: "Stâncile Slieve League", en: "Slieve League Cliffs" },
-    coordinates: { lat: 54.6333, lng: -8.6833 },
+    coords: [-8.6833, 54.6333],
     description: {
       de: "Diese Klippen im County Donegal gehören zu den höchsten Meeresklippen Europas. Sie bieten Lebensraum für zahlreiche Seevögel.",
       hu: "Ezek a Donegal megyei sziklák Európa legmagasabb tengeri sziklái közé tartoznak. Számos tengeri madárnak nyújtanak élőhelyet.",
@@ -550,7 +550,7 @@ export const irelandLifeV2: POI[] = [
     type: "island",
     parent: "IE",
     name: { de: "Great Blasket Island", hu: "Great Blasket-sziget", ro: "Insula Great Blasket", en: "Great Blasket Island" },
-    coordinates: { lat: 52.1, lng: -10.5 },
+    coords: [-10.5, 52.1],
     description: {
       de: "Eine Insel vor der Dingle-Halbinsel, bekannt für ihre verlassenen Dörfer. Sie ist heute ein wichtiges Schutzgebiet für Robben.",
       hu: "A Dingle-félsziget előtti sziget, amely elhagyatott falvairól ismert. Ma fontos fókavédelmi terület.",
@@ -582,7 +582,7 @@ export const irelandLifeV2: POI[] = [
     type: "lake",
     parent: "IE",
     name: { de: "Fermanagh Seenplatte", hu: "Fermanagh tóvidék", ro: "Ținutul lacurilor Fermanagh", en: "Fermanagh Lakelands" },
-    coordinates: { lat: 54.3333, lng: -7.6333 },
+    coords: [-7.6333, 54.3333],
     description: {
       de: "Eine ausgedehnte Seenlandschaft mit hunderten Inseln. Die Region bietet Lebensraum für eine Vielzahl von Pflanzen und Tieren.",
       hu: "Kiterjedt tóvidék, több száz szigettel. A régió sokféle növény és állat számára nyújt élőhelyet.",

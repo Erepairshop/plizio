@@ -6,7 +6,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Biotech Park Basel", hu: "Biotech Park Bázel", ro: "Biotech Park Basel", en: "Biotech Park Basel" },
-    coordinates: { lat: 47.5697, lng: 7.6111 },
+    coords: [7.6111, 47.5697],
     description: {
       de: "Dieses Industrieareal beherbergt zahlreiche führende Unternehmen der Biotechnologiebranche. Es ist ein zentraler Knotenpunkt für Forschung und Entwicklung in der Region.",
       hu: "Ez az ipari terület számos vezető biotechnológiai vállalatnak ad otthont. A régió kutatási és fejlesztési tevékenységének központi csomópontja.",
@@ -38,7 +38,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Zürich-West", hu: "Zürich-West", ro: "Zürich-West", en: "Zurich-West" },
-    coordinates: { lat: 47.3872, lng: 8.5147 },
+    coords: [8.5147, 47.3872],
     description: {
       de: "Ehemaliges Industriequartier, das sich zu einem modernen Dienstleistungszentrum entwickelt hat. Heute prägen Bürogebäude und Start-ups das Bild.",
       hu: "Egykori ipari negyed, amely modern szolgáltatóközponttá alakult át. Ma irodaházak és induló vállalkozások határozzák meg a képet.",
@@ -70,7 +70,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "factory",
     parent: "CH",
     name: { de: "Goldraffinerie Mendrisio", hu: "Mendrisio Aranyfinomító", ro: "Rafinăria de aur Mendrisio", en: "Mendrisio Gold Refinery" },
-    coordinates: { lat: 45.8677, lng: 8.9904 },
+    coords: [8.9904, 45.8677],
     description: {
       de: "Eine der bedeutendsten Goldraffinerien weltweit befindet sich in dieser Tessiner Gemeinde. Sie verarbeitet einen großen Teil des globalen Handelsgoldes.",
       hu: "A világ egyik legjelentősebb aranyfinomítója ebben a ticinói községben található. A globális kereskedelmi arany jelentős részét dolgozza fel.",
@@ -102,7 +102,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Kraftwerk Grande Dixence", hu: "Grande Dixence Erőmű", ro: "Centrala electrică Grande Dixence", en: "Grande Dixence Power Plant" },
-    coordinates: { lat: 46.0967, lng: 7.4042 },
+    coords: [7.4042, 46.0967],
     description: {
       de: "Dieses Wasserkraftwerk in den Walliser Alpen zählt zu den leistungsstärksten Anlagen der Schweiz. Es nutzt das Schmelzwasser der umliegenden Gletscher.",
       hu: "Ez a völgyzáró gát a valais-i Alpokban az egyik legnagyobb teljesítményű erőmű Svájcban. A környező gleccserek olvadékvizét hasznosítja.",
@@ -134,7 +134,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "factory",
     parent: "CH",
     name: { de: "Uhrenindustrie Le Locle", hu: "Le Locle Óraipar", ro: "Industria orologeră Le Locle", en: "Le Locle Watch Industry" },
-    coordinates: { lat: 47.0558, lng: 6.7475 },
+    coords: [6.7475, 47.0558],
     description: {
       de: "Das Zentrum der Schweizer Uhrenproduktion im Juragebirge. Hier sind zahlreiche traditionsreiche Uhrenmanufakturen angesiedelt.",
       hu: "A svájci óragyártás központja a Jura-hegységben. Számos nagy múltú órakészítő manufaktúra található itt.",
@@ -166,7 +166,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Chemiepark Monthey", hu: "Monthey Vegyipari Park", ro: "Parcul chimic Monthey", en: "Monthey Chemical Park" },
-    coordinates: { lat: 46.2511, lng: 6.9452 },
+    coords: [6.9452, 46.2511],
     description: {
       de: "Einer der größten Chemie-Standorte der Schweiz im Unterwallis. Hier werden komplexe chemische Verbindungen und Spezialprodukte hergestellt.",
       hu: "Svájc egyik legnagyobb vegyipari központja az Alsó-Valais-ban. Komplex kémiai vegyületeket és speciális termékeket állítanak elő itt.",
@@ -198,7 +198,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Textilstandort St. Gallen", hu: "St. Gallen Textilipar", ro: "Centrul textil St. Gallen", en: "St. Gallen Textile Center" },
-    coordinates: { lat: 47.4245, lng: 9.3767 },
+    coords: [9.3767, 47.4245],
     description: {
       de: "St. Gallen ist historisch und wirtschaftlich ein bedeutendes Zentrum für Textilproduktion und Stickereien. Heute dominiert technisches Textil.",
       hu: "St. Gallen történelmileg és gazdaságilag is jelentős központja a textilgyártásnak és hímzésnek. Ma a műszaki textíliák dominálnak.",
@@ -230,7 +230,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Tech Cluster Zug", hu: "Zug Tech Cluster", ro: "Tech Cluster Zug", en: "Tech Cluster Zug" },
-    coordinates: { lat: 47.1662, lng: 8.5155 },
+    coords: [8.5155, 47.1662],
     description: {
       de: "Ein modernes Innovationszentrum im Kanton Zug, das sich auf Hightech-Unternehmen und IT-Dienstleistungen spezialisiert hat. Es zieht viele Firmen an.",
       hu: "Modern innovációs központ Zug kantonban, amely a csúcstechnológiás vállalatokra és IT-szolgáltatásokra szakosodott. Sok céget vonz.",
@@ -262,7 +262,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Biopôle Lausanne", hu: "Biopôle Lausanne", ro: "Biopôle Lausanne", en: "Biopôle Lausanne" },
-    coordinates: { lat: 46.5458, lng: 6.6432 },
+    coords: [6.6432, 46.5458],
     description: {
       de: "Ein wissenschaftlicher Park für Life Sciences nahe Lausanne. Hier arbeiten Start-ups eng mit Forschungsinstituten zusammen.",
       hu: "Tudományos park az élettudományok számára Lausanne közelében. Itt az induló vállalkozások szorosan együttműködnek kutatóintézetekkel.",
@@ -294,7 +294,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "factory",
     parent: "CH",
     name: { de: "Papierfabrik Biberist", hu: "Biberist Papírgyár", ro: "Fabrica de hârtie Biberist", en: "Biberist Paper Mill" },
-    coordinates: { lat: 47.1725, lng: 7.5794 },
+    coords: [7.5794, 47.1725],
     description: {
       de: "Ehemaliger bedeutender Standort der schweizerischen Papierindustrie im Kanton Solothurn. Heute wird das Areal teilweise neu genutzt.",
       hu: "Egykor jelentős telephely a svájci papíriparban Solothurn kantonban. Ma a területet részben új funkciókkal használják.",
@@ -326,7 +326,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Industriezentrum Winterthur", hu: "Winterthur Ipari Központ", ro: "Centrul industrial Winterthur", en: "Winterthur Industrial Center" },
-    coordinates: { lat: 47.4996, lng: 8.7302 },
+    coords: [8.7302, 47.4996],
     description: {
       de: "Winterthur hat eine lange Geschichte im Maschinenbau. Heute ist es Standort für viele spezialisierte Unternehmen der Industrie.",
       hu: "Winterthur hosszú történelemmel rendelkezik a gépgyártás terén. Ma számos specializált ipari vállalat székhelye.",
@@ -358,7 +358,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Technologiepark Yverdon", hu: "Yverdon Technológiai Park", ro: "Parcul tehnologic Yverdon", en: "Yverdon Technology Park" },
-    coordinates: { lat: 46.7785, lng: 6.6417 },
+    coords: [6.6417, 46.7785],
     description: {
       de: "Ein Zentrum für technologische Entwicklung in der Waadt. Es fördert die Zusammenarbeit zwischen lokalen Unternehmen und Ingenieuren.",
       hu: "Technológiai fejlesztési központ a Vaud kantonban. Elősegíti a helyi vállalatok és mérnökök közötti együttműködést.",
@@ -390,7 +390,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Solar-Cluster Wallis", hu: "Valais Napelemes Klaszter", ro: "Cluster solar Valais", en: "Valais Solar Cluster" },
-    coordinates: { lat: 46.2239, lng: 7.3621 },
+    coords: [7.3621, 46.2239],
     description: {
       de: "Das Wallis entwickelt sich zum Zentrum für Solartechnologie, insbesondere durch alpine Anlagen, die eine hohe Effizienz aufweisen.",
       hu: "Valais kanton a napelemes technológia központjává válik, különösen az alpesi létesítmények révén, amelyek nagy hatékonyságúak.",
@@ -422,7 +422,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "port",
     parent: "CH",
     name: { de: "Logistikdrehkreuz Olten", hu: "Olten Logisztikai Központ", ro: "Hub logistic Olten", en: "Olten Logistics Hub" },
-    coordinates: { lat: 47.3524, lng: 7.9038 },
+    coords: [7.9038, 47.3524],
     description: {
       de: "Olten ist einer der wichtigsten Eisenbahn- und Logistikknotenpunkte der Schweiz aufgrund seiner zentralen Lage.",
       hu: "Olten Svájc egyik legfontosabb vasúti és logisztikai csomópontja központi fekvése miatt.",
@@ -454,7 +454,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "factory",
     parent: "CH",
     name: { de: "Schokoladenwerk Flawil", hu: "Flawil Csokoládégyár", ro: "Fabrica de ciocolată Flawil", en: "Flawil Chocolate Factory" },
-    coordinates: { lat: 47.4147, lng: 9.1834 },
+    coords: [9.1834, 47.4147],
     description: {
       de: "Ein traditionsreicher Standort der schweizerischen Schokoladenindustrie in der Ostschweiz, bekannt für die Produktion von hochwertigen Exportartikeln.",
       hu: "A svájci csokoládéipar egyik nagy múltú telephelye Kelet-Svájcban, amely minőségi exporttermékek gyártásáról ismert.",
@@ -486,7 +486,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Industriestandort Schaffhausen", hu: "Schaffhausen Ipari Telephely", ro: "Centrul industrial Schaffhausen", en: "Schaffhausen Industrial Center" },
-    coordinates: { lat: 47.6973, lng: 8.6347 },
+    coords: [8.6347, 47.6973],
     description: {
       de: "Stadt mit langer industrieller Tradition, besonders in den Bereichen Uhrenherstellung und Metallverarbeitung.",
       hu: "Város hosszú ipari hagyományokkal, különösen az óragyártás és a fémfeldolgozás területén.",
@@ -518,7 +518,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Rechenzentrum Glattbrugg", hu: "Glattbrugg Adatközpont", ro: "Centrul de date Glattbrugg", en: "Glattbrugg Data Center" },
-    coordinates: { lat: 47.4357, lng: 8.5663 },
+    coords: [8.5663, 47.4357],
     description: {
       de: "Strategisch gelegenes Datenzentrum bei Zürich, das Finanz- und Dienstleistungsunternehmen mit IT-Infrastruktur versorgt.",
       hu: "Stratégiailag elhelyezkedő adatközpont Zürich közelében, amely IT-infrastruktúrával látja el a pénzügyi és szolgáltató vállalatokat.",
@@ -550,7 +550,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Maschinenindustrie Thun", hu: "Thun Gépipar", ro: "Industria de mașini Thun", en: "Thun Machinery Industry" },
-    coordinates: { lat: 46.7573, lng: 7.6288 },
+    coords: [7.6288, 46.7573],
     description: {
       de: "Ein Standort der Schweizer Industrie mit Fokus auf Maschinenbau und Militärtechnik, eingebettet in eine wirtschaftlich starke Region.",
       hu: "Svájci ipari telephely a gépgyártásra és katonai technikára összpontosítva, egy gazdaságilag erős régióban.",
@@ -582,7 +582,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Life Sciences Cluster Allschwil", hu: "Allschwil Élettudományi Klaszter", ro: "Cluster Life Sciences Allschwil", en: "Allschwil Life Sciences Cluster" },
-    coordinates: { lat: 47.5501, lng: 7.5459 },
+    coords: [7.5459, 47.5501],
     description: {
       de: "Ein hochmodernes Forschungsareal vor den Toren Basels, spezialisiert auf medizinische Forschung und Biotech-Entwicklungen.",
       hu: "Egy ultramodern kutatási terület Bázel kapujában, amely orvosi kutatásokra és biotechnológiai fejlesztésekre specializálódott.",
@@ -614,7 +614,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Industrie Wettingen", hu: "Wettingen Ipar", ro: "Industrie Wettingen", en: "Wettingen Industry" },
-    coordinates: { lat: 47.4665, lng: 8.3242 },
+    coords: [8.3242, 47.4665],
     description: {
       de: "Wettingen beherbergt eine Reihe kleinerer und mittlerer Industrieunternehmen, besonders im Bereich Metallverarbeitung und Design.",
       hu: "Wettingen számos kisebb és közepes ipari vállalkozásnak ad otthont, különösen a fémfeldolgozás és a formatervezés területén.",
@@ -646,7 +646,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "factory",
     parent: "CH",
     name: { de: "Uhrenfertigung Renens", hu: "Renens Óragyártás", ro: "Producția de ceasuri Renens", en: "Renens Watch Manufacturing" },
-    coordinates: { lat: 46.5392, lng: 6.5985 },
+    coords: [6.5985, 46.5392],
     description: {
       de: "Ein Standort nahe Lausanne, der sich durch spezialisierte Unternehmen in der Präzisionsfertigung von Uhrenkomponenten auszeichnet.",
       hu: "Lausanne közeli telephely, amely a precíziós óraalkatrészek gyártására szakosodott vállalatokról ismert.",
@@ -678,7 +678,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Milchwirtschaft Emmental", hu: "Emmental Tejipar", ro: "Industria lactatelor Emmental", en: "Emmental Dairy Industry" },
-    coordinates: { lat: 46.9667, lng: 7.7667 },
+    coords: [7.7667, 46.9667],
     description: {
       de: "Das Herz der Schweizer Käseproduktion, spezialisiert auf industrielle Herstellung und Verarbeitung von Milchprodukten für den Weltmarkt.",
       hu: "A svájci sajtfeldolgozás szíve, a tejtermékek ipari előállítására és feldolgozására szakosodott a világpiac számára.",
@@ -710,7 +710,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Chemie- und Engineering-Muttenz", hu: "Muttenz Vegyipar és Mérnökiroda", ro: "Chimie și inginerie Muttenz", en: "Muttenz Chemical and Engineering" },
-    coordinates: { lat: 47.5255, lng: 7.6425 },
+    coords: [7.6425, 47.5255],
     description: {
       de: "Wichtiger Industriestandort im Baselbiet, beheimatet große Chemieanlagen und Dienstleister für die Prozessindustrie.",
       hu: "Fontos ipari telephely Basel környékén, nagy vegyipari létesítményeknek és a folyamatipar számára nyújtott szolgáltatóknak ad otthont.",
@@ -742,7 +742,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "industry",
     parent: "CH",
     name: { de: "Innovation Park Zürich", hu: "Zürich Innovációs Park", ro: "Parcul de Inovare Zurich", en: "Zurich Innovation Park" },
-    coordinates: { lat: 47.4085, lng: 8.6187 },
+    coords: [8.6187, 47.4085],
     description: {
       de: "Ein Innovationscluster auf dem ehemaligen Flugplatzgelände Dübendorf, das Start-ups und Forschungseinrichtungen zusammenbringt.",
       hu: "Innovációs klaszter a volt dübendorfi repülőtér területén, amely összehozza az induló vállalkozásokat és a kutatóintézeteket.",
@@ -774,7 +774,7 @@ export const switzerlandEconomicV2: POI[] = [
     type: "port",
     parent: "CH",
     name: { de: "Logistikzentrum Dietikon", hu: "Dietikon Logisztikai Központ", ro: "Centrul logistic Dietikon", en: "Dietikon Logistics Center" },
-    coordinates: { lat: 47.4055, lng: 8.4042 },
+    coords: [8.4042, 47.4055],
     description: {
       de: "Ein wichtiges Verteilzentrum im Großraum Zürich, das Waren für den gesamten Schweizer Markt umschlägt.",
       hu: "Fontos elosztóközpont a zürichi régióban, amely árukat mozgat a teljes svájci piac számára.",

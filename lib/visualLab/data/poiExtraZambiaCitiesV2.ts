@@ -518,7 +518,20 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Agricultural központ", "Named after Chief Monze", "Important road connection"],
       ro: ["Agricultural centru", "Named after Chief Monze", "Important road connection"],
       en: ["Agricultural center", "Named after Chief Monze", "Important road connection"]
-    }, image: "/poi-images/monze-cities-v2.webp"},
+    }, image: "/poi-images/monze-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Monze ist eine Stadt in der Südprovinz von Sambia, etwa 200 km südwestlich der Hauptstadt Lusaka gelegen. Sie ist das Verwaltungszentrum des Distrikts Monze und liegt an der Eisenbahnlinie nach Livingstone. Die Stadt hat etwa 40.000 Einwohner (Stand 2022). Monze ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Mais, Tabak und Baumwolle. Die Region ist auch für die Tonga-Kultur bekannt. In der Nähe befinden sich die Monze-Falls, ein kleiner Wasserfall. Die Stadt verfügt über einen Flugplatz und ist ein Verkehrsknotenpunkt. Monze hat ein Krankenhaus, Schulen und Märkte. Die Wirtschaft wird durch Kleinhandel und Landwirtschaft geprägt.",
+      hu: "Monze egy város Zambia déli tartományában, Lusaka fővárostól kb. 200 km-re délnyugatra. A Monze körzet közigazgatási központja, és a Livingstone felé vezető vasútvonal mentén fekszik. A város lakossága kb. 40 000 fő (2022). Monze mezőgazdasági központ, híres kukorica-, dohány- és gyapottermesztésről. A régió a tonga kultúráról is ismert. A közelben találhatók a Monze-vízesések, egy kisebb vízesés. A város rendelkezik repülőtérrel és közlekedési csomópont. Monze-ban kórház, iskolák és piacok vannak. A gazdaságot a kiskereskedelem és a mezőgazdaság jellemzi.",
+      ro: "Monze este un oraș din provincia de Sud a Zambiei, la aproximativ 200 km sud-vest de capitala Lusaka. Este centrul administrativ al districtului Monze și se află pe linia de cale ferată către Livingstone. Orașul are aproximativ 40.000 de locuitori (2022). Monze este un centru agricol, cunoscut pentru cultivarea porumbului, tutunului și bumbacului. Regiunea este cunoscută și pentru cultura Tonga. În apropiere se află Cascadele Monze, o cascadă mică. Orașul are un aeroport și este un nod de transport. Monze are un spital, școli și piețe. Economia este dominată de comerțul cu amănuntul și agricultură.",
+      en: "Monze is a town in Zambia's Southern Province, about 200 km southwest of the capital Lusaka. It is the administrative center of Monze District and lies on the railway line to Livingstone. The town has approximately 40,000 inhabitants (2022). Monze is an agricultural hub, known for growing maize, tobacco, and cotton. The region is also known for the Tonga culture. Nearby are the Monze Falls, a small waterfall. The town has an airport and is a transport junction. Monze has a hospital, schools, and markets. The economy is characterized by retail trade and agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 40.000 (2022).", "Entfernung von Lusaka: 200 km.", "Liegt an der Eisenbahnlinie von Lusaka nach Livingstone.", "Bekannt für Mais, Tabak und Baumwolle.", "Monze Falls: Höhe ca. 20 m.", "Verwaltungssitz des Monze-Distrikts."],
+      hu: ["Lakosság: kb. 40 000 (2022).", "Távolság Lusakától: 200 km.", "A Lusaka–Livingstone vasútvonal mentén.", "Híres kukoricáról, dohányról és gyapotról.", "Monze-vízesés: kb. 20 m magas.", "A Monze körzet közigazgatási központja."],
+      ro: ["Populație: aproximativ 40.000 (2022).", "Distanța față de Lusaka: 200 km.", "Situat pe linia ferată Lusaka-Livingstone.", "Cunoscut pentru porumb, tutun și bumbac.", "Cascadele Monze: înălțime de aprox. 20 m.", "Centru administrativ al districtului Monze."],
+      en: ["Population: approx. 40,000 (2022).", "Distance from Lusaka: 200 km.", "Located on the Lusaka-Livingstone railway line.", "Known for maize, tobacco, and cotton.", "Monze Falls: height approx. 20 m.", "Administrative seat of Monze District."],
+    },
+  },
   {
     id: "mpika-cities-v2",
     type: "city",
@@ -537,7 +550,20 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főbb transport junction", "Található in Muchinga Tartomány", "TAZARA railway station"],
       ro: ["Major transport junction", "Situat in Muchinga Provincia", "TAZARA railway station"],
       en: ["Major transport junction", "Located in Muchinga Province", "TAZARA railway station"]
-    }, image: "/poi-images/mpika-cities-v2.webp"},
+    }, image: "/poi-images/mpika-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mpika ist eine Stadt in der Nordprovinz von Sambia, etwa 600 km nordöstlich von Lusaka gelegen. Sie ist ein wichtiges Handels- und Dienstleistungszentrum für die umliegenden ländlichen Gebiete. Die Stadt hat etwa 60.000 Einwohner (Stand 2022). Mpika liegt an der Great North Road, einer wichtigen Verkehrsverbindung nach Tansania. Die Wirtschaft basiert auf Landwirtschaft, mit Schwerpunkt auf Mais, Bohnen und Kaffee. In der Nähe liegt der North-Luangwa-Nationalpark, ein bedeutendes Naturschutzgebiet. Mpika hat einen Flugplatz, Krankenhäuser und weiterführende Schulen. Die Stadt ist auch für den Mpika-Markt bekannt. Die Region ist ethnisch vielfältig, mit Bemba und anderen Gruppen.",
+      hu: "Mpika egy város Zambia északi tartományában, Lusakától kb. 600 km-re északkeletre. Fontos kereskedelmi és szolgáltatási központ a környező vidéki területek számára. A város lakossága kb. 60 000 fő (2022). Mpika a Great North Road mentén fekszik, amely fontos közlekedési útvonal Tanzánia felé. A gazdaság a mezőgazdaságon alapul, főként kukorica, bab és kávé termesztésén. A közelben található a North-Luangwa Nemzeti Park, egy jelentős természetvédelmi terület. Mpika repülőtérrel, kórházakkal és középiskolákkal rendelkezik. A város híres a Mpika piacról is. A régió etnikailag sokszínű, bemba és más csoportokkal.",
+      ro: "Mpika este un oraș din provincia de Nord a Zambiei, la aproximativ 600 km nord-est de Lusaka. Este un important centru comercial și de servicii pentru zonele rurale din jur. Orașul are aproximativ 60.000 de locuitori (2022). Mpika se află pe Great North Road, o rută majoră de transport către Tanzania. Economia se bazează pe agricultură, cu accent pe porumb, fasole și cafea. În apropiere se află Parcul Național North Luangwa, o arie protejată importantă. Mpika are un aeroport, spitale și școli secundare. Orașul este cunoscut și pentru piața Mpika. Regiunea este diversă etnic, cu bemba și alte grupuri.",
+      en: "Mpika is a town in Zambia's Northern Province, about 600 km northeast of Lusaka. It is an important commercial and service center for surrounding rural areas. The town has approximately 60,000 inhabitants (2022). Mpika lies on the Great North Road, a major transport route to Tanzania. The economy is based on agriculture, focusing on maize, beans, and coffee. Nearby is North Luangwa National Park, a significant wildlife reserve. Mpika has an airstrip, hospitals, and secondary schools. The town is also known for Mpika Market. The region is ethnically diverse, with Bemba and other groups.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 60.000 (2022).", "Entfernung von Lusaka: 600 km.", "Liegt an der Great North Road (T1).", "Wirtschaft: Mais, Bohnen, Kaffee.", "Nähe zum North-Luangwa-Nationalpark.", "Höhe: ca. 1.200 m über dem Meeresspiegel."],
+      hu: ["Lakosság: kb. 60 000 (2022).", "Távolság Lusakától: 600 km.", "A Great North Road (T1) mentén.", "Gazdaság: kukorica, bab, kávé.", "Közel a North-Luangwa Nemzeti Parkhoz.", "Tengerszint feletti magasság: kb. 1200 m."],
+      ro: ["Populație: aprox. 60.000 (2022).", "Distanța față de Lusaka: 600 km.", "Situat pe Great North Road (T1).", "Economie: porumb, fasole, cafea.", "Aproape de Parcul Național North Luangwa.", "Altitudine: aprox. 1.200 m deasupra nivelului mării."],
+      en: ["Population: approx. 60,000 (2022).", "Distance from Lusaka: 600 km.", "Located on the Great North Road (T1).", "Economy: maize, beans, coffee.", "Near North Luangwa National Park.", "Elevation: approx. 1,200 m above sea level."],
+    },
+  },
   {
     id: "nchelenge-cities-v2",
     type: "city",
@@ -556,7 +582,20 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Található on Lake Mweru", "Fishing industry központ", "Határ Város near DRC"],
       ro: ["Situat on Lake Mweru", "Fishing industry centru", "Graniță Oraș near DRC"],
       en: ["Located on Lake Mweru", "Fishing industry center", "Border town near DRC"]
-    }, image: "/poi-images/nchelenge-cities-v2.webp"},
+    }, image: "/poi-images/nchelenge-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Nchelenge ist eine Stadt in der Provinz Luapula in Sambia, am Südufer des Mweru-Sees gelegen. Sie ist das Verwaltungszentrum des Distrikts Nchelenge. Die Stadt hat etwa 50.000 Einwohner (Stand 2022). Nchelenge ist ein wichtiger Fischereistützpunkt, der den See und die umliegenden Feuchtgebiete nutzt. Die Wirtschaft umfasst Fischerei, Landwirtschaft (Manick, Mais) und Kleinhandel. Der Ort hat einen kleinen Hafen und einen Flugplatz. Die Fähre verbindet Nchelenge mit dem gegenüberliegenden Ufer in der Demokratischen Republik Kongo. In der Trockenzeit sind viele unbefestigte Straßen passierbar. Die Region ist bekannt für den Mweru-Wantipa-Nationalpark. Die Bevölkerung gehört hauptsächlich zu den Luba und Bemba.",
+      hu: "Nchelenge egy város Zambia Luapula tartományában, a Mweru-tó déli partján. A Nchelenge körzet közigazgatási központja. A város lakossága kb. 50 000 fő (2022). Nchelenge fontos halászati központ, a tó és a környező vizes élőhelyek kihasználásával. A gazdaság magában foglalja a halászatot, mezőgazdaságot (manióka, kukorica) és kiskereskedelmet. A település kis kikötővel és repülőtérrel rendelkezik. Komp köti össze Nchelengét a Kongói Demokratikus Köztársaság túloldalával. A száraz évszakban sok földút járható. A régió híres a Mweru-Wantipa Nemzeti Parkról. A lakosság főként luba és bemba.",
+      ro: "Nchelenge este un oraș din provincia Luapula din Zambia, pe malul sudic al lacului Mweru. Este centrul administrativ al districtului Nchelenge. Orașul are aproximativ 50.000 de locuitori (2022). Nchelenge este un important centru de pescuit, valorificând lacul și zonele umede din jur. Economia include pescuitul, agricultura (manioc, porumb) și comerțul cu amănuntul. Localitatea are un port mic și un aerodrom. Un feribot leagă Nchelenge de malul opus din Republica Democrată Congo. În sezonul uscat, multe drumuri de pământ sunt practicabile. Regiunea este cunoscută pentru Parcul Național Mweru-Wantipa. Populația aparține în principal grupurilor Luba și Bemba.",
+      en: "Nchelenge is a town in Zambia's Luapula Province, on the southern shore of Lake Mweru. It is the administrative center of Nchelenge District. The town has approximately 50,000 inhabitants (2022). Nchelenge is an important fishing base, exploiting the lake and surrounding wetlands. The economy includes fishing, agriculture (cassava, maize), and petty trade. The settlement has a small port and an airstrip. A ferry connects Nchelenge with the opposite shore in the Democratic Republic of Congo. During the dry season, many dirt roads are passable. The region is known for Mweru-Wantipa National Park. The population is mainly Luba and Bemba.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 50.000 (2022).", "Liegt am Südufer des Mweru-Sees.", "Seehöhe: ca. 920 m über dem Meeresspiegel.", "Fischerei und Maniok-Anbau dominieren.", "Fährverbindung in die DR Kongo.", "Nähe zum Mweru-Wantipa-Nationalpark."],
+      hu: ["Lakosság: kb. 50 000 (2022).", "A Mweru-tó déli partján fekszik.", "Tó magassága: kb. 920 m tengerszint felett.", "Halászat és manióka termesztés dominál.", "Kompos összeköttetés a Kongói DK-val.", "Közel a Mweru-Wantipa Nemzeti Parkhoz."],
+      ro: ["Populație: aprox. 50.000 (2022).", "Situat pe malul sudic al lacului Mweru.", "Altitudinea lacului: aprox. 920 m deasupra nivelului mării.", "Pescuitul și cultivarea maniocului domină.", "Legătură cu feribotul către RDC.", "Aproape de Parcul Național Mweru-Wantipa."],
+      en: ["Population: approx. 50,000 (2022).", "Located on the southern shore of Lake Mweru.", "Lake elevation: approx. 920 m above sea level.", "Fishing and cassava cultivation dominate.", "Ferry connection to DRC.", "Near Mweru-Wantipa National Park."],
+    },
+  },
   {
     id: "kawambwa-cities-v2",
     type: "city",
@@ -575,7 +614,20 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Tea growing region", "Lumangwe Falls nearby", "Administrative hub"],
       ro: ["Tea growing region", "Lumangwe Falls nearby", "Administrative hub"],
       en: ["Tea growing region", "Lumangwe Falls nearby", "Administrative hub"]
-    }, image: "/poi-images/kawambwa-cities-v2.webp"},
+    }, image: "/poi-images/kawambwa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kawambwa ist eine Stadt in der Provinz Luapula in Sambia, etwa 200 km nordwestlich von Mansa gelegen. Sie ist das Verwaltungszentrum des Distrikts Kawambwa. Die Stadt hat etwa 30.000 Einwohner (Stand 2022). Kawambwa ist ein landwirtschaftliches Zentrum mit Schwerpunkt auf Maniok, Mais und Bohnen. Die Region ist bekannt für den Kawambwa-Wasserfall, einen etwa 30 Meter hohen Wasserfall am Luapula-Fluss. Die Stadt hat einen Markt, Schulen und ein Krankenhaus. Die Straßenanbindung ist begrenzt; viele Wege sind unbefestigt. Die Wirtschaft wird auch durch die Fischerei im nahen Mweru-See ergänzt. Die Bevölkerung besteht hauptsächlich aus Luba-sprechenden Gruppen.",
+      hu: "Kawambwa egy város Zambia Luapula tartományában, Mansától kb. 200 km-re északnyugatra. A Kawambwa körzet közigazgatási központja. A város lakossága kb. 30 000 fő (2022). Kawambwa mezőgazdasági központ, fő terményei a manióka, kukorica és bab. A régió híres a Kawambwa-vízesésről, egy kb. 30 méter magas vízesésről a Luapula folyón. A városban piac, iskolák és kórház található. Az úthálózat korlátozott; sok út földút. A gazdaságot a közeli Mweru-tó halászata is kiegészíti. A lakosság főként luba nyelvű csoportokból áll.",
+      ro: "Kawambwa este un oraș în provincia Luapula din Zambia, la aproximativ 200 km nord-vest de Mansa. Este centrul administrativ al districtului Kawambwa. Orașul are aproximativ 30.000 de locuitori (2022). Kawambwa este un centru agricol, cu accent pe manioc, porumb și fasole. Regiunea este cunoscută pentru Cascada Kawambwa, o cascadă de aproximativ 30 de metri pe râul Luapula. Orașul are o piață, școli și un spital. Accesul rutier este limitat; multe drumuri sunt de pământ. Economia este completată de pescuitul pe lacul Mweru. Populația este în principal formată din grupuri vorbitoare de Luba.",
+      en: "Kawambwa is a town in Zambia's Luapula Province, about 200 km northwest of Mansa. It is the administrative center of Kawambwa District. The town has approximately 30,000 inhabitants (2022). Kawambwa is an agricultural center focusing on cassava, maize, and beans. The region is known for Kawambwa Falls, a 30-meter-high waterfall on the Luapula River. The town has a market, schools, and a hospital. Road access is limited; many routes are unpaved. The economy is supplemented by fishing on nearby Lake Mweru. The population is mainly Luba-speaking groups.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 30.000 (2022).", "Entfernung von Mansa: 200 km.", "Höhe des Wasserfalls: 30 m.", "Hauptanbau: Maniok, Mais, Bohnen.", "Liegt am Luapula-Fluss.", "Distrikt Kawambwa hat eine Fläche von etwa 7.000 km²."],
+      hu: ["Lakosság: kb. 30 000 (2022).", "Távolság Mansától: 200 km.", "Vízesés magassága: 30 m.", "Fő termények: manióka, kukorica, bab.", "A Luapula folyó mellett fekszik.", "Kawambwa körzet területe kb. 7000 km²."],
+      ro: ["Populație: aprox. 30.000 (2022).", "Distanța față de Mansa: 200 km.", "Înălțimea cascadei: 30 m.", "Culturi principale: manioc, porumb, fasole.", "Situat pe râul Luapula.", "Districtul Kawambwa are o suprafață de aproximativ 7.000 km²."],
+      en: ["Population: approx. 30,000 (2022).", "Distance from Mansa: 200 km.", "Waterfall height: 30 m.", "Main crops: cassava, maize, beans.", "Located on the Luapula River.", "Kawambwa District area: about 7,000 km²."],
+    },
+  },
   {
     id: "mbala-cities-v2",
     type: "city",
@@ -1370,7 +1422,20 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Közlekedési csomópont", "Mezőgazdasági központ", "A TAZARA vasútvonal mentén"],
       ro: ["Centru agricol și forestier", "Punct de acces către cascadele Kundalila", "Găzduiește un aerodrom local", "Situat în provincia Centrală"],
       en: ["Muchinga province town.", "On the Great North Road.", "Transport transit point."]
-    }, image: "/poi-images/serenje-cities-v2.webp"},
+    }, image: "/poi-images/serenje-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Serenje ist eine Stadt in der Zentralprovinz von Sambia, etwa 350 km nordöstlich von Lusaka gelegen. Sie ist das Verwaltungszentrum des Distrikts Serenje. Die Stadt hat etwa 25.000 Einwohner (Stand 2022). Serenje liegt an der Great North Road und der Eisenbahnlinie nach Kapiri Mposhi. Die Wirtschaft basiert auf Landwirtschaft (Mais, Tabak, Rinder) und Bergbau (Kupfervorkommen in der Region). In der Nähe befinden sich die Kundalila-Wasserfälle, die etwa 50 Meter hoch sind. Die Stadt hat einen Markt, Krankenhäuser und Internate. Serenje ist bekannt für seine freundliche Bevölkerung und seine Rolle als Zwischenstopp auf dem Weg nach Norden.",
+      hu: "Serenje egy város Zambia központi tartományában, Lusakától kb. 350 km-re északkeletre. A Serenje körzet közigazgatási központja. A város lakossága kb. 25 000 fő (2022). Serenje a Great North Road és a Kapiri Mposhi felé vezető vasútvonal mentén fekszik. A gazdaság a mezőgazdaságon (kukorica, dohány, szarvasmarha) és a bányászaton (rézlelőhelyek a régióban) alapul. A közelben találhatók a Kundalila-vízesések, amelyek kb. 50 méter magasak. A városban piac, kórházak és internátusok vannak. Serenje barátságos lakosságáról és az északi út menti pihenőhely szerepéről ismert.",
+      ro: "Serenje este un oraș din provincia Centrală a Zambiei, la aproximativ 350 km nord-est de Lusaka. Este centrul administrativ al districtului Serenje. Orașul are aproximativ 25.000 de locuitori (2022). Serenje se află pe Great North Road și pe linia ferată către Kapiri Mposhi. Economia se bazează pe agricultură (porumb, tutun, vite) și minerit (zăcăminte de cupru în regiune). În apropiere se află Cascadele Kundalila, înalte de aproximativ 50 de metri. Orașul are o piață, spitale și școli-internat. Serenje este cunoscut pentru populația prietenoasă și rolul de oprire pe drumul spre nord.",
+      en: "Serenje is a town in Zambia's Central Province, about 350 km northeast of Lusaka. It is the administrative center of Serenje District. The town has approximately 25,000 inhabitants (2022). Serenje lies on the Great North Road and the railway line to Kapiri Mposhi. The economy is based on agriculture (maize, tobacco, cattle) and mining (copper deposits in the region). Nearby are the Kundalila Falls, about 50 meters high. The town has a market, hospitals, and boarding schools. Serenje is known for its friendly people and role as a stopover on the way north.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 25.000 (2022).", "Entfernung von Lusaka: 350 km.", "Höhe der Kundalila-Fälle: 50 m.", "Wichtige Anbauprodukte: Mais, Tabak.", "Eisenbahnverbindung nach Kapiri Mposhi.", "Fläche des Distrikts: ca. 12.000 km²."],
+      hu: ["Lakosság: kb. 25 000 (2022).", "Távolság Lusakától: 350 km.", "Kundalila-vízesés magassága: 50 m.", "Fő termények: kukorica, dohány.", "Vasúti kapcsolat Kapiri Mposhi felé.", "A körzet területe: kb. 12 000 km²."],
+      ro: ["Populație: aprox. 25.000 (2022).", "Distanța față de Lusaka: 350 km.", "Înălțimea cascadelor Kundalila: 50 m.", "Culturi principale: porumb, tutun.", "Legătură feroviară către Kapiri Mposhi.", "Suprafața districtului: aproximativ 12.000 km²."],
+      en: ["Population: approx. 25,000 (2022).", "Distance from Lusaka: 350 km.", "Kundalila Falls height: 50 m.", "Main crops: maize, tobacco.", "Railway connection to Kapiri Mposhi.", "District area: about 12,000 km²."],
+    },
+  },
   {
     id: "mkushi-cities-v2",
     type: "city",

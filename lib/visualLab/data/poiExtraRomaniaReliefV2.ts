@@ -6,7 +6,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Parângul Mare", hu: "Parângul Mare", ro: "Parângul Mare", en: "Parângul Mare" },
-    coordinates: { lat: 45.3486, lng: 23.5358 },
+    coords: [23.5358, 45.3486],
     description: {
       de: "Der Parângul Mare ist der höchste Gipfel der Parâng-Gebirgsgruppe in den Südkarpaten. Er erreicht eine Höhe von 2.519 Metern über dem Meeresspiegel.",
       hu: "A Parângul Mare a Parâng-hegység legmagasabb csúcsa a Déli-Kárpátokban. Tengerszint feletti magassága eléri a 2519 métert.",
@@ -38,7 +38,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Păpușa", hu: "Păpușa-csúcs", ro: "Vârful Păpușa", en: "Păpușa Peak" },
-    coordinates: { lat: 45.5181, lng: 25.0483 },
+    coords: [25.0483, 45.5181],
     description: {
       de: "Der Vârful Păpușa ist einer der markanten Gipfel im Iezer-Păpușa-Gebirge. Er erhebt sich auf eine Höhe von 2.391 Metern.",
       hu: "A Păpușa-csúcs az Iezer-Păpușa-hegység egyik jelentős kiemelkedése. Magassága eléri a 2391 métert.",
@@ -70,7 +70,7 @@ export const romaniaReliefV2: POI[] = [
     type: "landmark",
     parent: "RO",
     name: { de: "Getische Hochebene", hu: "Géta-fennsík", ro: "Podișul Getic", en: "Getic Plateau" },
-    coordinates: { lat: 44.85, lng: 24.2 },
+    coords: [24.2, 44.85],
     description: {
       de: "Die Getische Hochebene liegt zwischen den Südkarpaten und der Walachischen Tiefebene. Sie ist durch ein Hügelland geprägt.",
       hu: "A Géta-fennsík a Déli-Kárpátok és a Havasalföldi-síkság között helyezkedik el. A területet dombvidéki jelleg jellemzi.",
@@ -102,7 +102,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Omu", hu: "Omu-csúcs", ro: "Vârful Omu", en: "Omu Peak" },
-    coordinates: { lat: 45.445, lng: 25.4544 },
+    coords: [25.4544, 45.445],
     description: {
       de: "Der Vârful Omu ist der höchste Punkt im Bucegi-Gebirge. Er erreicht eine Höhe von 2.507 Metern über dem Meeresspiegel.",
       hu: "Az Omu-csúcs a Bucsecs-hegység legmagasabb pontja. Tengerszint feletti magassága 2507 méter.",
@@ -134,7 +134,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Pietrosul Rodnei", hu: "Pietrosul Rodnei", ro: "Vârful Pietrosul Rodnei", en: "Pietrosul Rodnei Peak" },
-    coordinates: { lat: 47.595, lng: 24.6397 },
+    coords: [24.6397, 47.595],
     description: {
       de: "Der Vârful Pietrosul Rodnei ist der höchste Berg der Ostkarpaten. Er erhebt sich auf 2.303 Meter im Rodna-Gebirge.",
       hu: "A Pietrosul Rodnei a Keleti-Kárpátok legmagasabb hegycsúcsa. A Radnai-havasokban 2303 méterre emelkedik.",
@@ -166,7 +166,7 @@ export const romaniaReliefV2: POI[] = [
     type: "landmark",
     parent: "RO",
     name: { de: "Siebenbürgisches Hochland", hu: "Erdélyi-medence", ro: "Podișul Transilvaniei", en: "Transylvanian Plateau" },
-    coordinates: { lat: 46.5, lng: 24.5 },
+    coords: [24.5, 46.5],
     description: {
       de: "Das Siebenbürgische Hochland umschließt das zentrale Becken Rumäniens. Es ist von den Karpaten bogenförmig umgeben.",
       hu: "Az Erdélyi-medence Románia központi részét foglalja el. A területet ív alakban a Kárpátok veszi körül.",
@@ -198,7 +198,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Lespezi", hu: "Lespezi-csúcs", ro: "Vârful Lespezi", en: "Lespezi Peak" },
-    coordinates: { lat: 45.5786, lng: 24.5761 },
+    coords: [24.5761, 45.5786],
     description: {
       de: "Der Vârful Lespezi ist ein bedeutender Gipfel im zentralen Făgăraș-Gebirge. Seine Höhe beträgt 2.522 Meter.",
       hu: "A Lespezi-csúcs a Fogarasi-havasok központi részének jelentős kiemelkedése. Magassága 2522 méter.",
@@ -230,7 +230,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vânătoarea lui Buteanu", hu: "Vânătoarea lui Buteanu", ro: "Vârful Vânătoarea lui Buteanu", en: "Vânătoarea lui Buteanu Peak" },
-    coordinates: { lat: 45.5908, lng: 24.6358 },
+    coords: [24.6358, 45.5908],
     description: {
       de: "Dieser Gipfel liegt im Făgăraș-Massiv und erreicht eine Höhe von 2.507 Metern. Er ist über alpine Pfade erreichbar.",
       hu: "Ez a csúcs a Fogarasi-havasokban található, 2507 méter magas. Alpesi ösvényeken keresztül közelíthető meg.",
@@ -262,7 +262,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Parângul Mic", hu: "Parângul Mic", ro: "Vârful Parângul Mic", en: "Parângul Mic Peak" },
-    coordinates: { lat: 45.3375, lng: 23.5042 },
+    coords: [23.5042, 45.3375],
     description: {
       de: "Der Parângul Mic ist ein bekannter Gipfel im Parâng-Gebirge mit einer Höhe von 2.074 Metern. Er ist beliebt für Skitouren.",
       hu: "A Parângul Mic a Parâng-hegység közismert csúcsa 2074 méteres magassággal. Kedvelt célpont sítúrákhoz.",
@@ -294,7 +294,7 @@ export const romaniaReliefV2: POI[] = [
     type: "mountain",
     parent: "RO",
     name: { de: "Căpățâna-Gebirge", hu: "Căpățâna-hegység", ro: "Munții Căpățânii", en: "Căpățânii Mountains" },
-    coordinates: { lat: 45.35, lng: 23.95 },
+    coords: [23.95, 45.35],
     description: {
       de: "Das Căpățâna-Gebirge ist ein Teil der Südkarpaten. Die höchste Erhebung erreicht 2.130 Meter am Gipfel Vârful Nedeia.",
       hu: "A Căpățâna-hegység a Déli-Kárpátok része. Legmagasabb pontja a 2130 méteres Nedeia-csúcs.",
@@ -326,7 +326,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Lespezi (Căpățânii)", hu: "Lespezi-csúcs (Căpățâna)", ro: "Vârful Lespezi (Căpățânii)", en: "Lespezi Peak (Căpățânii)" },
-    coordinates: { lat: 45.3622, lng: 23.9244 },
+    coords: [23.9244, 45.3622],
     description: {
       de: "Dies ist ein Gipfel im Căpățâna-Gebirge. Er erhebt sich auf eine Höhe von 1.800 Metern über dem Meeresspiegel.",
       hu: "Ez egy csúcs a Căpățâna-hegységben. Magassága eléri az 1800 métert a tengerszint felett.",
@@ -358,7 +358,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Padeș", hu: "Padeș-csúcs", ro: "Vârful Padeș", en: "Padeș Peak" },
-    coordinates: { lat: 45.4194, lng: 23.8561 },
+    coords: [23.8561, 45.4194],
     description: {
       de: "Der Vârful Padeș ist ein markanter Gipfel in der Căpățâna-Gebirgsgruppe. Er erreicht eine Höhe von 2.046 Metern.",
       hu: "A Padeș-csúcs a Căpățâna-hegység kiemelkedő pontja. Magassága eléri a 2046 métert.",
@@ -390,7 +390,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Iezerul", hu: "Iezerul-csúcs", ro: "Vârful Iezerul", en: "Iezerul Peak" },
-    coordinates: { lat: 45.3853, lng: 23.5186 },
+    coords: [23.5186, 45.3853],
     description: {
       de: "Der Vârful Iezerul ist Teil des Parâng-Massivs in den Südkarpaten. Er erhebt sich auf 2.457 Meter Höhe.",
       hu: "Az Iezerul-csúcs a Déli-Kárpátok Parâng-hegységének része. Magassága eléri a 2457 métert.",
@@ -422,7 +422,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Cârja", hu: "Cârja-csúcs", ro: "Vârful Cârja", en: "Cârja Peak" },
-    coordinates: { lat: 45.3525, lng: 23.5322 },
+    coords: [23.5322, 45.3525],
     description: {
       de: "Der Vârful Cârja ist ein Gipfel im Parâng-Gebirge. Er bietet einen weiten Blick über die Südkarpaten.",
       hu: "A Cârja-csúcs a Parâng-hegység egyik hegycsúcsa. Széles kilátást nyújt a Déli-Kárpátokra.",
@@ -454,7 +454,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Șura", hu: "Șura-csúcs", ro: "Vârful Șura", en: "Șura Peak" },
-    coordinates: { lat: 45.5892, lng: 24.5853 },
+    coords: [24.5853, 45.5892],
     description: {
       de: "Der Vârful Șura befindet sich im Făgăraș-Gebirge. Er ist 2.283 Meter hoch und Teil der Hauptkamm-Route.",
       hu: "A Șura-csúcs a Fogarasi-havasokban található. 2283 méter magas és a főgerinc-útvonal része.",
@@ -486,7 +486,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Buteanu", hu: "Buteanu-csúcs", ro: "Vârful Buteanu", en: "Buteanu Peak" },
-    coordinates: { lat: 45.5925, lng: 24.6322 },
+    coords: [24.6322, 45.5925],
     description: {
       de: "Der Vârful Buteanu ist ein markanter Gipfel im Făgăraș-Massiv. Er erreicht eine Höhe von 2.507 Metern.",
       hu: "A Buteanu-csúcs a Fogarasi-havasok kiemelkedő pontja. Magassága eléri a 2507 métert.",
@@ -518,7 +518,7 @@ export const romaniaReliefV2: POI[] = [
     type: "mountain",
     parent: "RO",
     name: { de: "Bihor-Gebirge", hu: "Bihar-hegység", ro: "Munții Bihor", en: "Bihor Mountains" },
-    coordinates: { lat: 46.45, lng: 22.75 },
+    coords: [22.75, 46.45],
     description: {
       de: "Das Bihor-Gebirge gehört zum Apuseni-Gebirge in Westrumänien. Der höchste Punkt ist der Curcubăta Mare mit 1.849 Metern.",
       hu: "A Bihar-hegység a Nyugati-Szigethegység része Nyugat-Romániában. Legmagasabb pontja a 1849 méteres Nagy-Bihar-csúcs.",
@@ -550,7 +550,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Curcubăta Mare", hu: "Nagy-Bihar-csúcs", ro: "Curcubăta Mare", en: "Curcubăta Mare Peak" },
-    coordinates: { lat: 46.4583, lng: 22.6822 },
+    coords: [22.6822, 46.4583],
     description: {
       de: "Curcubăta Mare ist der höchste Gipfel des Bihor-Gebirges und der gesamten Apuseni-Gruppe. Er ist 1.849 Meter hoch.",
       hu: "A Nagy-Bihar-csúcs a Bihar-hegység és az egész Nyugati-Szigethegység legmagasabb pontja, 1849 méter magas.",
@@ -582,7 +582,7 @@ export const romaniaReliefV2: POI[] = [
     type: "mountain",
     parent: "RO",
     name: { de: "Gutâi-Gebirge", hu: "Gutin-hegység", ro: "Munții Gutâi", en: "Gutâi Mountains" },
-    coordinates: { lat: 47.75, lng: 23.65 },
+    coords: [23.65, 47.75],
     description: {
       de: "Das Gutâi-Gebirge ist ein vulkanischer Gebirgszug im Norden Rumäniens. Die höchste Erhebung erreicht 1.443 Meter am Gipfel Creasta Cocoșului.",
       hu: "A Gutin-hegység egy vulkanikus vonulat Észak-Romániában. Legmagasabb pontja a Kakastaréj-csúcs, 1443 méter.",
@@ -614,7 +614,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Creasta Cocoșului", hu: "Kakastaréj", ro: "Creasta Cocoșului", en: "Rooster's Crest" },
-    coordinates: { lat: 47.7289, lng: 23.7172 },
+    coords: [23.7172, 47.7289],
     description: {
       de: "Die Creasta Cocoșului ist eine markante vulkanische Felsformation im Gutâi-Gebirge. Sie ragt 1.443 Meter in die Höhe.",
       hu: "A Kakastaréj egy kiemelkedő vulkanikus sziklaformáció a Gutin-hegységben. 1443 méteres magasságba emelkedik.",
@@ -646,7 +646,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Țibleș", hu: "Țibleș-csúcs", ro: "Vârful Țibleș", en: "Țibleș Peak" },
-    coordinates: { lat: 47.5306, lng: 24.3756 },
+    coords: [24.3756, 47.5306],
     description: {
       de: "Der Vârful Țibleș ist der höchste Punkt im Țibleș-Gebirge im Norden Rumäniens. Er erreicht 1.839 Meter.",
       hu: "A Țibleș-csúcs a Țibleș-hegység legmagasabb pontja Észak-Romániában. Magassága eléri az 1839 métert.",
@@ -678,7 +678,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Fărcău", hu: "Fărcău-csúcs", ro: "Vârful Fărcău", en: "Fărcău Peak" },
-    coordinates: { lat: 47.8867, lng: 24.5297 },
+    coords: [24.5297, 47.8867],
     description: {
       de: "Der Vârful Fărcău liegt im Maramureș-Gebirge und erreicht eine Höhe von 1.957 Metern. Er ist der höchste Gipfel der Region.",
       hu: "A Fărcău-csúcs a Máramarosi-havasokban található, 1957 méter magas. A régió legmagasabb csúcsa.",
@@ -710,7 +710,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Mihăilecu", hu: "Mihăilecu-csúcs", ro: "Vârful Mihăilecu", en: "Mihăilecu Peak" },
-    coordinates: { lat: 47.8833, lng: 24.5361 },
+    coords: [24.5361, 47.8833],
     description: {
       de: "Der Vârful Mihăilecu ist ein bedeutender Gipfel in unmittelbarer Nähe des Fărcău im Maramureș-Gebirge. Er ist 1.919 Meter hoch.",
       hu: "A Mihăilecu-csúcs egy jelentős csúcs a Fărcău közelében, a Máramarosi-havasokban. Magassága 1919 méter.",
@@ -742,7 +742,7 @@ export const romaniaReliefV2: POI[] = [
     type: "mountain",
     parent: "RO",
     name: { de: "Călimani-Gebirge", hu: "Kelemen-havasok", ro: "Munții Călimani", en: "Călimani Mountains" },
-    coordinates: { lat: 47.1, lng: 25.2 },
+    coords: [25.2, 47.1],
     description: {
       de: "Das Călimani-Gebirge ist ein erloschenes Vulkanmassiv in den Ostkarpaten. Der höchste Punkt ist der Pietrosul Călimani mit 2.100 Metern.",
       hu: "A Kelemen-havasok egy kialudt vulkanikus masszívum a Keleti-Kárpátokban. Legmagasabb pontja a 2100 méteres Pietrosul Călimani.",
@@ -774,7 +774,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Pietrosul Călimani", hu: "Pietrosul Călimani", ro: "Vârful Pietrosul Călimani", en: "Pietrosul Călimani Peak" },
-    coordinates: { lat: 47.1233, lng: 25.2344 },
+    coords: [25.2344, 47.1233],
     description: {
       de: "Pietrosul Călimani ist die höchste Erhebung des Călimani-Gebirges. Der Gipfel erreicht 2.100 Meter Höhe.",
       hu: "A Pietrosul Călimani a Kelemen-havasok legmagasabb pontja. A csúcs 2100 méter magas.",
@@ -806,7 +806,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Stânca", hu: "Stânca-csúcs", ro: "Vârful Stânca", en: "Stânca Peak" },
-    coordinates: { lat: 47.1194, lng: 25.2417 },
+    coords: [25.2417, 47.1194],
     description: {
       de: "Der Vârful Stânca ist ein bekannter Gipfel im Călimani-Gebirge. Er erhebt sich auf 2.050 Meter.",
       hu: "A Stânca-csúcs a Kelemen-havasok ismert csúcsa. 2050 méterre emelkedik.",
@@ -838,7 +838,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Răcu", hu: "Răcu-csúcs", ro: "Vârful Răcu", en: "Răcu Peak" },
-    coordinates: { lat: 47.1267, lng: 25.2289 },
+    coords: [25.2289, 47.1267],
     description: {
       de: "Der Vârful Răcu ist ein markanter Punkt im Călimani-Gebirge. Er erreicht eine Höhe von 2.025 Metern.",
       hu: "A Răcu-csúcs a Kelemen-havasok kiemelkedő pontja. Magassága 2025 méter.",
@@ -870,7 +870,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Ihnat", hu: "Ihnat-csúcs", ro: "Vârful Ihnat", en: "Ihnat Peak" },
-    coordinates: { lat: 47.1158, lng: 25.2483 },
+    coords: [25.2483, 47.1158],
     description: {
       de: "Der Vârful Ihnat liegt im östlichen Teil des Călimani-Massivs. Er ist 1.980 Meter hoch.",
       hu: "Az Ihnat-csúcs a Kelemen-havasok keleti részén található. Magassága 1980 méter.",
@@ -902,7 +902,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Negoiu Unguresc", hu: "Negoiu Unguresc", ro: "Vârful Negoiu Unguresc", en: "Negoiu Unguresc Peak" },
-    coordinates: { lat: 47.1089, lng: 25.2536 },
+    coords: [25.2536, 47.1089],
     description: {
       de: "Dieser Gipfel befindet sich im Călimani-Gebirge. Er erreicht eine Höhe von 2.081 Metern über dem Meeresspiegel.",
       hu: "Ez a csúcs a Kelemen-havasokban található. Magassága 2081 méter a tengerszint felett.",
@@ -934,7 +934,7 @@ export const romaniaReliefV2: POI[] = [
     type: "mountain",
     parent: "RO",
     name: { de: "Gurghiu-Gebirge", hu: "Görgényi-havasok", ro: "Munții Gurghiu", en: "Gurghiu Mountains" },
-    coordinates: { lat: 46.75, lng: 25.2 },
+    coords: [25.2, 46.75],
     description: {
       de: "Das Gurghiu-Gebirge ist ein vulkanischer Gebirgszug in den zentralen Ostkarpaten. Die höchste Erhebung ist der Saca-Gipfel mit 1.776 Metern.",
       hu: "A Görgényi-havasok egy vulkanikus vonulat a központi Keleti-Kárpátokban. Legmagasabb pontja a 1776 méteres Saca-csúcs.",
@@ -966,7 +966,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Saca", hu: "Saca-csúcs", ro: "Vârful Saca", en: "Saca Peak" },
-    coordinates: { lat: 46.6972, lng: 25.3361 },
+    coords: [25.3361, 46.6972],
     description: {
       de: "Der Vârful Saca ist der höchste Berg im Gurghiu-Gebirge. Er erreicht eine Höhe von 1.776 Metern.",
       hu: "A Saca-csúcs a Görgényi-havasok legmagasabb hegye. Magassága eléri az 1776 métert.",
@@ -998,7 +998,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Bătrâna", hu: "Bătrâna-csúcs", ro: "Vârful Bătrâna", en: "Bătrâna Peak" },
-    coordinates: { lat: 46.6806, lng: 25.3417 },
+    coords: [25.3417, 46.6806],
     description: {
       de: "Der Vârful Bătrâna ist ein Gipfel im Gurghiu-Gebirge mit einer Höhe von 1.634 Metern.",
       hu: "A Bătrâna-csúcs egy csúcs a Görgényi-havasokban, 1634 méteres magassággal.",
@@ -1030,7 +1030,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Bucșina", hu: "Bucșina-csúcs", ro: "Vârful Bucșina", en: "Bucșina Peak" },
-    coordinates: { lat: 46.7222, lng: 25.3056 },
+    coords: [25.3056, 46.7222],
     description: {
       de: "Der Vârful Bucșina ist ein markanter Punkt im Gurghiu-Gebirge. Er erreicht eine Höhe von 1.600 Metern.",
       hu: "A Bucșina-csúcs a Görgényi-havasok kiemelkedő pontja. Magassága 1600 méter.",
@@ -1062,7 +1062,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Fâncel", hu: "Fâncel-csúcs", ro: "Vârful Fâncel", en: "Fâncel Peak" },
-    coordinates: { lat: 46.7111, lng: 25.3194 },
+    coords: [25.3194, 46.7111],
     description: {
       de: "Der Vârful Fâncel befindet sich im Gurghiu-Gebirge. Er ist 1.684 Meter hoch.",
       hu: "A Fâncel-csúcs a Görgényi-havasokban található. Magassága 1684 méter.",
@@ -1094,7 +1094,7 @@ export const romaniaReliefV2: POI[] = [
     type: "mountain",
     parent: "RO",
     name: { de: "Harghita-Gebirge", hu: "Hargita-hegység", ro: "Munții Harghita", en: "Harghita Mountains" },
-    coordinates: { lat: 46.4, lng: 25.55 },
+    coords: [25.55, 46.4],
     description: {
       de: "Das Harghita-Gebirge ist ein vulkanischer Gebirgszug in den Ostkarpaten. Die höchste Erhebung ist der Madarasi-Hargita mit 1.801 Metern.",
       hu: "A Hargita-hegység egy vulkanikus vonulat a Keleti-Kárpátokban. Legmagasabb pontja a 1801 méteres Madarasi-Hargita.",
@@ -1126,7 +1126,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Madarasi-Hargita", hu: "Madarasi-Hargita", ro: "Vârful Madarasi-Hargita", en: "Madarasi-Hargita Peak" },
-    coordinates: { lat: 46.4528, lng: 25.5667 },
+    coords: [25.5667, 46.4528],
     description: {
       de: "Der Madarasi-Hargita ist der höchste Gipfel im Harghita-Gebirge. Er erreicht 1.801 Meter Höhe.",
       hu: "A Madarasi-Hargita a Hargita-hegység legmagasabb csúcsa. 1801 méter magas.",
@@ -1158,7 +1158,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Șocarău", hu: "Socarău-csúcs", ro: "Vârful Șocarău", en: "Șocarău Peak" },
-    coordinates: { lat: 46.4389, lng: 25.5722 },
+    coords: [25.5722, 46.4389],
     description: {
       de: "Der Vârful Șocarău ist ein weiterer Gipfel im Harghita-Gebirge mit einer Höhe von 1.700 Metern.",
       hu: "A Socarău-csúcs a Hargita-hegység további csúcsa, 1700 méteres magassággal.",
@@ -1190,7 +1190,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Fagul Înalt", hu: "Magas-bükk-csúcs", ro: "Vârful Fagul Înalt", en: "Fagul Înalt Peak" },
-    coordinates: { lat: 46.4278, lng: 25.5806 },
+    coords: [25.5806, 46.4278],
     description: {
       de: "Der Vârful Fagul Înalt liegt im Harghita-Gebirge und erreicht 1.650 Meter.",
       hu: "A Magas-bükk-csúcs a Hargita-hegységben található, 1650 méter magas.",
@@ -1222,7 +1222,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Răcoasa", hu: "Racoasa-csúcs", ro: "Vârful Răcoasa", en: "Răcoasa Peak" },
-    coordinates: { lat: 46.4639, lng: 25.5583 },
+    coords: [25.5583, 46.4639],
     description: {
       de: "Der Vârful Răcoasa ist ein Gipfel in der Nähe des Madarasi-Hargita. Er ist 1.600 Meter hoch.",
       hu: "A Racoasa-csúcs a Madarasi-Hargita közelében fekvő csúcs. 1600 méter magas.",
@@ -1254,7 +1254,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Piatra Secuiului", hu: "Székelykő", ro: "Piatra Secuiului", en: "Székelykő Peak" },
-    coordinates: { lat: 46.4472, lng: 23.5778 },
+    coords: [23.5778, 46.4472],
     description: {
       de: "Die Piatra Secuiului ist ein berühmter Kalksteingipfel im Trascău-Gebirge. Sie erhebt sich über Torockó.",
       hu: "A Székelykő egy híres mészkőcsúcs a Torockói-hegységben. Torockó fölé magasodik.",
@@ -1286,7 +1286,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Bedeleu", hu: "Bedeleu-csúcs", ro: "Vârful Bedeleu", en: "Bedeleu Peak" },
-    coordinates: { lat: 46.4361, lng: 23.5556 },
+    coords: [23.5556, 46.4361],
     description: {
       de: "Der Vârful Bedeleu ist ein weiterer markanter Punkt im Trascău-Gebirge.",
       hu: "A Bedeleu-csúcs egy másik kiemelkedő pont a Torockói-hegységben.",
@@ -1318,7 +1318,7 @@ export const romaniaReliefV2: POI[] = [
     type: "mountain",
     parent: "RO",
     name: { de: "Vărătec-Gebirge", hu: "Vărătec-hegység", ro: "Munții Vărătec", en: "Vărătec Mountains" },
-    coordinates: { lat: 46.55, lng: 23.45 },
+    coords: [23.45, 46.55],
     description: {
       de: "Das Vărătec-Gebirge ist ein kleineres Massiv im Apuseni-Gebiet.",
       hu: "A Vărătec-hegység egy kisebb masszívum a Nyugati-Szigethegység területén.",
@@ -1350,7 +1350,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Vărătec", hu: "Vărătec-csúcs", ro: "Vârful Vărătec", en: "Vărătec Peak" },
-    coordinates: { lat: 46.5417, lng: 23.4639 },
+    coords: [23.4639, 46.5417],
     description: {
       de: "Der Vârful Vărătec ist der höchste Punkt dieses kleineren Massivs im Apuseni.",
       hu: "A Vărătec-csúcs e kisebb masszívum legmagasabb pontja a Nyugati-Szigethegységben.",
@@ -1382,7 +1382,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Pleșa", hu: "Pleșa-csúcs", ro: "Vârful Pleșa", en: "Pleșa Peak" },
-    coordinates: { lat: 46.5333, lng: 23.4778 },
+    coords: [23.4778, 46.5333],
     description: {
       de: "Der Vârful Pleșa ist ein Gipfel im Vărătec-Massiv.",
       hu: "A Pleșa-csúcs egy csúcs a Vărătec-masszívumban.",
@@ -1414,7 +1414,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Panciu", hu: "Panciu-csúcs", ro: "Vârful Panciu", en: "Panciu Peak" },
-    coordinates: { lat: 46.5472, lng: 23.4417 },
+    coords: [23.4417, 46.5472],
     description: {
       de: "Der Vârful Panciu liegt im Vărătec-Massiv im Apuseni-Gebirge.",
       hu: "A Panciu-csúcs a Vărătec-masszívumban fekszik, a Nyugati-Szigethegységben.",
@@ -1446,7 +1446,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Vârful Gorgonu", hu: "Gorgonu-csúcs", ro: "Vârful Gorgonu", en: "Gorgonu Peak" },
-    coordinates: { lat: 46.5583, lng: 23.4583 },
+    coords: [23.4583, 46.5583],
     description: {
       de: "Der Vârful Gorgonu ist ein weiterer Gipfel im Apuseni-Massiv Vărătec.",
       hu: "A Gorgonu-csúcs a Vărătec-masszívum további csúcsa a Nyugati-Szigethegységben.",
@@ -1478,7 +1478,7 @@ export const romaniaReliefV2: POI[] = [
     type: "mountain",
     parent: "RO",
     name: { de: "Metaliferi-Gebirge", hu: "Érchegység", ro: "Munții Metaliferi", en: "Metaliferi Mountains" },
-    coordinates: { lat: 46.15, lng: 23.15 },
+    coords: [23.15, 46.15],
     description: {
       de: "Das Metaliferi-Gebirge ist bekannt für seine geologische Vielfalt und historische Bergbautätigkeit im Apuseni-Massiv.",
       hu: "Az Érchegység geológiai sokféleségéről és történelmi bányászatáról ismert a Nyugati-Szigethegységben.",
@@ -1510,7 +1510,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Detunata Goală", hu: "Detunata Goală", ro: "Detunata Goală", en: "Detunata Goală Peak" },
-    coordinates: { lat: 46.2556, lng: 23.1417 },
+    coords: [23.1417, 46.2556],
     description: {
       de: "Detunata Goală ist eine spektakuläre Basalt-Säulen-Formation im Metaliferi-Gebirge.",
       hu: "A Detunata Goală egy látványos bazaltoszlop-képződmény az Érchegységben.",
@@ -1542,7 +1542,7 @@ export const romaniaReliefV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Detunata Flocoasă", hu: "Detunata Flocoasă", ro: "Detunata Flocoasă", en: "Detunata Flocoasă Peak" },
-    coordinates: { lat: 46.2583, lng: 23.1472 },
+    coords: [23.1472, 46.2583],
     description: {
       de: "Detunata Flocoasă ist eine zweite, bewaldete Basalt-Formation in der Nähe von Detunata Goală.",
       hu: "A Detunata Flocoasă egy második, erdővel borított bazaltképződmény a Detunata Goală közelében.",

@@ -6,7 +6,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "bridge",
     name: { de: "Adolphe-Brücke", hu: "Adolf híd", ro: "Podul Adolphe", en: "Adolphe Bridge" },
-    coordinates: { lat: 49.6083, lng: 6.1268 },
+    coords: [6.1268, 49.6083],
     description: {
       de: "Diese markante Steinbogenbrücke verbindet das Stadtzentrum von Luxemburg mit dem Bahnhofsviertel über das Petruss-Tal.",
       hu: "Ez a jellegzetes kőívhíd köti össze Luxemburg városközpontját a vasútállomás negyedével a Pétrusse-völgy felett.",
@@ -37,7 +37,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "bridge",
     name: { de: "Passerelle (Viaduc)", hu: "Passerelle viadukt", ro: "Podul Passerelle", en: "Passerelle (Old Bridge)" },
-    coordinates: { lat: 49.6061, lng: 6.1331 },
+    coords: [6.1331, 49.6061],
     description: {
       de: "Dieses historische Viadukt, auch als Alte Brücke bekannt, überspannt das Petruss-Tal mit 24 Steinbögen.",
       hu: "Ez a történelmi viadukt, amelyet Régi híd néven is ismernek, 24 kőívvel ível át a Pétrusse-völgy felett.",
@@ -68,7 +68,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "theater",
     name: { de: "Philharmonie Luxemburg", hu: "Luxemburgi Filharmónia", ro: "Filarmonica Luxemburg", en: "Philharmonie Luxembourg" },
-    coordinates: { lat: 49.6186, lng: 6.1425 },
+    coords: [6.1425, 49.6186],
     description: {
       de: "Ein modernes Konzerthaus auf dem Kirchberg-Plateau, bekannt für seine Architektur mit 827 weißen Stahlsäulen.",
       hu: "Modern koncertterem a Kirchberg-fennsíkon, amely 827 fehér acéloszlopból álló építészetéről híres.",
@@ -99,7 +99,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "museum",
     name: { de: "Mudam Luxemburg", hu: "Mudam Luxemburg", ro: "Mudam Luxemburg", en: "Mudam Luxembourg" },
-    coordinates: { lat: 49.6171, lng: 6.1396 },
+    coords: [6.1396, 49.6171],
     description: {
       de: "Das Museum für moderne Kunst wurde auf den Mauern des historischen Fort Thüngen auf dem Kirchberg-Plateau errichtet.",
       hu: "A modern művészeti múzeum a történelmi Thüngen-erőd falaira épült a Kirchberg-fennsíkon.",
@@ -130,7 +130,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "museum",
     name: { de: "Nationalmuseum für Geschichte und Kunst", hu: "Nemzeti Történeti és Művészeti Múzeum", ro: "Muzeul Național de Istorie și Artă", en: "National Museum of History and Art" },
-    coordinates: { lat: 49.6111, lng: 6.1325 },
+    coords: [6.1325, 49.6111],
     description: {
       de: "Zentrales Museum in der Altstadt, das archäologische Funde und Kunstwerke aus der Geschichte Luxemburgs präsentiert.",
       hu: "Központi múzeum az óvárosban, amely Luxemburg történelméből származó régészeti leleteket és műalkotásokat mutat be.",
@@ -161,7 +161,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "castle",
     name: { de: "Burg Ansemburg", hu: "Ansemburg vára", ro: "Castelul vechi Ansembourg", en: "Old Castle of Ansembourg" },
-    coordinates: { lat: 49.7003, lng: 6.0403 },
+    coords: [6.0403, 49.7003],
     description: {
       de: "Eine mittelalterliche Höhenburg im Tal der sieben Schlösser, die über dem Fluss Eisch thront.",
       hu: "Középkori hegyi vár a hét kastély völgyében, amely az Eisch-folyó fölé magasodik.",
@@ -192,7 +192,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "castle",
     name: { de: "Schloss Meysemburg", hu: "Meysemburg kastély", ro: "Castelul Meysembourg", en: "Meysembourg Castle" },
-    coordinates: { lat: 49.7703, lng: 6.1878 },
+    coords: [6.1878, 49.7703],
     description: {
       de: "Ein prächtiges Schloss im neugotischen Stil, gelegen in einem abgeschiedenen Tal in der Nähe von Larochette.",
       hu: "Pompás neogótikus stílusú kastély, egy eldugott völgyben található Larochette közelében.",
@@ -223,7 +223,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "castle",
     name: { de: "Schloss Septfontaines", hu: "Septfontaines kastély", ro: "Castelul Septfontaines", en: "Septfontaines Castle" },
-    coordinates: { lat: 49.6175, lng: 6.1058 },
+    coords: [6.1058, 49.6175],
     description: {
       de: "Ein historisches Herrenhaus in Luxemburg-Stadt, das eng mit der Geschichte der Porzellanmanufaktur Villeroy & Boch verbunden ist.",
       hu: "Történelmi kúria Luxemburg városában, amely szorosan kötődik a Villeroy & Boch porcelánmanufaktúra történetéhez.",
@@ -255,7 +255,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "castle",
     name: { de: "Schloss Mersch", hu: "Merschi kastély", ro: "Castelul Mersch", en: "Mersch Castle" },
-    coordinates: { lat: 49.7475, lng: 6.1042 },
+    coords: [6.1042, 49.7475],
     description: {
       de: "Ein historisches Schloss im Zentrum von Mersch, das heute als Sitz der Gemeindeverwaltung dient.",
       hu: "Történelmi kastély Mersch központjában, amely ma az önkormányzat székhelyeként szolgál.",
@@ -286,7 +286,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "castle",
     name: { de: "Schloss Bettemburg", hu: "Bettemburgi kastély", ro: "Castelul Bettembourg", en: "Castle of Bettembourg" },
-    coordinates: { lat: 49.5186, lng: 6.1011 },
+    coords: [6.1011, 49.5186],
     description: {
       de: "Ein historisches Schloss im Zentrum von Bettemburg, das heute als Rathaus der Gemeinde dient.",
       hu: "Történelmi kastély Bettemburg központjában, amely ma a település városházájaként működik.",
@@ -317,7 +317,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "castle",
     name: { de: "Schloss Sanem", hu: "Sanem kastély", ro: "Castelul Sanem", en: "Castle of Sanem" },
-    coordinates: { lat: 49.5475, lng: 5.9281 },
+    coords: [5.9281, 49.5475],
     description: {
       de: "Ein malerisches Wasserschloss im Süden Luxemburgs, das heute soziale und kulturelle Einrichtungen beherbergt.",
       hu: "Festői vízi kastély Luxemburg déli részén, amely ma szociális és kulturális intézményeknek ad otthont.",
@@ -348,7 +348,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "palace",
     name: { de: "Schloss Berg", hu: "Bergi kastély", ro: "Castelul Berg", en: "Berg Castle" },
-    coordinates: { lat: 49.8144, lng: 6.0967 },
+    coords: [6.0967, 49.8144],
     description: {
       de: "Die offizielle Hauptresidenz des Großherzogs von Luxemburg, gelegen in Colmar-Berg.",
       hu: "A luxemburgi nagyherceg hivatalos főrezidenciája Colmar-Bergben.",
@@ -379,7 +379,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "industry",
     name: { de: "Hochöfen von Belval", hu: "Belvali nagyolvasztók", ro: "Furnalele din Belval", en: "Blast Furnaces Belval" },
-    coordinates: { lat: 49.5008, lng: 5.9514 },
+    coords: [5.9514, 49.5008],
     description: {
       de: "Zwei monumentale ehemalige Hochöfen, die als Industriedenkmal im modernen Viertel Belval erhalten wurden.",
       hu: "Két monumentális korábbi nagyolvasztó, amelyeket ipari műemlékként őriztek meg a modern Belval negyedben.",
@@ -411,7 +411,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "museum",
     name: { de: "Nationales Grubenmuseum", hu: "Országos Bányászati Múzeum", ro: "Muzeul Național al Minelor de Fier", en: "National Mining Museum Rumelange" },
-    coordinates: { lat: 49.46, lng: 6.0278 },
+    coords: [6.0278, 49.46],
     description: {
       de: "Ein unterirdisches Museum in Rumelange, das die Geschichte des Eisenerzabbaus in der Region 'Minett' zeigt.",
       hu: "Föld alatti múzeum Rumelange-ban, amely a vasércbányászat történetét mutatja be a 'Minett' régióban.",
@@ -442,7 +442,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "museum",
     name: { de: "Schiefermuseum Haut-Martelange", hu: "Haut-Martelange-i Palakő Múzeum", ro: "Muzeul Ardeziei Haut-Martelange", en: "Slate Museum Haut-Martelange" },
-    coordinates: { lat: 49.8322, lng: 5.7483 },
+    coords: [5.7483, 49.8322],
     description: {
       de: "Ein weitläufiges Freilichtmuseum, das der Geschichte der Schiefergewinnung und -verarbeitung gewidmet ist.",
       hu: "Kiterjedt szabadtéri múzeum, amelyet a palakő kitermelésének és feldolgozásának történetének szenteltek.",
@@ -473,7 +473,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "church",
     name: { de: "St.-Michaels-Kirche", hu: "Szent Mihály-templom", ro: "Biserica Sfântul Mihail", en: "St. Michael's Church" },
-    coordinates: { lat: 49.6114, lng: 6.1342 },
+    coords: [6.1342, 49.6114],
     description: {
       de: "Das älteste Sakralgebäude in Luxemburg-Stadt, gelegen direkt am historischen Fischmarkt.",
       hu: "Luxemburg város legidősebb vallási épülete, amely közvetlenül a történelmi Halpiac mellett található.",
@@ -504,7 +504,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "landmark",
     name: { de: "Luxemburger Rathaus", hu: "Luxemburgi városháza", ro: "Primăria orașului Luxemburg", en: "Luxembourg City Hall" },
-    coordinates: { lat: 49.61, lng: 6.1303 },
+    coords: [6.1303, 49.61],
     description: {
       de: "Das klassizistische Verwaltungsgebäude am Place Guillaume II ist das Zentrum der lokalen Politik der Hauptstadt.",
       hu: "A Place Guillaume II téren található klasszicista igazgatási épület a főváros helyi politikájának központja.",
@@ -535,7 +535,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "landmark",
     name: { de: "Wilhelmsplatz", hu: "II. Vilmos tér", ro: "Piața Guillaume II", en: "Place Guillaume II" },
-    coordinates: { lat: 49.6106, lng: 6.1308 },
+    coords: [6.1308, 49.6106],
     description: {
       de: "Ein großer öffentlicher Platz im Herzen der Stadt, auch bekannt als 'Knuedler', benannt nach den Knoten der Franziskaner-Mönche.",
       hu: "Nagy közterület a város szívében, amelyet 'Knuedler' néven is ismernek a ferences szerzetesek ruhájának csomóiról.",
@@ -566,7 +566,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "landmark",
     name: { de: "Cercle Cité", hu: "Cercle Cité", ro: "Cercle Cité", en: "Cercle Cité" },
-    coordinates: { lat: 49.6117, lng: 6.1292 },
+    coords: [6.1292, 49.6117],
     description: {
       de: "Ein prächtiges historisches Gebäude am Place d'Armes, das für kulturelle Veranstaltungen und offizielle Empfänge genutzt wird.",
       hu: "Pompás történelmi épület a Place d'Armes téren, amelyet kulturális rendezvényekre és hivatalos fogadásokra használnak.",
@@ -597,7 +597,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "monument",
     name: { de: "Nationales Denkmal der Solidarität", hu: "A Szolidaritás Nemzeti Emlékműve", ro: "Monumentul Național al Solidarității", en: "National Monument of Solidarity" },
-    coordinates: { lat: 49.6094, lng: 6.135 },
+    coords: [6.135, 49.6094],
     description: {
       de: "Ein Denkmal auf dem 'Kanounenhiwwel', das an den Widerstand und die Opfer des Zweiten Weltkriegs erinnert.",
       hu: "Emlékmű a 'Kanounenhiwwel' dombon, amely a második világháború ellenállására és áldozataira emlékeztet.",
@@ -628,7 +628,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "tower",
     name: { de: "Die Drei Türme", hu: "A Három Torony", ro: "Cele Trei Turnuri", en: "Three Towers" },
-    coordinates: { lat: 49.6136, lng: 6.1344 },
+    coords: [6.1344, 49.6136],
     description: {
       de: "Ein historisches Stadttor der ehemaligen Festung Luxemburg, bestehend aus einem quadratischen und zwei runden Türmen.",
       hu: "Luxemburg egykori erődjének történelmi városkapuja, amely egy négyzetes és két kerek toronyból áll.",
@@ -659,7 +659,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "tower",
     name: { de: "Malakoff-Turm", hu: "Malakoff-torony", ro: "Turnul Malakoff", en: "Malakoff Tower" },
-    coordinates: { lat: 49.6108, lng: 6.1408 },
+    coords: [6.1408, 49.6108],
     description: {
       de: "Ein historischer Wehrturm der Festung Luxemburg, der den Zugang zum Pfaffenthal kontrollierte.",
       hu: "Luxemburg erődjének történelmi őrtornya, amely a Pfaffenthal felé vezető utat ellenőrizte.",
@@ -690,7 +690,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "tower",
     name: { de: "Spanische Türmchen", hu: "Spanyol tornyocskák", ro: "Turnurile spaniole", en: "Spanish Towers" },
-    coordinates: { lat: 49.6125, lng: 6.1383 },
+    coords: [6.1383, 49.6125],
     description: {
       de: "Kleine, markante Beobachtungstürme an den Festungsmauern, die während der spanischen Herrschaft errichtet wurden.",
       hu: "Kisméretű, jellegzetes megfigyelőtornyok az erődfalakon, amelyeket a spanyol uralom alatt építettek.",
@@ -721,7 +721,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "museum",
     name: { de: "Villa Vauban", hu: "Villa Vauban", ro: "Villa Vauban", en: "Villa Vauban" },
-    coordinates: { lat: 49.6142, lng: 6.1242 },
+    coords: [6.1242, 49.6142],
     description: {
       de: "Das Kunstmuseum der Stadt Luxemburg, untergebracht in einer historischen Villa inmitten des Stadtparks.",
       hu: "Luxemburg város művészeti múzeuma, amely egy történelmi villában található a városliget közepén.",
@@ -752,7 +752,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "museum",
     name: { de: "Casino Luxembourg", hu: "Casino Luxembourg", ro: "Casino Luxemburg", en: "Casino Luxembourg" },
-    coordinates: { lat: 49.6094, lng: 6.1264 },
+    coords: [6.1264, 49.6094],
     description: {
       de: "Ein Forum für zeitgenössische Kunst in einem ehemaligen großbürgerlichen Kasino-Gebäude.",
       hu: "Kortárs művészeti fórum egy korábbi nagypolgári kaszinóépületben.",
@@ -783,7 +783,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "theater",
     name: { de: "Grand Théâtre de la Ville de Luxembourg", hu: "Luxemburg Városi Nagyszínház", ro: "Teatrul Mare al orașului Luxemburg", en: "Grand Théâtre de la Ville de Luxembourg" },
-    coordinates: { lat: 49.6181, lng: 6.1275 },
+    coords: [6.1275, 49.6181],
     description: {
       de: "Das wichtigste Theatergebäude des Landes, bekannt für hochkarätige internationale Opern-, Tanz- und Theateraufführungen.",
       hu: "Az ország legfontosabb színháza, amely neves nemzetközi opera-, tánc- és színházi előadásairól ismert.",
@@ -814,7 +814,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "castle",
     name: { de: "Schloss Aspelt", hu: "Aspelti kastély", ro: "Castelul Aspelt", en: "Aspelt Castle" },
-    coordinates: { lat: 49.5258, lng: 6.2219 },
+    coords: [6.2219, 49.5258],
     description: {
       de: "Eine spätbarocke Schlossanlage, die auf den Fundamenten einer mittelalterlichen Wasserburg errichtet wurde.",
       hu: "Késő barokk kastély, amely egy középkori vízi vár alapjaira épült.",
@@ -845,7 +845,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "castle",
     name: { de: "Schloss Erpeldange", hu: "Erpeldange-i kastély", ro: "Castelul Erpeldange", en: "Erpeldange Castle" },
-    coordinates: { lat: 49.86, lng: 6.1133 },
+    coords: [6.1133, 49.86],
     description: {
       de: "Ein Renaissance-Schloss im Sauer-Tal, das heute als Sitz der Gemeindeverwaltung von Erpeldange-an-der-Sauer dient.",
       hu: "Reneszánsz kastély a Sauer-völgyben, amely ma Erpeldange-an-der-Sauer önkormányzatának székhelye.",
@@ -876,7 +876,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "tower",
     name: { de: "St.-Michaels-Turm Mersch", hu: "Szent Mihály-torony Mersch", ro: "Turnul Sfântul Mihail Mersch", en: "St. Michael's Tower Mersch" },
-    coordinates: { lat: 49.7483, lng: 6.1036 },
+    coords: [6.1036, 49.7483],
     description: {
       de: "Ein freistehender Glockenturm im Zentrum von Mersch, der Rest einer ehemaligen mittelalterlichen Kirche.",
       hu: "Különálló harangtorony Mersch központjában, egy egykori középkori templom maradványa.",
@@ -907,7 +907,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "monument",
     name: { de: "Heimatsfest-Monument (Opferaltar)", hu: "Nemzeti Áldozati Oltár", ro: "Altarul Sacrificiului Național", en: "Altar of National Sacrifice" },
-    coordinates: { lat: 49.6092, lng: 6.1348 },
+    coords: [6.1348, 49.6092],
     description: {
       de: "Ein symbolischer Altar im Freien, Teil des Nationalen Denkmals der Solidarität in Luxemburg-Stadt.",
       hu: "Szimbolikus szabadtéri oltár, a luxemburgi Szolidaritás Nemzeti Emlékművének része.",
@@ -938,7 +938,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "landmark",
     name: { de: "Petruss-Kasematten", hu: "Pétrusse-kazamaták", ro: "Cazematele Pétrusse", en: "Petrusse Casemates" },
-    coordinates: { lat: 49.6089, lng: 6.1306 },
+    coords: [6.1306, 49.6089],
     description: {
       de: "Ein weitläufiges System unterirdischer Gänge und Verteidigungsanlagen im Felsen oberhalb des Petruss-Tals.",
       hu: "Kiterjedt föld alatti folyosórendszer és védelmi létesítmény a Pétrusse-völgy feletti sziklákban.",
@@ -969,7 +969,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "cathedral",
     name: { de: "Basilika St. Willibrord", hu: "Szent Willibrord-bazilika", ro: "Bazilica Sfântul Willibrord", en: "Basilica of Saint Willibrord" },
-    coordinates: { lat: 49.8131, lng: 6.4214 },
+    coords: [6.4214, 49.8131],
     description: {
       de: "Ein bedeutendes religiöses Bauwerk in Echternach, das die Krypta mit dem Grab des Heiligen Willibrord beherbergt.",
       hu: "Jelentős vallási épület Echternachban, amely Szent Willibrord sírját őrző kriptának ad otthont.",
@@ -1000,7 +1000,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "museum",
     name: { de: "Museum der Stadt Luxemburg", hu: "Luxemburg Városi Történeti Múzeum", ro: "Muzeul de Istorie a orașului Luxemburg", en: "Luxembourg City History Museum" },
-    coordinates: { lat: 49.6108, lng: 6.1331 },
+    coords: [6.1331, 49.6108],
     description: {
       de: "Ein interaktives Museum in der Altstadt, das die tausendjährige Geschichte der Hauptstadt Luxemburg dokumentiert.",
       hu: "Interaktív múzeum az óvárosban, amely Luxemburg fővárosának ezeréves történetét dokumentálja.",
@@ -1032,7 +1032,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "landmark",
     name: { de: "Wenzel-Weg (Festungspfad)", hu: "Wenzel-útvonal", ro: "Traseul Wenzel", en: "Wenzel Circular Walk" },
-    coordinates: { lat: 49.6106, lng: 6.1367 },
+    coords: [6.1367, 49.6106],
     description: {
       de: "Ein historischer Rundweg, der die wichtigsten Festungsbauten der Stadt Luxemburg verbindet.",
       hu: "Történelmi körút, amely Luxemburg város legfontosabb erődítményeit köti össze.",
@@ -1063,7 +1063,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "landmark",
     name: { de: "Europäischer Gerichtshof", hu: "Európai Bíróság", ro: "Curtea Europeană de Justiție", en: "European Court of Justice" },
-    coordinates: { lat: 49.622, lng: 6.1411 },
+    coords: [6.1411, 49.622],
     description: {
       de: "Der Sitz der höchsten rechtsprechenden Instanz der Europäischen Union auf dem Kirchberg-Plateau.",
       hu: "Az Európai Unió legfőbb bírói szervének székhelye a Kirchberg-fennsíkon.",
@@ -1094,7 +1094,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "landmark",
     name: { de: "Robert-Schuman-Gebäude", hu: "Robert Schuman-épület", ro: "Clădirea Robert Schuman", en: "Robert Schuman Building" },
-    coordinates: { lat: 49.62, lng: 6.14 },
+    coords: [6.14, 49.62],
     description: {
       de: "Ein historisches Verwaltungsgebäude der EU auf dem Kirchberg, benannt nach einem der Gründerväter Europas.",
       hu: "Történelmi EU-s igazgatási épület a Kirchbergen, az Európai Unió egyik alapító atyjáról elnevezve.",
@@ -1125,7 +1125,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "monument",
     name: { de: "Reiterstandbild Wilhelms II.", hu: "II. Vilmos lovasszobra", ro: "Statuia ecvestră a lui Wilhelm II", en: "Equestrian Statue of William II" },
-    coordinates: { lat: 49.6106, lng: 6.1303 },
+    coords: [6.1303, 49.6106],
     description: {
       de: "Ein monumentales Bronzedenkmal auf dem Place Guillaume II, das an den ehemaligen König-Großherzog erinnert.",
       hu: "Monumentális bronz emlékmű a Place Guillaume II téren, amely az egykori király-nagyhercegre emlékeztet.",
@@ -1156,7 +1156,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "church",
     name: { de: "St.-Nikolaus-Kirche Vianden", hu: "Szent Miklós-templom Vianden", ro: "Biserica Sfântul Nicolae Vianden", en: "Saint Nicholas Church Vianden" },
-    coordinates: { lat: 49.9328, lng: 6.2081 },
+    coords: [6.2081, 49.9328],
     description: {
       de: "Eine charmante Kirche im gotischen Stil, gelegen am Ufer der Our im historischen Vianden.",
       hu: "Bájos gótikus stílusú templom az Our-folyó partján, a történelmi Viandenben.",
@@ -1188,7 +1188,7 @@ export const luxembourgLandmarksV2: POI[] = [
     parent: "LU",
     type: "castle",
     name: { de: "Schloss Wirtgen", hu: "Wirtgen kastély", ro: "Castelul Wirtgen", en: "Wirtgen Castle" },
-    coordinates: { lat: 49.8678, lng: 6.1558 },
+    coords: [6.1558, 49.8678],
     description: {
       de: "Ein historisches Herrenhaus in Diekirch, das heute als Sitz der regionalen Musikschule dient.",
       hu: "Történelmi kúria Diekirchben, amely ma a regionális zeneiskola székhelyeként szolgál.",

@@ -6,7 +6,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Pyhä-Luosto Nationalpark", hu: "Pyhä-Luosto Nemzeti Park", ro: "Parcul Național Pyhä-Luosto", en: "Pyhä-Luosto National Park" },
-    coordinates: { lat: 67.0833, lng: 27.0 },
+    coords: [27.0, 67.0833],
     description: {
       de: "Dieser Nationalpark erstreckt sich über die uralten Tunturi-Hügel in Lappland. Er schützt seltene Waldgebiete und tiefe Schluchten.",
       hu: "Ez a nemzeti park a lappföldi ősi tunturi dombokon terül el. Ritka erdős területeket és mély szurdokokat véd.",
@@ -38,7 +38,7 @@ export const finlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "FI",
     name: { de: "Helsinki Zoo", hu: "Helsinki Állatkert", ro: "Grădina Zoologică din Helsinki", en: "Helsinki Zoo" },
-    coordinates: { lat: 60.1767, lng: 24.981 },
+    coords: [24.981, 60.1767],
     description: {
       de: "Der auf einer Insel gelegene Zoo beherbergt etwa 150 Tierarten aus verschiedenen Klimazonen. Er engagiert sich für den Artenschutz.",
       hu: "A szigeten található állatkert mintegy 150 állatfajnak ad otthont különböző éghajlati övekből. Elkötelezett a fajok védelme mellett.",
@@ -70,7 +70,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Patvinsuo Nationalpark", hu: "Patvinsuo Nemzeti Park", ro: "Parcul Național Patvinsuo", en: "Patvinsuo National Park" },
-    coordinates: { lat: 63.1167, lng: 30.7 },
+    coords: [30.7, 63.1167],
     description: {
       de: "Dieses Schutzgebiet in Nordkarelien ist für seine weitläufigen Moore bekannt. Es ist ein wichtiger Lebensraum für Wasservögel und Elche.",
       hu: "Ez az észak-karéliai védett terület kiterjedt mocsaraikról ismert. Fontos élőhely a vízimadarak és a jávorszarvasok számára.",
@@ -102,7 +102,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Helvetinjärvi Nationalpark", hu: "Helvetinjärvi Nemzeti Park", ro: "Parcul Național Helvetinjärvi", en: "Helvetinjärvi National Park" },
-    coordinates: { lat: 62.0333, lng: 23.85 },
+    coords: [23.85, 62.0333],
     description: {
       de: "Der Park in der Region Pirkanmaa bietet eine dramatische Landschaft mit zerklüfteten Felsen und tiefen Seen. Er wurde 1982 gegründet.",
       hu: "A Pirkanmaa régióban található park drámai tájat kínál sziklás szirtekkel és mély tavakkal. 1982-ben alapították.",
@@ -134,7 +134,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Lemmenjoki Nationalpark", hu: "Lemmenjoki Nemzeti Park", ro: "Parcul Național Lemmenjoki", en: "Lemmenjoki National Park" },
-    coordinates: { lat: 68.5, lng: 25.5 },
+    coords: [25.5, 68.5],
     description: {
       de: "Dies ist Finnlands größter Nationalpark und liegt tief im hohen Norden. Er umfasst weitläufige Täler, Flüsse und unberührte Wildnis.",
       hu: "Ez Finnország legnagyobb nemzeti parkja, mélyen északon található. Kiterjedt völgyeket, folyókat és érintetlen vadont foglal magában.",
@@ -166,7 +166,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Seitseminen Nationalpark", hu: "Seitseminen Nemzeti Park", ro: "Parcul Național Seitseminen", en: "Seitseminen National Park" },
-    coordinates: { lat: 61.9333, lng: 23.45 },
+    coords: [23.45, 61.9333],
     description: {
       de: "Dieser Park bewahrt die alten Nadelwälder der Suomenselkä-Wasserscheide. Er dient als wichtiges Forschungsgebiet für die Waldökologie.",
       hu: "Ez a park a Suomenselkä vízválasztó ősi tűlevelű erdőit őrzi. Fontos kutatási terület az erdei ökológia számára.",
@@ -198,7 +198,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Tiilikkajärvi Nationalpark", hu: "Tiilikkajärvi Nemzeti Park", ro: "Parcul Național Tiilikkajärvi", en: "Tiilikkajärvi National Park" },
-    coordinates: { lat: 63.6667, lng: 28.3 },
+    coords: [28.3, 63.6667],
     description: {
       de: "Tiilikkajärvi zeichnet sich durch seine langen Sandstrände und Moore aus. Es ist ein ruhiges Gebiet an der historischen Grenze Schwedens.",
       hu: "A Tiilikkajärvi hosszú homokos strandjairól és mocsarakról nevezetes. Ez egy csendes terület a történelmi svéd határon.",
@@ -230,7 +230,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Isojärvi Nationalpark", hu: "Isojärvi Nemzeti Park", ro: "Parcul Național Isojärvi", en: "Isojärvi National Park" },
-    coordinates: { lat: 61.6833, lng: 25.0 },
+    coords: [25.0, 61.6833],
     description: {
       de: "Isojärvi bietet hügelige Waldlandschaften und einen tief eingeschnittenen See. Der Park ist ein bedeutendes Ziel für Kanufahrer.",
       hu: "Az Isojärvi dombos erdős tájakat és egy mélyen bevágott tavat kínál. A park fontos úti cél a kenusok számára.",
@@ -262,7 +262,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Kolovesi Nationalpark", hu: "Kolovesi Nemzeti Park", ro: "Parcul Național Kolovesi", en: "Kolovesi National Park" },
-    coordinates: { lat: 62.25, lng: 28.8 },
+    coords: [28.8, 62.25],
     description: {
       de: "Dieser Park schützt eine unberührte Saimaa-Seenlandschaft. Er ist einer der letzten Orte, an denen die Saimaa-Ringelrobbe lebt.",
       hu: "Ez a park egy érintetlen Saimaa-tavi tájat véd. Ez az egyik utolsó hely, ahol a Saimaa-gyűrűsfóka él.",
@@ -294,7 +294,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Hiidenportti Nationalpark", hu: "Hiidenportti Nemzeti Park", ro: "Parcul Național Hiidenportti", en: "Hiidenportti National Park" },
-    coordinates: { lat: 64.2167, lng: 29.05 },
+    coords: [29.05, 64.2167],
     description: {
       de: "Das Gebiet ist durch die tiefe Schlucht Hiidenportti geprägt. Es bietet weitläufige Wildnisgebiete und eine reiche Fauna.",
       hu: "A területet a mély Hiidenportti szurdok jellemzi. Kiterjedt vadon területeket és gazdag faunát kínál.",
@@ -326,7 +326,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Torronsuo Nationalpark", hu: "Torronsuo Nemzeti Park", ro: "Parcul Național Torronsuo", en: "Torronsuo National Park" },
-    coordinates: { lat: 60.7333, lng: 23.6333 },
+    coords: [23.6333, 60.7333],
     description: {
       de: "Torronsuo ist das tiefste Moor Finnlands. Es bietet einzigartige Einblicke in die ökologischen Prozesse der Torfbildung.",
       hu: "Torronsuo Finnország legmélyebb mocsara. Egyedülálló betekintést nyújt a tőzegképződés ökológiai folyamataiba.",
@@ -358,7 +358,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Pallas-Yllästunturi Nationalpark", hu: "Pallas-Yllästunturi Nemzeti Park", ro: "Parcul Național Pallas-Yllästunturi", en: "Pallas-Yllästunturi National Park" },
-    coordinates: { lat: 68.0, lng: 24.0 },
+    coords: [24.0, 68.0],
     description: {
       de: "Dieser Park umfasst die markanten Fjällberge Lapplands. Er ist ein zentrales Gebiet für alpinen Wintersport und sommerliche Wanderungen.",
       hu: "Ez a park magában foglalja Lappföld jellegzetes fjäll hegyeit. Központi terület az alpesi téli sportok és a nyári túrák számára.",
@@ -390,7 +390,7 @@ export const finlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "FI",
     name: { de: "Peurasaari Wildreservat", hu: "Peurasaari Vadrezervátum", ro: "Rezervația de animale sălbatice Peurasaari", en: "Peurasaari Wildlife Reserve" },
-    coordinates: { lat: 65.73, lng: 24.52 },
+    coords: [24.52, 65.73],
     description: {
       de: "Dieses Reservat dient dem Schutz lokaler Wildtierpopulationen, insbesondere verschiedener Arten von Wasservögeln und Elchen.",
       hu: "Ez a rezervátum a helyi vadállomány védelmét szolgálja, különösen a vízimadarak és jávorszarvasok különböző fajait.",
@@ -422,7 +422,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Siikaneva Moor", hu: "Siikaneva mocsár", ro: "Mlaștina Siikaneva", en: "Siikaneva Mire" },
-    coordinates: { lat: 61.8, lng: 24.15 },
+    coords: [24.15, 61.8],
     description: {
       de: "Siikaneva ist eines der größten zusammenhängenden Moorgebiete in Südwestfinnland. Es bietet exzellente Möglichkeiten zur Naturbeobachtung.",
       hu: "Siikaneva Délnyugat-Finnország egyik legnagyobb összefüggő mocsaras területe. Kiváló lehetőségeket kínál a természet megfigyelésére.",
@@ -454,7 +454,7 @@ export const finlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "FI",
     name: { de: "Laajalahti Naturreservat", hu: "Laajalahti Természetvédelmi Terület", ro: "Rezervația Naturală Laajalahti", en: "Laajalahti Nature Reserve" },
-    coordinates: { lat: 60.1833, lng: 24.8167 },
+    coords: [24.8167, 60.1833],
     description: {
       de: "Dieses Schutzgebiet in Espoo liegt an einer Bucht und ist ein Hotspot für die Beobachtung von Zugvögeln.",
       hu: "Ez az espoo-i védett terület egy öböl mentén fekszik, és a vonuló madarak megfigyelésének egyik központja.",
@@ -486,7 +486,7 @@ export const finlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "FI",
     name: { de: "Liminganlahti Bucht", hu: "Liminganlahti öböl", ro: "Golful Liminganlahti", en: "Liminganlahti Bay" },
-    coordinates: { lat: 64.9167, lng: 25.1667 },
+    coords: [25.1667, 64.9167],
     description: {
       de: "Die Bucht bei Liminka ist eines der bedeutendsten Feuchtgebiete Finnlands für Zugvögel. Sie bietet optimale Nistplätze.",
       hu: "A Liminka melletti öböl Finnország egyik legfontosabb vizes élőhelye a vándormadarak számára. Optimális fészkelőhelyeket kínál.",
@@ -518,7 +518,7 @@ export const finlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "FI",
     name: { de: "Heinola Vogelpark", hu: "Heinola Madárpark", ro: "Parcul de Păsări din Heinola", en: "Heinola Bird Park" },
-    coordinates: { lat: 61.2, lng: 26.03 },
+    coords: [26.03, 61.2],
     description: {
       de: "Dieser Park in Heinola widmet sich der Pflege und Erhaltung von verletzten oder verwaisten heimischen Vögeln.",
       hu: "Ez a heinolai park a sérült vagy árva hazai madarak ápolásával és megőrzésével foglalkozik.",
@@ -550,7 +550,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Botanischer Garten Oulu", hu: "Oului Botanikus Kert", ro: "Grădina Botanică din Oulu", en: "Oulu Botanical Garden" },
-    coordinates: { lat: 65.06, lng: 25.46 },
+    coords: [25.46, 65.06],
     description: {
       de: "Dieser Garten zeigt arktische und subarktische Pflanzenarten in ihrer natürlichen Umgebung. Er ist der Universität Oulu zugeordnet.",
       hu: "Ez a kert sarki és szubarktikus növényfajokat mutat be természetes környezetükben. Az Oului Egyetemhez tartozik.",
@@ -582,7 +582,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Sapokka Wasserpark", hu: "Sapokka Vízipark", ro: "Parcul Acvatic Sapokka", en: "Sapokka Water Park" },
-    coordinates: { lat: 60.46, lng: 26.94 },
+    coords: [26.94, 60.46],
     description: {
       de: "Dieser Park in Kotka nutzt das Wasser als zentrales Element der Landschaftsgestaltung. Er ist ein exzellentes Beispiel für Gartenbaukunst.",
       hu: "Ez a kotkai park a vizet használja a tájtervezés központi elemeként. Kiváló példa a kertépítészetre.",
@@ -614,7 +614,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Nuuksio Nationalpark", hu: "Nuuksio Nemzeti Park", ro: "Parcul Național Nuuksio", en: "Nuuksio National Park" },
-    coordinates: { lat: 60.3, lng: 24.5 },
+    coords: [24.5, 60.3],
     description: {
       de: "Dieser Nationalpark bei Helsinki ist ein beliebter Rückzugsort. Er bietet dichte Wälder, kleine Seen und eine hügelige Topografie.",
       hu: "Ez a Helsinki melletti nemzeti park népszerű menedékhely. Sűrű erdőket, kis tavakat és dombos topográfiát kínál.",
@@ -646,7 +646,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Sipoonkorpi Nationalpark", hu: "Sipoonkorpi Nemzeti Park", ro: "Parcul Național Sipoonkorpi", en: "Sipoonkorpi National Park" },
-    coordinates: { lat: 60.33, lng: 25.18 },
+    coords: [25.18, 60.33],
     description: {
       de: "Sipoonkorpi bewahrt ländliche Landschaften nahe Helsinki. Er zeichnet sich durch eine vielfältige Mischung aus Wald- und Agrarflächen aus.",
       hu: "A Sipoonkorpi megőrzi a vidéki tájakat Helsinki közelében. Jellemzője az erdő- és mezőgazdasági területek változatos keveréke.",
@@ -678,7 +678,7 @@ export const finlandLifeV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Hossa Nationalpark", hu: "Hossa Nemzeti Park", ro: "Parcul Național Hossa", en: "Hossa National Park" },
-    coordinates: { lat: 65.5, lng: 29.35 },
+    coords: [29.35, 65.5],
     description: {
       de: "Hossa liegt an der russischen Grenze und ist bekannt für seine kristallklaren Seen und jahrhundertealten Kiefernwälder.",
       hu: "A Hossa az orosz határ mentén fekszik, és kristálytiszta tavairól és évszázados fenyveseiről ismert.",
@@ -710,7 +710,7 @@ export const finlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "FI",
     name: { de: "Reovesi Naturschutzgebiet", hu: "Reovesi Természetvédelmi Terület", ro: "Rezervația Naturală Reovesi", en: "Reovesi Wildlife Reserve" },
-    coordinates: { lat: 61.98, lng: 24.08 },
+    coords: [24.08, 61.98],
     description: {
       de: "Dieses Gebiet schützt die vielfältige Flora der Wasser- und Uferzonen in Mittelfinnland.",
       hu: "Ez a terület védi a közép-finnországi vizek és part menti területek változatos növényvilágát.",

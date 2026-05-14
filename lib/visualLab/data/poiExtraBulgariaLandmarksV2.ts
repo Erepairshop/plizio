@@ -6,7 +6,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Kloster Batschkowo", hu: "Bácskovói kolostor", ro: "Mănăstirea Bacikovo", en: "Bachkovo Monastery" },
-    coordinates: { lat: 41.9427, lng: 24.8517 },
+    coords: [24.8517, 41.9427],
     description: {
       de: "Das 1083 gegründete Kloster liegt im Rhodopengebirge südlich von Assenowgrad. Es ist eines der bedeutendsten orthodoxen Klöster Bulgariens.",
       hu: "Az 1083-ban alapított kolostor az Aszenovgrádtól délre fekvő Rodope-hegységben található. Bulgária egyik legjelentősebb ortodox kolostora.",
@@ -38,7 +38,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BG",
     name: { de: "Thrakergrab von Sweschtari", hu: "Szveshtari trák sír", ro: "Mormântul trac de la Sveștari", en: "Thracian Tomb of Sveshtari" },
-    coordinates: { lat: 43.7497, lng: 26.685 },
+    coords: [26.685, 43.7497],
     description: {
       de: "Dieses Grab aus dem 3. Jahrhundert v. Chr. befindet sich im Nordosten Bulgariens. Es ist bekannt für seine einzigartige thrakische Architektur und Statuen.",
       hu: "Ez a Kr. e. 3. századi sír Bulgária északkeleti részén található. Egyedülálló trák építészetéről és szobrairól ismert.",
@@ -70,7 +70,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BG",
     name: { de: "Koprinka-Staudamm", hu: "Koprinka-víztározó", ro: "Barajul Koprinka", en: "Koprinka Dam" },
-    coordinates: { lat: 42.6333, lng: 25.3167 },
+    coords: [25.3167, 42.6333],
     description: {
       de: "Der Staudamm liegt nahe Kasanlak am Fluss Tundscha. Unter dem Wasserspiegel befinden sich die Überreste der antiken thrakischen Stadt Seuthopolis.",
       hu: "A víztározó Kazanlak közelében, a Tundzsa folyón fekszik. A vízszint alatt az ősi trák város, Szeuthopolisz maradványai találhatók.",
@@ -102,7 +102,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Gedächtniskirche Schipka", hu: "Sipkai emléktemplom", ro: "Biserica memorială de la Șipka", en: "Shipka Memorial Church" },
-    coordinates: { lat: 42.7483, lng: 25.3375 },
+    coords: [25.3375, 42.7483],
     description: {
       de: "Die russisch-orthodoxe Kirche wurde im 19. Jahrhundert zum Gedenken an die im Russisch-Osmanischen Krieg gefallenen Soldaten errichtet.",
       hu: "Az orosz ortodox templomot a 19. században emelték az orosz-török háborúban elesett katonák emlékére.",
@@ -134,7 +134,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Kloster Ryschawa", hu: "Rzsava kolostor", ro: "Mănăstirea Rjava", en: "Rzhava Monastery" },
-    coordinates: { lat: 42.235, lng: 23.95 },
+    coords: [23.95, 42.235],
     description: {
       de: "Dieses versteckte Kloster in den Rila-Ausläufern bietet Ruhe und mittelalterliche Architektur. Es diente lange als Zufluchtsort für Mönche und Gelehrte.",
       hu: "A Rila-hegység lábánál fekvő, rejtett kolostor nyugalmat és középkori építészetet kínál. Hosszú ideig menedékként szolgált szerzeteseknek és tudósoknak.",
@@ -166,7 +166,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Kloster Basarbowo", hu: "Baszarbovói kolostor", ro: "Mănăstirea Basarabov", en: "Basarbovo Monastery" },
-    coordinates: { lat: 43.7842, lng: 25.9917 },
+    coords: [25.9917, 43.7842],
     description: {
       de: "Dieses Höhlenkloster bei Russe ist dem Heiligen Dimitri Basarbovski gewidmet. Es ist das einzige aktive Felskloster in Bulgarien.",
       hu: "Ez a Rusze melletti barlangkolostor Baszarbovói Szent Dömötörnek van szentelve. Bulgária egyetlen aktív sziklakolostora.",
@@ -198,7 +198,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Kloster Roschen", hu: "Rozsen kolostor", ro: "Mănăstirea Rojen", en: "Rozhen Monastery" },
-    coordinates: { lat: 41.5275, lng: 23.4478 },
+    coords: [23.4478, 41.5275],
     description: {
       de: "Dieses mittelalterliche Kloster befindet sich in der Nähe von Melnik und den berühmten Erdhügeln. Es wurde im 13. Jahrhundert gegründet.",
       hu: "Ez a középkori kolostor Melnik és a híres földpiramisok közelében található. A 13. században alapították.",
@@ -230,7 +230,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BG",
     name: { de: "Bojana-Wasserfall", hu: "Bojana-vízesés", ro: "Cascada Boiana", en: "Boyana Waterfall" },
-    coordinates: { lat: 42.6175, lng: 23.2514 },
+    coords: [23.2514, 42.6175],
     description: {
       de: "Der Wasserfall liegt im Witoscha-Gebirge nahe der Hauptstadt Sofia. Er ist das höchste Gewässer seiner Art in der Region.",
       hu: "A vízesés a Vitos-hegységben, Szófia főváros közelében található. A régió legnagyobb vízesése.",
@@ -262,7 +262,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Festung Pernik", hu: "Perniki erőd", ro: "Fortăreața Pernik", en: "Pernik Fortress" },
-    coordinates: { lat: 42.605, lng: 23.033 },
+    coords: [23.033, 42.605],
     description: {
       de: "Die Burgruine liegt auf dem Hügel Krakra über der Stadt Pernik. Sie war im Mittelalter eine bedeutende bulgarische Befestigungsanlage.",
       hu: "Az erőrom a Krakra-dombon áll, Pernik városa felett. A középkorban jelentős bolgár erődítmény volt.",
@@ -294,7 +294,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "monument",
     parent: "BG",
     name: { de: "Zar-Samuil-Denkmal", hu: "Sámuel cár emlékmű", ro: "Monumentul țarului Samuil", en: "Tsar Samuil Monument" },
-    coordinates: { lat: 42.695, lng: 23.325 },
+    coords: [23.325, 42.695],
     description: {
       de: "Das Denkmal steht im Zentrum von Sofia und erinnert an den Herrscher des Ersten Bulgarischen Reiches. Es wurde 2015 eingeweiht.",
       hu: "Az emlékmű Szófia központjában áll, és az első Bolgár Birodalom uralkodójára emlékezik. 2015-ben avatták fel.",
@@ -326,7 +326,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "monument",
     parent: "BG",
     name: { de: "Christo-Botew-Denkmal", hu: "Hriszto Botev emlékmű", ro: "Monumentul Hristo Botev", en: "Hristo Botev Monument" },
-    coordinates: { lat: 42.65, lng: 24.983 },
+    coords: [24.983, 42.65],
     description: {
       de: "Das Denkmal befindet sich in Kalofer, dem Geburtsort des Dichters und Revolutionärs Christo Botew. Es ehrt seinen Kampf für die Unabhängigkeit.",
       hu: "Az emlékmű Kaloférben, a költő és forradalmár Hriszto Botev szülőhelyén található. A függetlenségért folytatott harcára emlékeztet.",
@@ -358,7 +358,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "St.-Georgs-Kirche Plovdiv", hu: "Szent György-templom Plovdiv", ro: "Biserica Sfântul Gheorghe din Plovdiv", en: "Saint George Church Plovdiv" },
-    coordinates: { lat: 42.145, lng: 24.75 },
+    coords: [24.75, 42.145],
     description: {
       de: "Diese Kirche befindet sich in der Altstadt von Plovdiv. Sie ist bekannt für ihre Architektur und ihre historischen Fresken.",
       hu: "Ez a templom Plovdiv óvárosában található. Építészetéről és történelmi freskóiról ismert.",
@@ -390,7 +390,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Erzengel-Michael-Kirche", hu: "Szent Mihály arkangyal templom", ro: "Biserica Sfântul Arhanghel Mihail", en: "Church of Saint Archangel Michael" },
-    coordinates: { lat: 42.415, lng: 24.45 },
+    coords: [24.45, 42.415],
     description: {
       de: "Die Kirche liegt in einer der historischen Städte Bulgariens. Sie dient als wichtiges religiöses und kulturelles Denkmal.",
       hu: "A templom Bulgária egyik történelmi városában áll. Fontos vallási és kulturális műemlék.",
@@ -422,7 +422,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "BG",
     name: { de: "Mariä-Entschlafens-Kathedrale Warna", hu: "Várnai Nagyboldogasszony-katedrális", ro: "Catedrala Adormirea Maicii Domnului din Varna", en: "Dormition of the Mother of God Cathedral Varna" },
-    coordinates: { lat: 43.211, lng: 27.915 },
+    coords: [27.915, 43.211],
     description: {
       de: "Die Kathedrale im Zentrum von Warna ist ein Wahrzeichen der Stadt. Sie beeindruckt mit ihrer markanten byzantinischen Kuppelarchitektur.",
       hu: "A várnai katedrális a város jelképe. Lenyűgöző bizánci kupolás építészete.",
@@ -454,7 +454,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "museum",
     parent: "BG",
     name: { de: "Kunstgalerie Weliko Tarnowo", hu: "Veliko Tarnovo-i Művészeti Galéria", ro: "Galeria de Artă din Veliko Târnovo", en: "Veliko Tarnovo Art Gallery" },
-    coordinates: { lat: 43.075, lng: 25.625 },
+    coords: [25.625, 43.075],
     description: {
       de: "Die Galerie beherbergt eine bedeutende Sammlung bulgarischer Kunst. Sie liegt strategisch günstig in der historischen Stadt.",
       hu: "A galéria jelentős bolgár művészeti gyűjteménynek ad otthont. Stratégiailag kedvező helyen, a történelmi városban található.",
@@ -486,7 +486,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Sweta-Nedelja-Kirche Sofia", hu: "Szveta Nedelja-templom Szófia", ro: "Biserica Sfânta Nedelia din Sofia", en: "Saint Nedelya Church Sofia" },
-    coordinates: { lat: 42.697, lng: 23.321 },
+    coords: [23.321, 42.697],
     description: {
       de: "Die Kirche im Zentrum von Sofia hat eine bewegte Geschichte. Sie ist bekannt für ihre zentrale Lage und architektonische Bedeutung.",
       hu: "A szófiai templomnak mozgalmas története van. Központi elhelyezkedéséről és építészeti jelentőségéről ismert.",
@@ -518,7 +518,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BG",
     name: { de: "Rila-Kloster-Eingang", hu: "Rilai kolostor bejárata", ro: "Intrarea mănăstirii Rila", en: "Rila Monastery Entrance" },
-    coordinates: { lat: 42.133, lng: 23.341 },
+    coords: [23.341, 42.133],
     description: {
       de: "Der Eingangsbereich des Rila-Klosters zeigt die prächtige Architektur des berühmtesten Klosters Bulgariens. Es ist ein Symbol der nationalen Identität.",
       hu: "A Rilai kolostor bejárata Bulgária leghíresebb kolostorának pompás építészetét mutatja be. A nemzeti identitás jelképe.",
@@ -550,7 +550,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BG",
     name: { de: "Mineralbäder Banja", hu: "Banjai ásványi fürdők", ro: "Băile minerale din Banya", en: "Banya Mineral Baths" },
-    coordinates: { lat: 41.836, lng: 23.513 },
+    coords: [23.513, 41.836],
     description: {
       de: "Banja ist bekannt für seine natürlichen heißen Quellen. Diese Bäder werden seit Jahrhunderten zur Heilung genutzt.",
       hu: "Banja természetes meleg forrásairól híres. Ezeket a fürdőket évszázadok óta gyógyításra használják.",
@@ -582,7 +582,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "St.-Panteleimon-Kirche", hu: "Szent Panteleimon-templom", ro: "Biserica Sfântul Pantelimon", en: "Saint Panteleimon Church" },
-    coordinates: { lat: 42.65, lng: 23.25 },
+    coords: [23.25, 42.65],
     description: {
       de: "Die Kirche bewahrt mittelalterliche Traditionen der sakralen Baukunst. Sie ist ein wichtiger Teil des kulturellen Erbes.",
       hu: "A templom megőrzi a szent építészet középkori hagyományait. A kulturális örökség fontos része.",
@@ -614,7 +614,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "museum",
     parent: "BG",
     name: { de: "Geschichtsmuseum Dobritsch", hu: "Dobrics-i Történeti Múzeum", ro: "Muzeul de Istorie din Dobrici", en: "Dobrich History Museum" },
-    coordinates: { lat: 43.565, lng: 27.825 },
+    coords: [27.825, 43.565],
     description: {
       de: "Das Museum in Dobritsch zeigt die reiche Geschichte der Region Dobrudscha. Es beherbergt zahlreiche archäologische Artefakte.",
       hu: "A dobricsi múzeum a Dobrudzsa régió gazdag történelmét mutatja be. Számos régészeti leletet őriz.",
@@ -646,7 +646,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Kirche der Heiligen Apostel", hu: "Szent Apostolok temploma", ro: "Biserica Sfinții Apostoli", en: "Church of the Holy Apostles" },
-    coordinates: { lat: 42.15, lng: 24.73 },
+    coords: [24.73, 42.15],
     description: {
       de: "Diese Kirche ist ein bedeutendes Beispiel sakraler Architektur. Sie bewahrt jahrhundertealte religiöse Traditionen.",
       hu: "Ez a templom a szakrális építészet jelentős példája. Évszázados vallási hagyományokat őriz.",
@@ -678,7 +678,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "museum",
     parent: "BG",
     name: { de: "Geschichtsmuseum Wraza", hu: "Vracai Történeti Múzeum", ro: "Muzeul de Istorie din Vrața", en: "Vratsa History Museum" },
-    coordinates: { lat: 43.208, lng: 23.55 },
+    coords: [23.55, 43.208],
     description: {
       de: "Das Museum befindet sich in Wraza und präsentiert Exponate aus der Region. Es ist zentral gelegen und leicht erreichbar.",
       hu: "A múzeum Vracában található, és a régióból származó kiállításokat mutat be. Központi helyen fekszik, könnyen megközelíthető.",
@@ -710,7 +710,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "museum",
     parent: "BG",
     name: { de: "Regionalmuseum Kardschali", hu: "Kardzsali Regionális Múzeum", ro: "Muzeul Regional din Kârdjali", en: "Kardzhali Regional Museum" },
-    coordinates: { lat: 41.65, lng: 25.37 },
+    coords: [25.37, 41.65],
     description: {
       de: "Dieses Museum in Kardschali widmet sich der Geschichte und Natur der Rhodopen. Es ist ein wichtiges Bildungszentrum.",
       hu: "Ez a kardzsali múzeum a Rodope-hegység történelmének és természetének szentelt. Fontos oktatási központ.",
@@ -742,7 +742,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BG",
     name: { de: "Besistan Jambol", hu: "Jamboli beziszten", ro: "Bezistenul din Iambol", en: "Bezisten Yambol" },
-    coordinates: { lat: 42.483, lng: 26.5 },
+    coords: [26.5, 42.483],
     description: {
       de: "Der Besistan ist ein historisches Gebäude in Jambol. Er diente im Mittelalter als Markthalle und ist gut erhalten.",
       hu: "A beziszten egy történelmi épület Jambolban. A középkorban vásárcsarnokként szolgált, és jól fennmaradt.",
@@ -774,7 +774,7 @@ export const bulgariaLandmarksV2: POI[] = [
     type: "museum",
     parent: "BG",
     name: { de: "Geschichtsmuseum Stara Sagora", hu: "Sztara Zagora-i Történeti Múzeum", ro: "Muzeul de Istorie din Stara Zagora", en: "Stara Zagora History Museum" },
-    coordinates: { lat: 42.425, lng: 25.625 },
+    coords: [25.625, 42.425],
     description: {
       de: "Das Museum in Stara Sagora beherbergt eine bedeutende Sammlung zur antiken Geschichte. Es ist ein wichtiges Kulturzentrum.",
       hu: "A Sztara Zagora-i múzeum az ókori történelemről szóló jelentős gyűjteménynek ad otthont. Fontos kulturális központ.",

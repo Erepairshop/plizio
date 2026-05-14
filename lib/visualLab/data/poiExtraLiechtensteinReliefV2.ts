@@ -6,7 +6,7 @@ export const liechtensteinReliefV2: POI[] = [
     type: "peak",
     parent: "LI",
     name: { de: "Ochsenkopf", hu: "Ochsenkopf", ro: "Ochsenkopf", en: "Ochsenkopf" },
-    coordinates: { lat: 47.0544, lng: 9.6158 },
+    coords: [9.6158, 47.0544],
     description: {
       de: "Der Ochsenkopf ist ein markanter Berg in der Liechtensteiner Alpenregion. Er ist Teil des Rätikon-Massivs und zeichnet sich durch seine steile Felsstruktur aus.",
       hu: "Az Ochsenkopf a liechtensteini alpesi régió egyik jellegzetes hegye. A Rätikon-hegység része, amelyet meredek sziklaszerkezete jellemez.",
@@ -38,7 +38,7 @@ export const liechtensteinReliefV2: POI[] = [
     type: "peak",
     parent: "LI",
     name: { de: "Scheienkopf", hu: "Scheienkopf", ro: "Scheienkopf", en: "Scheienkopf" },
-    coordinates: { lat: 47.0789, lng: 9.6382 },
+    coords: [9.6382, 47.0789],
     description: {
       de: "Der Scheienkopf liegt in den Liechtensteiner Alpen und bildet eine natürliche Grenze in der Gebirgslandschaft. Sein Gipfel bietet einen weiten Blick über das Saminatal.",
       hu: "A Scheienkopf a liechtensteini Alpokban található, és természetes határt képez a hegyvidéki tájban. Csúcsa széles kilátást nyújt a Samina-völgyre.",
@@ -70,7 +70,7 @@ export const liechtensteinReliefV2: POI[] = [
     type: "peak",
     parent: "LI",
     name: { de: "Nospitz", hu: "Nospitz", ro: "Nospitz", en: "Nospitz" },
-    coordinates: { lat: 47.0754, lng: 9.5842 },
+    coords: [9.5842, 47.0754],
     description: {
       de: "Der Nospitz ist ein markanter Gipfel nahe Malbun im Liechtensteiner Oberland. Er ist durch seine exponierte Lage im Alpsteingebiet bekannt.",
       hu: "A Nospitz egy jellegzetes csúcs a liechtensteini Oberlandban, Malbun közelében. Ismert exponált fekvéséről az Alpstein-vidéken.",
@@ -102,7 +102,7 @@ export const liechtensteinReliefV2: POI[] = [
     type: "mountain",
     parent: "LI",
     name: { de: "Pizol Vorberge", hu: "Pizol Vorberge", ro: "Pizol Vorberge", en: "Pizol Foothills" },
-    coordinates: { lat: 47.0185, lng: 9.4754 },
+    coords: [9.4754, 47.0185],
     description: {
       de: "Diese Ausläufer des Pizol-Massivs erstrecken sich an der Grenze zwischen der Schweiz und Liechtenstein. Sie bilden ein komplexes System aus Tälern und Graten.",
       hu: "A Pizol-hegység ezen nyúlványai Svájc és Liechtenstein határán húzódnak. Völgyek és gerincek összetett rendszerét alkotják.",
@@ -134,7 +134,7 @@ export const liechtensteinReliefV2: POI[] = [
     type: "mountain",
     parent: "LI",
     name: { de: "Hochwang", hu: "Hochwang", ro: "Hochwang", en: "Hochwang" },
-    coordinates: { lat: 47.0223, lng: 9.5411 },
+    coords: [9.5411, 47.0223],
     description: {
       de: "Das Hochwang-Gebiet liegt südlich von Triesen in einer zerklüfteten Berglandschaft. Es besteht hauptsächlich aus hochalpinen Weideflächen und felsigen Abschnitten.",
       hu: "A Hochwang terület Triesentől délre, egy szakadozott hegyvidéki tájon fekszik. Főként magashegyi legelőkből és sziklás részekből áll.",

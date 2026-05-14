@@ -217,7 +217,7 @@ export default async function PoiPage({
                       <h2 className="text-sm font-semibold uppercase tracking-[0.18em] text-white/55">{copy.geography}</h2>
                       <ul className="mt-3 space-y-2 text-white/80">
                         {geoFacts.map((item) => <li key={item}>{item}</li>)}
-                        <li>{poi.coords![1]}, {poi.coords![0]}</li>
+                        {poi.coords ? <li>{poi.coords[1]}, {poi.coords[0]}</li> : null}
                       </ul>
                     </div>
                   ) : null}

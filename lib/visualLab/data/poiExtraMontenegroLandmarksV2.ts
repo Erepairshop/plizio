@@ -6,7 +6,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "bridge",
     parent: "ME",
     name: { de: "Sastavci Brücke", hu: "Sastavci híd", ro: "Podul Sastavci", en: "Sastavci Bridge" },
-    coordinates: { lat: 42.4411, lng: 19.2564 },
+    coords: [19.2564, 42.4411],
     description: {
       de: "Diese alte Steinbrücke befindet sich am Zusammenfluss der Flüsse Ribnica und Morača in Podgorica. Sie stammt aus der Zeit der osmanischen Herrschaft.",
       hu: "Ez az öreg kőhíd a Ribnica és a Morača folyók találkozásánál található Podgoricában. Az oszmán uralom idejéből származik.",
@@ -38,7 +38,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "St. Nikolaus Kirche Kotor", hu: "Szent Miklós templom Kotor", ro: "Biserica Sfântul Nicolae Kotor", en: "St. Nicholas Church Kotor" },
-    coordinates: { lat: 42.4259, lng: 18.7712 },
+    coords: [18.7712, 42.4259],
     description: {
       de: "Die serbisch-orthodoxe Kirche im Zentrum von Kotor wurde im frühen 20. Jahrhundert erbaut. Sie ist bekannt für ihre prächtige Ikonostase.",
       hu: "A kotori belvárosban álló szerb ortodox templom a 20. század elején épült. Híres csodálatos ikonosztázáról.",
@@ -70,7 +70,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Zitadelle von Budva", hu: "Budva citadellája", ro: "Citadela din Budva", en: "Citadel of Budva" },
-    coordinates: { lat: 42.2783, lng: 18.8354 },
+    coords: [18.8354, 42.2783],
     description: {
       de: "Die Zitadelle von Budva liegt im südlichen Teil der Altstadt. Die Festung wurde im 19. Jahrhundert massiv umgebaut.",
       hu: "Budva citadellája az óváros déli részén található. Az erődöt a 19. században jelentősen átépítették.",
@@ -102,7 +102,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Kastio Festung", hu: "Kastio erőd", ro: "Fortăreața Kastio", en: "Kastio Fortress" },
-    coordinates: { lat: 42.2045, lng: 18.9412 },
+    coords: [18.9412, 42.2045],
     description: {
       de: "Diese kleine Festung liegt auf einem Felsen vor der Küste von Petrovac. Sie wurde im 16. Jahrhundert von Venezianern errichtet.",
       hu: "Ez a kis erőd Petrovac partjai előtt, egy sziklán áll. A 16. században építették a velenceiek.",
@@ -134,7 +134,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "ME",
     name: { de: "Kathedrale St. Basilius Ostrog", hu: "Szent Vazul székesegyház", ro: "Catedrala Sfântul Vasile de Ostrog", en: "Cathedral of St. Basil of Ostrog" },
-    coordinates: { lat: 42.7752, lng: 18.9481 },
+    coords: [18.9481, 42.7752],
     description: {
       de: "Die Kathedrale in Nikšić wurde Ende des 19. Jahrhunderts erbaut. Sie ist ein bedeutendes religiöses Zentrum der Stadt.",
       hu: "A nikšići székesegyházat a 19. század végén építették. A város jelentős vallási központja.",
@@ -166,7 +166,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "palace",
     parent: "ME",
     name: { de: "Palast von König Nikola", hu: "Nikola király palotája", ro: "Palatul Regelui Nikola", en: "King Nikola's Palace" },
-    coordinates: { lat: 42.0945, lng: 19.0984 },
+    coords: [19.0984, 42.0945],
     description: {
       de: "Dieser Palast in Bar wurde Ende des 19. Jahrhunderts für König Nikola I. erbaut. Heute beherbergt er das Stadtmuseum.",
       hu: "Ez a bari palota a 19. század végén épült I. Miklós király számára. Ma a városi múzeumnak ad otthont.",
@@ -198,7 +198,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "tower",
     parent: "ME",
     name: { de: "Uhrturm von Kotor", hu: "Kotori óratorony", ro: "Turnul cu ceas din Kotor", en: "Clock Tower of Kotor" },
-    coordinates: { lat: 42.4251, lng: 18.7711 },
+    coords: [18.7711, 42.4251],
     description: {
       de: "Der Uhrturm steht auf dem Hauptplatz von Kotor. Er wurde im frühen 17. Jahrhundert erbaut und ist ein Symbol der Stadt.",
       hu: "Az óratorony Kotor főterén áll. A 17. század elején épült, a város egyik jelképe.",
@@ -230,7 +230,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "museum",
     parent: "ME",
     name: { de: "Nationalmuseum von Montenegro", hu: "Montenegrói Nemzeti Múzeum", ro: "Muzeul Național al Muntenegrului", en: "National Museum of Montenegro" },
-    coordinates: { lat: 42.3905, lng: 18.9238 },
+    coords: [18.9238, 42.3905],
     description: {
       de: "Das Nationalmuseum befindet sich in Cetinje. Es beherbergt eine umfassende Sammlung zur montenegrinischen Geschichte und Kunst.",
       hu: "A nemzeti múzeum Cetinjében található. Átfogó gyűjteménye van a montenegrói történelemről és művészetről.",
@@ -262,7 +262,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Pascha-Moschee Ulcinj", hu: "Pascha-mecset Ulcinj", ro: "Moscheea Pașa din Ulcinj", en: "Pasha's Mosque Ulcinj" },
-    coordinates: { lat: 41.9284, lng: 19.2082 },
+    coords: [19.2082, 41.9284],
     description: {
       de: "Die Pascha-Moschee in Ulcinj ist ein bedeutendes islamisches Bauwerk. Sie zeugt von der osmanischen Architekturgeschichte der Region.",
       hu: "Az ulcinji Pascha-mecset jelentős iszlám építmény. A régió oszmán építészeti történetét tanúsítja.",
@@ -294,7 +294,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "ME",
     name: { de: "Kathedrale St. Tryphon", hu: "Szent Tryphon székesegyház", ro: "Catedrala Sfântul Tryphon", en: "Cathedral of Saint Tryphon" },
-    coordinates: { lat: 42.4247, lng: 18.7715 },
+    coords: [18.7715, 42.4247],
     description: {
       de: "Diese romanische Kathedrale in Kotor stammt aus dem Jahr 1166. Sie gilt als eine der ältesten Kirchen Montenegros.",
       hu: "Ez a kotori román stílusú székesegyház 1166-ból származik. Montenegró egyik legrégebbi templomának tartják.",
@@ -326,7 +326,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "tower",
     parent: "ME",
     name: { de: "Uhrturm von Perast", hu: "Perasti óratorony", ro: "Turnul cu ceas din Perast", en: "Clock Tower of Perast" },
-    coordinates: { lat: 42.4862, lng: 18.6941 },
+    coords: [18.6941, 42.4862],
     description: {
       de: "Der Uhrturm in Perast ist ein markantes Bauwerk in der Bucht von Kotor. Er steht neben der Kirche St. Nikolaus.",
       hu: "A perasti óratorony jellegzetes építmény a Kotori-öbölben. A Szent Miklós templom mellett áll.",
@@ -358,7 +358,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "museum",
     parent: "ME",
     name: { de: "Biljarda Museum", hu: "Biljarda Múzeum", ro: "Muzeul Biljarda", en: "Biljarda Museum" },
-    coordinates: { lat: 42.3908, lng: 18.9242 },
+    coords: [18.9242, 42.3908],
     description: {
       de: "Das Gebäude Biljarda diente als Residenz von Petar II Petrović Njegoš. Heute zeigt es persönliche Gegenstände des Herrschers.",
       hu: "A Biljarda épület II. Petar Petrović Njegoš rezidenciájaként szolgált. Ma az uralkodó személyes tárgyait mutatja be.",
@@ -390,7 +390,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung Forte Mare", hu: "Forte Mare erőd", ro: "Fortăreața Forte Mare", en: "Forte Mare Fortress" },
-    coordinates: { lat: 42.4519, lng: 18.5332 },
+    coords: [18.5332, 42.4519],
     description: {
       de: "Die Festung Forte Mare befindet sich in Herceg Novi. Sie diente zur Verteidigung der Bucht von Kotor gegen Piraten.",
       hu: "A Forte Mare erőd Herceg Noviban található. A Kotori-öböl kalózok elleni védelmére szolgált.",
@@ -422,7 +422,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Unteres Ostrog-Kloster", hu: "Alsó Ostrog kolostor", ro: "Mănăstirea Ostrog de Jos", en: "Lower Ostrog Monastery" },
-    coordinates: { lat: 42.6781, lng: 19.0321 },
+    coords: [19.0321, 42.6781],
     description: {
       de: "Der untere Teil des Klosters Ostrog liegt am Fuße des Felsens. Es ist ein wichtiger Ort für Pilger aus aller Welt.",
       hu: "Az Ostrog kolostor alsó része a szikla lábánál található. Fontos hely zarándokok számára a világ minden tájáról.",
@@ -454,7 +454,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "landmark",
     parent: "ME",
     name: { de: "Sveti Stefan Insel", hu: "Sveti Stefan sziget", ro: "Insula Sveti Stefan", en: "Sveti Stefan Island" },
-    coordinates: { lat: 42.2551, lng: 18.8942 },
+    coords: [18.8942, 42.2551],
     description: {
       de: "Sveti Stefan ist eine malerische Insel vor der montenegrinischen Küste. Sie wurde im 15. Jahrhundert besiedelt.",
       hu: "Sveti Stefan egy festői sziget a montenegrói partoknál. A 15. században települtek be.",
@@ -486,7 +486,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "ruins",
     parent: "ME",
     name: { de: "Römische Mosaike Petrovac", hu: "Petrovaci római mozaikok", ro: "Mozaicuri romane din Petrovac", en: "Roman Mosaics of Petrovac" },
-    coordinates: { lat: 42.2041, lng: 18.9431 },
+    coords: [18.9431, 42.2041],
     description: {
       de: "In Petrovac wurden Überreste römischer Villen und kunstvolle Mosaike gefunden. Sie belegen die antike Besiedlung der Küste.",
       hu: "Petrovacban római villák maradványait és művészi mozaikokat találtak. Ezek igazolják a partvidék ókori betelepültségét.",
@@ -518,7 +518,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "St. Georg Kirche Podgorica", hu: "Szent György templom Podgorica", ro: "Biserica Sfântul Gheorghe Podgorica", en: "Church of St. George Podgorica" },
-    coordinates: { lat: 42.4481, lng: 19.2641 },
+    coords: [19.2641, 42.4481],
     description: {
       de: "Die St. Georg Kirche liegt am Gorica-Hügel in Podgorica. Sie gilt als eine der ältesten noch aktiven Kirchen der Stadt.",
       hu: "A Szent György templom Podgoricában, a Gorica-dombon áll. A város egyik legrégebbi, még ma is működő temploma.",
@@ -550,7 +550,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "palace",
     parent: "ME",
     name: { de: "Sommerpalast Buca", hu: "Buca nyári palota", ro: "Palatul de vară Buca", en: "Buca Summer Palace" },
-    coordinates: { lat: 42.4331, lng: 18.6922 },
+    coords: [18.6922, 42.4331],
     description: {
       de: "Der Buca-Palast in Tivat war der Wohnsitz einer adligen Familie aus Kotor. Heute ist er ein Kulturzentrum.",
       hu: "A tivati Buca-palota egy kotori nemesi család rezidenciája volt. Ma kulturális központ.",
@@ -582,7 +582,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "theater",
     parent: "ME",
     name: { de: "Napoleon Theater Kotor", hu: "Napóleon színház Kotor", ro: "Teatrul lui Napoleon Kotor", en: "Napoleon Theater Kotor" },
-    coordinates: { lat: 42.4258, lng: 18.7716 },
+    coords: [18.7716, 42.4258],
     description: {
       de: "Das Theater in der Altstadt von Kotor hat eine lange Tradition. Es wurde unter französischer Verwaltung im 19. Jahrhundert etabliert.",
       hu: "A kotori óváros színháza nagy hagyományokkal rendelkezik. A francia közigazgatás alatt alakult a 19. században.",
@@ -614,7 +614,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "bridge",
     parent: "ME",
     name: { de: "Blaue Brücke Podgorica", hu: "Kék híd Podgorica", ro: "Podul Albastru Podgorica", en: "Blue Bridge Podgorica" },
-    coordinates: { lat: 42.4485, lng: 19.2555 },
+    coords: [19.2555, 42.4485],
     description: {
       de: "Die Blaue Brücke überquert den Fluss Morača in Podgorica. Sie ist bekannt für ihre charakteristische Farbgebung.",
       hu: "A Kék híd a Morača folyót íveli át Podgoricában. Jellegzetes színéről ismert.",
@@ -646,7 +646,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "palace",
     parent: "ME",
     name: { de: "Königsschloss Cetinje", hu: "Királyi palota Cetinje", ro: "Palatul Regal din Cetinje", en: "Royal Palace Cetinje" },
-    coordinates: { lat: 42.3901, lng: 18.9248 },
+    coords: [18.9248, 42.3901],
     description: {
       de: "Das ehemalige Königsschloss von Cetinje dient heute als Museum. Es zeigt die Geschichte der königlichen Familie Petrović-Njegoš.",
       hu: "A cetinjei egykori királyi palota ma múzeumként szolgál. A Petrović-Njegoš királyi család történetét mutatja be.",
@@ -678,7 +678,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "tower",
     parent: "ME",
     name: { de: "Uhrturm Herceg Novi", hu: "Herceg Novi óratorony", ro: "Turnul cu ceas din Herceg Novi", en: "Clock Tower Herceg Novi" },
-    coordinates: { lat: 42.4512, lng: 18.5348 },
+    coords: [18.5348, 42.4512],
     description: {
       de: "Der Uhrturm in Herceg Novi ist ein Symbol der Stadt. Er steht am Eingang zur Altstadt.",
       hu: "A herceg novii óratorony a város jelképe. Az óváros bejáratánál áll.",
@@ -710,7 +710,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "monument",
     parent: "ME",
     name: { de: "Ballerina Statue Budva", hu: "Ballerina szobor Budva", ro: "Statuia Balerinei din Budva", en: "Ballerina Statue Budva" },
-    coordinates: { lat: 42.2785, lng: 18.8321 },
+    coords: [18.8321, 42.2785],
     description: {
       de: "Die Ballerina-Statue am Weg zum Strand Mogren in Budva ist ein bekanntes Fotomotiv.",
       hu: "A budvai Mogren strandra vezető úton álló balerina szobor híres fotótéma.",
@@ -742,7 +742,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "palace",
     parent: "ME",
     name: { de: "Königsschloss Nikšić", hu: "Királyi palota Nikšić", ro: "Palatul Regal din Nikšić", en: "King's Palace Nikšić" },
-    coordinates: { lat: 42.7758, lng: 18.9465 },
+    coords: [18.9465, 42.7758],
     description: {
       de: "Das Schloss in Nikšić wurde im 19. Jahrhundert für die Familie Petrović erbaut. Es ist ein historisches Gebäude.",
       hu: "A nikšići kastély a 19. században épült a Petrović család számára. Történelmi épület.",
@@ -774,7 +774,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "monument",
     parent: "ME",
     name: { de: "Reliefs St. Tryphon Kotor", hu: "Szent Tryphon domborművek Kotor", ro: "Reliefuri Sfântul Tryphon Kotor", en: "St. Tryphon Reliefs Kotor" },
-    coordinates: { lat: 42.4246, lng: 18.7717 },
+    coords: [18.7717, 42.4246],
     description: {
       de: "Die Fassade der St. Tryphon Kathedrale ist mit kunstvollen Reliefs geschmückt. Sie zeigen Szenen aus der Religion.",
       hu: "A Szent Tryphon székesegyház homlokzatát művészi domborművek díszítik. Vallási jeleneteket ábrázolnak.",
@@ -806,7 +806,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "St. Nikolaus Kirche Perast", hu: "Szent Miklós templom Perast", ro: "Biserica Sfântul Nicolae Perast", en: "St. Nicholas Church Perast" },
-    coordinates: { lat: 42.4864, lng: 18.6942 },
+    coords: [18.6942, 42.4864],
     description: {
       de: "Diese Kirche am Ufer von Perast ist ein markantes Bauwerk in der Bucht. Sie besitzt einen hohen Glockenturm.",
       hu: "Ez a templom a perasti parton a Kotori-öböl jellegzetes építménye. Magas harangtornya van.",
@@ -838,7 +838,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung von Ulcinj", hu: "Ulcinji erőd", ro: "Fortăreața din Ulcinj", en: "Fortress of Ulcinj" },
-    coordinates: { lat: 41.9271, lng: 19.2045 },
+    coords: [19.2045, 41.9271],
     description: {
       de: "Die Festung über der Altstadt von Ulcinj ist historisch bedeutend. Sie stammt aus der Zeit der Illyrer.",
       hu: "Az ulcinji óváros feletti erőd történelmileg jelentős. Az illírek idejéből származik.",
@@ -870,7 +870,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "tower",
     parent: "ME",
     name: { de: "Sahat Kula Podgorica", hu: "Sahat Kula Podgorica", ro: "Sahat Kula Podgorica", en: "Sahat Kula Podgorica" },
-    coordinates: { lat: 42.4392, lng: 19.2531 },
+    coords: [19.2531, 42.4392],
     description: {
       de: "Der Uhrturm Sahat Kula ist eines der wenigen osmanischen Bauwerke, die in Podgorica erhalten blieben.",
       hu: "A Sahat Kula óratorony egyike azon kevés oszmán építménynek, amely fennmaradt Podgoricában.",
@@ -902,7 +902,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "St. Peter Kirche Bijelo Polje", hu: "Szent Péter templom Bijelo Polje", ro: "Biserica Sfântul Petru Bijelo Polje", en: "Church of St. Peter Bijelo Polje" },
-    coordinates: { lat: 43.0331, lng: 19.7492 },
+    coords: [19.7492, 43.0331],
     description: {
       de: "Diese Kirche in Bijelo Polje ist ein bedeutendes religiöses Gebäude. Sie ist für ihre architektonische Gestaltung bekannt.",
       hu: "Ez a templom Bijelo Poljében jelentős vallási épület. Építészeti kialakításáról ismert.",
@@ -934,7 +934,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "landmark",
     parent: "ME",
     name: { de: "Stadtmauer von Kotor", hu: "Kotor városfala", ro: "Zidurile orașului Kotor", en: "City Walls of Kotor" },
-    coordinates: { lat: 42.4261, lng: 18.7752 },
+    coords: [18.7752, 42.4261],
     description: {
       de: "Die Stadtmauer von Kotor ist ein beeindruckendes Befestigungssystem, das sich den Berghang hinaufzieht.",
       hu: "Kotor városfala egy lenyűgöző erődrendszer, amely felkúszik a hegyoldalba.",
@@ -966,7 +966,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kirche der Heiligen Dreifaltigkeit Budva", hu: "Szentháromság templom Budva", ro: "Biserica Sfânta Treime Budva", en: "Church of the Holy Trinity Budva" },
-    coordinates: { lat: 42.2778, lng: 18.8341 },
+    coords: [18.8341, 42.2778],
     description: {
       de: "Diese Kirche befindet sich in der Altstadt von Budva. Sie ist ein bekanntes Beispiel für sakrale Architektur.",
       hu: "Ez a templom Budva óvárosában található. A szakrális építészet ismert példája.",
@@ -998,7 +998,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "palace",
     parent: "ME",
     name: { de: "Vladika-Palast Cetinje", hu: "Vladika palota Cetinje", ro: "Palatul Vladika Cetinje", en: "Vladika Palace Cetinje" },
-    coordinates: { lat: 42.3911, lng: 18.9212 },
+    coords: [18.9212, 42.3911],
     description: {
       de: "Der Vladika-Palast in Cetinje war Sitz des Herrschers. Er dokumentiert die Geschichte des Landes.",
       hu: "A cetinjei Vladika-palota az uralkodó székhelye volt. Dokumentálja az ország történelmét.",
@@ -1030,7 +1030,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "St. Markus Kirche Perast", hu: "Szent Márk templom Perast", ro: "Biserica Sfântul Marcu Perast", en: "St. Mark Church Perast" },
-    coordinates: { lat: 42.4855, lng: 18.6945 },
+    coords: [18.6945, 42.4855],
     description: {
       de: "Diese kleine Kirche ist ein Teil der historischen Bausubstanz in Perast. Sie ist typisch für die barocke Region.",
       hu: "Ez a kis templom a perasti történelmi épületegyüttes része. Tipikus a barokk régió számára.",
@@ -1062,7 +1062,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Husein-Pascha-Moschee Pljevlja", hu: "Husein-pasa mecset Pljevlja", ro: "Moscheea Husein-Pașa Pljevlja", en: "Husein-Pasha's Mosque Pljevlja" },
-    coordinates: { lat: 43.3582, lng: 19.3581 },
+    coords: [19.3581, 43.3582],
     description: {
       de: "Die Husein-Pascha-Moschee ist ein berühmtes religiöses Bauwerk in Pljevlja. Sie stammt aus der osmanischen Zeit.",
       hu: "A Husein-pasa mecset híres vallási építmény Pljevljában. Az oszmán időkből származik.",
@@ -1094,7 +1094,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "St. Nikolaus Kirche Podgorica", hu: "Szent Miklós templom Podgorica", ro: "Biserica Sfântul Nicolae Podgorica", en: "St. Nicholas Church Podgorica" },
-    coordinates: { lat: 42.4412, lng: 19.2612 },
+    coords: [19.2612, 42.4412],
     description: {
       de: "Die St. Nikolaus Kirche ist ein bedeutendes religiöses Zentrum in der Nähe von Podgorica. Sie dient der Gemeinde.",
       hu: "A Szent Miklós templom jelentős vallási központ Podgorica közelében. A közösséget szolgálja.",
@@ -1126,7 +1126,7 @@ export const montenegroLandmarksV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "St. Johannes Kirche Budva", hu: "Szent János templom Budva", ro: "Biserica Sfântul Ioan Budva", en: "Church of St. John Budva" },
-    coordinates: { lat: 42.2781, lng: 18.8351 },
+    coords: [18.8351, 42.2781],
     description: {
       de: "Die St. Johannes Kirche liegt im historischen Kern von Budva. Sie ist eine der ältesten Kirchen am Ort.",
       hu: "A Szent János templom Budva történelmi központjában áll. A település egyik legrégebbi temploma.",

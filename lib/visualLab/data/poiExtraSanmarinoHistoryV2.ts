@@ -6,7 +6,7 @@ export const sanmarinoHistoryV2: POI[] = [
     type: "palace",
     parent: "SM",
     name: { de: "Palazzo Valloni", hu: "Palazzo Valloni", ro: "Palazzo Valloni", en: "Palazzo Valloni" },
-    coordinates: { lat: 43.9358, lng: 12.4468 },
+    coords: [12.4468, 43.9358],
     description: {
       de: "Das Palazzo Valloni ist ein historisches Gebäude im Zentrum von San Marino. Es beherbergt wichtige kulturelle Archive und Sammlungen.",
       hu: "A Palazzo Valloni egy történelmi épület San Marino központjában. Fontos kulturális levéltárak és gyűjtemények otthona.",
@@ -38,7 +38,7 @@ export const sanmarinoHistoryV2: POI[] = [
     type: "theater",
     parent: "SM",
     name: { de: "Teatro Titano", hu: "Teatro Titano", ro: "Teatro Titano", en: "Teatro Titano" },
-    coordinates: { lat: 43.9351, lng: 12.4466 },
+    coords: [12.4466, 43.9351],
     description: {
       de: "Das Teatro Titano wurde im 18. Jahrhundert erbaut und ist eines der ältesten Theater der Republik. Es dient bis heute kulturellen Veranstaltungen.",
       hu: "A Teatro Titano a 18. században épült, és a köztársaság egyik legrégebbi színháza. Ma is kulturális eseményeknek ad otthont.",
@@ -70,7 +70,7 @@ export const sanmarinoHistoryV2: POI[] = [
     type: "monument",
     parent: "SM",
     name: { de: "Garibaldi-Denkmal", hu: "Garibaldi-emlékmű", ro: "Monumentul Garibaldi", en: "Garibaldi Monument" },
-    coordinates: { lat: 43.9355, lng: 12.4475 },
+    coords: [12.4475, 43.9355],
     description: {
       de: "Das Denkmal erinnert an Giuseppe Garibaldi und seine Zuflucht in San Marino im Jahr 1849. Es steht nahe der Piazza della Libertà.",
       hu: "Az emlékmű Giuseppe Garibaldinak és az 1849-es San Marinó-i menedékkérésének állít emléket. A Piazza della Libertà közelében áll.",
@@ -102,7 +102,7 @@ export const sanmarinoHistoryV2: POI[] = [
     type: "church",
     parent: "SM",
     name: { de: "Chiesa di San Pietro", hu: "San Pietro-templom", ro: "Biserica San Pietro", en: "Church of San Pietro" },
-    coordinates: { lat: 43.9348, lng: 12.4471 },
+    coords: [12.4471, 43.9348],
     description: {
       de: "Die Kirche San Pietro befindet sich neben der Basilika und wurde im 19. Jahrhundert errichtet. Sie beherbergt zwei Nischen in der Felswand.",
       hu: "A San Pietro-templom a bazilika mellett található, és a 19. században épült. Két fülkét tartalmaz a sziklafalban.",
@@ -134,7 +134,7 @@ export const sanmarinoHistoryV2: POI[] = [
     type: "monument",
     parent: "SM",
     name: { de: "Ehemaliges Franziskanerkloster", hu: "Volt ferences kolostor", ro: "Fosta mănăstire franciscană", en: "Former Franciscan Monastery" },
-    coordinates: { lat: 43.9365, lng: 12.4442 },
+    coords: [12.4442, 43.9365],
     description: {
       de: "Dieses ehemalige Kloster aus dem 14. Jahrhundert beherbergt heute die städtische Pinakothek. Es ist eines der ältesten Gebäude der Stadt.",
       hu: "Ez a 14. századi egykori kolostor ma a városi képtárnak ad otthont. A város egyik legrégebbi épülete.",
@@ -166,7 +166,7 @@ export const sanmarinoHistoryV2: POI[] = [
     type: "landmark",
     parent: "SM",
     name: { de: "Porta del Paese", hu: "Porta del Paese", ro: "Porta del Paese", en: "Porta del Paese" },
-    coordinates: { lat: 43.9362, lng: 12.4455 },
+    coords: [12.4455, 43.9362],
     description: {
       de: "Das historische Stadttor war einst der Haupteingang in die befestigte Stadt San Marino. Es ist Teil der mittelalterlichen Verteidigungsanlagen.",
       hu: "A történelmi városkapu egykor a főbejárat volt az erődített San Marino városába. A középkori védművek része.",
@@ -198,7 +198,7 @@ export const sanmarinoHistoryV2: POI[] = [
     type: "landmark",
     parent: "SM",
     name: { de: "Piazza Titano", hu: "Piazza Titano", ro: "Piazza Titano", en: "Piazza Titano" },
-    coordinates: { lat: 43.9353, lng: 12.4468 },
+    coords: [12.4468, 43.9353],
     description: {
       de: "Der Piazza Titano ist ein zentraler Platz, der von historischen Palästen umgeben ist. Er war historisch ein wichtiger Ort für das öffentliche Leben.",
       hu: "A Piazza Titano egy központi tér, amelyet történelmi paloták vesznek körül. Történelmileg fontos helyszíne volt a közéletnek.",

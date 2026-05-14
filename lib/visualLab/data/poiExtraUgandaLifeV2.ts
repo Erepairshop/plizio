@@ -96,7 +96,20 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Itt él a hegyi gorillák világszintű populációjának kb. fele.", "Rendkívül sűrű hegyi esőerdő."],
       ro: ["Găzduiește aproximativ jumătate din populația mondială de gorile de munte.", "Pădure tropicală montană extrem de densă."],
       en: ["Home to about half of the world's mountain gorilla population.", "Extremely dense montane rainforest."]
-    }, image: "/poi-images/bwindi-impenetrable-life-v2.webp"},
+    }, image: "/poi-images/bwindi-impenetrable-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bwindi Impenetrable National Park in Südwestuganda ist ein UNESCO-Weltnaturerbe, berühmt für seine Berggorillas. Der dichte, undurchdringliche Regenwald erstreckt sich über 331 Quadratkilometer und beherbergt etwa 459 Gorillas, die Hälfte der Weltpopulation. Der Park ist auch Lebensraum für über 120 Säugetierarten, 350 Vogelarten und 200 Schmetterlingsarten. Die Höhenlage variiert zwischen 1.160 und 2.607 Metern. Die lokalen Batwa-Pygmäen leben seit Jahrtausenden in dieser Region.",
+      hu: "A Bwindi Áthatolhatatlan Nemzeti Park Uganda délnyugati részén található, és a hegyi gorillákról híres. Az 331 km²-es őserdő több mint 400 gorillának ad otthont, ami a világ állományának felét jelenti. A park változatos élővilága magában foglal 120 emlős-, 350 madár- és 200 lepkefajt. A terep rendkívül tagolt, a csapadék évi 1.500 mm feletti. A park 1994-ben került a Világörökség listájára. A turisták csak vezetett túrákon látogathatják.",
+      ro: "Parcul Național Bwindi Impenetrable, situat în sud-vestul Ugandei, este un sit UNESCO renumit pentru gorilele de munte. Pădurea tropicală densă se întinde pe 331 km² și găzduiește aproximativ 459 de gorile, jumătate din populația mondială. Parcul are o biodiversitate impresionantă, incluzând peste 120 de specii de mamifere, 350 de păsări și 200 de fluturi. Altitudinea variază între 1.160 și 2.607 m. Comunitatea Batwa, un grup de pigmei, a trăit aici timp de milenii.",
+      en: "Bwindi Impenetrable National Park in southwestern Uganda is a UNESCO World Heritage site, famous for its mountain gorillas. The dense tropical rainforest covers 331 square kilometers and is home to about 459 gorillas, roughly half of the world's population. The park boasts exceptional biodiversity with over 120 mammal species, 350 bird species, and 200 butterfly species. Elevations range from 1,160 to 2,607 meters. The indigenous Batwa pygmies have inhabited the forest for centuries, relying on it for sustenance.",
+    },
+    factsAdvanced: {
+      de: ["Der Park umfasst 331 Quadratkilometer.", "Es leben etwa 459 Berggorillas im Park.", "Die Höhenlage reicht von 1.160 bis 2.607 Metern.", "Über 120 Säugetierarten wurden registriert.", "Der Park wurde 1994 zum UNESCO-Weltnaturerbe erklärt.", "Der jährliche Niederschlag beträgt etwa 1.500 mm."],
+      hu: ["A park területe 331 km².", "A gorillák száma 459 (2023-as becslés).", "Legmagasabb pontja 2.607 m.", "120 emlős-, 350 madárfaj él itt.", "1994-ben nyilvánították világörökségi helyszínné.", "Évi átlagos csapadék 1.500 mm."],
+      ro: ["Parcul are o suprafață de 331 km².", "Populația de gorile este de aproximativ 459 de indivizi.", "Altitudinea maximă este de 2.607 m.", "Peste 120 de specii de mamifere trăiesc în parc.", "A fost declarat patrimoniu UNESCO în 1994.", "Precipitațiile medii anuale sunt de 1.500 mm."],
+      en: ["The park covers 331 square kilometers.", "Approximately 459 mountain gorillas live here.", "Elevation ranges from 1,160 to 2,607 meters.", "Over 120 mammal species are recorded.", "It was designated a UNESCO World Heritage site in 1994.", "Average annual rainfall is around 1,500 mm."],
+    },
+  },
   {
     id: "lake-mburo-life-v2",
     type: "animal-habitat",

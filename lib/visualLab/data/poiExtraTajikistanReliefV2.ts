@@ -23,7 +23,20 @@ export const poiExtraTajikistanReliefV2: POI[] = [
       hu: ["Több mint 5000 méteres magasságot is elér.", "Fontos forrása az öntözőrendszereknek."],
       ro: ["Atinge înălțimi de peste 5.000 de metri.", "O sursă importantă pentru sistemele de irigații."],
       en: ["Reaches heights of over 5,000 meters.", "An important source for irrigation systems."]
-    }, image: "/poi-images/hissar-range-relief-v2.webp"},
+    }, image: "/poi-images/hissar-range-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gissar-Gebirgszug (Hissar-Gebirge) erstreckt sich über 200 Kilometer durch Tadschikistan und Usbekistan. Der höchste Gipfel ist der Schah-i-Mardan mit 4.587 Metern. Das Gebirge besteht aus paläozoischen Gesteinen wie Schiefer und Kalkstein. Es bildet die Wasserscheide zwischen den Flusssystemen des Amudarja und des Syrdarja. Die Region ist reich an Mineralvorkommen, darunter Kohle und Blei.",
+      hu: "A Gisszar-hegység (Hisszar-hegység) 200 kilométeren át húzódik Tádzsikisztánon és Üzbegisztánon keresztül. A legmagasabb csúcs a Shah-i-Mardan, 4587 méter. A hegység őslénytani kőzetekből, például palából és mészkőből áll. Választóvonalat képez az Amudarja és a Szirdarja vízrendszerei között. A régió gazdag ásványkincsekben, köztük szénben és ólomban.",
+      ro: "Lanțul muntos Gissar (Munții Hissar) se întinde pe 200 de kilometri prin Tadjikistan și Uzbekistan. Cel mai înalt vârf este Shah-i-Mardan, cu 4.587 de metri. Munții sunt formați din roci paleozoice, cum ar fi șistul și calcarul. Constituie cumpăna apelor între bazinele Amu Darya și Syr Darya. Regiunea este bogată în minerale, inclusiv cărbune și plumb.",
+      en: "The Gissar Range (Hissar Mountains) stretches 200 kilometers across Tajikistan and Uzbekistan. The highest peak is Shah-i-Mardan at 4,587 meters. The range consists of Paleozoic rocks such as schist and limestone. It forms the watershed between the Amu Darya and Syr Darya river systems. The region is rich in mineral deposits, including coal and lead.",
+    },
+    factsAdvanced: {
+      de: ["Die Länge beträgt 200 Kilometer.", "Der höchste Gipfel ist 4.587 Meter hoch.", "Die Breite beträgt bis zu 70 Kilometer.", "Die Kohlevorkommen werden auf 100 Millionen Tonnen geschätzt.", "Die durchschnittliche Höhe liegt bei 3.000 Metern.", "Es gibt 20 Gletscher im Gebirge."],
+      hu: ["A hosszúsága 200 kilométer.", "A legmagasabb csúcs 4587 méter.", "Szélessége eléri a 70 kilométert.", "A szénkészleteket 100 millió tonnára becsülik.", "Az átlagos magasság 3000 méter.", "A hegységben 20 gleccser található."],
+      ro: ["Lungimea este de 200 de kilometri.", "Cel mai înalt vârf are 4.587 de metri.", "Lățimea ajunge până la 70 de kilometri.", "Rezervele de cărbune sunt estimate la 100 de milioane de tone.", "Altitudinea medie este de 3.000 de metri.", "Există 20 de ghețari în lanț."],
+      en: ["Length is 200 kilometers.", "Highest peak is 4,587 meters.", "Width reaches up to 70 kilometers.", "Coal reserves are estimated at 100 million tons.", "Average elevation is 3,000 meters.", "There are 20 glaciers in the range."],
+    },
+  },
   {
     id: "zeravshan-range-relief-v2",
     type: "mountain",

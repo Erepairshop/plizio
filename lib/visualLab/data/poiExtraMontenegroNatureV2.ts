@@ -6,7 +6,7 @@ export const montenegroNatureV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Sušica Schlucht", hu: "Sušica-kanyon", ro: "Canionul Sušica", en: "Sušica Canyon" },
-    coordinates: { lat: 43.1678, lng: 19.0522 },
+    coords: [19.0522, 43.1678],
     description: {
       de: "Die Sušica-Schlucht befindet sich im Durmitor-Nationalpark. Sie ist für ihre steilen Kalksteinwände und den saisonalen Sušica-See bekannt.",
       hu: "A Sušica-kanyon a Durmitor Nemzeti Park területén található. Meredek mészkőszikláiról és az időszakos Sušica-tóról ismert.",
@@ -38,7 +38,7 @@ export const montenegroNatureV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Komarnica Schlucht", hu: "Komarnica-kanyon", ro: "Canionul Komarnica", en: "Komarnica Canyon" },
-    coordinates: { lat: 42.9833, lng: 19.0667 },
+    coords: [19.0667, 42.9833],
     description: {
       de: "Die Komarnica-Schlucht durchschneidet das Gebirge zwischen den Massiven Durmitor und Vojnik. Sie ist schwer zugänglich und wenig erschlossen.",
       hu: "A Komarnica-kanyon a Durmitor és a Vojnik hegység között vágódik át. Nehezen megközelíthető és kevéssé kiépített terület.",
@@ -70,7 +70,7 @@ export const montenegroNatureV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Grlja Schlucht", hu: "Grlja-kanyon", ro: "Canionul Grlja", en: "Grlja Canyon" },
-    coordinates: { lat: 42.5283, lng: 19.8275 },
+    coords: [19.8275, 42.5283],
     description: {
       de: "Die Grlja-Schlucht liegt in der Nähe von Gusinje im Prokletije-Gebirge. Sie ist bekannt für den Wasserfall, der in das Tal stürzt.",
       hu: "A Grlja-kanyon Gusinje közelében, a Prokletije-hegységben található. Ismert a völgybe zuhanó vízeséséről.",
@@ -102,7 +102,7 @@ export const montenegroNatureV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Bobotov Kuk", hu: "Bobotov Kuk", ro: "Bobotov Kuk", en: "Bobotov Kuk" },
-    coordinates: { lat: 43.1333, lng: 19.0333 },
+    coords: [19.0333, 43.1333],
     description: {
       de: "Der Bobotov Kuk ist der höchste Gipfel des Durmitor-Gebirges. Er erhebt sich auf eine Höhe von 2.523 Metern über dem Meeresspiegel.",
       hu: "A Bobotov Kuk a Durmitor-hegység legmagasabb csúcsa. 2523 méteres magasságba emelkedik a tengerszint felett.",
@@ -134,7 +134,7 @@ export const montenegroNatureV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Zla Kolata", hu: "Zla Kolata", ro: "Zla Kolata", en: "Zla Kolata" },
-    coordinates: { lat: 42.4833, lng: 19.9 },
+    coords: [19.9, 42.4833],
     description: {
       de: "Die Zla Kolata ist der höchste Berg Montenegros. Der Gipfel liegt an der Grenze zwischen Montenegro und Albanien im Prokletije-Gebirge.",
       hu: "A Zla Kolata Montenegró legmagasabb hegye. A csúcs a montenegrói-albán határon található, a Prokletije-hegységben.",
@@ -166,7 +166,7 @@ export const montenegroNatureV2: POI[] = [
     type: "lake",
     parent: "ME",
     name: { de: "Biogradsko See", hu: "Biogradsko-tó", ro: "Lacul Biogradsko", en: "Biogradsko Lake" },
-    coordinates: { lat: 42.8986, lng: 19.6014 },
+    coords: [19.6014, 42.8986],
     description: {
       de: "Der Biogradsko-See liegt inmitten des Biogradska-Gora-Nationalparks. Er ist ein glazialer See, der von einem alten Urwald umgeben ist.",
       hu: "A Biogradsko-tó a Biogradska Gora Nemzeti Park szívében fekszik. Egy gleccsertó, amelyet ősi érintetlen erdő vesz körül.",
@@ -198,7 +198,7 @@ export const montenegroNatureV2: POI[] = [
     type: "lake",
     parent: "ME",
     name: { de: "Kapetanovo See", hu: "Kapetanovo-tó", ro: "Lacul Kapetanovo", en: "Kapetanovo Lake" },
-    coordinates: { lat: 42.825, lng: 19.2 },
+    coords: [19.2, 42.825],
     description: {
       de: "Der Kapetanovo-See ist ein Bergsee im Moračke-Planine-Gebirge. Er befindet sich auf einer Höhe von über 1.600 Metern.",
       hu: "A Kapetanovo-tó egy hegyi tó a Moračke Planine-hegységben. Több mint 1600 méteres magasságban található.",
@@ -230,7 +230,7 @@ export const montenegroNatureV2: POI[] = [
     type: "lake",
     parent: "ME",
     name: { de: "Trnovačko See", hu: "Trnovačko-tó", ro: "Lacul Trnovačko", en: "Trnovačko Lake" },
-    coordinates: { lat: 43.2333, lng: 18.7333 },
+    coords: [18.7333, 43.2333],
     description: {
       de: "Der Trnovačko-See ist ein herzförmiger glazialer See nahe der Grenze zu Bosnien und Herzegowina. Er liegt umgeben von Bergen wie dem Maglić.",
       hu: "A Trnovačko-tó egy szív alakú gleccsertó Bosznia-Hercegovina határának közelében. Hegyek, például a Maglić veszik körül.",
@@ -262,7 +262,7 @@ export const montenegroNatureV2: POI[] = [
     type: "river",
     parent: "ME",
     name: { de: "Ćehotina Fluss", hu: "Ćehotina folyó", ro: "Râul Ćehotina", en: "Ćehotina River" },
-    coordinates: { lat: 43.35, lng: 19.35 },
+    coords: [19.35, 43.35],
     description: {
       de: "Der Fluss Ćehotina entspringt in der Nähe von Bijelo Polje und fließt Richtung Norden. Er bildet abschnittsweise tiefe Schluchten.",
       hu: "A Ćehotina folyó Bijelo Polje közelében ered és észak felé folyik. Egyes szakaszokon mély kanyonokat alakított ki.",
@@ -294,7 +294,7 @@ export const montenegroNatureV2: POI[] = [
     type: "river",
     parent: "ME",
     name: { de: "Lim Fluss", hu: "Lim folyó", ro: "Râul Lim", en: "Lim River" },
-    coordinates: { lat: 43.0667, lng: 19.8333 },
+    coords: [19.8333, 43.0667],
     description: {
       de: "Der Lim ist einer der größten Flüsse in Montenegro. Er entspringt dem Plav-See und durchquert den nordöstlichen Teil des Landes.",
       hu: "A Lim Montenegró egyik legnagyobb folyója. A Plav-tóból ered és az ország északkeleti részét szeli át.",
@@ -326,7 +326,7 @@ export const montenegroNatureV2: POI[] = [
     type: "island",
     parent: "ME",
     name: { de: "Insel Sveti Nikola", hu: "Sveti Nikola-sziget", ro: "Insula Sveti Nikola", en: "Sveti Nikola Island" },
-    coordinates: { lat: 42.2667, lng: 18.8667 },
+    coords: [18.8667, 42.2667],
     description: {
       de: "Die Insel Sveti Nikola liegt vor der Küste von Budva in der Adria. Sie ist unbewohnt und bietet mehrere Strände.",
       hu: "A Sveti Nikola-sziget Budva partjainál fekszik az Adriai-tengeren. Néptelen és több stranddal rendelkezik.",
@@ -358,7 +358,7 @@ export const montenegroNatureV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Orjen Gebirge", hu: "Orjen-hegység", ro: "Munții Orjen", en: "Orjen Mountains" },
-    coordinates: { lat: 42.5667, lng: 18.5333 },
+    coords: [18.5333, 42.5667],
     description: {
       de: "Das Orjen-Gebirge liegt in der Nähe der Bucht von Kotor. Es ist das höchste Gebirge an der Adriaküste mit ausgeprägter Karsttopografie.",
       hu: "Az Orjen-hegység a Kotori-öböl közelében található. Ez az Adriai-tengerpart legmagasabb hegysége, jellegzetes karsztos topográfiával.",
@@ -390,7 +390,7 @@ export const montenegroNatureV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Sinjajevina Hochland", hu: "Sinjajevina-fennsík", ro: "Podișul Sinjajevina", en: "Sinjajevina Plateau" },
-    coordinates: { lat: 43.0, lng: 19.3333 },
+    coords: [19.3333, 43.0],
     description: {
       de: "Die Sinjajevina ist eine weite Gebirgshochebene zwischen den Flüssen Tara und Morača. Sie ist bekannt für ihre weitläufigen Sommerweiden.",
       hu: "A Sinjajevina egy széles hegyi fennsík a Tara és a Morača folyók között. Kiterjedt nyári legelőiről ismert.",
@@ -422,7 +422,7 @@ export const montenegroNatureV2: POI[] = [
     type: "river",
     parent: "ME",
     name: { de: "Piva Fluss", hu: "Piva folyó", ro: "Râul Piva", en: "Piva River" },
-    coordinates: { lat: 43.15, lng: 18.9 },
+    coords: [18.9, 43.15],
     description: {
       de: "Der Piva-Fluss ist bekannt für sein smaragdgrünes Wasser. Er hat den Piva-Canyon geformt, der zu den tiefsten Europas zählt.",
       hu: "A Piva folyó smaragdzöld vizéről ismert. A Piva-kanyont vájta ki, amely Európa egyik legmélyebb kanyonja.",
@@ -454,7 +454,7 @@ export const montenegroNatureV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Lovćen Gebirge", hu: "Lovćen-hegység", ro: "Munții Lovćen", en: "Lovćen Mountains" },
-    coordinates: { lat: 42.3997, lng: 18.825 },
+    coords: [18.825, 42.3997],
     description: {
       de: "Das Lovćen-Gebirge erhebt sich über die Bucht von Kotor. Es ist eine der geschichtsträchtigsten Regionen des Landes.",
       hu: "A Lovćen-hegység a Kotori-öböl fölé magasodik. Ez az ország egyik legfontosabb történelmi régiója.",
@@ -486,7 +486,7 @@ export const montenegroNatureV2: POI[] = [
     type: "lake",
     parent: "ME",
     name: { de: "Plav See", hu: "Plav-tó", ro: "Lacul Plav", en: "Plav Lake" },
-    coordinates: { lat: 42.6, lng: 19.9333 },
+    coords: [19.9333, 42.6],
     description: {
       de: "Der Plav-See liegt in der Nähe der Stadt Plav am Fuße des Prokletije-Gebirges. Er ist ein wichtiger Rastplatz für Zugvögel.",
       hu: "A Plav-tó Plav város közelében, a Prokletije-hegység lábánál fekszik. Fontos pihenőhely a költöző madarak számára.",
@@ -518,7 +518,7 @@ export const montenegroNatureV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Komovi Gebirge", hu: "Komovi-hegység", ro: "Munții Komovi", en: "Komovi Mountains" },
-    coordinates: { lat: 42.7, lng: 19.65 },
+    coords: [19.65, 42.7],
     description: {
       de: "Das Komovi-Gebirge ist für seine markanten Felsgipfel bekannt. Es liegt in Ost-Montenegro und bietet alpine Landschaften.",
       hu: "A Komovi-hegység jellegzetes sziklacsúcsairól ismert. Kelet-Montenegróban található és alpesi tájakat kínál.",
@@ -550,7 +550,7 @@ export const montenegroNatureV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Mrtvica Schlucht", hu: "Mrtvica-kanyon", ro: "Canionul Mrtvica", en: "Mrtvica Canyon" },
-    coordinates: { lat: 42.75, lng: 19.35 },
+    coords: [19.35, 42.75],
     description: {
       de: "Die Mrtvica-Schlucht ist ein wildes Flusstal in der Nähe von Kolašin. Sie bietet Wanderwege entlang steiler Felswände.",
       hu: "A Mrtvica-kanyon egy vad folyóvölgy Kolašin közelében. Meredek sziklafalak mentén futó túraútvonalakat kínál.",
@@ -582,7 +582,7 @@ export const montenegroNatureV2: POI[] = [
     type: "island",
     parent: "ME",
     name: { de: "Insel Mamula", hu: "Mamula-sziget", ro: "Insula Mamula", en: "Mamula Island" },
-    coordinates: { lat: 42.4, lng: 18.5667 },
+    coords: [18.5667, 42.4],
     description: {
       de: "Die Insel Mamula liegt am Eingang der Bucht von Kotor. Die Insel ist heute vor allem für ihre historische Festung bekannt.",
       hu: "A Mamula-sziget a Kotori-öböl bejáratánál fekszik. A sziget ma elsősorban történelmi erődjéről ismert.",
@@ -614,7 +614,7 @@ export const montenegroNatureV2: POI[] = [
     type: "lake",
     parent: "ME",
     name: { de: "Valovito See", hu: "Valovito-tó", ro: "Lacul Valovito", en: "Valovito Lake" },
-    coordinates: { lat: 43.1167, lng: 19.05 },
+    coords: [19.05, 43.1167],
     description: {
       de: "Der Valovito-See ist ein kleiner Bergsee im Durmitor-Gebirge. Er liegt auf einer Höhe von über 1.600 Metern.",
       hu: "A Valovito-tó egy kis hegyi tó a Durmitor-hegységben. Több mint 1600 méteres magasságban található.",

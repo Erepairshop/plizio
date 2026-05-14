@@ -6,7 +6,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Molde", hu: "Molde", ro: "Molde", en: "Molde" },
-    coordinates: { lat: 62.7333, lng: 7.1667 },
+    coords: [7.1667, 62.7333],
     description: {
       de: "Molde liegt an der Küste und ist als Stadt der Rosen bekannt. Sie ist das Verwaltungszentrum der Provinz Møre og Romsdal.",
       hu: "Molde a tengerparton fekszik, és a rózsák városaként ismert. Møre og Romsdal megye adminisztrációs központja.",
@@ -38,7 +38,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Hamar", hu: "Hamar", ro: "Hamar", en: "Hamar" },
-    coordinates: { lat: 60.7945, lng: 11.068 },
+    coords: [11.068, 60.7945],
     description: {
       de: "Hamar liegt am Ufer des Mjøsa-Sees. Die Stadt erlangte weltweite Bekanntheit durch die Olympischen Winterspiele 1994.",
       hu: "Hamar a Mjøsa-tó partján fekszik. A város az 1994-es téli olimpiai játékok révén vált világszerte ismertté.",
@@ -70,7 +70,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Sarpsborg", hu: "Sarpsborg", ro: "Sarpsborg", en: "Sarpsborg" },
-    coordinates: { lat: 59.2833, lng: 11.1 },
+    coords: [11.1, 59.2833],
     description: {
       de: "Sarpsborg befindet sich in der Nähe des Glomma-Flusses. Die Stadt wurde im Jahr 1016 vom Wikingerkönig Olav Haraldsson gegründet.",
       hu: "Sarpsborg a Glomma folyó közelében található. A várost 1016-ban alapította Olav Haraldsson viking király.",
@@ -102,7 +102,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Skien", hu: "Skien", ro: "Skien", en: "Skien" },
-    coordinates: { lat: 59.206, lng: 9.605 },
+    coords: [9.605, 59.206],
     description: {
       de: "Skien ist eine der ältesten Städte Norwegens. Sie ist der Geburtsort des berühmten Dramatikers Henrik Ibsen.",
       hu: "Skien Norvégia egyik legrégebbi városa. Itt született Henrik Ibsen híres drámaíró.",
@@ -134,7 +134,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Haugesund", hu: "Haugesund", ro: "Haugesund", en: "Haugesund" },
-    coordinates: { lat: 59.412, lng: 5.275 },
+    coords: [5.275, 59.412],
     description: {
       de: "Haugesund liegt an der Südwestküste Norwegens. Die Stadt hat eine lange Geschichte in der Fischereiindustrie.",
       hu: "Haugesund Norvégia délnyugati partján fekszik. A város hosszú történelemmel rendelkezik a halászat területén.",
@@ -166,7 +166,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Moss", hu: "Moss", ro: "Moss", en: "Moss" },
-    coordinates: { lat: 59.434, lng: 10.658 },
+    coords: [10.658, 59.434],
     description: {
       de: "Moss liegt am Oslofjord. Die Stadt ist ein bedeutender Knotenpunkt für den Verkehr und die industrielle Fertigung.",
       hu: "Moss az Oslo-fjord partján fekszik. A város jelentős közlekedési és ipari gyártási csomópont.",
@@ -198,7 +198,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Sandefjord", hu: "Sandefjord", ro: "Sandefjord", en: "Sandefjord" },
-    coordinates: { lat: 59.133, lng: 10.216 },
+    coords: [10.216, 59.133],
     description: {
       de: "Sandefjord ist berühmt für seine historische Walfangindustrie. Heute ist es ein bekanntes Ziel für den Sommertourismus.",
       hu: "Sandefjord a történelmi bálnavadász iparáról híres. Ma ismert célpont a nyári turizmus számára.",
@@ -230,7 +230,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Arendal", hu: "Arendal", ro: "Arendal", en: "Arendal" },
-    coordinates: { lat: 58.46, lng: 8.76 },
+    coords: [8.76, 58.46],
     description: {
       de: "Arendal ist eine Küstenstadt im Süden Norwegens. Sie ist bekannt für ihre Kanäle und das geschäftige Hafenviertel.",
       hu: "Arendal egy tengerparti város Norvégia déli részén. Ismert csatornáiról és nyüzsgő kikötői negyedéről.",
@@ -262,7 +262,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Larvik", hu: "Larvik", ro: "Larvik", en: "Larvik" },
-    coordinates: { lat: 59.05, lng: 10.03 },
+    coords: [10.03, 59.05],
     description: {
       de: "Larvik liegt an der Mündung des Numedalslågen. Die Stadt bietet Zugang zu schönen Küstenlandschaften und Stränden.",
       hu: "Larvik a Numedalslågen folyó torkolatánál fekszik. A város szép tengerparti tájakhoz és strandokhoz nyújt hozzáférést.",
@@ -294,7 +294,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Kristiansund", hu: "Kristiansund", ro: "Kristiansund", en: "Kristiansund" },
-    coordinates: { lat: 63.11, lng: 7.73 },
+    coords: [7.73, 63.11],
     description: {
       de: "Kristiansund besteht aus mehreren Inseln. Die Stadt ist für ihre Produktion von Klippfisch weltweit bekannt.",
       hu: "Kristiansund több szigetből áll. A város világszerte ismert a klipfisch (szárított tőkehal) termeléséről.",
@@ -326,7 +326,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Eidsvoll", hu: "Eidsvoll", ro: "Eidsvoll", en: "Eidsvoll" },
-    coordinates: { lat: 60.31, lng: 11.25 },
+    coords: [11.25, 60.31],
     description: {
       de: "Eidsvoll ist geschichtlich bedeutsam, da hier 1814 die norwegische Verfassung unterzeichnet wurde. Es liegt in der Region Viken.",
       hu: "Eidsvoll történelmileg jelentős, mivel itt írták alá 1814-ben a norvég alkotmányt. Viken régióban fekszik.",
@@ -358,7 +358,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Horten", hu: "Horten", ro: "Horten", en: "Horten" },
-    coordinates: { lat: 59.41, lng: 10.48 },
+    coords: [10.48, 59.41],
     description: {
       de: "Horten liegt am westlichen Ufer des Oslofjords. Die Stadt hat eine lange Verbindung zur norwegischen Marine.",
       hu: "Horten az Oslo-fjord nyugati partján fekszik. A város hosszú kapcsolatban áll a norvég haditengerészettel.",
@@ -390,7 +390,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Skedsmokorset", hu: "Skedsmokorset", ro: "Skedsmokorset", en: "Skedsmokorset" },
-    coordinates: { lat: 60.01, lng: 11.04 },
+    coords: [11.04, 60.01],
     description: {
       de: "Skedsmokorset ist ein wachsender Ort in der Nähe von Lillestrøm. Es dient als wichtiger Wohnstandort nahe Oslo.",
       hu: "Skedsmokorset növekvő település Lillestrøm közelében. Fontos lakóhely Oslo közelében.",
@@ -422,7 +422,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Lillestrøm", hu: "Lillestrøm", ro: "Lillestrøm", en: "Lillestrøm" },
-    coordinates: { lat: 59.95, lng: 11.04 },
+    coords: [11.04, 59.95],
     description: {
       de: "Lillestrøm ist ein bedeutender Verkehrsknotenpunkt östlich von Oslo. Es ist ein Zentrum für Messen und Veranstaltungen.",
       hu: "Lillestrøm fontos közlekedési csomópont Oslótól keletre. Vásárok és rendezvények központja.",
@@ -454,7 +454,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Gjøvik", hu: "Gjøvik", ro: "Gjøvik", en: "Gjøvik" },
-    coordinates: { lat: 60.79, lng: 10.68 },
+    coords: [10.68, 60.79],
     description: {
       de: "Gjøvik liegt am Westufer des Mjøsa-Sees. Die Stadt ist für ihre unterirdische olympische Eishalle bekannt.",
       hu: "Gjøvik a Mjøsa-tó nyugati partján fekszik. A város föld alatti olimpiai jégcsarnokáról ismert.",
@@ -486,7 +486,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Kongsberg", hu: "Kongsberg", ro: "Kongsberg", en: "Kongsberg" },
-    coordinates: { lat: 59.66, lng: 9.64 },
+    coords: [9.64, 59.66],
     description: {
       de: "Kongsberg ist eine ehemalige Bergbaustadt. Die Stadt ist für ihre Silberminen bekannt, die heute Museen sind.",
       hu: "Kongsberg egykori bányászváros. A város az ezüstbányáiról ismert, amelyek ma múzeumok.",
@@ -518,7 +518,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Stjørdal", hu: "Stjørdal", ro: "Stjørdal", en: "Stjørdal" },
-    coordinates: { lat: 63.46, lng: 10.92 },
+    coords: [10.92, 63.46],
     description: {
       de: "Stjørdal liegt in der Provinz Trøndelag. Die Stadt ist ein wichtiger Verkehrsknotenpunkt mit einem internationalen Flughafen.",
       hu: "Stjørdal Trøndelag megyében fekszik. A város fontos közlekedési csomópont nemzetközi repülőtérrel.",
@@ -550,7 +550,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Steinkjer", hu: "Steinkjer", ro: "Steinkjer", en: "Steinkjer" },
-    coordinates: { lat: 64.01, lng: 11.49 },
+    coords: [11.49, 64.01],
     description: {
       de: "Steinkjer ist das Verwaltungszentrum der Provinz Trøndelag. Die Stadt liegt am nördlichen Ende des Trondheimfjords.",
       hu: "Steinkjer Trøndelag megye adminisztrációs központja. A város a Trondheim-fjord északi végénél fekszik.",
@@ -582,7 +582,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Namsos", hu: "Namsos", ro: "Namsos", en: "Namsos" },
-    coordinates: { lat: 64.46, lng: 11.49 },
+    coords: [11.49, 64.46],
     description: {
       de: "Namsos liegt an der Mündung des Namsen-Flusses. Die Stadt ist für ihre historische Holzindustrie bekannt.",
       hu: "Namsos a Namsen folyó torkolatánál fekszik. A város a történelmi faiparáról ismert.",
@@ -614,7 +614,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Mosjøen", hu: "Mosjøen", ro: "Mosjøen", en: "Mosjøen" },
-    coordinates: { lat: 65.83, lng: 13.2 },
+    coords: [13.2, 65.83],
     description: {
       de: "Mosjøen liegt am Ende des Vefsnfjords. Die Stadt ist bekannt für ihre gut erhaltene Holzhausarchitektur.",
       hu: "Mosjøen a Vefsnfjord végénél fekszik. A város a jól megőrzött faházépítészetéről ismert.",
@@ -646,7 +646,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Mo i Rana", hu: "Mo i Rana", ro: "Mo i Rana", en: "Mo i Rana" },
-    coordinates: { lat: 66.31, lng: 14.14 },
+    coords: [14.14, 66.31],
     description: {
       de: "Mo i Rana liegt nahe dem Polarkreis. Die Stadt ist ein wichtiges Industriezentrum in Nordnorwegen.",
       hu: "Mo i Rana az északi sarkkör közelében fekszik. A város fontos ipari központ Észak-Norvégiában.",
@@ -678,7 +678,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Farsund", hu: "Farsund", ro: "Farsund", en: "Farsund" },
-    coordinates: { lat: 58.09, lng: 6.8 },
+    coords: [6.8, 58.09],
     description: {
       de: "Farsund ist eine kleine Küstenstadt im Süden Norwegens. Sie ist bekannt für ihre zahlreichen Strände.",
       hu: "Farsund egy kis tengerparti város Norvégia déli részén. Ismert számos strandjáról.",
@@ -710,7 +710,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Flekkefjord", hu: "Flekkefjord", ro: "Flekkefjord", en: "Flekkefjord" },
-    coordinates: { lat: 58.29, lng: 6.66 },
+    coords: [6.66, 58.29],
     description: {
       de: "Flekkefjord liegt an der Südwestküste Norwegens. Die Stadt ist für ihre charakteristischen weißen Holzhäuser bekannt.",
       hu: "Flekkefjord Norvégia délnyugati partján fekszik. A város jellegzetes fehér faházairól ismert.",
@@ -742,7 +742,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Odda", hu: "Odda", ro: "Odda", en: "Odda" },
-    coordinates: { lat: 60.06, lng: 6.54 },
+    coords: [6.54, 60.06],
     description: {
       de: "Odda liegt am Ende des Sørfjords. Die Stadt ist ein Ausgangspunkt für Wanderungen zum Trolltunga-Felsen.",
       hu: "Odda a Sørfjord végénél fekszik. A város kiindulópont a Trolltunga-sziklához vezető túrákhoz.",
@@ -774,7 +774,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Førde", hu: "Førde", ro: "Førde", en: "Førde" },
-    coordinates: { lat: 61.45, lng: 5.85 },
+    coords: [5.85, 61.45],
     description: {
       de: "Førde ist das administrative Zentrum der Provinz Vestland. Die Stadt liegt an einem Fluss in einer bergigen Region.",
       hu: "Førde Vestland megye adminisztrációs központja. A város egy folyó mellett fekszik, hegyvidéki régióban.",
@@ -806,7 +806,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Måløy", hu: "Måløy", ro: "Måløy", en: "Måløy" },
-    coordinates: { lat: 61.93, lng: 5.11 },
+    coords: [5.11, 61.93],
     description: {
       de: "Måløy ist ein bedeutender Fischereihafen an der Westküste. Die Stadt ist durch eine markante Brücke mit dem Festland verbunden.",
       hu: "Måløy jelentős halászkikötő a nyugati parton. A várost egy jellegzetes híd köti össze a szárazfölddel.",
@@ -838,7 +838,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Brønnøysund", hu: "Brønnøysund", ro: "Brønnøysund", en: "Brønnøysund" },
-    coordinates: { lat: 65.46, lng: 12.21 },
+    coords: [12.21, 65.46],
     description: {
       de: "Brønnøysund liegt zentral an der Küste Nordlands. Die Stadt ist ein wichtiger Knotenpunkt für den Schiffsverkehr.",
       hu: "Brønnøysund központilag fekszik Nordland tengerpartján. A város fontos csomópont a hajóforgalom számára.",
@@ -870,7 +870,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Sandnessjøen", hu: "Sandnessjøen", ro: "Sandnessjøen", en: "Sandnessjøen" },
-    coordinates: { lat: 66.02, lng: 12.63 },
+    coords: [12.63, 66.02],
     description: {
       de: "Sandnessjøen liegt auf der Insel Alsten. Die Stadt bietet einen direkten Blick auf das Gebirge De syv søstre.",
       hu: "Sandnessjøen az Alsten szigeten fekszik. A város közvetlen kilátást nyújt a De syv søstre hegységre.",
@@ -902,7 +902,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Vadsø", hu: "Vadsø", ro: "Vadsø", en: "Vadsø" },
-    coordinates: { lat: 70.07, lng: 29.75 },
+    coords: [29.75, 70.07],
     description: {
       de: "Vadsø liegt im hohen Norden Norwegens am Varangerfjord. Die Stadt ist bekannt für ihre arktische Lage.",
       hu: "Vadsø Norvégia távoli északi részén, a Varanger-fjordnál fekszik. A város az sarkvidéki elhelyezkedéséről ismert.",
@@ -934,7 +934,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Hammerfest", hu: "Hammerfest", ro: "Hammerfest", en: "Hammerfest" },
-    coordinates: { lat: 70.66, lng: 23.68 },
+    coords: [23.68, 70.66],
     description: {
       de: "Hammerfest beansprucht, die nördlichste Stadt der Welt zu sein. Die Stadt liegt in der Provinz Troms og Finnmark.",
       hu: "Hammerfest a világ legészakibb városának vallja magát. A város Troms og Finnmark megyében fekszik.",
@@ -966,7 +966,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Kirkenes", hu: "Kirkenes", ro: "Kirkenes", en: "Kirkenes" },
-    coordinates: { lat: 69.72, lng: 30.04 },
+    coords: [30.04, 69.72],
     description: {
       de: "Kirkenes liegt nahe der russischen Grenze im hohen Norden. Die Stadt ist ein Endpunkt der Hurtigruten.",
       hu: "Kirkenes az orosz határ közelében fekszik, távol északon. A város a Hurtigruten hajójárat végpontja.",
@@ -998,7 +998,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Bardufoss", hu: "Bardufoss", ro: "Bardufoss", en: "Bardufoss" },
-    coordinates: { lat: 69.05, lng: 18.53 },
+    coords: [18.53, 69.05],
     description: {
       de: "Bardufoss liegt in der Provinz Troms. Der Ort ist ein wichtiges regionales Zentrum und militärischer Standort.",
       hu: "Bardufoss Troms megyében fekszik. A település fontos regionális központ és katonai bázis.",
@@ -1030,7 +1030,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Finnsnes", hu: "Finnsnes", ro: "Finnsnes", en: "Finnsnes" },
-    coordinates: { lat: 69.23, lng: 17.98 },
+    coords: [17.98, 69.23],
     description: {
       de: "Finnsnes liegt auf der Insel Senja. Die Stadt ist ein wichtiges Handelszentrum für die umliegende Region.",
       hu: "Finnsnes a Senja szigeten fekszik. A város fontos kereskedelmi központ a környező régió számára.",
@@ -1062,7 +1062,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Harstad", hu: "Harstad", ro: "Harstad", en: "Harstad" },
-    coordinates: { lat: 68.8, lng: 16.53 },
+    coords: [16.53, 68.8],
     description: {
       de: "Harstad liegt auf der Insel Hinnøya. Die Stadt ist ein wirtschaftliches und kulturelles Zentrum in Nordnorwegen.",
       hu: "Harstad a Hinnøya szigeten fekszik. A város gazdasági és kulturális központ Észak-Norvégiában.",
@@ -1094,7 +1094,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Sortland", hu: "Sortland", ro: "Sortland", en: "Sortland" },
-    coordinates: { lat: 68.69, lng: 15.41 },
+    coords: [15.41, 68.69],
     description: {
       de: "Sortland ist bekannt als die blaue Stadt in der Vesterålen-Region. Sie liegt an einer malerischen Küste.",
       hu: "Sortland a Vesterålen régió kék városaként ismert. Festői tengerparton fekszik.",
@@ -1126,7 +1126,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Svolvær", hu: "Svolvær", ro: "Svolvær", en: "Svolvær" },
-    coordinates: { lat: 68.23, lng: 14.56 },
+    coords: [14.56, 68.23],
     description: {
       de: "Svolvær ist der Hauptort auf den Lofoten. Die Stadt ist ein zentraler Punkt für den Tourismus und die Fischerei.",
       hu: "Svolvær a Lofoten-szigetek fő városa. A város központi pont a turizmus és a halászat számára.",
@@ -1158,7 +1158,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Leknes", hu: "Leknes", ro: "Leknes", en: "Leknes" },
-    coordinates: { lat: 68.15, lng: 13.61 },
+    coords: [13.61, 68.15],
     description: {
       de: "Leknes liegt mitten auf den Lofoten. Die Stadt ist ein wichtiger Verkehrsknotenpunkt in der Inselgruppe.",
       hu: "Leknes a Lofoten-szigetek közepén fekszik. A város fontos közlekedési csomópont a szigetcsoporton.",
@@ -1190,7 +1190,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Andenes", hu: "Andenes", ro: "Andenes", en: "Andenes" },
-    coordinates: { lat: 69.32, lng: 16.13 },
+    coords: [16.13, 69.32],
     description: {
       de: "Andenes liegt am nördlichsten Punkt der Insel Andøya. Die Stadt ist bekannt für ihre Walbeobachtungstouren.",
       hu: "Andenes Andøya szigetének legészakibb pontján fekszik. A város a bálnaleső túráiról ismert.",
@@ -1222,7 +1222,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Setermoen", hu: "Setermoen", ro: "Setermoen", en: "Setermoen" },
-    coordinates: { lat: 68.86, lng: 18.34 },
+    coords: [18.34, 68.86],
     description: {
       de: "Setermoen liegt im Landesinneren der Provinz Troms. Der Ort ist als bedeutender Standort für die norwegische Armee bekannt.",
       hu: "Setermoen Troms megye belsejében fekszik. A település jelentős helyszínként ismert a norvég hadsereg számára.",
@@ -1254,7 +1254,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Skjervøy", hu: "Skjervøy", ro: "Skjervøy", en: "Skjervøy" },
-    coordinates: { lat: 70.03, lng: 20.97 },
+    coords: [20.97, 70.03],
     description: {
       de: "Skjervøy liegt auf einer Insel in Nordnorwegen. Die Stadt ist ein wichtiger Stützpunkt für die Fischereiindustrie.",
       hu: "Skjervøy egy szigeten fekszik Észak-Norvégiában. A város fontos bázis a halászat számára.",
@@ -1286,7 +1286,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Lakselv", hu: "Lakselv", ro: "Lakselv", en: "Lakselv" },
-    coordinates: { lat: 70.04, lng: 24.97 },
+    coords: [24.97, 70.04],
     description: {
       de: "Lakselv liegt am Ende des Porsangerfjords. Die Stadt ist ein regionales Zentrum in der Finnmark.",
       hu: "Lakselv a Porsanger-fjord végénél fekszik. A város regionális központ Finnmarkban.",
@@ -1318,7 +1318,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Honningsvåg", hu: "Honningsvåg", ro: "Honningsvåg", en: "Honningsvåg" },
-    coordinates: { lat: 70.98, lng: 25.97 },
+    coords: [25.97, 70.98],
     description: {
       de: "Honningsvåg liegt auf der Insel Magerøya. Die Stadt ist der Ausgangspunkt für Reisen zum Nordkap.",
       hu: "Honningsvåg Magerøya szigetén fekszik. A város az Északi-fokhoz vezető utak kiindulópontja.",
@@ -1350,7 +1350,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Reine", hu: "Reine", ro: "Reine", en: "Reine" },
-    coordinates: { lat: 67.93, lng: 13.08 },
+    coords: [13.08, 67.93],
     description: {
       de: "Reine ist ein malerischer Fischerort auf den Lofoten. Die Stadt ist bekannt für ihre traditionellen Rorbuer-Hütten.",
       hu: "Reine egy festői halászfalu a Lofoten-szigeteken. A város ismert a hagyományos Rorbuer kunyhóiról.",
@@ -1382,7 +1382,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Hemavan", hu: "Hemavan", ro: "Hemavan", en: "Hemavan" },
-    coordinates: { lat: 65.81, lng: 15.08 },
+    coords: [15.08, 65.81],
     description: {
       de: "Hemavan liegt in einer bergigen Region nahe der norwegisch-schwedischen Grenze. Der Ort ist bekannt für Wintersport.",
       hu: "Hemavan hegyvidéki régióban fekszik a norvég-svéd határ közelében. A település a téli sportokról ismert.",
@@ -1414,7 +1414,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Brønnøy", hu: "Brønnøy", ro: "Brønnøy", en: "Brønnøy" },
-    coordinates: { lat: 65.48, lng: 12.22 },
+    coords: [12.22, 65.48],
     description: {
       de: "Brønnøy ist ein Küstenort im Süden der Region Nordland. Er dient als Zentrum für die umliegenden Inseln.",
       hu: "Brønnøy egy tengerparti település Nordland régió déli részén. Központként szolgál a környező szigetek számára.",
@@ -1446,7 +1446,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Porsgrunn", hu: "Porsgrunn", ro: "Porsgrunn", en: "Porsgrunn" },
-    coordinates: { lat: 59.14, lng: 9.65 },
+    coords: [9.65, 59.14],
     description: {
       de: "Porsgrunn liegt an der Mündung des Telemarkkanals. Die Stadt ist ein bedeutendes Industriezentrum.",
       hu: "Porsgrunn a Telemark-csatorna torkolatánál fekszik. A város jelentős ipari központ.",
@@ -1478,7 +1478,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Kragerø", hu: "Kragerø", ro: "Kragerø", en: "Kragerø" },
-    coordinates: { lat: 58.86, lng: 9.41 },
+    coords: [9.41, 58.86],
     description: {
       de: "Kragerø ist ein bekannter Ferienort an der Südküste. Die Stadt ist für ihre vielen Inseln und Schären bekannt.",
       hu: "Kragerø egy ismert üdülőhely a déli parton. A város számos szigetéről és sziklás partvidékéről ismert.",
@@ -1510,7 +1510,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Risør", hu: "Risør", ro: "Risør", en: "Risør" },
-    coordinates: { lat: 58.72, lng: 9.24 },
+    coords: [9.24, 58.72],
     description: {
       de: "Risør ist eine charmante Stadt an der Südküste. Sie ist bekannt für ihre gut erhaltene weiße Holzarchitektur.",
       hu: "Risør egy bájos város a déli parton. Ismert a jól megőrzött fehér faépítészetéről.",
@@ -1542,7 +1542,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Tvedestrand", hu: "Tvedestrand", ro: "Tvedestrand", en: "Tvedestrand" },
-    coordinates: { lat: 58.63, lng: 8.92 },
+    coords: [8.92, 58.63],
     description: {
       de: "Tvedestrand liegt an der Küste der Region Agder. Die Stadt ist für ihre steilen Gassen und ihre Hafenlage bekannt.",
       hu: "Tvedestrand Agder régió partján fekszik. A város meredek utcáiról és kikötői elhelyezkedéséről ismert.",
@@ -1574,7 +1574,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Grimstad", hu: "Grimstad", ro: "Grimstad", en: "Grimstad" },
-    coordinates: { lat: 58.34, lng: 8.59 },
+    coords: [8.59, 58.34],
     description: {
       de: "Grimstad liegt an der Südküste Norwegens. Die Stadt ist bekannt für ihre literarische Geschichte, unter anderem Henrik Ibsen.",
       hu: "Grimstad Norvégia déli partján fekszik. A város az irodalmi történelméről ismert, többek között Henrik Ibsenről.",
@@ -1606,7 +1606,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Lillesand", hu: "Lillesand", ro: "Lillesand", en: "Lillesand" },
-    coordinates: { lat: 58.25, lng: 8.38 },
+    coords: [8.38, 58.25],
     description: {
       de: "Lillesand ist ein beliebter Sommerferienort an der Südküste. Die Stadt ist bekannt für ihre weißen Holzhäuser.",
       hu: "Lillesand egy népszerű nyári üdülőhely a déli parton. A város a fehér faházairól ismert.",
@@ -1638,7 +1638,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Vennesla", hu: "Vennesla", ro: "Vennesla", en: "Vennesla" },
-    coordinates: { lat: 58.28, lng: 7.97 },
+    coords: [7.97, 58.28],
     description: {
       de: "Vennesla liegt im Agder-Gebiet nahe Kristiansand. Die Stadt ist für ihre moderne Architektur und Industrie bekannt.",
       hu: "Vennesla az Agder régióban fekszik, Kristiansand közelében. A város modern építészetéről és iparáról ismert.",
@@ -1670,7 +1670,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Mandal", hu: "Mandal", ro: "Mandal", en: "Mandal" },
-    coordinates: { lat: 58.02, lng: 7.46 },
+    coords: [7.46, 58.02],
     description: {
       de: "Mandal liegt am südlichsten Punkt Norwegens. Die Stadt ist bekannt für ihre langen Sandstrände.",
       hu: "Mandal Norvégia legdélibb pontján fekszik. A város a hosszú homokos strandjairól ismert.",
@@ -1702,7 +1702,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Lyngdal", hu: "Lyngdal", ro: "Lyngdal", en: "Lyngdal" },
-    coordinates: { lat: 58.14, lng: 7.07 },
+    coords: [7.07, 58.14],
     description: {
       de: "Lyngdal liegt in der Agder-Region. Die Stadt ist ein wachsendes Zentrum für Handel und Dienstleistungen.",
       hu: "Lyngdal az Agder régióban fekszik. A város növekvő központ a kereskedelem és szolgáltatások számára.",
@@ -1734,7 +1734,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Sogndal", hu: "Sogndal", ro: "Sogndal", en: "Sogndal" },
-    coordinates: { lat: 61.22, lng: 7.1 },
+    coords: [7.1, 61.22],
     description: {
       de: "Sogndal liegt am Sognefjord. Die Stadt ist ein Zentrum für Bildung und Wintersport in der Region.",
       hu: "Sogndal a Sognefjord partján fekszik. A város az oktatás és a téli sportok központja a régióban.",
@@ -1766,7 +1766,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Stryn", hu: "Stryn", ro: "Stryn", en: "Stryn" },
-    coordinates: { lat: 61.9, lng: 6.72 },
+    coords: [6.72, 61.9],
     description: {
       de: "Stryn liegt in einer bergigen Region am Nordfjord. Die Stadt ist bekannt für ihre atemberaubende Natur.",
       hu: "Stryn hegyvidéki régióban fekszik a Nordfjordnál. A város a lenyűgöző természetéről ismert.",
@@ -1798,7 +1798,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Ulvik", hu: "Ulvik", ro: "Ulvik", en: "Ulvik" },
-    coordinates: { lat: 60.56, lng: 6.91 },
+    coords: [6.91, 60.56],
     description: {
       de: "Ulvik liegt am Hardangerfjord. Der Ort ist bekannt für seine Obstgärten und die idyllische Lage.",
       hu: "Ulvik a Hardangerfjord partján fekszik. A település a gyümölcsöskerteiről és idilli helyszínéről ismert.",
@@ -1830,7 +1830,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Voss", hu: "Voss", ro: "Voss", en: "Voss" },
-    coordinates: { lat: 60.63, lng: 6.42 },
+    coords: [6.42, 60.63],
     description: {
       de: "Voss liegt im Landesinneren und ist ein Zentrum für Extremsport. Die Stadt ist von Bergen umgeben.",
       hu: "Voss az ország belsejében fekszik, és az extrém sportok központja. A várost hegyek veszik körül.",
@@ -1862,7 +1862,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Karmøy", hu: "Karmøy", ro: "Karmøy", en: "Karmøy" },
-    coordinates: { lat: 59.25, lng: 5.25 },
+    coords: [5.25, 59.25],
     description: {
       de: "Karmøy ist eine Gemeinde und Inselgemeinschaft in der Region Rogaland. Sie bietet historische Stätten.",
       hu: "Karmøy egy önkormányzat és szigeti közösség Rogaland régióban. Történelmi helyszíneket kínál.",
@@ -1894,7 +1894,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Kopervik", hu: "Kopervik", ro: "Kopervik", en: "Kopervik" },
-    coordinates: { lat: 59.28, lng: 5.3 },
+    coords: [5.3, 59.28],
     description: {
       de: "Kopervik liegt auf der Insel Karmøy in Rogaland. Die Stadt ist das administrative Zentrum der Gemeinde.",
       hu: "Kopervik a Rogaland-beli Karmøy szigeten fekszik. A város a község adminisztrációs központja.",
@@ -1926,7 +1926,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Skudeneshavn", hu: "Skudeneshavn", ro: "Skudeneshavn", en: "Skudeneshavn" },
-    coordinates: { lat: 59.15, lng: 5.26 },
+    coords: [5.26, 59.15],
     description: {
       de: "Skudeneshavn liegt an der Südspitze der Insel Karmøy. Die Stadt ist für ihre gut erhaltene Architektur bekannt.",
       hu: "Skudeneshavn a Karmøy-sziget déli csücskén fekszik. A város a jól megőrzött építészetéről ismert.",
@@ -1958,7 +1958,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Eigerøy", hu: "Eigerøy", ro: "Eigerøy", en: "Eigerøy" },
-    coordinates: { lat: 58.45, lng: 5.86 },
+    coords: [5.86, 58.45],
     description: {
       de: "Eigerøy ist eine Insel bei Egersund. Die Region ist für ihre Küstenlandschaft und Fischerei bekannt.",
       hu: "Eigerøy egy sziget Egersund mellett. A régió a tengerparti tájáról és halászatáról ismert.",
@@ -1990,7 +1990,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Egersund", hu: "Egersund", ro: "Egersund", en: "Egersund" },
-    coordinates: { lat: 58.45, lng: 6.0 },
+    coords: [6.0, 58.45],
     description: {
       de: "Egersund ist eine Küstenstadt in der Region Rogaland. Sie ist ein bedeutender Fischereihafen.",
       hu: "Egersund egy tengerparti város Rogaland régióban. Jelentős halászkikötő.",
@@ -2022,7 +2022,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Bryne", hu: "Bryne", ro: "Bryne", en: "Bryne" },
-    coordinates: { lat: 58.74, lng: 5.64 },
+    coords: [5.64, 58.74],
     description: {
       de: "Bryne liegt in der Region Jæren. Die Stadt ist ein Handelszentrum inmitten einer landwirtschaftlich geprägten Landschaft.",
       hu: "Bryne a Jæren régióban fekszik. A város kereskedelmi központ egy mezőgazdasági jellegű táj közepén.",
@@ -2054,7 +2054,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Kleppe", hu: "Kleppe", ro: "Kleppe", en: "Kleppe" },
-    coordinates: { lat: 58.79, lng: 5.62 },
+    coords: [5.62, 58.79],
     description: {
       de: "Kleppe ist der Hauptort der Gemeinde Klepp in Rogaland. Er liegt in einer flachen, landwirtschaftlichen Region.",
       hu: "Kleppe Klepp község központja Rogalandban. Egy sík, mezőgazdasági régióban fekszik.",
@@ -2086,7 +2086,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Sola", hu: "Sola", ro: "Sola", en: "Sola" },
-    coordinates: { lat: 58.88, lng: 5.64 },
+    coords: [5.64, 58.88],
     description: {
       de: "Sola liegt in der Nähe von Stavanger und ist bekannt für ihren Flughafen.",
       hu: "Sola Stavanger közelében fekszik, és a repülőteréről ismert.",
@@ -2118,7 +2118,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Randaberg", hu: "Randaberg", ro: "Randaberg", en: "Randaberg" },
-    coordinates: { lat: 59.0, lng: 5.6 },
+    coords: [5.6, 59.0],
     description: {
       de: "Randaberg liegt nördlich von Stavanger. Die Gemeinde ist für ihre landwirtschaftliche Tradition bekannt.",
       hu: "Randaberg Stavangertől északra fekszik. A község a mezőgazdasági hagyományáról ismert.",
@@ -2150,7 +2150,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Tysvær", hu: "Tysvær", ro: "Tysvær", en: "Tysvær" },
-    coordinates: { lat: 59.41, lng: 5.5 },
+    coords: [5.5, 59.41],
     description: {
       de: "Tysvær ist eine Gemeinde in der Region Rogaland. Sie liegt in einer malerischen Fjordlandschaft.",
       hu: "Tysvær egy község Rogaland régióban. Festői fjordtájban fekszik.",
@@ -2182,7 +2182,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Vindafjord", hu: "Vindafjord", ro: "Vindafjord", en: "Vindafjord" },
-    coordinates: { lat: 59.54, lng: 5.92 },
+    coords: [5.92, 59.54],
     description: {
       de: "Vindafjord liegt im Nordosten der Region Rogaland. Die Gemeinde ist für ihre Fjordlandschaft bekannt.",
       hu: "Vindafjord Rogaland régió északkeleti részén fekszik. A község a fjordtájáról ismert.",
@@ -2214,7 +2214,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Sauda", hu: "Sauda", ro: "Sauda", en: "Sauda" },
-    coordinates: { lat: 59.65, lng: 6.35 },
+    coords: [6.35, 59.65],
     description: {
       de: "Sauda ist ein Industrieort im Inneren des Saudafjords in der Region Rogaland.",
       hu: "Sauda egy ipari település a Saudafjord belsejében, Rogaland régióban.",
@@ -2246,7 +2246,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Suldal", hu: "Suldal", ro: "Suldal", en: "Suldal" },
-    coordinates: { lat: 59.45, lng: 6.45 },
+    coords: [6.45, 59.45],
     description: {
       de: "Suldal ist eine große Gemeinde in der Region Rogaland, bekannt für ihre Fjord- und Bergwelt.",
       hu: "Suldal egy nagy község Rogaland régióban, ismert a fjord- és hegyvilágáról.",
@@ -2278,7 +2278,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Hjelmeland", hu: "Hjelmeland", ro: "Hjelmeland", en: "Hjelmeland" },
-    coordinates: { lat: 59.23, lng: 6.15 },
+    coords: [6.15, 59.23],
     description: {
       de: "Hjelmeland liegt am Ryfylke-Fjord in der Region Rogaland. Die Gemeinde ist bekannt für ihre Landwirtschaft.",
       hu: "Hjelmeland a Ryfylke-fjord partján fekszik Rogaland régióban. A község a mezőgazdaságáról ismert.",
@@ -2310,7 +2310,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Forsand", hu: "Forsand", ro: "Forsand", en: "Forsand" },
-    coordinates: { lat: 59.0, lng: 6.1 },
+    coords: [6.1, 59.0],
     description: {
       de: "Forsand liegt am Lysefjord. Die Gemeinde ist bekannt für ihre spektakuläre Natur und Klippen.",
       hu: "Forsand a Lysefjord partján fekszik. A község a látványos természetéről és szikláiról ismert.",
@@ -2342,7 +2342,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Kvitsøy", hu: "Kvitsøy", ro: "Kvitsøy", en: "Kvitsøy" },
-    coordinates: { lat: 59.07, lng: 5.43 },
+    coords: [5.43, 59.07],
     description: {
       de: "Kvitsøy ist eine Inselgemeinde vor der Küste von Rogaland. Sie ist für ihre maritime Geschichte bekannt.",
       hu: "Kvitsøy egy szigetközség Rogaland partjai előtt. A tengerészeti történelméről ismert.",
@@ -2374,7 +2374,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Bokn", hu: "Bokn", ro: "Bokn", en: "Bokn" },
-    coordinates: { lat: 59.2, lng: 5.42 },
+    coords: [5.42, 59.2],
     description: {
       de: "Bokn ist eine Gemeinde auf mehreren Inseln in Rogaland. Sie ist durch Brücken mit dem Festland verbunden.",
       hu: "Bokn egy több szigetből álló község Rogalandban. Hidakkal van összekötve a szárazfölddel.",
@@ -2406,7 +2406,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Utsira", hu: "Utsira", ro: "Utsira", en: "Utsira" },
-    coordinates: { lat: 59.3, lng: 4.88 },
+    coords: [4.88, 59.3],
     description: {
       de: "Utsira ist eine kleine Inselgemeinde vor der Küste Rogalands. Sie ist für ihre Vogelbeobachtungen bekannt.",
       hu: "Utsira egy kis szigetközség Rogaland partjai előtt. A madármegfigyeléseiről ismert.",
@@ -2438,7 +2438,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Skjold", hu: "Skjold", ro: "Skjold", en: "Skjold" },
-    coordinates: { lat: 59.5, lng: 5.65 },
+    coords: [5.65, 59.5],
     description: {
       de: "Skjold ist eine Siedlung in der Region Rogaland. Sie liegt in einer ländlichen Fjordlandschaft.",
       hu: "Skjold egy település Rogaland régióban. Egy vidéki fjordtájban fekszik.",
@@ -2470,7 +2470,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Sveio", hu: "Sveio", ro: "Sveio", en: "Sveio" },
-    coordinates: { lat: 59.56, lng: 5.34 },
+    coords: [5.34, 59.56],
     description: {
       de: "Sveio ist eine Gemeinde in der Region Vestland. Sie liegt an der Küste mit vielen kleinen Inseln.",
       hu: "Sveio egy község Vestland régióban. A parton fekszik, sok kis szigettel.",
@@ -2502,7 +2502,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Etne", hu: "Etne", ro: "Etne", en: "Etne" },
-    coordinates: { lat: 59.66, lng: 5.91 },
+    coords: [5.91, 59.66],
     description: {
       de: "Etne ist eine Gemeinde in der Region Vestland. Sie ist für ihre Fjord- und Berglandschaft bekannt.",
       hu: "Etne egy község Vestland régióban. A fjord- és hegyvidéki tájáról ismert.",
@@ -2534,7 +2534,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Skånevik", hu: "Skånevik", ro: "Skånevik", en: "Skånevik" },
-    coordinates: { lat: 59.73, lng: 5.95 },
+    coords: [5.95, 59.73],
     description: {
       de: "Skånevik ist ein Küstenort in Vestland. Er liegt malerisch an einer Bucht umgeben von Bergen.",
       hu: "Skånevik egy tengerparti település Vestlandban. Festőien fekszik egy öbölben, hegyekkel körülvéve.",
@@ -2566,7 +2566,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Rosendal", hu: "Rosendal", ro: "Rosendal", en: "Rosendal" },
-    coordinates: { lat: 59.98, lng: 6.01 },
+    coords: [6.01, 59.98],
     description: {
       de: "Rosendal liegt am Hardangerfjord. Die Stadt ist für ihr Schloss und die schöne Fjordlandschaft bekannt.",
       hu: "Rosendal a Hardangerfjord partján fekszik. A város a kastélyáról és a szép fjordtájáról ismert.",
@@ -2598,7 +2598,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Husnes", hu: "Husnes", ro: "Husnes", en: "Husnes" },
-    coordinates: { lat: 59.85, lng: 5.76 },
+    coords: [5.76, 59.85],
     description: {
       de: "Husnes liegt in der Region Vestland. Die Stadt ist ein lokaler Handelsknotenpunkt am Hardangerfjord.",
       hu: "Husnes Vestland régióban fekszik. A város egy helyi kereskedelmi csomópont a Hardanger-fjordnál.",
@@ -2630,7 +2630,7 @@ export const norwayCitiesV2: POI[] = [
     type: "city",
     parent: "NO",
     name: { de: "Kvinnherad", hu: "Kvinnherad", ro: "Kvinnherad", en: "Kvinnherad" },
-    coordinates: { lat: 59.9, lng: 6.0 },
+    coords: [6.0, 59.9],
     description: {
       de: "Kvinnherad ist eine große Gemeinde in Vestland. Sie umfasst mehrere Dörfer am Hardangerfjord.",
       hu: "Kvinnherad egy nagy község Vestlandban. Több falut foglal magában a Hardanger-fjordnál.",

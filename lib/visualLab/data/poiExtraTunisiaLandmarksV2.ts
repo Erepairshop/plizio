@@ -358,7 +358,20 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Bizánci-mór stílusban épült.", "1890-ben fejezték be."],
       ro: ["Construită în stil bizantin-maur.", "Finalizată în 1890."],
       en: ["Built in the Byzantine-Moorish style.", "Completed in 1890."]
-    }, image: "/poi-images/karthago-akropolium-landmarks-v2.webp"},
+    }, image: "/poi-images/karthago-akropolium-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Akropolium von Karthago (auch Kathedrale von Karthago genannt) ist eine ehemalige römisch-katholische Kathedrale in Tunis. Sie wurde im 19. Jahrhundert auf den Ruinen eines antiken Tempels erbaut. Der Stil ist neobyzantinisch mit maurischen Elementen. Das Gebäude diente als Sitz des Erzbischofs von Karthago. Heute wird es für kulturelle Veranstaltungen genutzt. Die Kathedrale liegt auf dem Byrsa-Hügel mit Blick auf das Mittelmeer.",
+      hu: "A karthágói Akropolium (más néven Karthágói Székesegyház) egy egykori római katolikus katedrális Tuniszban. A 19. században épült egy ősi templom romjain. Stílusa neobizánci, maurikánus elemekkel. Az épület a karthágói érsek székhelye volt. Ma kulturális eseményeknek ad otthont. A Byrsa-dombon áll, ahonnan kilátás nyílik a tengerre.",
+      ro: "Acropoliumul din Cartagina (Catedrala Cartaginei) este o fostă catedrală romano-catolică din Tunis. Construită în secolul al XIX-lea pe ruinele unui templu antic, are un stil neobizantin cu elemente maure. A fost sediul arhiepiscopului de Cartagina. Acum găzduiește evenimente culturale. Este situată pe dealul Byrsa, cu vedere la Mediterană.",
+      en: "The Acropolium of Carthage, also known as Carthage Cathedral, is a former Roman Catholic cathedral in Tunis. Built in the 19th century on the site of an ancient temple, its architecture blends Neo-Byzantine and Moorish styles. It served as the seat of the Archbishop of Carthage. Today, it is used for concerts and exhibitions. The cathedral stands on Byrsa Hill, overlooking the ruins of ancient Carthage and the Mediterranean Sea.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1884-1890", "Höhe der Kuppel: 50 m", "Architekt: Alphonse Delort", "Sitzplätze: 1.000", "Stil: Neobyzantinisch", "Lage: Byrsa-Hügel, 57 m über Meer"],
+      hu: ["Épült: 1884-1890", "Kupola magassága: 50 m", "Építész: Alphonse Delort", "Ülőhelyek: 1 000", "Stílus: neobizánci", "Magasság: 57 m tengerszint felett"],
+      ro: ["Construit: 1884-1890", "Înălțimea cupolei: 50 m", "Arhitect: Alphonse Delort", "Locuri: 1.000", "Stil: neobizantin", "Amplasare: Dealul Byrsa, 57 m altitudine"],
+      en: ["Built: 1884-1890", "Dome height: 50 m", "Architect: Alphonse Delort", "Seating capacity: 1,000", "Style: Neo-Byzantine", "Location: Byrsa Hill, 57 m above sea level"],
+    },
+  },
   {
     id: "hammamet-kasbah-landmarks-v2",
     type: "landmark",
@@ -381,7 +394,20 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A 13. században épült.", "Az erőd falai helyenként akár 15 méter vastagok."],
       ro: ["Construită în secolul al XIII-lea.", "Zidurile cetății au o grosime de până la 15 metri în unele locuri."],
       en: ["Built in the 13th century.", "The fortress walls are up to 15 meters thick in some places."]
-    }, image: "/poi-images/hammamet-kasbah-landmarks-v2.webp"},
+    }, image: "/poi-images/hammamet-kasbah-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kasbah von Hammamet ist eine mittelalterliche Festung an der Küste Tunesiens. Sie wurde im 13. Jahrhundert erbaut und später von den Spaniern und Osmanen verstärkt. Die Festung umfasst eine Moschee, einen zentralen Hof und Wachtürme. Von den Mauern hat man einen Panoramablick über die Stadt und das Meer. Die Kasbah dient heute als Museum und Veranstaltungsort für das jährliche Hammamet-Festival.",
+      hu: "A hammameti Kasbah egy középkori erőd Tunézia partján. A 13. században épült, később spanyolok és oszmánok erősítették meg. Az erődben mecset, udvar és őrtornyok találhatók. A falakról panorámás kilátás nyílik a városra és a tengerre. Ma múzeum és a Hammamet Fesztivál helyszíne.",
+      ro: "Kasbah din Hammamet este o fortăreață medievală de pe coasta Tunisiei. Construită în secolul al XIII-lea, a fost întărită de spanioli și otomani. Include o moschee, o curte interioară și turnuri de veghe. De pe ziduri se vede un peisaj panoramic asupra orașului și mării. Astăzi găzduiește un muzeu și Festivalul de la Hammamet.",
+      en: "The Kasbah of Hammamet is a medieval fortress located on the Tunisian coast. Built in the 13th century, it was later reinforced by the Spanish and the Ottomans. The structure includes a mosque, a central courtyard, and watchtowers. Its walls offer panoramic views of the town and the Mediterranean. Today, the Kasbah houses a museum and serves as a venue for the annual Hammamet International Festival.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 13. Jahrhundert", "Höhe der Mauern: 10 m", "Fläche: 2.500 m²", "Anzahl Türme: 4", "Festival seit 1964", "Restaurierung 1990"],
+      hu: ["Épült: 13. század", "Falak magassága: 10 m", "Terület: 2 500 m²", "Tornyok száma: 4", "Fesztivál 1964 óta", "Felújítás: 1990"],
+      ro: ["Construit: secolul al XIII-lea", "Înălțimea zidurilor: 10 m", "Suprafață: 2.500 m²", "Număr de turnuri: 4", "Festival din 1964", "Restaurare în 1990"],
+      en: ["Built: 13th century", "Wall height: 10 m", "Area: 2,500 m²", "Number of towers: 4", "Annual festival since 1964", "Restoration in 1990"],
+    },
+  },
   {
     id: "tunis-bab-saadoun-landmarks-v2",
     type: "landmark",
@@ -404,7 +430,20 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["1350 körül építették.", "1881-ben francia közigazgatás alatt módosították."],
       ro: ["Construită în jurul anului 1350.", "Modificată sub administrație franceză în 1881."],
       en: ["Built around the year 1350.", "Modified under French administration in 1881."]
-    }, image: "/poi-images/tunis-bab-saadoun-landmarks-v2.webp"},
+    }, image: "/poi-images/tunis-bab-saadoun-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Bab Saadoun ist eines der historischen Tore von Tunis, erbaut im 13. Jahrhundert. Es liegt im Westen der Medina und diente als Ausgang in Richtung Westen. Das Tor ist Teil der ehemaligen Stadtmauer. Der Name bedeutet 'Tor der Glücklichen'. In der Nähe befindet sich der Hauptbahnhof von Tunis. Das Gebiet um Bab Saadoun ist ein lebhafter Verkehrsknotenpunkt mit Märkten und Cafés.",
+      hu: "Bab Saadoun Tunisz egyik történelmi kapuja, a 13. században épült. A medina nyugati részén található, nyugati irányba vezető útként szolgált. A kapu a városfal része volt. Neve 'a boldogok kapuja'-t jelent. A közelben van Tunisz főpályaudvara. A környék nyüzsgő közlekedési csomópont piacokkal és kávézókkal.",
+      ro: "Bab Saadoun este una dintre porțile istorice ale Tunisului, construită în secolul al XIII-lea. Se află în vestul medinei și servea ca ieșire spre vest. Poarta făcea parte din zidul orașului. Numele înseamnă 'Poarta Fericiților'. În apropiere se află gara principală din Tunis. Zona este un nod de transport animat, cu piețe și cafenele.",
+      en: "Bab Saadoun is one of the historic gates of Tunis, built in the 13th century. Located in the western part of the Medina, it served as the main exit towards the west. The gate was part of the city's defensive walls. Its name translates to 'Gate of the Happy'. Today, the area around Bab Saadoun is a busy transportation hub, with a major railway station, markets, and local businesses.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 13. Jahrhundert", "Höhe: 12 m", "Breite: 8 m", "Material: Stein", "Teil der Stadtmauer (8 km Länge)", "Renoviert 1995"],
+      hu: ["Épült: 13. század", "Magasság: 12 m", "Szélesség: 8 m", "Anyag: kő", "Városfal része (8 km hosszú)", "Felújítás: 1995"],
+      ro: ["Construit: secolul al XIII-lea", "Înălțime: 12 m", "Lățime: 8 m", "Material: piatră", "Parte a zidului orașului (8 km)", "Renovat în 1995"],
+      en: ["Built: 13th century", "Height: 12 m", "Width: 8 m", "Material: stone", "Part of city wall (8 km total)", "Renovated in 1995"],
+    },
+  },
   {
     id: "sfax-kasbah-landmarks-v2",
     type: "landmark",

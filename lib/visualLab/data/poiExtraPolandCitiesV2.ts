@@ -8,7 +8,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Warschau", hu: "Varsó", ro: "Varșovia", en: "Warsaw"},
     image: "/poi-images/poland-warsaw-cities-v2.webp",
     coords: [21.0122, 52.2297],
-    coordinates: { lat: 52.2297, lng: 21.0122 },
+    coords: [21.0122, 52.2297],
     description: {
       de: "Warschau ist die Hauptstadt und größte Stadt Polens an der Weichsel. Sie ist das politische und wirtschaftliche Zentrum des Landes mit einer rekonstruierten Altstadt.",
       hu: "Varsó Lengyelország fővárosa és legnagyobb városa a Visztula partján. A település az ország politikai, gazdasági és kulturális központja újjáépített óvárossal.",
@@ -41,7 +41,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Krakau", hu: "Krakkó", ro: "Cracovia", en: "Kraków"},
     image: "/poi-images/poland-krakow-cities-v2.webp",
     coords: [19.945, 50.0647],
-    coordinates: { lat: 50.0647, lng: 19.945 },
+    coords: [19.945, 50.0647],
     description: {
       de: "Krakau war die ehemalige Hauptstadt Polens und liegt im Süden des Landes. Die Stadt ist bekannt für ihren gut erhaltenen mittelalterlichen Kern und das Wawelschloss.",
       hu: "Krakkó Lengyelország egykori fővárosa az ország déli részén. A város híres a jó állapotban fennmaradt középkori központjáról és a Wawel-kastélyról.",
@@ -74,7 +74,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Lodz", hu: "Łódź", ro: "Łódź", en: "Łódź"},
     image: "/poi-images/poland-lodz-cities-v2.webp",
     coords: [19.456, 51.7592],
-    coordinates: { lat: 51.7592, lng: 19.456 },
+    coords: [19.456, 51.7592],
     description: {
       de: "Lodz ist eine Industriestadt in Zentralpolen, die im 19. Jahrhundert als Zentrum der Textilherstellung florierte. Heute ist sie für ihre Filmhochschule bekannt.",
       hu: "Łódź közép-lengyelországi iparváros, amely a 19. században a textilgyártás központjaként virágzott. Ma filmművészeti főiskolájáról ismert.",
@@ -107,7 +107,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Breslau", hu: "Wrocław", ro: "Wrocław", en: "Wrocław"},
     image: "/poi-images/poland-wroclaw-cities-v2.webp",
     coords: [17.0385, 51.1079],
-    coordinates: { lat: 51.1079, lng: 17.0385 },
+    coords: [17.0385, 51.1079],
     description: {
       de: "Breslau liegt an der Oder in Niederschlesien und ist bekannt für seine über 100 Brücken und die kleinen Bronzezwerge in der gesamten Stadt.",
       hu: "Wrocław az Odera partján fekszik Alsó-Sziléziában, és több mint 100 hídjáról, valamint a városban elszórt kis bronztörpéiről ismert.",
@@ -140,7 +140,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Posen", hu: "Poznań", ro: "Poznań", en: "Poznań"},
     image: "/poi-images/poland-poznan-cities-v2.webp",
     coords: [16.9252, 52.4064],
-    coordinates: { lat: 52.4064, lng: 16.9252 },
+    coords: [16.9252, 52.4064],
     description: {
       de: "Posen ist eine historische Stadt an der Warthe und gilt als eine der ältesten Städte Polens. Sie ist ein bedeutendes Zentrum für Handel und Messen.",
       hu: "Poznań történelmi város a Warta folyó partján, Lengyelország egyik legrégebbi városa. Jelentős kereskedelmi és vásárközpont.",
@@ -173,7 +173,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Danzig", hu: "Gdańsk", ro: "Gdańsk", en: "Gdańsk"},
     image: "/poi-images/poland-gdansk-cities-v2.webp",
     coords: [18.6466, 54.352],
-    coordinates: { lat: 54.352, lng: 18.6466 },
+    coords: [18.6466, 54.352],
     description: {
       de: "Danzig ist eine wichtige Hafenstadt an der Ostsee und blickt auf eine tausendjährige Geschichte zurück. Sie war Gründungsort der Gewerkschaft Solidarność.",
       hu: "Gdańsk fontos kikötőváros a Balti-tenger partján, ezeréves múltra tekint vissza. Itt alakult meg a Szolidaritás szakszervezet.",
@@ -206,7 +206,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Stettin", hu: "Szczecin", ro: "Szczecin", en: "Szczecin"},
     image: "/poi-images/poland-szczecin-cities-v2.webp",
     coords: [14.5528, 53.4285],
-    coordinates: { lat: 53.4285, lng: 14.5528 },
+    coords: [14.5528, 53.4285],
     description: {
       de: "Stettin ist die Hauptstadt der Woiwodschaft Westpommern und liegt nahe der deutschen Grenze. Die Stadt hat einen bedeutenden Seehafen an der Oder.",
       hu: "Szczecin Nyugat-pomeránia székhelye, a német határ közelében fekszik. Jelentős tengeri kikötővel rendelkezik az Odera mentén.",
@@ -239,7 +239,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Bromberg", hu: "Bydgoszcz", ro: "Bydgoszcz", en: "Bydgoszcz"},
     image: "/poi-images/poland-bydgoszcz-cities-v2.webp",
     coords: [18.0084, 53.1235],
-    coordinates: { lat: 53.1235, lng: 18.0084 },
+    coords: [18.0084, 53.1235],
     description: {
       de: "Bydgoszcz ist eine Stadt am Bromberger Kanal und der Brahe. Sie ist ein wichtiges Zentrum für Musik, Industrie und Binnenschifffahrt.",
       hu: "Bydgoszcz a Brda folyó és a Bydgoszcz-csatorna partján fekszik. Fontos zenei, ipari és belvízi hajózási központ.",
@@ -272,7 +272,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Lublin", hu: "Lublin", ro: "Lublin", en: "Lublin"},
     image: "/poi-images/poland-lublin-cities-v2.webp",
     coords: [22.5684, 51.2465],
-    coordinates: { lat: 51.2465, lng: 22.5684 },
+    coords: [22.5684, 51.2465],
     description: {
       de: "Lublin ist die größte Stadt im Osten Polens und blickt auf eine lange Tradition als Tor zum Osten zurück. Sie besitzt eine gut erhaltene Altstadt.",
       hu: "Lublin Kelet-Lengyelország legnagyobb városa, amely hosszú múltra tekint vissza a Kelet kapujaként. Jól megőrzött óvárossal rendelkezik.",
@@ -305,7 +305,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Bialystok", hu: "Białystok", ro: "Bialystok", en: "Białystok"},
     image: "/poi-images/poland-bialystok-cities-v2.webp",
     coords: [23.1688, 53.1325],
-    coordinates: { lat: 53.1325, lng: 23.1688 },
+    coords: [23.1688, 53.1325],
     description: {
       de: "Bialystok liegt im Nordosten Polens und ist von Nationalparks umgeben. Die Stadt ist bekannt für ihre kulturelle Vielfalt und den Branicki-Palast.",
       hu: "Białystok Északkelet-Lengyelországban fekszik, nemzeti parkokkal körülvéve. A város kulturális sokszínűségéről és a Branicki-palotáról ismert.",
@@ -338,7 +338,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Kattowitz", hu: "Katowice", ro: "Katowice", en: "Katowice"},
     image: "/poi-images/poland-katowice-cities-v2.webp",
     coords: [19.0238, 50.2649],
-    coordinates: { lat: 50.2649, lng: 19.0238 },
+    coords: [19.0238, 50.2649],
     description: {
       de: "Katowice ist das Zentrum des oberschlesischen Industriegebiets. Die Stadt hat sich von einer Bergbaustadt zu einem modernen Kultur- und Geschäftszentrum gewandelt.",
       hu: "Katowice a felső-sziléziai iparvidék központja. A város bányászvárosból modern kulturális és üzleti központtá alakult át.",
@@ -371,7 +371,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Gdingen", hu: "Gdynia", ro: "Gdynia", en: "Gdynia"},
     image: "/poi-images/poland-gdynia-cities-v2.webp",
     coords: [18.5305, 54.5189],
-    coordinates: { lat: 54.5189, lng: 18.5305 },
+    coords: [18.5305, 54.5189],
     description: {
       de: "Gdynia ist eine moderne Hafenstadt an der Danziger Bucht. Sie entstand in den 1920er Jahren und ist heute Teil der Dreistadt-Metropolregion.",
       hu: "Gdynia modern kikötőváros a Gdański-öböl partján. Az 1920-as években épült fel, és ma a Hármasváros része.",
@@ -404,7 +404,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Tschenstochau", hu: "Częstochowa", ro: "Częstochowa", en: "Częstochowa"},
     image: "/poi-images/poland-czestochowa-cities-v2.webp",
     coords: [19.1203, 50.8118],
-    coordinates: { lat: 50.8118, lng: 19.1203 },
+    coords: [19.1203, 50.8118],
     description: {
       de: "Częstochowa ist eine Stadt im Süden Polens, die vor allem als Wallfahrtsort bekannt ist. Sie beherbergt das Kloster Jasna Góra mit der Schwarzen Madonna.",
       hu: "Częstochowa dél-lengyelországi város, amely elsősorban zarándokhelyként ismert. Itt található a Jasna Góra-kolostor a Fekete Madonnával.",
@@ -437,7 +437,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Radom", hu: "Radom", ro: "Radom", en: "Radom"},
     image: "/poi-images/poland-radom-cities-v2.webp",
     coords: [21.1471, 51.4027],
-    coordinates: { lat: 51.4027, lng: 21.1471 },
+    coords: [21.1471, 51.4027],
     description: {
       de: "Radom liegt in Zentralpolen und ist ein wichtiges Industrie- und Bildungszentrum. Die Stadt ist bekannt für ihre zweijährlich stattfindende Flugschau.",
       hu: "Radom Közép-Lengyelországban található, fontos ipari és oktatási központ. A város kétévente megrendezett repülőnapjáról ismert.",
@@ -470,7 +470,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Sosnowitz", hu: "Sosnowiec", ro: "Sosnowiec", en: "Sosnowiec"},
     image: "/poi-images/poland-sosnowiec-cities-v2.webp",
     coords: [19.104, 50.2863],
-    coordinates: { lat: 50.2863, lng: 19.104 },
+    coords: [19.104, 50.2863],
     description: {
       de: "Sosnowiec ist eine Großstadt im oberschlesischen Ballungsraum. Sie entwickelte sich im 19. Jahrhundert rasant durch Kohlebergbau und Eisenhütten.",
       hu: "Sosnowiec nagyváros a felső-sziléziai agglomerációban. A 19. században fejlődött gyorsan a szénbányászatnak és a vasműveknek köszönhetően.",
@@ -503,7 +503,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Thorn", hu: "Toruń", ro: "Toruń", en: "Toruń"},
     image: "/poi-images/poland-torun-cities-v2.webp",
     coords: [18.5984, 53.0138],
-    coordinates: { lat: 53.0138, lng: 18.5984 },
+    coords: [18.5984, 53.0138],
     description: {
       de: "Toruń ist eine mittelalterliche Stadt an der Weichsel, die für ihre gotische Architektur und als Geburtsort von Nikolaus Kopernikus bekannt ist.",
       hu: "Toruń középkori város a Visztula partján, gótikus építészetéről és Kopernikusz szülőhelyeként ismert.",
@@ -536,7 +536,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Kielce", hu: "Kielce", ro: "Kielce", en: "Kielce"},
     image: "/poi-images/poland-kielce-cities-v2.webp",
     coords: [20.6286, 50.8661],
-    coordinates: { lat: 50.8661, lng: 20.6286 },
+    coords: [20.6286, 50.8661],
     description: {
       de: "Kielce liegt im Herzen des Heiligkreuzgebirges. Die Stadt ist ein wichtiges wirtschaftliches Zentrum mit vielen geologischen Naturschutzgebieten.",
       hu: "Kielce a Szentkereszt-hegység szívében fekszik. Fontos gazdasági központ, területén számos geológiai természetvédelmi terület található.",
@@ -569,7 +569,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Reichshof", hu: "Rzeszów", ro: "Rzeszów", en: "Rzeszów"},
     image: "/poi-images/poland-rzeszow-cities-v2.webp",
     coords: [21.999, 50.0413],
-    coordinates: { lat: 50.0413, lng: 21.999 },
+    coords: [21.999, 50.0413],
     description: {
       de: "Rzeszów ist die Hauptstadt der Woiwodschaft Karpatenvorland. Sie ist ein bedeutendes Zentrum für die Luftfahrtindustrie und Informationstechnologie.",
       hu: "Rzeszów a Kárpátaljai vajdaság székhelye. A város a légiközlekedési ipar és az információs technológia jelentős központja.",
@@ -604,7 +604,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Gleiwitz", hu: "Gliwice", ro: "Gliwice", en: "Gliwice"},
     image: "/poi-images/poland-gliwice-cities-v2.webp",
     coords: [18.6714, 50.2945],
-    coordinates: { lat: 50.2945, lng: 18.6714 },
+    coords: [18.6714, 50.2945],
     description: {
       de: "Gliwice ist eine Industriestadt in Oberschlesien. Sie ist bekannt für ihre Technische Universität und den historischen Radiosender.",
       hu: "Gliwice felső-sziléziai iparváros. Műszaki egyeteméről és a történelmi rádióadóról ismert.",
@@ -639,7 +639,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Hindenburg", hu: "Zabrze", ro: "Zabrze", en: "Zabrze"},
     image: "/poi-images/poland-zabrze-cities-v2.webp",
     coords: [18.7857, 50.3081],
-    coordinates: { lat: 50.3081, lng: 18.7857 },
+    coords: [18.7857, 50.3081],
     description: {
       de: "Zabrze ist eine Stadt im oberschlesischen Industriegebiet. Sie ist berühmt für ihr industrielles Erbe, insbesondere den historischen Kohlebergbau.",
       hu: "Zabrze a felső-sziléziai iparvidék egyik városa. Ipari örökségéről, különösen a történelmi szénbányászatról híres.",
@@ -674,7 +674,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Allenstein", hu: "Olsztyn", ro: "Olsztyn", en: "Olsztyn"},
     image: "/poi-images/poland-olsztyn-cities-v2.webp",
     coords: [20.4801, 53.7784],
-    coordinates: { lat: 53.7784, lng: 20.4801 },
+    coords: [20.4801, 53.7784],
     description: {
       de: "Olsztyn ist die Hauptstadt von Ermland-Masuren und liegt inmitten von 15 Seen. Die Stadt ist bekannt für ihre gotische Burg, in der Kopernikus lebte.",
       hu: "Olsztyn az Ermland-Mazúriai vajdaság székhelye, 15 tó veszi körül. Gótikus váráról ismert, ahol Kopernikusz is lakott.",
@@ -709,7 +709,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Bielitz-Biala", hu: "Bielsko-Biała", ro: "Bielsko-Biała", en: "Bielsko-Biała"},
     image: "/poi-images/poland-bielsko-biala-cities-v2.webp",
     coords: [19.0444, 49.8225],
-    coordinates: { lat: 49.8225, lng: 19.0444 },
+    coords: [19.0444, 49.8225],
     description: {
       de: "Bielsko-Biała liegt am Fuße der Beskiden und entstand aus der Vereinigung zweier Städte. Sie wird oft als 'Klein-Wien' bezeichnet.",
       hu: "Bielsko-Biała a Beszkidek lábánál fekszik, két város egyesülésével jött létre. Gyakran hívják 'Kis-Bécsnek'.",
@@ -744,7 +744,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Beuthen", hu: "Bytom", ro: "Bytom", en: "Bytom"},
     image: "/poi-images/poland-bytom-cities-v2.webp",
     coords: [18.9113, 50.3484],
-    coordinates: { lat: 50.3484, lng: 18.9113 },
+    coords: [18.9113, 50.3484],
     description: {
       de: "Bytom ist eine der ältesten Städte Oberschlesiens. Sie ist geprägt von der Schwerindustrie und besitzt bedeutende Kultureinrichtungen.",
       hu: "Bytom Felső-Szilézia egyik legrégebbi városa. A nehézipar jellemzi, és jelentős kulturális intézményekkel rendelkezik.",
@@ -779,7 +779,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Grünberg", hu: "Zielona Góra", ro: "Zielona Góra", en: "Zielona Góra"},
     image: "/poi-images/poland-zielona-gora-cities-v2.webp",
     coords: [15.5062, 51.9356],
-    coordinates: { lat: 51.9356, lng: 15.5062 },
+    coords: [15.5062, 51.9356],
     description: {
       de: "Zielona Góra ist bekannt für seine Weintradition und die umliegenden Hügel. Sie ist eine der beiden Hauptstädte der Woiwodschaft Lebus.",
       hu: "Zielona Góra bortermelő hagyományairól és a környező dombokról ismert. A Lubusi vajdaság egyik székhelye.",
@@ -814,7 +814,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Rybnik", hu: "Rybnik", ro: "Rybnik", en: "Rybnik"},
     image: "/poi-images/poland-rybnik-cities-v2.webp",
     coords: [18.5461, 50.1027],
-    coordinates: { lat: 50.1027, lng: 18.5461 },
+    coords: [18.5461, 50.1027],
     description: {
       de: "Rybnik liegt in Oberschlesien und ist für seinen Stausee und die industrielle Geschichte bekannt. Die Stadt hat viele Grünflächen und Parks.",
       hu: "Rybnik Felső-Sziléziában található, víztározójáról és ipari múltjáról ismert. A városban sok zöldterület és park található.",
@@ -849,7 +849,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Ruda Slaska", hu: "Ruda Śląska", ro: "Ruda Śląska", en: "Ruda Śląska"},
     image: "/poi-images/poland-ruda-slaska-cities-v2.webp",
     coords: [18.855, 50.2575],
-    coordinates: { lat: 50.2575, lng: 18.855 },
+    coords: [18.855, 50.2575],
     description: {
       de: "Ruda Śląska ist eine Stadt im Herzen des oberschlesischen Industriegebiets. Sie entstand durch den Zusammenschluss mehrerer Bergbausiedlungen.",
       hu: "Ruda Śląska a felső-sziléziai iparvidék szívében fekvő város. Több bányásztelepülés egyesülésével jött létre.",
@@ -884,7 +884,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Oppeln", hu: "Opole", ro: "Opole", en: "Opole"},
     image: "/poi-images/poland-opole-cities-v2.webp",
     coords: [17.9213, 50.6751],
-    coordinates: { lat: 50.6751, lng: 17.9213 },
+    coords: [17.9213, 50.6751],
     description: {
       de: "Opole ist eine der ältesten Städte Polens und liegt an der Oder. Sie ist bekannt für ihr jährliches polnisches Gesangsfestival.",
       hu: "Opole Lengyelország egyik legrégebbi városa az Odera mentén. Évente megrendezett lengyel dalfesztiváljáról ismert.",
@@ -919,7 +919,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Tychy", hu: "Tychy", ro: "Tychy", en: "Tychy"},
     image: "/poi-images/poland-tychy-cities-v2.webp",
     coords: [18.9918, 50.1231],
-    coordinates: { lat: 50.1231, lng: 18.9918 },
+    coords: [18.9918, 50.1231],
     description: {
       de: "Tychy ist eine Stadt in Oberschlesien, die für ihre Brauerei und die Automobilindustrie bekannt ist. Sie wurde als sozialistische Planstadt erweitert.",
       hu: "Tychy felső-sziléziai város, sörfőzdéjéről és autóiparáról ismert. Szocialista tervezett városként bővítették ki.",
@@ -954,7 +954,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Landsberg an der Warthe", hu: "Gorzów Wielkopolski", ro: "Gorzów Wielkopolski", en: "Gorzów Wielkopolski"},
     image: "/poi-images/poland-gorzow-wielkopolski-cities-v2.webp",
     coords: [15.2369, 52.7325],
-    coordinates: { lat: 52.7325, lng: 15.2369 },
+    coords: [15.2369, 52.7325],
     description: {
       de: "Gorzów Wielkopolski ist eine der beiden Hauptstädte der Woiwodschaft Lebus an der Warthe. Sie ist ein Zentrum für Industrie und Sport.",
       hu: "Gorzów Wielkopolski a Lubusi vajdaság egyik székhelye a Warta partján. Az ipar és a sport egyik központja.",
@@ -989,7 +989,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Elbing", hu: "Elbląg", ro: "Elbląg", en: "Elbląg"},
     image: "/poi-images/poland-elblag-cities-v2.webp",
     coords: [19.4045, 54.1559],
-    coordinates: { lat: 54.1559, lng: 19.4045 },
+    coords: [19.4045, 54.1559],
     description: {
       de: "Elbląg liegt in der Nähe des Frischen Haffs und ist bekannt für seinen Kanal. Die Altstadt wurde nach dem Zweiten Weltkrieg in historischer Form wiederaufgebaut.",
       hu: "Elbląg a Visztula-öböl közelében fekszik, és csatornájáról ismert. Az óvárost a második világháború után történelmi formájában építették újjá.",
@@ -1024,7 +1024,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Plotzk", hu: "Płock", ro: "Płock", en: "Płock"},
     image: "/poi-images/poland-plock-cities-v2.webp",
     coords: [19.7065, 52.5463],
-    coordinates: { lat: 52.5463, lng: 19.7065 },
+    coords: [19.7065, 52.5463],
     description: {
       de: "Płock ist eine der ältesten Städte Polens und liegt auf einer hohen Böschung an der Weichsel. Sie war zeitweise die Hauptstadt des Landes.",
       hu: "Płock Lengyelország egyik legrégebbi városa a Visztula mentén. Időnként az ország fővárosaként is szolgált.",
@@ -1059,7 +1059,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Dabrowa Gornicza", hu: "Dąbrowa Górnicza", ro: "Dąbrowa Górnicza", en: "Dąbrowa Górnicza"},
     image: "/poi-images/poland-dabrowa-gornicza-cities-v2.webp",
     coords: [19.2345, 50.3206],
-    coordinates: { lat: 50.3206, lng: 19.2345 },
+    coords: [19.2345, 50.3206],
     description: {
       de: "Dąbrowa Górnicza liegt im oberschlesischen Industriegebiet und ist flächenmäßig eine der größten Städte Polens. Sie ist ein Zentrum der Metallurgie.",
       hu: "Dąbrowa Górnicza a felső-sziléziai iparvidéken fekszik, területileg Lengyelország egyik legnagyobb városa. A kohászat központja.",
@@ -1094,7 +1094,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Waldenburg", hu: "Wałbrzych", ro: "Wałbrzych", en: "Wałbrzych"},
     image: "/poi-images/poland-walbrzych-cities-v2.webp",
     coords: [16.2833, 50.7667],
-    coordinates: { lat: 50.7667, lng: 16.2833 },
+    coords: [16.2833, 50.7667],
     description: {
       de: "Wałbrzych liegt in Niederschlesien in den Sudeten. Die Stadt ist bekannt für Schloss Fürstenstein und ihre lange Bergbaugeschichte.",
       hu: "Wałbrzych Alsó-Sziléziában, a Szudetákban fekszik. A város a Książ-kastélyról és hosszú bányászati múltjáról ismert.",
@@ -1129,7 +1129,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Leslau", hu: "Włocławek", ro: "Włocławek", en: "Włocławek"},
     image: "/poi-images/poland-wloclawek-cities-v2.webp",
     coords: [19.0678, 52.6483],
-    coordinates: { lat: 52.6483, lng: 19.0678 },
+    coords: [19.0678, 52.6483],
     description: {
       de: "Włocławek liegt an der Weichsel und ist eine der ältesten Städte Polens. Sie ist bekannt für ihre Kathedrale und die Produktion von Keramik.",
       hu: "Włocławek a Visztula mentén fekszik, Lengyelország egyik legrégebbi városa. Székesegyházáról és kerámiagyártásáról ismert.",
@@ -1164,7 +1164,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Tarnau", hu: "Tarnów", ro: "Tarnów", en: "Tarnów"},
     image: "/poi-images/poland-tarnow-cities-v2.webp",
     coords: [20.9858, 50.0121],
-    coordinates: { lat: 50.0121, lng: 20.9858 },
+    coords: [20.9858, 50.0121],
     description: {
       de: "Tarnów ist eine historische Stadt im Südosten Polens. Sie ist bekannt für ihre gut erhaltene Renaissance-Architektur in der Altstadt.",
       hu: "Tarnów történelmi város Délkelet-Lengyelországban. Az óvárosban található jól megőrzött reneszánsz építészetéről ismert.",
@@ -1199,7 +1199,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Königshütte", hu: "Chorzów", ro: "Chorzów", en: "Chorzów"},
     image: "/poi-images/poland-chorzow-cities-v2.webp",
     coords: [18.9447, 50.2975],
-    coordinates: { lat: 50.2975, lng: 18.9447 },
+    coords: [18.9447, 50.2975],
     description: {
       de: "Chorzów liegt im oberschlesischen Ballungsraum. Die Stadt beherbergt den Schlesischen Park, einen der größten Stadtparks Europas.",
       hu: "Chorzów a felső-sziléziai agglomerációban fekszik. Itt található a Sziléziai Park, Európa egyik legnagyobb városi parkja.",
@@ -1234,7 +1234,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Köslin", hu: "Koszalin", ro: "Koszalin", en: "Koszalin"},
     image: "/poi-images/poland-koszalin-cities-v2.webp",
     coords: [16.1722, 54.1944],
-    coordinates: { lat: 54.1944, lng: 16.1722 },
+    coords: [16.1722, 54.1944],
     description: {
       de: "Koszalin liegt im Nordwesten Polens nahe der Ostseeküste. Die Stadt ist ein wichtiges kulturelles und wirtschaftliches Zentrum von Hinterpommern.",
       hu: "Koszalin Északnyugat-Lengyelországban fekszik, a balti-tengeri part közelében. Hátsó-Pomeránia fontos kulturális és gazdasági központja.",
@@ -1269,7 +1269,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Kalisch", hu: "Kalisz", ro: "Kalisz", en: "Kalisz"},
     image: "/poi-images/poland-kalisz-cities-v2.webp",
     coords: [18.0911, 51.7611],
-    coordinates: { lat: 51.7611, lng: 18.0911 },
+    coords: [18.0911, 51.7611],
     description: {
       de: "Kalisz gilt als die älteste Stadt Polens und liegt an der Prosna. Sie hat eine reiche Geschichte, die bis in die Römerzeit zurückreicht.",
       hu: "Kalisz Lengyelország legrégebbi városának számít, a Prosna folyó mentén fekszik. Gazdag történelme a római időkig nyúlik vissza.",
@@ -1304,7 +1304,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Liegnitz", hu: "Legnica", ro: "Legnica", en: "Legnica"},
     image: "/poi-images/poland-legnica-cities-v2.webp",
     coords: [16.1553, 51.207],
-    coordinates: { lat: 51.207, lng: 16.1553 },
+    coords: [16.1553, 51.207],
     description: {
       de: "Legnica liegt in Niederschlesien und ist ein Zentrum der Kupferindustrie. Die Stadt ist bekannt für ihre historische Burg und Parkanlagen.",
       hu: "Legnica Alsó-Sziléziában fekszik, a rézipar egyik központja. A város történelmi váráról és parkjairól ismert.",
@@ -1339,7 +1339,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Graudenz", hu: "Grudziądz", ro: "Grudziądz", en: "Grudziądz"},
     image: "/poi-images/poland-grudziadz-cities-v2.webp",
     coords: [18.7537, 53.4841],
-    coordinates: { lat: 53.4841, lng: 18.7537 },
+    coords: [18.7537, 53.4841],
     description: {
       de: "Grudziądz liegt an der unteren Weichsel. Die Stadt ist berühmt für ihre Kette von Backsteinspeichern am Flussufer, die eine einzigartige Silhouette bilden.",
       hu: "Grudziądz az alsó Visztula mentén fekszik. A város híres a folyóparti tégla magtárairól, amelyek egyedülálló sziluettet alkotnak.",
@@ -1374,7 +1374,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Jaworzno", hu: "Jaworzno", ro: "Jaworzno", en: "Jaworzno"},
     image: "/poi-images/poland-jaworzno-cities-v2.webp",
     coords: [19.2736, 50.205],
-    coordinates: { lat: 50.205, lng: 19.2736 },
+    coords: [19.2736, 50.205],
     description: {
       de: "Jaworzno liegt im Osten des oberschlesischen Ballungsraums. Die Stadt ist bekannt für ihre Energieerzeugung und Rekultivierung ehemaliger Steinbrüche.",
       hu: "Jaworzno a felső-sziléziai agglomeráció keleti részén található. Energiatermeléséről és a korábbi kőfejtők rekultivációjáról ismert.",
@@ -1409,7 +1409,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Stolp", hu: "Słupsk", ro: "Słupsk", en: "Słupsk"},
     image: "/poi-images/poland-slupsk-cities-v2.webp",
     coords: [17.0285, 54.4641],
-    coordinates: { lat: 54.4641, lng: 17.0285 },
+    coords: [17.0285, 54.4641],
     description: {
       de: "Słupsk liegt in Hinterpommern an der Stolpe. Die Stadt ist ein regionales Zentrum für Wirtschaft und Bildung nahe der Ostsee.",
       hu: "Słupsk Hátsó-Pomerániában, a Słupia folyó mentén fekszik. Gazdasági és oktatási központ a Balti-tenger közelében.",
@@ -1444,7 +1444,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Jastrzebie-Zdroj", hu: "Jastrzębie-Zdrój", ro: "Jastrzębie-Zdrój", en: "Jastrzębie-Zdrój"},
     image: "/poi-images/poland-jastrzebie-zdroj-cities-v2.webp",
     coords: [18.6019, 49.9544],
-    coordinates: { lat: 49.9544, lng: 18.6019 },
+    coords: [18.6019, 49.9544],
     description: {
       de: "Jastrzębie-Zdrój liegt im Süden Oberschlesiens. Ursprünglich ein Kurort, entwickelte sich die Stadt im 20. Jahrhundert zu einem Zentrum des Kohlebergbaus.",
       hu: "Jastrzębie-Zdrój Felső-Szilézia déli részén található. Eredetileg gyógyfürdő volt, majd a 20. században a szénbányászat központjává vált.",
@@ -1479,7 +1479,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Neu Sandez", hu: "Nowy Sącz", ro: "Nowy Sącz", en: "Nowy Sącz"},
     image: "/poi-images/poland-nowy-sacz-cities-v2.webp",
     coords: [20.6973, 49.6218],
-    coordinates: { lat: 49.6218, lng: 20.6973 },
+    coords: [20.6973, 49.6218],
     description: {
       de: "Nowy Sącz liegt in den Beskiden im Süden Polens. Die Stadt ist bekannt für ihre historische Altstadt und das ethnographische Freilichtmuseum.",
       hu: "Nowy Sącz a Beszkidekben fekszik, Lengyelország déli részén. Történelmi óvárosáról és néprajzi skanzenjéről ismert.",
@@ -1514,7 +1514,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Siedlce", hu: "Siedlce", ro: "Siedlce", en: "Siedlce"},
     image: "/poi-images/poland-siedlce-cities-v2.webp",
     coords: [22.2891, 52.1668],
-    coordinates: { lat: 52.1668, lng: 22.2891 },
+    coords: [22.2891, 52.1668],
     description: {
       de: "Siedlce liegt im Osten Polens und ist ein Bildungs- und Kulturzentrum der Region. Die Stadt besitzt einen prachtvollen klassizistischen Palast.",
       hu: "Siedlce Kelet-Lengyelországban fekszik, a régió oktatási és kulturális központja. A város egy pompás klasszicista palotával rendelkezik.",
@@ -1549,7 +1549,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Myslowitz", hu: "Mysłowice", ro: "Mysłowice", en: "Mysłowice"},
     image: "/poi-images/poland-myslowice-cities-v2.webp",
     coords: [19.136, 50.2415],
-    coordinates: { lat: 50.2415, lng: 19.136 },
+    coords: [19.136, 50.2415],
     description: {
       de: "Mysłowice liegt im oberschlesischen Industriegebiet. Die Stadt war historisch als Standort des Dreikaiserecks bekannt.",
       hu: "Mysłowice a felső-sziléziai iparvidéken található. Történelmileg a Három Császár Sarkának helyszíneként volt ismert.",
@@ -1584,7 +1584,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Konin", hu: "Konin", ro: "Konin", en: "Konin"},
     image: "/poi-images/poland-konin-cities-v2.webp",
     coords: [18.2512, 52.2235],
-    coordinates: { lat: 52.2235, lng: 18.2512 },
+    coords: [18.2512, 52.2235],
     description: {
       de: "Konin liegt an der Warthe in Zentralpolen. Die Stadt ist ein bedeutendes Zentrum für Braunkohlebergbau und Energieerzeugung.",
       hu: "Konin a Warta partján fekszik Közép-Lengyelországban. A város a barnaszén-bányászat és az energiatermelés jelentős központja.",
@@ -1619,7 +1619,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Schneidemühl", hu: "Piła", ro: "Piła", en: "Piła"},
     image: "/poi-images/poland-pila-cities-v2.webp",
     coords: [16.7381, 53.1511],
-    coordinates: { lat: 53.1511, lng: 16.7381 },
+    coords: [16.7381, 53.1511],
     description: {
       de: "Piła liegt im Nordwesten Polens an der Küddow. Die Stadt ist von Wäldern und Seen umgeben und ein regionales Industriezentrum.",
       hu: "Piła Északnyugat-Lengyelországban, a Gwda folyó mentén fekszik. Erdők és tavak veszik körül, regionális ipari központ.",
@@ -1654,7 +1654,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Petrikau", hu: "Piotrków Trybunalski", ro: "Piotrków Trybunalski", en: "Piotrków Trybunalski"},
     image: "/poi-images/poland-piotrkow-trybunalski-cities-v2.webp",
     coords: [19.7032, 51.4053],
-    coordinates: { lat: 51.4053, lng: 19.7032 },
+    coords: [19.7032, 51.4053],
     description: {
       de: "Piotrków Trybunalski ist eine historische Stadt in Zentralpolen. Sie war Sitz des Krontribunals und ein Ort wichtiger politischer Versammlungen.",
       hu: "Piotrków Trybunalski történelmi város Közép-Lengyelországban. A Koronabíróság székhelye és fontos politikai gyűlések helyszíne volt.",
@@ -1689,7 +1689,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Hohensalza", hu: "Inowrocław", ro: "Inowrocław", en: "Inowrocław"},
     image: "/poi-images/poland-inowroclaw-cities-v2.webp",
     coords: [18.2611, 52.7981],
-    coordinates: { lat: 52.7981, lng: 18.2611 },
+    coords: [18.2611, 52.7981],
     description: {
       de: "Inowrocław liegt in der Woiwodschaft Kujawien-Pommern. Die Stadt ist berühmt für ihre Gradierwerke und als bedeutender Kurort Polens.",
       hu: "Inowrocław a Kujávia-Pomerániai vajdaságban található. A város sólepárlóiról és Lengyelország jelentős gyógyüdülőhelyeként híres.",
@@ -1724,7 +1724,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Lüben", hu: "Lubin", ro: "Lubin", en: "Lubin"},
     image: "/poi-images/poland-lubin-cities-v2.webp",
     coords: [16.2, 51.4],
-    coordinates: { lat: 51.4, lng: 16.2 },
+    coords: [16.2, 51.4],
     description: {
       de: "Lubin liegt in Niederschlesien und ist weltweit bekannt als Zentrum der Kupferförderung. Die Stadt beherbergt den Hauptsitz von KGHM.",
       hu: "Lubin Alsó-Sziléziában található, világszerte a rézbányászat központjaként ismert. Itt van a KGHM vállalat székhelye.",
@@ -1759,7 +1759,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Ostrowo", hu: "Ostrów Wielkopolski", ro: "Ostrów Wielkopolski", en: "Ostrów Wielkopolski"},
     image: "/poi-images/poland-ostrow-wielkopolski-cities-v2.webp",
     coords: [17.8117, 51.655],
-    coordinates: { lat: 51.655, lng: 17.8117 },
+    coords: [17.8117, 51.655],
     description: {
       de: "Ostrów Wielkopolski ist eine Stadt in Großpolen. Sie ist ein bedeutender Eisenbahnknotenpunkt und bekannt für ihre Industrie.",
       hu: "Ostrów Wielkopolski nagy-lengyelországi város. Fontos vasúti csomópont és iparáról ismert.",
@@ -1794,7 +1794,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Suwalki", hu: "Suwałki", ro: "Suwałki", en: "Suwałki"},
     image: "/poi-images/poland-suwalki-cities-v2.webp",
     coords: [22.9308, 54.1119],
-    coordinates: { lat: 54.1119, lng: 22.9308 },
+    coords: [22.9308, 54.1119],
     description: {
       de: "Suwałki liegt im Nordosten Polens nahe der Grenze zu Litauen. Die Stadt ist als polnischer 'Kältepol' und für ihre Nähe zu Nationalparks bekannt.",
       hu: "Suwałki Északkelet-Lengyelországban, a litván határ közelében fekszik. A lengyel 'hidegpólusként' és a közeli nemzeti parkokról ismert.",
@@ -1829,7 +1829,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Stargard in Pommern", hu: "Stargard", ro: "Stargard", en: "Stargard"},
     image: "/poi-images/poland-stargard-cities-v2.webp",
     coords: [15.0449, 53.3384],
-    coordinates: { lat: 53.3384, lng: 15.0449 },
+    coords: [15.0449, 53.3384],
     description: {
       de: "Stargard liegt in Westpommern an der Ina. Die Stadt ist berühmt für ihre prachtvolle Backsteingotik und ihre gut erhaltenen Stadtbefestigungen.",
       hu: "Stargard Nyugat-Pomerániában, az Ina folyó mentén fekszik. A város pompás tégla-gótikájáról és jó állapotú városfalairól híres.",
@@ -1864,7 +1864,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Gnesen", hu: "Gniezno", ro: "Gniezno", en: "Gniezno"},
     image: "/poi-images/poland-gniezno-cities-v2.webp",
     coords: [17.5822, 52.5347],
-    coordinates: { lat: 52.5347, lng: 17.5822 },
+    coords: [17.5822, 52.5347],
     description: {
       de: "Gniezno ist die erste historische Hauptstadt Polens. Die Stadt ist das religiöse Zentrum des Landes und Wiege der polnischen Staatlichkeit.",
       hu: "Gniezno Lengyelország első történelmi fővárosa. A város az ország vallási központja és a lengyel államiság bölcsője.",
@@ -1899,7 +1899,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Ostrowiec Swietokrzyski", hu: "Ostrowiec Świętokrzyski", ro: "Ostrowiec Świętokrzyski", en: "Ostrowiec Świętokrzyski"},
     image: "/poi-images/poland-ostrowiec-swietokrzyski-cities-v2.webp",
     coords: [21.3853, 50.9311],
-    coordinates: { lat: 50.9311, lng: 21.3853 },
+    coords: [21.3853, 50.9311],
     description: {
       de: "Ostrowiec Świętokrzyski liegt am Fuße des Heiligkreuzgebirges. Die Stadt ist ein wichtiges Zentrum der Metallurgie und hat eine lange Industrietradition.",
       hu: "Ostrowiec Świętokrzyski a Szentkereszt-hegység lábánál fekszik. A kohászat jelentős központja, hosszú ipari múltra tekint vissza.",
@@ -1934,7 +1934,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Laurahütte", hu: "Siemianowice Śląskie", ro: "Siemianowice Śląskie", en: "Siemianowice Śląskie"},
     image: "/poi-images/poland-siemianowice-slaskie-cities-v2.webp",
     coords: [19.0261, 50.3014],
-    coordinates: { lat: 50.3014, lng: 19.0261 },
+    coords: [19.0261, 50.3014],
     description: {
       de: "Siemianowice Śląskie ist eine Stadt im oberschlesischen Industriegebiet. Sie ist bekannt für ihre Geschichte im Bergbau und in der Metallurgie.",
       hu: "Siemianowice Śląskie a felső-sziléziai iparvidéken található. Bányászati és kohászati múltjáról ismert.",
@@ -1969,7 +1969,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Glogau", hu: "Głogów", ro: "Głogów", en: "Głogów"},
     image: "/poi-images/poland-glogow-cities-v2.webp",
     coords: [16.0847, 51.6631],
-    coordinates: { lat: 51.6631, lng: 16.0847 },
+    coords: [16.0847, 51.6631],
     description: {
       de: "Głogów liegt an der Oder in Niederschlesien. Die Stadt ist ein wichtiges Zentrum der Kupferverhüttung und besitzt eine wiederaufgebaute Altstadt.",
       hu: "Głogów az Odera mentén fekszik Alsó-Sziléziában. A város a rézkohászat egyik központja, újjáépített óvárossal rendelkezik.",
@@ -2004,7 +2004,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Pabianice", hu: "Pabianice", ro: "Pabianice", en: "Pabianice"},
     image: "/poi-images/poland-pabianice-cities-v2.webp",
     coords: [19.3571, 51.6638],
-    coordinates: { lat: 51.6638, lng: 19.3571 },
+    coords: [19.3571, 51.6638],
     description: {
       de: "Pabianice liegt in Zentralpolen nahe Lodz. Die Stadt blickt auf eine lange Tradition in der Textil- und Pharmaindustrie zurück.",
       hu: "Pabianice Közép-Lengyelországban, Łódź közelében található. A város a textil- és gyógyszeripar hosszú hagyományaival rendelkezik.",
@@ -2039,7 +2039,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Zamosch", hu: "Zamość", ro: "Zamość", en: "Zamość"},
     image: "/poi-images/poland-zamosc-cities-v2.webp",
     coords: [23.25, 50.7167],
-    coordinates: { lat: 50.7167, lng: 23.25 },
+    coords: [23.25, 50.7167],
     description: {
       de: "Zamość ist eine einzigartige Renaissancestadt im Südosten Polens. Sie wurde im 16. Jh. als Planstadt nach italienischem Vorbild erbaut.",
       hu: "Zamość egyedülálló reneszánsz város Délkelet-Lengyelországban. A 16. században épült olasz mintájú tervezett városként.",
@@ -2074,7 +2074,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Lomscha", hu: "Łomża", ro: "Łomża", en: "Łomża"},
     image: "/poi-images/poland-lomza-cities-v2.webp",
     coords: [22.078, 53.178],
-    coordinates: { lat: 53.178, lng: 22.078 },
+    coords: [22.078, 53.178],
     description: {
       de: "Łomża liegt an der Narew im Nordosten Polens. Die Stadt ist ein wichtiges regionales Zentrum und bekannt für ihre historische Kathedrale.",
       hu: "Łomża a Narew folyó mentén fekszik Északkelet-Lengyelországban. Fontos regionális központ, történelmi székesegyházáról ismert.",
@@ -2109,7 +2109,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Chelm", hu: "Chełm", ro: "Chełm", en: "Chełm"},
     image: "/poi-images/poland-chelm-cities-v2.webp",
     coords: [23.4833, 51.1333],
-    coordinates: { lat: 51.1333, lng: 23.4833 },
+    coords: [23.4833, 51.1333],
     description: {
       de: "Chełm liegt im Osten Polens nahe der ukrainischen Grenze. Die Stadt ist berühmt für ihre einzigartigen Kreidekeller unter der Altstadt.",
       hu: "Chełm Kelet-Lengyelországban, az ukrán határ közelében fekszik. A város az óváros alatti egyedülálló kréta-pincéiről híres.",
@@ -2144,7 +2144,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Tomaschow-Masowien", hu: "Tomaszów Mazowiecki", ro: "Tomaszów Mazowiecki", en: "Tomaszów Mazowiecki"},
     image: "/poi-images/poland-tomaszow-mazowiecki-cities-v2.webp",
     coords: [20.0167, 51.5333],
-    coordinates: { lat: 51.5333, lng: 20.0167 },
+    coords: [20.0167, 51.5333],
     description: {
       de: "Tomaszów Mazowiecki liegt in Zentralpolen an der Pilica. Die Stadt ist bekannt für das Naturschutzgebiet 'Blaue Quellen' und ihre industrielle Vergangenheit.",
       hu: "Tomaszów Mazowiecki Közép-Lengyelországban, a Pilica folyó mentén fekszik. A 'Kék Források' természetvédelmi területéről és ipari múltjáról ismert.",
@@ -2179,7 +2179,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Stahlwille", hu: "Stalowa Wola", ro: "Stalowa Wola", en: "Stalowa Wola"},
     image: "/poi-images/poland-stalowa-wola-cities-v2.webp",
     coords: [22.05, 50.5833],
-    coordinates: { lat: 50.5833, lng: 22.05 },
+    coords: [22.05, 50.5833],
     description: {
       de: "Stalowa Wola liegt im Südosten Polens und wurde in den 1930er Jahren als Zentrum der Schwerindustrie erbaut. Sie ist geprägt von moderner Industriearchitektur.",
       hu: "Stalowa Wola Délkelet-Lengyelországban található, az 1930-as években épült a nehézipar központjaként. Modern ipari építészet jellemzi.",
@@ -2214,7 +2214,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Przemysl", hu: "Przemyśl", ro: "Przemyśl", en: "Przemyśl"},
     image: "/poi-images/poland-przemysl-cities-v2.webp",
     coords: [22.7667, 49.7833],
-    coordinates: { lat: 49.7833, lng: 22.7667 },
+    coords: [22.7667, 49.7833],
     description: {
       de: "Przemyśl liegt im Südosten Polens am San. Die Stadt ist bekannt für ihre reiche Geschichte, prachtvolle Kirchen und die mächtige Festung Przemyśl.",
       hu: "Przemyśl Délkelet-Lengyelországban, a San folyó mentén fekszik. Gazdag történelméről, pompás templomairól és hatalmas erődjéről ismert.",
@@ -2249,7 +2249,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Kandrzin-Cosel", hu: "Kędzierzyn-Koźle", ro: "Kędzierzyn-Koźle", en: "Kędzierzyn-Koźle"},
     image: "/poi-images/poland-kedzierzyn-kozle-cities-v2.webp",
     coords: [18.2167, 50.35],
-    coordinates: { lat: 50.35, lng: 18.2167 },
+    coords: [18.2167, 50.35],
     description: {
       de: "Kędzierzyn-Koźle liegt in Oberschlesien an der Oder. Die Stadt ist ein bedeutendes Zentrum der chemischen Industrie und besitzt einen großen Binnenhafen.",
       hu: "Kędzierzyn-Koźle Felső-Sziléziában, az Odera mentén fekszik. A vegyipar jelentős központja, nagy belvízi kikötővel rendelkezik.",
@@ -2284,7 +2284,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Mielec", hu: "Mielec", ro: "Mielec", en: "Mielec"},
     image: "/poi-images/poland-mielec-cities-v2.webp",
     coords: [21.4167, 50.2833],
-    coordinates: { lat: 50.2833, lng: 21.4167 },
+    coords: [21.4167, 50.2833],
     description: {
       de: "Mielec liegt im Südosten Polens und ist berühmt für seine Luftfahrtindustrie. Die Stadt beherbergt die älteste Sonderwirtschaftszone des Landes.",
       hu: "Mielec Délkelet-Lengyelországban fekszik, repülőgépiparáról híres. Itt található az ország legrégebbi különleges gazdasági övezete.",
@@ -2319,7 +2319,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Dirschau", hu: "Tczew", ro: "Tczew", en: "Tczew"},
     image: "/poi-images/poland-tczew-cities-v2.webp",
     coords: [18.7833, 54.0833],
-    coordinates: { lat: 54.0833, lng: 18.7833 },
+    coords: [18.7833, 54.0833],
     description: {
       de: "Tczew liegt an der Weichsel in Pommern. Die Stadt ist ein bedeutender Eisenbahnknotenpunkt und bekannt für ihre historischen Brücken.",
       hu: "Tczew a Visztula mentén fekszik Pomerániában. Fontos vasúti csomópont és történelmi hídjairól ismert.",
@@ -2354,7 +2354,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Belchatow", hu: "Bełchatów", ro: "Bełchatów", en: "Bełchatów"},
     image: "/poi-images/poland-belchatow-cities-v2.webp",
     coords: [19.3667, 51.3667],
-    coordinates: { lat: 51.3667, lng: 19.3667 },
+    coords: [19.3667, 51.3667],
     description: {
       de: "Bełchatów liegt in Zentralpolen. Die Stadt ist bekannt für das größte Braunkohlekraftwerk Europas und den dazugehörigen Tagebau.",
       hu: "Bełchatów Közép-Lengyelországban található. A város Európa legnagyobb barnaszén-tüzelésű erőművéről és a kapcsolódó külszíni bányáról ismert.",
@@ -2389,7 +2389,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Schweidnitz", hu: "Świdnica", ro: "Świdnica", en: "Świdnica"},
     image: "/poi-images/poland-swidnica-cities-v2.webp",
     coords: [16.4833, 50.8433],
-    coordinates: { lat: 50.8433, lng: 16.4833 },
+    coords: [16.4833, 50.8433],
     description: {
       de: "Świdnica liegt in Niederschlesien und ist berühmt für die Friedenskirche, ein UNESCO-Weltkulturerbe. Die Stadt hat eine prachtvolle Altstadt.",
       hu: "Świdnica Alsó-Sziléziában fekszik, a Béke-templomáról (UNESCO) híres. A városnak pompás óvárosa van.",
@@ -2424,7 +2424,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Bendzin", hu: "Będzin", ro: "Będzin", en: "Będzin"},
     image: "/poi-images/poland-bedzin-cities-v2.webp",
     coords: [19.1333, 50.325],
-    coordinates: { lat: 50.325, lng: 19.1333 },
+    coords: [19.1333, 50.325],
     description: {
       de: "Będzin liegt im oberschlesischen Ballungsraum und ist eine der ältesten Städte der Region. Sie ist bekannt für ihre mittelalterliche Burg.",
       hu: "Będzin a felső-sziléziai agglomerációban fekszik, a régió egyik legrégebbi városa. Középkori váráról ismert.",
@@ -2459,7 +2459,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Gieresch", hu: "Zgierz", ro: "Zgierz", en: "Zgierz"},
     image: "/poi-images/poland-zgierz-cities-v2.webp",
     coords: [19.4167, 51.85],
-    coordinates: { lat: 51.85, lng: 19.4167 },
+    coords: [19.4167, 51.85],
     description: {
       de: "Zgierz liegt in Zentralpolen und grenzt an Lodz. Die Stadt ist bekannt für ihr Viertel mit historischen Holzhäusern aus der Zeit der Weber.",
       hu: "Zgierz Közép-Lengyelországban, Łódź szomszédságában található. A város a takácsok idejéből származó történelmi faházas negyedéről ismert.",
@@ -2493,7 +2493,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Deutsch Piekar", hu: "Piekary Śląskie", ro: "Piekary Śląskie", en: "Piekary Śląskie"},
     image: "/poi-images/poland-piekary-slaskie-cities-v2.webp",
     coords: [18.95, 50.3833],
-    coordinates: { lat: 50.3833, lng: 18.95 },
+    coords: [18.95, 50.3833],
     description: {
       de: "Piekary Śląskie ist ein bedeutender Wallfahrtsort in Oberschlesien. Die Stadt ist bekannt für die Basilika der Jungfrau Maria und ihre Bergbautradition.",
       hu: "Piekary Śląskie jelentős zarándokhely Felső-Sziléziában. A város a Szűz Mária-bazilikáról és bányászati hagyományairól ismert.",
@@ -2528,7 +2528,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Ratibor", hu: "Racibórz", ro: "Racibórz", en: "Racibórz"},
     image: "/poi-images/poland-raciborz-cities-v2.webp",
     coords: [18.2167, 50.0833],
-    coordinates: { lat: 50.0833, lng: 18.2167 },
+    coords: [18.2167, 50.0833],
     description: {
       de: "Racibórz liegt an der Oder im Süden Polens. Die Stadt war einst die Hauptstadt eines bedeutenden schlesischen Fürstentums.",
       hu: "Racibórz az Odera mentén fekszik Lengyelország déli részén. A város egykor egy jelentős sziléziai hercegség fővárosa volt.",
@@ -2563,7 +2563,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Legionowo", hu: "Legionowo", ro: "Legionowo", en: "Legionowo"},
     image: "/poi-images/poland-legionowo-cities-v2.webp",
     coords: [20.9333, 52.4],
-    coordinates: { lat: 52.4, lng: 20.9333 },
+    coords: [20.9333, 52.4],
     description: {
       de: "Legionowo liegt nördlich von Warschau. Die Stadt ist eng mit der polnischen Militärgeschichte verbunden und ein wichtiger Wohnstandort.",
       hu: "Legionowo Varsótól északra található. A város szorosan kötődik a lengyel hadtörténethez, és jelentős lakóövezet.",
@@ -2598,7 +2598,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Sohrau", hu: "Żory", ro: "Żory", en: "Żory"},
     image: "/poi-images/poland-zory-cities-v2.webp",
     coords: [18.7, 50.05],
-    coordinates: { lat: 50.05, lng: 18.7 },
+    coords: [18.7, 50.05],
     description: {
       de: "Żory liegt in Oberschlesien und ist eine der ältesten Städte der Region. Sie ist bekannt für ihre Stadtmauern und das Feuerfest.",
       hu: "Żory Felső-Sziléziában található, a régió egyik legrégebbi városa. Városfalairól és a tűz ünnepéről ismert.",
@@ -2633,7 +2633,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Tarnowitz", hu: "Tarnowskie Góry", ro: "Tarnowskie Góry", en: "Tarnowskie Góry"},
     image: "/poi-images/poland-tarnowskie-gory-cities-v2.webp",
     coords: [18.85, 50.45],
-    coordinates: { lat: 50.45, lng: 18.85 },
+    coords: [18.85, 50.45],
     description: {
       de: "Tarnowskie Góry ist berühmt für seine historische Silbermine, die zum UNESCO-Welterbe gehört. Die Stadt liegt im Norden des schlesischen Ballungsraums.",
       hu: "Tarnowskie Góry híres történelmi ezüstbányájáról, amely az UNESCO Világörökség része. A sziléziai agglomeráció északi részén fekszik.",
@@ -2668,7 +2668,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Pruschkow", hu: "Pruszków", ro: "Pruszków", en: "Pruszków"},
     image: "/poi-images/poland-pruszkow-cities-v2.webp",
     coords: [20.8167, 52.1667],
-    coordinates: { lat: 52.1667, lng: 20.8167 },
+    coords: [20.8167, 52.1667],
     description: {
       de: "Pruszków liegt westlich von Warschau und ist Teil des Ballungsraums. Die Stadt hat eine bedeutende Industriegeschichte und einen großen Bahnhof.",
       hu: "Pruszków Varsótól nyugatra található, az agglomeráció része. Jelentős ipari múlttal és nagy vasútállomással rendelkezik.",
@@ -2703,7 +2703,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Ostrolenka", hu: "Ostrołęka", ro: "Ostrołęka", en: "Ostrołęka"},
     image: "/poi-images/poland-ostroleka-cities-v2.webp",
     coords: [21.5667, 53.0833],
-    coordinates: { lat: 53.0833, lng: 21.5667 },
+    coords: [21.5667, 53.0833],
     description: {
       de: "Ostrołęka liegt an der Narew im Nordosten Polens. Die Stadt ist ein wichtiges Zentrum für die Energie- und Papierindustrie.",
       hu: "Ostrołęka a Narew partján fekszik Északkelet-Lengyelországban. A város az energia- és papíripar fontos központja.",
@@ -2738,7 +2738,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Neumarkt", hu: "Nowy Targ", ro: "Nowy Targ", en: "Nowy Targ"},
     image: "/poi-images/poland-nowy-targ-cities-v2.webp",
     coords: [20.0333, 49.4833],
-    coordinates: { lat: 49.4833, lng: 20.0333 },
+    coords: [20.0333, 49.4833],
     description: {
       de: "Nowy Targ ist das historische Zentrum der Region Podhale am Fuße des Tatragebirges. Die Stadt ist berühmt für ihren traditionellen Handel.",
       hu: "Nowy Targ a Tátra lábánál fekvő Podhale régió történelmi központja. A város a hagyományos kereskedelméről híres.",
@@ -2773,7 +2773,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Saybusch", hu: "Żywiec", ro: "Żywiec", en: "Żywiec"},
     image: "/poi-images/poland-zywiec-cities-v2.webp",
     coords: [19.2, 49.6833],
-    coordinates: { lat: 49.6833, lng: 19.2 },
+    coords: [19.2, 49.6833],
     description: {
       de: "Żywiec liegt in den Beskiden am Żywiec-See. Die Stadt ist weltbekannt für ihre Brauerei und das historische Schloss der Habsburger.",
       hu: "Żywiec a Beszkidekben, a Żywieci-tó partján fekszik. A város világszerte ismert sörgyáráról és a Habsburgok történelmi kastélyáról.",
@@ -2808,7 +2808,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Rastenburg", hu: "Kętrzyn", ro: "Kętrzyn", en: "Kętrzyn"},
     image: "/poi-images/poland-ketrzyn-cities-v2.webp",
     coords: [21.3833, 54.0833],
-    coordinates: { lat: 54.0833, lng: 21.3833 },
+    coords: [21.3833, 54.0833],
     description: {
       de: "Kętrzyn liegt in Masuren und ist bekannt für seine Kreuzritterburg. In der Nähe befindet sich die Wolfsschanze, Hitlers ehemaliges Hauptquartier.",
       hu: "Kętrzyn Mazúriában található, lovagrendi váráról ismert. A közelben fekszik a Farkasodú, Hitler egykori főhadiszállása.",
@@ -2843,7 +2843,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Teschen", hu: "Cieszyn", ro: "Cieszyn", en: "Cieszyn"},
     image: "/poi-images/poland-cieszyn-cities-v2.webp",
     coords: [18.6333, 49.75],
-    coordinates: { lat: 49.75, lng: 18.6333 },
+    coords: [18.6333, 49.75],
     description: {
       de: "Cieszyn liegt an der Grenze zu Tschechien am Fluss Olsa. Die Stadt ist eine der ältesten in Schlesien und besitzt eine reiche habsburgische Geschichte.",
       hu: "Cieszyn a cseh határon, az Olza folyó mentén fekszik. Szilézia egyik legrégebbi városa, gazdag Habsburg-múlttal rendelkezik.",
@@ -2878,7 +2878,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Salzberg", hu: "Bochnia", ro: "Bochnia", en: "Bochnia"},
     image: "/poi-images/poland-bochnia-cities-v2.webp",
     coords: [20.4333, 49.9667],
-    coordinates: { lat: 49.9667, lng: 20.4333 },
+    coords: [20.4333, 49.9667],
     description: {
       de: "Bochnia ist eine der ältesten Städte Polens und berühmt für ihr Salzbergwerk, das zum UNESCO-Welterbe gehört.",
       hu: "Bochnia Lengyelország egyik legrégebbi városa, sóbányájáról híres, amely az UNESCO Világörökség része.",
@@ -2913,7 +2913,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Auschwitz", hu: "Oświęcim", ro: "Oświęcim", en: "Oświęcim"},
     image: "/poi-images/poland-oswiecim-cities-v2.webp",
     coords: [19.2333, 50.0333],
-    coordinates: { lat: 50.0333, lng: 19.2333 },
+    coords: [19.2333, 50.0333],
     description: {
       de: "Oświęcim liegt in Kleinpolen an der Weichsel. Die Stadt ist weltweit als Standort des ehemaligen deutschen Konzentrationslagers Auschwitz-Birkenau bekannt.",
       hu: "Oświęcim Kis-Lengyelországban, a Visztula mentén fekszik. A város világszerte az egykori náci koncentrációs tábor helyszíneként ismert.",
@@ -2948,7 +2948,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Augustow", hu: "Augustów", ro: "Augustów", en: "Augustów"},
     image: "/poi-images/poland-augustow-cities-v2.webp",
     coords: [22.9667, 53.85],
-    coordinates: { lat: 53.85, lng: 22.9667 },
+    coords: [22.9667, 53.85],
     description: {
       de: "Augustów liegt im Nordosten Polens und ist ein bekannter Kurort. Die Stadt ist berühmt für den Augustów-Kanal und die umliegenden Seen.",
       hu: "Augustów Északkelet-Lengyelországban található, ismert gyógyüdülőhely. A város az Augustówi-csatornáról és a környező tavakról híres.",
@@ -2983,7 +2983,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Marienwerder", hu: "Kwidzyn", ro: "Kwidzyn", en: "Kwidzyn"},
     image: "/poi-images/poland-kwidzyn-cities-v2.webp",
     coords: [18.9167, 53.7333],
-    coordinates: { lat: 53.7333, lng: 18.9167 },
+    coords: [18.9167, 53.7333],
     description: {
       de: "Kwidzyn liegt in Pommern und ist berühmt für seinen einzigartigen Schloss-Kathedralen-Komplex mit dem längsten Gdanisko-Turm.",
       hu: "Kwidzyn Pomerániában fekszik, egyedülálló vár-székesegyház együtteséről híres, amelyben a leghosszabb Gdanisko-torony található.",
@@ -3018,7 +3018,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Bunzlau", hu: "Bolesławiec", ro: "Bolesławiec", en: "Bolesławiec"},
     image: "/poi-images/poland-boleslawiec-cities-v2.webp",
     coords: [15.5667, 51.2667],
-    coordinates: { lat: 51.2667, lng: 15.5667 },
+    coords: [15.5667, 51.2667],
     description: {
       de: "Bolesławiec liegt in Niederschlesien und ist weltweit bekannt für seine handgefertigte Keramik mit den charakteristischen blauen Mustern.",
       hu: "Bolesławiec Alsó-Sziléziában található, világszerte kézzel készített kerámiáiról és jellegzetes kék mintáiról ismert.",
@@ -3053,7 +3053,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Marienburg", hu: "Malbork", ro: "Malbork", en: "Malbork"},
     image: "/poi-images/poland-malbork-cities-v2.webp",
     coords: [19.0333, 54.0333],
-    coordinates: { lat: 54.0333, lng: 19.0333 },
+    coords: [19.0333, 54.0333],
     description: {
       de: "Malbork liegt an der Nogat und beherbergt die Marienburg, die größte Backsteinburg der Welt und ein UNESCO-Weltkulturerbe.",
       hu: "Malbork a Nogat folyó mentén fekszik, itt található a Malborki vár, a világ legnagyobb téglaépítésű vára (UNESCO).",
@@ -3088,7 +3088,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Krossen", hu: "Krosno", ro: "Krosno", en: "Krosno"},
     image: "/poi-images/poland-krosno-cities-v2.webp",
     coords: [21.75, 49.6833],
-    coordinates: { lat: 49.6833, lng: 21.75 },
+    coords: [21.75, 49.6833],
     description: {
       de: "Krosno liegt im Südosten Polens und ist als Stadt des Glases bekannt. Die Stadt hat eine lange Tradition in der Glasherstellung und Ölförderung.",
       hu: "Krosno Délkelet-Lengyelországban fekszik, az 'üveg városaként' ismert. Hosszú hagyományokkal rendelkezik az üveggyártás és olajbányászat terén.",
@@ -3123,7 +3123,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Neisse", hu: "Nysa", ro: "Nysa", en: "Nysa"},
     image: "/poi-images/poland-nysa-cities-v2.webp",
     coords: [17.3333, 50.4833],
-    coordinates: { lat: 50.4833, lng: 17.3333 },
+    coords: [17.3333, 50.4833],
     description: {
       de: "Nysa liegt in Oberschlesien an der Glatzer Neiße. Die Stadt wird aufgrund ihrer prachtvollen Kirchen oft als 'schlesisches Rom' bezeichnet.",
       hu: "Nysa Felső-Sziléziában, a Glatzi-Neisse mentén fekszik. Pompás templomai miatt gyakran hívják 'sziléziai Rómának'.",
@@ -3158,7 +3158,7 @@ export const polandCitiesV2: POI[] = [
     name: { de: "Zakopane", hu: "Zakopane", ro: "Zakopane", en: "Zakopane"},
     image: "/poi-images/poland-zakopane-cities-v2.webp",
     coords: [19.95, 49.3],
-    coordinates: { lat: 49.3, lng: 19.95 },
+    coords: [19.95, 49.3],
     description: {
       de: "Zakopane ist die höchstgelegene Stadt Polens am Fuße der Hohen Tatra. Sie gilt als Winterhauptstadt des Landes und Zentrum der Goralenkultur.",
       hu: "Zakopane Lengyelország legmagasabban fekvő városa a Magas-Tátra lábánál. Az ország téli fővárosának és a gorál kultúra központjának tekintik.",
@@ -3191,7 +3191,7 @@ export const polandCitiesV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Sopot", hu: "Sopot", ro: "Sopot", en: "Sopot" },
-    coordinates: { lat: 54.4414, lng: 18.5601 },
+    coords: [18.5601, 54.4414],
     description: {
       de: "Ein beliebter Kurort an der Ostsee, der zusammen mit Danzig und Gdynia die Metropolregion Dreistadt bildet.",
       hu: "Népszerű tengerparti üdülőhely a Balti-tengernél, Gdańsk és Gdynia mellett a Hármasváros része.",
@@ -3223,7 +3223,7 @@ export const polandCitiesV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Sandomierz", hu: "Sandomierz", ro: "Sandomierz", en: "Sandomierz" },
-    coordinates: { lat: 50.6822, lng: 21.7513 },
+    coords: [21.7513, 50.6822],
     description: {
       de: "Eine historische königliche Stadt an der Weichsel, bekannt für eine der am besten erhaltenen Altstädte Polens.",
       hu: "Történelmi királyi város a Visztula partján, az ország egyik legépebben maradt óvárosával.",
@@ -3255,7 +3255,7 @@ export const polandCitiesV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Biała Podlaska", hu: "Biała Podlaska", ro: "Biała Podlaska", en: "Biała Podlaska" },
-    coordinates: { lat: 52.0333, lng: 23.1167 },
+    coords: [23.1167, 52.0333],
     description: {
       de: "Eine Stadt im Osten Polens, die historisch eng mit der mächtigen Adelsfamilie Radziwiłł verbunden ist.",
       hu: "Város Kelet-Lengyelországban, amely történelmileg a hatalmas Radziwiłł főúri családhoz kötődik.",
@@ -3287,7 +3287,7 @@ export const polandCitiesV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Chojnice", hu: "Chojnice", ro: "Chojnice", en: "Chojnice" },
-    coordinates: { lat: 53.6953, lng: 17.5567 },
+    coords: [17.5567, 53.6953],
     description: {
       de: "Eine Stadt im Norden Polens, die als Tor zum Nationalpark Tucheler Heide und zur Kaschubei gilt.",
       hu: "Város Észak-Lengyelországban, a Tuchola-erdő Nemzeti Park és a Kasubföld kapujaként ismert.",
@@ -3319,7 +3319,7 @@ export const polandCitiesV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Żary", hu: "Żary", ro: "Żary", en: "Żary" },
-    coordinates: { lat: 51.6375, lng: 15.1375 },
+    coords: [15.1375, 51.6375],
     description: {
       de: "Die größte Stadt im polnischen Teil der Oberlausitz, bekannt für ihre Textilgeschichte und Schlossanlagen.",
       hu: "Felső-Luzsica lengyel részének legnagyobb városa, híres textiliparáról és kastélyegyütteséről.",
@@ -3351,7 +3351,7 @@ export const polandCitiesV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Oleśnica", hu: "Oleśnica", ro: "Oleśnica", en: "Oleśnica" },
-    coordinates: { lat: 51.2117, lng: 17.3789 },
+    coords: [17.3789, 51.2117],
     description: {
       de: "Eine niederschlesische Stadt, die über Jahrhunderte Hauptstadt des Herzogtums Oels und Kulturzentrum war.",
       hu: "Alsó-sziléziai város, amely évszázadokon át az Oleśnicai Hercegség fővárosa és kulturális központja volt.",
@@ -3383,7 +3383,7 @@ export const polandCitiesV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Szczytno", hu: "Szczytno", ro: "Szczytno", en: "Szczytno" },
-    coordinates: { lat: 53.5622, lng: 20.9858 },
+    coords: [20.9858, 53.5622],
     description: {
       de: "Eine Stadt in der Masurischen Seenplatte, bekannt für die Ruinen einer Kreuzritterburg aus Sienkiewicz' Romanen.",
       hu: "Város a Mazuri-tóhátságban, amely a Sienkiewicz regényéből ismert keresztes lovagvár romjairól híres.",

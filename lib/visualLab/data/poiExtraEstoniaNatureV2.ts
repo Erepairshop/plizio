@@ -6,7 +6,7 @@ export const estoniaNatureV2: POI[] = [
     type: "forest",
     parent: "EE",
     name: { de: "Tuhu-Moor", hu: "Tuhu-láp", ro: "Mlaștina Tuhu", en: "Tuhu Bog" },
-    coordinates: { lat: 58.55, lng: 23.95 },
+    coords: [23.95, 58.55],
     description: {
       de: "Das Tuhu-Moor ist ein großes Feuchtgebiet im Westen Estlands. Es ist Teil des Naturschutzgebiets Tuhu-Kalli.",
       hu: "A Tuhu-láp egy nagy kiterjedésű vizes élőhely Észtország nyugati részén. A Tuhu-Kalli természetvédelmi terület része.",
@@ -38,7 +38,7 @@ export const estoniaNatureV2: POI[] = [
     type: "river",
     parent: "EE",
     name: { de: "Keila-Wasserfall", hu: "Keila-vízesés", ro: "Cascada Keila", en: "Keila Waterfall" },
-    coordinates: { lat: 59.237, lng: 24.32 },
+    coords: [24.32, 59.237],
     description: {
       de: "Der Keila-Wasserfall liegt am Fluss Keila im Harjumaa. Mit einer Höhe von sechs Metern ist er der drittgrößte Wasserfall Estlands.",
       hu: "A Keila-vízesés a Keila folyón található Harju megyében. Hat méteres magasságával Észtország harmadik legnagyobb vízesése.",
@@ -70,7 +70,7 @@ export const estoniaNatureV2: POI[] = [
     type: "lake",
     parent: "EE",
     name: { de: "Valgejärv-See", hu: "Valgejärv-tó", ro: "Lacul Valgejärv", en: "Valgejärv Lake" },
-    coordinates: { lat: 59.135, lng: 24.18 },
+    coords: [24.18, 59.135],
     description: {
       de: "Der Valgejärv-See ist ein kleiner, klarer See im Nationalpark Kõnnu Suursoo. Er liegt in einer hügeligen Waldlandschaft.",
       hu: "A Valgejärv-tó egy kis, tiszta vizű tó a Kõnnu Suursoo Nemzeti Parkban. Dombos, erdős tájon fekszik.",
@@ -102,7 +102,7 @@ export const estoniaNatureV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Piusa-Sandsteinhöhlen", hu: "Piusa-homokkőbarlangok", ro: "Peșterile de gresie Piusa", en: "Piusa Sandstone Caves" },
-    coordinates: { lat: 57.85, lng: 27.38 },
+    coords: [27.38, 57.85],
     description: {
       de: "Die Piusa-Sandsteinhöhlen entstanden durch den Abbau von Glassand. Heute bieten sie ein wichtiges Quartier für Fledermäuse.",
       hu: "A Piusa-homokkőbarlangok az üveghomok-bányászat során keletkeztek. Ma fontos téli szállást nyújtanak a denevéreknek.",
@@ -134,7 +134,7 @@ export const estoniaNatureV2: POI[] = [
     type: "river",
     parent: "EE",
     name: { de: "Nava-Fluss", hu: "Nava-folyó", ro: "Râul Nava", en: "Nava River" },
-    coordinates: { lat: 58.75, lng: 26.25 },
+    coords: [26.25, 58.75],
     description: {
       de: "Der Nava-Fluss fließt durch das zentrale Estland. Er ist bekannt für seine ruhigen Abschnitte und seine ökologische Bedeutung.",
       hu: "A Nava-folyó Közép-Észtországon keresztül folyik. Ismert nyugodt szakaszairól és ökológiai jelentőségéről.",
@@ -166,7 +166,7 @@ export const estoniaNatureV2: POI[] = [
     type: "river",
     parent: "EE",
     name: { de: "Pärnu-Fluss", hu: "Pärnu-folyó", ro: "Râul Pärnu", en: "Pärnu River" },
-    coordinates: { lat: 58.38, lng: 24.48 },
+    coords: [24.48, 58.38],
     description: {
       de: "Der Pärnu-Fluss ist einer der längsten Flüsse Estlands. Er mündet in die Bucht von Pärnu in der Ostsee.",
       hu: "A Pärnu-folyó Észtország egyik leghosszabb folyója. A Pärnu-öbölbe ömlik a Balti-tengeren.",
@@ -198,7 +198,7 @@ export const estoniaNatureV2: POI[] = [
     type: "forest",
     parent: "EE",
     name: { de: "Endla-Moor", hu: "Endla-láp", ro: "Mlaștina Endla", en: "Endla Mire" },
-    coordinates: { lat: 58.85, lng: 26.2 },
+    coords: [26.2, 58.85],
     description: {
       de: "Das Endla-Moor liegt in Zentralestland und ist ein bedeutendes Schutzgebiet. Es zeichnet sich durch seine zahlreichen Seen aus.",
       hu: "Az Endla-láp Közép-Észtországban található jelentős védett terület. Számos taváról híres.",
@@ -230,7 +230,7 @@ export const estoniaNatureV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Haanja-Hochland", hu: "Haanja-felföld", ro: "Podișul Haanja", en: "Haanja Upland" },
-    coordinates: { lat: 57.72, lng: 27.05 },
+    coords: [27.05, 57.72],
     description: {
       de: "Das Haanja-Hochland im Südosten Estlands ist die höchstgelegene Region des Landes. Es bietet eine sanfte Hügellandschaft.",
       hu: "Az észtországi Haanja-felföld az ország legmagasabban fekvő régiója. Szelíd dombvidék jellemzi.",
@@ -262,7 +262,7 @@ export const estoniaNatureV2: POI[] = [
     type: "lake",
     parent: "EE",
     name: { de: "Kollase-See", hu: "Kollase-tó", ro: "Lacul Kollase", en: "Kollase Lake" },
-    coordinates: { lat: 58.45, lng: 25.8 },
+    coords: [25.8, 58.45],
     description: {
       de: "Der Kollase-See ist ein kleiner, versteckter See in einem Waldgebiet. Er bietet Lebensraum für zahlreiche Vogelarten.",
       hu: "A Kollase-tó egy kicsi, rejtett tó egy erdős területen. Számos madárfajnak nyújt élőhelyet.",
@@ -294,7 +294,7 @@ export const estoniaNatureV2: POI[] = [
     type: "river",
     parent: "EE",
     name: { de: "Võhandu-Fluss", hu: "Võhandu-folyó", ro: "Râul Võhandu", en: "Võhandu River" },
-    coordinates: { lat: 58.1, lng: 27.4 },
+    coords: [27.4, 58.1],
     description: {
       de: "Der Võhandu-Fluss ist der längste Fluss Estlands, der vollständig im Land verläuft. Er mündet in den Peipussee.",
       hu: "A Võhandu-folyó Észtország leghosszabb folyója, amely teljes egészében az ország területén folyik. A Peipus-tóba ömlik.",
@@ -326,7 +326,7 @@ export const estoniaNatureV2: POI[] = [
     type: "forest",
     parent: "EE",
     name: { de: "Laeva-Moor", hu: "Laeva-láp", ro: "Mlaștina Laeva", en: "Laeva Bog" },
-    coordinates: { lat: 58.52, lng: 26.5 },
+    coords: [26.5, 58.52],
     description: {
       de: "Das Laeva-Moor liegt in der Nähe von Tartu. Es ist eine unberührte Moorlandschaft mit hoher ökologischer Vielfalt.",
       hu: "A Laeva-láp Tartu közelében fekszik. Érintetlen lápi táj, nagy ökológiai sokféleséggel.",
@@ -358,7 +358,7 @@ export const estoniaNatureV2: POI[] = [
     type: "river",
     parent: "EE",
     name: { de: "Jägala-Fluss", hu: "Jägala-folyó", ro: "Râul Jägala", en: "Jägala River" },
-    coordinates: { lat: 59.4, lng: 25.2 },
+    coords: [25.2, 59.4],
     description: {
       de: "Der Jägala-Fluss entspringt im Alutaguse-Hochland und mündet in den Finnischen Meerbusen. Er ist berühmt für seinen Wasserfall.",
       hu: "A Jägala-folyó az Alutaguse-felföldön ered és a Finn-öbölbe ömlik. Híres vízeséséről.",
@@ -390,7 +390,7 @@ export const estoniaNatureV2: POI[] = [
     type: "forest",
     parent: "EE",
     name: { de: "Sirgala-Wald", hu: "Sirgala-erdő", ro: "Pădurea Sirgala", en: "Sirgala Forest" },
-    coordinates: { lat: 59.2, lng: 27.8 },
+    coords: [27.8, 59.2],
     description: {
       de: "Der Sirgala-Wald befindet sich im Nordosten Estlands. Er ist Teil einer großen Waldregion mit wechselnder Vegetation.",
       hu: "A Sirgala-erdő Északkelet-Észtországban található. Egy nagy erdőrégió része, változatos növényzettel.",
@@ -422,7 +422,7 @@ export const estoniaNatureV2: POI[] = [
     type: "forest",
     parent: "EE",
     name: { de: "Kuresoo-Moor", hu: "Kuresoo-láp", ro: "Mlaștina Kuresoo", en: "Kuresoo Bog" },
-    coordinates: { lat: 58.4, lng: 25.1 },
+    coords: [25.1, 58.4],
     description: {
       de: "Das Kuresoo-Moor liegt im Nationalpark Soomaa. Es ist bekannt für seine weiten, offenen Moorflächen und Torfschichten.",
       hu: "A Kuresoo-láp a Soomaa Nemzeti Parkban fekszik. Híres hatalmas, nyílt lápi területeiről és tőzegrétegeiről.",

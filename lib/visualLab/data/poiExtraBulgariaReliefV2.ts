@@ -6,7 +6,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Zentral-Balkan-Kamm", hu: "Központi-Balkán-hegygerinc", ro: "Creasta Balcanilor Centrali", en: "Central Balkan Ridge" },
-    coordinates: { lat: 42.7167, lng: 24.9167 },
+    coords: [24.9167, 42.7167],
     description: {
       de: "Der Hauptkamm des Balkangebirges bildet die Wasserscheide zwischen der Donau und dem Ägäischen Meer. Er erstreckt sich quer durch das Zentrum Bulgariens.",
       hu: "A Balkán-hegység főgerince választóvonalat képez a Duna és az Égei-tenger vízgyűjtője között. Bulgária központi részén húzódik keresztül.",
@@ -38,7 +38,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Thrakisches Tiefland", hu: "Trák-alföld", ro: "Câmpia Traciei", en: "Thracian Lowland" },
-    coordinates: { lat: 42.15, lng: 25.5 },
+    coords: [25.5, 42.15],
     description: {
       de: "Das Thrakische Tiefland ist eine ausgedehnte Ebene im Südosten Bulgariens. Sie dient als wichtigstes landwirtschaftliches Anbaugebiet des Landes.",
       hu: "A Trák-alföld egy kiterjedt síkság Bulgária délkeleti részén. Az ország legfontosabb mezőgazdasági termelőterületének számít.",
@@ -70,7 +70,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Pirin-Hauptkamm", hu: "Pirin-hegygerinc", ro: "Creasta Munților Pirin", en: "Pirin Mountain Ridge" },
-    coordinates: { lat: 41.76, lng: 23.4 },
+    coords: [23.4, 41.76],
     description: {
       de: "Der Pirin-Hauptkamm ist geprägt von schroffen Granitgipfeln und glazialen Seen. Das Gebirge liegt im Südwesten Bulgariens.",
       hu: "A Pirin-hegygerincet meredek gránitcsúcsok és gleccsertavak jellemzik. A hegység Bulgária délnyugati részén helyezkedik el.",
@@ -102,7 +102,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Donauebene", hu: "Duna-menti-alföld", ro: "Câmpia Dunării", en: "Danubian Plain" },
-    coordinates: { lat: 43.5, lng: 25.0 },
+    coords: [25.0, 43.5],
     description: {
       de: "Die Donauebene erstreckt sich im Norden Bulgariens zwischen der Donau und dem Balkangebirge. Sie besteht hauptsächlich aus Lössplateaus.",
       hu: "A Duna-menti-alföld Bulgária északi részén, a Duna és a Balkán-hegység között húzódik. Főként löszfennsíkok alkotják.",
@@ -134,7 +134,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Rhodopen-Massiv", hu: "Rodope-hegység", ro: "Masivul Munților Rodopi", en: "Rhodope Massif" },
-    coordinates: { lat: 41.65, lng: 24.5 },
+    coords: [24.5, 41.65],
     description: {
       de: "Das Rhodopen-Massiv ist ein weitläufiges Gebirge im Süden Bulgariens und Griechenlands. Es ist bekannt für seine tiefen Flusstäler und Schluchten.",
       hu: "A Rodope-hegység egy kiterjedt hegylánc Bulgária és Görögország déli részén. Mély folyóvölgyeiről és kanyonjairól ismert.",
@@ -166,7 +166,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Belogradtschik-Felsen", hu: "Belogradcsiki-sziklák", ro: "Stâncile de la Belogradcik", en: "Belogradchik Rocks" },
-    coordinates: { lat: 43.62, lng: 22.68 },
+    coords: [22.68, 43.62],
     description: {
       de: "Die Belogradtschik-Felsen sind eine Gruppe bizarr geformter Sandsteinformationen im Nordwesten Bulgariens. Sie erheben sich steil aus dem Vorbalkangebirge.",
       hu: "A Belogradcsiki-sziklák bizarr formájú homokkőalakzatok csoportja Bulgária északnyugati részén. Meredeken emelkednek ki az Elő-Balkánból.",
@@ -198,7 +198,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Witoscha-Gebirge", hu: "Vitos-hegység", ro: "Munții Vitosha", en: "Vitosha Mountain" },
-    coordinates: { lat: 42.58, lng: 23.25 },
+    coords: [23.25, 42.58],
     description: {
       de: "Das Witoscha-Gebirge ist ein direkt an Sofia angrenzendes Vulkangebirge. Es ist ein beliebtes Naherholungsgebiet für die Hauptstadtbewohner.",
       hu: "A Vitos-hegység egy Szófia mellett közvetlenül fekvő vulkanikus hegység. Népszerű kikapcsolódási hely a fővárosiak számára.",
@@ -230,7 +230,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Kresna-Schlucht", hu: "Kreszna-szoros", ro: "Cheile Kresnei", en: "Kresna Gorge" },
-    coordinates: { lat: 41.8, lng: 23.15 },
+    coords: [23.15, 41.8],
     description: {
       de: "Die Kresna-Schlucht ist ein tiefer Einschnitt des Struma-Flusses durch das Pirin- und Malashevo-Gebirge. Sie ist ein bedeutender Korridor für die Biodiversität.",
       hu: "A Kreszna-szoros a Sztruma folyó mély bevágása a Pirin- és a Malasevo-hegység között. Fontos biodiverzitási folyosó.",
@@ -262,7 +262,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Sakar-Gebirge", hu: "Sakar-hegység", ro: "Munții Sakar", en: "Sakar Mountains" },
-    coordinates: { lat: 42.05, lng: 26.1 },
+    coords: [26.1, 42.05],
     description: {
       de: "Das Sakar-Gebirge ist ein sanftes Mittelgebirge im Südosten Bulgariens. Es zeichnet sich durch weite Wiesen und Eichenwälder aus.",
       hu: "A Sakar-hegység egy szelíd középhegység Bulgária délkeleti részén. Kiterjedt rétek és tölgyerdők jellemzik.",
@@ -294,7 +294,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Strandscha-Plateau", hu: "Sztrandzsa-fennsík", ro: "Podișul Strandzha", en: "Strandzha Plateau" },
-    coordinates: { lat: 42.15, lng: 27.5 },
+    coords: [27.5, 42.15],
     description: {
       de: "Das Strandscha-Gebirge ist eine bewaldete Hochebene nahe dem Schwarzen Meer. Es ist das größte zusammenhängende Waldgebiet Bulgariens.",
       hu: "A Sztrandzsa-hegység egy erdős fennsík a Fekete-tenger közelében. Bulgária legnagyobb egybefüggő erdőterülete.",
@@ -326,7 +326,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Osogowo-Gebirge", hu: "Oszogovói-hegység", ro: "Munții Osogovo", en: "Osogovo Mountains" },
-    coordinates: { lat: 42.18, lng: 22.5 },
+    coords: [22.5, 42.18],
     description: {
       de: "Das Osogowo-Gebirge liegt im äußersten Westen Bulgariens an der Grenze zu Nordmazedonien. Es ist geprägt von weiten Hochweiden.",
       hu: "Az Oszogovói-hegység Bulgária legnyugatibb részén fekszik, az észak-macedón határnál. Kiterjedt havasi legelők jellemzik.",
@@ -358,7 +358,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Nordhänge des Balkans", hu: "Északi-Balkán-lejtők", ro: "Versanții nordici ai Balcanilor", en: "Northern Balkan Slopes" },
-    coordinates: { lat: 43.1, lng: 24.0 },
+    coords: [24.0, 43.1],
     description: {
       de: "Die Nordhänge des Balkangebirges fallen sanft zur Donauebene ab. Dieses Gebiet ist bekannt für seine vielen Wasserquellen und karstigen Formationen.",
       hu: "A Balkán-hegység északi lejtői lassan ereszkednek a Duna-menti-alföld felé. Ez a terület számos vízforrásáról és karsztos formációjáról ismert.",
@@ -390,7 +390,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Wratsa-Karstplateau", hu: "Vraca-karsztfennsík", ro: "Platoul carstic Vrața", en: "Vratsa Karst Plateau" },
-    coordinates: { lat: 43.2, lng: 23.55 },
+    coords: [23.55, 43.2],
     description: {
       de: "Das Wratsa-Karstplateau beeindruckt durch riesige Kalksteinwände und tiefe Schluchten. Es ist ein Zentrum des bulgarischen Höhlenforschertourismus.",
       hu: "A Vraca-karsztfennsík hatalmas mészkőfalaival és mély szurdokaival nyűgöz le. A bulgáriai barlangászturizmus egyik központja.",
@@ -422,7 +422,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Mariza-Tal", hu: "Marica-völgy", ro: "Valea Marița", en: "Maritsa Valley" },
-    coordinates: { lat: 42.1, lng: 25.5 },
+    coords: [25.5, 42.1],
     description: {
       de: "Das Mariza-Tal ist die größte Tiefebene Bulgariens. Der Fluss Mariza bildet hier eine wichtige Lebensader für die Landwirtschaft.",
       hu: "A Marica-völgy Bulgária legnagyobb síksága. A Marica folyó itt fontos éltető eleme a mezőgazdaságnak.",
@@ -454,7 +454,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Arda-Mäander", hu: "Arda-kanyarulat", ro: "Meandrele râului Arda", en: "Arda River Meanders" },
-    coordinates: { lat: 41.6, lng: 25.3 },
+    coords: [25.3, 41.6],
     description: {
       de: "Die Arda-Mäander im Rhodopengebirge bilden eine spektakuläre Flusslandschaft. Die Windungen haben tiefe Canyons in das Gestein gegraben.",
       hu: "Az Arda-kanyarulat a Rodope-hegységben látványos folyóvölgyet alkot. A kanyarulatok mély kanyonokat vájtak a kőzetbe.",
@@ -486,7 +486,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Zentral-Balkan-Plateau", hu: "Központi-Balkán-fennsík", ro: "Podișul Balcanilor Centrali", en: "Central Balkan Plateau" },
-    coordinates: { lat: 42.75, lng: 24.5 },
+    coords: [24.5, 42.75],
     description: {
       de: "Das Zentral-Balkan-Plateau umfasst alpine Wiesenflächen auf großer Höhe. Es ist Teil des Zentralbalkan-Nationalparks.",
       hu: "A Központi-Balkán-fennsík nagy magasságú alpesi réteket foglal magában. A Központi-Balkán Nemzeti Park része.",
@@ -518,7 +518,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Jantra-Tal", hu: "Jantra-völgy", ro: "Valea râului Iantra", en: "Yantra River Valley" },
-    coordinates: { lat: 43.1, lng: 25.6 },
+    coords: [25.6, 43.1],
     description: {
       de: "Das Jantra-Tal schneidet sich tief in die hügelige Landschaft Nordbulgariens. Der Fluss bildet zahlreiche Windungen um Veliko Tarnovo.",
       hu: "A Jantra-völgy mélyen bevágódik Észak-Bulgária dombos tájába. A folyó számos kanyarulatot alkot Veliko Tarnovo körül.",
@@ -550,7 +550,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Pirin-Granitzone", hu: "Pirin-gránitzóna", ro: "Zona de granit din Pirin", en: "Pirin Granite Zone" },
-    coordinates: { lat: 41.75, lng: 23.42 },
+    coords: [23.42, 41.75],
     description: {
       de: "Die Pirin-Granitzone ist das Herzstück des Gebirges. Sie zeichnet sich durch extrem steile Wände und die höchsten Gipfel aus.",
       hu: "A Pirin-gránitzóna a hegység szíve. Rendkívül meredek falak és a legmagasabb csúcsok jellemzik.",
@@ -582,7 +582,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Struma-Tal", hu: "Sztruma-völgy", ro: "Valea râului Struma", en: "Struma River Valley" },
-    coordinates: { lat: 41.9, lng: 23.1 },
+    coords: [23.1, 41.9],
     description: {
       de: "Das Struma-Tal bildet eine der wichtigsten Nord-Süd-Verbindungen im Westen Bulgariens. Es durchquert diverse Gebirgszüge.",
       hu: "A Sztruma-völgy Bulgária nyugati részének egyik legfontosabb észak-déli összeköttetése. Számos hegyláncot szel át.",
@@ -614,7 +614,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Westliche Rhodopen", hu: "Nyugati-Rodope-hegység", ro: "Rodopii de Vest", en: "Western Rhodopes" },
-    coordinates: { lat: 41.7, lng: 24.0 },
+    coords: [24.0, 41.7],
     description: {
       de: "Die westlichen Rhodopen sind der höchste Teil des Gebirges. Sie zeichnen sich durch tiefe Täler und weite Nadelwälder aus.",
       hu: "A nyugati Rodope-hegység a hegység legmagasabb része. Mély völgyek és kiterjedt tűlevelű erdők jellemzik.",
@@ -646,7 +646,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Balkan-Karstgebirge", hu: "Balkán-karszthegység", ro: "Munții carstici Balcani", en: "Balkan Karst Mountains" },
-    coordinates: { lat: 43.0, lng: 24.3 },
+    coords: [24.3, 43.0],
     description: {
       de: "Im Balkangebirge finden sich bedeutende Karstgebiete mit zahlreichen Höhlen. Das Gestein ist vorwiegend Kalkstein.",
       hu: "A Balkán-hegységben jelentős karsztterületek találhatók számos barlanggal. A kőzet főként mészkő.",
@@ -678,7 +678,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Mesta-Tal", hu: "Mesztosz-völgy", ro: "Valea râului Mesta", en: "Mesta River Valley" },
-    coordinates: { lat: 41.6, lng: 23.8 },
+    coords: [23.8, 41.6],
     description: {
       de: "Das Mesta-Tal liegt zwischen den Gebirgen Pirin und Rhodopen. Es ist eine landschaftlich reizvolle Region im Süden Bulgariens.",
       hu: "A Mesztosz-völgy a Pirin- és a Rodope-hegység között fekszik. Bulgária déli részének festői régiója.",
@@ -710,7 +710,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Tundscha-Tal", hu: "Tundzsa-völgy", ro: "Valea râului Tundja", en: "Tundzha River Valley" },
-    coordinates: { lat: 42.4, lng: 26.5 },
+    coords: [26.5, 42.4],
     description: {
       de: "Das Tundscha-Tal ist eine weite Senke im Südosten Bulgariens. Es liegt zwischen dem Balkangebirge und den Sakar-Bergen.",
       hu: "A Tundzsa-völgy egy kiterjedt mélyföld Bulgária délkeleti részén. A Balkán-hegység és a Sakar-hegység között fekszik.",
@@ -742,7 +742,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Pirin-Vorberge", hu: "Pirin-előhegyek", ro: "Piemontul munților Pirin", en: "Pirin Foothills" },
-    coordinates: { lat: 41.8, lng: 23.3 },
+    coords: [23.3, 41.8],
     description: {
       de: "Die Pirin-Vorberge umgeben das Kernmassiv. Sie bestehen aus hügeligen Landschaften und dienen als Übergang zur Tiefebene.",
       hu: "A Pirin-előhegyek körülveszik a központi tömböt. Dombos tájak jellemzik, és átmenetet képeznek az alföld felé.",
@@ -774,7 +774,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Rhodopen-Plateau", hu: "Rodope-fennsík", ro: "Podișul Rodopi", en: "Rhodope Plateau" },
-    coordinates: { lat: 41.5, lng: 24.3 },
+    coords: [24.3, 41.5],
     description: {
       de: "Das Rhodopen-Plateau auf hoher Ebene bietet weite Flächen und eine alpine Umgebung. Es ist charakteristisch für die zentralen Rhodopen.",
       hu: "A Rodope-fennsík magas szinten terül el, kiterjedt területeket és alpesi környezetet kínál. A központi Rodope-hegységre jellemző.",
@@ -806,7 +806,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Balkan-Vorberge", hu: "Balkán-előhegyek", ro: "Piemontul Munților Balcani", en: "Balkan Foothills" },
-    coordinates: { lat: 43.15, lng: 24.8 },
+    coords: [24.8, 43.15],
     description: {
       de: "Die Balkan-Vorberge bilden den Übergang vom Balkangebirge zur Donauebene. Diese hügelige Region ist durch Weinbau geprägt.",
       hu: "A Balkán-előhegyek a Balkán-hegység és a Duna-menti-alföld közötti átmenetet képezik. Ezt a dombos régiót szőlőtermesztés jellemzi.",
@@ -838,7 +838,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Struma-Ebene", hu: "Sztruma-alföld", ro: "Câmpia Struma", en: "Struma Plain" },
-    coordinates: { lat: 41.55, lng: 23.2 },
+    coords: [23.2, 41.55],
     description: {
       de: "Die Struma-Ebene im Süden ist ein wichtiges Anbaugebiet. Das Klima begünstigt dort den Anbau von wärmeliebenden Kulturen.",
       hu: "A déli Sztruma-alföld fontos termesztési terület. Az éghajlat kedvez a melegkedvelő kultúrák termesztésének.",
@@ -870,7 +870,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Sredna Gora", hu: "Szredna Gora", ro: "Munții Sredna Gora", en: "Sredna Gora Mountains" },
-    coordinates: { lat: 42.4, lng: 24.5 },
+    coords: [24.5, 42.4],
     description: {
       de: "Das Sredna-Gora-Gebirge verläuft parallel zum Balkangebirge. Es ist ein mittelgroßes Gebirge in Zentralbulgarien.",
       hu: "A Szredna Gora-hegység a Balkán-hegységgel párhuzamosan húzódik. Közép-Bulgária egyik közepes méretű hegysége.",
@@ -902,7 +902,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Strandscha-Hauptkamm", hu: "Sztrandzsa-hegygerinc", ro: "Creasta Strandzha", en: "Strandzha Ridge" },
-    coordinates: { lat: 42.0, lng: 27.2 },
+    coords: [27.2, 42.0],
     description: {
       de: "Der Strandscha-Hauptkamm erstreckt sich durch den Südosten Bulgariens. Das Gebirge ist dicht bewaldet und hügelig.",
       hu: "A Sztrandzsa-hegygerinc Bulgária délkeleti részén húzódik. A hegység sűrűn erdős és dombos.",
@@ -934,7 +934,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Osogowo-Tal", hu: "Oszogovói-völgy", ro: "Valea Osogovo", en: "Osogovo Valley" },
-    coordinates: { lat: 42.1, lng: 22.4 },
+    coords: [22.4, 42.1],
     description: {
       de: "Das Osogowo-Tal bildet eine Senke in den westlichen Bergregionen Bulgariens. Es ist landschaftlich durch Wald und Weiden geprägt.",
       hu: "Az Oszogovói-völgy mélyföld Bulgária nyugati hegyvidéki régióiban. Tájilag erdők és legelők jellemzik.",
@@ -966,7 +966,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Balkan-Schluchten", hu: "Balkán-szurdokok", ro: "Cheile Balcanilor", en: "Balkan Gorges" },
-    coordinates: { lat: 42.8, lng: 24.0 },
+    coords: [24.0, 42.8],
     description: {
       de: "Die Schluchten im Balkangebirge sind tiefe Einschnitte durch die Bergmassive. Sie entstanden durch die Erosion der Flüsse.",
       hu: "A Balkán-hegység szurdokai mély bevágások a hegytömbökön keresztül. A folyók eróziója alakította ki őket.",
@@ -998,7 +998,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Rhodopen-Vorberge", hu: "Rodope-előhegyek", ro: "Piemontul Rodopi", en: "Rhodope Foothills" },
-    coordinates: { lat: 42.0, lng: 24.8 },
+    coords: [24.8, 42.0],
     description: {
       de: "Die Rhodopen-Vorberge liegen im Norden des Gebirges. Sie bilden einen hügeligen Übergang zur Thrakischen Tiefebene.",
       hu: "A Rodope-előhegyek a hegység északi részén fekszenek. Dombos átmenetet képeznek a Trák-alföld felé.",
@@ -1030,7 +1030,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Stara-Planina-Plateau", hu: "Sztara-Planina-fennsík", ro: "Podișul Stara Planina", en: "Stara Planina Plateau" },
-    coordinates: { lat: 42.7, lng: 24.2 },
+    coords: [24.2, 42.7],
     description: {
       de: "Das Stara-Planina-Plateau ist eine Hochfläche innerhalb des Balkangebirges. Es bietet weite Sicht über die umliegenden Gebirgszüge.",
       hu: "A Sztara Planina-fennsík egy magasföld a Balkán-hegységen belül. Széles kilátást nyújt a környező hegyláncokra.",
@@ -1062,7 +1062,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Pirin-Täler", hu: "Pirin-völgyek", ro: "Văile din Pirin", en: "Pirin Valleys" },
-    coordinates: { lat: 41.7, lng: 23.5 },
+    coords: [23.5, 41.7],
     description: {
       de: "Die Täler im Pirin-Gebirge sind oft tief und glazial geformt. Sie beherbergen zahlreiche Seen und Gebirgsbäche.",
       hu: "A Pirin-hegység völgyei gyakran mélyek és gleccserformáltak. Számos tavat és hegyi patakot rejtenek.",
@@ -1094,7 +1094,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Obere Struma-Schlucht", hu: "Felső-Sztruma-szoros", ro: "Cheile superioare ale râului Struma", en: "Upper Struma Gorge" },
-    coordinates: { lat: 42.2, lng: 22.9 },
+    coords: [22.9, 42.2],
     description: {
       de: "Die Obere Struma-Schlucht ist ein landschaftlich reizvoller Flussabschnitt in Westbulgarien. Sie trennt mehrere Gebirgszüge.",
       hu: "A Felső-Sztruma-szoros Nyugat-Bulgária festői folyószakasza. Több hegyláncot választ el.",
@@ -1126,7 +1126,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Rhodopen-Kamm", hu: "Rodope-hegygerinc", ro: "Creasta Munților Rodopi", en: "Rhodope Ridge" },
-    coordinates: { lat: 41.6, lng: 24.2 },
+    coords: [24.2, 41.6],
     description: {
       de: "Der Rhodopen-Kamm erstreckt sich als Gebirgsrücken im Süden des Landes. Er bildet die Grenze zu verschiedenen Regionen.",
       hu: "A Rodope-hegygerinc az ország déli részén húzódó hegylánc. Határvonalat képez a különböző régiók között.",
@@ -1158,7 +1158,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Balkan-Täler", hu: "Balkán-völgyek", ro: "Văile Balcanilor", en: "Balkan Valleys" },
-    coordinates: { lat: 42.8, lng: 24.8 },
+    coords: [24.8, 42.8],
     description: {
       de: "Die Täler des Balkangebirges sind oft durchzogen von Flüssen. Sie bieten fruchtbares Land inmitten der Bergwelt.",
       hu: "A Balkán-hegység völgyeit gyakran folyók szelik át. Termékeny földet kínálnak a hegyvilág közepén.",
@@ -1190,7 +1190,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Pirin-Plateau", hu: "Pirin-fennsík", ro: "Podișul Pirin", en: "Pirin Plateau" },
-    coordinates: { lat: 41.7, lng: 23.3 },
+    coords: [23.3, 41.7],
     description: {
       de: "Das Pirin-Plateau ist eine Hochfläche in den Pirin-Bergen. Es bietet einen außergewöhnlichen Blick auf die umliegenden Gipfel.",
       hu: "A Pirin-fennsík egy magasföld a Pirin-hegységben. Különleges kilátást nyújt a környező csúcsokra.",
@@ -1222,7 +1222,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Rhodopen-Schluchten", hu: "Rodope-szurdokok", ro: "Cheile Rodopilor", en: "Rhodope Gorges" },
-    coordinates: { lat: 41.5, lng: 24.4 },
+    coords: [24.4, 41.5],
     description: {
       de: "Die Rhodopen-Schluchten sind tiefe, spektakuläre Flusseinschnitte. Sie gehören zu den beeindruckendsten Naturschönheiten des Landes.",
       hu: "A Rodope-szurdokok mély, látványos folyóvölgyek. Az ország egyik leglenyűgözőbb természeti szépsége közé tartoznak.",
@@ -1254,7 +1254,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Stara-Planina-Kamm", hu: "Sztara-Planina-hegygerinc", ro: "Creasta Stara Planina", en: "Stara Planina Ridge" },
-    coordinates: { lat: 42.8, lng: 24.3 },
+    coords: [24.3, 42.8],
     description: {
       de: "Der Stara-Planina-Kamm ist der höchste Bereich des Balkangebirges. Er bildet ein weithin sichtbares Gebirgsband.",
       hu: "A Sztara Planina-hegygerinc a Balkán-hegység legmagasabb része. Messziről látható hegyi láncot képez.",
@@ -1286,7 +1286,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Osogowo-Hauptkamm", hu: "Oszogovói-főgerinc", ro: "Creasta Osogovo", en: "Osogovo Main Ridge" },
-    coordinates: { lat: 42.2, lng: 22.4 },
+    coords: [22.4, 42.2],
     description: {
       de: "Der Osogowo-Hauptkamm markiert die Grenze und bietet alpine Bedingungen. Er ist ein bedeutender Bergrücken im Westen.",
       hu: "Az Oszogovói-főgerinc jelzi a határt és alpesi körülményeket kínál. Jelentős hegygerinc nyugaton.",
@@ -1318,7 +1318,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Struma-Becken", hu: "Sztruma-medence", ro: "Bazinul Struma", en: "Struma Basin" },
-    coordinates: { lat: 42.0, lng: 23.0 },
+    coords: [23.0, 42.0],
     description: {
       de: "Das Struma-Becken ist eine ausgedehnte Senke, die vom Struma-Fluss entwässert wird. Die Region ist von Gebirgen umgeben.",
       hu: "A Sztruma-medence egy kiterjedt mélyföld, amelyet a Sztruma folyó vízelvezet. A régiót hegységek veszik körül.",
@@ -1350,7 +1350,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Balkan-Hochplateau", hu: "Balkán-fennsík", ro: "Podișul Balcanic înalt", en: "Balkan High Plateau" },
-    coordinates: { lat: 42.9, lng: 24.6 },
+    coords: [24.6, 42.9],
     description: {
       de: "Das Balkan-Hochplateau ist eine ebene Fläche in großer Höhe. Es zeichnet sich durch Graslandschaften aus.",
       hu: "A Balkán-fennsík egy nagy magasságban fekvő sík terület. Füves tájak jellemzik.",
@@ -1382,7 +1382,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Untere Rhodopen-Täler", hu: "Alsó-Rodope-völgyek", ro: "Văile inferioare ale Rodopilor", en: "Lower Rhodope Valleys" },
-    coordinates: { lat: 41.4, lng: 25.0 },
+    coords: [25.0, 41.4],
     description: {
       de: "Die unteren Täler in den Rhodopen liegen in tieferer Lage. Sie sind für ihre mildere Vegetation bekannt.",
       hu: "A Rodope-hegység alsó völgyei mélyebben fekszenek. Enyhébb növényzetükről ismertek.",
@@ -1414,7 +1414,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Stara-Planina-Täler", hu: "Sztara-Planina-völgyek", ro: "Văile Stara Planina", en: "Stara Planina Valleys" },
-    coordinates: { lat: 42.9, lng: 24.2 },
+    coords: [24.2, 42.9],
     description: {
       de: "Die Täler innerhalb der Stara Planina bieten Schutz und fruchtbares Land. Sie sind oft von steilen Hängen umgeben.",
       hu: "A Sztara Planina völgyei védelmet és termékeny földet kínálnak. Gyakran meredek lejtők veszik körül őket.",
@@ -1446,7 +1446,7 @@ export const bulgariaReliefV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Nördlicher Pirin-Kamm", hu: "Északi-Pirin-hegygerinc", ro: "Creasta Pirinului de Nord", en: "Northern Pirin Ridge" },
-    coordinates: { lat: 41.8, lng: 23.4 },
+    coords: [23.4, 41.8],
     description: {
       de: "Der nördliche Pirin-Kamm bietet eine spektakuläre Aussicht. Er ist bei Bergsteigern sehr beliebt.",
       hu: "Az északi Pirin-hegygerinc látványos kilátást kínál. Nagyon népszerű a hegymászók körében.",

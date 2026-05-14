@@ -6,7 +6,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "wildlife",
     parent: "BG",
     name: { de: "Zoo Sofia", hu: "Szófiai Állatkert", ro: "Grădina Zoologică din Sofia", en: "Sofia Zoo" },
-    coordinates: { lat: 42.6625, lng: 23.3139 },
+    coords: [23.3139, 42.6625],
     description: {
       de: "Der älteste und größte Zoo Bulgariens befindet sich am Fuße des Witoscha-Gebirges. Er beherbergt zahlreiche einheimische und exotische Tierarten.",
       hu: "Bulgária legrégebbi és legnagyobb állatkertje a Vitos-hegység lábánál található. Számos őshonos és egzotikus állatfajnak ad otthont.",
@@ -38,7 +38,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "park",
     parent: "BG",
     name: { de: "Botanischer Garten Baltschik", hu: "Balcsiki Botanikus Kert", ro: "Grădina Botanică Balcic", en: "Balchik Botanical Garden" },
-    coordinates: { lat: 43.4095, lng: 28.1611 },
+    coords: [28.1611, 43.4095],
     description: {
       de: "Dieser Garten ist berühmt für seine riesige Kakteensammlung und die Lage am Schwarzen Meer. Er ist Teil des architektonischen Parkkomplexes von Baltschik.",
       hu: "Ez a kert hatalmas kaktuszgyűjteményéről és a Fekete-tenger melletti elhelyezkedéséről híres. A balcsiki építészeti parkkomplexum része.",
@@ -70,7 +70,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "wildlife",
     parent: "BG",
     name: { de: "Biosphärenreservat Srebarna", hu: "Szrebarna Bioszféra-rezervátum", ro: "Rezervația Srebarna", en: "Srebarna Nature Reserve" },
-    coordinates: { lat: 44.1139, lng: 27.075 },
+    coords: [27.075, 44.1139],
     description: {
       de: "Das Srebarna-Reservat liegt an der Donau und ist ein bedeutendes Feuchtgebiet. Es dient als wichtiges Brutgebiet für zahlreiche Wasservogelarten.",
       hu: "A Szrebarna-rezervátum a Duna mellett fekszik, és jelentős vizes élőhely. Számos vízimadárfaj fontos költőhelyeként szolgál.",
@@ -102,7 +102,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "park",
     parent: "BG",
     name: { de: "Naturpark Witoscha", hu: "Vitos-hegység Natúrpark", ro: "Parcul Natural Vitoșa", en: "Vitosha Nature Park" },
-    coordinates: { lat: 42.5833, lng: 23.2333 },
+    coords: [23.2333, 42.5833],
     description: {
       de: "Der Naturpark liegt unmittelbar vor den Toren Sofias. Er ist das älteste Schutzgebiet auf der Balkanhalbinsel und ein beliebtes Erholungsziel.",
       hu: "A natúrpark közvetlenül Szófia kapuinál fekszik. Ez a Balkán-félsziget legrégebbi védett területe és kedvelt kirándulóhely.",
@@ -134,7 +134,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "park",
     parent: "BG",
     name: { de: "Naturpark Rusenski Lom", hu: "Ruszenszki Lom Natúrpark", ro: "Parcul Natural Rusenski Lom", en: "Rusenski Lom Nature Park" },
-    coordinates: { lat: 43.6167, lng: 26.0333 },
+    coords: [26.0333, 43.6167],
     description: {
       de: "Der Park schützt die Schluchten des Flusses Lom. Er bietet einzigartige Lebensräume für Felsenbewohner und diverse Vogelarten.",
       hu: "A park a Lom-folyó kanyonjait védi. Egyedülálló élőhelyeket kínál a sziklalakó állatoknak és különféle madárfajoknak.",
@@ -166,7 +166,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "forest",
     parent: "BG",
     name: { de: "Silkosia-Reservat", hu: "Szilkoszia Rezervátum", ro: "Rezervația Silkosia", en: "Silkosia Reserve" },
-    coordinates: { lat: 42.0667, lng: 27.75 },
+    coords: [27.75, 42.0667],
     description: {
       de: "Das älteste Biosphärenreservat Bulgariens schützt alte Eichen- und Buchenwälder im Strandscha-Gebirge. Es ist ein wichtiges Zentrum für tertiäre Arten.",
       hu: "Bulgária legrégebbi bioszféra-rezervátuma védi az ősi tölgy- és bükkerdőket a Sztrandzsa-hegységben. A harmadkori fajok fontos központja.",
@@ -198,7 +198,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "wildlife",
     parent: "BG",
     name: { de: "Bärenpark Beliza", hu: "Belicai Medvepark", ro: "Parcul Urșilor din Belitsa", en: "Belitsa Bear Park" },
-    coordinates: { lat: 42.0833, lng: 23.5667 },
+    coords: [23.5667, 42.0833],
     description: {
       de: "Dieser Park bietet ehemaligen Tanzbären ein naturnahes Zuhause. Er fungiert als Rettungsstation und Bildungszentrum für Tierschutz.",
       hu: "Ez a park természetközeli otthont nyújt volt táncoló medvéknek. Menedékhelyként és állatvédelmi oktatóközpontként működik.",
@@ -230,7 +230,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "park",
     parent: "BG",
     name: { de: "Naturpark Wrazanski Balkan", hu: "Vracsai-Balkán Natúrpark", ro: "Parcul Natural Balcanii Vraței", en: "Vrachanski Balkan Nature Park" },
-    coordinates: { lat: 43.1833, lng: 23.55 },
+    coords: [23.55, 43.1833],
     description: {
       de: "Dieser Park ist bekannt für seine beeindruckenden Karstformationen und steilen Klippen. Er bietet Lebensraum für seltene Vogelarten wie Wanderfalken.",
       hu: "Ez a park lenyűgöző karsztképződményeiről és meredek szikláiról ismert. Élőhelyet biztosít ritka madárfajoknak, például a vándorsólymoknak.",
@@ -262,7 +262,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "park",
     parent: "BG",
     name: { de: "Schwarzes Meer Küstenschutzgebiet", hu: "Fekete-tengeri Partvidéki Védett Terület", ro: "Arie Protejată Litoralul Mării Negre", en: "Black Sea Coast Protected Area" },
-    coordinates: { lat: 42.8667, lng: 27.8833 },
+    coords: [27.8833, 42.8667],
     description: {
       de: "Entlang der Schwarzmeerküste gibt es zahlreiche Schutzgebiete für Dünen und küstennahe Feuchtgebiete. Diese Bereiche sind essenziell für die Vogelmigration.",
       hu: "A Fekete-tenger partja mentén számos védett terület található a dűnék és a tengerparti vizes élőhelyek számára. Ezek a területek elengedhetetlenek a madárvonuláshoz.",
@@ -294,7 +294,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "forest",
     parent: "BG",
     name: { de: "Kalofer-Botanische Vielfalt", hu: "Kaloferi Botanikai Sokféleség", ro: "Diversitate Botanică Kalofer", en: "Kalofer Botanical Diversity" },
-    coordinates: { lat: 42.6167, lng: 24.9833 },
+    coords: [24.9833, 42.6167],
     description: {
       de: "In den höheren Lagen bei Kalofer finden sich einzigartige Hochgebirgsfloren. Das Gebiet ist Teil des Ökosystems des Zentralbalkan-Nationalparks.",
       hu: "A Kalofer melletti magasabb régiókban egyedülálló magashegyi flóra található. A terület a Központi-Balkán Nemzeti Park ökoszisztémájának része.",
@@ -326,7 +326,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "forest",
     parent: "BG",
     name: { de: "Deliorman-Waldgebiet", hu: "Deliorman Erdőség", ro: "Zona Forestieră Deliorman", en: "Deliorman Forest Area" },
-    coordinates: { lat: 43.5167, lng: 26.5 },
+    coords: [26.5, 43.5167],
     description: {
       de: "Das Deliorman-Gebiet im Nordosten Bulgariens ist eine ausgedehnte Waldregion. Es zeichnet sich durch seine reiche Mischwaldvegetation aus.",
       hu: "A Bulgária északkeleti részén fekvő Deliorman egy kiterjedt erdős régió. Gazdag vegyes erdőnövényzet jellemzi.",
@@ -358,7 +358,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "park",
     parent: "BG",
     name: { de: "Rosenpark Kazanlak", hu: "Kazanlaki Rózsakert", ro: "Parcul Rozelor din Kazanlak", en: "Rose Park Kazanlak" },
-    coordinates: { lat: 42.6167, lng: 25.4 },
+    coords: [25.4, 42.6167],
     description: {
       de: "Der Park im Herzen des Rosentals ist für seine enorme Vielfalt an Rosenarten bekannt. Er feiert die jahrhundertealte Tradition des Rosenanbaus.",
       hu: "A rózsák völgyének szívében található park az olajrózsa-fajok hatalmas választékáról ismert. A rózsatermesztés évszázados hagyományát ünnepli.",
@@ -390,7 +390,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "lake",
     parent: "BG",
     name: { de: "Pomorie-See", hu: "Pomoriei-tó", ro: "Lacul Pomorie", en: "Pomorie Lake" },
-    coordinates: { lat: 42.5667, lng: 27.6333 },
+    coords: [27.6333, 42.5667],
     description: {
       de: "Dieser hypersaline See ist ein wichtiges Schutzgebiet für Wasservögel. Er spielt eine zentrale Rolle im regionalen Ökosystem der Schwarzmeerküste.",
       hu: "Ez a hipersós tó a vízimadarak fontos védett területe. Központi szerepet játszik a Fekete-tenger partjának regionális ökoszisztémájában.",
@@ -422,7 +422,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "forest",
     parent: "BG",
     name: { de: "Kamtschija-Reservat", hu: "Kamcsija-rezervátum", ro: "Rezervația Kamchia", en: "Kamchia Reserve" },
-    coordinates: { lat: 43.0167, lng: 27.8833 },
+    coords: [27.8833, 43.0167],
     description: {
       de: "Dieses Reservat schützt den Auwald entlang der Mündung des Kamtschija-Flusses. Es ist eine einzigartige Naturzone an der nördlichen Schwarzmeerküste.",
       hu: "Ez a rezervátum a Kamcsija-folyó torkolata mentén lévő ártéri erdőt védi. Egyedülálló természetvédelmi terület az északi Fekete-tenger partján.",
@@ -454,7 +454,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "forest",
     parent: "BG",
     name: { de: "Wald von Bistritsa", hu: "Bisztrica Erdő", ro: "Pădurea Bistrița", en: "Bistritsa Forest" },
-    coordinates: { lat: 42.5833, lng: 23.4167 },
+    coords: [23.4167, 42.5833],
     description: {
       de: "Der Wald liegt an den Ausläufern des Witoscha-Gebirges. Er besteht primär aus Nadelwald und ist ein beliebtes Ziel für Naturerlebnisse.",
       hu: "Az erdő a Vitos-hegység lábánál fekszik. Főleg tűlevelű erdőből áll, és kedvelt célpont a természeti élményekhez.",
@@ -486,7 +486,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "park",
     parent: "BG",
     name: { de: "Naturpark Schar Planina", hu: "Sar-hegység Natúrpark", ro: "Parcul Natural Șar Planina", en: "Shar Planina Nature Park" },
-    coordinates: { lat: 42.1333, lng: 20.8 },
+    coords: [20.8, 42.1333],
     description: {
       de: "Dieses Schutzgebiet umfasst Teile des Schar-Gebirges und bewahrt eine reiche alpine Biodiversität. Es ist für seine unberührten Landschaften bekannt.",
       hu: "Ez a védett terület a Sar-hegység részeiből áll, és gazdag alpesi biodiverzitást őriz. Érintetlen tájairól ismert.",
@@ -518,7 +518,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "wildlife",
     parent: "BG",
     name: { de: "Teufelsrachen-Reservat", hu: "Ördögtorok Rezervátum", ro: "Rezervația Gâtlejul Diavolului", en: "Devil's Throat Reserve" },
-    coordinates: { lat: 41.6, lng: 24.3667 },
+    coords: [24.3667, 41.6],
     description: {
       de: "Das Reservat rund um die Teufelsrachen-Höhle bietet einzigartige unterirdische Lebensräume. Es ist ein bedeutendes geologisches und ökologisches Schutzgebiet.",
       hu: "Az Ördögtorok-barlang körüli rezervátum egyedülálló földalatti élőhelyeket kínál. Fontos geológiai és ökológiai védett terület.",
@@ -550,7 +550,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Jagodina-Karstgebiet", hu: "Jagodinai Karsztvidék", ro: "Zona Carstică Iagodina", en: "Yagodina Karst Area" },
-    coordinates: { lat: 41.6167, lng: 24.3333 },
+    coords: [24.3333, 41.6167],
     description: {
       de: "Dieses Gebiet in den Rhodopen ist durch komplexe Karstformen geprägt. Es beheimatet eine vielfältige Pflanzenwelt in den umliegenden Felswänden.",
       hu: "Ez a Rodope-hegységbeli terület komplex karsztformáiról ismert. Változatos növényvilágnak ad otthont a környező sziklafalak között.",
@@ -582,7 +582,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "park",
     parent: "BG",
     name: { de: "Naturpark Goldstrand", hu: "Aranyhomok Natúrpark", ro: "Parcul Natural Nisipurile de Aur", en: "Golden Sands Nature Park" },
-    coordinates: { lat: 43.2833, lng: 28.0333 },
+    coords: [28.0333, 43.2833],
     description: {
       de: "Der Park schützt einen bedeutenden Mischwald nahe der Küste bei Varna. Er bewahrt eine artenreiche Umgebung abseits der touristischen Strände.",
       hu: "A park a Várna melletti tengerpart közelében lévő jelentős vegyes erdőt védi. Fajgazdag környezetet őriz a turista strandoktól távol.",
@@ -614,7 +614,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Balkangebirge-Kamm", hu: "Balkán-hegység gerinc", ro: "Creasta Munților Balcani", en: "Balkan Mountains Ridge" },
-    coordinates: { lat: 42.7, lng: 25.0 },
+    coords: [25.0, 42.7],
     description: {
       de: "Der zentrale Kamm des Balkangebirges bildet eine wichtige biogeografische Barriere. Hier finden sich wertvolle alpine Wiesen und seltene Arten.",
       hu: "A Balkán-hegység központi gerince fontos biogeográfiai akadályt képez. Itt értékes alpesi legelők és ritka fajok találhatók.",
@@ -646,7 +646,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "river",
     parent: "BG",
     name: { de: "Mariza-Feuchtgebiete", hu: "Marica-vizes élőhelyek", ro: "Zonele Umede Maritsa", en: "Maritsa Wetlands" },
-    coordinates: { lat: 42.15, lng: 24.75 },
+    coords: [24.75, 42.15],
     description: {
       de: "Entlang des Flusses Mariza finden sich wichtige Auenlandschaften. Diese Gebiete dienen als wichtige Rastplätze für zahlreiche Zugvögel.",
       hu: "A Marica folyó mentén fontos ártéri tájak találhatók. Ezek a területek fontos pihenőhelyként szolgálnak számos vándormadár számára.",
@@ -678,7 +678,7 @@ export const bulgariaLifeV2: POI[] = [
     type: "forest",
     parent: "BG",
     name: { de: "Dobrudscha-Steppe", hu: "Dobrudzsai sztyeppe", ro: "Stepa Dobrogei", en: "Dobrudzha Steppe" },
-    coordinates: { lat: 43.7, lng: 28.0 },
+    coords: [28.0, 43.7],
     description: {
       de: "Diese Steppenlandschaft im Nordosten ist durch ihre spezifische Flora geprägt. Sie bietet Lebensraum für Tiere, die an trockenere Gebiete angepasst sind.",
       hu: "Ez az északkeleti sztyeppvidéket sajátos flórája jellemzi. Olyan állatoknak ad élőhelyet, amelyek alkalmazkodtak a szárazabb területekhez.",

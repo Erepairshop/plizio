@@ -39,7 +39,20 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
         "Generates over 70% of the country's electricity.",
         "Located on the Vakhsh River."
       ]
-    }, image: "/poi-images/nurek-hpp-economic-v2.webp"},
+    }, image: "/poi-images/nurek-hpp-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Nurek-Wasserkraftwerk in Tadschikistan ist eines der höchsten Staudämme der Welt. Es wurde 1972 fertiggestellt und hat eine installierte Leistung von 3.015 MW. Der Staudamm ist 300 Meter hoch und liegt am Wachsch-Fluss. Das Reservoir fasst 10,5 km³ Wasser. Das Kraftwerk liefert den Großteil des Stroms für Tadschikistan. Es war ein sowjetisches Prestigeprojekt und ist auch heute noch von großer wirtschaftlicher Bedeutung.",
+      hu: "A Nurek vízerőmű Tádzsikisztánban a világ egyik legmagasabb gátja. 1972-ben fejezték be, beépített teljesítménye 3015 MW. A gát 300 méter magas, a Vahsh folyón található. A víztározó 10,5 km³ vizet tárol. Az erőmű szolgáltatja Tádzsikisztán villamosenergia-termelésének nagy részét. Szovjet presztízsprojekt volt, és ma is nagy gazdasági jelentőséggel bír.",
+      ro: "Centrala hidroelectrică Nurek din Tadjikistan este unul dintre cei mai înalți baraje din lume. A fost finalizată în 1972 și are o capacitate instalată de 3.015 MW. Barajul are 300 de metri înălțime și este situat pe fluviul Vahsh. Rezervorul stochează 10,5 km³ de apă. Centrala furnizează cea mai mare parte a energiei electrice a Tadjikistanului. A fost un proiect de prestigiu sovietic și rămâne de mare importanță economică.",
+      en: "The Nurek Hydroelectric Power Plant in Tajikistan is one of the tallest dams in the world. Completed in 1972, it has an installed capacity of 3,015 MW. The dam is 300 meters high and located on the Vakhsh River. The reservoir holds 10.5 km³ of water. The plant supplies the majority of Tajikistan's electricity. It was a Soviet prestige project and remains economically vital.",
+    },
+    factsAdvanced: {
+      de: ["Die installierte Leistung beträgt 3.015 MW.", "Der Staudamm ist 300 Meter hoch.", "Der Bau dauerte von 1961 bis 1972.", "Das Reservoir hat ein Volumen von 10,5 km³.", "Die Turbinen erzeugen jährlich 11,2 TWh.", "Der Damm ist 1,7 Kilometer lang."],
+      hu: ["A beépített teljesítmény 3015 MW.", "A gát 300 méter magas.", "Az építkezés 1961-től 1972-ig tartott.", "A tározó térfogata 10,5 km³.", "A turbinák évente 11,2 TWh-t termelnek.", "A gát hossza 1,7 kilométer."],
+      ro: ["Capacitatea instalată este de 3.015 MW.", "Barajul are 300 de metri înălțime.", "Construcția a durat din 1961 până în 1972.", "Rezervorul are un volum de 10,5 km³.", "Turbinele produc 11,2 TWh anual.", "Barajul are 1,7 kilometri lungime."],
+      en: ["Installed capacity is 3,015 MW.", "The dam is 300 meters high.", "Construction lasted from 1961 to 1972.", "The reservoir volume is 10.5 km³.", "Turbines generate 11.2 TWh annually.", "The dam is 1.7 kilometers long."],
+    },
+  },
   {
     id: "rogun-hpp-economic-v2",
     type: "energy",

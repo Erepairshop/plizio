@@ -6,7 +6,7 @@ export const portugalNatureV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Marão", hu: "Serra do Marão", ro: "Serra do Marão", en: "Serra do Marão" },
-    coordinates: { lat: 41.25, lng: -7.95 },
+    coords: [-7.95, 41.25],
     description: {
       de: "Das Serra do Marão-Gebirge bildet eine natürliche Grenze zwischen dem Douro-Tal und dem Hinterland. Der Gipfel erreicht eine Höhe von 1.415 Metern über dem Meeresspiegel.",
       hu: "A Serra do Marão hegység természetes határt képez a Douro-völgy és a hátország között. A csúcs eléri az 1415 méteres tengerszint feletti magasságot.",
@@ -38,7 +38,7 @@ export const portugalNatureV2: POI[] = [
     type: "lake",
     parent: "PT",
     name: { de: "Lagoa da Pampilhosa", hu: "Lagoa da Pampilhosa", ro: "Lagoa da Pampilhosa", en: "Lagoa da Pampilhosa" },
-    coordinates: { lat: 40.09, lng: -7.94 },
+    coords: [-7.94, 40.09],
     description: {
       de: "Dieser See befindet sich in der zentralen Bergregion Portugals. Das Gewässer wird primär durch lokale Gebirgsquellen gespeist.",
       hu: "Ez a tó Portugália középső hegyvidékén található. A víztömeget elsősorban helyi hegyi források táplálják.",
@@ -70,7 +70,7 @@ export const portugalNatureV2: POI[] = [
     type: "river",
     parent: "PT",
     name: { de: "Rio Tâmega", hu: "Tâmega folyó", ro: "Râul Tâmega", en: "Tâmega River" },
-    coordinates: { lat: 41.17, lng: -8.11 },
+    coords: [-8.11, 41.17],
     description: {
       de: "Der Tâmega ist ein Fluss im Norden Portugals, der in Spanien entspringt. Er mündet bei Entre-os-Rios in den Douro.",
       hu: "A Tâmega egy folyó Portugália északi részén, amely Spanyolországban ered. Entre-os-Riosnál torkollik a Douro-folyóba.",
@@ -102,7 +102,7 @@ export const portugalNatureV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Lousã", hu: "Serra da Lousã", ro: "Serra da Lousã", en: "Serra da Lousã" },
-    coordinates: { lat: 40.08, lng: -8.15 },
+    coords: [-8.15, 40.08],
     description: {
       de: "Das Gebirge Serra da Lousã erstreckt sich über die Distrikte Coimbra und Leiria. Der Trevim ist mit 1.204 Metern der höchste Gipfel.",
       hu: "A Serra da Lousã hegység Coimbra és Leiria kerületeken húzódik. A Trevim a legmagasabb csúcsa 1204 méterrel.",
@@ -134,7 +134,7 @@ export const portugalNatureV2: POI[] = [
     type: "valley",
     parent: "PT",
     name: { de: "Paiva-Tal", hu: "Paiva-völgy", ro: "Valea râului Paiva", en: "Paiva River Valley" },
-    coordinates: { lat: 40.92, lng: -8.17 },
+    coords: [-8.17, 40.92],
     description: {
       de: "Das Tal des Paiva ist für seine unberührte Natur und steilen Schluchten bekannt. Der Fluss gilt als einer der saubersten in Europa.",
       hu: "A Paiva-völgy érintetlen természetéről és meredek szurdokairól ismert. A folyót Európa egyik legtisztább vízfolyásának tartják.",
@@ -166,7 +166,7 @@ export const portugalNatureV2: POI[] = [
     type: "forest",
     parent: "PT",
     name: { de: "Mata da Margaraça", hu: "Mata da Margaraça", ro: "Mata da Margaraça", en: "Mata da Margaraça" },
-    coordinates: { lat: 40.23, lng: -7.89 },
+    coords: [-7.89, 40.23],
     description: {
       de: "Dieses Waldgebiet gilt als eines der besterhaltenen Beispiele für mediterrane Laubwälder in Portugal. Es liegt im Schutzgebiet Serra do Açor.",
       hu: "Ez az erdőterület a mediterrán lomberdők egyik legjobban megőrzött példája Portugáliában. A Serra do Açor védett területen található.",
@@ -198,7 +198,7 @@ export const portugalNatureV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Maroi", hu: "Serra do Maroi", ro: "Serra do Maroi", en: "Serra do Maroi" },
-    coordinates: { lat: 41.53, lng: -8.02 },
+    coords: [-8.02, 41.53],
     description: {
       de: "Die Serra do Maroi befindet sich im Norden Portugals nahe der Stadt Fafe. Sie bietet eine hügelige Landschaft mit typischer Granitgeologie.",
       hu: "A Serra do Maroi Portugália északi részén, Fafe városa közelében található. Dombos tájat kínál tipikus gránitgeológiával.",
@@ -230,7 +230,7 @@ export const portugalNatureV2: POI[] = [
     type: "river",
     parent: "PT",
     name: { de: "Rio Vouga", hu: "Vouga folyó", ro: "Râul Vouga", en: "Vouga River" },
-    coordinates: { lat: 40.65, lng: -8.65 },
+    coords: [-8.65, 40.65],
     description: {
       de: "Der Vouga entspringt in der Serra da Lapa und mündet bei Aveiro in die Ria de Aveiro. Er durchquert fruchtbare landwirtschaftliche Zonen.",
       hu: "A Vouga a Serra da Lapa-ban ered és Aveironál torkollik a Ria de Aveiro-ba. Termékeny mezőgazdasági övezeteken halad át.",
@@ -262,7 +262,7 @@ export const portugalNatureV2: POI[] = [
     type: "lake",
     parent: "PT",
     name: { de: "Lagoa da Lapa", hu: "Lagoa da Lapa", ro: "Lagoa da Lapa", en: "Lagoa da Lapa" },
-    coordinates: { lat: 40.85, lng: -7.58 },
+    coords: [-7.58, 40.85],
     description: {
       de: "Die Lagoa da Lapa ist ein kleines Gewässer in der Serra da Lapa. Die Umgebung ist für ihre Ruhe und Granitformationen bekannt.",
       hu: "A Lagoa da Lapa egy kis víztömeg a Serra da Lapa-ban. A környék a nyugalmáról és gránitképződményeiről ismert.",
@@ -294,7 +294,7 @@ export const portugalNatureV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Caldeirão", hu: "Serra do Caldeirão", ro: "Serra do Caldeirão", en: "Serra do Caldeirão" },
-    coordinates: { lat: 37.33, lng: -7.95 },
+    coords: [-7.95, 37.33],
     description: {
       de: "Dieses Gebirge bildet eine natürliche Barriere zwischen der Algarve und dem Alentejo. Die Landschaft ist durch Schieferberge geprägt.",
       hu: "Ez a hegység természetes határt képez Algarve és Alentejo között. A tájat palahegyek jellemzik.",
@@ -326,7 +326,7 @@ export const portugalNatureV2: POI[] = [
     type: "valley",
     parent: "PT",
     name: { de: "Minho-Tal", hu: "Minho-völgy", ro: "Valea Minho", en: "Minho Valley" },
-    coordinates: { lat: 41.95, lng: -8.35 },
+    coords: [-8.35, 41.95],
     description: {
       de: "Das Minho-Tal bildet die nördliche Grenze zu Spanien. Die Region ist von üppiger Vegetation und Weinanbau geprägt.",
       hu: "A Minho-völgy alkotja az északi határt Spanyolországgal. A régiót buja növényzet és szőlőtermesztés jellemzi.",

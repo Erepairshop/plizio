@@ -6,7 +6,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Torni-Hügel", hu: "Torni-domb", ro: "Dealul Torni", en: "Torni Hill" },
-    coordinates: { lat: 57.7331, lng: 27.2497 },
+    coords: [27.2497, 57.7331],
     description: {
       de: "Der Torni-Hügel liegt im südöstlichen Teil Estlands im Kreis Võru. Er erhebt sich sanft über die umgebende agrarisch geprägte Landschaft.",
       hu: "A Torni-domb Észtország délkeleti részén, Võru megyében található. Enyhén emelkedik a környező mezőgazdasági táj fölé.",
@@ -38,7 +38,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kuhjavere-Plateau", hu: "Kuhjavere-fennsík", ro: "Podișul Kuhjavere", en: "Kuhjavere Plateau" },
-    coordinates: { lat: 58.5583, lng: 25.8667 },
+    coords: [25.8667, 58.5583],
     description: {
       de: "Das Kuhjavere-Plateau ist ein flaches topografisches Gebiet in der Region Viljandi. Es zeichnet sich durch weitläufige, ebene Flächen aus.",
       hu: "A Kuhjavere-fennsík egy lapos domborzati terület Viljandi régióban. Kiterjedt, sík felületek jellemzik.",
@@ -70,7 +70,7 @@ export const estoniaReliefV2: POI[] = [
     type: "peak",
     parent: "EE",
     name: { de: "Väike Munamägi", hu: "Väike Munamägi-csúcs", ro: "Vârful Väike Munamägi", en: "Väike Munamägi" },
-    coordinates: { lat: 57.7144, lng: 27.0544 },
+    coords: [27.0544, 57.7144],
     description: {
       de: "Väike Munamägi ist ein markanter Hügel im Haanja-Hochland. Er ist der zweithöchste Punkt im direkten Umfeld nach dem Suur Munamägi.",
       hu: "A Väike Munamägi a Haanja-felföld kiemelkedő dombja. A Suur Munamägi után ez a környék második legmagasabb pontja.",
@@ -102,7 +102,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kellamägi", hu: "Kellamägi-domb", ro: "Dealul Kellamägi", en: "Kellamägi" },
-    coordinates: { lat: 58.7522, lng: 26.2411 },
+    coords: [26.2411, 58.7522],
     description: {
       de: "Der Kellamägi ist eine natürliche Erhebung in Nordestland. Die Umgebung ist durch glaziale Ablagerungen und eiszeitliche Spuren geprägt.",
       hu: "A Kellamägi egy természetes kiemelkedés Észak-Észtországban. A környéket gleccserüledékek és jégkori nyomok jellemzik.",
@@ -134,7 +134,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Harjumägi", hu: "Harjumägi-lejtő", ro: "Panta Harjumägi", en: "Harjumägi" },
-    coordinates: { lat: 59.4356, lng: 24.7439 },
+    coords: [24.7439, 59.4356],
     description: {
       de: "Harjumägi ist eine künstlich modifizierte Erhebung im historischen Zentrum von Tallinn. Sie entstand durch Befestigungsanlagen der Stadtgeschichte.",
       hu: "A Harjumägi egy mesterségesen módosított domb Tallinn történelmi központjában. A város történelmének erődítményei alakították ki.",
@@ -166,7 +166,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kuremägi", hu: "Kuremägi-gerinc", ro: "Creasta Kuremägi", en: "Kuremägi" },
-    coordinates: { lat: 59.2089, lng: 27.5306 },
+    coords: [27.5306, 59.2089],
     description: {
       de: "Der Kuremägi ist ein Hügelzug im Kreis Ida-Viru. Er ist Standort eines bekannten Klosters und historisch von lokaler Bedeutung.",
       hu: "A Kuremägi egy dombvonulat Ida-Viru megyében. Egy ismert kolostor helyszíne, helyileg jelentős történelmi szereppel.",
@@ -198,7 +198,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Siimu-Mägi", hu: "Siimu-Mägi-domb", ro: "Dealul Siimu-Mägi", en: "Siimu-Mägi" },
-    coordinates: { lat: 58.4233, lng: 24.5122 },
+    coords: [24.5122, 58.4233],
     description: {
       de: "Siimu-Mägi ist ein kleiner Hügel im Westen Estlands. Die Gegend ist geprägt von landwirtschaftlicher Nutzung und kleinen Waldstücken.",
       hu: "A Siimu-Mägi egy kis domb Észtország nyugati részén. A környéket mezőgazdasági művelés és kis erdőfoltok jellemzik.",
@@ -230,7 +230,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Lääne-Valja-Ebene", hu: "Lääne-Valja-alföld", ro: "Câmpia Lääne-Valja", en: "Lääne-Valja Lowland" },
-    coordinates: { lat: 58.85, lng: 24.3167 },
+    coords: [24.3167, 58.85],
     description: {
       de: "Die Lääne-Valja-Ebene ist eine flache Niederung in Westestland. Das Gebiet zeichnet sich durch feuchte Wiesen und Entwässerungsgräben aus.",
       hu: "A Lääne-Valja-alföld egy sík mélyföld Nyugat-Észtországban. A területet nedves rétek és vízelvezető árkok jellemzik.",
@@ -262,7 +262,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Vahi-Mägi", hu: "Vahi-Mägi-domb", ro: "Dealul Vahi-Mägi", en: "Vahi-Mägi" },
-    coordinates: { lat: 58.4111, lng: 26.7456 },
+    coords: [26.7456, 58.4111],
     description: {
       de: "Vahi-Mägi ist eine Erhebung nahe Tartu. Die Hügelform ist ein typisches Beispiel für eine durch Gletscher geformte Moräne.",
       hu: "A Vahi-Mägi egy kiemelkedés Tartu közelében. A domb formája a gleccserek által képzett moréna tipikus példája.",
@@ -294,7 +294,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Koolimägi", hu: "Koolimägi-domb", ro: "Dealul Koolimägi", en: "Koolimägi" },
-    coordinates: { lat: 58.2033, lng: 25.5611 },
+    coords: [25.5611, 58.2033],
     description: {
       de: "Koolimägi ist ein kleiner Hügel in Zentralestland. Er liegt in einer Region, die für ihre vielen Seen und kleinen Moränenhügel bekannt ist.",
       hu: "A Koolimägi egy kis domb Közép-Észtországban. Olyan régióban fekszik, amely sok taváról és kis morénadombjáról ismert.",
@@ -326,7 +326,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Nime-Mägi", hu: "Nime-Mägi-domb", ro: "Dealul Nime-Mägi", en: "Nime-Mägi" },
-    coordinates: { lat: 58.3322, lng: 26.115 },
+    coords: [26.115, 58.3322],
     description: {
       de: "Der Nime-Mägi ist eine sanfte Erhebung in der Nähe von Viljandi. Er ist ein geographisches Merkmal, das typisch für den Übergangsbereich zum Hochland ist.",
       hu: "A Nime-Mägi egy enyhe kiemelkedés Viljandi közelében. Olyan földrajzi jellemző, amely tipikus a felföldek felé eső átmeneti zónában.",
@@ -358,7 +358,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Tuuliku-Mägi", hu: "Tuuliku-Mägi-domb", ro: "Dealul Tuuliku-Mägi", en: "Tuuliku-Mägi" },
-    coordinates: { lat: 59.31, lng: 24.81 },
+    coords: [24.81, 59.31],
     description: {
       de: "Tuuliku-Mägi ist ein prominenter Hügel nördlich von Tallinn. Er wurde historisch für die Errichtung von Windmühlen genutzt.",
       hu: "A Tuuliku-Mägi egy kiemelkedő domb Tallinntól északra. Történelmileg szélmalmok építésére használták.",
@@ -390,7 +390,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Oruvalla-Rücken", hu: "Oruvalla-gerinc", ro: "Creasta Oruvalla", en: "Oruvalla Ridge" },
-    coordinates: { lat: 59.255, lng: 24.9533 },
+    coords: [24.9533, 59.255],
     description: {
       de: "Der Oruvalla-Rücken ist eine längliche topographische Formation bei Rae. Er zeigt deutlich die Spuren eiszeitlicher Gletscherströme.",
       hu: "Az Oruvalla-gerinc egy elnyúló domborzati formáció Rae közelében. Világosan mutatja a jégkori gleccserfolyamok nyomait.",
@@ -422,7 +422,7 @@ export const estoniaReliefV2: POI[] = [
     type: "valley",
     parent: "EE",
     name: { de: "Suure-Oja-Senke", hu: "Suure-Oja-medence", ro: "Depresiunea Suure-Oja", en: "Suure-Oja Depression" },
-    coordinates: { lat: 58.15, lng: 25.21 },
+    coords: [25.21, 58.15],
     description: {
       de: "Die Suure-Oja-Senke ist eine Senke im Soomaa-Gebiet. Sie ist ein natürliches Becken, das oft durch Schmelzwasser überschwemmt wird.",
       hu: "A Suure-Oja-medence a Soomaa területén található mélyföld. Természetes medence, amelyet gyakran eláraszt az olvadékvíz.",
@@ -454,7 +454,7 @@ export const estoniaReliefV2: POI[] = [
     type: "peak",
     parent: "EE",
     name: { de: "Kivi-Mägi", hu: "Kivi-Mägi-csúcs", ro: "Vârful Kivi-Mägi", en: "Kivi-Mägi" },
-    coordinates: { lat: 58.98, lng: 25.32 },
+    coords: [25.32, 58.98],
     description: {
       de: "Kivi-Mägi ist eine felsige Erhebung in Zentralestland. Der Name deutet auf das steinige Relief hin, das für diese Gegend typisch ist.",
       hu: "A Kivi-Mägi egy sziklás kiemelkedés Közép-Észtországban. A név az e területre jellemző köves domborzatra utal.",
@@ -486,7 +486,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Silla-Mägi", hu: "Silla-Mägi-domb", ro: "Dealul Silla-Mägi", en: "Silla-Mägi" },
-    coordinates: { lat: 58.2567, lng: 26.54 },
+    coords: [26.54, 58.2567],
     description: {
       de: "Silla-Mägi ist ein kleiner Hügel im Tartumaa-Gebiet. Er stellt einen markanten Punkt in der ansonsten flachen Umgebung dar.",
       hu: "A Silla-Mägi egy kis domb a Tartumaa régióban. Jellegzetes pont az egyébként sík környéken.",
@@ -518,7 +518,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Palu-Mägi", hu: "Palu-Mägi-domb", ro: "Dealul Palu-Mägi", en: "Palu-Mägi" },
-    coordinates: { lat: 57.98, lng: 26.88 },
+    coords: [26.88, 57.98],
     description: {
       de: "Palu-Mägi ist eine Erhebung im hügeligen Süden Estlands. Der Boden besteht überwiegend aus sandigen Moränenmaterialien.",
       hu: "A Palu-Mägi egy kiemelkedés a dombos Dél-Észtországban. A talaj főként homokos morénaanyagokból áll.",
@@ -550,7 +550,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Linna-Mägi", hu: "Linna-Mägi-domb", ro: "Dealul Linna-Mägi", en: "Linna-Mägi" },
-    coordinates: { lat: 59.1, lng: 26.35 },
+    coords: [26.35, 59.1],
     description: {
       de: "Linna-Mägi ist ein Hügel mit historischer Bedeutung in Zentralnordestland. Oft wurden solche Erhebungen für frühe Befestigungen genutzt.",
       hu: "A Linna-Mägi egy történelmi jelentőségű domb Közép-Észak-Észtországban. Az ilyen kiemelkedéseket gyakran korai erődítményekhez használták.",
@@ -582,7 +582,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Must-Mägi", hu: "Must-Mägi-domb", ro: "Dealul Must-Mägi", en: "Must-Mägi" },
-    coordinates: { lat: 58.21, lng: 26.85 },
+    coords: [26.85, 58.21],
     description: {
       de: "Must-Mägi ist eine kleine Erhebung bei Tartu. Der Name leitet sich von dem dunklen Boden ab, der in dieser Senkenregion vorherrscht.",
       hu: "A Must-Mägi egy kis kiemelkedés Tartu közelében. A név a sötét talajból ered, amely ebben a mélyedéses régióban dominál.",
@@ -614,7 +614,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Poti-Mägi", hu: "Poti-Mägi-domb", ro: "Dealul Poti-Mägi", en: "Poti-Mägi" },
-    coordinates: { lat: 58.05, lng: 27.2 },
+    coords: [27.2, 58.05],
     description: {
       de: "Poti-Mägi ist ein kleiner Hügel im Südosten. Er bildet einen Teil der welligen Landschaft, die den Peipussee umgibt.",
       hu: "A Poti-Mägi egy kis domb a délkeleti részen. A Peipus-tavat körülvevő hullámos táj része.",
@@ -646,7 +646,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Lepa-Mägi", hu: "Lepa-Mägi-domb", ro: "Dealul Lepa-Mägi", en: "Lepa-Mägi" },
-    coordinates: { lat: 59.05, lng: 26.15 },
+    coords: [26.15, 59.05],
     description: {
       de: "Lepa-Mägi ist eine sanfte Erhebung im Norden. Er ist typisch für die bewaldete Endmoränenlandschaft der Region.",
       hu: "A Lepa-Mägi egy enyhe kiemelkedés északon. Tipikus a régió erdős végmoréna tájára.",
@@ -678,7 +678,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kruusa-Mägi", hu: "Kruusa-Mägi-domb", ro: "Dealul Kruusa-Mägi", en: "Kruusa-Mägi" },
-    coordinates: { lat: 58.35, lng: 25.4 },
+    coords: [25.4, 58.35],
     description: {
       de: "Kruusa-Mägi ist eine kieshaltige Erhebung in Zentralland. Der Name deutet auf das Vorkommen von Kies hin, welches oft abgebaut wurde.",
       hu: "A Kruusa-Mägi egy kavicsos kiemelkedés a központi területen. A név a kavics jelenlétére utal, amelyet gyakran bányásztak.",
@@ -710,7 +710,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Vana-Mägi", hu: "Vana-Mägi-domb", ro: "Dealul Vana-Mägi", en: "Vana-Mägi" },
-    coordinates: { lat: 58.7, lng: 26.6 },
+    coords: [26.6, 58.7],
     description: {
       de: "Vana-Mägi ist ein markanter Hügel im Landesinneren. Er wird oft als Orientierungspunkt in der weitläufigen, flachen Landschaft genutzt.",
       hu: "A Vana-Mägi egy jellegzetes domb a szárazföld belsejében. Gyakran használják tájékozódási pontként a kiterjedt, sík tájban.",
@@ -742,7 +742,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Liiva-Mägi", hu: "Liiva-Mägi-gerinc", ro: "Creasta Liiva-Mägi", en: "Liiva-Mägi" },
-    coordinates: { lat: 59.2, lng: 24.5 },
+    coords: [24.5, 59.2],
     description: {
       de: "Liiva-Mägi ist ein sandiger Hügelzug nahe Tallinn. Die Struktur ist das Ergebnis eiszeitlicher glazialer Ablagerungen in der Küstenregion.",
       hu: "A Liiva-Mägi egy homokos dombvonulat Tallinn közelében. A szerkezet a parti régió jégkori gleccserüledékeinek eredménye.",
@@ -774,7 +774,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kadaka-Mägi", hu: "Kadaka-Mägi-domb", ro: "Dealul Kadaka-Mägi", en: "Kadaka-Mägi" },
-    coordinates: { lat: 58.5, lng: 24.2 },
+    coords: [24.2, 58.5],
     description: {
       de: "Kadaka-Mägi ist eine Anhöhe an der Westküste. Der Name leitet sich von den dort häufig vorkommenden Wacholderbüschen ab.",
       hu: "A Kadaka-Mägi egy magaslat a nyugati parton. A név az ott gyakran előforduló borókabokrokról származik.",
@@ -806,7 +806,7 @@ export const estoniaReliefV2: POI[] = [
     type: "peak",
     parent: "EE",
     name: { de: "Suure-Mägi", hu: "Suure-Mägi-csúcs", ro: "Vârful Suure-Mägi", en: "Suure-Mägi" },
-    coordinates: { lat: 57.85, lng: 26.5 },
+    coords: [26.5, 57.85],
     description: {
       de: "Suure-Mägi ist eine Erhebung im südlichen Hochland. Er ist Teil eines komplexen Systems aus miteinander verbundenen Moränenhügeln.",
       hu: "A Suure-Mägi egy kiemelkedés a déli felföldön. Az egymással összekapcsolt morénadombok összetett rendszerének része.",
@@ -838,7 +838,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kool-Mägi", hu: "Kool-Mägi-domb", ro: "Dealul Kool-Mägi", en: "Kool-Mägi" },
-    coordinates: { lat: 58.95, lng: 26.4 },
+    coords: [26.4, 58.95],
     description: {
       de: "Kool-Mägi ist eine sanfte Erhebung im zentralen Norden. Die Umgebung ist durch ländliche Strukturen und kleine Waldgebiete gekennzeichnet.",
       hu: "A Kool-Mägi egy enyhe kiemelkedés észak-középen. A környéket vidéki szerkezetek és kis erdőterületek jellemzik.",
@@ -870,7 +870,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Pae-Mägi", hu: "Pae-Mägi-domb", ro: "Dealul Pae-Mägi", en: "Pae-Mägi" },
-    coordinates: { lat: 59.35, lng: 24.85 },
+    coords: [24.85, 59.35],
     description: {
       de: "Pae-Mägi ist ein Kalksteinhügel nahe Tallinn. Die geologische Struktur zeigt die für die Region typische Kalkstein-Formation.",
       hu: "A Pae-Mägi egy mészkődomb Tallinn közelében. A geológiai szerkezet a régióra jellemző mészkőképződményeket mutatja.",
@@ -902,7 +902,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Oja-Mägi", hu: "Oja-Mägi-domb", ro: "Dealul Oja-Mägi", en: "Oja-Mägi" },
-    coordinates: { lat: 58.12, lng: 25.8 },
+    coords: [25.8, 58.12],
     description: {
       de: "Oja-Mägi ist eine Erhebung an einem Bachlauf im Süden. Die Form ist stark durch eiszeitliche Erosionsprozesse geprägt.",
       hu: "Az Oja-Mägi egy kiemelkedés egy déli patak mentén. A formát erősen alakították a jégkori eróziós folyamatok.",
@@ -934,7 +934,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kruusa-Rida-Rücken", hu: "Kruusa-Rida-gerinc", ro: "Creasta Kruusa-Rida", en: "Kruusa-Rida Ridge" },
-    coordinates: { lat: 58.45, lng: 26.2 },
+    coords: [26.2, 58.45],
     description: {
       de: "Der Kruusa-Rida-Rücken ist eine längliche Formation aus Kies und Sand. Er erstreckt sich durch eine flache Agrarlandschaft.",
       hu: "A Kruusa-Rida-gerinc egy kavicsból és homokból álló elnyúló képződmény. Áthúzódik egy sík mezőgazdasági tájon.",
@@ -966,7 +966,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Aasa-Mägi", hu: "Aasa-Mägi-domb", ro: "Dealul Aasa-Mägi", en: "Aasa-Mägi" },
-    coordinates: { lat: 58.88, lng: 25.1 },
+    coords: [25.1, 58.88],
     description: {
       de: "Aasa-Mägi ist ein kleiner Hügel nahe einer Wiese in Zentralland. Der Boden ist hier fruchtbar und landwirtschaftlich intensiv genutzt.",
       hu: "Az Aasa-Mägi egy kis domb egy rét közelében a központi területen. A talaj itt termékeny és mezőgazdaságilag intenzíven művelt.",
@@ -998,7 +998,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Valge-Mägi", hu: "Valge-Mägi-domb", ro: "Dealul Valge-Mägi", en: "Valge-Mägi" },
-    coordinates: { lat: 59.15, lng: 26.8 },
+    coords: [26.8, 59.15],
     description: {
       de: "Valge-Mägi ist eine helle, sandige Erhebung im Nordosten. Der Name deutet auf die helle Farbe des sandigen Untergrunds hin.",
       hu: "A Valge-Mägi egy világos, homokos kiemelkedés északkeleten. A név a homokos alapkőzet világos színére utal.",
@@ -1030,7 +1030,7 @@ export const estoniaReliefV2: POI[] = [
     type: "valley",
     parent: "EE",
     name: { de: "Kruusa-Org-Tal", hu: "Kruusa-Org-völgy", ro: "Valea Kruusa-Org", en: "Kruusa-Org Valley" },
-    coordinates: { lat: 58.6, lng: 25.6 },
+    coords: [25.6, 58.6],
     description: {
       de: "Das Kruusa-Org-Tal ist eine kleine Einsenkung im Landesinneren. Es ist ein Gebiet mit natürlicher Entwässerung und kiesigen Hängen.",
       hu: "A Kruusa-Org-völgy egy kis bemélyedés a szárazföld belsejében. Természetes vízelvezetéssel és kavicsos lejtőkkel rendelkező terület.",
@@ -1062,7 +1062,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Piiri-Mägi", hu: "Piiri-Mägi-domb", ro: "Dealul Piiri-Mägi", en: "Piiri-Mägi" },
-    coordinates: { lat: 58.2, lng: 27.5 },
+    coords: [27.5, 58.2],
     description: {
       de: "Piiri-Mägi ist ein Grenzhügel im Südosten Estlands. Er liegt in einer Region, die historisch durch wechselnde Grenzen geprägt war.",
       hu: "A Piiri-Mägi egy határdomb Észtország délkeleti részén. Olyan régióban fekszik, amelyet történelmileg a változó határok jellemeztek.",
@@ -1094,7 +1094,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Metsa-Mägi", hu: "Metsa-Mägi-domb", ro: "Dealul Metsa-Mägi", en: "Metsa-Mägi" },
-    coordinates: { lat: 59.0, lng: 25.5 },
+    coords: [25.5, 59.0],
     description: {
       de: "Metsa-Mägi ist eine bewaldete Erhebung im Norden. Er ist ein typisches Beispiel für eine bewaldete Moräne in diesem flachen Land.",
       hu: "A Metsa-Mägi egy erdős kiemelkedés északon. Tipikus példája az e sík vidéken található erdős morénának.",
@@ -1126,7 +1126,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kruusa-Nukk", hu: "Kruusa-Nukk-domb", ro: "Dealul Kruusa-Nukk", en: "Kruusa-Nukk" },
-    coordinates: { lat: 58.75, lng: 25.9 },
+    coords: [25.9, 58.75],
     description: {
       de: "Kruusa-Nukk ist ein kleiner, kiesiger Vorsprung im Zentralgebiet. Er bildet eine lokale Erhebung in einer sonst weiten Ebene.",
       hu: "A Kruusa-Nukk egy kis, kavicsos előugró domb a központi területen. Egyébként sík síkságon képez helyi kiemelkedést.",
@@ -1158,7 +1158,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Veski-Mägi", hu: "Veski-Mägi-domb", ro: "Dealul Veski-Mägi", en: "Veski-Mägi" },
-    coordinates: { lat: 58.3, lng: 24.8 },
+    coords: [24.8, 58.3],
     description: {
       de: "Veski-Mägi ist ein Hügel im Westen. Der Name deutet auf eine historische Mühlenstandort-Tradition in dieser exponierten Lage hin.",
       hu: "A Veski-Mägi egy domb nyugaton. A név erre az exponált helyzetű, történelmi malomhelyszín-hagyományra utal.",
@@ -1190,7 +1190,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Ranna-Mägi", hu: "Ranna-Mägi-domb", ro: "Dealul Ranna-Mägi", en: "Ranna-Mägi" },
-    coordinates: { lat: 59.45, lng: 25.2 },
+    coords: [25.2, 59.45],
     description: {
       de: "Ranna-Mägi ist eine Anhöhe an der Nordküste. Der Hügel ist durch seine Lage direkt am Meer geographisch gut erkennbar.",
       hu: "A Ranna-Mägi egy magaslat az északi parton. A domb földrajzilag jól felismerhető a közvetlenül a tengerparton fekvő elhelyezkedése miatt.",
@@ -1222,7 +1222,7 @@ export const estoniaReliefV2: POI[] = [
     type: "valley",
     parent: "EE",
     name: { de: "Metsa-Org-Tal", hu: "Metsa-Org-völgy", ro: "Valea Metsa-Org", en: "Metsa-Org Valley" },
-    coordinates: { lat: 58.7, lng: 25.5 },
+    coords: [25.5, 58.7],
     description: {
       de: "Das Metsa-Org-Tal ist ein bewaldetes Tal im Zentralgebiet. Die Senke wird von einem kleinen Bach durchzogen, der für Feuchtigkeit sorgt.",
       hu: "A Metsa-Org-völgy egy erdős völgy a központi területen. A mélyedést egy kis patak szeli át, amely biztosítja a nedvességet.",
@@ -1254,7 +1254,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kruusa-Hari-Rücken", hu: "Kruusa-Hari-gerinc", ro: "Creasta Kruusa-Hari", en: "Kruusa-Hari Ridge" },
-    coordinates: { lat: 58.2, lng: 25.3 },
+    coords: [25.3, 58.2],
     description: {
       de: "Der Kruusa-Hari-Rücken ist ein markanter, langgezogener Hügelrücken. Er ist ein geologisches Zeugnis eiszeitlicher Gletscherströme.",
       hu: "A Kruusa-Hari-gerinc egy jellegzetes, elnyúló dombhát. A jégkori gleccserfolyamok geológiai tanúja.",
@@ -1286,7 +1286,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Linna-Nukk", hu: "Linna-Nukk-domb", ro: "Dealul Linna-Nukk", en: "Linna-Nukk" },
-    coordinates: { lat: 59.2, lng: 26.2 },
+    coords: [26.2, 59.2],
     description: {
       de: "Linna-Nukk ist ein kleiner, markanter Vorsprung im Norden. Er diente vermutlich in der Frühzeit als natürlicher Beobachtungspunkt.",
       hu: "A Linna-Nukk egy kis, jellegzetes előugró domb északon. Feltehetően korai időszakban természetes megfigyelőpontként szolgált.",
@@ -1318,7 +1318,7 @@ export const estoniaReliefV2: POI[] = [
     type: "valley",
     parent: "EE",
     name: { de: "Piiri-Org-Tal", hu: "Piiri-Org-völgy", ro: "Valea Piiri-Org", en: "Piiri-Org Valley" },
-    coordinates: { lat: 58.15, lng: 27.6 },
+    coords: [27.6, 58.15],
     description: {
       de: "Das Piiri-Org-Tal ist eine Senke im südöstlichen Grenzland. Es zeichnet sich durch seine ruhige, bewaldete Umgebung aus.",
       hu: "A Piiri-Org-völgy egy mélyedés a délkeleti határvidéken. Nyugodt, erdős környezete jellemzi.",
@@ -1350,7 +1350,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Tuuliku-Nukk", hu: "Tuuliku-Nukk-domb", ro: "Dealul Tuuliku-Nukk", en: "Tuuliku-Nukk" },
-    coordinates: { lat: 59.38, lng: 24.9 },
+    coords: [24.9, 59.38],
     description: {
       de: "Tuuliku-Nukk ist eine Erhebung auf einer Anhöhe nördlich der Hauptstadt. Sie bot früher ideale Standorte für Windmühlen.",
       hu: "A Tuuliku-Nukk egy kiemelkedés a fővárostól északra. Régebben ideális helyszíneket kínált szélmalmok számára.",
@@ -1382,7 +1382,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Vana-Nukk", hu: "Vana-Nukk-domb", ro: "Dealul Vana-Nukk", en: "Vana-Nukk" },
-    coordinates: { lat: 58.65, lng: 26.7 },
+    coords: [26.7, 58.65],
     description: {
       de: "Vana-Nukk ist ein kleiner, historisch bedeutsamer Hügel im Zentrum. Er bietet einen guten Überblick über die umgebende Ebene.",
       hu: "A Vana-Nukk egy kis, történelmileg jelentős domb a központban. Jó áttekintést nyújt a környező síkságról.",
@@ -1414,7 +1414,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Liiva-Nukk", hu: "Liiva-Nukk-domb", ro: "Dealul Liiva-Nukk", en: "Liiva-Nukk" },
-    coordinates: { lat: 59.25, lng: 24.6 },
+    coords: [24.6, 59.25],
     description: {
       de: "Liiva-Nukk ist eine sandige Anhöhe im Nordwesten. Das Relief ist durch den Küstenwind und frühere Gletscherströme geformt.",
       hu: "A Liiva-Nukk egy homokos magaslat északnyugaton. A domborzatot a parti szél és a korábbi gleccserfolyamok formálták.",
@@ -1446,7 +1446,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kadaka-Nukk", hu: "Kadaka-Nukk-domb", ro: "Dealul Kadaka-Nukk", en: "Kadaka-Nukk" },
-    coordinates: { lat: 58.55, lng: 24.3 },
+    coords: [24.3, 58.55],
     description: {
       de: "Kadaka-Nukk ist ein kleiner, mit Wacholder bewachsener Vorsprung an der Westküste. Er ist ein typisches Merkmal der kargen Küstenlandschaft.",
       hu: "A Kadaka-Nukk egy kis, borókával benőtt előugró domb a nyugati parton. A kopár parti táj tipikus jellemzője.",
@@ -1478,7 +1478,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Suure-Nukk", hu: "Suure-Nukk-domb", ro: "Dealul Suure-Nukk", en: "Suure-Nukk" },
-    coordinates: { lat: 57.9, lng: 26.6 },
+    coords: [26.6, 57.9],
     description: {
       de: "Suure-Nukk ist ein ausgeprägter Hügelvorsprung im Süden. Die Region ist bekannt für ihre hügelige Moränenstruktur.",
       hu: "A Suure-Nukk egy kifejezett domb előugrás délen. A régió a dombos morénaszerkezetéről ismert.",
@@ -1510,7 +1510,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Kool-Nukk", hu: "Kool-Nukk-domb", ro: "Dealul Kool-Nukk", en: "Kool-Nukk" },
-    coordinates: { lat: 58.9, lng: 26.5 },
+    coords: [26.5, 58.9],
     description: {
       de: "Kool-Nukk ist eine kleine, natürliche Erhebung in Zentralland. Der Name ist lokal gebräuchlich für markante Hügel.",
       hu: "A Kool-Nukk egy kis, természetes kiemelkedés a központi területen. A név helyileg használatos jellegzetes dombokra.",
@@ -1542,7 +1542,7 @@ export const estoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "EE",
     name: { de: "Pae-Nukk", hu: "Pae-Nukk-domb", ro: "Dealul Pae-Nukk", en: "Pae-Nukk" },
-    coordinates: { lat: 59.4, lng: 24.9 },
+    coords: [24.9, 59.4],
     description: {
       de: "Pae-Nukk ist ein kleiner Kalksteinfelsen im Norden. Er zeigt die harte geologische Schicht, die in dieser Küstenzone ansteht.",
       hu: "A Pae-Nukk egy kis mészkőszikla északon. Megmutatja azt a kemény geológiai réteget, amely ebben a partmenti zónában található.",

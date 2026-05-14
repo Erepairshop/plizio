@@ -8,7 +8,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Höhlenkloster von Orheiul Vechi", hu: "Orheiul Vechi sziklatemplom", ro: "Mănăstirea rupestră Orheiul Vechi", en: "Old Orhei Cave Monastery"},
     image: "/poi-images/moldova-old-orhei-cave-monastery-landmarks-v2.webp",
     coords: [28.9722, 47.3039],
-    coordinates: { lat: 47.3039, lng: 28.9722 },
+    coords: [28.9722, 47.3039],
     description: {
       de: "Das Höhlenkloster ist Teil eines archäologischen Komplexes, der in Kalksteinfelsen über dem Fluss Răut gehauen wurde. Es dient seit dem Mittelalter als spirituelles Zentrum und bietet einen weiten Blick über die Schlucht.",
       hu: "Az Orheiul Vechi sziklatemplom egy régészeti komplexum része, amelyet a Răut folyó feletti mészkősziklákba vájtak. A középkor óta vallási központ, és lenyűgöző kilátást nyújt a völgyre.",
@@ -42,7 +42,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Kloster Hâncu", hu: "Hancu kolostor", ro: "Mănăstirea Hâncu", en: "Hâncu Monastery"},
     image: "/poi-images/moldova-hancu-monastery-landmarks-v2.webp",
     coords: [28.3303, 47.0594],
-    coordinates: { lat: 47.0594, lng: 28.3303 },
+    coords: [28.3303, 47.0594],
     description: {
       de: "Das Kloster Hâncu wurde 1678 von Bojar Mihail Hâncu als Nonnenkloster gegründet. Die Anlage ist bekannt für ihre prächtige Kathedrale und die malerische Lage an der Quelle des Flusses Cogâlnic.",
       hu: "A Hancu kolostort 1678-ban alapította Mihail Hancu bojár női monostorként. A komplexum híres díszes székesegyházáról és festői elhelyezkedéséről a Cogâlnic folyó forrásvidékén.",
@@ -76,7 +76,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Kloster Țipova", hu: "Tipova sziklakolostor", ro: "Mănăstirea Țipova", en: "Țipova Monastery"},
     image: "/poi-images/moldova-tipova-monastery-landmarks-v2.webp",
     coords: [28.9819, 47.6044],
-    coordinates: { lat: 47.6044, lng: 28.9819 },
+    coords: [28.9819, 47.6044],
     description: {
       de: "Țipova ist eines der größten Höhlenklöster Südosteuropas, direkt in die steilen Kalksteinfelsen am Dnister gehauen. Es besteht aus drei großen Komplexen mit über 18 miteinander verbundenen Zellen und Kirchen.",
       hu: "A tipovai sziklakolostor Délkelet-Európa egyik legnagyobbja, amelyet közvetlenül a Dnyeszter menti mészkősziklákba vájtak. Három nagy komplexumból és 18 összekapcsolt cellából, templomból áll.",
@@ -111,7 +111,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Herrenhaus Manuc Bey", hu: "Manuc Bey udvarház", ro: "Conacul Manuc Bey", en: "Manuc Bey Mansion"},
     image: "/poi-images/moldova-manuc-bey-mansion-landmarks-v2.webp",
     coords: [28.5919, 46.8272],
-    coordinates: { lat: 46.8272, lng: 28.5919 },
+    coords: [28.5919, 46.8272],
     description: {
       de: "Das Herrenhaus Manuc Bey in Hîncești ist ein prachtvolles architektonisches Ensemble im Stil des französischen Klassizismus. Es wurde im 19. Jahrhundert für den berühmten armenischen Diplomaten Manuc Bey erbaut.",
       hu: "A hîncești-i Manuc Bey udvarház egy pompás építészeti együttes francia klasszicista stílusban. A 19. században épült a híres örmény diplomata, Manuc Bey számára.",
@@ -146,7 +146,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Kathedrale der Geburt des Herrn", hu: "Krisztus születése székesegyház", ro: "Catedrala Mitropolitană Nașterea Domnului", en: "Nativity Cathedral (Chișinău)"},
     image: "/poi-images/moldova-nativity-cathedral-chisinau-landmarks-v2.webp",
     coords: [28.835, 47.0256],
-    coordinates: { lat: 47.0256, lng: 28.835 },
+    coords: [28.835, 47.0256],
     description: {
       de: "Die Metropoliten-Kathedrale in Chișinău ist das wichtigste orthodoxe Gotteshaus der Stadt. Der klassizistische Bau wurde in den 1830er Jahren errichtet und steht im zentralen Park gegenüber dem Regierungssitz.",
       hu: "A kisinyovi metropolita székesegyház a város legfontosabb ortodox temploma. A neoklasszicista épületet az 1830-as években emelték a központi parkban, a kormányépülettel szemben.",
@@ -181,7 +181,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Nationalmuseum für Geschichte Moldawiens", hu: "Moldovai Nemzeti Történeti Múzeum", ro: "Muzeul Național de Istorie a Moldovei", en: "National Museum of History of Moldova"},
     image: "/poi-images/moldova-national-history-museum-landmarks-v2.webp",
     coords: [28.8286, 47.0225],
-    coordinates: { lat: 47.0225, lng: 28.8286 },
+    coords: [28.8286, 47.0225],
     description: {
       de: "Das Nationalmuseum für Geschichte beherbergt über 300.000 Exponate, die die Entwicklung der Region von der Antike bis zur Gegenwart dokumentieren. Es befindet sich im Gebäude des ehemaligen Knabengymnasiums.",
       hu: "A Nemzeti Történeti Múzeum több mint 300 000 kiállítási tárgynak ad otthont, amelyek a régió fejlődését mutatják be az ókortól napjainkig. Az egykori fiúgimnázium épületében található.",
@@ -216,7 +216,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Nationalmuseum für Ethnographie und Naturgeschichte", hu: "Nemzeti Néprajzi és Természettudományi Múzeum", ro: "Muzeul Național de Etnografie și Istorie Naturală", en: "National Museum of Ethnography and Natural History"},
     image: "/poi-images/moldova-ethnography-museum-landmarks-v2.webp",
     coords: [28.8203, 47.0247],
-    coordinates: { lat: 47.0247, lng: 28.8203 },
+    coords: [28.8203, 47.0247],
     description: {
       de: "Dies ist das älteste Museum Moldawiens, bekannt für seine beeindruckende maurische Architektur. Es zeigt umfangreiche Sammlungen zur Flora, Fauna und den traditionellen Bräuchen des moldauischen Volkes.",
       hu: "Moldova legrégebbi múzeuma, amely lenyűgöző mór stílusú építészetéről ismert. Gazdag gyűjteményt mutat be a régió élővilágáról és a moldovai nép hagyományos szokásairól.",
@@ -251,7 +251,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Schloss Mimi", hu: "Mimi-kastély", ro: "Castel Mimi", en: "Mimi Castle"},
     image: "/poi-images/moldova-mimi-castle-landmarks-v2.webp",
     coords: [29.1725, 46.8294],
-    coordinates: { lat: 46.8294, lng: 29.1725 },
+    coords: [29.1725, 46.8294],
     description: {
       de: "Schloss Mimi ist das erste Weinschloss Moldawiens, erbaut im Jahr 1893. Die Anlage wurde umfassend restauriert und gilt heute als eines der bedeutendsten architektonischen Denkmäler im Bereich des Weinbaus.",
       hu: "A Mimi-kastély Moldova első borászati kastélya, amelyet 1893-ban építtetett Constantin Mimi. A gyönyörűen felújított komplexum a borászat és az építészet egyik legfontosabb műemléke.",
@@ -286,7 +286,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Château Purcari", hu: "Purcari-birtok", ro: "Castelul Purcari", en: "Purcari Castle"},
     image: "/poi-images/moldova-purcari-castle-landmarks-v2.webp",
     coords: [29.8661, 46.5322],
-    coordinates: { lat: 46.5322, lng: 29.8661 },
+    coords: [29.8661, 46.5322],
     description: {
       de: "Château Purcari ist ein historisches Weingut mit einem markanten Schlossgebäude im französischen Stil. Es ist weltbekannt für seine Weintradition, die bis in das frühe 19. Jahrhundert zurückreicht.",
       hu: "A Purcari-birtok egy történelmi borászat jellegzetes francia stílusú kastélyépülettel. Világszerte ismert borászati hagyományairól, amelyek a 19. század elejéig nyúlnak vissza.",
@@ -321,7 +321,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Festung Bender (Tighina)", hu: "Benderi (Tighinai) erőd", ro: "Cetatea Bender (Tighina)", en: "Bender Fortress (Tighina)"},
     image: "/poi-images/moldova-bender-fortress-landmarks-v2.webp",
     coords: [29.4892, 46.8381],
-    coordinates: { lat: 46.8381, lng: 29.4892 },
+    coords: [29.4892, 46.8381],
     description: {
       de: "Die Festung Bender ist eine massive osmanische Wehranlage aus dem 16. Jahrhundert am rechten Ufer des Dnister. Sie spielte eine zentrale Rolle in zahlreichen Kriegen zwischen dem Osmanischen Reich und Russland.",
       hu: "A benderi erőd egy hatalmas oszmán erődítmény a 16. századból, a Dnyeszter jobb partján. Kulcsszerepet játszott az Oszmán Birodalom és Oroszország közötti számos háborúban.",
@@ -356,7 +356,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Verklärungskathedrale Bender", hu: "Urunk színeváltozása székesegyház (Bender)", ro: "Catedrala Schimbarea la Față din Bender", en: "Transfiguration Cathedral (Bender)"},
     image: "/poi-images/moldova-transfiguration-cathedral-bender-landmarks-v2.webp",
     coords: [29.48, 46.8242],
-    coordinates: { lat: 46.8242, lng: 29.48 },
+    coords: [29.48, 46.8242],
     description: {
       de: "Die Verklärungskathedrale ist das architektonische Wahrzeichen von Bender. Der im neoklassizistischen Stil errichtete Sakralbau mit goldener Kuppel wurde im 19. Jahrhundert zur Feier des Sieges über die Osmanen geweiht.",
       hu: "Az Urunk színeváltozása székesegyház Bender építészeti szimbóluma. A neoklasszicista stílusú, aranykupolás épületet a 19. században szentelték fel az oszmánok feletti győzelem emlékére.",
@@ -391,7 +391,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Struve-Bogen in Rudi", hu: "Struve földmérő ív (Rudi)", ro: "Arcul Geodezic Struve de la Rudi", en: "Struve Geodetic Arc (Rudi)"},
     image: "/poi-images/moldova-struve-geodetic-arc-rudi-landmarks-v2.webp",
     coords: [27.8767, 48.32],
-    coordinates: { lat: 48.32, lng: 27.8767 },
+    coords: [27.8767, 48.32],
     description: {
       de: "Der Struve-Bogen in Rudi ist der einzige Ort in Moldawien, der zum UNESCO-Welterbe gehört. Er markiert einen Messpunkt einer Kette von Triangulationspunkten aus dem 19. Jahrhundert zur Bestimmung der Erdgestalt.",
       hu: "A rudi Struve-ív az egyetlen UNESCO világörökségi helyszín Moldovában. Egy 19. századi háromszögelési hálózat egyik mérőpontja, amelyet a Föld pontos alakjának és méretének meghatározására használtak.",
@@ -426,7 +426,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Wasserturm von Chișinău", hu: "Kisinyovi víztorony", ro: "Turnul de apă din Chișinău", en: "Water Tower (Chișinău)"},
     image: "/poi-images/moldova-chisinau-water-tower-landmarks-v2.webp",
     coords: [28.8236, 47.0189],
-    coordinates: { lat: 47.0189, lng: 28.8236 },
+    coords: [28.8236, 47.0189],
     description: {
       de: "Der historische Wasserturm von Chișinău wurde Ende des 19. Jahrhunderts erbaut und ist heute ein Museum der Stadtgeschichte. Der Backsteinbau bietet eine hervorragende Aussichtsplattform über die Hauptstadt.",
       hu: "A kisinyovi történelmi víztorony a 19. század végén épült, ma pedig a városi történeti múzeumnak ad otthont. A téglaépület tetejéről remek kilátás nyílik a fővárosra.",
@@ -460,7 +460,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Alexander-Puschkin-Museum", hu: "Puskin Múzeum (Kisinyov)", ro: "Muzeul Alexandr Pușkin din Chișinău", en: "Alexander Pushkin Museum"},
     image: "/poi-images/moldova-pushkin-museum-chisinau-landmarks-v2.webp",
     coords: [28.8344, 47.0317],
-    coordinates: { lat: 47.0317, lng: 28.8344 },
+    coords: [28.8344, 47.0317],
     description: {
       de: "Das Museum befindet sich in dem kleinen Haus, in dem der russische Nationaldichter Alexander Puschkin während seines Exils in Bessarabien lebte. Es bewahrt die Atmosphäre des frühen 19. Jahrhunderts und persönliche Gegenstände des Dichters.",
       hu: "A múzeum abban a kis házban található, ahol Alekszandr Puskin orosz költő élt besszarábiai száműzetése idején. Megőrzi a 19. század eleji hangulatot és a költő személyes tárgyait.",
@@ -495,7 +495,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Orgelsaal Chișinău", hu: "Orgona-terem (Kisinyov)", ro: "Sala cu Orgă din Chișinău", en: "Organ Hall (Chișinău)"},
     image: "/poi-images/moldova-organ-hall-chisinau-landmarks-v2.webp",
     coords: [28.8358, 47.0225],
-    coordinates: { lat: 47.0225, lng: 28.8358 },
+    coords: [28.8358, 47.0225],
     description: {
       de: "Der Orgelsaal ist eine der wichtigsten Konzertstätten Moldawiens und befindet sich in einem prächtigen monumentalen Gebäude, das ursprünglich eine Bank war. Das Gebäude ist für seine hervorragende Akustik und neoklassizistische Pracht bekannt.",
       hu: "Az Orgona-terem Moldova egyik legfontosabb koncerthelyszíne, amely egy monumentális, eredetileg bankként szolgáló épületben kapott helyet. Kiváló akusztikájáról és neoklasszicista pompájáról ismert.",
@@ -529,7 +529,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Nationaltheater für Oper und Ballett", hu: "Nemzeti Opera- és Balettszínház", ro: "Teatrul Național de Operă și Balet Maria Bieșu", en: "National Opera and Ballet Theater"},
     image: "/poi-images/moldova-national-opera-theater-landmarks-v2.webp",
     coords: [28.8289, 47.0283],
-    coordinates: { lat: 47.0283, lng: 28.8289 },
+    coords: [28.8289, 47.0283],
     description: {
       de: "Das nach der berühmten Opernsängerin Maria Bieșu benannte Nationaltheater ist das kulturelle Herzstück von Chișinău. Der moderne Bau bietet Raum für internationale Opern- und Ballettproduktionen von höchstem Niveau.",
       hu: "A híres operaénekesnőről, Maria Bieșuról elnevezett Nemzeti Színház Kisinyov kulturális központja. A modern épület nemzetközi színvonalú opera- és balettelőadásoknak ad otthont.",
@@ -564,7 +564,7 @@ export const moldovaLandmarksV2: POI[] = [
     name: { de: "Herrenhaus Pommer in Taul", hu: "Pommer-kastély (Țaul)", ro: "Conacul Pommer din Țaul", en: "Pommer Mansion (Țaul)"},
     image: "/poi-images/moldova-pommer-mansion-taul-landmarks-v2.webp",
     coords: [27.6711, 48.225],
-    coordinates: { lat: 48.225, lng: 27.6711 },
+    coords: [27.6711, 48.225],
     description: {
       de: "Das Herrenhaus Pommer befindet sich im größten Landschaftspark Moldawiens. Es wurde Anfang des 20. Jahrhunderts für den Bankier Andrei Pommer erbaut und ist von einer beeindruckenden Sammlung exotischer Bäume umgeben.",
       hu: "A Pommer-kastély Moldova legnagyobb tájképi parkjában található. A 20. század elején épült Andrei Pommer bankár számára, és egzotikus fák gyűjteménye veszi körül.",
@@ -598,7 +598,7 @@ export const moldovaLandmarksV2: POI[] = [
     type: "landmark",
     name: { de: "Rathaus von Chișinău", hu: "Kisinyovi városháza", ro: "Primăria Chișinău", en: "Chisinau City Hall"},
     image: "/poi-images/moldova-chisinau-city-hall-landmarks-v2.webp",
-    coordinates: { lat: 47.0227, lng: 28.8353 },
+    coords: [28.8353, 47.0227],
     description: {
       de: "Das Rathaus von Chișinău ist ein historisches Denkmal, das 1901 im gotisch-venezianischen Stil erbaut wurde. Es wurde von den Architekten Mitrofan Elladi und Alexandru Bernardazzi entworfen.",
       hu: "A kisinyovi városháza egy 1901-ben épült műemlék épület, amely a velencei gótika elemeit ötvözi. Az épületet Mitrofan Elladi és Alexandru Bernardazzi tervezte a város szívében.",
@@ -631,7 +631,7 @@ export const moldovaLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă", en: "National Museum of Art"},
     image: "/poi-images/moldova-national-museum-of-art-landmarks-v2.webp",
-    coordinates: { lat: 47.0222, lng: 28.8283 },
+    coords: [28.8283, 47.0222],
     description: {
       de: "Das Nationalmuseum für Kunst beherbergt eine Sammlung von über 30.000 Werken der moldauischen und europäischen Kunst. Es befindet sich im historischen Dadiani-Gebäude von 1901.",
       hu: "A Nemzeti Művészeti Múzeum több mint 30 000 moldáv és európai műalkotásnak ad otthont. A múzeum az 1901-ben emelt történelmi Dadiani-épületben kapott helyet.",
@@ -665,7 +665,7 @@ export const moldovaLandmarksV2: POI[] = [
     type: "bridge",
     name: { de: "Eiffel-Brücke Ungheni", hu: "Ungheni-i Eiffel-híd", ro: "Podul Eiffel din Ungheni", en: "Ungheni Eiffel Bridge"},
     image: "/poi-images/moldova-eiffel-bridge-ungheni-landmarks-v2.webp",
-    coordinates: { lat: 47.2008, lng: 27.7878 },
+    coords: [27.7878, 47.2008],
     description: {
       de: "Die Eiffel-Brücke in Ungheni ist eine Eisenbahnbrücke über den Pruth, die 1877 fertiggestellt wurde. Sie wurde von dem berühmten französischen Ingenieur Gustave Eiffel entworfen.",
       hu: "Az ungheni-i Eiffel-híd egy vasúti híd a Prut folyón, amelyet 1877-ben adtak át. A hidat a híres francia mérnök, Gustave Eiffel tervezte a stratégiai vasút számára.",
@@ -699,7 +699,7 @@ export const moldovaLandmarksV2: POI[] = [
     type: "church",
     name: { de: "Mazarache-Kirche", hu: "Mazarache-templom", ro: "Biserica Mazarache", en: "Mazarache Church"},
     image: "/poi-images/moldova-mazarache-church-landmarks-v2.webp",
-    coordinates: { lat: 47.0308, lng: 28.8456 },
+    coords: [28.8456, 47.0308],
     description: {
       de: "Die Mazarache-Kirche ist das älteste erhaltene Gebäude in Chișinău und stammt aus dem Jahr 1752. Sie ist ein bedeutendes Beispiel für die spätmittelalterliche moldauische Architektur.",
       hu: "A Mazarache-templom Kisinyov legrégebbi fennmaradt épülete, amely 1752-ben épült. A templom a késő középkori moldáv építészet egyik legfontosabb emléke.",
@@ -733,7 +733,7 @@ export const moldovaLandmarksV2: POI[] = [
     type: "landmark",
     name: { de: "Bahnhof Chișinău", hu: "Kisinyovi vasútállomás", ro: "Gara din Chișinău", en: "Chisinau Railway Station"},
     image: "/poi-images/moldova-chisinau-railway-station-landmarks-v2.webp",
-    coordinates: { lat: 47.0131, lng: 28.8597 },
+    coords: [28.8597, 47.0131],
     description: {
       de: "Der Bahnhof von Chișinău wurde 1948 im Stil des sozialistischen Realismus nach Plänen von Alexei Schtschussew erbaut. Er ist der wichtigste Verkehrsknotenpunkt der moldauischen Hauptstadt.",
       hu: "A kisinyovi vasútállomás 1948-ban épült szocialista realista stílusban, Alekszej Scsusev közreműködésével. Ez a moldáv főváros legfontosabb közlekedési csomópontja.",
@@ -767,7 +767,7 @@ export const moldovaLandmarksV2: POI[] = [
     type: "landmark",
     name: { de: "Nationalbibliothek von Moldau", hu: "Moldovai Nemzeti Könyvtár", ro: "Biblioteca Națională", en: "National Library of Moldova"},
     image: "/poi-images/moldova-national-library-landmarks-v2.webp",
-    coordinates: { lat: 47.0233, lng: 28.8289 },
+    coords: [28.8289, 47.0233],
     description: {
       de: "Die Nationalbibliothek der Republik Moldau wurde 1832 gegründet und beherbergt über 2,5 Millionen Medieneinheiten. Sie ist das wichtigste bibliografische Zentrum des Landes.",
       hu: "A Moldovai Köztársaság Nemzeti Könyvtárát 1832-ben alapították, és több mint 2,5 millió dokumentumot őriz. Az intézmény az ország legfontosabb bibliográfiai központja.",
@@ -801,7 +801,7 @@ export const moldovaLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Gagauzien-Museum Beșalma", hu: "Beșalmai Gagauz Múzeum", ro: "Muzeul din Beșalma", en: "Besalma Gagauz Museum"},
     image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp",
-    coordinates: { lat: 46.1736, lng: 28.6475 },
+    coords: [28.6475, 46.1736],
     description: {
       de: "Das Museum in Beșalma wurde 1966 gegründet und ist das weltweit erste Museum für gagauisische Kultur. Die Sammlung umfasst über 20.000 Exponate zur Geschichte dieses Volkes.",
       hu: "A beșalmai múzeumot 1966-ban alapították, és ez a világ első gagauz kultúrának szentelt múzeuma. A gyűjtemény több mint 20 000 kiállítási tárgyat tartalmaz.",
@@ -833,7 +833,7 @@ export const moldovaLandmarksV2: POI[] = [
     parent: "MD",
     type: "church",
     name: { de: "Kloster Noul Neamț", hu: "Noul Neamț-kolostor", ro: "Mănăstirea Noul Neamț", en: "Noul Neamț Monastery" },
-    coordinates: { lat: 46.8302, lng: 29.5855 },
+    coords: [29.5855, 46.8302],
     description: {
       de: "Ein orthodoxes Männerkloster in Chițcani, bekannt für seinen 69 Meter hohen Glockenturm. Es wurde 1861 von Mönchen aus dem Kloster Neamț gegründet.",
       hu: "Ortodox férfikolostor Chițcani faluban, amely 69 méter magas harangtornyáról ismert. 1861-ben alapították a Neamț-kolostorból érkező szerzetesek.",
@@ -865,7 +865,7 @@ export const moldovaLandmarksV2: POI[] = [
     parent: "MD",
     type: "theater",
     name: { de: "Zirkus Chișinău", hu: "Kisinyovi Cirkusz", ro: "Circul din Chișinău", en: "Chisinau Circus" },
-    coordinates: { lat: 47.0375, lng: 28.8495 },
+    coords: [28.8495, 47.0375],
     description: {
       de: "Ein monumentales Gebäude des Brutalismus, das 1981 eröffnet wurde. Es galt einst als einer der besten Zirkusse in der gesamten Sowjetunion.",
       hu: "1981-ben megnyitott monumentális brutalista épület. Egykor a Szovjetunió egyik legjobb cirkuszaként tartották számon.",
@@ -896,7 +896,7 @@ export const moldovaLandmarksV2: POI[] = [
     parent: "MD",
     type: "church",
     name: { de: "Ciuflea-Kloster", hu: "Ciuflea-kolostor", ro: "Mănăstirea Ciuflea", en: "Ciuflea Monastery" },
-    coordinates: { lat: 47.0133, lng: 28.8475 },
+    coords: [28.8475, 47.0133],
     description: {
       de: "Eine markante blau-weiße Kirche in Chișinău, die dem Heiligen Theodor Tiron gewidmet ist. Sie wurde Mitte des 19. Jahrhunderts im russisch-byzantinischen Stil erbaut.",
       hu: "Jellegzetes kék-fehér templom Kisinyovban, amelyet Szent Theodor Tironnak szenteltek. A 19. század közepén épült orosz-bizánci stílusban.",
@@ -928,7 +928,7 @@ export const moldovaLandmarksV2: POI[] = [
     parent: "MD",
     type: "monument",
     name: { de: "Kerze der Dankbarkeit", hu: "A Hála Gyertyája", ro: "Lumânarea Recunoștinței", en: "Candle of Gratitude" },
-    coordinates: { lat: 48.1364, lng: 28.3031 },
+    coords: [28.3031, 48.1364],
     description: {
       de: "Ein 29,5 Meter hohes Denkmal in Soroca, das auf einem Felsen über dem Dnjestr thront. Es symbolisiert die Dankbarkeit gegenüber den Bewahrern der moldauischen Kultur.",
       hu: "29,5 méter magas emlékmű Sorocában, egy Dnyeszter fölötti sziklán. A moldovai kultúra őrzői iránti hálát szimbolizálja.",
@@ -959,7 +959,7 @@ export const moldovaLandmarksV2: POI[] = [
     parent: "MD",
     type: "church",
     name: { de: "Kirche St. Teodora de la Sihla", hu: "Szt. Teodora de la Sihla-templom", ro: "Biserica Sfânta Teodora de la Sihla", en: "St. Teodora de la Sihla Church" },
-    coordinates: { lat: 47.0223, lng: 28.8315 },
+    coords: [28.8315, 47.0223],
     description: {
       de: "Ein architektonisches Juwel im Zentrum von Chișinău, entworfen von Alexander Bernardazzi. Die Kirche ist für ihren byzantinischen Stil und ihre elegante Steinfassade bekannt.",
       hu: "Építészeti remekmű Kisinyov központjában, amelyet Alexander Bernardazzi tervezett. Bizánci stílusáról és elegáns kőhomlokzatáról ismert.",
@@ -990,7 +990,7 @@ export const moldovaLandmarksV2: POI[] = [
     parent: "MD",
     type: "theater",
     name: { de: "Nationaltheater \"Mihai Eminescu\"", hu: "Mihai Eminescu Nemzeti Sz�nh�z", ro: "Teatrul Na?ional \"Mihai Eminescu\"", en: "National Theatre \"Mihai Eminescu\"" },
-    coordinates: { lat: 47.0232, lng: 28.8375 },
+    coords: [28.8375, 47.0232],
     description: {
       de: "Ein prächtiges Gebäude des Neoklassizismus im Herzen von Chișinău. Es ist die führende Bühne für rumänischsprachige Theaterkunst in Moldawien.",
       hu: "Pompás neoklasszicista épület Kisinyov szívében. Ez Moldova vezető román nyelvű színházi intézménye.",
@@ -1021,7 +1021,7 @@ export const moldovaLandmarksV2: POI[] = [
     parent: "MD",
     type: "cathedral",
     name: { de: "Kathedrale der Heiligen Konstantin und Helena", hu: "Szent Konstantin és Ilona-székesegyház", ro: "Catedrala Sfinții Împărați Constantin și Elena", en: "Cathedral of Saints Constantine and Helen" },
-    coordinates: { lat: 47.7667, lng: 27.9167 },
+    coords: [27.9167, 47.7667],
     description: {
       de: "Die Hauptkathedrale von Bălți, erbaut im neo-byzantinischen Stil in der Zwischenkriegszeit. Sie ist eines der bedeutendsten religiösen Denkmäler im Norden Moldawiens.",
       hu: "Bălți főszékesegyháza, amely neobizánci stílusban épült a két világháború között. Észak-Moldova egyik legjelentősebb egyházi műemléke.",

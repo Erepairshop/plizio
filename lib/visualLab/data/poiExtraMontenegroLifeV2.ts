@@ -6,7 +6,7 @@ export const montenegroLifeV2: POI[] = [
     type: "park",
     parent: "ME",
     name: { de: "Karstlandschaft Cetinje", hu: "Cetinje karsztvidék", ro: "Carst Cetinje", en: "Cetinje Karst Landscape" },
-    coordinates: { lat: 42.3933, lng: 18.9221 },
+    coords: [18.9221, 42.3933],
     description: {
       de: "Das Karstgebiet um Cetinje zeichnet sich durch seine geologische Vielfalt aus. Es beherbergt zahlreiche endemische Pflanzenarten und typische Kalksteinformationen.",
       hu: "A Cetinje környéki karsztvidék geológiai sokszínűségéről ismert. Számos endemikus növényfajnak és tipikus mészkőformációnak ad otthont.",
@@ -38,7 +38,7 @@ export const montenegroLifeV2: POI[] = [
     type: "wildlife",
     parent: "ME",
     name: { de: "Sutorman Wildschutzgebiet", hu: "Sutorman vadvédelmi terület", ro: "Rezervația naturală Sutorman", en: "Sutorman Wildlife Reserve" },
-    coordinates: { lat: 42.1458, lng: 19.0734 },
+    coords: [19.0734, 42.1458],
     description: {
       de: "Das Sutorman-Gebiet im Hinterland von Bar ist ein Rückzugsort für diverse Säugetiere. Die dichten Wälder bieten Schutz für Wildschweine und Greifvögel.",
       hu: "A Bar hátországában található Sutorman-vidék különböző emlősök menedéke. A sűrű erdők védelmet nyújtanak a vaddisznóknak és ragadozó madaraknak.",
@@ -70,7 +70,7 @@ export const montenegroLifeV2: POI[] = [
     type: "lake",
     parent: "ME",
     name: { de: "Ökosystem Schwarzer See", hu: "Fekete-tó ökoszisztéma", ro: "Ecosistem Lacul Negru", en: "Black Lake Ecosystem" },
-    coordinates: { lat: 43.1325, lng: 19.0886 },
+    coords: [19.0886, 43.1325],
     description: {
       de: "Das Ökosystem um den Crno jezero zeichnet sich durch Nadelwälder und seltene Flora aus. Es ist ein wesentlicher Bestandteil des Durmitor-Nationalparks.",
       hu: "A Crno jezero körüli ökoszisztémát tűlevelű erdők és ritka növényvilág jellemzi. A Durmitor Nemzeti Park szerves része.",
@@ -102,7 +102,7 @@ export const montenegroLifeV2: POI[] = [
     type: "forest",
     parent: "ME",
     name: { de: "Biodiversität Sinjajevina", hu: "Sinjajevina biodiverzitás", ro: "Biodiversitatea Sinjajevina", en: "Sinjajevina Biodiversity Area" },
-    coordinates: { lat: 42.9833, lng: 19.3333 },
+    coords: [19.3333, 42.9833],
     description: {
       de: "Die Sinjajevina-Hochebene ist eine der größten Weidelandschaften Europas. Sie bewahrt eine einzigartige Artenvielfalt durch traditionelle Bewirtschaftung.",
       hu: "A Sinjajevina-fennsík Európa egyik legnagyobb legelőterülete. A hagyományos gazdálkodás révén egyedülálló fajgazdagságot őriz meg.",
@@ -134,7 +134,7 @@ export const montenegroLifeV2: POI[] = [
     type: "park",
     parent: "ME",
     name: { de: "Dajbabe Feuchtgebiet", hu: "Dajbabe vizes élőhely", ro: "Zona umedă Dajbabe", en: "Dajbabe Wetlands" },
-    coordinates: { lat: 42.4111, lng: 19.2639 },
+    coords: [19.2639, 42.4111],
     description: {
       de: "Das Feuchtgebiet nahe Dajbabe bietet Lebensraum für zahlreiche Vogelarten. Es ist ein wichtiges ökologisches Gebiet südlich von Podgorica.",
       hu: "A Dajbabe melletti vizes élőhely számos madárfajnak biztosít otthont. Fontos ökológiai terület Podgoricától délre.",
@@ -166,7 +166,7 @@ export const montenegroLifeV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Vjeternik Naturraum", hu: "Vjeternik természeti térség", ro: "Rezervația naturală Vjeternik", en: "Vjeternik Natural Area" },
-    coordinates: { lat: 42.6667, lng: 19.0 },
+    coords: [19.0, 42.6667],
     description: {
       de: "Das Massiv des Vjeternik umfasst alpine Wiesen und steile Felswände. Es ist ein Gebiet mit hoher endemischer Pflanzendichte in Nordmontenegro.",
       hu: "A Vjeternik-hegység alpesi réteket és meredek sziklafalakat foglal magában. Észak-Montenegró egyik nagy endemikus növényfaj sűrűségű területe.",
@@ -198,7 +198,7 @@ export const montenegroLifeV2: POI[] = [
     type: "wildlife",
     parent: "ME",
     name: { de: "Vranjina Vogelreservat", hu: "Vranjina madárrezervátum", ro: "Rezervația de păsări Vranjina", en: "Vranjina Bird Reserve" },
-    coordinates: { lat: 42.2742, lng: 19.1235 },
+    coords: [19.1235, 42.2742],
     description: {
       de: "Das Reservat nahe Vranjina ist für seine Pelikanpopulation bekannt. Es dient als zentraler Beobachtungspunkt im Skadar-See-Ökosystem.",
       hu: "A Vranjina melletti rezervátum pelikánállományáról ismert. A Skadari-tó ökoszisztémájának központi megfigyelőpontja.",
@@ -230,7 +230,7 @@ export const montenegroLifeV2: POI[] = [
     type: "forest",
     parent: "ME",
     name: { de: "Rumija Bergwald", hu: "Rumija hegyi erdő", ro: "Pădurea montană Rumija", en: "Rumija Mountain Forest" },
-    coordinates: { lat: 42.0667, lng: 19.1333 },
+    coords: [19.1333, 42.0667],
     description: {
       de: "Die Bergkette Rumija trennt das Adriatische Meer vom Skadar-See. Ihre Wälder beherbergen eine Mischung aus mediterranen und kontinentalen Pflanzen.",
       hu: "A Rumija-hegység választja el az Adriai-tengert a Skadari-tótól. Erdői mediterrán és kontinentális növények keverékét rejtik.",
@@ -262,7 +262,7 @@ export const montenegroLifeV2: POI[] = [
     type: "park",
     parent: "ME",
     name: { de: "Ljubović Parkwald", hu: "Ljubović parkerdő", ro: "Pădurea-parc Ljubović", en: "Ljubović Forest Park" },
-    coordinates: { lat: 42.4333, lng: 19.25 },
+    coords: [19.25, 42.4333],
     description: {
       de: "Der Ljubović-Hügel bietet eine grüne Oase im Stadtgebiet von Podgorica. Er ist mit einheimischen Kiefernarten und Sträuchern bewachsen.",
       hu: "A Ljubović-domb zöld oázist biztosít Podgorica városi területén. Őshonos fenyőfajokkal és cserjékkel borított.",
@@ -294,7 +294,7 @@ export const montenegroLifeV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Mrtvica Schlucht-Naturraum", hu: "Mrtvica kanyon élővilág", ro: "Rezervația naturală Cheile Mrtvica", en: "Mrtvica Canyon Natural Area" },
-    coordinates: { lat: 42.6167, lng: 19.3333 },
+    coords: [19.3333, 42.6167],
     description: {
       de: "Die Mrtvica-Schlucht zeichnet sich durch unberührte Natur aus. Sie ist ein Lebensraum für seltene Flussfauna und dichte Ufervegetation.",
       hu: "A Mrtvica-kanyon az érintetlen természetről ismert. Ritka folyami fauna és sűrű parti növényzet élőhelye.",
@@ -326,7 +326,7 @@ export const montenegroLifeV2: POI[] = [
     type: "forest",
     parent: "ME",
     name: { de: "Čičevo Eichenwald", hu: "Čičevo tölgyes", ro: "Pădurea de stejar Čičevo", en: "Čičevo Oak Forest" },
-    coordinates: { lat: 42.5, lng: 19.3833 },
+    coords: [19.3833, 42.5],
     description: {
       de: "Der Čičevo-Wald besteht überwiegend aus alten Eichenbeständen. Er dient als wichtiges lokales Klimaschutzgebiet.",
       hu: "A Čičevo-erdő nagyrészt öreg tölgyesekből áll. Fontos helyi klímavédelmi területként szolgál.",
@@ -358,7 +358,7 @@ export const montenegroLifeV2: POI[] = [
     type: "wildlife",
     parent: "ME",
     name: { de: "Župa Naturgebiet", hu: "Župa természeti terület", ro: "Zona naturală Župa", en: "Župa Natural Area" },
-    coordinates: { lat: 42.75, lng: 19.1667 },
+    coords: [19.1667, 42.75],
     description: {
       de: "Das Župa-Gebiet nahe Nikšić ist durch eine Mischung aus Wald und Weiden gekennzeichnet. Es unterstützt eine reiche lokale Tierwelt.",
       hu: "A Nikšić melletti Župa-vidék erdők és legelők keverékéről ismert. Gazdag helyi állatvilágnak ad otthont.",
@@ -390,7 +390,7 @@ export const montenegroLifeV2: POI[] = [
     type: "lake",
     parent: "ME",
     name: { de: "Plav Seeufer-Flora", hu: "Plavi-tó parti flóra", ro: "Flora țărmului lacului Plav", en: "Plav Lake Shore Flora" },
-    coordinates: { lat: 42.6, lng: 19.9333 },
+    coords: [19.9333, 42.6],
     description: {
       de: "Die Uferzone des Plav-Sees zeichnet sich durch seltene Wasserpflanzen aus. Sie ist ein entscheidender Lebensraum im Prokletije-Gebirge.",
       hu: "A Plavi-tó parti övezete ritka vízinövényeiről ismert. Meghatározó élőhely a Prokletije-hegységben.",
@@ -422,7 +422,7 @@ export const montenegroLifeV2: POI[] = [
     type: "forest",
     parent: "ME",
     name: { de: "Biogradska Urwaldreservat", hu: "Biogradska őserdő-rezervátum", ro: "Rezervația de pădure virgină Biogradska", en: "Biogradska Virgin Forest Reserve" },
-    coordinates: { lat: 42.8958, lng: 19.6 },
+    coords: [19.6, 42.8958],
     description: {
       de: "Der Urwald im Nationalpark Biogradska Gora gilt als einer der letzten Europas. Er umfasst bis zu 500 Jahre alte Bäume.",
       hu: "A Biogradska Gora Nemzeti Park őserdeje az utolsó ilyen Európában. Akár 500 éves fákat is tartalmaz.",
@@ -454,7 +454,7 @@ export const montenegroLifeV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Orjen Gebirgs-Flora", hu: "Orjen hegyi flóra", ro: "Flora montană Orjen", en: "Orjen Mountain Flora" },
-    coordinates: { lat: 42.5667, lng: 18.5333 },
+    coords: [18.5333, 42.5667],
     description: {
       de: "Das Orjen-Gebirge weist eine extrem hohe Dichte an endemischen Pflanzen auf. Die karstigen Hänge bieten spezialisierten Arten Schutz.",
       hu: "Az Orjen-hegység rendkívül nagy sűrűségű endemikus növényfajjal rendelkezik. A karsztos lejtők védelmet nyújtanak a specializált fajoknak.",
@@ -486,7 +486,7 @@ export const montenegroLifeV2: POI[] = [
     type: "park",
     parent: "ME",
     name: { de: "Krnovo Hochebene-Flora", hu: "Krnovo fennsík flóra", ro: "Flora podișului Krnovo", en: "Krnovo Plateau Flora" },
-    coordinates: { lat: 42.8667, lng: 19.1 },
+    coords: [19.1, 42.8667],
     description: {
       de: "Die Krnovo-Hochebene ist geprägt von kargen, aber ökologisch wertvollen Bergweiden. Sie beherbergt seltene alpine Kräuter.",
       hu: "A Krnovo-fennsíkot kopár, de ökológiailag értékes hegyi legelők jellemzik. Ritka alpesi gyógynövényeknek ad otthont.",
@@ -518,7 +518,7 @@ export const montenegroLifeV2: POI[] = [
     type: "wildlife",
     parent: "ME",
     name: { de: "Solila Vogelbeobachtung", hu: "Solila madármegfigyelés", ro: "Observarea păsărilor Solila", en: "Solila Bird Watching Area" },
-    coordinates: { lat: 42.4, lng: 18.7167 },
+    coords: [18.7167, 42.4],
     description: {
       de: "Das Solila-Feuchtgebiet in der Tivat-Bucht ist ein wichtiges Schutzgebiet für Zugvögel. Es ist eine der wenigen verbliebenen Salzwiesen an der Küste.",
       hu: "A Tivati-öbölben található Solila vizes élőhely fontos védett terület a vándormadarak számára. Az egyik utolsó megmaradt sós rét a parton.",
@@ -550,7 +550,7 @@ export const montenegroLifeV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Piva-Schlucht Naturgebiet", hu: "Piva-kanyon természeti terület", ro: "Zona naturală Cheile Piva", en: "Piva Canyon Natural Area" },
-    coordinates: { lat: 43.15, lng: 18.8333 },
+    coords: [18.8333, 43.15],
     description: {
       de: "Die Piva-Schlucht ist eine der tiefsten Schluchten der Region. Sie bietet spezialisierte Lebensräume in ihren steilen, bewaldeten Flanken.",
       hu: "A Piva-kanyon a régió egyik legmélyebb szurdoka. Meredek, erdős oldalaiban speciális élőhelyeket kínál.",
@@ -582,7 +582,7 @@ export const montenegroLifeV2: POI[] = [
     type: "forest",
     parent: "ME",
     name: { de: "Bjelasica Urwaldreste", hu: "Bjelasica őserdő-maradványok", ro: "Resturi de pădure virgină Bjelasica", en: "Bjelasica Virgin Forest Remnants" },
-    coordinates: { lat: 42.8333, lng: 19.5 },
+    coords: [19.5, 42.8333],
     description: {
       de: "Die Bjelasica-Berge beherbergen wertvolle Überreste alter Mischwälder. Sie bieten Lebensraum für Bären und Wölfe.",
       hu: "A Bjelasica-hegység értékes maradványokat rejt öreg vegyes erdőkből. Medvék és farkasok élőhelye.",
@@ -614,7 +614,7 @@ export const montenegroLifeV2: POI[] = [
     type: "park",
     parent: "ME",
     name: { de: "Durmitor Alpine Flora", hu: "Durmitor alpesi flóra", ro: "Flora alpină Durmitor", en: "Durmitor Alpine Flora" },
-    coordinates: { lat: 43.1333, lng: 19.0333 },
+    coords: [19.0333, 43.1333],
     description: {
       de: "Die alpine Flora des Durmitor-Nationalparks ist einzigartig in Südosteuropa. Zahlreiche Blumenarten blühen in den hohen Gebirgslagen.",
       hu: "A Durmitor Nemzeti Park alpesi flórája egyedülálló Délkelet-Európában. Számos virágfaj virágzik a magas hegyvidéki régiókban.",
@@ -646,7 +646,7 @@ export const montenegroLifeV2: POI[] = [
     type: "wildlife",
     parent: "ME",
     name: { de: "Tara-Schlucht Wildfauna", hu: "Tara-kanyon vadvilág", ro: "Fauna sălbatică Cheile Tara", en: "Tara Canyon Wildlife" },
-    coordinates: { lat: 43.1833, lng: 19.2333 },
+    coords: [19.2333, 43.1833],
     description: {
       de: "Die Tara-Schlucht beherbergt seltene Tierarten in den unzugänglichen Bereichen. Die Steilhänge sind ein Zufluchtsort für seltene Greifvögel.",
       hu: "A Tara-kanyon ritka állatfajoknak ad otthont a megközelíthetetlen részeken. A meredek lejtők a ritka ragadozó madarak menedéke.",
@@ -678,7 +678,7 @@ export const montenegroLifeV2: POI[] = [
     type: "forest",
     parent: "ME",
     name: { de: "Bucht von Kotor Flora", hu: "Kotori-öböl flóra", ro: "Flora golfului Kotor", en: "Bay of Kotor Flora" },
-    coordinates: { lat: 42.4833, lng: 18.75 },
+    coords: [18.75, 42.4833],
     description: {
       de: "Die Hänge um die Bucht von Kotor bieten ein mediterranes Mikroklima. Dies ermöglicht das Gedeihen zahlreicher immergrüner Pflanzenarten.",
       hu: "A Kotori-öböl körüli lejtők mediterrán mikroklímát biztosítanak. Ez számos örökzöld növényfaj virágzását teszi lehetővé.",
@@ -710,7 +710,7 @@ export const montenegroLifeV2: POI[] = [
     type: "park",
     parent: "ME",
     name: { de: "Botanische Gärten Cetinje", hu: "Cetinje botanikus kertek", ro: "Grădinile botanice Cetinje", en: "Cetinje Botanical Gardens" },
-    coordinates: { lat: 42.39, lng: 18.92 },
+    coords: [18.92, 42.39],
     description: {
       de: "Die botanischen Anlagen in Cetinje bewahren lokale Gebirgspflanzen. Sie dienen der wissenschaftlichen Forschung und der Erhaltung der Arten.",
       hu: "A Cetinje-i botanikus kertek helyi hegyi növényeket őriznek. Tudományos kutatást és fajmegőrzést szolgálnak.",
@@ -742,7 +742,7 @@ export const montenegroLifeV2: POI[] = [
     type: "wildlife",
     parent: "ME",
     name: { de: "Durmitor Wildtier-Habitat", hu: "Durmitor vadvilág élőhely", ro: "Habitatul faunei sălbatice Durmitor", en: "Durmitor Wildlife Habitat" },
-    coordinates: { lat: 43.1, lng: 19.05 },
+    coords: [19.05, 43.1],
     description: {
       de: "Das unzugängliche Gelände des Durmitor ist das Kerngebiet für Großsäuger. Bären und Wölfe finden hier in den dichten Wäldern Rückzugsmöglichkeiten.",
       hu: "A Durmitor megközelíthetetlen területe a nagytestű emlősök központi élőhelye. Medvék és farkasok találnak menedéket a sűrű erdőkben.",
@@ -774,7 +774,7 @@ export const montenegroLifeV2: POI[] = [
     type: "forest",
     parent: "ME",
     name: { de: "Valdanos Olivenhain-Ökosystem", hu: "Valdanos olajfaliget-ökoszisztéma", ro: "Ecosistemul livada de măslini Valdanos", en: "Valdanos Olive Grove Ecosystem" },
-    coordinates: { lat: 41.95, lng: 19.2 },
+    coords: [19.2, 41.95],
     description: {
       de: "Der Olivenhain von Valdanos ist ein ökologisch wertvolles Küstengebiet. Er umfasst tausende alte Olivenbäume in natürlicher Umgebung.",
       hu: "A Valdanos-i olajfaliget ökológiailag értékes partvidéki terület. Több ezer öreg olajfát foglal magában természetes környezetben.",
@@ -806,7 +806,7 @@ export const montenegroLifeV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Komovi Almen-Flora", hu: "Komovi havasi flóra", ro: "Flora pășunilor alpine Komovi", en: "Komovi Alpine Meadow Flora" },
-    coordinates: { lat: 42.7, lng: 19.65 },
+    coords: [19.65, 42.7],
     description: {
       de: "Die Komovi-Berge bieten weite Almen mit einer reichen Pflanzenvielfalt. Sie sind ein wichtiges Gebiet für alpine Bergblumen.",
       hu: "A Komovi-hegység tágas havasi legelőket kínál gazdag növényvilággal. Fontos terület az alpesi hegyi virágok számára.",
@@ -838,7 +838,7 @@ export const montenegroLifeV2: POI[] = [
     type: "landmark",
     parent: "ME",
     name: { de: "Höhlen-Ökosystem bei Cetinje", hu: "Barlangi ökoszisztéma Cetinje közelében", ro: "Ecosistemul peșterilor lângă Cetinje", en: "Cave Ecosystem near Cetinje" },
-    coordinates: { lat: 42.4, lng: 18.95 },
+    coords: [18.95, 42.4],
     description: {
       de: "Die Karsthöhlen um Cetinje beherbergen spezialisierte Fauna. Sie sind wichtige Rückzugsorte für höhlenbewohnende Insekten und Fledermäuse.",
       hu: "A Cetinje környéki karsztbarlangok specializált faunának adnak otthont. Fontos menedékhelyek barlanglakó rovarok és denevérek számára.",
@@ -870,7 +870,7 @@ export const montenegroLifeV2: POI[] = [
     type: "wildlife",
     parent: "ME",
     name: { de: "Ada Bojana Mündungs-Naturraum", hu: "Ada Bojana torkolati természetvédelmi terület", ro: "Rezervația naturală estuar Ada Bojana", en: "Ada Bojana Estuary Natural Area" },
-    coordinates: { lat: 41.8667, lng: 19.35 },
+    coords: [19.35, 41.8667],
     description: {
       de: "Das Mündungsgebiet der Bojana ist ein wichtiger Lebensraum für Vögel und aquatische Tierarten. Es umfasst dynamische Sandbänke.",
       hu: "A Bojana torkolatvidéke fontos élőhely madarak és vízi állatfajok számára. Dinamikus homokpadokat foglal magában.",
@@ -902,7 +902,7 @@ export const montenegroLifeV2: POI[] = [
     type: "park",
     parent: "ME",
     name: { de: "Kučka Korita Bergwiesen", hu: "Kučka Korita hegyi rétek", ro: "Pajiștile montane Kučka Korita", en: "Kučka Korita Mountain Meadows" },
-    coordinates: { lat: 42.5, lng: 19.45 },
+    coords: [19.45, 42.5],
     description: {
       de: "Kučka Korita bietet eine weite, bergige Wiesenlandschaft. Die Region ist bekannt für ihre vielfältige alpine Flora.",
       hu: "Kučka Korita tágas, hegyi rétes tájat kínál. A régió változatos alpesi növényzetéről ismert.",

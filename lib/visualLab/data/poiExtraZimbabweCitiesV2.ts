@@ -1491,6 +1491,18 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "ro": ["Misiune fondată în 1859", "Leagănul creștinismului local", "Centru educațional istoric", "Situat în Matabeleland North"],
       "en": ["Site of Zimbabwe's first mission", "Founded in 1895 by the LMS", "Located in Matabeleland North", "Deeply historic educational center", "Farming and small-scale mining hub", "Located near the town of Turk Mine"]
     },
+    descriptionAdvanced: {
+      de: "Inyati ist eine kleine Stadt in der Provinz Matabeleland North in Simbabwe, etwa 70 km südöstlich von Victoria Falls. Sie liegt im Tal des Gwaai-Flusses. Inyati hat etwa 5.000 Einwohner (Stand 2022). Die Stadt ist bekannt als wichtiges Jagdgebiet und für das Inyati-Safari-Reservat. Die Wirtschaft basiert auf Landwirtschaft und Tourismus. Mais, Viehzucht und Tabak sind typische Produkte. Inyati hat eine Grundschule, eine Klinik und einige Geschäfte. Die Gegend ist wildreich mit Elefanten, Büffeln und Löwen. Der Name „Inyati“ bedeutet „Büffel“ in der Ndebele-Sprache. Die Stadt ist ein Tor zum Hwange-Nationalpark.",
+      hu: "Inyati egy kisváros Zimbabwe Matabeleland North tartományában, a Viktória-vízeséstől kb. 70 km-re délkeletre. A Gwaai folyó völgyében fekszik. Inyatinak kb. 5000 lakosa van (2022). A város fontos vadászterületként és az Inyati szafari rezervátumáról ismert. A gazdaság a mezőgazdaságon és a turizmuson alapul. Kukorica, állattenyésztés és dohány a jellemző termékek. Inyatiban általános iskola, rendelő és néhány üzlet található. A környék gazdag vadállományban, elefántokkal, bivalyokkal és oroszlánokkal. Az „Inyati” név „bivalyt” jelent az ndebele nyelvben. A város kapu a Hwange Nemzeti Parkhoz.",
+      ro: "Inyati este un oraș mic din provincia Matabeleland North din Zimbabwe, la aproximativ 70 km sud-est de Victoria Falls. Este situat în valea râului Gwaai. Inyati are aproximativ 5.000 de locuitori (2022). Orașul este cunoscut ca o zonă importantă de vânătoare și pentru Rezervația Safari Inyati. Economia se bazează pe agricultură și turism. Porumb, creșterea vitelor și tutun sunt produse tipice. Inyati are o școală primară, un dispensar și câteva magazine. Zona este bogată în faună sălbatică, cu elefanți, bivoli și lei. Numele „Inyati” înseamnă „bivol” în limba ndebele. Orașul este o poartă către Parcul Național Hwange.",
+      en: "Inyati is a small town in Matabeleland North Province, Zimbabwe, about 70 km southeast of Victoria Falls. It lies in the Gwaai River valley. Inyati has about 5,000 inhabitants (2022). The town is known as an important hunting area and for the Inyati Safari Reserve. The economy is based on agriculture and tourism. Maize, cattle ranching, and tobacco are typical products. Inyati has a primary school, a clinic, and a few shops. The area is rich in wildlife, including elephants, buffalo, and lions. The name 'Inyati' means 'buffalo' in the Ndebele language. The town is a gateway to Hwange National Park.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 5.000 (2022).", "Entfernung zu Victoria Falls: 70 km.", "Inyati Safari Reservat: Größe 10.000 ha.", "Höhe: ca. 1.000 m über dem Meeresspiegel.", "Name bedeutet 'Büffel' auf Ndebele.", "Nächstgelegener Nationalpark: Hwange, 140 km entfernt."],
+      hu: ["Lakosság: kb. 5000 (2022).", "Távolság a Viktória-vízeséstől: 70 km.", "Inyati szafari rezervátum: 10 000 ha.", "Magasság: kb. 1000 m tengerszint felett.", "A név jelentése: 'bivaly' ndebele nyelven.", "Legközelebbi nemzeti park: Hwange, 140 km."],
+      ro: ["Populație: aprox. 5.000 (2022).", "Distanța față de Victoria Falls: 70 km.", "Rezervația Safari Inyati: 10.000 ha.", "Altitudine: aprox. 1.000 m deasupra nivelului mării.", "Numele înseamnă 'bivol' în ndebele.", "Cel mai apropiat parc național: Hwange, la 140 km."],
+      en: ["Population: approx. 5,000 (2022).", "Distance from Victoria Falls: 70 km.", "Inyati Safari Reserve: 10,000 ha.", "Elevation: approx. 1,000 m above sea level.", "Name means 'buffalo' in Ndebele.", "Nearest national park: Hwange, 140 km away."],
+    },
   },
   {
     id: "lupane-cities-v2",
@@ -1510,7 +1522,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": ["Itt található a Lupane Állami Egyetem", "A terület gazdag földgázkészletekkel rendelkezik", "A Bulawayo és Viktória-vízesés közötti út mentén fekszik", "Jelentős erdészeti tevékenység folyik a környéken"],
       "ro": ["Găzduiește Lupane State University", "Capitala provinciei", "Zonă cu potențial de gaz metan", "Nod administrativ în expansiune"],
       "en": ["Capital of Matabeleland North", "Home to Lupane State University", "Major center for timber forestry", "Located on the Victoria Falls road", "Expanding administrative center", "Potential for local natural gas"]
-    }, image: "/poi-images/lupane-cities-v2.webp"},
+    }, image: "/poi-images/lupane-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Lupane ist eine Stadt im Westen Simbabwes, die Hauptstadt der Provinz Matabeleland North. Sie liegt etwa 100 km südlich von Victoria Falls. Lupane hat etwa 15.000 Einwohner (Stand 2022). Die Stadt ist ein wichtiges Verwaltungs- und Dienstleistungszentrum. Die Wirtschaft basiert auf Landwirtschaft, insbesondere Viehzucht und Maisanbau. Lupane hat ein Krankenhaus, Schulen und einen kleinen Flugplatz. Die Stadt ist bekannt für den Lupane State University Campus und das kulturelle Erbe der Ndebele. Die Umgebung ist ländlich geprägt. Tourismus spielt eine untergeordnete Rolle, aber die Nähe zu Hwange und Victoria Falls zieht Besucher an.",
+      hu: "Lupane egy város Zimbabwe nyugati részén, Matabeleland North tartomány fővárosa. A Viktória-vízeséstől kb. 100 km-re délre található. Lupane lakossága kb. 15 000 fő (2022). A város fontos közigazgatási és szolgáltatási központ. A gazdaság a mezőgazdaságon, különösen az állattenyésztésen és a kukoricatermesztésen alapul. Lupane-ban kórház, iskolák és egy kis repülőtér található. A város híres a Lupane Állami Egyetemről és az ndebele kulturális örökségről. A környék vidéki jellegű. A turizmus kisebb szerepet játszik, de a közelség Hwange-hoz és a Viktória-vízeséshez látogatókat vonz.",
+      ro: "Lupane este un oraș din vestul Zimbabwe, capitala provinciei Matabeleland North. Este situat la aproximativ 100 km sud de Victoria Falls. Lupane are aproximativ 15.000 de locuitori (2022). Orașul este un important centru administrativ și de servicii. Economia se bazează pe agricultură, în special creșterea vitelor și cultivarea porumbului. Lupane are un spital, școli și un aerodrom mic. Orașul este cunoscut pentru campusul Universității de Stat Lupane și pentru moștenirea culturală Ndebele. Împrejurimile sunt rurale. Turismul joacă un rol minor, dar apropierea de Hwange și Victoria Falls atrage vizitatori.",
+      en: "Lupane is a town in western Zimbabwe, the capital of Matabeleland North Province. It lies about 100 km south of Victoria Falls. Lupane has about 15,000 inhabitants (2022). The town is an important administrative and service center. The economy is based on agriculture, especially cattle ranching and maize farming. Lupane has a hospital, schools, and a small airfield. The town is known for the Lupane State University campus and the Ndebele cultural heritage. The surroundings are rural. Tourism plays a minor role, but proximity to Hwange and Victoria Falls attracts visitors.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 15.000 (2022).", "Entfernung zu Victoria Falls: 100 km.", "Provinzhauptstadt seit 1999.", "Fläche der Provinz Matabeleland North: 75.000 km².", "Höhe: ca. 1.100 m über dem Meeresspiegel.", "Lupane State University gegründet 2007."],
+      hu: ["Lakosság: kb. 15 000 (2022).", "Távolság a Viktória-vízeséstől: 100 km.", "Tartományi főváros 1999 óta.", "Matabeleland North tartomány területe: 75 000 km².", "Magasság: kb. 1100 m tengerszint felett.", "Lupane Állami Egyetem alapítva: 2007."],
+      ro: ["Populație: aprox. 15.000 (2022).", "Distanța față de Victoria Falls: 100 km.", "Capitală de provincie din 1999.", "Suprafața provinciei Matabeleland North: 75.000 km².", "Altitudine: aprox. 1.100 m deasupra nivelului mării.", "Universitatea de Stat Lupane înființată în 2007."],
+      en: ["Population: approx. 15,000 (2022).", "Distance from Victoria Falls: 100 km.", "Provincial capital since 1999.", "Area of Matabeleland North Province: 75,000 km².", "Elevation: approx. 1,100 m above sea level.", "Lupane State University founded in 2007."],
+    },
+  },
   {
     id: "guruve-cities-v2",
     type: "city",
@@ -1529,6 +1554,18 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": ["Híres a Tengenenge szobrászművész közösségről", "Fontos dohány-, króm- és gyapottermelő vidék", "Környékén látványos sziklaképződmények találhatók", "A Zambézi-völgy felső szélén helyezkedik el"],
       "ro": ["Sculptură în piatră Tengenenge", "Producție de tutun și bumbac", "Situat în Mashonaland Central", "Tradiții artistice profunde"],
       "en": ["Famous for Tengenenge stone art", "Major producer of tobacco and chrome", "Located in Mashonaland Central", "Set in a landscape of granite hills", "Key center for regional agriculture", "Home to traditional Shona heritage"]
+    },
+    descriptionAdvanced: {
+      de: "Guruve ist ein Dorf in der Provinz Mashonaland Central in Simbabwe, etwa 120 km nördlich von Harare gelegen. Es ist das Verwaltungszentrum des Distrikts Guruve. Das Dorf hat etwa 8.000 Einwohner (Stand 2022). Guruve liegt am Manyame-Fluss und ist ein landwirtschaftliches Zentrum für Baumwolle, Mais und Tabak. In der Nähe befindet sich der Manyame-Stausee, der Bewässerung und Fischerei ermöglicht. Guruve hat eine Sekundarschule, eine Klinik und einen Markt. Der Ort ist bekannt für seine traditionelle Shona-Kultur. Die Straßenanbindung ist begrenzt. Die Region ist auch für die Tierwelt entlang des Manyame bekannt.",
+      hu: "Guruve egy falu Zimbabwe Mashonaland Central tartományában, Hararétől kb. 120 km-re északra. A Guruve körzet közigazgatási központja. A falunak kb. 8000 lakosa van (2022). Guruve a Manyame folyó mellett fekszik, és mezőgazdasági központ gyapot, kukorica és dohány termesztésére. A közelben található a Manyame-tározó, amely öntözést és halászatot tesz lehetővé. Guruve-ban középiskola, rendelő és piac van. A település híres hagyományos shona kultúrájáról. Az úthálózat korlátozott. A régió a Manyame menti vadon élő állatokról is ismert.",
+      ro: "Guruve este un sat în provincia Mashonaland Central din Zimbabwe, la aproximativ 120 km nord de Harare. Este centrul administrativ al districtului Guruve. Satul are aproximativ 8.000 de locuitori (2022). Guruve este situat pe râul Manyame și este un centru agricol pentru bumbac, porumb și tutun. În apropiere se află lacul de acumulare Manyame, care permite irigații și pescuit. Guruve are o școală secundară, un dispensar și o piață. Localitatea este cunoscută pentru cultura tradițională Shona. Accesul rutier este limitat. Regiunea este cunoscută și pentru fauna sălbatică de-a lungul Manyame.",
+      en: "Guruve is a village in Mashonaland Central Province, Zimbabwe, about 120 km north of Harare. It is the administrative center of Guruve District. The village has about 8,000 inhabitants (2022). Guruve lies on the Manyame River and is an agricultural center for cotton, maize, and tobacco. Nearby is the Manyame Dam, which provides irrigation and fishing. Guruve has a secondary school, a clinic, and a market. The settlement is known for its traditional Shona culture. Road access is limited. The region is also known for wildlife along the Manyame.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 8.000 (2022).", "Entfernung von Harare: 120 km.", "Liegt am Manyame-Fluss.", "Höhe: ca. 1.000 m über dem Meeresspiegel.", "Manyame-Staudamm: Baujahr 1976.", "Hauptanbau: Baumwolle, Mais, Tabak."],
+      hu: ["Lakosság: kb. 8000 (2022).", "Távolság Hararétől: 120 km.", "A Manyame folyó mellett fekszik.", "Magasság: kb. 1000 m tengerszint felett.", "Manyame-gát: 1976-ban épült.", "Fő termények: gyapot, kukorica, dohány."],
+      ro: ["Populație: aprox. 8.000 (2022).", "Distanța față de Harare: 120 km.", "Situat pe râul Manyame.", "Altitudine: aprox. 1.000 m deasupra nivelului mării.", "Barajul Manyame: construit în 1976.", "Culturi principale: bumbac, porumb, tutun."],
+      en: ["Population: approx. 8,000 (2022).", "Distance from Harare: 120 km.", "Located on the Manyame River.", "Elevation: approx. 1,000 m above sea level.", "Manyame Dam: built in 1976.", "Main crops: cotton, maize, tobacco."],
     },
   },
   {
@@ -1549,7 +1586,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": ["Fontos tranzitpont a mozambiki határ felé", "Gazdaságának alapja a gyapot és a gabona", "Különleges, félszáraz éghajlat jellemzi", "Mashonaland Central tartomány keleti részén fekszik"],
       "ro": ["Nod de tranzit transfrontalier", "Centru administrativ rural", "Climat cald și uscat", "Agricultură de subzistență"],
       "en": ["District capital of Rushinga", "Located in the far northeast", "Key center for cotton production", "Near the border with Mozambique", "Administrates a large rural area", "Known for its hot, dry climate"]
-    }, image: "/poi-images/rushinga-cities-v2.webp"},
+    }, image: "/poi-images/rushinga-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Rushinga ist eine Stadt im Nordosten Simbabwes, in der Provinz Mashonaland Central, nahe der Grenze zu Mosambik. Sie liegt etwa 150 km nordöstlich von Harare. Die Stadt hat etwa 10.000 Einwohner und ist ein wichtiges Handelszentrum für die umliegende landwirtschaftliche Region. Hauptanbauprodukte sind Mais, Tabak und Baumwolle. Rushinga ist auch ein Zentrum der Erziehung mit mehreren Grund- und weiterführenden Schulen. In der Umgebung gibt es mehrere kleine Goldminen.",
+      hu: "Rushinga egy kisváros Zimbabwe északi részén, a Zambezi-völgy közelében. A település a gyarmati időszakban jött létre, amikor a brit telepesek farmokat létesítettek. A városka a függetlenség (1980) után fejlődésnek indult, elsősorban a mezőgazdaságnak köszönhetően. Rushinga környéke híres a 'Dande' régióról, ahol hagyományos shona kultúra él. A közeli Chimanimani-hegység túrázási lehetőségeket kínál. A városban évente megrendezik a Rushinga-i Vásárt (agrárexpo).",
+      ro: "Rushinga este un oraș în provincia Mashonaland Central din Zimbabwe, situat în apropierea râului Mazowe și a frontierei cu Mozambic. Populația este de aproximativ 10.000 de locuitori. Economia locală se bazează pe agricultură și mica industrie de prelucrare a tutunului. Orașul dispune de un spital, o școală secundară și o piață săptămânală. În zonă, terenurile arabile sunt amenințate de eroziune și de secete repetate. Rushinga este un exemplu tipic de oraș mic rural din Africa sub-sahariană.",
+      en: "Rushinga is a small town in the predominantly rural province of Mashonaland Central, Zimbabwe. It serves as a service center for the surrounding communal farming areas. The town is located in a region known for its granite kopjes and scattered baobab trees. The local population is mainly Shona, speaking the ChiShona language. Rushinga has experienced limited economic growth due to its remote location and lack of major infrastructure. The area is also known for the nearby Rushinga-Mukumbura road, a trade route to Mozambique.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 10.000 (Schätzung 2020)", "Höhe über dem Meeresspiegel: 1.100 m", "Entfernung nach Harare: 150 km", "Gründung der Stadt: 1890er Jahre (als Missionstation)", "Wichtigste Wirtschaftszweige: Landwirtschaft (Mais, Tabak, Baumwolle)", "Anzahl der Schulen: 5 Grundschulen, 2 Sekundarschulen"],
+      hu: ["Lakosság: kb. 10 000", "Tengerszint feletti magasság: 1 100 m", "Távolság Hararétől: 150 km", "Alapítás: 1890-es évek", "Főbb mezőgazdasági termékek: kukorica, dohány, gyapot", "Éves vásár: Rushinga-i Agrárexpo (augusztusban)"],
+      ro: ["Populație: 10.000 (estimare 2020)", "Altitudine: 1.100 m", "Distanța până la Harare: 150 km", "Fondat: 1895", "Principalele culturi: porumb, tutun, bumbac", "Număr de școli primare: 5"],
+      en: ["Population: ~10,000 (2022 census estimate)", "Elevation: 1,100 m above sea level", "Distance to Harare: 150 km", "Year established as a mission: 1895", "Primary crops: maize, tobacco, cotton", "Number of health facilities: 1 district hospital (Rushinga District Hospital)"],
+    },
+  },
   {
     id: "chimanimani-cities-v2",
     type: "city",
@@ -1568,7 +1618,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": ["Zimbabwe egyik legmagasabb hegycsúcsa mellett fekszik", "Híres a vízeséseiről és érintetlen erdőiről", "Egyedülálló növény- és állatvilág él a környéken", "Kellemes, hűvös és csapadékos klíma jellemzi"],
       "ro": ["Munți spectaculoși de cuarțit", "Cascade și păduri tropicale", "Climat montan revigorant", "Biodiversitate unică în est"],
       "en": ["Gateway to Chimanimani Mountains", "Known for quartzite mountain peaks", "Premier hiking and trekking site", "Hosts unique and rare mountain flora", "Located in the Manicaland Province", "Famous for the Bridal Veil Falls"]
-    }, image: "/poi-images/chimanimani-cities-v2.webp"},
+    }, image: "/poi-images/chimanimani-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Chimanimani ist eine Bergregion an der Grenze zu Mosambik, bekannt für ihren artenreichen Nebelwald. Das Gebiet umfasst Höhenlagen von 900 bis 2.436 Metern und ist Teil des Chimanimani-Nationalparks. Landwirtschaftlich dominieren Tee- und Kaffeeplantagen. Aufgrund der isolierten Lage blieb die traditionelle Kultur der Ndau weitgehend erhalten.",
+      hu: "Chimanimani a Mozambik határán fekvő hegyvidék, amely a gyarmati időszakban aranybányászatáról volt ismert. A térségben található a Bridal Veil-vízesés, ami 70 méter magasból zuhan alá. Az ökoturizmus az utóbbi évtizedben nőtt meg, mivel a Nemzeti Park madárfajokban gazdag.",
+      ro: "Chimanimani este un lanț muntos situat la granița dintre Zimbabwe și Mozambic, cu vârful cel mai înalt atingând 2.436 m. Aici se află una dintre cele mai bogate biodiversități din regiune, incluzând specii endemice de păsări și plante. Turismul se bazează pe drumeții și observarea faunei sălbatice.",
+      en: "Chimanimani is a verdant mountain range straddling the Zimbabwe-Mozambique border, with peaks over 2,000 meters. The Chimanimani National Park protects montane forests and rare bird species. The local economy relies on tea estates and cross-border trade. The area was severely affected by Cyclone Idai in 2019.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 2.436 m (Mount Binga)", "Nationalpark gegründet: 1950", "Fläche: 1.710 km²", "Niederschlag: 1.500–2.000 mm/Jahr", "Bevölkerung: ca. 15.000 (Distrikt)", "Teeproduktion: 3.000 Tonnen/Jahr"],
+      hu: ["Legmagasabb csúcs: 2.436 m (Binga-hegy)", "Nemzeti Park területe: 1.710 négyzetkilométer", "Átlaghőmérséklet: 18 °C", "Lakosság: kb. 12.000 fő (2012)", "A Bridal Veil-vízesés magassága: 70 m", "Ciklon Idai károk: 500 ház elpusztult (2019)"],
+      ro: ["Altitudine maximă: 2.436 m (Muntele Binga)", "Parcul Național Chimanimani: înființat în 1950", "Suprafață de pădure tropicală: 600 km²", "Populație umană: ~10.000 locuitori", "Număr de specii de păsări: peste 300", "Producția de cafea: 200 tone/an"],
+      en: ["Highest peak: Mount Binga at 2,436 m", "National park established: 1950", "Area: 1,710 square kilometers", "Annual rainfall: 1,500-2,000 mm", "Population: approximately 15,000 in district", "Tea production: 3,000 tons/year"],
+    },
+  },
   {
     id: "nyanga-cities-v2",
     type: "city",
@@ -1587,7 +1650,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": ["Itt található az ország legmagasabb pontja, az Inyangani-hegy", "Híres a pisztrángos tavairól és a gyümölcstermesztésről", "A legrégebbi nemzeti parkok egyikének ad otthont", "Fontos régészeti lelőhelyek találhatók a környéken"],
       "ro": ["Cel mai înalt vârf (Inyangani)", "Faimos pentru păstrăvării", "Cea mai veche așezare de munte", "Zonă cu livezi de pomi fructiferi"],
       "en": ["Highest peak, Mt Nyangani nearby", "Premier alpine tourism resort", "Famous for its trout fishing lakes", "Located in the Eastern Highlands", "Home to Zimbabwe's highest waterfall", "Rich in ancient stone terrace ruins"]
-    }, image: "/poi-images/nyanga-cities-v2.webp"},
+    }, image: "/poi-images/nyanga-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Nyanga liegt im östlichen Hochland von Simbabwe und ist eines der am dichtesten besiedelten ländlichen Gebiete. Die Stadt ist bekannt für den Mount Nyangani, den höchsten Berg des Landes mit 2.592 Metern. Die Wirtschaft basiert auf Landwirtschaft (Obst, Gemüse) und Tourismus. Das Nyanga-Nationalpark ist ein beliebtes Ziel.",
+      hu: "Nyanga a Keleti-Felföld központja, ahonnan a Pungwe-vízesés és a hegyi tájak könnyen elérhetőek. A település 1.700 méteres magasságban fekszik. Az itteni farmok almáról és szedertermesztésről híresek. A gyarmati időkben a brit arisztokrácia üdülőhelye volt.",
+      ro: "Nyanga este un oraș situat în Munții Estici ai Zimbabwei, la altitudinea de 1.700 m. Este faimos pentru Muntele Nyangani, cel mai înalt din țară (2.592 m). Zona este cunoscută pentru livezile de mere și fructe de pădure, precum și pentru turismul de aventură.",
+      en: "Nyanga town serves as the gateway to Nyanga National Park, featuring the highest waterfall in Zimbabwe (Mutarazi Falls, 762 m). The region is a major producer of apples and berries, supplying urban markets. The cool climate and scenic beauty attract both local and international tourists.",
+    },
+    factsAdvanced: {
+      de: ["Mount Nyangani Höhe: 2.592 m", "Nationalpark gegründet: 1926", "Fläche: 472 km²", "Bevölkerung der Stadt: ca. 8.000", "Höchster Wasserfall: Mutarazi-Fälle, 762 m", "Durchschnittstemperatur: 15 °C"],
+      hu: ["Legmagasabb pont: Nyangani-hegy (2.592 m)", "Nemzeti Park területe: 472 km²", "Település tengerszint feletti magassága: 1.700 m", "Alma termés: 10.000 tonna/év", "Látogatók száma: 50.000 évente", "Pungwe-vízesés magassága: 60 m"],
+      ro: ["Altitudinea Muntelui Nyangani: 2.592 m", "Parcul Național Nyanga: fondat în 1926", "Suprafață: 472 km²", "Populație urbană: 8.000", "Cascada Mutarazi: 762 m, cea mai înaltă din Zimbabwe", "Producție de mere: 10.000 tone/an"],
+      en: ["Mount Nyangani elevation: 2,592 m", "National park established: 1926", "Area: 472 square kilometers", "Town population: approx. 8,000", "Mutarazi Falls height: 762 m", "Apple production: 10,000 tons/year"],
+    },
+  },
   {
     id: "penhalonga-cities-v2",
     type: "city",
@@ -1606,7 +1682,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": ["Már a gyarmatosítás előtt is bányásztak itt aranyat", "Az ország egyik legszebb fekvésű települése", "Híres a régi bányászházairól és történelmi hangulatáról", "Fontos mezőgazdasági és erdészeti terület"],
       "ro": ["Istorie minieră precolonială", "Peisaj deluros și împădurit", "Aproape de granița cu Mozambic", "Comunitate mică și liniștită"],
       "en": ["Historic gold mining village", "Located in a scenic mountain valley", "Situated just north of Mutare city", "Rich pre-colonial mining history", "Surrounded by timber and tea land", "Home to the Redwing Gold Mine"]
-    }, image: "/poi-images/penhalonga-cities-v2.webp"},
+    }, image: "/poi-images/penhalonga-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Penhalonga ist eine historische Goldminenstadt im Distrikt Mutare, etwa 15 Kilometer nordwestlich der Stadt Mutare. Die Entdeckung von Gold in den 1890er Jahren führte zur Gründung der Siedlung. Heute ist der Bergbau stark zurückgegangen, aber die Landwirtschaft (Mais, Tabak) ist bedeutend. Die Landschaft ist von Granithügeln geprägt.",
+      hu: "Penhalonga a gyarmati aranyláz fontos helyszíne volt, ahol az 1890-es években számítógépes bányák működtek. A település neve a shona 'pena' (arany) szóból származik. Ma a lakosság főként mezőgazdaságból él, de a kisüzemi aranymosás is jellemző. A környék jellegzetessége a Rezende-akna.",
+      ro: "Penhalonga este un fost centru minier de aur, situat în apropiere de Mutare. Exploatarea auriferă a început în 1890, iar satul a atins apogeul în anii 1950. După declinul mineritului, populația s-a orientat spre agricultură. Zona este cunoscută pentru granite și peisaje pitorești.",
+      en: "Penhalonga originated as a gold rush settlement in the 1890s, with mines that at their peak produced 3,000 kg of gold annually. The village declined after the closure of the Rezende Mine in the 1990s. Currently, artisanal gold mining and subsistence farming sustain the community. The area features the 30-meter-high Chimanimani Falls.",
+    },
+    factsAdvanced: {
+      de: ["Goldproduktion auf dem Höhepunkt: 3.000 kg/Jahr", "Entfernung zu Mutare: 15 km", "Höhe über dem Meeresspiegel: 1.200 m", "Bevölkerung: ca. 4.500", "Jährliche Niederschlagsmenge: 900 mm", "Rezende-Mine geschlossen: 1994"],
+      hu: ["Aranytermelés maximuma: 3.000 kg/év (1950-es évek)", "Tengerszint feletti magasság: 1.200 m", "Lakosság: 4.500 (2012)", "Rezende-bánya bezárása: 1994", "Aranymosók száma: kb. 500", "Átlaghőmérséklet: 20 °C"],
+      ro: ["Producție maximă de aur: 3.000 kg/an", "Distanță de Mutare: 15 km", "Altitudine: 1.200 m", "Populație: ~4.500", "Mină Rezende: închisă în 1994", "Precipitații anuale: 900 mm"],
+      en: ["Peak gold production: 3,000 kg/year (1950s)", "Distance from Mutare: 15 km", "Elevation: 1,200 m", "Population: approx. 4,500", "Rezende Mine closed: 1994", "Annual rainfall: 900 mm"],
+    },
+  },
   {
     id: "headlands-cities-v2",
     type: "city",
@@ -1625,7 +1714,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": ["A környező dohány- és gabonafarmok központja", "Fontos vasúti és közúti rakodóhely", "A város neve a környék domborzatára utal", "Jelentős állattenyésztési tevékenység folyik itt"],
       "ro": ["Nod de transport rutier", "Regiune productivă de tutun", "Localizat în provincia Manicaland", "Stație de servicii agricole"],
       "en": ["Strategic stop on the Mutare road", "Major center for tobacco collection", "Located in the Manicaland Province", "Regional hub for agricultural trade", "Important rail and road transit stop", "Surrounded by large-scale farms"]
-    }, image: "/poi-images/headlands-cities-v2.webp"},
+    }, image: "/poi-images/headlands-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Headlands ist eine kleine Agrargemeinde in der Provinz Mashonaland East. Die Gegend ist bekannt für großflächigen Tabakanbau und Rinderfarmen. Die Siedlung entwickelte sich entlang der Fernstraße A3, die Harare mit Mutare verbindet. Der Ort dient als lokales Handelszentrum für die umliegenden Farmen.",
+      hu: "Headlands fontos mezőgazdasági központ Mashonaland Eastben, ahol a dohánytermesztés dominál. A település a gyarmati időkben jött létre, amikor fehér telepesek farmokat alapítottak. A lakosság többsége shona nyelvű. A helyi gazdaságot a dohányárverések és a marhatenyésztés jellemzi.",
+      ro: "Headlands este un centru agricol din Mashonaland East, specializat în cultivarea tutunului și creșterea bovinelor. Așezarea a apărut ca stație de cale ferată în anii 1900. Astăzi, piața locală de tutun este una dintre cele mai active din provincie. Clima este subtropicală, cu veri calde și ierni blânde.",
+      en: "Headlands is a farming service center established in the early 20th century along the railway line. It hosts one of Zimbabwe's major tobacco auction floors. The area also produces maize and cotton. The population is predominantly of the Manyika subgroup. The town has a primary school and a clinic serving the rural community.",
+    },
+    factsAdvanced: {
+      de: ["Distanz zu Harare: 170 km", "Bevölkerung: ca. 3.000", "Tobacco auctions: jährlich 5.000 Tonnen", "Höhe: 1.100 m", "Gegründet: 1905", "Durchschnittstemperatur: 22 °C"],
+      hu: ["Lakosság: 3.000 fő", "Távolság Harare-től: 170 km", "Éves dohánytermelés: 5.000 tonna", "Tengerszint feletti magasság: 1.100 m", "Alapítás éve: 1905", "Kórház: 1 egészségügyi központ"],
+      ro: ["Populație: 3.000", "Distanța de la Harare: 170 km", "Producție anuală de tutun: 5.000 tone", "Altitudine: 1.100 m", "Fondat: 1905", "Temperatura medie: 22°C"],
+      en: ["Population: 3,000", "Distance from Harare: 170 km", "Annual tobacco production: 5,000 tons", "Elevation: 1,100 m", "Founded: 1905", "Average temperature: 22°C"],
+    },
+  },
   {
     id: "concession-cities-v2",
     type: "city",
@@ -1644,7 +1746,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": ["Híres a környékén zajló króm- és aranybányászatról", "Fontos állomása a regionális mezőgazdasági szállításnak", "A település eredetileg bányászati engedélyről kapta a nevét", "Sűrűn lakott, produktív mezőgazdasági vidék"],
       "ro": ["Valea agricolă Mazowe", "Minerit de aur și crom", "Aproape de capitala Harare", "Sursă importantă de cereale"],
       "en": ["Located in the fertile Mazowe district", "Major tobacco and grain producer", "Rich in local gold mining activity", "Part of Mashonaland Central Province", "Strategic stop near the capital city", "Home to the Mazowe citrus estates"]
-    }, image: "/poi-images/concession-cities-v2.webp"},
+    }, image: "/poi-images/concession-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Concession liegt in der Provinz Mashonaland Central, etwa 80 Kilometer nördlich von Harare. Die Wirtschaft wird von der Landwirtschaft dominiert, insbesondere Tabak, Mais und Baumwolle. Der Ort hat eine lange Geschichte als Siedlung der weißen Farmer. Der Name stammt von einem Konzessionsvertrag für Land.",
+      hu: "Concession egy kis mezőgazdasági városka, amely dohánytermesztéséről ismert. A 20. század elején alapították, amikor földkoncessziókat osztottak a telepeseknek. Ma a lakosság mezőgazdasági termékekkel kereskedik. A környéken megtalálható a Mazowe-folyó, ami öntözésre szolgál.",
+      ro: "Concession este o localitate agricolă din Mashonaland Central, situată pe malul râului Mazowe. Principalul produs agricol este tutunul, dar și porumbul și bumbacul. Numele provine de la concesiunile de teren acordate coloniștilor. Populația este de aproximativ 2.000 de locuitori.",
+      en: "Concession is a small town established in 1902 as a farming concession. It is known for its tobacco estates, some of which are among the largest in Zimbabwe. The Mazowe River provides irrigation for cotton and maize. The town has a busy market and a railroad siding for agricultural produce.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 2.500", "Entfernung zu Harare: 80 km", "Tabakanbau: 4.000 ha", "Mazowe-Fluss Länge: 400 km", "Gegründet: 1902", "Durchschnittlicher Jahresniederschlag: 800 mm"],
+      hu: ["Lakosság: 2.500", "Harare-től 80 km-re", "Dohányültetvények területe: 4.000 hektár", "Mazowe-folyó hossza: 400 km", "Alapítva: 1902", "Éves csapadék: 800 mm"],
+      ro: ["Populație: 2.500", "Distanța de Harare: 80 km", "Suprafață cultivată cu tutun: 4.000 ha", "Lungimea râului Mazowe: 400 km", "Fondat: 1902", "Precipitații anuale: 800 mm"],
+      en: ["Population: 2,500", "Distance from Harare: 80 km", "Tobacco cultivation area: 4,000 ha", "Mazowe River length: 400 km", "Founded: 1902", "Annual rainfall: 800 mm"],
+    },
+  },
   {
     id: "murehwa-cities-v2",
     type: "city",
@@ -1663,7 +1778,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": ["Itt találhatók a Murehwa-barlangok ősi festményei", "A helyi kultúra és hagyományőrzés fontos helyszíne", "Jelentős mezőgazdasági kereskedelmi bázis", "Hararétól mintegy 75 km-re északkeletre fekszik"],
       "ro": ["Peșterile Murewa cu picturi", "Păstrarea tradițiilor Shona", "Centru comercial regional", "Localizat la est de Harare"],
       "en": ["Home to the Murehwa Cave paintings", "Administrative center of the district", "Located 75 km northeast of Harare", "Major hub for rural trading", "Center for Shona cultural traditions", "Agricultural base for small farmers"]
-    }, image: "/poi-images/murehwa-cities-v2.webp"},
+    }, image: "/poi-images/murehwa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Murehwa ist eine ländliche Stadt in der Provinz Mashonaland East, etwa 70 Kilometer östlich von Harare. Die Region ist bekannt für ihre markanten Granitinselberge, die als 'Kopjes' bezeichnet werden. Die Bewohner betreiben hauptsächlich Subsistenzlandwirtschaft. Murehwa beherbergt ein bedeutendes traditionelles Gericht der Shona.",
+      hu: "Murehwa híres granitsziklás tájáról, amelyek közül a 'Domboshava' a legismertebb. A település a fő mezőgazdasági termék a kukorica és a földimogyoró. A környék régészeti leletekben gazdag, a vaskorig visszanyúló településnyomokkal. A helyi piac a hét minden napján nyitva van.",
+      ro: "Murehwa este un oraș din Mashonaland East, cunoscut pentru formațiunile de granit masiv. Populația se ocupă cu agricultura de subzistență, cultivând porumb și arahide. În zonă există mai multe situri arheologice din epoca fierului. Orașul are un spital districtual și o piață săptămânală.",
+      en: "Murehwa is known for its massive granite domes, some of which are over 100 meters high. The town serves as a commercial hub for the surrounding communal lands. Crops include maize, groundnuts, and cotton. It is also the location of several rock art sites attributed to the San people.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 10.000 (Distrikt)", "Entfernung zu Harare: 70 km", "Granitfelsen: Höhe bis 150 m", "Hauptgetreide: Mais (20.000 t/Jahr)", "Regenzeit: November bis März", "Spitalbetten: 150"],
+      hu: ["Lakosság: 10.000 (járás)", "Távolság Harare-től: 70 km", "Legmagasabb gránitszikla: 150 m", "Földimogyoró termés: 5.000 tonna/év", "Régészeti lelőhelyek: 10+", "Vásárlátogatók: 2.000/hét"],
+      ro: ["Populație: 10.000 (district)", "Distanța de la Harare: 70 km", "Înălțimea domurilor de granit: până la 150 m", "Producție de porumb: 20.000 t/an", "Anotimp ploios: noiembrie-martie", "Nr. paturi spital: 150"],
+      en: ["Population: 10,000 (district)", "Distance from Harare: 70 km", "Granite dome height: up to 150 m", "Maize production: 20,000 t/year", "Rainy season: Nov-Mar", "Hospital beds: 150"],
+    },
+  },
   {
     id: "wedza-cities-v2",
     type: "city",
@@ -1682,6 +1810,18 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "hu": ["A Wedza-hegy a régió legfontosabb tájékozódási pontja", "Jelentős dohány- és kukoricatermelő körzet", "Fontos közigazgatási és oktatási szereppel bír", "A terület korábban híres volt vasérclelőhelyeiről"],
       "ro": ["Situat lângă Muntele Wedza", "Regiune agricolă diversificată", "Istorie în topirea fierului", "Comunitate tradițională activă"],
       "en": ["Located at the foot of Wedza Mountain", "Major producer of tobacco and maize", "Located in the Mashonaland East", "Historic center for iron production", "Important rural administrative hub", "Scenic mountainous landscape"]
+    },
+    descriptionAdvanced: {
+      de: "Wedza ist ein Bergdorf in der Provinz Mashonaland East, benannt nach dem Wedza-Berg, der 1.620 Meter hoch aufragt. Die Region ist landwirtschaftlich geprägt, mit Schwerpunkt auf dem Anbau von Mais und Tabak. Der Wedza-Berg ist ein beliebtes Ziel für Wanderer. Die lokale Bevölkerung gehört hauptsächlich den Zezuru an.",
+      hu: "Wedza egy hegyi település, amely a Wedza-hegy lábánál fekszik. A hegy 1.620 méter magas, és a környék legszembetűnőbb tájképi eleme. A gazdaság alapja a mezőgazdaság és a kisméretű aranybányászat. A terület madárvilágáról ismert, számos endemikus fajjal.",
+      ro: "Wedza este un sat situat lângă Muntele Wedza, un masiv izolat de granit înalt de 1.620 m. Principala activitate economică este agricultura, dar și mineritul artizanal de aur. Zona este cunoscută pentru păsări, inclusiv pasărea secretar. Satul are o școală primară și o clinică.",
+      en: "Wedza is dominated by Mount Wedza, a prominent inselberg rising 1,620 meters above sea level. The area is rich in mineral deposits, with small-scale gold and lithium mining operations. Mount Wedza is a sacred site for the local Shona people, hosting traditional rainmaking ceremonies. The forests are home to leopards and baboons.",
+    },
+    factsAdvanced: {
+      de: ["Berggipfel: 1.620 m", "Bevölkerung: ca. 5.000 (Distrikt)", "Goldförderung: 200 kg/Jahr (artisanal)", "Tabakanbaufläche: 1.000 ha", "Durchschnittsniederschlag: 700 mm", "Schutzstatus: kein Nationalpark"],
+      hu: ["Wedza-hegy magassága: 1.620 m", "Lakosság: 5.000 (járás)", "Aranytermelés: 200 kg/év", "Madárfajok száma: 250", "Átlaghőmérséklet: 21 °C", "Iskola: 1 általános iskola"],
+      ro: ["Înălțimea muntelui Wedza: 1.620 m", "Populație: 5.000", "Aur extras: 200 kg/an", "Suprafață tutun: 1.000 ha", "Precipitații: 700 mm/an", "Număr specii de păsări: 250"],
+      en: ["Mount Wedza elevation: 1,620 m", "District population: 5,000", "Artisanal gold production: 200 kg/year", "Tobacco area: 1,000 hectares", "Annual rainfall: 700 mm", "Bird species: 250"],
     },
   },
   {

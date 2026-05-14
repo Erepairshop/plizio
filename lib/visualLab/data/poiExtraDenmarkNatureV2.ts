@@ -6,7 +6,7 @@ export const denmarkNatureV2: POI[] = [
     type: "forest",
     parent: "DK",
     name: { de: "Lille Vildmose", hu: "Lille Vildmose", ro: "Lille Vildmose", en: "Lille Vildmose" },
-    coordinates: { lat: 56.915, lng: 10.285 },
+    coords: [10.285, 56.915],
     description: {
       de: "Lille Vildmose ist eines der größten Hochmoorgebiete Nordwesteuropas. Das Reservat bietet Lebensraum für eine vielfältige Tierwelt.",
       hu: "A Lille Vildmose Északnyugat-Európa egyik legnagyobb magasláp területe. A rezervátum változatos vadvilágnak ad otthont.",
@@ -38,7 +38,7 @@ export const denmarkNatureV2: POI[] = [
     type: "river",
     parent: "DK",
     name: { de: "Skjern Au", hu: "Skjern-folyó", ro: "Râul Skjern", en: "Skjern River" },
-    coordinates: { lat: 55.93, lng: 8.55 },
+    coords: [8.55, 55.93],
     description: {
       de: "Die Skjern Au ist einer der wasserreichsten Flüsse Dänemarks. Der Unterlauf wurde in den letzten Jahren umfangreich renaturiert.",
       hu: "A Skjern a legbővízűbb dán folyók egyike. Az alsó folyását az elmúlt években alaposan helyreállították.",
@@ -70,7 +70,7 @@ export const denmarkNatureV2: POI[] = [
     type: "lake",
     parent: "DK",
     name: { de: "Tystrup See", hu: "Tystrup-tó", ro: "Lacul Tystrup", en: "Tystrup Lake" },
-    coordinates: { lat: 55.385, lng: 11.633 },
+    coords: [11.633, 55.385],
     description: {
       de: "Der Tystrup See liegt auf der Insel Seeland. Er ist von einer hügeligen Moränenlandschaft umgeben und bekannt für seinen Fischreichtum.",
       hu: "A Tystrup-tó Zealand szigetén található. Dombos morénás táj veszi körül, és halban való gazdagságáról ismert.",
@@ -102,7 +102,7 @@ export const denmarkNatureV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Küste von Falster", hu: "Falsteri partvidék", ro: "Coasta Falster", en: "Falster Coastline" },
-    coordinates: { lat: 54.75, lng: 11.95 },
+    coords: [11.95, 54.75],
     description: {
       de: "Die Küste von Falster ist für ihre breiten Sandstrände bekannt. Der bekannteste Strand befindet sich in Marielyst im Osten der Insel.",
       hu: "A Falster-sziget partvidéke széles homokos strandjairól híres. A leghíresebb strand a sziget keleti részén, Marielystben található.",
@@ -134,7 +134,7 @@ export const denmarkNatureV2: POI[] = [
     type: "lake",
     parent: "DK",
     name: { de: "Nors See", hu: "Nors-tó", ro: "Lacul Nors", en: "Nors Lake" },
-    coordinates: { lat: 56.965, lng: 8.485 },
+    coords: [8.485, 56.965],
     description: {
       de: "Der Nors See befindet sich im Nationalpark Thy. Er ist ein klarer Kalksee, der für seine einzigartige Wasserqualität geschätzt wird.",
       hu: "A Nors-tó a Thy Nemzeti Parkban található. Ez egy tiszta mészkőtó, amelyet egyedülálló vízminőségéről értékelnek.",
@@ -166,7 +166,7 @@ export const denmarkNatureV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Wanderdüne Råbjerg Mile", hu: "Råbjerg Mile vándordűne", ro: "Duna Råbjerg Mile", en: "Råbjerg Mile moving dune" },
-    coordinates: { lat: 57.653, lng: 10.4 },
+    coords: [10.4, 57.653],
     description: {
       de: "Råbjerg Mile ist eine der größten Wanderdünen Europas. Sie bewegt sich jährlich um etwa 15 Meter nach Nordosten.",
       hu: "A Råbjerg Mile Európa egyik legnagyobb vándordűnéje. Évente körülbelül 15 métert mozog északkeleti irányba.",
@@ -198,7 +198,7 @@ export const denmarkNatureV2: POI[] = [
     type: "river",
     parent: "DK",
     name: { de: "Gudenå Delta", hu: "Gudenå-delta", ro: "Delta râului Gudenå", en: "Gudenå Delta" },
-    coordinates: { lat: 56.48, lng: 10.35 },
+    coords: [10.35, 56.48],
     description: {
       de: "Das Mündungsgebiet der Gudenå in den Randers Fjord ist eine wertvolle Naturlandschaft. Hier mischt sich süßes Flusswasser mit dem salzigen Meerwasser.",
       hu: "A Gudenå-folyó torkolata a Randers-fjordba értékes természeti táj. Itt keveredik az édes folyóvíz a sós tengervízzel.",
@@ -230,7 +230,7 @@ export const denmarkNatureV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Hjelm Hage", hu: "Hjelm Hage", ro: "Hjelm Hage", en: "Hjelm Hage" },
-    coordinates: { lat: 56.14, lng: 10.8 },
+    coords: [10.8, 56.14],
     description: {
       de: "Hjelm Hage ist ein bekanntes Küstengebiet bei der Halbinsel Helgenæs. Es ist ein beliebter Ort zur Vogelbeobachtung.",
       hu: "A Hjelm Hage egy jól ismert tengerparti terület a Helgenæs-félszigetnél. Népszerű hely madármegfigyelésre.",
@@ -262,7 +262,7 @@ export const denmarkNatureV2: POI[] = [
     type: "lake",
     parent: "DK",
     name: { de: "Skanderborg See", hu: "Skanderborg-tó", ro: "Lacul Skanderborg", en: "Skanderborg Lake" },
-    coordinates: { lat: 56.025, lng: 9.925 },
+    coords: [9.925, 56.025],
     description: {
       de: "Der Skanderborg See liegt in einer hügeligen Landschaft in Mitteljütland. Er ist von Mischwäldern umgeben und ein Zentrum für Wassersport.",
       hu: "A Skanderborg-tó egy dombos tájon fekszik Közép-Jütlandban. Vegyes erdők veszik körül, és vízi sport központ.",
@@ -294,7 +294,7 @@ export const denmarkNatureV2: POI[] = [
     type: "forest",
     parent: "DK",
     name: { de: "Gribskov Wald", hu: "Gribskov-erdő", ro: "Pădurea Gribskov", en: "Gribskov Forest" },
-    coordinates: { lat: 55.98, lng: 12.3 },
+    coords: [12.3, 55.98],
     description: {
       de: "Gribskov ist eines der größten Waldgebiete Dänemarks. Es liegt im Norden von Seeland und ist für seine alten Baumbestände bekannt.",
       hu: "A Gribskov Dánia egyik legnagyobb erdőterülete. Zealand északi részén fekszik, és öreg faállományáról híres.",
@@ -326,7 +326,7 @@ export const denmarkNatureV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Randers Fjord", hu: "Randers-fjord", ro: "Fiordul Randers", en: "Randers Fjord" },
-    coordinates: { lat: 56.55, lng: 10.25 },
+    coords: [10.25, 56.55],
     description: {
       de: "Der Randers Fjord ist eine schmale Meeresbucht in Ostjütland. Er bildet den unteren Abschluss des Flusses Gudenå und ist ein wichtiges Schutzgebiet.",
       hu: "A Randers-fjord egy keskeny tengeröböl Kelet-Jütlandban. A Gudenå-folyó alsó szakaszát alkotja, és fontos természetvédelmi terület.",
@@ -358,7 +358,7 @@ export const denmarkNatureV2: POI[] = [
     type: "forest",
     parent: "DK",
     name: { de: "Almindingen Wald", hu: "Almindingen-erdő", ro: "Pădurea Almindingen", en: "Almindingen Forest" },
-    coordinates: { lat: 55.133, lng: 14.9 },
+    coords: [14.9, 55.133],
     description: {
       de: "Almindingen ist das größte Waldgebiet auf der Insel Bornholm. Das Gebiet ist bekannt für seine hügeligen Felsformationen und Moore.",
       hu: "Az Almindingen Bornholm szigetének legnagyobb erdőterülete. A terület dombos sziklaalakzatairól és lápjairól ismert.",
@@ -390,7 +390,7 @@ export const denmarkNatureV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Mariager Fjord", hu: "Mariager-fjord", ro: "Fiordul Mariager", en: "Mariager Fjord" },
-    coordinates: { lat: 56.65, lng: 10.05 },
+    coords: [10.05, 56.65],
     description: {
       de: "Der Mariager Fjord gilt als einer der schönsten Fjorde Dänemarks. Er zeichnet sich durch seine sanften Hügel und kleinen Küstenorte aus.",
       hu: "A Mariager-fjord Dánia egyik legszebb fjordjaként ismert. Szelíd dombjairól és kis tengerparti településeiről nevezetes.",
@@ -422,7 +422,7 @@ export const denmarkNatureV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Himmelbjerget Berg", hu: "Himmelbjerget-hegy", ro: "Muntele Himmelbjerget", en: "Himmelbjerget hill" },
-    coordinates: { lat: 56.095, lng: 9.715 },
+    coords: [9.715, 56.095],
     description: {
       de: "Der Himmelbjerget ist eine berühmte Erhebung in der Nähe von Silkeborg. Von oben hat man einen weiten Ausblick über das Seen-Gebiet.",
       hu: "A Himmelbjerget egy híres kiemelkedés Silkeborg közelében. Fentről széles kilátás nyílik a tóvidékre.",
@@ -454,7 +454,7 @@ export const denmarkNatureV2: POI[] = [
     type: "island",
     parent: "DK",
     name: { de: "Inseln im Limfjord", hu: "Limfjord-szigetek", ro: "Insulele Limfjord", en: "Limfjord Islands" },
-    coordinates: { lat: 56.9, lng: 9.1 },
+    coords: [9.1, 56.9],
     description: {
       de: "Der Limfjord enthält zahlreiche Inseln, darunter Mors und Fur. Diese Inseln sind landschaftlich geprägt durch weite Flächen und steile Küsten.",
       hu: "A Limfjord számos szigetet tartalmaz, beleértve Morsot és Furt. Ezeket a szigeteket a tájban széles síkságok és meredek partok jellemzik.",

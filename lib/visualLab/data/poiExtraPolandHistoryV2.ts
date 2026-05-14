@@ -8,7 +8,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Schlachtfeld von Tannenberg", hu: "Grunwaldi csatamező", ro: "Câmpul de luptă de la Grunwald", en: "Grunwald Battlefield"},
     image: "/poi-images/poland-grunwald-battlefield-history-v2.webp",
     coords: [20.124, 53.484],
-    coordinates: { lat: 53.484, lng: 20.124 },
+    coords: [20.124, 53.484],
     description: {
       de: "Ort einer der größten Schlachten des Mittelalters im Jahr 1410. Hier besiegte eine polnisch-litauische Allianz den Deutschen Orden entscheidend.",
       hu: "A középkor egyik legnagyobb csatájának helyszíne 1410-ben. Itt aratott döntő győzelmet a lengyel-litván sereg a Teuton Lovagrend felett.",
@@ -41,7 +41,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Archäologisches Reservat Biskupin", hu: "Biskupini régészeti rezervátum", ro: "Rezervația Arheologică Biskupin", en: "Biskupin Archaeological Museum"},
     image: "/poi-images/poland-biskupin-settlement-history-v2.webp",
     coords: [17.744, 52.788],
-    coordinates: { lat: 52.788, lng: 17.744 },
+    coords: [17.744, 52.788],
     description: {
       de: "Eine rekonstruierte befestigte Siedlung der Lausitzer Kultur aus der frühen Eisenzeit. Die Fundstätte wurde 1933 in einem Sumpfgebiet entdeckt.",
       hu: "A kora vaskori luszáciai kultúra rekonstruált erődített települése. A lelőhelyet 1933-ban fedezték fel egy mocsaras területen.",
@@ -74,7 +74,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Westerplatte Denkmal", hu: "Westerplatte-emlékmű", ro: "Monumentul de la Westerplatte", en: "Westerplatte Memorial"},
     image: "/poi-images/poland-westerplatte-history-v2.webp",
     coords: [18.667, 54.407],
-    coordinates: { lat: 54.407, lng: 18.667 },
+    coords: [18.667, 54.407],
     description: {
       de: "Halbinsel in Danzig, auf der am 1. September 1939 der Zweite Weltkrieg begann. Polnische Soldaten verteidigten das Depot sieben Tage lang.",
       hu: "Félsziget Gdańskban, ahol 1939. szeptember 1-jén megkezdődött a második világháború. A lengyel védők hét napig tartották a bázist.",
@@ -107,7 +107,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Königsschloss Wawel", hu: "Waweli királyi vár", ro: "Castelul Regal Wawel", en: "Wawel Royal Castle"},
     image: "/poi-images/poland-wawel-castle-history-v2.webp",
     coords: [19.936, 50.054],
-    coordinates: { lat: 50.054, lng: 19.936 },
+    coords: [19.936, 50.054],
     description: {
       de: "Ehemalige Residenz der polnischen Könige in Krakau auf dem Wawelhügel. Es vereint Architekturstile von der Romanik bis zum Barock.",
       hu: "A lengyel királyok egykori rezidenciája Krakkóban, a Wawel-dombon. Építészeti stílusai a romántól a barokkig terjednek.",
@@ -140,7 +140,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Marienburg", hu: "Malborki vár", ro: "Castelul Malbork", en: "Malbork Castle"},
     image: "/poi-images/poland-malbork-castle-history-v2.webp",
     coords: [19.028, 54.039],
-    coordinates: { lat: 54.039, lng: 19.028 },
+    coords: [19.028, 54.039],
     description: {
       de: "Die größte Backsteinburg der Welt und ehemaliger Hauptsitz des Deutschen Ordens. Diese massive Festung am Fluss Nogat ist ein UNESCO-Welterbe.",
       hu: "A világ legnagyobb tégla vára és a Teuton Lovagrend egykori székhelye. A Nogat folyó partján álló hatalmas erőd az UNESCO Világörökség része.",
@@ -173,7 +173,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Auschwitz-Birkenau Denkmal", hu: "Auschwitz-Birkenau emlékhely", ro: "Memorialul Auschwitz-Birkenau", en: "Auschwitz-Birkenau Memorial"},
     image: "/poi-images/poland-auschwitz-birkenau-history-v2.webp",
     coords: [19.202, 50.027],
-    coordinates: { lat: 50.027, lng: 19.202 },
+    coords: [19.202, 50.027],
     description: {
       de: "Ehemaliges deutsches Konzentrations- und Vernichtungslager, das heute als Gedenkstätte und Museum dient. Es ist das Symbol des Holocaust.",
       hu: "Egykori német koncentrációs és megsemmisítő tábor, amely ma emlékhelyként és múzeumként működik. A holokauszt szimbóluma.",
@@ -206,7 +206,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Wolfsschanze", hu: "Farkasodú", ro: "Bârlogul Lupului", en: "Wolf's Lair"},
     image: "/poi-images/poland-wolfs-lair-history-v2.webp",
     coords: [21.494, 54.081],
-    coordinates: { lat: 54.081, lng: 21.494 },
+    coords: [21.494, 54.081],
     description: {
       de: "Ruinen von Adolf Hitlers erstem militärischen Hauptquartier an der Ostfront im Zweiten Weltkrieg. Hier fand 1944 das Stauffenberg-Attentat statt.",
       hu: "Adolf Hitler első keleti fronti katonai főhadiszállásának romjai a második világháborúból. Itt történt az 1944-es Stauffenberg-merénylet.",
@@ -239,7 +239,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Schloss Wilanów", hu: "Wilanówi palota", ro: "Palatul Wilanów", en: "Wilanów Palace"},
     image: "/poi-images/poland-wilanow-palace-history-v2.webp",
     coords: [21.09, 52.165],
-    coordinates: { lat: 52.165, lng: 21.09 },
+    coords: [21.09, 52.165],
     description: {
       de: "Königliche Barockresidenz in Warschau, erbaut für König Jan III. Sobieski. Es ist eines der wenigen Denkmäler, die die Teilungen Polens überstanden.",
       hu: "Barokk királyi rezidencia Varsóban, III. János Sobieski király számára épült. Egyike azon kevés műemlékeknek, amelyek túlélték a felosztásokat.",
@@ -272,7 +272,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Kloster Jasna Góra", hu: "Jasna Góra-i kolostor", ro: "Mănăstirea Jasna Góra", en: "Jasna Góra Monastery"},
     image: "/poi-images/poland-jasna-gora-monastery-history-v2.webp",
     coords: [19.097, 50.812],
-    coordinates: { lat: 50.812, lng: 19.097 },
+    coords: [19.097, 50.812],
     description: {
       de: "Berühmtes Paulinerkloster in Częstochowa und der wichtigste Wallfahrtsort Polens. Es beherbergt die Ikone der Schwarzen Madonna.",
       hu: "Híres pálos kolostor Częstochowában, Lengyelország legfontosabb zarándokhelye. Itt őrizik a Fekete Madonna ikont.",
@@ -305,7 +305,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Altstadt von Zamość", hu: "Zamość óvárosa", ro: "Orașul vechi Zamość", en: "Zamość Old Town"},
     image: "/poi-images/poland-zamosc-old-town-history-v2.webp",
     coords: [23.252, 50.717],
-    coordinates: { lat: 50.717, lng: 23.252 },
+    coords: [23.252, 50.717],
     description: {
       de: "Eine nach italienischem Vorbild erbaute Renaissancestadt, bekannt als ideale Stadt. Sie wurde im 16. Jahrhundert von Jan Zamoyski gegründet.",
       hu: "Olasz mintára épült reneszánsz város, amelyet ideális városként ismernek. A 16. században alapította Jan Zamoyski.",
@@ -338,7 +338,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Feuersteinbergwerke Krzemionki", hu: "Krzemionki kovabánya", ro: "Minele de silex Krzemionki", en: "Krzemionki Flint Mines"},
     image: "/poi-images/poland-krzemionki-mines-history-v2.webp",
     coords: [21.488, 50.969],
-    coordinates: { lat: 50.969, lng: 21.488 },
+    coords: [21.488, 50.969],
     description: {
       de: "Ein Komplex neolithischer und frühbronzezeitlicher Bergwerke für gestreiften Feuerstein. Es ist eines der größten prähistorischen Bergwerke der Welt.",
       hu: "Neolitikus és kora bronzkori bányakomplexum sávos kova kitermelésére. A világ egyik legnagyobb őskori bányája.",
@@ -371,7 +371,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Schloss Łańcut", hu: "Łańcuti kastély", ro: "Castelul Łańcut", en: "Łańcut Castle"},
     image: "/poi-images/poland-lancut-castle-history-v2.webp",
     coords: [22.234, 50.068],
-    coordinates: { lat: 50.068, lng: 22.234 },
+    coords: [22.234, 50.068],
     description: {
       de: "Eine der prachtvollsten Aristokratenresidenzen Polens, bekannt für ihre Kutschensammlung. Das Schloss ist von einem weitläufigen Park umgeben.",
       hu: "Lengyelország egyik legpompásabb főúri rezidenciája, híres kocsijáról és hintóiról. A kastélyt hatalmas park veszi körül.",
@@ -404,7 +404,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Schloss Fürstenstein", hu: "Książ vára", ro: "Castelul Książ", en: "Książ Castle"},
     image: "/poi-images/poland-ksiaz-castle-history-v2.webp",
     coords: [16.292, 50.842],
-    coordinates: { lat: 50.842, lng: 16.292 },
+    coords: [16.292, 50.842],
     description: {
       de: "Das größte Schloss in Schlesien, erbaut auf einem Felsen. Es beherbergt mysteriöse Tunnel aus dem Zweiten Weltkrieg, die Teil des Projekts Riese waren.",
       hu: "Szilézia legnagyobb vára, amely egy sziklára épült. A második világháborúból származó titokzatos alagutakat rejt, a Projekt Riese részeként.",
@@ -437,7 +437,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Ostrów Lednicki", hu: "Ostrów Lednicki", ro: "Ostrów Lednicki", en: "Ostrów Lednicki"},
     image: "/poi-images/poland-ostrow-lednicki-history-v2.webp",
     coords: [17.377, 52.526],
-    coordinates: { lat: 52.526, lng: 17.377 },
+    coords: [17.377, 52.526],
     description: {
       de: "Eine Insel auf dem Lednica-See, die im 10. Jahrhundert eine wichtige Residenz der frühen polnischen Herrscher war. Möglicher Ort der Taufe Polens.",
       hu: "A Lednica-tó szigete, amely a 10. században a korai lengyel uralkodók egyik legfontosabb rezidenciája volt. A lengyel keresztelés lehetséges helyszíne.",
@@ -470,7 +470,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Kathedrale von Gnesen", hu: "Gnieznói székesegyház", ro: "Catedrala din Gniezno", en: "Gniezno Cathedral"},
     image: "/poi-images/poland-gniezno-cathedral-history-v2.webp",
     coords: [17.592, 52.536],
-    coordinates: { lat: 52.536, lng: 17.592 },
+    coords: [17.592, 52.536],
     description: {
       de: "Eine gotische Kathedrale in der ersten Hauptstadt Polens. Sie ist berühmt als Krönungsort der ersten polnischen Könige und Sitz des Primas.",
       hu: "Gótikus székesegyház Lengyelország első fővárosában. Híres az első lengyel királyok koronázási helyeként és a prímási székhelyként.",
@@ -503,7 +503,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Altstadt von Toruń", hu: "Toruń óvárosa", ro: "Orașul vechi Toruń", en: "Toruń Old Town"},
     image: "/poi-images/poland-torun-old-town-history-v2.webp",
     coords: [18.604, 53.01],
-    coordinates: { lat: 53.01, lng: 18.604 },
+    coords: [18.604, 53.01],
     description: {
       de: "Eine gut erhaltene mittelalterliche Backsteinstadt an der Weichsel. Sie ist der Geburtsort des Astronomen Nikolaus Kopernikus.",
       hu: "Jó állapotban fennmaradt középkori téglaépítésű város a Visztula partján. Itt született a híres csillagász, Nikolausz Kopernikusz.",
@@ -536,7 +536,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Kazimierz Dolny", hu: "Kazimierz Dolny", ro: "Kazimierz Dolny", en: "Kazimierz Dolny"},
     image: "/poi-images/poland-kazimierz-dolny-history-v2.webp",
     coords: [21.948, 51.321],
-    coordinates: { lat: 51.321, lng: 21.948 },
+    coords: [21.948, 51.321],
     description: {
       de: "Eine charmante Renaissancestadt an der Weichsel, bekannt für ihre Architektur und ihre jüdische Geschichte. Ein beliebtes Ziel für Künstler.",
       hu: "Bájos reneszánsz város a Visztula partján, híres építészetéről és zsidó történelméről. A művészek kedvelt célpontja.",
@@ -569,7 +569,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Kathedrale von Frombork", hu: "Fromborki székesegyház", ro: "Catedrala din Frombork", en: "Frombork Cathedral"},
     image: "/poi-images/poland-frombork-cathedral-history-v2.webp",
     coords: [19.681, 54.357],
-    coordinates: { lat: 54.357, lng: 19.681 },
+    coords: [19.681, 54.357],
     description: {
       de: "Eine befestigte Kathedralenanlage, in der Nikolaus Kopernikus lebte und arbeitete. Er entwickelte hier seine heliozentrische Theorie.",
       hu: "Erődített katedrális-együttes, ahol Nikolausz Kopernikusz élt és dolgozott. Itt dolgozta ki heliocentrikus világképét.",
@@ -602,7 +602,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Schlachtfeld von Racławice", hu: "Racławicei csatamező", ro: "Câmpul de luptă de la Racławice", en: "Racławice Battlefield"},
     image: "/poi-images/poland-raclawice-battlefield-history-v2.webp",
     coords: [20.245, 50.315],
-    coordinates: { lat: 50.315, lng: 20.245 },
+    coords: [20.245, 50.315],
     description: {
       de: "Ort des Sieges polnischer Aufständischer über russische Truppen im Jahr 1794. Berühmt für den Einsatz von mit Sensen bewaffneten Bauern.",
       hu: "A lengyel felkelők 1794-es győzelmének helyszíne az orosz csapatok felett. Híres a kaszával felfegyverzett parasztok részvételéről.",
@@ -635,7 +635,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Schloss Pszczyna", hu: "Pszczyna-i kastély", ro: "Castelul Pszczyna", en: "Pszczyna Castle"},
     image: "/poi-images/poland-pszczyna-castle-history-v2.webp",
     coords: [18.942, 49.978],
-    coordinates: { lat: 49.978, lng: 18.942 },
+    coords: [18.942, 49.978],
     description: {
       de: "Eine neobarocke Residenz, die für ihre originalgetreu erhaltenen Innenräume bekannt ist. Einst war sie der Sitz der Fürsten von Pleß.",
       hu: "Neobarokk rezidencia, amely eredeti állapotban megőrzött belső tereiről ismert. Egykor a Pszczyna-i hercegek székhelye volt.",
@@ -668,7 +668,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Palast in Kozłówka", hu: "Kozłówkai palota", ro: "Palatul Kozłówka", en: "Kozłówka Palace"},
     image: "/poi-images/poland-kozlowka-palace-history-v2.webp",
     coords: [22.489, 51.459],
-    coordinates: { lat: 51.459, lng: 22.489 },
+    coords: [22.489, 51.459],
     description: {
       de: "Eine spätbarocke Palastanlage der Familie Zamoyski, die heute als Museum dient. Sie beherbergt die einzige Galerie des Sozialistischen Realismus in Polen.",
       hu: "A Zamoyski család késő barokk palotája, amely ma múzeumként működik. Itt található Lengyelország egyetlen szocialista-realista galériája.",
@@ -701,7 +701,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Festung Silberberg", hu: "Ezüsthegyi erőd", ro: "Cetatea Srebrna Góra", en: "Srebrna Góra Fortress"},
     image: "/poi-images/poland-srebrna-gora-fortress-history-v2.webp",
     coords: [16.647, 50.57],
-    coordinates: { lat: 50.57, lng: 16.647 },
+    coords: [16.647, 50.57],
     description: {
       de: "Die größte Bergfestung Europas, im 18. Jahrhundert von Preußen erbaut. Sie wurde nie eingenommen und gilt als Meisterwerk der Verteidigungsarchitektur.",
       hu: "Európa legnagyobb hegyi erődje, amelyet a 18. században építettek a poroszok. Soha nem vették be, a védelmi építészet remekműve.",
@@ -734,7 +734,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Festung Modlin", hu: "Modlini erőd", ro: "Cetatea Modlin", en: "Modlin Fortress"},
     image: "/poi-images/poland-modlin-fortress-history-v2.webp",
     coords: [20.686, 52.438],
-    coordinates: { lat: 52.438, lng: 20.686 },
+    coords: [20.686, 52.438],
     description: {
       de: "Eine massive Festung am Zusammenfluss von Weichsel und Narew. Sie besitzt das längste Gebäude Europas, eine über 2 km lange Kaserne.",
       hu: "Hatalmas erőd a Visztula és a Narew összefolyásánál. Itt található Európa leghosszabb épülete, egy több mint 2 km hosszú laktanya.",
@@ -767,7 +767,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Schlachtfeld von Cedynia", hu: "Cedyniai csatamező", ro: "Câmpul de luptă de la Cedynia", en: "Cedynia Battlefield"},
     image: "/poi-images/poland-cedynia-battlefield-history-v2.webp",
     coords: [14.202, 52.879],
-    coordinates: { lat: 52.879, lng: 14.202 },
+    coords: [14.202, 52.879],
     description: {
       de: "Ort des Sieges von Herzog Mieszko I. über die Truppen von Markgraf Hodo im Jahr 972. Dies war der erste historisch belegte Sieg Polens.",
       hu: "I. Mieszko fejedelem győzelmének helyszíne Hodo őrgróf csapatai felett 972-ben. Ez volt Lengyelország első történelmileg dokumentált győzelme.",
@@ -800,7 +800,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Altstadt von Chełmno", hu: "Chełmno óvárosa", ro: "Orașul vechi Chełmno", en: "Chełmno Old Town"},
     image: "/poi-images/poland-chelmno-old-town-history-v2.webp",
     coords: [18.423, 53.348],
-    coordinates: { lat: 53.348, lng: 18.423 },
+    coords: [18.423, 53.348],
     description: {
       de: "Eine mittelalterliche Stadt auf neun Hügeln, die ihren ursprünglichen schachbrettartigen Grundriss bewahrt hat. Bekannt als Stadt der Verliebten.",
       hu: "Kilenc dombra épült középkori város, amely megőrizte eredeti sakktábla alaprajzát. A szerelmesek városaként ismerik.",
@@ -833,7 +833,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Abtei Tyniec", hu: "Tynieci apátság", ro: "Abația Tyniec", en: "Tyniec Abbey"},
     image: "/poi-images/poland-tyniec-abbey-history-v2.webp",
     coords: [19.802, 50.02],
-    coordinates: { lat: 50.02, lng: 19.802 },
+    coords: [19.802, 50.02],
     description: {
       de: "Das älteste bestehende Kloster Polens, auf einem Kalkfelsen über der Weichsel erbaut. Es ist ein Zentrum der Benediktiner-Kultur.",
       hu: "Lengyelország legrégebbi fennálló kolostora, a Visztula fölötti mészkősziklára épült. A bencés kultúra egyik központja.",
@@ -866,7 +866,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Kalwaria Zebrzydowska", hu: "Kalwaria Zebrzydowska", ro: "Kalwaria Zebrzydowska", en: "Kalwaria Zebrzydowska"},
     image: "/poi-images/poland-kalwaria-zebrzydowska-history-v2.webp",
     coords: [19.671, 49.859],
-    coordinates: { lat: 49.859, lng: 19.671 },
+    coords: [19.671, 49.859],
     description: {
       de: "Ein manieristischer Architektur- und Parkkomplex, der die Passion Christi darstellt. Es ist ein UNESCO-Weltkulturerbe und wichtiger Wallfahrtsort.",
       hu: "Manierista építészeti és parkkomplexum, amely Krisztus szenvedését mutatja be. UNESCO világörökségi helyszín és fontos zarándokhely.",
@@ -899,7 +899,7 @@ export const polandHistoryV2: POI[] = [
     name: { de: "Fürst-Pückler-Park Bad Muskau", hu: "Muskaui park", ro: "Parcul Muskau", en: "Muskau Park"},
     image: "/poi-images/poland-muskau-park-history-v2.webp",
     coords: [14.721, 51.547],
-    coordinates: { lat: 51.547, lng: 14.721 },
+    coords: [14.721, 51.547],
     description: {
       de: "Ein weitläufiger Landschaftspark, der sich über die Grenze zwischen Polen und Deutschland erstreckt. Er gilt als Meisterwerk der Gartenkunst.",
       hu: "Hatalmas tájképi park, amely a lengyel-német határon nyúlik el. A kertművészet remekműveként tartják számon.",
@@ -932,7 +932,7 @@ export const polandHistoryV2: POI[] = [
     type: "ruins",
     parent: "PL",
     name: { de: "Archäologisches Reservat Kalisz", hu: "Kalisz Régészeti Rezervátum", ro: "Rezervația Arheologică Kalisz", en: "Kalisz Archaeological Reserve" },
-    coordinates: { lat: 51.7481, lng: 18.0836 },
+    coords: [18.0836, 51.7481],
     description: {
       de: "Dies ist der Standort der antiken Siedlung Kalisia, die in ptolemäischen Aufzeichnungen aus dem 2. Jahrhundert erwähnt wurde. Es bietet Einblicke in die frühmittelalterliche slawische Verteidigungsarchitektur.",
       hu: "Ez az ősi Kalisia település helyszíne, amelyet a 2. századi ptolemaioszi feljegyzések említenek. Bepillantást nyújt a kora középkori szláv védelmi építészetbe.",
@@ -964,7 +964,7 @@ export const polandHistoryV2: POI[] = [
     type: "tower",
     parent: "PL",
     name: { de: "Mäuseturm von Kruszwica", hu: "Kruszwica Egértorony", ro: "Turnul Șoarecilor din Kruszwica", en: "Mouse Tower of Kruszwica" },
-    coordinates: { lat: 52.6789, lng: 18.3375 },
+    coords: [18.3375, 52.6789],
     description: {
       de: "Der Turm ist der einzige Überrest einer gotischen Burg aus dem 14. Jahrhundert. Er ist mit der Legende von Fürst Popiel verbunden, der von Mäusen gefressen wurde.",
       hu: "A torony egy 14. századi gótikus vár egyetlen megmaradt része. A Popiel herceg legendájához kapcsolódik, akit a mondák szerint egerek faltak fel.",
@@ -996,7 +996,7 @@ export const polandHistoryV2: POI[] = [
     type: "cathedral",
     parent: "PL",
     name: { de: "Kathedrale und Schloss Kwidzyn", hu: "Kwidzyni székesegyház és vár", ro: "Catedrala și Castelul Kwidzyn", en: "Kwidzyn Cathedral and Castle" },
-    coordinates: { lat: 53.7275, lng: 18.9136 },
+    coords: [18.9136, 53.7275],
     description: {
       de: "Dieser monumentale Komplex aus dem 14. Jahrhundert diente als Sitz der Pomesanien-Bischöfe. Die Anlage umfasst eine beeindruckende Backsteinkathedrale und ein Deutschordensschloss.",
       hu: "Ez a monumentális, 14. századi komplexum a pomesániai püspökök székhelye volt. A terület egy lenyűgöző tégla székesegyházat és egy német lovagi várat foglal magában.",
@@ -1028,7 +1028,7 @@ export const polandHistoryV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Altstadt von Piotrków Trybunalski", hu: "Piotrków Trybunalski óvárosa", ro: "Centrul vechi din Piotrków Trybunalski", en: "Piotrków Trybunalski Old Town" },
-    coordinates: { lat: 51.4036, lng: 19.6953 },
+    coords: [19.6953, 51.4036],
     description: {
       de: "Piotrków war im 16. und 17. Jahrhundert Sitz des Krontribunals, des höchsten Gerichtshofs für den Adel. Die Altstadt bewahrt zahlreiche Renaissance- und Barockhäuser.",
       hu: "Piotrków a 16. és 17. században a Korona Törvényszék, a nemesség legfelsőbb bíróságának székhelye volt. Az óváros számos reneszánsz és barokk házat őriz.",
@@ -1060,7 +1060,7 @@ export const polandHistoryV2: POI[] = [
     type: "ruins",
     parent: "PL",
     name: { de: "Stadtmauern von Chełmno", hu: "Chełmno városfalai", ro: "Zidurile cetății din Chełmno", en: "Chełmno City Walls" },
-    coordinates: { lat: 53.3486, lng: 18.4239 },
+    coords: [18.4239, 53.3486],
     description: {
       de: "Chełmno besitzt eine der am besten erhaltenen mittelalterlichen Befestigungsanlagen in Polen. Die Stadtmauern aus dem 13. Jahrhundert umgeben den historischen Kern fast vollständig.",
       hu: "Chełmno Lengyelország egyik legjobban megőrzött középkori erődítményével rendelkezik. A 13. századi városfalak szinte teljesen körülveszik a történelmi központot.",
@@ -1092,7 +1092,7 @@ export const polandHistoryV2: POI[] = [
     type: "park",
     parent: "PL",
     name: { de: "Arboretum in Rogów", hu: "Rogówi Arborétum", ro: "Arboretumul din Rogów", en: "Rogów Arboretum" },
-    coordinates: { lat: 51.8153, lng: 19.8967 },
+    coords: [19.8967, 51.8153],
     description: {
       de: "Dieses historisch bedeutende Arboretum wurde 1925 gegründet und beherbergt eine der größten Sammlungen dendrologischer Arten in Polen. Es dient als forstwissenschaftliches Zentrum.",
       hu: "Ez a történelmileg jelentős arborétum 1925-ben alakult, és Lengyelország egyik legnagyobb dendrológiai fajgyűjteményével rendelkezik. Erdészeti tudományos központként működik.",
@@ -1124,7 +1124,7 @@ export const polandHistoryV2: POI[] = [
     type: "palace",
     parent: "PL",
     name: { de: "Palast von Nieborów", hu: "Nieborówi palota", ro: "Palatul din Nieborów", en: "Nieborów Palace" },
-    coordinates: { lat: 52.0633, lng: 20.0631 },
+    coords: [20.0631, 52.0633],
     description: {
       de: "Dieser barocke Palast aus dem späten 17. Jahrhundert wurde für den Primas von Polen entworfen. Er ist bekannt für seine intakten Innenräume und den weitläufigen Garten.",
       hu: "Ezt a 17. század végi barokk palotát Lengyelország prímása számára tervezték. Épülete híres épen maradt belső tereiről és hatalmas kertjéről.",
@@ -1156,7 +1156,7 @@ export const polandHistoryV2: POI[] = [
     type: "park",
     parent: "PL",
     name: { de: "Landschaftspark Arkadia", hu: "Arkadia tájpark", ro: "Parcul peisagistic Arkadia", en: "Arkadia Landscape Park" },
-    coordinates: { lat: 52.0594, lng: 20.0469 },
+    coords: [20.0469, 52.0594],
     description: {
       de: "Der Arkadia-Park wurde Ende des 18. Jahrhunderts als romantischer Garten entworfen. Er enthält zahlreiche antike Nachbildungen und symbolische Bauwerke.",
       hu: "Az Arkadia parkot a 18. század végén romantikus kertként tervezték. Számos antik másolatot és szimbolikus építményt tartalmaz.",
@@ -1188,7 +1188,7 @@ export const polandHistoryV2: POI[] = [
     type: "castle",
     parent: "PL",
     name: { de: "Schloss Brzeg", hu: "Brzeg vára", ro: "Castelul din Brzeg", en: "Brzeg Castle" },
-    coordinates: { lat: 50.8603, lng: 17.4664 },
+    coords: [17.4664, 50.8603],
     description: {
       de: "Das Renaissance-Schloss war die Residenz der Piasten-Herzöge von Brieg. Seine Fassade ist berühmt für ihre detaillierten Sgraffito-Verzierungen.",
       hu: "Ez a reneszánsz kastély a briegi Piast hercegek rezidenciája volt. Homlokzata híres részletes sgraffito díszítéseiről.",
@@ -1220,7 +1220,7 @@ export const polandHistoryV2: POI[] = [
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Kościan", hu: "Kościan óvárosa", ro: "Centrul vechi din Kościan", en: "Kościan Old Town" },
-    coordinates: { lat: 52.0833, lng: 16.65 },
+    coords: [16.65, 52.0833],
     description: {
       de: "Kościan ist eine der ältesten Städte Großpolens mit Wurzeln im 13. Jahrhundert. Die Altstadt bietet eine gut erhaltene städtebauliche Struktur.",
       hu: "Kościan Nagy-Lengyelország egyik legrégebbi városa, amely a 13. századra nyúlik vissza. Óvárosa jól megőrzött várostervezési szerkezettel rendelkezik.",
@@ -1252,7 +1252,7 @@ export const polandHistoryV2: POI[] = [
     type: "castle",
     parent: "PL",
     name: { de: "Schloss in Krakau-Tyniec", hu: "Tynieci kastély", ro: "Castelul din Tyniec", en: "Tyniec Castle" },
-    coordinates: { lat: 50.0164, lng: 19.7275 },
+    coords: [19.7275, 50.0164],
     description: {
       de: "Diese befestigte Abtei thront auf einem Kalksteinfelsen über der Weichsel. Sie wurde im 11. Jahrhundert gegründet und war strategisch von großer Bedeutung.",
       hu: "Ez a megerősített apátság egy mészkősziklán trónol a Visztula felett. A 11. században alapították, és stratégiailag nagy jelentőséggel bírt.",
@@ -1284,7 +1284,7 @@ export const polandHistoryV2: POI[] = [
     type: "castle",
     parent: "PL",
     name: { de: "Königsschloss in Łęczyca", hu: "Łęczycai királyi vár", ro: "Castelul regal din Łęczyca", en: "Łęczyca Royal Castle" },
-    coordinates: { lat: 52.0628, lng: 19.2025 },
+    coords: [19.2025, 52.0628],
     description: {
       de: "Das im 14. Jahrhundert von Kasimir dem Großen erbaute Schloss war eine wichtige Verteidigungsanlage. Es beherbergt heute ein regionales Museum.",
       hu: "A Nagy Kázmér által a 14. században épített vár fontos védelmi létesítmény volt. Ma egy regionális múzeumnak ad otthont.",
@@ -1316,7 +1316,7 @@ export const polandHistoryV2: POI[] = [
     type: "cathedral",
     parent: "PL",
     name: { de: "Kathedrale von Płock", hu: "Płocki székesegyház", ro: "Catedrala din Płock", en: "Płock Cathedral" },
-    coordinates: { lat: 52.5408, lng: 19.6828 },
+    coords: [19.6828, 52.5408],
     description: {
       de: "Die Kathedrale von Płock ist eine der ältesten in Polen. Sie beherbergt die Gräber polnischer Herzöge und beeindruckt durch ihre neoromanische Architektur.",
       hu: "A Płocki székesegyház az egyik legrégebbi Lengyelországban. Lengyel hercegek sírjait rejti, és neoromán építészetével nyűgöz le.",
@@ -1348,7 +1348,7 @@ export const polandHistoryV2: POI[] = [
     type: "church",
     parent: "PL",
     name: { de: "Basilika von Strzegom", hu: "Strzegomi bazilika", ro: "Bazilica din Strzegom", en: "Strzegom Basilica" },
-    coordinates: { lat: 50.9572, lng: 16.3458 },
+    coords: [16.3458, 50.9572],
     description: {
       de: "Diese monumentale gotische Kirche wurde im 14. Jahrhundert aus Granit errichtet. Sie ist ein bedeutendes Beispiel der Sakralarchitektur in Niederschlesien.",
       hu: "Ez a monumentális gótikus templom a 14. században épült gránitból. Alsó-Szilézia szakrális építészetének jelentős példája.",
@@ -1380,7 +1380,7 @@ export const polandHistoryV2: POI[] = [
     type: "palace",
     parent: "PL",
     name: { de: "Erzbischöflicher Palast in Gnesen", hu: "Gnieznói érseki palota", ro: "Palatul arhiepiscopal din Gniezno", en: "Gniezno Archiepiscopal Palace" },
-    coordinates: { lat: 52.5322, lng: 17.5936 },
+    coords: [17.5936, 52.5322],
     description: {
       de: "Der Palast ist seit Jahrhunderten die Residenz der Primas von Polen. Er liegt direkt neben der Gnesener Kathedrale, dem Wiegeort des polnischen Staates.",
       hu: "A palota évszázadok óta a lengyel prímások rezidenciája. Közvetlenül a Gnieznói székesegyház mellett található, a lengyel állam bölcsőjében.",
@@ -1412,7 +1412,7 @@ export const polandHistoryV2: POI[] = [
     type: "church",
     parent: "PL",
     name: { de: "Basilika in Kościan", hu: "Kościani bazilika", ro: "Bazilica din Kościan", en: "Kościan Basilica" },
-    coordinates: { lat: 52.0833, lng: 16.6533 },
+    coords: [16.6533, 52.0833],
     description: {
       de: "Diese Kirche aus dem 14. Jahrhundert zeigt eine Mischung aus gotischen und barocken Stilelementen. Sie ist ein Wahrzeichen des religiösen Lebens der Stadt.",
       hu: "Ez a 14. századi templom a gótikus és barokk stílusjegyek keverékét mutatja. A város vallási életének egyik jelképe.",
@@ -1444,7 +1444,7 @@ export const polandHistoryV2: POI[] = [
     type: "park",
     parent: "PL",
     name: { de: "Park von Krasiczyn", hu: "Krasiczyni park", ro: "Parcul din Krasiczyn", en: "Krasiczyn Park" },
-    coordinates: { lat: 49.7758, lng: 22.6842 },
+    coords: [22.6842, 49.7758],
     description: {
       de: "Der weitläufige Park um das Schloss Krasiczyn ist berühmt für seine botanische Vielfalt und historischen Alleen. Er wurde im 19. Jahrhundert angelegt.",
       hu: "A Krasiczyn kastély körüli hatalmas park híres botanikai sokféleségéről és történelmi fasorairól. A 19. században alakították ki.",
@@ -1476,7 +1476,7 @@ export const polandHistoryV2: POI[] = [
     type: "palace",
     parent: "PL",
     name: { de: "Schloss Tarnowski in Tarnobrzeg", hu: "Tarnobrzegi Tarnowski-kastély", ro: "Castelul Tarnowski din Tarnobrzeg", en: "Tarnowski Castle in Tarnobrzeg" },
-    coordinates: { lat: 50.5694, lng: 21.6703 },
+    coords: [21.6703, 50.5694],
     description: {
       de: "Dieses Palastgebäude war der Sitz der Adelsfamilie Tarnowski. Es beherbergt heute ein Museum mit einer umfangreichen Sammlung historischer Artefakte.",
       hu: "Ez a palotaépület a Tarnowski nemesi család székhelye volt. Ma egy múzeumnak ad otthont, amely történelmi tárgyak gazdag gyűjteményét őrzi.",
@@ -1508,7 +1508,7 @@ export const polandHistoryV2: POI[] = [
     type: "mine",
     parent: "PL",
     name: { de: "Historische Saline Wieliczka", hu: "Wieliczkai történelmi sóbánya", ro: "Salina istorică din Wieliczka", en: "Wieliczka Historical Salt Works" },
-    coordinates: { lat: 49.9833, lng: 20.0575 },
+    coords: [20.0575, 49.9833],
     description: {
       de: "Die Saline Wieliczka ist eine der ältesten kontinuierlich betriebenen Minen der Welt. Sie ist ein technisches und historisches Erbe von Weltrang.",
       hu: "A Wieliczkai sóbánya a világ egyik legrégebbi folyamatosan működő bányája. Világszínvonalú technikai és történelmi örökség.",
@@ -1540,7 +1540,7 @@ export const polandHistoryV2: POI[] = [
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Chojnice", hu: "Chojnice óvárosa", ro: "Centrul vechi din Chojnice", en: "Chojnice Old Town" },
-    coordinates: { lat: 53.6936, lng: 17.555 },
+    coords: [17.555, 53.6936],
     description: {
       de: "Die Altstadt von Chojnice zeichnet sich durch ihren mittelalterlichen Grundriss aus. Besonders sehenswert sind die gut erhaltenen Teile der Stadtmauer.",
       hu: "Chojnice óvárosa középkori alaprajzáról ismert. Különösen említésre méltók a városfal jól megőrzött részei.",
@@ -1572,7 +1572,7 @@ export const polandHistoryV2: POI[] = [
     type: "ruins",
     parent: "PL",
     name: { de: "Schloss in Koło", hu: "Kołói vár", ro: "Castelul din Koło", en: "Koło Castle" },
-    coordinates: { lat: 52.2033, lng: 18.6369 },
+    coords: [18.6369, 52.2033],
     description: {
       de: "Die Ruinen der Burg Koło stammen aus dem 14. Jahrhundert. Sie war eine königliche Festung zur Sicherung des Warta-Übergangs.",
       hu: "A Kołói vár romjai a 14. századból származnak. Királyi erőd volt a Warta folyón való átkelőhely biztosítására.",
@@ -1604,7 +1604,7 @@ export const polandHistoryV2: POI[] = [
     type: "castle",
     parent: "PL",
     name: { de: "Schloss Glogau", hu: "Głogówi kastély", ro: "Castelul din Głogów", en: "Głogów Castle" },
-    coordinates: { lat: 51.6592, lng: 16.0883 },
+    coords: [16.0883, 51.6592],
     description: {
       de: "Dieses Schloss wurde ursprünglich im Mittelalter errichtet und später umgestaltet. Es war Sitz der lokalen Piasten-Herzöge.",
       hu: "Ezt a kastélyt eredetileg a középkorban építették, majd később átalakították. A helyi Piast hercegek székhelye volt.",
@@ -1636,7 +1636,7 @@ export const polandHistoryV2: POI[] = [
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Krosno", hu: "Krosno óvárosa", ro: "Centrul vechi din Krosno", en: "Krosno Old Town" },
-    coordinates: { lat: 49.6917, lng: 21.7583 },
+    coords: [21.7583, 49.6917],
     description: {
       de: "Krosno ist für seine gut erhaltene mittelalterliche Architektur bekannt. Die Altstadt bietet prachtvolle Arkadenhäuser aus dem 16. Jahrhundert.",
       hu: "Krosno jól megőrzött középkori építészetéről ismert. Az óváros 16. századi pompás árkádos házakat kínál.",
@@ -1668,7 +1668,7 @@ export const polandHistoryV2: POI[] = [
     type: "ruins",
     parent: "PL",
     name: { de: "Burg Czersk", hu: "Czerski vár", ro: "Castelul din Czersk", en: "Czersk Castle" },
-    coordinates: { lat: 51.9686, lng: 21.2339 },
+    coords: [21.2339, 51.9686],
     description: {
       de: "Die gotische Burg Czersk stammt aus dem 14. Jahrhundert und liegt strategisch über dem Weichseltal. Sie diente als Residenz der Herzöge von Masowien.",
       hu: "A Czerski gótikus vár a 14. századból származik, és stratégiailag a Visztula-völgy felett helyezkedik el. A mazóviai hercegek rezidenciája volt.",
@@ -1700,7 +1700,7 @@ export const polandHistoryV2: POI[] = [
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Nysa", hu: "Nysa óvárosa", ro: "Centrul vechi din Nysa", en: "Nysa Old Town" },
-    coordinates: { lat: 50.4739, lng: 17.3361 },
+    coords: [17.3361, 50.4739],
     description: {
       de: "Nysa war eine der wichtigsten Städte im historischen Schlesien. Die Altstadt bewahrt prächtige Sakralbauten und historische Bürgerhäuser.",
       hu: "Nysa a történelmi Szilézia egyik legfontosabb városa volt. Az óváros pompás szakrális épületeket és történelmi lakóházakat őriz.",
@@ -1732,7 +1732,7 @@ export const polandHistoryV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Altstadt von Legnica", hu: "Legnica óvárosa", ro: "Centrul vechi din Legnica", en: "Legnica Old Town" },
-    coordinates: { lat: 51.2064, lng: 16.1597 },
+    coords: [16.1597, 51.2064],
     description: {
       de: "Die Altstadt von Legnica ist bekannt für ihr Piasten-Schloss und historische Kirchen. Die Stadt blickt auf eine lange Tradition als schlesisches Zentrum zurück.",
       hu: "Legnica óvárosa Piast-kastélyáról és történelmi templomairól ismert. A város hosszú hagyományra tekint vissza, mint sziléziai központ.",
@@ -1764,7 +1764,7 @@ export const polandHistoryV2: POI[] = [
     type: "cathedral",
     parent: "PL",
     name: { de: "Kathedrale von Kalisz", hu: "Kaliszi székesegyház", ro: "Catedrala din Kalisz", en: "Kalisz Cathedral" },
-    coordinates: { lat: 51.7589, lng: 18.0933 },
+    coords: [18.0933, 51.7589],
     description: {
       de: "Die Kathedrale von Kalisz, auch als Kollegiatskirche bekannt, stammt aus dem 14. Jahrhundert. Sie ist ein bedeutendes religiöses Zentrum Polens.",
       hu: "A kaliszi székesegyház, más néven társaskáptalani templom, a 14. századból származik. Lengyelország fontos vallási központja.",
@@ -1796,7 +1796,7 @@ export const polandHistoryV2: POI[] = [
     type: "castle",
     parent: "PL",
     name: { de: "Schloss der Pommerschen Herzöge in Słupsk", hu: "Słupski pomerániai hercegi kastély", ro: "Castelul ducilor pomeranieni din Słupsk", en: "Castle of the Pomeranian Dukes in Słupsk" },
-    coordinates: { lat: 54.4633, lng: 17.0256 },
+    coords: [17.0256, 54.4633],
     description: {
       de: "Dieses Schloss wurde im 16. Jahrhundert für die pommerschen Herzöge erbaut. Heute beherbergt es ein Regionalmuseum mit einer wertvollen Sammlung.",
       hu: "Ezt a kastélyt a 16. században építették a pomerániai hercegek számára. Ma egy értékes gyűjteménnyel rendelkező regionális múzeumnak ad otthont.",
@@ -1828,7 +1828,7 @@ export const polandHistoryV2: POI[] = [
     type: "castle",
     parent: "PL",
     name: { de: "Schloss Tykocin", hu: "Tykocini vár", ro: "Castelul din Tykocin", en: "Tykocin Castle" },
-    coordinates: { lat: 53.2081, lng: 22.7767 },
+    coords: [22.7767, 53.2081],
     description: {
       de: "Das Schloss Tykocin war einst eine königliche Festung und Schatzkammer. Die rekonstruierte Anlage bietet heute Einblicke in die polnische Adelskultur.",
       hu: "A tykocini vár egykor királyi erőd és kincstár volt. A rekonstruált létesítmény ma betekintést nyújt a lengyel nemesi kultúrába.",
@@ -1860,7 +1860,7 @@ export const polandHistoryV2: POI[] = [
     type: "town",
     parent: "PL",
     name: { de: "Historisches Zentrum von Kędzierzyn", hu: "Kędzierzyn történelmi központja", ro: "Centrul istoric din Kędzierzyn", en: "Kędzierzyn Historical Center" },
-    coordinates: { lat: 50.3456, lng: 18.21 },
+    coords: [18.21, 50.3456],
     description: {
       de: "Dieser Bereich bewahrt die industrielle Geschichte der Region Oberschlesien. Zahlreiche Gebäude aus dem 19. Jahrhundert zeugen von der wirtschaftlichen Entwicklung.",
       hu: "Ez a terület megőrzi Felső-Szilézia régió ipari történetét. A 19. századi épületek tanúskodnak a gazdasági fejlődésről.",
@@ -1892,7 +1892,7 @@ export const polandHistoryV2: POI[] = [
     type: "castle",
     parent: "PL",
     name: { de: "Schlossberg in Cieszyn", hu: "Cieszyni várhegy", ro: "Dealul castelului din Cieszyn", en: "Cieszyn Castle Hill" },
-    coordinates: { lat: 49.7497, lng: 18.6306 },
+    coords: [18.6306, 49.7497],
     description: {
       de: "Der Schlossberg ist der historische Ursprung von Cieszyn. Er umfasst eine mittelalterliche Rotunde aus dem 11. Jahrhundert.",
       hu: "A várhegy Cieszyn történelmi eredete. Egy 11. századi középkori rotundát foglal magában.",
@@ -1924,7 +1924,7 @@ export const polandHistoryV2: POI[] = [
     type: "tower",
     parent: "PL",
     name: { de: "Barbakan von Krakau", hu: "Krakkói Barbakán", ro: "Barbakan din Cracovia", en: "Kraków Barbican" },
-    coordinates: { lat: 50.0658, lng: 19.9406 },
+    coords: [19.9406, 50.0658],
     description: {
       de: "Der Barbakan ist ein einzigartiges Beispiel für mittelalterliche Verteidigungsarchitektur. Er schützte einst das nördliche Tor der Stadt Krakau.",
       hu: "A Barbakán a középkori védelmi építészet egyedülálló példája. Egykor Krakkó városának északi kapuját védte.",
@@ -1956,7 +1956,7 @@ export const polandHistoryV2: POI[] = [
     type: "cathedral",
     parent: "PL",
     name: { de: "Kathedralen-Komplex von Gnesen", hu: "Gnieznói székesegyházi komplexum", ro: "Complexul catedralei din Gniezno", en: "Gniezno Cathedral Complex" },
-    coordinates: { lat: 52.5333, lng: 17.595 },
+    coords: [17.595, 52.5333],
     description: {
       de: "Diese Kathedrale ist eng mit den Anfängen des polnischen Staates verbunden. Sie ist der Ort der Krönungen polnischer Könige.",
       hu: "Ez a székesegyház szorosan kapcsolódik a lengyel állam kezdetéhez. A lengyel királyok koronázási helyszíne.",
@@ -1988,7 +1988,7 @@ export const polandHistoryV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Altstadt von Bytom", hu: "Bytom óvárosa", ro: "Centrul vechi din Bytom", en: "Bytom Old Town" },
-    coordinates: { lat: 50.3475, lng: 18.9175 },
+    coords: [18.9175, 50.3475],
     description: {
       de: "Bytom blickt auf eine lange Tradition als Bergbauzentrum zurück. Die Altstadt bewahrt noch heute Spuren ihrer mittelalterlichen Struktur und Architektur.",
       hu: "Bytom hosszú hagyományra tekint vissza bányászati központként. Az óváros még ma is őrzi középkori szerkezetének és építészetének nyomait.",
@@ -2020,7 +2020,7 @@ export const polandHistoryV2: POI[] = [
     type: "church",
     parent: "PL",
     name: { de: "Basilika in Kalisz", hu: "Kaliszi bazilika", ro: "Bazilica din Kalisz", en: "Kalisz Basilica" },
-    coordinates: { lat: 51.7511, lng: 18.0922 },
+    coords: [18.0922, 51.7511],
     description: {
       de: "Diese bedeutende Basilika wurde im Barockstil umgestaltet und beherbergt zahlreiche religiöse Kunstwerke. Sie ist ein Zentrum der lokalen Wallfahrt.",
       hu: "Ez a jelentős bazilika barokk stílusban épült át, és számos vallási műalkotásnak ad otthont. A helyi zarándoklat központja.",
@@ -2052,7 +2052,7 @@ export const polandHistoryV2: POI[] = [
     type: "cathedral",
     parent: "PL",
     name: { de: "Kathedrale von Tarnów", hu: "Tarnówi székesegyház", ro: "Catedrala din Tarnów", en: "Tarnów Cathedral" },
-    coordinates: { lat: 50.01, lng: 20.99 },
+    coords: [20.99, 50.01],
     description: {
       de: "Die Kathedrale von Tarnów beeindruckt durch ihre gotische Architektur und die prächtigen Grabmonumente. Sie ist ein Wahrzeichen der Stadt.",
       hu: "A Tarnówi székesegyház gótikus építészetével és pompás síremlékeivel nyűgöz le. A város egyik jelképe.",
@@ -2084,7 +2084,7 @@ export const polandHistoryV2: POI[] = [
     type: "ruins",
     parent: "PL",
     name: { de: "Festungswerke von Nysa", hu: "Nysa erődítményei", ro: "Fortificațiile din Nysa", en: "Nysa Fortifications" },
-    coordinates: { lat: 50.47, lng: 17.33 },
+    coords: [17.33, 50.47],
     description: {
       de: "Nysa war eine der am stärksten befestigten Städte Schlesiens. Die Überreste der Festungsanlagen zeugen von der militärischen Bedeutung der Stadt.",
       hu: "Nysa Szilézia egyik legerősebben megerősített városa volt. Az erődítmények maradványai tanúskodnak a város katonai jelentőségéről.",
@@ -2116,7 +2116,7 @@ export const polandHistoryV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Altstadt von Gnesen", hu: "Gnieznói óváros", ro: "Centrul vechi din Gniezno", en: "Gniezno Old Town" },
-    coordinates: { lat: 52.535, lng: 17.585 },
+    coords: [17.585, 52.535],
     description: {
       de: "Gnesen war die erste Hauptstadt Polens. Die Altstadt bewahrt zahlreiche historische Gebäude, die die königliche Vergangenheit unterstreichen.",
       hu: "Gniezno volt Lengyelország első fővárosa. Az óváros számos történelmi épületet őriz, amelyek hangsúlyozzák a királyi múltat.",
@@ -2148,7 +2148,7 @@ export const polandHistoryV2: POI[] = [
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Kwidzyn", hu: "Kwidzyni óváros", ro: "Centrul vechi din Kwidzyn", en: "Kwidzyn Old Town" },
-    coordinates: { lat: 53.725, lng: 18.91 },
+    coords: [18.91, 53.725],
     description: {
       de: "Kwidzyn ist bekannt für seine Backsteingotik. Die Altstadt bietet einen Einblick in die Zeit des Deutschen Ordens in dieser Region.",
       hu: "Kwidzyn tégla-gótikájáról ismert. Az óváros betekintést nyújt a Német Lovagrend régióbeli időszakába.",
@@ -2180,7 +2180,7 @@ export const polandHistoryV2: POI[] = [
     type: "city",
     parent: "PL",
     name: { de: "Altstadt von Bydgoszcz", hu: "Bydgoszcz óvárosa", ro: "Centrul vechi din Bydgoszcz", en: "Bydgoszcz Old Town" },
-    coordinates: { lat: 53.1233, lng: 18.0075 },
+    coords: [18.0075, 53.1233],
     description: {
       de: "Bydgoszcz besitzt eine malerische Altstadt mit Wasserwegen und historischen Speichergebäuden. Sie ist ein wichtiges Zentrum an der Brda.",
       hu: "Bydgoszcz festői óvárossal rendelkezik, vízi utakkal és történelmi magtárakkal. Fontos központ a Brda folyó mentén.",
@@ -2212,7 +2212,7 @@ export const polandHistoryV2: POI[] = [
     type: "ruins",
     parent: "PL",
     name: { de: "Festung Koźle", hu: "Koźlei erőd", ro: "Fortăreața Koźle", en: "Koźle Fortress" },
-    coordinates: { lat: 50.3347, lng: 18.1517 },
+    coords: [18.1517, 50.3347],
     description: {
       de: "Die Überreste der Festung Koźle sind ein bedeutendes militärisches Denkmal. Sie spielten eine entscheidende Rolle in der Geschichte der Region.",
       hu: "A Koźlei erőd maradványai jelentős katonai műemlék. Döntő szerepet játszottak a régió történetében.",
@@ -2244,7 +2244,7 @@ export const polandHistoryV2: POI[] = [
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Cieszyn", hu: "Cieszyn óvárosa", ro: "Centrul vechi din Cieszyn", en: "Cieszyn Old Town" },
-    coordinates: { lat: 49.749, lng: 18.633 },
+    coords: [18.633, 49.749],
     description: {
       de: "Cieszyn ist bekannt für seine grenzüberschreitende Geschichte. Die Altstadt bietet eine charmante Mischung aus Architekturstilen.",
       hu: "Cieszyn határokon átívelő történelméről ismert. Az óváros építészeti stílusok bűbájos keverékét kínálja.",
@@ -2276,7 +2276,7 @@ export const polandHistoryV2: POI[] = [
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Tykocin", hu: "Tykocini óváros", ro: "Centrul vechi din Tykocin", en: "Tykocin Old Town" },
-    coordinates: { lat: 53.2075, lng: 22.775 },
+    coords: [22.775, 53.2075],
     description: {
       de: "Tykocin bewahrt eine intakte barocke städtebauliche Anlage. Sie ist berühmt für ihre Synagoge und historischen Bürgerhäuser.",
       hu: "Tykocin ép barokk várostervezési rendszert őriz. Híres zsinagógájáról és történelmi polgárházairól.",
@@ -2308,7 +2308,7 @@ export const polandHistoryV2: POI[] = [
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Strzegom", hu: "Strzegomi óváros", ro: "Centrul vechi din Strzegom", en: "Strzegom Old Town" },
-    coordinates: { lat: 50.958, lng: 16.346 },
+    coords: [16.346, 50.958],
     description: {
       de: "Strzegom ist historisch für seinen Granitabbau bekannt. Die Altstadt bietet gut erhaltene mittelalterliche Grundrisse und historische Gebäude.",
       hu: "Strzegom történelmileg a gránitbányászatáról ismert. Az óváros jól megőrzött középkori alaprajzot és történelmi épületeket kínál.",

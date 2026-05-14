@@ -910,7 +910,19 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "Site of intense negotiations between British and local rulers.",
         "Known for its expansive beaches and historical atmosphere."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der historische Hafen von Sulima in Sierra Leone war im 19. Jahrhundert ein bedeutender Handelsumschlagplatz für Elfenbein, Palmöl und Sklaven. Er liegt an der Mündung des Moa River. Die britische Kolonialverwaltung baute hier Anlegestellen. Heute ist der Hafen ein Ort der Fischerei. Ruinen der alten Lagerhäuser zeugen von der Vergangenheit.",
+      hu: "A sulimai történelmi kikötő (Sierra Leone) a 19. században fontos kereskedelmi központ volt. Elefántcsontot, pálmaolajat és rabszolgákat szállítottak innen. A Moa folyó torkolatánál fekszik. A brit gyarmati hatóságok kiépítették a rakpartot. Ma halászkikötőként működik.",
+      ro: "Portul istoric Sulima din Sierra Leone, situat la vărsarea râului Moa, a fost un centru comercial major în secolul al XIX-lea pentru fildeș, ulei de palmier și sclavi. Autoritățile coloniale britanice au construit infrastructura. Astăzi servește pescuitul artizanal. Ruinele depozitelor vechi amintesc de trecut.",
+      en: "Sulima Historical Port in Sierra Leone, at the mouth of the Moa River, was a 19th-century hub for ivory, palm oil, and slave trade. The British colonial administration built quays and warehouses. Today it supports fishing. Ruins of old structures remain.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Mündung des Moa River", "Blütezeit: 19. Jahrhundert", "Handelsgüter: Elfenbein, Palmöl, Sklaven", "Koloniale Infrastruktur: Kais und Lagerhäuser", "Heutige Nutzung: Fischerei", "Erste Erwähnung: 1820er Jahre"],
+      hu: ["Elhelyezkedés: Moa folyó torkolata", "Fénykor: 19. század", "Kereskedelmi cikkek: elefántcsont, pálmaolaj, rabszolgák", "Gyarmati építmények: rakpart, raktárak", "Jelenlegi használat: halászat", "Első említés: 1820-as évek"],
+      ro: ["Locație: vărsarea râului Moa", "Perioada de glorie: secolul al XIX-lea", "Mărfuri: fildeș, ulei de palmier, sclavi", "Infrastructură colonială: cheiuri, depozite", "Utilizare actuală: pescuit", "Prima mențiune: anii 1820"],
+      en: ["Location: mouth of Moa River", "Peak period: 19th century", "Traded goods: ivory, palm oil, slaves", "Colonial infrastructure: quays, warehouses", "Current use: fishing", "First recorded: 1820s"],
+    },
   },
   {
     id: "bai-bureh-memorial-history-v2",
@@ -950,7 +962,20 @@ export const poiExtraSierraleoneHistoryV2: POI[] = [
         "The 1898 uprising is a milestone in Sierra Leone's history.",
         "His legacy is celebrated as a symbol of independence and courage."
       ]
-    }, image: "/poi-images/bai-bureh-memorial-history-v2.webp"},
+    }, image: "/poi-images/bai-bureh-memorial-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bai-Bureh-Denkmal in Kasseh, Sierra Leone, ehrt den Temne-Häuptling Bai Bureh, der 1898 den britischen Kolonialtruppen Widerstand leistete. Das 10 Meter hohe Monument aus Beton zeigt den Kriegshäuptling in traditioneller Kleidung. Es wurde 1998 zum 100. Jahrestag des Krieges errichtet. Der Ort ist ein nationales Kulturerbe.",
+      hu: "A bai-bureh-i emlékmű (Kasseh, Sierra Leone) Bai Bureh temne törzsfőnök előtt tiszteleg, aki 1898-ban ellenállt a briteknek. A 10 méter magas betonszobor hagyományos ruhában ábrázolja. 1998-ban, a háború centenáriumán avatták fel. Nemzeti örökség.",
+      ro: "Memorialul Bai Bureh din Kasseh, Sierra Leone, onorează șeful temne Bai Bureh, care a rezistat britanicilor în 1898. Monumentul din beton, înalt de 10 metri, îl înfățișează în costum tradițional. A fost dezvelit în 1998, la centenarul războiului. Este patrimoniu național.",
+      en: "The Bai Bureh Memorial in Kasseh, Sierra Leone, honors Temne chief Bai Bureh, who resisted British rule in 1898. The 10-meter concrete statue depicts him in traditional attire. Erected in 1998 for the war's centenary, it is a national heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet: 1998", "Höhe: 10 Meter", "Material: Beton", "Standort: Kasseh, Sierra Leone", "Geehrte Person: Bai Bureh (Temne-Häuptling)", "Historischer Hintergrund: Krieg von 1898"],
+      hu: ["Felavatva: 1998", "Magasság: 10 m", "Anyaga: beton", "Hely: Kasseh, Sierra Leone", "Tisztelet: Bai Bureh törzsfőnök", "Történelmi esemény: 1898-as háború"],
+      ro: ["Dezvelit: 1998", "Înălțime: 10 m", "Material: beton", "Locație: Kasseh, Sierra Leone", "Onoare: șeful Bai Bureh", "Eveniment: războiul din 1898"],
+      en: ["Erected: 1998", "Height: 10 meters", "Material: concrete", "Location: Kasseh, Sierra Leone", "Honoree: Bai Bureh (Temne chief)", "Historical context: 1898 rebellion"],
+    },
+  },
   {
     id: "gbangbatoke-historical-site-history-v2",
     type: "historical",

@@ -6,7 +6,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RS",
     name: { de: "Kapetan-Miša-Palast", hu: "Kapetan-Miša-palota", ro: "Palatul Kapetan-Miša", en: "Kapetan-Miša's Palace" },
-    coordinates: { lat: 44.8172, lng: 20.4578 },
+    coords: [20.4578, 44.8172],
     description: {
       de: "Das 1863 erbaute Gebäude diente ursprünglich als Wohn- und Geschäftshaus für Miša Anastasijević. Heute beherbergt es die Rektoratsverwaltung der Universität Belgrad.",
       hu: "Az 1863-ban épült épület eredetileg Miša Anastasijević lakó- és üzletháza volt. Ma a Belgrádi Egyetem rektorátusának ad otthont.",
@@ -38,7 +38,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Serbien", hu: "Szerbia Nemzeti Múzeuma", ro: "Muzeul Național al Serbiei", en: "National Museum of Serbia" },
-    coordinates: { lat: 44.8163, lng: 20.4612 },
+    coords: [20.4612, 44.8163],
     description: {
       de: "Das am Platz der Republik gelegene Museum bewahrt über 400.000 Exponate zur serbischen und internationalen Kunstgeschichte. Es wurde 1844 gegründet.",
       hu: "A Köztársaság téren található múzeum több mint 400 000 kiállítási tárgyat őriz a szerb és nemzetközi művészettörténetből. 1844-ben alapították.",
@@ -70,7 +70,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RS",
     name: { de: "Rathaus Subotica", hu: "Szabadkai városháza", ro: "Primăria Subotica", en: "Subotica City Hall" },
-    coordinates: { lat: 46.1018, lng: 19.6648 },
+    coords: [19.6648, 46.1018],
     description: {
       de: "Das 1912 fertiggestellte Gebäude ist ein bedeutendes Beispiel der ungarischen Sezession. Es zeichnet sich durch seinen zentralen Turm und farbenfrohe Dekorationen aus.",
       hu: "Az 1912-ben elkészült épület a magyar szecesszió jelentős alkotása. Központi tornyáról és színes díszítéseiről ismert.",
@@ -102,7 +102,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Gedenkkirche in Lazarevac", hu: "Lazarevaci emléktemplom", ro: "Biserica memorială din Lazarevac", en: "Lazarevac Memorial Church" },
-    coordinates: { lat: 44.3789, lng: 20.2635 },
+    coords: [20.2635, 44.3789],
     description: {
       de: "Die dem Heiligen Demetrios geweihte Kirche erinnert an die Opfer der Schlacht von Kolubara im Ersten Weltkrieg. Sie beherbergt eine Krypta mit Gebeinen der Soldaten.",
       hu: "A Szent Demeternek szentelt templom az első világháborús kolubarai csata áldozatainak állít emléket. A templom kriptájában a katonák földi maradványai találhatók.",
@@ -134,7 +134,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Golubac Festungstor", hu: "Galambóci várkapu", ro: "Poarta cetății Golubăț", en: "Golubac Fortress Gate" },
-    coordinates: { lat: 44.6644, lng: 21.6667 },
+    coords: [21.6667, 44.6644],
     description: {
       de: "Dieses historische Bauwerk markiert den Eingang zur strategisch wichtigen Festung Golubac am Eisernen Tor der Donau. Es kontrollierte den Schiffsverkehr durch die Schlucht.",
       hu: "Ez a történelmi építmény jelöli a stratégiailag fontos galambóci vár bejáratát a Duna Vaskapu-szorosánál. Szabályozta a szoroson áthaladó hajóforgalmat.",
@@ -166,7 +166,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "bridge",
     parent: "RS",
     name: { de: "Steinbrücke Prizren", hu: "Prizreni kőhíd", ro: "Podul de piatră din Prizren", en: "Prizren Stone Bridge" },
-    coordinates: { lat: 42.2092, lng: 20.7383 },
+    coords: [20.7383, 42.2092],
     description: {
       de: "Die im 15. Jahrhundert erbaute osmanische Steinbrücke überspannt die Prizren Bistrica. Sie ist ein bedeutendes architektonisches Wahrzeichen der Stadt.",
       hu: "A 15. században épült oszmán kőhíd ível át a Prizren Bistrica folyón. A város jelentős építészeti mérföldköve.",
@@ -198,7 +198,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RS",
     name: { de: "Nationaltheater Belgrad", hu: "Belgrádi Nemzeti Színház", ro: "Teatrul Național din Belgrad", en: "National Theatre in Belgrade" },
-    coordinates: { lat: 44.8174, lng: 20.4616 },
+    coords: [20.4616, 44.8174],
     description: {
       de: "Das 1869 errichtete Theatergebäude ist das Zentrum für Schauspiel, Oper und Ballett in Belgrad. Es befindet sich am Platz der Republik.",
       hu: "Az 1869-ben épült színházépület a belgrádi dráma, opera és balett központja. A Köztársaság téren található.",
@@ -230,7 +230,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Altes Parlamentsgebäude Kragujevac", hu: "Kragujevaci régi parlament", ro: "Vechea clădire a parlamentului din Kragujevac", en: "Old Parliament Building Kragujevac" },
-    coordinates: { lat: 44.0125, lng: 20.9136 },
+    coords: [20.9136, 44.0125],
     description: {
       de: "Dieser Ort ist historisch bedeutsam, da hier 1835 die erste serbische Verfassung verkündet wurde. Heute ist das Gelände als Museumskomplex zugänglich.",
       hu: "Ez a hely történelmi jelentőségű, mivel 1835-ben itt hirdették ki az első szerb alkotmányt. Ma a terület múzeumi komplexumként látogatható.",
@@ -262,7 +262,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RS",
     name: { de: "Altes Schloss Belgrad", hu: "Ópalota, Belgrád", ro: "Vechiul Palat din Belgrad", en: "Old Palace, Belgrade" },
-    coordinates: { lat: 44.8115, lng: 20.4611 },
+    coords: [20.4611, 44.8115],
     description: {
       de: "Das zwischen 1881 und 1884 erbaute Gebäude diente einst als Residenz der königlichen Familie Obrenović. Es beherbergt heute die Belgrader Stadtverwaltung.",
       hu: "Az 1881 és 1884 között épült épület egykor az Obrenović királyi család rezidenciájaként szolgált. Ma a belgrádi városháznak ad otthont.",
@@ -294,7 +294,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Festung Niš", hu: "Nisi erőd", ro: "Cetatea Niș", en: "Niš Fortress" },
-    coordinates: { lat: 43.3255, lng: 21.8927 },
+    coords: [21.8927, 43.3255],
     description: {
       de: "Die gut erhaltene Festung stammt aus dem 18. Jahrhundert und wurde von den Osmanen auf älteren Fundamenten errichtet. Sie ist ein zentraler Park in Niš.",
       hu: "A jól megőrzött erőd a 18. századból származik, és az oszmánok építették régebbi alapokon. A város központi parkja.",
@@ -326,7 +326,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RS",
     name: { de: "König-Peter-I.-Denkmal", hu: "I. Péter király emlékműve", ro: "Statuia regelui Petru I", en: "King Peter I Monument" },
-    coordinates: { lat: 44.8184, lng: 20.4565 },
+    coords: [20.4565, 44.8184],
     description: {
       de: "Dieses Denkmal im Zentrum Belgrads ehrt den ersten serbischen König aus der Karadjordjevic-Dynastie. Es wurde im 20. Jahrhundert errichtet.",
       hu: "Ez a belgrádi emlékmű a Karadjordjevic-dinasztia első szerb királyának állít emléket. A 20. században emelték.",
@@ -358,7 +358,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Synagoge von Subotica", hu: "Szabadkai zsinagóga", ro: "Sinagoga din Subotica", en: "Subotica Synagogue" },
-    coordinates: { lat: 46.1039, lng: 19.6631 },
+    coords: [19.6631, 46.1039],
     description: {
       de: "Dieses architektonische Meisterwerk des Jugendstils wurde 1902 fertiggestellt. Die reich verzierte Fassade und das Interieur sind gut erhalten.",
       hu: "A szecesszió ezen építészeti remekműve 1902-ben készült el. A gazdagon díszített homlokzat és a belső tér jól megőrzött.",
@@ -390,7 +390,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kirche Mariä Himmelfahrt Smederevo", hu: "Smederevói Nagyboldogasszony-templom", ro: "Biserica Adormirea Maicii Domnului din Smederevo", en: "Church of the Assumption of the Virgin, Smederevo" },
-    coordinates: { lat: 44.6625, lng: 20.9234 },
+    coords: [20.9234, 44.6625],
     description: {
       de: "Die orthodoxe Kirche wurde im 19. Jahrhundert errichtet und dient als eines der religiösen Zentren von Smederevo. Sie ist bekannt für ihre Ikonostase.",
       hu: "Az ortodox templom a 19. században épült, és Smederevó egyik vallási központja. Ikonosztázáról ismert.",
@@ -422,7 +422,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Valjevo", hu: "Valjevói Nemzeti Múzeum", ro: "Muzeul Național din Valjevo", en: "National Museum Valjevo" },
-    coordinates: { lat: 44.2721, lng: 19.8906 },
+    coords: [19.8906, 44.2721],
     description: {
       de: "Das Museum dokumentiert die historische Entwicklung der Region Valjevo von der Urgeschichte bis zur modernen Zeit. Es bietet umfangreiche archäologische Sammlungen.",
       hu: "A múzeum dokumentálja Valjevo régiójának történelmi fejlődését az őskortól a modern időkig. Kiterjedt régészeti gyűjteményekkel rendelkezik.",
@@ -454,7 +454,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "tower",
     parent: "RS",
     name: { de: "Vršac Turm", hu: "Versec-torony", ro: "Turnul din Vârșeț", en: "Vršac Tower" },
-    coordinates: { lat: 45.1221, lng: 21.3164 },
+    coords: [21.3164, 45.1221],
     description: {
       de: "Der Vršac-Turm, auch bekannt als Wrschatz-Burgruine, thront auf einem Hügel über der Stadt. Er ist das bedeutendste Überbleibsel einer mittelalterlichen Befestigungsanlage.",
       hu: "A Versec-torony, más néven verseci várrom, a város feletti dombon magasodik. A középkori erődítmény legjelentősebb maradványa.",
@@ -486,7 +486,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Zaječar", hu: "Zaječari Nemzeti Múzeum", ro: "Muzeul Național din Zaječar", en: "National Museum Zaječar" },
-    coordinates: { lat: 43.9038, lng: 22.2721 },
+    coords: [22.2721, 43.9038],
     description: {
       de: "Dieses Museum ist bekannt für seine bedeutende Sammlung von Fundstücken aus der nahe gelegenen antiken Stätte Felix Romuliana.",
       hu: "Ez a múzeum a közeli Felix Romuliana antik lelőhelyről származó jelentős leletgyűjteményéről ismert.",
@@ -518,7 +518,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "castle",
     parent: "RS",
     name: { de: "Momčilo-Festung Pirot", hu: "Piroti Momčilo-vár", ro: "Cetatea Momčilo din Pirot", en: "Momčilo's Fortress Pirot" },
-    coordinates: { lat: 43.1557, lng: 22.5857 },
+    coords: [22.5857, 43.1557],
     description: {
       de: "Die mittelalterliche Festung Momčilov Grad befindet sich in Pirot und stammt aus der Regierungszeit von Fürst Lazar. Sie wurde in den letzten Jahren restauriert.",
       hu: "A középkori Momčilov Grad erőd Pirotban található, és Lázár fejedelem uralkodása idejéből származik. Az utóbbi években felújították.",
@@ -550,7 +550,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RS",
     name: { de: "Raichle-Palast Subotica", hu: "Raichle-palota, Szabadka", ro: "Palatul Raichle din Subotica", en: "Raichle Palace, Subotica" },
-    coordinates: { lat: 46.1026, lng: 19.6675 },
+    coords: [19.6675, 46.1026],
     description: {
       de: "Dieses markante Gebäude im Jugendstil wurde 1904 erbaut und diente als privates Wohnhaus des Architekten Ferenc Raichle. Heute ist es eine Kunstgalerie.",
       hu: "Ezt a feltűnő szecessziós épületet 1904-ben építették, és Ferenc Raichle építész magánháza volt. Ma művészeti galéria.",
@@ -582,7 +582,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Ethnographisches Museum Belgrad", hu: "Belgrádi Néprajzi Múzeum", ro: "Muzeul Etnografic din Belgrad", en: "Ethnographic Museum Belgrade" },
-    coordinates: { lat: 44.8213, lng: 20.4552 },
+    coords: [20.4552, 44.8213],
     description: {
       de: "Das Museum bewahrt eine umfangreiche Sammlung traditioneller serbischer Trachten, Werkzeuge und Handwerkskunst. Es ist eines der ältesten Museen der Stadt.",
       hu: "A múzeum kiterjedt gyűjteményt őriz a hagyományos szerb népviseletekből, eszközökből és kézműves tárgyakból. A város egyik legrégebbi múzeuma.",
@@ -614,7 +614,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Altes Wasserkraftwerk Užice", hu: "Užicei régi vízerőmű", ro: "Vechea hidrocentrală din Užice", en: "Old Hydroelectric Plant Užice" },
-    coordinates: { lat: 43.8505, lng: 19.8398 },
+    coords: [19.8398, 43.8505],
     description: {
       de: "Das 1900 erbaute Kraftwerk an der Đetinja ist eines der ältesten nach dem Prinzip von Tesla errichteten Wasserkraftwerke weltweit. Es ist heute ein technisches Denkmal.",
       hu: "Az 1900-ban épült, Đetinja folyón álló erőmű a világ egyik legrégebbi, Tesla elvei alapján épült vízerőműve. Ma műszaki műemlék.",
@@ -646,7 +646,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Čačak", hu: "Čačaki Nemzeti Múzeum", ro: "Muzeul Național din Čačak", en: "National Museum Čačak" },
-    coordinates: { lat: 43.8912, lng: 20.3486 },
+    coords: [20.3486, 43.8912],
     description: {
       de: "Das Museum befindet sich im Konak des Gospodar Jovan Obrenović aus dem 19. Jahrhundert. Es präsentiert Exponate zur Regionalgeschichte von Čačak.",
       hu: "A múzeum a 19. századi Gospodar Jovan Obrenović konakban található. A Čačak régió történelmét bemutató kiállításokat tartalmazza.",
@@ -678,7 +678,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Festung Lazarev Grad", hu: "Lazarev Grad erőd", ro: "Cetatea Lazarev Grad", en: "Lazarev Grad Fortress" },
-    coordinates: { lat: 43.5855, lng: 21.3195 },
+    coords: [21.3195, 43.5855],
     description: {
       de: "Die mittelalterliche Festung war die Residenz von Fürst Lazar während des 14. Jahrhunderts. Heute sind nur noch Überreste wie der Donjon-Turm erhalten.",
       hu: "A középkori erőd Lázár fejedelem rezidenciája volt a 14. században. Ma már csak maradványai, például a Donjon-torony láthatók.",
@@ -710,7 +710,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RS",
     name: { de: "Nationaltheater Subotica", hu: "Szabadkai Nemzeti Színház", ro: "Teatrul Național din Subotica", en: "National Theatre Subotica" },
-    coordinates: { lat: 46.1012, lng: 19.6652 },
+    coords: [19.6652, 46.1012],
     description: {
       de: "Das Theater in Subotica ist eine der ältesten Institutionen dieser Art in Serbien. Das heutige Gebäude wurde im 19. Jahrhundert erbaut.",
       hu: "A szabadkai színház az egyik legrégebbi ilyen intézmény Szerbiában. A jelenlegi épület a 19. században épült.",
@@ -742,7 +742,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RS",
     name: { de: "Terazije-Brunnen Belgrad", hu: "Terazije-kút, Belgrád", ro: "Fântâna Terazije din Belgrad", en: "Terazije Fountain, Belgrade" },
-    coordinates: { lat: 44.8136, lng: 20.4604 },
+    coords: [20.4604, 44.8136],
     description: {
       de: "Dieser historische Brunnen aus dem 19. Jahrhundert befindet sich im zentralen Platz von Belgrad. Er ist ein bekanntes Symbol der Stadt.",
       hu: "Ez a 19. századi történelmi kút Belgrád központi terén található. A város egyik közismert jelképe.",
@@ -774,7 +774,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Mokranjac-Museum Negotin", hu: "Mokranjac-múzeum, Negotin", ro: "Muzeul Mokranjac din Negotin", en: "Mokranjac Museum Negotin" },
-    coordinates: { lat: 44.2275, lng: 22.5311 },
+    coords: [22.5311, 44.2275],
     description: {
       de: "Das Museum widmet sich dem Leben und Werk des berühmten serbischen Komponisten Stevan Mokranjac. Es befindet sich in seinem Geburtshaus.",
       hu: "A múzeum a híres szerb zeneszerző, Stevan Mokranjac életének és munkásságának szenteli magát. Szülőházában található.",
@@ -806,7 +806,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Karadjordje-Kirche Topola", hu: "Karađorđe-templom, Topola", ro: "Biserica Karadjordje din Topola", en: "Karadjordje Church, Topola" },
-    coordinates: { lat: 44.2536, lng: 20.6775 },
+    coords: [20.6775, 44.2536],
     description: {
       de: "Die historische Kirche wurde Anfang des 19. Jahrhunderts von Karadjordje Petrović erbaut. Sie ist ein bedeutendes religiöses und historisches Denkmal.",
       hu: "A történelmi templomot a 19. század elején építtette Karađorđe Petrović. Jelentős vallási és történelmi emlékmű.",
@@ -838,7 +838,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RS",
     name: { de: "Rathaus Zrenjanin", hu: "Nagybecskereki városháza", ro: "Primăria Zrenjanin", en: "Zrenjanin City Hall" },
-    coordinates: { lat: 45.3812, lng: 20.3855 },
+    coords: [20.3855, 45.3812],
     description: {
       de: "Das imposante Gebäude im Neorenaissance-Stil wurde Ende des 19. Jahrhunderts erbaut. Es prägt das Stadtbild von Zrenjanin.",
       hu: "Az impozáns neoreneszánsz épületet a 19. század végén emelték. Meghatározza Nagybecskerek városképét.",
@@ -870,7 +870,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Stadtbibliothek Smederevo", hu: "Smederevói Városi Könyvtár", ro: "Biblioteca orășenească din Smederevo", en: "City Library Smederevo" },
-    coordinates: { lat: 44.6631, lng: 20.9255 },
+    coords: [20.9255, 44.6631],
     description: {
       de: "Die Bibliothek ist eine bedeutende kulturelle Institution in Smederevo. Sie befindet sich in einem historisch wertvollen Gebäude im Stadtzentrum.",
       hu: "A könyvtár Smederevó jelentős kulturális intézménye. A városközpontban egy történelmileg értékes épületben található.",
@@ -902,7 +902,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RS",
     name: { de: "Konak des Pascha Vranje", hu: "Vranjei pasa konakja", ro: "Conacul pașei din Vranje", en: "Pasha's Konak Vranje" },
-    coordinates: { lat: 42.5528, lng: 21.9002 },
+    coords: [21.9002, 42.5528],
     description: {
       de: "Das im 18. Jahrhundert erbaute Wohnhaus eines osmanischen Paschas ist ein bedeutendes Beispiel der Balkanchitektur. Heute beherbergt es das Regionalmuseum.",
       hu: "A 18. században épült oszmán pasa lakóháza a balkáni építészet jelentős példája. Ma a regionális múzeumnak ad otthont.",
@@ -934,7 +934,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RS",
     name: { de: "Denkmal am Schädel-Turm Niš", hu: "Nisi Koponya-torony emlékmű", ro: "Monumentul Turnul Craniilor din Niș", en: "Skull Tower Monument Niš" },
-    coordinates: { lat: 43.3082, lng: 21.9168 },
+    coords: [21.9168, 43.3082],
     description: {
       de: "Dieses einzigartige Denkmal wurde 1809 nach der Schlacht am Čegar von den Osmanen errichtet. Es integriert menschliche Schädel in seine Struktur.",
       hu: "Ezt az egyedülálló emlékművet 1809-ben, a Čegar-csata után emelték az oszmánok. Emberi koponyákat építettek a szerkezetébe.",
@@ -966,7 +966,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RS",
     name: { de: "Komitatshaus Sombor", hu: "Zombori vármegyeháza", ro: "Primăria Județeană din Sombor", en: "Sombor County Hall" },
-    coordinates: { lat: 45.7725, lng: 19.1122 },
+    coords: [19.1122, 45.7725],
     description: {
       de: "Das imposante Gebäude wurde im 19. Jahrhundert als Sitz der lokalen Verwaltung errichtet. Es ist ein markantes architektonisches Element im Stadtzentrum.",
       hu: "Az impozáns épületet a 19. században építették a helyi közigazgatás székhelyeként. Jelentős építészeti elem a városközpontban.",
@@ -998,7 +998,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "bridge",
     parent: "RS",
     name: { de: "Alte Brücke in Valjevo", hu: "Valjevói régi híd", ro: "Vechiul pod din Valjevo", en: "Old Bridge in Valjevo" },
-    coordinates: { lat: 44.2701, lng: 19.8925 },
+    coords: [19.8925, 44.2701],
     description: {
       de: "Diese historische Brücke über die Kolubara ist eines der ältesten erhaltenen Bauwerke der Stadt. Sie dient heute primär als Fußgängerweg.",
       hu: "Ez a Kolubara folyón átívelő történelmi híd a város egyik legrégebbi fennmaradt építménye. Ma elsősorban gyalogos hídként szolgál.",
@@ -1030,7 +1030,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "tower",
     parent: "RS",
     name: { de: "Beograđanka Belgrad", hu: "Beograđanka, Belgrád", ro: "Beograđanka din Belgrad", en: "Beograđanka, Belgrade" },
-    coordinates: { lat: 44.8083, lng: 20.4639 },
+    coords: [20.4639, 44.8083],
     description: {
       de: "Der in den 1970er Jahren erbaute Wolkenkratzer ist ein markantes Beispiel für die moderne Architektur in Belgrad. Er prägt die Skyline des Zentrums.",
       hu: "Az 1970-es években épült felhőkarcoló Belgrád modern építészetének jellegzetes példája. Meghatározza a városközpont látképét.",
@@ -1062,7 +1062,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Amidža-Konak Kragujevac", hu: "Amidža-konak, Kragujevac", ro: "Conacul Amidža din Kragujevac", en: "Amidža Konak, Kragujevac" },
-    coordinates: { lat: 44.0118, lng: 20.9142 },
+    coords: [20.9142, 44.0118],
     description: {
       de: "Dieses historische Wohngebäude stammt aus dem frühen 19. Jahrhundert und wurde für die Gefolgsleute des Fürsten Miloš Obrenović erbaut.",
       hu: "Ez a történelmi lakóépület a 19. század elejéről származik, és Miloš Obrenović fejedelem emberei számára épült.",
@@ -1094,7 +1094,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RS",
     name: { de: "Nationaltheater Niš", hu: "Nisi Nemzeti Színház", ro: "Teatrul Național din Niș", en: "National Theatre Niš" },
-    coordinates: { lat: 43.3228, lng: 21.8955 },
+    coords: [21.8955, 43.3228],
     description: {
       de: "Das 1887 gegründete Theater ist eine der ältesten Kultureinrichtungen in Niš. Es bietet ein breites Spektrum an Aufführungen.",
       hu: "Az 1887-ben alapított színház Niš egyik legrégebbi kulturális intézménye. Előadások széles skáláját kínálja.",
@@ -1126,7 +1126,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Stadtbibliothek Subotica", hu: "Szabadkai Városi Könyvtár", ro: "Biblioteca orășenească din Subotica", en: "City Library Subotica" },
-    coordinates: { lat: 46.1033, lng: 19.6645 },
+    coords: [19.6645, 46.1033],
     description: {
       de: "Die Bibliothek ist in einem beeindruckenden historischen Gebäude im Stadtzentrum untergebracht. Sie bewahrt eine umfangreiche Sammlung lokaler Literatur.",
       hu: "A könyvtár a városközpontban található lenyűgöző történelmi épületben működik. Kiterjedt helyi irodalmi gyűjteményt őriz.",
@@ -1158,7 +1158,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Regionalmuseum Kraljevo", hu: "Kraljevói Regionális Múzeum", ro: "Muzeul Regional din Kraljevo", en: "Regional Museum Kraljevo" },
-    coordinates: { lat: 43.7258, lng: 20.6901 },
+    coords: [20.6901, 43.7258],
     description: {
       de: "Das Museum präsentiert archäologische und historische Exponate, die die Entwicklung der Region Kraljevo dokumentieren. Es wurde 1950 gegründet.",
       hu: "A múzeum régészeti és történelmi kiállításokat mutat be, amelyek dokumentálják Kraljevo régiójának fejlődését. 1950-ben alapították.",
@@ -1190,7 +1190,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Užice", hu: "Užicei Nemzeti Múzeum", ro: "Muzeul Național din Užice", en: "National Museum Užice" },
-    coordinates: { lat: 43.8501, lng: 19.8435 },
+    coords: [19.8435, 43.8501],
     description: {
       de: "Das Museum bietet Einblicke in die Geschichte der Stadt Užice, einschließlich der Periode des Zweiten Weltkriegs. Es besitzt bedeutende historische Sammlungen.",
       hu: "A múzeum betekintést nyújt Užice városának történelmébe, beleértve a második világháború időszakát is. Jelentős történelmi gyűjteményekkel rendelkezik.",
@@ -1222,7 +1222,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Pančevo", hu: "Pancsovai Nemzeti Múzeum", ro: "Muzeul Național din Pančevo", en: "National Museum Pančevo" },
-    coordinates: { lat: 44.8705, lng: 20.6412 },
+    coords: [20.6412, 44.8705],
     description: {
       de: "Das 1923 gegründete Museum bewahrt das kulturelle Erbe der Region Pančevo. Es befindet sich in einem historischen Gebäude im Stadtzentrum.",
       hu: "Az 1923-ban alapított múzeum a Pancsova régió kulturális örökségét őrzi. A városközpontban egy történelmi épületben található.",
@@ -1254,7 +1254,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Požarevac", hu: "Pozsarevác Nemzeti Múzeum", ro: "Muzeul Național din Požarevac", en: "National Museum Požarevac" },
-    coordinates: { lat: 44.6201, lng: 21.1895 },
+    coords: [21.1895, 44.6201],
     description: {
       de: "Dieses Museum dokumentiert die Geschichte und Kultur der Region Požarevac. Es beheimatet umfangreiche archäologische Funde aus Viminacium.",
       hu: "Ez a múzeum dokumentálja Pozsarevác régiójának történelmét és kultúráját. Kiterjedt régészeti leleteket őriz Viminaciumból.",
@@ -1286,7 +1286,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Zrenjanin", hu: "Nagybecskereki Nemzeti Múzeum", ro: "Muzeul Național din Zrenjanin", en: "National Museum Zrenjanin" },
-    coordinates: { lat: 45.3805, lng: 20.3862 },
+    coords: [20.3862, 45.3805],
     description: {
       de: "Das Museum bewahrt Sammlungen zur regionalen Geschichte, Kunst und Volkskultur. Es befindet sich in einem historisch signifikanten Gebäude im Zentrum.",
       hu: "A múzeum a regionális történelem, művészet és népi kultúra gyűjteményeit őrzi. A központban, egy történelmileg jelentős épületben található.",
@@ -1318,7 +1318,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Museum Srem Sremska Mitrovica", hu: "Szerémségi Múzeum, Szávaszentdemeter", ro: "Muzeul Srem din Sremska Mitrovica", en: "Srem Museum Sremska Mitrovica" },
-    coordinates: { lat: 44.9755, lng: 19.6055 },
+    coords: [19.6055, 44.9755],
     description: {
       de: "Das Museum ist spezialisiert auf Funde aus der antiken Stadt Sirmium. Es bietet eine exzellente Übersicht über die Geschichte der Srem-Region.",
       hu: "A múzeum a Sirmium antik városból származó leletekre specializálódott. Kiváló áttekintést nyújt a Szerémség történelméről.",
@@ -1350,7 +1350,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Militärmuseum Belgrad", hu: "Belgrádi Hadtörténeti Múzeum", ro: "Muzeul Militar din Belgrad", en: "Military Museum Belgrade" },
-    coordinates: { lat: 44.8215, lng: 20.4502 },
+    coords: [20.4502, 44.8215],
     description: {
       de: "Das Militärmuseum innerhalb der Festung Kalemegdan beherbergt eine umfangreiche Sammlung militärischer Ausrüstung von der Antike bis zur Gegenwart.",
       hu: "A Kalemegdan erődben található Hadtörténeti Múzeum kiterjedt katonai felszerelésgyűjteményt őriz az ókortól napjainkig.",
@@ -1382,7 +1382,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Žiča (Wahrzeichen)", hu: "Žiča kolostor (nevezetesség)", ro: "Mănăstirea Žiča (reper)", en: "Žiča Monastery (landmark)" },
-    coordinates: { lat: 43.7125, lng: 20.6212 },
+    coords: [20.6212, 43.7125],
     description: {
       de: "Das im 13. Jahrhundert erbaute Kloster war einst das religiöse und politische Zentrum des mittelalterlichen Serbiens. Es ist bekannt für seine Architektur.",
       hu: "A 13. században épült kolostor egykor a középkori Szerbia vallási és politikai központja volt. Építészetéről ismert.",
@@ -1414,7 +1414,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Stadtmuseum Subotica", hu: "Szabadkai Városi Múzeum", ro: "Muzeul orașului Subotica", en: "City Museum Subotica" },
-    coordinates: { lat: 46.1031, lng: 19.6635 },
+    coords: [19.6635, 46.1031],
     description: {
       de: "Das Museum befindet sich in einem historischen Gebäude und präsentiert die Geschichte der Region von der Urgeschichte bis zur Moderne.",
       hu: "A múzeum egy történelmi épületben található, és a régió történetét mutatja be az őskortól a modern időkig.",
@@ -1446,7 +1446,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Museum Ponišavlje Pirot", hu: "Ponišavlje Múzeum, Pirot", ro: "Muzeul Ponišavlje din Pirot", en: "Ponišavlje Museum Pirot" },
-    coordinates: { lat: 43.1555, lng: 22.5845 },
+    coords: [22.5845, 43.1555],
     description: {
       de: "Das Museum befindet sich in einem historischen Haus aus dem 19. Jahrhundert und zeigt traditionelle Lebensweise und Kultur von Pirot.",
       hu: "A múzeum egy 19. századi történelmi házban található, és Pirot hagyományos életmódját és kultúráját mutatja be.",
@@ -1478,7 +1478,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Kunstgalerie Čačak", hu: "Čačaki Művészeti Galéria", ro: "Galeria de artă din Čačak", en: "Art Gallery Čačak" },
-    coordinates: { lat: 43.8905, lng: 20.3495 },
+    coords: [20.3495, 43.8905],
     description: {
       de: "Die Galerie beherbergt eine bedeutende Sammlung zeitgenössischer Kunst und lokaler Künstler. Sie ist ein Zentrum für visuelle Kultur in der Region.",
       hu: "A galéria a kortárs művészet és helyi művészek jelentős gyűjteményét őrzi. A régió vizuális kultúrájának központja.",
@@ -1510,7 +1510,7 @@ export const serbiaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Nationalmuseum Leskovac", hu: "Leskovaci Nemzeti Múzeum", ro: "Muzeul Național din Leskovac", en: "National Museum Leskovac" },
-    coordinates: { lat: 42.9975, lng: 21.9485 },
+    coords: [21.9485, 42.9975],
     description: {
       de: "Das Museum dokumentiert die historische Entwicklung der Stadt Leskovac und der Region. Es beherbergt bedeutende archäologische Sammlungen.",
       hu: "A múzeum dokumentálja Leskovac városának és régiójának történelmi fejlődését. Jelentős régészeti gyűjteményeket őriz.",

@@ -312,7 +312,20 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Keskeny síkság", "Atlanti-part", "Trópusi", "Zöld"],
       ro: ["Câmpie îngustă", "Coasta Atlanticului", "Tropicală", "Verde"],
       en: ["Narrow plain", "Atlantic coast", "Tropical", "Green"]
-    }, image: "/poi-images/do-liano-costero-norte-relief-v2.webp"},
+    }, image: "/poi-images/do-liano-costero-norte-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die nördliche Küstenebene (Liano Costero Norte) in der Dominikanischen Republik erstreckt sich entlang der Nordküste von der Grenze zu Haiti bis zur Halbinsel Samaná. Sie ist ein flaches, fruchtbares Gebiet, das intensiv landwirtschaftlich genutzt wird. Hauptanbauprodukte sind Reis, Kokosnüsse und Bananen. Die Ebene wird von mehreren Flüssen durchzogen, die aus dem zentralen Gebirge kommen. Das Klima ist tropisch feucht. Die Region ist dicht besiedelt mit Städten wie Puerto Plata und Sosúa.",
+      hu: "A Dominikai Köztársaság északi parti síksága (Liano Costero Norte) Haiti határától Samaná-félszigetig húzódik. Lapos, termékeny terület, intenzív mezőgazdasággal. Fő termények: rizs, kókuszdió és banán. A síkságot több folyó szeli át, amelyek a központi hegyekből erednek. Az éghajlat trópusi, nedves. A régió sűrűn lakott, olyan városokkal, mint Puerto Plata és Sosúa.",
+      ro: "Câmpia de coastă de nord (Liano Costero Norte) din Republica Dominicană se întinde de-a lungul coastei de nord, de la granița cu Haiti până la peninsula Samaná. Este o zonă plată și fertilă, utilizată intensiv pentru agricultură. Principalele culturi sunt orezul, nucile de cocos și bananele. Câmpia este traversată de mai multe râuri care provin din munții centrali. Clima este tropicală umedă. Regiunea este dens populată, cu orașe precum Puerto Plata și Sosúa.",
+      en: "The Northern Coastal Plain (Liano Costero Norte) of the Dominican Republic stretches along the northern coast from the Haitian border to the Samaná Peninsula. It is a flat, fertile area used for intensive agriculture, producing rice, coconuts, and bananas. Numerous rivers from the Central Cordillera cross the plain. The climate is tropical humid. The region is densely populated, hosting major cities like Puerto Plata and Sosúa.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 200 km", "Breite: 30 km", "Höhe: 0-50 m ü. M.", "Niederschlag: 1.500 mm/Jahr", "Hauptflüsse: Yaque del Norte, Camú", "Bevölkerungsdichte: 200 Einw./km²"],
+      hu: ["Terület: 6.000 km²", "Mezőgazdasági terület: 80%", "Rizstermelés: 500.000 t/év", "Kókusztermelés: 200.000 t/év", "Iskolák száma: 100", "Kórházak száma: 10"],
+      ro: ["Suprafață: 5.500 km²", "Lungime: 220 km", "Lățime: 25 km", "Populație: 1,5 milioane", "Principalele culturi: orez, nucă de cocos", "Număr de râuri: 10"],
+      en: ["Length: 200 km", "Width: 30 km", "Area: 6,000 km²", "Population: 1.5 million", "Rainfall: 1,500 mm/year", "Main river: Yaque del Norte"],
+    },
+  },
   {
     id: "do-sierra-de-yamasa-relief-v2",
     type: "mountain",
@@ -326,7 +339,20 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Hegység", "Erdő", "Folyóforrások", "Csúcsok"],
       ro: ["Munți", "Pădure", "Izvoare de râuri", "Vârfuri"],
       en: ["Mountains", "Forest", "River sources", "Peaks"]
-    }, image: "/poi-images/do-sierra-de-yamasa-relief-v2.webp"},
+    }, image: "/poi-images/do-sierra-de-yamasa-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sierra de Yamasá ist ein Gebirgszug in der Dominikanischen Republik, der sich etwa 50 Kilometer nördlich von Santo Domingo befindet. Sie erreicht eine Höhe von bis zu 1.000 Metern. Das Gebirge ist dicht bewaldet und beherbergt eine vielfältige Tierwelt. Es ist Teil der zentralen Kordilleren. Die Sierra de Yamasá ist ein wichtiges Wassereinzugsgebiet für die Region. In den Tälern wird Kaffee und Kakao angebaut. Die Gegend ist dünn besiedelt.",
+      hu: "A Sierra de Yamasá egy hegység a Dominikai Köztársaságban, Santo Domingótól északra mintegy 50 km-re. Magassága eléri az 1000 métert. Sűrű erdő borítja, gazdag állatvilággal. A központi Kordillerák része. Fontos vízgyűjtő terület a régió számára. A völgyekben kávét és kakaót termesztenek. A terület ritkán lakott.",
+      ro: "Sierra de Yamasá este un lanț muntos în Republica Dominicană, situat la aproximativ 50 de kilometri nord de Santo Domingo. Atinge înălțimi de până la 1.000 de metri. Este acoperită de păduri dese și găzduiește o varietate de faună. Face parte din Cordiliera Centrală. Este un important bazin hidrografic pentru regiune. În văi se cultivă cafea și cacao. Zona este slab populată.",
+      en: "Sierra de Yamasá is a mountain range in the Dominican Republic, located about 50 km north of Santo Domingo. Peaking at 1,000 meters, it is forested and biodiverse. Part of the Central Cordillera, it serves as a crucial watershed. Coffee and cocoa are grown in the valleys. The area is sparsely populated, with small communities. It provides important ecological services.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe: 1.000 m", "Länge: 40 km", "Breite: 15 km", "Niederschlag: 2.000 mm/Jahr", "Waldbedeckung: 90%", "Entfernung zu Santo Domingo: 50 km"],
+      hu: ["Terület: 600 km²", "Átlagmagasság: 700 m", "Folyók: 5", "Kávé termelés: 10.000 t/év", "Kakaó termelés: 5.000 t/év", "Lakosság: 50.000"],
+      ro: ["Suprafață: 550 km²", "Altitudine maximă: 1.050 m", "Lungime: 45 km", "Populație: 40.000", "Producție de cafea: 8.000 de tone/an", "Producție de cacao: 4.000 de tone/an"],
+      en: ["Highest peak: 1,050 m", "Length: 45 km", "Area: 600 km²", "Forest cover: 90%", "Annual rainfall: 2,000 mm", "Population: 45,000"],
+    },
+  },
   {
     id: "do-sierra-esmeralda-relief-v2",
     type: "mountain",
@@ -340,7 +366,20 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Zöld hegylánc", "Trópusok", "Túrázóhely", "Víztároló"],
       ro: ["Lanț muntos verde", "Tropice", "Zonă de drumeții", "Rezervor de apă"],
       en: ["Green range", "Tropics", "Hiking area", "Water reservoir"]
-    }, image: "/poi-images/do-sierra-esmeralda-relief-v2.webp"},
+    }, image: "/poi-images/do-sierra-esmeralda-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sierra Esmeralda ist ein kleiner Gebirgszug in der Dominikanischen Republik auf der Halbinsel Samaná. Sie ist bekannt für ihre smaragdgrünen Wälder, die ihr den Namen gaben. Die höchste Erhebung beträgt etwa 500 Meter. Das Gebirge ist ein wichtiges Touristenziel mit Wanderwegen und Aussichtspunkten. In der Umgebung gibt es viele Strände. Die Sierra Esmeralda ist Teil des Schutzgebietes Samaná. In den Wäldern leben zahlreiche Vogelarten.",
+      hu: "A Sierra Esmeralda egy kis hegység a Dominikai Köztársaságban, a Samaná-félszigeten. Smaragdzöld erdeiről ismert, amelyekről a nevét kapta. Legmagasabb pontja mintegy 500 méter. A hegység fontos turisztikai célpont túraútvonalakkal és kilátópontokkal. A környéken sok strand található. A Sierra Esmeralda a Samaná védett terület része. Az erdőkben számos madárfaj él.",
+      ro: "Sierra Esmeralda este un lanț muntos mic din Republica Dominicană, pe peninsula Samaná. Este cunoscut pentru pădurile sale verzi, de unde provine numele. Cel mai înalt punct are aproximativ 500 de metri. Este o destinație turistică populară, cu trasee de drumeții și puncte de belvedere. În apropiere se află multe plaje. Sierra Esmeralda face parte din zona protejată Samaná. Pădurile găzduiesc o varietate de specii de păsări.",
+      en: "Sierra Esmeralda is a small mountain range on the Samaná Peninsula in the Dominican Republic. Named for its emerald-green forests, its highest point reaches 500 meters. It is a popular tourist attraction with hiking trails and viewpoints. The area is dotted with beaches. It lies within the Samaná protected area. The forests are rich in birdlife, including endemic species.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 500 m", "Länge: 20 km", "Breite: 10 km", "Schutzgebiet: Samaná", "Wanderwege: 50 km", "Vogelarten: 100"],
+      hu: ["Terület: 200 km²", "Átlagmagasság: 300 m", "Strandok száma: 10", "Turisták évente: 100.000", "Kilátópontok: 5", "Endemikus madárfajok: 5"],
+      ro: ["Suprafață: 180 km²", "Lungime: 18 km", "Lățime: 10 km", "Altitudine maximă: 520 m", "Număr de trasee: 10", "Vizitatori anual: 120.000"],
+      en: ["Highest point: 520 m", "Length: 20 km", "Area: 200 km²", "Hiking trails: 50 km", "Bird species: 100", "Annual visitors: 100,000"],
+    },
+  },
   {
     id: "do-valle-de-bona-relief-v2",
     type: "relief",
@@ -354,7 +393,20 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Termékeny", "Hegyvölgy", "Csapadékos", "Mezőgazdaság"],
       ro: ["Fertilă", "Vale montană", "Ploioasă", "Agricultură"],
       en: ["Fertile", "Mountain valley", "Rainy", "Agriculture"]
-    }, image: "/poi-images/do-valle-de-bona-relief-v2.webp"},
+    }, image: "/poi-images/do-valle-de-bona-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bonao-Tal (Valle de Bonao) in der Dominikanischen Republik liegt in der Provinz Monseñor Nouel. Es ist ein fruchtbares Tal in den zentralen Kordilleren, das von Flüssen bewässert wird. Die Landwirtschaft produziert vor allem Kaffee, Kakao und Zitrusfrüchte. Die Stadt Bonao ist das wirtschaftliche Zentrum. Das Tal hat ein mildes Klima. Es ist bekannt für seine grünen Hügel und Wasserfälle. Der Tourismus entwickelt sich langsam.",
+      hu: "A Bonao-völgy (Valle de Bonao) a Dominikai Köztársaságban, Monseñor Nouel tartományban található. Termékeny völgy a központi Kordillerákban, amelyet folyók öntöznek. A mezőgazdaság főként kávét, kakaót és citrusféléket termel. Bonao városa a gazdasági központ. Az éghajlat enyhe. Híres zöld dombjairól és vízeséseiről. A turizmus lassan fejlődik.",
+      ro: "Valea Bonao (Valle de Bonao) din Republica Dominicană este situată în provincia Monseñor Nouel. Este o vale fertilă în Cordiliera Centrală, irigată de râuri. Agricultura produce în principal cafea, cacao și citrice. Orașul Bonao este centrul economic. Clima este blândă. Valea este cunoscută pentru dealurile sale verzi și cascade. Turismul se dezvoltă treptat.",
+      en: "The Bonao Valley in the Dominican Republic is located in Monseñor Nouel province. It is a fertile intermountain valley in the Central Cordillera, irrigated by rivers. Agriculture focuses on coffee, cocoa, and citrus. The town of Bonao serves as the economic hub. The valley has a mild climate and is known for scenic hills and waterfalls. Tourism is growing, with attractions like agrotourism.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 200 m ü. M.", "Fläche: 500 km²", "Hauptstadt: Bonao", "Bevölkerung: 100.000", "Hauptflüsse: Yuna, Tireo", "Kaffeeproduktion: 20.000 t/Jahr"],
+      hu: ["Átlaghőmérséklet: 25 °C", "Csapadék: 1.800 mm/év", "Kakaótermelés: 10.000 t/év", "Citrus termelés: 50.000 t/év", "Vízesések száma: 10", "Távolság Santo Domingótól: 80 km"],
+      ro: ["Suprafață: 450 km²", "Populație: 90.000", "Altitudine medie: 250 m", "Producție de cafea: 18.000 de tone/an", "Producție de cacao: 8.000 de tone/an", "Număr de râuri: 3"],
+      en: ["Area: 500 km²", "Population: 100,000", "Average temperature: 25°C", "Annual rainfall: 1,800 mm", "Coffee production: 20,000 tons/year", "Cocoa production: 10,000 tons/year"],
+    },
+  },
   {
     id: "do-llanura-de-bajabonico-relief-v2",
     type: "relief",
@@ -368,7 +420,20 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Alföld", "Partközeli", "Trópusi", "Zöld"],
       ro: ["Câmpie", "Lângă coastă", "Tropicală", "Verde"],
       en: ["Lowland", "Coastal", "Tropical", "Green"]
-    }, image: "/poi-images/do-llanura-de-bajabonico-relief-v2.webp"},
+    }, image: "/poi-images/do-llanura-de-bajabonico-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bajabonico-Ebene (Llanura de Bajabonico) in der Dominikanischen Republik liegt in der Provinz Puerto Plata. Sie ist eine fruchtbare Küstenebene, die für den Anbau von Zuckerrohr und Bananen genutzt wird. Die Ebene wird vom Río Bajabonico entwässert. Das Klima ist tropisch feucht mit hohen Niederschlägen. Die Region ist landwirtschaftlich geprägt, mit einigen kleinen Städten. Der Boden ist alluvial und sehr produktiv.",
+      hu: "A Bajabonico-síkság (Llanura de Bajabonico) a Dominikai Köztársaságban, Puerto Plata tartományban található. Termékeny parti síkság, amelyet cukornád és banán termesztésére használnak. A Bajabonico folyó vízelvezetője. Az éghajlat trópusi, nedves, magas csapadékkal. A régió mezőgazdasági jellegű, néhány kisvárossal. A talaj hordalékos és nagyon termékeny.",
+      ro: "Câmpia Bajabonico (Llanura de Bajabonico) din Republica Dominicană este situată în provincia Puerto Plata. Este o câmpie de coastă fertilă, utilizată pentru cultivarea trestiei de zahăr și a bananelor. Este drenată de râul Bajabonico. Clima este tropicală umedă, cu precipitații ridicate. Regiunea este agricolă, cu câteva orașe mici. Solul este aluvial și foarte productiv.",
+      en: "The Bajabonico Plain in the Dominican Republic is located in Puerto Plata province. It is a fertile coastal plain used for sugarcane and banana cultivation. Drained by the Bajabonico River, it has a tropical humid climate with high rainfall. The area is agricultural, with small towns. The alluvial soil is highly productive. The plain supports the local economy through agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 300 km²", "Höhe: 0-20 m ü. M.", "Niederschlag: 2.000 mm/Jahr", "Hauptprodukt: Zuckerrohr", "Bevölkerung: 50.000", "Fluss: Bajabonico"],
+      hu: ["Cukornád termelés: 1 Mio. t/év", "Banán termelés: 200.000 t/év", "Öntözött terület: 80%", "Városok: 3", "Iskolák: 20", "Kórházak: 2"],
+      ro: ["Suprafață: 280 km²", "Populație: 45.000", "Producție de trestie de zahăr: 900.000 de tone/an", "Producție de banane: 180.000 de tone/an", "Lungimea râului: 40 km", "Altitudine medie: 10 m"],
+      en: ["Area: 300 km²", "Population: 50,000", "Sugarcane production: 1 million tons/year", "Banana production: 200,000 tons/year", "River length: 40 km", "Average elevation: 10 m"],
+    },
+  },
   {
     id: "do-llano-de-la-vega-relief-v2",
     type: "relief",
@@ -382,7 +447,20 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Síkság", "Rizstermesztés", "Termékeny", "Időjárásfüggő"],
       ro: ["Câmpie", "Cultivarea orezului", "Fertilă", "Dependentă de vreme"],
       en: ["Plain", "Rice farming", "Fertile", "Weather-dependent"]
-    }, image: "/poi-images/do-llano-de-la-vega-relief-v2.webp"},
+    }, image: "/poi-images/do-llano-de-la-vega-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Llano de La Vega (La Vega-Ebene) in der Dominikanischen Republik liegt in der Provinz La Vega. Es ist eine ausgedehnte Ebene im zentralen Teil des Landes, umgeben von Bergen. Die Ebene ist sehr fruchtbar und wird intensiv landwirtschaftlich genutzt, hauptsächlich für Reis, Mais und Bohnen. Die Stadt La Vega ist das Zentrum. Das Klima ist tropisch mit einer Regenzeit. Die Ebene wird von mehreren Flüssen bewässert. Sie ist dicht besiedelt.",
+      hu: "A La Vega-síkság (Llano de La Vega) a Dominikai Köztársaságban, La Vega tartományban található. Kiterjedt síkság az ország középső részén, hegyekkel körülvéve. A síkság nagyon termékeny, intenzív mezőgazdasággal, főként rizs, kukorica és bab termesztésével. La Vega városa a központ. Az éghajlat trópusi, esős évszakkal. A síkságot több folyó öntözi. Sűrűn lakott.",
+      ro: "Câmpia La Vega (Llano de La Vega) din Republica Dominicană este situată în provincia La Vega. Este o câmpie întinsă în partea centrală a țării, înconjurată de munți. Este foarte fertilă și utilizată intensiv pentru agricultură, în principal orez, porumb și fasole. Orașul La Vega este centrul. Clima este tropicală, cu un sezon ploios. Câmpia este irigată de mai multe râuri. Este dens populată.",
+      en: "The La Vega Plain is a fertile lowland in the central Dominican Republic, located in La Vega province. Surrounded by mountains, it is a major agricultural area producing rice, corn, and beans. The city of La Vega serves as the commercial hub. The plain has a tropical climate with a rainy season. Numerous rivers provide irrigation. It is densely populated and supports a significant portion of the country's food production.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 800 km²", "Höhe: 100 m ü. M.", "Bevölkerung: 300.000", "Hauptstadt: La Vega", "Reisproduktion: 200.000 t/Jahr", "Hauptflüsse: Camú, Yuna"],
+      hu: ["Kukoricatermelés: 100.000 t/év", "Babtermelés: 50.000 t/év", "Öntözött terület: 70%", "Népsűrűség: 375 fő/km²", "Iskolák: 150", "Kórházak: 5"],
+      ro: ["Suprafață: 750 km²", "Populație: 280.000", "Producție de orez: 180.000 de tone/an", "Producție de porumb: 90.000 de tone/an", "Producție de fasole: 45.000 de tone/an", "Număr de râuri: 4"],
+      en: ["Area: 800 km²", "Population: 300,000", "Rice production: 200,000 tons/year", "Corn production: 100,000 tons/year", "Bean production: 50,000 tons/year", "Elevation: 100 m"],
+    },
+  },
   {
     id: "do-sierra-de-samana-relief-v2",
     type: "mountain",
@@ -396,7 +474,20 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Hegység", "Meredek", "Dzsungel", "Kilátás"],
       ro: ["Munți", "Abrupt", "Junglă", "Vedere"],
       en: ["Mountains", "Steep", "Jungle", "View"]
-    }, image: "/poi-images/do-sierra-de-samana-relief-v2.webp"},
+    }, image: "/poi-images/do-sierra-de-samana-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sierra de Samaná ist ein Gebirgszug im Nordosten der Dominikanischen Republik, der sich über eine Länge von etwa 80 km von der Halbinsel Samaná bis zur Cordillera Oriental erstreckt. Die höchste Erhebung ist der Loma del Mogote mit 795 m. Das Kalkgestein der Sierra ist reich an Höhlen und Dolinen, die von Karstprozessen geformt wurden. Die Region ist Teil des Biosphärenreservats Jaragua-Bahoruco-Enriquillo und beherbergt endemische Vogelarten wie den Palmenrabe. Die Wälder bestehen aus trockenem Laubwald, der an die saisonalen Niederschläge angepasst ist.",
+      hu: "A Sierra de Samaná hegység a Dominikai Köztársaság északkeleti részén található, és mintegy 80 km hosszan húzódik a Samaná-félszigettől a Cordillera Orientalig. Legmagasabb csúcsa a Loma del Mogote, 795 méterrel. A mészkőhegység gazdag barlangokban és dolinákban, amelyeket karsztfolyamatok alakítottak ki. A régió a Jaragua-Bahoruco-Enriquillo Bioszféra Rezervátum része, és számos endemikus madárfajnak ad otthont, mint például a pálmaholló. Az erdőség száraz lombhullató erdei alkalmazkodtak a szezonális csapadékhoz.",
+      ro: "Sierra de Samaná este un lanț muntos în nord-estul Republicii Dominicane, care se întinde pe aproximativ 80 km de la Peninsula Samaná până la Cordillera Oriental. Cel mai înalt vârf este Loma del Mogote, cu 795 m. Rocile calcaroase sunt bogate în peșteri și doline, formate prin procese carstice. Regiunea face parte din Rezervația Biosferei Jaragua-Bahoruco-Enriquillo și găzduiește specii endemice de păsări, cum ar fi corbul de palmier. Pădurile sunt alcătuite din pădure tropicală uscată, adaptată la precipitațiile sezoniere.",
+      en: "The Sierra de Samaná is a mountain range in northeastern Dominican Republic, stretching approximately 80 km from the Samaná Peninsula to the Cordillera Oriental. Its highest peak is Loma del Mogote at 795 m. The limestone range is karstic, with numerous caves and sinkholes. It lies within the Jaragua-Bahoruco-Enriquillo Biosphere Reserve and hosts endemic birds like the palm crow. The vegetation is dry deciduous forest adapted to seasonal rainfall.",
+    },
+    factsAdvanced: {
+      de: ["Die Sierra de Samaná erstreckt sich über 80 km von Nordwest nach Südost.", "Der höchste Gipfel, Loma del Mogote, erreicht 795 m Höhe.", "Das Gebirge besteht hauptsächlich aus Kalkstein aus dem Miozän.", "Die jährliche Niederschlagsmenge beträgt etwa 1500 mm.", "Die Region beherbergt 36 endemische Pflanzenarten.", "Die Durchschnittstemperatur liegt bei 26 °C."],
+      hu: ["A Sierra de Samaná 80 km hosszan húzódik északnyugat-délkeleti irányban.", "A legmagasabb csúcs, a Loma del Mogote, 795 m magas.", "A hegység főként miocén mészkőből épül fel.", "Az éves csapadékmennyiség körülbelül 1500 mm.", "A régió 36 endemikus növényfajnak ad otthont.", "Az átlaghőmérséklet 26 °C."],
+      ro: ["Sierra de Samaná se întinde pe 80 km în direcția nord-vest-sud-est.", "Cel mai înalt vârf, Loma del Mogote, are 795 m.", "Munții sunt formați în principal din calcar miocen.", "Precipitațiile anuale sunt de aproximativ 1500 mm.", "Regiunea găzduiește 36 de specii de plante endemice.", "Temperatura medie este de 26 °C."],
+      en: ["Sierra de Samaná extends 80 km northwest to southeast.", "Highest peak Loma del Mogote is 795 m.", "The range is composed mainly of Miocene limestone.", "Annual rainfall averages about 1500 mm.", "It hosts 36 endemic plant species.", "Average temperature is 26 °C."],
+    },
+  },
   {
     id: "do-llano-de-miches-relief-v2",
     type: "relief",
@@ -410,7 +501,20 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Síkság", "Parti fekvés", "Trópusi", "Zöld"],
       ro: ["Câmpie", "Locație de coastă", "Tropicală", "Verde"],
       en: ["Plain", "Coastal location", "Tropical", "Green"]
-    }, image: "/poi-images/do-llano-de-miches-relief-v2.webp"},
+    }, image: "/poi-images/do-llano-de-miches-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Llano de Miches ist eine weite, flache Ebene im Osten der Dominikanischen Republik, die sich südlich der Cordillera Oriental bis zur Küste des Karibischen Meeres erstreckt. Sie bedeckt eine Fläche von etwa 500 km² und liegt auf einer Höhe von 0 bis 50 m. Das Tiefland wird von mehreren Flüssen durchzogen, darunter der Río Miches und der Río Chavón, die Schwemmlandböden ablagern. Die Region ist landwirtschaftlich intensiv genutzt, hauptsächlich für den Anbau von Reis, Mais und Bohnen. Die natürliche Vegetation bestand ursprünglich aus Trockenwald und Savanne, ist aber weitgehend gerodet.",
+      hu: "A Llano de Miches egy hatalmas síkság a Dominikai Köztársaság keleti részén, amely a Cordillera Orientaltól délre a Karib-tenger partjáig húzódik. Területe körülbelül 500 km², tengerszint feletti magassága 0-50 m. Az alföldön több folyó is áthalad, köztük a Río Miches és a Río Chavón, amelyek hordalékos talajt raktak le. A régió intenzív mezőgazdasági terület, főként rizst, kukoricát és babot termesztenek. Az eredeti növényzet száraz erdő és szavanna volt, de nagyrészt kiirtották.",
+      ro: "Llano de Miches este o câmpie vastă și joasă în estul Republicii Dominicane, întinzându-se la sud de Cordillera Oriental până la coasta Mării Caraibelor. Acoperă aproximativ 500 km², cu o altitudine de 0-50 m. Câmpia este străbătută de mai multe râuri, inclusiv Río Miches și Río Chavón, care au depus soluri aluviale. Regiunea este intens cultivată, în principal cu orez, porumb și fasole. Vegetația naturală era formată din pădure uscată și savană, dar a fost în mare parte defrișată.",
+      en: "The Llano de Miches is a vast plain in eastern Dominican Republic, south of the Cordillera Oriental extending to the Caribbean coast. It covers about 500 km² at elevations of 0-50 m. Several rivers, including the Río Miches and Río Chavón, traverse it, depositing alluvial soils. The area is intensively farmed, mainly for rice, corn, and beans. Original vegetation was dry forest and savanna, now largely cleared.",
+    },
+    factsAdvanced: {
+      de: ["Die Ebene bedeckt eine Fläche von etwa 500 km².", "Die Höhe variiert zwischen 0 und 50 m über dem Meeresspiegel.", "Der Río Miches ist 45 km lang.", "Die jährliche Niederschlagsmenge beträgt etwa 1200 mm.", "Reis ist die Hauptkultur auf 60% der Anbaufläche.", "Die Durchschnittstemperatur liegt bei 27 °C."],
+      hu: ["A síkság területe körülbelül 500 km².", "A magasság 0-50 m tengerszint felett változik.", "A Río Miches hossza 45 km.", "Az éves csapadékmennyiség körülbelül 1200 mm.", "A rizs a fő termény, a termőterület 60%-át teszi ki.", "Az átlaghőmérséklet 27 °C."],
+      ro: ["Câmpia are o suprafață de aproximativ 500 km².", "Altitudinea este cuprinsă între 0 și 50 m deasupra nivelului mării.", "Râul Río Miches are o lungime de 45 km.", "Precipitațiile anuale sunt de aproximativ 1200 mm.", "Orezul reprezintă principala cultură pe 60% din terenul agricol.", "Temperatura medie este de 27 °C."],
+      en: ["The plain covers approximately 500 km².", "Elevation ranges from 0 to 50 m above sea level.", "The Río Miches is 45 km long.", "Annual rainfall is about 1200 mm.", "Rice is the main crop, covering 60% of arable land.", "Average temperature is 27 °C."],
+    },
+  },
   {
     id: "do-sierra-de-agua-relief-v2",
     type: "mountain",

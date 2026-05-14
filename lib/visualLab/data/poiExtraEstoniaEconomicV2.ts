@@ -6,7 +6,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "port",
     parent: "EE",
     name: { de: "Sillamäe Hafen", hu: "Sillamäe kikötő", ro: "Portul Sillamäe", en: "Sillamäe Port" },
-    coordinates: { lat: 59.399, lng: 27.733 },
+    coords: [27.733, 59.399],
     description: {
       de: "Der Hafen von Sillamäe ist ein bedeutender privater Tiefseehafen an der Ostsee. Er dient als wichtiges Logistikzentrum für den Transitverkehr.",
       hu: "A Sillamäe kikötő jelentős magánkézben lévő mélyvízi kikötő a Balti-tengeren. Fontos logisztikai központ a tranzitforgalom számára.",
@@ -38,7 +38,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Chemiepark Kohtla-Järve", hu: "Kohtla-Järve Vegyipark", ro: "Parcul Chimic Kohtla-Järve", en: "Kohtla-Järve Chemical Park" },
-    coordinates: { lat: 59.395, lng: 27.284 },
+    coords: [27.284, 59.395],
     description: {
       de: "Dieser Industriekomplex ist auf die Verarbeitung von Ölschiefer spezialisiert. Er ist ein Herzstück der estnischen Chemieindustrie.",
       hu: "Ez az ipari komplexum olajpala-feldolgozásra szakosodott. Az észt vegyipar egyik központi eleme.",
@@ -70,7 +70,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Eesti Energia Hauptsitz", hu: "Eesti Energia központ", ro: "Sediul Eesti Energia", en: "Eesti Energia Headquarters" },
-    coordinates: { lat: 59.428, lng: 24.739 },
+    coords: [24.739, 59.428],
     description: {
       de: "Das Unternehmen Eesti Energia ist der führende Energieproduzent in Estland. Es verwaltet umfangreiche Energieinfrastrukturen im Land.",
       hu: "Az Eesti Energia vállalat Észtország vezető energiatermelője. Széleskörű energetikai infrastruktúrát kezel az országban.",
@@ -102,7 +102,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Industriegebiet Maardu", hu: "Maardu ipari terület", ro: "Zona industrială Maardu", en: "Maardu Industrial Area" },
-    coordinates: { lat: 59.467, lng: 25.006 },
+    coords: [25.006, 59.467],
     description: {
       de: "Maardu beherbergt wichtige Logistik- und Industrieanlagen in der Nähe von Tallinn. Die Region profitiert von der Nähe zum Hafen Muuga.",
       hu: "Maardu fontos logisztikai és ipari létesítményeknek ad otthont Tallinn közelében. A régió profitál a Muuga kikötő közelségéből.",
@@ -134,7 +134,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "factory",
     parent: "EE",
     name: { de: "Holzhausfabrik Estland", hu: "Észt faházgyár", ro: "Fabrică de case din lemn Estonia", en: "Estonian Modular Wood Factory" },
-    coordinates: { lat: 58.378, lng: 26.729 },
+    coords: [26.729, 58.378],
     description: {
       de: "Estland ist ein führender Exporteur von modularen Holzhäusern in Europa. Diese Fabriken nutzen moderne Fertigungstechnologien.",
       hu: "Észtország Európa egyik vezető moduláris faház-exportőre. Ezek a gyárak modern gyártási technológiákat alkalmaznak.",
@@ -166,7 +166,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Möbelindustrie Võru", hu: "Võru bútoripar", ro: "Industria mobilei din Võru", en: "Võru Furniture Industry" },
-    coordinates: { lat: 57.844, lng: 27.001 },
+    coords: [27.001, 57.844],
     description: {
       de: "Die Stadt Võru hat eine lange Tradition in der Holzbearbeitung und Möbelherstellung. Viele lokale Betriebe exportieren ihre Produkte.",
       hu: "Võru városa hosszú hagyományokkal rendelkezik a faipar és a bútorgyártás területén. Számos helyi vállalkozás exportálja termékeit.",
@@ -198,7 +198,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "university",
     parent: "EE",
     name: { de: "Tallinn Science Park Tehnopol", hu: "Tallinni Tehnopol Tudományos Park", ro: "Parcul științific Tehnopol din Tallinn", en: "Tallinn Science Park Tehnopol" },
-    coordinates: { lat: 59.394, lng: 24.671 },
+    coords: [24.671, 59.394],
     description: {
       de: "Tehnopol ist ein Forschungs- und Business-Campus für Startups und Technologieunternehmen in Tallinn. Er fördert Innovation in Estland.",
       hu: "A Tehnopol kutatási és üzleti kampusz startupok és technológiai cégek számára Tallinnban. Támogatja az innovációt Észtországban.",
@@ -230,7 +230,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "factory",
     parent: "EE",
     name: { de: "Zementwerk Kunda", hu: "Kunda cementgyár", ro: "Fabrica de ciment Kunda", en: "Kunda Cement Plant" },
-    coordinates: { lat: 59.508, lng: 26.541 },
+    coords: [26.541, 59.508],
     description: {
       de: "Das Werk in Kunda ist ein bedeutender Produzent von Zement in Estland. Es ist eng mit der lokalen Geschichte und Wirtschaft verknüpft.",
       hu: "A kundai gyár Észtország egyik jelentős cementtermelője. Szorosan kapcsolódik a helyi történelemhez és gazdasághoz.",
@@ -262,7 +262,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Lebensmittelindustrie Pärnu", hu: "Pärnui élelmiszeripar", ro: "Industria alimentară din Pärnu", en: "Pärnu Food Industry" },
-    coordinates: { lat: 58.384, lng: 24.521 },
+    coords: [24.521, 58.384],
     description: {
       de: "Pärnu ist ein wichtiges Zentrum der Lebensmittelverarbeitung, insbesondere für Fisch- und Milchprodukte. Die Produktion ist exportorientiert.",
       hu: "Pärnu fontos központja az élelmiszer-feldolgozásnak, különösen a hal- és tejtermékek esetében. A termelés exportorientált.",
@@ -294,7 +294,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "port",
     parent: "EE",
     name: { de: "Bahnhof Valga", hu: "Valga vasútállomás", ro: "Gara Valga", en: "Valga Railway Station" },
-    coordinates: { lat: 57.776, lng: 26.046 },
+    coords: [26.046, 57.776],
     description: {
       de: "Der Bahnhof Valga ist ein historischer Eisenbahnknotenpunkt an der Grenze zu Lettland. Er dient dem grenzüberschreitenden Gütertransport.",
       hu: "Valga vasútállomása egy történelmi vasúti csomópont a lett határon. A határokon átnyúló áruszállítást szolgálja.",
@@ -326,7 +326,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "university",
     parent: "EE",
     name: { de: "Wissenschaftspark Tartu", hu: "Tartui Tudománypark", ro: "Parcul științific Tartu", en: "Tartu Science Park" },
-    coordinates: { lat: 58.374, lng: 26.713 },
+    coords: [26.713, 58.374],
     description: {
       de: "Der Wissenschaftspark in Tartu ist die älteste Innovationsregion in Estland. Er unterstützt akademische Ausgründungen und High-Tech-Firmen.",
       hu: "A tartui tudománypark Észtország legrégebbi innovációs régiója. Támogatja az akadémiai spin-off vállalkozásokat és a csúcstechnológiás cégeket.",
@@ -358,7 +358,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Windpark Paldiski", hu: "Paldiski szélerőműpark", ro: "Parcul eolian Paldiski", en: "Paldiski Wind Park" },
-    coordinates: { lat: 59.349, lng: 24.062 },
+    coords: [24.062, 59.349],
     description: {
       de: "Der Windpark in Paldiski ist eine der wichtigsten Anlagen für erneuerbare Energien an der estnischen Nordwestküste.",
       hu: "A paldiski szélerőműpark Észtország északnyugati partvidékének egyik legfontosabb megújuló energiaforrása.",
@@ -390,7 +390,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Gewerbegebiet Jõhvi", hu: "Jõhvi ipari terület", ro: "Zona industrială Jõhvi", en: "Jõhvi Business Area" },
-    coordinates: { lat: 59.356, lng: 27.421 },
+    coords: [27.421, 59.356],
     description: {
       de: "Jõhvi ist ein wachsendes Zentrum für Wirtschaft und Dienstleistungen in Ost-Estland. Es fungiert als administratives und industrielles Zentrum.",
       hu: "Jõhvi Kelet-Észtország növekvő gazdasági és szolgáltató központja. Adminisztratív és ipari központként működik.",
@@ -422,7 +422,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Fleischverarbeitung Rakvere", hu: "Rakvere húsfeldolgozás", ro: "Procesarea cărnii Rakvere", en: "Rakvere Meat Processing" },
-    coordinates: { lat: 59.349, lng: 26.356 },
+    coords: [26.356, 59.349],
     description: {
       de: "Rakvere ist bekannt für eine große Fleischverarbeitungsfabrik. Die Marke ist in ganz Estland als führender Nahrungsmittelhersteller präsent.",
       hu: "Rakvere ismert nagy húsfeldolgozó üzeméről. A márka vezető élelmiszergyártóként van jelen egész Észtországban.",
@@ -454,7 +454,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "factory",
     parent: "EE",
     name: { de: "Molkerei Põlva", hu: "Põlva tejfeldolgozó", ro: "Procesarea laptelui Põlva", en: "Põlva Dairy Processing" },
-    coordinates: { lat: 58.053, lng: 27.069 },
+    coords: [27.069, 58.053],
     description: {
       de: "In Põlva befinden sich bedeutende Molkereianlagen. Die Region profitiert von ihrer starken landwirtschaftlichen Tradition.",
       hu: "Põlvában jelentős tejfeldolgozó üzemek találhatók. A régió profitál erős mezőgazdasági hagyományaiból.",
@@ -486,7 +486,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Textilfabrik Haapsalu", hu: "Haapsalu textilgyár", ro: "Fabrică de textile Haapsalu", en: "Haapsalu Textile Industry" },
-    coordinates: { lat: 58.948, lng: 23.541 },
+    coords: [23.541, 58.948],
     description: {
       de: "Haapsalu pflegt eine langjährige Tradition in der Textilherstellung, insbesondere bei handgestrickten Erzeugnissen und spezialisierten Stoffen.",
       hu: "Haapsalu hosszú hagyományokkal rendelkezik a textilgyártásban, különösen a kézzel kötött termékek és speciális szövetek terén.",
@@ -518,7 +518,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "port",
     parent: "EE",
     name: { de: "Logistikzentrum Narva", hu: "Narva logisztikai központ", ro: "Centru logistic Narva", en: "Narva Logistics Hub" },
-    coordinates: { lat: 59.378, lng: 28.182 },
+    coords: [28.182, 59.378],
     description: {
       de: "Narva ist ein wichtiger Knotenpunkt für den Transit zwischen Estland und Russland. Der Güterverkehr ist ein wirtschaftlicher Eckpfeiler.",
       hu: "Narva az Észtország és Oroszország közötti tranzit fontos csomópontja. Az áruforgalom gazdasági sarokkő.",
@@ -550,7 +550,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "port",
     parent: "EE",
     name: { de: "Terminal Muuga", hu: "Muuga terminál", ro: "Terminal Muuga", en: "Muuga Terminal" },
-    coordinates: { lat: 59.489, lng: 24.935 },
+    coords: [24.935, 59.489],
     description: {
       de: "Muuga ist der größte Frachthafen Estlands. Er ist auf Massengut, Container und Öl spezialisiert und liegt strategisch günstig bei Tallinn.",
       hu: "Muuga Észtország legnagyobb teherkikötője. Ömlesztett árukra, konténerekre és olajra szakosodott, stratégiailag kedvező helyen Tallinn mellett.",
@@ -582,7 +582,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "port",
     parent: "EE",
     name: { de: "Hafen Kärdla", hu: "Kärdla kikötő", ro: "Portul Kärdla", en: "Kärdla Port" },
-    coordinates: { lat: 59.006, lng: 22.756 },
+    coords: [22.756, 59.006],
     description: {
       de: "Der Hafen von Kärdla auf der Insel Hiiumaa ist ein kleines, aber wichtiges logistisches Drehkreuz für den regionalen Verkehr.",
       hu: "A Hiiumaa szigetén található Kärdla kikötő egy kicsi, de fontos logisztikai központ a regionális forgalom számára.",
@@ -614,7 +614,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Industriepark Saue", hu: "Saue ipari park", ro: "Parc industrial Saue", en: "Saue Industrial Park" },
-    coordinates: { lat: 59.324, lng: 24.551 },
+    coords: [24.551, 59.324],
     description: {
       de: "Saue verfügt über ein bedeutendes Gewerbegebiet in der Nähe der Hauptstadt. Es beherbergt diverse Produktions- und Logistikbetriebe.",
       hu: "Saue jelentős ipari területtel rendelkezik a főváros közelében. Különféle termelő és logisztikai üzemeknek ad otthont.",
@@ -646,7 +646,7 @@ export const estoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "EE",
     name: { de: "Industriegebiet Sindi", hu: "Sindi ipari terület", ro: "Zona industrială Sindi", en: "Sindi Industrial Zone" },
-    coordinates: { lat: 58.406, lng: 24.639 },
+    coords: [24.639, 58.406],
     description: {
       de: "Sindi hat eine historische industrielle Basis, die heute modernisiert und für verschiedene Zweige der Fertigung genutzt wird.",
       hu: "Sindi történelmi ipari bázissal rendelkezik, amelyet ma korszerűsítettek és a gyártás különböző ágaihoz használnak.",

@@ -6,7 +6,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Burg Hardegg", hu: "Hardegg vára", ro: "Castelul Hardegg", en: "Hardegg Castle" },
-    coordinates: { lat: 48.8519, lng: 15.8617 },
+    coords: [15.8617, 48.8519],
     description: {
       de: "Diese mittelalterliche Höhenburg thront über dem Thayatal an der Grenze zu Tschechien. Sie wurde im 12. Jahrhundert erstmals urkundlich erwähnt.",
       hu: "Ez a középkori hegyi vár a Thaya-völgy felett magasodik, a cseh határon. A 12. században említették először írásos források.",
@@ -38,7 +38,7 @@ export const austriaHistoryV2: POI[] = [
     type: "palace",
     parent: "AT",
     name: { de: "Schloss Parz", hu: "Parz kastély", ro: "Castelul Parz", en: "Parz Castle" },
-    coordinates: { lat: 48.2258, lng: 13.9103 },
+    coords: [13.9103, 48.2258],
     description: {
       de: "Dieses Renaissanceschloss bei Grieskirchen zeigt bemerkenswerte Sgraffitomalereien an der Fassade. Es diente früher als bedeutendes Handelszentrum.",
       hu: "Ez a Grieskirchen melletti reneszánsz kastély figyelemre méltó sgraffitó díszítéssel rendelkezik. Korábban jelentős kereskedelmi központ volt.",
@@ -70,7 +70,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Burg Finstergrün", hu: "Finstergrün vára", ro: "Castelul Finstergrün", en: "Finstergrün Castle" },
-    coordinates: { lat: 47.1147, lng: 14.1203 },
+    coords: [14.1203, 47.1147],
     description: {
       de: "Die Anlage oberhalb von Ramingstein wurde im 13. Jahrhundert erbaut und später neugotisch erweitert. Sie dient heute als Jugendherberge und Museum.",
       hu: "A Ramingstein feletti építményt a 13. században építették, majd neogótikus stílusban bővítették. Ma ifjúsági szállásként és múzeumként működik.",
@@ -102,7 +102,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Schloss Greinburg", hu: "Greinburg kastély", ro: "Castelul Greinburg", en: "Greinburg Castle" },
-    coordinates: { lat: 48.2289, lng: 14.8517 },
+    coords: [14.8517, 48.2289],
     description: {
       de: "Dieses Schloss über der Donau in Oberösterreich wurde im 15. Jahrhundert errichtet. Es beherbergt heute das Oberösterreichische Schifffahrtsmuseum.",
       hu: "Ez az ausztriai Duna feletti kastély a 15. században épült. Ma a Felső-ausztriai Hajózási Múzeumnak ad otthont.",
@@ -134,7 +134,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Burg Lockenhaus", hu: "Léka vára", ro: "Castelul Lockenhaus", en: "Lockenhaus Castle" },
-    coordinates: { lat: 47.4111, lng: 16.4175 },
+    coords: [16.4175, 47.4111],
     description: {
       de: "Diese ehemalige Grenzfestung im Burgenland stammt aus dem 13. Jahrhundert. Die Anlage ist für ihren gotischen Rittersaal bekannt.",
       hu: "Ez a korábbi határmenti erődítmény Burgenlandban a 13. századból származik. Az épület gótikus lovagterméről ismert.",
@@ -166,7 +166,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Tiefenbach", hu: "Tiefenbach várrom", ro: "Ruinele castelului Tiefenbach", en: "Tiefenbach Castle Ruins" },
-    coordinates: { lat: 47.9625, lng: 15.8286 },
+    coords: [15.8286, 47.9625],
     description: {
       de: "Die Ruine bei Kirchberg am Wechsel ist ein Zeugnis der mittelalterlichen Wehrbaukunst. Sie liegt malerisch auf einem bewaldeten Hügel.",
       hu: "A Kirchberg am Wechsel melletti rom a középkori erődépítészet tanúja. Festői környezetben fekszik egy erdős dombon.",
@@ -198,7 +198,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Griesstein", hu: "Griesstein várrom", ro: "Ruinele castelului Griesstein", en: "Griesstein Castle Ruins" },
-    coordinates: { lat: 47.7817, lng: 15.6881 },
+    coords: [15.6881, 47.7817],
     description: {
       de: "Diese Ruine bei Neunkirchen stammt aus dem 12. Jahrhundert. Die Reste der Wehrmauern bieten einen Einblick in die regionale Verteidigungsstruktur.",
       hu: "Ez a Neunkirchen melletti rom a 12. századból származik. A védőfalak maradványai bepillantást engednek a regionális védelmi szerkezetbe.",
@@ -230,7 +230,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Burg Raabs", hu: "Raabs vára", ro: "Castelul Raabs", en: "Raabs Castle" },
-    coordinates: { lat: 48.8483, lng: 15.4836 },
+    coords: [15.4836, 48.8483],
     description: {
       de: "Die Anlage liegt malerisch über dem Zusammenfluss von Mährischer und Deutscher Thaya. Sie wurde bereits im 11. Jahrhundert erwähnt.",
       hu: "Az építmény festőien fekszik a Morva- és a Német-Thaya összefolyása felett. Már a 11. században említették.",
@@ -262,7 +262,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Dürnstein", hu: "Dürnstein várrom", ro: "Ruinele castelului Dürnstein", en: "Dürnstein Castle Ruins" },
-    coordinates: { lat: 48.3975, lng: 15.5186 },
+    coords: [15.5186, 48.3975],
     description: {
       de: "Die Ruine oberhalb der Wachau ist historisch durch die Gefangenschaft von Richard Löwenherz bekannt. Sie bietet einen weiten Blick über das Donautal.",
       hu: "A Wachau feletti rom történelmileg Oroszlánszívű Richárd fogságáról ismert. Széles kilátást nyújt a Duna-völgyre.",
@@ -294,7 +294,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Scharfeneck", hu: "Scharfeneck várrom", ro: "Ruinele castelului Scharfeneck", en: "Scharfeneck Castle Ruins" },
-    coordinates: { lat: 47.9356, lng: 16.1428 },
+    coords: [16.1428, 47.9356],
     description: {
       de: "Die Ruine bei Baden ist ein Relikt des mittelalterlichen Adels. Sie liegt an der Thermenlinie und bietet einen Einblick in die historische Region.",
       hu: "A Baden melletti rom a középkori nemesség emléke. A termálvonal mentén fekszik, és bepillantást enged a történelmi régióba.",
@@ -326,7 +326,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Aggstein", hu: "Aggstein várrom", ro: "Ruinele castelului Aggstein", en: "Aggstein Castle Ruins" },
-    coordinates: { lat: 48.2475, lng: 15.4244 },
+    coords: [15.4244, 48.2475],
     description: {
       de: "Diese weithin sichtbare Ruine hoch über der Donau war einst berüchtigt für ihre Raubritter. Heute ist sie ein gut erhaltenes Ausflugsziel.",
       hu: "Ez a messziről látható rom magasan a Duna felett hírhedt volt rablólovagjairól. Ma egy jól megőrzött kirándulóhely.",
@@ -358,7 +358,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Wasserschloss Pottenbrunn", hu: "Pottenbrunn vízi kastély", ro: "Castelul pe apă Pottenbrunn", en: "Pottenbrunn Water Castle" },
-    coordinates: { lat: 48.2253, lng: 15.6964 },
+    coords: [15.6964, 48.2253],
     description: {
       de: "Dieses Wasserschloss in Niederösterreich verbindet Verteidigung mit Wohnkomfort. Die Anlage ist von einem historischen Wassergraben umgeben.",
       hu: "Ez az alsó-ausztriai vízi kastély ötvözi a védelmet a kényelemmel. Az épületet történelmi vizesárok veszi körül.",
@@ -390,7 +390,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Steinegg", hu: "Steinegg várrom", ro: "Ruinele castelului Steinegg", en: "Steinegg Castle Ruins" },
-    coordinates: { lat: 48.6539, lng: 15.6425 },
+    coords: [15.6425, 48.6539],
     description: {
       de: "Die Ruine im Kamptal ist eine der vielen historischen Befestigungen der Region. Sie bietet interessante Einblicke in die Baugeschichte.",
       hu: "A Kamp-völgyi rom a régió sok történelmi erődítményének egyike. Érdekes betekintést nyújt az építéstörténetbe.",
@@ -422,7 +422,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Oedenburg", hu: "Ödenburg várrom", ro: "Ruinele castelului Oedenburg", en: "Oedenburg Castle Ruins" },
-    coordinates: { lat: 48.5136, lng: 15.7533 },
+    coords: [15.7533, 48.5136],
     description: {
       de: "Diese Ruine zeugt von der turbulenten Grenzgeschichte des Waldviertels. Die Reste der Befestigung liegen in einer bewaldeten Landschaft.",
       hu: "Ez a rom a Waldviertel viharos határmenti történelméről tanúskodik. Az erődítmény maradványai erdős tájon fekszenek.",
@@ -454,7 +454,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Rothenstein", hu: "Rothenstein várrom", ro: "Ruinele castelului Rothenstein", en: "Rothenstein Castle Ruins" },
-    coordinates: { lat: 48.0125, lng: 15.9867 },
+    coords: [15.9867, 48.0125],
     description: {
       de: "Die Burgruine liegt in der Nähe von Piesting. Die Reste der mittelalterlichen Anlage sind ein beliebtes Ziel für historisch interessierte Wanderer.",
       hu: "A várrom Piesting közelében található. A középkori építmény maradványai népszerű célpontok a történelem iránt érdeklődő túrázóknak.",
@@ -486,7 +486,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Falkenstein", hu: "Falkenstein várrom", ro: "Ruinele castelului Falkenstein", en: "Falkenstein Castle Ruins" },
-    coordinates: { lat: 48.7231, lng: 16.5817 },
+    coords: [16.5817, 48.7231],
     description: {
       de: "Die Ruine bei Falkenstein dominiert die Landschaft des Weinviertels. Sie diente als wichtige Grenzfestung gegen Norden.",
       hu: "A Falkenstein melletti rom uralja a Weinviertel táját. Fontos határvédelmi erőd volt észak felé.",
@@ -518,7 +518,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Hard", hu: "Hard várrom", ro: "Ruinele castelului Hard", en: "Hard Castle Ruins" },
-    coordinates: { lat: 48.7183, lng: 16.3533 },
+    coords: [16.3533, 48.7183],
     description: {
       de: "Diese Ruine in der Region um Laa an der Thaya zeugt von der strategischen Bedeutung der Grenze. Sie bietet Einblicke in die defensive Vergangenheit.",
       hu: "Ez a Laa an der Thaya környéki rom a határ stratégiai fontosságáról tanúskodik. Bepillantást nyújt a védelmi múltba.",
@@ -550,7 +550,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Staatz", hu: "Staatz várrom", ro: "Ruinele castelului Staatz", en: "Staatz Castle Ruins" },
-    coordinates: { lat: 48.6653, lng: 16.4864 },
+    coords: [16.4864, 48.6653],
     description: {
       de: "Die Ruine thront auf einem isolierten Felsen über dem Ort Staatz. Sie ist eines der markantesten Denkmäler im Weinviertel.",
       hu: "A rom egy magányos sziklán trónol Staatz település felett. A Weinviertel egyik legjellegzetesebb emlékműve.",
@@ -582,7 +582,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Peilstein", hu: "Peilstein várrom", ro: "Ruinele castelului Peilstein", en: "Peilstein Castle Ruins" },
-    coordinates: { lat: 47.9733, lng: 16.0381 },
+    coords: [16.0381, 47.9733],
     description: {
       de: "Die Ruine in der Nähe von Hafnerberg bietet einen Einblick in die Geschichte der Region. Sie liegt in einem waldreichen Gebiet des Wienerwalds.",
       hu: "A Hafnerberg melletti rom betekintést nyújt a régió történelmébe. A Bécsi-erdő erdős területén található.",
@@ -614,7 +614,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Grub", hu: "Grub várrom", ro: "Ruinele castelului Grub", en: "Grub Castle Ruins" },
-    coordinates: { lat: 48.2433, lng: 16.1425 },
+    coords: [16.1425, 48.2433],
     description: {
       de: "Diese Ruine bei Sieghartskirchen ist ein historisches Zeugnis der Adelskultur in der Umgebung von Wien. Sie ist heute weitgehend verfallen.",
       hu: "Ez a Sieghartskirchen melletti rom a bécsi környéki nemesi kultúra történelmi emléke. Ma már nagyrészt elpusztult.",
@@ -646,7 +646,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Schloss Ebersdorf", hu: "Ebersdorf kastély", ro: "Castelul Ebersdorf", en: "Ebersdorf Castle" },
-    coordinates: { lat: 48.1794, lng: 16.4883 },
+    coords: [16.4883, 48.1794],
     description: {
       de: "Dieses Renaissance-Schloss in Wien diente früher als Jagdschloss. Heute wird es für verschiedene kulturelle Zwecke genutzt.",
       hu: "Ez a bécsi reneszánsz kastély korábban vadászkastélyként szolgált. Ma különféle kulturális célokra használják.",
@@ -678,7 +678,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Neudegg", hu: "Neudegg várrom", ro: "Ruinele castelului Neudegg", en: "Neudegg Castle Ruins" },
-    coordinates: { lat: 48.5133, lng: 15.8275 },
+    coords: [15.8275, 48.5133],
     description: {
       de: "Die Burgruine im Waldviertel ist eine der gut erhaltenen Anlagen der Region. Sie bietet einen Einblick in das mittelalterliche Leben.",
       hu: "A Waldvierteli várrom a régió egyik jól megőrzött építménye. Bepillantást nyújt a középkori életbe.",
@@ -710,7 +710,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Gansbach", hu: "Gansbach várrom", ro: "Ruinele castelului Gansbach", en: "Gansbach Castle Ruins" },
-    coordinates: { lat: 48.2917, lng: 15.4833 },
+    coords: [15.4833, 48.2917],
     description: {
       de: "Diese Ruine in der Nähe von Dunkelsteinerwald ist ein Zeugnis früherer Verteidigungsstrukturen. Sie bietet historische Spazierwege.",
       hu: "Ez a Dunkelsteinerwald melletti rom a korábbi védelmi struktúrák tanúja. Történelmi sétányokat kínál.",
@@ -742,7 +742,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Schloss Vitis", hu: "Vitis kastély", ro: "Castelul Vitis", en: "Vitis Castle" },
-    coordinates: { lat: 48.7833, lng: 15.2167 },
+    coords: [15.2167, 48.7833],
     description: {
       de: "Dieses Schloss im Waldviertel hat eine lange Geschichte und wurde mehrfach umgebaut. Es zeigt heute eine Mischung verschiedener Baustile.",
       hu: "Ennek a Waldvierteli kastélynak hosszú története van, és többször átépítették. Ma különböző építészeti stílusok keveredését mutatja.",
@@ -774,7 +774,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Burg Weitra", hu: "Weitra vára", ro: "Castelul Weitra", en: "Weitra Castle" },
-    coordinates: { lat: 48.6975, lng: 14.8917 },
+    coords: [14.8917, 48.6975],
     description: {
       de: "Die Burg Weitra ist eines der bedeutendsten Bauwerke im Waldviertel. Sie ist für ihre prachtvollen Innenräume bekannt.",
       hu: "Weitra vára a Waldviertel egyik legjelentősebb építménye. Pompás belső tereiről ismert.",
@@ -806,7 +806,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Burg Drosendorf", hu: "Drosendorf vára", ro: "Castelul Drosendorf", en: "Drosendorf Castle" },
-    coordinates: { lat: 48.8667, lng: 15.6333 },
+    coords: [15.6333, 48.8667],
     description: {
       de: "Drosendorf ist eine der wenigen Städte in Österreich, die noch vollständig von einer mittelalterlichen Stadtmauer umgeben ist. Die Burg prägt das Stadtbild.",
       hu: "Drosendorf egyike azon kevés ausztriai városoknak, amelyeket még mindig teljesen körülvesz egy középkori városfal. A vár meghatározza a városképet.",
@@ -838,7 +838,7 @@ export const austriaHistoryV2: POI[] = [
     type: "palace",
     parent: "AT",
     name: { de: "Schloss Grafenegg", hu: "Grafenegg kastély", ro: "Castelul Grafenegg", en: "Grafenegg Castle" },
-    coordinates: { lat: 48.4356, lng: 15.7761 },
+    coords: [15.7761, 48.4356],
     description: {
       de: "Das Schloss ist für seine historistische Architektur im englischen Tudor-Stil bekannt. Es ist heute ein international bedeutendes Zentrum für Konzerte.",
       hu: "A kastély angol Tudor-stílusú historizáló építészetéről ismert. Ma nemzetközileg jelentős koncertközpont.",
@@ -870,7 +870,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Kollmitz", hu: "Kollmitz várrom", ro: "Ruinele castelului Kollmitz", en: "Kollmitz Castle Ruins" },
-    coordinates: { lat: 48.8683, lng: 15.4083 },
+    coords: [15.4083, 48.8683],
     description: {
       de: "Die ausgedehnte Ruine Kollmitz bei Raabs an der Thaya gehört zu den größten Burgruinen Österreichs. Sie ist ein bedeutendes Ziel für Geschichtsbegeisterte.",
       hu: "A Raabs an der Thaya melletti kiterjedt Kollmitz rom Ausztria egyik legnagyobb várroma. Jelentős célpont a történelemkedvelők számára.",
@@ -902,7 +902,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Schloss Wolkersdorf", hu: "Wolkersdorf kastély", ro: "Castelul Wolkersdorf", en: "Wolkersdorf Castle" },
-    coordinates: { lat: 48.3775, lng: 16.525 },
+    coords: [16.525, 48.3775],
     description: {
       de: "Dieses Schloss im Weinviertel dient heute als Kulturzentrum. Die historischen Räume werden für Ausstellungen und Veranstaltungen genutzt.",
       hu: "Ez a Weinvierteli kastély ma kulturális központként szolgál. A történelmi tereket kiállításokra és rendezvényekre használják.",
@@ -934,7 +934,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Hartberg", hu: "Hartberg várrom", ro: "Ruinele castelului Hartberg", en: "Hartberg Castle Ruins" },
-    coordinates: { lat: 47.2828, lng: 15.9686 },
+    coords: [15.9686, 47.2828],
     description: {
       de: "Die Reste der Burg in der Steiermark bieten einen interessanten Einblick in die regionale Adelsgeschichte. Sie sind gut in Wanderwege integriert.",
       hu: "A stájerországi vár maradványai érdekes betekintést nyújtanak a regionális nemesi történelembe. Jól integrálva vannak a túraútvonalakba.",
@@ -966,7 +966,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Schloss Fischau", hu: "Fischau kastély", ro: "Castelul Fischau", en: "Fischau Castle" },
-    coordinates: { lat: 47.8214, lng: 16.1758 },
+    coords: [16.1758, 47.8214],
     description: {
       de: "Dieses Schloss in Niederösterreich ist bekannt für seine klassizistische Architektur. Es war ein bedeutender Wohnsitz in der Region.",
       hu: "Ez az alsó-ausztriai kastély klasszicista építészetéről ismert. Jelentős rezidencia volt a régióban.",
@@ -998,7 +998,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Scharfstein", hu: "Scharfstein várrom", ro: "Ruinele castelului Scharfstein", en: "Scharfstein Castle Ruins" },
-    coordinates: { lat: 47.7953, lng: 15.6986 },
+    coords: [15.6986, 47.7953],
     description: {
       de: "Die Ruine bei Ternitz ist ein stilles Zeugnis mittelalterlicher Architektur. Sie liegt in einem waldreichen, hügeligen Gebiet.",
       hu: "A Ternitz melletti rom a középkori építészet csendes tanúja. Erdős, dombos vidéken fekszik.",
@@ -1030,7 +1030,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Wartenstein", hu: "Wartenstein várrom", ro: "Ruinele castelului Wartenstein", en: "Wartenstein Castle Ruins" },
-    coordinates: { lat: 47.6694, lng: 15.9383 },
+    coords: [15.9383, 47.6694],
     description: {
       de: "Diese Ruine in der Nähe von Gloggnitz bietet einen spektakulären Ausblick auf das Semmering-Gebiet. Sie war ein bedeutender Beobachtungsposten.",
       hu: "Ez a Gloggnitz melletti rom látványos kilátást kínál a Semmering-vidékre. Fontos megfigyelőállomás volt.",
@@ -1062,7 +1062,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Muthmannsdorf", hu: "Muthmannsdorf várrom", ro: "Ruinele castelului Muthmannsdorf", en: "Muthmannsdorf Castle Ruins" },
-    coordinates: { lat: 47.8183, lng: 16.1422 },
+    coords: [16.1422, 47.8183],
     description: {
       de: "Die Reste dieser mittelalterlichen Anlage sind ein beliebtes Ziel für Wanderer in Niederösterreich. Die Burg war historisch strategisch wichtig.",
       hu: "Ennek a középkori építménynek a maradványai népszerű célpontok az alsó-ausztriai túrázók számára. A vár történelmileg stratégiai fontosságú volt.",
@@ -1094,7 +1094,7 @@ export const austriaHistoryV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Burg Sebenstein", hu: "Sebenstein vára", ro: "Castelul Sebenstein", en: "Sebenstein Castle" },
-    coordinates: { lat: 47.6583, lng: 16.1758 },
+    coords: [16.1758, 47.6583],
     description: {
       de: "Die Burg bei Sebenstein ist eine der schönsten historischen Anlagen der Region. Sie ist bekannt für ihre mittelalterliche Atmosphäre.",
       hu: "A Sebenstein melletti vár a régió egyik legszebb történelmi építménye. Középkori hangulatáról ismert.",
@@ -1126,7 +1126,7 @@ export const austriaHistoryV2: POI[] = [
     type: "ruins",
     parent: "AT",
     name: { de: "Burgruine Schwarzenbach", hu: "Schwarzenbach várrom", ro: "Ruinele castelului Schwarzenbach", en: "Schwarzenbach Castle Ruins" },
-    coordinates: { lat: 47.6253, lng: 16.3417 },
+    coords: [16.3417, 47.6253],
     description: {
       de: "Die Ruine bei Schwarzenbach ist ein historisches Denkmal inmitten einer schönen Naturlandschaft. Sie ist für Besucher erschlossen.",
       hu: "A Schwarzenbach melletti rom egy történelmi emlékmű egy gyönyörű természeti táj közepén. Látogatók számára kiépített.",

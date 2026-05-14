@@ -6,7 +6,7 @@ export const serbiaCitiesV2: POI[] = [
     type: "city",
     parent: "RS",
     name: { de: "Prijepolje", hu: "Prijepolje", ro: "Prijepolje", en: "Prijepolje" },
-    coordinates: { lat: 43.385, lng: 19.658 },
+    coords: [19.658, 43.385],
     description: {
       de: "Prijepolje ist eine Stadt im Südwesten Serbiens am Zusammenfluss von Lim und Mileševka. Der Ort ist bekannt für das nahegelegene Kloster Mileševa.",
       hu: "Prijepolje város Szerbia délnyugati részén, a Lim és a Mileševka folyók összefolyásánál található. Híres a közeli Mileševa kolostorról.",
@@ -38,7 +38,7 @@ export const serbiaCitiesV2: POI[] = [
     type: "city",
     parent: "RS",
     name: { de: "Loznica", hu: "Loznica", ro: "Loznica", en: "Loznica" },
-    coordinates: { lat: 44.532, lng: 19.227 },
+    coords: [19.227, 44.532],
     description: {
       de: "Loznica liegt an der Drina im Westen Serbiens nahe der Grenze zu Bosnien und Herzegowina. Die Stadt ist ein wichtiger Industriestandort der Region.",
       hu: "Loznica a Drina folyó mentén fekszik Nyugat-Szerbiában, a bosznia-hercegovinai határ közelében. A város a régió fontos ipari központja.",
@@ -70,7 +70,7 @@ export const serbiaCitiesV2: POI[] = [
     type: "city",
     parent: "RS",
     name: { de: "Vladičin Han", hu: "Vladičin Han", ro: "Vladičin Han", en: "Vladičin Han" },
-    coordinates: { lat: 42.709, lng: 22.072 },
+    coords: [22.072, 42.709],
     description: {
       de: "Vladičin Han liegt im Süden Serbiens am Ufer der Südlichen Morava. Die Stadt fungiert als lokales Zentrum im Pčinja-Distrikt.",
       hu: "Vladičin Han Szerbia déli részén, a Dél-Morava folyó partján fekszik. A város a Pčinja körzet helyi központjaként szolgál.",

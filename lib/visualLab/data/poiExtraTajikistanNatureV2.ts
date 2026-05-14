@@ -659,7 +659,20 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Important tributary of the Pyanj",
         "Valley is often isolated by landslides"
       ]
-    }, image: "/poi-images/bartang-river-nature-v2.webp"},
+    }, image: "/poi-images/bartang-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bartang-Fluss im Pamir-Gebirge Tadschikistans ist ein Nebenfluss des Pandsch. Er entspringt am Gletscher des Qullai Engels und fließt etwa 200 Kilometer durch enge Schluchten. Der Fluss ist bekannt für Stromschnellen und ist ein Ziel für Kajakfahrer. Die Region ist dünn besiedelt. Die durchschnittliche Wassertiefe beträgt 2 Meter. Der Fluss entwässert ein Gebiet von 8.000 km².",
+      hu: "A Bartang folyó Tádzsikisztán Pamír-hegységében a Pandzs mellékfolyója. A Qullai Engels gleccserből ered, és körülbelül 200 kilométer hosszan folyik szűk szurdokokon keresztül. A folyó gyors sodrásáról ismert, és kajakosok célpontja. A régió ritkán lakott. Az átlagos vízmélység 2 méter. A folyó vízgyűjtő területe 8000 km².",
+      ro: "Râul Bartang din Munții Pamir din Tadjikistan este un afluent al râului Panj. Izvorăște din ghețarul Qullai Engels și curge aproximativ 200 de kilometri prin chei înguste. Râul este cunoscut pentru repezișuri și este o destinație pentru caiac. Regiunea este slab populată. Adâncimea medie a apei este de 2 metri. Râul drenează o suprafață de 8.000 km².",
+      en: "The Bartang River in the Pamir Mountains of Tajikistan is a tributary of the Panj River. It originates from the Qullai Engels glacier and flows about 200 kilometers through narrow gorges. The river is known for rapids and is a destination for kayakers. The region is sparsely populated. Average water depth is 2 meters. The river drains an area of 8,000 km².",
+    },
+    factsAdvanced: {
+      de: ["Der Fluss ist etwa 200 Kilometer lang.", "Das Einzugsgebiet beträgt 8.000 km².", "Die Quellhöhe liegt bei 4.500 Metern.", "Die durchschnittliche Fließgeschwindigkeit beträgt 5 m/s.", "Der höchste Wasserstand ist im Juli.", "Der Fluss hat 20 größere Stromschnellen."],
+      hu: ["A folyó körülbelül 200 kilométer hosszú.", "Vízgyűjtő területe 8000 km².", "A forrás 4500 méteres magasságban van.", "Az átlagos áramlási sebesség 5 m/s.", "A legmagasabb vízszint júliusban van.", "A folyón 20 nagyobb zuhatag található."],
+      ro: ["Râul are aproximativ 200 de kilometri lungime.", "Bazinul hidrografic are 8.000 km².", "Izvorul se află la 4.500 de metri altitudine.", "Viteza medie a curgerii este de 5 m/s.", "Nivelul maxim al apei este în iulie.", "Râul are 20 de repezișuri majore."],
+      en: ["The river is about 200 kilometers long.", "The drainage basin is 8,000 km².", "Source elevation is 4,500 meters.", "Average flow velocity is 5 m/s.", "Highest water level occurs in July.", "The river has 20 major rapids."],
+    },
+  },
   {
     id: "gunt-river-nature-v2",
     type: "river",
@@ -694,7 +707,20 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "296 kilometers long",
         "Has several small hydroelectric power plants"
       ]
-    }, image: "/poi-images/gunt-river-nature-v2.webp"},
+    }, image: "/poi-images/gunt-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gunt-Fluss fließt im Westen des Pamir-Gebirges in Tadschikistan. Er entspringt am Gletscher des Lenin-Gipfels und ist etwa 160 Kilometer lang. Der Fluss mündet in den Pandsch. Er ist bekannt für sein klares, grünes Wasser. Das Tal ist landwirtschaftlich genutzt für Gerste und Kartoffeln. Die durchschnittliche Breite beträgt 30 Meter. Es gibt mehrere kleine Wasserkraftwerke entlang des Flusses.",
+      hu: "A Gunt folyó Tádzsikisztánban, a Pamír-hegység nyugati részén folyik. A Lenin-csúcs gleccseréből ered, és hossza körülbelül 160 kilométer. A Pandzsba ömlik. Tiszta, zöld vizéről ismert. A völgyet mezőgazdasági célokra használják, árpát és burgonyát termesztenek. Az átlagos szélessége 30 méter. A folyó mentén több kis vízerőmű található.",
+      ro: "Râul Gunt curge în vestul Munților Pamir din Tadjikistan. Izvorăște din ghețarul Vârfului Lenin și are aproximativ 160 de kilometri lungime. Se varsă în râul Panj. Este cunoscut pentru apa sa limpede, verde. Valea este utilizată pentru agricultură, cultivând orz și cartofi. Lățimea medie este de 30 de metri. Există mai multe hidrocentrale mici de-a lungul râului.",
+      en: "The Gunt River flows in the western Pamir Mountains of Tajikistan. It originates from the Lenin Peak glacier and is about 160 kilometers long. It empties into the Panj River. Known for its clear, green water, the valley is used for agriculture, growing barley and potatoes. Average width is 30 meters. Several small hydroelectric plants are along the river.",
+    },
+    factsAdvanced: {
+      de: ["Der Fluss ist etwa 160 Kilometer lang.", "Die Quellhöhe beträgt 5.000 Meter.", "Die durchschnittliche Breite ist 30 Meter.", "Die Fließgeschwindigkeit beträgt 3 m/s.", "Das Einzugsgebiet umfasst 4.500 km².", "Die Wassertemperatur im Sommer beträgt 8°C."],
+      hu: ["A folyó hossza körülbelül 160 kilométer.", "A forrás 5000 méteres magasságban van.", "Az átlagos szélesség 30 méter.", "Az áramlási sebesség 3 m/s.", "A vízgyűjtő terület 4500 km².", "A víz hőmérséklete nyáron 8°C."],
+      ro: ["Râul are aproximativ 160 de kilometri lungime.", "Izvorul se află la 5.000 de metri altitudine.", "Lățimea medie este de 30 de metri.", "Viteza curgerii este de 3 m/s.", "Bazinul hidrografic are 4.500 km².", "Temperatura apei vara este de 8°C."],
+      en: ["The river is about 160 kilometers long.", "Source elevation is 5,000 meters.", "Average width is 30 meters.", "Flow velocity is 3 m/s.", "Drainage basin is 4,500 km².", "Water temperature in summer is 8°C."],
+    },
+  },
   {
     id: "bulunkul-lake-nature-v2",
     type: "lake",
@@ -729,7 +755,20 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Temperature record of -63 degrees Celsius",
         "Important stopover for migratory birds"
       ]
-    }, image: "/poi-images/bulunkul-lake-nature-v2.webp"},
+    }, image: "/poi-images/bulunkul-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bulunkul-See liegt im östlichen Pamir in Tadschikistan auf 3.800 Metern Höhe. Er ist einer der höchstgelegenen Seen des Landes und hat eine Fläche von 12 km². Der See ist durch einen Erdrutsch entstanden. Er ist von kargen Bergen umgeben. Das Wasser ist stark mineralisiert mit einem pH-Wert von 9. Der See beherbergt eine Population von Wasservögeln, darunter Streifengänse und Rothalsgänse.",
+      hu: "A Bulunkul-tó Tádzsikisztán keleti Pamírjában található, 3800 méteres tengerszint feletti magasságon. Az ország egyik legmagasabban fekvő tava, területe 12 km². A tó földcsuszamlás következtében jött létre. Kopár hegyek veszik körül. Vize erősen mineralizált, pH-ja 9. A tó vízimadarak populációjának ad otthont, köztük a nyílfarkú lúd és a vörösnyakú lúd.",
+      ro: "Lacul Bulunkul este situat în Pamirul de Est din Tadjikistan, la o altitudine de 3.800 de metri. Este unul dintre cele mai înalte lacuri din țară, cu o suprafață de 12 km². Lacul s-a format în urma unei alunecări de teren. Este înconjurat de munți stâncoși. Apa este puternic mineralizată, cu un pH de 9. Lacul găzduiește o populație de păsări acvatice, inclusiv gâște cu dungi și gâște cu gât roșu.",
+      en: "Lake Bulunkul is located in the eastern Pamir of Tajikistan at an altitude of 3,800 meters. It is one of the highest lakes in the country, covering an area of 12 km². The lake was formed by a landslide. It is surrounded by barren mountains. The water is highly mineralized with a pH of 9. The lake hosts a population of waterfowl, including bar-headed geese and red-necked geese.",
+    },
+    factsAdvanced: {
+      de: ["Der See liegt auf 3.800 Metern Höhe.", "Die Fläche beträgt 12 km².", "Die maximale Tiefe beträgt 20 Meter.", "Der pH-Wert des Wassers liegt bei 9.", "Die Wassertemperatur im Juli beträgt 10°C.", "Die Region hat jährlich 100 mm Niederschlag."],
+      hu: ["A tó 3800 méteres magasságban található.", "Területe 12 km².", "Maximális mélysége 20 méter.", "A víz pH-értéke 9.", "A víz hőmérséklete júliusban 10°C.", "A régióban évente 100 mm csapadék hull."],
+      ro: ["Lacul se află la 3.800 de metri altitudine.", "Suprafața este de 12 km².", "Adâncimea maximă este de 20 de metri.", "PH-ul apei este 9.", "Temperatura apei în iulie este de 10°C.", "Regiunea are 100 mm precipitații anual."],
+      en: ["The lake is at 3,800 meters elevation.", "Area is 12 km².", "Maximum depth is 20 meters.", "Water pH is 9.", "Water temperature in July is 10°C.", "The region receives 100 mm of rainfall annually."],
+    },
+  },
   {
     id: "haft-kul-nature-v2",
     type: "lake",
@@ -764,7 +803,20 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "The lowest lake is at 1598 meters",
         "Each lake has its own Persian name"
       ]
-    }, image: "/poi-images/haft-kul-nature-v2.webp"},
+    }, image: "/poi-images/haft-kul-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Haft Kul (Sieben Seen) liegt im Fan-Gebirge Tadschikistans auf 2.000 bis 3.000 Metern Höhe. Es sind sieben miteinander verbundene Seen, die durch einen Flusslauf entstanden sind. Die Seen haben unterschiedliche Farben von türkis bis smaragdgrün. Der größte See ist der Kul-i Kalon mit 4 km². Die Gegend ist ein beliebtes Wandergebiet. Die Seen sind von Wacholderwäldern umgeben.",
+      hu: "A Haft Kul (Hét tó) Tádzsikisztán Fan-hegységében található, 2000 és 3000 méter közötti magasságban. Hét egymással összeköttetésben álló tó, amelyek egy folyó által jöttek létre. A tavak különböző színűek, a türkiztől a smaragdzöldig. A legnagyobb tó a Kul-i Kalon, területe 4 km². A terület népszerű túracélpont. A tavakat borókaerdők veszik körül.",
+      ro: "Haft Kul (Șapte Lacuri) se află în Munții Fan din Tadjikistan, la altitudini cuprinse între 2.000 și 3.000 de metri. Sunt șapte lacuri interconectate, formate de un curs de apă. Lacurile au culori diferite, de la turcoaz la verde smarald. Cel mai mare lac este Kul-i Kalon, cu 4 km². Zona este o destinație populară pentru drumeții. Lacurile sunt înconjurate de păduri de ienupăr.",
+      en: "Haft Kul (Seven Lakes) is located in the Fan Mountains of Tajikistan at elevations between 2,000 and 3,000 meters. They are seven interconnected lakes formed by a stream. The lakes have different colors, ranging from turquoise to emerald green. The largest lake is Kul-i Kalon with an area of 4 km². The area is a popular hiking destination. The lakes are surrounded by juniper forests.",
+    },
+    factsAdvanced: {
+      de: ["Die Seen liegen zwischen 2.000 und 3.000 Metern Höhe.", "Der größte See hat 4 km² Fläche.", "Die Gesamtlänge der Kette beträgt 5 Kilometer.", "Die Wassertiefe beträgt bis zu 30 Meter.", "Die Wassertemperatur im August beträgt 15°C.", "Es gibt 7 Hauptseen."],
+      hu: ["A tavak 2000 és 3000 méter közötti magasságban helyezkednek el.", "A legnagyobb tó területe 4 km².", "A lánc teljes hossza 5 kilométer.", "A vízmélység eléri a 30 métert.", "A víz hőmérséklete augusztusban 15°C.", "7 fő tó található."],
+      ro: ["Lacurile sunt situate între 2.000 și 3.000 de metri altitudine.", "Cel mai mare lac are 4 km².", "Lungimea totală a lanțului este de 5 kilometri.", "Adâncimea apei ajunge la 30 de metri.", "Temperatura apei în august este de 15°C.", "Există 7 lacuri principale."],
+      en: ["The lakes are between 2,000 and 3,000 meters elevation.", "The largest lake has an area of 4 km².", "Total length of the chain is 5 kilometers.", "Water depth reaches up to 30 meters.", "Water temperature in August is 15°C.", "There are 7 main lakes."],
+    },
+  },
   {
     id: "tigrovaya-balka-nature-v2",
     type: "national-park",
@@ -799,7 +851,20 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Covers about 49,700 hectares",
         "UNESCO World Heritage site since 2023"
       ]
-    }, image: "/poi-images/tigrovaya-balka-nature-v2.webp"},
+    }, image: "/poi-images/tigrovaya-balka-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Tigrovaya-Balka-Naturschutzgebiet liegt im Südwesten Tadschikistans an der Grenze zu Afghanistan. Es wurde 1938 gegründet und hat eine Fläche von 497 km². Das Reservat schützt Überschwemmungsgebiete, Wälder und Sümpfe entlang des Wachsch-Flusses. Es ist bekannt für seine Population des Schraubenvogels und des Bucharahirsches. Der Name bedeutet 'Tigerbach', obwohl der Kaspische Tiger hier ausgestorben ist.",
+      hu: "A Tigrovaya Balka Természetvédelmi Terület Tádzsikisztán délnyugati részén, az afgán határ mentén található. 1938-ban alapították, területe 497 km². A rezervátum ártéri erdőket és mocsarakat véd a Vahsh folyó mentén. Ismert a szarvasmadár és a buharai szarvas populációjáról. A név 'Tigris-patakot' jelent, bár a kaszpi tigris itt kihalt.",
+      ro: "Rezervația Naturală Tigrovaya Balka este situată în sud-vestul Tadjikistanului, la granița cu Afganistanul. A fost înființată în 1938 și are o suprafață de 497 km². Rezervația protejează zone inundabile, păduri și mlaștini de-a lungul fluviului Vahsh. Este cunoscută pentru populațiile de nagâț și cerb de Buhara. Numele înseamnă 'Pârâul Tigrilor', deși tigrul caspian este dispărut aici.",
+      en: "Tigrovaya Balka Nature Reserve is located in southwestern Tajikistan on the border with Afghanistan. It was established in 1938 and covers an area of 497 km². The reserve protects floodplains, forests, and marshes along the Vakhsh River. It is known for its population of the white-headed duck and Bukhara deer. The name means 'Tiger Brook', although the Caspian tiger is extinct here.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat wurde 1938 gegründet.", "Die Fläche beträgt 497 km².", "Die Höhe liegt zwischen 300 und 500 Metern.", "Es gibt 200 Vogelarten.", "Die jährliche Niederschlagsmenge beträgt 500 mm.", "Die Durchschnittstemperatur im Januar beträgt 1°C."],
+      hu: ["A rezervátumot 1938-ban alapították.", "Területe 497 km².", "A magasság 300 és 500 méter között van.", "200 madárfaj található.", "Az éves csapadékmennyiség 500 mm.", "Az átlaghőmérséklet januárban 1°C."],
+      ro: ["Rezervația a fost înființată în 1938.", "Suprafața este de 497 km².", "Altitudinea este cuprinsă între 300 și 500 de metri.", "Există 200 de specii de păsări.", "Precipitațiile anuale sunt de 500 mm.", "Temperatura medie în ianuarie este de 1°C."],
+      en: ["The reserve was established in 1938.", "Area is 497 km².", "Elevation ranges from 300 to 500 meters.", "There are 200 bird species.", "Annual precipitation is 500 mm.", "Average temperature in January is 1°C."],
+    },
+  },
   {
     id: "tajik-national-park-nature-v2",
     type: "national-park",
@@ -834,7 +899,20 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Largest national park in Central Asia",
         "Home to endangered snow leopards"
       ]
-    }, image: "/poi-images/tajik-national-park-nature-v2.webp"},
+    }, image: "/poi-images/tajik-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tadschikische Nationalpark (Pamir-Nationalpark) liegt im östlichen Pamir und wurde 1992 gegründet. Er umfasst 26.000 km² und ist das größte Schutzgebiet Tadschikistans. Der Park beherbergt den Ismail-Samani-Gipfel (7.495 m) und den Lenin-Gipfel (7.134 m). Die Landschaft besteht aus Hochgebirge, Gletschern und Seen. Der Park gehört zum UNESCO-Welterbe. Er schützt den Schneeleoparden und den Marco-Polo-Argali.",
+      hu: "A Tádzsik Nemzeti Park (Pamír Nemzeti Park) a keleti Pamírban található, és 1992-ben alapították. Területe 26 000 km², Tádzsikisztán legnagyobb védett területe. A parkban található az Ismail Samani-csúcs (7495 m) és a Lenin-csúcs (7134 m). A táj magashegységekből, gleccserekből és tavakból áll. A park az UNESCO világörökség része. Védi a hópárducot és a Marco Polo-vadjuhot.",
+      ro: "Parcul Național Tajik (Parcul Național Pamir) este situat în estul Pamirului și a fost înființat în 1992. Acoperă 26.000 km², fiind cea mai mare arie protejată din Tadjikistan. Parcul găzduiește Vârful Ismail Samani (7.495 m) și Vârful Lenin (7.134 m). Peisajul este alcătuit din munți înalți, ghețari și lacuri. Parcul este inclus în patrimoniul UNESCO. Protejează leopardul zăpezilor și oaia Marco Polo.",
+      en: "Tajik National Park (Pamir National Park) is located in the eastern Pamirs, established in 1992. It covers 26,000 km², making it the largest protected area in Tajikistan. The park houses Ismail Samani Peak (7,495 m) and Lenin Peak (7,134 m). The landscape features high mountains, glaciers, and lakes. The park is a UNESCO World Heritage site. It protects the snow leopard and Marco Polo sheep.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1992 gegründet.", "Die Fläche beträgt 26.000 km².", "Der höchste Gipfel ist 7.495 Meter hoch.", "Es gibt 30 Gletscher im Park.", "Die Schneeleopardenpopulation beträgt 50 Tiere.", "Der Park war 2013 UNESCO-Weltkulturerbe."],
+      hu: ["A parkot 1992-ben alapították.", "Területe 26 000 km².", "A legmagasabb csúcs 7495 méter.", "30 gleccser található a parkban.", "A hópárduc-populáció 50 egyedből áll.", "A park 2013-ban lett UNESCO világörökség."],
+      ro: ["Parcul a fost înființat în 1992.", "Suprafața este de 26.000 km².", "Cel mai înalt vârf are 7.495 de metri.", "Există 30 de ghețari în parc.", "Populația de leoparzi ai zăpezii este de 50 de indivizi.", "Parcul este patrimoniu UNESCO din 2013."],
+      en: ["The park was established in 1992.", "Area is 26,000 km².", "The highest peak is 7,495 meters.", "There are 30 glaciers in the park.", "Snow leopard population is 50 individuals.", "The park became a UNESCO World Heritage site in 2013."],
+    },
+  },
   {
     id: "shirkent-national-park-nature-v2",
     type: "national-park",
@@ -869,6 +947,18 @@ export const poiExtraTajikistanNatureV2: POI[] = [
         "Features over 400 dinosaur footprints",
         "Located near the Uzbek border"
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Shirkent-Nationalpark liegt im Südwesten Tadschikistans in den Hissar-Bergen. Er wurde 1993 gegründet und ist 3.700 km² groß. Der Park ist bekannt für seine vielfältige Flora mit über 1.000 Pflanzenarten, darunter Tulpen und Iris. Er beherbergt Braunbären und Wildschweine. Das Gelände ist zerklüftet mit tiefen Tälern. Der Park ist auch für seine archäologischen Fundstätten aus der Bronzezeit bekannt.",
+      hu: "A Shirkent Nemzeti Park Tádzsikisztán délnyugati részén, a Hisszar-hegységben található. 1993-ban alapították, területe 3700 km². A park gazdag növényvilágáról ismert, több mint 1000 növényfajjal, köztük tulipánokkal és íriszekkel. Barnamedvéknek és vaddisznóknak ad otthont. A terep tagolt, mély völgyekkel. A park bronzkori régészeti lelőhelyeiről is híres.",
+      ro: "Parcul Național Shirkent este situat în sud-vestul Tadjikistanului, în Munții Hissar. A fost înființat în 1993 și are o suprafață de 3.700 km². Parcul este cunoscut pentru flora diversă, cu peste 1.000 de specii de plante, inclusiv lalele și iriși. Adăpostește urși bruni și mistreți. Terenul este accidentat, cu văi adânci. Parcul este renumit și pentru siturile arheologice din epoca bronzului.",
+      en: "Shirkent National Park is located in southwestern Tajikistan in the Hissar Mountains. It was established in 1993 and covers 3,700 km². The park is known for its diverse flora with over 1,000 plant species, including tulips and irises. It hosts brown bears and wild boar. The terrain is rugged with deep valleys. The park is also notable for its Bronze Age archaeological sites.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1993 gegründet.", "Die Fläche beträgt 3.700 km².", "Die Höhe liegt zwischen 1.000 und 4.000 Metern.", "Es gibt 1.000 Pflanzenarten.", "Die Braunbärenpopulation beträgt 100 Tiere.", "Es gibt 50 archäologische Stätten."],
+      hu: ["A parkot 1993-ban alapították.", "Területe 3700 km².", "A magasság 1000 és 4000 méter között van.", "1000 növényfaj található.", "A barnamedve-populáció 100 egyedből áll.", "50 régészeti lelőhely található."],
+      ro: ["Parcul a fost înființat în 1993.", "Suprafața este de 3.700 km².", "Altitudinea este cuprinsă între 1.000 și 4.000 de metri.", "Există 1.000 de specii de plante.", "Populația de urși bruni este de 100 de indivizi.", "Există 50 de situri arheologice."],
+      en: ["The park was established in 1993.", "Area is 3,700 km².", "Elevation ranges from 1,000 to 4,000 meters.", "There are 1,000 plant species.", "Brown bear population is 100 individuals.", "There are 50 archaeological sites."],
+    },
   }
 ];

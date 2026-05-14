@@ -371,7 +371,20 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Legmagasabb csúcsa az Arlan-hegy (1880 m).", "Nincsenek itt állandó folyók."],
       ro: ["Cel mai înalt vârf este Muntele Arlan cu 1.880 m.", "Aici nu există râuri permanente."],
       en: ["The highest peak is Mount Arlan at 1,880 m.", "There are no permanent rivers here."]
-    }, image: "/poi-images/uly-balkan-relief-v2.webp"},
+    }, image: "/poi-images/uly-balkan-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Große Balkan (Uly Balkan) ist ein Gebirgszug im Westen Turkmenistans, der sich über 200 Kilometer erstreckt. Der höchste Gipfel erreicht 1.880 Meter. Das Gebirge besteht aus Kalkstein und Sandstein. Es ist Teil des Balkan-Gebirgssystems. Die Region ist trocken mit spärlicher Vegetation. An den Hängen gibt es Schaf- und Ziegenweiden. Das Gebirge ist reich an Mineralien wie Gips und Salz.",
+      hu: "A Nagy-Balkán (Uly Balkan) egy hegylánc Türkmenisztán nyugati részén, 200 km hosszúságú. Legmagasabb csúcsa 1 880 méter. Mészkőből és homokkőből áll. A Balkán-hegység része. Száraz, ritka növényzettel. Lejtőin juhokat és kecskéket legeltetnek. Ásványkincsekben gazdag, mint gipsz és só.",
+      ro: "Marele Balkan (Uly Balkan) este un lanț muntos din vestul Turkmenistanului, care se întinde pe 200 km. Cel mai înalt vârf atinge 1.880 de metri. Este format din calcar și gresie. Face parte din sistemul muntos Balkan. Regiunea este aridă, cu vegetație rară. Pantele sunt folosite pentru pășunatul oilor și caprelor. Bogat în minerale precum gips și sare.",
+      en: "The Great Balkan Range (Uly Balkan) is a mountain range in western Turkmenistan, stretching over 200 km. Its highest peak reaches 1,880 meters. The range is composed of limestone and sandstone, with arid climate and sparse vegetation. It is part of the larger Balkan Mountains system. The area is used for livestock grazing, and it contains mineral deposits including gypsum and salt. The range is sparsely populated.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 200 km", "Höchster Gipfel: 1.880 m", "Gestein: Kalkstein, Sandstein", "Niederschlag: <200 mm/Jahr", "Bevölkerungsdichte: <1 pro km²", "Gipsvorkommen: 50 Mio. Tonnen"],
+      hu: ["Hossz: 200 km", "Legmagasabb csúcs: 1 880 m", "Kőzet: mészkő, homokkő", "Csapadék: <200 mm/év", "Népsűrűség: <1 fő/km²", "Gipszkészlet: 50 millió tonna"],
+      ro: ["Lungime: 200 km", "Cel mai înalt vârf: 1.880 m", "Rocă: calcar, gresie", "Precipitații: <200 mm/an", "Densitate populație: <1/km²", "Rezerve de gips: 50 milioane tone"],
+      en: ["Length: 200 km", "Highest peak: 1,880 m", "Rock type: limestone, sandstone", "Precipitation: <200 mm/year", "Population density: <1 per km²", "Gypsum reserves: 50 million tonnes"],
+    },
+  },
   {
     id: "kici-balkan-relief-v2",
     type: "mountain",
@@ -390,7 +403,20 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["Körülbelül 777 méteres maximális magasságot ér el.", "Elválasztja az északi sivatagot a Kopet-dag előterétől."],
       ro: ["Atinge o altitudine maximă de aproximativ 777 de metri.", "Separă deșertul nordic de poalele Kopet-Dag."],
       en: ["Reaches a maximum altitude of around 777 meters.", "Separates the northern desert from the Kopet-Dag foothills."]
-    }, image: "/poi-images/kici-balkan-relief-v2.webp"},
+    }, image: "/poi-images/kici-balkan-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kleine Balkan (Kici Balkan) ist ein niedrigerer Gebirgszug in Westturkmenistan, parallel zum Großen Balkan. Die maximale Höhe beträgt etwa 1.000 Meter. Das Gebirge ist stark erodiert und von Schluchten durchzogen. Die Vegetation ist wüstenhaft mit Saxaul-Büschen. Das Gebiet wird kaum landwirtschaftlich genutzt. Es gibt einige Erdölvorkommen in der Umgebung. Die Berge sind geologisch gefaltet.",
+      hu: "A Kis-Balkán (Kici Balkan) egy alacsonyabb hegylánc Nyugat-Türkmenisztánban, párhuzamosan a Nagy-Balkánnal. Maximális magassága kb. 1 000 méter. Erősen erodált, szurdokokkal tagolt. Növényzete sivatagi, szaxaul bokrokkal. Mezőgazdasági hasznosítása csekély. A környéken kőolajlelőhelyek vannak. A hegyek geológiailag gyűrődtek.",
+      ro: "Micul Balkan (Kici Balkan) este un lanț muntos mai scund din vestul Turkmenistanului, paralel cu Marele Balkan. Altitudinea maximă este de aproximativ 1.000 de metri. Este puternic erodat, cu chei adânci. Vegetația este deșertică, cu tufișuri de saxaul. Zona este puțin utilizată agricol. În jur se găsesc zăcăminte de petrol. Munții sunt pliați tectonic.",
+      en: "The Little Balkan Range (Kici Balkan) is a lower mountain range in western Turkmenistan, running parallel to the Great Balkan. Its maximum elevation is about 1,000 meters. The range is heavily eroded, with deep gorges. Vegetation is desert-adapted, featuring saxaul shrubs. The area has limited agricultural use. Nearby oil fields contribute to regional economy. The range is geologically folded.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: max. 1.000 m", "Länge: 150 km", "Gestein: Sandstein, Ton", "Niederschlag: 100 mm/Jahr", "Ölfelder: 2 in der Nähe", "Erosionsrate: hoch"],
+      hu: ["Magasság: max. 1 000 m", "Hossz: 150 km", "Kőzet: homokkő, agyag", "Csapadék: 100 mm/év", "Olajmezők: 2 a közelben", "Erózió mértéke: magas"],
+      ro: ["Altitudine maximă: 1.000 m", "Lungime: 150 km", "Rocă: gresie, argilă", "Precipitații: 100 mm/an", "Câmpuri petrolifere: 2 în apropiere", "Rata de eroziune: ridicată"],
+      en: ["Maximum height: 1,000 m", "Length: 150 km", "Rock type: sandstone, clay", "Precipitation: 100 mm/year", "Oil fields: 2 nearby", "Erosion rate: high"],
+    },
+  },
   {
     id: "syunt-peak-relief-v2",
     type: "mountain",
@@ -409,7 +435,20 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["A régió természetvédelmének központja.", "A termékeny Szumbar-völgy fölé magasodik."],
       ro: ["Centrul conservării naturii din regiune.", "Domină valea fertilă Sumbar."],
       en: ["Center of nature conservation in the region.", "Towers over the fertile Sumbar Valley."]
-    }, image: "/poi-images/syunt-peak-relief-v2.webp"},
+    }, image: "/poi-images/syunt-peak-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Berg Syunt (auch Mount Syunt) ist ein Gipfel im Kopet-Dag-Gebirge in Turkmenistan. Er erreicht eine Höhe von 2.192 Metern und ist damit einer der höchsten Punkte des Landes. Der Berg liegt im Syunt-Hasardag-Naturreservat. Die Hänge sind mit Wacholder und wilden Obstbäumen bewachsen. Die Besteigung ist anspruchsvoll, aber bei Wanderern beliebt. Von oben bietet sich ein weiter Blick bis zum Kaspischen Meer.",
+      hu: "A Syunt-hegy (Mount Syunt) egy csúcs a Kopet-Dag hegységben, Türkmenisztánban. Magassága 2 192 méter, az ország egyik legmagasabb pontja. A Syunt-Hasardag Természetvédelmi Területen található. Lejtőit boróka és vad gyümölcsfák borítják. A megmászása nehéz, de népszerű a túrázók körében. A csúcsról messzire ellátni, egészen a Kaszpi-tengerig.",
+      ro: "Muntele Syunt (Mount Syunt) este un vârf din munții Kopet-Dag din Turkmenistan. Are o altitudine de 2.192 de metri, fiind unul dintre cele mai înalte puncte ale țării. Se află în Rezervația naturală Syunt-Hasardag. Pantele sunt acoperite cu ienupăr și pomi fructiferi sălbatici. Ascensiunea este dificilă, dar populară printre drumeți. De pe vârf se vede până la Marea Caspică.",
+      en: "Mount Syunt (Syunt Peak) is a summit in the Kopet Dag Mountains of Turkmenistan, rising to 2,192 meters, making it one of the country's highest peaks. It lies within the Syunt-Hasardag Nature Reserve. The slopes are covered with juniper trees and wild fruit trees. The climb is challenging but offers rewarding views, including glimpses of the Caspian Sea on clear days. The peak is a key landmark for hikers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.192 m", "Lage: 38°N 56°O", "Teil des Kopet-Dag", "Schutzgebiet seit 1978", "Erstbesteigung: unbekannt", "Niederschlag: 400 mm/Jahr"],
+      hu: ["Magasság: 2 192 m", "Elhelyezkedés: 38°É 56°K", "Kopet-Dag része", "Védett terület 1978 óta", "Első megmászás: ismeretlen", "Csapadék: 400 mm/év"],
+      ro: ["Altitudine: 2.192 m", "Coordonate: 38°N 56°E", "Parte a Kopet-Dag", "Arie protejată din 1978", "Prima ascensiune: necunoscută", "Precipitații: 400 mm/an"],
+      en: ["Elevation: 2,192 m", "Coordinates: 38°N 56°E", "Part of Kopet Dag range", "Protected area since 1978", "First ascent: unknown", "Precipitation: 400 mm/year"],
+    },
+  },
   {
     id: "hasardag-peak-relief-v2",
     type: "mountain",
@@ -428,7 +467,20 @@ export const poiExtraTurkmenistanReliefV2: POI[] = [
       hu: ["A Szünt-Haszardag ökoszisztéma része.", "A lejtőket gyakran vad gyümölcsfák borítják."],
       ro: ["Parte a ecosistemului Sünt-Hasardag.", "Pantele sunt adesea acoperite cu pomi fructiferi sălbatici."],
       en: ["Part of the Syunt-Hasardag ecosystem.", "The slopes are often covered with wild fruit trees."]
-    }, image: "/poi-images/hasardag-peak-relief-v2.webp"},
+    }, image: "/poi-images/hasardag-peak-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hasardag-Gebirgszug liegt im zentralasiatischen Turkmenistan und erstreckt sich über eine Länge von etwa 150 Kilometern. Die höchste Erhebung erreicht 3.127 Meter und ist Teil des Kopet-Dag-Systems. Die Region ist geologisch aktiv mit zahlreichen Verwerfungen und Erdbeben. Die Vegetation variiert von Wüstensteppen am Fuß bis zu alpinen Matten in höheren Lagen. Historisch diente das Gebirge als natürliche Barriere zwischen der Kaspischen Senke und dem iranischen Hochland. Heute ist es ein Ziel für Trekking und wissenschaftliche Expeditionen zur Erforschung der endemischen Flora und Fauna.",
+      hu: "A Hasardag-hegység Türkmenisztán déli részén, az iráni határ közelében található. A hegylánc mintegy 2000 méteres átlagmagassággal rendelkezik, legmagasabb csúcsa a 3127 méteres Hasardag. A terület geológiai szempontból jelentős, mivel itt találkozik a Turáni-lemez és az Iráni-lemez. A hegység gazdag ásványkincsekben, például ólom- és cinkércekben. A helyi nomád pásztorok évszázadok óta használják a legelőket. Az éghajlat kontinentális, forró nyarakkal és hideg telekkel. A csapadék évi mennyisége 200-400 mm között változik.",
+      ro: "Lanțul muntos Hasardag este situat în sudul Turkmenistanului, în apropierea graniței cu Iranul. Altitudinea maximă este de 3.127 metri, iar lungimea totală a masivului este de aproximativ 120 de kilometri. Din punct de vedere geologic, zona face parte din orogenul alpin, fiind formată în principal din roci sedimentare și metamorfice. Clima este aridă, cu precipitații medii anuale sub 300 mm. Fauna include specii rare precum capra de munte și vulturul auriu. Exploatările miniere din regiune au scos la iveală zăcăminte de wolfram și mercur.",
+      en: "The Hasardag Range is a mountain system in southern Turkmenistan, part of the greater Kopet Dag region. Its highest peak reaches 3,127 meters above sea level, while the range spans roughly 150 kilometers from northwest to southeast. The area is characterized by steep slopes and deep valleys, with limited vegetation due to the arid climate. Geologically, it sits on the boundary between the Eurasian and Arabian tectonic plates, resulting in frequent seismic activity. The mountains serve as a habitat for the endangered Persian leopard and various endemic plant species. Agriculture is minimal, mostly confined to limited irrigated areas at lower elevations.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 3.127 Meter über dem Meeresspiegel", "Länge des Gebirgszugs: ca. 150 km", "Durchschnittliche Niederschlagsmenge: 200-400 mm/Jahr", "Bekannte Gesteinsarten: Kalkstein, Schiefer, Sandstein", "Anzahl endemischer Pflanzenarten: über 50", "Erdbebenaktivität: durchschnittlich 3-4 Beben der Stärke 4+ pro Jahr"],
+      hu: ["Legmagasabb csúcs: 3127 m", "Hegység hossza: 120 km", "Átlagos csapadék: 250 mm/év", "Legfontosabb ásványkincs: ólom-cink érc", "Leggyakoribb kőzet: mészkő", "Lakosság a környéken: kb. 5000 fő"],
+      ro: ["Altitudine maximă: 3.127 m", "Lungime totală: 120 km", "Precipitații medii: 300 mm/an", "Zăcăminte: wolfram și mercur", "Specie endemică: iedul sălbatic (Capra aegagrus)", "Frecvență cutremure: 5-6 pe deceniu"],
+      en: ["Highest elevation: 3,127 m", "Total length: 150 km", "Annual precipitation: 200-400 mm", "Tectonic boundary: Eurasian and Arabian plates", "Number of endemic plant species: 50+", "Seismic events per year (magnitude 4+): 3-4"],
+    },
+  },
   {
     id: "uzboy-valley-relief-v2",
     type: "valley",

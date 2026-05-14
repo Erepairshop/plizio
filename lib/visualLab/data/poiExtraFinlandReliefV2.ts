@@ -6,7 +6,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Korvatunturi", hu: "Korvatunturi", ro: "Korvatunturi", en: "Korvatunturi" },
-    coordinates: { lat: 68.1256, lng: 29.3517 },
+    coords: [29.3517, 68.1256],
     description: {
       de: "Ein 486 Meter hoher Berg in Lappland an der Grenze zu Russland. Er ist bekannt als mythologischer Wohnort des Weihnachtsmanns.",
       hu: "Egy 486 méter magas hegy Lappföldön, az orosz határon. Mitológiai lakhelyként ismert, ahol a Mikulás él.",
@@ -38,7 +38,7 @@ export const finlandReliefV2: POI[] = [
     type: "valley",
     parent: "FI",
     name: { de: "Tenojoki-Tal", hu: "Tenojoki-völgy", ro: "Valea Tenojoki", en: "Tana Valley" },
-    coordinates: { lat: 69.8731, lng: 26.6544 },
+    coords: [26.6544, 69.8731],
     description: {
       de: "Ein tief eingeschnittenes Flusstal im äußersten Norden Lapplands. Es markiert einen Teil der Grenze zu Norwegen.",
       hu: "Egy mélyen bevágódott folyóvölgy Lappföld legészakibb részén. Norvégiával közös határvonalat alkot.",
@@ -70,7 +70,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Koli-Hügel", hu: "Koli-domb", ro: "Dealul Koli", en: "Koli Hill" },
-    coordinates: { lat: 63.0645, lng: 29.8051 },
+    coords: [29.8051, 63.0645],
     description: {
       de: "Ein markanter Quarzit-Hügel am Westufer des Pielinen-Sees. Er bietet eine weite Aussicht über die finnische Seenplatte.",
       hu: "Egy jellegzetes kvarcit-domb a Pielinen-tó nyugati partján. Széles kilátást nyújt a finn tóvidékre.",
@@ -102,7 +102,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Yllästunturi", hu: "Yllästunturi", ro: "Yllästunturi", en: "Yllästunturi" },
-    coordinates: { lat: 67.5583, lng: 24.225 },
+    coords: [24.225, 67.5583],
     description: {
       de: "Ein hoher Tunturi-Berg im Westen Lapplands. Er ist ein bekanntes Skigebiet und Teil des Pallas-Yllästunturi-Nationalparks.",
       hu: "Egy magas Tunturi-hegy Lappföld nyugati részén. Ismert síközpont és a Pallas-Yllästunturi Nemzeti Park része.",
@@ -134,7 +134,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Pyhätunturi", hu: "Pyhätunturi", ro: "Pyhätunturi", en: "Pyhätunturi" },
-    coordinates: { lat: 67.0186, lng: 27.1517 },
+    coords: [27.1517, 67.0186],
     description: {
       de: "Ein bewaldeter Bergzug in der Gemeinde Kemijärvi. Die Region ist Teil eines Nationalparks und geologisch bedeutsam.",
       hu: "Egy erdős hegylánc Kemijärvi községben. A terület egy nemzeti park része és geológiailag jelentős.",
@@ -166,7 +166,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Sana-Gipfel", hu: "Sana-csúcs", ro: "Vârful Sana", en: "Sana Peak" },
-    coordinates: { lat: 69.0436, lng: 20.8033 },
+    coords: [20.8033, 69.0436],
     description: {
       de: "Ein markanter Berg nahe Kilpisjärvi in Nordwest-Lappland. Er ist bekannt für seine steinige Kuppe und weite Aussicht.",
       hu: "Egy jellegzetes hegy Kilpisjärvi közelében, Északnyugat-Lappföldön. Köves csúcsáról és széles kilátásáról ismert.",
@@ -198,7 +198,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Levi-Fjäll", hu: "Levi-hegy", ro: "Muntele Levi", en: "Levi Mountain" },
-    coordinates: { lat: 67.8055, lng: 24.8058 },
+    coords: [24.8058, 67.8055],
     description: {
       de: "Ein bekannter Hügel in Sirkka, Kittilä. Es ist das größte Skizentrum Finnlands.",
       hu: "Egy ismert domb Sirkkában, Kittilä községben. Finnország legnagyobb síközpontja.",
@@ -230,7 +230,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Taivaskero-Gipfel", hu: "Taivaskero-csúcs", ro: "Vârful Taivaskero", en: "Taivaskero Peak" },
-    coordinates: { lat: 68.0461, lng: 24.1686 },
+    coords: [24.1686, 68.0461],
     description: {
       de: "Der höchste Punkt des Pallas-Massivs in Muonio. Der Gipfel ist ein historischer Ort des olympischen Fackellaufs.",
       hu: "A Pallas-hegység legmagasabb pontja Muonioban. A csúcs az olimpiai fáklyafutás történelmi helyszíne.",
@@ -262,7 +262,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Pallastunturi-Hügel", hu: "Pallastunturi-hegyek", ro: "Dealurile Pallastunturi", en: "Pallastunturi Hills" },
-    coordinates: { lat: 68.0333, lng: 24.0667 },
+    coords: [24.0667, 68.0333],
     description: {
       de: "Eine beeindruckende Kette von Bergen in Westlappland. Sie sind für ihre unberührte Natur bekannt.",
       hu: "Lenyűgöző hegyvonulat Nyugat-Lappföldön. Érintetlen természetéről híresek.",
@@ -294,7 +294,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Aukustivaara", hu: "Aukustivaara", ro: "Aukustivaara", en: "Aukustivaara" },
-    coordinates: { lat: 67.2411, lng: 28.5322 },
+    coords: [28.5322, 67.2411],
     description: {
       de: "Ein bewaldeter Hügel in der Region Salla. Die Gegend ist Teil der weitläufigen lappländischen Waldlandschaften.",
       hu: "Egy erdős domb Salla régiójában. A terület a kiterjedt lappföldi erdős tájak része.",
@@ -326,7 +326,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Luostotunturi", hu: "Luostotunturi", ro: "Luostotunturi", en: "Luostotunturi" },
-    coordinates: { lat: 67.1333, lng: 26.85 },
+    coords: [26.85, 67.1333],
     description: {
       de: "Ein markanter Bergzug im Pyhä-Luosto-Nationalpark. Er ist ein beliebtes Ziel für Wanderer und Skifahrer.",
       hu: "Jellegzetes hegyvonulat a Pyhä-Luosto Nemzeti Parkban. Népszerű célpont túrázók és síelők számára.",
@@ -358,7 +358,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Olostunturi", hu: "Olostunturi", ro: "Olostunturi", en: "Olostunturi" },
-    coordinates: { lat: 67.95, lng: 23.6333 },
+    coords: [23.6333, 67.95],
     description: {
       de: "Ein isolierter Berg in der Gemeinde Muonio. Er ist bekannt für seine gute Sicht auf die umliegende Tundra.",
       hu: "Elszigetelt hegy Muonio községben. Ismert a környező tundrára nyíló jó kilátásáról.",
@@ -390,7 +390,7 @@ export const finlandReliefV2: POI[] = [
     type: "valley",
     parent: "FI",
     name: { de: "Pallas-Seen-Ebene", hu: "Pallas-tavi-alföld", ro: "Câmpia lacurilor Pallas", en: "Pallas Lake Plain" },
-    coordinates: { lat: 68.0, lng: 24.1 },
+    coords: [24.1, 68.0],
     description: {
       de: "Eine flache Ebene umgeben von Hügeln bei Pallas. Sie ist reich an Seen und Mooren.",
       hu: "Pallas közelében elterülő, dombokkal övezett síkság. Gazdag tavakban és lápokban.",
@@ -422,7 +422,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Aavasaksa-Hügel", hu: "Aavasaksa-domb", ro: "Dealul Aavasaksa", en: "Aavasaksa Hill" },
-    coordinates: { lat: 66.4, lng: 23.7 },
+    coords: [23.7, 66.4],
     description: {
       de: "Ein bekannter Aussichtsberg am Torne-Fluss. Er ist historisch bedeutsam für die Mitternachtssonne-Beobachtung.",
       hu: "Ismert kilátóhegy a Torne-folyónál. Történelmileg jelentős az éjféli nap megfigyelésében.",
@@ -454,7 +454,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Pisavaara-Rücken", hu: "Pisavaara-gerinc", ro: "Creasta Pisavaara", en: "Pisavaara Ridge" },
-    coordinates: { lat: 66.25, lng: 25.1 },
+    coords: [25.1, 66.25],
     description: {
       de: "Ein geschütztes Naturreservat nördlich von Rovaniemi. Es beherbergt einige der ältesten Waldgebiete Finnlands.",
       hu: "Védett természetvédelmi terület Rovaniemitől északra. Finnország egyik legrégebbi erdőterületének ad otthont.",
@@ -486,7 +486,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Saravaara-Hügel", hu: "Saravaara-domb", ro: "Dealul Saravaara", en: "Saravaara Hill" },
-    coordinates: { lat: 67.5, lng: 26.5 },
+    coords: [26.5, 67.5],
     description: {
       de: "Ein typischer lappländischer Hügel in der Umgebung von Sodankylä. Er ist von Nadelwäldern bedeckt.",
       hu: "Tipikus lappföldi domb Sodankylä környékén. Tűlevelű erdők borítják.",
@@ -518,7 +518,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Kaunispää-Hügel", hu: "Kaunispää-domb", ro: "Dealul Kaunispää", en: "Kaunispää Hill" },
-    coordinates: { lat: 68.4166, lng: 27.4333 },
+    coords: [27.4333, 68.4166],
     description: {
       de: "Ein bekannter Hügel in der Urlaubsregion Saariselkä. Der Gipfel bietet einen weiten Blick über die Tundra.",
       hu: "Ismert domb a Saariselkä üdülőövezetben. A csúcs széles kilátást nyújt a tundrára.",
@@ -550,7 +550,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Ahjokero", hu: "Ahjokero", ro: "Ahjokero", en: "Ahjokero" },
-    coordinates: { lat: 68.35, lng: 27.5 },
+    coords: [27.5, 68.35],
     description: {
       de: "Ein hügeliger Rücken in Lappland, nahe dem Urho-Kekkonen-Nationalpark. Die Landschaft ist geprägt von karger Vegetation.",
       hu: "Hegyes gerinc Lappföldön, az Urho-Kekkonen Nemzeti Park közelében. A tájat kopár növényzet jellemzi.",
@@ -582,7 +582,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Nitsitunturi", hu: "Nitsitunturi", ro: "Nitsitunturi", en: "Nitsitunturi" },
-    coordinates: { lat: 68.7, lng: 26.9 },
+    coords: [26.9, 68.7],
     description: {
       de: "Ein Berg im Norden nahe Inari. Er ist Teil der weiten, einsamen Berglandschaften nördlich des Polarkreises.",
       hu: "Hegy Inaritól északra. A sarki körön túli kiterjedt, magányos hegyvidék része.",
@@ -614,7 +614,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Kistastunturi", hu: "Kistastunturi", ro: "Kistastunturi", en: "Kistastunturi" },
-    coordinates: { lat: 68.65, lng: 26.7 },
+    coords: [26.7, 68.65],
     description: {
       de: "Ein abgelegener Berg in Nordlappland. Die Gegend ist bekannt für ihre unberührte, weite Wildnis.",
       hu: "Távoli hegy Észak-Lappföldön. A környék érintetlen, kiterjedt vadonjáról ismert.",
@@ -646,7 +646,7 @@ export const finlandReliefV2: POI[] = [
     type: "valley",
     parent: "FI",
     name: { de: "Isokurkkio-Tal", hu: "Isokurkkio-völgy", ro: "Valea Isokurkkio", en: "Isokurkkio Valley" },
-    coordinates: { lat: 68.5, lng: 25.5 },
+    coords: [25.5, 68.5],
     description: {
       de: "Ein kleines Flusstal in Lappland. Es bietet eine abwechslungsreiche Landschaft mit vielen kleinen Wasserwegen.",
       hu: "Kis folyóvölgy Lappföldön. Változatos tájat kínál, sok kis vízfolyással.",
@@ -678,7 +678,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Uupunturi", hu: "Uupunturi", ro: "Uupunturi", en: "Uupunturi" },
-    coordinates: { lat: 68.3, lng: 26.2 },
+    coords: [26.2, 68.3],
     description: {
       de: "Ein Bergzug in Zentral-Lappland. Die Gegend ist geprägt durch boreale Nadelwälder und moorige Senken.",
       hu: "Hegylánc Közép-Lappföldön. A területet boreális tűlevelű erdők és mocsaras mélyedések jellemzik.",
@@ -710,7 +710,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Salmivaara-Hügel", hu: "Salmivaara-domb", ro: "Dealul Salmivaara", en: "Salmivaara Hill" },
-    coordinates: { lat: 67.4, lng: 26.9 },
+    coords: [26.9, 67.4],
     description: {
       de: "Ein bewaldeter Hügel nahe Sodankylä. Er ist typisch für die sanfte, hügelige Landschaft Lapplands.",
       hu: "Erdős domb Sodankylä közelében. Jellemző Lappföld lágy, dombos tájára.",
@@ -742,7 +742,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Värtsintunturi", hu: "Värtsintunturi", ro: "Värtsintunturi", en: "Värtsintunturi" },
-    coordinates: { lat: 68.2, lng: 27.2 },
+    coords: [27.2, 68.2],
     description: {
       de: "Ein Berg im Osten Lapplands. Die Region liegt in der Nähe der russischen Grenze und ist sehr naturbelassen.",
       hu: "Hegy Kelet-Lappföldön. A régió az orosz határ közelében fekszik, és nagyon érintetlen.",
@@ -774,7 +774,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Maanselkä-Höhenzug", hu: "Maanselkä-hegyhát", ro: "Creasta Maanselkä", en: "Maanselkä Ridge" },
-    coordinates: { lat: 66.8, lng: 28.2 },
+    coords: [28.2, 66.8],
     description: {
       de: "Eine ausgedehnte Wasserscheide in Ostfinnland. Sie trennt die Einzugsgebiete des Weißen Meeres und des Bottnischen Meerbusens.",
       hu: "Kiterjedt vízválasztó Kelet-Finnországban. Elválasztja a Fehér-tenger és a Botteni-öböl vízgyűjtő területeit.",
@@ -806,7 +806,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Suomutunturi", hu: "Suomutunturi", ro: "Suomutunturi", en: "Suomutunturi" },
-    coordinates: { lat: 66.58, lng: 27.87 },
+    coords: [27.87, 66.58],
     description: {
       de: "Ein Hügel in Kemijärvi, bekannt als Skizentrum. Die Anlage liegt in einer malerischen, bewaldeten Umgebung.",
       hu: "Domb Kemijärviben, síközpontként ismert. A létesítmény festői, erdős környezetben található.",
@@ -838,7 +838,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Riisitunturi", hu: "Riisitunturi", ro: "Riisitunturi", en: "Riisitunturi" },
-    coordinates: { lat: 66.2, lng: 28.0 },
+    coords: [28.0, 66.2],
     description: {
       de: "Ein Berg im Nationalpark Riisitunturi. Er ist berühmt für seine 'Tykkylumi'-Formationen (vereiste Bäume) im Winter.",
       hu: "Hegy a Riisitunturi Nemzeti Parkban. Híres téli 'Tykkylumi' (jeges fák) képződményeiről.",
@@ -870,7 +870,7 @@ export const finlandReliefV2: POI[] = [
     type: "valley",
     parent: "FI",
     name: { de: "Korouoma-Tal", hu: "Korouoma-völgy", ro: "Valea Korouoma", en: "Korouoma Valley" },
-    coordinates: { lat: 66.2, lng: 27.5 },
+    coords: [27.5, 66.2],
     description: {
       de: "Eine beeindruckende geologische Schlucht in Posio. Sie ist bekannt für ihre Wasserfälle und Eisklettergebiete.",
       hu: "Lenyűgöző geológiai szurdok Posióban. Ismert vízeséseiről és jégmászó helyeiről.",
@@ -902,7 +902,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Valtavaara-Hügel", hu: "Valtavaara-domb", ro: "Dealul Valtavaara", en: "Valtavaara Hill" },
-    coordinates: { lat: 66.2, lng: 29.2 },
+    coords: [29.2, 66.2],
     description: {
       de: "Ein hoher Hügel bei Ruka, Kuusamo. Er bietet einen spektakulären Panoramablick auf die umliegenden Waldgebiete.",
       hu: "Magas domb Ruka, Kuusamo közelében. Látványos panorámát nyújt a környező erdős területekre.",
@@ -934,7 +934,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Ruka-Hügel", hu: "Ruka-domb", ro: "Dealul Ruka", en: "Ruka Hill" },
-    coordinates: { lat: 66.16, lng: 29.13 },
+    coords: [29.13, 66.16],
     description: {
       de: "Ein bekannter Berg in Kuusamo, eines der wichtigsten Wintersportzentren Finnlands.",
       hu: "Ismert hegy Kuusamoban, Finnország egyik legfontosabb téli sportközpontja.",
@@ -966,7 +966,7 @@ export const finlandReliefV2: POI[] = [
     type: "valley",
     parent: "FI",
     name: { de: "Oulanka-Schlucht", hu: "Oulanka-szurdok", ro: "Canionul Oulanka", en: "Oulanka Canyon" },
-    coordinates: { lat: 66.4, lng: 29.3 },
+    coords: [29.3, 66.4],
     description: {
       de: "Ein tiefes Flusstal im Oulanka-Nationalpark. Es ist bekannt für seine reißenden Stromschnellen und felsigen Ufer.",
       hu: "Mély folyóvölgy az Oulanka Nemzeti Parkban. Híres vad zuhatagjairól és sziklás partjairól.",
@@ -998,7 +998,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Konttainen-Hügel", hu: "Konttainen-domb", ro: "Dealul Konttainen", en: "Konttainen Hill" },
-    coordinates: { lat: 66.2, lng: 29.2 },
+    coords: [29.2, 66.2],
     description: {
       de: "Ein markanter, steiler Hügel in Kuusamo. Er ist beliebt bei Wanderern aufgrund der Aussicht.",
       hu: "Jellegzetes, meredek domb Kuusamoban. A kilátás miatt kedvelt a túrázók körében.",
@@ -1030,7 +1030,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Pyhävaara", hu: "Pyhävaara", ro: "Pyhävaara", en: "Pyhävaara" },
-    coordinates: { lat: 66.15, lng: 29.2 },
+    coords: [29.2, 66.15],
     description: {
       de: "Ein Hügel in der Umgebung von Ruka. Er ist Teil des hügeligen Geländes der Region Kuusamo.",
       hu: "Domb Ruka környékén. A Kuusamo régió hegyes terepének része.",
@@ -1062,7 +1062,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Vaattunkivaara", hu: "Vaattunkivaara", ro: "Vaattunkivaara", en: "Vaattunkivaara" },
-    coordinates: { lat: 66.6, lng: 25.8 },
+    coords: [25.8, 66.6],
     description: {
       de: "Ein Hügel in der Nähe von Rovaniemi. Er liegt im Bereich der Stromschnellen des Raudanjoki-Flusses.",
       hu: "Domb Rovaniemi közelében. A Raudanjoki-folyó zuhatagjainak térségében fekszik.",
@@ -1094,7 +1094,7 @@ export const finlandReliefV2: POI[] = [
     type: "valley",
     parent: "FI",
     name: { de: "Könkämäeno-Tal", hu: "Könkämäeno-völgy", ro: "Valea Könkämäeno", en: "Könkämäeno Valley" },
-    coordinates: { lat: 68.8, lng: 21.0 },
+    coords: [21.0, 68.8],
     description: {
       de: "Ein weites Flusstal im äußersten Nordwesten. Es ist ein Grenzfluss zu Schweden.",
       hu: "Széles folyóvölgy a legészaknyugatibb részen. Határfolyó Svédországgal.",
@@ -1126,7 +1126,7 @@ export const finlandReliefV2: POI[] = [
     type: "peak",
     parent: "FI",
     name: { de: "Kivivaara", hu: "Kivivaara", ro: "Kivivaara", en: "Kivivaara" },
-    coordinates: { lat: 66.8, lng: 29.5 },
+    coords: [29.5, 66.8],
     description: {
       de: "Ein Hügel in der Grenzregion zu Russland in Ostlappland. Die Gegend ist sehr dünn besiedelt.",
       hu: "Domb az orosz határ menti régióban, Kelet-Lappföldön. A terület nagyon ritkán lakott.",
@@ -1158,7 +1158,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Paistunturi-Fjäll", hu: "Paistunturi-hegyek", ro: "Dealurile Paistunturi", en: "Paistunturi Fells" },
-    coordinates: { lat: 69.5, lng: 26.5 },
+    coords: [26.5, 69.5],
     description: {
       de: "Ein Hochlandgebiet in Nordlappland. Es ist bekannt für seine weiten, kahlen Flächen oberhalb der Baumgrenze.",
       hu: "Felföldi terület Észak-Lappföldön. Ismert a fatáblák feletti széles, kopár területeiről.",
@@ -1190,7 +1190,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Hammastunturi", hu: "Hammastunturi", ro: "Hammastunturi", en: "Hammastunturi" },
-    coordinates: { lat: 68.5, lng: 26.5 },
+    coords: [26.5, 68.5],
     description: {
       de: "Eine wilde Bergregion nördlich von Sodankylä. Sie ist ein bekanntes Wandergebiet ohne Wege.",
       hu: "Vad hegyvidék Sodankylätől északra. Ismert úttalan túrázó övezet.",
@@ -1222,7 +1222,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Muotkatunturi", hu: "Muotkatunturi", ro: "Muotkatunturi", en: "Muotkatunturi" },
-    coordinates: { lat: 69.1, lng: 26.0 },
+    coords: [26.0, 69.1],
     description: {
       de: "Ein abgelegenes Hochland in Nordlappland. Die Landschaft ist eine Mischung aus Tundra und sanften Kuppen.",
       hu: "Távoli felföld Észak-Lappföldön. A táj tundra és lágy dombok keveréke.",
@@ -1254,7 +1254,7 @@ export const finlandReliefV2: POI[] = [
     type: "forest",
     parent: "FI",
     name: { de: "Tuntsa-Wildnis", hu: "Tuntsa-vadon", ro: "Sălbăticia Tuntsa", en: "Tuntsa Wilderness" },
-    coordinates: { lat: 67.5, lng: 29.5 },
+    coords: [29.5, 67.5],
     description: {
       de: "Ein weitläufiges Wildnisgebiet an der östlichen Grenze Finnlands. Es ist für seine unberührten Wälder bekannt.",
       hu: "Kiterjedt vadon Finnország keleti határán. Érintetlen erdőiről ismert.",
@@ -1286,7 +1286,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Viipustunturi", hu: "Viipustunturi", ro: "Viipustunturi", en: "Viipustunturi" },
-    coordinates: { lat: 68.3, lng: 26.3 },
+    coords: [26.3, 68.3],
     description: {
       de: "Ein Gebirgszug nördlich von Sodankylä. Er erhebt sich über die umliegende boreale Waldlandschaft.",
       hu: "Hegylánc Sodankylätől északra. A környező boreális erdős táj fölé emelkedik.",
@@ -1318,7 +1318,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Tuolba-Sauoivi", hu: "Tuolba-Sauoivi", ro: "Tuolba-Sauoivi", en: "Tuolba-Sauoivi" },
-    coordinates: { lat: 69.1, lng: 25.5 },
+    coords: [25.5, 69.1],
     description: {
       de: "Ein massiver Berg in Nordlappland. Er ist Teil einer sehr abgelegenen Bergregion nahe Norwegen.",
       hu: "Masszív hegy Észak-Lappföldön. Egy nagyon távoli hegyvidék része Norvégia közelében.",
@@ -1350,7 +1350,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Joutsitunturi", hu: "Joutsitunturi", ro: "Joutsitunturi", en: "Joutsitunturi" },
-    coordinates: { lat: 67.0, lng: 27.8 },
+    coords: [27.8, 67.0],
     description: {
       de: "Ein Bergzug in der Salla-Region. Er ist von weiten Wäldern und Mooren umgeben.",
       hu: "Hegylánc a Salla régióban. Kiterjedt erdők és mocsarak veszik körül.",
@@ -1382,7 +1382,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Kauniskero", hu: "Kauniskero", ro: "Kauniskero", en: "Kauniskero" },
-    coordinates: { lat: 68.0, lng: 24.2 },
+    coords: [24.2, 68.0],
     description: {
       de: "Ein Hügelzug in Westlappland. Er liegt in einer Region, die für ihre Wanderwege berühmt ist.",
       hu: "Hegylánc Nyugat-Lappföldön. Túraútvonalairól híres régióban fekszik.",
@@ -1414,7 +1414,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Kumputunturi", hu: "Kumputunturi", ro: "Kumputunturi", en: "Kumputunturi" },
-    coordinates: { lat: 67.8, lng: 25.2 },
+    coords: [25.2, 67.8],
     description: {
       de: "Ein isolierter Berg nördlich von Kittilä. Er bietet eine exzellente Aussicht über die flache Waldlandschaft.",
       hu: "Elszigetelt hegy Kittilätől északra. Kiváló kilátást nyújt a lapos erdős tájra.",
@@ -1446,7 +1446,7 @@ export const finlandReliefV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Keimiötunturi", hu: "Keimiötunturi", ro: "Keimiötunturi", en: "Keimiötunturi" },
-    coordinates: { lat: 67.9, lng: 24.3 },
+    coords: [24.3, 67.9],
     description: {
       de: "Ein schöner Berg in Muonio. Er ist ein bekanntes Ziel für Tagestouren und bietet einen Rundumblick.",
       hu: "Szép hegy Muonioban. Ismert egynapos túracélpont, körpanorámával.",

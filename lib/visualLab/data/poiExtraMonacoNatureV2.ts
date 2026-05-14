@@ -6,7 +6,7 @@ export const monacoNatureV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Plage du Solarium", hu: "Plage du Solarium", ro: "Plage du Solarium", en: "Plage du Solarium" },
-    coordinates: { lat: 43.7331, lng: 7.4243 },
+    coords: [7.4243, 43.7331],
     description: {
       de: "Dieser künstlich angelegte Strandabschnitt befindet sich unterhalb des Fort Antoine. Er bietet direkten Zugang zum Mittelmeer in der Nähe des Hafens.",
       hu: "Ez a mesterségesen kialakított strand a Fort Antoine alatt található. Közvetlen hozzáférést biztosít a Földközi-tengerhez a kikötő közelében.",
@@ -38,7 +38,7 @@ export const monacoNatureV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Fels von Monaco", hu: "Monacói-szikla", ro: "Stânca Monaco", en: "Rock of Monaco" },
-    coordinates: { lat: 43.7303, lng: 7.4206 },
+    coords: [7.4206, 43.7303],
     description: {
       de: "Der Fels von Monaco bildet den historischen Kern des Fürstentums. Er ist ein markanter Kalksteinfelsen, der steil aus dem Mittelmeer emporragt.",
       hu: "A Monacói-szikla a fejedelemség történelmi magja. Ez egy kiemelkedő mészkőszikla, amely meredeken emelkedik ki a Földközi-tengerből.",
@@ -70,7 +70,7 @@ export const monacoNatureV2: POI[] = [
     type: "park",
     parent: "MC",
     name: { de: "Küstenpfad Monaco", hu: "Monacói part menti ösvény", ro: "Poteca de coastă Monaco", en: "Monaco Coastal Path" },
-    coordinates: { lat: 43.7388, lng: 7.4309 },
+    coords: [7.4309, 43.7388],
     description: {
       de: "Dieser Fußweg verläuft entlang der Küste des Fürstentums. Er ermöglicht Beobachtungen der mediterranen Flora und der Felsformationen.",
       hu: "Ez a gyalogút a fejedelemség partvonala mentén húzódik. Lehetővé teszi a mediterrán növényvilág és a sziklaformációk megfigyelését.",
@@ -102,7 +102,7 @@ export const monacoNatureV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Landspitze Fontvieille", hu: "Fontvieille-fok", ro: "Capul Fontvieille", en: "Fontvieille Point" },
-    coordinates: { lat: 43.7275, lng: 7.4172 },
+    coords: [7.4172, 43.7275],
     description: {
       de: "Die Landspitze von Fontvieille markiert den südwestlichen Punkt des Fürstentums. Hier befinden sich Hafenanlagen und Küstenschutzbauten.",
       hu: "A Fontvieille-fok a fejedelemség délnyugati csücskét jelöli. Itt kikötői létesítmények és partvédelmi építmények találhatók.",
@@ -134,7 +134,7 @@ export const monacoNatureV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Hügel der Revoires", hu: "Revoires-domb", ro: "Dealul Revoires", en: "Revoires Hill" },
-    coordinates: { lat: 43.7366, lng: 7.4124 },
+    coords: [7.4124, 43.7366],
     description: {
       de: "Der Hügel der Revoires ist der höchste Punkt des Fürstentums. Er liegt an den Hängen des Mont Agel und bietet eine Hangvegetation.",
       hu: "A Revoires-domb a fejedelemség legmagasabb pontja. A Mont Agel lejtőin helyezkedik el, és jellegzetes lejtős növényzettel rendelkezik.",
@@ -166,7 +166,7 @@ export const monacoNatureV2: POI[] = [
     type: "river",
     parent: "MC",
     name: { de: "Hafenbecken Hercules", hu: "Hercules-kikötőmedence", ro: "Bazinul Hercules", en: "Hercules Harbor Basin" },
-    coordinates: { lat: 43.735, lng: 7.425 },
+    coords: [7.425, 43.735],
     description: {
       de: "Dieses Hafenbecken ist eine natürliche Bucht, die im Laufe der Geschichte stark modifiziert wurde. Es ist das Zentrum des maritimen Lebens.",
       hu: "Ez a kikötőmedence egy természetes öböl, amelyet a történelem során jelentősen módosítottak. A tengeri élet központja.",
@@ -198,7 +198,7 @@ export const monacoNatureV2: POI[] = [
     type: "park",
     parent: "MC",
     name: { de: "Promenade Camille Blanc", hu: "Camille Blanc sétány", ro: "Promenada Camille Blanc", en: "Camille Blanc Promenade" },
-    coordinates: { lat: 43.7397, lng: 7.4285 },
+    coords: [7.4285, 43.7397],
     description: {
       de: "Diese Promenade verläuft entlang der nordöstlichen Küstenlinie. Sie bietet eine Aussicht auf das Meer und gepflegte Grünanlagen.",
       hu: "Ez a sétány az északkeleti partvonal mentén húzódik. Kilátást nyújt a tengerre és gondozott zöldterületekre.",
@@ -230,7 +230,7 @@ export const monacoNatureV2: POI[] = [
     type: "park",
     parent: "MC",
     name: { de: "Esplanade Grimaldi", hu: "Grimaldi-sétány", ro: "Esplanada Grimaldi", en: "Grimaldi Esplanade" },
-    coordinates: { lat: 43.737, lng: 7.427 },
+    coords: [7.427, 43.737],
     description: {
       de: "Die Esplanade Grimaldi ist ein öffentlicher Platz nahe der Küste. Sie dient als Verbindung zwischen städtischem Raum und Meereszugang.",
       hu: "A Grimaldi-sétány egy nyilvános tér a part közelében. Összeköttetésként szolgál a városi tér és a tengeri kijárat között.",
@@ -262,7 +262,7 @@ export const monacoNatureV2: POI[] = [
     type: "park",
     parent: "MC",
     name: { de: "Saint-Martin Garten", hu: "Saint-Martin kert", ro: "Grădina Saint-Martin", en: "Saint-Martin Garden" },
-    coordinates: { lat: 43.7295, lng: 7.423 },
+    coords: [7.423, 43.7295],
     description: {
       de: "Dieser Garten erstreckt sich an den steilen Hängen unterhalb des Ozeanographischen Museums. Er beherbergt zahlreiche exotische Pflanzenarten.",
       hu: "Ez a kert az Óceanográfiai Múzeum alatti meredek lejtőkön húzódik. Számos egzotikus növényfajnak ad otthont.",
@@ -294,7 +294,7 @@ export const monacoNatureV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Bucht von Portier", hu: "Portier-öböl", ro: "Golful Portier", en: "Portier Bay" },
-    coordinates: { lat: 43.739, lng: 7.432 },
+    coords: [7.432, 43.739],
     description: {
       de: "Die Bucht von Portier umfasst einen Küstenabschnitt, der durch Landgewinnungsprojekte stetig verändert wird. Sie beherbergt ökologische Ausgleichsflächen.",
       hu: "A Portier-öböl egy olyan partszakaszt ölel fel, amelyet a területnyerési projektek folyamatosan módosítanak. Ökológiai kiegyenlítő területeket tartalmaz.",

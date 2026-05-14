@@ -6,7 +6,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Karula Nationalpark", hu: "Karula Nemzeti Park", ro: "Parcul Național Karula", en: "Karula National Park" },
-    coordinates: { lat: 57.705, lng: 26.502 },
+    coords: [26.502, 57.705],
     description: {
       de: "Der Karula-Nationalpark liegt im Süden Estlands und schützt eine hügelige Moränenlandschaft. Er umfasst zahlreiche Seen und ist bekannt für seine vielfältigen Wald- und Wiesenökosysteme.",
       hu: "Karula Nemzeti Park Dél-Észtországban található, megvédve a dombos morénatájat. Számos tavat foglal magában, és változatos erdő- és rétökoszisztémáiról ismert.",
@@ -38,7 +38,7 @@ export const estoniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "EE",
     name: { de: "Endla Naturreservat", hu: "Endla Természetvédelmi Terület", ro: "Rezervația Naturală Endla", en: "Endla Nature Reserve" },
-    coordinates: { lat: 58.868, lng: 26.113 },
+    coords: [26.113, 58.868],
     description: {
       de: "Das Endla-Naturreservat in Zentralestland ist ein ausgedehntes Feuchtgebiet mit Hochmooren und Quellen. Es dient als wichtiger Lebensraum für verschiedene geschützte Vogelarten.",
       hu: "Közép-Észtországban az Endla természetvédelmi terület egy kiterjedt vizes élőhely lápokkal és forrásokkal. Fontos élőhelyet biztosít számos védett madárfaj számára.",
@@ -70,7 +70,7 @@ export const estoniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "EE",
     name: { de: "Alam-Pedja Naturschutzgebiet", hu: "Alam-Pedja Természetvédelmi Terület", ro: "Rezervația Naturală Alam-Pedja", en: "Alam-Pedja Nature Reserve" },
-    coordinates: { lat: 58.468, lng: 26.216 },
+    coords: [26.216, 58.468],
     description: {
       de: "Alam-Pedja ist das größte Naturschutzgebiet Estlands und besteht überwiegend aus überschwemmten Wiesen und Mooren. Das Gebiet ist Teil des Natura 2000-Netzwerks.",
       hu: "Alam-Pedja Észtország legnagyobb természetvédelmi területe, főként elárasztott rétekből és lápokból áll. A terület a Natura 2000 hálózat része.",
@@ -102,7 +102,7 @@ export const estoniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "EE",
     name: { de: "Saaremaa Wildpark", hu: "Saaremaa Vadaspark", ro: "Parcul de animale Saaremaa", en: "Saaremaa Wildlife Park" },
-    coordinates: { lat: 58.261, lng: 22.483 },
+    coords: [22.483, 58.261],
     description: {
       de: "Der Saaremaa Wildpark bietet auf der Insel Saaremaa ein Zuhause für verschiedene einheimische Tierarten in einer natürlichen Umgebung. Das Zentrum konzentriert sich auf ökologische Bildung.",
       hu: "A Saaremaa Vadaspark különféle őshonos állatfajoknak ad otthont Saaremaa szigetén, természetes környezetben. A központ az ökológiai oktatásra összpontosít.",
@@ -134,7 +134,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Tallinner Botanischer Garten", hu: "Tallinni Botanikus Kert", ro: "Grădina Botanică din Tallinn", en: "Tallinn Botanic Garden" },
-    coordinates: { lat: 59.471, lng: 24.887 },
+    coords: [24.887, 59.471],
     description: {
       de: "Der Tallinner Botanische Garten ist eine Forschungs- und Schauanlage im Stadtteil Pirita. Er beherbergt eine umfangreiche Sammlung estnischer Pflanzen und exotischer Gewächshäuser.",
       hu: "A Tallinni Botanikus Kert egy kutató- és kiállítóközpont Pirita kerületben. Kiterjedt észt növénygyűjteménynek és egzotikus üvegházaknak ad otthont.",
@@ -166,7 +166,7 @@ export const estoniaLifeV2: POI[] = [
     type: "forest",
     parent: "EE",
     name: { de: "Noku Waldgebiet", hu: "Noku erdőterület", ro: "Zona forestieră Noku", en: "Noku Forest Area" },
-    coordinates: { lat: 59.351, lng: 25.823 },
+    coords: [25.823, 59.351],
     description: {
       de: "Das Noku-Waldgebiet im Norden Estlands zeichnet sich durch seinen alten Kiefernbestand aus. Das Areal dient als ruhiger Erholungsort mit gut gepflegten Wanderwegen.",
       hu: "Az észtországi Noku erdőterületet régi fenyvesei jellemzik. A terület csendes pihenőhelyként szolgál, jól karbantartott túraútvonalakkal.",
@@ -198,7 +198,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Viljandi Seeuferpark", hu: "Viljandi tavi park", ro: "Parcul lacustru Viljandi", en: "Viljandi Lake Park" },
-    coordinates: { lat: 58.362, lng: 25.597 },
+    coords: [25.597, 58.362],
     description: {
       de: "Der Viljandi Seeuferpark erstreckt sich entlang des Viljandi-Sees. Er bietet öffentliche Grünflächen und Zugang zu Badeplätzen sowie Beobachtungspunkte für Wasservögel.",
       hu: "A Viljandi tavi park a Viljandi-tó mentén húzódik. Nyilvános zöldterületeket, strandolási lehetőséget és vízi madarak megfigyelésére szolgáló helyeket kínál.",
@@ -230,7 +230,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Mustoja Landschaftsschutzgebiet", hu: "Mustoja tájvédelmi körzet", ro: "Rezervația peisagistică Mustoja", en: "Mustoja Landscape Reserve" },
-    coordinates: { lat: 57.854, lng: 27.562 },
+    coords: [27.562, 57.854],
     description: {
       de: "Das Mustoja-Landschaftsschutzgebiet im Südosten Estlands schützt eine einzigartige Heidelandschaft mit seltenen Sanddünen. Das Gebiet ist besonders ökologisch wertvoll.",
       hu: "A délkelet-észtországi Mustoja tájvédelmi körzet egy egyedülálló, ritka homokdűnékkel tarkított lápos vidéket véd. A terület ökológiailag kiemelkedően értékes.",
@@ -262,7 +262,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Neeruti Landschaftsschutzgebiet", hu: "Neeruti tájvédelmi körzet", ro: "Rezervația peisagistică Neeruti", en: "Neeruti Landscape Reserve" },
-    coordinates: { lat: 59.351, lng: 26.046 },
+    coords: [26.046, 59.351],
     description: {
       de: "Das Neeruti-Landschaftsschutzgebiet bei Kadrina ist bekannt für seine Moränenhügel und kleinen Waldseen. Es dient als Erholungszone mit markierten Wanderrouten.",
       hu: "A Kadrina melletti Neeruti tájvédelmi körzet morénadombjairól és kis erdei tavairól ismert. Pihenőzónaként szolgál kijelölt túraútvonalakkal.",
@@ -294,7 +294,7 @@ export const estoniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "EE",
     name: { de: "Tolkuse Hochmoor", hu: "Tolkuse láp", ro: "Mlaștina Tolkuse", en: "Tolkuse Bog" },
-    coordinates: { lat: 58.118, lng: 24.524 },
+    coords: [24.524, 58.118],
     description: {
       de: "Das Tolkuse-Hochmoor im Naturpark Luitemaa umfasst ein weites Moorareal mit kleinen Koppelmoorseen. Ein Bohlenweg ermöglicht die Erkundung der einzigartigen Flora.",
       hu: "A Luitemaa Nemzeti Parkban található Tolkuse-láp egy kiterjedt mocsaras területet foglal magában kis tóvidékkel. Egy deszkás ösvény teszi lehetővé az egyedülálló flóra felfedezését.",
@@ -326,7 +326,7 @@ export const estoniaLifeV2: POI[] = [
     type: "forest",
     parent: "EE",
     name: { de: "Aegviidu Waldgebiet", hu: "Aegviidu erdőterület", ro: "Zona forestieră Aegviidu", en: "Aegviidu Forest Area" },
-    coordinates: { lat: 59.278, lng: 25.608 },
+    coords: [25.608, 59.278],
     description: {
       de: "Aegviidu liegt in einer waldreichen Region mit bedeutenden Nadelwaldbeständen. Die Gegend ist als Ausgangspunkt für Outdoor-Aktivitäten wie Wandern und Skifahren beliebt.",
       hu: "Aegviidu erdőben gazdag régióban fekszik, jelentős tűlevelű állományokkal. A terület népszerű kiindulópont szabadtéri tevékenységekhez, mint a túrázás és a síelés.",
@@ -358,7 +358,7 @@ export const estoniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "EE",
     name: { de: "Viidumäe Naturreservat", hu: "Viidumäe Természetvédelmi Terület", ro: "Rezervația Naturală Viidumäe", en: "Viidumäe Nature Reserve" },
-    coordinates: { lat: 58.286, lng: 22.122 },
+    coords: [22.122, 58.286],
     description: {
       de: "Das Viidumäe-Naturreservat auf Saaremaa schützt die höchste Erhebung der Insel und beherbergt eine hohe Anzahl an endemischen und seltenen Pflanzenarten.",
       hu: "A saaremaai Viidumäe természetvédelmi terület megvédi a sziget legmagasabb pontját, és számos endemikus és ritka növényfajnak ad otthont.",
@@ -390,7 +390,7 @@ export const estoniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "EE",
     name: { de: "Puhtu-Laelatu Naturschutzgebiet", hu: "Puhtu-Laelatu Természetvédelmi Terület", ro: "Rezervația Naturală Puhtu-Laelatu", en: "Puhtu-Laelatu Nature Reserve" },
-    coordinates: { lat: 58.575, lng: 23.553 },
+    coords: [23.553, 58.575],
     description: {
       de: "Das Puhtu-Laelatu-Naturschutzgebiet ist bekannt für seine artenreichen Laubbäume und wertvollen Küstenwiesen. Es gilt als eines der wichtigsten Gebiete für Botanik in Estland.",
       hu: "A Puhtu-Laelatu természetvédelmi terület fajgazdag lombhullató erdeiről és értékes tengerparti rétjeiről ismert. Észtország egyik legfontosabb botanikai területének számít.",
@@ -422,7 +422,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Otsa Landschaftspark", hu: "Otsa tájpark", ro: "Parcul peisagistic Otsa", en: "Otsa Landscape Park" },
-    coordinates: { lat: 59.123, lng: 24.876 },
+    coords: [24.876, 59.123],
     description: {
       de: "Der Otsa Landschaftspark im Norden Estlands bietet eine harmonische Mischung aus Waldstücken und offenen Lichtungen. Er wird lokal zur Erholung und für Spaziergänge genutzt.",
       hu: "Az észtországi Otsa tájpark erdőrészletek és nyitott tisztások harmonikus keverékét kínálja. Helyileg pihenésre és sétákra használják.",
@@ -454,7 +454,7 @@ export const estoniaLifeV2: POI[] = [
     type: "forest",
     parent: "EE",
     name: { de: "Tehumardi Waldgebiet", hu: "Tehumardi erdőterület", ro: "Zona forestieră Tehumardi", en: "Tehumardi Forest Area" },
-    coordinates: { lat: 58.196, lng: 22.348 },
+    coords: [22.348, 58.196],
     description: {
       de: "Der Tehumardi-Wald auf Saaremaa ist ein ruhiges Waldgebiet mit gemischtem Baumbestand. Er bietet Besuchern die Möglichkeit, die Natur der westlichen estnischen Inseln zu erleben.",
       hu: "A saaremaai Tehumardi-erdő egy csendes erdőterület vegyes állománnyal. Lehetőséget kínál a látogatóknak a nyugati észt szigetek természetének megismerésére.",
@@ -486,7 +486,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Väike Viik Park", hu: "Väike Viik park", ro: "Parcul Väike Viik", en: "Väike Viik Park" },
-    coordinates: { lat: 58.947, lng: 23.534 },
+    coords: [23.534, 58.947],
     description: {
       de: "Der Väike Viik Park in Haapsalu liegt direkt an der Bucht Väike Viik. Er ist ein beliebter kleinerer Grünbereich für Spaziergänge am Wasser.",
       hu: "A Haapsaluban található Väike Viik park közvetlenül a Väike Viik-öböl partján fekszik. Népszerű kisebb zöldterület a vízparti sétákhoz.",
@@ -518,7 +518,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Paunkula Erholungspark", hu: "Paunkula pihenőpark", ro: "Parcul de recreere Paunkula", en: "Paunkula Recreation Park" },
-    coordinates: { lat: 59.208, lng: 25.321 },
+    coords: [25.321, 59.208],
     description: {
       de: "Der Paunkula-Erholungspark liegt in der Nähe des Paunkula-Stausees. Das Gebiet ist für seine naturnahen Erholungsmöglichkeiten und Wasseraktivitäten bekannt.",
       hu: "A Paunkula pihenőpark a Paunkula-víztározó közelében található. A terület a természetközeli kikapcsolódási lehetőségeiről és vízi sportjairól ismert.",
@@ -550,7 +550,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Veski Landschaftsgarten", hu: "Veski tájkert", ro: "Grădina peisagistică Veski", en: "Veski Landscape Garden" },
-    coordinates: { lat: 58.745, lng: 25.123 },
+    coords: [25.123, 58.745],
     description: {
       de: "Der Veski Landschaftsgarten ist ein gepflegter Grünbereich, der zur Entspannung einlädt. Er zeichnet sich durch seine ansprechende Gestaltung mit heimischen Pflanzen aus.",
       hu: "A Veski tájkert egy gondozott zöldterület, amely pihenésre csábít. A kertet a helyi növényvilággal való tetszetős kialakítása jellemzi.",
@@ -582,7 +582,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Kurkse Küstenpark", hu: "Kurkse tengerparti park", ro: "Parcul de coastă Kurkse", en: "Kurkse Coastal Park" },
-    coordinates: { lat: 59.231, lng: 24.089 },
+    coords: [24.089, 59.231],
     description: {
       de: "Der Kurkse-Küstenpark bietet einen Blick auf die Ostsee und ein naturbelassenes Küstengebiet. Er ist ein ruhiger Ort für Naturbeobachtungen am Meer.",
       hu: "A Kurkse tengerparti park kilátást nyújt a Balti-tengerre és egy természetes állapotú partvidékre. Csendes hely a tengeri természet megfigyelésére.",
@@ -614,7 +614,7 @@ export const estoniaLifeV2: POI[] = [
     type: "forest",
     parent: "EE",
     name: { de: "Ranna Waldgebiet", hu: "Ranna erdőterület", ro: "Zona forestieră Ranna", en: "Ranna Forest Area" },
-    coordinates: { lat: 58.789, lng: 26.852 },
+    coords: [26.852, 58.789],
     description: {
       de: "Das Ranna-Waldgebiet zeichnet sich durch seine Nähe zu Gewässern und seine gemischte Flora aus. Die Gegend ist beliebt für ruhige Wanderungen.",
       hu: "A Ranna erdőterületet a vizek közelsége és vegyes növényvilága jellemzi. A vidék népszerű nyugodt túrákhoz.",
@@ -646,7 +646,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Kaldase Park", hu: "Kaldase park", ro: "Parcul Kaldase", en: "Kaldase Park" },
-    coordinates: { lat: 59.412, lng: 24.321 },
+    coords: [24.321, 59.412],
     description: {
       de: "Der Kaldase-Park bietet eine kleine, aber feine Grünfläche im estnischen Umland. Er eignet sich hervorragend für kurze Aufenthalte und zur Entspannung.",
       hu: "A Kaldase-park kis, de kellemes zöldterületet kínál Észtország vidékén. Kiválóan alkalmas rövid tartózkodásra és kikapcsolódásra.",
@@ -678,7 +678,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Salme Park", hu: "Salme park", ro: "Parcul Salme", en: "Salme Park" },
-    coordinates: { lat: 58.174, lng: 22.235 },
+    coords: [22.235, 58.174],
     description: {
       de: "Der Salme-Park befindet sich auf der Insel Saaremaa. Er ist ein lokaler Erholungsraum, der zur Erhaltung der landschaftlichen Qualität beiträgt.",
       hu: "A Salme-park Saaremaa szigetén található. Helyi pihenőövezet, amely hozzájárul a táj minőségének megőrzéséhez.",
@@ -710,7 +710,7 @@ export const estoniaLifeV2: POI[] = [
     type: "park",
     parent: "EE",
     name: { de: "Väike Park", hu: "Väike park", ro: "Parcul Väike", en: "Väike Park" },
-    coordinates: { lat: 59.052, lng: 25.123 },
+    coords: [25.123, 59.052],
     description: {
       de: "Der Väike-Park ist ein kleiner, idyllischer Grünbereich, der für seine ruhige Atmosphäre bekannt ist. Ein Ort für kurze Spaziergänge abseits der Stadt.",
       hu: "A Väike-park egy kis, idilli zöldterület, amely nyugodt légköréről ismert. Helyszín rövid sétákhoz a várostól távol.",

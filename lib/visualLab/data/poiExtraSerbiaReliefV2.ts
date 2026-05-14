@@ -6,7 +6,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Midžor Gipfel", hu: "Midžor csúcs", ro: "Vârful Midžor", en: "Midžor Peak" },
-    coordinates: { lat: 43.371, lng: 22.673 },
+    coords: [22.673, 43.371],
     description: {
       de: "Der Midžor ist der höchste Gipfel der Stara Planina in Serbien. Er liegt direkt an der Grenze zu Bulgarien.",
       hu: "A Midžor a Stara Planina hegység legmagasabb csúcsa Szerbiában. Közvetlenül a bolgár határ mentén helyezkedik el.",
@@ -38,7 +38,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Pančić Gipfel", hu: "Pančić csúcs", ro: "Vârful Pančić", en: "Pančić Peak" },
-    coordinates: { lat: 43.272, lng: 20.817 },
+    coords: [20.817, 43.272],
     description: {
       de: "Der Pančić-Gipfel ist der höchste Punkt des Kopaonik-Gebirges. Er wurde nach dem serbischen Botaniker Josif Pančić benannt.",
       hu: "A Pančić-csúcs a Kopaonik-hegység legmagasabb pontja. A szerb botanikusról, Josif Pančićról nevezték el.",
@@ -70,7 +70,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Rudnik Gebirge", hu: "Rudnik hegység", ro: "Munții Rudnik", en: "Rudnik Mountain" },
-    coordinates: { lat: 44.116, lng: 20.485 },
+    coords: [20.485, 44.116],
     description: {
       de: "Rudnik ist ein isoliertes Gebirgsmassiv in Zentralserbien. Es bildet die Wasserscheide zwischen dem Save- und dem Morava-Becken.",
       hu: "A Rudnik egy elszigetelt hegytömb Közép-Szerbiában. A Száva és a Morva-medence közötti vízválasztót alkotja.",
@@ -102,7 +102,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Bukulja Berg", hu: "Bukulja hegy", ro: "Muntele Bukulja", en: "Bukulja Mountain" },
-    coordinates: { lat: 44.306, lng: 20.525 },
+    coords: [20.525, 44.306],
     description: {
       de: "Der Berg Bukulja liegt in der Nähe von Aranđelovac. Er ist bekannt für seine dichten Laubwälder und Wanderwege.",
       hu: "A Bukulja hegy Aranđelovac közelében található. Sűrű lombhullató erdőiről és túraútvonalairól ismert.",
@@ -134,7 +134,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Vince Gipfel", hu: "Vince csúcs", ro: "Vârful Vince", en: "Vince Peak" },
-    coordinates: { lat: 43.125, lng: 22.356 },
+    coords: [22.356, 43.125],
     description: {
       de: "Vince ist ein markanter Gipfel in der Region um Dimitrovgrad. Er bietet eine weite Aussicht auf das umliegende hügelige Gelände.",
       hu: "A Vince egy kiemelkedő csúcs a Dimitrovgrad környéki régióban. Széles kilátást nyújt a környező dombos terepre.",
@@ -166,7 +166,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Bukovik Gebirge", hu: "Bukovik hegység", ro: "Munții Bukovik", en: "Bukovik Mountain" },
-    coordinates: { lat: 43.684, lng: 21.847 },
+    coords: [21.847, 43.684],
     description: {
       de: "Bukovik liegt im Osten Serbiens, südlich von Aleksinac. Das Gebiet ist geprägt von tiefen Tälern und bewaldeten Hängen.",
       hu: "A Bukovik Szerbia keleti részén, Aleksinactól délre fekszik. A területet mély völgyek és erdős lejtők jellemzik.",
@@ -198,7 +198,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Crni Vrh Gipfel", hu: "Crni Vrh csúcs", ro: "Vârful Crni Vrh", en: "Crni Vrh Peak" },
-    coordinates: { lat: 44.053, lng: 21.995 },
+    coords: [21.995, 44.053],
     description: {
       de: "Der Crni Vrh bei Bor ist ein bekanntes Ausflugsziel. Er bietet gute Bedingungen für Wintersport und Wandern.",
       hu: "A Bor melletti Crni Vrh népszerű kirándulóhely. Jó feltételeket kínál a téli sportokhoz és a túrázáshoz.",
@@ -230,7 +230,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Selicevica Gebirge", hu: "Selicevica hegység", ro: "Munții Selicevica", en: "Selicevica Mountain" },
-    coordinates: { lat: 43.238, lng: 21.846 },
+    coords: [21.846, 43.238],
     description: {
       de: "Selicevica liegt südlich von Niš. Das Gebirge dient als natürliche Barriere zwischen der Nišava-Ebene und dem Morava-Tal.",
       hu: "A Selicevica Nistől délre fekszik. A hegység természetes akadályként szolgál a Nišava-síkság és a Morva-völgy között.",
@@ -262,7 +262,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Veliki Jastrebac", hu: "Veliki Jastrebac", ro: "Veliki Jastrebac", en: "Veliki Jastrebac" },
-    coordinates: { lat: 43.468, lng: 21.464 },
+    coords: [21.464, 43.468],
     description: {
       de: "Veliki Jastrebac ist der höchste Gipfel des Jastrebac-Massivs südlich von Kruševac. Es ist bekannt für seine Buchenwälder.",
       hu: "Veliki Jastrebac a Jastrebac-hegység legmagasabb csúcsa Kruševactól délre. Bükkerdőiről ismert.",
@@ -294,7 +294,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Maljen Gebirge", hu: "Maljen hegység", ro: "Munții Maljen", en: "Maljen Mountain" },
-    coordinates: { lat: 44.095, lng: 20.003 },
+    coords: [20.003, 44.095],
     description: {
       de: "Maljen liegt in Westserbien und beherbergt das bekannte Bergplateau Divčibare. Es ist ein beliebtes Ziel für Bergtourismus.",
       hu: "Maljen Nyugat-Szerbiában található, és itt található a jól ismert Divčibare hegyi fennsík. Népszerű célpont a hegyi turizmus számára.",
@@ -326,7 +326,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Jankov Kamen", hu: "Jankov Kamen", ro: "Jankov Kamen", en: "Jankov Kamen" },
-    coordinates: { lat: 43.336, lng: 20.274 },
+    coords: [20.274, 43.336],
     description: {
       de: "Jankov Kamen ist der höchste Gipfel des Golija-Gebirges. Das gesamte Gebiet steht als Biosphärenreservat unter Schutz.",
       hu: "Jankov Kamen a Golija-hegység legmagasabb csúcsa. Az egész terület bioszféra-rezervátumként áll védelem alatt.",
@@ -358,7 +358,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Zlatar Gebirge", hu: "Zlatar hegység", ro: "Munții Zlatar", en: "Zlatar Mountain" },
-    coordinates: { lat: 43.342, lng: 19.865 },
+    coords: [19.865, 43.342],
     description: {
       de: "Das Zlatar-Gebirge liegt im Südwesten Serbiens. Es zeichnet sich durch hohe Bergwiesen und Nadelwälder aus.",
       hu: "A Zlatar-hegység Szerbia délnyugati részén található. Magas hegyi rétek és tűlevelű erdők jellemzik.",
@@ -390,7 +390,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Rogozna Gebirge", hu: "Rogozna hegység", ro: "Munții Rogozna", en: "Rogozna Mountain" },
-    coordinates: { lat: 43.082, lng: 20.672 },
+    coords: [20.672, 43.082],
     description: {
       de: "Rogozna ist ein vulkanisches Gebirge im südlichen Serbien. Es liegt in der Nähe von Novi Pazar und hat eine lange Geschichte.",
       hu: "A Rogozna vulkanikus hegység Szerbia déli részén. Novi Pazar közelében fekszik, és hosszú történelemmel rendelkezik.",
@@ -422,7 +422,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Gobelja Gipfel", hu: "Gobelja csúcs", ro: "Vârful Gobelja", en: "Gobelja Peak" },
-    coordinates: { lat: 43.284, lng: 20.852 },
+    coords: [20.852, 43.284],
     description: {
       de: "Gobelja ist ein bedeutender Gipfel im Kopaonik-Massiv. Er ist ein zentrales Gebiet für den Wintersportbetrieb in Serbien.",
       hu: "A Gobelja a Kopaonik-hegység fontos csúcsa. Központi terület a szerbiai téli sportok számára.",
@@ -454,7 +454,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Trem Gipfel", hu: "Trem csúcs", ro: "Vârful Trem", en: "Trem Peak" },
-    coordinates: { lat: 43.181, lng: 22.146 },
+    coords: [22.146, 43.181],
     description: {
       de: "Trem ist der höchste Gipfel der Suva Planina. Das Massiv zeichnet sich durch seine kalkhaltigen Kämme aus.",
       hu: "A Trem a Suva Planina legmagasabb csúcsa. A hegység mészköves gerinceiről ismert.",
@@ -486,7 +486,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Brankovac", hu: "Brankovac", ro: "Brankovac", en: "Brankovac" },
-    coordinates: { lat: 45.176, lng: 19.741 },
+    coords: [19.741, 45.176],
     description: {
       de: "Brankovac ist eine Erhebung im Fruška-Gora-Gebirge. Die Region ist bekannt für ihre sanften Hügel und Weinbau.",
       hu: "A Brankovac egy magaslat a Fruška Gora-hegységben. A régió szelíd dombjairól és szőlőtermesztéséről ismert.",
@@ -518,7 +518,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Radan Gebirge", hu: "Radan hegység", ro: "Munții Radan", en: "Radan Mountain" },
-    coordinates: { lat: 42.946, lng: 21.432 },
+    coords: [21.432, 42.946],
     description: {
       de: "Radan ist ein Gebirge in Südserbien, das durch vulkanische Aktivitäten geprägt wurde. In der Nähe liegt Đavolja Varoš.",
       hu: "A Radan egy hegység Dél-Szerbiában, amelyet vulkáni tevékenység formált. A közelben található Đavolja Varoš.",
@@ -550,7 +550,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Beljanica Gebirge", hu: "Beljanica hegység", ro: "Munții Beljanica", en: "Beljanica Mountain" },
-    coordinates: { lat: 44.135, lng: 21.782 },
+    coords: [21.782, 44.135],
     description: {
       de: "Beljanica ist ein gewaltiges Karstgebirge im Osten Serbiens. Es ist bekannt für seine zahlreichen Höhlen und Quellen.",
       hu: "A Beljanica hatalmas karszthegység Szerbia keleti részén. Számos barlangjáról és forrásáról ismert.",
@@ -582,7 +582,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Stolica Gipfel", hu: "Stolica csúcs", ro: "Vârful Stolica", en: "Stolica Peak" },
-    coordinates: { lat: 44.385, lng: 19.336 },
+    coords: [19.336, 44.385],
     description: {
       de: "Stolica ist ein Gipfel im Gebirge Jagodnja in Westserbien. Er bietet einen Blick auf die umliegende Flusslandschaft.",
       hu: "A Stolica egy csúcs a nyugat-szerbiai Jagodnja hegységben. Kilátást nyújt a környező folyó tájra.",
@@ -614,7 +614,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Povlen Gebirge", hu: "Povlen hegység", ro: "Munții Povlen", en: "Povlen Mountain" },
-    coordinates: { lat: 44.113, lng: 19.781 },
+    coords: [19.781, 44.113],
     description: {
       de: "Povlen liegt westlich von Valjevo. Das Gebirge besteht aus drei markanten Gipfeln und ist ein beliebtes Wandergebiet.",
       hu: "Povlen Valjevótól nyugatra fekszik. A hegység három jellegzetes csúcsból áll, és népszerű túrázó terület.",
@@ -646,7 +646,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Zborište", hu: "Zborište", ro: "Zborište", en: "Zborište" },
-    coordinates: { lat: 43.914, lng: 19.411 },
+    coords: [19.411, 43.914],
     description: {
       de: "Zborište ist der höchste Gipfel im Tara-Gebirge. Es liegt im Nationalpark Tara und ist von dichten Nadelwäldern umgeben.",
       hu: "Zborište a Tara-hegység legmagasabb csúcsa. A Tara Nemzeti Parkban található, és sűrű tűlevelű erdők veszik körül.",
@@ -678,7 +678,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Tornik Gipfel", hu: "Tornik csúcs", ro: "Vârful Tornik", en: "Tornik Peak" },
-    coordinates: { lat: 43.663, lng: 19.643 },
+    coords: [19.643, 43.663],
     description: {
       de: "Tornik ist der höchste Punkt des Zlatibor-Gebirges. Es ist ein bekanntes Skigebiet und touristisches Zentrum in Westserbien.",
       hu: "Tornik a Zlatibor-hegység legmagasabb pontja. Ismert síközpont és turisztikai központ Nyugat-Szerbiában.",
@@ -710,7 +710,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Kosmaj Gebirge", hu: "Kosmaj hegység", ro: "Munții Kosmaj", en: "Kosmaj Mountain" },
-    coordinates: { lat: 44.471, lng: 20.573 },
+    coords: [20.573, 44.471],
     description: {
       de: "Kosmaj ist ein niedriges Gebirge in der Nähe von Belgrad. Es ist bekannt für seine bewaldeten Hänge und historischen Denkmäler.",
       hu: "A Kosmaj egy alacsony hegység Belgrád közelében. Erdős lejtőiről és történelmi emlékműveiről ismert.",
@@ -742,7 +742,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Gremigrad", hu: "Gremigrad", ro: "Gremigrad", en: "Gremigrad" },
-    coordinates: { lat: 43.142, lng: 22.384 },
+    coords: [22.384, 43.142],
     description: {
       de: "Gremigrad ist eine Bergregion in der Nähe von Dimitrovgrad. Sie ist durch eine abwechslungsreiche Topographie und Wälder geprägt.",
       hu: "Gremigrad egy hegyvidék Dimitrovgrad közelében. Változatos domborzat és erdők jellemzik.",
@@ -774,7 +774,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Vlasina Gebirge", hu: "Vlasina hegység", ro: "Munții Vlasina", en: "Vlasina Mountain" },
-    coordinates: { lat: 42.684, lng: 22.336 },
+    coords: [22.336, 42.684],
     description: {
       de: "Das Vlasina-Gebirge umgibt den bekannten Vlasina-See. Es bietet eine ruhige, hochgelegene Landschaft im Südosten Serbiens.",
       hu: "A Vlasina-hegység öleli körül a jól ismert Vlasina-tavat. Csendes, magaslati tájat kínál Szerbia délkeleti részén.",
@@ -806,7 +806,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Ozren Gebirge", hu: "Ozren hegység", ro: "Munții Ozren", en: "Ozren Mountain" },
-    coordinates: { lat: 43.615, lng: 21.874 },
+    coords: [21.874, 43.615],
     description: {
       de: "Ozren liegt bei Sokobanja. Das Gebirge bietet zahlreiche Aussichtspunkte und Wanderwege in einer grünen Umgebung.",
       hu: "Az Ozren Sokobanja közelében található. A hegység számos kilátópontot és túraútvonalat kínál zöld környezetben.",
@@ -838,7 +838,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Raška planina", hu: "Raška planina", ro: "Raška planina", en: "Raška planina" },
-    coordinates: { lat: 43.256, lng: 20.542 },
+    coords: [20.542, 43.256],
     description: {
       de: "Raška planina ist eine Bergregion in der Nähe von Novi Pazar. Sie zeichnet sich durch ihre unberührte Natur aus.",
       hu: "A Raška planina egy hegyvidék Novi Pazar közelében. Érintetlen természet jellemzi.",
@@ -870,7 +870,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Mali Jastrebac", hu: "Mali Jastrebac", ro: "Mali Jastrebac", en: "Mali Jastrebac" },
-    coordinates: { lat: 43.432, lng: 21.485 },
+    coords: [21.485, 43.432],
     description: {
       de: "Mali Jastrebac ist der kleinere Teil des Jastrebac-Massivs. Er ergänzt das Hauptmassiv mit sanfteren Hügeln und Wäldern.",
       hu: "Mali Jastrebac a Jastrebac-hegység kisebb része. Szelídebb dombokkal és erdőkkel egészíti ki a fő tömböt.",
@@ -902,7 +902,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Vrteška", hu: "Vrteška", ro: "Vrteška", en: "Vrteška" },
-    coordinates: { lat: 43.765, lng: 21.942 },
+    coords: [21.942, 43.765],
     description: {
       de: "Vrteška ist ein weniger bekanntes Gebirge im Osten Serbiens. Es besticht durch seine Stille und weitläufige Waldgebiete.",
       hu: "A Vrteška egy kevésbé ismert hegység Kelet-Szerbiában. Csendjével és kiterjedt erdőterületeivel hódít.",
@@ -934,7 +934,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Željin Gebirge", hu: "Željin hegység", ro: "Munții Željin", en: "Željin Mountain" },
-    coordinates: { lat: 43.485, lng: 20.812 },
+    coords: [20.812, 43.485],
     description: {
       de: "Željin ist ein vulkanisches Gebirge zwischen dem Kopaonik und dem Goč. Es bietet eine raue und unberührte Bergwelt.",
       hu: "A Željin egy vulkanikus hegység a Kopaonik és a Goč között. Durva és érintetlen hegyvilágot kínál.",
@@ -966,7 +966,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Bukulja Gipfel", hu: "Bukulja csúcs", ro: "Vârful Bukulja", en: "Bukulja Peak" },
-    coordinates: { lat: 44.312, lng: 20.531 },
+    coords: [20.531, 44.312],
     description: {
       de: "Der Bukulja-Gipfel ist der höchste Punkt des Bukulja-Berges. Er bietet eine exzellente Aussicht auf die Šumadija-Region.",
       hu: "A Bukulja-csúcs a Bukulja-hegy legmagasabb pontja. Kiváló kilátást nyújt a Šumadija régióra.",
@@ -998,7 +998,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Kordžino", hu: "Kordžino", ro: "Kordžino", en: "Kordžino" },
-    coordinates: { lat: 43.385, lng: 22.712 },
+    coords: [22.712, 43.385],
     description: {
       de: "Kordžino ist ein Gipfel in der östlichen Stara Planina. Die Gegend ist abgelegen und bietet eine unberührte Natur.",
       hu: "A Kordžino egy csúcs a keleti Stara Planinában. A környék elszigetelt és érintetlen természetet kínál.",
@@ -1030,7 +1030,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Kukavica Gebirge", hu: "Kukavica hegység", ro: "Munții Kukavica", en: "Kukavica Mountain" },
-    coordinates: { lat: 42.756, lng: 22.012 },
+    coords: [22.012, 42.756],
     description: {
       de: "Kukavica liegt im südlichen Teil Serbiens zwischen Leskovac und Vranje. Es ist ein bewaldetes Bergmassiv mit tiefen Tälern.",
       hu: "A Kukavica Szerbia déli részén fekszik, Leskovac és Vranje között. Erdős hegytömb mély völgyekkel.",
@@ -1062,7 +1062,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Crni Vrh (Raška)", hu: "Crni Vrh (Raška)", ro: "Crni Vrh (Raška)", en: "Crni Vrh (Raška)" },
-    coordinates: { lat: 43.156, lng: 20.441 },
+    coords: [20.441, 43.156],
     description: {
       de: "Crni Vrh ist ein bekannter Gipfel in der Raška-Region. Er ist für seine Wanderwege und Aussicht auf die Bergwelt bekannt.",
       hu: "A Crni Vrh a Raška régió ismert csúcsa. Túraútvonalairól és a hegyvidékre nyíló kilátásáról ismert.",
@@ -1094,7 +1094,7 @@ export const serbiaReliefV2: POI[] = [
     type: "valley",
     parent: "RS",
     name: { de: "Sunčana Dolina", hu: "Sunčana Dolina", ro: "Sunčana Dolina", en: "Sunčana Dolina" },
-    coordinates: { lat: 43.275, lng: 20.804 },
+    coords: [20.804, 43.275],
     description: {
       de: "Sunčana Dolina (Sonnental) liegt im Kopaonik-Gebirge. Es ist ein bekanntes Skigebiet und sehr sonnig gelegen.",
       hu: "A Sunčana Dolina (Napvölgy) a Kopaonik-hegységben található. Ismert síterület és nagyon napos fekvésű.",
@@ -1126,7 +1126,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Krčmar", hu: "Krčmar", ro: "Krčmar", en: "Krčmar" },
-    coordinates: { lat: 43.268, lng: 20.811 },
+    coords: [20.811, 43.268],
     description: {
       de: "Krčmar ist ein bekannter Gipfel und Pistenbereich im Kopaonik-Gebirge. Er bietet anspruchsvolle Abfahrten für Skifahrer.",
       hu: "A Krčmar egy ismert csúcs és sípálya a Kopaonik-hegységben. Kihívást jelentő lejtőket kínál síelőknek.",
@@ -1158,7 +1158,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Bratin Vrh", hu: "Bratin Vrh", ro: "Bratin Vrh", en: "Bratin Vrh" },
-    coordinates: { lat: 43.392, lng: 22.684 },
+    coords: [22.684, 43.392],
     description: {
       de: "Bratin Vrh ist ein Gipfel in der Stara Planina. Er bietet eine weite Aussicht über den serbisch-bulgarischen Grenzbereich.",
       hu: "A Bratin Vrh egy csúcs a Stara Planinában. Széles kilátást nyújt a szerb-bolgár határterületre.",
@@ -1190,7 +1190,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Veliki Stolac", hu: "Veliki Stolac", ro: "Veliki Stolac", en: "Veliki Stolac" },
-    coordinates: { lat: 43.942, lng: 19.385 },
+    coords: [19.385, 43.942],
     description: {
       de: "Veliki Stolac ist ein bekannter Aussichtspunkt im Tara-Gebirge. Er bietet einen Blick auf den Drina-Canyon.",
       hu: "A Veliki Stolac egy ismert kilátópont a Tara-hegységben. Kilátást nyújt a Drina-kanyonra.",
@@ -1222,7 +1222,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Čičot", hu: "Čičot", ro: "Čičot", en: "Čičot" },
-    coordinates: { lat: 43.712, lng: 19.715 },
+    coords: [19.715, 43.712],
     description: {
       de: "Čičot ist ein Berg im Zlatibor-Massiv. Er ist Teil der sanften Berglandschaft, die typisch für Zlatibor ist.",
       hu: "A Čičot egy hegy a Zlatibor-hegységben. Annak a szelíd hegyi tájnak a része, amely jellemző Zlatiborra.",
@@ -1254,7 +1254,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Vučak", hu: "Vučak", ro: "Vučak", en: "Vučak" },
-    coordinates: { lat: 43.312, lng: 20.884 },
+    coords: [20.884, 43.312],
     description: {
       de: "Vučak ist ein Berg im Kopaonik-Gebirge. Die Region ist bekannt für ihre weiten Aussichten und dichten Wälder.",
       hu: "A Vučak egy hegy a Kopaonik-hegységben. A régió széles kilátásáról és sűrű erdőiről ismert.",
@@ -1286,7 +1286,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Čuka", hu: "Čuka", ro: "Čuka", en: "Čuka" },
-    coordinates: { lat: 43.342, lng: 22.585 },
+    coords: [22.585, 43.342],
     description: {
       de: "Čuka ist ein markanter Gipfel in der Stara Planina. Er bietet eine herausfordernde Umgebung für erfahrene Wanderer.",
       hu: "A Čuka egy jellegzetes csúcs a Stara Planinában. Kihívást jelentő környezetet kínál tapasztalt túrázóknak.",
@@ -1318,7 +1318,7 @@ export const serbiaReliefV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Bijela Stijena", hu: "Bijela Stijena", ro: "Bijela Stijena", en: "Bijela Stijena" },
-    coordinates: { lat: 43.984, lng: 19.356 },
+    coords: [19.356, 43.984],
     description: {
       de: "Bijela Stijena ist eine Felsformation im Tara-Gebirge. Sie ist ein beliebter Aussichtspunkt mit Blick auf das Drina-Tal.",
       hu: "A Bijela Stijena egy sziklaképződmény a Tara-hegységben. Népszerű kilátópont, ahonnan rálátni a Drina-völgyre.",
@@ -1350,7 +1350,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Gruda", hu: "Gruda", ro: "Gruda", en: "Gruda" },
-    coordinates: { lat: 43.742, lng: 19.684 },
+    coords: [19.684, 43.742],
     description: {
       de: "Gruda ist eine Erhebung im Zlatibor-Gebirge. Die Region ist bekannt für ihre weiten Wiesen und sanften Hänge.",
       hu: "A Gruda egy magaslat a Zlatibor-hegységben. A régió széles rétjeiről és szelíd lejtőiről ismert.",
@@ -1382,7 +1382,7 @@ export const serbiaReliefV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Vučak Zapad", hu: "Vučak Zapad", ro: "Vučak Zapad", en: "Vučak Zapad" },
-    coordinates: { lat: 43.321, lng: 20.871 },
+    coords: [20.871, 43.321],
     description: {
       de: "Vučak Zapad ist ein Teil des Vučak-Massivs im Kopaonik. Es bietet ruhige Wanderwege abseits der Haupttouristenströme.",
       hu: "A Vučak Zapad a Vučak-hegység része a Kopaonikban. Csendes túraútvonalakat kínál a fő turistaáradattól távol.",

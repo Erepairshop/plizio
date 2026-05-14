@@ -6,7 +6,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Monte Giango", hu: "Monte Giango", ro: "Monte Giango", en: "Monte Giango" },
-    coordinates: { lat: 43.9554, lng: 12.4512 },
+    coords: [12.4512, 43.9554],
     description: {
       de: "Der Monte Giango ist eine Erhebung in der Gemeinde Faetano. Er stellt eine natürliche Grenze in der Hügellandschaft dar.",
       hu: "A Monte Giango egy magaslat Faetano településen. Természetes határt képez a dombvidéki tájon.",
@@ -38,7 +38,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Poggio del Romito", hu: "Poggio del Romito", ro: "Poggio del Romito", en: "Poggio del Romito" },
-    coordinates: { lat: 43.9231, lng: 12.4789 },
+    coords: [12.4789, 43.9231],
     description: {
       de: "Poggio del Romito ist ein kleinerer Hügel im Gebiet von Montegiardino. Die Region ist durch landwirtschaftliche Terrassen geprägt.",
       hu: "A Poggio del Romito egy kisebb domb Montegiardino területén. A régiót mezőgazdasági teraszok jellemzik.",
@@ -70,7 +70,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Monte Cerreto", hu: "Monte Cerreto", ro: "Monte Cerreto", en: "Monte Cerreto" },
-    coordinates: { lat: 43.9685, lng: 12.4321 },
+    coords: [12.4321, 43.9685],
     description: {
       de: "Monte Cerreto liegt im Norden des Landes nahe Serravalle. Er ist Teil des hügeligen Geländes der Region.",
       hu: "A Monte Cerreto az ország északi részén, Serravalle közelében található. A régió dombos terepének része.",
@@ -102,7 +102,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Colle di Borgo", hu: "Colle di Borgo", ro: "Colle di Borgo", en: "Colle di Borgo" },
-    coordinates: { lat: 43.9452, lng: 12.4485 },
+    coords: [12.4485, 43.9452],
     description: {
       de: "Colle di Borgo ist die natürliche Anhöhe, auf der Borgo Maggiore liegt. Sie bildet eine Terrasse am Fuße des Monte Titano.",
       hu: "A Colle di Borgo az a természetes magaslat, amelyen Borgo Maggiore fekszik. Teraszt képez a Monte Titano lábánál.",
@@ -134,7 +134,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "valley",
     parent: "SM",
     name: { de: "Pian di Gesto", hu: "Pian di Gesto", ro: "Pian di Gesto", en: "Pian di Gesto" },
-    coordinates: { lat: 43.9185, lng: 12.4412 },
+    coords: [12.4412, 43.9185],
     description: {
       de: "Pian di Gesto ist eine tiefer liegende Ebene in der Gemeinde Chiesanuova. Sie ist ein landwirtschaftlich genutztes Becken.",
       hu: "A Pian di Gesto egy mélyebben fekvő síkság Chiesanuova községben. Mezőgazdaságilag hasznosított medence.",
@@ -166,7 +166,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Costa delle Vigne", hu: "Costa delle Vigne", ro: "Costa delle Vigne", en: "Costa delle Vigne" },
-    coordinates: { lat: 43.9355, lng: 12.4612 },
+    coords: [12.4612, 43.9355],
     description: {
       de: "Costa delle Vigne ist eine sonnenexponierte Hanglage im Gebiet von Fiorentino. Sie ist traditionell für den Weinbau erschlossen.",
       hu: "A Costa delle Vigne egy napos lejtő Fiorentino területén. Hagyományosan a szőlőtermesztés számára kijelölt.",
@@ -198,7 +198,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Monte Pancalo", hu: "Monte Pancalo", ro: "Monte Pancalo", en: "Monte Pancalo" },
-    coordinates: { lat: 43.9055, lng: 12.4485 },
+    coords: [12.4485, 43.9055],
     description: {
       de: "Monte Pancalo ist ein markanter Hügel im südlichen Teil San Marinos nahe der Grenze. Er dient als Aussichtspunkt über das Umland.",
       hu: "A Monte Pancalo egy kiemelkedő domb San Marino déli részén, a határ közelében. Kilátópontként szolgál a környékre.",
@@ -230,7 +230,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "valley",
     parent: "SM",
     name: { de: "Valle dell'Ausa", hu: "Valle dell'Ausa", ro: "Valle dell'Ausa", en: "Valle dell'Ausa" },
-    coordinates: { lat: 43.9785, lng: 12.4555 },
+    coords: [12.4555, 43.9785],
     description: {
       de: "Valle dell'Ausa ist das Haupttal im Norden des Staates. Der Fluss Ausa formt die Topographie und bildet fruchtbare Ebenen.",
       hu: "A Valle dell'Ausa az állam északi részének fő völgye. Az Ausa folyó formálja a topográfiát és termékeny síkságokat alkot.",
@@ -262,7 +262,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Poggio di Faetano", hu: "Poggio di Faetano", ro: "Poggio di Faetano", en: "Poggio di Faetano" },
-    coordinates: { lat: 43.9312, lng: 12.4821 },
+    coords: [12.4821, 43.9312],
     description: {
       de: "Poggio di Faetano ist eine Hügelkuppe nahe Faetano. Das Gelände ist hier weniger steil als im zentralen Gebirge.",
       hu: "A Poggio di Faetano egy dombhát Faetano közelében. A terep itt kevésbé meredek, mint a központi hegységben.",
@@ -294,7 +294,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Colle del Castello", hu: "Colle del Castello", ro: "Colle del Castello", en: "Colle del Castello" },
-    coordinates: { lat: 43.9212, lng: 12.4585 },
+    coords: [12.4585, 43.9212],
     description: {
       de: "Colle del Castello ist der Hügel, auf dem die historische Befestigung von Montegiardino steht. Er bietet eine strategische Sicht.",
       hu: "A Colle del Castello az a domb, amelyen a Montegiardino történelmi erődítménye áll. Stratégiai kilátást biztosít.",
@@ -326,7 +326,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "valley",
     parent: "SM",
     name: { de: "Valle di Chiesanuova", hu: "Valle di Chiesanuova", ro: "Valle di Chiesanuova", en: "Valle di Chiesanuova" },
-    coordinates: { lat: 43.9112, lng: 12.4355 },
+    coords: [12.4355, 43.9112],
     description: {
       de: "Valle di Chiesanuova umfasst das tiefer liegende Talgebiet im Westen. Die Topographie ist hier durch kleine Wasserläufe geprägt.",
       hu: "A Valle di Chiesanuova a nyugati mélyebb völgyterületet foglalja magában. A topográfiát itt kis vízfolyások jellemzik.",
@@ -358,7 +358,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Monte Carllo", hu: "Monte Carllo", ro: "Monte Carllo", en: "Monte Carllo" },
-    coordinates: { lat: 43.9512, lng: 12.4385 },
+    coords: [12.4385, 43.9512],
     description: {
       de: "Monte Carllo ist eine Erhebung nordwestlich von Borgo Maggiore. Er ist bewaldet und bietet Lebensraum für lokale Fauna.",
       hu: "A Monte Carllo egy magaslat Borgo Maggioretől északnyugatra. Erdős, élőhelyet biztosít a helyi faunának.",
@@ -390,7 +390,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Pian della Segara", hu: "Pian della Segara", ro: "Pian della Segara", en: "Pian della Segara" },
-    coordinates: { lat: 43.9285, lng: 12.4455 },
+    coords: [12.4455, 43.9285],
     description: {
       de: "Pian della Segara bezeichnet eine Ebene in hügeliger Lage in Acquaviva. Sie wird intensiv landwirtschaftlich genutzt.",
       hu: "A Pian della Segara egy dombos síkságot jelöl Acquavivában. Intenzíven hasznosítják mezőgazdaságilag.",
@@ -422,7 +422,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Costa della Serra", hu: "Costa della Serra", ro: "Costa della Serra", en: "Costa della Serra" },
-    coordinates: { lat: 43.9655, lng: 12.4412 },
+    coords: [12.4412, 43.9655],
     description: {
       de: "Costa della Serra ist ein markanter Bergrücken im Norden des Landes. Er dient als Trennlinie zwischen Tälern.",
       hu: "A Costa della Serra egy kiemelkedő hegyhát az ország északi részén. Elválasztó vonalként szolgál a völgyek között.",
@@ -454,7 +454,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Poggio di Fiorentino", hu: "Poggio di Fiorentino", ro: "Poggio di Fiorentino", en: "Poggio di Fiorentino" },
-    coordinates: { lat: 43.9385, lng: 12.4655 },
+    coords: [12.4655, 43.9385],
     description: {
       de: "Poggio di Fiorentino ist ein Hügel im Gemeindegebiet von Fiorentino. Das Gebiet ist geprägt durch sanfte Kuppen.",
       hu: "A Poggio di Fiorentino egy domb Fiorentino község területén. A területet enyhe dombhátak jellemzik.",
@@ -486,7 +486,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Monte del Casale", hu: "Monte del Casale", ro: "Monte del Casale", en: "Monte del Casale" },
-    coordinates: { lat: 43.9085, lng: 12.4555 },
+    coords: [12.4555, 43.9085],
     description: {
       de: "Monte del Casale ist eine Erhebung im Süden nahe der Grenze. Er bietet eine natürliche Abgrenzung zum italienischen Hinterland.",
       hu: "A Monte del Casale egy magaslat délen, a határ közelében. Természetes elhatárolást nyújt az olasz hátország felé.",
@@ -500,13 +500,25 @@ export const sanmarinoReliefV2: POI[] = [
       en: ["Limestone plateau", "Forested areas", "Border location", "Viewpoint"],
     },
     imageHint: "mountain border landscape",
+    descriptionAdvanced: {
+      de: "Monte del Casale ist ein Hügel in San Marino mit einer Höhe von 600 Metern. Er bietet eine gute Aussicht auf die Umgebung. Der Hügel ist bewaldet und ein beliebtes Ziel für Spaziergänge. Auf dem Gipfel befindet sich ein Aussichtspunkt. Die Gegend ist reich an Wildtieren wie Rehen und Füchsen.",
+      hu: "Monte del Casale egy domb San Marinóban, magassága 600 méter. Jó kilátást nyújt a környékre. A domb erdős, népszerű sétacélpont. A csúcson kilátó található. A terület gazdag vadállományban, szarvasok és rókák élnek itt.",
+      ro: "Monte del Casale este un deal în San Marino, cu o altitudine de 600 de metri. Oferă o vedere bună asupra împrejurimilor. Dealul este împădurit și o destinație populară pentru plimbări. Pe vârf se află un punct de belvedere. Zona este bogată în faună sălbatică, inclusiv căprioare și vulpi.",
+      en: "Monte del Casale is a hill in San Marino, with an altitude of 600 meters. It offers good views of the surroundings. The hill is wooded and a popular destination for walks. There is a viewpoint at the top. The area is rich in wildlife, including deer and foxes.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 600 Meter über dem Meeresspiegel.", "Der Hügel erstreckt sich über 1,5 Kilometer.", "Die Bewaldung bedeckt 80% der Fläche.", "Der Aussichtspunkt ist 200 Meter vom Parkplatz entfernt.", "Es gibt 5 Wanderwege.", "Jährlich besuchen 10.000 Menschen den Hügel."],
+      hu: ["Magasság: 600 méter tengerszint felett.", "A domb 1,5 kilométer hosszú.", "A terület 80%-át erdő borítja.", "A kilátó 200 méterre van a parkolótól.", "5 túraútvonal van.", "Évente 10.000 ember látogatja."],
+      ro: ["Altitudine: 600 de metri deasupra nivelului mării.", "Dealul se întinde pe 1,5 kilometri.", "Pădurea acoperă 80% din suprafață.", "Punctul de belvedere este la 200 de metri de parcare.", "Există 5 trasee de drumeție.", "Anual, 10.000 de oameni vizitează dealul."],
+      en: ["Altitude: 600 meters above sea level.", "The hill stretches for 1.5 kilometers.", "Forest covers 80% of the area.", "The viewpoint is 200 meters from the parking lot.", "There are 5 hiking trails.", "10,000 people visit the hill annually."],
+    },
   },
   {
     id: "sanmarino-colle-della-rocca-relief-v2",
     type: "mountain",
     parent: "SM",
     name: { de: "Colle della Rocca", hu: "Colle della Rocca", ro: "Colle della Rocca", en: "Colle della Rocca" },
-    coordinates: { lat: 43.9485, lng: 12.4685 },
+    coords: [12.4685, 43.9485],
     description: {
       de: "Colle della Rocca ist eine Felsnase im Gebiet von Domagnano. Sie weist markante geologische Strukturen aus Kalkstein auf.",
       hu: "A Colle della Rocca egy sziklás kizögelés Domagnano területén. Feltűnő mészkő geológiai szerkezetekkel rendelkezik.",
@@ -538,7 +550,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "valley",
     parent: "SM",
     name: { de: "Pian di Gualdicciolo", hu: "Pian di Gualdicciolo", ro: "Pian di Gualdicciolo", en: "Pian di Gualdicciolo" },
-    coordinates: { lat: 43.9555, lng: 12.4285 },
+    coords: [12.4285, 43.9555],
     description: {
       de: "Pian di Gualdicciolo ist die flache Sohle des Tals beim Ortsteil Gualdicciolo. Sie bildet eine wichtige Industriezone.",
       hu: "A Pian di Gualdicciolo a Gualdicciolo melletti völgy lapos alja. Fontos ipari övezetet képez.",
@@ -570,7 +582,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Poggio di Acquaviva", hu: "Poggio di Acquaviva", ro: "Poggio di Acquaviva", en: "Poggio di Acquaviva" },
-    coordinates: { lat: 43.9355, lng: 12.4255 },
+    coords: [12.4255, 43.9355],
     description: {
       de: "Poggio di Acquaviva ist ein westlich gelegener Hügel im Gebiet von Acquaviva. Er bietet Ausblicke bis zum Apennin.",
       hu: "A Poggio di Acquaviva egy nyugati domb Acquaviva területén. Kilátást biztosít egészen az Appenninekig.",
@@ -584,13 +596,25 @@ export const sanmarinoReliefV2: POI[] = [
       en: ["Gentle hilltop", "Hiking trail", "Sunny slope", "Western border"],
     },
     imageHint: "view from a western hill",
+    descriptionAdvanced: {
+      de: "Poggio di Acquaviva ist ein Hügel in San Marino, der zur Gemeinde Acquaviva gehört. Er erreicht eine Höhe von 550 Metern. Der Hügel ist landwirtschaftlich genutzt, mit Weinbergen und Olivenhainen. Die Gegend ist für ihren Wein bekannt. Von hier hat man einen schönen Blick auf das Tal.",
+      hu: "Poggio di Acquaviva egy domb San Marinóban, Acquaviva községhez tartozik. Magassága 550 méter. A dombot mezőgazdasági művelés alatt áll, szőlőültetvényekkel és olajfaligetekkel. A vidék híres boráról. Innen szép kilátás nyílik a völgyre.",
+      ro: "Poggio di Acquaviva este un deal în San Marino, aparținând municipiului Acquaviva. Atinge o altitudine de 550 de metri. Dealul este utilizat agricol, cu podgorii și livezi de măslini. Zona este cunoscută pentru vinul său. De aici se deschide o priveliște frumoasă asupra văii.",
+      en: "Poggio di Acquaviva is a hill in San Marino, belonging to the municipality of Acquaviva. It reaches an altitude of 550 meters. The hill is used for agriculture, with vineyards and olive groves. The area is known for its wine. From here, there is a beautiful view of the valley.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 550 Meter über dem Meeresspiegel.", "Die Weinberge bedecken 10 Hektar.", "Die Olivenhaine bedecken 5 Hektar.", "Die jährliche Weinproduktion beträgt 20.000 Liter.", "Es gibt 2 Weingüter.", "Die Hangneigung beträgt 15 Grad."],
+      hu: ["Magasság: 550 méter tengerszint felett.", "A szőlőültetvények 10 hektárt foglalnak el.", "Az olajfaligetek 5 hektáron terülnek el.", "Az éves bortermelés 20.000 liter.", "Két borászat található.", "A lejtő szöge 15 fok."],
+      ro: ["Altitudine: 550 de metri deasupra nivelului mării.", "Podgoriile acoperă 10 hectare.", "Livezile de măslini acoperă 5 hectare.", "Producția anuală de vin este de 20.000 de litri.", "Există 2 crame.", "Panta dealului este de 15 grade."],
+      en: ["Altitude: 550 meters above sea level.", "Vineyards cover 10 hectares.", "Olive groves cover 5 hectares.", "Annual wine production is 20,000 liters.", "There are 2 wineries.", "The slope gradient is 15 degrees."],
+    },
   },
   {
     id: "sanmarino-monte-serravalle-relief-v2",
     type: "mountain",
     parent: "SM",
     name: { de: "Monte Serravalle", hu: "Monte Serravalle", ro: "Monte Serravalle", en: "Monte Serravalle" },
-    coordinates: { lat: 43.9721, lng: 12.4485 },
+    coords: [12.4485, 43.9721],
     description: {
       de: "Monte Serravalle ist eine Erhebung im Norden der gleichnamigen Gemeinde. Die Topographie ist hier hügelig und stark zerschnitten.",
       hu: "A Monte Serravalle egy magaslat az azonos nevű község északi részén. A topográfia itt dombos és erősen szabdalt.",
@@ -622,7 +646,7 @@ export const sanmarinoReliefV2: POI[] = [
     type: "mountain",
     parent: "SM",
     name: { de: "Colle del Faetano", hu: "Colle del Faetano", ro: "Colle del Faetano", en: "Colle del Faetano" },
-    coordinates: { lat: 43.9255, lng: 12.4855 },
+    coords: [12.4855, 43.9255],
     description: {
       de: "Colle del Faetano ist eine markante Erhebung im östlichen Staatsgebiet nahe Faetano. Sie bildet ein natürliches Hindernis.",
       hu: "A Colle del Faetano egy feltűnő magaslat az ország keleti részén, Faetano közelében. Természetes akadályt képez.",
@@ -636,13 +660,25 @@ export const sanmarinoReliefV2: POI[] = [
       en: ["Limestone bedrock", "Agricultural slopes", "Near the border", "Natural barrier"],
     },
     imageHint: "eastern hills near the border",
+    descriptionAdvanced: {
+      de: "Colle del Faetano ist ein Hügel in San Marino mit einer Höhe von 700 Metern. Er ist der zweithöchste Punkt des Landes. Der Hügel ist felsig und mit Macchia bewachsen. Von hier aus hat man eine weite Sicht bis zur Adria. Der Gipfel ist nur zu Fuß erreichbar.",
+      hu: "Colle del Faetano egy domb San Marinóban, magassága 700 méter. Az ország második legmagasabb pontja. A domb sziklás, macchia növényzettel borított. Innen messze ellátni az Adriáig. A csúcs csak gyalog közelíthető meg.",
+      ro: "Colle del Faetano este un deal în San Marino, cu o altitudine de 700 de metri. Este al doilea cel mai înalt punct al țării. Dealul este stâncos și acoperit cu vegetație de maquis. De aici se vede până la Marea Adriatică. Vârful este accesibil doar pe jos.",
+      en: "Colle del Faetano is a hill in San Marino, with an altitude of 700 meters. It is the second highest point in the country. The hill is rocky and covered with maquis vegetation. From here, there is a view all the way to the Adriatic Sea. The summit is only accessible on foot.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 700 Meter über dem Meeresspiegel.", "Es ist der zweithöchste Punkt San Marinos.", "Die Sichtweite beträgt bis zu 80 Kilometer.", "Die Wanderung zum Gipfel dauert 1 Stunde.", "Der Hügel ist 2 Kilometer lang.", "Es gibt keine Straßen zum Gipfel."],
+      hu: ["Magasság: 700 méter tengerszint felett.", "San Marino második legmagasabb pontja.", "A látótávolság eléri a 80 km-t.", "A csúcsra vezető túra 1 órás.", "A domb hossza 2 km.", "Nincs út a csúcshoz."],
+      ro: ["Altitudine: 700 de metri deasupra nivelului mării.", "Este al doilea cel mai înalt punct din San Marino.", "Vizibilitatea este de până la 80 de kilometri.", "Drumeția până la vârf durează 1 oră.", "Dealul are o lungime de 2 kilometri.", "Nu există drumuri către vârf."],
+      en: ["Altitude: 700 meters above sea level.", "It is the second highest point in San Marino.", "Visibility is up to 80 kilometers.", "The hike to the summit takes 1 hour.", "The hill is 2 kilometers long.", "There are no roads to the summit."],
+    },
   },
   {
     id: "sanmarino-pian-di-domagnano-relief-v2",
     type: "valley",
     parent: "SM",
     name: { de: "Pian di Domagnano", hu: "Pian di Domagnano", ro: "Pian di Domagnano", en: "Pian di Domagnano" },
-    coordinates: { lat: 43.9585, lng: 12.4555 },
+    coords: [12.4555, 43.9585],
     description: {
       de: "Pian di Domagnano ist eine landwirtschaftliche Ebene in der Gemeinde Domagnano. Sie liegt eingebettet zwischen Hügelzügen.",
       hu: "A Pian di Domagnano egy mezőgazdasági síkság Domagnano községben. Hegyvonulatok közé ágyazva fekszik.",

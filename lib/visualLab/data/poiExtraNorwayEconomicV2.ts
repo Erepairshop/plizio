@@ -6,7 +6,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Gasanlage Kollsnes", hu: "Kollsnesi gázüzem", ro: "Uzina de gaze Kollsnes", en: "Kollsnes Gas Plant" },
-    coordinates: { lat: 60.523, lng: 4.848 },
+    coords: [4.848, 60.523],
     description: {
       de: "Dies ist ein zentraler Knotenpunkt für die Erdgasverarbeitung in Norwegen. Die Anlage liefert große Mengen Gas an den europäischen Markt.",
       hu: "Ez egy központi csomópont a norvég földgázfeldolgozásban. Az üzem nagy mennyiségű gázt szállít az európai piacra.",
@@ -38,7 +38,7 @@ export const norwayEconomicV2: POI[] = [
     type: "factory",
     parent: "NO",
     name: { de: "Aluminiumwerk Karmøy", hu: "Karmøyi alumíniumkohó", ro: "Uzina de aluminiu Karmøy", en: "Karmøy Aluminium Plant" },
-    coordinates: { lat: 59.261, lng: 5.253 },
+    coords: [5.253, 59.261],
     description: {
       de: "Hydro betreibt hier ein bedeutendes Aluminium-Schmelzwerk. Es ist eines der größten seiner Art in Westnorwegen.",
       hu: "A Hydro jelentős alumíniumkohót üzemeltet itt. Ez az egyik legnagyobb ilyen létesítmény Nyugat-Norvégiában.",
@@ -70,7 +70,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Gewerbepark Orkanger", hu: "Orkangeri ipari park", ro: "Parcul industrial Orkanger", en: "Orkanger Industrial Park" },
-    coordinates: { lat: 63.305, lng: 9.845 },
+    coords: [9.845, 63.305],
     description: {
       de: "Dieser Industriepark ist ein wichtiges regionales Zentrum für Fertigung und Logistik. Er liegt strategisch günstig am Trondheimfjord.",
       hu: "Ez az ipari park fontos regionális központ a gyártás és logisztika számára. Stratégiailag a Trondheim-fjordnál helyezkedik el.",
@@ -102,7 +102,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Industriegebiet Glomfjord", hu: "Glomfjord ipari övezet", ro: "Zona industrială Glomfjord", en: "Glomfjord Industrial Site" },
-    coordinates: { lat: 66.816, lng: 14.038 },
+    coords: [14.038, 66.816],
     description: {
       de: "Der Standort hat eine lange Geschichte der chemischen Produktion. Heute beherbergt er verschiedene technologiebasierte Industrien.",
       hu: "A helyszín hosszú történelemmel rendelkezik a vegyiparban. Ma különféle technológia-alapú iparágaknak ad otthont.",
@@ -134,7 +134,7 @@ export const norwayEconomicV2: POI[] = [
     type: "port",
     parent: "NO",
     name: { de: "Fischereihafen Skjervøy", hu: "Skjervøy halászkikötő", ro: "Portul pescăresc Skjervøy", en: "Skjervøy Fishing Port" },
-    coordinates: { lat: 70.033, lng: 20.975 },
+    coords: [20.975, 70.033],
     description: {
       de: "Skjervøy ist ein bedeutender Stützpunkt für die Fischereiflotte im Norden. Die Verarbeitung von Meeresfrüchten ist hier zentral.",
       hu: "Skjervøy jelentős bázis az északi halászflotta számára. A tenger gyümölcseinek feldolgozása itt központi jelentőségű.",
@@ -166,7 +166,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Lachsfarm Hitra", hu: "Hitrai lazacfarm", ro: "Ferma de somon Hitra", en: "Hitra Salmon Farm" },
-    coordinates: { lat: 63.601, lng: 8.784 },
+    coords: [8.784, 63.601],
     description: {
       de: "Die Insel Hitra ist ein führendes Gebiet für die Aquakultur. Hier werden große Mengen an Lachs für den weltweiten Export gezüchtet.",
       hu: "Hitra szigete az akvakultúra vezető területe. Itt nagy mennyiségű lazacot tenyésztenek a világpiaci exportra.",
@@ -198,7 +198,7 @@ export const norwayEconomicV2: POI[] = [
     type: "port",
     parent: "NO",
     name: { de: "Hafenterminal Narvik", hu: "Narviki kikötői terminál", ro: "Terminalul portuar Narvik", en: "Narvik Port Terminal" },
-    coordinates: { lat: 68.435, lng: 17.436 },
+    coords: [17.436, 68.435],
     description: {
       de: "Dieser Hafen ist entscheidend für den Export von Eisenerz aus Schweden. Er bietet ganzjährig eisfreie Bedingungen.",
       hu: "Ez a kikötő döntő fontosságú a svédországi vasérc exportja szempontjából. Egész évben jégmentes körülményeket biztosít.",
@@ -230,7 +230,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Industriecluster Molde", hu: "Moldei ipari klaszter", ro: "Clusterul industrial Molde", en: "Molde Industrial Cluster" },
-    coordinates: { lat: 62.738, lng: 7.159 },
+    coords: [7.159, 62.738],
     description: {
       de: "In Molde konzentrieren sich verschiedene Unternehmen im Bereich der maritimen Technologie. Dies ist eine wirtschaftliche Stütze der Region.",
       hu: "Moldeban a tengerészeti technológia területén működő vállalatok koncentrálódnak. Ez a régió gazdasági pillére.",
@@ -262,7 +262,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Gewerbepark Kongsvinger", hu: "Kongsvingeri üzleti park", ro: "Parcul de afaceri Kongsvinger", en: "Kongsvinger Business Park" },
-    coordinates: { lat: 60.198, lng: 12.028 },
+    coords: [12.028, 60.198],
     description: {
       de: "Dieser Park beherbergt eine Vielzahl von Fertigungsunternehmen. Er dient als wichtiges logistisches Drehkreuz nahe der schwedischen Grenze.",
       hu: "Ez a park számos gyártóvállalatnak ad otthont. Fontos logisztikai csomópontként szolgál a svéd határ közelében.",
@@ -294,7 +294,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Maritime Industrie Stord", hu: "Stordi tengerészeti ipar", ro: "Industria maritimă Stord", en: "Stord Maritime Industry" },
-    coordinates: { lat: 59.782, lng: 5.485 },
+    coords: [5.485, 59.782],
     description: {
       de: "Die Werften auf Stord sind für den Bau und die Wartung von Offshore-Plattformen bekannt. Dies ist ein Eckpfeiler der norwegischen Energieindustrie.",
       hu: "A Stord hajógyárai ismertek az offshore platformok építéséről és karbantartásáról. Ez a norvég energiaipar egyik sarokköve.",
@@ -326,7 +326,7 @@ export const norwayEconomicV2: POI[] = [
     type: "factory",
     parent: "NO",
     name: { de: "Aluminiumwerk Sunndalsøra", hu: "Sunndalsørai alumíniumkohó", ro: "Uzina de aluminiu Sunndalsøra", en: "Sunndalsøra Aluminium Plant" },
-    coordinates: { lat: 62.681, lng: 8.563 },
+    coords: [8.563, 62.681],
     description: {
       de: "Dies ist eines der größten Aluminiumwerke Europas. Es nutzt die verfügbare Wasserkraft für die energieintensive Produktion.",
       hu: "Ez Európa egyik legnagyobb alumíniumkohója. A rendelkezésre álló vízenergiát használja az energiaigényes gyártáshoz.",
@@ -358,7 +358,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Industriegebiet Fredrikstad", hu: "Fredrikstadi ipari zóna", ro: "Zona industrială Fredrikstad", en: "Fredrikstad Industrial Zone" },
-    coordinates: { lat: 59.214, lng: 10.963 },
+    coords: [10.963, 59.214],
     description: {
       de: "Fredrikstad hat eine lange Industrietradition, die heute durch moderne Logistik- und Fertigungsunternehmen ergänzt wird.",
       hu: "Fredrikstad hosszú ipari hagyományokkal rendelkezik, amelyet ma modern logisztikai és gyártóvállalatok egészítenek ki.",
@@ -390,7 +390,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Industriepark Mosjøen", hu: "Mosjøeni ipari park", ro: "Parcul industrial Mosjøen", en: "Mosjøen Industrial Park" },
-    coordinates: { lat: 65.836, lng: 13.195 },
+    coords: [13.195, 65.836],
     description: {
       de: "Dieser Industriepark profitiert von der direkten Anbindung an das Wasserkraftnetz. Er beherbergt energieintensive Industriebetriebe.",
       hu: "Ez az ipari park közvetlen hozzáférést élvez a vízenergia-hálózathoz. Energiaigényes ipari üzemeknek ad otthont.",
@@ -422,7 +422,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Logistikzentrum Moss", hu: "Moss-i logisztikai központ", ro: "Hub logistic Moss", en: "Moss Logistics Hub" },
-    coordinates: { lat: 59.431, lng: 10.654 },
+    coords: [10.654, 59.431],
     description: {
       de: "Aufgrund seiner zentralen Lage bei Oslo ist Moss ein bedeutender Logistik-Standort für den Warenverkehr im Süden.",
       hu: "Központi fekvése miatt Oslo közelében, Moss fontos logisztikai helyszín az áruforgalom számára a déli régióban.",
@@ -454,7 +454,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Industriegebiet Skien", hu: "Skieni ipari övezet", ro: "Zona industrială Skien", en: "Skien Industrial Site" },
-    coordinates: { lat: 59.205, lng: 9.605 },
+    coords: [9.605, 59.205],
     description: {
       de: "Skien hat eine starke Basis an Fertigungs- und Verarbeitungsbetrieben. Es ist ein traditionsreicher Standort für die regionale Industrie.",
       hu: "Skien erős gyártó- és feldolgozóipari bázissal rendelkezik. Hagyományokban gazdag helyszín a regionális ipar számára.",
@@ -486,7 +486,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Industriecluster Notodden", hu: "Notoddeni ipari klaszter", ro: "Clusterul industrial Notodden", en: "Notodden Industrial Cluster" },
-    coordinates: { lat: 59.563, lng: 9.255 },
+    coords: [9.255, 59.563],
     description: {
       de: "Der Ort war historisch bedeutend für die chemische Industrie. Heute gibt es hier Unternehmen für Technologie und Maschinenbau.",
       hu: "A település történelmileg jelentős volt a vegyipar számára. Ma technológiai és gépgyártó vállalatok találhatók itt.",
@@ -518,7 +518,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Gasterminal Hammerfest", hu: "Hammerfesti gázterminál", ro: "Terminalul de gaze Hammerfest", en: "Hammerfest Gas Terminal" },
-    coordinates: { lat: 70.662, lng: 23.682 },
+    coords: [23.682, 70.662],
     description: {
       de: "Dieses Terminal verarbeitet Erdgas aus der Barentssee. Es ist eine der nördlichsten Anlagen dieser Art weltweit.",
       hu: "Ez a terminál a Barents-tengerből származó földgázt dolgozza fel. Ez az egyik legészakibb ilyen létesítmény világszerte.",
@@ -550,7 +550,7 @@ export const norwayEconomicV2: POI[] = [
     type: "factory",
     parent: "NO",
     name: { de: "Zementwerk Brevik", hu: "Breviki cementgyár", ro: "Fabrica de ciment Brevik", en: "Brevik Cement Plant" },
-    coordinates: { lat: 59.052, lng: 9.697 },
+    coords: [9.697, 59.052],
     description: {
       de: "Brevik ist der Standort eines der größten Zementwerke Norwegens. Es spielt eine wichtige Rolle in der heimischen Bauwirtschaft.",
       hu: "Brevik Norvégia egyik legnagyobb cementgyárának otthona. Fontos szerepet játszik a hazai építőiparban.",
@@ -582,7 +582,7 @@ export const norwayEconomicV2: POI[] = [
     type: "port",
     parent: "NO",
     name: { de: "Hafen Karmsund", hu: "Karmsund-kikötő", ro: "Portul Karmsund", en: "Karmsund Port" },
-    coordinates: { lat: 59.395, lng: 5.267 },
+    coords: [5.267, 59.395],
     description: {
       de: "Dieser Hafen ist ein wichtiger Knotenpunkt für den Güterverkehr an der norwegischen Westküste. Er bedient bedeutende Industrieregionen.",
       hu: "Ez a kikötő fontos csomópont a teherforgalom számára a norvég nyugati parton. Jelentős ipari régiókat szolgál ki.",
@@ -614,7 +614,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Industriezentrum Finnsnes", hu: "Finnsnesi ipari központ", ro: "Centrul industrial Finnsnes", en: "Finnsnes Industry Hub" },
-    coordinates: { lat: 69.231, lng: 17.981 },
+    coords: [17.981, 69.231],
     description: {
       de: "Finnsnes dient als regionales Handels- und Industriezentrum auf der Insel Senja. Es unterstützt die lokale Wirtschaft durch Dienstleistungen.",
       hu: "Finnsnes regionális kereskedelmi és ipari központként szolgál Senja szigetén. Szolgáltatásokkal támogatja a helyi gazdaságot.",
@@ -646,7 +646,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Logistikzentrum Narvik", hu: "Narviki logisztikai központ", ro: "Centrul logistic Narvik", en: "Narvik Logistics Center" },
-    coordinates: { lat: 68.441, lng: 17.421 },
+    coords: [17.421, 68.441],
     description: {
       de: "Neben dem Erzhafen ist Narvik ein wichtiger Umschlagplatz für allgemeinen Güterverkehr. Die Lage ermöglicht effiziente Transportwege nach Norden.",
       hu: "Az ércikikötő mellett Narvik fontos átrakodóhely az általános teherforgalom számára. A fekvés hatékony szállítási útvonalakat tesz lehetővé észak felé.",
@@ -678,7 +678,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Industriegebiet Odda", hu: "Oddai ipari terület", ro: "Zona industrială Odda", en: "Odda Industrial Site" },
-    coordinates: { lat: 60.068, lng: 6.543 },
+    coords: [6.543, 60.068],
     description: {
       de: "Odda hat eine bedeutende Industriegeschichte im Bereich der Metallverarbeitung. Ehemalige Fabrikgelände prägen das Stadtbild.",
       hu: "Odda jelentős ipari történelemmel rendelkezik a fémfeldolgozás terén. A korábbi gyárterületek meghatározzák a városképet.",
@@ -710,7 +710,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Technologiepark Trondheim", hu: "Trondheimi technológiai park", ro: "Parcul tehnologic Trondheim", en: "Trondheim Tech Park" },
-    coordinates: { lat: 63.415, lng: 10.405 },
+    coords: [10.405, 63.415],
     description: {
       de: "Dieses Zentrum ist eng mit der technologischen Forschung verknüpft. Es fördert Start-ups und innovative Technologieunternehmen.",
       hu: "Ez a központ szorosan kapcsolódik a technológiai kutatáshoz. Támogatja a start-upokat és az innovatív technológiai vállalatokat.",
@@ -742,7 +742,7 @@ export const norwayEconomicV2: POI[] = [
     type: "industry",
     parent: "NO",
     name: { de: "Industriezentrum Elverum", hu: "Elverumi ipari központ", ro: "Centrul industrial Elverum", en: "Elverum Industry Hub" },
-    coordinates: { lat: 60.881, lng: 11.564 },
+    coords: [11.564, 60.881],
     description: {
       de: "Elverum liegt strategisch in einer waldreichen Region. Die Holzverarbeitungsindustrie spielt hier eine zentrale wirtschaftliche Rolle.",
       hu: "Elverum stratégiailag egy erdős régióban fekszik. A faipar itt központi gazdasági szerepet játszik.",
@@ -774,7 +774,7 @@ export const norwayEconomicV2: POI[] = [
     type: "factory",
     parent: "NO",
     name: { de: "Schmelzhütte Sauda", hu: "Saudai olvasztóüzem", ro: "Topitoria Sauda", en: "Sauda Smelter" },
-    coordinates: { lat: 59.652, lng: 6.356 },
+    coords: [6.356, 59.652],
     description: {
       de: "Sauda ist seit langem bekannt für seine Metallschmelze. Die Produktion ist tief in der Industriegeschichte der Region verwurzelt.",
       hu: "Sauda régóta ismert fémolvasztójáról. A termelés mélyen gyökerezik a régió ipartörténetében.",

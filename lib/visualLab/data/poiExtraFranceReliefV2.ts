@@ -6,7 +6,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Zentralmassiv", hu: "Francia-középhegység", ro: "Masivul Central", en: "Massif Central" },
-    coordinates: { lat: 45.0, lng: 3.0 },
+    coords: [3.0, 45.0],
     description: {
       de: "Das Zentralmassiv ist ein großes Hochland im Süden Frankreichs, das von erloschenen Vulkanen geprägt ist. Es bedeckt etwa 15 Prozent des Landes.",
       hu: "A Francia-középhegység egy nagy felföld Franciaország déli részén, amelyet kialudt vulkánok jellemeznek. Az ország területének mintegy 15 százalékát fedi le.",
@@ -38,7 +38,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Puy de Dôme", hu: "Puy de Dôme", ro: "Puy de Dôme", en: "Puy de Dôme" },
-    coordinates: { lat: 45.7725, lng: 2.9658 },
+    coords: [2.9658, 45.7725],
     description: {
       de: "Dieser Lavadom ist der höchste Vulkan der Chaîne des Puys in der Auvergne. Er ist ein bekanntes Ziel für Touristen und wissenschaftliche Beobachtungen.",
       hu: "Ez a lávadóm az auvergne-i Chaîne des Puys legmagasabb vulkánja. Népszerű turisztikai célpont és tudományos megfigyelőhely.",
@@ -70,7 +70,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Grand Colombier", hu: "Grand Colombier", ro: "Grand Colombier", en: "Grand Colombier" },
-    coordinates: { lat: 45.9031, lng: 5.7958 },
+    coords: [5.7958, 45.9031],
     description: {
       de: "Der Grand Colombier ist der höchste Berg im Jura-Gebirge an der Grenze zum Bugey. Er bietet bei klarem Wetter eine Sicht bis zum Mont Blanc.",
       hu: "A Grand Colombier a Jura-hegység legmagasabb pontja a Bugey régió határán. Tiszta időben a Mont Blanc-ig terjedő kilátást nyújt.",
@@ -102,7 +102,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Plateau de Millevaches", hu: "Plateau de Millevaches", ro: "Plateau de Millevaches", en: "Plateau de Millevaches" },
-    coordinates: { lat: 45.65, lng: 2.1 },
+    coords: [2.1, 45.65],
     description: {
       de: "Dieses Granithochland liegt im nördlichen Zentralmassiv. Die Landschaft ist durch Heidekraut, Moorgebiete und weitläufige Wälder gekennzeichnet.",
       hu: "Ez a gránit fennsík a Francia-középhegység északi részén található. A tájat hanga, lápok és kiterjedt erdők jellemzik.",
@@ -134,7 +134,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Ventoux", hu: "Mont Ventoux", ro: "Mont Ventoux", en: "Mont Ventoux" },
-    coordinates: { lat: 44.1733, lng: 5.2789 },
+    coords: [5.2789, 44.1733],
     description: {
       de: "Dieser isolierte Berg in der Provence ist für seine kahle Gipfelregion bekannt. Er wird oft als Riese der Provence bezeichnet.",
       hu: "Ez az elszigetelt hegy Provence-ban kopár csúcsrégiójáról ismert. Gyakran Provence óriásaként emlegetik.",
@@ -166,7 +166,7 @@ export const franceReliefV2: POI[] = [
     type: "valley",
     parent: "FR",
     name: { de: "Loire-Tal", hu: "Loire-völgy", ro: "Valea Loarei", en: "Loire Valley" },
-    coordinates: { lat: 47.3833, lng: 0.6833 },
+    coords: [0.6833, 47.3833],
     description: {
       de: "Das Loire-Tal ist eine weite, flache Schwemmebene, die durch den längsten Fluss Frankreichs geformt wurde. Es ist für seine fruchtbaren Böden bekannt.",
       hu: "A Loire-völgy egy széles, sík hordalékkúp, amelyet Franciaország leghosszabb folyója formált. Termékeny talajáról ismert.",
@@ -198,7 +198,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Massif des Maures", hu: "Massif des Maures", ro: "Massif des Maures", en: "Massif des Maures" },
-    coordinates: { lat: 43.25, lng: 6.3333 },
+    coords: [6.3333, 43.25],
     description: {
       de: "Dieses niedrige Gebirge besteht hauptsächlich aus kristallinem Gestein. Es liegt im Département Var und ist mit dichten Wäldern bedeckt.",
       hu: "Ez az alacsony hegység főleg kristályos kőzetekből áll. Var megyében található és sűrű erdők borítják.",
@@ -230,7 +230,7 @@ export const franceReliefV2: POI[] = [
     type: "peak",
     parent: "FR",
     name: { de: "Mont Garbi", hu: "Mont Garbi", ro: "Mont Garbi", en: "Mont Garbi" },
-    coordinates: { lat: 43.1, lng: -0.25 },
+    coords: [-0.25, 43.1],
     description: {
       de: "Der Mont Garbi ist ein markanter Hügel in den Vorpyrenäen. Er bietet eine gute Übersicht über die angrenzende Ebene von Pau.",
       hu: "A Mont Garbi egy jellegzetes domb a Pireneusok előterében. Jó rálátást biztosít a szomszédos Paui-síkságra.",
@@ -262,7 +262,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Plateau von Langres", hu: "Langres-fennsík", ro: "Platoul Langres", en: "Plateau of Langres" },
-    coordinates: { lat: 47.85, lng: 5.3333 },
+    coords: [5.3333, 47.85],
     description: {
       de: "Diese Kalkstein-Hochebene liegt im Nordosten Frankreichs. Sie bildet die Wasserscheide zwischen den Einzugsgebieten von Seine, Saône und Maas.",
       hu: "Ez a mészkő fennsík Franciaország északkeleti részén található. A Szajna, a Saône és a Meuse vízgyűjtő területei közötti vízválasztót alkotja.",
@@ -294,7 +294,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Mont d'Or", hu: "Mont d'Or", ro: "Mont d'Or", en: "Mont d'Or" },
-    coordinates: { lat: 46.72, lng: 6.36 },
+    coords: [6.36, 46.72],
     description: {
       de: "Dieser Gipfel im französischen Jura liegt direkt an der Grenze zur Schweiz. Er ist für seine markante Felswand bekannt.",
       hu: "Ez a csúcs a francia Jura-hegységben közvetlenül a svájci határon fekszik. Jellegzetes sziklafaláról ismert.",
@@ -326,7 +326,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Causses", hu: "Causses", ro: "Causses", en: "Causses" },
-    coordinates: { lat: 44.3, lng: 3.3 },
+    coords: [3.3, 44.3],
     description: {
       de: "Die Causses sind eine Reihe von trockenen Kalksteinhochebenen im südlichen Zentralmassiv. Sie sind von tiefen Canyons durchschnitten.",
       hu: "A Causses-fennsíkok száraz mészkőfennsíkok sorozata a Francia-középhegység déli részén. Mély kanyonok szabdalják őket.",
@@ -358,7 +358,7 @@ export const franceReliefV2: POI[] = [
     type: "peak",
     parent: "FR",
     name: { de: "Puy de Sancy", hu: "Puy de Sancy", ro: "Puy de Sancy", en: "Puy de Sancy" },
-    coordinates: { lat: 45.5283, lng: 2.8139 },
+    coords: [2.8139, 45.5283],
     description: {
       de: "Der Puy de Sancy ist der höchste Gipfel im Zentralmassiv. Er ist der Überrest eines großen, erloschenen Schichtvulkans.",
       hu: "A Puy de Sancy a Francia-középhegység legmagasabb csúcsa. Egy nagy, kialudt rétegvulkán maradványa.",
@@ -390,7 +390,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Ventoux-Massiv", hu: "Ventoux-hegység", ro: "Masivul Ventoux", en: "Ventoux Massif" },
-    coordinates: { lat: 44.17, lng: 5.27 },
+    coords: [5.27, 44.17],
     description: {
       de: "Dieses Bergmassiv bildet einen markanten Übergang zwischen den Alpen und dem Rhonetal. Es ist für seine ökologische Vielfalt bekannt.",
       hu: "Ez a hegység jellegzetes átmenetet képez az Alpok és a Rhône-völgy között. Ökológiai sokszínűségéről ismert.",
@@ -422,7 +422,7 @@ export const franceReliefV2: POI[] = [
     type: "valley",
     parent: "FR",
     name: { de: "Saône-Ebene", hu: "Saône-síkság", ro: "Câmpia Saônei", en: "Saône Plain" },
-    coordinates: { lat: 47.0, lng: 5.1667 },
+    coords: [5.1667, 47.0],
     description: {
       de: "Diese weite Ebene im Osten Frankreichs verläuft parallel zum Saône-Fluss. Sie ist ein wichtiger landwirtschaftlicher Raum zwischen Jura und Vogesen.",
       hu: "Ez a széles síkság Franciaország keleti részén a Saône folyóval párhuzamosan fut. Fontos mezőgazdasági terület a Jura és a Vogézek között.",
@@ -454,7 +454,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Chartreuse-Massiv", hu: "Chartreuse-hegység", ro: "Masivul Chartreuse", en: "Chartreuse Massif" },
-    coordinates: { lat: 45.3667, lng: 5.8 },
+    coords: [5.8, 45.3667],
     description: {
       de: "Ein präalpines Gebirge in der Nähe von Grenoble. Es zeichnet sich durch steile Kalksteinfelsen und dichte Tannenwälder aus.",
       hu: "Egy alpi előhegység Grenoble közelében. Meredek mészkősziklák és sűrű fenyőerdők jellemzik.",
@@ -486,7 +486,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Monts Dore", hu: "Monts Dore", ro: "Monts Dore", en: "Monts Dore" },
-    coordinates: { lat: 45.56, lng: 2.76 },
+    coords: [2.76, 45.56],
     description: {
       de: "Ein Bergmassiv im Zentralmassiv, das aus vulkanischen Gipfeln besteht. Es beherbergt den höchsten Punkt der Region Auvergne.",
       hu: "A Francia-középhegység része, amely vulkanikus csúcsokból áll. Itt található Auvergne régió legmagasabb pontja.",
@@ -518,7 +518,7 @@ export const franceReliefV2: POI[] = [
     type: "valley",
     parent: "FR",
     name: { de: "Elsässische Ebene", hu: "Elzászi-síkság", ro: "Câmpia Alsaciei", en: "Alsatian Plain" },
-    coordinates: { lat: 48.3, lng: 7.5 },
+    coords: [7.5, 48.3],
     description: {
       de: "Diese fruchtbare Ebene liegt zwischen dem Rheingraben und den Vogesen. Sie ist eines der wichtigsten Weinbaugebiete Frankreichs.",
       hu: "Ez a termékeny síkság a Rajna-árok és a Vogézek között fekszik. Franciaország egyik legfontosabb borvidéke.",
@@ -550,7 +550,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Caroux", hu: "Mont Caroux", ro: "Mont Caroux", en: "Mont Caroux" },
-    coordinates: { lat: 43.58, lng: 2.96 },
+    coords: [2.96, 43.58],
     description: {
       de: "Ein Bergmassiv in den südlichen Ausläufern des Zentralmassivs. Es ist bekannt für seine steilen Granitwände und Schluchten.",
       hu: "Hegység a Francia-középhegység déli előterében. Meredek gránitfalairól és szurdokairól ismert.",
@@ -582,7 +582,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Jura", hu: "Jura", ro: "Jura", en: "Jura Mountains" },
-    coordinates: { lat: 46.5, lng: 6.0 },
+    coords: [6.0, 46.5],
     description: {
       de: "Das Jura-Gebirge bildet eine natürliche Grenze zwischen Frankreich und der Schweiz. Es besteht primär aus gefaltetem Kalkstein.",
       hu: "A Jura-hegység természetes határt alkot Franciaország és Svájc között. Elsődlegesen gyűrt mészkőből áll.",
@@ -614,7 +614,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Massif de la Sainte-Baume", hu: "Massif de la Sainte-Baume", ro: "Masivul Sainte-Baume", en: "Sainte-Baume Massif" },
-    coordinates: { lat: 43.33, lng: 5.75 },
+    coords: [5.75, 43.33],
     description: {
       de: "Ein markanter Kalksteinrücken in der Provence. Bekannt für seine steile Nordseite und die heilige Grotte in der Felswand.",
       hu: "Jellegzetes mészkővonulat Provence-ban. Ismert meredek északi oldaláról és a sziklafalban lévő szent barlangjáról.",
@@ -646,7 +646,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Larzac", hu: "Larzac", ro: "Larzac", en: "Larzac" },
-    coordinates: { lat: 43.91, lng: 3.16 },
+    coords: [3.16, 43.91],
     description: {
       de: "Eine trockene Kalksteinhochebene im Süden Frankreichs. Sie ist geprägt von karger Vegetation und historischer Schafzucht.",
       hu: "Száraz mészkőfennsík Franciaország déli részén. Kopár növényzet és történelmi juhászat jellemzi.",
@@ -678,7 +678,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Saint-Baudille", hu: "Mont Saint-Baudille", ro: "Mont Saint-Baudille", en: "Mont Saint-Baudille" },
-    coordinates: { lat: 43.72, lng: 3.48 },
+    coords: [3.48, 43.72],
     description: {
       de: "Ein isolierter Bergkamm in der Nähe von Lodève. Er dient als Orientierungspunkt für das umgebende Hügelland des Languedoc.",
       hu: "Elszigetelt hegygerinc Lodève közelében. Tájékozódási pontként szolgál a környező languedoci dombvidéken.",
@@ -710,7 +710,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Plateau de Beille", hu: "Plateau de Beille", ro: "Plateau de Beille", en: "Plateau de Beille" },
-    coordinates: { lat: 42.72, lng: 1.63 },
+    coords: [1.63, 42.72],
     description: {
       de: "Ein Hochplateau in den Pyrenäen. Es wird im Winter als Skigebiet und im Sommer für Wandertouren genutzt.",
       hu: "Magasfennsík a Pireneusokban. Télen síközpontként, nyáron túrázóhelyként használják.",
@@ -742,7 +742,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Col du Galibier", hu: "Col du Galibier", ro: "Col du Galibier", en: "Col du Galibier" },
-    coordinates: { lat: 45.06, lng: 6.4 },
+    coords: [6.4, 45.06],
     description: {
       de: "Ein berühmter Gebirgspass in den französischen Alpen. Er liegt an einer der anspruchsvollsten Strecken der Tour de France.",
       hu: "Híres hegyi hágó a francia Alpokban. A Tour de France egyik legigényesebb szakaszán fekszik.",
@@ -774,7 +774,7 @@ export const franceReliefV2: POI[] = [
     type: "peak",
     parent: "FR",
     name: { de: "Mont Joly", hu: "Mont Joly", ro: "Mont Joly", en: "Mont Joly" },
-    coordinates: { lat: 45.83, lng: 6.7 },
+    coords: [6.7, 45.83],
     description: {
       de: "Ein Gipfel in den Savoyer Alpen mit hervorragendem Blick auf das Mont-Blanc-Massiv. Er ist ein bekanntes Ziel für Skifahrer und Wanderer.",
       hu: "Csúcs a Savoyai-Alpokban, kiváló kilátással a Mont Blanc-hegységre. Ismert célpont síelők és túrázók számára.",
@@ -806,7 +806,7 @@ export const franceReliefV2: POI[] = [
     type: "valley",
     parent: "FR",
     name: { de: "Ardèche-Schlucht", hu: "Ardèche-szurdok", ro: "Cheile Ardèche", en: "Ardeche Gorge" },
-    coordinates: { lat: 44.38, lng: 4.41 },
+    coords: [4.41, 44.38],
     description: {
       de: "Eine beeindruckende Schlucht, die durch den Fluss Ardèche in Kalkstein geschnitten wurde. Sie ist bekannt für ihre natürlichen Bögen.",
       hu: "Lenyűgöző szurdok, amelyet az Ardèche folyó vágott a mészkőbe. Természetes íveiről ismert.",
@@ -838,7 +838,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Mézenc", hu: "Mont Mézenc", ro: "Mont Mézenc", en: "Mont Mezenc" },
-    coordinates: { lat: 44.83, lng: 4.2 },
+    coords: [4.2, 44.83],
     description: {
       de: "Der höchste Berg im Departement Ardèche und ein Gipfel im Zentralmassiv. Er ist vulkanischen Ursprungs und gut erreichbar.",
       hu: "Ardèche megye legmagasabb hegye és egy csúcs a Francia-középhegységben. Vulkáni eredetű és könnyen megközelíthető.",
@@ -870,7 +870,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Millevaches-Fennsík", hu: "Millevaches-fennsík", ro: "Platoul Millevaches", en: "Millevaches Plateau" },
-    coordinates: { lat: 45.68, lng: 2.1 },
+    coords: [2.1, 45.68],
     description: {
       de: "Dieses Hochland im Limousin ist reich an Wasserquellen und bietet eine ruhige, waldreiche Landschaft. Es ist ein Regionalpark.",
       hu: "Ez a Limousin-beli fennsík bővelkedik vízforrásokban és csendes, erdős tájat kínál. Regionális park.",
@@ -902,7 +902,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Gervanne", hu: "Mont Gervanne", ro: "Mont Gervanne", en: "Mont Gervanne" },
-    coordinates: { lat: 44.75, lng: 5.16 },
+    coords: [5.16, 44.75],
     description: {
       de: "Ein Bergzug in der Drôme-Region. Die Umgebung ist geprägt durch Hügellandschaften und den Zusammenfluss lokaler Flüsse.",
       hu: "Hegyvonulat a Drôme régióban. A környéket dombos tájak és helyi folyók összefolyása jellemzi.",
@@ -934,7 +934,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Aiguille", hu: "Mont Aiguille", ro: "Mont Aiguille", en: "Mont Aiguille" },
-    coordinates: { lat: 44.84, lng: 5.56 },
+    coords: [5.56, 44.84],
     description: {
       de: "Ein spektakulärer, isolierter Berg im Vercors-Massiv. Er ist bekannt für seine fast senkrechten Felswände.",
       hu: "Látványos, elszigetelt hegy a Vercors-hegységben. Szinte függőleges sziklafalairól ismert.",
@@ -966,7 +966,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Esterel-Massiv", hu: "Esterel-hegység", ro: "Masivul Esterel", en: "Esterel Massif" },
-    coordinates: { lat: 43.48, lng: 6.85 },
+    coords: [6.85, 43.48],
     description: {
       de: "Dieses vulkanische Gebirge an der Côte d'Azur zeichnet sich durch rötliches Gestein und den Kontrast zum blauen Mittelmeer aus.",
       hu: "Ez a vulkanikus hegység a Côte d'Azur-on vöröses kőzeteivel és a kék Földközi-tengerrel való kontrasztjával tűnik ki.",
@@ -998,7 +998,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Gervanne-Hochebene", hu: "Gervanne-fennsík", ro: "Platoul Gervanne", en: "Gervanne Plateau" },
-    coordinates: { lat: 44.78, lng: 5.1 },
+    coords: [5.1, 44.78],
     description: {
       de: "Eine Hochebene im Voralpengebiet der Drôme. Die Gegend ist bekannt für ihre ländliche Ruhe und terrassierte Felder.",
       hu: "Fennsík a Drôme-vidéki előalpi területen. A környék vidéki csendjéről és teraszos földjeiről ismert.",
@@ -1030,7 +1030,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Lure", hu: "Mont Lure", ro: "Mont Lure", en: "Mont Lure" },
-    coordinates: { lat: 44.1, lng: 5.7 },
+    coords: [5.7, 44.1],
     description: {
       de: "Ein langgestreckter Bergkamm in der Provence, oft als kleiner Bruder des Mont Ventoux bezeichnet. Er ist weitgehend bewaldet.",
       hu: "Hosszú hegygerinc Provence-ban, gyakran a Mont Ventoux kistestvéreként emlegetik. Nagyrészt erdős.",
@@ -1062,7 +1062,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Col de l'Iseran", hu: "Col de l'Iseran", ro: "Col de l'Iseran", en: "Col de l'Iseran" },
-    coordinates: { lat: 45.43, lng: 7.0 },
+    coords: [7.0, 45.43],
     description: {
       de: "Der höchste befahrbare Gebirgspass in den Alpen. Er liegt in der Nähe von Val d'Isère und bietet ein beeindruckendes Hochgebirgspanorama.",
       hu: "A legmagasabb autózható hegyi hágó az Alpokban. Val d'Isère közelében fekszik és lenyűgöző magashegyi panorámát kínál.",
@@ -1094,7 +1094,7 @@ export const franceReliefV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Mont Paradis", hu: "Mont Paradis", ro: "Mont Paradis", en: "Mont Paradis" },
-    coordinates: { lat: 44.45, lng: 5.4 },
+    coords: [5.4, 44.45],
     description: {
       de: "Ein Bergzug in den Voralpen der Region Drôme. Die Landschaft ist durch sanfte Hänge und dichte Laubwälder geprägt.",
       hu: "Hegyvonulat a Drôme-vidéki előalpokban. A tájat lankás dombok és sűrű lombhullató erdők jellemzik.",

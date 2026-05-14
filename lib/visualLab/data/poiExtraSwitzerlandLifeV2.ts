@@ -6,7 +6,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Schweizer Nationalpark", hu: "Svájci Nemzeti Park", ro: "Parcul Național Elvețian", en: "Swiss National Park" },
-    coordinates: { lat: 46.6667, lng: 10.1667 },
+    coords: [10.1667, 46.6667],
     description: {
       de: "Der Schweizer Nationalpark ist das älteste Schutzgebiet der Alpen. Er umfasst eine Fläche von etwa 170 Quadratkilometern im Kanton Graubünden.",
       hu: "A Svájci Nemzeti Park az Alpok legrégebbi természetvédelmi területe. Körülbelül 170 négyzetkilométeres területet foglal el Graubünden kantonban.",
@@ -38,7 +38,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "CH",
     name: { de: "Papiliorama Kerzers", hu: "Kerzersi Papiliorama", ro: "Papiliorama Kerzers", en: "Papiliorama Kerzers" },
-    coordinates: { lat: 46.9753, lng: 7.1956 },
+    coords: [7.1956, 46.9753],
     description: {
       de: "Das Papiliorama in Kerzers ist ein zoologischer Garten mit Fokus auf Schmetterlinge und tropische Flora. Es beherbergt mehrere Kuppeln mit unterschiedlichen Ökosystemen.",
       hu: "A kerzersi Papiliorama egy állatkert, amely a pillangókra és a trópusi növényvilágra összpontosít. Különböző ökoszisztémákat bemutató kupoláknak ad otthont.",
@@ -70,7 +70,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Botanischer Garten Bern", hu: "Berni Botanikus Kert", ro: "Grădina Botanică Berna", en: "Botanical Garden of Bern" },
-    coordinates: { lat: 46.9535, lng: 7.4475 },
+    coords: [7.4475, 46.9535],
     description: {
       de: "Der Botanische Garten der Universität Bern dient der wissenschaftlichen Forschung und Bildung. Er beherbergt über 6000 Pflanzenarten in verschiedenen Schaugewächshäusern.",
       hu: "A Berni Egyetem Botanikus Kertje tudományos kutatási és oktatási célokat szolgál. Több mint 6000 növényfajnak ad otthont különböző bemutató üvegházakban.",
@@ -102,7 +102,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "CH",
     name: { de: "Zoo Zürich", hu: "Zürichi Állatkert", ro: "Grădina Zoologică Zürich", en: "Zurich Zoo" },
-    coordinates: { lat: 47.3872, lng: 8.5772 },
+    coords: [8.5772, 47.3872],
     description: {
       de: "Der Zoo Zürich liegt am Zürichberg und beherbergt rund 4000 Tiere in naturnahen Gehegen. Bekannt ist er für die Masoala-Halle.",
       hu: "A Zürichi Állatkert a Zürichberg-en található, és mintegy 4000 állatnak ad otthont természetközeli kifutókban. Híres a Masoala-csarnokáról.",
@@ -134,7 +134,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "CH",
     name: { de: "Zoo de la Garenne", hu: "La Garenne Állatkert", ro: "Grădina Zoologică La Garenne", en: "La Garenne Zoo" },
-    coordinates: { lat: 46.4258, lng: 6.2797 },
+    coords: [6.2797, 46.4258],
     description: {
       de: "Der Zoo de la Garenne befindet sich im Kanton Waadt und ist auf europäische Fauna spezialisiert. Er betreibt eine Station für verletzte Wildtiere.",
       hu: "A La Garenne Állatkert Vaud kantonban található, és az európai faunára specializálódott. Sérült vadállatok számára fenntartott állomásként is működik.",
@@ -166,7 +166,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Botanischer Garten Basel", hu: "Bázeli Botanikus Kert", ro: "Grădina Botanică Basel", en: "Botanical Garden of Basel" },
-    coordinates: { lat: 47.5615, lng: 7.5855 },
+    coords: [7.5855, 47.5615],
     description: {
       de: "Der Botanische Garten der Universität Basel ist einer der ältesten der Welt. Er bietet eine Sammlung seltener Pflanzenarten aus verschiedenen Regionen.",
       hu: "A Bázeli Egyetem Botanikus Kertje a világ egyik legrégebbi ilyen kertje. Ritka növényfajok gyűjteményét kínálja különböző régiókból.",
@@ -198,7 +198,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "CH",
     name: { de: "Naturschutzgebiet Niederried", hu: "Niederriedi Természetvédelmi Terület", ro: "Rezervația Naturală Niederried", en: "Niederried Nature Reserve" },
-    coordinates: { lat: 46.9928, lng: 7.2348 },
+    coords: [7.2348, 46.9928],
     description: {
       de: "Das Naturschutzgebiet am Niederriedersee ist ein bedeutendes Feuchtgebiet für Wasservögel. Es ist ein wichtiges Rastgebiet während der Zugzeit.",
       hu: "A Niederried-tavi természetvédelmi terület jelentős vizes élőhely a vízi madarak számára. Fontos pihenőhely a vándorlási időszakban.",
@@ -230,7 +230,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Jardin Botanique Genève", hu: "Genfi Botanikus Kert", ro: "Grădina Botanică Geneva", en: "Botanical Garden of Geneva" },
-    coordinates: { lat: 46.2269, lng: 6.1472 },
+    coords: [6.1472, 46.2269],
     description: {
       de: "Der Botanische Garten in Genf ist eine weitläufige Anlage mit Park und Herbarium. Er beherbergt zudem einen kleinen Zoo mit einheimischen Tieren.",
       hu: "A Genfi Botanikus Kert egy kiterjedt terület parkkal és herbáriummal. Emellett egy kis állatkerttel is rendelkezik, ahol őshonos állatokat mutatnak be.",
@@ -262,7 +262,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "CH",
     name: { de: "Natur- und Tierpark Goldau", hu: "Goldaui Természet- és Állatpark", ro: "Parcul Natural și Zoologic Goldau", en: "Goldau Nature and Animal Park" },
-    coordinates: { lat: 47.0456, lng: 8.5522 },
+    coords: [8.5522, 47.0456],
     description: {
       de: "Der Natur- und Tierpark Goldau liegt in einem ehemaligen Bergsturzgebiet. Er bietet Lebensraum für rund 100 einheimische und europäische Tierarten.",
       hu: "A Goldaui Természet- és Állatpark egy egykori földcsuszamlás területén helyezkedik el. Mintegy 100 őshonos és európai állatfajnak ad otthont.",
@@ -294,7 +294,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Botanischer Garten Zürich", hu: "Zürichi Botanikus Kert", ro: "Grădina Botanică Zürich", en: "Botanical Garden of Zurich" },
-    coordinates: { lat: 47.3585, lng: 8.5615 },
+    coords: [8.5615, 47.3585],
     description: {
       de: "Der Botanische Garten der Universität Zürich zeichnet sich durch seine charakteristischen Kuppelgewächshäuser aus. Er beherbergt etwa 8000 Pflanzenarten.",
       hu: "A Zürichi Egyetem Botanikus Kertje jellegzetes kupolás üvegházairól ismert. Körülbelül 8000 növényfajnak ad otthont.",
@@ -326,7 +326,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "CH",
     name: { de: "Kaltbrunner Riet", hu: "Kaltbrunner Riet", ro: "Kaltbrunner Riet", en: "Kaltbrunner Riet" },
-    coordinates: { lat: 47.2015, lng: 9.0152 },
+    coords: [9.0152, 47.2015],
     description: {
       de: "Das Kaltbrunner Riet ist ein bedeutendes Flachmoor am Rande des Zürichsees. Es ist ein Lebensraum für seltene Pflanzen und Vögel.",
       hu: "A Kaltbrunner Riet egy jelentős síkláp a Zürichi-tó peremén. Ritka növények és madarak élőhelye.",
@@ -358,7 +358,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "CH",
     name: { de: "Zoo de Servion", hu: "Servioni Állatkert", ro: "Grădina Zoologică Servion", en: "Servion Zoo" },
-    coordinates: { lat: 46.5925, lng: 6.7865 },
+    coords: [6.7865, 46.5925],
     description: {
       de: "Der Zoo de Servion bei Lausanne konzentriert sich auf Tiere aus nördlichen Breiten. Er ist bekannt für seine Bären und Sibirischen Tiger.",
       hu: "A Lausanne melletti Servion Állatkert az északi szélességi körök állataira összpontosít. Híres medvéiről és szibériai tigriseiről.",
@@ -390,7 +390,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Naturpark Gruyère Pays-d'Enhaut", hu: "Gruyère Pays-d'Enhaut Természetpark", ro: "Parcul Natural Gruyère Pays-d'Enhaut", en: "Gruyère Pays-d'Enhaut Nature Park" },
-    coordinates: { lat: 46.5167, lng: 7.15 },
+    coords: [7.15, 46.5167],
     description: {
       de: "Der Naturpark Gruyère Pays-d'Enhaut erstreckt sich über ein bergiges Gebiet. Er umfasst Alpwirtschaft, Schutzgebiete und traditionelle Landschaften.",
       hu: "A Gruyère Pays-d'Enhaut Természetpark egy hegyvidéki területen terül el. Magában foglalja az alpesi gazdálkodást, védett területeket és hagyományos tájakat.",
@@ -422,7 +422,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Botanischer Garten St. Gallen", hu: "Sankt Galleni Botanikus Kert", ro: "Grădina Botanică St. Gallen", en: "Botanical Garden of St. Gallen" },
-    coordinates: { lat: 47.4335, lng: 9.3822 },
+    coords: [9.3822, 47.4335],
     description: {
       de: "Der Botanische Garten St. Gallen bietet eine vielfältige Sammlung an Freiland- und Gewächshauspflanzen. Er ist ein Zentrum für Bildung und Entspannung.",
       hu: "A Sankt Galleni Botanikus Kert változatos gyűjteményt kínál szabadtéri és üvegházi növényekből. Oktatási és kikapcsolódási központ.",
@@ -454,7 +454,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "forest",
     parent: "CH",
     name: { de: "Wildnispark Zürich Sihlwald", hu: "Zürichi Vadon Park Sihlwald", ro: "Parcul Sălbatic Zürich Sihlwald", en: "Wilderness Park Zurich Sihlwald" },
-    coordinates: { lat: 47.2667, lng: 8.5333 },
+    coords: [8.5333, 47.2667],
     description: {
       de: "Der Sihlwald ist der größte zusammenhängende Buchenwald im Schweizer Mittelland. Er gehört zum Wildnispark Zürich und wird als Naturwald belassen.",
       hu: "A Sihlwald a legnagyobb összefüggő bükkerdő a svájci középső régióban. A Zürichi Vadon Park része, és természetes erdőként hagyják érintetlenül.",
@@ -486,7 +486,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Jurapark Aargau", hu: "Jurapark Aargau", ro: "Jurapark Aargau", en: "Jurapark Aargau" },
-    coordinates: { lat: 47.4667, lng: 8.05 },
+    coords: [8.05, 47.4667],
     description: {
       de: "Der Jurapark Aargau ist ein regionaler Naturpark. Er schützt die typische Juralandschaft mit ihren Trockenwiesen und Streuobstgärten.",
       hu: "A Jurapark Aargau egy regionális természetpark. Védi a tipikus Jura-tájat száraz rétjeivel és gyümölcsöseivel.",
@@ -518,7 +518,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Botanischer Garten Fribourg", hu: "Fribourgi Botanikus Kert", ro: "Grădina Botanică Fribourg", en: "Botanical Garden of Fribourg" },
-    coordinates: { lat: 46.8045, lng: 7.1512 },
+    coords: [7.1512, 46.8045],
     description: {
       de: "Der Botanische Garten Fribourg liegt am Ufer der Saane. Er dient als Ort der Forschung für die Universität und als öffentliche Erholungsanlage.",
       hu: "A Fribourgi Botanikus Kert a Saane folyó partján fekszik. Az egyetem kutatási helyszíneként és nyilvános kikapcsolódási területként szolgál.",
@@ -550,7 +550,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Naturpark Thal", hu: "Thal Természetpark", ro: "Parcul Natural Thal", en: "Thal Nature Park" },
-    coordinates: { lat: 47.3333, lng: 7.75 },
+    coords: [7.75, 47.3333],
     description: {
       de: "Der Naturpark Thal liegt im Solothurner Jura. Er zeichnet sich durch seine tiefen Täler, bewaldeten Hügel und traditionellen Siedlungen aus.",
       hu: "A Thal Természetpark a Solothurni-Jurában található. Mély völgyeivel, erdős dombjaival és hagyományos településeivel tűnik ki.",
@@ -582,7 +582,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "CH",
     name: { de: "Alpiner Zoo Les Marécottes", hu: "Les Marécottes Alpin Állatkert", ro: "Grădina Zoologică Alpină Les Marécottes", en: "Alpine Zoo Les Marécottes" },
-    coordinates: { lat: 46.1265, lng: 6.9655 },
+    coords: [6.9655, 46.1265],
     description: {
       de: "Der Alpine Zoo Les Marécottes liegt auf 1100 Metern Höhe. Er zeigt Tiere der Alpen wie Steinböcke, Wölfe und Bären in ihrem natürlichen Lebensraum.",
       hu: "A Les Marécottes Alpin Állatkert 1100 méteres magasságban található. Alpesi állatokat, például kőszáli kecskéket, farkasokat és medvéket mutat be természetes környezetükben.",
@@ -614,7 +614,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Botanischer Garten Neuchâtel", hu: "Neuchâteli Botanikus Kert", ro: "Grădina Botanică Neuchâtel", en: "Botanical Garden of Neuchâtel" },
-    coordinates: { lat: 46.9955, lng: 6.9422 },
+    coords: [6.9422, 46.9955],
     description: {
       de: "Der Botanische Garten Neuchâtel liegt auf dem Hügel von Ermitage. Er bietet einen Panoramablick über den Neuenburgersee und die Alpen.",
       hu: "A Neuchâteli Botanikus Kert az Ermitage-dombon fekszik. Panorámás kilátást nyújt a Neuchâteli-tóra és az Alpokra.",
@@ -646,7 +646,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "UNESCO Biosphäre Entlebuch", hu: "UNESCO Entlebuch Bioszféra", ro: "Rezervația Biosferei UNESCO Entlebuch", en: "UNESCO Biosphere Entlebuch" },
-    coordinates: { lat: 46.9667, lng: 8.05 },
+    coords: [8.05, 46.9667],
     description: {
       de: "Die UNESCO Biosphäre Entlebuch ist bekannt für ihre weiten Moorlandschaften. Sie ist ein Rückzugsort für bedrohte Tier- und Pflanzenarten.",
       hu: "Az UNESCO Entlebuch Bioszféra hatalmas lápvidékeiről ismert. Veszélyeztetett állat- és növényfajok menedékhelye.",
@@ -678,7 +678,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "CH",
     name: { de: "Zoo Sikypark", hu: "Sikypark Állatkert", ro: "Grădina Zoologică Sikypark", en: "Sikypark Zoo" },
-    coordinates: { lat: 47.2535, lng: 7.4215 },
+    coords: [7.4215, 47.2535],
     description: {
       de: "Der Sikypark in Crémines ist ein Auffangbecken für Raubkatzen und andere Tiere aus Zirkussen. Er bietet ihnen einen neuen Lebensraum.",
       hu: "A Crémines-ben található Sikypark egy menedékhely cirkuszokból származó nagymacskák és egyéb állatok számára. Új élőhelyet biztosít számukra.",
@@ -710,7 +710,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Alter Botanischer Garten Zürich", hu: "Régi Zürichi Botanikus Kert", ro: "Vechea Grădină Botanică Zürich", en: "Old Botanical Garden Zurich" },
-    coordinates: { lat: 47.3715, lng: 8.5355 },
+    coords: [8.5355, 47.3715],
     description: {
       de: "Der Alte Botanische Garten in Zürich liegt im Stadtzentrum beim Schanzengraben. Er ist eine grüne Oase mit historischem Baumbestand.",
       hu: "A régi zürichi botanikus kert a városközpontban, a Schanzengraben közelében található. Zöld oázis történelmi fák állományával.",
@@ -742,7 +742,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Naturpark Pfyn-Finges", hu: "Pfyn-Finges Természetpark", ro: "Parcul Natural Pfyn-Finges", en: "Pfyn-Finges Nature Park" },
-    coordinates: { lat: 46.2915, lng: 7.5922 },
+    coords: [7.5922, 46.2915],
     description: {
       de: "Der Naturpark Pfyn-Finges liegt im Wallis. Er schützt den Pfynwald, einen der größten Kiefernwälder der Alpen, und das Naturschutzgebiet Finges.",
       hu: "A Pfyn-Finges Természetpark Wallisban található. Védi a Pfyn-erdőt, az Alpok egyik legnagyobb fenyőerdőjét, és a Finges természetvédelmi területet.",
@@ -774,7 +774,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "wildlife",
     parent: "CH",
     name: { de: "Wildnispark Zürich Langenberg", hu: "Zürichi Vadon Park Langenberg", ro: "Parcul Sălbatic Zürich Langenberg", en: "Wilderness Park Zurich Langenberg" },
-    coordinates: { lat: 47.2835, lng: 8.5215 },
+    coords: [8.5215, 47.2835],
     description: {
       de: "Der Langenberg ist Teil des Wildnisparks Zürich. Er ist ein Tierpark, der sich auf einheimische Wildtiere spezialisiert hat.",
       hu: "A Langenberg a Zürichi Vadon Park része. Ez egy állatpark, amely az őshonos vadállatokra specializálódott.",
@@ -806,7 +806,7 @@ export const switzerlandLifeV2: POI[] = [
     type: "park",
     parent: "CH",
     name: { de: "Botanischer Garten Porrentruy", hu: "Porrentruy-i Botanikus Kert", ro: "Grădina Botanică Porrentruy", en: "Botanical Garden of Porrentruy" },
-    coordinates: { lat: 47.4125, lng: 7.0755 },
+    coords: [7.0755, 47.4125],
     description: {
       de: "Der Botanische Garten in Porrentruy ist eine kleine, historische Anlage. Er beherbergt seltene lokale Pflanzenarten und einen Lehrpfad.",
       hu: "A Porrentruy-i Botanikus Kert egy kis, történelmi létesítmény. Ritka helyi növényfajoknak és egy tanösvénynek ad otthont.",

@@ -1110,7 +1110,20 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Moyo területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Moyo."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Moyo."]
-    }, image: "/poi-images/moyo-cities-v2.webp"},
+    }, image: "/poi-images/moyo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Moyo ist eine Stadt im Nordwesten Ugandas, nahe der Grenze zum Südsudan. Sie ist Hauptstadt des Moyo-Distrikts. Die Region ist bekannt für ihre landwirtschaftliche Produktion, insbesondere von Mais, Bohnen und Sesam. Moyo hat eine multikulturelle Bevölkerung, die aus mehreren ethnischen Gruppen wie den Madi und Kakwa besteht. Die Stadt liegt am Ufer des Weißen Nils und bietet Naturschönheiten wie den Murchison-Falls-Nationalpark in der Nähe. Die Wirtschaft ist von Landwirtschaft und Kleinhandel geprägt. Die Einwohnerzahl beträgt etwa 30.000.",
+      hu: "Moyo városa Uganda északnyugati részén, a dél-szudáni határ közelében található. A Moyo körzet székhelye. A régió mezőgazdaságáról ismert, főleg kukorica, bab és szezám termeléséről. Moyo lakossága multikulturális, több etnikai csoportból áll, például Madi és Kakwa. A város a Fehér-Nílus partján fekszik, és közel van a Murchison-vízesés Nemzeti Parkhoz. A gazdaságot a mezőgazdaság és a kiskereskedelem jellemzi. Lakossága kb. 30.000 fő.",
+      ro: "Moyo este un oraș din nord-vestul Ugandei, aproape de granița cu Sudanul de Sud. Este capitala districtului Moyo. Regiunea este cunoscută pentru producția agricolă, în principal porumb, fasole și susan. Moyo are o populație multiculturală, incluzând grupurile etnice Madi și Kakwa. Orașul este situat pe malul Nilului Alb și aproape de Parcul Național Murchison Falls. Economia se bazează pe agricultură și comerț. Populația este de aproximativ 30.000 de locuitori.",
+      en: "Moyo is a town in northwestern Uganda, near the border with South Sudan. It is the capital of Moyo District. The region is known for agricultural production of maize, beans, and sesame. Moyo has a multicultural population including Madi and Kakwa ethnic groups. The town lies on the White Nile, near Murchison Falls National Park. The economy is based on agriculture and small-scale trade. Population is about 30,000.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: etwa 30.000 (2014).", "Höhe über dem Meeresspiegel: 1.050 Meter.", "Der Moyo-Distrikt hat 200.000 Einwohner.", "Durchschnittstemperatur: 25°C.", "Jährliche Niederschlagsmenge: 1.200 mm.", "Die Entfernung nach Kampala beträgt 480 km."],
+      hu: ["Lakosság: kb. 30.000 (2014).", "Tengerszint feletti magasság: 1.050 méter.", "A Moyo körzet lakossága 200.000 fő.", "Átlaghőmérséklet: 25°C.", "Éves csapadék: 1.200 mm.", "Távolság Kampalától: 480 km."],
+      ro: ["Populație: aproximativ 30.000 (2014).", "Altitudine: 1.050 de metri.", "Districtul Moyo are 200.000 de locuitori.", "Temperatura medie: 25°C.", "Precipitații anuale: 1.200 mm.", "Distanța până la Kampala: 480 km."],
+      en: ["Population: about 30,000 (2014).", "Elevation: 1,050 meters above sea level.", "Moyo District has 200,000 inhabitants.", "Average temperature: 25°C.", "Annual rainfall: 1,200 mm.", "Distance to Kampala: 480 km."],
+    },
+  },
   {
     id: "kamuli-cities-v2",
     type: "city",

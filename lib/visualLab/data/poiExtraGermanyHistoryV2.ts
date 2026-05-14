@@ -6,7 +6,7 @@ export const germanyHistoryV2: POI[] = [
     type: "museum",
     parent: "DE",
     name: { de: "Schwurgerichtssaal 600", hu: "600-as esküdtszék tárgyalóterem", ro: "Sala 600 a Tribunalului", en: "Courtroom 600" },
-    coordinates: { lat: 49.4586, lng: 11.0553 },
+    coords: [11.0553, 49.4586],
     description: {
       de: "Ort der Nürnberger Prozesse ab 1945. Hier wurden führende Akteure des NS-Regimes vor einem internationalen Militärgerichtshof angeklagt.",
       hu: "A nürnbergi perek helyszíne 1945-től. Itt vonták felelősségre a náci rezsim vezetőit egy nemzetközi katonai törvényszék előtt.",
@@ -38,7 +38,7 @@ export const germanyHistoryV2: POI[] = [
     type: "ruins",
     parent: "DE",
     name: { de: "Kaiserthermen Trier", hu: "Trieri császári fürdő", ro: "Termele Imperiale din Trier", en: "Imperial Baths Trier" },
-    coordinates: { lat: 49.7514, lng: 6.6433 },
+    coords: [6.6433, 49.7514],
     description: {
       de: "Römische Thermenanlage in Trier aus dem 4. Jahrhundert. Sie gehören zum UNESCO-Welterbe der Stadt.",
       hu: "4. századi római fürdőkomplexum Trierben. A város UNESCO világörökségi helyszíneinek része.",
@@ -70,7 +70,7 @@ export const germanyHistoryV2: POI[] = [
     type: "castle",
     parent: "DE",
     name: { de: "Hambacher Schloss", hu: "Hambachi kastély", ro: "Castelul Hambach", en: "Hambach Castle" },
-    coordinates: { lat: 49.3175, lng: 8.1345 },
+    coords: [8.1345, 49.3175],
     description: {
       de: "Schloss in der Pfalz, bekannt als Wiege der deutschen Demokratie durch das Hambacher Fest 1832.",
       hu: "Kastély a Rajna-vidék-Pfalz tartományban, a német demokrácia bölcsőjeként ismert az 1832-es hambachi ünnepség miatt.",
@@ -102,7 +102,7 @@ export const germanyHistoryV2: POI[] = [
     type: "landmark",
     parent: "DE",
     name: { de: "Flughafen Tempelhof", hu: "Tempelhof repülőtér", ro: "Aeroportul Tempelhof", en: "Tempelhof Airport" },
-    coordinates: { lat: 52.4731, lng: 13.4038 },
+    coords: [13.4038, 52.4731],
     description: {
       de: "Ehemaliger Flughafen in Berlin, berühmt für die Luftbrücke 1948/49 während der Berlin-Blockade.",
       hu: "Egykori repülőtér Berlinben, amely az 1948/49-es berlini blokád alatti légihídjáról híres.",
@@ -134,7 +134,7 @@ export const germanyHistoryV2: POI[] = [
     type: "cathedral",
     parent: "DE",
     name: { de: "Magdeburger Dom", hu: "Magdeburgi dóm", ro: "Catedrala din Magdeburg", en: "Magdeburg Cathedral" },
-    coordinates: { lat: 52.1255, lng: 11.6358 },
+    coords: [11.6358, 52.1255],
     description: {
       de: "Älteste gotische Kathedrale Deutschlands, deren Bau im Jahr 1209 begann.",
       hu: "Németország legrégebbi gótikus székesegyháza, amelynek építése 1209-ben kezdődött.",
@@ -166,7 +166,7 @@ export const germanyHistoryV2: POI[] = [
     type: "palace",
     parent: "DE",
     name: { de: "Schloss Karlsruhe", hu: "Karlsruhei kastély", ro: "Castelul Karlsruhe", en: "Karlsruhe Palace" },
-    coordinates: { lat: 49.0136, lng: 8.4044 },
+    coords: [8.4044, 49.0136],
     description: {
       de: "Barockschloss aus dem 18. Jahrhundert, Zentrum der fächerförmigen Stadtplanung von Karlsruhe.",
       hu: "18. századi barokk kastély, Karlsruhe legyező alakú várostervezésének központja.",
@@ -198,7 +198,7 @@ export const germanyHistoryV2: POI[] = [
     type: "museum",
     parent: "DE",
     name: { de: "Beethoven-Haus Bonn", hu: "Beethoven-ház Bonn", ro: "Casa Beethoven din Bonn", en: "Beethoven House Bonn" },
-    coordinates: { lat: 50.7358, lng: 7.0984 },
+    coords: [7.0984, 50.7358],
     description: {
       de: "Geburtshaus von Ludwig van Beethoven in Bonn, heute ein Museum und Forschungszentrum.",
       hu: "Ludwig van Beethoven szülőháza Bonnban, ma múzeum és kutatóközpont.",
@@ -230,7 +230,7 @@ export const germanyHistoryV2: POI[] = [
     type: "cathedral",
     parent: "DE",
     name: { de: "Wormser Dom", hu: "Wormsi dóm", ro: "Catedrala din Worms", en: "Worms Cathedral" },
-    coordinates: { lat: 49.6303, lng: 8.3614 },
+    coords: [8.3614, 49.6303],
     description: {
       de: "Bedeutende romanische Kathedrale in Worms, eng verbunden mit den Nibelungen-Sagen.",
       hu: "Jelentős román stílusú székesegyház Wormsban, szorosan összefonódik a Nibelung-mondákkal.",
@@ -262,7 +262,7 @@ export const germanyHistoryV2: POI[] = [
     type: "monument",
     parent: "DE",
     name: { de: "Gedenkstätte Berliner Mauer", hu: "Berlini fal emlékmű", ro: "Memorialul Zidului Berlinului", en: "Berlin Wall Memorial" },
-    coordinates: { lat: 52.5353, lng: 13.3905 },
+    coords: [13.3905, 52.5353],
     description: {
       de: "Zentraler Ort zum Gedenken an die deutsche Teilung in der Bernauer Straße.",
       hu: "A német megosztottságra való emlékezés központi helyszíne a Bernauer Straße-n.",
@@ -294,7 +294,7 @@ export const germanyHistoryV2: POI[] = [
     type: "bridge",
     parent: "DE",
     name: { de: "Steinerne Brücke Regensburg", hu: "Regensburgi kőhíd", ro: "Podul de Piatră din Regensburg", en: "Stone Bridge Regensburg" },
-    coordinates: { lat: 49.0213, lng: 12.0975 },
+    coords: [12.0975, 49.0213],
     description: {
       de: "Mittelalterliche Steinbrücke über die Donau, eines der bedeutendsten Bauwerke der Stadt.",
       hu: "Középkori kőhíd a Dunán, a város egyik legjelentősebb építménye.",

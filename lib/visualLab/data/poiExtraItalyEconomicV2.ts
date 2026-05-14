@@ -6,7 +6,7 @@ export const italyEconomicV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Hafen Gioia Tauro", hu: "Gioia Tauro kikötő", ro: "Portul Gioia Tauro", en: "Port of Gioia Tauro" },
-    coordinates: { lat: 38.435, lng: 15.902 },
+    coords: [15.902, 38.435],
     description: {
       de: "Der Hafen von Gioia Tauro ist ein bedeutendes Zentrum für den Containerumschlag im Mittelmeer. Er fungiert als wichtiger Transitpunkt für den internationalen Seehandel.",
       hu: "Gioia Tauro kikötője a Földközi-tenger egyik legfontosabb konténerátrakó központja. Fontos csomópont a nemzetközi tengeri kereskedelem számára.",
@@ -38,7 +38,7 @@ export const italyEconomicV2: POI[] = [
     type: "factory",
     parent: "IT",
     name: { de: "Fiat-Werk Mirafiori", hu: "Fiat Mirafiori gyár", ro: "Fabrica Fiat Mirafiori", en: "Fiat Mirafiori Plant" },
-    coordinates: { lat: 45.028, lng: 7.618 },
+    coords: [7.618, 45.028],
     description: {
       de: "Das Mirafiori-Werk in Turin ist eine der traditionsreichsten Produktionsstätten für Automobile in Italien. Es spielt eine zentrale Rolle in der italienischen Industriegeschichte.",
       hu: "A torinói Mirafiori üzem Olaszország egyik legrégebbi autógyártó létesítménye. Központi szerepet játszik az olasz ipartörténetben.",
@@ -70,7 +70,7 @@ export const italyEconomicV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Hafen Triest", hu: "Trieszti kikötő", ro: "Portul Trieste", en: "Port of Trieste" },
-    coordinates: { lat: 45.648, lng: 13.761 },
+    coords: [13.761, 45.648],
     description: {
       de: "Der Hafen von Triest ist ein bedeutender Logistikknotenpunkt an der Adria. Er fungiert als wichtiges Tor für den Warenverkehr nach Zentraleuropa.",
       hu: "A trieszti kikötő az Adriai-tenger egyik legfontosabb logisztikai központja. Fontos kapu a Közép-Európába irányuló áruforgalom számára.",
@@ -102,7 +102,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Mechanik-Cluster Reggio Emilia", hu: "Reggio Emilia gépipari körzet", ro: "Districtul mecanic Reggio Emilia", en: "Reggio Emilia Mechanical Cluster" },
-    coordinates: { lat: 44.698, lng: 10.631 },
+    coords: [10.631, 44.698],
     description: {
       de: "Die Region Reggio Emilia beherbergt ein starkes industrielles Netzwerk für Maschinenbau. Der Sektor ist weltweit bekannt für landwirtschaftliche Geräte.",
       hu: "Reggio Emilia térsége erős ipari hálózattal rendelkezik a gépgyártás területén. Az ágazat világszerte ismert mezőgazdasági gépeiről.",
@@ -134,7 +134,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Industriegebiet Padua", hu: "Padovai ipari övezet", ro: "Zona industrială Padova", en: "Padua Industrial Zone" },
-    coordinates: { lat: 45.414, lng: 11.905 },
+    coords: [11.905, 45.414],
     description: {
       de: "Das Industriegebiet von Padua umfasst eine Vielzahl von Unternehmen im Logistik- und Fertigungssektor. Es ist eine der größten Gewerbezonen Norditaliens.",
       hu: "A padovai ipari övezet számos logisztikai és gyártóvállalatnak ad otthont. Észak-Olaszország egyik legnagyobb kereskedelmi övezete.",
@@ -166,7 +166,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Keramik-Cluster Sassuolo", hu: "Sassuolo kerámia körzet", ro: "Districtul ceramic Sassuolo", en: "Sassuolo Ceramic Cluster" },
-    coordinates: { lat: 44.542, lng: 10.789 },
+    coords: [10.789, 44.542],
     description: {
       de: "Sassuolo ist das weltweite Zentrum der Keramikfliesenproduktion. Die Region dominiert den internationalen Markt für Fliesen und Bodenbeläge.",
       hu: "Sassuolo a kerámia burkolatok gyártásának világközpontja. A régió uralja a nemzetközi csempe- és padlóburkolat-piacot.",
@@ -198,7 +198,7 @@ export const italyEconomicV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Hafen Genua", hu: "Genovai kikötő", ro: "Portul Genova", en: "Port of Genoa" },
-    coordinates: { lat: 44.407, lng: 8.915 },
+    coords: [8.915, 44.407],
     description: {
       de: "Der Hafen von Genua ist der verkehrsreichste Seehafen Italiens. Er spielt eine zentrale Rolle im Warenverkehr mit Mitteleuropa.",
       hu: "A genovai kikötő Olaszország legnagyobb forgalmú tengeri kikötője. Központi szerepet játszik a Közép-Európával folytatott áruforgalomban.",
@@ -230,7 +230,7 @@ export const italyEconomicV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Hafen Livorno", hu: "Livornoi kikötő", ro: "Portul Livorno", en: "Port of Livorno" },
-    coordinates: { lat: 43.565, lng: 10.301 },
+    coords: [10.301, 43.565],
     description: {
       de: "Der Hafen von Livorno ist ein wichtiger Umschlagplatz in der Toskana. Er bietet direkte Verbindungen zu Inseln wie Sardinien und Korsika.",
       hu: "Livorno kikötője fontos átrakodási pont Toszkánában. Közvetlen összeköttetést biztosít olyan szigetekkel, mint Szardínia és Korzika.",
@@ -262,7 +262,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Industriegebiet Bari", hu: "Bari ipari övezet", ro: "Zona industrială Bari", en: "Bari Industrial Zone" },
-    coordinates: { lat: 41.114, lng: 16.852 },
+    coords: [16.852, 41.114],
     description: {
       de: "Das Industriegebiet von Bari ist ein bedeutendes Wirtschaftszentrum Süditaliens. Es beherbergt zahlreiche Betriebe der Fertigungsindustrie.",
       hu: "Bari ipari övezete Dél-Olaszország egyik jelentős gazdasági központja. Számos gyártóipari üzemnek ad otthont.",
@@ -294,7 +294,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Mode-Distrikt Mailand", hu: "Milánói divatnegyed", ro: "Districtul de modă Milano", en: "Milan Fashion District" },
-    coordinates: { lat: 45.467, lng: 9.19 },
+    coords: [9.19, 45.467],
     description: {
       de: "Mailand ist das Zentrum der italienischen Modeindustrie. Der Distrikt ist Sitz zahlreicher international agierender Luxusmarken und Designhäuser.",
       hu: "Milánó az olasz divatipar központja. A negyed számos nemzetközi szinten működő luxusmárka és divatház székhelye.",
@@ -326,7 +326,7 @@ export const italyEconomicV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Hafen Ancona", hu: "Anconai kikötő", ro: "Portul Ancona", en: "Port of Ancona" },
-    coordinates: { lat: 43.618, lng: 13.513 },
+    coords: [13.513, 43.618],
     description: {
       de: "Der Hafen von Ancona an der Adria ist ein wichtiges Tor für Fährverbindungen nach Griechenland und den Balkan. Er ist zudem ein Industriehafen.",
       hu: "Az adriai-tengeri anconai kikötő fontos kapu Görögország és a Balkán felé irányuló kompjáratok számára. Egyben ipari kikötő is.",
@@ -358,7 +358,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Industriegebiet Turin", hu: "Torinói ipari övezet", ro: "Zona industrială Torino", en: "Turin Industrial Zone" },
-    coordinates: { lat: 45.07, lng: 7.686 },
+    coords: [7.686, 45.07],
     description: {
       de: "Das Industriegebiet um Turin ist historisch durch die Automobilproduktion geprägt. Heute diversifiziert es sich in Technologie und Luft- und Raumfahrt.",
       hu: "A torinói ipari övezetet történelmileg az autógyártás határozza meg. Ma a technológia, valamint a repülési és űrrepülési ágazat felé diverzifikálódik.",
@@ -390,7 +390,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Technologiepark Pisa", hu: "Pisai technológiai park", ro: "Parcul tehnologic Pisa", en: "Pisa Technology Park" },
-    coordinates: { lat: 43.722, lng: 10.401 },
+    coords: [10.401, 43.722],
     description: {
       de: "Der Technologiepark in Pisa fördert Start-ups und Forschung im High-Tech-Sektor. Er profitiert von der Nähe zur renommierten Universität Pisa.",
       hu: "A pisai technológiai park támogatja a start-upokat és a kutatást a high-tech szektorban. Élvezi a neves pisai egyetem közelségét.",
@@ -422,7 +422,7 @@ export const italyEconomicV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Hafen Cagliari", hu: "Cagliari kikötő", ro: "Portul Cagliari", en: "Port of Cagliari" },
-    coordinates: { lat: 39.212, lng: 9.11 },
+    coords: [9.11, 39.212],
     description: {
       de: "Der Hafen von Cagliari ist der wichtigste Umschlagplatz auf Sardinien. Er ist für den Güterverkehr zwischen dem Festland und der Insel essenziell.",
       hu: "Cagliari kikötője Szardínia legfontosabb átrakodási pontja. Alapvető fontosságú a szárazföld és a sziget közötti áruforgalom számára.",
@@ -454,7 +454,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Möbel-Cluster Brianza", hu: "Brianza bútorkereskedelmi körzet", ro: "Districtul de mobilă Brianza", en: "Brianza Furniture Cluster" },
-    coordinates: { lat: 45.65, lng: 9.25 },
+    coords: [9.25, 45.65],
     description: {
       de: "Die Brianza-Region ist weltweit bekannt für ihre exzellente Möbelproduktion. Zahlreiche renommierte Designmarken haben hier ihren Sitz.",
       hu: "A Brianza régió világszerte ismert kiváló bútorgyártásáról. Számos neves formatervezői márka székhelye található itt.",
@@ -486,7 +486,7 @@ export const italyEconomicV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Hafen Ravenna", hu: "Ravennai kikötő", ro: "Portul Ravenna", en: "Port of Ravenna" },
-    coordinates: { lat: 44.48, lng: 12.28 },
+    coords: [12.28, 44.48],
     description: {
       de: "Der Hafen von Ravenna ist ein bedeutender industrieller Knotenpunkt an der Adria. Er ist spezialisiert auf den Umschlag von Rohstoffen und Energie.",
       hu: "A ravennai kikötő fontos ipari csomópont az Adriai-tengeren. Nyersanyagok és energiahordozók átrakodására szakosodott.",
@@ -518,7 +518,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Schuh-Cluster Marken", hu: "Marche cipőipari körzet", ro: "Districtul de încălțăminte Marche", en: "Marche Footwear Cluster" },
-    coordinates: { lat: 43.25, lng: 13.5 },
+    coords: [13.5, 43.25],
     description: {
       de: "Die Region Marken ist ein historisches Zentrum der italienischen Schuhproduktion. Zahlreiche bekannte Marken fertigen hier ihre Kollektionen.",
       hu: "Marche régiója az olasz cipőgyártás történelmi központja. Számos ismert márka gyártja itt kollekcióit.",
@@ -550,7 +550,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Industriegebiet Vicenza", hu: "Vicenza ipari övezet", ro: "Zona industrială Vicenza", en: "Vicenza Industrial Zone" },
-    coordinates: { lat: 45.545, lng: 11.54 },
+    coords: [11.54, 45.545],
     description: {
       de: "Vicenza ist für seine florierende Schmuckindustrie bekannt. Das Industriegebiet beheimatet zahlreiche spezialisierte Betriebe der Edelmetallverarbeitung.",
       hu: "Vicenza virágzó ékszeriparáról ismert. Az ipari övezet az nemesfém-feldolgozó szakosodott üzemek sokaságának ad otthont.",
@@ -582,7 +582,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Brillen-Cluster Cadore", hu: "Cadore szemüvegipari körzet", ro: "Districtul de ochelari Cadore", en: "Cadore Eyewear Cluster" },
-    coordinates: { lat: 46.45, lng: 12.35 },
+    coords: [12.35, 46.45],
     description: {
       de: "Cadore in den Dolomiten ist das Zentrum der weltweiten Brillenherstellung. Hier werden hochwertige Fassungen für internationale Marken produziert.",
       hu: "A Dolomitokban található Cadore a világ szemüveggyártásának központja. Itt gyártják a kiváló minőségű kereteket nemzetközi márkák számára.",
@@ -614,7 +614,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Mechanik-Cluster Bologna", hu: "Bolognai gépipari körzet", ro: "Districtul mecanic Bologna", en: "Bologna Mechanical Cluster" },
-    coordinates: { lat: 44.494, lng: 11.346 },
+    coords: [11.346, 44.494],
     description: {
       de: "Bologna und Umgebung sind ein hochspezialisiertes Zentrum für automatische Verpackungsmaschinen. Der Sektor beliefert Industrien weltweit.",
       hu: "Bologna és környéke az automata csomagológépek magasan specializált központja. Az ágazat világszerte látja el az iparágakat.",
@@ -646,7 +646,7 @@ export const italyEconomicV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Hafen Neapel", hu: "Nápolyi kikötő", ro: "Portul Napoli", en: "Port of Naples" },
-    coordinates: { lat: 40.84, lng: 14.26 },
+    coords: [14.26, 40.84],
     description: {
       de: "Der Hafen von Neapel ist einer der größten Seehäfen in Süditalien. Er ist sowohl im Güter- als auch im Passagierverkehr bedeutend.",
       hu: "Nápoly kikötője Dél-Olaszország egyik legnagyobb tengeri kikötője. Jelentős mind az áru-, mind az utasforgalomban.",
@@ -678,7 +678,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Agrar-Cluster Parma", hu: "Parmai élelmiszeripari körzet", ro: "Districtul agroalimentar Parma", en: "Parma Agri-Food Cluster" },
-    coordinates: { lat: 44.8, lng: 10.33 },
+    coords: [10.33, 44.8],
     description: {
       de: "Parma ist das Zentrum der italienischen Lebensmittelindustrie. Die Region ist weltweit bekannt für ihre hochwertigen Fleisch- und Milchprodukte.",
       hu: "Parma az olasz élelmiszeripar központja. A régió világszerte ismert kiváló minőségű hús- és tejtermékeiről.",
@@ -710,7 +710,7 @@ export const italyEconomicV2: POI[] = [
     type: "industry",
     parent: "IT",
     name: { de: "Chemiepark Ferrara", hu: "Ferrarai vegyipari park", ro: "Parcul chimic Ferrara", en: "Ferrara Chemical Park" },
-    coordinates: { lat: 44.84, lng: 11.62 },
+    coords: [11.62, 44.84],
     description: {
       de: "Der Chemiepark in Ferrara ist ein wichtiger Standort für die Kunststoff- und Polymerproduktion. Er ist ein bedeutender Arbeitgeber in der Region.",
       hu: "A ferrarai vegyipari park fontos helyszín a műanyag- és polimergyártás számára. A régió egyik jelentős munkaadója.",

@@ -6,7 +6,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Saint-Nazaire Werft", hu: "Saint-Nazaire-i hajógyár", ro: "Șantierul naval Saint-Nazaire", en: "Saint-Nazaire Shipyard" },
-    coordinates: { lat: 47.283, lng: -2.183 },
+    coords: [-2.183, 47.283],
     description: {
       de: "Dies ist eine der größten Schiffswerften in Europa. Sie ist spezialisiert auf den Bau großer Kreuzfahrtschiffe.",
       hu: "Európa egyik legnagyobb hajógyára. A létesítmény nagy méretű óceánjáró tengerjáró hajók építésére szakosodott.",
@@ -38,7 +38,7 @@ export const franceEconomicV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "La Défense", hu: "La Défense", ro: "La Défense", en: "La Défense" },
-    coordinates: { lat: 48.89, lng: 2.24 },
+    coords: [2.24, 48.89],
     description: {
       de: "La Défense ist der wichtigste Geschäftsviertel der Metropolregion Paris. Es ist ein bedeutender Standort für internationale Konzerne.",
       hu: "La Défense Párizs legfontosabb üzleti negyede. Jelentős központja a nemzetközi vállalatoknak.",
@@ -70,7 +70,7 @@ export const franceEconomicV2: POI[] = [
     type: "port",
     parent: "FR",
     name: { de: "Fos-sur-Mer Hafen", hu: "Fos-sur-Mer kikötő", ro: "Portul Fos-sur-Mer", en: "Fos-sur-Mer Port" },
-    coordinates: { lat: 43.43, lng: 4.93 },
+    coords: [4.93, 43.43],
     description: {
       de: "Dieser Hafen ist Teil des Komplexes Grand Port Maritime de Marseille. Er ist für den Umschlag von Gütern und Energie entscheidend.",
       hu: "Ez a kikötő a Grand Port Maritime de Marseille komplexum része. Döntő fontosságú az áruk és energia kezelésében.",
@@ -102,7 +102,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Grenoble GI", hu: "Grenoble GI", ro: "Grenoble GI", en: "Grenoble GI" },
-    coordinates: { lat: 45.18, lng: 5.72 },
+    coords: [5.72, 45.18],
     description: {
       de: "Grenoble ist ein Zentrum für Mikroelektronik und Hochtechnologie. Das GI-Gebiet ist bekannt für Forschung und Industrie.",
       hu: "Grenoble a mikroelektronika és csúcstechnológia központja. A GI-terület kutatásáról és iparáról ismert.",
@@ -134,7 +134,7 @@ export const franceEconomicV2: POI[] = [
     type: "factory",
     parent: "FR",
     name: { de: "Airbus Toulouse", hu: "Airbus Toulouse", ro: "Airbus Toulouse", en: "Airbus Toulouse" },
-    coordinates: { lat: 43.6, lng: 1.37 },
+    coords: [1.37, 43.6],
     description: {
       de: "Dies ist der Hauptsitz und Montageort für Airbus-Flugzeuge. Es ist ein zentrales Werk der europäischen Luftfahrtindustrie.",
       hu: "Ez az Airbus repülőgépek központja és összeszerelő helye. Az európai repülőgépipar központi üzeme.",
@@ -166,7 +166,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Markt von Rungis", hu: "Rungis piac", ro: "Piața din Rungis", en: "Rungis International Market" },
-    coordinates: { lat: 48.75, lng: 2.35 },
+    coords: [2.35, 48.75],
     description: {
       de: "Rungis ist der größte Großmarkt für Lebensmittel weltweit. Er versorgt die Region Paris und ist ein logistischer Knotenpunkt.",
       hu: "Rungis a világ legnagyobb élelmiszer-nagykereskedelmi piaca. Ellátja Párizs régióját és fontos logisztikai csomópont.",
@@ -198,7 +198,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Arve-Tal Industrie", hu: "Arve-völgyi ipar", ro: "Industria din Valea Arve", en: "Arve Valley Industry" },
-    coordinates: { lat: 46.06, lng: 6.67 },
+    coords: [6.67, 46.06],
     description: {
       de: "Das Arve-Tal ist spezialisiert auf die Präzisionsdrehtechnik. Es beliefert Branchen wie Automobilbau und Luftfahrt.",
       hu: "Az Arve-völgy a precíziós esztergálásra szakosodott. Olyan ágazatokat lát el, mint az autógyártás és a repülés.",
@@ -230,7 +230,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Cognac Destillerien", hu: "Cognac szeszfőzdék", ro: "Distileriile Cognac", en: "Cognac Distilleries" },
-    coordinates: { lat: 45.69, lng: -0.32 },
+    coords: [-0.32, 45.69],
     description: {
       de: "Die Region Cognac ist das Zentrum der weltweiten Produktion von Weinbrand. Die Industrie umfasst zahlreiche Handelshäuser.",
       hu: "Cognac régió a világszerte ismert konyakgyártás központja. Az ipar számos kereskedőházat foglal magában.",
@@ -262,7 +262,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Bordeaux Weinwirtschaft", hu: "Bordeaux borászat", ro: "Economia vinului din Bordeaux", en: "Bordeaux Wine Industry" },
-    coordinates: { lat: 44.83, lng: -0.58 },
+    coords: [-0.58, 44.83],
     description: {
       de: "Die Region Bordeaux ist eines der bedeutendsten Weinanbaugebiete der Welt. Die Branche prägt die lokale Wirtschaft massiv.",
       hu: "Bordeaux régió a világ egyik legjelentősebb borvidéke. Az ágazat jelentősen meghatározza a helyi gazdaságot.",
@@ -294,7 +294,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Lannion Photonik Cluster", hu: "Lannion fotonikai központ", ro: "Clusterul de fotonică Lannion", en: "Lannion Photonics Cluster" },
-    coordinates: { lat: 48.73, lng: -3.45 },
+    coords: [-3.45, 48.73],
     description: {
       de: "Lannion ist ein Zentrum für Optik und Photonik. Viele Unternehmen und Forschungsinstitute sind in diesem Bereich tätig.",
       hu: "Lannion az optika és fotonika központja. Számos vállalat és kutatóintézet működik ezen a területen.",
@@ -326,7 +326,7 @@ export const franceEconomicV2: POI[] = [
     type: "factory",
     parent: "FR",
     name: { de: "Clermont-Ferrand Michelin Werk", hu: "Clermont-Ferrand Michelin gyár", ro: "Fabrica Michelin Clermont-Ferrand", en: "Clermont-Ferrand Michelin Plant" },
-    coordinates: { lat: 45.78, lng: 3.08 },
+    coords: [3.08, 45.78],
     description: {
       de: "Hier befindet sich der Hauptsitz und eines der Hauptwerke des Reifenherstellers Michelin. Die Firma ist prägend für die Stadt.",
       hu: "Itt található a Michelin gumiabroncsgyártó központja és egyik fő üzeme. A cég meghatározó a város számára.",
@@ -358,7 +358,7 @@ export const franceEconomicV2: POI[] = [
     type: "port",
     parent: "FR",
     name: { de: "Nantes-Saint-Nazaire Hafen", hu: "Nantes-Saint-Nazaire kikötő", ro: "Portul Nantes-Saint-Nazaire", en: "Nantes-Saint-Nazaire Port" },
-    coordinates: { lat: 47.25, lng: -2.25 },
+    coords: [-2.25, 47.25],
     description: {
       de: "Dieser bedeutende Hafen an der Loiremündung bedient wichtige Industriezweige. Er ist ein zentraler Umschlagsplatz für Rohstoffe.",
       hu: "Ez a jelentős kikötő a Loire torkolatánál fontos iparágakat szolgál ki. Központi átrakodóhely nyersanyagok számára.",
@@ -390,7 +390,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Aerospace Valley Toulouse", hu: "Aerospace Valley Toulouse", ro: "Aerospace Valley Toulouse", en: "Aerospace Valley Toulouse" },
-    coordinates: { lat: 43.58, lng: 1.45 },
+    coords: [1.45, 43.58],
     description: {
       de: "Dies ist ein Cluster für Luft- und Raumfahrttechnik. Es bündelt führende Unternehmen, Forschungseinrichtungen und Universitäten.",
       hu: "Ez egy repülő- és űripari technológiai központ. Vezető vállalatokat, kutatóintézeteket és egyetemeket tömörít.",
@@ -422,7 +422,7 @@ export const franceEconomicV2: POI[] = [
     type: "port",
     parent: "FR",
     name: { de: "Hafen Le Havre", hu: "Le Havre kikötő", ro: "Portul Le Havre", en: "Le Havre Port" },
-    coordinates: { lat: 49.48, lng: 0.1 },
+    coords: [0.1, 49.48],
     description: {
       de: "Le Havre ist der größte Containerhafen Frankreichs. Er ist ein entscheidendes Tor zum internationalen Welthandel.",
       hu: "Le Havre Franciaország legnagyobb konténerkikötője. Döntő fontosságú kapu a nemzetközi világkereskedelem számára.",
@@ -454,7 +454,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Lyon Biotech-Zentrum", hu: "Lyon biotechnológiai központ", ro: "Centrul de biotehnologie Lyon", en: "Lyon Biotech Hub" },
-    coordinates: { lat: 45.75, lng: 4.85 },
+    coords: [4.85, 45.75],
     description: {
       de: "Lyon ist ein führender Standort für Biotechnologie und Pharmaindustrie. Es beherbergt zahlreiche Forschungszentren.",
       hu: "Lyon a biotechnológia és a gyógyszeripar vezető központja. Számos kutatóközpontnak ad otthont.",
@@ -486,7 +486,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Metz Stahlindustrie", hu: "Metz acélipar", ro: "Industria siderurgică din Metz", en: "Metz Steel Industry" },
-    coordinates: { lat: 49.12, lng: 6.17 },
+    coords: [6.17, 49.12],
     description: {
       de: "Die Region um Metz ist historisch tief in der Stahlproduktion verwurzelt. Sie ist ein Zentrum für metallverarbeitende Industrie.",
       hu: "Metz környéke történelmileg mélyen gyökerezik az acélgyártásban. A fémfeldolgozó ipar egyik központja.",
@@ -518,7 +518,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Tours Pharmaindustrie", hu: "Tours gyógyszeripar", ro: "Industria farmaceutică din Tours", en: "Tours Pharma Industry" },
-    coordinates: { lat: 47.39, lng: 0.68 },
+    coords: [0.68, 47.39],
     description: {
       de: "Tours ist ein Standort für die pharmazeutische Industrie. Viele Unternehmen entwickeln und produzieren hier medizinische Produkte.",
       hu: "Tours a gyógyszeripar egyik központja. Számos vállalat fejleszt és gyárt itt orvosi termékeket.",
@@ -550,7 +550,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Montpellier Agritech", hu: "Montpellier Agritech", ro: "Montpellier Agritech", en: "Montpellier Agritech" },
-    coordinates: { lat: 43.61, lng: 3.88 },
+    coords: [3.88, 43.61],
     description: {
       de: "Montpellier ist ein Zentrum für Agrarforschung und Agrartechnologie. Die Region konzentriert sich auf Innovationen in der Landwirtschaft.",
       hu: "Montpellier a mezőgazdasági kutatás és technológia központja. A régió a mezőgazdasági innovációkra fókuszál.",
@@ -582,7 +582,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Lille Textilindustrie", hu: "Lille textilipar", ro: "Industria textilă din Lille", en: "Lille Textile Industry" },
-    coordinates: { lat: 50.63, lng: 3.06 },
+    coords: [3.06, 50.63],
     description: {
       de: "Lille war historisch das Zentrum der französischen Textilindustrie. Heute fokussiert sich die Branche auf technische Textilien.",
       hu: "Lille történelmileg a francia textilipar központja volt. Ma az ágazat a műszaki textíliákra összpontosít.",
@@ -614,7 +614,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Saint-Étienne Design-Wirtschaft", hu: "Saint-Étienne designipar", ro: "Economia designului din Saint-Étienne", en: "Saint-Étienne Design Economy" },
-    coordinates: { lat: 45.44, lng: 4.39 },
+    coords: [4.39, 45.44],
     description: {
       de: "Saint-Étienne ist als UNESCO-Designstadt ein wichtiger Standort für die Design- und Kreativwirtschaft.",
       hu: "Saint-Étienne, mint UNESCO designváros, fontos központja a formatervezési és kreatíviparnak.",
@@ -646,7 +646,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Cannes Medienwirtschaft", hu: "Cannes médiaipar", ro: "Economia media din Cannes", en: "Cannes Media Economy" },
-    coordinates: { lat: 43.55, lng: 7.02 },
+    coords: [7.02, 43.55],
     description: {
       de: "Cannes ist ein bedeutender Standort für die globale Film- und Medienbranche. Das Filmfestival zieht jährlich tausende Experten an.",
       hu: "Cannes a globális film- és médiaipar jelentős központja. A filmfesztivál évente több ezer szakértőt vonz.",
@@ -678,7 +678,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Orléans Logistik", hu: "Orléans logisztika", ro: "Logistică în Orléans", en: "Orléans Logistics" },
-    coordinates: { lat: 47.9, lng: 1.91 },
+    coords: [1.91, 47.9],
     description: {
       de: "Dank seiner zentralen Lage ist Orléans ein wichtiger Knotenpunkt für Logistik und Warenverteilung in ganz Frankreich.",
       hu: "Központi fekvésének köszönhetően Orléans fontos csomópont a logisztika és áruelosztás terén Franciaországban.",
@@ -710,7 +710,7 @@ export const franceEconomicV2: POI[] = [
     type: "industry",
     parent: "FR",
     name: { de: "Nancy Technologie-Hub", hu: "Nancy technológiai központ", ro: "Hub tehnologic Nancy", en: "Nancy Tech Hub" },
-    coordinates: { lat: 48.69, lng: 6.18 },
+    coords: [6.18, 48.69],
     description: {
       de: "Nancy entwickelt sich zu einem wichtigen Standort für Softwareentwicklung und digitale Dienstleistungen.",
       hu: "Nancy a szoftverfejlesztés és digitális szolgáltatások fontos központjává válik.",
@@ -742,7 +742,7 @@ export const franceEconomicV2: POI[] = [
     type: "port",
     parent: "FR",
     name: { de: "Marseille Energiehafen", hu: "Marseille energiakikötő", ro: "Portul energetic din Marseille", en: "Marseille Energy Port" },
-    coordinates: { lat: 43.3, lng: 5.37 },
+    coords: [5.37, 43.3],
     description: {
       de: "Marseille ist ein zentraler Hafen für den Energieimport nach Frankreich, insbesondere für Rohöl und Erdgas.",
       hu: "Marseille központi kikötő az energia Franciaországba történő importjához, különösen nyersolaj és földgáz számára.",

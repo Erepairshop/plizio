@@ -6,7 +6,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "factory",
     parent: "DK",
     name: { de: "Novozymes Bagsvaerd", hu: "Novozymes Bagsværd", ro: "Novozymes Bagsværd", en: "Novozymes Bagsværd" },
-    coordinates: { lat: 55.7608, lng: 12.4517 },
+    coords: [12.4517, 55.7608],
     description: {
       de: "Hauptsitz und Produktionsstandort eines weltweit führenden Biotechnologieunternehmens. Fokus liegt auf der Herstellung industrieller Enzyme.",
       hu: "Egy globális biotechnológiai vállalat központja és gyártóegysége. Az ipari enzimek előállítására összpontosítanak.",
@@ -38,7 +38,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Danfoss Nordborg", hu: "Danfoss Nordborg", ro: "Danfoss Nordborg", en: "Danfoss Nordborg" },
-    coordinates: { lat: 55.0347, lng: 9.7781 },
+    coords: [9.7781, 55.0347],
     description: {
       de: "Zentraler Standort des dänischen Industriekonzerns Danfoss. Das Unternehmen produziert Komponenten für Energieeffizienz und Klimasteuerung.",
       hu: "A dán Danfoss ipari konszern központi telephelye. A vállalat energiahatékonysági és klímavezérlő alkatrészeket gyárt.",
@@ -70,7 +70,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Vestas Wind Systems Aarhus", hu: "Vestas Wind Systems Aarhus", ro: "Vestas Wind Systems Aarhus", en: "Vestas Wind Systems Aarhus" },
-    coordinates: { lat: 56.151, lng: 10.205 },
+    coords: [10.205, 56.151],
     description: {
       de: "Verwaltungs- und Entwicklungszentrum von Vestas, einem weltweit führenden Hersteller von Windkraftanlagen. Zentrale für erneuerbare Energietechnologien.",
       hu: "A Vestas, a világ egyik vezető szélerőmű-gyártójának adminisztrációs és fejlesztési központja. Megújuló energia technológiák központja.",
@@ -102,7 +102,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "factory",
     parent: "DK",
     name: { de: "Grundfos Bjerringbro", hu: "Grundfos Bjerringbro", ro: "Grundfos Bjerringbro", en: "Grundfos Bjerringbro" },
-    coordinates: { lat: 56.3764, lng: 9.6483 },
+    coords: [9.6483, 56.3764],
     description: {
       de: "Hauptquartier und Produktionsstätte von Grundfos, dem weltweit größten Pumpenhersteller. Bjerringbro dient als wichtiges Industriezentrum.",
       hu: "A Grundfos, a világ legnagyobb szivattyúgyártójának központja és gyára. Bjerringbro fontos ipari központként szolgál.",
@@ -134,7 +134,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "port",
     parent: "DK",
     name: { de: "Hafen Hirtshals", hu: "Hirtshalsi kikötő", ro: "Portul Hirtshals", en: "Port of Hirtshals" },
-    coordinates: { lat: 57.5925, lng: 9.9653 },
+    coords: [9.9653, 57.5925],
     description: {
       de: "Wichtiger dänischer Fähr- und Industriehafen an der Nordsee. Dient als logistisches Tor für den Transport nach Norwegen.",
       hu: "Fontos dán komp- és ipari kikötő az Északi-tengeren. Logisztikai kapuként szolgál a Norvégia felé irányuló szállításokhoz.",
@@ -166,7 +166,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Carlsberg Byen", hu: "Carlsberg Byen", ro: "Carlsberg Byen", en: "Carlsberg Byen" },
-    coordinates: { lat: 55.6669, lng: 12.5306 },
+    coords: [12.5306, 55.6669],
     description: {
       de: "Ein ehemaliges Brauereigelände in Kopenhagen, das in ein modernes gemischtes Wirtschafts- und Wohnviertel umgewandelt wurde.",
       hu: "Egykori sörgyári terület Koppenhágában, amelyet modern, vegyes használatú gazdasági és lakónegyedé alakítottak át.",
@@ -198,7 +198,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Danish Crown Randers", hu: "Danish Crown Randers", ro: "Danish Crown Randers", en: "Danish Crown Randers" },
-    coordinates: { lat: 56.4539, lng: 10.0514 },
+    coords: [10.0514, 56.4539],
     description: {
       de: "Hauptsitz und große Verarbeitungsanlage der dänischen Fleischindustrie. Ein zentraler Akteur im dänischen Agrarexport.",
       hu: "A dán húsipar központja és nagy feldolgozóüzeme. Kulcsszereplő a dán mezőgazdasági exportban.",
@@ -230,7 +230,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "port",
     parent: "DK",
     name: { de: "Flughafen Billund", hu: "Billundi repülőtér", ro: "Aeroportul Billund", en: "Billund Airport" },
-    coordinates: { lat: 55.7403, lng: 9.1517 },
+    coords: [9.1517, 55.7403],
     description: {
       de: "Wichtiger dänischer Flughafen mit Fokus auf Frachtverkehr und internationalen Reiseverkehr für die Region Jütland.",
       hu: "Fontos dán repülőtér, amely a teherszállításra és a Jütland régió nemzetközi utasforgalmára összpontosít.",
@@ -262,7 +262,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "university",
     parent: "DK",
     name: { de: "Universitätspark Aarhus", hu: "Aarhusi Egyetemi Park", ro: "Parcul Universitar Aarhus", en: "Aarhus University Park" },
-    coordinates: { lat: 56.166, lng: 10.203 },
+    coords: [10.203, 56.166],
     description: {
       de: "Wissenschaftszentrum und Innovations-Hub, das akademische Forschung mit wirtschaftlicher Entwicklung in Jütland verbindet.",
       hu: "Tudományos központ és innovációs hub, amely összekapcsolja az akadémiai kutatást a jütlandi gazdasági fejlesztéssel.",
@@ -294,7 +294,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Kalundborg Symbiose", hu: "Kalundborgi ipari szimbiózis", ro: "Simbioza industrială Kalundborg", en: "Kalundborg Symbiosis" },
-    coordinates: { lat: 55.679, lng: 11.082 },
+    coords: [11.082, 55.679],
     description: {
       de: "Weltweit bekanntes Industrieprojekt, bei dem Unternehmen Abfallprodukte austauschen, um Kreislaufwirtschaft zu realisieren.",
       hu: "Világszerte ismert ipari projekt, ahol a vállalatok hulladékanyagokat cserélnek a körforgásos gazdaság megvalósítása érdekében.",
@@ -326,7 +326,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Arcon-Sunmark Sønderborg", hu: "Arcon-Sunmark Sønderborg", ro: "Arcon-Sunmark Sønderborg", en: "Arcon-Sunmark Sønderborg" },
-    coordinates: { lat: 54.912, lng: 9.791 },
+    coords: [9.791, 54.912],
     description: {
       de: "Produktionsstandort für große Solaranlagen, der dänische Expertise im Bereich grüner Energietechnologien repräsentiert.",
       hu: "Nagy méretű napenergia-rendszerek gyártóhelye, amely a zöld energiatechnológiák területén szerzett dán szakértelmet képviseli.",
@@ -358,7 +358,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "factory",
     parent: "DK",
     name: { de: "Frichs Aarhus", hu: "Frichs Aarhus", ro: "Frichs Aarhus", en: "Frichs Aarhus" },
-    coordinates: { lat: 56.148, lng: 10.185 },
+    coords: [10.185, 56.148],
     description: {
       de: "Historisches Industrieareal in Aarhus, einst bekannt für Lokomotivenbau, heute ein hybrider Wirtschaftsstandort.",
       hu: "Történelmi ipari terület Aarhusban, egykor a mozdonyépítésről ismert, ma hibrid gazdasági helyszín.",
@@ -390,7 +390,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Energiecluster Bramming", hu: "Brammingi energiaklaszter", ro: "Clusterul energetic Bramming", en: "Bramming Energy Cluster" },
-    coordinates: { lat: 55.479, lng: 8.705 },
+    coords: [8.705, 55.479],
     description: {
       de: "Regionales Zentrum für Energietechnik und Zulieferung für die Offshore-Windenergiebranche in der Nordsee.",
       hu: "Energietechnológiai és beszállítói regionális központ az északi-tengeri offshore szélenergia-ágazat számára.",
@@ -422,7 +422,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Kolding Logistikpark", hu: "Koldingi logisztikai park", ro: "Parcul logistic Kolding", en: "Kolding Logistics Park" },
-    coordinates: { lat: 55.512, lng: 9.489 },
+    coords: [9.489, 55.512],
     description: {
       de: "Strategisch wichtiges Logistikzentrum in Jütland, das als Schnittpunkt zwischen Europa und Skandinavien dient.",
       hu: "Stratégiailag fontos logisztikai központ Jütlandon, amely Európa és Skandinávia közötti csomópontként szolgál.",
@@ -454,7 +454,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "factory",
     parent: "DK",
     name: { de: "Novo Nordisk Hillerød", hu: "Novo Nordisk Hillerød", ro: "Novo Nordisk Hillerød", en: "Novo Nordisk Hillerød" },
-    coordinates: { lat: 55.938, lng: 12.312 },
+    coords: [12.312, 55.938],
     description: {
       de: "Große Produktionsstätte eines der weltweit führenden Pharmaunternehmen mit Fokus auf Insulin und Diabetes-Behandlung.",
       hu: "Az egyik világvezető gyógyszeripari vállalat nagy gyártóüzeme, amely inzulin és cukorbetegség kezelésére szakosodott.",
@@ -486,7 +486,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "port",
     parent: "DK",
     name: { de: "Energiehafen Esbjerg", hu: "Esbjergi energiakikötő", ro: "Portul energetic Esbjerg", en: "Esbjerg Energy Port" },
-    coordinates: { lat: 55.474, lng: 8.441 },
+    coords: [8.441, 55.474],
     description: {
       de: "Europäisches Zentrum für Offshore-Windenergie-Projekte und Drehkreuz für den Öl- und Gassektor in der Nordsee.",
       hu: "Az európai offshore szélenergia-projektek központja és az olaj- és gázszektor csomópontja az Északi-tengeren.",
@@ -518,7 +518,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "factory",
     parent: "DK",
     name: { de: "Danisco Nakskov", hu: "Danisco Nakskov", ro: "Danisco Nakskov", en: "Danisco Nakskov" },
-    coordinates: { lat: 54.832, lng: 11.135 },
+    coords: [11.135, 54.832],
     description: {
       de: "Wichtige Verarbeitungsanlage der dänischen Nahrungsmittelindustrie, insbesondere auf Zuckerverarbeitung spezialisiert.",
       hu: "A dán élelmiszeripar fontos feldolgozóüzeme, amely különösen a cukorfeldolgozásra szakosodott.",
@@ -550,7 +550,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Aarhus Tech-Hub", hu: "Aarhusi Tech-hub", ro: "Aarhus Tech-Hub", en: "Aarhus Tech-Hub" },
-    coordinates: { lat: 56.155, lng: 10.211 },
+    coords: [10.211, 56.155],
     description: {
       de: "Ein wachsendes digitales Ökosystem in Aarhus, das Start-ups und etablierte IT-Unternehmen in Dänemark verbindet.",
       hu: "Növekvő digitális ökoszisztéma Aarhusban, amely összeköti a dániai startupokat és a már befutott IT-cégeket.",
@@ -582,7 +582,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Odsherred Landwirtschaft", hu: "Odsherred mezőgazdaság", ro: "Agricultura Odsherred", en: "Odsherred Agriculture" },
-    coordinates: { lat: 55.855, lng: 11.635 },
+    coords: [11.635, 55.855],
     description: {
       de: "Eine bedeutende Region für spezialisierte Landwirtschaft und Gartenbau, die Produkte für den dänischen Markt liefert.",
       hu: "Jelentős régió a szakosodott mezőgazdaság és kertészet számára, amely termékekkel látja el a dán piacot.",
@@ -614,7 +614,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Svendborg Werft", hu: "Svendborgi hajógyár", ro: "Șantierul naval Svendborg", en: "Svendborg Shipyard" },
-    coordinates: { lat: 55.055, lng: 10.605 },
+    coords: [10.605, 55.055],
     description: {
       de: "Historisch bedeutender Standort für Schiffbau und maritime Technik auf der Insel Fünen.",
       hu: "Történelmileg jelentős helyszín a hajóépítés és tengerészeti technika számára Fyn szigetén.",
@@ -646,7 +646,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Bornholm Energiezentrum", hu: "Bornholmi energiaközpont", ro: "Centrul energetic Bornholm", en: "Bornholm Energy Hub" },
-    coordinates: { lat: 55.125, lng: 14.885 },
+    coords: [14.885, 55.125],
     description: {
       de: "Innovatives Testzentrum für erneuerbare Energien und intelligente Stromnetztechnologien in der Ostsee.",
       hu: "Innovatív tesztközpont a megújuló energiák és az intelligens elektromos hálózati technológiák számára a Balti-tengeren.",
@@ -678,7 +678,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "industry",
     parent: "DK",
     name: { de: "Green Lab Skive", hu: "Green Lab Skive", ro: "Green Lab Skive", en: "Green Lab Skive" },
-    coordinates: { lat: 56.575, lng: 9.085 },
+    coords: [9.085, 56.575],
     description: {
       de: "Ein nationales Zentrum für grüne Industrietransformation, das verschiedene Firmen in einer Kreislaufwirtschaft vernetzt.",
       hu: "Nemzeti központ a zöld ipari transzformációhoz, amely különböző cégeket kapcsol össze a körforgásos gazdaságban.",
@@ -710,7 +710,7 @@ export const denmarkEconomicV2: POI[] = [
     type: "port",
     parent: "DK",
     name: { de: "Hafen Fredericia", hu: "Fredericiai kikötő", ro: "Portul Fredericia", en: "Port of Fredericia" },
-    coordinates: { lat: 55.565, lng: 9.755 },
+    coords: [9.755, 55.565],
     description: {
       de: "Wichtiger Tiefwasserhafen und Industriezentrum an der dänischen Ostseeküste für Massengüter und Energie.",
       hu: "Fontos mélyvízi kikötő és ipari központ a dán Balti-tengeri parton az ömlesztett áruk és az energia számára.",

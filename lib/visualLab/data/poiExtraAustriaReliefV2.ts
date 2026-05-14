@@ -6,7 +6,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Hochschwab", hu: "Hochschwab", ro: "Hochschwab", en: "Hochschwab" },
-    coordinates: { lat: 47.6083, lng: 15.1111 },
+    coords: [15.1111, 47.6083],
     description: {
       de: "Das Hochschwab-Massiv ist eine Gebirgsgruppe der Nördlichen Kalkalpen in der Steiermark. Sein höchster Punkt erreicht 2.277 Meter über dem Meeresspiegel.",
       hu: "A Hochschwab-hegység az Északi-Mészkő-Alpok egyik csoportja Stájerországban. Legmagasabb pontja eléri a 2277 métert a tengerszint felett.",
@@ -38,7 +38,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Lechtaler Alpen", hu: "Lechtali-Alpok", ro: "Alpii Lechtal", en: "Lechtal Alps" },
-    coordinates: { lat: 47.2333, lng: 10.5 },
+    coords: [10.5, 47.2333],
     description: {
       de: "Die Lechtaler Alpen liegen in Tirol und Vorarlberg und sind die größte Gebirgsgruppe der Nördlichen Kalkalpen. Der Parseierspitze ist mit 3.036 Metern der höchste Gipfel.",
       hu: "A Lechtali-Alpok Tirolban és Vorarlbergben található, az Északi-Mészkő-Alpok legnagyobb hegységcsoportja. A Parseierspitze 3036 méterrel a legmagasabb csúcs.",
@@ -70,7 +70,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Ennstaler Alpen", hu: "Ennstali-Alpok", ro: "Alpii Ennstal", en: "Ennstal Alps" },
-    coordinates: { lat: 47.5833, lng: 14.5833 },
+    coords: [14.5833, 47.5833],
     description: {
       de: "Die Ennstaler Alpen sind eine Gebirgsgruppe in der Steiermark und Oberösterreich. Der Nationalpark Gesäuse umfasst einen großen Teil dieses Kalkgebirges.",
       hu: "Az Ennstali-Alpok egy hegységcsoport Stájerországban és Felső-Ausztriában. A Gesäuse Nemzeti Park e mészkőhegység nagy részét felöleli.",
@@ -102,7 +102,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Totes Gebirge", hu: "Totes Gebirge", ro: "Totes Gebirge", en: "Totes Gebirge" },
-    coordinates: { lat: 47.6667, lng: 14.0 },
+    coords: [14.0, 47.6667],
     description: {
       de: "Das Tote Gebirge ist ein ausgedehntes Hochplateau im Grenzgebiet von Oberösterreich und der Steiermark. Es gehört zur Gruppe der Dachsteinalpen.",
       hu: "A Totes Gebirge egy kiterjedt magashegyi fennsík Felső-Ausztria és Stájerország határán. A Dachstein-Alpok csoportjához tartozik.",
@@ -134,7 +134,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Silvretta", hu: "Silvretta", ro: "Silvretta", en: "Silvretta" },
-    coordinates: { lat: 46.9, lng: 10.15 },
+    coords: [10.15, 46.9],
     description: {
       de: "Die Silvretta ist eine Gebirgsgruppe der Zentralalpen an der Grenze zwischen Tirol und Vorarlberg sowie der Schweiz. Der Piz Buin erreicht 3.312 Meter.",
       hu: "A Silvretta a Középső-Alpok hegységcsoportja Tirol és Vorarlberg, valamint Svájc határán. A Piz Buin 3312 métert ér el.",
@@ -166,7 +166,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Gailtaler Alpen", hu: "Gailtali-Alpok", ro: "Alpii Gailtal", en: "Gailtal Alps" },
-    coordinates: { lat: 46.7, lng: 13.1 },
+    coords: [13.1, 46.7],
     description: {
       de: "Die Gailtaler Alpen sind ein Gebirgszug in Kärnten und Osttirol. Sie liegen zwischen dem Drautal und dem Gailtal.",
       hu: "A Gailtali-Alpok egy hegyvonulat Karintiában és Kelet-Tirolban. A Dráva-völgy és a Gail-völgy között helyezkedik el.",
@@ -198,7 +198,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Niedere Tauern", hu: "Alacsony-Tauern", ro: "Tauernii de Jos", en: "Lower Tauern" },
-    coordinates: { lat: 47.25, lng: 14.1667 },
+    coords: [14.1667, 47.25],
     description: {
       de: "Die Niederen Tauern sind ein Gebirgsstock der Zentralalpen in der Steiermark und Salzburg. Ihr höchster Berg ist der Hochgolling mit 2.862 Metern.",
       hu: "Az Alacsony-Tauern a Középső-Alpok hegységtömbje Stájerországban és Salzburgban. Legmagasabb hegye a 2862 méteres Hochgolling.",
@@ -230,7 +230,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Wechsel", hu: "Wechsel", ro: "Wechsel", en: "Wechsel" },
-    coordinates: { lat: 47.55, lng: 15.8 },
+    coords: [15.8, 47.55],
     description: {
       de: "Der Wechsel ist ein Bergzug an der Grenze zwischen Niederösterreich und der Steiermark. Er markiert den östlichsten Teil der Alpen.",
       hu: "A Wechsel egy hegyvonulat Alsó-Ausztria és Stájerország határán. Ez az Alpok legkeletibb része.",
@@ -262,7 +262,7 @@ export const austriaReliefV2: POI[] = [
     type: "peak",
     parent: "AT",
     name: { de: "Hochpfeiler", hu: "Hochpfeiler", ro: "Hochpfeiler", en: "Hochpfeiler" },
-    coordinates: { lat: 47.0167, lng: 11.7 },
+    coords: [11.7, 47.0167],
     description: {
       de: "Der Hochpfeiler ist der höchste Gipfel der Zillertaler Alpen in Tirol. Er erreicht eine Höhe von 3.509 Metern.",
       hu: "A Hochpfeiler a Zillertali-Alpok legmagasabb csúcsa Tirolban. 3509 méteres magasságot ér el.",
@@ -294,7 +294,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Venedigergruppe", hu: "Venediger-csoport", ro: "Grupul Venediger", en: "Venediger Group" },
-    coordinates: { lat: 47.1, lng: 12.3333 },
+    coords: [12.3333, 47.1],
     description: {
       de: "Die Venedigergruppe ist eine Gebirgsgruppe in den Hohen Tauern in Osttirol und Salzburg. Der Großvenediger ist mit 3.666 Metern der Hauptgipfel.",
       hu: "A Venediger-csoport a Magas-Tauern egyik hegységcsoportja Kelet-Tirolban és Salzburgban. A Großvenediger 3666 méterrel a főcsúcs.",
@@ -326,7 +326,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Schneeberg", hu: "Schneeberg", ro: "Schneeberg", en: "Schneeberg" },
-    coordinates: { lat: 47.75, lng: 15.8 },
+    coords: [15.8, 47.75],
     description: {
       de: "Der Schneeberg ist der höchste Berg von Niederösterreich. Er ist Teil der Rax-Schneeberg-Gruppe in den Nördlichen Kalkalpen.",
       hu: "A Schneeberg Alsó-Ausztria legmagasabb hegye. A Rax-Schneeberg-csoport része az Északi-Mészkő-Alpokban.",
@@ -358,7 +358,7 @@ export const austriaReliefV2: POI[] = [
     type: "peak",
     parent: "AT",
     name: { de: "Hochschwab-Gipfel", hu: "Hochschwab-csúcs", ro: "Vârful Hochschwab", en: "Hochschwab Peak" },
-    coordinates: { lat: 47.6167, lng: 15.15 },
+    coords: [15.15, 47.6167],
     description: {
       de: "Der Hochschwab ist der höchste Gipfel der gleichnamigen Hochschwabgruppe in der Steiermark. Er bietet eine weite Aussicht über die Ostalpen.",
       hu: "A Hochschwab az azonos nevű Hochschwab-csoport legmagasabb csúcsa Stájerországban. Széles kilátást nyújt a Keleti-Alpokra.",
@@ -390,7 +390,7 @@ export const austriaReliefV2: POI[] = [
     type: "peak",
     parent: "AT",
     name: { de: "Hoher Dachstein", hu: "Hoher Dachstein", ro: "Hoher Dachstein", en: "Hoher Dachstein" },
-    coordinates: { lat: 47.4767, lng: 13.6075 },
+    coords: [13.6075, 47.4767],
     description: {
       de: "Der Hohe Dachstein ist der höchste Berg des Dachsteingebirges und Oberösterreichs. Er ist ein markanter Kalkgipfel.",
       hu: "A Hoher Dachstein a Dachstein-hegység és Felső-Ausztria legmagasabb hegye. Jellegzetes mészkőcsúcs.",
@@ -422,7 +422,7 @@ export const austriaReliefV2: POI[] = [
     type: "peak",
     parent: "AT",
     name: { de: "Wildspitze", hu: "Wildspitze", ro: "Wildspitze", en: "Wildspitze" },
-    coordinates: { lat: 46.8778, lng: 10.8656 },
+    coords: [10.8656, 46.8778],
     description: {
       de: "Die Wildspitze ist mit 3.768 Metern der höchste Berg der Ötztaler Alpen und Nordtirols. Sie ist stark vergletschert.",
       hu: "A Wildspitze 3768 méterrel az Ötztali-Alpok és Észak-Tirol legmagasabb hegye. Erősen eljegesedett.",
@@ -454,7 +454,7 @@ export const austriaReliefV2: POI[] = [
     type: "peak",
     parent: "AT",
     name: { de: "Piz Buin", hu: "Piz Buin", ro: "Piz Buin", en: "Piz Buin" },
-    coordinates: { lat: 46.8336, lng: 10.1172 },
+    coords: [10.1172, 46.8336],
     description: {
       de: "Der Piz Buin ist der höchste Berg des österreichischen Bundeslandes Vorarlberg. Er liegt in der Silvretta-Gruppe.",
       hu: "A Piz Buin Vorarlberg osztrák tartomány legmagasabb hegye. A Silvretta-csoportban található.",
@@ -486,7 +486,7 @@ export const austriaReliefV2: POI[] = [
     type: "peak",
     parent: "AT",
     name: { de: "Hochkönig", hu: "Hochkönig", ro: "Hochkönig", en: "Hochkönig" },
-    coordinates: { lat: 47.4244, lng: 13.0867 },
+    coords: [13.0867, 47.4244],
     description: {
       de: "Der Hochkönig ist der höchste Berg der Berchtesgadener Alpen in Salzburg. Er zeichnet sich durch ein mächtiges Massiv aus.",
       hu: "A Hochkönig a Berchtesgadeni-Alpok legmagasabb hegye Salzburgban. Hatalmas masszívum jellemzi.",
@@ -518,7 +518,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Kitzsteinhorn", hu: "Kitzsteinhorn", ro: "Kitzsteinhorn", en: "Kitzsteinhorn" },
-    coordinates: { lat: 47.21, lng: 12.69 },
+    coords: [12.69, 47.21],
     description: {
       de: "Das Kitzsteinhorn ist ein bekannter Berg in den Hohen Tauern bei Kaprun in Salzburg. Es wird ganzjährig touristisch genutzt.",
       hu: "A Kitzsteinhorn egy ismert hegy a Magas-Tauernben, Kaprun közelében, Salzburgban. Egész évben turisztikailag hasznosított.",
@@ -550,7 +550,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Grimming", hu: "Grimming", ro: "Grimming", en: "Grimming" },
-    coordinates: { lat: 47.53, lng: 14.12 },
+    coords: [14.12, 47.53],
     description: {
       de: "Der Grimming ist ein markanter Berg im Ennstal in der Steiermark. Er gilt als freistehender Gebirgsstock.",
       hu: "A Grimming egy jellegzetes hegy az Enns-völgyben, Stájerországban. Szabadon álló hegységtömbnek tekintik.",
@@ -582,7 +582,7 @@ export const austriaReliefV2: POI[] = [
     type: "peak",
     parent: "AT",
     name: { de: "Zugspitze (Österreich)", hu: "Zugspitze (Ausztria)", ro: "Zugspitze (Austria)", en: "Zugspitze (Austria)" },
-    coordinates: { lat: 47.421, lng: 10.985 },
+    coords: [10.985, 47.421],
     description: {
       de: "Die Zugspitze liegt auf der Grenze zwischen Deutschland und Österreich. Ihr Gipfelbereich ist auf Tiroler Seite zugänglich.",
       hu: "A Zugspitze Németország és Ausztria határán fekszik. Csúcsrégiója tiroli oldalról elérhető.",
@@ -614,7 +614,7 @@ export const austriaReliefV2: POI[] = [
     type: "peak",
     parent: "AT",
     name: { de: "Großer Priel", hu: "Großer Priel", ro: "Großer Priel", en: "Großer Priel" },
-    coordinates: { lat: 47.662, lng: 14.122 },
+    coords: [14.122, 47.662],
     description: {
       de: "Der Große Priel ist der höchste Gipfel des Toten Gebirges in Oberösterreich. Er bietet eine markante Pyramidenform.",
       hu: "A Großer Priel a Totes Gebirge legmagasabb csúcsa Felső-Ausztriában. Jellegzetes piramisformája van.",
@@ -646,7 +646,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Hoher Göll", hu: "Hoher Göll", ro: "Hoher Göll", en: "Hoher Göll" },
-    coordinates: { lat: 47.58, lng: 13.06 },
+    coords: [13.06, 47.58],
     description: {
       de: "Der Hohe Göll ist ein Berg in den Berchtesgadener Alpen an der Grenze zwischen Salzburg und Bayern.",
       hu: "A Hoher Göll a Berchtesgadeni-Alpok hegye Salzburg és Bajorország határán.",
@@ -678,7 +678,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Almkogel", hu: "Almkogel", ro: "Almkogel", en: "Almkogel" },
-    coordinates: { lat: 47.76, lng: 14.54 },
+    coords: [14.54, 47.76],
     description: {
       de: "Der Almkogel ist ein bekannter Berg in den Oberösterreichischen Voralpen. Er bietet einen Ausblick auf das Ennstal.",
       hu: "Az Almkogel egy ismert hegy Felső-Ausztria előalpi régiójában. Kilátást nyújt az Enns-völgyre.",
@@ -710,7 +710,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Feuerkogel", hu: "Feuerkogel", ro: "Feuerkogel", en: "Feuerkogel" },
-    coordinates: { lat: 47.81, lng: 13.72 },
+    coords: [13.72, 47.81],
     description: {
       de: "Der Feuerkogel ist der Hausberg von Ebensee im Salzkammergut. Er liegt im Höllengebirge.",
       hu: "A Feuerkogel Ebensee 'házi hegye' a Salzkammergutban. A Höllengebirge-ben található.",
@@ -742,7 +742,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Traunstein", hu: "Traunstein", ro: "Traunstein", en: "Traunstein" },
-    coordinates: { lat: 47.85, lng: 13.84 },
+    coords: [13.84, 47.85],
     description: {
       de: "Der Traunstein ist ein markanter Kalkberg am Traunsee im Salzkammergut. Er gilt als Wahrzeichen des Gebiets.",
       hu: "A Traunstein egy jellegzetes mészkőhegy a Traun-tónál, a Salzkammergutban. A régió jelképének számít.",
@@ -774,7 +774,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Schafberg", hu: "Schafberg", ro: "Schafberg", en: "Schafberg" },
-    coordinates: { lat: 47.74, lng: 13.36 },
+    coords: [13.36, 47.74],
     description: {
       de: "Der Schafberg liegt zwischen Wolfgangsee und Mondsee im Salzkammergut. Eine Zahnradbahn führt auf den Gipfel.",
       hu: "A Schafberg a Wolfgang-tó és a Mond-tó között fekszik a Salzkammergutban. Fogaskerekű vasút visz fel a csúcsra.",
@@ -806,7 +806,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Dachstein-Gletscher", hu: "Dachstein-gleccser", ro: "Ghețarul Dachstein", en: "Dachstein Glacier" },
-    coordinates: { lat: 47.47, lng: 13.62 },
+    coords: [13.62, 47.47],
     description: {
       de: "Das Dachsteinmassiv beheimatet die östlichsten Gletscher der Alpen. Sie bilden ein beliebtes Ziel für Sportler.",
       hu: "A Dachstein-masszívumban találhatók az Alpok legkeletibb gleccserei. Népszerű célpont a sportolók körében.",
@@ -838,7 +838,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Ansberg", hu: "Ansberg", ro: "Ansberg", en: "Ansberg" },
-    coordinates: { lat: 47.38, lng: 14.24 },
+    coords: [14.24, 47.38],
     description: {
       de: "Der Ansberg liegt in der Nähe von Liezen in der Steiermark. Er ist Teil der Niederen Tauern.",
       hu: "Az Ansberg Liezen közelében található Stájerországban. Az Alacsony-Tauern része.",
@@ -870,7 +870,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Planneralm", hu: "Planneralm", ro: "Planneralm", en: "Planneralm" },
-    coordinates: { lat: 47.45, lng: 14.15 },
+    coords: [14.15, 47.45],
     description: {
       de: "Die Planneralm ist eine Hochalmregion in der Steiermark. Sie ist bekannt für ihre Skigebiete und Wanderwege.",
       hu: "A Planneralm egy magashegyi legelőrégió Stájerországban. Ismert síterepeiről és túraútvonalairól.",
@@ -902,7 +902,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Hauser Kaibling", hu: "Hauser Kaibling", ro: "Hauser Kaibling", en: "Hauser Kaibling" },
-    coordinates: { lat: 47.38, lng: 13.82 },
+    coords: [13.82, 47.38],
     description: {
       de: "Der Hauser Kaibling ist ein bedeutender Skiberg in den Schladminger Tauern in der Steiermark.",
       hu: "A Hauser Kaibling egy jelentős síhegy a Schladmingi-Tauernben, Stájerországban.",
@@ -934,7 +934,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Dachstein-West", hu: "Dachstein-West", ro: "Dachstein-West", en: "Dachstein West" },
-    coordinates: { lat: 47.5, lng: 13.5 },
+    coords: [13.5, 47.5],
     description: {
       de: "Dachstein-West ist eine bekannte Skiregion in den nördlichen Ausläufern des Dachsteinmassivs.",
       hu: "A Dachstein-West egy ismert sírégió a Dachstein-masszívum északi nyúlványaiban.",
@@ -966,7 +966,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Murtaler Alpen", hu: "Murtali-Alpok", ro: "Alpii Murtal", en: "Murtal Alps" },
-    coordinates: { lat: 47.1, lng: 14.5 },
+    coords: [14.5, 47.1],
     description: {
       de: "Die Murtaler Alpen liegen in der Steiermark und sind Teil der Niederen Tauern.",
       hu: "A Murtali-Alpok Stájerországban fekszenek, és az Alacsony-Tauern részét képezik.",
@@ -998,7 +998,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Radstädter Tauern", hu: "Radstädti-Tauern", ro: "Tauernii Radstadt", en: "Radstadt Tauern" },
-    coordinates: { lat: 47.25, lng: 13.6 },
+    coords: [13.6, 47.25],
     description: {
       de: "Die Radstädter Tauern sind ein Gebirgszug in Salzburg. Der Obertauern-Pass ist eine bekannte Infrastruktur.",
       hu: "A Radstädti-Tauern egy hegyvonulat Salzburgban. Az Obertauern-hágó ismert infrastruktúra.",
@@ -1030,7 +1030,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Schladminger Tauern", hu: "Schladmingi-Tauern", ro: "Alpii Schladming Tauern", en: "Schladming Tauern" },
-    coordinates: { lat: 47.3, lng: 13.8 },
+    coords: [13.8, 47.3],
     description: {
       de: "Die Schladminger Tauern sind eine Gebirgsgruppe der Niederen Tauern in der Steiermark und Salzburg.",
       hu: "A Schladmingi-Tauern az Alacsony-Tauern hegységcsoportja Stájerországban és Salzburgban.",
@@ -1062,7 +1062,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Seckauer Tauern", hu: "Seckaui-Tauern", ro: "Alpii Seckau Tauern", en: "Seckau Tauern" },
-    coordinates: { lat: 47.35, lng: 14.7 },
+    coords: [14.7, 47.35],
     description: {
       de: "Die Seckauer Tauern bilden den östlichsten Teil der Niederen Tauern in der Steiermark.",
       hu: "A Seckaui-Tauern az Alacsony-Tauern legkeletibb részét alkotja Stájerországban.",
@@ -1094,7 +1094,7 @@ export const austriaReliefV2: POI[] = [
     type: "peak",
     parent: "AT",
     name: { de: "Rötelspitze", hu: "Rötelspitze", ro: "Rötelspitze", en: "Rötelspitze" },
-    coordinates: { lat: 46.85, lng: 10.5 },
+    coords: [10.5, 46.85],
     description: {
       de: "Die Rötelspitze ist ein bekannter Gipfel im Grenzbereich Tirol-Südtirol.",
       hu: "A Rötelspitze egy ismert csúcs a tiroli-dél-tiroli határvidéken.",
@@ -1126,7 +1126,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Hohe Veitsch", hu: "Hohe Veitsch", ro: "Hohe Veitsch", en: "Hohe Veitsch" },
-    coordinates: { lat: 47.6, lng: 15.5 },
+    coords: [15.5, 47.6],
     description: {
       de: "Die Hohe Veitsch ist ein Berg in den Mürzsteger Alpen in der Steiermark.",
       hu: "A Hohe Veitsch egy hegy a Mürzsteger-Alpokban, Stájerországban.",
@@ -1158,7 +1158,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Herrenstein", hu: "Herrenstein", ro: "Herrenstein", en: "Herrenstein" },
-    coordinates: { lat: 47.7, lng: 15.6 },
+    coords: [15.6, 47.7],
     description: {
       de: "Der Herrenstein ist ein Berg in den niederösterreichisch-steirischen Kalkalpen.",
       hu: "A Herrenstein egy hegy az alsó-ausztriai-stájerországi Mészkő-Alpokban.",
@@ -1190,7 +1190,7 @@ export const austriaReliefV2: POI[] = [
     type: "peak",
     parent: "AT",
     name: { de: "Karmelspitze", hu: "Karmelspitze", ro: "Karmelspitze", en: "Karmelspitze" },
-    coordinates: { lat: 47.4, lng: 15.3 },
+    coords: [15.3, 47.4],
     description: {
       de: "Die Karmelspitze ist ein Gipfel in der Hochschwabgruppe in der Steiermark.",
       hu: "A Karmelspitze egy csúcs a Hochschwab-csoportban, Stájerországban.",
@@ -1222,7 +1222,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Große Wildstelle", hu: "Große Wildstelle", ro: "Große Wildstelle", en: "Große Wildstelle" },
-    coordinates: { lat: 47.3, lng: 13.85 },
+    coords: [13.85, 47.3],
     description: {
       de: "Die Große Wildstelle ist der höchste Gipfel der Schladminger Tauern.",
       hu: "A Große Wildstelle a Schladmingi-Tauern legmagasabb csúcsa.",
@@ -1254,7 +1254,7 @@ export const austriaReliefV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Hoher Trieb", hu: "Hoher Trieb", ro: "Hoher Trieb", en: "Hoher Trieb" },
-    coordinates: { lat: 47.2, lng: 14.2 },
+    coords: [14.2, 47.2],
     description: {
       de: "Der Hohe Trieb ist ein Berg in den Niederen Tauern in der Steiermark.",
       hu: "A Hoher Trieb egy hegy az Alacsony-Tauernben, Stájerországban.",

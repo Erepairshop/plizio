@@ -6,7 +6,7 @@ export const germanyLandmarksV2: POI[] = [
     type: "castle",
     parent: "DE",
     name: { de: "Schloss Neuschwanstein", hu: "Neuschwanstein kastély", ro: "Castelul Neuschwanstein", en: "Neuschwanstein Castle" },
-    coordinates: { lat: 47.5576, lng: 10.7498 },
+    coords: [10.7498, 47.5576],
     description: {
       de: "Schloss Neuschwanstein wurde im 19. Jahrhundert im Auftrag von König Ludwig II. errichtet. Es steht in der Nähe von Füssen in Bayern.",
       hu: "A Neuschwanstein kastélyt a 19. században építtette II. Lajos király. Bajorországban, Füssen közelében található.",
@@ -38,7 +38,7 @@ export const germanyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "DE",
     name: { de: "Römerberg Frankfurt", hu: "Frankfurti Römerberg", ro: "Römerberg din Frankfurt", en: "Römerberg Frankfurt" },
-    coordinates: { lat: 50.1102, lng: 8.6821 },
+    coords: [8.6821, 50.1102],
     description: {
       de: "Der Römerberg bildet das historische Zentrum von Frankfurt am Main. Der Platz ist Standort des historischen Rathauses, genannt Römer.",
       hu: "A Römerberg Frankfurt am Main történelmi központja. A téren található a városháza, amelyet Römernek neveznek.",
@@ -70,7 +70,7 @@ export const germanyLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "DE",
     name: { de: "Berliner Dom", hu: "Berlini dóm", ro: "Domul din Berlin", en: "Berlin Cathedral" },
-    coordinates: { lat: 52.519, lng: 13.4011 },
+    coords: [13.4011, 52.519],
     description: {
       de: "Der Berliner Dom ist die größte evangelische Kirche in Berlin. Er liegt auf der Museumsinsel im Bezirk Mitte.",
       hu: "A berlini dóm Berlin legnagyobb evangélikus temploma. A Múzeum-szigeten, a Mitte kerületben található.",
@@ -102,7 +102,7 @@ export const germanyLandmarksV2: POI[] = [
     type: "church",
     parent: "DE",
     name: { de: "Ulmer Münster", hu: "Ulmi nagytemplom", ro: "Catedrala din Ulm", en: "Ulm Minster" },
-    coordinates: { lat: 48.3985, lng: 9.9915 },
+    coords: [9.9915, 48.3985],
     description: {
       de: "Das Ulmer Münster besitzt den höchsten Kirchturm der Welt. Das Bauwerk befindet sich in der Stadt Ulm im Bundesland Baden-Württemberg.",
       hu: "Az ulmi nagytemplom a világ legmagasabb templomtornyával rendelkezik. Az épület Baden-Württemberg tartományban, Ulm városában található.",
@@ -134,7 +134,7 @@ export const germanyLandmarksV2: POI[] = [
     type: "park",
     parent: "DE",
     name: { de: "Viktoriapark", hu: "Viktoria-park", ro: "Parcul Viktoria", en: "Viktoriapark" },
-    coordinates: { lat: 52.487, lng: 13.38 },
+    coords: [13.38, 52.487],
     description: {
       de: "Der Viktoriapark liegt im Berliner Ortsteil Kreuzberg. Auf dem Gelände befindet sich ein künstlicher Wasserfall und das Nationaldenkmal.",
       hu: "A Viktoria-park Berlin Kreuzberg kerületében található. A területen egy mesterséges vízesés és a Nemzeti Emlékmű található.",
@@ -166,7 +166,7 @@ export const germanyLandmarksV2: POI[] = [
     type: "church",
     parent: "DE",
     name: { de: "Kloster Ettal", hu: "Ettali kolostor", ro: "Mănăstirea Ettal", en: "Ettal Abbey" },
-    coordinates: { lat: 47.571, lng: 11.092 },
+    coords: [11.092, 47.571],
     description: {
       de: "Das Kloster Ettal ist ein Benediktinerkloster in Oberbayern. Es ist bekannt für seine prächtige barocke Kuppelkirche.",
       hu: "Az ettali kolostor egy bencés apátság Felső-Bajorországban. Híres pompás barokk kupolás templomáról.",
@@ -198,7 +198,7 @@ export const germanyLandmarksV2: POI[] = [
     type: "museum",
     parent: "DE",
     name: { de: "Museumsinsel Berlin", hu: "Berlini Múzeum-sziget", ro: "Insula Muzeelor din Berlin", en: "Museum Island Berlin" },
-    coordinates: { lat: 52.52, lng: 13.397 },
+    coords: [13.397, 52.52],
     description: {
       de: "Die Museumsinsel ist ein einzigartiges Ensemble von fünf Museen in Berlin. Sie gehört seit 1999 zum UNESCO-Welterbe.",
       hu: "A Múzeum-sziget öt berlini múzeum egyedülálló együttese. 1999 óta az UNESCO világörökség része.",
@@ -230,7 +230,7 @@ export const germanyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "DE",
     name: { de: "Konzilgebäude Konstanz", hu: "Konstanzi konzilépület", ro: "Clădirea Consiliului din Konstanz", en: "Konzilgebäude Konstanz" },
-    coordinates: { lat: 47.659, lng: 9.175 },
+    coords: [9.175, 47.659],
     description: {
       de: "Das Konzilgebäude in Konstanz am Bodensee war Tagungsort des Konstanzer Konzils. Heute dient es als Veranstaltungszentrum.",
       hu: "A konstanzi konzilépület a Bodeni-tó partján volt a konstanzi zsinat helyszíne. Ma rendezvényközpontként szolgál.",

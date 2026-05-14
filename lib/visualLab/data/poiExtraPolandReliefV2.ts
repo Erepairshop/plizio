@@ -9,7 +9,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Meeraugspitze", hu: "Tengerszem-csúcs", ro: "Vârful Rysy", en: "Rysy"},
     image: "/poi-images/poland-rysy-peak-relief-v2.webp",
     coords: [20.0881, 49.1794],
-    coordinates: { lat: 49.1794, lng: 20.0881 },
+    coords: [20.0881, 49.1794],
     description: {
       de: "Der Rysy ist der höchste Berg Polens und liegt in der Hohen Tatra an der Grenze zur Slowakei. Er besteht aus drei Gipfeln, von denen der nordwestliche der höchste Punkt des Landes ist.",
       hu: "A Rysy Lengyelország legmagasabb hegycsúcsa, amely a Magas-Tátrában, a szlovák határon fekszik. Három csúcsa közül az északnyugati emelkedik a lengyel oldal fölé.",
@@ -42,7 +42,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Tatra-Gebirge", hu: "Tátra", ro: "Munții Tatra", en: "Tatra Mountains"},
     image: "/poi-images/poland-tatra-mountains-relief-v2.webp",
     coords: [19.95, 49.25],
-    coordinates: { lat: 49.25, lng: 19.95 },
+    coords: [19.95, 49.25],
     description: {
       de: "Die Tatra ist das höchste Gebirge der Karpaten und das einzige Gebirge mit alpinem Charakter in Polen. Sie bildet eine natürliche Grenze zwischen Polen und der Slowakei.",
       hu: "A Tátra a Kárpátok legmagasabb hegyvonulata és az egyetlen alpesi jellegű hegység Lengyelországban. Természetes határt képez Lengyelország és Szlovákia között.",
@@ -75,7 +75,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Schneekoppe", hu: "Sněžka", ro: "Vârful Sněžka", en: "Śnieżka"},
     image: "/poi-images/poland-sniezka-peak-relief-v2.webp",
     coords: [15.74, 50.736],
-    coordinates: { lat: 50.736, lng: 15.74 },
+    coords: [15.74, 50.736],
     description: {
       de: "Die Schneekoppe ist mit 1603 Metern der höchste Gipfel des Riesengebirges und der Sudeten. Auf dem Gipfel befinden sich eine Kapelle aus dem 17. Jahrhundert und eine futuristische Wetterstation.",
       hu: "A Sněžka 1603 méteres magasságával az Óriás-hegység és a Szudéták legmagasabb pontja. Csúcsán egy 17. századi kápolna és egy futurisztikus meteorológiai állomás áll.",
@@ -108,7 +108,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Bieszczady-Gebirge", hu: "Bieszczady-hegység", ro: "Munții Bieszczady", en: "Bieszczady Mountains"},
     image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp",
     coords: [22.5, 49.15],
-    coordinates: { lat: 49.15, lng: 22.5 },
+    coords: [22.5, 49.15],
     description: {
       de: "Die Bieszczady sind ein Teil der Ostkarpaten im Südosten Polens. Das Gebirge ist bekannt für seine weiten Bergwiesen, die sogenannten Poloniny, und seine unberührte Natur.",
       hu: "A Bieszczady-hegység a Keleti-Kárpátok része Lengyelország délkeleti sarkában. A hegység híres tágas hegyi rétjeiről, az úgynevezett polonyinákról és érintetlen természetéről.",
@@ -141,7 +141,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Tarnica", hu: "Tarnica", ro: "Vârful Tarnica", en: "Tarnica"},
     image: "/poi-images/poland-tarnica-peak-relief-v2.webp",
     coords: [22.7272, 49.0744],
-    coordinates: { lat: 49.0744, lng: 22.7272 },
+    coords: [22.7272, 49.0744],
     description: {
       de: "Die Tarnica ist mit 1346 Metern der höchste Gipfel des polnischen Bieszczady-Gebirges. Der Berg zeichnet sich durch seine markante Form und das große Metallkreuz auf seinem Gipfel aus.",
       hu: "A Tarnica 1346 méteres magasságával a lengyel Bieszczady-hegység legmagasabb pontja. A hegyet jellegzetes alakja és a csúcsán álló nagy fémkereszt teszi felismerhetővé.",
@@ -174,7 +174,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Heuscheuergebirge", hu: "Tábla-hegység", ro: "Munții Stołowe", en: "Stołowe Mountains"},
     image: "/poi-images/poland-stolowe-mountains-relief-v2.webp",
     coords: [16.33, 50.48],
-    coordinates: { lat: 50.48, lng: 16.33 },
+    coords: [16.33, 50.48],
     description: {
       de: "Das Heuscheuergebirge ist das einzige Tafelgebirge Polens und Teil der Sudeten. Es ist berühmt für seine flachen Gipfel und bizarren Sandsteinformationen, die Felsenstädte bilden.",
       hu: "A Tábla-hegység Lengyelország egyetlen táblás hegysége, a Szudéták része. Híres lapos tetejű csúcsairól és bizarr homokkő sziklaalakzatairól, amelyek sziklavárosokat alkotnak.",
@@ -207,7 +207,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Pieninen", hu: "Pieninek", ro: "Munții Pieniny", en: "Pieniny Mountains"},
     image: "/poi-images/poland-pieniny-mountains-relief-v2.webp",
     coords: [20.45, 49.42],
-    coordinates: { lat: 49.42, lng: 20.45 },
+    coords: [20.45, 49.42],
     description: {
       de: "Die Pieninen sind ein Kalksteingebirge im Süden Polens, das vom Fluss Dunajec in einem spektakulären Durchbruchstal geteilt wird. Sie sind bekannt für ihre schroffen Felswände und die reiche Flora.",
       hu: "A Pieninek egy mészkőhegység Lengyelország déli részén, amelyet a Dunajec folyó látványos áttöréses völgye szel ketté. Meredek sziklafalairól és gazdag növényvilágáról híres.",
@@ -240,7 +240,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Heiligkreuzgebirge", hu: "Szentkereszt-hegység", ro: "Munții Sfânta Cruce", en: "Holy Cross Mountains"},
     image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp",
     coords: [21.0, 50.85],
-    coordinates: { lat: 50.85, lng: 21.0 },
+    coords: [21.0, 50.85],
     description: {
       de: "Das Heiligkreuzgebirge ist eines der ältesten Gebirge Europas und liegt in Zentralpolen. Es ist bekannt für seine Geröllhalden aus Quarzit und das Benediktinerkloster auf dem Berg Łysa Góra.",
       hu: "A Szentkereszt-hegység Európa egyik legidősebb hegysége Közép-Lengyelországban. Kvarcit kőtengereiről és a Łysa Góra-hegyen álló bencés kolostorról ismert.",
@@ -273,7 +273,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Lysica", hu: "Łysica", ro: "Vârful Łysica", en: "Łysica"},
     image: "/poi-images/poland-lysica-peak-relief-v2.webp",
     coords: [20.9011, 50.8906],
-    coordinates: { lat: 50.8906, lng: 20.9011 },
+    coords: [20.9011, 50.8906],
     description: {
       de: "Die Łysica ist mit 612 Metern der höchste Gipfel des Heiligkreuzgebirges. Sie besteht aus zwei Gipfeln und ist fast vollständig von Tannenwäldern bedeckt, mit markanten Quarzit-Blockhalden an den Hängen.",
       hu: "A Łysica 612 méteres magasságával a Szentkereszt-hegység legmagasabb pontja. Két csúcsból áll, szinte teljesen fenyőerdő borítja, lejtőin pedig jellegzetes kvarcit kőtengerek találhatók.",
@@ -306,7 +306,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Schlesische Beskiden", hu: "Sziléziai-Beszkidek", ro: "Beskizii Silezieni", en: "Silesian Beskids"},
     image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp",
     coords: [19.0, 49.65],
-    coordinates: { lat: 49.65, lng: 19.0 },
+    coords: [19.0, 49.65],
     description: {
       de: "Die Schlesischen Beskiden sind ein Gebirgszug in den Westbeskiden im Süden Polens. Sie sind ein wichtiges Zentrum für Wintersport und Tourismus, mit bekannten Kurorten wie Wisła und Szczyrk.",
       hu: "A Sziléziai-Beszkidek a Nyugati-Beszkidek egyik vonulata Lengyelország déli részén. Fontos téli sport- és turisztikai központ, olyan híres üdülőhelyekkel, mint Wisła és Szczyrk.",
@@ -339,7 +339,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Skrzyczne", hu: "Skrzyczne", ro: "Vârful Skrzyczne", en: "Skrzyczne"},
     image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp",
     coords: [19.0303, 49.6844],
-    coordinates: { lat: 49.6844, lng: 19.0303 },
+    coords: [19.0303, 49.6844],
     description: {
       de: "Das Skrzyczne ist mit 1257 Metern der höchste Berg der Schlesischen Beskiden. Es ist leicht an dem weithin sichtbaren Fernsehturm auf dem Gipfel zu erkennen und bietet zahlreiche Skipisten.",
       hu: "A Skrzyczne 1257 méteres magasságával a Sziléziai-Beszkidek legmagasabb hegye. A csúcsán álló, messziről látható tévétoronyról könnyen felismerhető, és számos sípályával rendelkezik.",
@@ -372,7 +372,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Turbacz", hu: "Turbacz", ro: "Vârful Turbacz", en: "Turbacz"},
     image: "/poi-images/poland-turbacz-peak-relief-v2.webp",
     coords: [20.1114, 49.543],
-    coordinates: { lat: 49.543, lng: 20.1114 },
+    coords: [20.1114, 49.543],
     description: {
       de: "Der Turbacz ist mit 1310 Metern der höchste Gipfel des Gorce-Gebirges. Er ist ein zentraler Knotenpunkt für Wanderwege und bekannt für seine große Schutzhütte unterhalb des Gipfels.",
       hu: "A Turbacz 1310 méteres magasságával a Gorce-hegység legmagasabb csúcsa. Fontos túraútvonalak csomópontja, és híres a csúcs alatt található nagy turistaházáról.",
@@ -405,7 +405,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Krakau-Tschenstochauer Jura", hu: "Krakkó-Częstochowai-fennsík", ro: "Podișul Cracovia-Częstochowa", en: "Kraków-Częstochowa Upland"},
     image: "/poi-images/poland-jura-upland-relief-v2.webp",
     coords: [19.8, 50.2],
-    coordinates: { lat: 50.2, lng: 19.8 },
+    coords: [19.8, 50.2],
     description: {
       de: "Der Krakau-Tschenstochauer Jura ist ein Kalkstein-Hochland im Süden Polens. Er ist bekannt für seine malerischen Felsformationen, tiefen Täler und die mittelalterlichen Burgen der 'Adlerhorst-Route'.",
       hu: "A Krakkó-Częstochowai-fennsík egy mészkőfennsík Lengyelország déli részén. Festői sziklaalakzatairól, mély völgyeiről és a középkori 'Sasfészkek' útvonal várairól ismert.",
@@ -438,7 +438,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Lubliner Hochland", hu: "Lublini-fennsík", ro: "Podișul Lublin", en: "Lublin Upland"},
     image: "/poi-images/poland-lublin-upland-relief-v2.webp",
     coords: [22.8, 51.2],
-    coordinates: { lat: 51.2, lng: 22.8 },
+    coords: [22.8, 51.2],
     description: {
       de: "Das Lubliner Hochland ist eine wellige Ebene im Osten Polens, die von Lössböden geprägt ist. Die Region ist bekannt für ihre tiefen Erosionsschluchten und die fruchtbare Landwirtschaft.",
       hu: "A Lublini-fennsík egy hullámos síkság Lengyelország keleti részén, amelyet löszös talaj jellemez. A régió mély eróziós szakadékairól és termékeny mezőgazdaságáról ismert.",
@@ -471,7 +471,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Sandomirer Becken", hu: "Sandomierzi-medence", ro: "Bazinul Sandomierz", en: "Sandomierz Basin"},
     image: "/poi-images/poland-sandomierz-basin-relief-v2.webp",
     coords: [22.0, 50.2],
-    coordinates: { lat: 50.2, lng: 22.0 },
+    coords: [22.0, 50.2],
     description: {
       de: "Das Sandomirer Becken ist eine ausgedehnte Tiefebene im Südosten Polens am Zusammenfluss von Weichsel und San. Es ist ein tektonisches Senkungsgebiet, das reich an Bodenschätzen ist.",
       hu: "A Sandomierzi-medence egy kiterjedt síkság Lengyelország délkeleti részén, a Visztula és a San folyók találkozásánál. Tektonikus süllyedék, amely gazdag ásványkincsekben.",
@@ -505,7 +505,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Masurische Seenplatte", hu: "Mazuri-tóhátság", ro: "Regiunea Lacurilor Mazuriene", en: "Masurian Lake District"},
     image: "/poi-images/poland-masurian-lake-district-relief-v2.webp",
     coords: [21.5, 53.8],
-    coordinates: { lat: 53.8, lng: 21.5 },
+    coords: [21.5, 53.8],
     description: {
       de: "Die Masurische Seenplatte ist eine eiszeitlich geprägte Hügellandschaft im Nordosten Polens mit über 2000 Seen. Sie ist das größte Seengebiet des Landes und ein wichtiges Touristenziel.",
       hu: "A Mazuri-tóhátság egy jégkorszaki eredetű dombos vidék Lengyelország északkeleti részén, több mint 2000 tóval. Az ország legnagyobb tóvidéke és fontos turisztikai célpont.",
@@ -538,7 +538,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Lontzke-Düne", hu: "Lontzke-dűne", ro: "Duna Łącka", en: "Łącka Dune"},
     image: "/poi-images/poland-lacka-dune-relief-v2.webp",
     coords: [17.4, 54.75],
-    coordinates: { lat: 54.75, lng: 17.4 },
+    coords: [17.4, 54.75],
     description: {
       de: "Die Lontzke-Düne ist die größte Wanderdüne im Slowinzischen Nationalpark an der Ostseeküste. Sie erreicht eine Höhe von über 30 Metern und bewegt sich jährlich mehrere Meter nach Osten.",
       hu: "A Lontzke-dűne (Wydma Łącka) a legnagyobb vándorló homokdűne a Szlovinciai Nemzeti Parkban, a Balti-tenger partján. Magassága meghaladja a 30 métert, és évente több métert halad keletre.",
@@ -571,7 +571,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Hirschberger Tal", hu: "Jelenia Góra-i-medence", ro: "Depresiunea Jelenia Góra", en: "Jelenia Góra Valley"},
     image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp",
     coords: [15.75, 50.9],
-    coordinates: { lat: 50.9, lng: 15.75 },
+    coords: [15.75, 50.9],
     description: {
       de: "Das Hirschberger Tal ist eine große Senke in den Westsudeten am Fuße des Riesengebirges. Es ist berühmt für seine hohe Dichte an historischen Schlössern, Parks und Herrensitzen.",
       hu: "A Jelenia Góra-i-medence egy nagy süllyedék a Nyugati-Szudétákban, az Óriás-hegység lábánál. Híres a történelmi kastélyok, parkok és nemesi kúriák rendkívüli sűrűségéről.",
@@ -604,7 +604,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Saybuscher Beskiden", hu: "Magas-Beszkidek", ro: "Beskizii Żywiecki", en: "Żywiec Beskids"},
     image: "/poi-images/poland-beskid-zywiecki-range-relief-v2.webp",
     coords: [19.3, 49.5],
-    coordinates: { lat: 49.5, lng: 19.3 },
+    coords: [19.3, 49.5],
     description: {
       de: "Die Saybuscher Beskiden sind der zweithöchste Gebirgszug Polens nach der Tatra. Sie liegen an der Grenze zur Slowakei und beherbergen den Babia-Góra-Nationalpark.",
       hu: "A Magas-Beszkidek (Beskid Żywiecki) Lengyelország második legmagasabb hegysége a Tátra után. A szlovák határon fekszik, és itt található a Babia Góra Nemzeti Park.",
@@ -637,7 +637,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Sudeten", hu: "Szudéták", ro: "Munții Sudeți", en: "Sudetes"},
     image: "/poi-images/poland-sudetes-mountains-relief-v2.webp",
     coords: [16.0, 50.5],
-    coordinates: { lat: 50.5, lng: 16.0 },
+    coords: [16.0, 50.5],
     description: {
       de: "Die Sudeten sind ein Gebirgszug in Mitteleuropa, der sich entlang der Grenze zwischen Polen, Tschechien und Deutschland erstreckt. Sie bestehen aus vielen kleineren Massiven wie dem Riesengebirge.",
       hu: "A Szudéták egy közép-európai hegylánc, amely Lengyelország, Csehország és Németország határa mentén húzódik. Sok kisebb masszívumból áll, mint például az Óriás-hegység.",
@@ -670,7 +670,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Niedere Beskiden", hu: "Alacsony-Beszkidek", ro: "Beskizii Joși", en: "Low Beskids"},
     image: "/poi-images/poland-beskid-niski-range-relief-v2.webp",
     coords: [21.3, 49.4],
-    coordinates: { lat: 49.4, lng: 21.3 },
+    coords: [21.3, 49.4],
     description: {
       de: "Die Niederen Beskiden sind der am niedrigsten gelegene Teil der Karpaten in Polen. Die Region ist bekannt für ihre sanften Hügel, die Lemken-Kultur und die älteste Ölindustrie der Welt.",
       hu: "Az Alacsony-Beszkidek a Kárpátok legalacsonyabb része Lengyelországban. A régió szelíd dombjairól, a lemkó kultúráról és a világ legrégebbi olajiparáról ismert.",
@@ -703,7 +703,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Przemysler Vorgebirge", hu: "Przemyśli-előhegység", ro: "Piemontul Przemyśl", en: "Przemyśl Foothills"},
     image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp",
     coords: [22.6, 49.65],
-    coordinates: { lat: 49.65, lng: 22.6 },
+    coords: [22.6, 49.65],
     description: {
       de: "Das Przemysler Vorgebirge liegt im äußersten Südosten Polens und bildet den Übergang von den Karpaten zum Tiefland. Es ist geprägt durch abgerundete Hügel und tiefe Flusstäler.",
       hu: "A Przemyśli-előhegység Lengyelország távoli délkeleti részén fekszik, átmenetet képezve a Kárpátok és a síkság között. Lekerekített dombok és mély folyóvölgyek jellemzik.",
@@ -736,7 +736,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Sandzer Beskiden", hu: "Sądecki-Beszkidek", ro: "Beskizii Sądecki", en: "Sądecki Beskids"},
     image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp",
     coords: [20.8, 49.45],
-    coordinates: { lat: 49.45, lng: 20.8 },
+    coords: [20.8, 49.45],
     description: {
       de: "Die Sandzer Beskiden sind Teil der Westbeskiden und werden durch das Tal des Flusses Poprad geteilt. Die Region ist bekannt für ihre zahlreichen Mineralwasserquellen und Kurorte.",
       hu: "A Sądecki-Beszkidek a Nyugati-Beszkidek része, amelyet a Poprád folyó völgye szel ketté. A régió számos ásványvízforrásáról és gyógyfürdőjéről híres.",
@@ -769,7 +769,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Gorce-Gebirge", hu: "Gorce-hegység", ro: "Munții Gorce", en: "Gorce Mountains"},
     image: "/poi-images/poland-gorce-mountains-relief-v2.webp",
     coords: [20.15, 49.55],
-    coordinates: { lat: 49.55, lng: 20.15 },
+    coords: [20.15, 49.55],
     description: {
       de: "Das Gorce-Gebirge ist ein Gebirgszug in den Westbeskiden im Süden Polens. Es zeichnet sich durch sternförmig vom zentralen Gipfel Turbacz ausgehende Kämme und weite Bergwiesen aus.",
       hu: "A Gorce-hegység a Nyugati-Beszkidek egyik vonulata Lengyelország déli részén. Jellegzetessége a központi Turbacz-csúcsról csillagszerűen szétágazó gerincek és a tágas hegyi rétek.",
@@ -802,7 +802,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Polnisches Tiefland", hu: "Lengyel-alföld", ro: "Câmpia Poloneză", en: "Polish Plain"},
     image: "/poi-images/poland-north-european-plain-relief-v2.webp",
     coords: [19.0, 52.3],
-    coordinates: { lat: 52.3, lng: 19.0 },
+    coords: [19.0, 52.3],
     description: {
       de: "Das Polnische Tiefland ist Teil der Nordeuropäischen Ebene und bedeckt den größten Teil Zentral- und Nordpolens. Es ist eine weite, flache bis leicht hügelige Landschaft, die eiszeitlich geformt wurde.",
       hu: "A Lengyel-alföld az Európai-síkság része, amely Közép- és Észak-Lengyelország nagy részét elfoglalja. Tágas, lapos vagy enyhén hullámos táj, amelyet a jégkorszak formált.",
@@ -836,7 +836,7 @@ export const polandReliefV2: POI[] = [
     name: { de: "Wieliczka-Vorgebirge", hu: "Wieliczkai-előhegység", ro: "Piemontul Wieliczka", en: "Wieliczka Foothills"},
     image: "/poi-images/poland-pogorze-wielickie-upland-relief-v2.webp",
     coords: [20.0, 49.9],
-    coordinates: { lat: 49.9, lng: 20.0 },
+    coords: [20.0, 49.9],
     description: {
       de: "Das Wieliczka-Vorgebirge liegt südlich von Krakau und bildet den nördlichsten Teil der Beskiden. Es ist eine Hügellandschaft, die weltweit für ihre Steinsalzvorkommen bekannt ist.",
       hu: "A Wieliczkai-előhegység Krakkótól délre fekszik, és a Beszkidek legészakibb részét alkotja. Dombos vidék, amely világszerte ismert kősólelőhelyeiről.",
@@ -869,7 +869,7 @@ export const polandReliefV2: POI[] = [
     type: "mountain",
     parent: "PL",
     name: { de: "Kleine Beskiden", hu: "Kis-Beszkidek", ro: "Beskizii Mici", en: "Little Beskids" },
-    coordinates: { lat: 49.7825, lng: 19.3411 },
+    coords: [19.3411, 49.7825],
     description: {
       de: "Eine Gebirgsgruppe in den Äußeren Westkarpaten zwischen dem Soła- und Skawa-Tal. Sie erreicht eine maximale Höhe von 909 Metern am Czupel.",
       hu: "Hegységcsoport a Külső-Nyugati-Kárpátokban, a Sola és Skawa völgyek között. Legmagasabb pontja a 909 méteres Czupel.",
@@ -901,7 +901,7 @@ export const polandReliefV2: POI[] = [
     type: "mountain",
     parent: "PL",
     name: { de: "Makower Beskiden", hu: "Makówi-Beszkidek", ro: "Beskizii Maków", en: "Maków Beskids" },
-    coordinates: { lat: 49.7214, lng: 19.6833 },
+    coords: [19.6833, 49.7214],
     description: {
       de: "Teil der Mittelbeskiden in Südpolen, südlich von Krakau gelegen. Die Landschaft ist geprägt von sanften Hügeln und tiefen Flusstälern.",
       hu: "A Középső-Beszkidek része Dél-Lengyelországban, Krakkótól délre. A tájat lankás dombok és mély folyóvölgyek jellemzik.",
@@ -933,7 +933,7 @@ export const polandReliefV2: POI[] = [
     type: "landmark",
     parent: "PL",
     name: { de: "Großpolnisches Tiefland", hu: "Nagy-lengyel-alföld", ro: "Câmpia Poloniei Mari", en: "Greater Poland Lowland" },
-    coordinates: { lat: 52.25, lng: 17.0 },
+    coords: [17.0, 52.25],
     description: {
       de: "Ein weites Tiefland im westlichen Polen, geformt durch eiszeitliche Gletscheraktivitäten. Es ist durch eine flache Topografie und zahlreiche Seen gekennzeichnet.",
       hu: "Kiterjedt alföld Nyugat-Lengyelországban, amelyet jégkori gleccsertevékenység formált. Lapos topográfia és számos tó jellemzi.",
@@ -965,7 +965,7 @@ export const polandReliefV2: POI[] = [
     type: "landmark",
     parent: "PL",
     name: { de: "Kaschubische Seenplatte", hu: "Kasubiai-tóvidék", ro: "Regiunea Lacustră Cașubiană", en: "Kashubian Lake District" },
-    coordinates: { lat: 54.2167, lng: 17.9167 },
+    coords: [17.9167, 54.2167],
     description: {
       de: "Eine hügelige Landschaft in Nordpolen mit zahlreichen Seen und eiszeitlichen Moränen. Sie gilt als eine der landschaftlich abwechslungsreichsten Regionen im Norden.",
       hu: "Dombvidéki táj Észak-Lengyelországban, számos tóval és jégkori morénákkal. Észak egyik legváltozatosabb tájának tartják.",
@@ -997,7 +997,7 @@ export const polandReliefV2: POI[] = [
     type: "mountain",
     parent: "PL",
     name: { de: "Heiligkreuz-Kamm", hu: "Szentkereszt-hegyhát", ro: "Culmea Sfintei Cruci", en: "Holy Cross Ridge" },
-    coordinates: { lat: 50.8667, lng: 21.05 },
+    coords: [21.05, 50.8667],
     description: {
       de: "Ein zentraler Gebirgskamm innerhalb des Heiligkreuzgebirges in Südpolen. Er besteht aus widerstandsfähigen Gesteinsschichten wie Quarzit.",
       hu: "Központi hegygerinc a Szentkereszt-hegységen belül, Dél-Lengyelországban. Ellenálló kőzetrétegekből, például kvarcitból áll.",
@@ -1029,7 +1029,7 @@ export const polandReliefV2: POI[] = [
     type: "mountain",
     parent: "PL",
     name: { de: "Inselbeskiden", hu: "Sziget-Beszkidek", ro: "Beskizii Insulari", en: "Island Beskids" },
-    coordinates: { lat: 49.6833, lng: 20.2 },
+    coords: [20.2, 49.6833],
     description: {
       de: "Ein Gebirgszug der Westbeskiden, benannt nach seinen isolierten Gipfeln, die wie Inseln aus dem umliegenden Tal herausragen.",
       hu: "A Nyugati-Beszkidek hegylánca, amely elszigetelt csúcsairól kapta a nevét, amelyek szigetként emelkednek ki a környező völgyekből.",
@@ -1061,7 +1061,7 @@ export const polandReliefV2: POI[] = [
     type: "peak",
     parent: "PL",
     name: { de: "Leskowiec", hu: "Leskowiec", ro: "Leskowiec", en: "Leskowiec Peak" },
-    coordinates: { lat: 49.7758, lng: 19.4678 },
+    coords: [19.4678, 49.7758],
     description: {
       de: "Ein bekannter Gipfel in den Kleinen Beskiden, der eine weitreichende Aussicht auf die umliegende Berglandschaft bietet. Er ist ein beliebtes Ziel für Wanderer.",
       hu: "Ismert csúcs a Kis-Beszkidekben, amely messzire nyúló kilátást nyújt a környező hegyvidékre. Kedvelt túracélpont.",
@@ -1093,7 +1093,7 @@ export const polandReliefV2: POI[] = [
     type: "landmark",
     parent: "PL",
     name: { de: "Pieninen-Hochland", hu: "Pieninek-fennsík", ro: "Podișul Pieniny", en: "Pieniny Plateau" },
-    coordinates: { lat: 49.4167, lng: 20.45 },
+    coords: [20.45, 49.4167],
     description: {
       de: "Eine Kalkstein-Gebirgsregion in Südpolen an der Grenze zur Slowakei. Sie ist bekannt für ihre steilen Felsformationen und tiefen Schluchten.",
       hu: "Mészkőhegyvidék Dél-Lengyelországban, a szlovák határon. Meredek sziklaképződményeiről és mély szakadékairól ismert.",
@@ -1125,7 +1125,7 @@ export const polandReliefV2: POI[] = [
     type: "landmark",
     parent: "PL",
     name: { de: "Schlesisches Tiefland", hu: "Sziléziai-alföld", ro: "Câmpia Sileziei", en: "Silesian Lowland" },
-    coordinates: { lat: 50.85, lng: 17.5 },
+    coords: [17.5, 50.85],
     description: {
       de: "Ein fruchtbares Tiefland im Südwesten Polens, das von der Oder durchflossen wird. Es ist das landwirtschaftliche Zentrum der Region.",
       hu: "Termékeny alföld Délnyugat-Lengyelországban, amelyet az Odera folyó szel át. A régió mezőgazdasági központja.",
@@ -1157,7 +1157,7 @@ export const polandReliefV2: POI[] = [
     type: "peak",
     parent: "PL",
     name: { de: "Chełm", hu: "Chełm", ro: "Chełm", en: "Chełm Peak" },
-    coordinates: { lat: 49.8336, lng: 19.9192 },
+    coords: [19.9192, 49.8336],
     description: {
       de: "Ein Gipfel im Makower Beskiden bei Myślenice. Er ist ein bekannter Aussichtspunkt für Wanderer und liegt unweit von Krakau.",
       hu: "Csúcs a Makówi-Beszkidekben, Myślenice közelében. Ismert kilátópont a túrázók számára, nem messze Krakkótól.",
@@ -1189,7 +1189,7 @@ export const polandReliefV2: POI[] = [
     type: "landmark",
     parent: "PL",
     name: { de: "Sudetenvorland", hu: "Szudéta-előhegység", ro: "Piemontul Sudeților", en: "Sudetes Piedmont" },
-    coordinates: { lat: 50.7, lng: 16.8 },
+    coords: [16.8, 50.7],
     description: {
       de: "Eine hügelige Übergangszone zwischen dem schlesischen Tiefland und dem Sudetengebirge. Die Landschaft ist durch sanfte Hügel geprägt.",
       hu: "Hilly átmeneti zóna a Sziléziai-alföld és a Szudéták között. A tájat lankás dombok jellemzik.",
@@ -1221,7 +1221,7 @@ export const polandReliefV2: POI[] = [
     type: "valley",
     parent: "PL",
     name: { de: "Weichsel-Tal", hu: "Visztula-völgy", ro: "Valea Vistulei", en: "Vistula Valley" },
-    coordinates: { lat: 49.65, lng: 18.85 },
+    coords: [18.85, 49.65],
     description: {
       de: "Das obere Tal der Weichsel im Schlesischen Beskiden. Es ist bekannt für seine malerische Lage zwischen hohen Bergen.",
       hu: "A Visztula felső völgye a Sziléziai-Beszkidekben. Festői fekvéséről ismert a magas hegyek között.",
@@ -1253,7 +1253,7 @@ export const polandReliefV2: POI[] = [
     type: "landmark",
     parent: "PL",
     name: { de: "Lebuser Seenplatte", hu: "Lubuski-tóvidék", ro: "Regiunea Lacustră Lubusz", en: "Lubusz Lake District" },
-    coordinates: { lat: 52.3333, lng: 15.3333 },
+    coords: [15.3333, 52.3333],
     description: {
       de: "Eine seenreiche Landschaft im Westen Polens, geprägt durch sanfte Hügel und ausgedehnte Wälder. Die Region ist Teil des nordpolnischen Tieflands.",
       hu: "Tavakban gazdag táj Nyugat-Lengyelországban, lankás dombokkal és kiterjedt erdőkkel. A régió az észak-lengyelországi alföld része.",

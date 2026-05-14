@@ -6,7 +6,7 @@ export const andorraNatureV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Casamanya", hu: "Pic de Casamanya", ro: "Vârful Casamanya", en: "Pic de Casamanya" },
-    coordinates: { lat: 42.5513, lng: 1.5627 },
+    coords: [1.5627, 42.5513],
     description: {
       de: "Dieser Berg liegt im geografischen Zentrum des Landes und trennt die Täler von Ordino und Canillo. Er bietet eine weite Aussicht auf die gesamten Pyrenäen.",
       hu: "Ez a hegy az ország földrajzi középpontjában található, elválasztva Ordino és Canillo völgyeit. Csúcsáról széles kilátás nyílik az egész Pireneusokra.",
@@ -38,7 +38,7 @@ export const andorraNatureV2: POI[] = [
     type: "lake",
     parent: "AD",
     name: { de: "Estany de Juclà", hu: "Estany de Juclà", ro: "Lacul Juclà", en: "Estany de Juclà" },
-    coordinates: { lat: 42.5997, lng: 1.7145 },
+    coords: [1.7145, 42.5997],
     description: {
       de: "Dies ist der flächenmäßig größte See im Fürstentum Andorra. Er liegt im Incles-Tal und ist von steilen Felswänden und alpinen Wiesen umgeben.",
       hu: "Ez az Andorrai Hercegség legnagyobb felületű tava. Az Incles-völgyben található, meredek sziklafalak és alpesi rétek veszik körül.",
@@ -70,7 +70,7 @@ export const andorraNatureV2: POI[] = [
     type: "lake",
     parent: "AD",
     name: { de: "Cirque de Pessons", hu: "Cirque de Pessons", ro: "Circul Pessons", en: "Cirque de Pessons" },
-    coordinates: { lat: 42.5225, lng: 1.6858 },
+    coords: [1.6858, 42.5225],
     description: {
       de: "Ein großer glazialer Talkessel mit einer Kette von mehreren Bergseen in verschiedenen Höhenlagen. Es ist das größte Granitmassiv des Landes.",
       hu: "Egy hatalmas gleccservölgy, amelyben több hegyi tó láncolata található különböző magasságokban. Ez az ország legnagyobb gránitmasszívuma.",
@@ -102,7 +102,7 @@ export const andorraNatureV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de l'Estanyó", hu: "Pic de l'Estanyó", ro: "Vârful l'Estanyó", en: "Pic de l'Estanyó" },
-    coordinates: { lat: 42.5938, lng: 1.5755 },
+    coords: [1.5755, 42.5938],
     description: {
       de: "Dieser Gipfel ist der zweithöchste Berg in Andorra und bietet einen Blick auf den nahegelegenen Estanyó-See. Er gehört zum Massiv von Ordino.",
       hu: "Ez a csúcs Andorra második legmagasabb hegye, ahonnan kilátás nyílik a közeli Estanyó-tóra. Az Ordino-masszívum része.",
@@ -134,7 +134,7 @@ export const andorraNatureV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Font Blanca", hu: "Pic de Font Blanca", ro: "Vârful Font Blanca", en: "Pic de Font Blanca" },
-    coordinates: { lat: 42.6489, lng: 1.5342 },
+    coords: [1.5342, 42.6489],
     description: {
       de: "Ein prominenter Gipfel an der Grenze zu Frankreich, der für seine steilen Hänge bekannt ist. Er ist im Winter ein beliebtes Ziel für Skitourengeher.",
       hu: "Egy kiemelkedő csúcs a francia határon, amely meredek lejtőiről ismert. Télen a sítúrázók kedvelt célpontja.",
@@ -166,7 +166,7 @@ export const andorraNatureV2: POI[] = [
     type: "lake",
     parent: "AD",
     name: { de: "Estany de les Abelletes", hu: "Estany de les Abelletes", ro: "Lacul Abelletes", en: "Estany de les Abelletes" },
-    coordinates: { lat: 42.5358, lng: 1.7291 },
+    coords: [1.7291, 42.5358],
     description: {
       de: "Dieser kleine Bergsee bildet die Grenze zwischen Andorra und Frankreich. Er gilt als die offizielle Quelle des Flusses Ariège im Norden.",
       hu: "Ez a kis hegyi tó képezi a határt Andorra és Franciaország között. Az északra tartó Ariège folyó hivatalos forrásának tekintik.",
@@ -198,7 +198,7 @@ export const andorraNatureV2: POI[] = [
     type: "forest",
     parent: "AD",
     name: { de: "Bosc de la Devesa", hu: "Bosc de la Devesa", ro: "Pădurea Devesa", en: "Bosc de la Devesa" },
-    coordinates: { lat: 42.5802, lng: 1.5204 },
+    coords: [1.5204, 42.5802],
     description: {
       de: "Ein dichter Wald aus Waldkiefern und Tannen oberhalb von Ordino. Er ist ein wichtiges Rückzugsgebiet für das Auerwild in den Pyrenäen.",
       hu: "Sűrű erdei fenyőkből és jegenyefenyőkből álló erdő Ordino felett. Fontos menedékhely a pireneusi siketfajd számára.",
@@ -230,7 +230,7 @@ export const andorraNatureV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de la Portelleta", hu: "Pic de la Portelleta", ro: "Vârful Portelleta", en: "Pic de la Portelleta" },
-    coordinates: { lat: 42.4752, lng: 1.6521 },
+    coords: [1.6521, 42.4752],
     description: {
       de: "Der höchste Gipfel im Madriu-Perafita-Claror-Tal, das zum UNESCO-Welterbe gehört. Er markiert die Grenze zwischen Andorra und Spanien.",
       hu: "Az UNESCO világörökség részét képező Madriu-Perafita-Claror völgy legmagasabb csúcsa. Andorra és Spanyolország határán fekszik.",
@@ -262,7 +262,7 @@ export const andorraNatureV2: POI[] = [
     type: "lake",
     parent: "AD",
     name: { de: "Estanys de la Vall del Riu", hu: "Estanys de la Vall del Riu", ro: "Lacurile Vall del Riu", en: "Estanys de la Vall del Riu" },
-    coordinates: { lat: 42.5912, lng: 1.6256 },
+    coords: [1.6256, 42.5912],
     description: {
       de: "Eine Gruppe von Hochgebirgsseen in einem unberührten Tal nördlich von Canillo. Die Seen sind von schroffen Granitgipfeln umgeben.",
       hu: "Magashegyi tavak csoportja egy érintetlen völgyben Canillótól északra. A tavakat meredek gránitcsúcsok veszik körül.",
@@ -294,7 +294,7 @@ export const andorraNatureV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic Negre de Claror", hu: "Pic Negre de Claror", ro: "Vârful Pic Negre", en: "Pic Negre de Claror" },
-    coordinates: { lat: 42.4418, lng: 1.5456 },
+    coords: [1.5456, 42.4418],
     description: {
       de: "Ein Berg im Süden Andorras, der für seine dunkle Farbe und den weiten Blick über die Cerdanya-Ebene bekannt ist. Er ist im Winter oft schneebedeckt.",
       hu: "Dél-andorrai hegy, amely sötét színéről és a Cerdanya-síkságra nyíló széles kilátásáról ismert. Télen gyakran hó borítja.",
@@ -326,7 +326,7 @@ export const andorraNatureV2: POI[] = [
     type: "lake",
     parent: "AD",
     name: { de: "Estany de Cabana Sorda", hu: "Estany de Cabana Sorda", ro: "Lacul Cabana Sorda", en: "Estany de Cabana Sorda" },
-    coordinates: { lat: 42.6035, lng: 1.6738 },
+    coords: [1.6738, 42.6035],
     description: {
       de: "Ein kreisförmiger Bergsee im Incles-Tal, flankiert von einem gleichnamigen Bergschutzhaus. Er ist ein klassisches Ziel für Familienwanderungen.",
       hu: "Kör alakú hegyi tó az Incles-völgyben, az azonos nevű menedékház mellett. Klasszikus célpont családi túrákhoz.",
@@ -358,7 +358,7 @@ export const andorraNatureV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Medacorba", hu: "Pic de Medacorba", ro: "Vârful Medacorba", en: "Pic de Medacorba" },
-    coordinates: { lat: 42.6045, lng: 1.4428 },
+    coords: [1.4428, 42.6045],
     description: {
       de: "Dieser Gipfel markiert den Dreiländereck-Punkt, an dem Andorra, Spanien und Frankreich aufeinandertreffen. Er ist ein bedeutender geografischer Punkt.",
       hu: "Ez a csúcs jelzi azt a hármashatár pontot, ahol Andorra, Spanyolország és Franciaország találkozik. Fontos földrajzi pont.",
@@ -390,7 +390,7 @@ export const andorraNatureV2: POI[] = [
     type: "peak",
     parent: "AD",
     name: { de: "Pic de Sanfonts", hu: "Pic de Sanfonts", ro: "Vârful Sanfonts", en: "Pic de Sanfonts" },
-    coordinates: { lat: 42.5872, lng: 1.4589 },
+    coords: [1.4589, 42.5872],
     description: {
       de: "Ein Berg im Westen Andorras nahe dem Comapedrosa-Massiv. Er bietet einen Blick auf den Baiau-Kessel und die umliegenden Hochtäler.",
       hu: "Hegy Nyugat-Andorrában, a Comapedrosa-masszívum közelében. Kilátást nyújt a Baiau-katlanra és a környező magas völgyekre.",

@@ -6,7 +6,7 @@ export const finlandNatureV2: POI[] = [
     type: "lake",
     parent: "FI",
     name: { de: "Oidulampi", hu: "Oidulampi", ro: "Oidulampi", en: "Oidulampi" },
-    coordinates: { lat: 66.5, lng: 25.8 },
+    coords: [25.8, 66.5],
     description: {
       de: "Oidulampi ist ein kleiner See im Norden Finnlands. Er liegt in der Nähe der Stadt Rovaniemi in der Region Lappland.",
       hu: "Az Oidulampi egy kis tó Finnország északi részén. Rovaniemi város közelében, Lappföld régióban található.",
@@ -38,7 +38,7 @@ export const finlandNatureV2: POI[] = [
     type: "river",
     parent: "FI",
     name: { de: "Pyhäkoski", hu: "Pyhäkoski", ro: "Pyhäkoski", en: "Pyhäkoski" },
-    coordinates: { lat: 64.8, lng: 26.2 },
+    coords: [26.2, 64.8],
     description: {
       de: "Pyhäkoski ist ein Stromabschnitt des Flusses Oulujoki. Er ist bekannt für sein schnelles Wasser und seine Lage in der Gemeinde Muhos.",
       hu: "A Pyhäkoski az Oulujoki folyó egyik szakasza. Gyors vizéről és a Muhos településen való elhelyezkedéséről ismert.",
@@ -70,7 +70,7 @@ export const finlandNatureV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Aavasaksa", hu: "Aavasaksa", ro: "Aavasaksa", en: "Aavasaksa" },
-    coordinates: { lat: 66.4, lng: 23.7 },
+    coords: [23.7, 66.4],
     description: {
       de: "Aavasaksa ist ein bekannter Hügel in Ylitornio. Er liegt nahe der schwedischen Grenze am Fluss Tornionjoki.",
       hu: "Az Aavasaksa egy jól ismert domb Ylitornióban. A svéd határ közelében, a Tornionjoki folyó mentén található.",
@@ -102,7 +102,7 @@ export const finlandNatureV2: POI[] = [
     type: "lake",
     parent: "FI",
     name: { de: "Konnevesi", hu: "Konnevesi", ro: "Konnevesi", en: "Konnevesi" },
-    coordinates: { lat: 62.6, lng: 26.6 },
+    coords: [26.6, 62.6],
     description: {
       de: "Konnevesi ist ein großer See in Zentralfinnland. Er bildet das Zentrum des Nationalparks Konnevesi.",
       hu: "A Konnevesi egy nagy tó Közép-Finnországban. A Konnevesi Nemzeti Park központját alkotja.",
@@ -134,7 +134,7 @@ export const finlandNatureV2: POI[] = [
     type: "mountain",
     parent: "FI",
     name: { de: "Pallas", hu: "Pallas", ro: "Pallas", en: "Pallas" },
-    coordinates: { lat: 68.0, lng: 24.1 },
+    coords: [24.1, 68.0],
     description: {
       de: "Pallas ist ein Gebirgszug im Pallas-Yllästunturi-Nationalpark. Er ist für seine Wanderwege und arktische Natur bekannt.",
       hu: "A Pallas egy hegyvonulat a Pallas-Yllästunturi Nemzeti Parkban. Ismert túraútvonalairól és sarkvidéki természetéről.",
@@ -166,7 +166,7 @@ export const finlandNatureV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Syöte", hu: "Syöte", ro: "Syöte", en: "Syöte" },
-    coordinates: { lat: 65.7, lng: 27.7 },
+    coords: [27.7, 65.7],
     description: {
       de: "Syöte ist eine Nationalparkregion in Pudasjärvi. Sie zeichnet sich durch hügelige Landschaften und dichte Wälder aus.",
       hu: "A Syöte egy nemzeti park régió Pudasjärviben. Hullámos tájak és sűrű erdők jellemzik.",
@@ -198,7 +198,7 @@ export const finlandNatureV2: POI[] = [
     type: "river",
     parent: "FI",
     name: { de: "Kemijoki-Delta", hu: "Kemijoki-delta", ro: "Delta râului Kemijoki", en: "Kemijoki River Delta" },
-    coordinates: { lat: 65.7, lng: 24.5 },
+    coords: [24.5, 65.7],
     description: {
       de: "Das Kemijoki-Delta ist die Mündung des längsten Flusses Finnlands in den Bottnischen Meerbusen. Es liegt nahe Kemi.",
       hu: "A Kemijoki-delta Finnország leghosszabb folyójának torkolata a Botteni-öbölnél. Kemi közelében található.",
@@ -230,7 +230,7 @@ export const finlandNatureV2: POI[] = [
     type: "lake",
     parent: "FI",
     name: { de: "Saimaa-Archipel", hu: "Saimaa-szigetvilág", ro: "Arhipelagul Saimaa", en: "Saimaa Archipelago" },
-    coordinates: { lat: 61.2, lng: 28.5 },
+    coords: [28.5, 61.2],
     description: {
       de: "Der Saimaa-Archipel umfasst Tausende von Inseln im Saimaa-See. Er ist Lebensraum für die Saimaa-Ringelrobbe.",
       hu: "A Saimaa-szigetvilág több ezer szigetet foglal magában a Saimaa-tóban. A Saimaa-gyűrűsfóka élőhelye.",
@@ -262,7 +262,7 @@ export const finlandNatureV2: POI[] = [
     type: "forest",
     parent: "FI",
     name: { de: "Ulvinsalo", hu: "Ulvinsalo", ro: "Ulvinsalo", en: "Ulvinsalo" },
-    coordinates: { lat: 64.3, lng: 29.8 },
+    coords: [29.8, 64.3],
     description: {
       de: "Ulvinsalo ist ein Naturschutzgebiet in Kuhmo. Es bewahrt alte, unberührte Nadelwälder nahe der russischen Grenze.",
       hu: "Az Ulvinsalo egy természetvédelmi terület Kuhmóban. Megőrzi az érintetlen öreg tűlevelű erdőket az orosz határ közelében.",
@@ -294,7 +294,7 @@ export const finlandNatureV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Hiidenportti", hu: "Hiidenportti", ro: "Hiidenportti", en: "Hiidenportti" },
-    coordinates: { lat: 64.2, lng: 29.1 },
+    coords: [29.1, 64.2],
     description: {
       de: "Hiidenportti ist ein Nationalpark in Sotkamo. Er ist bekannt für seine tiefe Schlucht, die eine beeindruckende geologische Formation darstellt.",
       hu: "A Hiidenportti egy nemzeti park Sotkamóban. Mély szurdokáról ismert, amely lenyűgöző geológiai képződmény.",
@@ -326,7 +326,7 @@ export const finlandNatureV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Kvarken", hu: "Kvarken", ro: "Kvarken", en: "Kvarken" },
-    coordinates: { lat: 63.3, lng: 21.3 },
+    coords: [21.3, 63.3],
     description: {
       de: "Das Kvarken-Gebiet ist eine Küstenlandschaft am Bottnischen Meerbusen. Es ist ein UNESCO-Welterbe wegen seiner postglazialen Landhebung.",
       hu: "A Kvarken-régió egy partvidék a Botteni-öbölnél. UNESCO világörökség a glaciális utáni földkiemelkedés miatt.",
@@ -358,7 +358,7 @@ export const finlandNatureV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Oulanka", hu: "Oulanka", ro: "Oulanka", en: "Oulanka" },
-    coordinates: { lat: 66.4, lng: 29.4 },
+    coords: [29.4, 66.4],
     description: {
       de: "Oulanka ist ein Nationalpark nahe Kuusamo. Er ist berühmt für seine Flusslandschaften und den beliebten Bärenrundweg.",
       hu: "Az Oulanka egy nemzeti park Kuusamo közelében. Híres folyótájairól és a népszerű Medve-körútról (Karhunkierros).",
@@ -390,7 +390,7 @@ export const finlandNatureV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Repovesi", hu: "Repovesi", ro: "Repovesi", en: "Repovesi" },
-    coordinates: { lat: 61.2, lng: 26.6 },
+    coords: [26.6, 61.2],
     description: {
       de: "Repovesi ist ein Nationalpark in der Region Kouvola. Er ist für seine Hügel, Seen und die Hängebrücke bekannt.",
       hu: "A Repovesi egy nemzeti park Kouvola régióban. Dombjairól, tavairól és függőhídjáról ismert.",
@@ -422,7 +422,7 @@ export const finlandNatureV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Helvetinjärvi", hu: "Helvetinjärvi", ro: "Helvetinjärvi", en: "Helvetinjärvi" },
-    coordinates: { lat: 62.0, lng: 23.9 },
+    coords: [23.9, 62.0],
     description: {
       de: "Helvetinjärvi ist ein Nationalpark in Ruovesi. Er ist für seine dramatische Schlucht namens Helvetinkolu bekannt.",
       hu: "A Helvetinjärvi egy nemzeti park Ruovesiben. A Helvetinkolu nevű drámai szurdokáról ismert.",
@@ -454,7 +454,7 @@ export const finlandNatureV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Torronsuo", hu: "Torronsuo", ro: "Torronsuo", en: "Torronsuo" },
-    coordinates: { lat: 60.7, lng: 23.6 },
+    coords: [23.6, 60.7],
     description: {
       de: "Torronsuo ist ein Nationalpark in Tammela. Er schützt eines der tiefsten Moorgebiete Süd-Finnlands.",
       hu: "A Torronsuo egy nemzeti park Tammelában. Dél-Finnország egyik legmélyebb lápvidékét védi.",

@@ -6,7 +6,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Nationalpark Gesäuse", hu: "Gesäuse Nemzeti Park", ro: "Parcul Național Gesäuse", en: "Gesäuse National Park" },
-    coordinates: { lat: 47.5756, lng: 14.6542 },
+    coords: [14.6542, 47.5756],
     description: {
       de: "Der Nationalpark in der Steiermark schützt das steile Ennstal und die umliegenden Kalkgipfel. Er ist bekannt für seine hohe Biodiversität und unberührte Wildnis.",
       hu: "A stájerországi nemzeti park az Enns-völgyet és a környező mészkőcsúcsokat védi. Ismert gazdag biodiverzitásáról és érintetlen vadonjáról.",
@@ -38,7 +38,7 @@ export const austriaLifeV2: POI[] = [
     type: "wildlife",
     parent: "AT",
     name: { de: "Wildpark Schwarzenberg", hu: "Schwarzenberg Vadaspark", ro: "Parcul de animale sălbatice Schwarzenberg", en: "Schwarzenberg Wildlife Park" },
-    coordinates: { lat: 48.2435, lng: 16.2731 },
+    coords: [16.2731, 48.2435],
     description: {
       de: "Dieser Wildpark am Rande des Wienerwaldes beherbergt heimische Wildarten in großzügigen Freigehegen. Das Areal dient zudem der Umweltbildung.",
       hu: "A Bécsi-erdő szélén fekvő vadaspark tágas kifutókban mutatja be a hazai vadfajokat. A terület környezeti nevelési célokat is szolgál.",
@@ -70,7 +70,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Botanischer Garten Linz", hu: "Linzi Botanikus Kert", ro: "Grădina Botanică Linz", en: "Linz Botanical Garden" },
-    coordinates: { lat: 48.3094, lng: 14.2861 },
+    coords: [14.2861, 48.3094],
     description: {
       de: "Der Botanische Garten auf der Linzer Gugl beherbergt über 10.000 Pflanzenarten. Er umfasst mehrere Gewächshäuser und eine weitläufige Außenanlage.",
       hu: "A linzi Gugl-dombon fekvő botanikus kert több mint 10 000 növényfajnak ad otthont. Több üvegházat és egy tágas szabadtéri területet foglal magában.",
@@ -102,7 +102,7 @@ export const austriaLifeV2: POI[] = [
     type: "wildlife",
     parent: "AT",
     name: { de: "Wildpark Aurach", hu: "Aurach Vadaspark", ro: "Parcul de animale sălbatice Aurach", en: "Aurach Wildlife Park" },
-    coordinates: { lat: 47.4589, lng: 12.3556 },
+    coords: [12.3556, 47.4589],
     description: {
       de: "Dieser Wildpark in der Nähe von Kitzbühel liegt auf 1100 Metern Höhe. Er bietet eine natürliche Umgebung für Hirsche und Steinböcke.",
       hu: "A Kitzbühel közelében fekvő vadaspark 1100 méteres tengerszint feletti magasságban található. Természetes környezetet biztosít a szarvasok és kőszáli kecskék számára.",
@@ -134,7 +134,7 @@ export const austriaLifeV2: POI[] = [
     type: "wildlife",
     parent: "AT",
     name: { de: "Zoo Salzburg Hellbrunn", hu: "Salzburgi Állatkert", ro: "Grădina Zoologică Salzburg", en: "Salzburg Zoo" },
-    coordinates: { lat: 47.7553, lng: 13.0619 },
+    coords: [13.0619, 47.7553],
     description: {
       de: "Der Zoo befindet sich in der Felsenarena von Hellbrunn. Er zeigt über 150 Tierarten aus verschiedenen Kontinenten in naturnahen Gehegen.",
       hu: "Az állatkert a hellbrunni sziklaarénában található. Több mint 150 állatfajt mutat be különböző kontinensekről természetközeli kifutókban.",
@@ -166,7 +166,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Nationalpark Hohe Tauern Zentrum", hu: "Magas-Tauern Nemzeti Park Központ", ro: "Centrul Parcului Național Hohe Tauern", en: "Hohe Tauern National Park Centre" },
-    coordinates: { lat: 47.2515, lng: 12.2778 },
+    coords: [12.2778, 47.2515],
     description: {
       de: "Das Besucherzentrum in Mittersill vermittelt Wissen über die Hochgebirgsnatur des Nationalparks Hohe Tauern. Es ist ein Ausgangspunkt für Exkursionen.",
       hu: "A mittersilli látogatóközpont ismereteket nyújt a Magas-Tauern Nemzeti Park magashegyi természetéről. Kiindulópontja kirándulásoknak.",
@@ -198,7 +198,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Sölktäler", hu: "Sölktäler Natúrpark", ro: "Parcul Natural Sölktäler", en: "Sölktäler Nature Park" },
-    coordinates: { lat: 47.3639, lng: 14.0781 },
+    coords: [14.0781, 47.3639],
     description: {
       de: "Dieser Naturpark in den Niederen Tauern schützt eine ursprüngliche Kulturlandschaft. Er ist geprägt von Hochmooren und klaren Gebirgsseen.",
       hu: "Az Alacsony-Tauernben található natúrpark egy ősi kultúrtájat véd. Jellemzői a magaslápok és a tiszta hegyi tavak.",
@@ -230,7 +230,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Botanischer Garten Universität Wien", hu: "Bécsi Egyetem Botanikus Kertje", ro: "Grădina Botanică a Universității din Viena", en: "University of Vienna Botanical Garden" },
-    coordinates: { lat: 48.1906, lng: 16.3814 },
+    coords: [16.3814, 48.1906],
     description: {
       de: "Dieser historische Garten dient der wissenschaftlichen Forschung und Lehre. Er beherbergt seltene Pflanzensammlungen aus der ganzen Welt.",
       hu: "Ez a történelmi kert tudományos kutatási és oktatási célokat szolgál. Ritka növényszerzeményeknek ad otthont a világ minden tájáról.",
@@ -262,7 +262,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Tiroler Lech", hu: "Tiroli Lech Natúrpark", ro: "Parcul Natural Tiroler Lech", en: "Tiroler Lech Nature Park" },
-    coordinates: { lat: 47.4589, lng: 10.6433 },
+    coords: [10.6433, 47.4589],
     description: {
       de: "Der Naturpark umfasst die letzte große Wildflusslandschaft der Nordalpen. Der Lech ist für seine Dynamik und Kiesbänke bekannt.",
       hu: "A natúrpark az Északi-Alpok utolsó nagy vad folyótájat foglalja magában. A Lech folyó dinamizmusáról és kavicspadjairól ismert.",
@@ -294,7 +294,7 @@ export const austriaLifeV2: POI[] = [
     type: "wildlife",
     parent: "AT",
     name: { de: "Wildpark Glashütte", hu: "Glashütte Vadaspark", ro: "Parcul de animale sălbatice Glashütte", en: "Glashütte Wildlife Park" },
-    coordinates: { lat: 47.9256, lng: 16.0911 },
+    coords: [16.0911, 47.9256],
     description: {
       de: "Dieser Wildpark im niederösterreichischen Voralpenland bietet Einblicke in die heimische Tierwelt. Er ist familienfreundlich gestaltet.",
       hu: "Az alsó-ausztriai előalpokban fekvő vadaspark betekintést nyújt a hazai élővilágba. Családbarát kialakítású.",
@@ -326,7 +326,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Botanischer Garten Klagenfurt", hu: "Klagenfurti Botanikus Kert", ro: "Grădina Botanică Klagenfurt", en: "Klagenfurt Botanical Garden" },
-    coordinates: { lat: 46.6272, lng: 14.3053 },
+    coords: [14.3053, 46.6272],
     description: {
       de: "Dieser Garten am Fuße des Kreuzbergls zeigt die Flora Kärntens und der Alpen. Er ist ein wichtiger Standort für den Artenschutz.",
       hu: "A Kreuzbergl lábánál fekvő kert Karintia és az Alpok növényvilágát mutatja be. Fontos helyszín a fajvédelem számára.",
@@ -358,7 +358,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Ötztal", hu: "Ötztal Natúrpark", ro: "Parcul Natural Ötztal", en: "Ötztal Nature Park" },
-    coordinates: { lat: 46.9583, lng: 10.975 },
+    coords: [10.975, 46.9583],
     description: {
       de: "Dieser Naturpark deckt einen Großteil des Ötztals ab. Er reicht von der Talsohle bis zu den Gletschern der Ötztaler Alpen.",
       hu: "Ez a natúrpark az Ötz-völgy nagy részét lefedi. A völgytalptól az Ötz-völgyi-Alpok gleccsereiig terjed.",
@@ -390,7 +390,7 @@ export const austriaLifeV2: POI[] = [
     type: "wildlife",
     parent: "AT",
     name: { de: "Wildpark Ernstbrunn", hu: "Ernstbrunn Vadaspark", ro: "Parcul de animale sălbatice Ernstbrunn", en: "Ernstbrunn Wildlife Park" },
-    coordinates: { lat: 48.5358, lng: 16.3689 },
+    coords: [16.3689, 48.5358],
     description: {
       de: "Der Wildpark Ernstbrunn ist bekannt für das Wolf Science Center. Besucher können hier das Verhalten von Wölfen und Hunden studieren.",
       hu: "Az Ernstbrunn Vadaspark a Wolf Science Center-ről ismert. A látogatók tanulmányozhatják a farkasok és kutyák viselkedését.",
@@ -422,7 +422,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Geschriebenstein", hu: "Írottkő Natúrpark", ro: "Parcul Natural Geschriebenstein", en: "Geschriebenstein Nature Park" },
-    coordinates: { lat: 47.3486, lng: 16.4381 },
+    coords: [16.4381, 47.3486],
     description: {
       de: "Dieser grenzüberschreitende Naturpark liegt zwischen Österreich und Ungarn. Er schützt das waldreiche Hügelland des Günser Gebirges.",
       hu: "Ez a határon átnyúló natúrpark Ausztria és Magyarország között fekszik. Védi a Kőszegi-hegység erdős dombvidékét.",
@@ -454,7 +454,7 @@ export const austriaLifeV2: POI[] = [
     type: "wildlife",
     parent: "AT",
     name: { de: "Alpenzoo Innsbruck", hu: "Innsbrucki Alpesi Állatkert", ro: "Grădina Zoologică Alpină Innsbruck", en: "Innsbruck Alpine Zoo" },
-    coordinates: { lat: 47.2844, lng: 11.3969 },
+    coords: [11.3969, 47.2844],
     description: {
       de: "Der Alpenzoo ist einer der höchstgelegenen Zoos Europas. Er ist auf Tiere des Alpenraums spezialisiert und zeigt seltene einheimische Arten.",
       hu: "Az alpesi állatkert Európa egyik legmagasabban fekvő állatkertje. Az alpesi régió állataira specializálódott, és ritka honos fajokat mutat be.",
@@ -486,7 +486,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Karwendel", hu: "Karwendel Natúrpark", ro: "Parcul Natural Karwendel", en: "Karwendel Nature Park" },
-    coordinates: { lat: 47.4167, lng: 11.5 },
+    coords: [11.5, 47.4167],
     description: {
       de: "Der Naturpark Karwendel ist das größte Schutzgebiet Österreichs. Er schützt ein massives Gebirgsstockwerk mit alpiner Flora und Fauna.",
       hu: "A Karwendel Natúrpark Ausztria legnagyobb védett területe. Egy hatalmas hegyvonulatot véd alpesi növény- és állatvilággal.",
@@ -518,7 +518,7 @@ export const austriaLifeV2: POI[] = [
     type: "wildlife",
     parent: "AT",
     name: { de: "Cumberland Wildpark", hu: "Cumberland Vadaspark", ro: "Parcul de animale sălbatice Cumberland", en: "Cumberland Wildlife Park" },
-    coordinates: { lat: 47.8183, lng: 14.0536 },
+    coords: [14.0536, 47.8183],
     description: {
       de: "Dieser Wildpark in Grünau im Almtal ist bekannt für seine naturnahe Haltung. Er dient als Forschungsstätte für Graugänse.",
       hu: "Ez a grűnaui vadaspark természetközeli tartásmódjáról ismert. A nyári ludak kutatóhelyeként is szolgál.",
@@ -550,7 +550,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Botanischer Garten Graz", hu: "Grazi Botanikus Kert", ro: "Grădina Botanică Graz", en: "Graz Botanical Garden" },
-    coordinates: { lat: 47.0789, lng: 15.4542 },
+    coords: [15.4542, 47.0789],
     description: {
       de: "Die Anlage in Graz präsentiert eine Vielfalt an Pflanzen aus verschiedenen Klimazonen. Die moderne Gewächshausarchitektur ist ein Wahrzeichen.",
       hu: "A gráci kert különféle éghajlati övekből származó növények sokféleségét mutatja be. A modern üvegházépítészet mérföldkő.",
@@ -582,7 +582,7 @@ export const austriaLifeV2: POI[] = [
     type: "park",
     parent: "AT",
     name: { de: "Naturpark Leiser Berge", hu: "Leiser Berge Natúrpark", ro: "Parcul Natural Leiser Berge", en: "Leiser Berge Nature Park" },
-    coordinates: { lat: 48.5667, lng: 16.3667 },
+    coords: [16.3667, 48.5667],
     description: {
       de: "Dieser Naturpark im Weinviertel ist geprägt von isolierten Kalksteinhügeln. Er bietet wertvolle Lebensräume für seltene Trockenrasenpflanzen.",
       hu: "Ez a Weinviertelben található natúrpark izolált mészkődombokkal jellemezhető. Értékes élőhelyeket kínál ritka sztyeppnövények számára.",

@@ -755,7 +755,20 @@ export const poiExtraUaeNatureV2: POI[] = [
         "Houses rare and endangered bird species of the Arabian Peninsula.",
         "Features air-conditioned viewing rooms for visitors."
       ]
-    }, image: "/poi-images/wasit-wetland-centre-nature-v2.webp"},
+    }, image: "/poi-images/wasit-wetland-centre-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wasit Wetland Centre in Sharjah, VAE, ist ein 4,5 Hektar großes Schutzgebiet für Zugvögel und einheimische Arten. Es wurde 2015 eröffnet und liegt zwischen Wüste und Meer. Das Zentrum bietet Beobachtungsplattformen und Bildungsprogramme. Es beherbergt über 350 Vogelarten, darunter Flamingos und Fischadler. Das Feuchtgebiet spielt eine wichtige Rolle für die Biodiversität der Region und dient der Forschung. Besucher können auf Holzstegen die Natur erkunden. Das Zentrum ist Teil des Sharjah Desert Park.",
+      hu: "A Wasit Wetland Centre Sharjah-ban, az Egyesült Arab Emírségekben, egy 4,5 hektáros védett terület a vonuló madarak számára. 2015-ben nyitották meg, és a sivatag és a tenger között fekszik. A központban megfigyelőállomások és tanösvények találhatók. Több mint 350 madárfajt tartanak nyilván, köztük flamingókat és halászsasokat. A terület fontos a kutatás és a környezeti nevelés szempontjából. A látogatók fából készült pallókon fedezhetik fel a vizes élőhelyet.",
+      ro: "Centrul de Zone Umede Wasit, situat în Sharjah, Emiratele Arabe Unite, este o arie protejată de 4,5 hectare pentru păsări migratoare și specii locale. Deschis în 2015, se află între deșert și mare. Oferă platforme de observare și trasee educaționale. Găzduiește peste 350 de specii de păsări, inclusiv flamingo și vultur pescar. Zona umedă joacă un rol crucial în biodiversitatea regională și în cercetare. Vizitatorii pot explora pe promenade de lemn.",
+      en: "The Wasit Wetland Centre in Sharjah, UAE, is a 4.5-hectare protected area for migratory and native birds. Opened in 2015, it lies between desert and sea. The centre features bird hides, boardwalks, and educational facilities. It hosts over 350 bird species, including flamingos and ospreys. The wetland is crucial for biodiversity and research, providing a stopover for migratory birds. It is part of the Sharjah Desert Park and promotes environmental awareness.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet ist 4,5 Hektar groß.", "Eröffnung im Jahr 2015.", "Es beherbergt 350 Vogelarten.", "Der Flamingobestand beträgt etwa 1.000 Vögel.", "Das Zentrum verfügt über 5 Beobachtungsplattformen.", "Die Holzwege sind 2 Kilometer lang."],
+      hu: ["A védett terület 4,5 hektár.", "2015-ben nyitották meg.", "350 madárfaj található itt.", "A flamingók száma kb. 1000.", "5 megfigyelőállomás van.", "A fapallók 2 km hosszúak."],
+      ro: ["Aria protejată are 4,5 hectare.", "Deschis în 2015.", "Adăpostește 350 de specii de păsări.", "Populația de flamingo este de aproximativ 1.000 de exemplare.", "Există 5 platforme de observare.", "Promenadele din lemn au 2 kilometri lungime."],
+      en: ["The protected area is 4.5 hectares.", "Opened in 2015.", "It hosts 350 bird species.", "Flamingo population is about 1,000.", "There are 5 observation platforms.", "Boardwalks total 2 kilometers in length."],
+    },
+  },
   {
     id: "wadi-bih-nature-v2",
     type: "river",
@@ -790,7 +803,20 @@ export const poiExtraUaeNatureV2: POI[] = [
         "A popular spot for challenging hikes.",
         "The limestone rocks are millions of years old."
       ]
-    }, image: "/poi-images/wadi-bih-nature-v2.webp"},
+    }, image: "/poi-images/wadi-bih-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadi Bih ist ein Trockental in Ras Al Khaimah, VAE, das sich über 10 Kilometer erstreckt. Es ist bekannt für seine spektakulären Felsformationen und den Wadi Bih Dam, der 2011 fertiggestellt wurde. Der Staudamm hat ein Fassungsvermögen von 1,2 Millionen Kubikmetern und dient der Bewässerung. Das Tal ist ein beliebtes Ziel für Wanderer und Offroad-Fahrer. Die Flora umfasst Akazien und Dattelpalmen, die Fauna Steinböcke und Wüstenfüchse. Die Region hat eine jährliche Niederschlagsmenge von etwa 120 mm und ist ein wichtiges Wassereinzugsgebiet.",
+      hu: "A Wadi Bih egy száraz völgy Ras Al Khaimah-ban, az Egyesült Arab Emírségekben, kb. 10 km hosszan. Híres a lenyűgöző sziklaformációiról és a Wadi Bih-gátról, amely 2011-ben készült el. A gát tározókapacitása 1,2 millió köbméter. A völgy népszerű a túrázók és terepjárósok körében. Növényvilága akácokból és datolyapálmákból áll, állatvilága pedig hegyi kecskéket és sivatagi rókákat foglal magában. Az éves csapadékmennyiség körülbelül 120 mm.",
+      ro: "Wadi Bih este o vale secată din Ras Al Khaimah, Emiratele Arabe Unite, care se întinde pe 10 kilometri. Este cunoscută pentru formațiunile sale stâncoase spectaculoase și barajul Wadi Bih, finalizat în 2011, cu o capacitate de 1,2 milioane de metri cubi. Valea este populară pentru drumeții și off-road. Flora include salcâmi și curmali, iar fauna include ibex și vulpi de deșert. Precipitațiile anuale sunt de aproximativ 120 mm.",
+      en: "Wadi Bih is a dry valley in Ras Al Khaimah, UAE, stretching about 10 kilometers. It features dramatic rock formations and the Wadi Bih Dam, completed in 2011, with a storage capacity of 1.2 million cubic meters. The valley is popular for hiking and off-road driving. Flora includes acacia and date palms, while fauna includes mountain ibex and desert foxes. Annual rainfall is around 120 mm, and the wadi is an important catchment area.",
+    },
+    factsAdvanced: {
+      de: ["Das Tal ist 10 km lang.", "Der Staudamm wurde 2011 fertiggestellt.", "Speichervolumen: 1,2 Millionen Kubikmeter.", "Die Höhe der Felswände erreicht 300 Meter.", "Die Durchschnittstemperatur beträgt 28°C.", "Die Niederschlagsmenge liegt bei 120 mm pro Jahr."],
+      hu: ["A völgy 10 km hosszú.", "A gát 2011-ben készült el.", "Tározókapacitás: 1,2 millió köbméter.", "A sziklafalak magassága eléri a 300 métert.", "Az átlaghőmérséklet 28°C.", "Az éves csapadék 120 mm."],
+      ro: ["Valea are 10 km lungime.", "Barajul a fost finalizat în 2011.", "Capacitatea de stocare: 1,2 milioane de metri cubi.", "Înălțimea pereților de stâncă ajunge la 300 de metri.", "Temperatura medie este de 28°C.", "Precipitațiile anuale sunt de 120 mm."],
+      en: ["The valley is 10 km long.", "Dam completed in 2011.", "Storage capacity: 1.2 million cubic meters.", "Cliff heights reach 300 meters.", "Average temperature is 28°C.", "Annual rainfall is 120 mm."],
+    },
+  },
   {
     id: "jebel-yibir-nature-v2",
     type: "mountain",
@@ -825,7 +851,20 @@ export const poiExtraUaeNatureV2: POI[] = [
         "The actual summit is not open to the public.",
         "Offers views as far as the Persian Gulf on clear days."
       ]
-    }, image: "/poi-images/jebel-yibir-nature-v2.webp"},
+    }, image: "/poi-images/jebel-yibir-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Jebel Yibir ist mit 1.527 Metern der höchste Berg der VAE, gelegen in Ras Al Khaimah. Er ist Teil des Hadschar-Gebirges und bekannt für seine schroffen Felsgipfel. Der Aufstieg ist anspruchsvoll und wird oft von Wanderern unternommen. In der Umgebung leben Bergziegen und seltene Vogelarten. Die geologische Zusammensetzung besteht hauptsächlich aus Kalkstein und Ophiolith. Der Berg bietet Aussicht auf das Oman-Gebirge. Die Region hat eine reiche Kulturgeschichte, da sie früher von Stämmen bewohnt war.",
+      hu: "A Jebel Yibir 1.527 méterével az Egyesült Arab Emírségek legmagasabb hegye Ras Al Khaimah-ban. A Hadschar-hegység része, és zord sziklás csúcsairól ismert. A mászás kihívást jelent, és népszerű a túrázók körében. A hegyen hegyi kecskék és ritka madarak élnek. Geológiai összetétele mészkő és ofiolit. A csúcsról kilátás nyílik az Ománi-hegységre. A terület gazdag kulturális történelemmel rendelkezik, ahol korábban törzsek laktak.",
+      ro: "Jebel Yibir, cu 1.527 de metri, este cel mai înalt munte din Emiratele Arabe Unite, situat în Ras Al Khaimah. Face parte din Munții Hajar și este cunoscut pentru vârfurile stâncoase. Ascensiunea este dificilă, atrăgând drumeți. Zona găzduiește ibex și păsări rare. Compoziția geologică este predominant calcar și ofiolit. Vârful oferă priveliști spre Munții Oman. Regiunea are o istorie culturală bogată, locuită anterior de triburi.",
+      en: "Jebel Yibir, at 1,527 meters, is the highest mountain in the UAE, located in Ras Al Khaimah. It is part of the Hajar Mountains and features rugged rocky peaks. The climb is challenging and popular with hikers. The area is home to mountain ibex and rare bird species. Geologically, it consists mainly of limestone and ophiolite. The summit offers views into the Oman mountains. The region has a rich cultural history, once inhabited by tribes.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.527 Meter über dem Meeresspiegel.", "Der Berg ist Teil des Hadschar-Gebirges.", "Die Erstbesteigung wird auf 1975 datiert.", "Die Gesteinszusammensetzung ist zu 70% Kalkstein.", "Die Durchschnittstemperatur beträgt 15°C im Januar.", "Die Wanderung dauert etwa 4-5 Stunden."],
+      hu: ["Magasság: 1.527 méter.", "A Hadschar-hegység része.", "Első ismert megmászása 1975-ben történt.", "A kőzet 70%-a mészkő.", "Januári átlaghőmérséklet: 15°C.", "A túra kb. 4-5 óráig tart."],
+      ro: ["Altitudine: 1.527 de metri.", "Face parte din Munții Hajar.", "Prima ascensiune cunoscută în 1975.", "Rocile sunt 70% calcar.", "Temperatura medie în ianuarie este de 15°C.", "Drumeția durează aproximativ 4-5 ore."],
+      en: ["Height: 1,527 meters above sea level.", "It is part of the Hajar Mountains.", "First recorded ascent in 1975.", "Rock composition is 70% limestone.", "Average temperature in January is 15°C.", "The hike takes about 4-5 hours."],
+    },
+  },
   {
     id: "al-wathba-salt-lake-nature-v2",
     type: "lake",
@@ -860,7 +899,20 @@ export const poiExtraUaeNatureV2: POI[] = [
         "An extremely popular subject for photographers.",
         "The lake is located not far from the desert highway."
       ]
-    }, image: "/poi-images/al-wathba-salt-lake-nature-v2.webp"},
+    }, image: "/poi-images/al-wathba-salt-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al Wathba Salt Lake in Abu Dhabi, VAE, ist ein künstlicher Salzsee, der durch landwirtschaftliche Bewässerung entstanden ist. Er ist bekannt für seine surrealen weißen Salzkrusten und das rosa Wasser aufgrund von Algen. Der See liegt im Al Wathba Wetland Reserve, das 1998 gegründet wurde. Das Gebiet ist ein wichtiger Lebensraum für Zugvögel, darunter Flamingos. Die Salzkonzentration ist etwa 10 Mal höher als im Meer. Besucher können das Gebiet auf ausgewiesenen Wegen erkunden. Der See ist ein beliebtes Fotomotiv.",
+      hu: "Az Al Wathba sós tó Abu Dhabiban, az Egyesült Arab Emírségekben, egy mesterséges sós tó, amely mezőgazdasági öntözés következtében jött létre. Híres a szürreális fehér sókérgeiről és a rózsaszín vízről az algák miatt. A tó az Al Wathba Wetland Reserve része, amelyet 1998-ban alapítottak. A terület fontos élőhely a vonuló madarak, például a flamingók számára. A sókoncentráció körülbelül 10-szer magasabb, mint a tengerben. A látogatók kijelölt ösvényeken fedezhetik fel a területet.",
+      ro: "Lacul Sărat Al Wathba din Abu Dhabi, Emiratele Arabe Unite, este un lac sărat artificial format din irigațiile agricole. Este cunoscut pentru crustele sale albe de sare și apa roz datorită algelor. Lacul face parte din Rezervația Al Wathba, înființată în 1998. Zona este un habitat important pentru păsări migratoare, inclusiv flamingo. Concentrația de sare este de aproximativ 10 ori mai mare decât în mare. Vizitatorii pot explora pe trasee desemnate.",
+      en: "Al Wathba Salt Lake in Abu Dhabi, UAE, is a man-made salt lake formed from agricultural irrigation. It is known for its surreal white salt crusts and pink water due to algae. The lake lies within the Al Wathba Wetland Reserve, established in 1998. The area is a crucial habitat for migratory birds, including flamingos. Salinity is about 10 times that of seawater. Visitors can explore via designated trails. The lake is a popular photography spot.",
+    },
+    factsAdvanced: {
+      de: ["Der See hat eine Salzkonzentration von 35% (350 g/l).", "Das Schutzgebiet wurde 1998 eingerichtet.", "Die Fläche des Sees beträgt etwa 5 Quadratkilometer.", "Die Wassertiefe erreicht 1 Meter.", "Über 400 Vogelarten wurden hier registriert.", "Die durchschnittliche Temperatur beträgt 30°C."],
+      hu: ["A tó sókoncentrációja 35% (350 g/l).", "A rezervátumot 1998-ban hozták létre.", "A tó területe kb. 5 négyzetkilométer.", "Vízmélység: max. 1 méter.", "Több mint 400 madárfajt figyeltek meg itt.", "Az átlaghőmérséklet 30°C."],
+      ro: ["Concentrația de sare este de 35% (350 g/l).", "Rezervația a fost înființată în 1998.", "Suprafața lacului este de aproximativ 5 kilometri pătrați.", "Adâncimea apei atinge 1 metru.", "Peste 400 de specii de păsări au fost înregistrate.", "Temperatura medie este de 30°C."],
+      en: ["Salinity is 35% (350 g/l).", "The reserve was established in 1998.", "Lake area is about 5 square kilometers.", "Water depth reaches 1 meter.", "Over 400 bird species recorded.", "Average temperature is 30°C."],
+    },
+  },
   {
     id: "mushrif-national-park-nature-v2",
     type: "national-park",
@@ -895,6 +947,18 @@ export const poiExtraUaeNatureV2: POI[] = [
         "Offers numerous cycling and hiking trails.",
         "Also includes a reconstructed international village."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Mushrif National Park in Dubai, VAE, ist ein 3,5 Quadratkilometer großer Stadtpark, der 2011 eröffnet wurde. Er bietet einheimische Bäume und Wanderwege. Der Park verfügt über Picknickplätze, einen Abenteuerspielplatz und das Mushrif Park Centre. Es gibt einen 5 Kilometer langen Fahrradweg. Der Park ist ein wichtiges Naherholungsgebiet und beherbergt verschiedene Tierarten wie Wüstenfüchse und Echsen. Der Eintritt ist kostenpflichtig. Der Park ist bekannt für seine Ghaf-Bäume, die bis zu 80 Jahre alt werden können.",
+      hu: "A Mushrif Nemzeti Park Dubajban, az Egyesült Arab Emírségekben, egy 3,5 négyzetkilométeres városi park, amelyet 2011-ben nyitottak meg. Honos fákat és sétányokat kínál. A parkban piknikhelyek, kalandjátszótér és a Mushrif Park Centre található. Van egy 5 km hosszú kerékpárút. A park fontos rekreációs terület, és olyan állatoknak ad otthont, mint a sivatagi róka és gyíkok. A belépés díjköteles. A park híres ghaf fáiról, amelyek akár 80 évig is élhetnek.",
+      ro: "Parcul Național Mushrif din Dubai, Emiratele Arabe Unite, este un parc urban de 3,5 kilometri pătrați, deschis în 2011. Oferă copaci nativi și poteci de plimbare. Parcul are zone de picnic, un loc de joacă și Centrul Mushrif Park. Există o pistă de biciclete de 5 km. Este o zonă importantă de recreere și găzduiește vulpi de deșert și șopârle. Intrarea este cu taxă. Parcul este cunoscut pentru copacii ghaf, care pot trăi până la 80 de ani.",
+      en: "Mushrif National Park in Dubai, UAE, is a 3.5-square-kilometer urban park opened in 2011. It features native trees and walking trails. The park includes picnic areas, an adventure playground, and the Mushrif Park Centre. There is a 5-kilometer cycling track. It is an important recreational area and hosts wildlife such as desert foxes and lizards. Entry is fee-based. The park is known for its ghaf trees, which can live up to 80 years.",
+    },
+    factsAdvanced: {
+      de: ["Der Park ist 3,5 Quadratkilometer groß.", "Eröffnung: 2011.", "Es gibt 5 Kilometer Radwege.", "Der Park beherbergt über 500 Ghaf-Bäume.", "Die Besucherzahl beträgt jährlich 1 Million.", "Der Eintrittspreis beträgt 10 AED."],
+      hu: ["A park 3,5 négyzetkilométer kiterjedésű.", "Megnyitás: 2011.", "5 km hosszú kerékpárút van.", "Több mint 500 ghaf fa található.", "Évente 1 millió látogató.", "Belépődíj: 10 AED."],
+      ro: ["Parcul are 3,5 kilometri pătrați.", "Deschis în 2011.", "Există 5 km de piste de biciclete.", "Peste 500 de copaci ghaf sunt prezenți.", "Număr anual de vizitatori: 1 milion.", "Taxa de intrare este de 10 AED."],
+      en: ["Park area is 3.5 square kilometers.", "Opened: 2011.", "Has 5 km of cycling tracks.", "Over 500 ghaf trees are present.", "Annual visitors: 1 million.", "Entry fee is 10 AED."],
+    },
   }
 ];

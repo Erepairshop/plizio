@@ -6,7 +6,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "park",
     parent: "MK",
     name: { de: "Galicica-Nationalpark", hu: "Galicsica Nemzeti Park", ro: "Parcul Național Galičica", en: "Galicica National Park" },
-    coordinates: { lat: 40.975, lng: 20.833 },
+    coords: [20.833, 40.975],
     description: {
       de: "Der Nationalpark Galicica liegt zwischen den Seen Ohrid und Prespa. Er schützt eine vielfältige Gebirgsflora und -fauna.",
       hu: "A Galicsica Nemzeti Park az Ohridi- és a Preszpa-tó között fekszik. Védi a változatos hegyi növény- és állatvilágot.",
@@ -38,7 +38,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "park",
     parent: "MK",
     name: { de: "Pelister-Nationalpark", hu: "Peliszter Nemzeti Park", ro: "Parcul Național Pelister", en: "Pelister National Park" },
-    coordinates: { lat: 41.008, lng: 21.217 },
+    coords: [21.217, 41.008],
     description: {
       de: "Der Pelister-Nationalpark befindet sich im Baba-Gebirge in der Nähe von Bitola. Bekannt ist er für seine Molika-Kiefernwälder.",
       hu: "A Peliszter Nemzeti Park a Baba-hegységben található, Bitola közelében. Ismert a molika-fenyveseiről.",
@@ -70,7 +70,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "park",
     parent: "MK",
     name: { de: "Mavrovo-Nationalpark", hu: "Mavrovo Nemzeti Park", ro: "Parcul Național Mavrovo", en: "Mavrovo National Park" },
-    coordinates: { lat: 41.65, lng: 20.75 },
+    coords: [20.75, 41.65],
     description: {
       de: "Der Mavrovo-Nationalpark umfasst große Waldgebiete im Westen des Landes. Er beherbergt zahlreiche seltene Tierarten.",
       hu: "A Mavrovo Nemzeti Park kiterjedt erdőségeket foglal magába az ország nyugati részén. Számos ritka állatfaj élőhelye.",
@@ -102,7 +102,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "MK",
     name: { de: "Jasen-Reservat", hu: "Jasen Rezervátum", ro: "Rezervația Jasen", en: "Jasen Reserve" },
-    coordinates: { lat: 41.833, lng: 21.25 },
+    coords: [21.25, 41.833],
     description: {
       de: "Das Jasen-Naturschutzgebiet liegt in der Nähe von Skopje. Es dient als Schutzraum für Bergwildarten.",
       hu: "A Jasen természetvédelmi terület Szkopje közelében található. Hegyvidéki vadfajok menedékhelyeként szolgál.",
@@ -134,7 +134,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "MK",
     name: { de: "Tikves-Feuchtgebiet", hu: "Tikvesi Vizes élőhely", ro: "Zona umedă Tikveš", en: "Tikves Wetland" },
-    coordinates: { lat: 41.383, lng: 21.917 },
+    coords: [21.917, 41.383],
     description: {
       de: "Das Feuchtgebiet um den Tikves-Stausee ist ein bedeutendes Vogelschutzgebiet. Es bietet Lebensraum für zahlreiche Wasservögel.",
       hu: "A Tikvesi-víztározó körüli vizes élőhely jelentős madárvédelmi terület. Számos vízi madárfajnak biztosít élőhelyet.",
@@ -166,7 +166,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Klinc-Gebirge", hu: "Klinc-hegység", ro: "Munții Klinc", en: "Klinc Mountain" },
-    coordinates: { lat: 41.283, lng: 21.75 },
+    coords: [21.75, 41.283],
     description: {
       de: "Das Klinc-Gebirge ist ein weniger besuchtes Bergmassiv. Es zeichnet sich durch seine ursprünglichen Laubwälder aus.",
       hu: "A Klinc-hegység egy kevésbé látogatott hegytömb. Jellemzőek rá az érintetlen lombhullató erdők.",
@@ -198,7 +198,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "forest",
     parent: "MK",
     name: { de: "Kozjak-Reservat", hu: "Kozjak Rezervátum", ro: "Rezervația Kozjak", en: "Kozjak Reserve" },
-    coordinates: { lat: 42.233, lng: 21.85 },
+    coords: [21.85, 42.233],
     description: {
       de: "Das Kozjak-Gebiet im Nordosten des Landes bietet bewaldete Landschaften. Es beheimatet verschiedene Wildtiere.",
       hu: "A Kozjak-vidék az ország északkeleti részén erdős tájakat kínál. Különböző vadállatok otthona.",
@@ -230,7 +230,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Dosnica-Flusstal", hu: "Dosnica-völgy", ro: "Valea râului Došnica", en: "Dosnica River Valley" },
-    coordinates: { lat: 41.367, lng: 22.3 },
+    coords: [22.3, 41.367],
     description: {
       de: "Das Tal des Dosnica-Flusses ist für seine unberührte Natur bekannt. Es ist ein wichtiger Korridor für lokale Tierarten.",
       hu: "A Dosnica-folyó völgye érintetlen természetéről ismert. Fontos folyosó a helyi állatfajok számára.",
@@ -262,7 +262,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Busova-Gebirge", hu: "Busova-hegység", ro: "Munții Busova", en: "Busova Mountain" },
-    coordinates: { lat: 41.767, lng: 20.917 },
+    coords: [20.917, 41.767],
     description: {
       de: "Das Busova-Gebirge liegt im Westen. Es ist Teil eines ausgedehnten Gebirgszugs mit alpiner Vegetation.",
       hu: "A Busova-hegység nyugaton fekszik. Egy kiterjedt hegylánc része, alpesi növényzettel.",
@@ -294,7 +294,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "river",
     parent: "MK",
     name: { de: "Schwarzer-Drin-Reservat", hu: "Fekete-Drin Rezervátum", ro: "Rezervația Drinul Negru", en: "Black Drin Reserve" },
-    coordinates: { lat: 41.417, lng: 20.617 },
+    coords: [20.617, 41.417],
     description: {
       de: "Das Schutzgebiet entlang des Schwarzen Drin ist ein wichtiger Lebensraum für Flussökosysteme. Es beherbergt eine Vielfalt an Fauna.",
       hu: "A Fekete-Drin mentén fekvő védett terület fontos élőhely a folyami ökoszisztémák számára. Állatvilága változatos.",
@@ -326,7 +326,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "forest",
     parent: "MK",
     name: { de: "Koprivnica-Wald", hu: "Koprivnica-erdő", ro: "Pădurea Koprivnica", en: "Koprivnica Forest" },
-    coordinates: { lat: 41.217, lng: 22.0 },
+    coords: [22.0, 41.217],
     description: {
       de: "Der Koprivnica-Wald ist ein bedeutendes ökologisches Gebiet. Er ist von Mischwäldern geprägt.",
       hu: "A Koprivnica-erdő jelentős ökológiai terület. Vegyes erdők jellemzik.",
@@ -358,7 +358,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Babuna-Schlucht", hu: "Babuna-szurdok", ro: "Cheile Babuna", en: "Babuna Canyon" },
-    coordinates: { lat: 41.583, lng: 21.6 },
+    coords: [21.6, 41.583],
     description: {
       de: "Die Babuna-Schlucht ist ein spektakuläres geologisches Naturdenkmal. Sie bietet spezialisierten Arten einen Rückzugsort.",
       hu: "A Babuna-szurdok látványos geológiai természeti emlék. Speciális fajok számára nyújt menedéket.",
@@ -390,7 +390,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Belasica-Gebirge", hu: "Belaszica-hegység", ro: "Munții Belasica", en: "Belasica Mountain" },
-    coordinates: { lat: 41.333, lng: 22.833 },
+    coords: [22.833, 41.333],
     description: {
       de: "Das Belasica-Gebirge bildet eine natürliche Grenze im Südosten. Es zeichnet sich durch hohe Artenvielfalt aus.",
       hu: "A Belaszica-hegység természetes határt képez délkeleten. Gazdag fajdiverzitása jellemzi.",
@@ -422,7 +422,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "MK",
     name: { de: "Blato-Feuchtgebiet", hu: "Blato Vizes élőhely", ro: "Zona umedă Blato", en: "Blato Wetland" },
-    coordinates: { lat: 41.1, lng: 21.05 },
+    coords: [21.05, 41.1],
     description: {
       de: "Das Blato-Feuchtgebiet in der Nähe von Resen ist ein wichtiges Habitat für Zugvögel. Es unterstützt lokale Ökosysteme.",
       hu: "A Resen közelében fekvő Blato vizes élőhely fontos élőhely a vándormadarak számára. Támogatja a helyi ökoszisztémákat.",
@@ -454,7 +454,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "forest",
     parent: "MK",
     name: { de: "Konjuh-Wald", hu: "Konjuh-erdő", ro: "Pădurea Konjuh", en: "Konjuh Forest" },
-    coordinates: { lat: 41.9, lng: 21.95 },
+    coords: [21.95, 41.9],
     description: {
       de: "Der Konjuh-Wald ist ein ausgedehntes Waldgebiet. Er bietet Lebensraum für eine Vielzahl an Wildtieren.",
       hu: "A Konjuh-erdő kiterjedt erdős terület. Számos vadállat számára nyújt életteret.",
@@ -486,7 +486,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Skopska-Crna-Gora", hu: "Szkopjei Fekete-hegy", ro: "Skopska Crna Gora", en: "Skopska Crna Gora" },
-    coordinates: { lat: 42.15, lng: 21.45 },
+    coords: [21.45, 42.15],
     description: {
       de: "Die Skopska-Crna-Gora ist ein Bergmassiv nördlich von Skopje. Sie bietet eine abwechslungsreiche Landschaft mit vielen Wanderwegen.",
       hu: "A Szkopjei Fekete-hegy (Skopska Crna Gora) egy hegytömb Szkopjétól északra. Változatos tájat kínál sok túraútvonallal.",
@@ -518,7 +518,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "lake",
     parent: "MK",
     name: { de: "Ostrovo-Insel", hu: "Ostrovo-sziget", ro: "Insula Ostrovo", en: "Ostrovo Island" },
-    coordinates: { lat: 41.05, lng: 20.8 },
+    coords: [20.8, 41.05],
     description: {
       de: "Ostrovo ist eine kleine Insel im Ohrid-See. Sie ist von ökologischer Bedeutung.",
       hu: "Ostrovo egy kis sziget az Ohridi-tóban. Ökológiai jelentőséggel bír.",
@@ -550,7 +550,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Galicnik-Region", hu: "Galicsnik régió", ro: "Regiunea Galičnik", en: "Galicnik Region" },
-    coordinates: { lat: 41.6, lng: 20.65 },
+    coords: [20.65, 41.6],
     description: {
       de: "Die Bergregion um Galicnik liegt hoch in den Bergen. Sie bewahrt eine traditionelle Kultur und intakte Natur.",
       hu: "A Galicsnik környéki hegyvidék magasan fekszik a hegyekben. Megőrzi a hagyományos kultúrát és az érintetlen természetet.",
@@ -582,7 +582,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Pcinja-Flusstal", hu: "Pcsinja-völgy", ro: "Valea râului Pčinja", en: "Pcinja River Valley" },
-    coordinates: { lat: 42.0, lng: 21.7 },
+    coords: [21.7, 42.0],
     description: {
       de: "Das Tal der Pcinja ist eine wichtige Landschaftszone. Es bietet Lebensraum für vielfältige Uferflora und -fauna.",
       hu: "A Pcsinja-völgy fontos tájegység. Gazdag parti növény- és állatvilágnak biztosít élőhelyet.",
@@ -614,7 +614,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Serava-Flusstal", hu: "Serava-völgy", ro: "Valea râului Serava", en: "Serava River Valley" },
-    coordinates: { lat: 42.1, lng: 21.433 },
+    coords: [21.433, 42.1],
     description: {
       de: "Das Tal des Flusses Serava liegt bei Skopje. Es ist eine grüne Oase mit ökologischer Bedeutung.",
       hu: "A Serava-folyó völgye Szkopje mellett található. Zöld oázis, ökológiai jelentőséggel.",
@@ -646,7 +646,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Plackovica-Gipfel", hu: "Placskovica-csúcs", ro: "Vârful Plačkovica", en: "Plackovica Mountain" },
-    coordinates: { lat: 41.7, lng: 22.45 },
+    coords: [22.45, 41.7],
     description: {
       de: "Die Plackovica ist ein zentrales Gebirgsmassiv. Es bietet alpine Bedingungen und eine spezialisierte Flora.",
       hu: "A Placskovica központi hegytömb. Alpesi feltételeket és specializált flórát kínál.",
@@ -678,7 +678,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "lake",
     parent: "MK",
     name: { de: "Bogovinje-See", hu: "Bogovinje-tó", ro: "Lacul Bogovinje", en: "Bogovinje Lake" },
-    coordinates: { lat: 41.833, lng: 20.783 },
+    coords: [20.783, 41.833],
     description: {
       de: "Der Bogovinje-See ist ein Gletschersee im Sar-Gebirge. Er ist ein abgelegenes Naturrefugium.",
       hu: "A Bogovinje-tó gleccsertó a Sár-hegységben. Félreeső természeti menedékhely.",
@@ -710,7 +710,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Jakupica-Gebirge", hu: "Jakupica-hegység", ro: "Munții Jakupica", en: "Jakupica Mountain" },
-    coordinates: { lat: 41.7, lng: 21.35 },
+    coords: [21.35, 41.7],
     description: {
       de: "Das Jakupica-Gebirge ist ein massives Gebirge mit einer Höhe von über 2500 Metern. Es zeichnet sich durch alpines Gelände aus.",
       hu: "A Jakupica-hegység hatalmas hegylánc, több mint 2500 méteres magassággal. Alpesi terep jellemzi.",
@@ -742,7 +742,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "river",
     parent: "MK",
     name: { de: "Treska-Flusstal", hu: "Treska-völgy", ro: "Valea râului Treska", en: "Treska River Valley" },
-    coordinates: { lat: 41.9, lng: 21.3 },
+    coords: [21.3, 41.9],
     description: {
       de: "Das Treska-Tal ist ein bedeutendes Ökosystem. Es ist bekannt für seine natürliche Schlucht und Flusslandschaft.",
       hu: "A Treska-völgy jelentős ökoszisztéma. Ismert természetes szurdokáról és folyami tájáról.",
@@ -774,7 +774,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Stogovo-Gebirge", hu: "Stogovo-hegység", ro: "Munții Stogovo", en: "Stogovo Mountain" },
-    coordinates: { lat: 41.45, lng: 20.65 },
+    coords: [20.65, 41.45],
     description: {
       de: "Das Stogovo-Gebirge ist ein alpines Massiv im Westen. Es beherbergt eine unberührte Pflanzenwelt.",
       hu: "A Stogovo-hegység egy alpesi tömb nyugaton. Érintetlen növényvilágnak ad otthont.",
@@ -806,7 +806,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "river",
     parent: "MK",
     name: { de: "Bregalnica-Flussgebiet", hu: "Bregalnica-folyóvidék", ro: "Regiunea râului Bregalnica", en: "Bregalnica River Basin" },
-    coordinates: { lat: 41.8, lng: 22.2 },
+    coords: [22.2, 41.8],
     description: {
       de: "Das Flussgebiet der Bregalnica ist ein wichtiger ökologischer Korridor. Es umfasst vielfältige Lebensräume.",
       hu: "A Bregalnica folyóvidéke fontos ökológiai folyosó. Különböző élőhelyeket foglal magába.",
@@ -838,7 +838,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Jablanica-Gebirge", hu: "Jablanica-hegység", ro: "Munții Jablanica", en: "Jablanica Mountain" },
-    coordinates: { lat: 41.3, lng: 20.5 },
+    coords: [20.5, 41.3],
     description: {
       de: "Das Jablanica-Gebirge bildet die Grenze zur albanischen Seite. Es ist eine unberührte alpine Region.",
       hu: "A Jablanica-hegység határt képez az albán oldal felé. Érintetlen alpesi régió.",
@@ -870,7 +870,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Kriva-Reka-Tal", hu: "Kriva-Reka-völgy", ro: "Valea Kriva Reka", en: "Kriva Reka Valley" },
-    coordinates: { lat: 42.15, lng: 22.0 },
+    coords: [22.0, 42.15],
     description: {
       de: "Das Kriva-Reka-Tal ist eine natürliche Landschaft im Nordosten. Es zeichnet sich durch grüne Hügel und Flussauen aus.",
       hu: "A Kriva Reka-völgy természetes táj északkeleten. Zöld dombok és ártéri területek jellemzik.",
@@ -902,7 +902,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "lake",
     parent: "MK",
     name: { de: "Dojran-Feuchtgebiet", hu: "Dojran Vizes élőhely", ro: "Zona umedă Dojran", en: "Dojran Wetland" },
-    coordinates: { lat: 41.2, lng: 22.7 },
+    coords: [22.7, 41.2],
     description: {
       de: "Das Feuchtgebiet am Dojran-See ist reich an Biodiversität. Es ist für seine spezielle aquatische Flora bekannt.",
       hu: "A Dojran-tó melletti vizes élőhely gazdag biodiverzitású. Ismert speciális vízi növényzetéről.",
@@ -934,7 +934,7 @@ export const northmacedoniaLifeV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Ograzden-Gebirge", hu: "Ograzsden-hegység", ro: "Munții Ogražden", en: "Ograzden Mountain" },
-    coordinates: { lat: 41.5, lng: 22.8 },
+    coords: [22.8, 41.5],
     description: {
       de: "Das Ograzden-Gebirge im Osten bietet ausgedehnte bewaldete Flächen. Es ist ein ruhiges Gebiet mit vielen Wanderpfaden.",
       hu: "A keleti Ograzsden-hegység kiterjedt erdős területeket kínál. Csendes vidék, sok túraösvénnyel.",

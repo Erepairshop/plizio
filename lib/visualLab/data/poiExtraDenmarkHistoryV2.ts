@@ -6,7 +6,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Kongernes Jelling Zentrum", hu: "Jellingi Királyi Központ", ro: "Centrul Regal Jelling", en: "Kongernes Jelling Center" },
-    coordinates: { lat: 55.7578, lng: 9.4215 },
+    coords: [9.4215, 55.7578],
     description: {
       de: "Dieses Museum dokumentiert das Erbe der dänischen Wikingerkönige. Es liegt neben den Jelling-Hügeln, die zum UNESCO-Weltkulturerbe gehören.",
       hu: "Ez a múzeum a dán viking királyok örökségét mutatja be. A Jelling-halmok mellett található, amely az UNESCO világörökség része.",
@@ -38,7 +38,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Borreby", hu: "Borreby kastély", ro: "Castelul Borreby", en: "Borreby Castle" },
-    coordinates: { lat: 55.2341, lng: 11.4592 },
+    coords: [11.4592, 55.2341],
     description: {
       de: "Das Schloss Borreby wurde 1556 erbaut und gilt als eines der besterhaltenen Renaissance-Gebäude Dänemarks. Es befindet sich auf der Insel Seeland.",
       hu: "A Borreby kastélyt 1556-ban építették, és Dánia egyik legjobban megőrzött reneszánsz épületének számít. Sjælland szigetén található.",
@@ -70,7 +70,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Geschichtsmuseum Svendborg", hu: "Svendborgi Történeti Múzeum", ro: "Muzeul de Istorie Svendborg", en: "Svendborg History Museum" },
-    coordinates: { lat: 55.0601, lng: 10.6067 },
+    coords: [10.6067, 55.0601],
     description: {
       de: "Das Museum befindet sich in Svendborg und konzentriert sich auf die maritime Geschichte der Stadt. Es zeigt Ausstellungen zur lokalen Entwicklung seit dem Mittelalter.",
       hu: "A Svendborgban található múzeum a város tengerészeti történelmére összpontosít. A középkor óta tartó helyi fejlődést bemutató kiállítások találhatók itt.",
@@ -102,7 +102,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "castle",
     parent: "DK",
     name: { de: "Burg Spøttrup", hu: "Spøttrup vár", ro: "Castelul Spøttrup", en: "Spøttrup Castle" },
-    coordinates: { lat: 56.6394, lng: 8.7613 },
+    coords: [8.7613, 56.6394],
     description: {
       de: "Spøttrup ist eine gut erhaltene mittelalterliche Burg im Nordwesten Jütlands. Sie wurde im 15. Jahrhundert erbaut und ist von einem tiefen Wassergraben umgeben.",
       hu: "Spøttrup egy jól megőrzött középkori vár Északnyugat-Jütlandban. A 15. században épült, és mély vizesárok veszi körül.",
@@ -134,7 +134,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "ruins",
     parent: "DK",
     name: { de: "Wikinger-Ringburg Aggersborg", hu: "Aggersborg viking körvár", ro: "Fortăreața inelară vikingă Aggersborg", en: "Viking Ring Fortress Aggersborg" },
-    coordinates: { lat: 56.9953, lng: 9.4006 },
+    coords: [9.4006, 56.9953],
     description: {
       de: "Aggersborg ist die größte der fünf dänischen Wikinger-Ringburgen. Sie wurde um das Jahr 980 unter Harald Blauzahn erbaut.",
       hu: "Aggersborg az öt dán viking körvár közül a legnagyobb. Körülbelül 980-ban épült, Kékfogú Harald uralkodása alatt.",
@@ -166,7 +166,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Dragsholm", hu: "Dragsholm kastély", ro: "Castelul Dragsholm", en: "Dragsholm Castle" },
-    coordinates: { lat: 55.7766, lng: 11.3938 },
+    coords: [11.3938, 55.7766],
     description: {
       de: "Dragsholm ist eines der ältesten Schlösser Dänemarks, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Es ist heute ein Hotel und Restaurant.",
       hu: "Dragsholm Dánia egyik legrégebbi kastélya, amelynek eredete a 13. századra nyúlik vissza. Ma szállodaként és étteremként működik.",
@@ -198,7 +198,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Gut Nysø", hu: "Nysø kúria", ro: "Conacul Nysø", en: "Nysø Manor" },
-    coordinates: { lat: 55.0069, lng: 12.1994 },
+    coords: [12.1994, 55.0069],
     description: {
       de: "Das Gut Nysø ist für seine enge Verbindung zum dänischen Bildhauer Bertel Thorvaldsen bekannt. Es liegt in der Nähe von Præstø auf Seeland.",
       hu: "A Nysø kúria a Bertel Thorvaldsen dán szobrásszal való szoros kapcsolatáról ismert. A Sjælland-szigeti Præstø közelében található.",
@@ -230,7 +230,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "ruins",
     parent: "DK",
     name: { de: "Wikinger-Ringburg Fyrkat", hu: "Fyrkat viking körvár", ro: "Fortăreața inelară vikingă Fyrkat", en: "Viking Ring Fortress Fyrkat" },
-    coordinates: { lat: 56.6346, lng: 9.7733 },
+    coords: [9.7733, 56.6346],
     description: {
       de: "Fyrkat ist eine Wikingerburg aus der Zeit um 980. Sie liegt in der Nähe von Hobro und ist ein wichtiges archäologisches Denkmal.",
       hu: "Fyrkat egy 980 körüli időkből származó viking vár. Hobro közelében található, és jelentős régészeti emlék.",
@@ -262,7 +262,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "cathedral",
     parent: "DK",
     name: { de: "Dom zu Viborg", hu: "Viborgi katedrális", ro: "Catedrala din Viborg", en: "Viborg Cathedral" },
-    coordinates: { lat: 56.4508, lng: 9.4002 },
+    coords: [9.4002, 56.4508],
     description: {
       de: "Der Dom zu Viborg hat eine lange Geschichte, die bis ins 12. Jahrhundert zurückreicht. Er ist berühmt für die Fresken von Joakim Skovgaard.",
       hu: "A viborgi katedrális hosszú története a 12. századig nyúlik vissza. Híres Joakim Skovgaard freskóiról.",
@@ -294,7 +294,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Freilichtmuseum Hjerl Hede", hu: "Hjerl Hede szabadtéri múzeum", ro: "Muzeul în aer liber Hjerl Hede", en: "Hjerl Hede Open Air Museum" },
-    coordinates: { lat: 56.4673, lng: 8.8961 },
+    coords: [8.8961, 56.4673],
     description: {
       de: "Hjerl Hede ist ein Freilichtmuseum, das den Alltag der Menschen im Dänemark der Vergangenheit zeigt. Es umfasst Gebäude aus mehreren Jahrhunderten.",
       hu: "A Hjerl Hede egy szabadtéri múzeum, amely a múltbéli dán emberek mindennapjait mutatja be. Több évszázad épületeit foglalja magában.",
@@ -326,7 +326,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Die Alte Stadt Aarhus", hu: "Den Gamle By Aarhus", ro: "Orașul Vechi din Aarhus", en: "The Old Town Aarhus" },
-    coordinates: { lat: 56.1554, lng: 10.1873 },
+    coords: [10.1873, 56.1554],
     description: {
       de: "Das Museum Den Gamle By in Aarhus zeigt dänische Stadtgeschichte. Es besteht aus historischen Gebäuden aus verschiedenen Städten Dänemarks.",
       hu: "Az aarhusi Den Gamle By múzeum a dán városi történelmet mutatja be. Dánia különböző városaiból származó történelmi épületekből áll.",
@@ -358,7 +358,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Valdemar", hu: "Valdemar kastély", ro: "Castelul Valdemar", en: "Valdemar Castle" },
-    coordinates: { lat: 54.9961, lng: 10.6483 },
+    coords: [10.6483, 54.9961],
     description: {
       de: "Schloss Valdemar liegt auf der Insel Tåsinge. Es wurde im 17. Jahrhundert von König Christian IV. für seinen Sohn Valdemar erbaut.",
       hu: "A Valdemar kastély Tåsinge szigetén található. IV. Keresztély király építtette a 17. században fia, Valdemar számára.",
@@ -390,7 +390,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Voergaard", hu: "Voergaard kastély", ro: "Castelul Voergaard", en: "Voergaard Castle" },
-    coordinates: { lat: 57.2475, lng: 10.2792 },
+    coords: [10.2792, 57.2475],
     description: {
       de: "Voergaard ist eines der schönsten Renaissance-Schlösser Dänemarks. Es liegt im Norden Jütlands und beherbergt eine bedeutende Kunstsammlung.",
       hu: "Voergaard Dánia egyik legszebb reneszánsz kastélya. Észak-Jütlandban található, és jelentős művészeti gyűjteménynek ad otthont.",
@@ -422,7 +422,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Knud Rasmussens Haus", hu: "Knud Rasmussen háza", ro: "Casa lui Knud Rasmussen", en: "Knud Rasmussen's House" },
-    coordinates: { lat: 55.9739, lng: 12.0108 },
+    coords: [12.0108, 55.9739],
     description: {
       de: "Das Haus des berühmten Polarforschers Knud Rasmussen befindet sich in Hundested. Es dient heute als Museum für sein Lebenswerk.",
       hu: "A híres sarkkutató, Knud Rasmussen háza Hundestedben található. Ma az életművét bemutató múzeumként szolgál.",
@@ -454,7 +454,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Wikingerburg Trelleborg Zentrum", hu: "Trelleborgi viking vár központ", ro: "Centrul fortăreței vikinge Trelleborg", en: "Viking Fortress Trelleborg Center" },
-    coordinates: { lat: 55.3976, lng: 11.2985 },
+    coords: [11.2985, 55.3976],
     description: {
       de: "Dieses Zentrum informiert Besucher über die Geschichte der Ringburg Trelleborg. Sie gehört zu den wichtigsten Wikinger-Festungen in Dänemark.",
       hu: "Ez a központ tájékoztatja a látogatókat a trelleborgi körvár történetéről. Dánia egyik legfontosabb viking erődítménye.",
@@ -486,7 +486,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Gl. Estrup", hu: "Gl. Estrup kastély", ro: "Castelul Gl. Estrup", en: "Gl. Estrup Castle" },
-    coordinates: { lat: 56.4174, lng: 10.4284 },
+    coords: [10.4284, 56.4174],
     description: {
       de: "Schloss Gl. Estrup ist heute das Dänische Herrenhausmuseum. Es liegt in Jütland und zeigt die Entwicklung des dänischen Landadels.",
       hu: "A Gl. Estrup kastély ma a Dán Kúriák Múzeuma. Jütlandban található, és a dán földbirtokos nemesség fejlődését mutatja be.",
@@ -518,7 +518,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "cathedral",
     parent: "DK",
     name: { de: "Dom zu Aarhus", hu: "Aarhusi katedrális", ro: "Catedrala din Aarhus", en: "Aarhus Cathedral" },
-    coordinates: { lat: 56.1565, lng: 10.2115 },
+    coords: [10.2115, 56.1565],
     description: {
       de: "Der Dom zu Aarhus ist die längste Kirche Dänemarks. Der Bau begann im 12. Jahrhundert und wurde über mehrere Jahrhunderte erweitert.",
       hu: "Az aarhusi katedrális Dánia leghosszabb temploma. Az építkezés a 12. században kezdődött, és több évszázadon keresztül bővítették.",
@@ -550,7 +550,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "ruins",
     parent: "DK",
     name: { de: "Festung Knudshoved", hu: "Knudshoved erőd", ro: "Fortăreața Knudshoved", en: "Knudshoved Fort" },
-    coordinates: { lat: 55.3051, lng: 10.8492 },
+    coords: [10.8492, 55.3051],
     description: {
       de: "Knudshoved ist eine historische Festungsstelle auf der Insel Fünen. Sie diente strategischen Zwecken bei der Überwachung des Großen Belts.",
       hu: "Knudshoved egy történelmi erődítmény a Fyn-szigeten. Stratégiai célokat szolgált a Nagy-Bælt megfigyelésében.",
@@ -582,7 +582,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Wikingerschiff-Museum Roskilde", hu: "Roskildei Vikinghajó Múzeum", ro: "Muzeul Corăbiilor Vikinge din Roskilde", en: "Viking Ship Museum Roskilde" },
-    coordinates: { lat: 55.6475, lng: 12.0839 },
+    coords: [12.0839, 55.6475],
     description: {
       de: "Dieses Museum beherbergt fünf originale Wikingerschiffe, die im Roskilde Fjord gefunden wurden. Es ist ein Zentrum für maritime Archäologie.",
       hu: "Ez a múzeum öt eredeti viking hajót őriz, amelyeket a Roskilde-fjordban találtak. A tengerészeti régészet központja.",
@@ -614,7 +614,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Liselund", hu: "Liselund kastély", ro: "Castelul Liselund", en: "Liselund Castle" },
-    coordinates: { lat: 54.9815, lng: 12.5484 },
+    coords: [12.5484, 54.9815],
     description: {
       de: "Liselund ist ein historisches Lustschloss aus dem 18. Jahrhundert auf der Insel Møn. Es ist von einer malerischen Parkanlage umgeben.",
       hu: "Liselund egy 18. századi történelmi örömkastély Møn szigetén. Festői park veszi körül.",
@@ -646,7 +646,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "tower",
     parent: "DK",
     name: { de: "Wasserturm Esbjerg", hu: "Esbjergi víztorony", ro: "Turnul de apă din Esbjerg", en: "Esbjerg Water Tower" },
-    coordinates: { lat: 55.4674, lng: 8.4485 },
+    coords: [8.4485, 55.4674],
     description: {
       de: "Der Wasserturm in Esbjerg wurde 1897 erbaut. Er ist heute ein Industriedenkmal und bietet einen Ausblick über die Stadt.",
       hu: "Az esbjergi víztorony 1897-ben épült. Ma ipari műemlék, és kilátást nyújt a városra.",
@@ -678,7 +678,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Nyborg", hu: "Nyborg kastély", ro: "Castelul Nyborg", en: "Nyborg Castle" },
-    coordinates: { lat: 55.3094, lng: 10.7937 },
+    coords: [10.7937, 55.3094],
     description: {
       de: "Schloss Nyborg ist eine der ältesten königlichen Burgen Dänemarks. Sie spielte eine zentrale Rolle im Mittelalter als Sitz des Danehofs.",
       hu: "Nyborg kastélya Dánia egyik legrégebbi királyi vára. Központi szerepet játszott a középkorban mint a Danehof székhelye.",
@@ -710,7 +710,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Wassermühle Hammel", hu: "Hammeli vízimalom", ro: "Moara de apă Hammel", en: "Hammel Water Mill" },
-    coordinates: { lat: 56.2571, lng: 9.8569 },
+    coords: [9.8569, 56.2571],
     description: {
       de: "Die historische Wassermühle in Hammel ist ein Beispiel für ländliche Technikgeschichte in Dänemark. Sie ist gut erhalten.",
       hu: "A hammeli történelmi vízimalom a dán vidéki technikatörténet egyik példája. Jól megőrzött állapotú.",
@@ -742,7 +742,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Gut Gammel Estrup", hu: "Gammel Estrup kúria", ro: "Conacul Gammel Estrup", en: "Gammel Estrup Manor" },
-    coordinates: { lat: 56.4172, lng: 10.4285 },
+    coords: [10.4285, 56.4172],
     description: {
       de: "Dieses historische Herrenhaus in Randers zeigt die Lebensweise des dänischen Adels durch die Jahrhunderte.",
       hu: "Ez a randersi történelmi kúria a dán nemesség életmódját mutatja be az évszázadok során.",
@@ -774,7 +774,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Holmens Kirche Kopenhagen", hu: "Holmens templom Koppenhága", ro: "Biserica Holmens din Copenhaga", en: "Holmens Church Copenhagen" },
-    coordinates: { lat: 55.6766, lng: 12.5843 },
+    coords: [12.5843, 55.6766],
     description: {
       de: "Die Holmens Kirche wurde im 17. Jahrhundert erbaut und ist eine wichtige maritime Kirche in Kopenhagen. Sie war eng mit der Marine verbunden.",
       hu: "A Holmens templom a 17. században épült, és fontos tengerészeti templom Koppenhágában. Szorosan kapcsolódott a haditengerészethez.",
@@ -806,7 +806,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Museum Christiansfeld", hu: "Christiansfeld Múzeum", ro: "Muzeul Christiansfeld", en: "Christiansfeld Museum" },
-    coordinates: { lat: 55.3533, lng: 9.4829 },
+    coords: [9.4829, 55.3533],
     description: {
       de: "Dieses Museum dokumentiert die Geschichte der Brüdergemeine in Christiansfeld, einem UNESCO-Welterbe-Ort in Jütland.",
       hu: "Ez a múzeum a morva testvérek történetét dokumentálja Christiansfeldben, amely egy UNESCO-világörökség részét képező hely Jütlandban.",
@@ -838,7 +838,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "H.C. Andersen Haus Odense", hu: "H.C. Andersen Ház Odense", ro: "Casa H.C. Andersen din Odense", en: "H.C. Andersen House Odense" },
-    coordinates: { lat: 55.3957, lng: 10.3881 },
+    coords: [10.3881, 55.3957],
     description: {
       de: "Dieses Museum in Odense ist dem berühmten dänischen Märchenerzähler Hans Christian Andersen gewidmet. Es zeigt sein Leben und Werk.",
       hu: "Ez az odense-i múzeum a híres dán mesemondónak, Hans Christian Andersennek állít emléket. Életét és munkásságát mutatja be.",
@@ -870,7 +870,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Kirche von Kalundborg", hu: "Kalundborgi templom", ro: "Biserica din Kalundborg", en: "Church of Kalundborg" },
-    coordinates: { lat: 55.6792, lng: 11.0848 },
+    coords: [11.0848, 55.6792],
     description: {
       de: "Die Liebfrauenkirche in Kalundborg ist eine einzigartige fünf-türmige Backsteinkirche aus dem 13. Jahrhundert.",
       hu: "A kalundborgi Miasszonyunk-templom egy egyedülálló, öttornyú téglatemplom a 13. századból.",
@@ -902,7 +902,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "tower",
     parent: "DK",
     name: { de: "Alter Leuchtturm Skagen", hu: "Skageni régi világítótorony", ro: "Vechiul far din Skagen", en: "Skagen Old Lighthouse" },
-    coordinates: { lat: 57.7335, lng: 10.6033 },
+    coords: [10.6033, 57.7335],
     description: {
       de: "Der alte Leuchtturm in Skagen stammt aus dem 19. Jahrhundert. Er zeugt von der Bedeutung der Sicherheit für die Seefahrt an der Nordspitze.",
       hu: "A skageni régi világítótorony a 19. századból származik. Tanúskodik a tengerészeti biztonság fontosságáról az északi csúcson.",
@@ -934,7 +934,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Museum Trapholt", hu: "Trapholt Múzeum", ro: "Muzeul Trapholt", en: "Trapholt Museum" },
-    coordinates: { lat: 55.4851, lng: 9.4754 },
+    coords: [9.4754, 55.4851],
     description: {
       de: "Trapholt ist ein Museum für moderne Kunst und Design in Kolding. Es liegt landschaftlich reizvoll am Kolding Fjord.",
       hu: "A Trapholt a modern művészet és design múzeuma Koldingban. Festői környezetben található a Kolding-fjord mellett.",
@@ -966,7 +966,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Museum Faaborg", hu: "Faaborgi Múzeum", ro: "Muzeul Faaborg", en: "Faaborg Museum" },
-    coordinates: { lat: 55.0931, lng: 10.2443 },
+    coords: [10.2443, 55.0931],
     description: {
       de: "Das Faaborg Museum ist bekannt für seine Sammlung der Fünen-Maler. Es ist in einem historischen Gebäude untergebracht.",
       hu: "A Faaborg Múzeum a Fyn-szigeti festők gyűjteményéről ismert. Egy történelmi épületben található.",
@@ -998,7 +998,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Klosterkirche Sorø", hu: "Sorøi kolostortemplom", ro: "Biserica mănăstirii din Sorø", en: "Sorø Monastery Church" },
-    coordinates: { lat: 55.4334, lng: 11.5583 },
+    coords: [11.5583, 55.4334],
     description: {
       de: "Die Kirche des ehemaligen Klosters in Sorø ist eines der bedeutendsten mittelalterlichen Gebäude Dänemarks.",
       hu: "A sorøi egykori kolostor temploma Dánia egyik legjelentősebb középkori épülete.",
@@ -1030,7 +1030,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Alte Börse Kopenhagen", hu: "Régi tőzsde Koppenhága", ro: "Vechea bursă din Copenhaga", en: "Old Stock Exchange Copenhagen" },
-    coordinates: { lat: 55.6755, lng: 12.5855 },
+    coords: [12.5855, 55.6755],
     description: {
       de: "Die Alte Börse in Kopenhagen ist ein prächtiges Gebäude im Stil der niederländischen Renaissance. Sie stammt aus dem 17. Jahrhundert.",
       hu: "A koppenhágai régi tőzsde egy pompás épület a holland reneszánsz stílusában. A 17. századból származik.",
@@ -1062,7 +1062,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Mühle Stenstrup", hu: "Stenstrup malom", ro: "Moara Stenstrup", en: "Stenstrup Mill" },
-    coordinates: { lat: 55.1325, lng: 10.5146 },
+    coords: [10.5146, 55.1325],
     description: {
       de: "Die historische Mühle in Stenstrup erinnert an die landwirtschaftliche Vergangenheit der Region Fünen.",
       hu: "A stenstrupi történelmi malom a Fyn-szigeti régió mezőgazdasági múltjára emlékeztet.",
@@ -1094,7 +1094,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "ruins",
     parent: "DK",
     name: { de: "Burgruinen Skanderborg", hu: "Skanderborg várromok", ro: "Ruinele castelului Skanderborg", en: "Skanderborg Castle Ruins" },
-    coordinates: { lat: 56.0275, lng: 9.9312 },
+    coords: [9.9312, 56.0275],
     description: {
       de: "Die Reste der Burg Skanderborg liegen in Jütland. Sie war einst ein bedeutendes königliches Schloss.",
       hu: "A Skanderborg vár maradványai Jütlandban találhatók. Valaha jelentős királyi kastély volt.",
@@ -1126,7 +1126,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "monument",
     parent: "DK",
     name: { de: "Runenstein Stenstrup", hu: "Stenstrup rúnakő", ro: "Piatra runică Stenstrup", en: "Stenstrup Runestone" },
-    coordinates: { lat: 55.1328, lng: 10.515 },
+    coords: [10.515, 55.1328],
     description: {
       de: "Dieser Runenstein bei Stenstrup stammt aus der Wikingerzeit und ist ein wichtiges archäologisches Relikt.",
       hu: "Ez a stenstrupi rúnakő a viking korból származik, és fontos régészeti ereklye.",
@@ -1158,7 +1158,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "cathedral",
     parent: "DK",
     name: { de: "Dom zu Odense", hu: "Odensei katedrális", ro: "Catedrala din Odense", en: "Odense Cathedral" },
-    coordinates: { lat: 55.3952, lng: 10.3888 },
+    coords: [10.3888, 55.3952],
     description: {
       de: "Der Dom zu Odense, auch St.-Knud-Kirche genannt, ist ein Meisterwerk der Backsteingotik in Dänemark.",
       hu: "Az odensei katedrális, más néven Szent Knud-templom, a dán tégla-gótika remekműve.",
@@ -1190,7 +1190,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "bridge",
     parent: "DK",
     name: { de: "Alte Brücke Kolding", hu: "Koldingi régi híd", ro: "Vechiul pod din Kolding", en: "Kolding Old Bridge" },
-    coordinates: { lat: 55.4912, lng: 9.4715 },
+    coords: [9.4715, 55.4912],
     description: {
       de: "Die alte Brücke in Kolding ist ein historisches Bauwerk, das einst den Verkehr über den Fluss Kolding Å ermöglichte.",
       hu: "A koldingi régi híd egy történelmi építmény, amely egykor lehetővé tette a közlekedést a Kolding Å folyón át.",
@@ -1222,7 +1222,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "St.-Nicolai-Kirche Svendborg", hu: "Svendborgi Szent Miklós-templom", ro: "Biserica Sf. Nicolae din Svendborg", en: "St. Nicolai Church Svendborg" },
-    coordinates: { lat: 55.0607, lng: 10.6053 },
+    coords: [10.6053, 55.0607],
     description: {
       de: "Die St.-Nicolai-Kirche in Svendborg ist eine historische Kirche, die die maritime Geschichte der Stadt widerspiegelt.",
       hu: "A svendborgi Szent Miklós-templom egy történelmi templom, amely tükrözi a város tengerészeti történelmét.",
@@ -1254,7 +1254,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "theater",
     parent: "DK",
     name: { de: "Aarhus Theater", hu: "Aarhusi Színház", ro: "Teatrul din Aarhus", en: "Aarhus Theater" },
-    coordinates: { lat: 56.1558, lng: 10.2079 },
+    coords: [10.2079, 56.1558],
     description: {
       de: "Das Aarhus Theater wurde im Jahr 1900 eröffnet und ist ein beeindruckendes Beispiel für die Jugendstil-Architektur in Dänemark.",
       hu: "Az Aarhusi Színház 1900-ban nyílt meg, és a dániai szecessziós építészet lenyűgöző példája.",
@@ -1286,7 +1286,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Kirche Hvidovre", hu: "Hvidovrei templom", ro: "Biserica Hvidovre", en: "Hvidovre Church" },
-    coordinates: { lat: 55.6515, lng: 12.4633 },
+    coords: [12.4633, 55.6515],
     description: {
       de: "Die Hvidovre Kirche hat mittelalterliche Wurzeln und ist eines der ältesten Gebäude im Gebiet von Kopenhagen.",
       hu: "A hvidovrei templom középkori gyökerekkel rendelkezik, és a koppenhágai terület egyik legrégebbi épülete.",
@@ -1318,7 +1318,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Kirche von Skagen", hu: "Skageni templom", ro: "Biserica din Skagen", en: "Church of Skagen" },
-    coordinates: { lat: 57.7205, lng: 10.5847 },
+    coords: [10.5847, 57.7205],
     description: {
       de: "Die Kirche von Skagen ist ein bekanntes Gebäude in der nördlichsten Stadt Dänemarks mit historischer Bedeutung.",
       hu: "A skageni templom egy ismert épület Dánia legészakibb városában, történelmi jelentőséggel.",
@@ -1350,7 +1350,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "monument",
     parent: "DK",
     name: { de: "Glavendrup-Runenstein", hu: "Glavendrup-rúnakő", ro: "Piatra runică Glavendrup", en: "Glavendrup Runestone" },
-    coordinates: { lat: 55.5186, lng: 10.3705 },
+    coords: [10.3705, 55.5186],
     description: {
       de: "Der Glavendrup-Stein ist einer der längsten Runensteine Dänemarks und stammt aus dem frühen 10. Jahrhundert.",
       hu: "A Glavendrup-kő Dánia egyik leghosszabb rúnaköve, a 10. század elejéről származik.",
@@ -1382,7 +1382,7 @@ export const denmarkHistoryV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "St.-Nicolai-Kirche Kolding", hu: "Koldingi Szent Miklós-templom", ro: "Biserica Sf. Nicolae din Kolding", en: "St. Nicolai Church Kolding" },
-    coordinates: { lat: 55.4905, lng: 9.4735 },
+    coords: [9.4735, 55.4905],
     description: {
       de: "Die St.-Nicolai-Kirche in Kolding ist eine der ältesten Kirchen der Stadt und hat eine reiche Geschichte.",
       hu: "A koldingi Szent Miklós-templom a város egyik legrégebbi temploma, gazdag történelemmel.",

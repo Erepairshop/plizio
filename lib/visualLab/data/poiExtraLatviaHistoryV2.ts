@@ -6,7 +6,7 @@ export const latviaHistoryV2: POI[] = [
     type: "ruins",
     parent: "LV",
     name: { de: "Burgruine Kristapils", hu: "Kristapils várrom", ro: "Ruinele castelului Kristapils", en: "Kristapils Castle Ruins" },
-    coordinates: { lat: 56.6342, lng: 25.8211 },
+    coords: [25.8211, 56.6342],
     description: {
       de: "Überreste einer mittelalterlichen Befestigungsanlage aus dem 14. Jahrhundert. Die Struktur diente einst als strategischer Vorposten in der Region.",
       hu: "Egy 14. századi középkori erődítmény maradványai. A szerkezet egykor stratégiai előőrs volt a régióban.",
@@ -38,7 +38,7 @@ export const latviaHistoryV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Hügelburg Sauka", hu: "Sauka halomsír", ro: "Movila antică Sauka", en: "Sauka Ancient Mound" },
-    coordinates: { lat: 56.2415, lng: 25.4332 },
+    coords: [25.4332, 56.2415],
     description: {
       de: "Eine prähistorische Erhebung, die archäologische Funde aus der frühen Eisenzeit beherbergt. Der Ort dokumentiert die Siedlungsgeschichte der Gegend.",
       hu: "Egy őskori domb, amely a korai vaskorból származó régészeti leleteket tartalmaz. A hely a környék településtörténetét dokumentálja.",
@@ -70,7 +70,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Jumprava", hu: "Jumprava udvarház", ro: "Conacul Jumprava", en: "Jumprava Manor" },
-    coordinates: { lat: 56.7324, lng: 24.8156 },
+    coords: [24.8156, 56.7324],
     description: {
       de: "Ehemaliger Herrensitz aus dem 19. Jahrhundert, der die Architektur des baltischen Adels widerspiegelt. Heute ein historisches Denkmal der lokalen Entwicklung.",
       hu: "Egy 19. századi egykori nemesi udvarház, amely a balti nemesség építészetét tükrözi. Ma a helyi fejlődés történelmi emlékműve.",
@@ -102,7 +102,7 @@ export const latviaHistoryV2: POI[] = [
     type: "battlefield",
     parent: "LV",
     name: { de: "Schlachtfeld von Stende", hu: "Stendei csatatér", ro: "Câmpul de luptă Stende", en: "Stende Battle Site" },
-    coordinates: { lat: 57.1456, lng: 22.5344 },
+    coords: [22.5344, 57.1456],
     description: {
       de: "Ort historischer Gefechte während der Unabhängigkeitskämpfe im frühen 20. Jahrhundert. Ein Gedenkort zur Erinnerung an die militärischen Ereignisse.",
       hu: "A 20. század eleji függetlenségi harcok történelmi csatáinak helyszíne. Emlékhely a katonai események tiszteletére.",
@@ -134,7 +134,7 @@ export const latviaHistoryV2: POI[] = [
     type: "church",
     parent: "LV",
     name: { de: "Kirche Rubene", hu: "Rubene templom", ro: "Biserica Rubene", en: "Rubene Church" },
-    coordinates: { lat: 57.5678, lng: 25.189 },
+    coords: [25.189, 57.5678],
     description: {
       de: "Historische Kirche mit Ursprüngen im 13. Jahrhundert. Sie spielt eine bedeutende Rolle in der frühen Christianisierungsgeschichte der Region.",
       hu: "Történelmi templom, amelynek gyökerei a 13. századra nyúlnak vissza. Jelentős szerepet játszik a régió korai keresztényesítési történetében.",
@@ -166,7 +166,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Schloss Mežotne", hu: "Mežotne kastély", ro: "Palatul Mežotne", en: "Mežotne Palace" },
-    coordinates: { lat: 56.4422, lng: 24.0533 },
+    coords: [24.0533, 56.4422],
     description: {
       de: "Klassizistisches Schloss aus dem späten 18. Jahrhundert am Ufer der Lielupe. Einst Sitz der Familie Lieven, heute ein bedeutendes Kulturdenkmal.",
       hu: "Klasszicista kastély a 18. század végéről, a Lielupe folyó partján. Egykor a Lieven család székhelye, ma jelentős kulturális műemlék.",
@@ -198,7 +198,7 @@ export const latviaHistoryV2: POI[] = [
     type: "ruins",
     parent: "LV",
     name: { de: "Burgruine Viļaka", hu: "Viļaka várrom", ro: "Ruinele castelului Viļaka", en: "Viļaka Castle Ruins" },
-    coordinates: { lat: 57.1855, lng: 27.6744 },
+    coords: [27.6744, 57.1855],
     description: {
       de: "Überreste einer mittelalterlichen Bischofsburg auf einer Insel im Viļaka-See. Die Anlage wurde im 16. Jahrhundert während Kriegen schwer beschädigt.",
       hu: "Középkori püspöki vár maradványai egy szigeten, a Viļaka-tóban. Az erődítményt a 16. században, háborúk során súlyosan megrongálták.",
@@ -230,7 +230,7 @@ export const latviaHistoryV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Historische Siedlung Seda", hu: "Seda történelmi település", ro: "Așezarea istorică Seda", en: "Seda Historical Settlement" },
-    coordinates: { lat: 57.6322, lng: 25.6811 },
+    coords: [25.6811, 57.6322],
     description: {
       de: "Eine geplante Stadt aus der sowjetischen Ära mit einzigartiger Architektur der Stalin-Zeit. Sie bietet einen Einblick in die Industriegeschichte des 20. Jahrhunderts.",
       hu: "Szovjet korszakbeli tervezett város, egyedi sztálinista építészettel. Bepillantást nyújt a 20. század ipartörténetébe.",
@@ -262,7 +262,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Schloss Krāslava", hu: "Krāslava kastély", ro: "Palatul Krāslava", en: "Krāslava Palace" },
-    coordinates: { lat: 55.8944, lng: 27.1656 },
+    coords: [27.1656, 55.8944],
     description: {
       de: "Ehemaliges Schloss der Plater-Adelsfamilie aus dem 18. Jahrhundert. Es ist ein Zentrum für historische Studien und regionales Erbe.",
       hu: "A Plater nemesi család 18. századi egykori kastélya. A történelmi tanulmányok és a regionális örökség központja.",
@@ -294,7 +294,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Jaunauce", hu: "Jaunauce udvarház", ro: "Conacul Jaunauce", en: "Jaunauce Manor" },
-    coordinates: { lat: 56.4678, lng: 22.6789 },
+    coords: [22.6789, 56.4678],
     description: {
       de: "Ein historischer Herrensitz aus dem frühen 20. Jahrhundert mit gut erhaltenen Innenräumen. Es repräsentiert den späten architektonischen Stil der Region.",
       hu: "Történelmi udvarház a 20. század elejéről, jól megőrzött belső terekkel. A régió késői építészeti stílusát képviseli.",
@@ -326,7 +326,7 @@ export const latviaHistoryV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Hügelburg Alūksne", hu: "Alūksne halomsír", ro: "Movila Alūksne", en: "Alūksne Mound" },
-    coordinates: { lat: 57.4122, lng: 27.0544 },
+    coords: [27.0544, 57.4122],
     description: {
       de: "Eine antike Befestigungsanlage, die als Verteidigungsposten der lettgallischen Stämme diente. Der Ort ist reich an archäologischer Geschichte.",
       hu: "Ősi erődítmény, amely a lettgall törzsek védelmi állásaként szolgált. A hely gazdag régészeti történelemmel rendelkezik.",
@@ -358,7 +358,7 @@ export const latviaHistoryV2: POI[] = [
     type: "monument",
     parent: "LV",
     name: { de: "Kriegsdenkmal Daugavpils", hu: "Daugavpils háborús emlékmű", ro: "Monumentul de război Daugavpils", en: "Daugavpils War Memorial" },
-    coordinates: { lat: 55.8744, lng: 26.5122 },
+    coords: [26.5122, 55.8744],
     description: {
       de: "Ein Gedenkort für die Gefallenen der Weltkriege. Die Architektur und die Inschriften erinnern an die bewegte militärische Vergangenheit der Stadt.",
       hu: "Emlékhely a világháborúk hősi halottainak. Az építészet és a feliratok a város mozgalmas katonai múltjára emlékeztetnek.",
@@ -390,7 +390,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Schloss Cesvaine", hu: "Cesvaine kastély", ro: "Palatul Cesvaine", en: "Cesvaine Palace" },
-    coordinates: { lat: 56.9678, lng: 26.3078 },
+    coords: [26.3078, 56.9678],
     description: {
       de: "Ein herausragendes Beispiel für den Historismus in Lettland, erbaut Ende des 19. Jahrhunderts. Das Gebäude verbindet englische gotische Elemente.",
       hu: "A historizmus kiemelkedő példája Lettországban, a 19. század végén épült. Az épület angol gótikus elemeket ötvöz.",
@@ -422,7 +422,7 @@ export const latviaHistoryV2: POI[] = [
     type: "ruins",
     parent: "LV",
     name: { de: "Burgruine Ludza", hu: "Ludza várrom", ro: "Ruinele castelului Ludza", en: "Ludza Castle Ruins" },
-    coordinates: { lat: 56.5456, lng: 27.7211 },
+    coords: [27.7211, 56.5456],
     description: {
       de: "Ruinen einer Burg des Deutschen Ordens aus dem Mittelalter. Die Anlage war ein strategischer Knotenpunkt an den östlichen Grenzen Lettlands.",
       hu: "Középkori Német Lovagrend-vár romjai. A létesítmény stratégiai csomópont volt Lettország keleti határainál.",
@@ -454,7 +454,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Stende", hu: "Stende udvarház", ro: "Conacul Stende", en: "Stende Manor" },
-    coordinates: { lat: 57.1345, lng: 22.5456 },
+    coords: [22.5456, 57.1345],
     description: {
       de: "Historischer Gutskomplex, der die wirtschaftliche und gesellschaftliche Entwicklung der Region im 18. und 19. Jahrhundert dokumentiert.",
       hu: "Történelmi udvarházi komplexum, amely dokumentálja a régió gazdasági és társadalmi fejlődését a 18. és 19. században.",
@@ -486,7 +486,7 @@ export const latviaHistoryV2: POI[] = [
     type: "bridge",
     parent: "LV",
     name: { de: "Historische Steinbrücke Kandava", hu: "Kandavai történelmi kőhíd", ro: "Podul istoric de piatră Kandava", en: "Kandava Historical Stone Bridge" },
-    coordinates: { lat: 57.0344, lng: 22.7756 },
+    coords: [22.7756, 57.0344],
     description: {
       de: "Eine der ältesten erhaltenen Steinbrücken in Lettland, erbaut im 19. Jahrhundert. Sie ist ein bedeutendes technisches Denkmal der Region.",
       hu: "Lettország egyik legrégebbi fennmaradt kőhídja, a 19. században épült. Jelentős műszaki műemlék a régióban.",
@@ -518,7 +518,7 @@ export const latviaHistoryV2: POI[] = [
     type: "tower",
     parent: "LV",
     name: { de: "Schwedentor Priekule", hu: "Priekulei svéd kapu", ro: "Poarta suedeză Priekule", en: "Priekule Swedish Gate" },
-    coordinates: { lat: 56.4455, lng: 21.5811 },
+    coords: [21.5811, 56.4455],
     description: {
       de: "Historisches Tor aus dem 17. Jahrhundert, das eng mit den militärischen Konflikten zwischen Schweden und dem Herzogtum Kurland verbunden ist.",
       hu: "A 17. századi történelmi kapu, amely szorosan összefügg a Svédország és a Kurlandi Hercegség közötti katonai konfliktusokkal.",
@@ -550,7 +550,7 @@ export const latviaHistoryV2: POI[] = [
     type: "battlefield",
     parent: "LV",
     name: { de: "Gedenkstätte Schlacht von Durbe", hu: "Durbei csata emlékhelye", ro: "Sit comemorativ Bătălia de la Durbe", en: "Durbe Battle Memorial" },
-    coordinates: { lat: 56.5944, lng: 21.3322 },
+    coords: [21.3322, 56.5944],
     description: {
       de: "Ein Gedenkort an die entscheidende Schlacht des Jahres 1260 zwischen dem Deutschen Orden und den baltischen Stämmen.",
       hu: "Emlékhely az 1260-as évek döntő csatájáról a Német Lovagrend és a balti törzsek között.",
@@ -582,7 +582,7 @@ export const latviaHistoryV2: POI[] = [
     type: "ruins",
     parent: "LV",
     name: { de: "Burgruine Embūte", hu: "Embūte várrom", ro: "Ruinele castelului Embūte", en: "Embūte Castle Ruins" },
-    coordinates: { lat: 56.4844, lng: 21.8156 },
+    coords: [21.8156, 56.4844],
     description: {
       de: "Überreste einer alten Burg aus dem 13. Jahrhundert in einer strategisch bedeutenden Hügellandschaft. Der Ort ist tief in Mythen und Geschichte verwurzelt.",
       hu: "Egy 13. századi ókori vár maradványai, stratégiailag jelentős dombvidéken. A hely mélyen gyökerezik a mítoszokban és a történelemben.",
@@ -614,7 +614,7 @@ export const latviaHistoryV2: POI[] = [
     type: "castle",
     parent: "LV",
     name: { de: "Burg Alsunga", hu: "Alsungai vár", ro: "Castelul Alsunga", en: "Alsunga Castle" },
-    coordinates: { lat: 56.9944, lng: 21.5678 },
+    coords: [21.5678, 56.9944],
     description: {
       de: "Eine mittelalterliche Festung, die über Jahrhunderte von verschiedenen Adelsfamilien genutzt wurde. Die Architektur zeigt Schichten aus verschiedenen Epochen.",
       hu: "Középkori erődítmény, amelyet évszázadokon keresztül különböző nemesi családok használtak. Az építészet különböző korszakok rétegeit mutatja.",
@@ -646,7 +646,7 @@ export const latviaHistoryV2: POI[] = [
     type: "church",
     parent: "LV",
     name: { de: "Kirche Ugāle", hu: "Ugālei templom", ro: "Biserica Ugāle", en: "Ugāle Church" },
-    coordinates: { lat: 57.2456, lng: 21.7567 },
+    coords: [21.7567, 57.2456],
     description: {
       de: "Historisches Kirchengebäude aus dem 17. Jahrhundert, das für seine kunstvolle Ausstattung und gut erhaltene Holzarchitektur bekannt ist.",
       hu: "Történelmi templomépület a 17. századból, amely művészi berendezéséről és jól megőrzött faépítészetéről ismert.",
@@ -678,7 +678,7 @@ export const latviaHistoryV2: POI[] = [
     type: "church",
     parent: "LV",
     name: { de: "Kirche Usma", hu: "Usmai templom", ro: "Biserica Usma", en: "Usma Church" },
-    coordinates: { lat: 57.2211, lng: 22.189 },
+    coords: [22.189, 57.2211],
     description: {
       de: "Eine bemerkenswerte Holzkirche, die historische Baumethoden des baltischen Raums widerspiegelt. Ursprünglich im 18. Jahrhundert errichtet.",
       hu: "Figyelemre méltó fatemplom, amely tükrözi a balti térség történelmi építési módjait. Eredetileg a 18. században épült.",
@@ -710,7 +710,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Tārgale", hu: "Tārgalei udvarház", ro: "Conacul Tārgale", en: "Tārgale Manor" },
-    coordinates: { lat: 57.3456, lng: 21.7222 },
+    coords: [21.7222, 57.3456],
     description: {
       de: "Ein ehemaliger Adelssitz aus dem 19. Jahrhundert, der die wirtschaftliche Blütezeit des kurländischen Landadels repräsentiert.",
       hu: "Egy 19. századi egykori nemesi udvarház, amely a kurlandi vidéki nemesség gazdasági virágkorát képviseli.",
@@ -742,7 +742,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Puze", hu: "Puzei udvarház", ro: "Conacul Puze", en: "Puze Manor" },
-    coordinates: { lat: 57.3111, lng: 21.9222 },
+    coords: [21.9222, 57.3111],
     description: {
       de: "Historischer Gutshof, der seit Jahrhunderten ein Zentrum für Landwirtschaft und regionales Handwerk ist.",
       hu: "Történelmi udvarház, amely évszázadok óta a mezőgazdaság és a regionális kézművesség központja.",
@@ -774,7 +774,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Zūras", hu: "Zūrasi udvarház", ro: "Conacul Zūras", en: "Zūras Manor" },
-    coordinates: { lat: 57.2944, lng: 21.8156 },
+    coords: [21.8156, 57.2944],
     description: {
       de: "Ein klassizistisches Anwesen, das die Lebensweise des kurländischen Adels im frühen 19. Jahrhundert dokumentiert.",
       hu: "Klasszicista birtok, amely dokumentálja a kurlandi nemesség életmódját a 19. század elején.",
@@ -806,7 +806,7 @@ export const latviaHistoryV2: POI[] = [
     type: "ruins",
     parent: "LV",
     name: { de: "Ruinen Schloss Eleja", hu: "Elejai kastélyromok", ro: "Ruinele palatului Eleja", en: "Eleja Palace Ruins" },
-    coordinates: { lat: 56.4111, lng: 23.7078 },
+    coords: [23.7078, 56.4111],
     description: {
       de: "Überreste eines prachtvollen Schlosses aus dem 18. Jahrhundert. Es war einst eines der bedeutendsten Beispiele kurländischer Palastarchitektur.",
       hu: "Egy 18. századi pompás kastély maradványai. Egykor a kurlandi kastélyépítészet egyik legjelentősebb példája volt.",
@@ -838,7 +838,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Auce", hu: "Aucei udvarház", ro: "Conacul Auce", en: "Auce Manor" },
-    coordinates: { lat: 56.4622, lng: 22.8856 },
+    coords: [22.8856, 56.4622],
     description: {
       de: "Historischer Herrensitz, der im 19. Jahrhundert umgestaltet wurde und heute die architektonische Vielfalt der Region zeigt.",
       hu: "Történelmi udvarház, amelyet a 19. században alakítottak át, és ma a régió építészeti sokszínűségét mutatja.",
@@ -870,7 +870,7 @@ export const latviaHistoryV2: POI[] = [
     type: "church",
     parent: "LV",
     name: { de: "Kirche Bērze", hu: "Bērzei templom", ro: "Biserica Bērze", en: "Bērze Church" },
-    coordinates: { lat: 56.6222, lng: 23.3456 },
+    coords: [23.3456, 56.6222],
     description: {
       de: "Historisches Kirchengebäude, das eine wichtige Rolle im religiösen Leben der ländlichen Gemeinschaft seit Jahrhunderten spielt.",
       hu: "Történelmi templomépület, amely évszázadok óta fontos szerepet játszik a vidéki közösség vallási életében.",
@@ -902,7 +902,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Galdnieki", hu: "Galdnieki udvarház", ro: "Conacul Galdnieki", en: "Galdnieki Manor" },
-    coordinates: { lat: 56.6711, lng: 22.4556 },
+    coords: [22.4556, 56.6711],
     description: {
       de: "Ein ehemaliger Gutsbetrieb aus dem 19. Jahrhundert, der die bäuerliche Geschichte und Verwaltung der Region repräsentiert.",
       hu: "Egy 19. századi egykori udvarház, amely a régió paraszti történelmét és igazgatását képviseli.",
@@ -934,7 +934,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Vāne", hu: "Vānei udvarház", ro: "Conacul Vāne", en: "Vāne Manor" },
-    coordinates: { lat: 57.0111, lng: 22.6811 },
+    coords: [22.6811, 57.0111],
     description: {
       de: "Historisches Anwesen mit Wurzeln in der feudalen Ära, das die architektonische Entwicklung über Jahrhunderte hinweg zeigt.",
       hu: "Történelmi birtok, amelynek gyökerei a feudális korszakra nyúlnak vissza, és amely évszázadokon át mutatja az építészeti fejlődést.",
@@ -966,7 +966,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Zante", hu: "Zantei udvarház", ro: "Conacul Zante", en: "Zante Manor" },
-    coordinates: { lat: 56.9744, lng: 22.7556 },
+    coords: [22.7556, 56.9744],
     description: {
       de: "Ein ehemaliger Herrensitz, der im 18. und 19. Jahrhundert das Zentrum für Kultur und Landwirtschaft in der Umgebung war.",
       hu: "Egykori udvarház, amely a 18. és 19. században a környék kultúrájának és mezőgazdaságának központja volt.",
@@ -998,7 +998,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Zirņi", hu: "Zirņi udvarház", ro: "Conacul Zirņi", en: "Zirņi Manor" },
-    coordinates: { lat: 56.6211, lng: 22.3856 },
+    coords: [22.3856, 56.6211],
     description: {
       de: "Historisches Anwesen, das die Geschichte des kurländischen Landadels und ihre Verwaltung der Ländereien dokumentiert.",
       hu: "Történelmi birtok, amely dokumentálja a kurlandi vidéki nemesség történetét és a földek igazgatását.",
@@ -1030,7 +1030,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Kursīši", hu: "Kursīši udvarház", ro: "Conacul Kursīši", en: "Kursīši Manor" },
-    coordinates: { lat: 56.5411, lng: 22.3356 },
+    coords: [22.3356, 56.5411],
     description: {
       de: "Ehemaliges Gut, das den Übergang zwischen traditioneller Landwirtschaft und industrieller Modernisierung zeigt.",
       hu: "Volt udvarház, amely a hagyományos mezőgazdaság és az ipari modernizáció közötti átmenetet mutatja.",
@@ -1062,7 +1062,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Ezere", hu: "Ezerei udvarház", ro: "Conacul Ezere", en: "Ezere Manor" },
-    coordinates: { lat: 56.3944, lng: 22.3856 },
+    coords: [22.3856, 56.3944],
     description: {
       de: "Historischer Gutshof nahe der Grenze, der eine wichtige Rolle in der regionalen Grenzgeschichte spielt.",
       hu: "Történelmi udvarház a határ közelében, amely fontos szerepet játszik a regionális határtörténetben.",
@@ -1094,7 +1094,7 @@ export const latviaHistoryV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Nīca historisches Erbe", hu: "Nīca történelmi örökség", ro: "Patrimoniul istoric Nīca", en: "Nīca Historical Heritage" },
-    coordinates: { lat: 56.3456, lng: 21.0556 },
+    coords: [21.0556, 56.3456],
     description: {
       de: "Ein Ort mit reicher kultureller Geschichte, bekannt für seine erhaltenen Traditionen und die lokale Architektur.",
       hu: "Gazdag kulturális történelemmel rendelkező hely, amely híres megőrzött hagyományairól és a helyi építészetéről.",
@@ -1126,7 +1126,7 @@ export const latviaHistoryV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Rucava historisches Zentrum", hu: "Rucava történelmi központja", ro: "Centrul istoric Rucava", en: "Rucava Historical Center" },
-    coordinates: { lat: 56.1678, lng: 21.1856 },
+    coords: [21.1856, 56.1678],
     description: {
       de: "Ein Zentrum zur Bewahrung der regionalen Identität und Geschichte durch Architektur und gelebte Traditionen.",
       hu: "A regionális identitás és történelem megőrzésének központja az építészet és az élő hagyományok révén.",
@@ -1158,7 +1158,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Kalēti", hu: "Kalēti udvarház", ro: "Conacul Kalēti", en: "Kalēti Manor" },
-    coordinates: { lat: 56.3944, lng: 21.6156 },
+    coords: [21.6156, 56.3944],
     description: {
       de: "Historischer Gutshof, der die Entwicklung der lokalen Verwaltung und der landwirtschaftlichen Methoden im späten 19. Jahrhundert zeigt.",
       hu: "Történelmi udvarház, amely a helyi igazgatás és a mezőgazdasági módszerek fejlődését mutatja a 19. század végén.",
@@ -1190,7 +1190,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Laidi", hu: "Laidi udvarház", ro: "Conacul Laidi", en: "Laidi Manor" },
-    coordinates: { lat: 56.8111, lng: 21.9222 },
+    coords: [21.9222, 56.8111],
     description: {
       de: "Historischer Herrensitz, der über Jahrhunderte ein Zentrum der kurländischen Landwirtschaft war.",
       hu: "Történelmi udvarház, amely évszázadok óta a kurlandi mezőgazdaság központja volt.",
@@ -1222,7 +1222,7 @@ export const latviaHistoryV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Gudenieki historisches Zentrum", hu: "Gudenieki történelmi központja", ro: "Centrul istoric Gudenieki", en: "Gudenieki Historical Center" },
-    coordinates: { lat: 56.9344, lng: 21.6456 },
+    coords: [21.6456, 56.9344],
     description: {
       de: "Ein Zentrum der traditionellen Kultur und Geschichte, bekannt für den Erhalt alter lokaler Gebräuche.",
       hu: "A hagyományos kultúra és történelem központja, amely a régi helyi szokások megőrzéséről ismert.",
@@ -1254,7 +1254,7 @@ export const latviaHistoryV2: POI[] = [
     type: "palace",
     parent: "LV",
     name: { de: "Gut Pelči", hu: "Pelči udvarház", ro: "Conacul Pelči", en: "Pelči Manor" },
-    coordinates: { lat: 56.9111, lng: 21.8856 },
+    coords: [21.8856, 56.9111],
     description: {
       de: "Ein schlossartiger Herrensitz aus dem 20. Jahrhundert, der für seine architektonische Gestaltung und Parkanlage bekannt ist.",
       hu: "Egy 20. századi kastélyszerű udvarház, amely építészeti kialakításáról és parkjáról ismert.",

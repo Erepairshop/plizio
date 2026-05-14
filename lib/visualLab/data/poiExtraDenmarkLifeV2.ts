@@ -6,7 +6,7 @@ export const denmarkLifeV2: POI[] = [
     type: "park",
     parent: "DK",
     name: { de: "Nationalpark Thy", hu: "Thy Nemzeti Park", ro: "Parcul Național Thy", en: "Thy National Park" },
-    coordinates: { lat: 56.95, lng: 8.42 },
+    coords: [8.42, 56.95],
     description: {
       de: "Dänemarks ältester Nationalpark erstreckt sich entlang der Nordwestküste Jütlands. Er schützt Küstendünen, Heidelandschaften und Seen.",
       hu: "Dánia legrégebbi nemzeti parkja Jütland északnyugati partvidékén terül el. Parti dűnéket, lápvidékeket és tavakat védelmez.",
@@ -38,7 +38,7 @@ export const denmarkLifeV2: POI[] = [
     type: "park",
     parent: "DK",
     name: { de: "Nationalpark Mols Bjerge", hu: "Mols Bjerge Nemzeti Park", ro: "Parcul Național Mols Bjerge", en: "Mols Bjerge National Park" },
-    coordinates: { lat: 56.23, lng: 10.55 },
+    coords: [10.55, 56.23],
     description: {
       de: "Dieser Nationalpark in Ostjütland ist durch eine hügelige Moränenlandschaft geprägt. Er umfasst Wälder, Weiden und Küstenabschnitte.",
       hu: "Ez a kelet-jütlandi nemzeti park dombos moréna tájairól ismert. Erdőket, legelőket és part menti szakaszokat foglal magában.",
@@ -70,7 +70,7 @@ export const denmarkLifeV2: POI[] = [
     type: "park",
     parent: "DK",
     name: { de: "Nationalpark Skjoldungernes Land", hu: "Skjoldungernes Land Nemzeti Park", ro: "Parcul Național Skjoldungernes Land", en: "Skjoldungernes Land National Park" },
-    coordinates: { lat: 55.62, lng: 11.95 },
+    coords: [11.95, 55.62],
     description: {
       de: "Der Park liegt auf Seeland und ist nach den legendären Skjoldunge-Königen benannt. Er umfasst das Roskilde-Fjord-Gebiet und bewaldete Hügel.",
       hu: "A park Sjælland szigetén található, és a legendás Skjoldunge királyokról kapta a nevét. Magában foglalja a Roskilde-fjordot és erdős dombokat.",
@@ -102,7 +102,7 @@ export const denmarkLifeV2: POI[] = [
     type: "park",
     parent: "DK",
     name: { de: "Nationalpark Kongernes Nordsjælland", hu: "Kongernes Nordsjælland Nemzeti Park", ro: "Parcul Național Kongernes Nordsjælland", en: "Kongernes Nordsjælland National Park" },
-    coordinates: { lat: 55.97, lng: 12.33 },
+    coords: [12.33, 55.97],
     description: {
       de: "Dieser Nationalpark im Norden Seelands verbindet große Waldgebiete mit dem See Esrum Sø. Er bietet bedeutende Natur- und Kulturschätze.",
       hu: "Ez az észak-sjællandi nemzeti park kiterjedt erdőket és az Esrum-tavat köti össze. Jelentős természeti és kulturális kincseket kínál.",
@@ -134,7 +134,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Nationalpark Wattenmeer", hu: "Watt-tenger Nemzeti Park", ro: "Parcul Național Marea Wadden", en: "Wadden Sea National Park" },
-    coordinates: { lat: 55.25, lng: 8.55 },
+    coords: [8.55, 55.25],
     description: {
       de: "Das dänische Wattenmeer ist ein bedeutendes Schutzgebiet für Zugvögel und marine Lebewesen. Es ist UNESCO-Welterbe.",
       hu: "A dán Watt-tenger fontos védett terület a költöző madarak és tengeri élőlények számára. Az UNESCO világörökség része.",
@@ -166,7 +166,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Kopenhagener Zoo", hu: "Koppenhágai Állatkert", ro: "Grădina Zoologică din Copenhaga", en: "Copenhagen Zoo" },
-    coordinates: { lat: 55.67, lng: 12.52 },
+    coords: [12.52, 55.67],
     description: {
       de: "Einer der ältesten Zoos Europas befindet sich im Stadtteil Frederiksberg. Er beherbergt über 4.000 Tiere aus aller Welt.",
       hu: "Európa egyik legrégebbi állatkertje a Frederiksberg negyedben található. Több mint 4000 állatnak ad otthont a világ minden tájáról.",
@@ -198,7 +198,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Givskud Zoo", hu: "Givskud Állatkert", ro: "Grădina Zoologică Givskud", en: "Givskud Zoo" },
-    coordinates: { lat: 55.75, lng: 9.33 },
+    coords: [9.33, 55.75],
     description: {
       de: "Dieser Safaripark in Jütland ermöglicht Besuchern, Tiere aus nächster Nähe zu erleben. Er liegt in einer weiten Parklandschaft.",
       hu: "Ez a jütlandi szafaripark lehetővé teszi a látogatók számára, hogy testközelből ismerjék meg az állatokat. Egy tágas parkban található.",
@@ -230,7 +230,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Odense Zoo", hu: "Odensei Állatkert", ro: "Grădina Zoologică din Odense", en: "Odense Zoo" },
-    coordinates: { lat: 55.38, lng: 10.35 },
+    coords: [10.35, 55.38],
     description: {
       de: "Der Zoo in Odense ist für seine naturnahen Anlagen bekannt. Er bietet Einblicke in Lebenswelten von Tieren aus verschiedenen Kontinenten.",
       hu: "Az odensei állatkert természetközeli kifutóiról ismert. Betekintést nyújt a különböző kontinensekről származó állatok élővilágába.",
@@ -262,7 +262,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Aalborg Zoo", hu: "Aalborgi Állatkert", ro: "Grădina Zoologică din Aalborg", en: "Aalborg Zoo" },
-    coordinates: { lat: 57.03, lng: 9.9 },
+    coords: [9.9, 57.03],
     description: {
       de: "Der Aalborg Zoo engagiert sich stark für internationale Zuchtprogramme. Er beherbergt zahlreiche bedrohte Tierarten.",
       hu: "Az aalborgi állatkert erősen elkötelezett a nemzetközi tenyésztési programok mellett. Számos veszélyeztetett állatfajnak ad otthont.",
@@ -294,7 +294,7 @@ export const denmarkLifeV2: POI[] = [
     type: "park",
     parent: "DK",
     name: { de: "Botanischer Garten Kopenhagen", hu: "Koppenhágai Botanikus Kert", ro: "Grădina Botanică din Copenhaga", en: "Botanical Garden Copenhagen" },
-    coordinates: { lat: 55.68, lng: 12.57 },
+    coords: [12.57, 55.68],
     description: {
       de: "Der Botanische Garten beherbergt Dänemarks größte Sammlung lebender Pflanzen. Er besticht durch historische Gewächshäuser.",
       hu: "A Botanikus Kert ad otthont Dánia legnagyobb élő növénygyűjteményének. Történelmi üvegházai különösen vonzóak.",
@@ -326,7 +326,7 @@ export const denmarkLifeV2: POI[] = [
     type: "park",
     parent: "DK",
     name: { de: "Botanischer Garten Aarhus", hu: "Aarhus-i Botanikus Kert", ro: "Grădina Botanică din Aarhus", en: "Botanical Garden Aarhus" },
-    coordinates: { lat: 56.15, lng: 10.19 },
+    coords: [10.19, 56.15],
     description: {
       de: "Dieser Garten in Aarhus liegt in einem hügeligen Gelände. Er bietet vielfältige Themengärten und ein großes Gewächshaus.",
       hu: "Ez az aarhus-i kert egy dombos területen fekszik. Változatos tematikus kerteket és egy nagy üvegházat kínál.",
@@ -358,7 +358,7 @@ export const denmarkLifeV2: POI[] = [
     type: "lake",
     parent: "DK",
     name: { de: "Skanderborg Seenplatte", hu: "Skanderborgi Tóvidék", ro: "Districtul lacurilor Skanderborg", en: "Skanderborg Lake District" },
-    coordinates: { lat: 56.03, lng: 9.93 },
+    coords: [9.93, 56.03],
     description: {
       de: "Das Seen- und Waldgebiet um Skanderborg ist ein beliebtes Erholungsziel. Es bietet zahlreiche Wanderwege und Wassermöglichkeiten.",
       hu: "A Skanderborg környéki tó- és erdővidék népszerű pihenőhely. Számos túraútvonalat és vízi lehetőséget kínál.",
@@ -390,7 +390,7 @@ export const denmarkLifeV2: POI[] = [
     type: "lake",
     parent: "DK",
     name: { de: "Seen von Silkeborg", hu: "Silkeborgi tavak", ro: "Lacurile din Silkeborg", en: "Silkeborg Lakes" },
-    coordinates: { lat: 56.17, lng: 9.55 },
+    coords: [9.55, 56.17],
     description: {
       de: "Die Seenlandschaft rund um Silkeborg ist durch den Fluss Gudenå verbunden. Sie stellt ein wertvolles Naturgebiet dar.",
       hu: "A Silkeborg környéki tóvidéket a Gudenå folyó köti össze. Értékes természeti területnek számít.",
@@ -422,7 +422,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Ertholmene", hu: "Ertholmene", ro: "Ertholmene", en: "Ertholmene" },
-    coordinates: { lat: 55.32, lng: 15.19 },
+    coords: [15.19, 55.32],
     description: {
       de: "Diese kleine Inselgruppe nahe Bornholm ist ein Vogelschutzgebiet. Sie bietet einzigartige Bedingungen für seltene Seevögel.",
       hu: "Ez a Bornholm melletti kis szigetcsoport madárvédelmi terület. Egyedülálló körülményeket biztosít ritka tengeri madarak számára.",
@@ -454,7 +454,7 @@ export const denmarkLifeV2: POI[] = [
     type: "forest",
     parent: "DK",
     name: { de: "Marselisborg Wald", hu: "Marselisborg erdő", ro: "Pădurea Marselisborg", en: "Marselisborg Forest" },
-    coordinates: { lat: 56.12, lng: 10.2 },
+    coords: [10.2, 56.12],
     description: {
       de: "Der Marselisborg-Wald liegt südlich von Aarhus und ist ein bedeutendes Naherholungsgebiet. Er ist für seine Buchenbestände bekannt.",
       hu: "A Marselisborg erdő Aarhus-tól délre fekszik és jelentős pihenőövezet. Bükkösállományáról ismert.",
@@ -486,7 +486,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Randers Tropenwald", hu: "Randersi Esőerdő", ro: "Pădurea Tropicală din Randers", en: "Randers Rainforest" },
-    coordinates: { lat: 56.46, lng: 10.04 },
+    coords: [10.04, 56.46],
     description: {
       de: "Ein künstlicher Tropenwald in Randers, der Besuchern exotische Pflanzen und Tiere präsentiert. Die Kuppeln regulieren das Klima.",
       hu: "Egy mesterséges esőerdő Randersben, amely egzotikus növényeket és állatokat mutat be a látogatóknak. A kupolák szabályozzák a klímát.",
@@ -518,7 +518,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Skjern Å Delta", hu: "Skjern Å delta", ro: "Delta râului Skjern", en: "Skjern Å Delta" },
-    coordinates: { lat: 55.93, lng: 8.43 },
+    coords: [8.43, 55.93],
     description: {
       de: "Dieses renaturierte Mündungsgebiet ist ein wichtiges Refugium für seltene Tierarten. Es umfasst weite Feuchtwiesen und Wasserwege.",
       hu: "Ez a helyreállított torkolati terület fontos menedékhely ritka állatfajok számára. Kiterjedt vizes réteket és vízi utakat foglal magában.",
@@ -550,7 +550,7 @@ export const denmarkLifeV2: POI[] = [
     type: "forest",
     parent: "DK",
     name: { de: "Tisvilde Hegn", hu: "Tisvilde Hegn", ro: "Tisvilde Hegn", en: "Tisvilde Hegn" },
-    coordinates: { lat: 56.03, lng: 12.05 },
+    coords: [12.05, 56.03],
     description: {
       de: "Ein bedeutendes Waldgebiet an der Nordküste Seelands. Es ist bekannt für seine alten Kiefern und Wanderdünen.",
       hu: "Jelentős erdőterület Sjælland északi partján. Ismert öreg fenyőiről és vándorló dűnéiről.",
@@ -582,7 +582,7 @@ export const denmarkLifeV2: POI[] = [
     type: "forest",
     parent: "DK",
     name: { de: "Mols Wälder", hu: "Molsi erdők", ro: "Pădurile Mols", en: "Mols Forests" },
-    coordinates: { lat: 56.24, lng: 10.5 },
+    coords: [10.5, 56.24],
     description: {
       de: "Die Wälder in den Mols Bjerge bieten eine abwechslungsreiche Flora. Sie sind ein wichtiger Rückzugsort für viele Arten.",
       hu: "A Mols Bjerge erdői változatos flórát kínálnak. Fontos menedékhely számos faj számára.",
@@ -614,7 +614,7 @@ export const denmarkLifeV2: POI[] = [
     type: "park",
     parent: "DK",
     name: { de: "Amager Fælled", hu: "Amager Fælled", ro: "Amager Fælled", en: "Amager Fælled" },
-    coordinates: { lat: 55.65, lng: 12.58 },
+    coords: [12.58, 55.65],
     description: {
       de: "Ein großes, naturbelassenes Gebiet in Kopenhagen. Es ist ein wichtiger Freiraum für Flora und Fauna mitten in der Stadt.",
       hu: "Egy nagy, természetes állapotú terület Koppenhágában. Fontos szabad tér a flóra és fauna számára a város közepén.",
@@ -646,7 +646,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Insel Fur", hu: "Fur sziget", ro: "Insula Fur", en: "Fur Island" },
-    coordinates: { lat: 56.82, lng: 9.02 },
+    coords: [9.02, 56.82],
     description: {
       de: "Die Insel Fur im Limfjord ist bekannt für ihre geologischen Formationen. Sie beherbergt eine einzigartige Küstenlandschaft.",
       hu: "A Limfjordban található Fur sziget geológiai képződményeiről ismert. Egyedülálló tengerparti táj jellemzi.",
@@ -678,7 +678,7 @@ export const denmarkLifeV2: POI[] = [
     type: "park",
     parent: "DK",
     name: { de: "Harrild Hede", hu: "Harrild Hede", ro: "Harrild Hede", en: "Harrild Hede" },
-    coordinates: { lat: 56.05, lng: 9.15 },
+    coords: [9.15, 56.05],
     description: {
       de: "Harrild Hede ist eine bedeutende Heidelandschaft in Mitteljütland. Sie bewahrt seltene Pflanzen- und Insektenarten.",
       hu: "Harrild Hede egy jelentős lápvidék Közép-Jütlandban. Ritka növény- és rovarfajokat őriz meg.",
@@ -710,7 +710,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Roskilde Fjord", hu: "Roskilde-fjord", ro: "Fiordul Roskilde", en: "Roskilde Fjord" },
-    coordinates: { lat: 55.75, lng: 11.95 },
+    coords: [11.95, 55.75],
     description: {
       de: "Der Roskilde Fjord ist ein wichtiges Lebensraum-Gebiet für Vögel. Er bietet vielfältige Küsten- und Wasserökosysteme.",
       hu: "A Roskilde-fjord fontos élőhely madarak számára. Változatos partmenti és vízi ökoszisztémákat kínál.",
@@ -742,7 +742,7 @@ export const denmarkLifeV2: POI[] = [
     type: "wildlife",
     parent: "DK",
     name: { de: "Bornholm Natur", hu: "Bornholm Természet", ro: "Natura din Bornholm", en: "Bornholm Nature" },
-    coordinates: { lat: 55.13, lng: 14.9 },
+    coords: [14.9, 55.13],
     description: {
       de: "Die Insel Bornholm besticht durch ihre abwechslungsreiche Natur. Sie umfasst felsige Küsten und tiefe Wälder.",
       hu: "Bornholm szigete változatos természetével nyűgözi le a látogatókat. Sziklás partokat és mély erdőket foglal magában.",

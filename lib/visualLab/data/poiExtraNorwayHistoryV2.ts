@@ -6,7 +6,7 @@ export const norwayHistoryV2: POI[] = [
     type: "church",
     parent: "NO",
     name: { de: "Stabkirche Borgund", hu: "Borgundi donga templom", ro: "Biserica de lemn din Borgund", en: "Borgund Stave Church" },
-    coordinates: { lat: 61.048, lng: 7.811 },
+    coords: [7.811, 61.048],
     description: {
       de: "Die im 12. Jahrhundert erbaute Stabkirche ist eines der besterhaltenen Beispiele norwegischer Holzarchitektur. Sie besitzt charakteristische geschnitzte Drachenköpfe an den Giebeln.",
       hu: "A 12. században épült dongatemplom a norvég faépítészet egyik legjobban megőrzött példája. Jellegzetes faragott sárkányfejek díszítik a tetőgerinceket.",
@@ -38,7 +38,7 @@ export const norwayHistoryV2: POI[] = [
     type: "castle",
     parent: "NO",
     name: { de: "Festung Oslo", hu: "Osloi erőd", ro: "Fortăreața Oslo", en: "Oslo Fortress" },
-    coordinates: { lat: 59.907, lng: 10.738 },
+    coords: [10.738, 59.907],
     description: {
       de: "Diese mittelalterliche Festung diente seit ihrer Gründung 1299 zum Schutz der Stadt Oslo. Sie wurde im Laufe der Jahrhunderte mehrfach modernisiert und ausgebaut.",
       hu: "Ez a középkori erőd 1299-es alapítása óta szolgálta Oslo védelmét. Az évszázadok során többször modernizálták és bővítették.",
@@ -70,7 +70,7 @@ export const norwayHistoryV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Nidaros-Pilgerweg", hu: "Nidarosi zarándokút", ro: "Drumul de pelerinaj Nidaros", en: "Nidaros Pilgrim Way" },
-    coordinates: { lat: 63.43, lng: 10.39 },
+    coords: [10.39, 63.43],
     description: {
       de: "Das historische Netz aus Pilgerwegen führt zum Nidarosdom in Trondheim, dem Grab des heiligen Olav. Diese Wege prägten die mittelalterliche Kultur Skandinaviens.",
       hu: "A zarándokutak történelmi hálózata a trondheimi Nidaros-katedrálishoz, Szent Olav sírjához vezet. Ezek az utak meghatározták Skandinávia középkori kultúráját.",
@@ -102,7 +102,7 @@ export const norwayHistoryV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Handelsposten Kjerringøy", hu: "Kjerringøy kereskedelmi állomás", ro: "Postul comercial Kjerringøy", en: "Kjerringøy Trading Post" },
-    coordinates: { lat: 67.519, lng: 14.752 },
+    coords: [14.752, 67.519],
     description: {
       de: "Dieser gut erhaltene Handelsposten aus dem 19. Jahrhundert dokumentiert die Bedeutung des Fischhandels in Nordnorwegen. Er besteht aus mehreren historischen Gebäuden.",
       hu: "Ez a jól megőrzött, 19. századi kereskedelmi állomás dokumentálja a halászat jelentőségét Észak-Norvégiában. Számos történelmi épületből áll.",
@@ -134,7 +134,7 @@ export const norwayHistoryV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Eidsvoll-Herrenhaus", hu: "Eidsvolli udvarház", ro: "Conacul Eidsvoll", en: "Eidsvoll Manor" },
-    coordinates: { lat: 60.301, lng: 11.164 },
+    coords: [11.164, 60.301],
     description: {
       de: "Das Herrenhaus ist der Ort, an dem 1814 die norwegische Verfassung unterzeichnet wurde. Es gilt als Symbol für die nationale Unabhängigkeit Norwegens.",
       hu: "Az udvarház az a hely, ahol 1814-ben aláírták a norvég alkotmányt. Norvégia nemzeti függetlenségének szimbólumaként tisztelik.",
@@ -166,7 +166,7 @@ export const norwayHistoryV2: POI[] = [
     type: "village",
     parent: "NO",
     name: { de: "Fischerdorf Henningsvær", hu: "Henningsvær halászfalu", ro: "Satul pescăresc Henningsvær", en: "Henningsvær Fishing Village" },
-    coordinates: { lat: 68.148, lng: 14.204 },
+    coords: [14.204, 68.148],
     description: {
       de: "Dieses auf kleinen Inseln gelegene Dorf hat eine lange Tradition im Kabeljaufang. Die Architektur spiegelt die historische Bedeutung der Fischerei wider.",
       hu: "Ez a kis szigeteken fekvő falu hosszú hagyományokkal rendelkezik a tőkehalászatban. Építészete tükrözi a halászat történelmi jelentőségét.",
@@ -198,7 +198,7 @@ export const norwayHistoryV2: POI[] = [
     type: "ruins",
     parent: "NO",
     name: { de: "Trollkyrkja-Höhle", hu: "Trollkyrkja barlang", ro: "Peștera Trollkyrkja", en: "Trollkyrkja Cave" },
-    coordinates: { lat: 62.901, lng: 7.318 },
+    coords: [7.318, 62.901],
     description: {
       de: "Dieses Höhlensystem aus Marmor ist durch seine unterirdischen Wasserfälle bekannt. Es dient seit langer Zeit als Ziel für regionale Legenden und Entdeckungen.",
       hu: "Ez a márványbarlang-rendszer földalatti vízeséseiről híres. Régóta a helyi legendák és felfedezések célpontja.",
@@ -230,7 +230,7 @@ export const norwayHistoryV2: POI[] = [
     type: "cathedral",
     parent: "NO",
     name: { de: "Dom zu Oslo", hu: "Osloi székesegyház", ro: "Catedrala din Oslo", en: "Oslo Cathedral" },
-    coordinates: { lat: 59.913, lng: 10.748 },
+    coords: [10.748, 59.913],
     description: {
       de: "Der heutige Dom wurde 1697 eingeweiht und ist das Hauptgebäude der Diözese Oslo. Er ist ein zentrales Bauwerk der barocken Architektur in Norwegen.",
       hu: "A mai székesegyházat 1697-ben szentelték fel, az oslói egyházmegye főtemploma. A norvég barokk építészet központi alkotása.",
@@ -262,7 +262,7 @@ export const norwayHistoryV2: POI[] = [
     type: "town",
     parent: "NO",
     name: { de: "Altstadt Skudeneshavn", hu: "Skudeneshavn óvárosa", ro: "Centrul vechi Skudeneshavn", en: "Skudeneshavn Old Town" },
-    coordinates: { lat: 59.146, lng: 5.263 },
+    coords: [5.263, 59.146],
     description: {
       de: "Dieser Ort bewahrt eine große Anzahl gut erhaltener Holzhäuser aus dem 19. Jahrhundert. Er war historisch ein bedeutendes Zentrum für die Segelschifffahrt.",
       hu: "A helyszín számos jól megőrzött, 19. századi faházat rejt. Történelmileg jelentős központja volt a vitorlás hajózásnak.",
@@ -294,7 +294,7 @@ export const norwayHistoryV2: POI[] = [
     type: "monument",
     parent: "NO",
     name: { de: "Befestigung Ulfstind", hu: "Ulfstind erődítmény", ro: "Fortificația Ulfstind", en: "Ulfstind Fortification" },
-    coordinates: { lat: 69.75, lng: 19.33 },
+    coords: [19.33, 69.75],
     description: {
       de: "Überreste von Verteidigungsanlagen aus dem Zweiten Weltkrieg prägen diese Region. Diese Anlagen waren Teil des deutschen Verteidigungssystems im Norden.",
       hu: "A második világháborúból származó védelmi létesítmények maradványai jellemzik ezt a régiót. Az erődítmények az északi német védelmi rendszer részei voltak.",
@@ -326,7 +326,7 @@ export const norwayHistoryV2: POI[] = [
     type: "church",
     parent: "NO",
     name: { de: "Stabkirche Heddal", hu: "Heddali donga templom", ro: "Biserica de lemn Heddal", en: "Heddal Stave Church" },
-    coordinates: { lat: 59.574, lng: 9.176 },
+    coords: [9.176, 59.574],
     description: {
       de: "Die Stabkirche Heddal ist die größte ihrer Art in Norwegen. Sie wurde Anfang des 13. Jahrhunderts erbaut und ist reich verziert.",
       hu: "A heddali dongatemplom a legnagyobb ilyen jellegű épület Norvégiában. A 13. század elején épült és gazdagon díszített.",
@@ -358,7 +358,7 @@ export const norwayHistoryV2: POI[] = [
     type: "palace",
     parent: "NO",
     name: { de: "Erzbischofspalast Trondheim", hu: "Trondheimi érseki palota", ro: "Palatul Arhiepiscopal din Trondheim", en: "Trondheim Archbishop's Palace" },
-    coordinates: { lat: 63.428, lng: 10.395 },
+    coords: [10.395, 63.428],
     description: {
       de: "Dieser mittelalterliche Palast war das Verwaltungszentrum der Kirche. Heute beherbergt er wichtige historische Sammlungen und Ausstellungen.",
       hu: "Ez a középkori palota az egyház adminisztratív központja volt. Ma fontos történelmi gyűjteményeknek és kiállításoknak ad otthont.",
@@ -390,7 +390,7 @@ export const norwayHistoryV2: POI[] = [
     type: "town",
     parent: "NO",
     name: { de: "Altstadt Stavanger", hu: "Stavanger óvárosa", ro: "Centrul vechi din Stavanger", en: "Old Stavanger" },
-    coordinates: { lat: 58.97, lng: 5.73 },
+    coords: [5.73, 58.97],
     description: {
       de: "Dieses historische Viertel umfasst eine der größten Sammlungen von Holzgebäuden in Europa aus dem 18. und 19. Jahrhundert.",
       hu: "Ez a történelmi negyed Európa egyik legnagyobb, 18. és 19. századi faház-gyűjteményét foglalja magában.",
@@ -422,7 +422,7 @@ export const norwayHistoryV2: POI[] = [
     type: "tower",
     parent: "NO",
     name: { de: "Leuchtturm Alnes", hu: "Alnes világítótorony", ro: "Farul Alnes", en: "Alnes Lighthouse" },
-    coordinates: { lat: 62.505, lng: 6.131 },
+    coords: [6.131, 62.505],
     description: {
       de: "Dieser Leuchtturm an der Westküste sicherte über Generationen die Schifffahrt. Er ist ein bekanntes Symbol für die maritime Geschichte Norwegens.",
       hu: "Ez a nyugati partvidéken álló világítótorony generációkon át biztosította a hajózást. Norvégia tengerészeti történetének ismert jelképe.",
@@ -454,7 +454,7 @@ export const norwayHistoryV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Felsritzungen Hjemmeluft", hu: "Hjemmelufti sziklarajzok", ro: "Petroglifele Hjemmeluft", en: "Hjemmeluft Rock Carvings" },
-    coordinates: { lat: 69.948, lng: 23.193 },
+    coords: [23.193, 69.948],
     description: {
       de: "Diese prähistorischen Felsritzungen in Alta sind UNESCO-Welterbe. Sie zeugen von menschlicher Besiedlung in der Region vor tausenden Jahren.",
       hu: "Ezek a prehisztorikus sziklarajzok Altában az UNESCO világörökség részei. Tanúskodnak az emberi letelepedésről évezredekkel ezelőtt.",
@@ -486,7 +486,7 @@ export const norwayHistoryV2: POI[] = [
     type: "church",
     parent: "NO",
     name: { de: "Kirche von Reine", hu: "Reinei templom", ro: "Biserica din Reine", en: "Reine Church" },
-    coordinates: { lat: 67.928, lng: 13.084 },
+    coords: [13.084, 67.928],
     description: {
       de: "Diese historische Holzkirche dient der Gemeinschaft auf den Lofoten. Sie ist ein Beispiel für den traditionellen Kirchenbau der Region.",
       hu: "Ez a történelmi fatemplom a lofoteni közösséget szolgálja. Példa a régió hagyományos templomépítészetére.",
@@ -518,7 +518,7 @@ export const norwayHistoryV2: POI[] = [
     type: "church",
     parent: "NO",
     name: { de: "Kirche Kvinesdal", hu: "Kvinesdali templom", ro: "Biserica Kvinesdal", en: "Kvinesdal Church" },
-    coordinates: { lat: 58.31, lng: 6.96 },
+    coords: [6.96, 58.31],
     description: {
       de: "Die 1837 fertiggestellte Kirche ist ein markantes Bauwerk aus Holz. Sie repräsentiert die architektonische Entwicklung im ländlichen Norwegen.",
       hu: "Az 1837-ben elkészült templom jellegzetes faépítmény. A vidéki Norvégia építészeti fejlődését képviseli.",
@@ -550,7 +550,7 @@ export const norwayHistoryV2: POI[] = [
     type: "cathedral",
     parent: "NO",
     name: { de: "Dom zu Molde", hu: "Moldei székesegyház", ro: "Catedrala din Molde", en: "Molde Cathedral" },
-    coordinates: { lat: 62.738, lng: 7.16 },
+    coords: [7.16, 62.738],
     description: {
       de: "Diese markante Kathedrale wurde nach dem Wiederaufbau 1957 fertiggestellt. Sie ist ein wichtiger Sakralbau in der Region Møre og Romsdal.",
       hu: "Ez a jellegzetes székesegyház az 1957-es újjáépítés után készült el. Fontos szakrális épület Møre og Romsdal régióban.",
@@ -582,7 +582,7 @@ export const norwayHistoryV2: POI[] = [
     type: "town",
     parent: "NO",
     name: { de: "Altstadt Tromsø", hu: "Tromsø óvárosa", ro: "Centrul vechi Tromsø", en: "Tromsø Old Town" },
-    coordinates: { lat: 69.649, lng: 18.955 },
+    coords: [18.955, 69.649],
     description: {
       de: "Der historische Kern von Tromsø bewahrt Holzhäuser aus dem 19. Jahrhundert. Er dokumentiert das Leben als Tor zur Arktis.",
       hu: "Tromsø történelmi magja 19. századi faházakat őriz. Dokumentálja az Arktisz kapujaként töltött történelmet.",
@@ -614,7 +614,7 @@ export const norwayHistoryV2: POI[] = [
     type: "church",
     parent: "NO",
     name: { de: "Skien-Kirche", hu: "Skieni templom", ro: "Biserica Skien", en: "Skien Church" },
-    coordinates: { lat: 59.208, lng: 9.605 },
+    coords: [9.605, 59.208],
     description: {
       de: "Die markante Kirche von Skien wurde 1894 erbaut. Sie ist ein herausragendes Beispiel der neugotischen Architektur in dieser Region.",
       hu: "A jellegzetes skieni templom 1894-ben épült. A neogótikus építészet kiemelkedő példája ebben a régióban.",
@@ -646,7 +646,7 @@ export const norwayHistoryV2: POI[] = [
     type: "town",
     parent: "NO",
     name: { de: "Jugendstil-Viertel Ålesund", hu: "Ålesundi szecessziós negyed", ro: "Cartierul Art Nouveau Ålesund", en: "Ålesund Art Nouveau District" },
-    coordinates: { lat: 62.472, lng: 6.155 },
+    coords: [6.155, 62.472],
     description: {
       de: "Nach einem verheerenden Stadtbrand 1904 wurde Ålesund im Jugendstil wiederaufgebaut. Es ist heute ein weltweit einzigartiges Ensemble.",
       hu: "Az 1904-es pusztító tűzvész után Ålesundot szecessziós stílusban építették újjá. Ma egy világviszonylatban egyedülálló épületegyüttes.",
@@ -678,7 +678,7 @@ export const norwayHistoryV2: POI[] = [
     type: "cathedral",
     parent: "NO",
     name: { de: "Dom zu Bodø", hu: "Bodøi székesegyház", ro: "Catedrala din Bodø", en: "Bodø Cathedral" },
-    coordinates: { lat: 67.283, lng: 14.375 },
+    coords: [14.375, 67.283],
     description: {
       de: "Die Kathedrale von Bodø wurde nach der Zerstörung im Zweiten Weltkrieg 1956 eingeweiht. Sie ist ein Symbol für den Wiederaufbau der Stadt.",
       hu: "A Bodøi székesegyházat a második világháborús pusztítás után, 1956-ban szentelték fel. A város újjáépítésének szimbóluma.",
@@ -710,7 +710,7 @@ export const norwayHistoryV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Drammen Museum", hu: "Drammeni Múzeum", ro: "Muzeul Drammen", en: "Drammen Museum" },
-    coordinates: { lat: 59.742, lng: 10.204 },
+    coords: [10.204, 59.742],
     description: {
       de: "Das Museum befindet sich auf dem Anwesen Marienlyst aus dem 18. Jahrhundert. Es bewahrt die kulturelle Geschichte der Region Drammen.",
       hu: "A múzeum a 18. századi Marienlyst birtokon található. Megőrzi Drammen régió kulturális történelmét.",
@@ -742,7 +742,7 @@ export const norwayHistoryV2: POI[] = [
     type: "castle",
     parent: "NO",
     name: { de: "Festung Tønsberg", hu: "Tønsbergi erőd", ro: "Fortăreața Tønsberg", en: "Tønsberg Fortress" },
-    coordinates: { lat: 59.266, lng: 10.403 },
+    coords: [10.403, 59.266],
     description: {
       de: "Die Tønsberg-Festung, bekannt als Slottsfjellet, ist eine der ältesten historischen Anlagen Norwegens. Sie stammt aus dem Mittelalter.",
       hu: "A Tønsberg-erőd, más néven Slottsfjellet, Norvégia egyik legrégebbi történelmi komplexuma. A középkorból származik.",
@@ -774,7 +774,7 @@ export const norwayHistoryV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Kriegsmuseum Narvik", hu: "Narviki háborús múzeum", ro: "Muzeul de război din Narvik", en: "Narvik War Museum" },
-    coordinates: { lat: 68.438, lng: 17.428 },
+    coords: [17.428, 68.438],
     description: {
       de: "Das Museum dokumentiert die Schlachten um Narvik im Zweiten Weltkrieg. Es ist eine wichtige Gedenkstätte für die Geschichte der Region.",
       hu: "A múzeum dokumentálja a második világháborús narviki csatákat. Fontos emlékhely a régió történelme számára.",
@@ -806,7 +806,7 @@ export const norwayHistoryV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Alta-Museum", hu: "Alta Múzeum", ro: "Muzeul Alta", en: "Alta Museum" },
-    coordinates: { lat: 69.948, lng: 23.19 },
+    coords: [23.19, 69.948],
     description: {
       de: "Das Museum beherbergt bedeutende archäologische Sammlungen. Es ist besonders bekannt für die Präsentation prähistorischer Felsritzungen.",
       hu: "A múzeum jelentős régészeti gyűjteményeknek ad otthont. Különösen ismert a prehisztorikus sziklarajzok bemutatásáról.",
@@ -838,7 +838,7 @@ export const norwayHistoryV2: POI[] = [
     type: "monument",
     parent: "NO",
     name: { de: "Struve-Bogen Hammerfest", hu: "Hammerfesti Struve-ív", ro: "Arcul Struve din Hammerfest", en: "Struve Geodetic Arc Hammerfest" },
-    coordinates: { lat: 70.662, lng: 23.68 },
+    coords: [23.68, 70.662],
     description: {
       de: "Dieses UNESCO-Welterbe erinnert an die Vermessung des Erdumfangs im 19. Jahrhundert. Es ist ein bedeutendes wissenschaftshistorisches Monument.",
       hu: "Ez az UNESCO világörökség a 19. századi földmérésnek állít emléket. Jelentős tudománytörténeti emlékmű.",
@@ -870,7 +870,7 @@ export const norwayHistoryV2: POI[] = [
     type: "town",
     parent: "NO",
     name: { de: "Altstadt Kristiansand", hu: "Kristiansandi óváros", ro: "Centrul vechi Kristiansand", en: "Kristiansand Old Town" },
-    coordinates: { lat: 58.146, lng: 7.994 },
+    coords: [7.994, 58.146],
     description: {
       de: "Das historische Viertel von Kristiansand bewahrt das schachbrettartige Straßenmuster aus dem 17. Jahrhundert. Es zeigt die Stadtplanung jener Zeit.",
       hu: "Kristiansand történelmi negyede őrzi a 17. századi sakktáblaszerű utcahálózatot. Bemutatja az akkori várostervezést.",
@@ -902,7 +902,7 @@ export const norwayHistoryV2: POI[] = [
     type: "castle",
     parent: "NO",
     name: { de: "Festung Fredrikstad", hu: "Fredrikstadi erőd", ro: "Fortăreața Fredrikstad", en: "Fredrikstad Fortress" },
-    coordinates: { lat: 59.201, lng: 10.961 },
+    coords: [10.961, 59.201],
     description: {
       de: "Diese sternförmige Festung wurde im 17. Jahrhundert zur Verteidigung gegen Schweden erbaut. Sie ist eine der besterhaltenen ihrer Art in Nordeuropa.",
       hu: "Ez a csillag alakú erőd a 17. században épült a svédek elleni védekezésre. Észak-Európa egyik legjobban megőrzött ilyen típusú erődje.",
@@ -934,7 +934,7 @@ export const norwayHistoryV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Maihaugen Lillehammer", hu: "Lillehammeri Maihaugen", ro: "Maihaugen Lillehammer", en: "Maihaugen Lillehammer" },
-    coordinates: { lat: 61.125, lng: 10.485 },
+    coords: [10.485, 61.125],
     description: {
       de: "Maihaugen ist eines der größten Freilichtmuseen Norwegens. Es zeigt historische Gebäude von der mittelalterlichen Zeit bis zur Moderne.",
       hu: "A Maihaugen Norvégia egyik legnagyobb szabadtéri múzeuma. Történelmi épületeket mutat be a középkortól napjainkig.",
@@ -966,7 +966,7 @@ export const norwayHistoryV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Larvik Museum", hu: "Larviki Múzeum", ro: "Muzeul Larvik", en: "Larvik Museum" },
-    coordinates: { lat: 59.05, lng: 10.03 },
+    coords: [10.03, 59.05],
     description: {
       de: "Das Larvik Museum befindet sich im historischen Herrensitz. Es dokumentiert die Geschichte der Stadt und der ehemaligen Grafschaft Larvik.",
       hu: "A Larvik Múzeum a történelmi udvarházban található. Dokumentálja a város és az egykori Larvik grófság történetét.",
@@ -998,7 +998,7 @@ export const norwayHistoryV2: POI[] = [
     type: "town",
     parent: "NO",
     name: { de: "Altstadt Flekkefjord", hu: "Flekkefjordi óváros", ro: "Centrul vechi Flekkefjord", en: "Flekkefjord Old Town" },
-    coordinates: { lat: 58.297, lng: 6.66 },
+    coords: [6.66, 58.297],
     description: {
       de: "Das Viertel Hollenderbyen in Flekkefjord zeigt gut erhaltene Holzarchitektur des 18. und 19. Jahrhunderts. Es zeugt von der Handelsgeschichte.",
       hu: "A Flekkefjord-i Hollenderbyen negyed jól megőrzött 18. és 19. századi faépítészetet mutat be. Tanúskodik a kereskedelmi történelemről.",
@@ -1012,13 +1012,25 @@ export const norwayHistoryV2: POI[] = [
       en: ["Hollenderbyen", "18th century", "Trading history", "Flekkefjord"],
     },
     imageHint: "Flekkefjord wooden houses quarter",
+    descriptionAdvanced: {
+      de: "Die Altstadt von Flekkefjord ist ein historisches Viertel mit gut erhaltenen Holzhäusern aus dem 18. und 19. Jahrhundert. Flekkefjord war ein wichtiger Hafen für den Export von Holz und Fisch. Die Altstadt zeichnet sich durch enge Gassen und weiße Holzhäuser aus. Heute beherbergt sie Geschäfte, Cafés und Galerien. Die Restaurierung der Gebäude bewahrt den Charme der Vergangenheit. Ein Besuch bietet einen Einblick in die norwegische Küstenkultur.",
+      hu: "Flekkefjord óvárosa egy történelmi negyed, jól megőrzött, 18-19. századi faházakkal. Flekkefjord fontos kikötő volt a fa és hal exportjában. Az óvárost szűk utcák és fehér faházak jellemzik. Ma üzletek, kávézók és galériák találhatók itt. Az épületek felújítása megőrzi a múlt hangulatát. A látogatás betekintést nyújt a norvég tengerparti kultúrába.",
+      ro: "Centrul vechi al orașului Flekkefjord este un cartier istoric cu case de lemn bine conservate din secolele al XVIII-lea și al XIX-lea. Flekkefjord a fost un port important pentru exportul de lemn și pește. Centrul vechi se caracterizează prin străduțe înguste și case albe de lemn. Astăzi găzduiește magazine, cafenele și galerii. Restaurarea clădirilor păstrează farmecul trecutului. O vizită oferă o perspectivă asupra culturii de coastă norvegiene.",
+      en: "Flekkefjord's old town is a historic district with well-preserved wooden houses from the 18th and 19th centuries. Flekkefjord was an important port for timber and fish export. The old town features narrow streets and white wooden houses. Today it houses shops, cafes, and galleries. The restoration of buildings preserves the past charm. A visit offers insight into Norwegian coastal culture.",
+    },
+    factsAdvanced: {
+      de: ["Die ältesten Häuser stammen aus dem Jahr 1700.", "Die Altstadt erstreckt sich über 0,5 Quadratkilometer.", "Über 100 Gebäude stehen unter Denkmalschutz.", "Flekkefjord erhielt 1842 Stadtrechte.", "Die Bevölkerung der Altstadt beträgt etwa 500 Einwohner.", "Der Hafen von Flekkefjord wurde im 16. Jahrhundert gegründet."],
+      hu: ["A legrégebbi házak 1700-ból származnak.", "Az óváros 0,5 négyzetkilométeren terül el.", "Több mint 100 épület műemléki védelem alatt áll.", "Flekkefjord 1842-ben kapott városi jogokat.", "Az óváros lakossága mintegy 500 fő.", "Flekkefjord kikötőjét a 16. században alapították."],
+      ro: ["Cele mai vechi case datează din 1700.", "Centrul vechi se întinde pe 0,5 kilometri pătrați.", "Peste 100 de clădiri sunt protejate ca monumente.", "Flekkefjord a primit drepturi de oraș în 1842.", "Populația centrului vechi este de aproximativ 500 de locuitori.", "Portul Flekkefjord a fost fondat în secolul al XVI-lea."],
+      en: ["The oldest houses date from 1700.", "The old town covers 0.5 square kilometers.", "Over 100 buildings are listed as heritage.", "Flekkefjord received town rights in 1842.", "The old town population is about 500.", "Flekkefjord port was founded in the 16th century."],
+    },
   },
   {
     id: "norway-arendal-tyholmen-history-v2",
     type: "town",
     parent: "NO",
     name: { de: "Tyholmen Arendal", hu: "Arendali Tyholmen", ro: "Tyholmen Arendal", en: "Tyholmen Arendal" },
-    coordinates: { lat: 58.46, lng: 8.76 },
+    coords: [8.76, 58.46],
     description: {
       de: "Tyholmen ist das historische Zentrum von Arendal mit seiner dichten Bebauung an Holzhäusern. Es zeigt das maritime Erbe der Stadt.",
       hu: "Tyholmen Arendal történelmi központja sűrű faház-építészetével. Bemutatja a város tengerészeti örökségét.",
@@ -1050,7 +1062,7 @@ export const norwayHistoryV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Marinestützpunkt Horten", hu: "Horteni haditengerészeti bázis", ro: "Baza navală Horten", en: "Horten Naval Base" },
-    coordinates: { lat: 59.425, lng: 10.485 },
+    coords: [10.485, 59.425],
     description: {
       de: "Horten war jahrhundertelang der Hauptstützpunkt der norwegischen Marine. Das Marinemuseum dokumentiert diese militärhistorische Bedeutung.",
       hu: "Horten évszázadokon át a norvég haditengerészet fő bázisa volt. A Tengerészeti Múzeum dokumentálja ezt a katonai jelentőséget.",
@@ -1082,7 +1094,7 @@ export const norwayHistoryV2: POI[] = [
     type: "church",
     parent: "NO",
     name: { de: "Kirche Eidsvoll", hu: "Eidsvolli templom", ro: "Biserica Eidsvoll", en: "Eidsvoll Church" },
-    coordinates: { lat: 60.315, lng: 11.23 },
+    coords: [11.23, 60.315],
     description: {
       de: "Die Eidsvoll-Kirche aus dem 12. Jahrhundert ist eine der ältesten Steinkirchen der Region. Sie spiegelt die mittelalterliche Sakralarchitektur wider.",
       hu: "A 12. századi eidsvolli templom a régió egyik legrégebbi kőtemploma. A középkori szakrális építészetet tükrözi.",
@@ -1114,7 +1126,7 @@ export const norwayHistoryV2: POI[] = [
     type: "town",
     parent: "NO",
     name: { de: "Sjøgata Mosjøen", hu: "Mosjøeni Sjøgata", ro: "Sjøgata Mosjøen", en: "Sjøgata Mosjøen" },
-    coordinates: { lat: 65.836, lng: 13.195 },
+    coords: [13.195, 65.836],
     description: {
       de: "Sjøgata ist eine der besterhaltenen historischen Straßen mit Holzhäusern in Nordnorwegen. Sie zeigt das Leben im 19. Jahrhundert.",
       hu: "Sjøgata Észak-Norvégia egyik legjobban megőrzött történelmi faházas utcája. Bemutatja a 19. századi életet.",

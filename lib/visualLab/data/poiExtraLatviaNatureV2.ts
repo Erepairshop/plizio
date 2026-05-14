@@ -6,7 +6,7 @@ export const latviaNatureV2: POI[] = [
     type: "lake",
     parent: "LV",
     name: { de: "Lubezers See", hu: "Lubezers-tó", ro: "Lacul Lubezers", en: "Lubezers Lake" },
-    coordinates: { lat: 57.3486, lng: 22.5694 },
+    coords: [22.5694, 57.3486],
     description: {
       de: "Der Lubezers See liegt in der Region Kurzeme und ist für seine ruhige Umgebung bekannt. Er erstreckt sich über eine Fläche von etwa 0,7 Quadratkilometern.",
       hu: "A Lubezers-tó Kurzeme régióban fekszik és csendes környezetéről ismert. A tó körülbelül 0,7 négyzetkilométeres területet foglal el.",
@@ -38,7 +38,7 @@ export const latviaNatureV2: POI[] = [
     type: "river",
     parent: "LV",
     name: { de: "Pededze Fluss", hu: "Pededze folyó", ro: "Râul Pededze", en: "Pededze River" },
-    coordinates: { lat: 57.1983, lng: 27.2458 },
+    coords: [27.2458, 57.1983],
     description: {
       de: "Der Pededze ist ein Fluss im Osten Lettlands, der durch die Region Vidzeme fließt. Er erstreckt sich über eine Länge von insgesamt 159 Kilometern.",
       hu: "A Pededze folyó Kelet-Lettországban, Vidzeme régión keresztül folyik. Teljes hossza 159 kilométer.",
@@ -70,7 +70,7 @@ export const latviaNatureV2: POI[] = [
     type: "forest",
     parent: "LV",
     name: { de: "Mezole Wald", hu: "Mezole erdő", ro: "Pădurea Mezole", en: "Mezole Forest" },
-    coordinates: { lat: 57.2536, lng: 25.4851 },
+    coords: [25.4851, 57.2536],
     description: {
       de: "Der Mezole Wald liegt im nördlichen Lettland nahe Cesis. Das Gebiet zeichnet sich durch seinen Mischwald mit hohem Anteil an Nadelbäumen aus.",
       hu: "A Mezole erdő Észak-Lettországban, Cesis közelében található. A területet vegyes erdő jellemzi, sok tűlevelű fával.",
@@ -102,7 +102,7 @@ export const latviaNatureV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Daugava Mündungsgebiet", hu: "Daugava torkolata", ro: "Delta râului Daugava", en: "Daugava River Mouth" },
-    coordinates: { lat: 57.0625, lng: 24.0381 },
+    coords: [24.0381, 57.0625],
     description: {
       de: "Das Mündungsgebiet der Daugava markiert den Punkt, an dem der Fluss in den Golf von Riga fließt. Es bildet eine wichtige ökologische Zone nahe der Hauptstadt.",
       hu: "A Daugava torkolata azt a pontot jelöli, ahol a folyó a Rigai-öbölbe ömlik. Fontos ökológiai zónát alkot a főváros közelében.",
@@ -134,7 +134,7 @@ export const latviaNatureV2: POI[] = [
     type: "valley",
     parent: "LV",
     name: { de: "Salaca Tal", hu: "Salaca-völgy", ro: "Valea Salaca", en: "Salaca Valley" },
-    coordinates: { lat: 57.7561, lng: 24.9654 },
+    coords: [24.9654, 57.7561],
     description: {
       de: "Das Salaca Tal ist für seine geologischen Formationen bekannt, darunter Sandsteinfelsen entlang des Flusslaufes. Es ist Teil des Nationalparks Salacas ieleja.",
       hu: "A Salaca-völgy geológiai képződményeiről, köztük a folyó mentén található homokkőszikláiról ismert. A Salacas ieleja Nemzeti Park része.",
@@ -166,7 +166,7 @@ export const latviaNatureV2: POI[] = [
     type: "lake",
     parent: "LV",
     name: { de: "Pape See", hu: "Pape-tó", ro: "Lacul Pape", en: "Pape Lake" },
-    coordinates: { lat: 56.1667, lng: 21.0333 },
+    coords: [21.0333, 56.1667],
     description: {
       de: "Der Pape See ist eine flache Lagune im Südwesten Lettlands nahe der Ostsee. Er ist ein zentrales Element des Pape-Naturparks.",
       hu: "A Pape-tó egy sekély lagúna Lettország délnyugati részén, a Balti-tenger közelében. A Pape Természeti Park központi eleme.",
@@ -198,7 +198,7 @@ export const latviaNatureV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Gauja Mündung", hu: "Gauja torkolata", ro: "Vărsarea râului Gauja", en: "Gauja River Mouth" },
-    coordinates: { lat: 57.1439, lng: 24.2831 },
+    coords: [24.2831, 57.1439],
     description: {
       de: "Die Mündung des Flusses Gauja liegt bei Carnikava und führt in den Golf von Riga. Die Umgebung ist durch Dünen und Strandwälder geprägt.",
       hu: "A Gauja folyó torkolata Carnikavánál található, és a Rigai-öbölbe vezet. A környezetet dűnék és partmenti erdők jellemzik.",
@@ -230,7 +230,7 @@ export const latviaNatureV2: POI[] = [
     type: "forest",
     parent: "LV",
     name: { de: "Zelts Wald", hu: "Zelts erdő", ro: "Pădurea Zelts", en: "Zelts Forest" },
-    coordinates: { lat: 56.8123, lng: 23.4512 },
+    coords: [23.4512, 56.8123],
     description: {
       de: "Der Zelts Wald erstreckt sich westlich von Riga in einer flachen Region. Es handelt sich überwiegend um einen Laub- und Mischwald.",
       hu: "A Zelts erdő Rigától nyugatra, egy sík területen terül el. Jellemzően lombhullató és vegyes erdő.",
@@ -262,7 +262,7 @@ export const latviaNatureV2: POI[] = [
     type: "lake",
     parent: "LV",
     name: { de: "Usmas See", hu: "Usmas-tó", ro: "Lacul Usmas", en: "Usmas Lake" },
-    coordinates: { lat: 57.2, lng: 22.2167 },
+    coords: [22.2167, 57.2],
     description: {
       de: "Der Usmas See ist einer der größten Seen Lettlands und liegt im Westen des Landes. Er ist bekannt für seine vielen Inseln.",
       hu: "Az Usmas-tó Lettország egyik legnagyobb tava, az ország nyugati részén fekszik. Számos szigetéről ismert.",
@@ -294,7 +294,7 @@ export const latviaNatureV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Abavas Wasserfall", hu: "Abavas-vízesés", ro: "Cascada Abavas", en: "Abavas Waterfall" },
-    coordinates: { lat: 57.0628, lng: 22.8219 },
+    coords: [22.8219, 57.0628],
     description: {
       de: "Der Abavas-Wasserfall, auch Abavas Rumba genannt, ist eine breite, aber niedrige Stromschnelle im Fluss Abava. Er ist ein geologisches Naturdenkmal.",
       hu: "Az Abavas-vízesés, más néven Abavas Rumba, egy széles, de alacsony zúgó az Abava folyón. Geológiai természeti emlék.",
@@ -326,7 +326,7 @@ export const latviaNatureV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Engure Küstenstreifen", hu: "Engurei tengerpart", ro: "Litoralul Engure", en: "Engure Coastline" },
-    coordinates: { lat: 57.1728, lng: 23.2197 },
+    coords: [23.2197, 57.1728],
     description: {
       de: "Der Küstenstreifen bei Engure liegt am Golf von Riga. Er zeichnet sich durch Sandstrände und angrenzende Waldgebiete aus.",
       hu: "Az engurei tengerpart a Rigai-öbölnél fekszik. Homokos strandok és környező erdőterületek jellemzik.",
@@ -358,7 +358,7 @@ export const latviaNatureV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Mezotne Park", hu: "Mezotne-park", ro: "Parcul Mezotne", en: "Mezotne Park" },
-    coordinates: { lat: 56.4431, lng: 24.0536 },
+    coords: [24.0536, 56.4431],
     description: {
       de: "Der Mezotne Park liegt nahe dem Lielupe-Fluss in der Region Semgallen. Er ist ein angelegter Naturraum mit altem Baumbestand.",
       hu: "A Mezotne-park a Lielupe folyó közelében fekszik, Semgallen régióban. Ez egy kialakított természeti terület idős fákkal.",
@@ -390,7 +390,7 @@ export const latviaNatureV2: POI[] = [
     type: "lake",
     parent: "LV",
     name: { de: "Lubans Uferzone", hu: "Lubans partvidék", ro: "Zona de coastă Lubans", en: "Lubans Shoreline" },
-    coordinates: { lat: 56.7667, lng: 26.8667 },
+    coords: [26.8667, 56.7667],
     description: {
       de: "Die Uferzone des Lubans-Sees im Osten Lettlands umfasst bedeutende Feuchtgebiete. Das Gebiet ist ein wichtiges Schutzgebiet für Wasservögel.",
       hu: "A Lubans-tó partvidéke Kelet-Lettországban jelentős vizes élőhelyeket foglal magában. A terület fontos védett zóna a vízimadarak számára.",

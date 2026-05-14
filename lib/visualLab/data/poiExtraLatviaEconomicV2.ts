@@ -6,7 +6,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Stende Getreidezentrum", hu: "Stendei gabonaközpont", ro: "Centrul de cereale Stende", en: "Stende Grain Center" },
-    coordinates: { lat: 57.1528, lng: 22.5456 },
+    coords: [22.5456, 57.1528],
     description: {
       de: "Stende ist ein bedeutendes Zentrum für landwirtschaftliche Forschung und Getreideverarbeitung in Lettland. Es beherbergt wichtige Einrichtungen für die Saatgutentwicklung.",
       hu: "Stende Lettország egyik jelentős mezőgazdasági kutatási és gabonafeldolgozási központja. Fontos vetőmagfejlesztő létesítményeknek ad otthont.",
@@ -38,7 +38,7 @@ export const latviaEconomicV2: POI[] = [
     type: "factory",
     parent: "LV",
     name: { de: "Brocēni Zementwerk", hu: "Brocēni Cementgyár", ro: "Fabrica de ciment Brocēni", en: "Brocēni Cement Plant" },
-    coordinates: { lat: 56.6781, lng: 22.6732 },
+    coords: [22.6732, 56.6781],
     description: {
       de: "Das Werk in Brocēni ist der größte Produzent von Zement und Baustoffen in der Baltischen Region. Es nutzt lokale Kalksteinvorkommen.",
       hu: "A Brocēni-i üzem a balti régió legnagyobb cement- és építőanyag-gyártója. Helyi mészkőlelőhelyeket hasznosít.",
@@ -70,7 +70,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Olaine Pharmahub", hu: "Olainei gyógyszeripari központ", ro: "Hub farmaceutic Olaine", en: "Olaine Pharmaceutical Hub" },
-    coordinates: { lat: 56.7867, lng: 23.9372 },
+    coords: [23.9372, 56.7867],
     description: {
       de: "Olaine ist ein Zentrum der lettischen chemischen und pharmazeutischen Industrie. Hier befinden sich Produktionsstätten für Medikamente und Wirkstoffe.",
       hu: "Olaine a lett vegyipar és gyógyszeripar központja. Itt találhatók a gyógyszerek és hatóanyagok gyártóüzemei.",
@@ -102,7 +102,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Skrunda Industriegebiet", hu: "Skrunda ipari övezet", ro: "Zona industrială Skrunda", en: "Skrunda Industrial Zone" },
-    coordinates: { lat: 56.6667, lng: 22.0167 },
+    coords: [22.0167, 56.6667],
     description: {
       de: "Das Industriegebiet in Skrunda konzentriert sich auf Logistik und kleine Fertigungsbetriebe. Es profitiert von der Lage an wichtigen Verkehrswegen.",
       hu: "A Skrunda-i ipari övezet a logisztikára és a kisüzemi gyártásra összpontosít. Előnye a fontos közlekedési útvonalak melletti fekvés.",
@@ -134,7 +134,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Salaspils Forschungszentrum", hu: "Salaspilsi kutatóközpont", ro: "Centrul de cercetare Salaspils", en: "Salaspils Research Center" },
-    coordinates: { lat: 56.8536, lng: 24.3578 },
+    coords: [24.3578, 56.8536],
     description: {
       de: "Dieses Gelände ist Standort wissenschaftlicher und technologischer Forschungseinrichtungen. Es dient als wichtiger Standort für lettische Innovationsprojekte.",
       hu: "Ez a terület tudományos és technológiai kutatóintézeteknek ad otthont. Fontos helyszín a lett innovációs projektek számára.",
@@ -166,7 +166,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Liepāja Gewerbepark", hu: "Liepāja üzleti park", ro: "Parcul de afaceri Liepāja", en: "Liepāja Business Park" },
-    coordinates: { lat: 56.5133, lng: 21.0139 },
+    coords: [21.0139, 56.5133],
     description: {
       de: "Dieser Gewerbepark bietet moderne Flächen für Unternehmen im Bereich Metallverarbeitung und Dienstleistungen. Er ist ein Motor für den regionalen Handel.",
       hu: "Ez az üzleti park modern területeket kínál fémipari és szolgáltató cégeknek. A regionális kereskedelem motorja.",
@@ -198,7 +198,7 @@ export const latviaEconomicV2: POI[] = [
     type: "factory",
     parent: "LV",
     name: { de: "Madona Holzverarbeitung", hu: "Madonai faipar", ro: "Industria lemnului Madona", en: "Madona Woodworking Center" },
-    coordinates: { lat: 56.8525, lng: 26.2167 },
+    coords: [26.2167, 56.8525],
     description: {
       de: "Die Region Madona ist bekannt für ihre intensive Holzindustrie. Lokale Fabriken verarbeiten regionale Forstressourcen für den Export.",
       hu: "Madona régiója intenzív faiparáról ismert. A helyi gyárak regionális erdészeti erőforrásokat dolgoznak fel exportra.",
@@ -230,7 +230,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Jelgava Bioenergiezentrum", hu: "Jelgava-i bioenergia-központ", ro: "Centrul de bioenergie Jelgava", en: "Jelgava Bioenergy Center" },
-    coordinates: { lat: 56.6517, lng: 23.725 },
+    coords: [23.725, 56.6517],
     description: {
       de: "Jelgava ist ein Vorreiter bei der Nutzung von Biomasse zur Energieerzeugung in Lettland. Es verfügt über moderne Fernwärmeanlagen.",
       hu: "Jelgava élen jár a biomassza energiatermelésre történő felhasználásában Lettországban. Modern távfűtési létesítményekkel rendelkezik.",
@@ -262,7 +262,7 @@ export const latviaEconomicV2: POI[] = [
     type: "port",
     parent: "LV",
     name: { de: "Ventspils Chemienterminal", hu: "Ventspilsi vegyitermék-terminál", ro: "Terminal chimic Ventspils", en: "Ventspils Chemical Terminal" },
-    coordinates: { lat: 57.3917, lng: 21.5583 },
+    coords: [21.5583, 57.3917],
     description: {
       de: "Dieser Terminal ist einer der wichtigsten Umschlagplätze für flüssige Chemieprodukte im Baltikum. Er ist direkt mit der Bahn angebunden.",
       hu: "Ez a terminál az egyik legfontosabb folyékony vegyitermék-rakodóhely a Baltikumban. Közvetlen vasúti összeköttetéssel rendelkezik.",
@@ -294,7 +294,7 @@ export const latviaEconomicV2: POI[] = [
     type: "factory",
     parent: "LV",
     name: { de: "Valmiera Glasfaserwerk", hu: "Valmiera-i üvegszálgyár", ro: "Fabrica de fibră de sticlă Valmiera", en: "Valmiera Fiberglass Plant" },
-    coordinates: { lat: 57.5358, lng: 25.4056 },
+    coords: [25.4056, 57.5358],
     description: {
       de: "Valmiera ist weltweit bekannt für die Produktion von Glasfasergewebe. Das Werk exportiert seine Produkte in zahlreiche Länder.",
       hu: "Valmiera világszerte ismert üvegszálas szövetek gyártásáról. A gyár számos országba exportálja termékeit.",
@@ -326,7 +326,7 @@ export const latviaEconomicV2: POI[] = [
     type: "factory",
     parent: "LV",
     name: { de: "Daugavpils Lokomotivwerk", hu: "Daugavpilsi mozdonyjavító", ro: "Uzina de locomotive Daugavpils", en: "Daugavpils Locomotive Plant" },
-    coordinates: { lat: 55.875, lng: 26.5167 },
+    coords: [26.5167, 55.875],
     description: {
       de: "Das Werk in Daugavpils ist auf die Instandsetzung und Modernisierung von Lokomotiven spezialisiert. Es ist ein traditionsreicher Betrieb.",
       hu: "A daugavpilsi üzem mozdonyok javítására és korszerűsítésére szakosodott. Hagyományokban gazdag létesítmény.",
@@ -358,7 +358,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Tukums Lebensmittelverarbeitung", hu: "Tukumsi élelmiszeripar", ro: "Procesarea alimentelor Tukums", en: "Tukums Food Processing Cluster" },
-    coordinates: { lat: 56.9667, lng: 23.15 },
+    coords: [23.15, 56.9667],
     description: {
       de: "In Tukums konzentriert sich die Lebensmittelindustrie auf die Verarbeitung lokaler landwirtschaftlicher Erzeugnisse. Bekannt für Molkereiprodukte.",
       hu: "Tukumsban az élelmiszeripar a helyi mezőgazdasági termékek feldolgozására összpontosít. Tejtermékeiről ismert.",
@@ -390,7 +390,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Rēzekne Sonderwirtschaftszone", hu: "Rēzeknei különleges gazdasági övezet", ro: "Zona economică specială Rēzekne", en: "Rēzekne Special Economic Zone" },
-    coordinates: { lat: 56.505, lng: 27.3236 },
+    coords: [27.3236, 56.505],
     description: {
       de: "Die Sonderwirtschaftszone in Rēzekne bietet Anreize für Investoren in der verarbeitenden Industrie. Sie liegt an einer wichtigen Transitstrecke.",
       hu: "A rēzeknei különleges gazdasági övezet ösztönzőket kínál a feldolgozóiparba irányuló befektetésekhez. Fontos tranzitútvonalon fekszik.",
@@ -422,7 +422,7 @@ export const latviaEconomicV2: POI[] = [
     type: "factory",
     parent: "LV",
     name: { de: "Ķekava Geflügelproduktion", hu: "Ķekavai baromfitenyésztés", ro: "Producția de carne de pasăre Ķekava", en: "Ķekava Poultry Production" },
-    coordinates: { lat: 56.8333, lng: 24.2333 },
+    coords: [24.2333, 56.8333],
     description: {
       de: "Die Anlage in Ķekava ist eine der größten Geflügelverarbeitungsbetriebe Lettlands. Sie versorgt den Inlandsmarkt und exportiert in die EU.",
       hu: "A Ķekavai üzem az egyik legnagyobb baromfifeldolgozó Lettországban. A hazai piacot látja el és exportál az EU-ba.",
@@ -454,7 +454,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Grobiņa Windpark", hu: "Grobiņai szélerőműpark", ro: "Parcul eolian Grobiņa", en: "Grobiņa Wind Park" },
-    coordinates: { lat: 56.5367, lng: 21.1611 },
+    coords: [21.1611, 56.5367],
     description: {
       de: "Der Windpark nahe Grobiņa ist ein bedeutendes Projekt für erneuerbare Energien in der Region Liepāja. Er nutzt die starken Windverhältnisse.",
       hu: "A Grobiņa melletti szélerőműpark jelentős megújuló energiaprojekt a Liepāja régióban. Hasznosítja az erős szélviszonyokat.",
@@ -486,7 +486,7 @@ export const latviaEconomicV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Sigulda Tourismus-Hub", hu: "Siguldai turisztikai központ", ro: "Hub turistic Sigulda", en: "Sigulda Tourism Hub" },
-    coordinates: { lat: 57.1539, lng: 24.8522 },
+    coords: [24.8522, 57.1539],
     description: {
       de: "Sigulda fungiert als wichtiger wirtschaftlicher Knotenpunkt für die Tourismusbranche. Hier konzentrieren sich Dienstleister für Outdoor-Aktivitäten.",
       hu: "Sigulda fontos gazdasági csomópontként működik az idegenforgalmi ágazatban. Itt összpontosulnak a szabadtéri tevékenységek szolgáltatói.",
@@ -518,7 +518,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Aizkraukle Wasserkraft", hu: "Aizkrauklei vízerőmű", ro: "Hidrocentrala Aizkraukle", en: "Aizkraukle Hydropower Center" },
-    coordinates: { lat: 56.6033, lng: 25.2536 },
+    coords: [25.2536, 56.6033],
     description: {
       de: "In der Nähe von Aizkraukle befindet sich eines der größten Wasserkraftwerke des Landes, das eine zentrale Rolle in der lettischen Stromerzeugung spielt.",
       hu: "Aizkraukle közelében található az ország egyik legnagyobb vízerőműve, amely központi szerepet játszik a lett áramtermelésben.",
@@ -550,7 +550,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Dobele Fruchtverarbeitung", hu: "Dobelei gyümölcsfeldolgozás", ro: "Procesarea fructelor Dobele", en: "Dobele Fruit Processing Hub" },
-    coordinates: { lat: 56.6167, lng: 23.2833 },
+    coords: [23.2833, 56.6167],
     description: {
       de: "Dobele ist das Zentrum für Obstanbau und -verarbeitung in Lettland. Hier finden sich spezialisierte Fabriken für Fruchtsäfte und Konserven.",
       hu: "Dobele a gyümölcstermesztés és -feldolgozás központja Lettországban. Itt találhatók a gyümölcslevek és konzervek szakosodott gyárai.",
@@ -582,7 +582,7 @@ export const latviaEconomicV2: POI[] = [
     type: "port",
     parent: "LV",
     name: { de: "Salacgrīva Fischereihafen", hu: "Salacgrīvai halászkikötő", ro: "Portul pescăresc Salacgrīva", en: "Salacgrīva Fishing Port" },
-    coordinates: { lat: 57.75, lng: 24.35 },
+    coords: [24.35, 57.75],
     description: {
       de: "Salacgrīva dient als wichtiger Fischereihafen an der Ostseeküste. Er ist spezialisiert auf den Fang und die erste Verarbeitung von Ostseefisch.",
       hu: "Salacgrīva fontos halászkikötőként szolgál a Balti-tenger partján. A balti-tengeri halak fogására és elsődleges feldolgozására specializálódott.",
@@ -614,7 +614,7 @@ export const latviaEconomicV2: POI[] = [
     type: "factory",
     parent: "LV",
     name: { de: "Smiltene Maschinenbau", hu: "Smiltenei gépgyártás", ro: "Construcții de mașini Smiltene", en: "Smiltene Machinery Manufacturing" },
-    coordinates: { lat: 57.4267, lng: 25.9083 },
+    coords: [25.9083, 57.4267],
     description: {
       de: "In Smiltene ist der Maschinenbau ein tragender Wirtschaftszweig. Kleine und mittelständische Unternehmen produzieren spezialisierte technische Komponenten.",
       hu: "Smiltenében a gépgyártás kulcsfontosságú ágazat. Kis- és középvállalatok gyártanak speciális műszaki alkatrészeket.",
@@ -646,7 +646,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Preiļi Textilzentrum", hu: "Preiļi textilipari központ", ro: "Centrul textil Preiļi", en: "Preiļi Textile Center" },
-    coordinates: { lat: 56.29, lng: 26.72 },
+    coords: [26.72, 56.29],
     description: {
       de: "Preiļi hat eine langjährige Tradition in der Textilherstellung. Lokale Betriebe produzieren Kleidung und Heimtextilien für den europäischen Markt.",
       hu: "Preiļi hosszú hagyományokkal rendelkezik a textilgyártás terén. A helyi üzemek ruházatot és lakástextilt gyártanak az európai piacra.",
@@ -678,7 +678,7 @@ export const latviaEconomicV2: POI[] = [
     type: "industry",
     parent: "LV",
     name: { de: "Viļaka Forstwirtschaft", hu: "Viļakai erdészet", ro: "Silvicultură Viļaka", en: "Viļaka Forestry Hub" },
-    coordinates: { lat: 57.1833, lng: 27.6667 },
+    coords: [27.6667, 57.1833],
     description: {
       de: "Die Region um Viļaka stützt sich wirtschaftlich stark auf die nachhaltige Forstwirtschaft und die Verarbeitung von Holzprodukten nahe der Grenze.",
       hu: "Viļaka régiója gazdaságilag erősen támaszkodik a fenntartható erdőgazdálkodásra és a faipari termékek feldolgozására a határ közelében.",

@@ -6,7 +6,7 @@ export const norwayNatureV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Jotunheimen Nationalpark", hu: "Jotunheimen Nemzeti Park", ro: "Parcul Național Jotunheimen", en: "Jotunheimen National Park" },
-    coordinates: { lat: 61.5, lng: 8.3333 },
+    coords: [8.3333, 61.5],
     description: {
       de: "Jotunheimen ist ein Gebirgszug im südlichen Norwegen. Das Gebiet beherbergt die höchsten Gipfel Skandinaviens.",
       hu: "A Jotunheimen hegység Dél-Norvégiában található. Itt találhatók Skandinávia legmagasabb csúcsai.",
@@ -38,7 +38,7 @@ export const norwayNatureV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Vøringsfossen", hu: "Vøringsfossen", ro: "Vøringsfossen", en: "Vøringsfossen" },
-    coordinates: { lat: 60.4258, lng: 7.2475 },
+    coords: [7.2475, 60.4258],
     description: {
       de: "Vøringsfossen ist ein Wasserfall in der Kommune Eidfjord. Er besitzt eine gesamte Fallhöhe von 182 Metern.",
       hu: "A Vøringsfossen egy vízesés Eidfjord községben. Teljes magassága 182 méter.",
@@ -70,7 +70,7 @@ export const norwayNatureV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Hardangervidda", hu: "Hardangervidda", ro: "Hardangervidda", en: "Hardangervidda" },
-    coordinates: { lat: 60.0, lng: 7.5 },
+    coords: [7.5, 60.0],
     description: {
       de: "Hardangervidda ist das größte Hochplateau Europas. Die Region ist bekannt für ihre weiten Ebenen und Wildrentierpopulationen.",
       hu: "A Hardangervidda Európa legnagyobb fennsíkja. A régió kiterjedt síkságairól és vad rénszarvas-populációiról ismert.",
@@ -102,7 +102,7 @@ export const norwayNatureV2: POI[] = [
     type: "lake",
     parent: "NO",
     name: { de: "Jostedalsbreen", hu: "Jostedalsbreen", ro: "Jostedalsbreen", en: "Jostedalsbreen" },
-    coordinates: { lat: 61.6667, lng: 7.0 },
+    coords: [7.0, 61.6667],
     description: {
       de: "Jostedalsbreen ist der größte Gletscher auf dem europäischen Festland. Er liegt in der Provinz Vestland.",
       hu: "A Jostedalsbreen az európai szárazföld legnagyobb gleccsere. Vestland megyében található.",
@@ -134,7 +134,7 @@ export const norwayNatureV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Rondane", hu: "Rondane", ro: "Rondane", en: "Rondane" },
-    coordinates: { lat: 61.8333, lng: 9.75 },
+    coords: [9.75, 61.8333],
     description: {
       de: "Rondane ist ein Gebirgsmassiv zwischen den Tälern Gudbrandsdalen und Østerdalen. Es war der erste Nationalpark Norwegens.",
       hu: "A Rondane egy hegyvonulat a Gudbrandsdalen és az Østerdalen völgyek között. Ez volt Norvégia első nemzeti parkja.",
@@ -166,7 +166,7 @@ export const norwayNatureV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Femundsmarka", hu: "Femundsmarka", ro: "Femundsmarka", en: "Femundsmarka" },
-    coordinates: { lat: 62.25, lng: 11.9167 },
+    coords: [11.9167, 62.25],
     description: {
       de: "Femundsmarka ist ein Nationalpark nahe der schwedischen Grenze. Er ist bekannt für seine Seenlandschaft und blockreichen Boden.",
       hu: "A Femundsmarka egy nemzeti park a svéd határ közelében. Ismert tavairól és sziklás talajáról.",
@@ -198,7 +198,7 @@ export const norwayNatureV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Saltfjellet-Svartisen", hu: "Saltfjellet-Svartisen", ro: "Saltfjellet-Svartisen", en: "Saltfjellet-Svartisen" },
-    coordinates: { lat: 66.75, lng: 14.3333 },
+    coords: [14.3333, 66.75],
     description: {
       de: "Saltfjellet-Svartisen ist ein Nationalpark im Nordland. Er umfasst den zweitgrößten Gletscher Norwegens.",
       hu: "A Saltfjellet-Svartisen egy nemzeti park Nordland megyében. Magában foglalja Norvégia második legnagyobb gleccserét.",
@@ -230,7 +230,7 @@ export const norwayNatureV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Børgefjell", hu: "Børgefjell", ro: "Børgefjell", en: "Børgefjell" },
-    coordinates: { lat: 65.25, lng: 13.75 },
+    coords: [13.75, 65.25],
     description: {
       de: "Børgefjell liegt zwischen den Provinzen Nordland und Trøndelag. Die Region ist weitgehend unberührtes Hochgebirge.",
       hu: "A Børgefjell Nordland és Trøndelag megyék között fekszik. A régió jórészt érintetlen magashegység.",
@@ -262,7 +262,7 @@ export const norwayNatureV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Reinheimen", hu: "Reinheimen", ro: "Reinheimen", en: "Reinheimen" },
-    coordinates: { lat: 62.0, lng: 8.0 },
+    coords: [8.0, 62.0],
     description: {
       de: "Reinheimen ist ein großer Nationalpark in den Provinzen Innlandet und Møre og Romsdal. Er ist ein wichtiges Rückzugsgebiet für Wildrentiere.",
       hu: "A Reinheimen egy nagy nemzeti park Innlandet és Møre og Romsdal megyékben. Fontos menedékhely a vadrénszarvasok számára.",
@@ -294,7 +294,7 @@ export const norwayNatureV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Breheimen", hu: "Breheimen", ro: "Breheimen", en: "Breheimen" },
-    coordinates: { lat: 61.75, lng: 7.5 },
+    coords: [7.5, 61.75],
     description: {
       de: "Breheimen liegt zwischen Jotunheimen und Jostedalsbreen. Die Landschaft ist geprägt von Gletschern und weiten Tälern.",
       hu: "A Breheimen Jotunheimen és Jostedalsbreen között fekszik. A tájat gleccserek és széles völgyek jellemzik.",
@@ -326,7 +326,7 @@ export const norwayNatureV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Dovrefjell-Sunndalsfjella", hu: "Dovrefjell-Sunndalsfjella", ro: "Dovrefjell-Sunndalsfjella", en: "Dovrefjell-Sunndalsfjella" },
-    coordinates: { lat: 62.4, lng: 9.2 },
+    coords: [9.2, 62.4],
     description: {
       de: "Dieser Nationalpark ist die Heimat der einzigen Moschusochsenpopulation Norwegens. Er bietet alpine Lebensräume.",
       hu: "Ez a nemzeti park Norvégia egyetlen pézsmatulok-populációjának otthona. Alpesi élőhelyeket kínál.",
@@ -358,7 +358,7 @@ export const norwayNatureV2: POI[] = [
     type: "forest",
     parent: "NO",
     name: { de: "Gutulia", hu: "Gutulia", ro: "Gutulia", en: "Gutulia" },
-    coordinates: { lat: 62.0167, lng: 12.1667 },
+    coords: [12.1667, 62.0167],
     description: {
       de: "Gutulia ist der kleinste Nationalpark Norwegens. Er beherbergt unberührte, alte Nadelwälder.",
       hu: "A Gutulia Norvégia legkisebb nemzeti parkja. Érintetlen, ősi tűlevelű erdők találhatók itt.",
@@ -390,7 +390,7 @@ export const norwayNatureV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Folgefonna", hu: "Folgefonna", ro: "Folgefonna", en: "Folgefonna" },
-    coordinates: { lat: 60.0, lng: 6.5 },
+    coords: [6.5, 60.0],
     description: {
       de: "Folgefonna ist ein Nationalpark, der den drittgrößten Gletscher Norwegens schützt. Er liegt auf der Folgefonna-Halbinsel.",
       hu: "A Folgefonna egy nemzeti park, amely Norvégia harmadik legnagyobb gleccserét védi. A Folgefonna-félszigeten található.",
@@ -422,7 +422,7 @@ export const norwayNatureV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Rogaland Küste", hu: "Rogaland partvidék", ro: "Coasta Rogaland", en: "Rogaland Coastline" },
-    coordinates: { lat: 59.0, lng: 5.5 },
+    coords: [5.5, 59.0],
     description: {
       de: "Die Küste von Rogaland zeichnet sich durch schroffe Felsen und Inseln aus. Die Region liegt im Südwesten Norwegens.",
       hu: "Rogaland partvidékét sziklás sziklák és szigetek jellemzik. A régió Norvégia délnyugati részén található.",
@@ -454,7 +454,7 @@ export const norwayNatureV2: POI[] = [
     type: "river",
     parent: "NO",
     name: { de: "Hardangerfjord", hu: "Hardanger-fjord", ro: "Hardangerfjord", en: "Hardangerfjord" },
-    coordinates: { lat: 60.3333, lng: 6.3333 },
+    coords: [6.3333, 60.3333],
     description: {
       de: "Der Hardangerfjord ist der zweitlängste Fjord Norwegens. Er ist bekannt für den Obstbau an seinen Hängen.",
       hu: "A Hardanger-fjord Norvégia második leghosszabb fjordja. Lejtőin folyó gyümölcstermesztéséről ismert.",
@@ -486,7 +486,7 @@ export const norwayNatureV2: POI[] = [
     type: "valley",
     parent: "NO",
     name: { de: "Lunde Tal", hu: "Lunde völgy", ro: "Valea Lunde", en: "Lunde Valley" },
-    coordinates: { lat: 59.2833, lng: 9.0 },
+    coords: [9.0, 59.2833],
     description: {
       de: "Das Lunde Tal befindet sich in der Telemark. Es wird vom Telemark-Kanal durchquert.",
       hu: "A Lunde völgy Telemarkban található. A Telemark-csatorna keresztezi.",
@@ -518,7 +518,7 @@ export const norwayNatureV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Skjervsfossen", hu: "Skjervsfossen", ro: "Skjervsfossen", en: "Skjervsfossen" },
-    coordinates: { lat: 60.5833, lng: 6.75 },
+    coords: [6.75, 60.5833],
     description: {
       de: "Skjervsfossen ist ein markanter Wasserfall in der Provinz Vestland. Er stürzt entlang der Straße 13 herab.",
       hu: "A Skjervsfossen egy jellegzetes vízesés Vestland megyében. A 13-as út mentén zuhan le.",
@@ -550,7 +550,7 @@ export const norwayNatureV2: POI[] = [
     type: "valley",
     parent: "NO",
     name: { de: "Loen Tal", hu: "Loen völgy", ro: "Valea Loen", en: "Loen Valley" },
-    coordinates: { lat: 61.8667, lng: 6.8167 },
+    coords: [6.8167, 61.8667],
     description: {
       de: "Das Loen Tal liegt am Nordfjord. Es ist bekannt für den Lovatnet-See und umliegende Gletscher.",
       hu: "A Loen völgy a Nordfjordnál fekszik. A Lovatnet-tó és a környező gleccserek miatt ismert.",
@@ -582,7 +582,7 @@ export const norwayNatureV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Varanger Halbinsel", hu: "Varanger-félsziget", ro: "Peninsula Varanger", en: "Varanger Peninsula" },
-    coordinates: { lat: 70.3333, lng: 29.5 },
+    coords: [29.5, 70.3333],
     description: {
       de: "Die Varanger-Halbinsel ist eine arktische Region in der Provinz Finnmark. Sie bietet eine karge Tundralandschaft.",
       hu: "A Varanger-félsziget egy sarkvidéki régió Finnmark megyében. Kopár tundra tájat kínál.",
@@ -614,7 +614,7 @@ export const norwayNatureV2: POI[] = [
     type: "island",
     parent: "NO",
     name: { de: "Senja Insel", hu: "Senja sziget", ro: "Insula Senja", en: "Senja Island" },
-    coordinates: { lat: 69.3333, lng: 17.3333 },
+    coords: [17.3333, 69.3333],
     description: {
       de: "Senja ist die zweitgrößte Insel Norwegens. Sie ist berühmt für ihre schroffen Küsten und Berge.",
       hu: "Senja Norvégia második legnagyobb szigete. Híres sziklás partjairól és hegyeiről.",
@@ -646,7 +646,7 @@ export const norwayNatureV2: POI[] = [
     type: "valley",
     parent: "NO",
     name: { de: "Aurlandsdalen", hu: "Aurlandsdalen", ro: "Aurlandsdalen", en: "Aurlandsdalen" },
-    coordinates: { lat: 60.8333, lng: 7.3333 },
+    coords: [7.3333, 60.8333],
     description: {
       de: "Aurlandsdalen ist ein bekanntes Tal in Westnorwegen. Es ist beliebt bei Wanderern aufgrund seiner dramatischen Landschaft.",
       hu: "Az Aurlandsdalen egy ismert völgy Nyugat-Norvégiában. Drámai tája miatt kedvelt a túrázók körében.",

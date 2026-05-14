@@ -6,7 +6,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Luftfahrtcluster Alverca", hu: "Alverca Repülési Klaszter", ro: "Clusterul Aerospațial Alverca", en: "Alverca Aerospace Cluster" },
-    coordinates: { lat: 38.887, lng: -9.035 },
+    coords: [-9.035, 38.887],
     description: {
       de: "Alverca ist ein bedeutender Standort für Luftfahrtwartung und -herstellung in Portugal. Hier befindet sich das industrielle Zentrum der OGMA.",
       hu: "Alverca Portugália jelentős légi karbantartási és gyártási központja. Az OGMA ipari létesítményei itt találhatók.",
@@ -38,7 +38,7 @@ export const portugalEconomicV2: POI[] = [
     type: "factory",
     parent: "PT",
     name: { de: "Papierfabrik Lousã", hu: "Lousã Papírgyár", ro: "Fabrica de Hârtie Lousã", en: "Lousã Paper Mill" },
-    coordinates: { lat: 40.116, lng: -8.243 },
+    coords: [-8.243, 40.116],
     description: {
       de: "Die Papierindustrie ist ein wichtiger Wirtschaftsfaktor in der Region Lousã. Diese Fabrik spezialisiert sich auf Zellstoffprodukte.",
       hu: "A papíripar fontos gazdasági tényező Lousã régióban. Ez a gyár cellulóztermékekre specializálódott.",
@@ -70,7 +70,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Glasindustrie Marinha Grande", hu: "Marinha Grande Üvegipar", ro: "Industria Sticlei Marinha Grande", en: "Marinha Grande Glass Industry" },
-    coordinates: { lat: 39.752, lng: -8.932 },
+    coords: [-8.932, 39.752],
     description: {
       de: "Marinha Grande ist das traditionelle Zentrum der portugiesischen Glasherstellung. Hier konzentrieren sich zahlreiche Industrieanlagen.",
       hu: "Marinha Grande a portugál üveggyártás hagyományos központja. Számos ipari létesítmény koncentrálódik itt.",
@@ -102,7 +102,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Lebensmittelindustrie Vendas Novas", hu: "Vendas Novas Élelmiszeripar", ro: "Industria Alimentară Vendas Novas", en: "Vendas Novas Food Industry" },
-    coordinates: { lat: 38.675, lng: -8.455 },
+    coords: [-8.455, 38.675],
     description: {
       de: "Vendas Novas beherbergt bedeutende Anlagen der Lebensmittelverarbeitung. Der Standort profitiert von seiner zentralen Verkehrslage.",
       hu: "Vendas Novas jelentős élelmiszer-feldolgozó üzemeknek ad otthont. A helyszín központi közlekedési fekvéséből profitál.",
@@ -134,7 +134,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Schiffbau Murtosa", hu: "Murtosa Hajógyártás", ro: "Șantier Naval Murtosa", en: "Murtosa Shipbuilding" },
-    coordinates: { lat: 40.733, lng: -8.633 },
+    coords: [-8.633, 40.733],
     description: {
       de: "Die Werften in Murtosa spezialisieren sich auf den Bau traditioneller und moderner Boote für die Region Aveiro.",
       hu: "A murtosai hajógyárak hagyományos és modern csónakok építésére specializálódtak az Aveiro régió számára.",
@@ -166,7 +166,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Metallurgie Oliveira de Azeméis", hu: "Oliveira de Azeméis Kohászat", ro: "Metalurgie Oliveira de Azeméis", en: "Oliveira de Azeméis Metallurgy" },
-    coordinates: { lat: 40.835, lng: -8.483 },
+    coords: [-8.483, 40.835],
     description: {
       de: "Oliveira de Azeméis ist bekannt für seine starke Metallverarbeitungsindustrie, insbesondere im Bereich der Automobilzulieferung.",
       hu: "Oliveira de Azeméis ismert erős fémfeldolgozó iparáról, különösen az autóipari beszállítók tekintetében.",
@@ -198,7 +198,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Logistikpark Almeirim", hu: "Almeirim Logisztikai Központ", ro: "Parc Logistic Almeirim", en: "Almeirim Logistics Park" },
-    coordinates: { lat: 39.206, lng: -8.625 },
+    coords: [-8.625, 39.206],
     description: {
       de: "Almeirim fungiert als strategisches Logistikzentrum im Zentrum Portugals. Zahlreiche Lagerhäuser unterstützen den Handel.",
       hu: "Almeirim stratégiai logisztikai központként működik Portugália közepén. Számos raktár támogatja a kereskedelmet.",
@@ -230,7 +230,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Technologiepark Guarda", hu: "Guarda Technológiai Park", ro: "Parc Tehnologic Guarda", en: "Guarda Technology Park" },
-    coordinates: { lat: 40.533, lng: -7.266 },
+    coords: [-7.266, 40.533],
     description: {
       de: "Der Technologiepark Guarda fördert Innovation und Start-ups in der Region. Er ist ein Zentrum für moderne Dienstleistungen.",
       hu: "A guarda-i technológiai park ösztönzi az innovációt és a start-upokat a régióban. Modern szolgáltatási központ.",
@@ -262,7 +262,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Handelszentrum Valença", hu: "Valença Kereskedelmi Központ", ro: "Centru Comercial Valença", en: "Valença Trade Center" },
-    coordinates: { lat: 42.025, lng: -8.643 },
+    coords: [-8.643, 42.025],
     description: {
       de: "Valença ist ein bedeutender grenzüberschreitender Handelsort an der spanischen Grenze. Einzelhandel und Import sind zentral.",
       hu: "Valença jelentős határon átnyúló kereskedelmi helyszín a spanyol határnál. A kiskereskedelem és az import központi.",
@@ -294,7 +294,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Agrarzentrum Viana do Alentejo", hu: "Viana do Alentejo Agrárközpont", ro: "Centru Agricol Viana do Alentejo", en: "Viana do Alentejo Agriculture Center" },
-    coordinates: { lat: 38.331, lng: -7.994 },
+    coords: [-7.994, 38.331],
     description: {
       de: "Dieser Standort ist auf die landwirtschaftliche Produktion der Alentejo-Region spezialisiert. Schwerpunkt ist die Getreidewirtschaft.",
       hu: "Ez a helyszín az Alentejo régió mezőgazdasági termelésére szakosodott. Fókuszban a gabonagazdálkodás.",
@@ -326,7 +326,7 @@ export const portugalEconomicV2: POI[] = [
     type: "port",
     parent: "PT",
     name: { de: "Fischereihafen Esposende", hu: "Esposende Halászat", ro: "Port Pescăresc Esposende", en: "Esposende Fisheries" },
-    coordinates: { lat: 41.53, lng: -8.783 },
+    coords: [-8.783, 41.53],
     description: {
       de: "Esposende ist ein wichtiger Hafen für die Küstenfischerei. Hier werden frischer Fisch und Meeresfrüchte verarbeitet.",
       hu: "Esposende fontos kikötő a part menti halászat számára. Friss halat és tenger gyümölcseit dolgozzák fel.",
@@ -358,7 +358,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Luftfahrtzentrum Beja", hu: "Beja Repülési Központ", ro: "Centru Aeronautic Beja", en: "Beja Aeronautical Center" },
-    coordinates: { lat: 38.077, lng: -7.933 },
+    coords: [-7.933, 38.077],
     description: {
       de: "Der Flugplatz Beja dient als Zentrum für Flugzeugwartung und industrielle Ausbildung. Der Standort ist infrastrukturell ausgebaut.",
       hu: "A bejai repülőtér repülőgép-karbantartási és ipari képzési központként szolgál. A helyszín infrastrukturálisan kiépített.",
@@ -390,7 +390,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Weinbauzentrum Santar", hu: "Santar Borászati Központ", ro: "Centru Viticol Santar", en: "Santar Wine Center" },
-    coordinates: { lat: 40.55, lng: -7.866 },
+    coords: [-7.866, 40.55],
     description: {
       de: "Santar ist ein bedeutendes Zentrum des Weinbaus in der Region Dão. Hier findet Produktion und internationaler Weinvertrieb statt.",
       hu: "Santar a borászat jelentős központja a Dão régióban. Itt történik a termelés és a nemzetközi borforgalmazás.",
@@ -422,7 +422,7 @@ export const portugalEconomicV2: POI[] = [
     type: "factory",
     parent: "PT",
     name: { de: "Textilindustrie Seia", hu: "Seia Textilipar", ro: "Industria Textilă Seia", en: "Seia Textile Industry" },
-    coordinates: { lat: 40.425, lng: -7.705 },
+    coords: [-7.705, 40.425],
     description: {
       de: "Seia ist historisch geprägt durch seine Textilindustrie, insbesondere die Verarbeitung von Wolle aus dem Serra da Estrela-Gebirge.",
       hu: "Seia történelmileg textiliparán keresztül formálódott, különösen a Serra da Estrela hegységből származó gyapjú feldolgozása által.",
@@ -454,7 +454,7 @@ export const portugalEconomicV2: POI[] = [
     type: "mine",
     parent: "PT",
     name: { de: "Bergbauzone Gouveia", hu: "Gouveia Bányászati Övezet", ro: "Zonă Minieră Gouveia", en: "Gouveia Mining Zone" },
-    coordinates: { lat: 40.49, lng: -7.59 },
+    coords: [-7.59, 40.49],
     description: {
       de: "In der Umgebung von Gouveia gibt es bedeutende Steinbrüche und Bergbauaktivitäten für die Gewinnung von Granit.",
       hu: "Gouveia környékén jelentős kőbányák és bányászati tevékenységek zajlanak gránit kitermelése céljából.",
@@ -486,7 +486,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Erneuerbare Energien Vagos", hu: "Vagos Megújuló Energia", ro: "Energie Regenerabilă Vagos", en: "Vagos Renewable Energy" },
-    coordinates: { lat: 40.55, lng: -8.675 },
+    coords: [-8.675, 40.55],
     description: {
       de: "Vagos entwickelt sich zu einem Standort für Investitionen in erneuerbare Energien, insbesondere Wind- und Solarkraft.",
       hu: "Vagos a megújuló energiaforrásokba történő befektetések központjává válik, különösen a szél- és napenergia terén.",
@@ -518,7 +518,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Möbelcluster Paredes", hu: "Paredes Bútor Klaszter", ro: "Clusterul de Mobilă Paredes", en: "Paredes Furniture Cluster" },
-    coordinates: { lat: 41.205, lng: -8.332 },
+    coords: [-8.332, 41.205],
     description: {
       de: "Paredes ist das industrielle Herz der portugiesischen Möbelproduktion. Hier gibt es eine hohe Dichte an spezialisierten Fabriken.",
       hu: "Paredes a portugál bútorgyártás ipari szíve. Nagy sűrűségű szakosodott gyár található itt.",
@@ -550,7 +550,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Fahrradindustrie Águeda", hu: "Águeda Kerékpáripar", ro: "Industria de Biciclete Águeda", en: "Águeda Bicycle Industry" },
-    coordinates: { lat: 40.576, lng: -8.445 },
+    coords: [-8.445, 40.576],
     description: {
       de: "Águeda ist der führende Standort für die Fahrradproduktion in Europa. Viele Komponenten und ganze Räder werden hier gefertigt.",
       hu: "Águeda az európai kerékpárgyártás vezető központja. Sok alkatrész és kész kerékpár készül itt.",
@@ -582,7 +582,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Olivenölzentrum Mirandela", hu: "Mirandela Olívaolaj Központ", ro: "Centru de Ulei de Măsline Mirandela", en: "Mirandela Olive Oil Center" },
-    coordinates: { lat: 41.487, lng: -7.185 },
+    coords: [-7.185, 41.487],
     description: {
       de: "Mirandela ist ein Zentrum der Produktion von hochwertigem Olivenöl in Nordportugal. Die regionale Landwirtschaft dominiert.",
       hu: "Mirandela a kiváló minőségű olívaolaj-termelés központja Észak-Portugáliában. A regionális mezőgazdaság dominál.",
@@ -614,7 +614,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Fleischverarbeitung Bragança", hu: "Bragança Húsfeldolgozás", ro: "Procesarea Cărnii Bragança", en: "Bragança Meat Processing" },
-    coordinates: { lat: 41.808, lng: -6.753 },
+    coords: [-6.753, 41.808],
     description: {
       de: "In Bragança befindet sich eine bedeutende Industrie für lokale Fleischspezialitäten, die überregional vertrieben werden.",
       hu: "Bragançában jelentős iparág található a helyi húsipari specialitások számára, amelyeket országosan forgalmaznak.",
@@ -646,7 +646,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Korkverarbeitung Figueira da Foz", hu: "Figueira da Foz Parafeldolgozás", ro: "Prelucrarea Plutei Figueira da Foz", en: "Figueira da Foz Cork Processing" },
-    coordinates: { lat: 40.15, lng: -8.855 },
+    coords: [-8.855, 40.15],
     description: {
       de: "Figueira da Foz beherbergt Anlagen zur Verarbeitung von Kork. Die Industrie nutzt die Nähe zum Hafen für den Export.",
       hu: "Figueira da Foz parafeldolgozó üzemeknek ad otthont. Az ipar a kikötő közelségét használja az exportra.",
@@ -678,7 +678,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Molkereiindustrie Mafra", hu: "Mafra Tejipari Központ", ro: "Centru Lactate Mafra", en: "Mafra Dairy Center" },
-    coordinates: { lat: 38.936, lng: -9.325 },
+    coords: [-9.325, 38.936],
     description: {
       de: "Mafra ist ein wichtiger Standort für die Milchverarbeitung und die Produktion von regionalen Käsespezialitäten.",
       hu: "Mafra a tejfeldolgozás és a regionális sajtspecialitások gyártásának fontos központja.",
@@ -710,7 +710,7 @@ export const portugalEconomicV2: POI[] = [
     type: "industry",
     parent: "PT",
     name: { de: "Salinen von Tavira", hu: "Tavira Sóbányák", ro: "Salinele Tavira", en: "Tavira Salt Pans" },
-    coordinates: { lat: 37.125, lng: -7.633 },
+    coords: [-7.633, 37.125],
     description: {
       de: "Die Salzgewinnung ist ein traditioneller Wirtschaftszweig in Tavira. Die Salinen sind auch heute noch aktiv und exportieren.",
       hu: "A sókitermelés a hagyományos gazdasági ágazat Tavirában. A sólepárlók ma is aktívak és exportálnak.",

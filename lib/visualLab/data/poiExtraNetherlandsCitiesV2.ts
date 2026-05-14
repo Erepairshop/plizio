@@ -6,7 +6,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Almere", hu: "Almere", ro: "Almere", en: "Almere" },
-    coordinates: { lat: 52.3702, lng: 5.2238 },
+    coords: [5.2238, 52.3702],
     description: {
       de: "Almere ist die größte Stadt der Provinz Flevoland und liegt auf künstlichem Land. Sie wurde in der zweiten Hälfte des 20. Jahrhunderts als Entlastungsstadt geplant.",
       hu: "Almere Flevoland tartomány legnagyobb városa, amely teljes egészében mesterségesen feltöltött területen épült. A települést a 20. század második felében tervezték.",
@@ -38,7 +38,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Apeldoorn", hu: "Apeldoorn", ro: "Apeldoorn", en: "Apeldoorn" },
-    coordinates: { lat: 52.2112, lng: 5.9699 },
+    coords: [5.9699, 52.2112],
     description: {
       de: "Apeldoorn ist eine bedeutende Stadt in der Provinz Gelderland, bekannt für ihre Parks und die Nähe zur Veluwe. Sie ist eng mit der niederländischen Königsfamilie verbunden.",
       hu: "Apeldoorn Gelderland tartomány jelentős városa, amely parkjairól és a Veluwe erdő közelségéről ismert. Szoros szálak fűzik a holland királyi családhoz.",
@@ -70,7 +70,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Amersfoort", hu: "Amersfoort", ro: "Amersfoort", en: "Amersfoort" },
-    coordinates: { lat: 52.1552, lng: 5.3872 },
+    coords: [5.3872, 52.1552],
     description: {
       de: "Amersfoort ist eine historische Stadt in der Provinz Utrecht mit einem gut erhaltenen mittelalterlichen Zentrum. Sie ist ein bedeutender Eisenbahnknotenpunkt im Zentrum des Landes.",
       hu: "Amersfoort Utrecht tartomány történelmi városa, amely jól megőrzött középkori központtal rendelkezik. Fontos vasúti csomópont az ország közepén.",
@@ -102,7 +102,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Zoetermeer", hu: "Zoetermeer", ro: "Zoetermeer", en: "Zoetermeer" },
-    coordinates: { lat: 52.0607, lng: 4.4931 },
+    coords: [4.4931, 52.0607],
     description: {
       de: "Zoetermeer hat sich von einem kleinen Dorf zu einer der größten Städte Südhollands entwickelt. Sie ist bekannt für ihre moderne Infrastruktur und Freizeiteinrichtungen.",
       hu: "Zoetermeer egy kis faluból Dél-Hollandia egyik legnagyobb városává fejlődött. Modern infrastruktúrájáról és szabadidős létesítményeiről ismert.",
@@ -134,7 +134,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Zaanstad", hu: "Zaanstad", ro: "Zaanstad", en: "Zaanstad" },
-    coordinates: { lat: 52.4411, lng: 4.8422 },
+    coords: [4.8422, 52.4411],
     description: {
       de: "Zaanstad ist eine Gemeinde nördlich von Amsterdam, die für ihr industrielles Erbe und die markanten grünen Holzhäuser bekannt ist. Sie entstand 1974 aus dem Zusammenschluss mehrerer Städte.",
       hu: "Zaanstad Amszterdamtól északra fekvő község, amely ipari örökségéről és jellegzetes zöld faházairól ismert. 1974-ben jött létre több város egyesülésével.",
@@ -166,7 +166,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Hoofddorp", hu: "Hoofddorp", ro: "Hoofddorp", en: "Hoofddorp" },
-    coordinates: { lat: 52.303, lng: 4.691 },
+    coords: [4.691, 52.303],
     description: {
       de: "Hoofddorp ist der Hauptort der Gemeinde Haarlemmermeer und liegt in einem trockengelegten Polder. Durch die Nähe zum Flughafen Schiphol ist es ein bedeutendes Wirtschaftszentrum.",
       hu: "Hoofddorp Haarlemmermeer község központja, amely egy kiszárított polder területén fekszik. A Schiphol repülőtér közelsége miatt jelentős gazdasági központ.",
@@ -198,7 +198,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Ede", hu: "Ede", ro: "Ede", en: "Ede" },
-    coordinates: { lat: 52.0333, lng: 5.6666 },
+    coords: [5.6666, 52.0333],
     description: {
       de: "Ede ist eine Stadt in der Provinz Gelderland, eingebettet in die Heidelandschaften und Wälder der Veluwe. Sie ist bekannt für ihre Militärgeschichte und Naturgebiete.",
       hu: "Ede város Gelderland tartományban, a Veluwe fenyérei és erdői között fekszik. Katonai múltjáról és természetvédelmi területeiről ismert.",
@@ -230,7 +230,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "capital",
     parent: "NL",
     name: { de: "Leeuwarden", hu: "Leeuwarden", ro: "Leeuwarden", en: "Leeuwarden" },
-    coordinates: { lat: 53.2012, lng: 5.7999 },
+    coords: [5.7999, 53.2012],
     description: {
       de: "Leeuwarden ist die Hauptstadt der Provinz Friesland und eine geschichtsträchtige Stadt mit vielen Kanälen. Sie ist bekannt als Start- und Zielpunkt der Elfstedentocht.",
       hu: "Leeuwarden Friesland tartomány fővárosa, csatornákkal szabdalt, nagy múltú város. Az Elfstedentocht korcsolyaverseny hagyományos rajt- és célpontja.",
@@ -262,7 +262,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Alphen aan den Rijn", hu: "Alphen aan den Rijn", ro: "Alphen aan den Rijn", en: "Alphen aan den Rijn" },
-    coordinates: { lat: 52.129, lng: 4.655 },
+    coords: [4.655, 52.129],
     description: {
       de: "Die Stadt liegt am Alten Rhein im 'Grünen Herzen' der Niederlande. Sie ist bekannt für den Vogelpark Avifauna und den archäologischen Themenpark Archeon.",
       hu: "A város az Oude Rijn (Öreg-Rajna) partján fekszik Hollandia 'Zöld Szívében'. Az Avifauna madárparkról és az Archeon régészeti parkról ismert.",
@@ -294,7 +294,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Venlo", hu: "Venlo", ro: "Venlo", en: "Venlo" },
-    coordinates: { lat: 51.37, lng: 6.168 },
+    coords: [6.168, 51.37],
     description: {
       de: "Venlo ist eine Stadt an der Maas im Norden der Provinz Limburg, direkt an der deutschen Grenze. Sie ist ein bedeutendes Handelszentrum und bekannt für ihren Karneval.",
       hu: "Venlo város a Maas partján, Limburg tartomány északi részén, közvetlenül a német határnál. Jelentős kereskedelmi központ és híres a karneváljáról.",
@@ -326,7 +326,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Hilversum", hu: "Hilversum", ro: "Hilversum", en: "Hilversum" },
-    coordinates: { lat: 52.2233, lng: 5.1763 },
+    coords: [5.1763, 52.2233],
     description: {
       de: "Hilversum ist das Zentrum der niederländischen Rundfunk- und Fernsehindustrie. Die Stadt liegt in der waldreichen Region 'Het Gooi' in Nordholland.",
       hu: "Hilversum a holland rádió- és televíziós ipar központja. A város Észak-Hollandia erdős 'Het Gooi' régiójában fekszik.",
@@ -358,7 +358,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Hengelo", hu: "Hengelo", ro: "Hengelo", en: "Hengelo" },
-    coordinates: { lat: 52.2652, lng: 6.7932 },
+    coords: [6.7932, 52.2652],
     description: {
       de: "Hengelo ist eine Industriestadt in der Region Twente, Provinz Overijssel. Sie ist bekannt für ihre Metallindustrie und als wichtiger Eisenbahnknotenpunkt.",
       hu: "Hengelo iparváros a Twente régióban, Overijssel tartományban. Fémiparáról és fontos vasúti csomópontként ismert.",
@@ -390,7 +390,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Purmerend", hu: "Purmerend", ro: "Purmerend", en: "Purmerend" },
-    coordinates: { lat: 52.5032, lng: 4.9452 },
+    coords: [4.9452, 52.5032],
     description: {
       de: "Purmerend ist eine Stadt in Nordholland, die als historische Marktstadt bekannt wurde. Heute ist sie ein beliebtes Wohnzentrum für Pendler nach Amsterdam.",
       hu: "Purmerend észak-hollandiai város, amely történelmi piacvárosként vált ismertté. Ma az Amszterdamba ingázók kedvelt lakóhelye.",
@@ -422,7 +422,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Roosendaal", hu: "Roosendaal", ro: "Roosendaal", en: "Roosendaal" },
-    coordinates: { lat: 51.5312, lng: 4.4582 },
+    coords: [4.4582, 51.5312],
     description: {
       de: "Roosendaal ist ein wichtiger Eisenbahnknotenpunkt in der Provinz Nordbrabant, nahe der belgischen Grenze. Die Stadt ist ein logistisches Zentrum und bekannt für ihr Outlet-Center.",
       hu: "Roosendaal fontos vasúti csomópont Észak-Brabant tartományban, a belga határ közelében. Logisztikai központ és outlet központjáról ismert.",
@@ -454,7 +454,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Oss", hu: "Oss", ro: "Oss", en: "Oss" },
-    coordinates: { lat: 51.7652, lng: 5.5182 },
+    coords: [5.5182, 51.7652],
     description: {
       de: "Oss ist eine Industriestadt im Nordosten der Provinz Nordbrabant. Sie ist besonders bekannt für ihre Pharmaindustrie und die Fleischverarbeitung.",
       hu: "Oss iparváros Észak-Brabant tartomány északkeleti részén. Különösen gyógyszeriparáról és húsfeldolgozásáról ismert.",
@@ -486,7 +486,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Schiedam", hu: "Schiedam", ro: "Schiedam", en: "Schiedam" },
-    coordinates: { lat: 51.9167, lng: 4.4033 },
+    coords: [4.4033, 51.9167],
     description: {
       de: "Schiedam liegt westlich von Rotterdam und ist weltberühmt für seine Jenever-Produktion. Die Stadt beherbergt die höchsten klassischen Windmühlen der Welt.",
       hu: "Schiedam Rotterdamtól nyugatra fekszik, és világhírű a Jenever (holland gin) gyártásáról. Itt találhatók a világ legmagasabb klasszikus szélmalmai.",
@@ -518,7 +518,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "capital",
     parent: "NL",
     name: { de: "Lelystad", hu: "Lelystad", ro: "Lelystad", en: "Lelystad" },
-    coordinates: { lat: 52.518, lng: 5.484 },
+    coords: [5.484, 52.518],
     description: {
       de: "Lelystad ist die Hauptstadt der Provinz Flevoland und wurde auf dem Meeresgrund der ehemaligen Zuiderzee errichtet. Sie ist bekannt für ihre weiten Räume und die Bataviawerft.",
       hu: "Lelystad Flevoland tartomány fővárosa, amelyet az egykori Zuiderzee tengerfenekén építettek fel. Tágas tereiről és a Batavia-hajógyárról ismert.",
@@ -550,7 +550,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Spijkenisse", hu: "Spijkenisse", ro: "Spijkenisse", en: "Spijkenisse" },
-    coordinates: { lat: 51.8444, lng: 4.3297 },
+    coords: [4.3297, 51.8444],
     description: {
       de: "Spijkenisse liegt auf der Insel Voorne-Putten in Südholland. Die Stadt ist bekannt für ihre moderne Architektur, insbesondere für die preisgekrönte Bibliothek 'Bücherberg'.",
       hu: "Spijkenisse Dél-Hollandiában, Voorne-Putten szigetén fekszik. Modern építészetéről, különösen a díjnyertes 'Könyvhegy' könyvtáráról ismert.",
@@ -582,7 +582,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Almelo", hu: "Almelo", ro: "Almelo", en: "Almelo" },
-    coordinates: { lat: 52.355, lng: 6.662 },
+    coords: [6.662, 52.355],
     description: {
       de: "Almelo ist eine Stadt in der Region Twente, bekannt für ihre Textilgeschichte. Sie bietet eine Mischung aus industrieller Vergangenheit und grüner Umgebung.",
       hu: "Almelo város a Twente régióban, textilipari múltjáról ismert. Az ipari múlt és a zöld környezet keverékét kínálja.",
@@ -614,7 +614,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Vlaardingen", hu: "Vlaardingen", ro: "Vlaardingen", en: "Vlaardingen" },
-    coordinates: { lat: 51.9122, lng: 4.3412 },
+    coords: [4.3412, 51.9122],
     description: {
       de: "Vlaardingen ist eine bedeutende Hafenstadt an der Nieuwe Maas in Südholland. Sie ist historisch als die Heringsstadt der Niederlande bekannt.",
       hu: "Vlaardingen jelentős kikötőváros az Új-Maas partján, Dél-Hollandiában. Történelmileg Hollandia heringvárosaként ismert.",
@@ -646,7 +646,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Helmond", hu: "Helmond", ro: "Helmond", en: "Helmond" },
-    coordinates: { lat: 51.4811, lng: 5.6611 },
+    coords: [5.6611, 51.4811],
     description: {
       de: "Helmond ist eine Stadt in der Provinz Nordbrabant, bekannt für ihre Textil- und Metallindustrie. Ein herausragendes Merkmal ist das prächtige mittelalterliche Wasserschloss.",
       hu: "Helmond város Észak-Brabant tartományban, textil- és fémiparáról ismert. Kiemelkedő látnivalója a pompás középkori vízi kastély.",
@@ -678,7 +678,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "capital",
     parent: "NL",
     name: { de: "Assen", hu: "Assen", ro: "Assen", en: "Assen" },
-    coordinates: { lat: 52.9922, lng: 6.5642 },
+    coords: [6.5642, 52.9922],
     description: {
       de: "Assen ist die Hauptstadt der Provinz Drenthe und bekannt als die Motorradstadt der Niederlande. Jährlich findet hier die berühmte TT Assen statt.",
       hu: "Assen Drenthe tartomány fővárosa, Hollandia motoros városaként ismert. Itt rendezik meg évente a híres TT Assen versenyt.",
@@ -710,7 +710,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Bergen op Zoom", hu: "Bergen op Zoom", ro: "Bergen op Zoom", en: "Bergen op Zoom" },
-    coordinates: { lat: 51.4942, lng: 4.2872 },
+    coords: [4.2872, 51.4942],
     description: {
       de: "Bergen op Zoom ist eine der ältesten Städte im Südwesten der Niederlande. Sie besitzt einen prächtigen Marktplatz und den Markiezenhof, einen spätgotischen Stadtpalast.",
       hu: "Bergen op Zoom Hollandia délnyugati részének egyik legrégebbi városa. Pompás piactérrel és a Markiezenhof késő gótikus városi palotájával rendelkezik.",
@@ -742,7 +742,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Capelle aan den IJssel", hu: "Capelle aan den IJssel", ro: "Capelle aan den IJssel", en: "Capelle aan den IJssel" },
-    coordinates: { lat: 51.9292, lng: 4.5792 },
+    coords: [4.5792, 51.9292],
     description: {
       de: "Capelle aan den IJssel ist eine Stadt östlich von Rotterdam am Fluss Hollandse IJssel. Sie ist bekannt als moderner Wohnort mit dem tiefsten Punkt der Niederlande.",
       hu: "Capelle aan den IJssel Rotterdamtól keletre fekvő város a Hollandse IJssel partján. Modern lakóhelyként és Hollandia legmélyebb pontjáról ismert.",
@@ -774,7 +774,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Veenendaal", hu: "Veenendaal", ro: "Veenendaal", en: "Veenendaal" },
-    coordinates: { lat: 52.025, lng: 5.553 },
+    coords: [5.553, 52.025],
     description: {
       de: "Veenendaal liegt am Fuße des Utrechtse Heuvelrug. Die Stadt ist ein bedeutendes Einkaufs- und Dienstleistungszentrum mit einer starken christlichen Tradition.",
       hu: "Veenendaal az Utrechtse Heuvelrug lábánál fekszik. Fontos bevásárló- és szolgáltatóközpont, erős keresztény hagyományokkal.",
@@ -806,7 +806,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Katwijk", hu: "Katwijk", ro: "Katwijk", en: "Katwijk" },
-    coordinates: { lat: 52.201, lng: 4.414 },
+    coords: [4.414, 52.201],
     description: {
       de: "Katwijk ist eine Küstenstadt in Südholland, bekannt für ihren breiten Sandstrand und die Fischereitradition. Sie ist ein beliebter Badeort an der Nordsee.",
       hu: "Katwijk dél-hollandiai tengerparti város, amely széles homokos strandjáról és halászati hagyományairól ismert. Kedvelt üdülőhely az Északi-tenger partján.",
@@ -838,7 +838,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Zeist", hu: "Zeist", ro: "Zeist", en: "Zeist" },
-    coordinates: { lat: 52.088, lng: 5.242 },
+    coords: [5.242, 52.088],
     description: {
       de: "Zeist ist eine Stadt in der Provinz Utrecht, eingebettet in die Wälder des Utrechtse Heuvelrug. Sie ist berühmt für ihr prachtvolles Schloss Slot Zeist.",
       hu: "Zeist város Utrecht tartományban, az Utrechtse Heuvelrug erdői között. Pompás kastélyáról, a Slot Zeist-ről híres.",
@@ -870,7 +870,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Nieuwegein", hu: "Nieuwegein", ro: "Nieuwegein", en: "Nieuwegein" },
-    coordinates: { lat: 52.031, lng: 5.084 },
+    coords: [5.084, 52.031],
     description: {
       de: "Nieuwegein ist eine moderne Stadt südlich von Utrecht, die 1971 als Planstadt entstand. Sie vereint die historischen Kerne von Jutphaas und Vreeswijk.",
       hu: "Nieuwegein egy modern város Utrecht-től délre, amely 1971-ben jött létre tervezett városként. Magában foglalja Jutphaas és Vreeswijk történelmi központjait.",
@@ -902,7 +902,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Hardenberg", hu: "Hardenberg", ro: "Hardenberg", en: "Hardenberg" },
-    coordinates: { lat: 52.575, lng: 6.62 },
+    coords: [6.62, 52.575],
     description: {
       de: "Hardenberg ist eine Stadt im Osten der Provinz Overijssel, gelegen im malerischen Vechtetal. Sie ist bekannt für ihre Gastfreundschaft und die Eventhalle Evenementenhal.",
       hu: "Hardenberg Overijssel tartomány keleti részén fekszik, a festői Vechte-völgyben. Vendégszeretetéről és az Evenementenhal rendezvénycsarnokról ismert.",
@@ -934,7 +934,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Den Helder", hu: "Den Helder", ro: "Den Helder", en: "Den Helder" },
-    coordinates: { lat: 52.956, lng: 4.76 },
+    coords: [4.76, 52.956],
     description: {
       de: "Den Helder liegt an der Nordspitze Nordhollands und ist der wichtigste Marinestützpunkt der Niederlande. Hier befindet sich auch der Fährhafen zur Insel Texel.",
       hu: "Den Helder Észak-Hollandia legészakibb csücskén fekszik, és Hollandia legfontosabb haditengerészeti bázisa. Itt található a Texel szigetére tartó kompkikötő is.",
@@ -966,7 +966,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Zutphen", hu: "Zutphen", ro: "Zutphen", en: "Zutphen" },
-    coordinates: { lat: 52.14, lng: 6.19 },
+    coords: [6.19, 52.14],
     description: {
       de: "Zutphen ist eine Hansestadt am Fluss IJssel mit einem außergewöhnlich gut erhaltenen mittelalterlichen Zentrum und vielen Wohntürmen.",
       hu: "Zutphen egy Hanza-város az IJssel-folyó partján, kivételesen jól megőrzött középkori központtal és számos lakótoronnyal.",
@@ -998,7 +998,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Harderwijk", hu: "Harderwijk", ro: "Harderwijk", en: "Harderwijk" },
-    coordinates: { lat: 52.35, lng: 5.62 },
+    coords: [5.62, 52.35],
     description: {
       de: "Harderwijk ist eine Hansestadt am Rande der Veluwe und des Veluwemeers, weltberühmt für das Dolfinarium.",
       hu: "Harderwijk egy Hanza-város a Veluwe és a Veluwemeer szélén, világszerte ismert a Dolfinariumról.",
@@ -1030,7 +1030,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Kampen", hu: "Kampen", ro: "Kampen", en: "Kampen" },
-    coordinates: { lat: 52.55, lng: 5.91 },
+    coords: [5.91, 52.55],
     description: {
       de: "Kampen ist eine geschichtsträchtige Hansestadt an der IJssel mit einer der am besten erhaltenen historischen Silhouetten der Niederlande.",
       hu: "Kampen egy nagy múltú Hanza-város az IJssel partján, Hollandia egyik legjobban megőrzött történelmi sziluettjével.",
@@ -1062,7 +1062,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Sneek", hu: "Sneek", ro: "Sneek", en: "Sneek" },
-    coordinates: { lat: 53.03, lng: 5.66 },
+    coords: [5.66, 53.03],
     description: {
       de: "Sneek ist eine wasserreiche Stadt in Friesland, berühmt für ihr Wassertor und als Zentrum des Wassersports.",
       hu: "Sneek vizekben gazdag város Frieslandban, híres vízikapujáról és a vízi sportok központjaként.",
@@ -1094,7 +1094,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Doetinchem", hu: "Doetinchem", ro: "Doetinchem", en: "Doetinchem" },
-    coordinates: { lat: 51.96, lng: 6.29 },
+    coords: [6.29, 51.96],
     description: {
       de: "Doetinchem ist das wirtschaftliche und kulturelle Zentrum der Region Achterhoek in Gelderland.",
       hu: "Doetinchem a Gelderland tartománybeli Achterhoek régió gazdasági és kulturális központja.",
@@ -1126,7 +1126,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Terneuzen", hu: "Terneuzen", ro: "Terneuzen", en: "Terneuzen" },
-    coordinates: { lat: 51.32, lng: 3.82 },
+    coords: [3.82, 51.32],
     description: {
       de: "Terneuzen ist eine bedeutende Hafenstadt in Zeeland am Ufer der Westerschelde und Tor zum Hafen von Gent.",
       hu: "Terneuzen jelentős kikötőváros Zeelandban, a Westerschelde partján, és a genti kikötő kapuja.",
@@ -1159,7 +1159,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Drachten", hu: "Drachten", ro: "Drachten", en: "Drachten" },
-    coordinates: { lat: 53.107, lng: 6.095 },
+    coords: [6.095, 53.107],
     description: {
       de: "Drachten ist eine Stadt in der Provinz Friesland. Sie dient als Verwaltungssitz der Gemeinde Smallingerland.",
       hu: "Drachten város Frízföld tartományban. A Smallingerland önkormányzat székhelye.",
@@ -1191,7 +1191,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Waalwijk", hu: "Waalwijk", ro: "Waalwijk", en: "Waalwijk" },
-    coordinates: { lat: 51.684, lng: 5.064 },
+    coords: [5.064, 51.684],
     description: {
       de: "Waalwijk liegt in der Provinz Noord-Brabant. Die Stadt ist historisch bekannt für ihre Leder- und Schuhindustrie.",
       hu: "Waalwijk Észak-Brabant tartományban található. A város történelmileg bőriparáról és cipőgyártásáról ismert.",
@@ -1223,7 +1223,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Hoogeveen", hu: "Hoogeveen", ro: "Hoogeveen", en: "Hoogeveen" },
-    coordinates: { lat: 52.723, lng: 6.474 },
+    coords: [6.474, 52.723],
     description: {
       de: "Hoogeveen ist eine Stadt in der Provinz Drenthe. Sie wurde im 17. Jahrhundert zur Gewinnung von Torf gegründet.",
       hu: "Hoogeveen város Drenthe tartományban. A 17. században alapították a tőzegkitermelés céljából.",
@@ -1255,7 +1255,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Wageningen", hu: "Wageningen", ro: "Wageningen", en: "Wageningen" },
-    coordinates: { lat: 51.968, lng: 5.669 },
+    coords: [5.669, 51.968],
     description: {
       de: "Wageningen liegt in Gelderland. Die Stadt ist weltweit bekannt für ihre Universität für Lebenswissenschaften.",
       hu: "Wageningen Gelderlandban található. A város világszerte ismert az élettudományi egyeteméről.",
@@ -1287,7 +1287,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Tiel", hu: "Tiel", ro: "Tiel", en: "Tiel" },
-    coordinates: { lat: 51.888, lng: 5.432 },
+    coords: [5.432, 51.888],
     description: {
       de: "Tiel ist eine Stadt in der Betuwe-Region. Sie ist bekannt für das jährliche Obstcorso-Festival.",
       hu: "Tiel város a Betuwe régióban. Ismert az éves gyümölcsfesztiváljáról (Obstcorso).",
@@ -1319,7 +1319,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Winterswijk", hu: "Winterswijk", ro: "Winterswijk", en: "Winterswijk" },
-    coordinates: { lat: 51.97, lng: 6.716 },
+    coords: [6.716, 51.97],
     description: {
       de: "Winterswijk liegt in der östlichen Provinz Gelderland. Die Landschaft ist durch eine geologische Formation geprägt.",
       hu: "Winterswijk a keleti Gelderland tartományban található. A tájat egy geológiai formáció jellemzi.",
@@ -1351,7 +1351,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Hardinxveld-Giessendam", hu: "Hardinxveld-Giessendam", ro: "Hardinxveld-Giessendam", en: "Hardinxveld-Giessendam" },
-    coordinates: { lat: 51.821, lng: 4.831 },
+    coords: [4.831, 51.821],
     description: {
       de: "Hardinxveld-Giessendam liegt in Südholland. Die Stadt hat eine lange Tradition im Schiffbau.",
       hu: "Hardinxveld-Giessendam Dél-Hollandban található. A város hosszú hajóépítési hagyományokkal rendelkezik.",
@@ -1383,7 +1383,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Soest", hu: "Soest", ro: "Soest", en: "Soest" },
-    coordinates: { lat: 52.173, lng: 5.287 },
+    coords: [5.287, 52.173],
     description: {
       de: "Soest liegt in der Provinz Utrecht. Die Stadt ist für ihre bewaldeten Gebiete und Dünen bekannt.",
       hu: "Soest Utrecht tartományban található. A város erdős területeiről és dűnéiről ismert.",
@@ -1415,7 +1415,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Wierden", hu: "Wierden", ro: "Wierden", en: "Wierden" },
-    coordinates: { lat: 52.348, lng: 6.594 },
+    coords: [6.594, 52.348],
     description: {
       de: "Wierden liegt in der Provinz Overijssel. Die Gemeinde zeichnet sich durch eine Mischung aus ländlicher und industrieller Gegend aus.",
       hu: "Wierden Overijssel tartományban fekszik. Az önkormányzatot a vidéki és az ipari területek keveredése jellemzi.",
@@ -1447,7 +1447,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "IJsselstein", hu: "IJsselstein", ro: "IJsselstein", en: "IJsselstein" },
-    coordinates: { lat: 52.016, lng: 5.021 },
+    coords: [5.021, 52.016],
     description: {
       de: "IJsselstein ist eine Stadt in der Provinz Utrecht. Sie besitzt einen gut erhaltenen mittelalterlichen Kern.",
       hu: "IJsselstein város Utrecht tartományban. Jól megőrzött középkori központtal rendelkezik.",
@@ -1479,7 +1479,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Boxmeer", hu: "Boxmeer", ro: "Boxmeer", en: "Boxmeer" },
-    coordinates: { lat: 51.644, lng: 5.955 },
+    coords: [5.955, 51.644],
     description: {
       de: "Boxmeer liegt in der Provinz Noord-Brabant. Die Stadt ist bekannt für ihre historische Bedeutung am Fluss Maas.",
       hu: "Boxmeer Észak-Brabant tartományban található. A város a Maas folyó mentén betöltött történelmi szerepéről ismert.",
@@ -1511,7 +1511,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Ommen", hu: "Ommen", ro: "Ommen", en: "Ommen" },
-    coordinates: { lat: 52.523, lng: 6.421 },
+    coords: [6.421, 52.523],
     description: {
       de: "Ommen ist eine Stadt in Overijssel. Sie liegt in einer reizvollen Umgebung am Fluss Vecht.",
       hu: "Ommen város Overijsselben. Kellemes környezetben fekszik a Vecht folyó mentén.",
@@ -1543,7 +1543,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Heerenveen", hu: "Heerenveen", ro: "Heerenveen", en: "Heerenveen" },
-    coordinates: { lat: 52.956, lng: 5.926 },
+    coords: [5.926, 52.956],
     description: {
       de: "Heerenveen liegt in Friesland. Die Stadt ist für den Eisschnelllauf und das Thialf-Stadion bekannt.",
       hu: "Heerenveen Frízföldön található. A város ismert a gyorskorcsolyázásról és a Thialf stadionról.",
@@ -1575,7 +1575,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Bodegraven", hu: "Bodegraven", ro: "Bodegraven", en: "Bodegraven" },
-    coordinates: { lat: 52.083, lng: 4.747 },
+    coords: [4.747, 52.083],
     description: {
       de: "Bodegraven liegt in Südholland. Die Stadt ist für ihre Käseproduktion bekannt.",
       hu: "Bodegraven Dél-Hollandban található. A város sajttermeléséről ismert.",
@@ -1607,7 +1607,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Lochem", hu: "Lochem", ro: "Lochem", en: "Lochem" },
-    coordinates: { lat: 52.158, lng: 6.411 },
+    coords: [6.411, 52.158],
     description: {
       de: "Lochem liegt in Gelderland. Es ist ein malerischer Ort in der Region Achterhoek.",
       hu: "Lochem Gelderlandban található. Festői hely az Achterhoek régióban.",
@@ -1639,7 +1639,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Vaassen", hu: "Vaassen", ro: "Vaassen", en: "Vaassen" },
-    coordinates: { lat: 52.285, lng: 5.976 },
+    coords: [5.976, 52.285],
     description: {
       de: "Vaassen ist eine Stadt in der Provinz Gelderland. Sie liegt in der Nähe von Apeldoorn.",
       hu: "Vaassen város Gelderland tartományban. Apeldoorn közelében található.",
@@ -1671,7 +1671,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Ridderkerk", hu: "Ridderkerk", ro: "Ridderkerk", en: "Ridderkerk" },
-    coordinates: { lat: 51.861, lng: 4.605 },
+    coords: [4.605, 51.861],
     description: {
       de: "Ridderkerk liegt in Südholland. Die Stadt ist bekannt für ihre industrielle Entwicklung und Lage an der Maas.",
       hu: "Ridderkerk Dél-Hollandban található. A város az ipari fejlődéséről és a Maas melletti fekvéséről ismert.",
@@ -1703,7 +1703,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Coevorden", hu: "Coevorden", ro: "Coevorden", en: "Coevorden" },
-    coordinates: { lat: 52.665, lng: 6.738 },
+    coords: [6.738, 52.665],
     description: {
       de: "Coevorden liegt in der Provinz Drenthe. Die Stadt ist als 'Stadt der Festung' bekannt.",
       hu: "Coevorden Drenthe tartományban található. A város 'az erődök városaként' ismert.",
@@ -1735,7 +1735,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Steenwijk", hu: "Steenwijk", ro: "Steenwijk", en: "Steenwijk" },
-    coordinates: { lat: 52.788, lng: 6.117 },
+    coords: [6.117, 52.788],
     description: {
       de: "Steenwijk liegt in Overijssel. Sie ist das historische Tor zum Nationalpark Weerribben-Wieden.",
       hu: "Steenwijk Overijsselben fekszik. Ez a Weerribben-Wieden Nemzeti Park történelmi kapuja.",
@@ -1767,7 +1767,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Oosterhout", hu: "Oosterhout", ro: "Oosterhout", en: "Oosterhout" },
-    coordinates: { lat: 51.644, lng: 4.858 },
+    coords: [4.858, 51.644],
     description: {
       de: "Oosterhout liegt in Nordbrabant. Die Stadt ist für ihre historische Architektur und das Kloster bekannt.",
       hu: "Oosterhout Észak-Brabantban található. A város a történelmi építészetéről és kolostoráról ismert.",
@@ -1799,7 +1799,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Valkenswaard", hu: "Valkenswaard", ro: "Valkenswaard", en: "Valkenswaard" },
-    coordinates: { lat: 51.353, lng: 5.465 },
+    coords: [5.465, 51.353],
     description: {
       de: "Valkenswaard liegt im Süden von Noord-Brabant. Die Region ist für ihre lange Tradition der Falknerei bekannt.",
       hu: "Valkenswaard Észak-Brabant déli részén található. A régió hosszú solymászati hagyományairól ismert.",
@@ -1831,7 +1831,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Staphorst", hu: "Staphorst", ro: "Staphorst", en: "Staphorst" },
-    coordinates: { lat: 52.639, lng: 6.223 },
+    coords: [6.223, 52.639],
     description: {
       de: "Staphorst liegt in der Provinz Overijssel. Die Stadt bewahrt ihre traditionellen Trachten und Bauweise.",
       hu: "Staphorst Overijssel tartományban található. A város megőrzi hagyományos népviseletét és építkezési módját.",
@@ -1863,7 +1863,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Krimpen aan den IJssel", hu: "Krimpen aan den IJssel", ro: "Krimpen aan den IJssel", en: "Krimpen aan den IJssel" },
-    coordinates: { lat: 51.911, lng: 4.595 },
+    coords: [4.595, 51.911],
     description: {
       de: "Krimpen aan den IJssel liegt am Zusammenfluss von Hollandse IJssel und Nieuwe Maas.",
       hu: "Krimpen aan den IJssel a Hollandse IJssel és a Nieuwe Maas összefolyásánál található.",
@@ -1895,7 +1895,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Heemskerk", hu: "Heemskerk", ro: "Heemskerk", en: "Heemskerk" },
-    coordinates: { lat: 52.496, lng: 4.673 },
+    coords: [4.673, 52.496],
     description: {
       de: "Heemskerk liegt in der Provinz Noord-Holland. Die Stadt ist für ihre Schlösser und Dünenlandschaft bekannt.",
       hu: "Heemskerk Észak-Holland tartományban található. A város kastélyairól és dűnés tájáról ismert.",
@@ -1927,7 +1927,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Middenmeer", hu: "Middenmeer", ro: "Middenmeer", en: "Middenmeer" },
-    coordinates: { lat: 52.812, lng: 5.048 },
+    coords: [5.048, 52.812],
     description: {
       de: "Middenmeer ist ein Zentrum im Polder Wieringermeer in Noord-Holland.",
       hu: "Middenmeer egy központ a Wieringermeer polderben, Észak-Hollandban.",
@@ -1959,7 +1959,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Berkel en Rodenrijs", hu: "Berkel en Rodenrijs", ro: "Berkel en Rodenrijs", en: "Berkel en Rodenrijs" },
-    coordinates: { lat: 51.986, lng: 4.468 },
+    coords: [4.468, 51.986],
     description: {
       de: "Berkel en Rodenrijs liegt in Südholland. Die Stadt ist Teil der wachsenden Gemeinde Lansingerland.",
       hu: "Berkel en Rodenrijs Dél-Hollandban található. A növekvő Lansingerland önkormányzat része.",
@@ -1991,7 +1991,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Sassenheim", hu: "Sassenheim", ro: "Sassenheim", en: "Sassenheim" },
-    coordinates: { lat: 52.231, lng: 4.512 },
+    coords: [4.512, 52.231],
     description: {
       de: "Sassenheim liegt in der berühmten Blumenzwiebelregion von Südholland.",
       hu: "Sassenheim Dél-Holland híres virághagyma-régiójában fekszik.",
@@ -2023,7 +2023,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Leerdam", hu: "Leerdam", ro: "Leerdam", en: "Leerdam" },
-    coordinates: { lat: 51.892, lng: 5.092 },
+    coords: [5.092, 51.892],
     description: {
       de: "Leerdam liegt an der Linge in Südholland. Die Stadt ist weltweit für ihre Glaskunst bekannt.",
       hu: "Leerdam a Linge folyónál fekszik Dél-Hollandban. A város világszerte ismert üvegművészetéről.",
@@ -2055,7 +2055,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Epe", hu: "Epe", ro: "Epe", en: "Epe" },
-    coordinates: { lat: 52.351, lng: 5.992 },
+    coords: [5.992, 52.351],
     description: {
       de: "Epe liegt in Gelderland, mitten in der Veluwe-Region. Es ist ein beliebtes Ziel für Naturliebhaber.",
       hu: "Epe Gelderlandban fekszik, a Veluwe régió közepén. Népszerű úti cél a természetkedvelők számára.",
@@ -2087,7 +2087,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Drunen", hu: "Drunen", ro: "Drunen", en: "Drunen" },
-    coordinates: { lat: 51.678, lng: 5.138 },
+    coords: [5.138, 51.678],
     description: {
       de: "Drunen liegt in Nordbrabant. Es ist bekannt für das Naturschutzgebiet Loonse en Drunense Duinen.",
       hu: "Drunen Észak-Brabantban található. Ismert a Loonse en Drunense Duinen természetvédelmi területről.",
@@ -2119,7 +2119,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Borculo", hu: "Borculo", ro: "Borculo", en: "Borculo" },
-    coordinates: { lat: 52.115, lng: 6.521 },
+    coords: [6.521, 52.115],
     description: {
       de: "Borculo liegt in der Region Achterhoek in Gelderland. Die Stadt ist für ihre Geschichte bekannt.",
       hu: "Borculo a gelderlandi Achterhoek régióban található. A város a történelméről ismert.",
@@ -2151,7 +2151,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Holten", hu: "Holten", ro: "Holten", en: "Holten" },
-    coordinates: { lat: 52.281, lng: 6.417 },
+    coords: [6.417, 52.281],
     description: {
       de: "Holten liegt am Rande des Nationalparks Sallandse Heuvelrug in Overijssel.",
       hu: "Holten a Sallandse Heuvelrug Nemzeti Park szélén található Overijsselben.",
@@ -2183,7 +2183,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Edam", hu: "Edam", ro: "Edam", en: "Edam" },
-    coordinates: { lat: 52.512, lng: 5.056 },
+    coords: [5.056, 52.512],
     description: {
       de: "Edam ist eine Stadt in Nordholland. Sie ist weltberühmt für ihren Edamer Käse.",
       hu: "Edam város Észak-Hollandban. Világhírű az Edami sajtjáról.",
@@ -2215,7 +2215,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Genemuiden", hu: "Genemuiden", ro: "Genemuiden", en: "Genemuiden" },
-    coordinates: { lat: 52.607, lng: 6.037 },
+    coords: [6.037, 52.607],
     description: {
       de: "Genemuiden liegt in Overijssel. Die Stadt ist ein Zentrum der Teppichindustrie.",
       hu: "Genemuiden Overijsselben található. A szőnyegipar egyik központja.",
@@ -2247,7 +2247,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Hippolytushoef", hu: "Hippolytushoef", ro: "Hippolytushoef", en: "Hippolytushoef" },
-    coordinates: { lat: 52.915, lng: 4.935 },
+    coords: [4.935, 52.915],
     description: {
       de: "Hippolytushoef liegt auf der ehemaligen Insel Wieringen in Nordholland.",
       hu: "Hippolytushoef az egykori Wieringen szigeten található, Észak-Hollandban.",
@@ -2279,7 +2279,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Driebergen-Rijsenburg", hu: "Driebergen-Rijsenburg", ro: "Driebergen-Rijsenburg", en: "Driebergen-Rijsenburg" },
-    coordinates: { lat: 52.053, lng: 5.285 },
+    coords: [5.285, 52.053],
     description: {
       de: "Driebergen-Rijsenburg liegt in der Provinz Utrecht. Die Stadt ist für ihre Waldgebiete und Villen bekannt.",
       hu: "Driebergen-Rijsenburg Utrecht tartományban található. A város az erdőségeiről és villáiról ismert.",
@@ -2311,7 +2311,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Raalte", hu: "Raalte", ro: "Raalte", en: "Raalte" },
-    coordinates: { lat: 52.385, lng: 6.273 },
+    coords: [6.273, 52.385],
     description: {
       de: "Raalte liegt in Overijssel. Die Stadt ist ein regionales Zentrum im Salland.",
       hu: "Raalte Overijsselben található. Regionális központ Sallandban.",
@@ -2343,7 +2343,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Waddinxveen", hu: "Waddinxveen", ro: "Waddinxveen", en: "Waddinxveen" },
-    coordinates: { lat: 52.046, lng: 4.654 },
+    coords: [4.654, 52.046],
     description: {
       de: "Waddinxveen liegt in Südholland. Die Stadt liegt am Fluss Gouwe.",
       hu: "Waddinxveen Dél-Hollandban található. A Gouwe folyónál fekszik.",
@@ -2375,7 +2375,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Oegstgeest", hu: "Oegstgeest", ro: "Oegstgeest", en: "Oegstgeest" },
-    coordinates: { lat: 52.185, lng: 4.475 },
+    coords: [4.475, 52.185],
     description: {
       de: "Oegstgeest liegt in Südholland, in unmittelbarer Nähe von Leiden.",
       hu: "Oegstgeest Dél-Hollandban, Leiden közvetlen közelében található.",
@@ -2407,7 +2407,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Druten", hu: "Druten", ro: "Druten", en: "Druten" },
-    coordinates: { lat: 51.884, lng: 5.592 },
+    coords: [5.592, 51.884],
     description: {
       de: "Druten liegt in der Provinz Gelderland, am Ufer der Waal.",
       hu: "Druten Gelderland tartományban, a Waal partján fekszik.",
@@ -2439,7 +2439,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Renkum", hu: "Renkum", ro: "Renkum", en: "Renkum" },
-    coordinates: { lat: 51.978, lng: 5.738 },
+    coords: [5.738, 51.978],
     description: {
       de: "Renkum liegt in Gelderland. Die Stadt ist für ihre Lage in der Nähe des Rheins bekannt.",
       hu: "Renkum Gelderlandban fekszik. A város a Rajna melletti elhelyezkedéséről ismert.",
@@ -2471,7 +2471,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Lemmer", hu: "Lemmer", ro: "Lemmer", en: "Lemmer" },
-    coordinates: { lat: 52.844, lng: 5.717 },
+    coords: [5.717, 52.844],
     description: {
       de: "Lemmer liegt in Friesland. Es ist ein bekannter Hafenort am IJsselmeer.",
       hu: "Lemmer Frízföldön található. Ismert kikötőváros az IJsselmeer mentén.",
@@ -2503,7 +2503,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Delfzijl", hu: "Delfzijl", ro: "Delfzijl", en: "Delfzijl" },
-    coordinates: { lat: 53.332, lng: 6.927 },
+    coords: [6.927, 53.332],
     description: {
       de: "Delfzijl liegt in der Provinz Groningen. Die Stadt ist ein wichtiger Hafenstandort am Ems-Mündung.",
       hu: "Delfzijl Groningen tartományban található. A város fontos kikötőhely az Ems-torkolatnál.",
@@ -2535,7 +2535,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Heiloo", hu: "Heiloo", ro: "Heiloo", en: "Heiloo" },
-    coordinates: { lat: 52.605, lng: 4.706 },
+    coords: [4.706, 52.605],
     description: {
       de: "Heiloo liegt in der Provinz Noord-Holland. Die Stadt ist eine grüne Wohnumgebung.",
       hu: "Heiloo Észak-Holland tartományban fekszik. A város egy zöld lakókörnyezet.",
@@ -2567,7 +2567,7 @@ export const netherlandsCitiesV2: POI[] = [
     type: "city",
     parent: "NL",
     name: { de: "Oldenzaal", hu: "Oldenzaal", ro: "Oldenzaal", en: "Oldenzaal" },
-    coordinates: { lat: 52.311, lng: 6.932 },
+    coords: [6.932, 52.311],
     description: {
       de: "Oldenzaal liegt in der Provinz Overijssel. Die Stadt ist für ihre Geschichte und Kirche bekannt.",
       hu: "Oldenzaal Overijssel tartományban található. A város a történelméről és templomáról ismert.",

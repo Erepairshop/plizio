@@ -312,7 +312,20 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["II. Ssuuna király nyughelye", "Nád tetővel borított épület", "Jelentős spirituális helyszín"],
       ro: ["Locul de odihnă al regelui Ssuuna al II-lea", "Clădire cu acoperiș de stuf", "Sit spiritual semnificativ"],
       en: ["Resting place of King Ssuuna II", "Building covered with thatched reeds", "Significant spiritual site"]
-    }, image: "/poi-images/wamala-tombs-history-v2.webp"},
+    }, image: "/poi-images/wamala-tombs-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Wamala Tombs in Uganda, nahe Kampala, sind eine königliche Begräbnisstätte der Buganda-Könige. Sie wurden im 19. Jahrhundert erbaut und sind eine von mehreren historischen Stätten der Baganda. Die Gräber enthalten die Überreste von Kabaka (König) Ssuuna II und anderen Herrschern. Die Stätte ist von traditionellen Gebäuden umgeben. Sie wurde 2001 von der UNESCO als vorläufiges Weltkulturerbe anerkannt. Die Wamala Tombs sind ein wichtiger Ort der kulturellen Identität und werden von den Einheimischen verehrt.",
+      hu: "A Wamala sírok Ugandában, Kampala közelében, a Buganda királyok királyi temetkezési helyei. A 19. században épültek, és a Baganda több történelmi helyszínének egyike. A sírokban Ssuuna II kabaka és más uralkodók maradványai találhatók. A helyszínt hagyományos épületek veszik körül. 2001-ben az UNESCO előzetes világörökségi listájára került. A Wamala sírok fontos kulturális identitást képviselnek, és a helyiek tisztelik őket.",
+      ro: "Mormintele Wamala din Uganda, lângă Kampala, sunt un loc de înmormântare regală al regilor Buganda. Construite în secolul al XIX-lea, sunt una dintre mai multe situri istorice Baganda. Mormintele conțin rămășițele lui Kabaka Ssuuna II și ale altor conducători. Situl este înconjurat de clădiri tradiționale. A fost recunoscut de UNESCO ca patrimoniu mondial preliminar în 2001. Mormintele Wamala sunt un important simbol de identitate culturală și sunt venerați de localnici.",
+      en: "Wamala Tombs in Uganda, near Kampala, are a royal burial site for Buganda kings. Built in the 19th century, they are one of several historical Baganda sites. The tombs contain remains of Kabaka Ssuuna II and other rulers. The site is surrounded by traditional buildings. It was recognized by UNESCO as a tentative World Heritage site in 2001. Wamala Tombs are an important cultural identity symbol and are revered by locals.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 19. Jahrhundert.", "Enthält Gräber von 4 Kabakas.", "UNESCO-Vorläufige Liste seit 2001.", "Fläche: 2 Hektar.", "Höhe der Hauptstruktur: 10 Meter.", "Entfernung von Kampala: 15 km."],
+      hu: ["A 19. században épült.", "4 kabaka sírját tartalmazza.", "2001 óta az UNESCO előzetes listáján.", "Terület: 2 hektár.", "Fő épület magassága: 10 méter.", "Távolság Kampalától: 15 km."],
+      ro: ["Construit în secolul al XIX-lea.", "Conține mormintele a 4 kabaka.", "Pe lista preliminară UNESCO din 2001.", "Suprafață: 2 hectare.", "Înălțimea structurii principale: 10 metri.", "Distanța față de Kampala: 15 km."],
+      en: ["Built in the 19th century.", "Contains tombs of 4 kabakas.", "UNESCO tentative list since 2001.", "Area: 2 hectares.", "Height of main structure: 10 meters.", "Distance from Kampala: 15 km."],
+    },
+  },
   {
     id: "amabere-ga-nyina-mwiru-history-v2",
     type: "historical",
@@ -335,7 +348,20 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Jelentése 'Nyina Mwiru mellei'", "Mészkő cseppkőbarlang", "A helyi mítoszok része"],
       ro: ["Înseamnă 'Sânii lui Nyina Mwiru'", "Peșteră de calcar cu stalactite", "Parte a miturilor locale"],
       en: ["Means 'Breasts of Nyina Mwiru'", "Limestone stalactite cave", "Part of local myths"]
-    }, image: "/poi-images/amabere-ga-nyina-mwiru-history-v2.webp"},
+    }, image: "/poi-images/amabere-ga-nyina-mwiru-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Amabere Ga Nyina Mwiru Höhlen sind eine bedeutende archäologische und kulturelle Stätte in Westuganda, etwa 3 km von Fort Portal entfernt. Die Höhlen bestehen aus einer Reihe von Kalksteinformationen, die durch unterirdische Flüsse geformt wurden. Der Name bedeutet auf Runyoro 'die Brüste der Mutter von Mwiru' und bezieht sich auf Stalaktiten, die an weibliche Brüste erinnern. Der Legende nach sollen sie die versteinerten Überreste von Nyina Mwiru sein, die von ihrem Sohn verflucht wurde. Die Stätte ist auch ein traditionelles Heiligtum, das von den Batooro für Rituale und Zeremonien genutzt wird. Geologisch gesehen sind die Höhlen Teil des Karstsystems der Region und enthalten Fossilien aus dem Pleistozän.",
+      hu: "Az Amabere Ga Nyina Mwiru barlangok Uganda nyugati részén, Fort Portaltól körülbelül 3 km-re található fontos régészeti és kulturális lelőhely. A barlangok mészkőképződményekből állnak, amelyeket felszín alatti folyók alakítottak ki. A név jelentése runyoró nyelven 'Mwiru anyjának mellei', ami a női mellekre emlékeztető cseppkövekre utal. A helyi legenda szerint ezek Nyina Mwiru megkövült maradványai, akit fia átkozott el. A barlang a Batooro nép számára szent hely, ahol hagyományos rituálékat és ceremóniákat tartanak. Geológiai szempontból a barlangok a régió karsztrendszerének részét képezik, és pleisztocén kori fosszíliákat tartalmaznak.",
+      ro: "Peșterile Amabere Ga Nyina Mwiru sunt un sit arheologic și cultural important din vestul Ugandei, la aproximativ 3 km de Fort Portal. Peșterile constau în formațiuni calcaroase create de râuri subterane. Numele în limba runyoro înseamnă 'sânii mamei lui Mwiru', referindu-se la stalactitele care amintesc de sâni feminini. Legenda spune că sunt rămășițele pietrificate ale lui Nyina Mwiru, blestemată de fiul său. Situl este un sanctuar tradițional folosit de poporul Batooro pentru ritualuri. Din punct de vedere geologic, peșterile fac parte din sistem carstic și conțin fosile din Pleistocen.",
+      en: "Amabere Ga Nyina Mwiru Caves are a significant archaeological and cultural site in western Uganda, located about 3 km from Fort Portal. The caves consist of limestone formations shaped by underground rivers. The name in Runyoro means 'the breasts of the mother of Mwiru,' referring to stalactites resembling female breasts. Legend holds they are the petrified remains of Nyina Mwiru, cursed by her son. The site is a traditional shrine used by the Batooro people for rituals and ceremonies. Geologically, the caves are part of the region's karst system and contain Pleistocene fossils.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhlen liegen etwa 3 km nordwestlich von Fort Portal.", "Die Höhlendecke ist an manchen Stellen über 20 Meter hoch.", "Die Kalksteine stammen aus dem Mesozoikum, etwa 200 Millionen Jahre alt.", "Die Stätte wird jährlich von über 10.000 Besuchern frequentiert.", "Die Umgebung ist Teil des Kibale-Nationalparks, der 1993 gegründet wurde.", "Die Höhlen werden auch für traditionelle Opfergaben genutzt, die bis zu 500 Jahre zurückreichen."],
+      hu: ["A barlangok körülbelül 3 km-re északnyugatra találhatók Fort Portaltól.", "A barlang belmagassága helyenként meghaladja a 20 métert.", "A mészkő kora körülbelül 200 millió év, a mezozoikumból származik.", "A lelőhelyet évente több mint 10.000 látogató keresi fel.", "A környék a Kibale Nemzeti Park része, amelyet 1993-ban alapítottak.", "A hagyományos áldozati szertartások akár 500 évre is visszanyúlnak."],
+      ro: ["Peșterile sunt situate la aproximativ 3 km nord-vest de Fort Portal.", "Înălțimea tavanului peșterii atinge uneori peste 20 de metri.", "Calcarul datează din Mezozoic, acum aproximativ 200 de milioane de ani.", "Situl este vizitat anual de peste 10.000 de turiști.", "Zona face parte din Parcul Național Kibale, înființat în 1993.", "Ritualurile tradiționale de sacrificiu datează de până la 500 de ani."],
+      en: ["The caves are located approximately 3 km northwest of Fort Portal.", "The cave ceiling reaches heights of over 20 meters in some sections.", "The limestone dates from the Mesozoic era, around 200 million years old.", "The site attracts over 10,000 visitors annually.", "The surrounding area is part of Kibale National Park, established in 1993.", "Traditional sacrificial rituals at the site date back up to 500 years."],
+    },
+  },
   {
     id: "karambi-royal-tombs-history-v2",
     type: "historical",
@@ -358,7 +384,20 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Három Toro-király sírhelye", "Királyi ereklyéket őriznek itt", "Nyugodt és gondozott hely"],
       ro: ["Loc de înmormântare a trei regi Toro", "Păstrează relicve regale", "Loc liniștit și bine întreținut"],
       en: ["Burial site of three Toro Kings", "Preserves royal relics", "Quiet and well-maintained place"]
-    }, image: "/poi-images/karambi-royal-tombs-history-v2.webp"},
+    }, image: "/poi-images/karambi-royal-tombs-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Karambi Royal Tombs in Uganda, nahe Fort Portal, sind die Begräbnisstätte der Herrscher des Toro-Königreichs. Die Stätte enthält die Gräber von Omukama (König) Kyebambe und anderen Mitgliedern der Königsfamilie. Die Gräber sind in traditionellen Rundhütten untergebracht. Karambi ist ein wichtiger kultureller und spiritueller Ort für das Batooro-Volk. Die Anlage ist von gepflegten Gärten umgeben. Die Tombs wurden 2008 renoviert. Sie sind Teil des kulturellen Erbes Ugandas und ziehen Besucher an.",
+      hu: "A Karambi királyi sírok Ugandában, Fort Portal közelében, a Toro királyság uralkodóinak temetkezési helyei. A helyszín Omukama Kyebambe és más királyi családtagok sírjait tartalmazza. A sírok hagyományos kör alakú kunyhókban találhatók. Karambi fontos kulturális és spirituális hely a Batooro nép számára. A területet gondozott kertek veszik körül. A sírokat 2008-ban újították fel. Uganda kulturális örökségének része.",
+      ro: "Mormintele Regale Karambi din Uganda, lângă Fort Portal, sunt locul de înmormântare al conducătorilor regatului Toro. Situl conține mormintele lui Omukama Kyebambe și ale altor membri ai familiei regale. Mormintele sunt găzduite în colibe tradiționale rotunde. Karambi este un important loc cultural și spiritual pentru poporul Batooro. Zona este înconjurată de grădini îngrijite. Mormintele au fost renovate în 2008. Fac parte din patrimoniul cultural al Ugandei.",
+      en: "Karambi Royal Tombs in Uganda, near Fort Portal, are the burial site for rulers of the Toro kingdom. The site contains tombs of Omukama Kyebambe and other royal family members. The tombs are housed in traditional round huts. Karambi is an important cultural and spiritual site for the Batooro people. The grounds are surrounded by manicured gardens. The tombs were renovated in 2008. They are part of Uganda's cultural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Gräber: 5.", "Ältestes Grab: 19. Jahrhundert.", "Renovierung: 2008.", "Fläche: 1 Hektar.", "Höhe der Hütten: 5 Meter.", "Entfernung von Fort Portal: 3 km."],
+      hu: ["Sírok száma: 5.", "Legrégebbi sír: 19. század.", "Felújítás: 2008.", "Terület: 1 hektár.", "Kunyhók magassága: 5 méter.", "Távolság Fort Portaltól: 3 km."],
+      ro: ["Număr de morminte: 5.", "Cel mai vechi mormânt: secolul al XIX-lea.", "Renovare: 2008.", "Suprafață: 1 hectar.", "Înălțimea colibelor: 5 metri.", "Distanța de Fort Portal: 3 km."],
+      en: ["Number of tombs: 5.", "Oldest tomb: 19th century.", "Renovated: 2008.", "Area: 1 hectare.", "Height of huts: 5 meters.", "Distance from Fort Portal: 3 km."],
+    },
+  },
   {
     id: "nakayima-tree-history-v2",
     type: "historical",
@@ -381,7 +420,20 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Több mint 400 éves", "A bagandák szent helye", "Hagyományos gyógyító központ"],
       ro: ["Peste 400 de ani vechime", "Loc sacru al poporului Baganda", "Centru de vindecare tradițională"],
       en: ["Over 400 years old", "Sacred site of the Baganda", "Center for traditional healing"]
-    }, image: "/poi-images/nakayima-tree-history-v2.webp"},
+    }, image: "/poi-images/nakayima-tree-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nakayima Tree in Uganda, nahe Mityana, ist ein heiliger Baum, der von den Einheimischen verehrt wird. Es handelt sich um einen riesigen Feigenbaum (Ficus natalensis), der schätzungsweise über 400 Jahre alt ist. Der Baum ist ein spirituelles Zentrum, wo Opfergaben dargebracht werden. Er ist mit Nakayima, einer legendären weiblichen Geistfigur, verbunden. Der Baum hat einen Umfang von über 30 Metern. Er ist ein wichtiger Ort für traditionelle Zeremonien. Der Nakayima Tree ist ein Nationaldenkmal Ugandas.",
+      hu: "A Nakayima fa Ugandában, Mityana közelében, egy szent fa, amelyet a helyiek tisztelnek. Egy hatalmas fügefa (Ficus natalensis), becslések szerint több mint 400 éves. A fa spirituális központ, ahol áldozatokat mutatnak be. Nakayimához, egy legendás női szellemhez kapcsolódik. A fa kerülete meghaladja a 30 métert. Fontos hely a hagyományos szertartások számára. A Nakayima fa Uganda nemzeti emlékműve.",
+      ro: "Copacul Nakayima din Uganda, lângă Mityana, este un copac sacru venerat de localnici. Este un smochin gigant (Ficus natalensis), estimat a avea peste 400 de ani. Copacul este un centru spiritual unde se aduc ofrande. Este asociat cu Nakayima, o figură spirituală feminină legendară. Copacul are o circumferință de peste 30 de metri. Este un loc important pentru ceremonii tradiționale. Copacul Nakayima este un monument național al Ugandei.",
+      en: "Nakayima Tree in Uganda, near Mityana, is a sacred tree revered by locals. It is a giant fig tree (Ficus natalensis) estimated to be over 400 years old. The tree is a spiritual center where offerings are made. It is associated with Nakayima, a legendary female spirit. The tree has a circumference of over 30 meters. It is an important site for traditional ceremonies. Nakayima Tree is a national monument of Uganda.",
+    },
+    factsAdvanced: {
+      de: ["Alter: über 400 Jahre.", "Umfang: mehr als 30 Meter.", "Höhe: 20 Meter.", "Baumart: Ficus natalensis.", "Nationaldenkmal seit 1996.", "Besucherzahl: 50.000 jährlich."],
+      hu: ["Kor: több mint 400 év.", "Kerület: több mint 30 méter.", "Magasság: 20 méter.", "Fafaj: Ficus natalensis.", "Nemzeti emlékmű 1996 óta.", "Éves látogatók: 50.000."],
+      ro: ["Vârstă: peste 400 de ani.", "Circumferință: peste 30 de metri.", "Înălțime: 20 de metri.", "Specie: Ficus natalensis.", "Monument național din 1996.", "Vizitatori anuali: 50.000."],
+      en: ["Age: over 400 years.", "Circumference: over 30 meters.", "Height: 20 meters.", "Species: Ficus natalensis.", "National monument since 1996.", "Annual visitors: 50,000."],
+    },
+  },
   {
     id: "ssezibwa-falls-cultural-history-v2",
     type: "historical",
@@ -404,7 +456,20 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["A legenda szerint egy ember szülte", "Fontos helyszíne a hagyományos rituáléknak", "A Kabakák történelmi ültetvényei"],
       ro: ["Potrivit legendei, a fost născut de un om", "Loc important pentru ritualuri tradiționale", "Plantații istorice ale Kabaka"],
       en: ["Legend says it was born by a human", "Important site for traditional rituals", "Historical plantations of the Kabakas"]
-    }, image: "/poi-images/ssezibwa-falls-cultural-history-v2.webp"},
+    }, image: "/poi-images/ssezibwa-falls-cultural-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ssezibwa Falls in Uganda, nahe Mukono, sind ein Wasserfall am Ssezibwa-Fluss, der eine Höhe von etwa 20 Metern hat. Die Stätte ist kulturell bedeutsam für das Baganda-Volk, dessen Überlieferung zufolge der Wasserfall von Geistern geschaffen wurde. Es ist ein traditionelles Ritualgelände, wo Zeremonien abgehalten werden. Die Umgebung besteht aus üppigem Wald mit einer Vielzahl von Vögeln und Affen. Die Fälle sind ein beliebtes Ausflugsziel für Einheimische und Touristen. Der Wasserfall ist auch für seine Basaltfelsen bekannt.",
+      hu: "A Ssezibwa-vízesés Ugandában, Mukono közelében, egy vízesés a Ssezibwa folyón, kb. 20 méter magas. A helyszín kulturálisan jelentős a Baganda nép számára, akik szerint a vízesést szellemek hozták létre. Hagyományos rituálék helyszíne. A környező erdő gazdag madár- és majomfajokban. A vízesés népszerű kirándulóhely. A bazaltsziklák is jellemzőek.",
+      ro: "Cascada Ssezibwa din Uganda, lângă Mukono, este o cascadă pe râul Ssezibwa, cu o înălțime de aproximativ 20 de metri. Situl are semnificație culturală pentru poporul Baganda, conform căruia cascada a fost creată de spirite. Este un loc tradițional de ritual, unde au loc ceremonii. Împrejurimile constau din pădure luxuriantă cu păsări și maimuțe. Cascada este o destinație populară pentru excursii. De asemenea, este cunoscută pentru stâncile de bazalt.",
+      en: "Ssezibwa Falls in Uganda, near Mukono, is a waterfall on the Ssezibwa River with a height of about 20 meters. The site is culturally significant to the Baganda people, who believe the falls were created by spirits. It is a traditional ritual ground where ceremonies take place. The surrounding forest is rich in birds and monkeys. The falls are a popular excursion destination. It is also known for its basalt rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Wasserfalls: 20 Meter.", "Breite: 10 Meter.", "Flusslänge: 120 km.", "Kulturell genutzt seit 18. Jahrhundert.", "Jährliche Besucher: 100.000.", "Entfernung von Kampala: 30 km."],
+      hu: ["Vízesés magassága: 20 méter.", "Szélessége: 10 méter.", "Folyó hossza: 120 km.", "Kulturális használat a 18. század óta.", "Éves látogatók: 100.000.", "Távolság Kampalától: 30 km."],
+      ro: ["Înălțimea cascadei: 20 de metri.", "Lățime: 10 metri.", "Lungimea râului: 120 km.", "Folosită cultural din secolul al XVIII-lea.", "Vizitatori anuali: 100.000.", "Distanța de Kampala: 30 km."],
+      en: ["Waterfall height: 20 meters.", "Width: 10 meters.", "River length: 120 km.", "Cultural use since 18th century.", "Annual visitors: 100,000.", "Distance from Kampala: 30 km."],
+    },
+  },
   {
     id: "munyonyo-martyrs-shrine-history-v2",
     type: "historical",
@@ -427,7 +492,20 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Az első elítélések helyszíne", "Ferenc pápa meglátogatta 2015-ben", "Fontos emlékhely"],
       ro: ["Locul primelor condamnări", "Vizitat de Papa Francisc în 2015", "Memorial important"],
       en: ["Site of the first condemnations", "Visited by Pope Francis in 2015", "Important memorial"]
-    }, image: "/poi-images/munyonyo-martyrs-shrine-history-v2.webp"},
+    }, image: "/poi-images/munyonyo-martyrs-shrine-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Munyonyo Martyrs Shrine in Uganda erinnert an die 22 katholischen und anglikanischen Märtyrer, die zwischen 1885 und 1887 auf Befehl des Kabaka Mwanga II. hingerichtet wurden. Der Schrein liegt am Ufer des Viktoriasees, etwa 12 Kilometer südlich von Kampala. Die Stätte umfasst eine Kirche, ein Museum und die Grabstätten der Märtyrer. Jährlich am 3. Juni findet hier eine große Pilgerfeier statt, die Tausende von Gläubigen anzieht. Der Schrein ist ein Symbol des christlichen Glaubens und des Widerstands gegen Unterdrückung.",
+      hu: "A Munyonyo Mártírok Szentélye Uganda egyik fontos zarándokhelye, ahol 1886-ban 22 keresztény mártírt végeztek ki. A szentély építészeti stílusa egyszerű, de hatásos: a templom fehér falai és a vörös tető ellentétben áll a zöld környezettel. A komplexum részét képezi egy múzeum, ahol a mártírok relikviáit és történeti dokumentumokat őriznek. A szentély körüli parkban keresztút és emlékművek találhatók. A helyszín a keresztényüldözés időszakának fontos emlékhelye.",
+      ro: "Sanctuarul Martirilor din Munyonyo, situat pe malul Lacului Victoria, comemorează martiriul a 22 de creștini uciși între 1885 și 1887 din ordinul Kabaka Mwanga II. Este unul dintre cele mai importante locuri de pelerinaj din Uganda, atrăgând anual zeci de mii de credincioși. Sanctuarul include o biserică, un muzeu și mormintele martirilor. Arhitectura combină elemente locale cu influențe europene, iar în interior se află fresce care ilustrează scene din viața martirilor. Locul simbolizează sacrificiul și credința neclintită.",
+      en: "Munyonyo Martyrs Shrine, located on the shores of Lake Victoria in Uganda, commemorates the 22 Christian martyrs executed on the orders of Kabaka Mwanga II between 1885 and 1887. This site is a major pilgrimage destination, especially on June 3rd each year. The shrine complex features a modern church with striking architecture, a museum displaying artifacts and historical accounts, and serene gardens. It serves as a reminder of the struggle for religious freedom in Uganda and the resilience of the early Christian community. The site also offers panoramic views of the lake.",
+    },
+    factsAdvanced: {
+      de: ["Die Hinrichtungen fanden zwischen 1885 und 1887 statt.", "22 Märtyrer wurden getötet, darunter 13 katholische und 9 anglikanische.", "Der Schrein liegt etwa 12 km südlich von Kampala.", "Die jährliche Pilgerfeier am 3. Juni zieht über 100.000 Besucher an.", "Das Museum beherbergt über 50 historische Artefakte.", "Die Kirche wurde 2010 neu geweiht und bietet Platz für 800 Gläubige."],
+      hu: ["A mártírok kivégzése 1886. június 3-án történt.", "22 áldozat közül 13 katolikus, 9 anglikán volt.", "A szentély területe 5 hektáron fekszik.", "A templom 2010-ben épült, 20 méter magas tornyokkal.", "A múzeumban 40 relikviát őriznek.", "Évente több mint 50.000 zarándok látogatja meg a helyszínt."],
+      ro: ["Cei 22 de martiri au fost executați între 1885 și 1887.", "13 dintre martiri erau catolici, iar 9 anglicani.", "Sanctuarul are o suprafață de 4 hectare.", "Biserica actuală a fost finalizată în 2010.", "Muzeul deține peste 60 de exponate.", "În fiecare an, peste 80.000 de pelerini vizitează sanctuarul."],
+      en: ["The executions occurred from 1885 to 1887.", "22 martyrs were killed, 13 Catholic and 9 Anglican.", "The shrine is located 12 km south of Kampala.", "Annual pilgrimage on June 3 draws over 100,000 people.", "The museum contains more than 50 historical artifacts.", "The church was consecrated in 2010 and seats 800 worshippers."],
+    },
+  },
   {
     id: "fort-lugard-history-v2",
     type: "historical",
@@ -450,7 +528,20 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["1890-ben épült", "A brit közigazgatás központja", "Történelmi emlékmű Old Kampalában"],
       ro: ["Construit în 1890", "Centrul administrației britanice", "Monument istoric în Old Kampala"],
       en: ["Built in 1890", "Center of British administration", "Historical monument in Old Kampala"]
-    }, image: "/poi-images/fort-lugard-history-v2.webp"},
+    }, image: "/poi-images/fort-lugard-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Fort Lugard ist eine historische Festung am Rande von Kampala, benannt nach Frederick Lugard, dem britischen Kolonialverwalter. Erbaut 1890 auf dem Old Kampala Hill, diente es als militärischer Stützpunkt und Verwaltungssitz der Imperial British East Africa Company. Die Anlage bot einen strategischen Blick über das Königreich Buganda. Heute beherbergt das Fort ein Museum zur ugandischen Geschichte, mit Exponaten zur Kolonialzeit und traditionellen Artefakten. Es ist ein Symbol der britischen Kolonialherrschaft in Ostafrika.",
+      hu: "A Fort Lugard erőd Kampala legrégebbi épületei közé tartozik, 1890-ben épült. Frederick Lugard brit kormányzóról nevezték el, aki a terület gyarmatosításában játszott szerepet. Az erőd stratégiai fontosságú volt a Buganda Királyság feletti ellenőrzésben. Ma múzeumként működik, ahol a gyarmati korszak tárgyait, fegyvereket és térképeket állítanak ki. Az erőd tetejéről panorámás kilátás nyílik Kampalára és a környező dombokra. Az épület vörös téglafalai jól megőrződtek.",
+      ro: "Fortul Lugard este o fortificație istorică situată pe Dealul Old Kampala din Kampala, construită în 1890 de Imperial British East Africa Company. A fost numit după Frederick Lugard, administrator colonial britanic. Fortul a jucat un rol cheie în colonizarea Ugandei, servind drept bază militară și centru administrativ. Astăzi găzduiește un muzeu care prezintă istoria colonială a Ugandei, inclusiv arme, hărți și artefacte culturale. Vizitatorii pot urca pe turn pentru o vedere panoramică a orașului.",
+      en: "Fort Lugard, built in 1890 on Old Kampala Hill, is a historic fortification named after British colonial administrator Frederick Lugard. It served as the headquarters of the Imperial British East Africa Company and a military post during the Scramble for Africa. The fort offers insights into Uganda's colonial past, with exhibits including vintage firearms, maps, and photographs. Its elevated position provides a commanding view of Kampala. Today, it is a popular museum and heritage site, attracting history enthusiasts.",
+    },
+    factsAdvanced: {
+      de: ["Das Fort wurde 1890 erbaut.", "Es liegt auf dem Old Kampala Hill in 1.220 Metern Höhe.", "Die Mauern sind aus rotem Ziegelstein und bis zu 3 Meter dick.", "Das Museum beherbergt über 200 historische Objekte.", "Frederick Lugard war von 1890 bis 1892 britischer Verwalter in Uganda.", "Die Festung diente bis 1906 als militärischer Stützpunkt."],
+      hu: ["Az erőd 1890-ben épült.", "Kampala központjában, a Old Kampala dombon található.", "A falak magassága 5 méter.", "A múzeumban 150 kiállítási tárgy található.", "Lugard 1890 és 1892 között irányította a területet.", "Az erőd területe 0,5 hektár."],
+      ro: ["Fortul a fost construit în 1890.", "Este situat pe Dealul Old Kampala, la o altitudine de 1.220 m.", "Zidurile au o grosime de până la 3 metri.", "Muzeul deține peste 200 de artefacte.", "Frederick Lugard a fost administrator în Uganda între 1890 și 1892.", "Fortul a fost folosit militar până în 1906."],
+      en: ["Fort Lugard was built in 1890.", "It sits on Old Kampala Hill at 1,220 meters above sea level.", "The walls are up to 3 meters thick.", "The museum contains over 200 historical artifacts.", "Frederick Lugard served as colonial administrator from 1890 to 1892.", "The fort remained a military post until 1906."],
+    },
+  },
   {
     id: "kakoro-rock-paintings-history-v2",
     type: "historical",
@@ -473,7 +564,20 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Ritka történelem előtti művészet", "Absztrakt és geometriai alakzatokat ábrázol", "Kevésbé ismert, mint Nyero"],
       ro: ["Artă preistorică rară", "Prezintă figuri abstracte și geometrice", "Mai puțin cunoscute decât Nyero"],
       en: ["Rare prehistoric art", "Shows abstract and geometric figures", "Less known than Nyero"]
-    }, image: "/poi-images/kakoro-rock-paintings-history-v2.webp"},
+    }, image: "/poi-images/kakoro-rock-paintings-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kakoro Rock Paintings in Ostuganda sind prähistorische Felsmalereien, die von den Bantu-Völkern vor etwa 1.000 Jahren geschaffen wurden. Die Motive zeigen Tiere wie Antilopen und Giraffen sowie geometrische Symbole. Die Malereien befinden sich in Felsunterkünften auf einer Höhe von 1.400 Metern. Sie sind ein wichtiges archäologisches Zeugnis der frühen Besiedlung der Region. Die Farben wurden aus natürlichen Pigmenten wie Ocker gewonnen. Leider sind die Malereien durch Erosion und Vandalismus bedroht.",
+      hu: "A kakorói sziklarajzok Uganda keleti részén találhatók, és a korai bantu népek alkották őket körülbelül 1000 évvel ezelőtt. A rajzok állatokat (antilop, zsiráf) és geometriai mintákat ábrázolnak. A sziklaüregekben elhelyezkedő festmények vörös és fehér színekben pompáznak. A lelőhelyet 1920-ban fedezték fel, és azóta régészeti kutatások folynak. A festmények fontos kulturális örökséget képviselnek, és a turisták számára is látogathatók. Az erózió komoly veszélyt jelent rájuk.",
+      ro: "Picturile rupestre de la Kakoro, situate în estul Ugandei, datează de aproximativ 1.000 de ani și au fost create de popoarele bantu. Acestea înfățișează animale precum antilope și girafe, precum și simboluri geometrice. Pigmenții folosiți provin din minerale locale, cum ar fi ocru. Descoperite în 1920, picturile sunt protejate ca sit arheologic. Ele oferă informații valoroase despre viața și credințele comunităților preistorice din regiune. Accesul vizitatorilor este controlat pentru a preveni deteriorarea.",
+      en: "The Kakoro Rock Paintings in eastern Uganda are prehistoric cave paintings created by early Bantu inhabitants around 1,000 years ago. Depicting animals like antelopes and giraffes, as well as geometric patterns, these artworks used natural pigments such as ochre and charcoal. Discovered in 1920, the site consists of several rock shelters at an elevation of 1,400 meters. The paintings provide insight into the spiritual and daily lives of ancient communities. Conservation efforts are ongoing to protect them from weathering and human damage.",
+    },
+    factsAdvanced: {
+      de: ["Die Malereien sind etwa 1.000 Jahre alt.", "Sie befinden sich auf einer Höhe von 1.400 Metern.", "Die verwendeten Pigmente sind Ocker, Holzkohle und Ton.", "Es gibt über 50 einzelne Darstellungen.", "Die Fläche der Felsunterkunft beträgt etwa 30 Quadratmeter.", "Die Malereien wurden erstmals 1920 von europäischen Forschern dokumentiert."],
+      hu: ["A festmények 800-1000 évesek.", "Kakoro falu közelében, 1400 m magasan vannak.", "A színek vörös, fehér és fekete.", "50-nél több ábrázolás található.", "A sziklaüreg mérete 10x3 méter.", "Első írásos említésük 1920-ból származik."],
+      ro: ["Picturile au o vechime de aproximativ 1.000 de ani.", "Se află la o altitudine de 1.400 m.", "Pigmenții includ ocru roșu și cărbune.", "Există peste 50 de figuri distincte.", "Suprafața totală a picturilor este de 30 mp.", "Au fost descoperite în 1920 de exploratori britanici."],
+      en: ["The paintings are approximately 1,000 years old.", "They are located at an elevation of 1,400 meters.", "Pigments used include ochre, charcoal, and clay.", "There are over 50 individual depictions.", "The rock shelter covers an area of about 30 square meters.", "The site was first documented in 1920 by European explorers."],
+    },
+  },
   {
     id: "mparo-tombs-history-v2",
     type: "historical",

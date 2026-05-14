@@ -372,7 +372,14 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       ro: ["Prezintă caligrafie arabă aurie.", "Stă ca un simbol al loialității."],
       en: ["Features golden Arabic calligraphy.", "Stands as a symbol of loyalty."]
     },
-    factsAdvanced: { multi4: ["The monument was officially unveiled in July 2007.", "It celebrates the 60th birthday of Sultan Hassanal Bolkiah.", "The monument stands 20.6 meters high.", "The 60 surrounding cables symbolize the 60 years of the Sultan's life.", "The gold-plated calligraphy on top weighs over 100 kilograms.", "The design was chosen through a national competition.", "It is located at the Taman Haji Sir Muda Omar 'Ali Saifuddien.", "The surrounding park is a popular venue for national celebrations."] }, image: "/poi-images/mercu-dirgahayu-60-history-v2.webp"},
+    factsAdvanced: { multi4: ["The monument was officially unveiled in July 2007.", "It celebrates the 60th birthday of Sultan Hassanal Bolkiah.", "The monument stands 20.6 meters high.", "The 60 surrounding cables symbolize the 60 years of the Sultan's life.", "The gold-plated calligraphy on top weighs over 100 kilograms.", "The design was chosen through a national competition.", "It is located at the Taman Haji Sir Muda Omar 'Ali Saifuddien.", "The surrounding park is a popular venue for national celebrations."] }, image: "/poi-images/mercu-dirgahayu-60-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mercu Dirgahayu 60 ist ein Turm in Jakarta, Indonesien, der zum 60. Jahrestag der indonesischen Unabhängigkeit errichtet wurde. Er steht im Gelora-Bung-Karno-Sportkomplex. Der Turm ist 60 Meter hoch und symbolisiert die sechs Jahrzehnte der Unabhängigkeit. Er hat eine moderne Architektur mit einer Aussichtsplattform. Der Mercu Dirgahayu 60 ist ein beliebtes Ziel für Touristen und Einheimische. Er wurde 2005 eingeweiht.",
+      hu: "A Mercu Dirgahayu 60 egy torony Jakartában, Indonéziában, amelyet az indonéz függetlenség 60. évfordulójára emeltek. A Gelora Bung Karno sportkomplexumban található. A torony 60 méter magas, szimbolizálva a hat évtizednyi függetlenséget. Modern építészetű, kilátóval rendelkezik. A Mercu Dirgahayu 60 népszerű célpont turisták és helyiek körében. 2005-ben avatták fel.",
+      ro: "Mercu Dirgahayu 60 este un turn în Jakarta, Indonezia, construit pentru a 60-a aniversare a independenței Indoneziei. Se află în complexul sportiv Gelora Bung Karno. Turnul are 60 de metri înălțime, simbolizând cele șase decenii de independență. Are o arhitectură modernă, cu o platformă de observație. Este o destinație populară pentru turiști și localnici. A fost inaugurat în 2005.",
+      en: "Mercu Dirgahayu 60 is a commemorative tower in Jakarta, Indonesia, built for the 60th anniversary of Indonesian independence in 2005. Located in the Gelora Bung Karno sports complex, it stands 60 meters tall, representing the 60 years. The tower features a modern design with an observation deck offering views of the city. It is a popular landmark and tourist attraction.",
+    },
+  },
   {
     id: "tengyun-temple-history-v2",
     type: "historical-site",

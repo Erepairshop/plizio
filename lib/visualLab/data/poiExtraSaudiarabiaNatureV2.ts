@@ -176,7 +176,20 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
       hu: ["Magassága eléri a 2580 métert.", "Nevét az egykor itt nőtt mandulafákról kapta."],
       ro: ["Atinge o altitudine de 2.580 de metri.", "Numele provine de la migdalii care creșteau aici odată."],
       en: ["Reaches an elevation of 2,580 meters.", "The name comes from the almond trees that once grew here."]
-    }, image: "/poi-images/jabal-al-lawz-nature-v2.webp"},
+    }, image: "/poi-images/jabal-al-lawz-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Jabal Al-Lawz ist ein Berg im Nordwesten Saudi-Arabiens, nahe der jordanischen Grenze. Mit einer Höhe von 2.580 Metern ist er einer der höchsten Gipfel des Landes. Der Berg ist bekannt für seine schneebedeckten Gipfel im Winter. Die Region ist ein beliebtes Ziel für Wanderer. Die Flora umfasst Wacholder und wilde Olivenbäume.",
+      hu: "Jabal Al-Lawz hegy Szaúd-Arábia északnyugati részén, a jordán határ közelében. 2580 méteres magasságával az ország egyik legmagasabb csúcsa. A hegy a téli hóról ismert. A régió népszerű a túrázók körében. Növényvilágát boróka és vadolajfa alkotja.",
+      ro: "Jabal Al-Lawz este un munte în nord-vestul Arabiei Saudite, aproape de granița cu Iordania. Cu o altitudine de 2.580 de metri, este unul dintre cei mai înalți vârfuri ai țării. Muntele este cunoscut pentru vârfurile sale acoperite de zăpadă iarna. Regiunea este o destinație populară pentru drumeții. Flora include ienupăr și măslini sălbatici.",
+      en: "Jabal Al-Lawz is a mountain in northwestern Saudi Arabia, near the Jordanian border. At 2,580 meters, it is one of the highest peaks in the country. The mountain is known for its snow-capped peaks in winter. The region is a popular hiking destination. Flora includes juniper and wild olive trees.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.580 Meter über dem Meeresspiegel.", "Der Berg ist Teil des Hijaz-Gebirges.", "Die Schneefallgrenze liegt bei 2.000 Metern.", "Die Durchschnittstemperatur im Sommer beträgt 20°C.", "Die Region umfasst 100 Quadratkilometer.", "Es gibt 50 Vogelarten."],
+      hu: ["Magasság: 2580 méter tengerszint felett.", "A hegy a Hidzsáz-hegység része.", "A hóhatár 2000 méteren van.", "A nyári átlaghőmérséklet 20°C.", "A régió 100 négyzetkilométert ölel fel.", "50 madárfaj él itt."],
+      ro: ["Altitudine: 2.580 de metri deasupra nivelului mării.", "Muntele face parte din lanțul Hijaz.", "Limita zăpezii este la 2.000 de metri.", "Temperatura medie de vară este de 20°C.", "Regiunea se întinde pe 100 de kilometri pătrați.", "Există 50 de specii de păsări."],
+      en: ["Altitude: 2,580 meters above sea level.", "The mountain is part of the Hijaz range.", "Snow line is at 2,000 meters.", "Average summer temperature is 20°C.", "The region covers 100 square kilometers.", "There are 50 bird species."],
+    },
+  },
   {
     id: "wadi-qanuna-nature-v2",
     type: "river",

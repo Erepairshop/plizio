@@ -627,7 +627,20 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Vidéki község.", "Lautém déli részén.", "Erdős környék.", "Elszigetelt.", "Hagyományos jellegű."],
       ro: ["Comunitate rurală.", "În sudul Lautém.", "Împrejurimi împădurite.", "Izolat.", "Caracter tradițional."],
       en: ["Rural community.", "In the south of Lautém.", "Wooded surroundings.", "Isolated.", "Traditionally shaped."]
-    }, image: "/poi-images/iliomar-cities-v2.webp"},
+    }, image: "/poi-images/iliomar-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Iliomar ist eine Stadt im Osten Osttimors im Verwaltungsamt Iliomar. Sie liegt etwa 30 Kilometer südlich der Küste auf einer Höhe von 400 Metern. Die Stadt hat rund 2.000 Einwohner. Die Wirtschaft basiert auf Subsistenzlandwirtschaft, hauptsächlich Anbau von Mais und Maniok. Die Gegend ist bergig und von tropischem Regenwald bedeckt. Die Infrastruktur ist begrenzt; es gibt eine Grundschule und eine kleine Gesundheitsstation.",
+      hu: "Iliomar város Kelet-Timor keleti részén, Iliomar közigazgatási egységben található. A parttól körülbelül 30 kilométerre délre, 400 méteres tengerszint feletti magasságban fekszik. A városnak körülbelül 2000 lakosa van. A gazdaságot a saját fogyasztásra termelő mezőgazdaság jellemzi, elsősorban kukorica és manióka termesztése. A terület hegyvidékes és trópusi esőerdő borítja. Az infrastruktúra korlátozott; van egy általános iskola és egy kis egészségügyi állomás.",
+      ro: "Iliomar este un oraș din estul Timorului de Est, în subdistrictul Iliomar. Este situat la aproximativ 30 de kilometri sud de coastă, la o altitudine de 400 de metri. Orașul are aproximativ 2.000 de locuitori. Economia se bazează pe agricultura de subzistență, în principal porumb și manioc. Zona este muntoasă și acoperită de păduri tropicale. Infrastructura este limitată; există o școală primară și un mic centru de sănătate.",
+      en: "Iliomar is a town in eastern East Timor, in the Iliomar administrative post. It is located about 30 kilometers south of the coast at an elevation of 400 meters. The town has about 2,000 inhabitants. The economy is based on subsistence agriculture, mainly maize and cassava. The area is mountainous and covered with tropical rainforest. Infrastructure is limited; there is a primary school and a small health post.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt liegt auf 400 Metern Höhe.", "Die Einwohnerzahl beträgt etwa 2.000.", "Die Entfernung zur Küste beträgt 30 km.", "Die jährliche Niederschlagsmenge beträgt 2.000 mm.", "Die Durchschnittstemperatur liegt bei 25°C.", "Mais ist die Hauptanbaufläche (60% der Felder)."],
+      hu: ["A város 400 méteres magasságban fekszik.", "A lakosság körülbelül 2000 fő.", "A távolság a parttól 30 km.", "Az éves csapadékmennyiség 2000 mm.", "Az átlaghőmérséklet 25°C.", "A kukorica a fő termesztett növény (a földek 60%-a)."],
+      ro: ["Orașul se află la 400 de metri altitudine.", "Populația este de aproximativ 2.000 de locuitori.", "Distanța până la coastă este de 30 km.", "Precipitațiile anuale sunt de 2.000 mm.", "Temperatura medie este de 25°C.", "Porumbul este cultura principală (60% din terenuri)."],
+      en: ["The town is at 400 meters elevation.", "Population is about 2,000.", "Distance to the coast is 30 km.", "Annual rainfall is 2,000 mm.", "Average temperature is 25°C.", "Maize is the main crop (60% of fields)."],
+    },
+  },
   {
     id: "luro-cities-v2",
     type: "city",
@@ -646,7 +659,20 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       hu: ["Közigazgatási központ Lautémban.", "Hegyvidéki terület.", "Kis lakosság.", "Természetes állapot.", "Mezőgazdaság."],
       ro: ["Sediu administrativ în Lautém.", "Zonă montană.", "Populație mică.", "Stare naturală.", "Agricultură."],
       en: ["Administrative seat in Lautém.", "Mountainous area.", "Small population.", "Natural state.", "Agriculture."]
-    }, image: "/poi-images/luro-cities-v2.webp"},
+    }, image: "/poi-images/luro-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Luro ist eine Stadt im Osten von Osttimor mit etwa 5.000 Einwohnern. Sie liegt im Verwaltungsamt Luro, das zur Gemeinde Lautém gehört. Die Region ist geprägt von hügeligem Gelände und tropischem Monsunklima. Der Ort dient als lokales Handelszentrum für landwirtschaftliche Produkte wie Mais, Reis und Kaffee. Historisch war Luro Teil des Königreichs von Lautém und wurde während der portugiesischen Kolonialzeit als Verwaltungsposten gegründet. Die Architektur zeigt noch Einflüsse der Kolonialzeit, mit einigen erhaltenen portugiesischen Gebäuden. Die umliegenden Wälder sind Lebensraum für endemische Vogelarten. Die Bevölkerungsmehrheit spricht Tetum und Fataluku. Luro ist bekannt für seine traditionellen Webarbeiten, die auf lokalen Märkten verkauft werden.",
+      hu: "Luro egy város Kelet-Timor keleti részén, mintegy 5000 lakossal. A Lautém körzet Luro alkerületének székhelye. A térség dombos vidék, trópusi monszun éghajlattal. A település fontos kereskedelmi központ a helyi mezőgazdasági termékek, mint a kukorica, rizs és kávé számára. Történelmileg Luro a Lautém királyság része volt, és a portugál gyarmati időkben közigazgatási posztként alapították. Az építészet még mutat gyarmati hatásokat, néhány fennmaradt portugál épülettel. A környező erdők endemikus madárfajok élőhelyei. A lakosság többsége tetum és fataluku nyelven beszél. Luro híres hagyományos szövésű munkáiról, amelyeket helyi piacokon árulnak.",
+      ro: "Luro este un oraș în estul Timorului de Est, cu aproximativ 5.000 de locuitori. Face parte din subdistrictul Luro, districtul Lautém. Regiunea este deluroasă, cu climat musonic tropical. Orașul servește ca centru comercial local pentru produse agricole precum porumb, orez și cafea. Din punct de vedere istoric, Luro a făcut parte din Regatul Lautém și a fost fondat ca post administrativ în perioada colonială portugheză. Arhitectura prezintă influențe coloniale, cu câteva clădiri portugheze păstrate. Pădurile din jur găzduiesc specii endemice de păsări. Majoritatea populației vorbește tetum și fataluku. Luro este cunoscut pentru țesăturile sale tradiționale, vândute pe piețele locale.",
+      en: "Luro is a town in eastern East Timor with a population of approximately 5,000. It is located in Luro Administrative Post, Lautém Municipality. The area features hilly terrain and a tropical monsoon climate. The town serves as a local trading center for agricultural products such as maize, rice, and coffee. Historically part of the Kingdom of Lautém, it was established as a colonial administrative post during Portuguese rule. Architecture retains Portuguese colonial influences, with some preserved buildings. Surrounding forests provide habitat for endemic bird species. The majority of residents speak Tetum and Fataluku. Luro is known for its traditional weaving, sold at local markets.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 5.000 (2015)", "Höhe: ca. 300 m über dem Meeresspiegel", "Fläche des Verwaltungsamts: 276,6 km²", "Gründung als portugiesischer Posten: 1860er Jahre", "Durchschnittstemperatur: 26°C", "Jährlicher Niederschlag: ca. 1.200 mm"],
+      hu: ["Lakosság: kb. 5000 (2015)", "Tengerszint feletti magasság: kb. 300 m", "Alkerület területe: 276,6 km²", "Portugál állomásként alapítva: 1860-as évek", "Átlaghőmérséklet: 26°C", "Éves csapadék: kb. 1200 mm"],
+      ro: ["Populație: aproximativ 5.000 (2015)", "Altitudine: circa 300 m deasupra nivelului mării", "Suprafața subdistrictului: 276,6 km²", "Fondat ca post portughez: anii 1860", "Temperatura medie: 26°C", "Precipitații anuale: circa 1.200 mm"],
+      en: ["Population: approx. 5,000 (2015)", "Elevation: approx. 300 m above sea level", "Area of administrative post: 276.6 km²", "Founded as Portuguese post: 1860s", "Average temperature: 26°C", "Annual rainfall: approx. 1,200 mm"],
+    },
+  },
   {
     id: "uatucarbau-cities-v2",
     type: "city",

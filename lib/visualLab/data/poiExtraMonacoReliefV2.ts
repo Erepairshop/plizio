@@ -6,7 +6,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Klippen des Rocher", hu: "Rocher sziklák", ro: "Stâncile de la Rocher", en: "Cliffs of the Rocher" },
-    coordinates: { lat: 43.7314, lng: 7.4206 },
+    coords: [7.4206, 43.7314],
     description: {
       de: "Die steilen Felswände bilden die geologische Basis des historischen Zentrums. Sie erheben sich direkt aus dem Mittelmeer.",
       hu: "A meredek sziklafalak alkotják a történelmi központ geológiai alapját. Közvetlenül a Földközi-tengerből emelkednek ki.",
@@ -38,7 +38,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Revoires-Hang", hu: "Revoires-lejtő", ro: "Panta Revoires", en: "Revoires Slope" },
-    coordinates: { lat: 43.7348, lng: 7.4149 },
+    coords: [7.4149, 43.7348],
     description: {
       de: "Dieser Hang markiert den nordwestlichen Teil des Fürstentums. Er ist die höchste Erhebung innerhalb der Staatsgrenzen.",
       hu: "Ez a lejtő jelöli a hercegség északnyugati részét. Ez a legmagasabb pont az államhatárokon belül.",
@@ -70,7 +70,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Fontvieille-Vorsprung", hu: "Fontvieille-földnyelv", ro: "Promontoriul Fontvieille", en: "Fontvieille Promontory" },
-    coordinates: { lat: 43.7275, lng: 7.4172 },
+    coords: [7.4172, 43.7275],
     description: {
       de: "Dieser Küstenvorsprung im Süden wurde durch Landgewinnung maßgeblich verändert. Er bildet heute die Basis für das Industriegebiet.",
       hu: "Ez a déli parti földnyelv jelentős változásokon ment keresztül a területfeltöltés miatt. Ma az ipari terület alapját képezi.",
@@ -102,7 +102,7 @@ export const monacoReliefV2: POI[] = [
     type: "valley",
     parent: "MC",
     name: { de: "Condamine-Plateau", hu: "Condamine-fennsík", ro: "Platoul Condamine", en: "Condamine Plateau" },
-    coordinates: { lat: 43.7335, lng: 7.4225 },
+    coords: [7.4225, 43.7335],
     description: {
       de: "Ein tiefer gelegener Bereich zwischen den Bezirken Monaco-Ville und Monte-Carlo. Er dient als natürliches Hafenbecken.",
       hu: "Egy alacsonyabban fekvő terület Monaco-Ville és Monte-Carlo körzetek között. Természetes kikötőmedenceként szolgál.",
@@ -134,7 +134,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Saint-Michel-Grat", hu: "Saint-Michel-gerinc", ro: "Creasta Saint-Michel", en: "Saint-Michel Ridge" },
-    coordinates: { lat: 43.7388, lng: 7.4185 },
+    coords: [7.4185, 43.7388],
     description: {
       de: "Eine leicht ansteigende Erhebung im Norden des Staatsgebiets. Sie bildet die natürliche Grenze zum französischen Hinterland.",
       hu: "Enyhén emelkedő magaslat az államterület északi részén. Természetes határt képez a francia hátország felé.",
@@ -166,7 +166,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Moneghetti-Hügel", hu: "Moneghetti-domb", ro: "Dealul Moneghetti", en: "Moneghetti Hill" },
-    coordinates: { lat: 43.7365, lng: 7.4182 },
+    coords: [7.4182, 43.7365],
     description: {
       de: "Ein markanter Hügel, der das Stadtbild dominiert. Die topographische Struktur ermöglicht die terrassierte Bebauung.",
       hu: "Kiemelkedő domb, amely meghatározza a városképet. A topográfiai szerkezet lehetővé teszi a teraszos beépítést.",
@@ -198,7 +198,7 @@ export const monacoReliefV2: POI[] = [
     type: "valley",
     parent: "MC",
     name: { de: "Sainte-Dévote-Tal", hu: "Sainte-Dévote-völgy", ro: "Valea Sainte-Dévote", en: "Sainte-Dévote Valley" },
-    coordinates: { lat: 43.7352, lng: 7.4215 },
+    coords: [7.4215, 43.7352],
     description: {
       de: "Ein enges Tal, das sich zum Hafen hin öffnet. Es bildet eine natürliche Trennlinie im urbanen Raum.",
       hu: "Szűk völgy, amely a kikötő felé nyílik. Természetes választóvonalat képez a városi térben.",
@@ -230,7 +230,7 @@ export const monacoReliefV2: POI[] = [
     type: "valley",
     parent: "MC",
     name: { de: "Larvotto-Küstenstreifen", hu: "Larvotto-partvonal", ro: "Fâșia costieră Larvotto", en: "Larvotto Coastal Strip" },
-    coordinates: { lat: 43.7435, lng: 7.4325 },
+    coords: [7.4325, 43.7435],
     description: {
       de: "Ein flacher Küstenbereich im Osten des Fürstentums. Dieser wurde künstlich erweitert und befestigt.",
       hu: "Alacsony fekvésű partmenti terület a hercegség keleti részén. Mesterségesen bővítették és megerősítették.",
@@ -262,7 +262,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "La-Roque-Abhang", hu: "La-Roque-lejtő", ro: "Panta La Roque", en: "La Roque Escarpment" },
-    coordinates: { lat: 43.7328, lng: 7.4195 },
+    coords: [7.4195, 43.7328],
     description: {
       de: "Eine steile Felsformation im historischen Zentrum. Sie trägt die alten Festungsmauern des Staates.",
       hu: "Meredek sziklaformáció a történelmi központban. Az állam régi várfalai találhatók rajta.",
@@ -294,7 +294,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Casino-Plateau", hu: "Casino-fennsík", ro: "Platoul Casino", en: "Casino Plateau" },
-    coordinates: { lat: 43.7395, lng: 7.4278 },
+    coords: [7.4278, 43.7395],
     description: {
       de: "Eine erhöhte Terrasse, auf der der berühmte Casinobezirk errichtet wurde. Sie bietet einen weiten Blick auf das Meer.",
       hu: "Magasított terasz, amelyen a híres kaszinónegyed épült. Széles kilátást nyújt a tengerre.",
@@ -326,7 +326,7 @@ export const monacoReliefV2: POI[] = [
     type: "valley",
     parent: "MC",
     name: { de: "Südlicher Küstengraben", hu: "Déli parti árok", ro: "Șanțul costier sudic", en: "Southern Coastal Trench" },
-    coordinates: { lat: 43.7258, lng: 7.4202 },
+    coords: [7.4202, 43.7258],
     description: {
       de: "Eine unterseeische Vertiefung nahe der Fontvieille-Küste. Sie zeigt die abrupte geologische Senkung des Meeresbodens.",
       hu: "Tenger alatti mélyedés a Fontvieille part közelében. A tengerfenék meredek geológiai süllyedését mutatja.",
@@ -358,7 +358,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Spélugues-Hügel", hu: "Spélugues-domb", ro: "Dealul Spélugues", en: "Spélugues Hill" },
-    coordinates: { lat: 43.7385, lng: 7.4265 },
+    coords: [7.4265, 43.7385],
     description: {
       de: "Dieser Hügel bildet den Kern des Bezirks Monte-Carlo. Die ursprüngliche Form wurde durch Gebäude stark modifiziert.",
       hu: "Ez a domb alkotja Monte-Carlo körzet magját. Az eredeti formát az épületek erősen módosították.",
@@ -390,7 +390,7 @@ export const monacoReliefV2: POI[] = [
     type: "valley",
     parent: "MC",
     name: { de: "Condamine-Stadtcanyon", hu: "Condamine városi kanyon", ro: "Canion urban Condamine", en: "Condamine Urban Canyon" },
-    coordinates: { lat: 43.7342, lng: 7.4235 },
+    coords: [7.4235, 43.7342],
     description: {
       de: "Ein dicht bebauter, talähnlicher Korridor im Stadtgebiet. Er leitet die städtischen Luftströme.",
       hu: "Sűrűn beépített, völgyszerű folyosó a városi területen. Vezeti a városi légáramlatokat.",
@@ -422,7 +422,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Saint-Antoine-Vorsprung", hu: "Saint-Antoine-földnyelv", ro: "Promontoriul Saint-Antoine", en: "Saint-Antoine Headland" },
-    coordinates: { lat: 43.7318, lng: 7.4218 },
+    coords: [7.4218, 43.7318],
     description: {
       de: "Ein felsiger Vorsprung an der Westseite des Rocher. Er ist ein markanter Punkt der natürlichen Befestigung.",
       hu: "Sziklás földnyelv a Rocher nyugati oldalán. A természetes erődítés kiemelkedő pontja.",
@@ -454,7 +454,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Beausoleil-Hügel", hu: "Beausoleil-domb", ro: "Dealul Beausoleil", en: "Beausoleil Hill" },
-    coordinates: { lat: 43.7412, lng: 7.4245 },
+    coords: [7.4245, 43.7412],
     description: {
       de: "Ein Hügel, der direkt an der Grenze liegt. Er bildet das topographische Rückgrat des nördlichen Stadtteils.",
       hu: "Közvetlenül a határon fekvő domb. Az északi városrész topográfiai gerincét alkotja.",
@@ -486,7 +486,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Gartenterrasse", hu: "Kertterasz", ro: "Terasa grădinilor", en: "Garden Terrace" },
-    coordinates: { lat: 43.7378, lng: 7.4228 },
+    coords: [7.4228, 43.7378],
     description: {
       de: "Eine künstlich angelegte, flache Terrasse auf einem natürlichen Felsvorsprung. Sie dient als Aussichtsplattform.",
       hu: "Mesterségesen kialakított, sík terasz egy természetes sziklakiszögellésen. Kilátóként szolgál.",
@@ -518,7 +518,7 @@ export const monacoReliefV2: POI[] = [
     type: "valley",
     parent: "MC",
     name: { de: "Condamine-Senke", hu: "Condamine-mélyedés", ro: "Depresiunea Condamine", en: "Condamine Depression" },
-    coordinates: { lat: 43.7332, lng: 7.4242 },
+    coords: [7.4242, 43.7332],
     description: {
       de: "Das tiefste natürliche urbane Tal im Fürstentum. Es hat eine große Bedeutung für die städtische Entwässerung.",
       hu: "A hercegség legmélyebb természetes városi völgye. Nagy jelentősége van a városi vízelvezetésben.",
@@ -550,7 +550,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Fontvieille-Plateau", hu: "Fontvieille-fennsík", ro: "Platoul Fontvieille", en: "Fontvieille Plateau" },
-    coordinates: { lat: 43.7265, lng: 7.4192 },
+    coords: [7.4192, 43.7265],
     description: {
       de: "Ein weitläufiges, durch Landgewinnung geschaffenes Plateau. Es bildet das moderne industrielle Zentrum.",
       hu: "Kiterjedt, területfeltöltéssel létrehozott fennsík. Ez alkotja a modern ipari központot.",
@@ -582,7 +582,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Monte-Carlo-Abhang", hu: "Monte-Carlo-lejtő", ro: "Panta Monte-Carlo", en: "Monte-Carlo Escarpment" },
-    coordinates: { lat: 43.7382, lng: 7.4285 },
+    coords: [7.4285, 43.7382],
     description: {
       de: "Ein steiler Hang, der den Casinobezirk vom Larvotto-Viertel trennt. Er ist ein markantes topographisches Merkmal.",
       hu: "Meredek lejtő, amely elválasztja a kaszinónegyedet a Larvotto-negyedtől. Kiemelkedő topográfiai jellemző.",
@@ -614,7 +614,7 @@ export const monacoReliefV2: POI[] = [
     type: "mountain",
     parent: "MC",
     name: { de: "Serres-Hügel", hu: "Serres-domb", ro: "Dealul Serres", en: "Serres Hill" },
-    coordinates: { lat: 43.7375, lng: 7.4155 },
+    coords: [7.4155, 43.7375],
     description: {
       de: "Ein kleiner, aber markanter Hügel im Westen des Fürstentums. Er ist von Wohngebieten bedeckt.",
       hu: "Kicsi, de jellegzetes domb a hercegség nyugati részén. Lakóövezetek borítják.",

@@ -8,7 +8,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Bratislavaer Burg", hu: "Pozsonyi vár", ro: "Castelul Bratislava", en: "Bratislava Castle"},
     image: "/poi-images/slovakia-bratislava-castle-landmarks-v2.webp",
     coords: [17.1002, 48.1422],
-    coordinates: { lat: 48.1422, lng: 17.1002 },
+    coords: [17.1002, 48.1422],
     description: {
       de: "Die Burg thront auf einem Felsen über der Donau im Zentrum der Hauptstadt. Nach einem Brand im Jahr 1811 wurde sie erst in den 1950er Jahren wiederaufgebaut.",
       hu: "A vár a Duna feletti sziklás dombon magasodik Pozsony központjában. Az 1811-es tűzvész után romokban állt, majd az 1950-es években építették újjá.",
@@ -43,7 +43,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Martinsdom", hu: "Szent Márton-dóm", ro: "Catedrala Sfântul Martin", en: "St. Martin's Cathedral"},
     image: "/poi-images/slovakia-st-martins-cathedral-landmarks-v2.webp",
     coords: [17.1049, 48.1419],
-    coordinates: { lat: 48.1419, lng: 17.1049 },
+    coords: [17.1049, 48.1419],
     description: {
       de: "Diese gotische Kirche war über 250 Jahre lang die Krönungskirche der ungarischen Könige. Sie befindet sich am Rande der Altstadt unterhalb der Burg.",
       hu: "Ez a gótikus templom több mint 250 éven át a magyar királyok koronázási temploma volt. Az óváros szélén, a vár alatt található.",
@@ -78,7 +78,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Palais Grassalkovich", hu: "Grassalkovich-kastély", ro: "Palatul Grassalkovich", en: "Grassalkovich Palace"},
     image: "/poi-images/slovakia-grassalkovich-palace-landmarks-v2.webp",
     coords: [17.1077, 48.1491],
-    coordinates: { lat: 48.1491, lng: 17.1077 },
+    coords: [17.1077, 48.1491],
     description: {
       de: "Das im Rokoko-Stil errichtete Gebäude dient heute als offizieller Amtssitz des Präsidenten der Slowakei. Es wurde 1760 für den Grafen Anton Grassalkovich erbaut.",
       hu: "A rokokó stílusú épület ma a szlovák köztársasági elnök hivatalos rezidenciája. 1760-ban épült Grassalkovich Antal gróf megbízásából.",
@@ -113,7 +113,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Altes Rathaus", hu: "Régi városháza", ro: "Vechea Primărie", en: "Old Town Hall"},
     image: "/poi-images/slovakia-bratislava-old-town-hall-landmarks-v2.webp",
     coords: [17.1086, 48.1444],
-    coordinates: { lat: 48.1444, lng: 17.1086 },
+    coords: [17.1086, 48.1444],
     description: {
       de: "Es ist eines der ältesten Steingebäude der Stadt und beherbergt heute das Stadtmuseum. Der Komplex besteht aus mehreren Häusern, die im Laufe der Jahrhunderte verbunden wurden.",
       hu: "A város egyik legrégebbi kőépülete, amely ma a Városi Múzeumnak ad otthont. A komplexum több házból áll, amelyeket az évszázadok során kapcsoltak össze.",
@@ -148,7 +148,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Michaelertor", hu: "Mihály-kapu", ro: "Poarta lui Mihail", en: "Michael's Gate"},
     image: "/poi-images/slovakia-michaels-gate-landmarks-v2.webp",
     coords: [17.1067, 48.1451],
-    coordinates: { lat: 48.1451, lng: 17.1067 },
+    coords: [17.1067, 48.1451],
     description: {
       de: "Dies ist das einzige erhaltene Stadttor der mittelalterlichen Befestigungsanlagen von Bratislava. Der barocke Turm beherbergt eine Waffenausstellung.",
       hu: "Ez az egyetlen megmaradt városkapu Pozsony középkori erődrendszeréből. A barokk toronyban fegyverkiállítás látható.",
@@ -183,7 +183,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Blaue Kirche", hu: "Kék templom", ro: "Biserica Albastră", en: "Blue Church"},
     image: "/poi-images/slovakia-blue-church-landmarks-v2.webp",
     coords: [17.1168, 48.1434],
-    coordinates: { lat: 48.1434, lng: 17.1168 },
+    coords: [17.1168, 48.1434],
     description: {
       de: "Die offizielle St.-Elisabeth-Kirche ist bekannt für ihre hellblaue Farbe und die Verwendung von Majolika-Fliesen. Sie ist ein Meisterwerk des ungarischen Sezessionsstils.",
       hu: "A Szent Erzsébet-templom élénkkék színéről és a majolika burkolatról híres. A magyar szecessziós építészet egyik mesterműve.",
@@ -218,7 +218,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Slavín", hu: "Slavín", ro: "Slavín", en: "Slavín"},
     image: "/poi-images/slovakia-slavin-memorial-landmarks-v2.webp",
     coords: [17.0997, 48.1541],
-    coordinates: { lat: 48.1541, lng: 17.0997 },
+    coords: [17.0997, 48.1541],
     description: {
       de: "Dieses Denkmal und der Militärfriedhof ehren die sowjetischen Soldaten, die 1945 bei der Befreiung von Bratislava fielen. Es bietet einen Panoramablick über die gesamte Stadt.",
       hu: "Ez az emlékmű és katonai temető a Pozsony 1945-ös felszabadításakor elesett szovjet katonák előtt tiszteleg. Panorámás kilátást nyújt az egész városra.",
@@ -253,7 +253,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Burg Theben", hu: "Dévényi vár", ro: "Castelul Devín", en: "Devín Castle"},
     image: "/poi-images/slovakia-devin-castle-landmarks-v2.webp",
     coords: [16.9783, 48.1739],
-    coordinates: { lat: 48.1739, lng: 16.9783 },
+    coords: [16.9783, 48.1739],
     description: {
       de: "Die Burgruine liegt am Zusammenfluss von March und Donau an der Grenze zu Österreich. Sie ist eine der wichtigsten archäologischen Stätten der Slowakei.",
       hu: "A várrom a Morva és a Duna összefolyásánál fekszik, az osztrák határon. Szlovákia egyik legfontosabb régészeti lelőhelye.",
@@ -288,7 +288,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Arwaburg", hu: "Árva vára", ro: "Castelul Orava", en: "Orava Castle"},
     image: "/poi-images/slovakia-orava-castle-landmarks-v2.webp",
     coords: [19.3589, 49.2619],
-    coordinates: { lat: 49.2619, lng: 19.3589 },
+    coords: [19.3589, 49.2619],
     description: {
       de: "Die Burg gilt als eine der schönsten Burgen der Slowakei und thront auf einer steilen Klippe über dem Fluss Orava. Sie wurde auf mehreren Ebenen errichtet.",
       hu: "A vár Szlovákia egyik legszebb vára, amely az Árva folyó feletti meredek sziklán trónol. Több szinten épült fel az évszázadok alatt.",
@@ -323,7 +323,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Schloss Weinitz", hu: "Bajmóci várkastély", ro: "Castelul Bojnice", en: "Bojnice Castle"},
     image: "/poi-images/slovakia-bojnice-castle-landmarks-v2.webp",
     coords: [18.5779, 48.7797],
-    coordinates: { lat: 48.7797, lng: 18.5779 },
+    coords: [18.5779, 48.7797],
     description: {
       de: "Das Schloss ist für sein märchenhaftes Aussehen bekannt und wurde im 19. Jahrhundert nach dem Vorbild der französischen Loire-Schlösser umgestaltet.",
       hu: "A kastély mesebeli megjelenéséről ismert, a 19. században alakították át a francia Loire-menti kastélyok mintájára.",
@@ -358,7 +358,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Burg Trentschin", hu: "Trencséni vár", ro: "Castelul Trenčín", en: "Trenčín Castle"},
     image: "/poi-images/slovakia-trencin-castle-landmarks-v2.webp",
     coords: [18.0447, 48.8943],
-    coordinates: { lat: 48.8943, lng: 18.0447 },
+    coords: [18.0447, 48.8943],
     description: {
       de: "Die Burg beherrscht die Stadt Trenčín und das Waagtal. Bekannt ist sie vor allem für die römische Inschrift auf dem Burgfelsen aus dem Jahr 179 n. Chr.",
       hu: "A vár uralja Trencsén városát és a Vág völgyét. Leginkább a várfal tövében található, i.sz. 179-ből származó római feliratról ismert.",
@@ -393,7 +393,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Elisabeth-Dom", hu: "Szent Erzsébet-dóm", ro: "Catedrala Sfânta Elisabeta", en: "St. Elisabeth Cathedral"},
     image: "/poi-images/slovakia-st-elisabeth-cathedral-landmarks-v2.webp",
     coords: [21.2575, 48.7203],
-    coordinates: { lat: 48.7203, lng: 21.2575 },
+    coords: [21.2575, 48.7203],
     description: {
       de: "Dieses Meisterwerk der Gotik in Košice ist die größte Kirche der Slowakei. Sie befindet sich im Zentrum der spindelförmigen Hauptstraße der Stadt.",
       hu: "Ez a gótikus remekmű Kassa legnagyobb temploma és egyben Szlovákia legnagyobb egyházi építménye. A város főutcájának központjában áll.",
@@ -428,7 +428,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Burg Schächtitz", hu: "Csejte vára", ro: "Castelul Čachtice", en: "Čachtice Castle"},
     image: "/poi-images/slovakia-cachtice-castle-landmarks-v2.webp",
     coords: [17.7611, 48.7247],
-    coordinates: { lat: 48.7247, lng: 17.7611 },
+    coords: [17.7611, 48.7247],
     description: {
       de: "Die Burgruine ist berüchtigt als Wohnsitz der 'Blutgräfin' Elisabeth Báthory. Sie liegt auf einem Hügel in den Kleinen Karpaten und bietet weite Ausblicke.",
       hu: "A várrom a 'vérgrófnőként' ismert Báthory Erzsébet lakhelyeként vált hírhedtté. A Kis-Kárpátok egyik dombján fekszik, pazar kilátással.",
@@ -463,7 +463,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Burg Beckov", hu: "Beckó vára", ro: "Castelul Beckov", en: "Beckov Castle"},
     image: "/poi-images/slovakia-beckov-castle-landmarks-v2.webp",
     coords: [17.8986, 48.7908],
-    coordinates: { lat: 48.7908, lng: 17.8986 },
+    coords: [17.8986, 48.7908],
     description: {
       de: "Die markante Burgruine thront auf einem 60 Meter hohen steilen Felsen über dem Dorf Beckov. Sie war einst eine uneinnehmbare Festung im Waagtal.",
       hu: "A jellegzetes várrom egy 60 méter magas meredek sziklán áll Beckó falu felett. Egykor bevehetetlen erődítmény volt a Vág völgyében.",
@@ -498,7 +498,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Burg Krásna Hôrka", hu: "Andrássy-vár (Krasznahorka)", ro: "Castelul Krásna Hôrka", en: "Krásna Hôrka Castle"},
     image: "/poi-images/slovakia-krasna-horka-castle-landmarks-v2.webp",
     coords: [20.6003, 48.6586],
-    coordinates: { lat: 48.6586, lng: 20.6003 },
+    coords: [20.6003, 48.6586],
     description: {
       de: "Die Burg auf einem kegelförmigen Hügel war jahrhundertelang der Stammsitz der Familie Andrássy. Sie beherbergt wertvolle historische Sammlungen.",
       hu: "A kúp alakú dombon álló vár évszázadokon át az Andrássy család ősi fészke volt. Értékes történelmi gyűjteményeknek ad otthont.",
@@ -533,7 +533,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Schloss Betliar", hu: "Andrássy-kastély (Betlér)", ro: "Conacul Betliar", en: "Betliar Mansion"},
     image: "/poi-images/slovakia-betliar-mansion-landmarks-v2.webp",
     coords: [20.5103, 48.7139],
-    coordinates: { lat: 48.7139, lng: 20.5103 },
+    coords: [20.5103, 48.7139],
     description: {
       de: "Das Jagdschloss der Familie Andrássy ist für seine originale Inneneinrichtung und die riesige Bibliothek bekannt. Es ist von einem weitläufigen englischen Park umgeben.",
       hu: "Az Andrássy család vadászkastélya az eredeti berendezéséről és hatalmas könyvtáráról híres. Kiterjedt angolpark veszi körül.",
@@ -568,7 +568,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Burg Strečno", hu: "Sztrecsény vára", ro: "Castelul Strečno", en: "Strečno Castle"},
     image: "/poi-images/slovakia-strecno-castle-landmarks-v2.webp",
     coords: [18.8617, 49.1764],
-    coordinates: { lat: 49.1764, lng: 18.8617 },
+    coords: [18.8617, 49.1764],
     description: {
       de: "Die Burgruine liegt auf einem hohen Kalksteinfelsen über dem Fluss Waag an einer strategischen Engstelle. Sie sicherte einst die Handelswege durch das Tal.",
       hu: "A várrom a Vág folyó feletti magas mészkősziklán áll, egy stratégiai fontosságú szorosnál. Egykor a völgy kereskedelmi útvonalait védte.",
@@ -603,7 +603,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Neutraer Burg", hu: "Nyitrai vár", ro: "Castelul Nitra", en: "Nitra Castle"},
     image: "/poi-images/slovakia-nitra-castle-landmarks-v2.webp",
     coords: [18.0867, 48.3186],
-    coordinates: { lat: 48.3186, lng: 18.0867 },
+    coords: [18.0867, 48.3186],
     description: {
       de: "Die Burg in Nitra ist ein bedeutendes religiöses und historisches Zentrum der Slowakei. Sie umfasst die Kathedrale des heiligen Emmeram und den Bischofspalast.",
       hu: "A nyitrai vár Szlovákia fontos vallási és történelmi központja. Magában foglalja a Szent Emerám-székesegyházat és a püspöki palotát.",
@@ -638,7 +638,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Holzkirche von Hronsek", hu: "Garamszegi artikuláris fatemplom", ro: "Biserica de lemn din Hronsek", en: "Hronsek Wooden Church"},
     image: "/poi-images/slovakia-hronsek-wooden-church-landmarks-v2.webp",
     coords: [19.1553, 48.6486],
-    coordinates: { lat: 48.6486, lng: 19.1553 },
+    coords: [19.1553, 48.6486],
     description: {
       de: "Diese hölzerne Artikular-Kirche wurde ohne die Verwendung eines einzigen Metallnagels erbaut. Sie ist eines der bedeutendsten Beispiele slowakischer Sakralarchitektur.",
       hu: "Ez az artikuláris fatemplom egyetlen fém szög felhasználása nélkül épült. A szlovák szakrális építészet egyik legjelentősebb példája.",
@@ -673,7 +673,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Altes Rathaus Levoča", hu: "Lőcsei városháza", ro: "Primăria Veche din Levoča", en: "Levoča Old Town Hall"},
     image: "/poi-images/slovakia-levoca-town-hall-landmarks-v2.webp",
     coords: [20.5894, 49.0258],
-    coordinates: { lat: 49.0258, lng: 20.5894 },
+    coords: [20.5894, 49.0258],
     description: {
       de: "Das Renaissance-Rathaus steht in der Mitte des historischen Platzes von Levoča. Es beherbergt Ausstellungen des Zipser Museums und ist für seine Arkaden bekannt.",
       hu: "A reneszánsz városháza Lőcse történelmi főterének közepén áll. A Szepesi Múzeum kiállításainak ad otthont, és árkádjairól nevezetes.",
@@ -708,7 +708,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Jakobskirche Levoča", hu: "Szent Jakab-bazilika (Lőcse)", ro: "Bazilica Sfântul Iacob din Levoča", en: "Basilica of St. James"},
     image: "/poi-images/slovakia-st-james-basilica-landmarks-v2.webp",
     coords: [20.5889, 49.0264],
-    coordinates: { lat: 49.0264, lng: 20.5889 },
+    coords: [20.5889, 49.0264],
     description: {
       de: "Diese gotische Kirche beherbergt den höchsten hölzernen spätgotischen Altar der Welt. Er wurde in der Werkstatt von Meister Paul von Levoča geschaffen.",
       hu: "Ez a gótikus templom ad otthont a világ legmagasabb késő gótikus faoltárának. Lőcsei Pál mester műhelyében készült a 16. század elején.",
@@ -743,7 +743,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Altes Schloss Schemnitz", hu: "Óvár (Selmecbánya)", ro: "Castelul Vechi din Banská Štiavnica", en: "Old Castle"},
     image: "/poi-images/slovakia-stiavnica-old-castle-landmarks-v2.webp",
     coords: [18.8894, 48.4594],
-    coordinates: { lat: 48.4594, lng: 18.8894 },
+    coords: [18.8894, 48.4594],
     description: {
       de: "Das Alte Schloss ist eine ehemalige romanische Basilika, die im 16. Jahrhundert zu einer Festung gegen die Türken umgebaut wurde. Es dient heute als Museum.",
       hu: "Az Óvár egy egykori román stílusú bazilika, amelyet a 16. században alakítottak át a török elleni védekezés jegyében erőddé. Ma múzeumként működik.",
@@ -778,7 +778,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Altes Rathaus Bardejov", hu: "Bártfai városháza", ro: "Vechea Primărie din Bardejov", en: "Bardejov Town Hall"},
     image: "/poi-images/slovakia-bardejov-town-hall-landmarks-v2.webp",
     coords: [21.2758, 49.2942],
-    coordinates: { lat: 49.2942, lng: 21.2758 },
+    coords: [21.2758, 49.2942],
     description: {
       de: "Das ehemalige Rathaus steht isoliert in der Mitte des Marktplatzes von Bardejov. Es gilt als das erste Renaissancegebäude in der Slowakei.",
       hu: "Az egykori városháza Bártfa főterének közepén áll. Szlovákia első reneszánsz stílusú épületeként tartják számon.",
@@ -813,7 +813,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Burg Bibersburg", hu: "Vöröskő vára", ro: "Castelul Piatra Roșie", en: "Red Stone Castle"},
     image: "/poi-images/slovakia-red-stone-castle-landmarks-v2.webp",
     coords: [17.3353, 48.3889],
-    coordinates: { lat: 48.3889, lng: 17.3353 },
+    coords: [17.3353, 48.3889],
     description: {
       de: "Die Burg Červený Kameň in den Kleinen Karpaten ist berühmt für ihre riesigen Verteidigungskeller. Sie war lange Zeit im Besitz der Familie Fugger und später Pálffy.",
       hu: "A Kis-Kárpátokban fekvő Vöröskő vára hatalmas védelmi pincéiről híres. Hosszú ideig a Fugger, majd a Pálffy család tulajdona volt.",
@@ -848,7 +848,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Burg Lublau", hu: "Lubló vára", ro: "Castelul Stará Ľubovňa", en: "Stará Ľubovňa Castle"},
     image: "/poi-images/slovakia-stara-lubovna-castle-landmarks-v2.webp",
     coords: [20.6992, 49.3147],
-    coordinates: { lat: 49.3147, lng: 20.6992 },
+    coords: [20.6992, 49.3147],
     description: {
       de: "Die Burg sicherte einst die Grenze zu Polen und diente als Aufbewahrungsort für die polnischen Krönungsinsignien. Unterhalb der Burg befindet sich ein Freilichtmuseum.",
       hu: "A vár egykor a lengyel határt védte, és itt őrizték a lengyel koronázási jelvényeket is. A vár alatt szabadtéri néprajzi múzeum található.",
@@ -883,7 +883,7 @@ export const slovakiaLandmarksV2: POI[] = [
     name: { de: "Schloss Kesmark", hu: "Késmárki vár", ro: "Castelul Kežmarok", en: "Kežmarok Castle"},
     image: "/poi-images/slovakia-kezmarok-castle-landmarks-v2.webp",
     coords: [20.4331, 49.1394],
-    coordinates: { lat: 49.1394, lng: 20.4331 },
+    coords: [20.4331, 49.1394],
     description: {
       de: "Die Burg liegt direkt im Stadtzentrum von Kežmarok. Sie ist eine der wenigen Stadtburgen der Slowakei und diente als Verteidigungsanlage sowie Residenz.",
       hu: "A vár Késmárk városközpontjában található. Szlovákia kevés városi várának egyike, amely egyben védelmi és lakóépületként is szolgált.",
@@ -916,7 +916,7 @@ export const slovakiaLandmarksV2: POI[] = [
     type: "monument",
     parent: "SK",
     name: { de: "Dreifaltigkeitssäule Banská Štiavnica", hu: "Szentháromság-szobor Selmecbánya", ro: "Coloana Sfânta Treime Banská Štiavnica", en: "Holy Trinity Column Banská Štiavnica" },
-    coordinates: { lat: 48.4594, lng: 18.8906 },
+    coords: [18.8906, 48.4594],
     description: {
       de: "Dieses barocke Denkmal steht auf dem zentralen Platz von Banská Štiavnica. Es wurde im frühen 18. Jahrhundert als Dank für das Ende der Pestepidemie errichtet.",
       hu: "Ez a barokk emlékmű Selmecbánya központi terén áll. A 18. század elején emelték a pestisjárvány elmúltáért való hálából.",
@@ -948,7 +948,7 @@ export const slovakiaLandmarksV2: POI[] = [
     type: "church",
     parent: "SK",
     name: { de: "Kirche St. Georg Svätý Jur", hu: "Szent György-templom Szentgyörgy", ro: "Biserica Sfântul Gheorghe Svätý Jur", en: "Church of St. George Svätý Jur" },
-    coordinates: { lat: 48.2492, lng: 17.2133 },
+    coords: [17.2133, 48.2492],
     description: {
       de: "Diese gotische Kirche in Svätý Jur stammt aus dem 13. Jahrhundert. Sie ist bekannt für ihre Architektur und den freistehenden hölzernen Glockenturm.",
       hu: "Ez a 13. századi gótikus templom Szentgyörgyön található. Építészetéről és a különálló fa harangtornyáról ismert.",
@@ -962,13 +962,25 @@ export const slovakiaLandmarksV2: POI[] = [
       en: ["Origin: 13th century", "Architecture: Gothic", "Feature: Wooden bell tower", "Location: Svätý Jur"],
     },
     imageHint: "Church of St. George Svaty Jur exterior",
+    descriptionAdvanced: {
+      de: "Die St.-Georgs-Kirche in Svätý Jur, Slowakei, ist eine gotische Kirche aus dem 13. Jahrhundert. Sie liegt in den Kleinen Karpaten und ist für ihre mittelalterlichen Fresken bekannt. Der Turm ist 40 Meter hoch. Die Kirche wurde mehrfach umgebaut, zuletzt im Barockstil. Sie dient der römisch-katholischen Gemeinde.",
+      hu: "A szlovákiai Szent György-templom (Svätý Jur) a 13. században épült gótikus stílusban. A Kis-Kárpátokban fekszik. Híres középkori freskóiról. Tornya 40 méter magas. Barokk átépítésen esett át. Római katolikus templom.",
+      ro: "Biserica Sf. Gheorghe din Svätý Jur, Slovacia, este o biserică gotică din secolul al XIII-lea, situată în Carpații Mici. Este renumită pentru frescele medievale. Turnul are 40 de metri. A suferit modificări baroce. Este biserică romano-catolică.",
+      en: "St. George's Church in Svätý Jur, Slovakia, is a 13th-century Gothic church in the Little Carpathians. It features medieval frescoes and a 40-meter tower. Renovated in Baroque style, it serves the Roman Catholic community.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 13. Jahrhundert", "Stil: Gotik, später Barock", "Turmhöhe: 40 Meter", "Ort: Svätý Jur, Slowakei", "Fresken: mittelalterlich", "Konfession: römisch-katholisch"],
+      hu: ["Építés: 13. század", "Stílus: gótikus, barokk átépítés", "Torony magassága: 40 m", "Hely: Svätý Jur, Szlovákia", "Freskók: középkori", "Felekezet: római katolikus"],
+      ro: ["Secolul construcției: al XIII-lea", "Stil: gotic, modificări baroce", "Înălțime turn: 40 m", "Locație: Svätý Jur, Slovacia", "Fresce: medievale", "Confesiune: romano-catolică"],
+      en: ["Built: 13th century", "Style: Gothic, later Baroque", "Tower height: 40 meters", "Location: Svätý Jur, Slovakia", "Frescoes: medieval", "Denomination: Roman Catholic"],
+    },
   },
   {
     id: "slovakia-palace-of-art-bratislava-landmarks-v2",
     type: "museum",
     parent: "SK",
     name: { de: "Kunsthalle Bratislava", hu: "Pozsonyi Művészeti Ház", ro: "Palatul Artelor Bratislava", en: "Art Hall Bratislava" },
-    coordinates: { lat: 48.1432, lng: 17.1129 },
+    coords: [17.1129, 48.1432],
     description: {
       de: "Die Kunsthalle in Bratislava dient als Ausstellungsraum für zeitgenössische Kunst. Das Gebäude befindet sich in einem historisch bedeutenden Viertel.",
       hu: "A pozsonyi művészeti ház kortárs művészeti kiállítótérként szolgál. Az épület egy történelmileg jelentős negyedben található.",
@@ -982,13 +994,25 @@ export const slovakiaLandmarksV2: POI[] = [
       en: ["Function: Art gallery", "City: Bratislava", "Focus: Contemporary art", "Location: Old Town"],
     },
     imageHint: "Kunsthalle Bratislava interior view",
+    descriptionAdvanced: {
+      de: "Der Kunstpalast in Bratislava, Slowakei, wurde 2002 eröffnet und ist ein multifunktionales Kulturzentrum. Das Gebäude im zeitgenössischen Stil beherbergt Ausstellungsflächen von 3000 m², ein Kino und ein Café. Es zeigt moderne Kunst aus Mittel- und Osteuropa. Der Palast liegt im Stadtteil Ružinov.",
+      hu: "A pozsonyi Művészeti Palota (Szlovákia) 2002-ben nyílt meg. Kortárs stílusú épület, 3000 m² kiállítótérrel, mozival és kávézóval. Közép- és kelet-európai modern művészeti kiállításoknak ad otthont. Ružinov negyedben található.",
+      ro: "Palatul Artelor din Bratislava, Slovacia, deschis în 2002, este un centru cultural multifuncțional. Clădirea contemporană are 3000 m² de spațiu expozițional, cinema și cafenea. Prezintă artă modernă din Europa Centrală și de Est. Se află în cartierul Ružinov.",
+      en: "The Art Hall (Palace of Art) in Bratislava, Slovakia, opened in 2002. This contemporary building offers 3000 m² of exhibition space, a cinema, and a café. It showcases modern art from Central and Eastern Europe, located in the Ružinov district.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2002", "Ausstellungsfläche: 3000 m²", "Standort: Bratislava, Ružinov", "Einrichtungen: Kino, Café", "Schwerpunkt: moderne Kunst Mittel-/Osteuropas", "Architektur: zeitgenössisch"],
+      hu: ["Megnyitás: 2002", "Kiállítótér: 3000 m²", "Hely: Pozsony, Ružinov", "Szolgáltatások: mozi, kávézó", "Fókusz: közép- és kelet-európai modern művészet", "Stílus: kortárs"],
+      ro: ["Deschis: 2002", "Spațiu expozițional: 3000 m²", "Locație: Bratislava, Ružinov", "Facilități: cinema, cafenea", "Specializare: artă modernă central și est-europeană", "Stil arhitectural: contemporan"],
+      en: ["Opened: 2002", "Exhibition space: 3000 m²", "Location: Bratislava, Ružinov", "Facilities: cinema, café", "Focus: modern art of Central/Eastern Europe", "Architecture: contemporary"],
+    },
   },
   {
     id: "slovakia-st-michel-church-kosice-landmarks-v2",
     type: "church",
     parent: "SK",
     name: { de: "St.-Michaels-Kapelle Košice", hu: "Szent Mihály-kápolna Kassa", ro: "Capela Sfântul Mihail Košice", en: "St. Michael's Chapel Košice" },
-    coordinates: { lat: 48.7214, lng: 21.2589 },
+    coords: [21.2589, 48.7214],
     description: {
       de: "Diese gotische Kapelle steht direkt neben der St.-Elisabeth-Kathedrale in Košice. Sie wurde im 14. Jahrhundert als Friedhofskapelle erbaut.",
       hu: "Ez a gótikus kápolna közvetlenül a kassai Szent Erzsébet-katedrális mellett áll. A 14. században épült temetőkápolnaként.",
@@ -1002,5 +1026,17 @@ export const slovakiaLandmarksV2: POI[] = [
       en: ["Construction period: 14th century", "Style: Gothic", "Location: Košice", "Purpose: Former cemetery chapel"],
     },
     imageHint: "St Michael Chapel Kosice exterior",
+    descriptionAdvanced: {
+      de: "Die St.-Michaels-Kirche in Košice, Slowakei, ist eine gotische Kirche aus dem 14. Jahrhundert. Sie diente ursprünglich als Friedhofskirche. Der Innenraum enthält barocke Altäre und eine Krypta. Die Kirche wurde nach einem Brand 1775 wiederaufgebaut. Sie ist 25 Meter lang und 10 Meter breit.",
+      hu: "A kassai Szent Mihály-templom (Szlovákia) a 14. században épült gótikus stílusban. Eredetileg temetőkápolna volt. Barokk oltárokat és kriptát tartalmaz. 1775-ös tűzvész után újjáépítették. Hossza 25 m, szélessége 10 m.",
+      ro: "Biserica Sf. Mihail din Košice, Slovacia, este o biserică gotică din secolul al XIV-lea. A fost inițial o capelă de cimitir. Conține altare baroce și o criptă. A fost reconstruită după un incendiu în 1775. Lungime: 25 m, lățime: 10 m.",
+      en: "St. Michael's Church in Košice, Slovakia, is a 14th-century Gothic church, originally a cemetery chapel. It features Baroque altars and a crypt. Rebuilt after a 1775 fire. Dimensions: 25 m long, 10 m wide.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 14. Jahrhundert", "Stil: Gotik", "Länge: 25 Meter", "Breite: 10 Meter", "Wiederaufbau: 1775 nach Brand", "Ursprüngliche Nutzung: Friedhofskirche"],
+      hu: ["Építés: 14. század", "Stílus: gótikus", "Hossz: 25 m", "Szélesség: 10 m", "Újjáépítés: 1775 (tűzvész után)", "Eredeti funkció: temetőkápolna"],
+      ro: ["Secolul construcției: al XIV-lea", "Stil: gotic", "Lungime: 25 m", "Lățime: 10 m", "Reconstruită: 1775 după incendiu", "Utilizare inițială: capelă de cimitir"],
+      en: ["Built: 14th century", "Style: Gothic", "Length: 25 meters", "Width: 10 meters", "Rebuilt: 1775 after fire", "Original use: cemetery chapel"],
+    },
   }
 ];

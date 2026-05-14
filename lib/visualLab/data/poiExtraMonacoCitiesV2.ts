@@ -6,7 +6,7 @@ export const monacoCitiesV2: POI[] = [
     type: "city",
     parent: "MC",
     name: { de: "Val Thore", hu: "Val Thore", ro: "Val Thore", en: "Val Thore" },
-    coordinates: { lat: 43.7345, lng: 7.4215 },
+    coords: [7.4215, 43.7345],
     description: {
       de: "Val Thore ist ein dicht besiedeltes Wohngebiet im Fürstentum Monaco. Es befindet sich in der Nähe des Hafens und ist durch moderne Architektur geprägt.",
       hu: "Val Thore egy sűrűn lakott lakóövezet Monaco Hercegségében. A kikötő közelében helyezkedik el, és modern építészet jellemzi.",
@@ -38,7 +38,7 @@ export const monacoCitiesV2: POI[] = [
     type: "city",
     parent: "MC",
     name: { de: "Les Révoires", hu: "Les Révoires", ro: "Les Révoires", en: "Les Révoires" },
-    coordinates: { lat: 43.7358, lng: 7.4168 },
+    coords: [7.4168, 43.7358],
     description: {
       de: "Les Révoires ist ein Stadtviertel am Hang, das für seine terrassierte Bauweise bekannt ist. Es liegt im nordwestlichen Teil des Fürstentums.",
       hu: "Les Révoires egy domboldali városrész, amely teraszos építkezéséről ismert. A Hercegség északnyugati részén helyezkedik el.",
@@ -70,7 +70,7 @@ export const monacoCitiesV2: POI[] = [
     type: "city",
     parent: "MC",
     name: { de: "Moneghetti", hu: "Moneghetti", ro: "Moneghetti", en: "Moneghetti" },
-    coordinates: { lat: 43.7369, lng: 7.4182 },
+    coords: [7.4182, 43.7369],
     description: {
       de: "Moneghetti ist ein urbanes Zentrum, das sich durch seine steilen Straßen und die Nähe zur französischen Grenze auszeichnet. Es beherbergt zahlreiche Wohnanlagen.",
       hu: "Moneghetti egy városi központ, amelyet meredek utcák és a francia határ közelsége jellemez. Számos lakóépületnek ad otthont.",

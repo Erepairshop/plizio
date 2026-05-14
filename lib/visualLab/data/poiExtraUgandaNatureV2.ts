@@ -267,7 +267,20 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Nagyon sekély, kiterjedt mocsaras területekkel.", "Számos madárfaj élőhelye."],
       ro: ["Foarte puțin adânc, cu zone mlăștinoase extinse.", "Habitat pentru numeroase specii de păsări."],
       en: ["Very shallow with extensive swamp areas.", "Habitat for numerous bird species."]
-    }, image: "/poi-images/kyoga-lake-nature-v2.webp"},
+    }, image: "/poi-images/kyoga-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kyogasee ist ein flacher, sumpfiger See im zentralen Uganda, der durch den Nil gespeist wird. Er erstreckt sich über etwa 1.720 Quadratkilometer, ist aber nur 5,7 Meter tief. Der See ist Teil des oberen Nilbeckens und dient als Überschwemmungsgebiet. Er ist reich an Fischarten wie Nilbarsch und Tilapia. Die umliegenden Feuchtgebiete beherbergen Vogelarten wie den Schuhschnabel und afrikanische Fischadler. Der See reguliert den Wasserfluss in den Albertnil.",
+      hu: "A Kyoga-tó Uganda középső részén található, sekély és mocsaras tó. Területe 1.720 km², átlagos mélysége mindössze 3 méter. A Nílus táplálja, és fontos szerepet játszik a vízszint szabályozásában. A tó gazdag halállománnyal rendelkezik, évente 50.000 tonna halat termel. A környező mocsarak madárparadicsomot alkotnak, több mint 300 fajjal. A tó partján halászfalvak sorakoznak. Vízjárása erősen függ az évszakoktól.",
+      ro: "Lacul Kyoga este un lac de mică adâncime situat în centrul Ugandei, cu o suprafață de aproximativ 1.720 km² și o adâncime medie de doar 3-4 metri. Este alimentat de Nil și face parte din bazinul Nilului Superior. Lacul este cunoscut pentru pescuitul intensiv, în special de biban de Nil și tilapia. Zonele umede din jur găzduiesc păsări rare, cum ar fi ciocănitoarea (Shoebill). Nivelul apei fluctuează semnificativ între sezoane.",
+      en: "Lake Kyoga is a shallow, swampy lake in central Uganda, part of the upper Nile basin. Covering about 1,720 square kilometers, it averages only 3-4 meters in depth. The lake is fed by the Victoria Nile and acts as a natural reservoir, regulating water flow into Lake Albert. It supports a major fishery, yielding over 50,000 tons of fish annually, mainly Nile perch and tilapia. The surrounding wetlands are vital habitats for birds like the shoebill stork and various waterfowl.",
+    },
+    factsAdvanced: {
+      de: ["Der Kyogasee bedeckt eine Fläche von etwa 1.720 km².", "Seine maximale Tiefe beträgt nur 5,7 Meter.", "Der See liegt auf einer Höhe von 1.033 Metern.", "Jährlich werden über 50.000 Tonnen Fisch gefangen.", "Er ist Teil des Nilbeckens.", "Die umliegenden Feuchtgebiete bedecken rund 2.000 km²."],
+      hu: ["Területe 1.720 km².", "Átlagos mélysége 3 méter.", "Tengerszint feletti magassága 1.033 m.", "Éves halfogása 50.000 tonna.", "A Nílus táplálja.", "Mocsaras partvonal hossza 200 km."],
+      ro: ["Suprafața lacului este de 1.720 km².", "Adâncimea maximă este de 5,7 m.", "Altitudinea este de 1.033 m deasupra nivelului mării.", "Producția anuală de pește depășește 50.000 de tone.", "Face parte din bazinul Nilului.", "Zonele umede înconjurătoare acoperă 2.000 km²."],
+      en: ["Lake Kyoga covers approximately 1,720 square kilometers.", "Maximum depth is 5.7 meters.", "Elevation is 1,033 meters above sea level.", "Annual fish catch exceeds 50,000 tons.", "It is part of the Nile basin.", "Wetlands around the lake span about 2,000 km²."],
+    },
+  },
   {
     id: "bwinidi-forest-nature-v2",
     type: "forest",
@@ -804,7 +817,20 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Több mint 80 szigetből áll.", "Híres trópusi növényzetéről."],
       ro: ["Compus din peste 80 de insule.", "Faimos pentru vegetația sa tropicală."],
       en: ["Consists of over 80 islands.", "Known for its tropical vegetation."]
-    }, image: "/poi-images/ssese-islands-nature-v2.webp"},
+    }, image: "/poi-images/ssese-islands-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ssese-Inseln sind eine Gruppe von 84 Inseln im Viktoriasee, im Süden Ugandas. Die größten Inseln sind Bugala, Buvuma und Bukasa. Die Inseln sind bekannt für ihre weißen Sandstrände, Palmenwälder und vielfältige Vogelwelt. Sie sind ein beliebtes Touristenziel für Strandurlaub und Wassersport. Die Wirtschaft basiert auf Fischerei und Tourismus. Die Inseln haben eine reiche Geschichte als Handelszentrum für Sklaven und Elfenbein. Heute sind sie ein Paradies für Erholungssuchende.",
+      hu: "A Ssese-szigetek 84 szigetből álló csoport a Viktória-tóban Uganda délnyugati részén. A legnagyobb szigetek: Bugala, Buvuma és Bukasa. A szigetek fehér homokos strandjaikról, pálmafáikról és madárvilágukról híresek. Népszerű turisztikai célpontok, ahol a látogatók pihenhetnek, úszhatnak és horgászhatnak. A helyi gazdaság a halászatra és a turizmusra épül. A szigeteket a 19. században rabszolga- és elefántcsont-kereskedők használták.",
+      ro: "Insulele Ssese sunt un arhipelag de 84 de insule în Lacul Victoria, în sudul Ugandei. Cele mai mari sunt Bugala, Buvuma și Bukasa. Sunt renumite pentru plajele cu nisip alb, pădurile de palmieri și biodiversitatea aviară. Destinație turistică populară pentru relaxare și sporturi acvatice. Economia locală se bazează pe pescuit și turism. Istoric, insulele au fost un centru al comerțului cu sclavi și fildeș.",
+      en: "The Ssese Islands are an archipelago of 84 islands in Lake Victoria, southern Uganda. Major islands include Bugala, Buvuma, and Bukasa. They are known for their white sandy beaches, palm-fringed shores, and abundant birdlife. Tourism thrives here with activities like swimming, fishing, and boat trips. The islands also have a dark history as a hub for the slave and ivory trade in the 19th century. Today, they offer a tranquil escape from urban life.",
+    },
+    factsAdvanced: {
+      de: ["Die Ssese-Inseln bestehen aus 84 Inseln.", "Die größte Insel Bugala hat eine Fläche von 275 km².", "Die Inseln liegen 15 Kilometer von Entebbe entfernt.", "Es gibt über 200 Vogelarten auf den Inseln.", "Die Bevölkerung beträgt etwa 50.000 Menschen.", "Der höchste Punkt liegt bei 1.200 Metern über dem Meeresspiegel."],
+      hu: ["84 szigetből áll a csoport.", "Bugala szigete 275 km².", "Entebbétől 15 km-re találhatók.", "Több mint 200 madárfaj él itt.", "Lakosság: kb. 50.000 fő.", "Legmagasabb pont: 1.200 m."],
+      ro: ["Arhipelagul are 84 de insule.", "Insula Bugala are o suprafață de 275 km².", "Se află la 15 km de Entebbe.", "Peste 200 de specii de păsări au fost înregistrate.", "Populația este de aproximativ 50.000 de locuitori.", "Altitudinea maximă este de 1.200 m."],
+      en: ["The Ssese Islands comprise 84 islands.", "The largest island, Bugala, covers 275 km².", "They are located 15 km from Entebbe.", "Over 200 bird species are found here.", "Population is about 50,000 people.", "Highest elevation is 1,200 meters above sea level."],
+    },
+  },
   {
     id: "kibale-river-nature-v2",
     type: "river",
@@ -822,7 +848,20 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Támogatja a helyi vadvilágot.", "Fontos itatóhelyeket biztosít."],
       ro: ["Susține viața sălbatică locală.", "Oferă puncte de adăpare importante."],
       en: ["Supports local wildlife.", "Provides important watering holes."]
-    }, image: "/poi-images/kibale-river-nature-v2.webp"},
+    }, image: "/poi-images/kibale-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kibale River ist ein Nebenfluss des Nils im Westen Ugandas. Er fließt durch den Kibale-Nationalpark, der für seine Primatenpopulation bekannt ist. Der Fluss entspringt in den Hügeln nahe Fort Portal und mündet in den Albertsee. Die Ufer sind dicht bewaldet und Heimat von Schimpansen, Roten Stummelaffen und vielen Vogelarten. Der Fluss ist wichtig für die Bewässerung und die lokale Fischerei. Die Wasserführung variiert stark mit den Jahreszeiten.",
+      hu: "A Kibale-folyó Uganda nyugati részén folyik, a Nílus mellékfolyója. Átkel a Kibale Nemzeti Parkon, amely híres a csimpánzairól. A folyó Fort Portal közelében ered és az Albert-tóba ömlik. Partjait sűrű esőerdő borítja, ahol számos főemlős és madárfaj él. A folyó vizét öntözésre és halászatra használják. Vízállása jelentősen ingadozik az évszaktól függően.",
+      ro: "Râul Kibale este un afluent al Nilului, situat în vestul Ugandei. Curge prin Parcul Național Kibale, renumit pentru populațiile de primate. Izvorăște din dealurile de lângă Fort Portal și se varsă în Lacul Albert. Malurile sunt acoperite de păduri tropicale, habitat pentru cimpanzei, maimuțe colobe roșii și multe păsări. Râul este folosit pentru irigații și pescuit. Debitul său variază sezonier.",
+      en: "The Kibale River is a tributary of the Nile in western Uganda, flowing through Kibale National Park, famous for its primate populations. It originates near Fort Portal and empties into Lake Albert. The riverbanks are covered in tropical rainforest, home to chimpanzees, red colobus monkeys, and over 350 bird species. The river supports local agriculture and fishing. Its water levels fluctuate significantly between wet and dry seasons.",
+    },
+    factsAdvanced: {
+      de: ["Der Kibale River ist etwa 120 Kilometer lang.", "Er durchfließt den 766 km² großen Kibale-Nationalpark.", "Der Fluss entspringt auf einer Höhe von 1.500 Metern.", "Die Wasserführung beträgt im Durchschnitt 15 m³/s.", "Im Park leben über 1.500 Schimpansen.", "Der Fluss mündet in den Albertsee."],
+      hu: ["Hossza kb. 120 km.", "Átfolyik a 766 km²-es Kibale Nemzeti Parkon.", "Forrása 1.500 m magasan van.", "Átlagos vízhozama 15 m³/s.", "A parkban 1.500 csimpánz él.", "Az Albert-tóba ömlik."],
+      ro: ["Lungimea râului este de aproximativ 120 km.", "Curge prin Parcul Național Kibale, care are 766 km².", "Izvorăște la o altitudine de 1.500 m.", "Debitul mediu este de 15 m³/s.", "În parc trăiesc peste 1.500 de cimpanzei.", "Se varsă în Lacul Albert."],
+      en: ["Kibale River is about 120 km long.", "It flows through Kibale National Park (766 km²).", "The source is at 1,500 meters elevation.", "Average discharge is 15 m³/s.", "Over 1,500 chimpanzees live in the park.", "It empties into Lake Albert."],
+    },
+  },
   {
     id: "nile-river-nature-v2",
     type: "river",

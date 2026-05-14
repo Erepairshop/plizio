@@ -6,7 +6,7 @@ export const italyReliefV2: POI[] = [
     type: "peak",
     parent: "IT",
     name: { de: "Monte Cervino", hu: "Monte Cervino", ro: "Monte Cervino", en: "Monte Cervino" },
-    coordinates: { lat: 45.9763, lng: 7.6583 },
+    coords: [7.6583, 45.9763],
     description: {
       de: "Dieser markante, pyramidenförmige Berg liegt in den Walliser Alpen an der Grenze zwischen Italien und der Schweiz. Er erreicht eine Höhe von 4.478 Metern über dem Meeresspiegel.",
       hu: "Ez a feltűnő, piramis alakú hegy a Wallisi-Alpokban, Olaszország és Svájc határán fekszik. 4478 méter magas tengerszint feletti magassággal rendelkezik.",
@@ -38,7 +38,7 @@ export const italyReliefV2: POI[] = [
     type: "peak",
     parent: "IT",
     name: { de: "Monte Viso", hu: "Monte Viso", ro: "Monte Viso", en: "Monte Viso" },
-    coordinates: { lat: 44.6675, lng: 7.0911 },
+    coords: [7.0911, 44.6675],
     description: {
       de: "Der Monte Viso ist der höchste Berg der Cottischen Alpen und liegt vollständig auf italienischem Gebiet. Er erhebt sich auf 3.841 Meter.",
       hu: "A Monte Viso a Cottió-Alpok legmagasabb csúcsa, amely teljes egészében olasz területen található. 3841 méter magasra emelkedik.",
@@ -70,7 +70,7 @@ export const italyReliefV2: POI[] = [
     type: "valley",
     parent: "IT",
     name: { de: "Po-Ebene", hu: "Pó-alföld", ro: "Câmpia Padului", en: "Po Valley" },
-    coordinates: { lat: 45.0, lng: 10.0 },
+    coords: [10.0, 45.0],
     description: {
       de: "Die Po-Ebene ist das bedeutendste Tiefland in Italien und erstreckt sich zwischen den Alpen und dem Apennin. Sie ist das wirtschaftliche Zentrum Norditaliens.",
       hu: "A Pó-alföld Olaszország legjelentősebb síksága, amely az Alpok és az Appenninek között terül el. Észak-Olaszország gazdasági központja.",
@@ -102,7 +102,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Gran Paradiso Massiv", hu: "Gran Paradiso-hegytömb", ro: "Masivul Gran Paradiso", en: "Gran Paradiso Massif" },
-    coordinates: { lat: 45.525, lng: 7.275 },
+    coords: [7.275, 45.525],
     description: {
       de: "Dieses Gebirgsmassiv liegt in den Grajischen Alpen. Der gleichnamige Gipfel erreicht eine Höhe von 4.061 Metern.",
       hu: "Ez a hegytömb a Grazi-Alpokban található. A névadó csúcs eléri a 4061 méteres magasságot.",
@@ -134,7 +134,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Amiata", hu: "Monte Amiata", ro: "Monte Amiata", en: "Monte Amiata" },
-    coordinates: { lat: 42.8906, lng: 11.6289 },
+    coords: [11.6289, 42.8906],
     description: {
       de: "Der Monte Amiata ist ein erloschener Vulkan in der Toskana. Er erreicht eine Höhe von 1.738 Metern über dem Meeresspiegel.",
       hu: "A Monte Amiata egy kialudt vulkán Toszkánában. 1738 méter tengerszint feletti magasságot ér el.",
@@ -166,7 +166,7 @@ export const italyReliefV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Murge-Plateau", hu: "Murge-fennsík", ro: "Podișul Murge", en: "Murge Plateau" },
-    coordinates: { lat: 41.0, lng: 16.5 },
+    coords: [16.5, 41.0],
     description: {
       de: "Das Murge-Plateau ist eine Kalkstein-Hochfläche in der Region Apulien. Es zeichnet sich durch Karstformationen und sanfte Erhebungen aus.",
       hu: "A Murge-fennsík egy mészkő fennsík Puglia régióban. Karsztképződmények és enyhe dombok jellemzik.",
@@ -198,7 +198,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Cimino", hu: "Monte Cimino", ro: "Monte Cimino", en: "Monte Cimino" },
-    coordinates: { lat: 42.3667, lng: 12.1967 },
+    coords: [12.1967, 42.3667],
     description: {
       de: "Der Monte Cimino ist ein Berg vulkanischen Ursprungs in der Region Latium. Er ist mit dichten Buchenwäldern bedeckt.",
       hu: "A Monte Cimino egy vulkanikus eredetű hegy Latium régióban. Sűrű bükkerdők borítják.",
@@ -230,7 +230,7 @@ export const italyReliefV2: POI[] = [
     type: "valley",
     parent: "IT",
     name: { de: "Ebene von Catania", hu: "Catania-síkság", ro: "Câmpia Cataniei", en: "Catania Plain" },
-    coordinates: { lat: 37.4, lng: 14.95 },
+    coords: [14.95, 37.4],
     description: {
       de: "Die Ebene von Catania ist das größte Tiefland auf Sizilien. Sie erstreckt sich zwischen dem Ätna und dem Hybläischen Gebirge.",
       hu: "A Catania-síkság Szicília legnagyobb alföldje. Az Etna és a Hyblaei-hegység között terül el.",
@@ -262,7 +262,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Sirino", hu: "Monte Sirino", ro: "Monte Sirino", en: "Monte Sirino" },
-    coordinates: { lat: 40.1167, lng: 15.8333 },
+    coords: [15.8333, 40.1167],
     description: {
       de: "Der Monte Sirino ist ein bedeutender Berg im Apennin in der Region Basilikata. Er erreicht eine Höhe von 2.007 Metern.",
       hu: "A Monte Sirino egy jelentős hegy az Appenninekben, Basilicata régióban. Eléri a 2007 méteres magasságot.",
@@ -294,7 +294,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Pollino-Massiv", hu: "Pollino-hegytömb", ro: "Masivul Pollino", en: "Pollino Massif" },
-    coordinates: { lat: 39.9, lng: 16.2 },
+    coords: [16.2, 39.9],
     description: {
       de: "Das Pollino-Massiv bildet einen der höchsten Teile des südlichen Apennins. Es liegt an der Grenze zwischen Basilikata und Kalabrien.",
       hu: "A Pollino-hegytömb a déli Appenninek egyik legmagasabb része. Basilicata és Calabria határán fekszik.",
@@ -326,7 +326,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Subasio", hu: "Monte Subasio", ro: "Monte Subasio", en: "Monte Subasio" },
-    coordinates: { lat: 43.05, lng: 12.65 },
+    coords: [12.65, 43.05],
     description: {
       de: "Der Monte Subasio liegt in Umbrien und überragt die Stadt Assisi. Er ist ein bekanntes Wanderziel im Apennin.",
       hu: "A Monte Subasio Umbriában található, és Assisi városára néz. Az Appenninek egyik ismert túrázó célpontja.",
@@ -358,7 +358,7 @@ export const italyReliefV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Asiago-Hochebene", hu: "Asiago-fennsík", ro: "Podișul Asiago", en: "Asiago Plateau" },
-    coordinates: { lat: 45.8667, lng: 11.5 },
+    coords: [11.5, 45.8667],
     description: {
       de: "Die Asiago-Hochebene ist eine ausgedehnte Hochfläche in den Vizentiner Alpen. Sie ist bekannt für ihre Geschichte und Almwirtschaft.",
       hu: "Az Asiago-fennsík egy kiterjedt fennsík a Vicenzai-Alpokban. Ismert a történelméről és az alpesi gazdálkodásról.",
@@ -390,7 +390,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Cinto", hu: "Monte Cinto", ro: "Monte Cinto", en: "Monte Cinto" },
-    coordinates: { lat: 44.1333, lng: 10.35 },
+    coords: [10.35, 44.1333],
     description: {
       de: "Der Monte Cinto ist ein Berg im Apennin in der Region Toskana. Er bietet weitreichende Ausblicke über den nördlichen Apennin.",
       hu: "A Monte Cinto egy hegy az Appenninekben, Toszkána régióban. Széleskörű kilátást nyújt az északi Appenninekre.",
@@ -422,7 +422,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Falterona", hu: "Monte Falterona", ro: "Monte Falterona", en: "Monte Falterona" },
-    coordinates: { lat: 43.8667, lng: 11.7 },
+    coords: [11.7, 43.8667],
     description: {
       de: "Der Monte Falterona ist ein bekannter Gipfel im Apennin, nahe der Quelle des Arno. Er liegt an der Grenze zwischen Toskana und Emilia-Romagna.",
       hu: "A Monte Falterona egy ismert csúcs az Appenninekben, az Arno forrásának közelében. Toszkána és Emilia-Romagna határán fekszik.",
@@ -454,7 +454,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Nerone", hu: "Monte Nerone", ro: "Monte Nerone", en: "Monte Nerone" },
-    coordinates: { lat: 43.55, lng: 12.5333 },
+    coords: [12.5333, 43.55],
     description: {
       de: "Der Monte Nerone ist ein markanter Kalksteinberg in den Marken. Er ist bekannt für seine Höhlen und Fossilienvorkommen.",
       hu: "A Monte Nerone egy feltűnő mészkőhegy Le Marche régióban. Ismert a barlangjairól és kövületeiről.",
@@ -486,7 +486,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Cucuzzo", hu: "Monte Cucuzzo", ro: "Monte Cucuzzo", en: "Monte Cucuzzo" },
-    coordinates: { lat: 39.5, lng: 16.15 },
+    coords: [16.15, 39.5],
     description: {
       de: "Der Monte Cucuzzo ist ein Berg in der kalabrischen Küstengebirgsregion. Er bietet einen Blick auf das Tyrrhenische Meer.",
       hu: "A Monte Cucuzzo egy hegy a calabriai tengerparti hegységben. Kilátást nyújt a Tirrén-tengerre.",
@@ -518,7 +518,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Vettore", hu: "Monte Vettore", ro: "Monte Vettore", en: "Monte Vettore" },
-    coordinates: { lat: 42.8333, lng: 13.2667 },
+    coords: [13.2667, 42.8333],
     description: {
       de: "Der Monte Vettore ist der höchste Berg des Sibillini-Gebirges im zentralen Apennin. Er erreicht 2.476 Meter.",
       hu: "A Monte Vettore a Sibillini-hegység legmagasabb csúcsa a központi Appenninekben. 2476 méter magas.",
@@ -550,7 +550,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Meta", hu: "Monte Meta", ro: "Monte Meta", en: "Monte Meta" },
-    coordinates: { lat: 41.6833, lng: 13.9167 },
+    coords: [13.9167, 41.6833],
     description: {
       de: "Der Monte Meta ist ein Berg an der Grenze zwischen den Abruzzen und Molise. Er ist Teil des Nationalparks Abruzzen.",
       hu: "A Monte Meta egy hegy Abruzzo és Molise határán. Az Abruzzo Nemzeti Park része.",
@@ -582,7 +582,7 @@ export const italyReliefV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Sila-Hochebene", hu: "Sila-fennsík", ro: "Podișul Sila", en: "Sila Plateau" },
-    coordinates: { lat: 39.3, lng: 16.5 },
+    coords: [16.5, 39.3],
     description: {
       de: "Die Sila-Hochebene liegt im Herzen Kalabriens. Sie ist eine waldreiche Gebirgsregion mit zahlreichen Seen.",
       hu: "A Sila-fennsík Calabria szívében fekszik. Ez egy erdős hegyvidék, számos tóval.",
@@ -614,7 +614,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Terminillo", hu: "Monte Terminillo", ro: "Monte Terminillo", en: "Monte Terminillo" },
-    coordinates: { lat: 42.4833, lng: 12.9667 },
+    coords: [12.9667, 42.4833],
     description: {
       de: "Der Monte Terminillo liegt im Latium und wird oft als der Hausberg von Rom bezeichnet. Er ist ein bekanntes Skigebiet.",
       hu: "A Monte Terminillo Latiumban található, és gyakran Róma házi hegyének nevezik. Ismert síközpont.",
@@ -646,7 +646,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Marsicano", hu: "Monte Marsicano", ro: "Monte Marsicano", en: "Monte Marsicano" },
-    coordinates: { lat: 41.7667, lng: 13.8833 },
+    coords: [13.8833, 41.7667],
     description: {
       de: "Der Monte Marsicano ist ein Berg im Nationalpark Abruzzen. Er ist ein bedeutender Lebensraum für Wildtiere.",
       hu: "A Monte Marsicano egy hegy az Abruzzo Nemzeti Parkban. Jelentős élőhely a vadállatok számára.",
@@ -678,7 +678,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Catria", hu: "Monte Catria", ro: "Monte Catria", en: "Monte Catria" },
-    coordinates: { lat: 43.45, lng: 12.75 },
+    coords: [12.75, 43.45],
     description: {
       de: "Der Monte Catria ist ein Berg in den Marken. Er bietet Wanderwege und eine beeindruckende Aussicht über das Umland.",
       hu: "A Monte Catria egy hegy a Marche régióban. Túraútvonalakat és lenyűgöző kilátást nyújt a környékre.",
@@ -710,7 +710,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte La Nuda", hu: "Monte La Nuda", ro: "Monte La Nuda", en: "Monte La Nuda" },
-    coordinates: { lat: 44.25, lng: 10.3833 },
+    coords: [10.3833, 44.25],
     description: {
       de: "Der Monte La Nuda liegt im toskanisch-emilianischen Apennin. Sein Name bezieht sich auf den kargen, felsigen Gipfelbereich.",
       hu: "A Monte La Nuda a toszkán-emilián Appenninekben található. Neve a kopár, sziklás csúcsra utal.",
@@ -742,7 +742,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Carpegna", hu: "Monte Carpegna", ro: "Monte Carpegna", en: "Monte Carpegna" },
-    coordinates: { lat: 43.7833, lng: 12.3 },
+    coords: [12.3, 43.7833],
     description: {
       de: "Der Monte Carpegna ist ein Berg in den Marken, bekannt für seine Wälder und als Trainingsort für Radsportler.",
       hu: "A Monte Carpegna egy hegy a Marche régióban, ismert erdőiről és mint kerékpárosok edzőhelye.",
@@ -774,7 +774,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Camicia", hu: "Monte Camicia", ro: "Monte Camicia", en: "Monte Camicia" },
-    coordinates: { lat: 42.45, lng: 13.6333 },
+    coords: [13.6333, 42.45],
     description: {
       de: "Der Monte Camicia ist ein Gipfel im Gran-Sasso-Massiv. Er ist für seine steilen Nordwände bekannt.",
       hu: "A Monte Camicia egy csúcs a Gran Sasso-hegytömbben. Ismert a meredek északi falairól.",
@@ -806,7 +806,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Brencola", hu: "Monte Brencola", ro: "Monte Brencola", en: "Monte Brencola" },
-    coordinates: { lat: 43.6167, lng: 12.8333 },
+    coords: [12.8333, 43.6167],
     description: {
       de: "Der Monte Brencola ist ein kleinerer Gipfel im Apennin der Region Marken.",
       hu: "A Monte Brencola egy kisebb csúcs az Appenninekben, Marche régióban.",
@@ -838,7 +838,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Drei Zinnen", hu: "Drei Zinnen", ro: "Drei Zinnen", en: "Tre Cime di Lavaredo" },
-    coordinates: { lat: 46.6194, lng: 12.3028 },
+    coords: [12.3028, 46.6194],
     description: {
       de: "Die Drei Zinnen sind eine markante Berggruppe in den Sextner Dolomiten. Sie sind ein Wahrzeichen der Alpen.",
       hu: "A Drei Zinnen egy feltűnő hegycsoport a Sexteni-Dolomitokban. Az Alpok jelképe.",
@@ -870,7 +870,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Cusna", hu: "Monte Cusna", ro: "Monte Cusna", en: "Monte Cusna" },
-    coordinates: { lat: 44.2667, lng: 10.45 },
+    coords: [10.45, 44.2667],
     description: {
       de: "Der Monte Cusna ist der höchste Berg im toskanisch-emilianischen Apennin. Er ist bei Bergsteigern sehr beliebt.",
       hu: "A Monte Cusna a toszkán-emilián Appenninek legmagasabb hegye. Nagyon népszerű a hegymászók körében.",
@@ -902,7 +902,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Cimone", hu: "Monte Cimone", ro: "Monte Cimone", en: "Monte Cimone" },
-    coordinates: { lat: 44.1833, lng: 10.6833 },
+    coords: [10.6833, 44.1833],
     description: {
       de: "Der Monte Cimone ist ein bedeutender Gipfel im nördlichen Apennin in der Provinz Modena.",
       hu: "A Monte Cimone egy jelentős csúcs az északi Appenninekben, Modena tartományban.",
@@ -934,7 +934,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Giovo", hu: "Monte Giovo", ro: "Monte Giovo", en: "Monte Giovo" },
-    coordinates: { lat: 44.1333, lng: 10.6 },
+    coords: [10.6, 44.1333],
     description: {
       de: "Der Monte Giovo liegt im Apennin und bietet eine beeindruckende Aussicht auf die umgebenden Täler.",
       hu: "A Monte Giovo az Appenninekben található, és lenyűgöző kilátást nyújt a környező völgyekre.",
@@ -966,7 +966,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Penna", hu: "Monte Penna", ro: "Monte Penna", en: "Monte Penna" },
-    coordinates: { lat: 44.5167, lng: 9.5333 },
+    coords: [9.5333, 44.5167],
     description: {
       de: "Der Monte Penna liegt im Ligurischen Apennin und ist für seine markante Felsform bekannt.",
       hu: "A Monte Penna a Ligúr-Appenninekben található, és ismert a markáns sziklaformájáról.",
@@ -998,7 +998,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Beigua", hu: "Monte Beigua", ro: "Monte Beigua", en: "Monte Beigua" },
-    coordinates: { lat: 44.4333, lng: 8.5667 },
+    coords: [8.5667, 44.4333],
     description: {
       de: "Der Monte Beigua ist ein Gipfel nahe der ligurischen Küste. Er bietet einen Blick auf das Mittelmeer.",
       hu: "A Monte Beigua egy csúcs a ligur tengerpart közelében. Kilátást nyújt a Földközi-tengerre.",
@@ -1030,7 +1030,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Antola", hu: "Monte Antola", ro: "Monte Antola", en: "Monte Antola" },
-    coordinates: { lat: 44.5667, lng: 9.1667 },
+    coords: [9.1667, 44.5667],
     description: {
       de: "Der Monte Antola ist ein beliebter Berg nahe Genua im Apennin.",
       hu: "A Monte Antola egy népszerű hegy Genova közelében, az Appenninekben.",
@@ -1062,7 +1062,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Tobbio", hu: "Monte Tobbio", ro: "Monte Tobbio", en: "Monte Tobbio" },
-    coordinates: { lat: 44.6, lng: 8.75 },
+    coords: [8.75, 44.6],
     description: {
       de: "Der Monte Tobbio liegt im Piemont und bietet eine Aussicht auf die weiten Täler bis hin zur Po-Ebene.",
       hu: "A Monte Tobbio Piemontban található, és kilátást nyújt a tágas völgyekre egészen a Pó-alföldig.",
@@ -1094,7 +1094,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Matto", hu: "Monte Matto", ro: "Monte Matto", en: "Monte Matto" },
-    coordinates: { lat: 44.1833, lng: 7.2333 },
+    coords: [7.2333, 44.1833],
     description: {
       de: "Der Monte Matto ist ein Gipfel in den Seealpen im Piemont.",
       hu: "A Monte Matto egy csúcs a Tengeri-Alpokban, Piemontban.",
@@ -1126,7 +1126,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Pizzo d'Uccello", hu: "Pizzo d'Uccello", ro: "Pizzo d'Uccello", en: "Pizzo d'Uccello" },
-    coordinates: { lat: 44.1667, lng: 10.1667 },
+    coords: [10.1667, 44.1667],
     description: {
       de: "Der Pizzo d'Uccello ist ein berühmter Gipfel in den Apuanischen Alpen in der Toskana.",
       hu: "A Pizzo d'Uccello egy híres csúcs az Apuai-Alpokban, Toszkánában.",
@@ -1158,7 +1158,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Sagro", hu: "Monte Sagro", ro: "Monte Sagro", en: "Monte Sagro" },
-    coordinates: { lat: 44.0833, lng: 10.1833 },
+    coords: [10.1833, 44.0833],
     description: {
       de: "Der Monte Sagro ist ein Berg in den Apuanischen Alpen und bietet einen Ausblick auf das Ligurische Meer.",
       hu: "A Monte Sagro egy hegy az Apuai-Alpokban, kilátást nyújtva a Ligúr-tengerre.",
@@ -1190,7 +1190,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Altissimo", hu: "Monte Altissimo", ro: "Monte Altissimo", en: "Monte Altissimo" },
-    coordinates: { lat: 44.0333, lng: 10.2 },
+    coords: [10.2, 44.0333],
     description: {
       de: "Der Monte Altissimo ist einer der höchsten Gipfel in den Apuanischen Alpen in der Toskana.",
       hu: "A Monte Altissimo az Apuai-Alpok egyik legmagasabb csúcsa Toszkánában.",
@@ -1222,7 +1222,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Cristallo", hu: "Monte Cristallo", ro: "Monte Cristallo", en: "Monte Cristallo" },
-    coordinates: { lat: 46.5667, lng: 12.2167 },
+    coords: [12.2167, 46.5667],
     description: {
       de: "Der Monte Cristallo ist ein massives Bergmassiv in den Dolomiten bei Cortina d'Ampezzo.",
       hu: "A Monte Cristallo egy masszív hegytömb a Dolomitokban, Cortina d'Ampezzo közelében.",
@@ -1254,7 +1254,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Soratte", hu: "Monte Soratte", ro: "Monte Soratte", en: "Monte Soratte" },
-    coordinates: { lat: 42.25, lng: 12.6 },
+    coords: [12.6, 42.25],
     description: {
       de: "Der Monte Soratte ist ein markanter Kalksteinberg im Latium, der isoliert aus der Ebene aufragt.",
       hu: "A Monte Soratte egy feltűnő mészkőhegy Latiumban, amely elszigetelten emelkedik ki a síkságból.",
@@ -1286,7 +1286,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Gargano", hu: "Monte Gargano", ro: "Monte Gargano", en: "Monte Gargano" },
-    coordinates: { lat: 41.7, lng: 15.9 },
+    coords: [15.9, 41.7],
     description: {
       de: "Der Monte Gargano ist ein Vorgebirge in Apulien, das weit in die Adria hineinragt.",
       hu: "A Monte Gargano egy hegyfok Puglia régióban, amely mélyen benyúlik az Adriai-tengerbe.",
@@ -1318,7 +1318,7 @@ export const italyReliefV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Sila Grande", hu: "Sila Grande", ro: "Sila Grande", en: "Sila Grande" },
-    coordinates: { lat: 39.4167, lng: 16.5333 },
+    coords: [16.5333, 39.4167],
     description: {
       de: "Sila Grande ist der nördliche Teil der Sila-Hochebene in Kalabrien.",
       hu: "A Sila Grande a Sila-fennsík északi része Calabriában.",
@@ -1350,7 +1350,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Tancia", hu: "Monte Tancia", ro: "Monte Tancia", en: "Monte Tancia" },
-    coordinates: { lat: 42.3, lng: 12.75 },
+    coords: [12.75, 42.3],
     description: {
       de: "Der Monte Tancia ist ein bedeutender Berg im Sabiner Gebirge im Latium.",
       hu: "A Monte Tancia egy jelentős hegy a Sabini-hegységben, Latiumban.",
@@ -1382,7 +1382,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Simbruini", hu: "Monte Simbruini", ro: "Monte Simbruini", en: "Monte Simbruini" },
-    coordinates: { lat: 41.9167, lng: 13.1667 },
+    coords: [13.1667, 41.9167],
     description: {
       de: "Das Simbruini-Gebirge bildet eine Kalkstein-Hochgebirgsregion an der Grenze zwischen Latium und Abruzzen.",
       hu: "A Simbruini-hegység egy mészkőből álló magashegyi régió Latium és Abruzzo határán.",
@@ -1414,7 +1414,7 @@ export const italyReliefV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Lerno", hu: "Monte Lerno", ro: "Monte Lerno", en: "Monte Lerno" },
-    coordinates: { lat: 40.5833, lng: 9.2 },
+    coords: [9.2, 40.5833],
     description: {
       de: "Der Monte Lerno ist ein Berg auf Sardinien. Er ist bekannt für seine bewaldeten Hänge und Wanderwege.",
       hu: "A Monte Lerno egy hegy Szardínián. Ismert az erdős lejtőiről és a túraútvonalairól.",

@@ -6,7 +6,7 @@ export const franceNatureV2: POI[] = [
     type: "lake",
     parent: "FR",
     name: { de: "Lac du Salagou", hu: "Salagou-tó", ro: "Lacul Salagou", en: "Lac du Salagou" },
-    coordinates: { lat: 43.6333, lng: 3.3333 },
+    coords: [3.3333, 43.6333],
     description: {
       de: "Dieser künstliche Stausee im Departement Hérault entstand durch den Bau eines Staudamms in den 1960er Jahren. Er ist bekannt für seine markanten roten Erdböden aus permischem Sediment.",
       hu: "Ez a Hérault megyei mesterséges víztározó az 1960-as években épült gátnak köszönhetően jött létre. Jellegzetes vörös színű, permi üledékes talajáról ismert.",
@@ -38,7 +38,7 @@ export const franceNatureV2: POI[] = [
     type: "valley",
     parent: "FR",
     name: { de: "Cirque de Gavarnie", hu: "Cirque de Gavarnie", ro: "Cirque de Gavarnie", en: "Cirque de Gavarnie" },
-    coordinates: { lat: 42.6961, lng: -0.0039 },
+    coords: [-0.0039, 42.6961],
     description: {
       de: "Dieser natürliche Kessel in den Pyrenäen bildet ein UNESCO-Welterbegebiet. Die Wandhöhe erreicht stellenweise 1.500 Meter über dem Talboden.",
       hu: "Ez a Pireneusokban található természetes katlan az UNESCO világörökség része. A falak magassága helyenként eléri az 1500 métert a völgyfenék felett.",
@@ -70,7 +70,7 @@ export const franceNatureV2: POI[] = [
     type: "forest",
     parent: "FR",
     name: { de: "Wald von Paimpont", hu: "Paimpont-erdő", ro: "Pădurea Paimpont", en: "Paimpont Forest" },
-    coordinates: { lat: 48.005, lng: -2.185 },
+    coords: [-2.185, 48.005],
     description: {
       de: "Dieser Wald in der Bretagne ist historisch als Brocéliande bekannt. Er umfasst rund 9.000 Hektar Eichen- und Buchenbestand.",
       hu: "Ez a Bretagne-ban található erdő történelmileg Brocéliande néven ismert. Körülbelül 9000 hektárnyi tölgy- és bükkerdőt foglal magában.",
@@ -102,7 +102,7 @@ export const franceNatureV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Col du Tourmalet", hu: "Col du Tourmalet", ro: "Col du Tourmalet", en: "Col du Tourmalet" },
-    coordinates: { lat: 42.9064, lng: 0.1453 },
+    coords: [0.1453, 42.9064],
     description: {
       de: "Dieser Gebirgspass ist einer der höchsten befestigten Übergänge der französischen Pyrenäen. Er dient regelmäßig als Etappenziel der Tour de France.",
       hu: "Ez a hegyhágó a francia Pireneusok egyik legmagasabb kiépített átjárója. Rendszeresen a Tour de France kerékpárverseny egyik szakaszának célpontja.",
@@ -134,7 +134,7 @@ export const franceNatureV2: POI[] = [
     type: "peak",
     parent: "FR",
     name: { de: "Aiguilles d'Arves", hu: "Aiguilles d'Arves", ro: "Aiguilles d'Arves", en: "Aiguilles d'Arves" },
-    coordinates: { lat: 45.1333, lng: 6.3 },
+    coords: [6.3, 45.1333],
     description: {
       de: "Drei markante Felsnadeln in den Dauphiné-Alpen prägen diese Gebirgsgruppe. Der höchste Gipfel erreicht 3.514 Meter über dem Meeresspiegel.",
       hu: "A Dauphiné-Alpok három jellegzetes sziklatűje határozza meg ezt a hegycsoportot. A legmagasabb csúcs 3514 méter magasra nyúlik a tengerszint felett.",
@@ -166,7 +166,7 @@ export const franceNatureV2: POI[] = [
     type: "lake",
     parent: "FR",
     name: { de: "Lac de Sainte-Croix", hu: "Lac de Sainte-Croix", ro: "Lac de Sainte-Croix", en: "Lac de Sainte-Croix" },
-    coordinates: { lat: 43.7667, lng: 6.1667 },
+    coords: [6.1667, 43.7667],
     description: {
       de: "Dieser Stausee im Departement Var wurde 1973 durch eine Talsperre geschaffen. Er ist als Eingangstor zu den Verdonschluchten bekannt.",
       hu: "Ez a Var megyei víztározó 1973-ban jött létre egy gátépítést követően. A Verdon-kanyon bejárati kapujaként ismert.",
@@ -198,7 +198,7 @@ export const franceNatureV2: POI[] = [
     type: "peak",
     parent: "FR",
     name: { de: "Pic du Midi d'Ossau", hu: "Pic du Midi d'Ossau", ro: "Pic du Midi d'Ossau", en: "Pic du Midi d'Ossau" },
-    coordinates: { lat: 42.8392, lng: -0.4217 },
+    coords: [-0.4217, 42.8392],
     description: {
       de: "Dieser markante Gipfel ist das Wahrzeichen des Ossau-Tals in den Pyrenäen. Es handelt sich um den verbleibenden Kern eines alten Vulkans.",
       hu: "Ez a jellegzetes csúcs az Ossau-völgy szimbóluma a Pireneusokban. Egy ősi vulkán megmaradt magja.",
@@ -230,7 +230,7 @@ export const franceNatureV2: POI[] = [
     type: "landmark",
     parent: "FR",
     name: { de: "Grande Cascade de Gavarnie", hu: "Grande Cascade de Gavarnie", ro: "Grande Cascade de Gavarnie", en: "Grande Cascade de Gavarnie" },
-    coordinates: { lat: 42.6867, lng: 0.0033 },
+    coords: [0.0033, 42.6867],
     description: {
       de: "Dieser Wasserfall stürzt in mehreren Stufen über eine 422 Meter hohe Felswand. Er gilt als einer der höchsten Wasserfälle in Europa.",
       hu: "Ez a vízesés több lépcsőben zuhan alá egy 422 méter magas sziklafalon. Európa egyik legmagasabb vízeséseként tartják számon.",
@@ -262,7 +262,7 @@ export const franceNatureV2: POI[] = [
     type: "island",
     parent: "FR",
     name: { de: "Île de Bréhat", hu: "Île de Bréhat", ro: "Île de Bréhat", en: "Île de Bréhat" },
-    coordinates: { lat: 48.847, lng: -3.001 },
+    coords: [-3.001, 48.847],
     description: {
       de: "Diese Inselgruppe vor der bretonischen Küste ist für ihr mildes Klima bekannt. Die Pflanzenwelt umfasst zahlreiche mediterrane und exotische Arten.",
       hu: "Ez a szigetcsoport a bretagne-i partok előtt enyhe éghajlatáról ismert. A növényvilág számos mediterrán és egzotikus fajt foglal magában.",
@@ -294,7 +294,7 @@ export const franceNatureV2: POI[] = [
     type: "valley",
     parent: "FR",
     name: { de: "Ardèche-Schlucht", hu: "Ardèche-kanyon", ro: "Cheile Ardèche", en: "Ardèche Gorges" },
-    coordinates: { lat: 44.3833, lng: 4.4167 },
+    coords: [4.4167, 44.3833],
     description: {
       de: "Die Schlucht wurde über Jahrtausende vom Fluss Ardèche in den Kalkstein gegraben. Sie ist für den markanten Natursteinbogen Pont d'Arc bekannt.",
       hu: "A kanyont az Ardèche folyó vájta a mészkőbe évezredek során. Jellegzetes természeti látnivalója a Pont d'Arc sziklahíd.",
@@ -326,7 +326,7 @@ export const franceNatureV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Plateau de Valensole", hu: "Valensole-fennsík", ro: "Podișul Valensole", en: "Valensole Plateau" },
-    coordinates: { lat: 43.8333, lng: 5.9833 },
+    coords: [5.9833, 43.8333],
     description: {
       de: "Das Plateau ist für seine weitläufigen Lavendelfelder bekannt. Die landwirtschaftlich geprägte Landschaft liegt in der Region Provence.",
       hu: "A fennsík kiterjedt levendulamezőiről ismert. A mezőgazdasági jellegű táj Provence régiójában fekszik.",
@@ -358,7 +358,7 @@ export const franceNatureV2: POI[] = [
     type: "mountain",
     parent: "FR",
     name: { de: "Vignemale-Massiv", hu: "Vignemale-hegység", ro: "Masivul Vignemale", en: "Vignemale Massif" },
-    coordinates: { lat: 42.775, lng: -0.147 },
+    coords: [-0.147, 42.775],
     description: {
       de: "Der Vignemale ist der höchste Berg der französischen Pyrenäen. Das Massiv beherbergt den größten Gletscher des Gebirgszuges.",
       hu: "A Vignemale a francia Pireneusok legmagasabb hegye. A hegység ad otthont a hegylánc legnagyobb gleccserének.",
@@ -390,7 +390,7 @@ export const franceNatureV2: POI[] = [
     type: "forest",
     parent: "FR",
     name: { de: "Forêt de Tronçais", hu: "Tronçais-erdő", ro: "Pădurea Tronçais", en: "Tronçais Forest" },
-    coordinates: { lat: 46.6667, lng: 2.75 },
+    coords: [2.75, 46.6667],
     description: {
       de: "Dieser Wald im Departement Allier gilt als einer der schönsten Eichenwälder Europas. Die Bäume erreichen ein Alter von über 300 Jahren.",
       hu: "Ez az Allier megyei erdő Európa egyik legszebb tölgyerdőjeként ismert. A fák életkora meghaladja a 300 évet.",
@@ -422,7 +422,7 @@ export const franceNatureV2: POI[] = [
     type: "peak",
     parent: "FR",
     name: { de: "Mont Aigoual", hu: "Mont Aigoual", ro: "Mont Aigoual", en: "Mont Aigoual" },
-    coordinates: { lat: 44.125, lng: 3.583 },
+    coords: [3.583, 44.125],
     description: {
       de: "Der Berg ist der höchste Gipfel der südlichen Cevennen. Er ist für sein Wetterobservatorium bekannt, das seit 1894 in Betrieb ist.",
       hu: "A hegy a déli Cevennek legmagasabb csúcsa. Időjárás-megfigyelő állomásáról ismert, amely 1894 óta működik.",

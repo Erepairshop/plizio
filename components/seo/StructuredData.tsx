@@ -50,11 +50,11 @@ export function createPoiStructuredData(poi: POI, lang: Lang) {
     name: poi.name[lang] || poi.name.de,
     description: poi.description?.[lang] || poi.description?.de || "",
     image: (() => { const s = getPoiImage(poi); return s ? absoluteUrl(s) : undefined; })(),
-    geo: {
+    geo: poi.coords ? {
       "@type": "GeoCoordinates",
-      latitude: poi.coords![1],
-      longitude: poi.coords![0],
-    },
+      latitude: poi.coords[1],
+      longitude: poi.coords[0],
+    } : undefined,
     address: {
       "@type": "PostalAddress",
       addressCountry: countryCode,

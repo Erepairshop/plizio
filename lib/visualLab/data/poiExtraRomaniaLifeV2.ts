@@ -6,7 +6,7 @@ export const romaniaLifeV2: POI[] = [
     type: "park",
     parent: "RO",
     name: { de: "Nationalpark Măcin-Gebirge", hu: "Măcin-hegységi Nemzeti Park", ro: "Parcul Național Munții Măcinului", en: "Măcin Mountains National Park" },
-    coordinates: { lat: 45.1667, lng: 28.25 },
+    coords: [28.25, 45.1667],
     description: {
       de: "Das im Osten Rumäniens gelegene Gebiet umfasst eines der ältesten Gebirge des Landes. Es beherbergt eine hohe Biodiversität an Flora und Fauna der Steppen- und Waldzone.",
       hu: "Ez a Románia keleti részén található terület az ország egyik legidősebb hegysége. Magas biodiverzitással rendelkezik a sztyeppei és erdei zóna növény- és állatvilága terén.",
@@ -38,7 +38,7 @@ export const romaniaLifeV2: POI[] = [
     type: "park",
     parent: "RO",
     name: { de: "Botanischer Garten Jibou", hu: "Zsibói Botanikus Kert", ro: "Grădina Botanică Jibou", en: "Jibou Botanical Garden" },
-    coordinates: { lat: 47.2611, lng: 23.2575 },
+    coords: [23.2575, 47.2611],
     description: {
       de: "Der Botanische Garten befindet sich auf dem Gelände des ehemaligen Wesselényi-Schlosses. Er umfasst ein Palmenhaus, ein Aquarium und ausgedehnte Freilandanlagen.",
       hu: "A botanikus kert az egykori Wesselényi-kastély területén található. Pálmaházat, akváriumot és kiterjedt szabadtéri gyűjteményeket tartalmaz.",
@@ -70,7 +70,7 @@ export const romaniaLifeV2: POI[] = [
     type: "park",
     parent: "RO",
     name: { de: "Nationalpark Semenic-Caraș-Klamm", hu: "Semenic-Krassó-szurdok Nemzeti Park", ro: "Parcul Național Semenic-Cheile Carașului", en: "Semenic-Caraș Gorges National Park" },
-    coordinates: { lat: 45.15, lng: 21.9 },
+    coords: [21.9, 45.15],
     description: {
       de: "Das Schutzgebiet im Anina-Gebirge zeichnet sich durch Karstlandschaften aus. Es beheimatet ausgedehnte Buchen-Urwälder und tiefe Schluchten.",
       hu: "Az Anina-hegységben található védett terület karsztos tájairól ismert. Kiterjedt bükk-őserdőknek és mély szurdokoknak ad otthont.",
@@ -102,7 +102,7 @@ export const romaniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "RO",
     name: { de: "Naturschutzgebiet Tinovul Mohoș", hu: "Mohos-tőzegláp Természetvédelmi Terület", ro: "Rezervația Tinovul Mohoș", en: "Tinovul Mohoș Nature Reserve" },
-    coordinates: { lat: 46.128, lng: 25.894 },
+    coords: [25.894, 46.128],
     description: {
       de: "Dieses Hochmoor liegt im Krater eines erloschenen Vulkans. Es ist bekannt für seine spezifische Flora, darunter fleischfressende Pflanzen.",
       hu: "Ez a magasláp egy kialudt vulkán kráterében helyezkedik el. Ismert sajátos növényvilágáról, beleértve a rovarevő növényeket is.",
@@ -134,7 +134,7 @@ export const romaniaLifeV2: POI[] = [
     type: "park",
     parent: "RO",
     name: { de: "Naturpark Balta Mică a Brăilei", hu: "Kis-Braila-szigeti Natúrpark", ro: "Parcul Natural Balta Mică a Brăilei", en: "Balta Mică a Brăilei Natural Park" },
-    coordinates: { lat: 44.8, lng: 27.9 },
+    coords: [27.9, 44.8],
     description: {
       de: "Dieses Schutzgebiet umfasst eine Inselgruppe in der Donau. Es stellt ein wichtiges Rückzugsgebiet für Wasservögel dar.",
       hu: "Ez a védett terület egy szigetcsoportot foglal magában a Dunán. Fontos menedékhely a vízi madarak számára.",
@@ -166,7 +166,7 @@ export const romaniaLifeV2: POI[] = [
     type: "wildlife",
     parent: "RO",
     name: { de: "Naturschutzgebiet Bănița-Klamm", hu: "Bănița-szurdok Természetvédelmi Terület", ro: "Rezervația Cheile Băniței", en: "Bănița Gorges Nature Reserve" },
-    coordinates: { lat: 45.48, lng: 23.27 },
+    coords: [23.27, 45.48],
     description: {
       de: "Die spektakuläre Bănița-Klamm im Hunedoara-Kreis besticht durch ihre engen, gewundenen Felswände. Sie wurde durch einen Fluss in den Kalkstein gegraben.",
       hu: "A Hunyad megyei látványos Bănița-szurdok szűk, kanyargós sziklafalairól nevezetes. Egy folyó vájta ki a mészkőben.",

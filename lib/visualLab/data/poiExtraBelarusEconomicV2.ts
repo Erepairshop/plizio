@@ -8,7 +8,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Minsker Traktorenwerk (MTZ)", hu: "Minszki Traktorgyár (MTZ)", ro: "Uzina de Tractoare din Minsk (MTZ)", en: "Minsk Tractor Works (MTZ)"},
     image: "/poi-images/belarus-minsk-tractor-works-economic-v2.webp",
     coords: [27.6253, 53.8931],
-    coordinates: { lat: 53.8931, lng: 27.6253 },
+    coords: [27.6253, 53.8931],
     description: {
       de: "Das 1946 gegründete Werk ist einer der größten Traktorenhersteller der Welt. Die produzierten Maschinen werden unter der Marke Belarus in über 60 Länder exportiert.",
       hu: "Az 1946-ban alapított gyár a világ egyik legnagyobb mezőgazdasági gépgyártója. A Belarus márkájú traktorokat a világ több mint 60 országába exportálják.",
@@ -41,7 +41,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "BelAZ-Werk Shodsina", hu: "BelAZ-gyár, Zsogyino", ro: "Uzina BelAZ din Jodino", en: "BelAZ Plant Zhodino"},
     image: "/poi-images/belarus-belaz-zhodino-economic-v2.webp",
     coords: [28.312, 54.095],
-    coordinates: { lat: 54.095, lng: 28.312 },
+    coords: [28.312, 54.095],
     description: {
       de: "BelAZ ist ein weltweit führender Hersteller von Muldenkippern für den Bergbau. Das Werk in Shodsina produziert einige der größten Fahrzeuge der Welt.",
       hu: "A BelAZ a világ egyik vezető bányászati dömpergyártója. A zsogyinói gyárban készülnek a világ legnagyobb teherbírású gépjárművei.",
@@ -74,7 +74,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Minsker Automobilwerk (MAZ)", hu: "Minszki Autógyár (MAZ)", ro: "Uzina de Automobile din Minsk (MAZ)", en: "Minsk Automobile Plant (MAZ)"},
     image: "/poi-images/belarus-maz-minsk-economic-v2.webp",
     coords: [27.6534, 53.8619],
-    coordinates: { lat: 53.8619, lng: 27.6534 },
+    coords: [27.6534, 53.8619],
     description: {
       de: "MAZ ist ein bedeutender Hersteller von Lastkraftwagen, Bussen und Oberleitungsbussen. Das Werk wurde 1944 gegründet und ist eine tragende Säule der belarussischen Schwerindustrie.",
       hu: "A MAZ teherautók, autóbuszok és trolibuszok jelentős gyártója. Az 1944-ben alapított gyár a fehérorosz nehézipar egyik tartóoszlopa.",
@@ -108,7 +108,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Belaruskali Salihorsk", hu: "Belaruskali, Szoligorszk", ro: "Belaruskali Soligorsk", en: "Belaruskali Soligorsk"},
     image: "/poi-images/belarus-belaruskali-soligorsk-economic-v2.webp",
     coords: [27.5414, 52.7869],
-    coordinates: { lat: 52.7869, lng: 27.5414 },
+    coords: [27.5414, 52.7869],
     description: {
       de: "Belaruskali ist einer der weltweit größten Produzenten von Kalidüngemitteln. Das Unternehmen baut Kali in der Region Salihorsk ab, wo riesige unterirdische Vorkommen liegen.",
       hu: "A Belaruskali a világ egyik legnagyobb káliműtrágya-gyártója. A vállalat a szoligorszki régió hatalmas föld alatti lelőhelyein bányássza a kálit.",
@@ -141,7 +141,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Naftan Ölraffinerie", hu: "Naftan Olajfinomító", ro: "Rafinăria de Petrol Naftan", en: "Naftan Oil Refinery"},
     image: "/poi-images/belarus-naftan-oil-refinery-economic-v2.webp",
     coords: [28.52, 55.5312],
-    coordinates: { lat: 55.5312, lng: 28.52 },
+    coords: [28.52, 55.5312],
     description: {
       de: "Naftan in Nawapolazk ist eine der beiden großen Ölraffinerien Weißrusslands. Sie verarbeitet Rohöl zu Benzin, Diesel und verschiedenen petrochemischen Produkten.",
       hu: "A Navapolackban található Naftan az egyik a két nagy fehérorosz olajfinomító közül. Nyersolajból benzint, dízelt és petrolkémiai termékeket állít elő.",
@@ -175,7 +175,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Ölraffinerie Mosyr", hu: "Maziri Olajfinomító", ro: "Rafinăria de Petrol Mozîr", en: "Mozyr Oil Refinery"},
     image: "/poi-images/belarus-mozyr-refinery-economic-v2.webp",
     coords: [29.231, 52.046],
-    coordinates: { lat: 52.046, lng: 29.231 },
+    coords: [29.231, 52.046],
     description: {
       de: "Die Raffinerie in Mosyr ist ein Schlüsselunternehmen der belarussischen Wirtschaft. Sie ist auf die Herstellung hochwertiger Kraftstoffe nach europäischen Standards spezialisiert.",
       hu: "A maziri finomító a fehérorosz gazdaság egyik kulcsvállalata. Az európai szabványoknak megfelelő, kiváló minőségű üzemanyagok gyártására szakosodott.",
@@ -208,7 +208,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Grodno Azot", hu: "Grodno Azot", ro: "Grodno Azot", en: "Grodno Azot"},
     image: "/poi-images/belarus-grodno-azot-economic-v2.webp",
     coords: [23.9, 53.67],
-    coordinates: { lat: 53.67, lng: 23.9 },
+    coords: [23.9, 53.67],
     description: {
       de: "Grodno Azot ist ein gigantischer Chemiekomplex, der auf die Produktion von Stickstoffdünger und Ammoniak spezialisiert ist. Er deckt den Großteil des Inlandsbedarfs.",
       hu: "A Grodno Azot egy hatalmas vegyipari komplexum, amely nitrogénműtrágya és ammónia gyártására szakosodott. A belföldi igények nagy részét ez fedezi.",
@@ -241,7 +241,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Belarussisches Stahlwerk (BMZ)", hu: "Fehérorosz Acélmű (BMZ)", ro: "Combinatul Siderurgic Belarus (BMZ)", en: "Byelorussian Steel Works (BMZ)"},
     image: "/poi-images/belarus-bmz-zhlobin-economic-v2.webp",
     coords: [30.01, 52.88],
-    coordinates: { lat: 52.88, lng: 30.01 },
+    coords: [30.01, 52.88],
     description: {
       de: "BMZ in Schlobin ist das Herz der belarussischen Metallurgie. Es produziert hochwertigen Stahl, Rohre und Draht für die Automobil- und Bauindustrie weltweit.",
       hu: "A zslobini BMZ a fehérorosz kohászat szíve. Kiváló minőségű acélt, csöveket és huzalokat gyárt az autó- és építőipar számára világszerte.",
@@ -274,7 +274,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Gomselmash", hu: "Gomselmash", ro: "Gomselmash", en: "Gomselmash"},
     image: "/poi-images/belarus-gomselmash-economic-v2.webp",
     coords: [30.95, 52.45],
-    coordinates: { lat: 52.45, lng: 30.95 },
+    coords: [30.95, 52.45],
     description: {
       de: "Gomselmash ist ein führender Hersteller von Erntemaschinen, insbesondere Mähdreschern. Das Unternehmen hat seinen Sitz in Homel und exportiert weltweit.",
       hu: "A Gomselmash a betakarítógépek, különösen a kombájnok egyik vezető gyártója. A gomeli székhelyű vállalat világszerte exportálja termékeit.",
@@ -307,7 +307,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Belshina Babrujsk", hu: "Belshina, Babrujszk", ro: "Belshina Babruisk", en: "Belshina Babruysk"},
     image: "/poi-images/belarus-belshina-babruysk-economic-v2.webp",
     coords: [29.25, 53.18],
-    coordinates: { lat: 53.18, lng: 29.25 },
+    coords: [29.25, 53.18],
     description: {
       de: "Belshina ist einer der größten Reifenhersteller in Europa. Das Werk in Babrujsk produziert Reifen für PKW, LKW und riesige Bergbaumaschinen.",
       hu: "A Belshina Európa egyik legnagyobb gumiabroncs-gyártója. A babrujszki gyárban személyautókhoz, teherautókhoz és óriási bányagépekhez készülnek abroncsok.",
@@ -340,7 +340,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Mogilevkhimvolokno", hu: "Mogilevkhimvolokno", ro: "Mogilevkhimvolokno", en: "Mogilevkhimvolokno"},
     image: "/poi-images/belarus-mogilevkhimvolokno-economic-v2.webp",
     coords: [30.33, 53.85],
-    coordinates: { lat: 53.85, lng: 30.33 },
+    coords: [30.33, 53.85],
     description: {
       de: "Mogilevkhimvolokno ist der größte Hersteller von synthetischen Fasern und PET-Granulat in Osteuropa. Es ist der wichtigste Industriekomplex der Stadt Mahiljou.",
       hu: "A Mogilevkhimvolokno Kelet-Európa legnagyobb szintetikus rost- és PET-granulátum gyártója. Mogiljov városának legfontosabb ipari létesítménye.",
@@ -373,7 +373,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Industriepark Great Stone", hu: "Great Stone Ipari Park", ro: "Parcul Industrial Great Stone", en: "Great Stone Industrial Park"},
     image: "/poi-images/belarus-great-stone-industrial-park-economic-v2.webp",
     coords: [28.05, 53.9],
-    coordinates: { lat: 53.9, lng: 28.05 },
+    coords: [28.05, 53.9],
     description: {
       de: "Great Stone ist ein gemeinsames chinesisch-belarussisches Projekt für Hochtechnologie und Logistik. Es bietet steuerliche Anreize für internationale Unternehmen nahe Minsk.",
       hu: "A Great Stone egy közös kínai-fehérorosz projekt a csúcstechnológia és logisztika területén. Adókedvezményeket kínál nemzetközi cégeknek Minszk közelében.",
@@ -406,7 +406,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Kernkraftwerk Belarus", hu: "Fehérorosz Atomerőmű", ro: "Centrala Nucleară din Belarus", en: "Belarusian Nuclear Power Plant"},
     image: "/poi-images/belarus-nuclear-power-plant-economic-v2.webp",
     coords: [26.11, 54.75],
-    coordinates: { lat: 54.75, lng: 26.11 },
+    coords: [26.11, 54.75],
     description: {
       de: "Das Kernkraftwerk in Astrawez ist das erste Atomkraftwerk des Landes. Es soll die Abhängigkeit von Gasimporten verringern und die Stromkosten senken.",
       hu: "Az asztraveci atomerőmű az ország első nukleáris létesítménye. Célja a gázimporttól való függőség csökkentése és az áramköltségek mérséklése.",
@@ -439,7 +439,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Leinenkombinat Orscha", hu: "Orsai Lenkombinát", ro: "Combinatul de In din Orșa", en: "Orsha Linen Mill"},
     image: "/poi-images/belarus-orsha-linen-mill-economic-v2.webp",
     coords: [30.43, 54.51],
-    coordinates: { lat: 54.51, lng: 30.43 },
+    coords: [30.43, 54.51],
     description: {
       de: "Das Leinenkombinat Orscha ist der größte Produzent von Leinengeweben in Europa. Es verarbeitet den in Belarus angebauten Flachs zu Textilien höchster Qualität.",
       hu: "Az orsai lenkombinát Európa legnagyobb lenvászon-gyártója. A Fehéroroszországban termesztett lent dolgozzák fel kiváló minőségű textilekké.",
@@ -472,7 +472,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Süßwarenfabrik Kommunarka", hu: "Kommunarka Édességgyár", ro: "Fabrica de Dulciuri Kommunarka", en: "Kommunarka Confectionery"},
     image: "/poi-images/belarus-kommunarka-confectionery-economic-v2.webp",
     coords: [27.58, 53.88],
-    coordinates: { lat: 53.88, lng: 27.58 },
+    coords: [27.58, 53.88],
     description: {
       de: "Kommunarka in Minsk ist eine der ältesten und bekanntesten Schokoladenfabriken Weißrusslands. Sie produziert Hunderte Arten von Süßigkeiten nach traditionellen Rezepten.",
       hu: "A minszki Kommunarka az egyik legrégebbi és legismertebb fehérorosz csokoládégyár. Édességek százait gyártják itt hagyományos receptek alapján.",
@@ -505,7 +505,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Süßwarenfabrik Spartak", hu: "Spartak Édességgyár", ro: "Fabrica de Dulciuri Spartak", en: "Spartak Confectionery"},
     image: "/poi-images/belarus-spartak-confectionery-economic-v2.webp",
     coords: [30.98, 52.41],
-    coordinates: { lat: 52.41, lng: 30.98 },
+    coords: [30.98, 52.41],
     description: {
       de: "Spartak mit Sitz in Homel ist ein bedeutender Hersteller von Schokolade, Keksen und Waffeln. Es ist einer der größten Exporteure von belarussischen Süßwaren.",
       hu: "A gomeli székhelyű Spartak a csokoládé, keksz és ostya jelentős gyártója. A fehérorosz édességek egyik legnagyobb exportőre.",
@@ -538,7 +538,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Wärmekraftwerk Lukoml", hu: "Lukomli Hőerőmű", ro: "Centrala Termoelectrică Lukoml", en: "Lukoml Power Station"},
     image: "/poi-images/belarus-lukoml-power-station-economic-v2.webp",
     coords: [29.13, 54.66],
-    coordinates: { lat: 54.66, lng: 29.13 },
+    coords: [29.13, 54.66],
     description: {
       de: "Das Kraftwerk Lukoml ist das leistungsstärkste Wärmekraftwerk Weißrusslands. Es deckt einen signifikanten Teil des nationalen Strombedarfs ab.",
       hu: "A lukomli erőmű Fehéroroszország legnagyobb teljesítményű hőerőműve. Az ország villamosenergia-igényének jelentős részét fedezi.",
@@ -571,7 +571,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Granit Mikaschewitschi", hu: "Granit, Mikasevicsi", ro: "Granit Mikașevici", en: "Granit Mikashevichi"},
     image: "/poi-images/belarus-granit-mikashevichi-economic-v2.webp",
     coords: [27.46, 52.22],
-    coordinates: { lat: 52.22, lng: 27.46 },
+    coords: [27.46, 52.22],
     description: {
       de: "Granit in Mikaschewitschi betreibt den größten Granitsteinbruch Europas. Das gewonnene Material wird für den Straßenbau und die Bauindustrie im In- und Ausland genutzt.",
       hu: "A mikasevicsi Granit üzemelteti Európa legnagyobb gránitbányáját. A kitermelt anyagot útépítéshez és az építőiparhoz használják belföldön és külföldön.",
@@ -604,7 +604,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Integral Minsk", hu: "Integral Minszk", ro: "Integral Minsk", en: "Integral Minsk"},
     image: "/poi-images/belarus-integral-minsk-economic-v2.webp",
     coords: [27.51, 53.85],
-    coordinates: { lat: 53.85, lng: 27.51 },
+    coords: [27.51, 53.85],
     description: {
       de: "Integral ist das Zentrum der belarussischen Mikroelektronik. Das Unternehmen entwickelt und produziert integrierte Schaltkreise und elektronische Bauelemente.",
       hu: "Az Integral a fehérorosz mikroelektronika központja. A vállalat integrált áramköröket és elektronikai alkatrészeket fejleszt és gyárt.",
@@ -637,7 +637,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "BelGee-Werk", hu: "BelGee-gyár", ro: "Uzina BelGee", en: "BelGee Plant"},
     image: "/poi-images/belarus-belgee-factory-economic-v2.webp",
     coords: [28.45, 54.18],
-    coordinates: { lat: 54.18, lng: 28.45 },
+    coords: [28.45, 54.18],
     description: {
       de: "BelGee ist ein Joint Venture zwischen Weißrussland und dem chinesischen Autohersteller Geely. Das Werk montiert moderne Personenkraftwagen für den regionalen Markt.",
       hu: "A BelGee egy közös vállalat Fehéroroszország és a kínai Geely autógyártó között. A gyár modern személyautókat szerel össze a régió piaca számára.",
@@ -670,7 +670,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Arzneimittelwerk Baryssau", hu: "Bariszavi Gyógyszergyár", ro: "Fabrica de Preparate Medicale Borisov", en: "Borisov Plant of Medical Preparations"},
     image: "/poi-images/belarus-borisov-medical-preparations-economic-v2.webp",
     coords: [28.51, 54.21],
-    coordinates: { lat: 54.21, lng: 28.51 },
+    coords: [28.51, 54.21],
     description: {
       de: "Dieses Werk ist der führende Hersteller von Medikamenten in Belarus. Es produziert eine breite Palette von Arzneimitteln, von Antibiotika bis hin zu Vitaminen.",
       hu: "Ez a gyár Fehéroroszország vezető gyógyszergyártója. Orvosságok széles skáláját állítja elő az antibiotikumoktól a vitaminokig.",
@@ -704,7 +704,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Polozk-Steklowolokno", hu: "Polock-Sztekolovolokno", ro: "Polotsk-Steklovolokno", en: "Polotsk-Steklovolokno"},
     image: "/poi-images/belarus-polotsk-steklovolokno-economic-v2.webp",
     coords: [28.75, 55.48],
-    coordinates: { lat: 55.48, lng: 28.75 },
+    coords: [28.75, 55.48],
     description: {
       de: "Polozk-Steklowolokno ist ein weltweit bekannter Hersteller von Glasfasern und daraus hergestellten Produkten für Bau, Luftfahrt und Industrie.",
       hu: "A Polock-Sztekolovolokno világszerte ismert üvegrost-gyártó. Termékeit az építőiparban, a repülésben és más iparágakban használják.",
@@ -737,7 +737,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Milavitsa", hu: "Milavitsa", ro: "Milavitsa", en: "Milavitsa"},
     image: "/poi-images/belarus-milavitsa-minsk-economic-v2.webp",
     coords: [27.54, 53.91],
-    coordinates: { lat: 53.91, lng: 27.54 },
+    coords: [27.54, 53.91],
     description: {
       de: "Milavitsa ist eine der führenden Marken für Damenunterwäsche in Osteuropa. Das Unternehmen mit Sitz in Minsk steht für Qualität und modisches Design.",
       hu: "A Milavitsa Kelet-Európa egyik vezető fehérneműmárkája. A minszki székhelyű vállalat a minőséget és a divatos designt képviseli.",
@@ -771,7 +771,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Atlant Minsk", hu: "Atlant Minszk", ro: "Atlant Minsk", en: "Atlant Minsk"},
     image: "/poi-images/belarus-atlant-minsk-economic-v2.webp",
     coords: [27.52, 53.92],
-    coordinates: { lat: 53.92, lng: 27.52 },
+    coords: [27.52, 53.92],
     description: {
       de: "Atlant ist ein bekannter Hersteller von Haushaltsgeräten, insbesondere Kühl- und Gefrierschränken. Die Produkte genießen in Osteuropa einen Ruf für Zuverlässigkeit.",
       hu: "Az Atlant a háztartási gépek, különösen a hűtő- és fagyasztószekrények ismert gyártója. Termékei megbízhatóságukról híresek Kelet-Európában.",
@@ -804,7 +804,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Horizont Minsk", hu: "Horizont Minszk", ro: "Horizont Minsk", en: "Horizont Minsk"},
     image: "/poi-images/belarus-horizont-minsk-economic-v2.webp",
     coords: [27.57, 53.91],
-    coordinates: { lat: 53.91, lng: 27.57 },
+    coords: [27.57, 53.91],
     description: {
       de: "Horizont ist der größte belarussische Hersteller von Unterhaltungselektronik. Das Unternehmen ist vor allem für seine Fernsehgeräte und Klimaanlagen bekannt.",
       hu: "A Horizont a legnagyobb fehérorosz szórakoztatóelektronikai gyártó. A vállalat leginkább televízióiról és klímaberendezéseiről ismert.",
@@ -838,7 +838,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Minsker Motorenwerk (MMZ)", hu: "Minszki Motorgyár (MMZ)", ro: "Uzina de Motoare din Minsk (MMZ)", en: "Minsk Motor Plant (MMZ)"},
     image: "/poi-images/belarus-minsk-motor-plant-economic-v2.webp",
     coords: [27.63, 53.9],
-    coordinates: { lat: 53.9, lng: 27.63 },
+    coords: [27.63, 53.9],
     description: {
       de: "MMZ ist der führende Hersteller von Dieselmotoren in Weißrussland. Die Motoren werden in Traktoren, Lastwagen und landwirtschaftliche Maschinen eingebaut.",
       hu: "Az MMZ Fehéroroszország vezető dízelmotor-gyártója. Az itt készült motorokat traktorokba, teherautókba és mezőgazdasági gépekbe építik be.",
@@ -871,7 +871,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Lack- und Farbenwerk Lida", hu: "Lidai Festékgyár", ro: "Fabrica de Vopsele Lida", en: "Lida Paint Plant"},
     image: "/poi-images/belarus-lida-paint-plant-economic-v2.webp",
     coords: [25.29, 53.9],
-    coordinates: { lat: 53.9, lng: 25.29 },
+    coords: [25.29, 53.9],
     description: {
       de: "Lakokraska in Lida ist der größte Hersteller von Farben und Lacken in Belarus. Das Unternehmen beliefert sowohl die Bauindustrie als auch private Verbraucher.",
       hu: "A lidai Lakokraszaka Fehéroroszország legnagyobb festék- és lakkgyártója. A vállalat az építőipart és a lakossági fogyasztókat egyaránt kiszolgálja.",
@@ -904,7 +904,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Kraftwerk Berjosowskaja", hu: "Bjerezovszkajai Erőmű", ro: "Centrala Electrică Berezovskaia", en: "Berezovskaya Power Station"},
     image: "/poi-images/belarus-berezovskaya-power-station-economic-v2.webp",
     coords: [25.0, 52.48],
-    coordinates: { lat: 52.48, lng: 25.0 },
+    coords: [25.0, 52.48],
     description: {
       de: "Die GRES Berjosowskaja in Bjeloosjorsk ist eines der größten Wärmekraftwerke im Westen von Belarus. Es ist entscheidend für die Energieversorgung der Region Brest.",
       hu: "A bjeloozjorszki Bjerezovszkajai erőmű az egyik legnagyobb hőerőmű Nyugat-Fehéroroszországban. Kulcsfontosságú a breszti régió energiaellátásában.",
@@ -937,7 +937,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Freie Wirtschaftszone Brest", hu: "Breszti Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Brest", en: "Brest Special Economic Zone"},
     image: "/poi-images/belarus-brest-economic-zone-economic-v2.webp",
     coords: [23.65, 52.13],
-    coordinates: { lat: 52.13, lng: 23.65 },
+    coords: [23.65, 52.13],
     description: {
       de: "Diese Sonderzone bietet Unternehmen steuerliche Vorteile und eine hervorragende Logistik an der Grenze zur EU. Sie ist ein Motor für ausländische Investitionen in Belarus.",
       hu: "Ez a különleges övezet adókedvezményeket és kiváló logisztikát kínál a vállalatoknak az EU határán. A külföldi befektetések motorja az országban.",
@@ -970,7 +970,7 @@ export const belarusEconomicV2: POI[] = [
     name: { de: "Freie Wirtschaftszone Witebsk", hu: "Vityebszki Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Vitebsk", en: "Vitebsk Special Economic Zone"},
     image: "/poi-images/belarus-vitebsk-economic-zone-economic-v2.webp",
     coords: [30.25, 55.18],
-    coordinates: { lat: 55.18, lng: 30.25 },
+    coords: [30.25, 55.18],
     description: {
       de: "Die Wirtschaftszone Witebsk konzentriert sich auf High-Tech-Industrie und Textilproduktion im Norden von Belarus. Sie zieht Investoren aus dem gesamten Ostseeraum an.",
       hu: "A vityebszki gazdasági övezet a csúcstechnológiára és a textilgyártásra összpontosít Észak-Fehéroroszországban. A balti régió befektetőit vonzza.",
@@ -1003,7 +1003,7 @@ export const belarusEconomicV2: POI[] = [
     type: "factory",
     parent: "BY",
     name: { de: "Dobrush Papierfabrik", hu: "Dobrusi Papírgyár", ro: "Fabrica de hârtie din Dobruș", en: "Dobrush Paper Mill" },
-    coordinates: { lat: 52.3925, lng: 31.3128 },
+    coords: [31.3128, 52.3925],
     description: {
       de: "Die Dobrusch Papierfabrik ist eine der ältesten und bedeutendsten Papierproduktionsstätten in Belarus. Sie produziert eine breite Palette an Papier- und Kartonprodukten für den nationalen und internationalen Markt.",
       hu: "A dobrusi papírgyár Fehéroroszország egyik legrégebbi és legjelentősebb papírgyártó üzeme. Széles választékban állít elő papír- és kartontermékeket a nemzeti és nemzetközi piacra.",
@@ -1035,7 +1035,7 @@ export const belarusEconomicV2: POI[] = [
     type: "factory",
     parent: "BY",
     name: { de: "Beryosa Silikatziegelwerk", hu: "Berjozai Szilikáttégla-gyár", ro: "Fabrica de cărămidă silico-calcaroasă din Beryoza", en: "Beryoza Silica Brick Plant" },
-    coordinates: { lat: 52.5358, lng: 24.9753 },
+    coords: [24.9753, 52.5358],
     description: {
       de: "Das Silikatziegelwerk in Beryosa ist ein bedeutender Industriebetrieb für Baumaterialien in der Region Brest. Die Fabrik ist spezialisiert auf die Herstellung von Silikatsteinen und Blockprodukten für den Bausektor.",
       hu: "A berjozai szilikáttégla-gyár a breszti régió egyik jelentős építőanyag-ipari üzeme. A gyár szilikáttéglák és blokkok gyártására specializálódott az építőipar számára.",

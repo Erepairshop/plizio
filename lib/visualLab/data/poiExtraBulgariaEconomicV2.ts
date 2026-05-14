@@ -6,7 +6,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Gabrowo Industriezentrum", hu: "Gabrovo ipari központ", ro: "Centrul industrial Gabrovo", en: "Gabrovo Industrial Center" },
-    coordinates: { lat: 42.8735, lng: 25.3167 },
+    coords: [25.3167, 42.8735],
     description: {
       de: "Gabrowo ist ein historisches Zentrum der Textil- und Maschinenbauindustrie in Nordbulgarien. Die Stadt beherbergt mehrere technische Fabriken und verarbeitende Betriebe.",
       hu: "Gabrovo Észak-Bulgária történelmi textil- és gépipari központja. A város számos műszaki gyárnak és feldolgozóüzemnek ad otthont.",
@@ -38,7 +38,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "agriculture",
     parent: "BG",
     name: { de: "Asenowgrad Weinwirtschaft", hu: "Aszenovgrád borászati központ", ro: "Centrul viticol Asenovgrad", en: "Asenovgrad Viticulture Center" },
-    coordinates: { lat: 42.0033, lng: 24.8722 },
+    coords: [24.8722, 42.0033],
     description: {
       de: "Asenowgrad ist ein bedeutendes Zentrum für die Weinproduktion und Lebensmittelverarbeitung in der Region Plowdiw. Die umliegenden Gebiete sind für ihre großflächigen Weinberge bekannt.",
       hu: "Aszenovgrád a bortermelés és élelmiszer-feldolgozás jelentős központja Plovdiv régióban. A környező területek kiterjedt szőlőültetvényeikről ismertek.",
@@ -70,7 +70,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Industriegebiet Dewnja", hu: "Devnya ipari zóna", ro: "Zona industrială Devnya", en: "Devnya Industrial Zone" },
-    coordinates: { lat: 43.2238, lng: 27.5756 },
+    coords: [27.5756, 43.2238],
     description: {
       de: "Dewnja beheimatet einen der größten Industriekomplexe Bulgariens, der sich auf Chemie und Zementherstellung spezialisiert hat. Die Anlage ist für den Export über den Hafen von Warna optimiert.",
       hu: "Devnya ad otthont Bulgária egyik legnagyobb ipari komplexumának, amely vegyiparra és cementgyártásra szakosodott. A létesítmény Várnán keresztül történő exportra optimalizált.",
@@ -102,7 +102,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "mine",
     parent: "BG",
     name: { de: "Kardschali Bergbauzentrum", hu: "Kardzsali bányászati központ", ro: "Centrul minier Kârdjali", en: "Kardzhali Mining Center" },
-    coordinates: { lat: 41.6361, lng: 25.3725 },
+    coords: [25.3725, 41.6361],
     description: {
       de: "Kardschali ist das Zentrum der Bleierz- und Zinkverarbeitung in Südostbulgarien. Die lokalen Anlagen verarbeiten metallurgische Erzeugnisse aus den umliegenden Minen.",
       hu: "Kardzsali az ólom- és cinkfeldolgozás központja Délkelet-Bulgáriában. A helyi létesítmények a környező bányákból származó kohászati termékeket dolgozzák fel.",
@@ -134,7 +134,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "mine",
     parent: "BG",
     name: { de: "Radnewo Braunkohlebergbau", hu: "Radnevo lignitbányászat", ro: "Mineritul de lignit Radnevo", en: "Radnevo Lignite Mining" },
-    coordinates: { lat: 42.3025, lng: 25.9389 },
+    coords: [25.9389, 42.3025],
     description: {
       de: "Radnewo liegt im Zentrum des bulgarischen Braunkohlebergbaus. Die Region liefert die Primärenergie für große thermische Kraftwerke in Zentralbulgarien.",
       hu: "Radnevo a bolgár lignitbányászat központjában fekszik. A régió biztosítja az elsődleges energiát a közép-bulgáriai nagy hőerőművek számára.",
@@ -166,7 +166,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Industriestandort Kremikowzi", hu: "Kremikovci ipari terület", ro: "Platforma industrială Kremikovți", en: "Kremikovtsi Industrial Site" },
-    coordinates: { lat: 42.7483, lng: 23.4758 },
+    coords: [23.4758, 42.7483],
     description: {
       de: "Der Industriestandort Kremikowzi war einst das größte Stahlwerk Bulgariens. Heute dient das Gelände verschiedenen Logistik- und Produktionsunternehmen als Gewerbegebiet.",
       hu: "Kremikovci ipari területe egykor Bulgária legnagyobb acélműve volt. Ma a terület különböző logisztikai és gyártóvállalatok telephelyeként szolgál.",
@@ -198,7 +198,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Kupferhütte Pirdop", hu: "Pirdop rézkohó", ro: "Topitoria de cupru Pirdop", en: "Pirdop Copper Smelter" },
-    coordinates: { lat: 42.6953, lng: 24.1683 },
+    coords: [24.1683, 42.6953],
     description: {
       de: "Pirdop ist Standort eines bedeutenden Kupferhüttenwerks, das einen wesentlichen Teil der bulgarischen Metallproduktion ausmacht. Die Anlage ist spezialisiert auf die Raffinierung von Kupferkonzentraten.",
       hu: "Pirdop egy jelentős rézkohó otthona, amely a bolgár fémtermelés jelentős részét adja. A létesítmény rézkoncentrátumok finomítására szakosodott.",
@@ -230,7 +230,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "port",
     parent: "BG",
     name: { de: "Hafen Swischtow", hu: "Szvistovi kikötő", ro: "Portul Sviștov", en: "Port of Svishtov" },
-    coordinates: { lat: 43.6194, lng: 25.3528 },
+    coords: [25.3528, 43.6194],
     description: {
       de: "Der Hafen von Swischtow ist ein wichtiger Binnenhafen an der Donau für den bulgarischen Export von Waren und Rohstoffen. Er dient als logistische Schnittstelle zum europäischen Markt.",
       hu: "Szvistov kikötője fontos dunai belvízi kikötő a bolgár áru- és nyersanyagkivitel számára. Logisztikai csomópontként szolgál az európai piac felé.",
@@ -262,7 +262,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Industriezentrum Sewliewo", hu: "Szevljevói ipari központ", ro: "Centrul industrial Sevlievo", en: "Sevlievo Industrial Center" },
-    coordinates: { lat: 43.0239, lng: 25.0933 },
+    coords: [25.0933, 43.0239],
     description: {
       de: "Sewliewo ist ein wachsender Wirtschaftsstandort in Nordbulgarien mit Schwerpunkten in der Bauzulieferindustrie und Elektrotechnik. Die Stadt zieht bedeutende ausländische Direktinvestitionen an.",
       hu: "Szevljevo növekvő gazdasági központ Észak-Bulgáriában, az építőipari beszállítókra és az elektrotechnikára összpontosítva. A város jelentős külföldi közvetlen beruházásokat vonz.",
@@ -294,7 +294,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "agriculture",
     parent: "BG",
     name: { de: "Karnobat Agrarzentrum", hu: "Karnobati agrárközpont", ro: "Centrul agricol Karnobat", en: "Karnobat Agricultural Center" },
-    coordinates: { lat: 42.6508, lng: 26.9833 },
+    coords: [26.9833, 42.6508],
     description: {
       de: "Karnobat ist ein zentraler Ort für Getreideanbau und landwirtschaftliche Verarbeitung in Ostbulgarien. Die fruchtbaren Ebenen ermöglichen eine intensive Produktion von Getreide.",
       hu: "Karnobat gabonatermesztési és mezőgazdasági feldolgozási központ Kelet-Bulgáriában. A termékeny síkságok lehetővé teszik a gabona intenzív termesztését.",
@@ -326,7 +326,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Wirtschaftszone Dolna Mitropolija", hu: "Dolna Mitropolija gazdasági zóna", ro: "Zona economică Dolna Mitropolia", en: "Dolna Mitropolia Economic Zone" },
-    coordinates: { lat: 43.4358, lng: 24.5197 },
+    coords: [24.5197, 43.4358],
     description: {
       de: "Dolna Mitropolija ist Standort für verschiedene Leichtindustrie- und Verarbeitungsbetriebe. Die geografische Lage nahe Plewen begünstigt die logistische Anbindung.",
       hu: "Dolna Mitropolija különféle könnyűipari és feldolgozóüzemek helyszíne. A Pleven melletti földrajzi elhelyezkedés kedvez a logisztikai kapcsolatoknak.",
@@ -358,7 +358,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Textilstandort Haskowo", hu: "Haszkovó textilipari központ", ro: "Centrul textil Haskovo", en: "Haskovo Textile Center" },
-    coordinates: { lat: 41.9333, lng: 25.55 },
+    coords: [25.55, 41.9333],
     description: {
       de: "Haskowo ist ein traditionelles Zentrum der Textil- und Bekleidungsindustrie. Die Region profitiert von erfahrenen Arbeitskräften und der Nähe zu internationalen Absatzmärkten.",
       hu: "Haszkovó a textil- és ruházati ipar hagyományos központja. A régió profitál a tapasztalt munkaerőből és a nemzetközi piacok közelségéből.",
@@ -390,7 +390,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Logistikzentrum Kaspitschan", hu: "Kaspicsani logisztikai központ", ro: "Centrul logistic Kaspicean", en: "Kaspichan Logistics Hub" },
-    coordinates: { lat: 43.3039, lng: 27.1331 },
+    coords: [27.1331, 43.3039],
     description: {
       de: "Kaspitschan fungiert als wichtiger Eisenbahn- und Logistikknotenpunkt im Nordosten Bulgariens. Die verkehrsgünstige Lage begünstigt die Ansiedlung von Transportunternehmen.",
       hu: "Kaspicsan fontos vasúti és logisztikai csomópont Északkelet-Bulgáriában. A közlekedési szempontból kedvező elhelyezkedés segíti a szállítmányozási cégek megtelepedését.",
@@ -422,7 +422,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Gorni Orjachowiza Knotenpunkt", hu: "Gorni Orjahovica csomópont", ro: "Nodul Gorni Oreahovița", en: "Gorni Oryahovitsa Hub" },
-    coordinates: { lat: 43.1325, lng: 25.7067 },
+    coords: [25.7067, 43.1325],
     description: {
       de: "Gorni Orjachowiza ist einer der wichtigsten Eisenbahnknotenpunkte Bulgariens. Die Stadt beherbergt zudem bedeutende Kapazitäten in der Lebensmittel- und Maschinenbauindustrie.",
       hu: "Gorni Orjahovica Bulgária egyik legfontosabb vasúti csomópontja. A város emellett jelentős kapacitásokkal rendelkezik az élelmiszer- és gépiparban.",
@@ -454,7 +454,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Industriestandort Jambol", hu: "Jambol ipari központ", ro: "Centrul industrial Iambol", en: "Yambol Industrial Center" },
-    coordinates: { lat: 42.4833, lng: 26.5 },
+    coords: [26.5, 42.4833],
     description: {
       de: "Jambol entwickelt sich zunehmend zu einem Zentrum für die Lebensmittelverarbeitung und Leichtindustrie im Südosten Bulgariens. Die Region nutzt ihre landwirtschaftliche Basis zur industriellen Produktion.",
       hu: "Jambol egyre inkább az élelmiszer-feldolgozás és a könnyűipar központjává válik Délkelet-Bulgáriában. A régió mezőgazdasági bázisát használja ipari termelésre.",
@@ -486,7 +486,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Optikzentrum Panagjurischte", hu: "Panagjuresztei optikai központ", ro: "Centrul optic Panaghiuriște", en: "Panagyurishte Optics Center" },
-    coordinates: { lat: 42.5056, lng: 24.1853 },
+    coords: [24.1853, 42.5056],
     description: {
       de: "Panagjurischte ist international bekannt für die Fertigung von optischen Präzisionsinstrumenten. Die Stadt bildet das Zentrum der bulgarischen optischen Industrie.",
       hu: "Panagjureszte nemzetközileg ismert precíziós optikai műszerek gyártásáról. A város a bolgár optikai ipar központja.",
@@ -518,7 +518,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "port",
     parent: "BG",
     name: { de: "Hafen Silistra", hu: "Szilisztrai kikötő", ro: "Portul Silistra", en: "Port of Silistra" },
-    coordinates: { lat: 44.1167, lng: 27.2667 },
+    coords: [27.2667, 44.1167],
     description: {
       de: "Silistra ist ein bedeutender Hafen an der unteren Donau für den Handel mit angrenzenden Ländern. Der Standort ist eng mit der lokalen Landwirtschaft und Logistik verbunden.",
       hu: "Szilisztra fontos kikötő az alsó-dunai kereskedelemben a szomszédos országokkal. A helyszín szorosan kapcsolódik a helyi mezőgazdasághoz és logisztikához.",
@@ -550,7 +550,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Pharmastandort Rasgrad", hu: "Razgradi gyógyszeripari központ", ro: "Centrul farmaceutic Razgrad", en: "Razgrad Pharmaceutical Center" },
-    coordinates: { lat: 43.5333, lng: 26.5167 },
+    coords: [26.5167, 43.5333],
     description: {
       de: "Rasgrad ist ein bedeutendes Zentrum der pharmazeutischen Produktion in Nordbulgarien. Die lokalen Unternehmen exportieren medizinische Erzeugnisse in zahlreiche internationale Märkte.",
       hu: "Razgrad jelentős gyógyszeripari központ Észak-Bulgáriában. A helyi vállalatok orvosi termékeket exportálnak számos nemzetközi piacra.",
@@ -582,7 +582,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Glasindustrie Targowischte", hu: "Targovistei üvegipar", ro: "Industria sticlei Târgoviște", en: "Targovishte Glass Industry" },
-    coordinates: { lat: 43.25, lng: 26.5667 },
+    coords: [26.5667, 43.25],
     description: {
       de: "Targowischte beherbergt große Produktionskapazitäten für Flach- und Verpackungsglas. Der Standort ist einer der größten seiner Art in Südosteuropa.",
       hu: "Targoviste nagy gyártókapacitásokkal rendelkezik a síküveg és csomagolóüveg területén. A helyszín az egyik legnagyobb a maga nemében Délkelet-Európában.",
@@ -614,7 +614,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "agriculture",
     parent: "BG",
     name: { de: "Samokow Agrarregion", hu: "Szamokovi agrárvidék", ro: "Regiunea agricolă Samokov", en: "Samokov Agricultural Region" },
-    coordinates: { lat: 42.3361, lng: 23.5514 },
+    coords: [23.5514, 42.3361],
     description: {
       de: "Die Region Samokow ist landesweit bekannt für den großflächigen Kartoffelanbau. Das spezifische Mikroklima in den Gebirgstälern begünstigt diese landwirtschaftliche Produktion.",
       hu: "Szamokov régiója országszerte híres a nagyméretű burgonyatermesztésről. A hegyi völgyek sajátos mikroklímája kedvez ennek a mezőgazdasági termelésnek.",
@@ -646,7 +646,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Industriezentrum Lowetsch", hu: "Lovecsi ipari központ", ro: "Centrul industrial Loveci", en: "Lovech Industrial Center" },
-    coordinates: { lat: 43.1333, lng: 24.7167 },
+    coords: [24.7167, 43.1333],
     description: {
       de: "Lowetsch ist ein Standort für verschiedene Industriezweige, darunter Maschinenbau und Fahrzeugkomponenten. Die Stadt profitiert von der zentralen Lage in Bulgarien.",
       hu: "Lovecs a gépipar és az autóipari alkatrészek gyártása mellett különféle iparágak központja. A város profitál Bulgárián belüli központi elhelyezkedéséből.",
@@ -678,7 +678,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "agriculture",
     parent: "BG",
     name: { de: "Tabakregion Momtschilgrad", hu: "Momcsilgradi dohányművelés", ro: "Regiunea tutunului Momcilgrad", en: "Momchilgrad Tobacco Region" },
-    coordinates: { lat: 41.5333, lng: 25.4167 },
+    coords: [25.4167, 41.5333],
     description: {
       de: "Momtschilgrad ist eine traditionelle Region für den Anbau von Orienttabak. Die spezifischen Bodenverhältnisse und das Klima begünstigen diese spezielle landwirtschaftliche Erzeugnis.",
       hu: "Momcsilgrad hagyományos régió az orientális dohány termesztésére. A sajátos talajviszonyok és az éghajlat kedvez ennek a különleges mezőgazdasági terméknek.",
@@ -710,7 +710,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Maschinenbau Sopot", hu: "Szopoti gépipar", ro: "Construcții de mașini Sopot", en: "Sopot Machinery Industry" },
-    coordinates: { lat: 42.6667, lng: 24.75 },
+    coords: [24.75, 42.6667],
     description: {
       de: "Sopot ist seit langem ein bedeutendes Zentrum der Maschinenbauindustrie in Bulgarien. Die lokalen Betriebe konzentrieren sich auf spezialisierte technische Erzeugnisse.",
       hu: "Szopot hosszú ideje a gépipar fontos központja Bulgáriában. A helyi üzemek specializált műszaki termékekre összpontosítanak.",
@@ -742,7 +742,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Wirtschaftsstandort Devin", hu: "Devini gazdasági központ", ro: "Centrul economic Devin", en: "Devin Economic Center" },
-    coordinates: { lat: 41.7481, lng: 24.3942 },
+    coords: [24.3942, 41.7481],
     description: {
       de: "Devin ist bekannt für die Abfüllung und Verarbeitung von natürlichem Mineralwasser. Die Industrie basiert auf der nachhaltigen Nutzung der regionalen Quellen.",
       hu: "Devin ismert a természetes ásványvíz palackozásáról és feldolgozásáról. Az ipar a regionális források fenntartható használatán alapul.",
@@ -774,7 +774,7 @@ export const bulgariaEconomicV2: POI[] = [
     type: "industry",
     parent: "BG",
     name: { de: "Metallverarbeitung Eliseina", hu: "Eliseinai fémfeldolgozás", ro: "Procesarea metalelor Eliseina", en: "Eliseina Metal Processing" },
-    coordinates: { lat: 43.0903, lng: 23.585 },
+    coords: [23.585, 43.0903],
     description: {
       de: "Eliseina war historisch ein wichtiger Standort für die Metallurgie und die Verarbeitung von Buntmetallen. Die Industrietradition hat die lokale Wirtschaft maßgeblich geprägt.",
       hu: "Eliseina történelmileg fontos helyszín volt a kohászat és a színesfém-feldolgozás területén. Az ipari hagyomány jelentősen meghatározta a helyi gazdaságot.",

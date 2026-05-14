@@ -6,7 +6,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Knockmealdown-Gebirge", hu: "Knockmealdown-hegység", ro: "Munții Knockmealdown", en: "Knockmealdown Mountains" },
-    coordinates: { lat: 52.2333, lng: -7.9833 },
+    coords: [-7.9833, 52.2333],
     description: {
       de: "Eine Gebirgskette an der Grenze zwischen Tipperary und Waterford. Der höchste Gipfel erreicht eine Höhe von 794 Metern.",
       hu: "Egy hegylánc Tipperary és Waterford megye határán. Legmagasabb csúcsa eléri a 794 méteres magasságot.",
@@ -38,7 +38,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Bluestack-Gebirge", hu: "Bluestack-hegység", ro: "Munții Bluestack", en: "Bluestack Mountains" },
-    coordinates: { lat: 54.7214, lng: -8.0833 },
+    coords: [-8.0833, 54.7214],
     description: {
       de: "Ein Gebirgszug im Zentrum von County Donegal. Er besteht hauptsächlich aus kristallinem Gestein.",
       hu: "Egy hegylánc Donegal megye központjában. Főként kristályos kőzetekből épül fel.",
@@ -70,7 +70,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Bloom", hu: "Slieve Bloom", ro: "Slieve Bloom", en: "Slieve Bloom" },
-    coordinates: { lat: 53.0833, lng: -7.6333 },
+    coords: [-7.6333, 53.0833],
     description: {
       de: "Ein isoliertes Gebirge im Herzen der Midlands. Es liegt zwischen den Grafschaften Laois und Offaly.",
       hu: "Elszigetelt hegység a Midlands szívében. Laois és Offaly megyék között fekszik.",
@@ -102,7 +102,7 @@ export const irelandReliefV2: POI[] = [
     type: "peak",
     parent: "IE",
     name: { de: "Nephin", hu: "Nephin", ro: "Nephin", en: "Nephin" },
-    coordinates: { lat: 54.0667, lng: -9.3333 },
+    coords: [-9.3333, 54.0667],
     description: {
       de: "Ein prominenter Gipfel im County Mayo. Mit 806 Metern ist er der höchste Punkt der Nephin Beg Range.",
       hu: "Kiemelkedő csúcs Mayo megyében. 806 méteres magasságával a Nephin Beg hegység legmagasabb pontja.",
@@ -134,7 +134,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Gamph", hu: "Slieve Gamph", ro: "Slieve Gamph", en: "Slieve Gamph" },
-    coordinates: { lat: 54.0833, lng: -8.8667 },
+    coords: [-8.8667, 54.0833],
     description: {
       de: "Ein Gebirgszug im Westen von County Sligo. Er ist auch bekannt unter dem Namen Ox Mountains.",
       hu: "Hegylánc Sligo megye nyugati részén. Ox-hegység néven is ismert.",
@@ -148,13 +148,25 @@ export const irelandReliefV2: POI[] = [
       en: ["Length approx. 60 km", "Highest peak: Knockalongy", "Granite and gneiss base", "Strong glacial features"],
     },
     imageHint: "Slieve Gamph mountains",
+    descriptionAdvanced: {
+      de: "Slieve Gamph (auch Slieve Gamph Mountains) ist ein Hügelzug im Nordwesten Irlands, in den Grafschaften Sligo und Leitrim. Der höchste Gipfel ist der Truskmore mit 647 Metern. Die Landschaft ist von Moor- und Heideland geprägt. Geologisch besteht das Gebirge aus Kalkstein und Sandstein. Es ist bekannt für seine prähistorischen Megalithgräber und die Legende von Diarmuid und Gráinne. Die Region ist ein beliebtes Wandergebiet.",
+      hu: "A Slieve Gamph (vagy Slieve Gamph-hegység) egy dombvonulat Északnyugat-Írországban, Sligo és Leitrim megyékben. Legmagasabb csúcsa a Truskmore (647 m). A tájat lápok és fenyérek jellemzik. Geológiailag mészkőből és homokkőből áll. Híres prehisztorikus megalitikus sírjairól és Diarmuid és Gráinne legendájáról. A régió népszerű túrázási terület.",
+      ro: "Slieve Gamph (sau Munții Slieve Gamph) este un lanț de dealuri din nord-vestul Irlandei, în comitatele Sligo și Leitrim. Cel mai înalt vârf este Truskmore, cu 647 m. Peisajul este dominat de mlaștini și tufișuri. Din punct de vedere geologic, este format din calcar și gresie. Este cunoscut pentru mormintele megalitice preistorice și legenda lui Diarmuid și Gráinne. Zona este populară pentru drumeții.",
+      en: "Slieve Gamph (Slieve Gamph Mountains) is a hill range in northwest Ireland, Counties Sligo and Leitrim. Highest peak is Truskmore at 647 meters. The landscape is characterized by bog and heath. Geologically, it consists of limestone and sandstone. Known for prehistoric megalithic tombs and the legend of Diarmuid and Gráinne. It is a popular hiking area.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Truskmore (647 m).", "Länge: ca. 30 km.", "Geologie: Kalkstein, Sandstein.", "Prähistorische Gräber aus der Jungsteinzeit.", "Legende von Diarmuid und Gráinne.", "Wanderweg: Leitrim Way (25 km)."],
+      hu: ["Legmagasabb csúcs: Truskmore (647 m).", "Hossz: kb. 30 km.", "Geológia: mészkő, homokkő.", "Neolitikus megalitsírok.", "Diarmuid és Gráinne legendája.", "Túraútvonal: Leitrim Way (25 km)."],
+      ro: ["Cel mai înalt vârf: Truskmore (647 m).", "Lungime: cca 30 km.", "Geologie: calcar, gresie.", "Morminte megalitice neolitice.", "Legenda lui Diarmuid și Gráinne.", "Traseu de drumeție: Leitrim Way (25 km)."],
+      en: ["Highest peak: Truskmore (647 m).", "Length: about 30 km.", "Geology: limestone, sandstone.", "Neolithic megalithic tombs.", "Legend of Diarmuid and Gráinne.", "Hiking trail: Leitrim Way (25 km)."],
+    },
   },
   {
     id: "ireland-slieve-mish-relief-v2",
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Mish", hu: "Slieve Mish", ro: "Slieve Mish", en: "Slieve Mish" },
-    coordinates: { lat: 52.1833, lng: -9.75 },
+    coords: [-9.75, 52.1833],
     description: {
       de: "Ein Gebirgszug auf der Dingle-Halbinsel im County Kerry. Er bildet das Rückgrat der Halbinsel.",
       hu: "Hegylánc a Dingle-félszigeten, Kerry megyében. A félsziget gerincét alkotja.",
@@ -186,7 +198,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Comeragh-Gebirge", hu: "Comeragh-hegység", ro: "Munții Comeragh", en: "Comeragh Mountains" },
-    coordinates: { lat: 52.2333, lng: -7.5333 },
+    coords: [-7.5333, 52.2333],
     description: {
       de: "Ein Gebirge im County Waterford. Bekannt für seine dramatischen Klippen und Gletscherseen.",
       hu: "Hegység Waterford megyében. Drámai szikláiról és gleccsertavairól ismert.",
@@ -218,7 +230,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve na mon", hu: "Slieve na mon", ro: "Slieve na mon", en: "Slievenamon" },
-    coordinates: { lat: 52.4167, lng: -7.5333 },
+    coords: [-7.5333, 52.4167],
     description: {
       de: "Ein markanter Berg im County Tipperary. Er steht isoliert in der Ebene des Golden Vale.",
       hu: "Kiemelkedő hegy Tipperary megyében. Magányosan áll a Golden Vale síkságán.",
@@ -250,7 +262,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Twelve Bens", hu: "Twelve Bens", ro: "Twelve Bens", en: "Twelve Bens" },
-    coordinates: { lat: 53.4833, lng: -9.7333 },
+    coords: [-9.7333, 53.4833],
     description: {
       de: "Eine Berggruppe im Connemara Nationalpark, County Galway. Die Gipfel bestehen aus Quarzit.",
       hu: "Hegycsoport a Connemara Nemzeti Parkban, Galway megyében. A csúcsok kvarcitból épülnek fel.",
@@ -282,7 +294,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Callan", hu: "Slieve Callan", ro: "Slieve Callan", en: "Slieve Callan" },
-    coordinates: { lat: 52.85, lng: -9.2167 },
+    coords: [-9.2167, 52.85],
     description: {
       de: "Ein Berg im County Clare, nahe der Westküste. Er bietet einen weiten Blick auf den Atlantik.",
       hu: "Hegy Clare megyében, a nyugati parthoz közel. Széles kilátást nyújt az Atlanti-óceánra.",
@@ -314,7 +326,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Bernagh", hu: "Slieve Bernagh", ro: "Slieve Bernagh", en: "Slieve Bernagh" },
-    coordinates: { lat: 52.8333, lng: -8.55 },
+    coords: [-8.55, 52.8333],
     description: {
       de: "Ein Gebirgszug im Osten des Countys Clare. Er erhebt sich über dem Lough Derg.",
       hu: "Hegylánc Clare megye keleti részén. A Lough Derg tó fölé magasodik.",
@@ -346,7 +358,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Ardagh", hu: "Slieve Ardagh", ro: "Slieve Ardagh", en: "Slieve Ardagh" },
-    coordinates: { lat: 52.5667, lng: -7.5333 },
+    coords: [-7.5333, 52.5667],
     description: {
       de: "Hügellandschaft an der Grenze von Tipperary und Kilkenny. Sie ist historisch bekannt für Kohlebergbau.",
       hu: "Dombvidék Tipperary és Kilkenny határán. Történelmileg szénbányászatáról ismert.",
@@ -378,7 +390,7 @@ export const irelandReliefV2: POI[] = [
     type: "peak",
     parent: "IE",
     name: { de: "Mount Leinster", hu: "Mount Leinster", ro: "Mount Leinster", en: "Mount Leinster" },
-    coordinates: { lat: 52.65, lng: -6.7833 },
+    coords: [-6.7833, 52.65],
     description: {
       de: "Der höchste Berg der Blackstairs Mountains an der Grenze von Carlow und Wexford.",
       hu: "A Blackstairs-hegység legmagasabb hegye Carlow és Wexford megyék határán.",
@@ -410,7 +422,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve League", hu: "Slieve League", ro: "Slieve League", en: "Slieve League" },
-    coordinates: { lat: 54.6333, lng: -8.6833 },
+    coords: [-8.6833, 54.6333],
     description: {
       de: "Ein Berg im County Donegal, berühmt für seine riesigen Meeresklippen.",
       hu: "Hegy Donegal megyében, amely hatalmas tengeri szikláiról híres.",
@@ -442,7 +454,7 @@ export const irelandReliefV2: POI[] = [
     type: "peak",
     parent: "IE",
     name: { de: "Mount Brandon", hu: "Mount Brandon", ro: "Mount Brandon", en: "Mount Brandon" },
-    coordinates: { lat: 52.2667, lng: -10.25 },
+    coords: [-10.25, 52.2667],
     description: {
       de: "Ein prominenter Berg auf der Dingle-Halbinsel. Er ist ein wichtiger Wallfahrtsort.",
       hu: "Kiemelkedő hegy a Dingle-félszigeten. Fontos zarándokhely.",
@@ -474,7 +486,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Mangerton Mountain", hu: "Mangerton-hegy", ro: "Muntele Mangerton", en: "Mangerton Mountain" },
-    coordinates: { lat: 51.9833, lng: -9.45 },
+    coords: [-9.45, 51.9833],
     description: {
       de: "Ein Berg im County Kerry, unweit von Killarney. Er ist bekannt für sein großes Gipfelplateau.",
       hu: "Hegy Kerry megyében, Killarney közelében. Nagy csúcsfennsíkjáról ismert.",
@@ -488,13 +500,25 @@ export const irelandReliefV2: POI[] = [
       en: ["Elevation: 839 meters", "Devils Punchbowl lake", "Peaty summit plateau", "Popular hiking area"],
     },
     imageHint: "Mangerton Mountain plateau",
+    descriptionAdvanced: {
+      de: "Der Mangerton Mountain ist ein 838 m hoher Berg in der Grafschaft Kerry im Südwesten Irlands. Er liegt im Killarney-Nationalpark und ist Teil der Mangerton-Gruppe, einer Reihe von Devonischen Sandsteinformationen. Der Berg ist bekannt für seinen Gipfelsee, den sogenannten 'Devil's Punchbowl', der durch glaziale Erosion entstanden ist. Die umliegende Landschaft besteht aus Moorland und torfigen Böden, die seltene Pflanzenarten wie das Irische Bärlapp beherbergen. Historisch diente der Mangerton als Weideland, wobei archäologische Spuren von prähistorischen Siedlungen in den unteren Lagen gefunden wurden. Heute ist er ein beliebtes Ziel für Wanderer, die über steile Pfade den Gipfel erreichen und einen Panoramablick über die Seen von Killarney und die Atlantikküste genießen. Der Berg spielt auch eine Rolle in der lokalen Folklore, die von Riesen und Feen erzählt.",
+      hu: "A Mangerton-hegy Írország délnyugati részén, Kerry megyében található, 838 méteres magasságával a Killarney Nemzeti Park egyik kiemelkedő csúcsa. A hegy geológiai felépítése devoni homokkőből áll, melyet jégkorszaki gleccserek formáltak. A csúcson található az 'Ördög tálja' nevű krátertó, amely 30 méter mély. A hegy ökoszisztémáját tőzeglápok és hangafélék uralják, madárvilága kiemelkedő: vándorsólymok és hollók fészkelnek itt. Történelmi szempontból a terület bronzkori települések nyomait őrzi, a középkorban pedig pásztorkodásra használták. A helyi mondák szerint a hegy egy óriás otthona, aki a tavat haragjában vájta ki. Napjainkban a Mangerton népszerű túracélpont, évente több ezer látogatót vonz a Killarney-i tavak és az Atlanti-óceán lenyűgöző kilátásáért.",
+      ro: "Muntele Mangerton, cu o altitudine de 838 m, se află în comitatul Kerry, sud-vestul Irlandei, și face parte din Parcul Național Killarney. Este compus în principal din gresie devoniană, iar relieful său a fost puternic modelat de eroziunea glaciară. Pe vârf se află „Pocalul Diavolului”, un lac de crater format în ultima eră glaciară. Flora include specii rare precum mușchiul de turbă, iar fauna este reprezentată de vulpi, căprioare și păsări precum șoimul călător. Zona a fost locuită încă din Neolitic, dovezile arheologice incluzând structuri de piatră și movile funerare. În Evul Mediu, muntele a servit drept teren de pășunat pentru comunitățile locale. Astăzi, este o destinație populară pentru drumeții, oferind trasee dificile și priveliști spectaculoase asupra lacurilor Killarney și a Coastei Atlanticului.",
+      en: "Mangerton Mountain, rising to 838 m in County Kerry, Ireland, is a prominent peak within Killarney National Park. Its geology is characterized by Old Red Sandstone, shaped by Pleistocene glaciations. The mountain features a distinct corrie lake, the Devil's Punchbowl, which is approximately 30 m deep. The surrounding habitat comprises blanket bog and heath, supporting rare flora such as the Irish clubmoss and fauna including the peregrine falcon. Archaeological evidence indicates human activity since the Bronze Age, including megalithic tombs and early medieval farming enclosures. The mountain's name is derived from the Irish 'Mangartún', possibly meaning 'place of the mongrel'. In recent decades, Mangerton has become a key site for eco-tourism, with annual visitor numbers exceeding 50,000.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 838 m", "Lage: Grafschaft Kerry, Irland", "Teil des Killarney-Nationalparks", "Gipfelsee: Devil's Punchbowl (Tiefe ca. 30 m)", "Gestein: Devonischer Sandstein", "Jährliche Besucher: über 50.000"],
+      hu: ["Magasság: 838 méter", "Killarney Nemzeti Park része", "Devon homokkőből épül fel", "Ördög tálja krátertó mélysége: 30 méter", "Bronzkori régészeti lelőhely", "Éves látogatószám: több mint 50.000"],
+      ro: ["Altitudine: 838 m", "Judet: Kerry, Irlanda", "Inclus în Parcul Național Killarney", "Lac de crater: Devil's Punchbowl, adâncime ~30 m", "Rocă: gresie devoniană", "Vizitatori anual: peste 50.000"],
+      en: ["Elevation: 838 m", "Location: County Kerry, Ireland", "Part of Killarney National Park", "Corrie lake: Devil's Punchbowl, depth ~30 m", "Rock type: Old Red Sandstone", "Annual visitors: over 50,000"],
+    },
   },
   {
     id: "ireland-mount-eric-relief-v2",
     type: "mountain",
     parent: "IE",
     name: { de: "Mount Eric", hu: "Mount Eric", ro: "Mount Eric", en: "Mount Eric" },
-    coordinates: { lat: 54.4333, lng: -8.6333 },
+    coords: [-8.6333, 54.4333],
     description: {
       de: "Ein Berg in der Region von County Sligo. Teil der malerischen Küstengebirgslandschaft.",
       hu: "Hegy Sligo megye régiójában. A festői tengerparti hegyvidéki táj része.",
@@ -526,7 +550,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve More", hu: "Slieve More", ro: "Slieve More", en: "Slievemore" },
-    coordinates: { lat: 54.0, lng: -10.0333 },
+    coords: [-10.0333, 54.0],
     description: {
       de: "Der höchste Berg auf Achill Island, County Mayo. Er überblickt das Atlantikgebiet.",
       hu: "Achill-sziget legmagasabb hegye, Mayo megyében. Az Atlanti-óceán területére néz.",
@@ -558,7 +582,7 @@ export const irelandReliefV2: POI[] = [
     type: "valley",
     parent: "IE",
     name: { de: "Killary-Tal", hu: "Killary-völgy", ro: "Valea Killary", en: "Killary Valley" },
-    coordinates: { lat: 53.6, lng: -9.7 },
+    coords: [-9.7, 53.6],
     description: {
       de: "Ein tiefes Gletschertal im County Galway. Es beherbergt den einzigen Fjord Irlands.",
       hu: "Mély gleccservölgy Galway megyében. Írország egyetlen fjordjának ad otthont.",
@@ -590,7 +614,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Mis", hu: "Slieve Mis", ro: "Slieve Mis", en: "Slieve Mis" },
-    coordinates: { lat: 52.2, lng: -9.8 },
+    coords: [-9.8, 52.2],
     description: {
       de: "Ein westlicher Ausläufer der Slieve Mish Berge auf der Dingle-Halbinsel.",
       hu: "A Slieve Mish-hegység nyugati nyúlványa a Dingle-félszigeten.",
@@ -622,7 +646,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Mount Gabriel", hu: "Mount Gabriel", ro: "Mount Gabriel", en: "Mount Gabriel" },
-    coordinates: { lat: 51.5333, lng: -9.5167 },
+    coords: [-9.5167, 51.5333],
     description: {
       de: "Ein Berg im südwestlichen Cork. Er ist bekannt für seine Radarkuppeln.",
       hu: "Hegy Délnyugat-Corkban. Radar kupoláiról ismert.",
@@ -654,7 +678,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Gullion", hu: "Slieve Gullion", ro: "Slieve Gullion", en: "Slieve Gullion" },
-    coordinates: { lat: 54.1333, lng: -6.45 },
+    coords: [-6.45, 54.1333],
     description: {
       de: "Ein Berg im County Armagh. Er bildet das Zentrum eines Vulkankraters aus dem Tertiär.",
       hu: "Hegy Armagh megyében. Egy harmadkori vulkáni kráter központját alkotja.",
@@ -686,7 +710,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Knocknaskagh", hu: "Knocknaskagh", ro: "Knocknaskagh", en: "Knocknaskagh" },
-    coordinates: { lat: 52.4333, lng: -9.3333 },
+    coords: [-9.3333, 52.4333],
     description: {
       de: "Ein Berg im County Kerry. Teil der sanften Hügellandschaft Südwest-Irlands.",
       hu: "Hegy Kerry megyében. Délnyugat-Írország szelíd dombvidékének része.",
@@ -718,7 +742,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Aughty", hu: "Slieve Aughty", ro: "Slieve Aughty", en: "Slieve Aughty" },
-    coordinates: { lat: 53.0667, lng: -8.5167 },
+    coords: [-8.5167, 53.0667],
     description: {
       de: "Ein Hochlandgebiet zwischen County Clare und County Galway.",
       hu: "Felföldi terület Clare és Galway megyék között.",
@@ -750,7 +774,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Mount Collier", hu: "Mount Collier", ro: "Mount Collier", en: "Mount Collier" },
-    coordinates: { lat: 54.5, lng: -7.2 },
+    coords: [-7.2, 54.5],
     description: {
       de: "Ein Berg in den Sperrin Mountains im Norden Irlands.",
       hu: "Hegy az észak-írországi Sperrin-hegységben.",
@@ -782,7 +806,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Croob", hu: "Slieve Croob", ro: "Slieve Croob", en: "Slieve Croob" },
-    coordinates: { lat: 54.3, lng: -5.9667 },
+    coords: [-5.9667, 54.3],
     description: {
       de: "Ein markanter Berg im County Down. Er ist der Ursprung des Flusses Lagan.",
       hu: "Kiemelkedő hegy Down megyében. A Lagan folyó forrása.",
@@ -814,7 +838,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Caha Mountains", hu: "Caha-hegység", ro: "Munții Caha", en: "Caha Mountains" },
-    coordinates: { lat: 51.7667, lng: -9.7 },
+    coords: [-9.7, 51.7667],
     description: {
       de: "Eine Gebirgskette auf der Beara-Halbinsel in Cork und Kerry.",
       hu: "Hegylánc a Beara-félszigeten, Cork és Kerry megyékben.",
@@ -846,7 +870,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Shehy-Gebirge", hu: "Shehy-hegység", ro: "Munții Shehy", en: "Shehy Mountains" },
-    coordinates: { lat: 51.7833, lng: -9.2333 },
+    coords: [-9.2333, 51.7833],
     description: {
       de: "Ein Gebirge an der Grenze von Cork und Kerry.",
       hu: "Hegység Cork és Kerry megyék határán.",
@@ -878,7 +902,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Dartry-Gebirge", hu: "Dartry-hegység", ro: "Munții Dartry", en: "Dartry Mountains" },
-    coordinates: { lat: 54.3, lng: -8.3 },
+    coords: [-8.3, 54.3],
     description: {
       de: "Ein markantes Gebirge im County Sligo und Leitrim.",
       hu: "Kiemelkedő hegység Sligo és Leitrim megyékben.",
@@ -892,13 +916,25 @@ export const irelandReliefV2: POI[] = [
       en: ["Highest peak: Truskmore", "647 meters high", "Limestone plateaus", "Benbulben mountain"],
     },
     imageHint: "Dartry Mountains Benbulben",
+    descriptionAdvanced: {
+      de: "Die Dartry Mountains sind eine Gebirgskette im Nordwesten Irlands, die sich über die Grafschaften Leitrim und Sligo erstreckt. Der höchste Gipfel ist der Truskmore mit 673 m. Die Bergkette besteht hauptsächlich aus Karbonkalkstein und enthält bedeutende Karstformationen, darunter die Glenade Valley und die berühmten 'Mullaghmore' Klippen. Die Region ist bekannt für ihre zahlreichen Höhlen, wie die 'Creevykeel Court Tomb' Höhle. Die Dartry Mountains sind ein wichtiges Einzugsgebiet für den River Shannon und den Erne. Vegetation umfasst boreale Wälder und Moorland mit Arten wie Torfmoos und Scheidigem Wollgras. Die Berge sind Heimat von Rotwild und dem seltenen Irischen Hasen. Historisch war das Gebiet dünn besiedelt, aber es gibt Überreste von Klöstern aus dem frühen Mittelalter. Heute werden die Dartry Mountains für Wanderungen, Klettern und Vogelbeobachtung genutzt.",
+      hu: "A Dartry-hegység Írország északnyugati részén található, Leitrim és Sligo megyék határán. Legmagasabb csúcsa a Truskmore (673 m). Geológiai szempontból a hegység karbon korból származó mészkőből épül fel, kiterjedt karsztjelenségekkel, mint a Glenade-völgy és a Mullaghmore-sziklák. A terület híres barlangjairól, például a Creevykeel Court Tomb barlangról, amely egy ősi temetkezési hely. A vidék vízgyűjtője a Shannon és az Erne folyóknak. Növényzetét lápok és tőzegmohák uralják. Állatvilága: gímszarvas, ír nyúl, valamint ragadozó madarak. Történelmi emlékek közé tartoznak a korai keresztény kolostorok. Ma a hegység népszerű a túrázók körében, a turisták évente mintegy 100 000-en keresik fel.",
+      ro: "Munții Dartry sunt un lanț muntos în nord-vestul Irlandei, în comitatele Leitrim și Sligo. Cel mai înalt vârf este Truskmore (673 m). Formația geologică este dominată de calcar carbonifer, cu fenomene carstice notabile, inclusiv Valea Glenade și stâncile Mullaghmore. Regiunea adăpostește peșteri importante, precum grota Creevykeel Court Tomb. Munții reprezintă un bazin hidrografic major pentru râurile Shannon și Erne. Vegetația constă în turbării și pajiști alpine, cu mușchi de turbă și lăcrămioare. Fauna include căprioare roșii și iepurele irlandez. Din punct de vedere istoric, există rămășițe ale unor mănăstiri medievale timpurii. Astăzi, munții sunt un loc popular pentru drumeții și alpinism, atrăgând aproximativ 100.000 de vizitatori anual.",
+      en: "The Dartry Mountains are a range in northwestern Ireland, stretching across counties Leitrim and Sligo. The highest peak is Truskmore at 673 m. The mountains are composed mainly of Carboniferous limestone, known for karst landscapes such as the Glenade Valley and Mullaghmore cliffs. The area features numerous caves, including the Creevykeel Court Tomb, a Neolithic passage tomb. The range serves as a watershed for the Shannon and Erne rivers. Vegetation is dominated by blanket bogs and heather, with rare species like the marsh saxifrage. Wildlife includes Irish hare, red deer, and the peregrine falcon. Historically, the region was sparsely populated but contains early Christian monastic sites. Currently, the Dartry Mountains are a destination for hiking and rock climbing, with an estimated 100,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Truskmore (673 m)", "Lage: Grafschaften Leitrim und Sligo", "Gestein: Karbonkalkstein", "Bedeutende Karstformation: Glenade Valley", "Wasserscheide: Shannon und Erne", "Jährliche Besucher: ca. 100.000"],
+      hu: ["Legmagasabb csúcs: Truskmore (673 m)", "Leitrim és Sligo megyékben található", "Karbon mészkőből áll", "Karsztformáció: Glenade-völgy", "Vízgyűjtő: Shannon és Erne", "Éves látogatók: kb. 100.000"],
+      ro: ["Cel mai înalt vârf: Truskmore (673 m)", "Judete: Leitrim și Sligo", "Rocă: calcar carbonifer", "Formațiune carstică: Valea Glenade", "Bazin hidrografic: Shannon și Erne", "Vizitatori anual: cca 100.000"],
+      en: ["Highest peak: Truskmore (673 m)", "Counties: Leitrim and Sligo", "Rock type: Carboniferous limestone", "Notable karst feature: Glenade Valley", "Watershed: Shannon and Erne rivers", "Annual visitors: approx. 100,000"],
+    },
   },
   {
     id: "ireland-slieve-felim-relief-v2",
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Felim", hu: "Slieve Felim", ro: "Slieve Felim", en: "Slieve Felim Mountains" },
-    coordinates: { lat: 52.6667, lng: -8.25 },
+    coords: [-8.25, 52.6667],
     description: {
       de: "Ein Gebirgszug im County Tipperary und Limerick.",
       hu: "Hegylánc Tipperary és Limerick megyékben.",
@@ -930,7 +966,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Luggala Mountain", hu: "Luggala-hegy", ro: "Muntele Luggala", en: "Luggala" },
-    coordinates: { lat: 53.1333, lng: -6.2333 },
+    coords: [-6.2333, 53.1333],
     description: {
       de: "Ein Berg in den Wicklow Mountains. Bekannt für den Blick auf Lough Tay.",
       hu: "Hegy a Wicklow-hegységben. A Lough Tay-tóra néző kilátásáról ismert.",
@@ -962,7 +998,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Guilty", hu: "Slieve Guilty", ro: "Slieve Guilty", en: "Slieve Guilty" },
-    coordinates: { lat: 52.35, lng: -7.95 },
+    coords: [-7.95, 52.35],
     description: {
       de: "Ein kleinerer Berg im County Tipperary.",
       hu: "Kisebb hegy Tipperary megyében.",
@@ -994,7 +1030,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Ox-Gebirge", hu: "Ox-hegység", ro: "Munții Ox", en: "Ox Mountains" },
-    coordinates: { lat: 54.1, lng: -8.8 },
+    coords: [-8.8, 54.1],
     description: {
       de: "Eine Gebirgskette im County Sligo, auch Slieve Gamph genannt.",
       hu: "Hegylánc Sligo megyében, más néven Slieve Gamph.",
@@ -1026,7 +1062,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Mullagh Mountain", hu: "Mullagh-hegy", ro: "Muntele Mullagh", en: "Mullagh Mountain" },
-    coordinates: { lat: 52.95, lng: -9.1 },
+    coords: [-9.1, 52.95],
     description: {
       de: "Ein Berg im County Clare.",
       hu: "Hegy Clare megyében.",
@@ -1058,7 +1094,7 @@ export const irelandReliefV2: POI[] = [
     type: "peak",
     parent: "IE",
     name: { de: "Slieve League Peak", hu: "Slieve League csúcs", ro: "Vârful Slieve League", en: "Slieve League Peak" },
-    coordinates: { lat: 54.63, lng: -8.68 },
+    coords: [-8.68, 54.63],
     description: {
       de: "Der Gipfelbereich der Slieve League Klippen im County Donegal.",
       hu: "A Slieve League sziklák csúcsrégiója Donegal megyében.",
@@ -1090,7 +1126,7 @@ export const irelandReliefV2: POI[] = [
     type: "peak",
     parent: "IE",
     name: { de: "Galtymore", hu: "Galtymore", ro: "Galtymore", en: "Galtymore" },
-    coordinates: { lat: 52.37, lng: -8.15 },
+    coords: [-8.15, 52.37],
     description: {
       de: "Der höchste Gipfel des Galtee-Gebirges in Tipperary.",
       hu: "A Galtee-hegység legmagasabb csúcsa Tipperaryban.",
@@ -1122,7 +1158,7 @@ export const irelandReliefV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Bloom Plateau", hu: "Slieve Bloom fennsík", ro: "Platoul Slieve Bloom", en: "Slieve Bloom Plateau" },
-    coordinates: { lat: 53.05, lng: -7.75 },
+    coords: [-7.75, 53.05],
     description: {
       de: "Das zentrale Plateau der Slieve Bloom Berge.",
       hu: "A Slieve Bloom hegység központi fennsíkja.",

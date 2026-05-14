@@ -6,7 +6,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Eemshaven", hu: "Eemshaven", ro: "Eemshaven", en: "Eemshaven" },
-    coordinates: { lat: 53.445, lng: 6.837 },
+    coords: [6.837, 53.445],
     description: {
       de: "Eemshaven ist ein bedeutender Seehafen im Norden der Niederlande. Er dient als wichtiges Drehkreuz für Energieversorgung und Offshore-Windkraft.",
       hu: "Eemshaven Hollandia északi részének jelentős tengeri kikötője. Fontos csomópont az energiaellátás és a tengeri szélerőművek számára.",
@@ -38,7 +38,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Brightlands Chemelot Campus", hu: "Brightlands Chemelot Campus", ro: "Brightlands Chemelot Campus", en: "Brightlands Chemelot Campus" },
-    coordinates: { lat: 50.963, lng: 5.805 },
+    coords: [5.805, 50.963],
     description: {
       de: "Dieser Campus in Geleen ist ein Forschungs- und Industriezentrum für Chemie und neue Materialien. Er beherbergt zahlreiche Unternehmen.",
       hu: "A Geleenben található campus a kémia és az új anyagok kutatási és ipari központja. Számos vállalatnak ad otthont.",
@@ -70,7 +70,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "factory",
     parent: "NL",
     name: { de: "VDL Nedcar Werk", hu: "VDL Nedcar üzem", ro: "Uzina VDL Nedcar", en: "VDL Nedcar plant" },
-    coordinates: { lat: 50.995, lng: 5.845 },
+    coords: [5.845, 50.995],
     description: {
       de: "Das VDL Nedcar Werk in Born ist eine große Automobilfabrik. Es ist die einzige Pkw-Großserienfertigungsstätte in den Niederlanden.",
       hu: "A borni VDL Nedcar üzem egy nagyméretű autógyár. Ez az egyetlen nagyüzemi autógyártó létesítmény Hollandiában.",
@@ -102,7 +102,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Hafen Moerdijk", hu: "Moerdijk kikötő", ro: "Portul Moerdijk", en: "Port of Moerdijk" },
-    coordinates: { lat: 51.685, lng: 4.605 },
+    coords: [4.605, 51.685],
     description: {
       de: "Der Hafen Moerdijk ist ein bedeutender Industriehafen zwischen Rotterdam und Antwerpen. Er ist auf Logistik und Petrochemie spezialisiert.",
       hu: "A Moerdijk kikötő jelentős ipari kikötő Rotterdam és Antwerpen között. Logisztikára és petrolkémiára specializálódott.",
@@ -134,7 +134,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Greenport Westland", hu: "Greenport Westland", ro: "Greenport Westland", en: "Greenport Westland" },
-    coordinates: { lat: 51.985, lng: 4.215 },
+    coords: [4.215, 51.985],
     description: {
       de: "Westland ist ein weltbekanntes Zentrum für Gewächshausgartenbau. Die Region produziert große Mengen an Gemüse und Blumen für den Export.",
       hu: "Westland világhírű központ az üvegházi kertészet számára. A régió nagy mennyiségben termel zöldséget és virágot exportra.",
@@ -166,7 +166,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Brainport Eindhoven", hu: "Brainport Eindhoven", ro: "Brainport Eindhoven", en: "Brainport Eindhoven" },
-    coordinates: { lat: 51.442, lng: 5.463 },
+    coords: [5.463, 51.442],
     description: {
       de: "Brainport Eindhoven ist ein führender Technologie-Cluster in Europa. Es konzentriert sich auf High-Tech-Systeme und Halbleiter.",
       hu: "A Brainport Eindhoven vezető technológiai klaszter Európában. A high-tech rendszerekre és félvezetőkre összpontosít.",
@@ -198,7 +198,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Hafen Vlissingen", hu: "Vlissingen kikötő", ro: "Portul Vlissingen", en: "Port of Vlissingen" },
-    coordinates: { lat: 51.445, lng: 3.585 },
+    coords: [3.585, 51.445],
     description: {
       de: "Der Hafen von Vlissingen gehört zum North Sea Port Verbund. Er ist spezialisiert auf Schwergut, Früchte und industrielle Logistik.",
       hu: "Vlissingen kikötője a North Sea Port szövetség része. Nehézárukra, gyümölcsökre és ipari logisztikára specializálódott.",
@@ -230,7 +230,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Chemiepark Delfzijl", hu: "Delfzijl vegyipari park", ro: "Parc chimic Delfzijl", en: "Delfzijl Chemical Park" },
-    coordinates: { lat: 53.335, lng: 6.915 },
+    coords: [6.915, 53.335],
     description: {
       de: "Der Chemiepark in Delfzijl ist ein wichtiger Standort für die industrielle Chemieproduktion. Er nutzt die Nähe zum Hafen.",
       hu: "A delfzijli vegyipari park fontos helyszín az ipari vegyianyag-gyártás számára. Kihasználja a kikötő közelségét.",
@@ -262,7 +262,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Food Valley Wageningen", hu: "Food Valley Wageningen", ro: "Food Valley Wageningen", en: "Food Valley Wageningen" },
-    coordinates: { lat: 51.975, lng: 5.665 },
+    coords: [5.665, 51.975],
     description: {
       de: "Wageningen ist das Zentrum des 'Food Valley'. Die Region ist auf Ernährungstechnologie und nachhaltige Landwirtschaft spezialisiert.",
       hu: "Wageningen a 'Food Valley' központja. A régió élelmiszer-technológiára és fenntartható mezőgazdaságra specializálódott.",
@@ -294,7 +294,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Hafen Terneuzen", hu: "Terneuzen kikötő", ro: "Portul Terneuzen", en: "Port of Terneuzen" },
-    coordinates: { lat: 51.335, lng: 3.845 },
+    coords: [3.845, 51.335],
     description: {
       de: "Der Hafen Terneuzen liegt am Kanal von Gent nach Terneuzen. Er ist ein wichtiger Umschlagplatz für industrielle Güter.",
       hu: "Terneuzen kikötője a Gent-Terneuzen csatornán található. Fontos átrakodóhely ipari áruk számára.",
@@ -326,7 +326,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "university",
     parent: "NL",
     name: { de: "TU Delft Campus", hu: "TU Delft Campus", ro: "TU Delft Campus", en: "TU Delft Campus" },
-    coordinates: { lat: 52.005, lng: 4.375 },
+    coords: [4.375, 52.005],
     description: {
       de: "Der Campus der Technischen Universität Delft ist ein Zentrum für Ingenieurforschung und Technologietransfer.",
       hu: "A Delfti Műszaki Egyetem campusa a mérnöki kutatások és technológiatranszfer központja.",
@@ -358,7 +358,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Twente Science Park", hu: "Twente Science Park", ro: "Twente Science Park", en: "Twente Science Park" },
-    coordinates: { lat: 52.235, lng: 6.855 },
+    coords: [6.855, 52.235],
     description: {
       de: "Das Twente Science Park in Enschede ist ein Ort für Hightech-Unternehmen und Start-ups, nahe der Universität Twente.",
       hu: "Az enschede-i Twente Science Park a high-tech vállalatok és start-upok helyszíne, a Twentei Egyetem közelében.",
@@ -390,7 +390,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Blumenversteigerung Aalsmeer", hu: "Aalsmeeri virágtőzsde", ro: "Licitația de flori Aalsmeer", en: "Aalsmeer Flower Auction" },
-    coordinates: { lat: 52.265, lng: 4.775 },
+    coords: [4.775, 52.265],
     description: {
       de: "Die Blumenversteigerung in Aalsmeer ist die größte ihrer Art weltweit. Sie ist das logistische Zentrum des internationalen Blumenhandels.",
       hu: "Az aalsmeeri virágtőzsde a legnagyobb a maga nemében a világon. Ez a nemzetközi virágkereskedelem logisztikai központja.",
@@ -422,7 +422,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "High Tech Campus Eindhoven", hu: "High Tech Campus Eindhoven", ro: "High Tech Campus Eindhoven", en: "High Tech Campus Eindhoven" },
-    coordinates: { lat: 51.405, lng: 5.465 },
+    coords: [5.465, 51.405],
     description: {
       de: "Dieser Campus in Eindhoven ist ein bedeutender Forschungsstandort für globale Technologieunternehmen. Er fördert Innovation durch Kollaboration.",
       hu: "Ez az eindhoveni campus a globális technológiai vállalatok jelentős kutatási helyszíne. Az együttműködés révén ösztönzi az innovációt.",
@@ -454,7 +454,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Flughafen Rotterdam Den Haag", hu: "Rotterdam-Hága repülőtér", ro: "Aeroportul Rotterdam Haga", en: "Rotterdam The Hague Airport" },
-    coordinates: { lat: 51.955, lng: 4.435 },
+    coords: [4.435, 51.955],
     description: {
       de: "Dieser Flughafen dient der Region Rotterdam und Den Haag. Er ist wichtig für Geschäftsreisende und regionale Logistik.",
       hu: "Ez a repülőtér a rotterdami és hágai régiót szolgálja ki. Fontos az üzleti utazók és a regionális logisztika számára.",
@@ -486,7 +486,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Hafen Harlingen", hu: "Harlingen kikötő", ro: "Portul Harlingen", en: "Port of Harlingen" },
-    coordinates: { lat: 53.175, lng: 5.415 },
+    coords: [5.415, 53.175],
     description: {
       de: "Harlingen ist ein wichtiger Hafen an der friesischen Küste. Er ist spezialisiert auf Fischerei, Wadden-Logistik und Industriegüter.",
       hu: "Harlingen fontos kikötő a fríz parton. Halászatra, Wadden-logisztikára és ipari árukra specializálódott.",
@@ -518,7 +518,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Science Park Amsterdam", hu: "Science Park Amsterdam", ro: "Science Park Amsterdam", en: "Science Park Amsterdam" },
-    coordinates: { lat: 52.355, lng: 4.955 },
+    coords: [4.955, 52.355],
     description: {
       de: "Dieser Standort ist ein Cluster für wissenschaftliche Forschung und Technologieunternehmen in Amsterdam.",
       hu: "Ez a helyszín a tudományos kutatás és technológiai vállalatok klasztere Amszterdamban.",
@@ -550,7 +550,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Hafen Den Helder", hu: "Den Helder kikötő", ro: "Portul Den Helder", en: "Port of Den Helder" },
-    coordinates: { lat: 52.965, lng: 4.755 },
+    coords: [4.755, 52.965],
     description: {
       de: "Der Hafen von Den Helder ist ein zentraler Stützpunkt für die Offshore-Industrie und Marineaufgaben in der Nordsee.",
       hu: "Den Helder kikötője központi bázis az offshore ipar és az északi-tengeri haditengerészeti feladatok számára.",
@@ -582,7 +582,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "university",
     parent: "NL",
     name: { de: "TU Eindhoven Campus", hu: "TU Eindhoven Campus", ro: "TU Eindhoven Campus", en: "TU Eindhoven Campus" },
-    coordinates: { lat: 51.445, lng: 5.495 },
+    coords: [5.495, 51.445],
     description: {
       de: "Der Campus der Technischen Universität Eindhoven ist ein Zentrum für technische Forschung und industrielle Kooperation.",
       hu: "Az eindhoveni Műszaki Egyetem campusa a műszaki kutatások és ipari együttműködések központja.",
@@ -614,7 +614,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Hafen Zaandam", hu: "Zaandam kikötő", ro: "Portul Zaandam", en: "Port of Zaandam" },
-    coordinates: { lat: 52.435, lng: 4.825 },
+    coords: [4.825, 52.435],
     description: {
       de: "Der Hafen Zaandam liegt in der Zaan-Region. Er ist traditionell mit der Lebensmittel- und Holzindustrie verbunden.",
       hu: "Zaandam kikötője a Zaan régióban található. Hagyományosan az élelmiszer- és faiparhoz kapcsolódik.",
@@ -646,7 +646,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Maastricht Health Campus", hu: "Maastricht Health Campus", ro: "Maastricht Health Campus", en: "Maastricht Health Campus" },
-    coordinates: { lat: 50.835, lng: 5.715 },
+    coords: [5.715, 50.835],
     description: {
       de: "Dieser Campus in Maastricht ist auf Biowissenschaften und Medizintechnik spezialisiert. Er verbindet Universität und Industrie.",
       hu: "Ez a maastrichti campus élettudományokra és orvostechnikára specializálódott. Összeköti az egyetemet és az ipart.",
@@ -678,7 +678,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Hafen Zwolle", hu: "Zwolle kikötő", ro: "Portul Zwolle", en: "Port of Zwolle" },
-    coordinates: { lat: 52.505, lng: 6.095 },
+    coords: [6.095, 52.505],
     description: {
       de: "Der Hafen von Zwolle ist ein wichtiger Binnenhafen. Er spielt eine zentrale Rolle in der regionalen Logistik und Schifffahrt.",
       hu: "Zwolle kikötője fontos belvízi kikötő. Központi szerepet játszik a regionális logisztikában és hajózásban.",
@@ -710,7 +710,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Chemiecluster Moerdijk", hu: "Moerdijk vegyipari klaszter", ro: "Cluster chimic Moerdijk", en: "Moerdijk Chemical Cluster" },
-    coordinates: { lat: 51.695, lng: 4.615 },
+    coords: [4.615, 51.695],
     description: {
       de: "Dieses Cluster konzentriert sich auf petrochemische Verarbeitung und Produktion. Es ist eng mit dem Hafen Moerdijk verknüpft.",
       hu: "Ez a klaszter a petrolkémiai feldolgozásra és termelésre összpontosít. Szorosan kapcsolódik a Moerdijk kikötőhöz.",
@@ -742,7 +742,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Hafen Nijmegen", hu: "Nijmegen kikötő", ro: "Portul Nijmegen", en: "Port of Nijmegen" },
-    coordinates: { lat: 51.845, lng: 5.855 },
+    coords: [5.855, 51.845],
     description: {
       de: "Der Hafen Nijmegen liegt an der Waal. Er dient dem Umschlag von Rohstoffen und Industriegütern für den Binnenmarkt.",
       hu: "Nijmegen kikötője a Waal folyón található. Nyersanyagok és ipari áruk átrakodására szolgál a belső piac számára.",
@@ -774,7 +774,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "industry",
     parent: "NL",
     name: { de: "Logistikzentrum Venlo", hu: "Venlo logisztikai központ", ro: "Centru logistic Venlo", en: "Venlo Logistics Hub" },
-    coordinates: { lat: 51.375, lng: 6.165 },
+    coords: [6.165, 51.375],
     description: {
       de: "Venlo ist ein zentraler Logistikknotenpunkt für den grenzüberschreitenden Handel zwischen den Niederlanden und Deutschland.",
       hu: "Venlo központi logisztikai csomópont a Hollandia és Németország közötti határokon átnyúló kereskedelemben.",
@@ -806,7 +806,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "port",
     parent: "NL",
     name: { de: "Hafen Lelystad", hu: "Lelystad kikötő", ro: "Portul Lelystad", en: "Port of Lelystad" },
-    coordinates: { lat: 52.515, lng: 5.455 },
+    coords: [5.455, 52.515],
     description: {
       de: "Der Hafen von Lelystad am Markermeer ist auf Freizeitschifffahrt und leichtere industrielle Logistik spezialisiert.",
       hu: "Lelystad kikötője a Markermeeren a szabadidős hajózásra és könnyű ipari logisztikára specializálódott.",
@@ -838,7 +838,7 @@ export const netherlandsEconomicV2: POI[] = [
     type: "university",
     parent: "NL",
     name: { de: "Twente Campus", hu: "Twente Campus", ro: "Twente Campus", en: "Twente Campus" },
-    coordinates: { lat: 52.245, lng: 6.855 },
+    coords: [6.855, 52.245],
     description: {
       de: "Der Campus der Universität Twente ist bekannt für seine Entrepreneurship-Programme und technische Innovationen.",
       hu: "A Twentei Egyetem campusa ismert vállalkozói programjairól és műszaki innovációiról.",

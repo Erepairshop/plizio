@@ -6,7 +6,7 @@ export const irelandEconomicV2: POI[] = [
     type: "port",
     parent: "IE",
     name: { de: "Ringaskiddy Hafen", hu: "Ringaskiddy kikötő", ro: "Portul Ringaskiddy", en: "Ringaskiddy Port" },
-    coordinates: { lat: 51.826, lng: -8.324 },
+    coords: [-8.324, 51.826],
     description: {
       de: "Ringaskiddy dient als wichtiger Frachthafen und Terminal für Cork. Er spielt eine zentrale Rolle im internationalen Schiffsverkehr der Region.",
       hu: "Ringaskiddy Cork fontos teherkikötője és terminálja. Meghatározó szerepet tölt be a régió nemzetközi hajóforgalmában.",
@@ -38,7 +38,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Ballymahon Datenknoten", hu: "Ballymahon adatközpont", ro: "Nod de date Ballymahon", en: "Ballymahon Data Hub" },
-    coordinates: { lat: 53.559, lng: -7.781 },
+    coords: [-7.781, 53.559],
     description: {
       de: "Ballymahon ist Standort bedeutender technologischer Infrastruktur in der irischen Midlands-Region. Die Anlage unterstützt lokale digitale Dienstleistungen.",
       hu: "Ballymahon az ír Midlands régió fontos technológiai infrastruktúrájának helyszíne. A létesítmény támogatja a helyi digitális szolgáltatásokat.",
@@ -70,7 +70,7 @@ export const irelandEconomicV2: POI[] = [
     type: "port",
     parent: "IE",
     name: { de: "Rosslare Hafen", hu: "Rosslare kikötő", ro: "Portul Rosslare", en: "Rosslare Harbour" },
-    coordinates: { lat: 52.253, lng: -6.347 },
+    coords: [-6.347, 52.253],
     description: {
       de: "Rosslare Harbour fungiert als bedeutender Knotenpunkt für den Güterverkehr zwischen Irland und Kontinentaleuropa. Er ist einer der wichtigsten Häfen des Landes.",
       hu: "Rosslare Harbour az Írország és kontinentális Európa közötti áruforgalom jelentős csomópontja. Az ország egyik legfontosabb kikötője.",
@@ -102,7 +102,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Maynooth Technologiepark", hu: "Maynooth Technológiai Park", ro: "Parcul Tehnologic Maynooth", en: "Maynooth Technology Park" },
-    coordinates: { lat: 53.379, lng: -6.594 },
+    coords: [-6.594, 53.379],
     description: {
       de: "Der Maynooth Technologiepark ist ein Zentrum für Forschung und Entwicklung in der Nähe von Dublin. Er beherbergt zahlreiche Technologieunternehmen.",
       hu: "A Maynooth Technológiai Park Dublin közelében található kutatási és fejlesztési központ. Számos technológiai cégnek ad otthont.",
@@ -134,7 +134,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Fermoy Agrarzentrum", hu: "Fermoy mezőgazdasági központ", ro: "Centrul agricol Fermoy", en: "Fermoy Agricultural Hub" },
-    coordinates: { lat: 52.141, lng: -8.274 },
+    coords: [-8.274, 52.141],
     description: {
       de: "Fermoy liegt im Zentrum einer wichtigen landwirtschaftlichen Region in der Grafschaft Cork. Es dient als lokaler Handelsplatz für Agrarprodukte.",
       hu: "Fermoy egy fontos mezőgazdasági régió központjában található Cork megyében. Mezőgazdasági termékek helyi kereskedelmi központjaként szolgál.",
@@ -166,7 +166,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Ashbourne Gewerbepark", hu: "Ashbourne üzleti park", ro: "Parcul de afaceri Ashbourne", en: "Ashbourne Business Park" },
-    coordinates: { lat: 53.513, lng: -6.398 },
+    coords: [-6.398, 53.513],
     description: {
       de: "Ashbourne beherbergt einen expandierenden Gewerbepark, der Unternehmen aus verschiedenen Sektoren anzieht. Er profitiert von der Nähe zur Hauptstadt.",
       hu: "Ashbourne egy bővülő üzleti parknak ad otthont, amely különféle ágazatokból vonzza a vállalkozásokat. Profitál a fővároshoz való közelségéből.",
@@ -198,7 +198,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Newbridge Fertigungszentrum", hu: "Newbridge gyártóközpont", ro: "Centrul de producție Newbridge", en: "Newbridge Manufacturing Hub" },
-    coordinates: { lat: 53.179, lng: -6.804 },
+    coords: [-6.804, 53.179],
     description: {
       de: "Newbridge ist bekannt für seine industrielle Basis und die Nähe zu wichtigen Verkehrswegen in der Grafschaft Kildare. Hier finden sich diverse Fabrikationsanlagen.",
       hu: "Newbridge ipari bázisáról és a Kildare megyei fontos közlekedési útvonalakhoz való közelségéről ismert. Számos gyártóüzem található itt.",
@@ -230,7 +230,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Sligo Gewerbepark", hu: "Sligo ipari park", ro: "Parcul Industrial Sligo", en: "Sligo Industrial Park" },
-    coordinates: { lat: 54.275, lng: -8.472 },
+    coords: [-8.472, 54.275],
     description: {
       de: "Sligo Industrial Park ist das wirtschaftliche Zentrum im Nordwesten Irlands. Er bietet Raum für zahlreiche Fertigungs- und Serviceunternehmen.",
       hu: "A Sligo Ipari Park az északnyugat-írországi gazdasági központ. Számos gyártó- és szolgáltatóipari cégnek biztosít helyet.",
@@ -262,7 +262,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Nenagh Agrarwirtschaft", hu: "Nenagh agrárgazdaság", ro: "Economia agricolă Nenagh", en: "Nenagh Agricultural Economy" },
-    coordinates: { lat: 52.862, lng: -8.196 },
+    coords: [-8.196, 52.862],
     description: {
       de: "Nenagh ist ein bedeutender Standort für Agrarhandel und verwandte Dienstleistungen in Tipperary. Die Stadt fungiert als lokaler Wirtschaftsmarkt.",
       hu: "Nenagh az agrárkereskedelem és a kapcsolódó szolgáltatások jelentős központja Tipperary megyében. A város helyi gazdasági piacként funkcionál.",
@@ -294,7 +294,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Mullingar Geschäftszentrum", hu: "Mullingar üzleti központ", ro: "Centrul de afaceri Mullingar", en: "Mullingar Business Hub" },
-    coordinates: { lat: 53.523, lng: -7.345 },
+    coords: [-7.345, 53.523],
     description: {
       de: "Mullingar ist ein wirtschaftlich wachsender Standort in Westmeath. Die Stadt ist ein Knotenpunkt für Dienstleistungen und Leichtindustrie.",
       hu: "Mullingar gazdaságilag növekvő helyszín Westmeath megyében. A város a szolgáltatások és a könnyűipar csomópontja.",
@@ -326,7 +326,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Ennis Handelszone", hu: "Ennis kereskedelmi övezet", ro: "Zona comercială Ennis", en: "Ennis Commercial Zone" },
-    coordinates: { lat: 52.846, lng: -8.983 },
+    coords: [-8.983, 52.846],
     description: {
       de: "Ennis verfügt über eine etablierte Handelszone, die als wirtschaftliches Rückgrat für die Region Clare dient. Sie unterstützt lokale und überregionale Unternehmen.",
       hu: "Ennis kiépült kereskedelmi övezettel rendelkezik, amely Clare megye gazdasági gerincét alkotja. Támogatja a helyi és regionális vállalkozásokat.",
@@ -358,7 +358,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Carlow Technologiepark", hu: "Carlow Technológiai Park", ro: "Parcul Tehnologic Carlow", en: "Carlow Technology Park" },
-    coordinates: { lat: 52.825, lng: -6.924 },
+    coords: [-6.924, 52.825],
     description: {
       de: "Der Carlow Technologiepark beherbergt innovationsorientierte Unternehmen in der Südostregion. Die Anlage fördert den Wissensaustausch.",
       hu: "A Carlow Technológiai Park innováció-orientált vállalatoknak ad otthont a délkeleti régióban. A létesítmény elősegíti a tudáscserét.",
@@ -390,7 +390,7 @@ export const irelandEconomicV2: POI[] = [
     type: "port",
     parent: "IE",
     name: { de: "Wexford Hafen", hu: "Wexford kikötő", ro: "Portul Wexford", en: "Wexford Port" },
-    coordinates: { lat: 52.336, lng: -6.461 },
+    coords: [-6.461, 52.336],
     description: {
       de: "Wexford Hafen ist eine historische Einrichtung an der Südostküste. Er dient heute primär als kleinerer Umschlagplatz für regionale Güter.",
       hu: "Wexford kikötője egy történelmi létesítmény a délkeleti parton. Ma elsősorban kisebb regionális áruforgalmi csomópontként szolgál.",
@@ -422,7 +422,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Athlone Geschäftszone", hu: "Athlone üzleti övezet", ro: "Zona de afaceri Athlone", en: "Athlone Business Zone" },
-    coordinates: { lat: 53.424, lng: -7.941 },
+    coords: [-7.941, 53.424],
     description: {
       de: "Athlone ist ein zentral gelegener Wirtschaftsstandort an der Shannon-Brücke. Er dient als Knotenpunkt für Unternehmen in den irischen Midlands.",
       hu: "Athlone egy központi fekvésű gazdasági helyszín a Shannon-hídnál. Az ír Midlands-i vállalkozások csomópontjaként szolgál.",
@@ -454,7 +454,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Tralee Industriepark", hu: "Tralee ipari park", ro: "Parcul Industrial Tralee", en: "Tralee Enterprise Park" },
-    coordinates: { lat: 52.271, lng: -9.702 },
+    coords: [-9.702, 52.271],
     description: {
       de: "Der Tralee Industriepark bietet Raum für lokale Fertigungsbetriebe im Südwesten Irlands. Die Anlage unterstützt die regionale wirtschaftliche Entwicklung.",
       hu: "A Tralee Ipari Park helyi gyártóüzemek számára biztosít teret Délnyugat-Írországban. A létesítmény támogatja a regionális gazdasági fejlődést.",
@@ -486,7 +486,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Dundalk Industriezone", hu: "Dundalk ipari övezet", ro: "Zona Industrială Dundalk", en: "Dundalk Industrial Zone" },
-    coordinates: { lat: 54.004, lng: -6.402 },
+    coords: [-6.402, 54.004],
     description: {
       de: "Dundalk ist ein bedeutendes Industriezentrum an der Ostküste, nahe der Grenze. Die Zone ist stark auf Produktion und Logistik ausgerichtet.",
       hu: "Dundalk jelentős ipari központ a keleti parton, közel a határhoz. Az övezet erősen a termelésre és a logisztikára összpontosít.",
@@ -518,7 +518,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Ballina Industriegebiet", hu: "Ballina ipari terület", ro: "Zona Industrială Ballina", en: "Ballina Industrial Area" },
-    coordinates: { lat: 54.108, lng: -9.165 },
+    coords: [-9.165, 54.108],
     description: {
       de: "Ballina beherbergt ein industrielles Areal im Westen Irlands, das verschiedene Produktionsbetriebe unterstützt. Es trägt zur lokalen Beschäftigung bei.",
       hu: "Ballina ipari területtel rendelkezik Nyugat-Írországban, amely különböző gyártóüzemeket támogat. Hozzájárul a helyi foglalkoztatottsághoz.",
@@ -550,7 +550,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Waterford Industriepark", hu: "Waterford ipari park", ro: "Parcul Industrial Waterford", en: "Waterford Industrial Estate" },
-    coordinates: { lat: 52.248, lng: -7.135 },
+    coords: [-7.135, 52.248],
     description: {
       de: "Der Waterford Industriepark ist einer der größten und ältesten seiner Art in Irland. Er beherbergt zahlreiche produzierende Unternehmen der Region.",
       hu: "A Waterford Ipari Park Írország egyik legnagyobb és legrégebbi ilyen létesítménye. Számos termelővállalatnak ad otthont a régióban.",
@@ -582,7 +582,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Westport Gewerbepark", hu: "Westport üzleti park", ro: "Parcul de afaceri Westport", en: "Westport Business Park" },
-    coordinates: { lat: 53.805, lng: -9.524 },
+    coords: [-9.524, 53.805],
     description: {
       de: "Westport besitzt einen modernen Gewerbepark, der auf Leichtindustrie und Dienstleistungen ausgerichtet ist. Er fördert die lokale Wirtschaft im Westen.",
       hu: "Westport modern üzleti parkkal rendelkezik, amely a könnyűiparra és a szolgáltatásokra összpontosít. Támogatja a helyi gazdaságot nyugaton.",
@@ -614,7 +614,7 @@ export const irelandEconomicV2: POI[] = [
     type: "industry",
     parent: "IE",
     name: { de: "Tullamore Industriezone", hu: "Tullamore ipari övezet", ro: "Zona Industrială Tullamore", en: "Tullamore Industrial Zone" },
-    coordinates: { lat: 53.272, lng: -7.502 },
+    coords: [-7.502, 53.272],
     description: {
       de: "Tullamore beherbergt eine wichtige Industriezone in den Midlands. Sie ist ein Zentrum für verschiedene Produktionszweige und lokale Logistik.",
       hu: "Tullamore fontos ipari övezetnek ad otthont a Midlands régióban. A termelési ágak és a helyi logisztika központja.",

@@ -14,7 +14,20 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["A Szvanéti-hegylánc legmagasabb csúcsa.", "Népszerű célpont a kihívást kereső hegymászók körében."],
       ro: ["Cel mai înalt vârf din lanțul Svaneti.", "O destinație populară pentru alpiniștii experimentați."],
       en: ["Highest peak of the Svaneti Range.", "A popular destination for experienced mountaineers."]
-    }, image: "/poi-images/laila-relief-v2.webp"},
+    }, image: "/poi-images/laila-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Berg Laila liegt im zentralen Georgien, südlich von Tiflis, und ist ein markanter Gipfel der Trialeti-Kette. Mit einer Höhe von 1.890 Metern bietet er einen Panoramablick über die umliegenden Täler. Die Region ist bekannt für ihre alpinen Wiesen und dichten Wälder, die von Buchen und Tannen dominiert werden. Laila ist ein beliebtes Ziel für Wanderer und Naturliebhaber. Die Geologie besteht hauptsächlich aus vulkanischen Gesteinen des Jura-Zeitalters. In der Umgebung befinden sich mehrere Seen, darunter der Laila-See. Historisch diente der Berg als Orientierungspunkt für Hirten.",
+      hu: "A Laila-hegy Közép-Grúziában, Tbiliszitől délre található, a Trialeti-hegység része. Magassága 1890 méter, ahonnan gyönyörű kilátás nyílik a környező völgyekre. A területet alpesi rétek és sűrű bükk- és fenyőerdők borítják. A Laila népszerű túracélpont. Geológiailag a jura kori vulkáni kőzetek jellemzik. A közelben található a Laila-tó. Történelmileg a hegy pásztorok tájékozódási pontja volt.",
+      ro: "Muntele Laila este situat în centrul Georgiei, la sud de Tbilisi, făcând parte din lanțul Trialeti. Cu o altitudine de 1890 m, oferă o panoramă asupra văilor din jur. Zona este acoperită de pajiști alpine și păduri dese de fag și brad. Laila este o destinație populară pentru drumeții. Geologia constă predominant în roci vulcanice din Jurasic. În apropiere se află Lacul Laila. Din punct de vedere istoric, muntele a servit ca reper pentru păstori.",
+      en: "Mount Laila, part of the Trialeti Range in central Georgia south of Tbilisi, reaches 1,890 meters. It features alpine meadows and dense beech and fir forests. Popular for hiking, the peak offers views of the surrounding valleys. Geologically, it is composed of Jurassic volcanic rocks. Nearby Laila Lake is a small glacial lake. Historically, shepherds used the mountain as a landmark. The area is home to diverse flora including endemic species.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.890 m.", "Teil der Trialeti-Kette.", "Geologie: Jura-Vulkanite.", "Laila-See auf etwa 1.700 m Höhe.", "Entfernung von Tiflis ca. 30 km.", "Wanderweg zum Gipfel ist 5 km lang."],
+      hu: ["Magassága 1890 méter.", "A Trialeti-hegység része.", "Jura kori vulkáni kőzetek.", "A Laila-tó körülbelül 1700 méteren található.", "Tbiliszitől 30 km-re fekszik.", "A csúcshoz vezető túraútvonal 5 km hosszú."],
+      ro: ["Altitudine: 1.890 m.", "Parte a lanțului Trialeti.", "Geologie: roci vulcanice jurasice.", "Lacul Laila la aproximativ 1.700 m.", "La 30 km de Tbilisi.", "Traseul de drumeție până în vârf are 5 km."],
+      en: ["Elevation: 1,890 m.", "Part of the Trialeti Range.", "Geology: Jurassic volcanic rocks.", "Laila Lake at about 1,700 m.", "30 km from Tbilisi.", "Hiking trail to summit is 5 km long."],
+    },
+  },
   {
     id: "diklosmta-relief-v2",
     type: "mountain",
@@ -28,7 +41,20 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Magassága eléri a 4285 métert.", "A dagesztáni határon fekszik."],
       ro: ["Atinge o altitudine de 4.285 de metri.", "Situat la granița cu Daghestan."],
       en: ["Reaches an elevation of 4,285 meters.", "Located on the border with Dagestan."]
-    }, image: "/poi-images/diklosmta-relief-v2.webp"},
+    }, image: "/poi-images/diklosmta-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Diklosmta (auch Diklos Mta) ist ein Gipfel im Großen Kaukasus in der georgischen Region Tuschetien. Seine Höhe wird mit 4.285 Metern angegeben, womit er zu den höchsten Bergen Georgiens zählt. Der Berg ist stark vergletschert, mit großen Firnfeldern und Gletschern an seinen Hängen. Die Erstbesteigung erfolgte 1888 durch eine russische Expedition. Die Region ist abgelegen und dünn besiedelt, bekannt für ihre traditionelle tuschetische Kultur. Die Flora umfasst alpine Matten und seltene Blütenpflanzen. Der Diklosmta ist ein beliebtes Ziel für erfahrene Bergsteiger.",
+      hu: "A Diklosmta (más néven Diklos Mta) a Nagy-Kaukázusban, Grúzia Tusheti régiójában található. Magassága 4285 méter, így Grúzia egyik legmagasabb csúcsa. A hegyet gleccserek és hómezők borítják. Első megmászása 1888-ban történt egy orosz expedíció által. A terület elszigetelt, hagyományos tusheti kultúrával. A növényvilág alpesi réteket és ritka virágokat foglal magában. A Diklosmta tapasztalt hegymászók számára kihívást jelent.",
+      ro: "Diklosmta (sau Diklos Mta) este un vârf din Marele Caucaz, în regiunea Tușetia din Georgia. Altitudinea sa de 4.285 m îl plasează printre cei mai înalți munți ai Georgiei. Este puternic glaciat, cu ghețari și câmpuri de névé. Prima ascensiune a avut loc în 1888 de către o expediție rusă. Zona este izolată, cu o cultură tușetă tradițională. Flora include pajiști alpine și plante rare. Diklosmta este o provocare pentru alpiniști experimentați.",
+      en: "Mount Diklosmta, in Georgia's Tusheti region of the Greater Caucasus, rises to 4,285 meters, making it one of the country's highest peaks. It features extensive glaciers and névé fields. First climbed in 1888 by a Russian expedition, the mountain is remote and culturally significant for the Tushetian people. Alpine meadows and endemic plants cover its lower slopes. It is a challenging objective for mountaineers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4.285 m.", "Lage im Großen Kaukasus.", "Erstbesteigung 1888.", "Gletscherfläche ca. 10 km².", "Niederschlag: über 2000 mm/Jahr.", "Temperatur im Sommer maximal 10 °C."],
+      hu: ["Magasság: 4285 méter.", "A Nagy-Kaukázusban található.", "Első megmászás: 1888.", "Gleccserterület kb. 10 km².", "Csapadék évi 2000 mm felett.", "Nyári maximum hőmérséklet 10 °C."],
+      ro: ["Altitudine: 4.285 m.", "Situat în Marele Caucaz.", "Prima ascensiune în 1888.", "Suprafață glaciară de cca 10 km².", "Precipitații anuale peste 2000 mm.", "Temperatura maximă de vară 10 °C."],
+      en: ["Elevation: 4,285 m.", "Located in the Greater Caucasus.", "First ascent in 1888.", "Glacier area about 10 km².", "Annual precipitation over 2000 mm.", "Summer maximum temperature 10 °C."],
+    },
+  },
   {
     id: "tebulosmta-relief-v2",
     type: "mountain",
@@ -42,7 +68,20 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["4492 méterével a régió legmagasabb hegye.", "Lejtőit alpesi rétek veszik körül."],
       ro: ["Cu 4.492 de metri, este cel mai înalt munte din regiune.", "Pantele sunt înconjurate de pajiști alpine."],
       en: ["At 4,492 meters, it is the highest mountain in the region.", "The slopes are surrounded by alpine meadows."]
-    }, image: "/poi-images/tebulosmta-relief-v2.webp"},
+    }, image: "/poi-images/tebulosmta-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tebulosmta ist mit 4.493 Metern der höchste Berg der östlichen Kaukasus-Kette und liegt auf der Grenze zwischen Georgien (Tschetschenien-Region) und Russland. Er ist ein massiver Gipfel mit mehreren Gletschern, darunter der östliche Gletscher. Die Region ist seismisch aktiv. Die Erstbesteigung gelang 1983 einer georgischen Expedition. Die umliegenden Täler sind von Nadelwäldern geprägt. Der Berg ist Teil des Tuschetischen Schutzgebiets. Die Besteigung erfordert technische Kenntnisse.",
+      hu: "A Tebulosmta (4493 méter) a keleti Kaukázus legmagasabb csúcsa, Grúzia és Oroszország határán. Több gleccserrel rendelkezik, köztük a Keleti-gleccserrel. A terület szeizmikusan aktív. Első megmászása 1983-ban történt grúz expedíció által. A környező völgyekben fenyvesek találhatók. A hegy a Tuseti Védett Terület része. Technikai mászást igényel.",
+      ro: "Tebulosmta, cu 4.493 m, este cel mai înalt vârf din Caucazul de Est, situat la granița dintre Georgia și Rusia. Este un masiv glaciar, cu ghețari precum Ghețarul de Est. Zona este activă seismic. Prima ascensiune a fost în 1983 de o expediție georgiană. Văile din jur sunt acoperite de păduri de conifere. Face parte din aria protejată Tușetia. Urcarea necesită abilități tehnice.",
+      en: "Mount Tebulosmta, at 4,493 meters, is the highest peak of the Eastern Caucasus, straddling the border of Georgia and Russia. It hosts several glaciers, including the Eastern Glacier. The region is seismically active. First climbed in 1983 by a Georgian team. Surrounding valleys feature coniferous forests. It lies within the Tusheti Protected Landscape. Ascents require technical climbing skills.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4.493 m.", "Höchster Berg des Ostkaukasus.", "Grenzberg Georgien/Russland.", "Erstbesteigung 1983.", "Länge des Ostgletschers ca. 5 km.", "Letzter großer Ausbruch: keine vulkanische Aktivität, aber Erdbeben."],
+      hu: ["Magasság: 4493 méter.", "A keleti Kaukázus legmagasabb csúcsa.", "Határ Grúzia és Oroszország között.", "Első megmászás: 1983.", "A keleti gleccser hossza kb. 5 km.", "Nincs vulkáni tevékenység, de földrengések előfordulnak."],
+      ro: ["Altitudine: 4.493 m.", "Cel mai înalt vârf din Caucazul de Est.", "Munte de frontieră Georgia-Rusia.", "Prima ascensiune în 1983.", "Lungimea ghețarului de Est: cca 5 km.", "Fără activitate vulcanică, dar cutremure frecvente."],
+      en: ["Elevation: 4,493 m.", "Highest peak of the Eastern Caucasus.", "Border mountain between Georgia and Russia.", "First ascent in 1983.", "Eastern Glacier length about 5 km.", "No volcanic activity, but frequent earthquakes."],
+    },
+  },
   {
     id: "shota-rustaveli-peak-relief-v2",
     type: "mountain",
@@ -56,7 +95,20 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Több mint 4800 méter magas.", "A 12. századi költőről kapta a nevét."],
       ro: ["Are peste 4.800 de metri înălțime.", "Numit după poetul din secolul al XII-lea."],
       en: ["Over 4,800 meters high.", "Named after the 12th-century poet."]
-    }, image: "/poi-images/shota-rustaveli-peak-relief-v2.webp"},
+    }, image: "/poi-images/shota-rustaveli-peak-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Schota-Rustaweli-Gipfel ist ein 4.860 Meter hoher Berg im zentralen Kaukasus-Hauptkamm (Georgien). Benannt ist er nach dem georgischen Nationaldichter Schota Rustaweli. Der Gipfel liegt unweit des Elbrus und ist Teil der Bergkette, die Bezengi-Gletscher genannt wird. Die Erstbesteigung erfolgte 1937 durch eine sowjetische Expedition. Der Berg ist für seine steilen Westwände bekannt, die technische Kletterei erfordern. Die Region ist von Gletschern umgeben, darunter der Bezengi-Gletscher mit einer Länge von 17 km. Der Gipfel ist ein beliebtes Ziel für Höhenbergsteiger.",
+      hu: "A Sota Rusztaveli-csúcs 4860 méter magas a Középső-Kaukázus főgerincén (Grúzia). A grúz nemzeti költőről nevezték el. A Bezenghi-gleccser része. Első megmászása 1937-ben szovjet expedíció által. A meredek nyugati falak technikai mászást igényelnek. A környéket gleccserek veszik körül, a Bezenghi-gleccser 17 km hosszú. Népszerű a magashegyi mászók körében.",
+      ro: "Vârful Șota Rustaveli, cu 4.860 m, este situat în creasta principală a Caucazului Central (Georgia). Numele provine de la poetul național georgian. Face parte din Ghețarul Bezengi. Prima ascensiune a fost în 1937 de o expediție sovietică. Pereții vestici abrupți necesită cățărare tehnică. Zona este înconjurată de ghețari, Bezengi având 17 km lungime. Este o destinație pentru alpiniști de altitudine.",
+      en: "Shota Rustaveli Peak, at 4,860 meters, is a major summit in the Central Caucasus main ridge of Georgia. Named after the medieval Georgian poet, it lies near the Bezengi Glacier. First climbed in 1937 by a Soviet team, its steep western face demands technical climbing. The Bezengi Glacier extends 17 km. It is a classic high-altitude mountaineering objective.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4.860 m.", "Benannt nach Schota Rustaweli.", "Teil des Bezengi-Gletschers.", "Erstbesteigung 1937.", "Westwand über 1500 m Höhenunterschied.", "Bezengi-Gletscherlänge: 17 km."],
+      hu: ["Magasság: 4860 méter.", "Sota Rusztaveliről elnevezve.", "A Bezenghi-gleccser része.", "Első megmászás: 1937.", "A nyugati fal szintkülönbsége 1500 m.", "Bezenghi-gleccser hossza 17 km."],
+      ro: ["Altitudine: 4.860 m.", "Numit după Șota Rustaveli.", "Parte a Ghețarului Bezengi.", "Prima ascensiune în 1937.", "Peretele vestic are o diferență de nivel de 1500 m.", "Lungimea Ghețarului Bezengi: 17 km."],
+      en: ["Elevation: 4,860 m.", "Named after Shota Rustaveli.", "Part of the Bezengi Glacier system.", "First ascent in 1937.", "West face elevation gain 1500 m.", "Bezengi Glacier length: 17 km."],
+    },
+  },
   {
     id: "ailama-relief-v2",
     type: "mountain",
@@ -70,7 +122,20 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Magassága 4547 méter.", "Kihívást jelentő alpinista célpontnak számít."],
       ro: ["Altitudinea este de 4.547 de metri.", "Considerată o destinație alpină provocatoare."],
       en: ["The elevation is 4,547 meters.", "Considered a challenging alpine destination."]
-    }, image: "/poi-images/ailama-relief-v2.webp"},
+    }, image: "/poi-images/ailama-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Berg Ailama (auch Ailami) ist ein 4.525 Meter hoher Gipfel im georgischen Teil des Großen Kaukasus, in der Region Swanetien. Er ist bekannt für seine markante pyramidenförmige Silhouette. Die Hänge sind von Gletschern gesäumt, darunter der Ailama-Gletscher. Die Erstbesteigung erfolgte 1874 durch eine britische Expedition unter der Leitung von Douglas Freshfield. Die Region ist reich an endemischen Pflanzenarten. Der Ailama gilt als technisch anspruchsvoll und ist ein beliebtes Ziel für Alpinisten.",
+      hu: "Az Ailama (vagy Ailami) 4525 méter magas csúcs a Nagy-Kaukázus grúz oldalán, Szvanétiában. Piramis alakjáról ismert. Gleccserek borítják, köztük az Ailama-gleccser. Első megmászása 1874-ben Douglas Freshfield brit expedíciója által. Endemikus növényekben gazdag. Technikailag nehéz, népszerű a hegymászók körében.",
+      ro: "Muntele Ailama (sau Ailami), cu 4.525 m, se află în Caucazul Mare, în regiunea Svaneția din Georgia. Se remarcă prin silueta piramidală. Este acoperit de ghețari, inclusiv Ghețarul Ailama. Prima ascensiune a fost în 1874 de o expediție britanică condusă de Douglas Freshfield. Zona este bogată în plante endemice. Ailama este considerat tehnic dificil și popular printre alpiniști.",
+      en: "Mount Ailama (or Ailami), 4,525 meters high, is located in Georgia's Svaneti region of the Greater Caucasus. Its pyramidal shape is iconic. Glaciers like the Ailama Glacier drape its slopes. First climbed in 1874 by a British expedition led by Douglas Freshfield. The area hosts many endemic plants. It is a technically challenging peak popular with climbers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4.525 m.", "Pyramidenform.", "Erstbesteigung 1874.", "Ailama-Gletscher ca. 3 km lang.", "In Swanetien gelegen.", "Geologie: Granit und Schiefer."],
+      hu: ["Magasság: 4525 méter.", "Piramis alakú.", "Első megmászás: 1874.", "Ailama-gleccser hossza kb. 3 km.", "Szvanétiában található.", "Geológia: gránit és pala."],
+      ro: ["Altitudine: 4.525 m.", "Formă piramidală.", "Prima ascensiune în 1874.", "Ghețarul Ailama are cca 3 km lungime.", "Situat în Svaneția.", "Geologie: granit și șist."],
+      en: ["Elevation: 4,525 m.", "Pyramidal shape.", "First ascent in 1874.", "Ailama Glacier about 3 km long.", "Located in Svaneti.", "Geology: granite and schist."],
+    },
+  },
   {
     id: "khvamli-massif-relief-v2",
     type: "mountain",
@@ -84,7 +149,20 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Eléri a 2002 méteres magasságot.", "Jelentős szerepet játszik a grúz mitológiában."],
       ro: ["Atinge o altitudine de 2.002 metri.", "Important în mitologia georgiană."],
       en: ["Reaches a height of 2,002 meters.", "Significant in Georgian mythology."]
-    }, image: "/poi-images/khvamli-massif-relief-v2.webp"},
+    }, image: "/poi-images/khvamli-massif-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Khvamli-Massiv (auch Chvamli) ist ein markanter Berg im westlichen Kaukasus in Georgien, in der Region Mingrelien-Oberswanetien. Die höchste Erhebung erreicht 3.800 Meter. Das Massiv ist für seine steilen Felswände und tiefen Schluchten bekannt. Es beherbergt mehrere Gletscher, darunter den Kvishskali-Gletscher. Die Umgebung ist dicht bewaldet mit Buchen und Tannen. Historisch galt der Berg als heilig und wurde mit mythologischen Geschichten verbunden. Im Khvamli-Massiv entspringt der Fluss Enguri. Die Besteigung ist anspruchsvoll.",
+      hu: "A Khvamli-masszívum (más néven Chvamli) Nyugat-Grúziában, Mingrelia-Felső-Szvanétiában található. Legmagasabb pontja 3800 méter. Meredek sziklafalak és mély szurdokok jellemzik. Több gleccser található itt, köztük a Kvishskali-gleccser. A területet bükk- és fenyőerdők borítják. Történelmileg szent hegynek számított. Az Enguri folyó a masszívumban ered. Megmászása nehéz.",
+      ro: "Masivul Khvamli (sau Chvamli) este un munte proeminent în Caucazul de Vest, în Georgia, în regiunea Mingrelia-Svanetia de Sus. Cel mai înalt punct atinge 3.800 m. Masivul are pereți stâncoși abrupți și chei adânci. Adăpostește mai mulți ghețari, inclusiv Ghețarul Kvishskali. Zona este acoperită de păduri de fag și brad. Istoric, muntele era considerat sacru. Râul Enguri izvorăște din masiv. Urcarea este dificilă.",
+      en: "The Khvamli Massif (also Chvamli) in western Georgia's Mingrelia-Upper Svaneti region reaches 3,800 meters. Known for its steep rock faces and deep gorges, it hosts glaciers like Kvishskali. Forests of beech and fir cover lower slopes. The massif is considered sacred in local mythology. The Enguri River originates here. Climbing is technically challenging.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 3.800 m.", "Lage: Mingrelien-Oberswanetien.", "Kvishskali-Gletscher ca. 4 km lang.", "Enguri-Quelle auf 3.500 m Höhe.", "Fläche des Massivs ca. 100 km².", "Jährlicher Niederschlag über 1500 mm."],
+      hu: ["Legmagasabb pont: 3800 m.", "Mingrelia-Felső-Szvanétiában található.", "Kvishskali-gleccser hossza 4 km.", "Az Enguri forrása 3500 méteren.", "A masszívum területe kb. 100 km².", "Évi csapadék 1500 mm felett."],
+      ro: ["Cel mai înalt punct: 3.800 m.", "Situat în Mingrelia-Svanetia de Sus.", "Ghețarul Kvishskali are 4 km lungime.", "Izvorul Enguri la 3.500 m altitudine.", "Suprafața masivului cca 100 km².", "Precipitații anuale peste 1500 mm."],
+      en: ["Highest point: 3,800 m.", "Located in Mingrelia-Upper Svaneti.", "Kvishskali Glacier about 4 km long.", "Enguri River source at 3,500 m.", "Massif area about 100 km².", "Annual precipitation over 1500 mm."],
+    },
+  },
   {
     id: "didgori-mountain-relief-v2",
     type: "mountain",
@@ -98,7 +176,20 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["1647 méter magas.", "A híres didgori csata helyszíne."],
       ro: ["Are o înălțime de 1.647 de metri.", "Locul faimoasei bătălii de la Didgori."],
       en: ["1,647 meters high.", "Site of the famous Battle of Didgori."]
-    }, image: "/poi-images/didgori-mountain-relief-v2.webp"},
+    }, image: "/poi-images/didgori-mountain-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Berg Didgori liegt in der Nähe von Tiflis im Trialeti-Gebirge und erreicht 1.647 Meter. Er ist vor allem für die Schlacht von Didgori (1121) bekannt, in der König David der Erbauer die Seldschuken besiegte. Auf dem Gipfel befindet sich ein Denkmal zur Erinnerung an diese Schlacht. Der Berg ist mit Kiefernwäldern bedeckt und bietet Wanderwege. Er ist ein beliebtes Ausflugsziel für Einheimische. Die Umgebung ist reich an Vogelarten.",
+      hu: "A Didgori-hegy Tbiliszi közelében, a Trialeti-hegységben található, magassága 1647 méter. Híres az 1121-es didgori csatáról, ahol IV. Dávid legyőzte a szeldzsukokat. A csúcsán emlékmű áll. A hegyet fenyőerdők borítják, túraútvonalakkal. Népszerű kirándulóhely. A környék madárvilága gazdag.",
+      ro: "Muntele Didgori, situat în apropiere de Tbilisi, în Munții Trialeti, are 1.647 m altitudine. Este celebru pentru Bătălia de la Didgori (1121), unde regele David Constructorul a învins selgiucizii. Pe vârf se află un monument. Muntele este acoperit de păduri de pini și oferă trasee de drumeție. Destinație populară pentru localnici.",
+      en: "Mount Didgori, near Tbilisi in the Trialeti Range, stands at 1,647 meters. It is famous for the 1121 Battle of Didgori, where King David the Builder defeated the Seljuks. A monument marks the summit. Pine forests cover the slopes, with hiking trails. It is a popular day-trip destination. The area is rich in birdlife.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.647 m.", "Schlacht von Didgori 1121.", "Denkmal auf dem Gipfel seit 1980.", "Entfernung von Tiflis ca. 20 km.", "Waldfläche ca. 30 km².", "Wanderweg zum Gipfel 4 km lang."],
+      hu: ["Magasság: 1647 méter.", "Didgori csata 1121-ben.", "Emlékmű a csúcson 1980 óta.", "Tbiliszitől 20 km-re.", "Erdőterület kb. 30 km².", "Túraútvonal a csúcsra 4 km hosszú."],
+      ro: ["Altitudine: 1.647 m.", "Bătălia de la Didgori în 1121.", "Monument pe vârf din 1980.", "La 20 km de Tbilisi.", "Suprafața pădurii cca 30 km².", "Traseul până în vârf are 4 km."],
+      en: ["Elevation: 1,647 m.", "Battle of Didgori in 1121.", "Monument on summit since 1980.", "20 km from Tbilisi.", "Forest area about 30 km².", "Trail to summit is 4 km long."],
+    },
+  },
   {
     id: "mtatsminda-relief-v2",
     type: "mountain",
@@ -166,7 +257,20 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Legmagasabb pontja a Saviklde hegy.", "Geotermikus forrásokban gazdag."],
       ro: ["Cel mai înalt punct este muntele Shaviklde.", "Bogat în izvoare geotermale."],
       en: ["Highest point is Mount Shaviklde.", "Rich in geothermal springs."]
-    }, image: "/poi-images/trialeti-range-relief-v2.webp"},
+    }, image: "/poi-images/trialeti-range-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Trialeti-Kette ist ein Gebirgszug im zentralen Georgien, der sich von Westen nach Osten erstreckt. Die höchste Erhebung ist der Mount Samsari mit 3.285 Metern. Die Kette besteht hauptsächlich aus vulkanischen und sedimentären Gesteinen des Tertiärs. Sie ist bekannt für ihre Hochgebirgswiesen, die im Sommer von Schafherden genutzt werden. Zahlreiche Mineralquellen finden sich in der Region. Die Trialeti-Kultur ist eine bronzezeitliche archäologische Kultur, die nach diesem Gebirge benannt wurde. Die Kette ist Teil des Kleinen Kaukasus.",
+      hu: "A Trialeti-hegység Közép-Grúziában húzódik nyugat-keleti irányban. Legmagasabb pontja a Samsari-hegy (3285 m). A lánc harmadkori vulkáni és üledékes kőzetekből épül fel. Magashegyi rétek jellemzik, melyeket nyáron juhnyájak legeltetnek. Számos ásványvízforrás található itt. A trialeti kultúra egy bronzkori régészeti kultúra, mely a hegységről kapta nevét. A Kis-Kaukázus része.",
+      ro: "Lanțul Trialeti este o zonă muntoasă din centrul Georgiei, întinsă de la vest la est. Cel mai înalt vârf este Muntele Samsari cu 3.285 m. Este compus predominant din roci vulcanice și sedimentare terțiare. Cunoscut pentru pajiștile alpine, folosite vara pentru pășunat. Numeroase izvoare minerale se găsesc aici. Cultura Trialeti este o cultură arheologică din Epoca Bronzului, numită după acest lanț. Face parte din Caucazul Mic.",
+      en: "The Trialeti Range is a mountain chain in central Georgia, stretching east-west. Its highest peak is Mount Samsari at 3,285 meters. Composed of Tertiary volcanic and sedimentary rocks, it features alpine meadows used for summer pasture. Many mineral springs are found. The Trialeti culture is a Bronze Age archaeological culture named after the range. It is part of the Lesser Caucasus.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Samsari (3.285 m).", "Länge ca. 100 km.", "Geologie: Tertiär-Vulkanite.", "Erdölvorkommen in der Region.", "Vulkanische Seen: z.B. Tabatskuri-See.", "Archäologische Funde: Trialeti-Kultur (ca. 2000 v. Chr.)."],
+      hu: ["Legmagasabb csúcs: Samsari (3285 m).", "Hossza kb. 100 km.", "Geológia: harmadkori vulkanitok.", "Kőolaj-előfordulások a régióban.", "Vulkanikus tavak: pl. Tabatskuri-tó.", "Régészeti leletek: trialeti kultúra (i.e. 2000 körül)."],
+      ro: ["Cel mai înalt vârf: Samsari (3.285 m).", "Lungime de cca 100 km.", "Geologie: vulcanite terțiare.", "Zăcăminte de petrol în regiune.", "Lacuri vulcanice: Lacul Tabatskuri.", "Descoperiri arheologice: cultura Trialeti (cca 2000 î.Hr.)."],
+      en: ["Highest peak: Samsari (3,285 m).", "Length about 100 km.", "Geology: Tertiary volcanic rocks.", "Oil deposits in the region.", "Volcanic lakes: Tabatskuri Lake.", "Archaeological finds: Trialeti culture (ca. 2000 BC)."],
+    },
+  },
   {
     id: "javakheti-plateau-relief-v2",
     type: "plateau",
@@ -342,7 +446,20 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Népszerű kiindulópont hegyi túrákhoz.", "A grúz hadiútról ágazik le."],
       ro: ["Un punct de plecare popular pentru drumeții montane.", "Se ramifică de pe Drumul Militar Georgian."],
       en: ["A popular starting point for mountain hikes.", "Branches off from the Georgian Military Highway."]
-    }, image: "/poi-images/sno-valley-relief-v2.webp"},
+    }, image: "/poi-images/sno-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Sno-Tal liegt im Norden Georgiens, in der Region Chewi (Kachetien), entlang des Flusses Sno. Es ist ein malerisches Hochgebirgstal auf etwa 1.200 Metern Höhe, umgeben von den Kaukasus-Gipfeln. Das Tal ist bekannt für seine traditionellen georgischen Dörfer und den Sno-Stein – einen großen Findling mit 1.000 Jahre alten Petroglyphen. Die Landschaft ist geprägt von Almwiesen und Kiefernwäldern. Es ist ein beliebter Ausgangspunkt für Wanderungen zum Berg Kazbek.",
+      hu: "A Sno-völgy Észak-Grúziában, Hevi régióban található, a Sno folyó mentén. Festői magashegyi völgy, kb. 1200 méteres tengerszint feletti magasságban, a Kaukázus csúcsai által övezve. Híres a hagyományos grúz falvairól és a Sno-kőről – egy nagy sziklatömbről, amelyen 1000 éves petroglifák találhatók. A tájat alpesi rétek és fenyvesek jellemzik. Népszerű kiindulópont a Kazbek-hegyre tett túrákhoz.",
+      ro: "Valea Sno este situată în nordul Georgiei, în regiunea Hevi (Khevi), de-a lungul râului Sno. Este o vale montană pitorească la aproximativ 1.200 m altitudine, înconjurată de vârfuri ale Caucazului. Valea este cunoscută pentru satele tradiționale georgiene și Piatra Sno – un bloc mare de piatră cu petroglife vechi de 1.000 de ani. Peisajul include pajiști alpine și păduri de pini. Este un punct de plecare popular pentru drumeții către Muntele Kazbek.",
+      en: "Sno Valley, in northern Georgia's Khevi region, lies along the Sno River at about 1,200 meters elevation. Surrounded by Caucasus peaks, it features traditional Georgian villages and the Sno Stone, a large boulder with 1,000-year-old petroglyphs. Alpine meadows and pine forests dominate. It is a common starting point for treks to Mount Kazbek.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Tals: ca. 1.200 m.", "Sno-Stein: 10 m hoch.", "Petroglyphen aus dem 10. Jahrhundert.", "Entfernung zu Stepantsminda: 7 km.", "Dorf Sno auf 1.300 m.", "Fluss Sno Länge ca. 25 km."],
+      hu: ["A völgy magassága kb. 1200 m.", "A Sno-kő 10 méter magas.", "Petroglifák a 10. századból.", "Stepantsmindától 7 km-re.", "Sno falu 1300 méteren fekszik.", "A Sno folyó hossza kb. 25 km."],
+      ro: ["Altitudinea văii: cca 1.200 m.", "Piatra Sno are 10 m înălțime.", "Petroglife din secolul al X-lea.", "La 7 km de Stepantsminda.", "Satul Sno la 1.300 m.", "Râul Sno are cca 25 km lungime."],
+      en: ["Valley elevation: about 1,200 m.", "Sno Stone: 10 m high.", "Petroglyphs from the 10th century.", "7 km from Stepantsminda.", "Sno village at 1,300 m.", "Sno River length about 25 km."],
+    },
+  },
   {
     id: "darial-gorge-relief-v2",
     type: "valley",
@@ -356,7 +473,20 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       hu: ["Történelmileg az 'alánok kapuja' néven ismert.", "Fontos határátkelőhely Oroszország felé."],
       ro: ["Cunoscut istoric sub numele de 'Porțile Alanilor'.", "O trecere importantă a frontierei spre Rusia."],
       en: ["Historically known as the 'Gates of the Alans'.", "An important border crossing into Russia."]
-    }, image: "/poi-images/darial-gorge-relief-v2.webp"},
+    }, image: "/poi-images/darial-gorge-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Darial-Schlucht liegt in Georgien an der Grenze zu Russland, im Kaukasus. Sie ist eine enge Schlucht des Terek-Flusses, etwa 12 km lang und an manchen Stellen nur 50 m breit. Die Höhe der umgebenden Felswände beträgt bis zu 1.800 m. Die Schlucht war historisch eine wichtige Route durch den Kaukasus, Teil der Georgischen Heerstraße. Die strategische Festung Darial (heute in Russland) kontrollierte den Pass. Die Schlucht liegt auf etwa 1.200 m Höhe. Der Terek fließt mit starkem Gefälle.",
+      hu: "A Darial-szurdok Grúziában, az orosz határon, a Kaukázusban található. A Terek folyó szűk völgye, hossza 12 km, helyenként csak 50 m széles. A sziklafalak magassága eléri az 1800 m-t. Történelmileg fontos útvonal a Kaukázuson át, a Grúz Katonai út része. A szurdokot a Dariel erőd (ma Oroszország) ellenőrizte. Tengerszint feletti magasság: 1200 m. A Terek folyó itt meredek esésű.",
+      ro: "Cheile Darial se află în Georgia, la granița cu Rusia, în Caucaz. Sunt o cheie îngustă a râului Terek, cu o lungime de 12 km și lățime de doar 50 m în unele locuri. Pereții de stâncă ating 1.800 m înălțime. Cheile au fost o rută istorică importantă prin Caucaz, parte a Drumului Militar Georgian. Fortăreața Darial (astăzi în Rusia) controla trecătoarea. Altitudinea este de aproximativ 1.200 m. Râul Terek are o pantă abruptă.",
+      en: "Darial Gorge is a deep river gorge in Georgia, near the Russian border, in the Caucasus Mountains. It is formed by the Terek River, stretching 12 km with a minimum width of 50 m. The cliff heights reach up to 1,800 m. Historically, it was a crucial pass through the Caucasus, part of the Georgian Military Road. The Darial Fortress (now in Russia) guarded the route. The gorge lies at an elevation of about 1,200 m. The Terek River flows through with a steep gradient of 30 m/km.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 12 km", "Minimale Breite: 50 m", "Höhe der Felswände: bis 1.800 m", "Höhenlage: 1.200 m", "Gefälle des Terek: 30 m/km", "Historische Festung: Darial (10. Jh.)"],
+      hu: ["Hossz: 12 km", "Minimális szélesség: 50 m", "Sziklafalak magassága: 1800 m", "Tengerszint feletti magasság: 1200 m", "Terek esése: 30 m/km", "Történelmi erőd: Dariel (10. század)"],
+      ro: ["Lungime: 12 km", "Lățime minimă: 50 m", "Înălțimea pereților: până la 1.800 m", "Altitudine: 1.200 m", "Panta râului Terek: 30 m/km", "Fortăreață istorică: Darial (sec. X)"],
+      en: ["Length: 12 km", "Minimum width: 50 m", "Cliff height: up to 1,800 m", "Elevation: 1,200 m", "Terek river gradient: 30 m/km", "Historical fortress: Darial (10th century)"],
+    },
+  },
   {
     id: "borjomi-gorge-relief-v2",
     type: "valley",

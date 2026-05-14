@@ -6,7 +6,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "tower",
     parent: "NL",
     name: { de: "Domturm Utrecht", hu: "Dom-torony Utrecht", ro: "Turnul Dom din Utrecht", en: "Dom Tower Utrecht" },
-    coordinates: { lat: 52.0906, lng: 5.1147 },
+    coords: [5.1147, 52.0906],
     description: {
       de: "Der Domturm ist der höchste Kirchturm der Niederlande. Er wurde zwischen 1321 und 1382 als Teil des Domstifts erbaut.",
       hu: "A Dom-torony Hollandia legmagasabb templomtornya. 1321 és 1382 között épült a dóm épületegyüttesének részeként.",
@@ -38,7 +38,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "palace",
     parent: "NL",
     name: { de: "Rittersaal Den Haag", hu: "Lovagterem Hága", ro: "Sala Cavalerilor Haga", en: "Ridderzaal The Hague" },
-    coordinates: { lat: 52.0797, lng: 4.3125 },
+    coords: [4.3125, 52.0797],
     description: {
       de: "Der Rittersaal befindet sich im Binnenhof-Komplex in Den Haag. Er dient als Zeremonialgebäude für formelle Staatsereignisse.",
       hu: "A Lovagterem a hágai Binnenhof-komplexumban található. Ünnepélyes épületként szolgál hivatalos állami eseményekhez.",
@@ -70,7 +70,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NL",
     name: { de: "Markthal Rotterdam", hu: "Markthal Rotterdam", ro: "Markthal Rotterdam", en: "Markthal Rotterdam" },
-    coordinates: { lat: 51.9175, lng: 4.4842 },
+    coords: [4.4842, 51.9175],
     description: {
       de: "Die Markthal ist ein kombiniertes Wohn- und Geschäftsgebäude in Rotterdam. Das Dach hat die Form eines großen Bogens.",
       hu: "A Markthal egy lakó- és kereskedelmi épület Rotterdamban. A tető egy nagy ív formáját követi.",
@@ -102,7 +102,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NL",
     name: { de: "Erasmushaus Rotterdam", hu: "Erasmus-ház Rotterdam", ro: "Casa Erasmus Rotterdam", en: "Erasmus House Rotterdam" },
-    coordinates: { lat: 51.9213, lng: 4.4795 },
+    coords: [4.4795, 51.9213],
     description: {
       de: "Das Erasmushaus ist ein bekanntes Bürogebäude in Rotterdam. Es wurde in den 1930er Jahren im funktionalistischen Stil erbaut.",
       hu: "Az Erasmus-ház egy ismert irodaépület Rotterdamban. A harmincas években épült funkcionalista stílusban.",
@@ -134,7 +134,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "museum",
     parent: "NL",
     name: { de: "Moco Museum Amsterdam", hu: "Moco Múzeum Amszterdam", ro: "Muzeul Moco Amsterdam", en: "Moco Museum Amsterdam" },
-    coordinates: { lat: 52.3582, lng: 4.8824 },
+    coords: [4.8824, 52.3582],
     description: {
       de: "Das Moco Museum befindet sich in der Villa Alsberg am Museumplein. Es konzentriert sich auf moderne und zeitgenössische Kunst.",
       hu: "A Moco Múzeum az Alsberg-villában található a Museumpleinen. A modern és kortárs művészetre összpontosít.",
@@ -166,7 +166,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "church",
     parent: "NL",
     name: { de: "Westerkerk Amsterdam", hu: "Westerkerk Amszterdam", ro: "Westerkerk Amsterdam", en: "Westerkerk Amsterdam" },
-    coordinates: { lat: 52.3762, lng: 4.8837 },
+    coords: [4.8837, 52.3762],
     description: {
       de: "Die Westerkerk ist eine reformierte Kirche im Stadtzentrum von Amsterdam. Ihr Turm ist ein Wahrzeichen der Stadt.",
       hu: "A Westerkerk egy református templom Amszterdam központjában. Tornya a város egyik jelképe.",
@@ -198,7 +198,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "theater",
     parent: "NL",
     name: { de: "Tuschinski-Theater Amsterdam", hu: "Tuschinski Színház Amszterdam", ro: "Teatrul Tuschinski Amsterdam", en: "Tuschinski Theater Amsterdam" },
-    coordinates: { lat: 52.3664, lng: 4.8932 },
+    coords: [4.8932, 52.3664],
     description: {
       de: "Das Tuschinski-Theater ist ein historisches Kino in Amsterdam. Es ist bekannt für seine Art-déco-Architektur.",
       hu: "A Tuschinski Színház egy történelmi mozi Amszterdamban. Art déco építészetéről ismert.",
@@ -230,7 +230,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "palace",
     parent: "NL",
     name: { de: "Paleis Het Loo Apeldoorn", hu: "Het Loo-palota Apeldoorn", ro: "Palatul Het Loo Apeldoorn", en: "Paleis Het Loo Apeldoorn" },
-    coordinates: { lat: 52.2346, lng: 5.9452 },
+    coords: [5.9452, 52.2346],
     description: {
       de: "Paleis Het Loo war ein königlicher Palast bei Apeldoorn. Heute beherbergt das Gebäude ein Museum für die Öffentlichkeit.",
       hu: "A Het Loo-palota egy királyi palota volt Apeldoorn közelében. Ma az épület múzeumként szolgál a nagyközönség számára.",
@@ -262,7 +262,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "church",
     parent: "NL",
     name: { de: "St.-Bavo-Kirche Haarlem", hu: "St. Bavo-templom Haarlem", ro: "Biserica Sfântul Bavo Haarlem", en: "St. Bavo Church Haarlem" },
-    coordinates: { lat: 52.3813, lng: 4.6369 },
+    coords: [4.6369, 52.3813],
     description: {
       de: "Die St.-Bavo-Kirche am Grote Markt in Haarlem stammt aus dem Spätmittelalter. Sie ist für ihre große Orgel bekannt.",
       hu: "A haarlemi Grote Markton található St. Bavo-templom a késő középkorból származik. Híres nagy orgonájáról.",
@@ -294,7 +294,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "church",
     parent: "NL",
     name: { de: "Pieterskerk Leiden", hu: "Pieterskerk Leiden", ro: "Pieterskerk Leiden", en: "Pieterskerk Leiden" },
-    coordinates: { lat: 52.1583, lng: 4.4908 },
+    coords: [4.4908, 52.1583],
     description: {
       de: "Die Pieterskerk ist eine ehemalige Kirche im Zentrum von Leiden. Das Gebäude wird heute für Veranstaltungen genutzt.",
       hu: "A Pieterskerk egykori templom Leiden központjában. Az épületet ma rendezvényekre használják.",
@@ -326,7 +326,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "museum",
     parent: "NL",
     name: { de: "NEMO Science Museum Amsterdam", hu: "NEMO Tudományos Múzeum Amszterdam", ro: "Muzeul de Știință NEMO Amsterdam", en: "NEMO Science Museum Amsterdam" },
-    coordinates: { lat: 52.3751, lng: 4.9113 },
+    coords: [4.9113, 52.3751],
     description: {
       de: "Das NEMO ist ein Wissenschaftsmuseum in Amsterdam. Sein Gebäude wurde vom Architekten Renzo Piano entworfen.",
       hu: "A NEMO egy tudományos múzeum Amszterdamban. Az épületet Renzo Piano építész tervezte.",
@@ -358,7 +358,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "NL",
     name: { de: "Sankt-Johannes-Kathedrale Den Bosch", hu: "Szent János-székesegyház Den Bosch", ro: "Catedrala Sfântul Ioan Den Bosch", en: "St. John's Cathedral Den Bosch" },
-    coordinates: { lat: 51.6875, lng: 5.3089 },
+    coords: [5.3089, 51.6875],
     description: {
       de: "Die St.-Johannes-Kathedrale in 's-Hertogenbosch ist ein prominentes Beispiel für die brabanter Gotik. Sie wurde im 14. Jahrhundert begonnen.",
       hu: "A 's-Hertogenbosch-i Szent János-székesegyház a brabanti gótika kiemelkedő példája. A 14. században kezdték építeni.",
@@ -390,7 +390,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NL",
     name: { de: "Bahnhof Amsterdam Centraal", hu: "Amsterdam Centraal pályaudvar", ro: "Gara Centrală Amsterdam", en: "Amsterdam Centraal Station" },
-    coordinates: { lat: 52.3791, lng: 4.9003 },
+    coords: [4.9003, 52.3791],
     description: {
       de: "Der Amsterdamer Hauptbahnhof wurde im neugotischen Stil entworfen. Er ist das wichtigste Verkehrsdrehkreuz der Stadt.",
       hu: "Az amszterdami központi pályaudvart neogótikus stílusban tervezték. A város legfontosabb közlekedési csomópontja.",
@@ -422,7 +422,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "factory",
     parent: "NL",
     name: { de: "Van-Nelle-Fabrik Rotterdam", hu: "Van Nelle-gyár Rotterdam", ro: "Fabrica Van Nelle Rotterdam", en: "Van Nelle Factory Rotterdam" },
-    coordinates: { lat: 51.9283, lng: 4.4367 },
+    coords: [4.4367, 51.9283],
     description: {
       de: "Die Van-Nelle-Fabrik ist ein Industriedenkmal in Rotterdam. Sie gilt als eines der Hauptwerke der modernen Architektur.",
       hu: "A Van Nelle-gyár egy ipari műemlék Rotterdamban. A modern építészet egyik fő művének tekintik.",
@@ -454,7 +454,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NL",
     name: { de: "Rathaus Rotterdam", hu: "Rotterdami városháza", ro: "Primăria Rotterdam", en: "Rotterdam City Hall" },
-    coordinates: { lat: 51.9225, lng: 4.4792 },
+    coords: [4.4792, 51.9225],
     description: {
       de: "Das Rathaus von Rotterdam ist eines der wenigen Gebäude, das den Zweiten Weltkrieg überstand. Es wurde 1920 fertiggestellt.",
       hu: "A rotterdami városháza egyike azon kevés épületnek, amely túlélte a második világháborút. 1920-ban készült el.",
@@ -486,7 +486,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "church",
     parent: "NL",
     name: { de: "St.-Nikolaus-Basilika Amsterdam", hu: "Szent Miklós-bazilika Amszterdam", ro: "Bazilica Sfântul Nicolae Amsterdam", en: "St. Nicholas Basilica Amsterdam" },
-    coordinates: { lat: 52.3772, lng: 4.9011 },
+    coords: [4.9011, 52.3772],
     description: {
       de: "Die St.-Nikolaus-Basilika ist eine bedeutende römisch-katholische Kirche in Amsterdam. Sie liegt nahe dem Hauptbahnhof.",
       hu: "A Szent Miklós-bazilika egy jelentős római katolikus templom Amszterdamban. A központi pályaudvar közelében található.",
@@ -518,7 +518,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "castle",
     parent: "NL",
     name: { de: "Kasteel de Haar Utrecht", hu: "De Haar-kastély Utrecht", ro: "Castelul de Haar Utrecht", en: "Kasteel de Haar Utrecht" },
-    coordinates: { lat: 52.1128, lng: 4.9814 },
+    coords: [4.9814, 52.1128],
     description: {
       de: "Kasteel de Haar ist das größte Schloss der Niederlande. Es wurde im 19. Jahrhundert im neugotischen Stil umgebaut.",
       hu: "A De Haar-kastély Hollandia legnagyobb kastélya. A 19. században neogótikus stílusban építették át.",
@@ -550,7 +550,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "museum",
     parent: "NL",
     name: { de: "Nationales Militärmuseum Soesterberg", hu: "Nemzeti Katonai Múzeum Soesterberg", ro: "Muzeul Militar Național Soesterberg", en: "National Military Museum Soesterberg" },
-    coordinates: { lat: 52.1275, lng: 5.2717 },
+    coords: [5.2717, 52.1275],
     description: {
       de: "Das Nationale Militärmuseum in Soesterberg zeigt die Geschichte der niederländischen Streitkräfte. Es wurde 2014 eröffnet.",
       hu: "A soesterbergi Nemzeti Katonai Múzeum a holland fegyveres erők történetét mutatja be. 2014-ben nyílt meg.",
@@ -582,7 +582,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "church",
     parent: "NL",
     name: { de: "Oude Kerk Amsterdam", hu: "Oude Kerk Amszterdam", ro: "Oude Kerk Amsterdam", en: "Oude Kerk Amsterdam" },
-    coordinates: { lat: 52.3744, lng: 4.8986 },
+    coords: [4.8986, 52.3744],
     description: {
       de: "Die Oude Kerk ist das älteste Gebäude in Amsterdam. Sie befindet sich im Herzen des Rotlichtviertels.",
       hu: "Az Oude Kerk Amszterdam legrégebbi épülete. A vörös lámpás negyed szívében található.",
@@ -614,7 +614,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NL",
     name: { de: "Bahnhof Rotterdam Centraal", hu: "Rotterdam Centraal pályaudvar", ro: "Gara Centrală Rotterdam", en: "Rotterdam Central Station" },
-    coordinates: { lat: 51.925, lng: 4.4692 },
+    coords: [4.4692, 51.925],
     description: {
       de: "Der Bahnhof Rotterdam Centraal ist ein moderner Verkehrsknotenpunkt. Das Dachgebäude ist ein markantes architektonisches Element.",
       hu: "A rotterdami központi pályaudvar egy modern közlekedési csomópont. A tetőszerkezet jellegzetes építészeti elem.",
@@ -646,7 +646,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NL",
     name: { de: "Kruisherenhotel Maastricht", hu: "Kruisherenhotel Maastricht", ro: "Kruisherenhotel Maastricht", en: "Kruisherenhotel Maastricht" },
-    coordinates: { lat: 50.8517, lng: 5.6917 },
+    coords: [5.6917, 50.8517],
     description: {
       de: "Das Kruisherenhotel in Maastricht ist ein ehemaliges Kloster. Es wurde zu einem Luxushotel umgebaut.",
       hu: "A maastrichti Kruisherenhotel egykori kolostor. Luxusszállodává alakították át.",
@@ -678,7 +678,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "tower",
     parent: "NL",
     name: { de: "Euromast Rotterdam", hu: "Euromast Rotterdam", ro: "Euromast Rotterdam", en: "Euromast Rotterdam" },
-    coordinates: { lat: 51.9067, lng: 4.4764 },
+    coords: [4.4764, 51.9067],
     description: {
       de: "Der Euromast ist ein bekannter Aussichtsturm in Rotterdam. Er wurde 1960 anlässlich der Floriade erbaut.",
       hu: "Az Euromast egy ismert kilátótorony Rotterdamban. 1960-ban épült a Floriade alkalmából.",
@@ -710,7 +710,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "museum",
     parent: "NL",
     name: { de: "Rijksmuseum Amsterdam", hu: "Rijksmuseum Amszterdam", ro: "Rijksmuseum Amsterdam", en: "Rijksmuseum Amsterdam" },
-    coordinates: { lat: 52.3598, lng: 4.8851 },
+    coords: [4.8851, 52.3598],
     description: {
       de: "Das Rijksmuseum ist das Nationalmuseum der Niederlande. Es beherbergt eine bedeutende Sammlung niederländischer Kunst.",
       hu: "A Rijksmuseum Hollandia nemzeti múzeuma. Jelentős holland művészeti gyűjteménynek ad otthont.",
@@ -742,7 +742,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NL",
     name: { de: "Rathaus Leiden", hu: "Leideni városháza", ro: "Primăria Leiden", en: "Leiden City Hall" },
-    coordinates: { lat: 52.1581, lng: 4.4925 },
+    coords: [4.4925, 52.1581],
     description: {
       de: "Das Rathaus von Leiden hat eine beeindruckende Renaissance-Fassade. Es liegt im historischen Stadtkern.",
       hu: "A leideni városháza lenyűgöző reneszánsz homlokzattal rendelkezik. A történelmi városközpontban található.",
@@ -774,7 +774,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "church",
     parent: "NL",
     name: { de: "Sankt-Laurenz-Kirche Rotterdam", hu: "Szent Lőrinc-templom Rotterdam", ro: "Biserica Sfântul Laurențiu Rotterdam", en: "St. Laurence Church Rotterdam" },
-    coordinates: { lat: 51.9211, lng: 4.4844 },
+    coords: [4.4844, 51.9211],
     description: {
       de: "Die Sankt-Laurenz-Kirche ist das einzige mittelalterliche Gebäude in Rotterdam. Sie wurde nach dem Zweiten Weltkrieg restauriert.",
       hu: "A Szent Lőrinc-templom az egyetlen középkori épület Rotterdamban. A második világháború után restaurálták.",
@@ -806,7 +806,7 @@ export const netherlandsLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NL",
     name: { de: "Thialf Heerenveen", hu: "Thialf Heerenveen", ro: "Thialf Heerenveen", en: "Thialf Heerenveen" },
-    coordinates: { lat: 52.9419, lng: 5.9228 },
+    coords: [5.9228, 52.9419],
     description: {
       de: "Thialf ist ein berühmtes Eisschnelllaufstadion in Heerenveen. Es ist ein Zentrum für den internationalen Eissport.",
       hu: "A Thialf egy híres gyorskorcsolyázó stadion Heerenveenben. A nemzetközi jégkorcsolyázás központja.",

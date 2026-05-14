@@ -6,7 +6,7 @@ export const cyprusCitiesV2: POI[] = [
     type: "city",
     parent: "CY",
     name: { de: "Strovolos", hu: "Sztrovólosz", ro: "Strovolos", en: "Strovolos" },
-    coordinates: { lat: 35.1537, lng: 33.3444 },
+    coords: [33.3444, 35.1537],
     description: {
       de: "Strovolos ist eine große Gemeinde im Bezirk Nikosia. Es liegt südwestlich des Stadtzentrums von Nikosia.",
       hu: "Sztrovólosz egy jelentős település Nicosia körzetében. A főváros központjától délnyugatra helyezkedik el.",
@@ -38,7 +38,7 @@ export const cyprusCitiesV2: POI[] = [
     type: "city",
     parent: "CY",
     name: { de: "Latsia", hu: "Látzia", ro: "Latsia", en: "Latsia" },
-    coordinates: { lat: 35.1053, lng: 33.3656 },
+    coords: [33.3656, 35.1053],
     description: {
       de: "Latsia ist ein Vorort im Südosten von Nikosia. Die Stadt hat in den letzten Jahrzehnten ein schnelles Bevölkerungswachstum erlebt.",
       hu: "Látzia egy előváros Nicosia délkeleti részén. Az elmúlt évtizedekben a város lakossága gyors ütemben növekedett.",
@@ -70,7 +70,7 @@ export const cyprusCitiesV2: POI[] = [
     type: "city",
     parent: "CY",
     name: { de: "Kato Polemidia", hu: "Kátó Polemídia", ro: "Kato Polemidia", en: "Kato Polemidia" },
-    coordinates: { lat: 34.6865, lng: 32.9961 },
+    coords: [32.9961, 34.6865],
     description: {
       de: "Kato Polemidia ist ein Vorort im Nordwesten von Limassol. Das Gebiet zeichnet sich durch Wohn- und Industriezonen aus.",
       hu: "Kátó Polemídia egy előváros Limassol északnyugati részén. A területet lakó- és ipari zónák jellemzik.",
@@ -102,7 +102,7 @@ export const cyprusCitiesV2: POI[] = [
     type: "city",
     parent: "CY",
     name: { de: "Mesa Geitonia", hu: "Mésza Geitónia", ro: "Mesa Geitonia", en: "Mesa Geitonia" },
-    coordinates: { lat: 34.6983, lng: 33.0378 },
+    coords: [33.0378, 34.6983],
     description: {
       de: "Mesa Geitonia ist ein Stadtteil und eine Gemeinde im Großraum Limassol. Die Gemeinde liegt in der Nähe des Stadtzentrums.",
       hu: "Mésza Geitónia egy városrész és önkormányzat Limassol agglomerációjában. A település közel fekszik a városközponthoz.",
@@ -134,7 +134,7 @@ export const cyprusCitiesV2: POI[] = [
     type: "city",
     parent: "CY",
     name: { de: "Agioi Trimithias", hu: "Áji Trimithiás", ro: "Agioi Trimithias", en: "Agioi Trimithias" },
-    coordinates: { lat: 35.1466, lng: 33.2285 },
+    coords: [33.2285, 35.1466],
     description: {
       de: "Agioi Trimithias ist eine Gemeinde westlich von Nikosia. Der Ort ist ländlich geprägt, wächst aber durch Zuzug.",
       hu: "Áji Trimithiás egy önkormányzat Nicosia nyugati részén. A település vidéki jellegű, de a beköltözések miatt nő.",

@@ -6,7 +6,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Paderborn", hu: "Paderborn", ro: "Paderborn", en: "Paderborn" },
-    coordinates: { lat: 51.719, lng: 8.7547 },
+    coords: [8.7547, 51.719],
     description: {
       de: "Paderborn liegt in Nordrhein-Westfalen und ist bekannt für seine zahlreichen Quellen. Die Stadt hat eine lange kirchliche Tradition.",
       hu: "Paderborn Észak-Rajna-Vesztfáliában található, számos forrásáról ismert. A város hosszú egyházi hagyományokkal rendelkezik.",
@@ -38,7 +38,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Reutlingen", hu: "Reutlingen", ro: "Reutlingen", en: "Reutlingen" },
-    coordinates: { lat: 48.4917, lng: 9.2148 },
+    coords: [9.2148, 48.4917],
     description: {
       de: "Reutlingen liegt am Fuß der Schwäbischen Alb in Baden-Württemberg. Sie ist bekannt für ihre Textilgeschichte und Maschinenbau.",
       hu: "Reutlingen a Sváb-Alb lábánál, Baden-Württembergben fekszik. Textiltörténetéről és gépgyártásáról ismert.",
@@ -70,7 +70,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Plauen", hu: "Plauen", ro: "Plauen", en: "Plauen" },
-    coordinates: { lat: 50.4958, lng: 12.1383 },
+    coords: [12.1383, 50.4958],
     description: {
       de: "Plauen ist die größte Stadt des Vogtlandes in Sachsen. Sie ist weltweit für ihre Spitzenherstellung bekannt.",
       hu: "Plauen a szászországi Vogtland legnagyobb városa. Világszerte ismert a csipkegyártásáról.",
@@ -102,7 +102,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Brandenburg an der Havel", hu: "Brandenburg an der Havel", ro: "Brandenburg an der Havel", en: "Brandenburg an der Havel" },
-    coordinates: { lat: 52.41, lng: 12.55 },
+    coords: [12.55, 52.41],
     description: {
       de: "Brandenburg an der Havel liegt im gleichnamigen Bundesland. Sie gilt als die Wiege der Mark Brandenburg.",
       hu: "Brandenburg an der Havel az azonos nevű tartományban fekszik. A Mark Brandenburg bölcsőjének tartják.",
@@ -134,7 +134,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Hof", hu: "Hof", ro: "Hof", en: "Hof" },
-    coordinates: { lat: 50.3167, lng: 11.9167 },
+    coords: [11.9167, 50.3167],
     description: {
       de: "Hof liegt im Nordosten Bayerns an der Saale. Die Stadt ist ein wirtschaftlicher Knotenpunkt an der Grenze zu Tschechien.",
       hu: "Hof Bajorország északkeleti részén, a Saale partján fekszik. Gazdasági csomópont a cseh határ közelében.",
@@ -166,7 +166,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Bottrop", hu: "Bottrop", ro: "Bottrop", en: "Bottrop" },
-    coordinates: { lat: 51.52, lng: 6.92 },
+    coords: [6.92, 51.52],
     description: {
       de: "Bottrop ist eine Stadt im Ruhrgebiet in Nordrhein-Westfalen. Sie war einst stark vom Steinkohlenbergbau geprägt.",
       hu: "Bottrop város a Ruhr-vidéken, Észak-Rajna-Vesztfáliában. Egykor erősen meghatározta a kőszénbányászat.",
@@ -198,7 +198,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Fulda", hu: "Fulda", ro: "Fulda", en: "Fulda" },
-    coordinates: { lat: 50.55, lng: 9.67 },
+    coords: [9.67, 50.55],
     description: {
       de: "Fulda liegt in Hessen an der gleichnamigen Fulda. Die Stadt ist für ihre barocke Architektur bekannt.",
       hu: "Fulda Hessenben, az azonos nevű Fulda folyó mentén fekszik. A város barokk építészetéről ismert.",
@@ -230,7 +230,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Speyer", hu: "Speyer", ro: "Speyer", en: "Speyer" },
-    coordinates: { lat: 49.317, lng: 8.433 },
+    coords: [8.433, 49.317],
     description: {
       de: "Speyer liegt in Rheinland-Pfalz am Rhein. Der Speyerer Dom gehört zum UNESCO-Welterbe und ist ein Meisterwerk.",
       hu: "Speyer Rajna-vidék-Pfalzban, a Rajna mellett fekszik. A Speyeri dóm az UNESCO világörökség része és mestermű.",
@@ -262,7 +262,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Bamberg", hu: "Bamberg", ro: "Bamberg", en: "Bamberg" },
-    coordinates: { lat: 49.8989, lng: 10.9025 },
+    coords: [10.9025, 49.8989],
     description: {
       de: "Bamberg liegt in Bayern und ist auf sieben Hügeln gebaut. Die Altstadt gehört zum UNESCO-Welterbe.",
       hu: "Bamberg Bajorországban fekszik, hét dombra épült. Az óváros az UNESCO világörökség része.",
@@ -294,7 +294,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Solingen", hu: "Solingen", ro: "Solingen", en: "Solingen" },
-    coordinates: { lat: 51.17, lng: 7.08 },
+    coords: [7.08, 51.17],
     description: {
       de: "Solingen liegt im Bergischen Land in Nordrhein-Westfalen. Die Stadt ist weltweit für ihre Messer und Klingen berühmt.",
       hu: "Solingen a Bergisches Land régióban, Észak-Rajna-Vesztfáliában fekszik. A város világszerte híres késeiről és pengéiről.",
@@ -326,7 +326,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Siegen", hu: "Siegen", ro: "Siegen", en: "Siegen" },
-    coordinates: { lat: 50.87, lng: 8.02 },
+    coords: [8.02, 50.87],
     description: {
       de: "Siegen liegt in Nordrhein-Westfalen und ist als Geburtsort des Malers Peter Paul Rubens bekannt. Die Stadt ist von Wald umgeben.",
       hu: "Siegen Észak-Rajna-Vesztfáliában fekszik, és Peter Paul Rubens festő szülőhelyeként ismert. A várost erdő veszi körül.",
@@ -358,7 +358,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Cuxhaven", hu: "Cuxhaven", ro: "Cuxhaven", en: "Cuxhaven" },
-    coordinates: { lat: 53.85, lng: 8.69 },
+    coords: [8.69, 53.85],
     description: {
       de: "Cuxhaven liegt in Niedersachsen an der Mündung der Elbe in die Nordsee. Die Stadt ist ein bekannter Kurort.",
       hu: "Cuxhaven Alsó-Szászországban, az Elba északi-tengeri torkolatánál fekszik. A város ismert üdülőhely.",
@@ -390,7 +390,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Cloppenburg", hu: "Cloppenburg", ro: "Cloppenburg", en: "Cloppenburg" },
-    coordinates: { lat: 52.85, lng: 8.05 },
+    coords: [8.05, 52.85],
     description: {
       de: "Cloppenburg liegt in Niedersachsen. Die Stadt ist für ihr Freilichtmuseum bekannt, das die ländliche Kultur zeigt.",
       hu: "Cloppenburg Alsó-Szászországban fekszik. A város a vidéki kultúrát bemutató szabadtéri múzeumáról ismert.",
@@ -422,7 +422,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Emden", hu: "Emden", ro: "Emden", en: "Emden" },
-    coordinates: { lat: 53.36, lng: 7.2 },
+    coords: [7.2, 53.36],
     description: {
       de: "Emden liegt in Niedersachsen an der Ems. Die Hafenstadt ist ein wichtiger Standort für die Automobilindustrie.",
       hu: "Emden Alsó-Szászországban, az Ems folyó mentén fekszik. A kikötőváros az autóipar fontos központja.",
@@ -454,7 +454,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Meißen", hu: "Meißen", ro: "Meißen", en: "Meißen" },
-    coordinates: { lat: 51.16, lng: 13.47 },
+    coords: [13.47, 51.16],
     description: {
       de: "Meißen liegt in Sachsen an der Elbe. Die Stadt ist weltweit für ihre traditionsreiche Porzellanmanufaktur berühmt.",
       hu: "Meißen Szászországban, az Elba mentén fekszik. A város világszerte híres a nagy hagyományokkal rendelkező porcelánmanufaktúrájáról.",
@@ -486,7 +486,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Baden-Baden", hu: "Baden-Baden", ro: "Baden-Baden", en: "Baden-Baden" },
-    coordinates: { lat: 48.76, lng: 8.24 },
+    coords: [8.24, 48.76],
     description: {
       de: "Baden-Baden liegt in Baden-Württemberg am Schwarzwald. Die Stadt ist ein eleganter Kurort mit Thermalquellen.",
       hu: "Baden-Baden Baden-Württembergben, a Fekete-erdőnél fekszik. A város elegáns gyógyüdülőhely termálforrásokkal.",
@@ -518,7 +518,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Arnsberg", hu: "Arnsberg", ro: "Arnsberg", en: "Arnsberg" },
-    coordinates: { lat: 51.4, lng: 8.06 },
+    coords: [8.06, 51.4],
     description: {
       de: "Arnsberg liegt in Nordrhein-Westfalen im Sauerland. Die Stadt ist von bewaldeten Hügeln umgeben.",
       hu: "Arnsberg Észak-Rajna-Vesztfáliában, a Sauerland régióban fekszik. A várost erdős dombok veszik körül.",
@@ -550,7 +550,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Dormagen", hu: "Dormagen", ro: "Dormagen", en: "Dormagen" },
-    coordinates: { lat: 51.1, lng: 6.83 },
+    coords: [6.83, 51.1],
     description: {
       de: "Dormagen liegt in Nordrhein-Westfalen zwischen Köln und Düsseldorf. Die Stadt ist ein wichtiger Industriestandort.",
       hu: "Dormagen Észak-Rajna-Vesztfáliában, Köln és Düsseldorf között fekszik. A város fontos ipari központ.",
@@ -582,7 +582,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Landshut", hu: "Landshut", ro: "Landshut", en: "Landshut" },
-    coordinates: { lat: 48.53, lng: 12.15 },
+    coords: [12.15, 48.53],
     description: {
       de: "Landshut liegt in Bayern an der Isar. Die Stadt ist für ihre historische Altstadt und die Burg Trausnitz bekannt.",
       hu: "Landshut Bajorországban, az Isar mellett fekszik. A város a történelmi óvárosáról és a Trausnitz-kastélyról ismert.",
@@ -614,7 +614,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Offenburg", hu: "Offenburg", ro: "Offenburg", en: "Offenburg" },
-    coordinates: { lat: 48.47, lng: 7.94 },
+    coords: [7.94, 48.47],
     description: {
       de: "Offenburg liegt in Baden-Württemberg. Die Stadt ist als Tor zum Schwarzwald bekannt und hat eine historische Altstadt.",
       hu: "Offenburg Baden-Württembergben fekszik. A város a Fekete-erdő kapujaként ismert, és történelmi óvárossal rendelkezik.",
@@ -646,7 +646,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Velbert", hu: "Velbert", ro: "Velbert", en: "Velbert" },
-    coordinates: { lat: 51.34, lng: 7.04 },
+    coords: [7.04, 51.34],
     description: {
       de: "Velbert liegt in Nordrhein-Westfalen im Bergischen Land. Die Stadt ist für ihre Schloss- und Beschlagindustrie bekannt.",
       hu: "Velbert Észak-Rajna-Vesztfáliában, a Bergisches Land régióban fekszik. A város a zár- és vasalatiparáról ismert.",
@@ -678,7 +678,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Lüdenscheid", hu: "Lüdenscheid", ro: "Lüdenscheid", en: "Lüdenscheid" },
-    coordinates: { lat: 51.21, lng: 7.63 },
+    coords: [7.63, 51.21],
     description: {
       de: "Lüdenscheid liegt im Sauerland in Nordrhein-Westfalen. Die Stadt ist bekannt für ihre Metall- und Kunststoffindustrie.",
       hu: "Lüdenscheid a Sauerland régióban, Észak-Rajna-Vesztfáliában fekszik. A város fém- és műanyagiparáról ismert.",
@@ -710,7 +710,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Dinslaken", hu: "Dinslaken", ro: "Dinslaken", en: "Dinslaken" },
-    coordinates: { lat: 51.56, lng: 6.73 },
+    coords: [6.73, 51.56],
     description: {
       de: "Dinslaken liegt in Nordrhein-Westfalen am Niederrhein. Die Stadt ist ein wichtiger Wirtschaftsstandort.",
       hu: "Dinslaken Észak-Rajna-Vesztfáliában, az alsó-rajnai régióban fekszik. A város fontos gazdasági központ.",
@@ -742,7 +742,7 @@ export const germanyCitiesV2: POI[] = [
     type: "city",
     parent: "DE",
     name: { de: "Ratingen", hu: "Ratingen", ro: "Ratingen", en: "Ratingen" },
-    coordinates: { lat: 51.3, lng: 6.85 },
+    coords: [6.85, 51.3],
     description: {
       de: "Ratingen liegt in Nordrhein-Westfalen bei Düsseldorf. Die Stadt hat eine historische Altstadt.",
       hu: "Ratingen Észak-Rajna-Vesztfáliában, Düsseldorf közelében fekszik. A város történelmi óvárossal rendelkezik.",

@@ -806,7 +806,20 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Korallzátony", "Jazzfesztivál"],
       ro: ["Recif de corali", "Festival de jazz"],
       en: ["Coral reef", "Jazz festival"]
-    }, image: "/poi-images/tabarka-cities-v2.webp"},
+    }, image: "/poi-images/tabarka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tabarka ist eine Stadt in Tunesien an der Mittelmeerküste, etwa 170 Kilometer westlich von Tunis. Sie hat rund 40.000 Einwohner. Die Stadt ist bekannt für ihre jährlichen Jazz- und Korallenfestivals. Tabarka liegt an der Mündung des Oued el-Kebir und ist von Küstenbergen umgeben. Historisch war es ein genuesischer Handelsstützpunkt im 16. Jahrhundert. Die Altstadt zeigt noch italienischen Einfluss. Die Wirtschaft basiert auf Fischerei, Tourismus und Korallenverarbeitung. Tabarka hat einen Yachthafen und einen internationalen Flughafen. Die Region ist auch für Weinbau bekannt.",
+      hu: "Tabarka egy város Tunéziában a Földközi-tenger partján, mintegy 170 kilométerre nyugatra Tunisztól. Lakossága körülbelül 40.000 fő. A város híres éves dzsessz- és korallfesztiváljairól. Tabarka az Oued el-Kebir torkolatánál fekszik, partmenti hegyekkel körülvéve. Történelmileg a 16. században genovai kereskedelmi központ volt. Az óváros még olasz hatást mutat. A gazdaság a halászaton, turizmuson és korallfeldolgozáson alapul. Tabarkának van kikötője és nemzetközi repülőtere. A régió a borászatáról is ismert.",
+      ro: "Tabarka este un oraș în Tunisia, pe coasta Mediteranei, la aproximativ 170 de kilometri vest de Tunis. Are aproximativ 40.000 de locuitori. Orașul este cunoscut pentru festivalurile anuale de jazz și coral. Tabarka este situat la vărsarea Oued el-Kebir, înconjurat de munți de coastă. Istoric, a fost un avanpost comercial genovez în secolul al XVI-lea. Orașul vechi prezintă influențe italiene. Economia se bazează pe pescuit, turism și prelucrarea coralilor. Tabarka are un port de agrement și un aeroport internațional. Regiunea este cunoscută și pentru viticultură.",
+      en: "Tabarka is a city in Tunisia on the Mediterranean coast, about 170 kilometers west of Tunis. It has a population of around 40,000. The city is known for its annual jazz and coral festivals. Tabarka sits at the mouth of Oued el-Kebir, surrounded by coastal mountains. Historically, it was a Genoese trading outpost in the 16th century. The old town still shows Italian influence. The economy relies on fishing, tourism, and coral processing. Tabarka has a marina and an international airport. The region is also known for viticulture.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 40.000 (2014)", "Entfernung zu Tunis: 170 km", "Gründung als genuesischer Stützpunkt: 1540", "Höhe über dem Meeresspiegel: 5 m", "Jährliche Besucher: über 500.000", "Fläche: 15 km²"],
+      hu: ["Lakosság: 40.000 (2014)", "Távolság Tunisztól: 170 km", "Genovai alapítás: 1540", "Tengerszint feletti magasság: 5 m", "Éves látogatók: több mint 500.000", "Terület: 15 km²"],
+      ro: ["Populație: 40.000 (2014)", "Distanța față de Tunis: 170 km", "Fondare ca avanpost genovez: 1540", "Altitudine: 5 m deasupra nivelului mării", "Vizitatori anual: peste 500.000", "Suprafață: 15 km²"],
+      en: ["Population: 40,000 (2014)", "Distance from Tunis: 170 km", "Founded as Genoese outpost: 1540", "Elevation: 5 m above sea level", "Annual visitors: over 500,000", "Area: 15 km²"],
+    },
+  },
   {
     id: "kelibia-cities-v2",
     type: "city",
@@ -1063,7 +1076,20 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Tunisz külvárosa", "Növekvő ipar"],
       ro: ["Suburbie a Tunisului", "Industrie în creștere"],
       en: ["Suburb of Tunis", "Growing industry"]
-    }, image: "/poi-images/oued-ellil-cities-v2.webp"},
+    }, image: "/poi-images/oued-ellil-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Oued Ellil ist eine Stadt im Norden Tunesiens, etwa 20 Kilometer westlich von Tunis gelegen. Sie hat etwa 30.000 Einwohner. Die Stadt ist ein Vorort der Hauptstadt und ein landwirtschaftliches Zentrum für Getreide und Oliven. Der Name bedeutet 'Wasser der Ölbäume'. Oued Ellil liegt am Oued Ellil Fluss. Die Wirtschaft umfasst auch Textilindustrie. Die Stadt hat mehrere Grundschulen und ein Gymnasium. Die Bevölkerungsmehrheit spricht Arabisch und Französisch. In der Umgebung gibt es römische Ruinen aus der antiken Stadt Thuburbo Majus.",
+      hu: "Oued Ellil egy város Észak-Tunéziában, körülbelül 20 kilométerre nyugatra Tunistól. Lakossága körülbelül 30.000 fő. A város a főváros elővárosa és mezőgazdasági központ gabona és olajbogyó számára. A név jelentése 'olajfák vize'. Oued Ellil az Oued Ellil folyó mellett fekszik. A gazdaság magában foglalja a textilipart is. A városban több általános iskola és egy gimnázium található. A lakosság többsége arabul és franciául beszél. A környéken római romok találhatók az ókori Thuburbo Majus városból.",
+      ro: "Oued Ellil este un oraș în nordul Tunisiei, la aproximativ 20 de kilometri vest de Tunis. Are aproximativ 30.000 de locuitori. Orașul este o suburbie a capitalei și un centru agricol pentru cereale și măsline. Numele înseamnă 'apa măslinilor'. Oued Ellil este situat pe râul Oued Ellil. Economia include și industria textilă. Orașul are mai multe școli primare și un liceu. Majoritatea populației vorbește arabă și franceză. În zonă se află ruine romane din anticul Thuburbo Majus.",
+      en: "Oued Ellil is a town in northern Tunisia, about 20 kilometers west of Tunis. It has a population of approximately 30,000. The town is a suburb of the capital and an agricultural center for cereals and olives. The name means 'water of olive trees'. Oued Ellil lies along the Oued Ellil River. The economy also includes textile industry. The town has several primary schools and a high school. The majority population speaks Arabic and French. Nearby are Roman ruins from the ancient city of Thuburbo Majus.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 30.000 (2014)", "Entfernung zu Tunis: 20 km", "Höhe über Meeresspiegel: 50 m", "Landwirtschaftliche Fläche: 3.000 ha", "Anzahl Schulen: 6", "Römische Ruinen: Thuburbo Majus (Entfernung 5 km)"],
+      hu: ["Lakosság: 30.000 (2014)", "Távolság Tunistól: 20 km", "Tengerszint feletti magasság: 50 m", "Mezőgazdasági terület: 3000 ha", "Iskolák száma: 6", "Római romok: Thuburbo Majus (5 km)"],
+      ro: ["Populație: 30.000 (2014)", "Distanța față de Tunis: 20 km", "Altitudine: 50 m deasupra nivelului mării", "Suprafață agricolă: 3.000 ha", "Număr de școli: 6", "Ruine romane: Thuburbo Majus (distanță 5 km)"],
+      en: ["Population: 30,000 (2014)", "Distance from Tunis: 20 km", "Elevation: 50 m above sea level", "Agricultural area: 3,000 ha", "Number of schools: 6", "Roman ruins: Thuburbo Majus (distance 5 km)"],
+    },
+  },
   {
     id: "el-hamma-cities-v2",
     type: "city",
@@ -1281,7 +1307,20 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Andalúz örökség", "Egyedi mecset"],
       ro: ["Moștenire andaluză", "Moschee unică"],
       en: ["Andalusian heritage", "Unique mosque"]
-    }, image: "/poi-images/testour-cities-v2.webp"},
+    }, image: "/poi-images/testour-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Testour ist eine Stadt im Nordwesten Tunesiens, die im 16. Jahrhundert von andalusischen Flüchtlingen gegründet wurde. Die Stadt ist bekannt für ihre maurische Architektur, insbesondere die Große Moschee mit ihrem markanten quadratischen Minarett, das an die Alhambra erinnert. Die Altstadt bewahrt enge Gassen und weiß getünchte Häuser mit blauen Türen. Landwirtschaftlich dominiert der Anbau von Oliven und Zitrusfrüchten. Testour ist ein Zentrum der andalusischen Musiktradition, die jährlich beim Festival of Andalusian Music gefeiert wird.",
+      hu: "Testour egy tunéziai város, amelyet a 16. században andalúz menekültek alapítottak. Gazdag kulturális örökségét andalúz zenei fesztiválok és népi hagyományok őrzik. A város híres az éves andalúz zenei fesztiválról, amely vonzza a látogatókat. A helyi gasztronómiában keverednek az andalúz és berber hatások. Testour környékén olajfaültetvények és citrusligetek találhatók, amelyek a helyi gazdaság alapját képezik. A város központi tere a Place des Martyrs, amely kulturális rendezvényeknek ad otthont.",
+      ro: "Testour este un oraș din nord-vestul Tunisiei, situat pe malul râului Medjerda. Fondat în secolul al XVI-lea de refugiați andaluzi, orașul păstrează un farmec istoric distinct. Economia locală se bazează pe agricultură, în special pe cultivarea măslinilor și a citricelor. Clima mediteraneană favorizează producția de ulei de măsline de calitate. Testour este cunoscut pentru festivalul său de muzică andaluză, care atrage artiști internaționali. Arhitectura orașului reflectă influențe maure și berbere.",
+      en: "Testour is a historic town in northwestern Tunisia, founded by Andalusian refugees in the early 17th century. Its urban layout features narrow winding streets and whitewashed houses with blue doors, reminiscent of Spanish Moorish towns. The Great Mosque, with its distinctive square minaret, is a prime example of Andalusian architecture. Testour is also known for its traditional Andalusian music festival, held annually in August. The town serves as a agricultural hub for olives and citrus fruits, with a population of around 15,000.",
+    },
+    factsAdvanced: {
+      de: ["ca. 15.000 Einwohner (2014)", "Höhe des Minaretts: 25 Meter", "Gegründet 1609", "Fläche: 8 km²", "Entfernung zu Tunis: 100 km", "Jährliches Festival of Andalusian Music seit 1967"],
+      hu: ["Lakosság: kb. 15 000 fő (2014)", "Alapítás éve: 1609", "Terület: 8 km²", "Távolság Tunistól: 100 km", "Minaret magassága: 25 m", "Andalúz zenei fesztivál évente augusztusban"],
+      ro: ["Populație: aprox. 15.000 (2014)", "Anul fondării: 1609", "Suprafață: 8 km²", "Distanța până la Tunis: 100 km", "Înălțimea minaretului: 25 m", "Festivalul de muzică andaluză din 1967"],
+      en: ["Population: ~15,000 (2014)", "Founded: 1609", "Area: 8 km²", "Distance from Tunis: 100 km", "Minaret height: 25 m", "Annual Andalusian Music Festival since 1967"],
+    },
+  },
   {
     id: "enfidha-cities-v2",
     type: "city",
@@ -1322,7 +1361,20 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Mezőgazdaság", "Római nyomok"],
       ro: ["Agricultură", "Urme romane"],
       en: ["Agriculture", "Roman traces"]
-    }, image: "/poi-images/ksour-essef-cities-v2.webp"},
+    }, image: "/poi-images/ksour-essef-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ksour Essef liegt an der Ostküste Tunesiens im Gouvernorat Mahdia. Die Stadt ist landwirtschaftlich geprägt, mit Anbau von Oliven, Feigen und Mandeln. Der Name bedeutet 'Burgen der Spätsommerernte'. Ksour Essef hat einen Strand und einen kleinen Fischereihafen. Die lokale Wirtschaft stützt sich auf Olivenölproduktion und Fischfang. In der Umgebung gibt es römische Ruinen, darunter die Überreste von Aquädukten und Ölmühlen.",
+      hu: "Ksour Essef tunéziai város a Mahdia kormányzóságban, a Földközi-tenger partján. A település mezőgazdasági központ, olajfaültetvényekkel és gyümölcsösökkel. Halászati kikötője fontos szerepet játszik a helyi gazdaságban. A város neve annyit tesz: 'késő nyári betakarítás erősségei'. A közelben található római kori leletek, például mozaikok és épületmaradványok. Ksour Essef csendes üdülőhelyként is ismert.",
+      ro: "Ksour Essef este un oraș de coastă din estul Tunisiei, în guvernoratul Mahdia. Economia locală se bazează pe agricultură, pescuit și turism. Plajele nisipoase și clima mediteraneană atrag vizitatori. Orașul are un port pescăresc activ. În zonă se găsesc ruine romane, inclusiv părți ale unui apeduct. Producția de ulei de măsline este o industrie cheie. Ksour Essef păstrează un stil de viață tradițional.",
+      en: "Ksour Essef is a coastal town in the Mahdia Governorate of Tunisia, known for its agricultural productivity and fishing industry. The name translates to 'Castles of the Late Summer Harvest', reflecting the importance of olive and fruit harvesting. The town features a small port and sandy beaches. Roman remains, such as ancient olive presses and aqueduct fragments, can be found in the surrounding countryside. Ksour Essef serves as a quiet seaside destination.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 9.000 (2014)", "Gouvernorat Mahdia", "Fläche: 12 km²", "Entfernung zu Mahdia: 25 km", "Anzahl Olivenbäume: über 200.000", "Fischereihafen mit 50 Booten"],
+      hu: ["Lakosság: kb. 9 000 fő (2014)", "Terület: 12 km²", "Távolság Mahdiától: 25 km", "Olajfák száma: több mint 200 000", "Kikötő befogadóképessége: 50 halászhajó", "Alapítás: 19. század"],
+      ro: ["Populație: aprox. 9.000 (2014)", "Suprafață: 12 km²", "Distanța până la Mahdia: 25 km", "Număr de măslini: peste 200.000", "Port de pescuit: 50 de bărci", "Fondat în secolul al XIX-lea"],
+      en: ["Population: ~9,000 (2014)", "Area: 12 km²", "Distance from Mahdia: 25 km", "Over 200,000 olive trees", "Fishing port capacity: 50 boats", "Founded in 19th century"],
+    },
+  },
   {
     id: "dar-chaabane-cities-v2",
     type: "city",
@@ -1336,7 +1388,20 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Kőfaragás", "Kézműves központ"],
       ro: ["Pietrărie", "Centru de artizanat"],
       en: ["Stonemasonry", "Craft center"]
-    }, image: "/poi-images/dar-chaabane-cities-v2.webp"},
+    }, image: "/poi-images/dar-chaabane-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dar Chaabane ist eine Stadt im Nordosten Tunesiens, nahe Nabeul. Sie ist bekannt für ihre Töpferei und Keramikproduktion. Die handwerklichen Traditionen reichen Jahrhunderte zurück. Die Werkstätten stellen Gebrauchskeramik und dekorative Fliesen her. Die Stadt hat eine lebhafte Altstadt mit Souks. Dar Chaabane ist auch ein Wohnvorort von Nabeul. Die lokale Küche spiegelt die mediterrane Kultur wider.",
+      hu: "Dar Chaabane tunéziai város Nabeul közelében, híres fazekasságáról és kerámiájáról. A kézműves hagyomány generációkon át öröklődik. A piacokon színes kerámiatárgyak kaphatók. A város Nabeul elővárosa, lakói közül sokan a közeli városokban dolgoznak. Dar Chaabane megőrizte hagyományos arculatát, annak ellenére, hogy turisták is látogatják.",
+      ro: "Dar Chaabane este un oraș din nord-estul Tunisiei, în apropiere de Nabeul. Este renumit pentru olăritul și ceramica tradițională. Atelierele de ceramică produc vase, farfurii și plăci decorative. Orașul este o suburbie rezidențială, dar păstrează un centru istoric cu străzi înguste și magazine de suveniruri. Turiștii sunt atrași de meșteșugurile locale și de apropierea de plajele din Nabeul.",
+      en: "Dar Chaabane is a town in northeastern Tunisia, adjacent to Nabeul, renowned for its pottery and ceramic industry. The craft has been practiced for centuries, with local artisans producing both utilitarian and decorative items. The town’s souks are filled with colorful pottery. Dar Chaabane serves as a residential suburb for Nabeul, while maintaining its own distinct character. Its proximity to the Mediterranean coast makes it a pleasant destination for culture and beach tourism.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 10.000 (2014)", "Entfernung zu Nabeul: 3 km", "Anzahl Töpferwerkstätten: über 100", "Keramikproduktion jährlich: ca. 500.000 Stücke", "Gründung: 18. Jahrhundert", "Höhe über Meer: 30 m"],
+      hu: ["Lakosság: kb. 10 000 fő (2014)", "Távolság Nabeultól: 3 km", "Fazekasműhelyek száma: több mint 100", "Éves kerámiatermelés: kb. 500 000 darab", "Alapítás: 18. század", "Tengerszint feletti magasság: 30 m"],
+      ro: ["Populație: aprox. 10.000 (2014)", "Distanța până la Nabeul: 3 km", "Număr de ateliere de ceramică: peste 100", "Producția anuală de ceramică: aprox. 500.000 de piese", "Fondat în secolul al XVIII-lea", "Altitudine: 30 m"],
+      en: ["Population: ~10,000 (2014)", "Distance from Nabeul: 3 km", "Number of pottery workshops: over 100", "Annual ceramic production: ~500,000 pieces", "Founded in 18th century", "Elevation: 30 m"],
+    },
+  },
   {
     id: "bou-salem-cities-v2",
     type: "city",

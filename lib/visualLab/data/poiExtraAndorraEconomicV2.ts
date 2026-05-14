@@ -6,7 +6,7 @@ export const andorraEconomicV2: POI[] = [
     type: "industry",
     parent: "AD",
     name: { de: "FEDA-Wasserkraftwerk", hu: "FEDA vízierőmű", ro: "Centrala hidroelectrică FEDA", en: "FEDA Hydroelectric Plant" },
-    coordinates: { lat: 42.5085, lng: 1.5452 },
+    coords: [1.5452, 42.5085],
     description: {
       de: "Das Kraftwerk FEDA ist das Zentrum der andorranischen Stromerzeugung. Es nutzt seit 1934 die Wasserkraft des Engolasters-Sees.",
       hu: "A FEDA vízierőmű Andorra legfontosabb villamosenergia-termelő egysége. 1934 óta működik az Engolasters-tó vízenergiájával.",
@@ -38,7 +38,7 @@ export const andorraEconomicV2: POI[] = [
     type: "industry",
     parent: "AD",
     name: { de: "Andorra Telecom Gebäude", hu: "Andorra Telecom székház", ro: "Clădirea Andorra Telecom", en: "Andorra Telecom Building" },
-    coordinates: { lat: 42.5081, lng: 1.5285 },
+    coords: [1.5285, 42.5081],
     description: {
       de: "Das Hauptquartier von Andorra Telecom steuert die digitale Infrastruktur. Es ist ein Symbol für den modernen Dienstleistungssektor.",
       hu: "Az Andorra Telecom központja irányítja az ország digitális hálózatát. Az épület a modern szolgáltatói szektor egyik szimbóluma.",
@@ -70,7 +70,7 @@ export const andorraEconomicV2: POI[] = [
     type: "landmark",
     parent: "AD",
     name: { de: "Einkaufszentrum Epizen", hu: "Epizen bevásárlóközpont", ro: "Centrul comercial Epizen", en: "Epizen Shopping Centre" },
-    coordinates: { lat: 42.4348, lng: 1.4741 },
+    coords: [1.4741, 42.4348],
     description: {
       de: "Epizen ist das größte Einkaufszentrum an der Grenze zu Spanien. Es repräsentiert den wichtigen Sektor des steuerfreien Handels.",
       hu: "Az Epizen a legnagyobb bevásárlóközpont a spanyol határnál. Az ország fontos vámmentes kereskedelmi szektorát képviseli.",
@@ -102,7 +102,7 @@ export const andorraEconomicV2: POI[] = [
     type: "landmark",
     parent: "AD",
     name: { de: "Kaufhaus Pyrénées", hu: "Pyrénées áruház", ro: "Magazinul Pyrénées", en: "Pyrénées Department Store" },
-    coordinates: { lat: 42.5088, lng: 1.5262 },
+    coords: [1.5262, 42.5088],
     description: {
       de: "Grans Magatzems Pyrénées ist das traditionsreichste Kaufhaus des Landes. Es ist ein bedeutender privater Arbeitgeber in der Hauptstadt.",
       hu: "A Grans Magatzems Pyrénées az ország legrégebbi áruháza. A főváros egyik legjelentősebb magánmunkáltatója.",
@@ -134,7 +134,7 @@ export const andorraEconomicV2: POI[] = [
     type: "mine",
     parent: "AD",
     name: { de: "Eisenbergwerk der Eisenstraße", hu: "Vasút-menti vasbánya", ro: "Mina de fier de pe Ruta Fierului", en: "Iron Route Mine Site" },
-    coordinates: { lat: 42.5975, lng: 1.5302 },
+    coords: [1.5302, 42.5975],
     description: {
       de: "Dieses historische Bergwerk war im 19. Jahrhundert entscheidend für die Wirtschaft. Es zeugt von Andorras industrieller Vergangenheit.",
       hu: "Ez a történelmi bánya a 19. századi gazdaság alapköve volt. Andorra ipari múltjának egyik legfontosabb emléke.",
@@ -166,7 +166,7 @@ export const andorraEconomicV2: POI[] = [
     type: "landmark",
     parent: "AD",
     name: { de: "Einkaufszentrum River", hu: "River bevásárlóközpont", ro: "Centrul comercial River", en: "River Mall and Business Center" },
-    coordinates: { lat: 42.4582, lng: 1.4885 },
+    coords: [1.4885, 42.4582],
     description: {
       de: "Das River Centre Comercial ist ein wichtiger Handelsknotenpunkt im Süden. Es bietet umfassende Dienstleistungen für Touristen und Einheimische.",
       hu: "A River Centre Comercial egy fontos kereskedelmi csomópont délen. Széleskörű szolgáltatásokat nyújt turistáknak és helyieknek.",
@@ -198,7 +198,7 @@ export const andorraEconomicV2: POI[] = [
     type: "landmark",
     parent: "AD",
     name: { de: "Zollstation Pas de la Casa", hu: "Pas de la Casa határállomás", ro: "Vama Pas de la Casa", en: "Pas de la Casa Border Customs" },
-    coordinates: { lat: 42.5441, lng: 1.7332 },
+    coords: [1.7332, 42.5441],
     description: {
       de: "Dieser Grenzübergang zu Frankreich ist entscheidend für den Warenimport. Er liegt auf über 2000 Metern Höhe am Envalira-Pass.",
       hu: "Ez a Franciaország felé vezető határátkelő létfontosságú az importnak. 2000 méter feletti magasságban fekszik az Envalira-hágónál.",
@@ -230,7 +230,7 @@ export const andorraEconomicV2: POI[] = [
     type: "factory",
     parent: "AD",
     name: { de: "Alte Tabakfabrik Reig", hu: "Régi Reig dohánygyár", ro: "Vechea fabrică de tutun Reig", en: "Old Reig Tobacco Factory" },
-    coordinates: { lat: 42.4658, lng: 1.4921 },
+    coords: [1.4921, 42.4658],
     description: {
       de: "Die Fàbrica Reig war über Jahrzehnte das industrielle Herz von Sant Julià. Heute ist das Gebäude ein Symbol der Tabakwirtschaft.",
       hu: "A Fàbrica Reig évtizedekig Sant Julià ipari szíve volt. Ma az épület a dohánygazdaság történelmi szimbóluma.",
@@ -262,7 +262,7 @@ export const andorraEconomicV2: POI[] = [
     type: "landmark",
     parent: "AD",
     name: { de: "Finanzviertel Prat de la Creu", hu: "Prat de la Creu pénzügyi negyed", ro: "Centrul financiar Prat de la Creu", en: "Financial Center at Prat de la Creu" },
-    coordinates: { lat: 42.5065, lng: 1.5271 },
+    coords: [1.5271, 42.5065],
     description: {
       de: "Prat de la Creu ist das administrative und finanzielle Zentrum von Andorra. Hier konzentrieren sich Banken und Regierungsstellen.",
       hu: "A Prat de la Creu Andorra közigazgatási és pénzügyi központja. Itt koncentrálódnak a bankok és kormányzati szervek.",
@@ -294,7 +294,7 @@ export const andorraEconomicV2: POI[] = [
     type: "industry",
     parent: "AD",
     name: { de: "Heizkraftwerk Escaldes", hu: "Escaldes-i hőközpont", ro: "Centrala de cogenerare Escaldes", en: "Escaldes Urban Heating Plant" },
-    coordinates: { lat: 42.5112, lng: 1.5441 },
+    coords: [1.5441, 42.5112],
     description: {
       de: "Das Kraftwerk nutzt Abwärme zur Versorgung des städtischen Fernwärmenetzes. Es verbessert die Energieeffizienz der Pfarrei Escaldes.",
       hu: "A hőközpont hulladékhőt használ a városi távfűtési hálózat táplálására. Javítja Escaldes egyházközség energiahatékonyságát.",
@@ -326,7 +326,7 @@ export const andorraEconomicV2: POI[] = [
     type: "landmark",
     parent: "AD",
     name: { de: "Nationales Kongresszentrum", hu: "Nemzeti Kongresszusi Központ", ro: "Centrul Național de Congrese", en: "Andorra National Congress Center" },
-    coordinates: { lat: 42.5055, lng: 1.5235 },
+    coords: [1.5235, 42.5055],
     description: {
       de: "Das Kongresszentrum ist der Motor für den Geschäftstourismus in Andorra. Es beherbergt internationale Gipfel und Wirtschaftstreffen.",
       hu: "A kongresszusi központ az andorrai üzleti turizmus motorja. Nemzetközi csúcstalálkozók és gazdasági ülések helyszíne.",
@@ -358,7 +358,7 @@ export const andorraEconomicV2: POI[] = [
     type: "factory",
     parent: "AD",
     name: { de: "Industriebetrieb Galland", hu: "Galland ipari üzem", ro: "Unitatea industrială Galland", en: "Galland Industrial Factory" },
-    coordinates: { lat: 42.4635, lng: 1.4901 },
+    coords: [1.4901, 42.4635],
     description: {
       de: "Dieser Betrieb ist eine der wenigen verbliebenen Fabriken für Tabakwaren. Er ist ein wichtiger Teil der andorranischen Exportwirtschaft.",
       hu: "Ez az üzem egyike a kevés megmaradt dohánytermékgyárnak. Az andorrai exportgazdaság fontos részét képezi.",
@@ -390,7 +390,7 @@ export const andorraEconomicV2: POI[] = [
     type: "factory",
     parent: "AD",
     name: { de: "Textilfabrik Escaldes", hu: "Escaldes-i textilmalom", ro: "Fabrica de textile Escaldes", en: "Escaldes Wool Textile Mill" },
-    coordinates: { lat: 42.5105, lng: 1.5401 },
+    coords: [1.5401, 42.5105],
     description: {
       de: "Die historische Wollfabrik nutzte die Wasserkraft des Madriu-Flusses. Sie war im 18. Jahrhundert das industrielle Aushängeschild der Region.",
       hu: "A történelmi gyapjúmalom a Madriu folyó energiáját hasznosította. A 18. században a régió ipari büszkesége volt.",
@@ -422,7 +422,7 @@ export const andorraEconomicV2: POI[] = [
     type: "industry",
     parent: "AD",
     name: { de: "Logistikzentrum Sant Julià", hu: "Sant Julià logisztikai központ", ro: "Centrul logistic Sant Julià", en: "South Sant Julià Logistics Hub" },
-    coordinates: { lat: 42.4612, lng: 1.4895 },
+    coords: [1.4895, 42.4612],
     description: {
       de: "Dieses Zentrum dient als Hauptumschlagsplatz für Importgüter aus Spanien. Es umfasst Lagerhäuser und Zollabfertigungsstellen.",
       hu: "Ez a központ a Spanyolországból érkező import áruk fő átrakóhelye. Raktárakat és vámkezelő helyeket foglal magában.",
@@ -454,7 +454,7 @@ export const andorraEconomicV2: POI[] = [
     type: "industry",
     parent: "AD",
     name: { de: "Staudamm-Infrastruktur Engolasters", hu: "Engolasters-i gátrendszer", ro: "Infrastructura barajului Engolasters", en: "Engolasters Dam Infrastructure" },
-    coordinates: { lat: 42.5185, lng: 1.5582 },
+    coords: [1.5582, 42.5185],
     description: {
       de: "Der Engolasters-Damm ist eine kritische Anlage für die Wasserspeicherung. Er ist der höchstgelegene Teil des andorranischen Energiesystems.",
       hu: "Az Engolasters-gát a víztározás kritikus létesítménye. Az andorrai energiarendszer legmagasabban fekvő része.",

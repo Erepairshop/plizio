@@ -6,7 +6,7 @@ export const northmacedoniaCitiesV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Kruschewo", hu: "Krusevo", ro: "Krușevo", en: "Krusevo" },
-    coordinates: { lat: 41.3686, lng: 21.2461 },
+    coords: [21.2461, 41.3686],
     description: {
       de: "Kruschewo ist eine Stadt in einer Höhe von 1350 Metern. Sie ist für ihre traditionelle Architektur aus dem 19. Jahrhundert bekannt.",
       hu: "Krusevo egy 1350 méteres magasságban fekvő város. 19. századi hagyományos építészetéről ismert.",
@@ -38,7 +38,7 @@ export const northmacedoniaCitiesV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Radowisch", hu: "Radovis", ro: "Radoviș", en: "Radovis" },
-    coordinates: { lat: 41.6369, lng: 22.4678 },
+    coords: [22.4678, 41.6369],
     description: {
       de: "Radowisch liegt am Fuße des Platschkowiza-Gebirges. Die Wirtschaft ist stark durch Bergbau und Landwirtschaft geprägt.",
       hu: "Radovis a Placskovica-hegység lábánál fekszik. Gazdaságát erősen meghatározza a bányászat és a mezőgazdaság.",
@@ -70,7 +70,7 @@ export const northmacedoniaCitiesV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Kriwa Palanka", hu: "Kriva Palanka", ro: "Kriva Palanka", en: "Kriva Palanka" },
-    coordinates: { lat: 42.2033, lng: 22.265 },
+    coords: [22.265, 42.2033],
     description: {
       de: "Kriwa Palanka liegt im Nordosten des Landes nahe der bulgarischen Grenze. Die Stadt dient als wichtiger Transitpunkt.",
       hu: "Kriva Palanka az ország északkeleti részén, a bolgár határ közelében fekszik. A város fontos tranzitpontként szolgál.",
@@ -102,7 +102,7 @@ export const northmacedoniaCitiesV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Walandowo", hu: "Valandovo", ro: "Valandovo", en: "Valandovo" },
-    coordinates: { lat: 41.3167, lng: 22.5667 },
+    coords: [22.5667, 41.3167],
     description: {
       de: "Walandowo liegt in der Nähe des Flusses Wardar. Die Stadt ist für ihre Produktion von Obst und Wein bekannt.",
       hu: "Valandovo a Vardar folyó közelében fekszik. A város gyümölcs- és bortermeléséről ismert.",
@@ -134,7 +134,7 @@ export const northmacedoniaCitiesV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Pechtschowo", hu: "Pehcovo", ro: "Pehcovo", en: "Pehcovo" },
-    coordinates: { lat: 41.7611, lng: 22.8872 },
+    coords: [22.8872, 41.7611],
     description: {
       de: "Pechtschowo liegt im Malešev-Gebirge auf etwa 1000 Metern Höhe. Das Gebiet ist stark bewaldet und für seine Quellen bekannt.",
       hu: "Pehcovo a Malesev-hegységben fekszik, körülbelül 1000 méteres tengerszint feletti magasságban. A terület erősen erdős és forrásairól ismert.",
@@ -166,7 +166,7 @@ export const northmacedoniaCitiesV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Berowo", hu: "Berovo", ro: "Berovo", en: "Berovo" },
-    coordinates: { lat: 41.7083, lng: 22.8639 },
+    coords: [22.8639, 41.7083],
     description: {
       de: "Berowo liegt in einer bergigen Region im Osten des Landes. Die Stadt ist ein beliebtes Ziel für Naturtourismus und Wanderungen.",
       hu: "Berovo egy hegyvidéki régióban fekszik az ország keleti részén. A város népszerű úti cél a természet-turizmus és a túrázás szerelmeseinek.",
@@ -198,7 +198,7 @@ export const northmacedoniaCitiesV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Sweti Nikole", hu: "Sveti Nikole", ro: "Sveti Nikole", en: "Sveti Nikole" },
-    coordinates: { lat: 41.8611, lng: 21.9422 },
+    coords: [21.9422, 41.8611],
     description: {
       de: "Sweti Nikole befindet sich in der Ebene von Owtsche Pole. Die Region ist landwirtschaftlich geprägt und weist ein mildes Klima auf.",
       hu: "Sveti Nikole az Ovce Pole-síkságon található. A régió mezőgazdasági jellegű és enyhe éghajlattal rendelkezik.",
@@ -230,7 +230,7 @@ export const northmacedoniaCitiesV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Winiza", hu: "Vinica", ro: "Vinica", en: "Vinica" },
-    coordinates: { lat: 41.8847, lng: 22.5028 },
+    coords: [22.5028, 41.8847],
     description: {
       de: "Winiza liegt im Osten des Landes in der Region Kočani. Die Stadt ist für ihre archäologischen Fundstätten und Geschichte bekannt.",
       hu: "Vinica az ország keleti részén, a Kocani régióban található. A város régészeti lelőhelyeiről és történelméről ismert.",
@@ -262,7 +262,7 @@ export const northmacedoniaCitiesV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Demir Kapija", hu: "Demir Kapija", ro: "Demir Kapija", en: "Demir Kapija" },
-    coordinates: { lat: 41.4111, lng: 22.2533 },
+    coords: [22.2533, 41.4111],
     description: {
       de: "Demir Kapija liegt am Eingang zum gleichnamigen Canyon. Die Gegend ist berühmt für den Weinbau und die natürliche Schlucht.",
       hu: "Demir Kapija az azonos nevű kanyon bejáratánál fekszik. A környék a szőlőtermesztésről és a természetes szurdokról híres.",
@@ -294,7 +294,7 @@ export const northmacedoniaCitiesV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Kratowo", hu: "Kratovo", ro: "Kratovo", en: "Kratovo" },
-    coordinates: { lat: 42.0789, lng: 22.1764 },
+    coords: [22.1764, 42.0789],
     description: {
       de: "Kratowo liegt an den Hängen des Osogowo-Gebirges. Die Stadt ist für ihre alte Architektur und die mittelalterlichen Brücken bekannt.",
       hu: "Kratovo az Osogovo-hegység lejtőin fekszik. A város régi építészetéről és középkori hídjairól ismert.",

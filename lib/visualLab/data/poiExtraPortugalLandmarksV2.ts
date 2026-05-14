@@ -6,7 +6,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Palast von Queluz", hu: "Queluz-palota", ro: "Palatul Queluz", en: "Queluz Palace" },
-    coordinates: { lat: 38.7505, lng: -9.2594 },
+    coords: [-9.2594, 38.7505],
     description: {
       de: "Dieser Palast aus dem 18. Jahrhundert diente als königliche Residenz für das Haus Braganza. Er ist bekannt für seine Rokoko-Architektur und barocken Gärten.",
       hu: "Ez a 18. századi palota a Braganza-ház királyi rezidenciájaként szolgált. Ismert a rokokó építészetéről és barokk kertjeiről.",
@@ -38,7 +38,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "church",
     parent: "PT",
     name: { de: "Carmo-Kirche", hu: "Carmo-templom", ro: "Biserica Carmo", en: "Carmo Convent" },
-    coordinates: { lat: 38.7118, lng: -9.1391 },
+    coords: [-9.1391, 38.7118],
     description: {
       de: "Die Ruinen der gotischen Kirche in Lissabon stehen als Denkmal des Erdbebens von 1755. Das Bauwerk ist heute ein archäologisches Museum.",
       hu: "A lisszaboni gótikus templom romjai az 1755-ös földrengés emlékműveként állnak. Az épület ma régészeti múzeumként funkcionál.",
@@ -70,7 +70,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Palácio de Monserrate", hu: "Monserrate-palota", ro: "Palatul Monserrate", en: "Monserrate Palace" },
-    coordinates: { lat: 38.7905, lng: -9.4267 },
+    coords: [-9.4267, 38.7905],
     description: {
       de: "Dieser Palast in Sintra kombiniert neugotische, maurische und indische Stilelemente. Er ist von einem botanischen Park umgeben.",
       hu: "Ez a sintrai palota ötvözi a neogótikus, mór és indiai stíluselemeket. Botanikus park veszi körül.",
@@ -102,7 +102,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg von Guimarães", hu: "Guimarães vára", ro: "Castelul Guimarães", en: "Guimarães Castle" },
-    coordinates: { lat: 41.4485, lng: -8.2917 },
+    coords: [-8.2917, 41.4485],
     description: {
       de: "Die mittelalterliche Burg gilt als Geburtsort Portugals. Sie wurde im 10. Jahrhundert zur Verteidigung gegen Normannen und Araber errichtet.",
       hu: "A középkori vár Portugália szülőhelyének számít. A 10. században épült a normannok és arabok elleni védekezésre.",
@@ -134,7 +134,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "church",
     parent: "PT",
     name: { de: "Kloster Leça do Balio", hu: "Leça do Balio kolostor", ro: "Mănăstirea Leça do Balio", en: "Leça do Balio Monastery" },
-    coordinates: { lat: 41.2185, lng: -8.6186 },
+    coords: [-8.6186, 41.2185],
     description: {
       de: "Dieses ehemalige Kloster des Johanniterordens ist ein bedeutendes Beispiel romanischer Architektur in Nordportugal. Es wurde im 14. Jahrhundert umgebaut.",
       hu: "Ez az egykori johannita kolostor a román stílusú építészet jelentős példája Észak-Portugáliában. A 14. században építették át.",
@@ -166,7 +166,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Palast von Estoi", hu: "Estoi-palota", ro: "Palatul Estoi", en: "Estoi Palace" },
-    coordinates: { lat: 37.0911, lng: -7.9023 },
+    coords: [-7.9023, 37.0911],
     description: {
       de: "Dieser Palast im Rokoko-Stil liegt in der Algarve nahe Faro. Er wurde im 19. Jahrhundert restauriert und beherbergt heute ein Hotel.",
       hu: "Ez a rokokó stílusú palota az Algarve régióban, Faro közelében található. A 19. században állították helyre, ma szállodaként működik.",
@@ -198,7 +198,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "tower",
     parent: "PT",
     name: { de: "Clérigos-Turm", hu: "Clérigos-torony", ro: "Turnul Clérigos", en: "Clerigos Tower" },
-    coordinates: { lat: 41.1457, lng: -8.6146 },
+    coords: [-8.6146, 41.1457],
     description: {
       de: "Der Barockturm in Porto ist ein Wahrzeichen der Stadt und Teil der Clérigos-Kirche. Er bietet einen weiten Blick über den Fluss Douro.",
       hu: "A portói barokk torony a város egyik jelképe, a Clérigos-templom része. Széles kilátást nyújt a Douro folyóra.",
@@ -230,7 +230,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Palácio Nacional da Ajuda", hu: "Ajuda Nemzeti Palota", ro: "Palatul Național Ajuda", en: "Ajuda National Palace" },
-    coordinates: { lat: 38.7126, lng: -9.2039 },
+    coords: [-9.2039, 38.7126],
     description: {
       de: "Dieser neoklassizistische Palast in Lissabon diente im 19. Jahrhundert als offizielle Residenz der portugiesischen Königsfamilie.",
       hu: "Ez a lisszaboni neoklasszikus palota a 19. században a portugál királyi család hivatalos rezidenciájaként szolgált.",
@@ -262,7 +262,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "church",
     parent: "PT",
     name: { de: "Kloster Tibães", hu: "Tibães kolostor", ro: "Mănăstirea Tibães", en: "Tibaes Monastery" },
-    coordinates: { lat: 41.5369, lng: -8.4633 },
+    coords: [-8.4633, 41.5369],
     description: {
       de: "Dieses ehemalige Benediktinerkloster in Braga ist bekannt für seine prächtigen barocken Holzschnitzereien und vergoldeten Altäre.",
       hu: "Ez a bragai egykori bencés kolostor híres pompás barokk fafaragványairól és aranyozott oltárairól.",
@@ -294,7 +294,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Palast von Mateus", hu: "Mateus-palota", ro: "Palatul Mateus", en: "Mateus Palace" },
-    coordinates: { lat: 41.2829, lng: -7.7126 },
+    coords: [-7.7126, 41.2829],
     description: {
       de: "Das Herrenhaus in Vila Real ist ein Meisterwerk des Barock in Portugal. Es ist von weitläufigen Gärten umgeben.",
       hu: "A vila reali kastély a portugál barokk egyik remekműve. Kiterjedt kertek veszik körül.",
@@ -326,7 +326,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "church",
     parent: "PT",
     name: { de: "Franziskuskirche", hu: "Szent Ferenc-templom", ro: "Biserica Sfântul Francisc", en: "Church of Saint Francis" },
-    coordinates: { lat: 41.1415, lng: -8.6154 },
+    coords: [-8.6154, 41.1415],
     description: {
       de: "Die gotische Kirche in Porto besticht durch ihr prunkvolles barockes Interieur, das mit Blattgold überzogen ist.",
       hu: "A portói gótikus templom pompás barokk belső terével nyűgöz le, amelyet aranyfüsttel borítottak.",
@@ -358,7 +358,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Palast von São Bento", hu: "São Bento-palota", ro: "Palatul São Bento", en: "Sao Bento Palace" },
-    coordinates: { lat: 38.7118, lng: -9.1517 },
+    coords: [-9.1517, 38.7118],
     description: {
       de: "Das neoklassizistische Gebäude in Lissabon dient heute als Sitz des portugiesischen Parlaments. Es wurde auf den Ruinen eines Klosters erbaut.",
       hu: "A lisszaboni neoklasszikus épület ma a portugál parlament székhelye. Egy kolostor romjaira épült.",
@@ -390,7 +390,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "theater",
     parent: "PT",
     name: { de: "Teatro Nacional de São Carlos", hu: "São Carlos Nemzeti Színház", ro: "Teatrul Național São Carlos", en: "National Theater of Sao Carlos" },
-    coordinates: { lat: 38.7093, lng: -9.1413 },
+    coords: [-9.1413, 38.7093],
     description: {
       de: "Das Opernhaus in Lissabon wurde Ende des 18. Jahrhunderts eröffnet. Es ist ein bedeutendes Zentrum für klassische Musik.",
       hu: "A lisszaboni operaházat a 18. század végén nyitották meg. A klasszikus zene jelentős központja.",
@@ -422,7 +422,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Festung von Figueira", hu: "Figueira-erőd", ro: "Fortăreața Figueira", en: "Figueira Fortress" },
-    coordinates: { lat: 40.1501, lng: -8.8576 },
+    coords: [-8.8576, 40.1501],
     description: {
       de: "Die Küstenfestung diente im 16. Jahrhundert dem Schutz der Stadt Figueira da Foz vor Piratenangriffen.",
       hu: "A tengerparti erőd a 16. században Figueira da Foz városát védte a kalóztámadásoktól.",
@@ -454,7 +454,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "bridge",
     parent: "PT",
     name: { de: "Dom Pedro Brücke", hu: "Dom Pedro híd", ro: "Podul Dom Pedro", en: "Dom Pedro Bridge" },
-    coordinates: { lat: 41.1444, lng: -8.6083 },
+    coords: [-8.6083, 41.1444],
     description: {
       de: "Diese historische Eisenbrücke in Porto verbindet die Ufer des Flusses Douro. Sie ist ein technisches Denkmal.",
       hu: "Ez a történelmi vashíd Portóban összeköti a Douro folyó partjait. Műszaki emlékmű.",
@@ -486,7 +486,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Valadares-Palast", hu: "Valadares-palota", ro: "Palatul Valadares", en: "Valadares Palace" },
-    coordinates: { lat: 38.7111, lng: -9.1352 },
+    coords: [-9.1352, 38.7111],
     description: {
       de: "Dieser Palast in Lissabon beherbergte im 17. Jahrhundert eine aristokratische Familie. Er weist typische barocke Züge auf.",
       hu: "Ez a lisszaboni palota a 17. században egy arisztokrata család otthona volt. Jellegzetes barokk vonásokat mutat.",
@@ -518,7 +518,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "church",
     parent: "PT",
     name: { de: "Santo Condestável-Kirche", hu: "Santo Condestável-templom", ro: "Biserica Santo Condestável", en: "Santo Condestavel Church" },
-    coordinates: { lat: 38.7144, lng: -9.1668 },
+    coords: [-9.1668, 38.7144],
     description: {
       de: "Die moderne Kirche in Lissabon ehrt den Schutzpatron Nuno Álvares Pereira. Sie zeichnet sich durch ihren neugotischen Stil aus.",
       hu: "A lisszaboni modern templom Nuno Álvares Pereira védőszentet tiszteli. Neogótikus stílusa jellemzi.",
@@ -550,7 +550,7 @@ export const portugalLandmarksV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Freixo-Palast", hu: "Freixo-palota", ro: "Palatul Freixo", en: "Freixo Palace" },
-    coordinates: { lat: 41.1396, lng: -8.5839 },
+    coords: [-8.5839, 41.1396],
     description: {
       de: "Dieser barocke Palast am Douro-Ufer in Porto wird heute als Hotel genutzt. Er ist ein exzellentes Beispiel bürgerlicher Barockarchitektur.",
       hu: "Ez a portói barokk palota a Douro partján ma szállodaként működik. A polgári barokk építészet kiváló példája.",

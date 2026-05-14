@@ -24,7 +24,20 @@ export const poiExtraSouthkoreaNatureV2: POI[] = [
       hu: ["Könnyen megközelíthető Szöulból tömegközlekedéssel.", "Itt található a történelmi Pukhanszanszong erőd.", "Népszerű a helyiek körében egynapos túrákhoz.", "Erdőket, templomokat és hegycsúcsokat foglal magában."],
       ro: ["Ușor accesibil cu transportul public din Seul.", "Găzduiește fortăreața istorică Bukhansanseong.", "Popular printre localnici pentru drumeții de o zi.", "Cuprinde zone împădurite, temple și vârfuri."],
       en: ["Easily accessible by public transport from Seoul.", "Home to the historic Bukhansanseong Fortress.", "Popular among locals for day hiking.", "Includes forested areas, temples, and peaks."]
-    }, image: "/poi-images/bukhansan-national-park-nature-v2.webp"},
+    }, image: "/poi-images/bukhansan-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bukhansan-Nationalpark ist nicht nur ein Wanderparadies, sondern auch ein wichtiges Naturschutzgebiet. Die geologische Besonderheit sind die massiven Granitformationen, die durch Verwitterung entstanden sind. Der Park beherbergt über 1.300 Pflanzenarten, darunter seltene Orchideen. Auch viele Vogelarten wie der Buntspecht sind hier heimisch. Die Waldgebiete bestehen hauptsächlich aus Eichen, Ahorn und Kiefern. Der Park spielt eine wichtige Rolle im regionalen Ökosystem und dient als grüne Lunge für Seoul. Die Erhaltung der Biodiversität ist ein zentrales Anliegen der Parkverwaltung.",
+      hu: "A Bukhansan Nemzeti Park geológiai szempontból különleges gránitképződményeiről ismert. Több mint 1300 növényfajnak ad otthont, köztük ritka orchideáknak. A madárvilág is gazdag, például a fakopáncs is előfordul. Az erdőkben tölgy, juhar és fenyők találhatók. A park fontos ökológiai szerepet tölt be, és Szöul zöld tüdejének tekinthető. A biodiverzitás megőrzése kiemelt feladat.",
+      ro: "Parcul Național Bukhansan este important din punct de vedere geologic, cu formațiuni de granit unice. Adăpostește peste 1.300 de specii de plante, inclusiv orhidee rare. Fauna include păsări precum ciocănitoarea. Pădurile sunt dominate de stejar, arțar și pin. Parcul servește ca plămân verde pentru Seul și joacă un rol crucial în conservarea biodiversității regionale. Managementul parcului se concentrează pe protejarea ecosistemelor fragile.",
+      en: "Bukhansan National Park is geologically significant for its granite formations shaped by erosion. It hosts over 1,300 plant species, including rare orchids, and diverse bird species like the great spotted woodpecker. Forests consist of oak, maple, and pine. The park acts as a green lung for Seoul and supports regional biodiversity. Conservation efforts focus on protecting fragile ecosystems. Its ecological value extends to water regulation and soil conservation.",
+    },
+    factsAdvanced: {
+      de: ["über 1.300 Pflanzenarten", "Granitformationen", "seltene Orchideen", "Vogelarten wie Buntspecht", "grüne Lunge Seouls", "Eichen-, Ahorn- und Kiefernwälder"],
+      hu: ["több mint 1300 növényfaj", "gránitképződmények", "ritka orchideák", "fakopáncs madár", "Szöul zöld tüdeje", "tölgy, juhar, fenyő erdők"],
+      ro: ["peste 1.300 de specii de plante", "formațiuni de granit", "orhidee rare", "ciocănitoare mare", "plămânul verde al Seulului", "păduri de stejar, arțar, pin"],
+      en: ["over 1,300 plant species", "granite formations", "rare orchids", "great spotted woodpecker", "green lung of Seoul", "oak, maple, pine forests"],
+    },
+  },
   {
     id: "hallasan-national-park-nature-v2",
     type: "national-park",

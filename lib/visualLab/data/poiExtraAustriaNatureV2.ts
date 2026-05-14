@@ -6,7 +6,7 @@ export const austriaNatureV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Nassfeldpass", hu: "Nassfeld-hágó", ro: "Pasul Nassfeld", en: "Nassfeld Pass" },
-    coordinates: { lat: 46.5583, lng: 13.2667 },
+    coords: [13.2667, 46.5583],
     description: {
       de: "Der Nassfeldpass ist ein Gebirgspass in den Karnischen Alpen an der Grenze zu Italien. Er verbindet das Gailtal in Kärnten mit dem Kanaltal.",
       hu: "A Nassfeld-hágó egy hegyi hágó a Karni-Alpokban, az olasz határon. Összeköti a karintiai Gail-völgyet a Kanaltal-völgyével.",
@@ -38,7 +38,7 @@ export const austriaNatureV2: POI[] = [
     type: "lake",
     parent: "AT",
     name: { de: "Gosausee", hu: "Gosau-tó", ro: "Lacul Gosau", en: "Gosau Lake" },
-    coordinates: { lat: 47.5306, lng: 13.5028 },
+    coords: [13.5028, 47.5306],
     description: {
       de: "Der Gosausee ist ein alpiner See im Dachsteingebirge im österreichischen Bundesland Oberösterreich. Er ist für sein klares Wasser bekannt.",
       hu: "A Gosau-tó egy alpesi tó a Dachstein-hegységben, Felső-Ausztria tartományban. Tiszta vizéről ismert.",
@@ -70,7 +70,7 @@ export const austriaNatureV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Großer Rieserferner", hu: "Nagy-Rieserferner-gleccser", ro: "Ghețarul Rieserferner Mare", en: "Great Rieserferner Glacier" },
-    coordinates: { lat: 46.9167, lng: 12.1333 },
+    coords: [12.1333, 46.9167],
     description: {
       de: "Der Große Rieserferner ist ein Gletscher in der Rieserfernergruppe in Osttirol. Er erstreckt sich nahe der Grenze zu Südtirol.",
       hu: "A Nagy-Rieserferner-gleccser a Rieserferner-hegycsoportban található Kelet-Tirolban. Közel húzódik Dél-Tirol határához.",
@@ -102,7 +102,7 @@ export const austriaNatureV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Ötscher", hu: "Ötscher-hegy", ro: "Muntele Ötscher", en: "Ötscher Mountain" },
-    coordinates: { lat: 47.8631, lng: 15.2014 },
+    coords: [15.2014, 47.8631],
     description: {
       de: "Der Ötscher ist ein markanter Berg in den niederösterreichischen Kalkalpen. Er ist der höchste Gipfel im Naturpark Ötscher-Tormäuer.",
       hu: "Az Ötscher egy markáns hegy az alsó-ausztriai Mészkő-Alpokban. Az Ötscher-Tormäuer natúrpark legmagasabb csúcsa.",
@@ -134,7 +134,7 @@ export const austriaNatureV2: POI[] = [
     type: "river",
     parent: "AT",
     name: { de: "Feistritz", hu: "Feistritz-folyó", ro: "Râul Feistritz", en: "Feistritz River" },
-    coordinates: { lat: 47.05, lng: 15.8 },
+    coords: [15.8, 47.05],
     description: {
       de: "Die Feistritz ist ein Fluss in der Steiermark. Sie entspringt in den Fischbacher Alpen und mündet in die Lafnitz.",
       hu: "A Feistritz egy folyó Stájerországban. A Fischbachi-Alpokban ered és a Lafnitzba torkollik.",
@@ -166,7 +166,7 @@ export const austriaNatureV2: POI[] = [
     type: "lake",
     parent: "AT",
     name: { de: "Lünersee", hu: "Lüner-tó", ro: "Lacul Lüner", en: "Lüner Lake" },
-    coordinates: { lat: 47.0522, lng: 9.7547 },
+    coords: [9.7547, 47.0522],
     description: {
       de: "Der Lünersee ist ein Hochgebirgssee in Vorarlberg am Ende des Brandnertals. Er liegt auf knapp 2000 Metern Höhe.",
       hu: "A Lüner-tó egy magashegyi tó Vorarlbergben, a Brandner-völgy végében. Majdnem 2000 méteres magasságban fekszik.",
@@ -198,7 +198,7 @@ export const austriaNatureV2: POI[] = [
     type: "river",
     parent: "AT",
     name: { de: "Salza", hu: "Salza-folyó", ro: "Râul Salza", en: "Salza River" },
-    coordinates: { lat: 47.65, lng: 14.95 },
+    coords: [14.95, 47.65],
     description: {
       de: "Die Salza ist ein Fluss in der Steiermark und Niederösterreich. Sie ist bekannt für ihr sauberes Wasser und den Wildwassersport.",
       hu: "A Salza egy folyó Stájerországban és Alsó-Ausztriában. Tiszta vizéről és vadvízi sportjairól ismert.",
@@ -230,7 +230,7 @@ export const austriaNatureV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Hochkönig", hu: "Hochkönig-hegy", ro: "Muntele Hochkönig", en: "Hochkönig Mountain" },
-    coordinates: { lat: 47.4208, lng: 13.0894 },
+    coords: [13.0894, 47.4208],
     description: {
       de: "Der Hochkönig ist der höchste Berg der Berchtesgadener Alpen in Salzburg. Sein massives Kalkplateau ist weithin sichtbar.",
       hu: "A Hochkönig a Berchtesgadeni-Alpok legmagasabb hegye Salzburg tartományban. Masszív mészkőfennsíkja messziről látható.",
@@ -262,7 +262,7 @@ export const austriaNatureV2: POI[] = [
     type: "mountain",
     parent: "AT",
     name: { de: "Wilder Kaiser", hu: "Wilder Kaiser-hegység", ro: "Munții Wilder Kaiser", en: "Wilder Kaiser Mountains" },
-    coordinates: { lat: 47.5667, lng: 12.3167 },
+    coords: [12.3167, 47.5667],
     description: {
       de: "Der Wilde Kaiser ist ein Gebirgszug der Nördlichen Kalkalpen in Tirol. Die schroffen Felswände prägen das Landschaftsbild.",
       hu: "A Wilder Kaiser az Északi-Mészkőalpok hegylánca Tirolban. Éles sziklafalai meghatározzák a tájképet.",
@@ -294,7 +294,7 @@ export const austriaNatureV2: POI[] = [
     type: "river",
     parent: "AT",
     name: { de: "Tiroler Lech", hu: "Tiroli Lech-folyó", ro: "Râul Lech Tirolian", en: "Tyrolean Lech River" },
-    coordinates: { lat: 47.45, lng: 10.75 },
+    coords: [10.75, 47.45],
     description: {
       de: "Der Tiroler Lech ist einer der letzten Wildflüsse der Alpen. Er fließt durch den Naturpark Tiroler Lech.",
       hu: "A tiroli Lech az Alpok egyik utolsó vadvize. A Tiroler Lech Natúrparkon keresztül folyik.",

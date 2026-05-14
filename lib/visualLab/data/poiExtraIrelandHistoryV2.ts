@@ -6,7 +6,7 @@ export const irelandHistoryV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Skellig Michael", hu: "Skellig Michael", ro: "Skellig Michael", en: "Skellig Michael" },
-    coordinates: { lat: 51.7708, lng: -10.5375 },
+    coords: [-10.5375, 51.7708],
     description: {
       de: "Eine abgelegene Insel mit den Ruinen eines gälischen Klosters aus dem 6. Jahrhundert. Sie gehört zum UNESCO-Welterbe.",
       hu: "Egy távoli sziget a 6. századi gael kolostor romjaival. Az UNESCO Világörökség része.",
@@ -38,7 +38,7 @@ export const irelandHistoryV2: POI[] = [
     type: "landmark",
     parent: "IE",
     name: { de: "Duncannon Fort", hu: "Duncannon erőd", ro: "Fortăreața Duncannon", en: "Duncannon Fort" },
-    coordinates: { lat: 52.2239, lng: -6.9316 },
+    coords: [-6.9316, 52.2239],
     description: {
       de: "Ein sternförmiges Artilleriefort aus dem 16. Jahrhundert an der Mündung des Waterford Harbour. Diente der Küstenverteidigung.",
       hu: "Egy 16. századi csillag alakú tüzérségi erőd a Waterford-öböl torkolatánál. Partvédelmi feladatokat látott el.",
@@ -70,7 +70,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Dunluce Castle", hu: "Dunluce kastély", ro: "Castelul Dunluce", en: "Dunluce Castle" },
-    coordinates: { lat: 55.2208, lng: -6.5786 },
+    coords: [-6.5786, 55.2208],
     description: {
       de: "Ruinen einer mittelalterlichen Burg auf einer Basaltklippe an der Nordküste. Stammt aus dem 14. Jahrhundert.",
       hu: "Egy középkori vár romjai az északi part bazaltszikláin. A 14. századból származik.",
@@ -102,7 +102,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Ferns Castle", hu: "Ferns kastély", ro: "Castelul Ferns", en: "Ferns Castle" },
-    coordinates: { lat: 52.5925, lng: -6.4917 },
+    coords: [-6.4917, 52.5925],
     description: {
       de: "Eine normannische Festung aus dem 13. Jahrhundert in der Grafschaft Wexford. Einst Sitz der Könige von Leinster.",
       hu: "Egy 13. századi normann erődítmény Wexford megyében. Egykor Leinster királyainak székhelye volt.",
@@ -116,13 +116,25 @@ export const irelandHistoryV2: POI[] = [
       en: ["Built c. 1200", "Norman style", "Once had 5 towers", "Seat of McMurrough kings"],
     },
     imageHint: "Ferns Castle stone ruins tower",
+    descriptionAdvanced: {
+      de: "Ferns Castle ist eine mittelalterliche Burgruine in der Grafschaft Wexford, Irland. Sie wurde im 13. Jahrhundert von den Normannen erbaut und diente als Sitz der Bischöfe von Ferns. Die Burg besteht aus einem Donjon und Ringmauern. 1379 wurde sie von den O'Byrne-Clan angegriffen. Während der Cromwellschen Kriege wurde sie beschädigt. Heute ist sie eine nationale Denkmalstätte. Die Ruinen sind öffentlich zugänglich und bieten Einblicke in die anglonormannische Architektur.",
+      hu: "A Ferns-kastély egy középkori várrom Írországban, Wexford megyében. A normannok építették a 13. században, és a fernsi püspökök székhelye volt. A vár egy donjonból és falakból áll. 1379-ben az O'Byrne klán támadta meg. A Cromwell-háborúkban megsérült. Ma nemzeti műemlék. A romok nyilvánosan látogathatók, bepillantást nyújtva az angol-normann építészetbe.",
+      ro: "Castelul Ferns este o ruină medievală în comitatul Wexford, Irlanda. A fost construit în secolul al XIII-lea de normanzi și a servit ca reședință a episcopilor de Ferns. Castelul are un donjon și ziduri de incintă. În 1379 a fost atacat de clanul O'Byrne. A fost avariat în timpul războaielor lui Cromwell. Astăzi este un monument național. Ruinele sunt accesibile publicului și oferă o perspectivă asupra arhitecturii anglo-normande.",
+      en: "Ferns Castle is a medieval ruin in County Wexford, Ireland. Built in the 13th century by the Normans, it was the seat of the bishops of Ferns. The castle features a keep and curtain walls. It was attacked by the O'Byrne clan in 1379 and damaged during the Cromwellian wars. Now a national monument, the ruins are open to the public and showcase Anglo-Norman architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 13. Jahrhundert.", "Normannische Architektur.", "Angriff 1379 durch O'Byrne.", "Cromwellsche Kriege 1649.", "Nationales Denkmal seit 1934.", "Donjon Höhe: 15 m."],
+      hu: ["Épült a 13. században.", "Normann építészet.", "O'Byrne támadás 1379-ben.", "Cromwell-háborúk 1649-ben.", "Nemzeti emlék 1934 óta.", "Donjon magasság: 15 m."],
+      ro: ["Construit în secolul al XIII-lea.", "Arhitectură normandă.", "Atac O'Byrne în 1379.", "Războaiele lui Cromwell 1649.", "Monument național din 1934.", "Înălțimea donjonului: 15 m."],
+      en: ["Built in the 13th century.", "Norman architecture.", "Attacked by O'Byrne in 1379.", "Cromwellian wars 1649.", "National monument since 1934.", "Keep height: 15 m."],
+    },
   },
   {
     id: "ireland-rock-of-dunamase-history-v2",
     type: "ruins",
     parent: "IE",
     name: { de: "Rock of Dunamase", hu: "Dunamase szikla", ro: "Stânca Dunamase", en: "Rock of Dunamase" },
-    coordinates: { lat: 53.0238, lng: -7.2289 },
+    coords: [-7.2289, 53.0238],
     description: {
       de: "Historische Burgruine auf einem Kalksteinfelsen in der Grafschaft Laois. War strategisch bedeutend.",
       hu: "Történelmi várrom egy mészkősziklán Laois megyében. Stratégiailag jelentős hely volt.",
@@ -154,7 +166,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Grannagh Castle", hu: "Grannagh kastély", ro: "Castelul Grannagh", en: "Grannagh Castle" },
-    coordinates: { lat: 52.2961, lng: -7.1683 },
+    coords: [-7.1683, 52.2961],
     description: {
       de: "Ruinen einer Burg aus dem 13. Jahrhundert nahe Waterford. Wurde von den Butlers of Ormond erbaut.",
       hu: "Egy 13. századi vár romjai Waterford közelében. A Butlers of Ormond család építtette.",
@@ -186,7 +198,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Ross Castle", hu: "Ross kastély", ro: "Castelul Ross", en: "Ross Castle" },
-    coordinates: { lat: 52.0366, lng: -9.5303 },
+    coords: [-9.5303, 52.0366],
     description: {
       de: "Ein Wohnturm aus dem 15. Jahrhundert am Ufer des Lough Leane. Sitz der O'Donoghue-Clans.",
       hu: "Egy 15. századi lakótorony a Lough Leane partján. Az O'Donoghue klán székhelye volt.",
@@ -218,7 +230,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Ballymoon Castle", hu: "Ballymoon kastély", ro: "Castelul Ballymoon", en: "Ballymoon Castle" },
-    coordinates: { lat: 52.6869, lng: -6.8526 },
+    coords: [-6.8526, 52.6869],
     description: {
       de: "Ein unvollendetes normannisches Kastell aus dem 13. Jahrhundert in Carlow. Besteht aus quadratischen Mauern.",
       hu: "Egy befejezetlen 13. századi normann vár Carlow megyében. Négyzet alakú falakból áll.",
@@ -250,7 +262,7 @@ export const irelandHistoryV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Moydrum Castle", hu: "Moydrum kastély", ro: "Castelul Moydrum", en: "Moydrum Castle" },
-    coordinates: { lat: 53.4116, lng: -7.8687 },
+    coords: [-7.8687, 53.4116],
     description: {
       de: "Eine Burgruine im neugotischen Stil nahe Athlone. Wurde 1921 während des Unabhängigkeitskrieges niedergebrannt.",
       hu: "Egy neogótikus stílusú várrom Athlone közelében. 1921-ben, a függetlenségi háború alatt égett le.",
@@ -282,7 +294,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Ballycarbery Castle", hu: "Ballycarbery kastély", ro: "Castelul Ballycarbery", en: "Ballycarbery Castle" },
-    coordinates: { lat: 51.9427, lng: -10.2743 },
+    coords: [-10.2743, 51.9427],
     description: {
       de: "Ruinen einer Festung auf der Iveragh-Halbinsel. Ursprünglich im Besitz des McCarthy-Clans.",
       hu: "Egy erődítmény romjai az Iveragh-félszigeten. Eredetileg a McCarthy klán birtokában volt.",
@@ -314,7 +326,7 @@ export const irelandHistoryV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Monasterboice", hu: "Monasterboice", ro: "Monasterboice", en: "Monasterboice" },
-    coordinates: { lat: 53.7779, lng: -6.4172 },
+    coords: [-6.4172, 53.7779],
     description: {
       de: "Frühmittelalterliche Klostersiedlung in der Grafschaft Louth. Bekannt für ihre keltischen Hochkreuze.",
       hu: "Kora középkori kolostor Louth megyében. Híres kelta magaskeresztjeiről.",
@@ -346,7 +358,7 @@ export const irelandHistoryV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Devenish Island", hu: "Devenish sziget", ro: "Insula Devenish", en: "Devenish Island" },
-    coordinates: { lat: 54.3235, lng: -7.6367 },
+    coords: [-7.6367, 54.3235],
     description: {
       de: "Eine Insel im Lough Erne mit den Ruinen einer bedeutenden Klostersiedlung aus dem 6. Jahrhundert.",
       hu: "Egy sziget a Lough Erne-en, a 6. századi jelentős kolostor romjaival.",
@@ -378,7 +390,7 @@ export const irelandHistoryV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Glendalough", hu: "Glendalough", ro: "Glendalough", en: "Glendalough" },
-    coordinates: { lat: 53.0113, lng: -6.3267 },
+    coords: [-6.3267, 53.0113],
     description: {
       de: "Eine bedeutende Klostersiedlung im Tal der zwei Seen. Gegründet vom heiligen Kevin im 6. Jahrhundert.",
       hu: "Jelentős kolostor a két tó völgyében. Szent Kevin alapította a 6. században.",
@@ -410,7 +422,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Carrickfergus Castle", hu: "Carrickfergus kastély", ro: "Castelul Carrickfergus", en: "Carrickfergus Castle" },
-    coordinates: { lat: 54.7136, lng: -5.8078 },
+    coords: [-5.8078, 54.7136],
     description: {
       de: "Eine normannische Burg aus dem 12. Jahrhundert am Ufer des Belfast Lough. Eine der besterhaltenen Festungen.",
       hu: "Egy 12. századi normann vár a Belfast Lough partján. Az egyik legjobban megőrzött erődítmény.",
@@ -442,7 +454,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Ballygally Castle", hu: "Ballygally kastély", ro: "Castelul Ballygally", en: "Ballygally Castle" },
-    coordinates: { lat: 54.9126, lng: -5.8906 },
+    coords: [-5.8906, 54.9126],
     description: {
       de: "Ein befestigtes Haus aus dem 17. Jahrhundert an der Antrim-Küste. Diente der Verteidigung.",
       hu: "Egy 17. századi erődített ház az Antrim-parton. Védelmi célokat szolgált.",
@@ -474,7 +486,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Enniskillen Castle", hu: "Enniskillen kastély", ro: "Castelul Enniskillen", en: "Enniskillen Castle" },
-    coordinates: { lat: 54.3456, lng: -7.6432 },
+    coords: [-7.6432, 54.3456],
     description: {
       de: "Eine Burg aus dem 16. Jahrhundert am Ufer des Lough Erne. Sitz der Maguire-Clans.",
       hu: "Egy 16. századi vár a Lough Erne partján. A Maguire klán székhelye volt.",
@@ -506,7 +518,7 @@ export const irelandHistoryV2: POI[] = [
     type: "village",
     parent: "IE",
     name: { de: "Ballymore Eustace", hu: "Ballymore Eustace", ro: "Ballymore Eustace", en: "Ballymore Eustace" },
-    coordinates: { lat: 53.1364, lng: -6.6115 },
+    coords: [-6.6115, 53.1364],
     description: {
       de: "Historisches Dorf in Kildare, Schauplatz von Kämpfen während der Irischen Rebellion 1798.",
       hu: "Történelmi falu Kildare-ben, az 1798-as ír lázadás harcainak színhelye.",
@@ -538,7 +550,7 @@ export const irelandHistoryV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Kells Priory", hu: "Kells Priorátus", ro: "Prioratul Kells", en: "Kells Priory" },
-    coordinates: { lat: 52.5322, lng: -7.2625 },
+    coords: [-7.2625, 52.5322],
     description: {
       de: "Umfangreiche Ruinen eines Augustinerklosters aus dem 12. Jahrhundert in Kilkenny.",
       hu: "Kiterjedt romok egy 12. századi Ágoston-rendi kolostorról Kilkenny-ben.",
@@ -570,7 +582,7 @@ export const irelandHistoryV2: POI[] = [
     type: "village",
     parent: "IE",
     name: { de: "Asdee", hu: "Asdee", ro: "Asdee", en: "Asdee" },
-    coordinates: { lat: 52.5486, lng: -9.5819 },
+    coords: [-9.5819, 52.5486],
     description: {
       de: "Dorf in Kerry, bekannt für archäologische Funde aus der Bronzezeit in der Umgebung.",
       hu: "Falu Kerry-ben, bronzkori régészeti leleteiről ismert a környéken.",
@@ -602,7 +614,7 @@ export const irelandHistoryV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Adare Friary", hu: "Adare kolostor", ro: "Mănăstirea Adare", en: "Adare Friary" },
-    coordinates: { lat: 52.5639, lng: -8.7844 },
+    coords: [-8.7844, 52.5639],
     description: {
       de: "Ruinen eines Franziskanerklosters aus dem 15. Jahrhundert in Adare, Grafschaft Limerick.",
       hu: "Egy 15. századi ferences kolostor romjai Adare-ban, Limerick megyében.",
@@ -634,7 +646,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Maynooth Castle", hu: "Maynooth kastély", ro: "Castelul Maynooth", en: "Maynooth Castle" },
-    coordinates: { lat: 53.3794, lng: -6.5919 },
+    coords: [-6.5919, 53.3794],
     description: {
       de: "Festung der Fitzgeralds aus dem 12. Jahrhundert in Kildare. War ein Machtzentrum.",
       hu: "Egy 12. századi Fitzgerald-erődítmény Kildare-ben. Hatalmi központ volt.",
@@ -666,7 +678,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Ballymore Castle", hu: "Ballymore kastély", ro: "Castelul Ballymore", en: "Ballymore Castle" },
-    coordinates: { lat: 53.5111, lng: -7.7891 },
+    coords: [-7.7891, 53.5111],
     description: {
       de: "Ein Wohnturm aus dem 16. Jahrhundert in Westmeath. Befindet sich nahe der Ruine von Ballymore.",
       hu: "Egy 16. századi lakótorony Westmeath-ben. Ballymore romjainak közelében található.",
@@ -698,7 +710,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Dunsoghly Castle", hu: "Dunsoghly kastély", ro: "Castelul Dunsoghly", en: "Dunsoghly Castle" },
-    coordinates: { lat: 53.4358, lng: -6.2997 },
+    coords: [-6.2997, 53.4358],
     description: {
       de: "Ein Wohnturm aus dem 15. Jahrhundert in Dublin. Bemerkenswert ist das original erhaltene Dach.",
       hu: "Egy 15. századi lakótorony Dublinban. Figyelemre méltó az eredeti állapotban megőrzött tető.",
@@ -730,7 +742,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Ballybritt Castle", hu: "Ballybritt kastély", ro: "Castelul Ballybritt", en: "Ballybritt Castle" },
-    coordinates: { lat: 53.0567, lng: -7.8344 },
+    coords: [-7.8344, 53.0567],
     description: {
       de: "Ein Wohnturm aus dem 15. Jahrhundert in Offaly. War ein Sitz der O'Carroll-Familie.",
       hu: "Egy 15. századi lakótorony Offaly-ban. Az O'Carroll család székhelye volt.",
@@ -762,7 +774,7 @@ export const irelandHistoryV2: POI[] = [
     type: "church",
     parent: "IE",
     name: { de: "Skreen Church", hu: "Skreen templom", ro: "Biserica Skreen", en: "Skreen Church" },
-    coordinates: { lat: 54.2189, lng: -8.6783 },
+    coords: [-8.6783, 54.2189],
     description: {
       de: "Historische Kirchenruine in Sligo. Ursprünge gehen auf eine frühchristliche Siedlung zurück.",
       hu: "Történelmi templomrom Sligo-ban. Eredete egy kora keresztény településre nyúlik vissza.",
@@ -794,7 +806,7 @@ export const irelandHistoryV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Ballymore Abbey", hu: "Ballymore apátság", ro: "Abația Ballymore", en: "Ballymore Abbey" },
-    coordinates: { lat: 53.5186, lng: -7.7814 },
+    coords: [-7.7814, 53.5186],
     description: {
       de: "Ruinen einer mittelalterlichen Abtei in Westmeath. Wurde 1228 von den Lacy-Lords gegründet.",
       hu: "Egy középkori apátság romjai Westmeath-ben. 1228-ban alapították a Lacy-lordok.",
@@ -826,7 +838,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Dromoland Castle", hu: "Dromoland kastély", ro: "Castelul Dromoland", en: "Dromoland Castle" },
-    coordinates: { lat: 52.7933, lng: -8.9386 },
+    coords: [-8.9386, 52.7933],
     description: {
       de: "Historisches Anwesen in Clare, einst Sitz der O'Brien-Könige. Heute als Luxushotel genutzt.",
       hu: "Történelmi birtok Clare-ben, egykor az O'Brien királyok székhelye. Ma luxusszállodaként működik.",
@@ -858,7 +870,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Ballymote Castle", hu: "Ballymote kastély", ro: "Castelul Ballymote", en: "Ballymote Castle" },
-    coordinates: { lat: 54.0883, lng: -8.5147 },
+    coords: [-8.5147, 54.0883],
     description: {
       de: "Eine normannische Burg aus dem 13. Jahrhundert in Sligo. Sie zeichnet sich durch sechs Türme aus.",
       hu: "Egy 13. századi normann vár Sligo-ban. Hat tornyáról ismert.",
@@ -890,7 +902,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Cloughoughter Castle", hu: "Cloughoughter kastély", ro: "Castelul Cloughoughter", en: "Cloughoughter Castle" },
-    coordinates: { lat: 54.0044, lng: -7.4853 },
+    coords: [-7.4853, 54.0044],
     description: {
       de: "Rundburg aus dem 13. Jahrhundert auf einer Insel im Lough Oughter, Cavan.",
       hu: "Egy 13. századi kör alakú vár egy szigeten a Lough Oughter-en, Cavan megyében.",
@@ -922,7 +934,7 @@ export const irelandHistoryV2: POI[] = [
     type: "landmark",
     parent: "IE",
     name: { de: "Ballymore Fort", hu: "Ballymore erőd", ro: "Fortăreața Ballymore", en: "Ballymore Fort" },
-    coordinates: { lat: 53.5134, lng: -7.7877 },
+    coords: [-7.7877, 53.5134],
     description: {
       de: "Historische Befestigungsanlage in Westmeath. Diente der Verteidigung im 17. Jahrhundert.",
       hu: "Történelmi erődítmény Westmeath-ben. A 17. századi védekezést szolgálta.",
@@ -954,7 +966,7 @@ export const irelandHistoryV2: POI[] = [
     type: "battlefield",
     parent: "IE",
     name: { de: "Ashbourne Battlefield", hu: "Ashbourne csatatér", ro: "Câmpul de luptă Ashbourne", en: "Ashbourne Battlefield" },
-    coordinates: { lat: 53.5136, lng: -6.3986 },
+    coords: [-6.3986, 53.5136],
     description: {
       de: "Ort des Gefechts von Ashbourne während des Osteraufstands 1916.",
       hu: "Az ashbourne-i csata helyszíne az 1916-os húsvéti felkelés idején.",
@@ -986,7 +998,7 @@ export const irelandHistoryV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Ballymore Monastery", hu: "Ballymore kolostor", ro: "Mănăstirea Ballymore", en: "Ballymore Monastery" },
-    coordinates: { lat: 53.5201, lng: -7.7844 },
+    coords: [-7.7844, 53.5201],
     description: {
       de: "Ruinen einer Klostersiedlung aus dem 6. Jahrhundert in Westmeath.",
       hu: "Egy 6. századi kolostor romjai Westmeath-ben.",
@@ -1018,7 +1030,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Drumboy Castle", hu: "Drumboy kastély", ro: "Castelul Drumboy", en: "Drumboy Castle" },
-    coordinates: { lat: 54.9122, lng: -7.6744 },
+    coords: [-7.6744, 54.9122],
     description: {
       de: "Ruinen einer Festung in Donegal. Zeugt von der turbulenten Geschichte der Region.",
       hu: "Egy erődítmény romjai Donegalban. A régió viharos történelméről tanúskodik.",
@@ -1050,7 +1062,7 @@ export const irelandHistoryV2: POI[] = [
     type: "church",
     parent: "IE",
     name: { de: "Ballymore Church", hu: "Ballymore templom", ro: "Biserica Ballymore", en: "Ballymore Church" },
-    coordinates: { lat: 53.5155, lng: -7.7833 },
+    coords: [-7.7833, 53.5155],
     description: {
       de: "Historische Kirchenruine in Westmeath mit mittelalterlichen Ursprüngen.",
       hu: "Történelmi templomrom Westmeath-ben, középkori eredettel.",
@@ -1082,7 +1094,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Dunnaseer Castle", hu: "Dunnaseer kastély", ro: "Castelul Dunnaseer", en: "Dunnaseer Castle" },
-    coordinates: { lat: 53.1233, lng: -8.1233 },
+    coords: [-8.1233, 53.1233],
     description: {
       de: "Ein befestigtes Anwesen in Galway. Diente der Verteidigung im Mittelalter.",
       hu: "Egy erődített birtok Galway-ban. Védelmi célokat szolgált a középkorban.",
@@ -1114,7 +1126,7 @@ export const irelandHistoryV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Kilcash Castle", hu: "Kilcash kastély", ro: "Castelul Kilcash", en: "Kilcash Castle" },
-    coordinates: { lat: 52.3789, lng: -7.5344 },
+    coords: [-7.5344, 52.3789],
     description: {
       de: "Ruinen einer Burg aus dem 16. Jahrhundert in Tipperary. Sitz der Butlers of Ormond.",
       hu: "Egy 16. századi vár romjai Tipperaryban. A Butlers of Ormond székhelye volt.",

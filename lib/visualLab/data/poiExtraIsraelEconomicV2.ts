@@ -68,7 +68,20 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       hu: ["Az Akabai-öbölben fekszik.", "Fontos az ázsiai kereskedelem számára.", "Izrael legdélibb kikötője."],
       ro: ["Situat în Golful Aqaba.", "Important pentru comerțul cu Asia.", "Cel mai sudic port din Israel."],
       en: ["Located on the Gulf of Aqaba.", "Important for trade with Asia.", "Southernmost port of Israel."]
-    }, image: "/poi-images/il-port-eilat-economic-v2.webp"},
+    }, image: "/poi-images/il-port-eilat-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Eilat ist der südlichste Hafen Israels und liegt am Roten Meer, nahe der Grenze zu Jordanien und Ägypten. Er ist ein wichtiger Umschlagplatz für den Außenhandel Israels, insbesondere für den Import von Fahrzeugen und den Export von Kali aus dem Toten Meer. Nach Kriegsschäden 1967 wurde der Hafen modernisiert und kann heute Schiffe mit einem Tiefgang von bis zu 12 Metern abfertigen. Der Hafen umfasst ein Containerterminal mit einer Kapazität von 200.000 TEU pro Jahr sowie eine Ölraffinerie. Im Jahr 2020 wurden 1,5 Millionen Tonnen Fracht umgeschlagen. Der Hafen dient auch als Basis für die israelische Marine und für Forschungsschiffe. Aufgrund der Korallenriffe vor Eilat ist der Hafen durch strenge Umweltauflagen reguliert.",
+      hu: "Az eilati kikötő Izrael legdélebbi tengeri kapuja a Vörös-tenger partján, Jordánia és Egyiptom közelében. Az ország külkereskedelmének egyik kulcsfontosságú csomópontja, főként járműimportra és a Holt-tengerből származó káli exportra specializálódva. A kikötőt az 1969-es arab támadást követően újjáépítették, így ma 12 méter merülési mélységű hajókat képes fogadni. Éves konténerforgalma 200 000 TEU. 2020-ban 1,5 millió tonna árut kezelt. A kikötő magában foglal egy olajfinomítót is. Szigorú környezetvédelmi szabályok vonatkoznak rá a közeli korallzátonyok védelme érdekében. Emellett katonai és kutatóhajók bázisául is szolgál.",
+      ro: "Portul Eilat este cel mai sudic port al Israelului, situat pe Marea Roșie, lângă granițele cu Iordania și Egiptul. Este un hub comercial crucial pentru importul de vehicule și exportul de potasă din Marea Moartă. Reconstruit după daunele de război din 1967, portul poate primi nave cu pescaj de până la 12 metri. Terminalul de containere are o capacitate de 200.000 TEU pe an. În 2020, a manipulat 1,5 milioane de tone de marfă. Portul include și o rafinărie de petrol. Este supus unor reglementări stricte de mediu datorită recifelor de corali din apropiere. De asemenea, servește ca bază pentru marina israeliană și nave de cercetare.",
+      en: "The Port of Eilat is Israel's southernmost seaport, located on the Red Sea near the borders with Jordan and Egypt. It serves as a key gateway for Israel's foreign trade, specializing in vehicle imports and potash exports from the Dead Sea. Reconstructed after damage in the 1967 war, the port now accommodates vessels with a draft up to 12 meters. Its container terminal has an annual capacity of 200,000 TEU. In 2020, it handled 1.5 million tons of cargo. The port also operates an oil refinery. Strict environmental regulations are in place due to nearby coral reefs. Additionally, it serves as a base for the Israeli Navy and research vessels.",
+    },
+    factsAdvanced: {
+      de: ["Tiefgang: bis zu 12 m", "Containerterminalkapazität: 200.000 TEU/Jahr", "Frachtumschlag 2020: 1,5 Mio Tonnen", "Jahr der Wiederherstellung: 1969", "Exportgut: Kali aus dem Toten Meer", "Umweltauflagen zum Schutz der Korallenriffe"],
+      hu: ["Merülési mélység: 12 m", "Konténerkapacitás: 200.000 TEU/év", "Áruforgalom 2020: 1,5 millió tonna", "Újjáépítés éve: 1969", "Fő exportcikk: káli (Holt-tenger)", "Környezetvédelmi korlátozások a korallzátonyok miatt"],
+      ro: ["Pescaj maxim: 12 m", "Capacitate terminal containere: 200.000 TEU/an", "Marfa manipulata in 2020: 1,5 milioane tone", "An reconstructie: 1969", "Export principal: potasa din Marea Moarta", "Reglementari de mediu pentru protectia recifelor"],
+      en: ["Maximum draft: 12 m", "Container terminal capacity: 200,000 TEU/year", "Cargo handled in 2020: 1.5 million tons", "Year of reconstruction: 1969", "Major export: potash from Dead Sea", "Environmental regulations to protect coral reefs"],
+    },
+  },
   {
     id: "il-orot-rabin-economic-v2",
     type: "energy",

@@ -6,7 +6,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "industry",
     parent: "ME",
     name: { de: "Bistrica Wasserkraftwerk", hu: "Bistrica vízerőmű", ro: "Hidrocentrala Bistrica", en: "Bistrica Hydroelectric Plant" },
-    coordinates: { lat: 43.0455, lng: 19.3444 },
+    coords: [19.3444, 43.0455],
     description: {
       de: "Das Wasserkraftwerk liegt am Fluss Bistrica nahe Bijelo Polje. Es dient der regionalen Stromerzeugung.",
       hu: "A vízerőmű a Bistrica folyón található, Bijelo Polje közelében. A regionális áramtermelést szolgálja.",
@@ -38,7 +38,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "port",
     parent: "ME",
     name: { de: "Hafen Bar", hu: "Bar kikötő", ro: "Portul Bar", en: "Port of Bar" },
-    coordinates: { lat: 42.0911, lng: 19.0833 },
+    coords: [19.0833, 42.0911],
     description: {
       de: "Dies ist der größte Hafen Montenegros. Er ist ein zentraler Knotenpunkt für den internationalen Seehandel.",
       hu: "Ez Montenegró legnagyobb kikötője. A nemzetközi tengeri kereskedelem központi csomópontja.",
@@ -70,7 +70,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "factory",
     parent: "ME",
     name: { de: "Aluminiumwerk Podgorica", hu: "Podgoricai alumíniumgyár", ro: "Uzina de aluminiu Podgorica", en: "Aluminium Plant Podgorica" },
-    coordinates: { lat: 42.4083, lng: 19.2155 },
+    coords: [19.2155, 42.4083],
     description: {
       de: "Das Aluminiumwerk (KAP) war über Jahrzehnte ein industrieller Hauptakteur. Es liegt südlich von Podgorica.",
       hu: "Az alumíniumgyár (KAP) évtizedekig az ország ipari központja volt. Podgoricától délre található.",
@@ -102,7 +102,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "port",
     parent: "ME",
     name: { de: "Vranjina Fischereihafen", hu: "Vranjina halászkikötő", ro: "Portul de pescuit Vranjina", en: "Vranjina Fishing Port" },
-    coordinates: { lat: 42.2742, lng: 19.1411 },
+    coords: [19.1411, 42.2742],
     description: {
       de: "Ein kleiner Fischereihafen am Skutarisee. Die lokale Wirtschaft basiert hier auf Fischfang und Tourismus.",
       hu: "Kisebb halászkikötő a Skadari-tónál. A helyi gazdaság itt a halászatra és turizmusra épül.",
@@ -134,7 +134,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "factory",
     parent: "ME",
     name: { de: "Trebjesa Brauerei", hu: "Trebjesa sörgyár", ro: "Fabrica de bere Trebjesa", en: "Trebjesa Brewery" },
-    coordinates: { lat: 42.7765, lng: 18.9482 },
+    coords: [18.9482, 42.7765],
     description: {
       de: "Die Trebjesa Brauerei in Nikšić ist der führende Bierproduzent des Landes. Sie besteht seit 1896.",
       hu: "A nikšići Trebjesa sörgyár az ország vezető sörgyártója. 1896 óta működik.",
@@ -166,7 +166,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "mine",
     parent: "ME",
     name: { de: "Kohlebergwerk Pljevlja", hu: "Pljevlja szénbánya", ro: "Mina de cărbune Pljevlja", en: "Pljevlja Coal Mine" },
-    coordinates: { lat: 43.3522, lng: 19.3456 },
+    coords: [19.3456, 43.3522],
     description: {
       de: "Das Kohlebergwerk ist ein essenzieller Energielieferant für das nahegelegene Wärmekraftwerk.",
       hu: "A szénbánya alapvető energiaellátója a közeli hőerőműnek.",
@@ -198,7 +198,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "industry",
     parent: "ME",
     name: { de: "Porto Novi Resort", hu: "Porto Novi üdülő", ro: "Statiunea Porto Novi", en: "Porto Novi Resort" },
-    coordinates: { lat: 42.4285, lng: 18.5912 },
+    coords: [18.5912, 42.4285],
     description: {
       de: "Ein Luxus-Yachthafen und Resort-Komplex in Kumbor. Ein bedeutendes Investitionsprojekt im Tourismussektor.",
       hu: "Luxus jachtkikötő és üdülőkomplexum Kumborban. Jelentős turisztikai beruházás.",
@@ -230,7 +230,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "port",
     parent: "ME",
     name: { de: "Hafen Kotor", hu: "Kotor kikötő", ro: "Portul Kotor", en: "Port of Kotor" },
-    coordinates: { lat: 42.4244, lng: 18.7712 },
+    coords: [18.7712, 42.4244],
     description: {
       de: "Ein wichtiger Anlaufpunkt für Kreuzfahrtschiffe in der Bucht von Kotor. Motor des lokalen Tourismus.",
       hu: "Fontos kikötőhely a tengerjáró hajók számára a Kotori-öbölben. A helyi turizmus motorja.",
@@ -262,7 +262,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "industry",
     parent: "ME",
     name: { de: "Wasserkraftwerk Piva", hu: "Piva vízerőmű", ro: "Hidrocentrala Piva", en: "Piva Hydroelectric Plant" },
-    coordinates: { lat: 43.1611, lng: 18.8355 },
+    coords: [18.8355, 43.1611],
     description: {
       de: "Dieses Kraftwerk nutzt das Wasser des Piva-Flusses. Es spielt eine Schlüsselrolle in der Energieversorgung.",
       hu: "Ez az erőmű a Piva folyó vizét használja. Kulcsszerepet játszik az energiaellátásban.",
@@ -294,7 +294,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "village",
     parent: "ME",
     name: { de: "Ulcinj Landwirtschaftsgebiet", hu: "Ulcinj mezőgazdasági terület", ro: "Zona agricolă Ulcinj", en: "Ulcinj Agricultural Area" },
-    coordinates: { lat: 41.9167, lng: 19.25 },
+    coords: [19.25, 41.9167],
     description: {
       de: "Region um den Velika Plaza Strand, bekannt für intensiven Gemüseanbau und Olivenhaine.",
       hu: "A Velika Plaza strand környéke, intenzív zöldségtermesztésről és olajfaligetekről ismert.",
@@ -326,7 +326,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "industry",
     parent: "ME",
     name: { de: "Stahlwerk Nikšić", hu: "Nikšići acélgyár", ro: "Uzina siderurgică Nikšić", en: "Nikšić Steel Works" },
-    coordinates: { lat: 42.7756, lng: 18.9555 },
+    coords: [18.9555, 42.7756],
     description: {
       de: "Ein historisches Zentrum der montenegrinischen Schwerindustrie. Produziert Stahl für den Export.",
       hu: "A montenegrói nehézipar történelmi központja. Acélt termel exportra.",
@@ -358,7 +358,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "port",
     parent: "ME",
     name: { de: "Hafen Kumbor", hu: "Kumbor kikötő", ro: "Portul Kumbor", en: "Kumbor Port" },
-    coordinates: { lat: 42.4355, lng: 18.5982 },
+    coords: [18.5982, 42.4355],
     description: {
       de: "Ehemalige Militärbasis, die nun für touristische und wirtschaftliche Zwecke umgenutzt wurde.",
       hu: "Korábbi katonai bázis, amelyet ma turisztikai és gazdasági célokra hasznosítanak.",
@@ -390,7 +390,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "industry",
     parent: "ME",
     name: { de: "Ölterminal Bar", hu: "Bar olajterminál", ro: "Terminalul petrolier Bar", en: "Bar Oil Terminal" },
-    coordinates: { lat: 42.0955, lng: 19.0744 },
+    coords: [19.0744, 42.0955],
     description: {
       de: "Wichtige Anlage zur Lagerung und Verteilung von Erdölprodukten im Hafen Bar.",
       hu: "Fontos létesítmény kőolajtermékek tárolására és elosztására a Bar kikötőben.",
@@ -422,7 +422,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "village",
     parent: "ME",
     name: { de: "Agrarzentrum Bijelo Polje", hu: "Bijelo Polje mezőgazdasági központ", ro: "Centrul agricol Bijelo Polje", en: "Bijelo Polje Agricultural Center" },
-    coordinates: { lat: 43.0333, lng: 19.75 },
+    coords: [19.75, 43.0333],
     description: {
       de: "Zentrum für Viehzucht und Ackerbau im Norden Montenegros.",
       hu: "Állattenyésztési és földművelési központ Montenegró északi részén.",
@@ -454,7 +454,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "port",
     parent: "ME",
     name: { de: "Jachthafen Budva", hu: "Budva jachtkikötő", ro: "Portul de iahturi Budva", en: "Budva Marina" },
-    coordinates: { lat: 42.2785, lng: 18.8355 },
+    coords: [18.8355, 42.2785],
     description: {
       de: "Ein populärer Yachthafen direkt an der Altstadt von Budva. Zentrum des maritimen Tourismus.",
       hu: "Népszerű jachtkikötő Budva óvárosa mellett. A tengeri turizmus központja.",
@@ -486,7 +486,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "industry",
     parent: "ME",
     name: { de: "Flughafen Tivat", hu: "Tivat repülőtér", ro: "Aeroportul Tivat", en: "Tivat Airport" },
-    coordinates: { lat: 42.4044, lng: 18.7255 },
+    coords: [18.7255, 42.4044],
     description: {
       de: "Ein entscheidender Flughafen für den Tourismus an der Küste Montenegros.",
       hu: "Döntő fontosságú repülőtér a montenegrói tengerparti turizmus számára.",
@@ -518,7 +518,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "industry",
     parent: "ME",
     name: { de: "Flughafen Podgorica", hu: "Podgorica repülőtér", ro: "Aeroportul Podgorica", en: "Podgorica Airport" },
-    coordinates: { lat: 42.3655, lng: 19.2482 },
+    coords: [19.2482, 42.3655],
     description: {
       de: "Der internationale Hauptflughafen Montenegros in der Nähe der Hauptstadt.",
       hu: "Montenegró fő nemzetközi repülőtere a főváros közelében.",
@@ -550,7 +550,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "village",
     parent: "ME",
     name: { de: "Region Župa", hu: "Župa régió", ro: "Regiunea Župa", en: "Župa Region" },
-    coordinates: { lat: 42.8244, lng: 19.0482 },
+    coords: [19.0482, 42.8244],
     description: {
       de: "Ein landwirtschaftlich geprägtes Gebiet nördlich von Nikšić, bekannt für Obst und Gemüse.",
       hu: "Mezőgazdasági terület Nikšići-től északra, gyümölcsök és zöldségek terén ismert.",
@@ -582,7 +582,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "village",
     parent: "ME",
     name: { de: "Agrarregion Tuzi", hu: "Tuzi mezőgazdasági régió", ro: "Regiunea agricolă Tuzi", en: "Tuzi Agricultural Region" },
-    coordinates: { lat: 42.3611, lng: 19.3333 },
+    coords: [19.3333, 42.3611],
     description: {
       de: "Tuzi ist ein bedeutendes landwirtschaftliches Zentrum, besonders für Wein- und Obstbau.",
       hu: "Tuzi jelentős mezőgazdasági központ, különösen a bor- és gyümölcstermesztés tekintetében.",
@@ -614,7 +614,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "industry",
     parent: "ME",
     name: { de: "Wasserkraftwerk Glava Zete", hu: "Glava Zete vízerőmű", ro: "Hidrocentrala Glava Zete", en: "Glava Zete Hydroelectric Plant" },
-    coordinates: { lat: 42.5444, lng: 19.0611 },
+    coords: [19.0611, 42.5444],
     description: {
       de: "Kleinwasserkraftwerk am Fluss Zeta, das zur lokalen Stromerzeugung beiträgt.",
       hu: "Kis vízerőmű a Zeta folyón, amely hozzájárul a helyi áramtermeléshez.",
@@ -646,7 +646,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "village",
     parent: "ME",
     name: { de: "Perućica Agrargebiet", hu: "Perućica mezőgazdasági terület", ro: "Zona agricolă Perućica", en: "Perućica Agricultural Area" },
-    coordinates: { lat: 43.2355, lng: 18.7511 },
+    coords: [18.7511, 43.2355],
     description: {
       de: "Bergregion mit Fokus auf Viehwirtschaft und traditionelle Käseherstellung.",
       hu: "Hegyvidéki régió az állattenyésztésre és hagyományos sajtkészítésre összpontosítva.",
@@ -678,7 +678,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "industry",
     parent: "ME",
     name: { de: "Containerterminal Bar", hu: "Bar konténerterminál", ro: "Terminalul de containere Bar", en: "Bar Container Terminal" },
-    coordinates: { lat: 42.0922, lng: 19.0811 },
+    coords: [19.0811, 42.0922],
     description: {
       de: "Der spezialisierte Bereich für den Umschlag von Containern im größten montenegrinischen Hafen.",
       hu: "A konténerek átrakására szakosodott részleg Montenegró legnagyobb kikötőjében.",
@@ -710,7 +710,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "industry",
     parent: "ME",
     name: { de: "Industriezone Cetinje", hu: "Cetinje ipari övezet", ro: "Zona industrială Cetinje", en: "Cetinje Industrial Zone" },
-    coordinates: { lat: 42.3922, lng: 18.9111 },
+    coords: [18.9111, 42.3922],
     description: {
       de: "Zonierung für verschiedene Fertigungsbetriebe nahe der historischen Hauptstadt.",
       hu: "Zónák a különböző gyártóüzemek számára a történelmi főváros közelében.",
@@ -742,7 +742,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "factory",
     parent: "ME",
     name: { de: "Holzverarbeitung Rožaje", hu: "Rožaje faipar", ro: "Industria lemnului Rožaje", en: "Rožaje Wood Processing" },
-    coordinates: { lat: 42.8355, lng: 20.1611 },
+    coords: [20.1611, 42.8355],
     description: {
       de: "Zentrum der Holzverarbeitungsindustrie im waldreichen Norden des Landes.",
       hu: "A faipar központja az ország erdőben gazdag északi részén.",
@@ -774,7 +774,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "village",
     parent: "ME",
     name: { de: "Andrijevica Agrarzentrum", hu: "Andrijevica mezőgazdasági központ", ro: "Centrul agricol Andrijevica", en: "Andrijevica Agricultural Center" },
-    coordinates: { lat: 42.7311, lng: 19.7822 },
+    coords: [19.7822, 42.7311],
     description: {
       de: "Lokales Zentrum für Obstbau und Viehzucht im bergigen Umland.",
       hu: "Helyi központ gyümölcstermesztésre és állattenyésztésre a hegyvidéki környéken.",
@@ -806,7 +806,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "village",
     parent: "ME",
     name: { de: "Šavnik Landwirtschaft", hu: "Šavnik mezőgazdaság", ro: "Agricultura Šavnik", en: "Šavnik Agriculture" },
-    coordinates: { lat: 42.9555, lng: 19.1022 },
+    coords: [19.1022, 42.9555],
     description: {
       de: "Kleines Zentrum für ökologische Landwirtschaft in einer Hochgebirgsregion.",
       hu: "Kis központ az ökológiai mezőgazdaság számára egy magashegyi régióban.",
@@ -838,7 +838,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "town",
     parent: "ME",
     name: { de: "Plužine Tourismuszentrum", hu: "Plužine turisztikai központ", ro: "Centru turistic Plužine", en: "Plužine Tourism Center" },
-    coordinates: { lat: 43.1555, lng: 18.8411 },
+    coords: [18.8411, 43.1555],
     description: {
       de: "Wirtschaftsstandort, der stark auf Abenteuertourismus und die Piva-Region setzt.",
       hu: "Gazdasági helyszín, amely nagymértékben az kalandturizmusra és a Piva-régióra épít.",
@@ -870,7 +870,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "mine",
     parent: "ME",
     name: { de: "Mine Brskovo bei Mojkovac", hu: "Brskovo bánya Mojkovac mellett", ro: "Mina Brskovo lângă Mojkovac", en: "Brskovo Mine near Mojkovac" },
-    coordinates: { lat: 42.9785, lng: 19.5785 },
+    coords: [19.5785, 42.9785],
     description: {
       de: "Historische Stätte für den Abbau von Buntmetallen, heute Standort für Explorationsprojekte.",
       hu: "Történelmi helyszín színesfémbányászathoz, ma feltárási projektek központja.",
@@ -902,7 +902,7 @@ export const montenegroEconomicV2: POI[] = [
     type: "city",
     parent: "ME",
     name: { de: "Handelszentrum Podgorica", hu: "Podgorica kereskedelmi központ", ro: "Centrul comercial Podgorica", en: "Podgorica Commerce Center" },
-    coordinates: { lat: 42.4411, lng: 19.2611 },
+    coords: [19.2611, 42.4411],
     description: {
       de: "Hauptgeschäftsviertel der montenegrinischen Hauptstadt mit vielen Bürokomplexen und Banken.",
       hu: "A montenegrói főváros fő üzleti negyede sok irodaházzal és bankkal.",

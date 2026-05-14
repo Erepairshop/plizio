@@ -6,7 +6,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Villach", hu: "Villach", ro: "Villach", en: "Villach" },
-    coordinates: { lat: 46.6111, lng: 13.8558 },
+    coords: [13.8558, 46.6111],
     description: {
       de: "Villach liegt an der Drau nahe der italienischen Grenze. Sie ist ein wichtiger Bahnknotenpunkt und Zentrum des Kärntner Faschings.",
       hu: "Villach a Dráva partján fekszik az olasz és szlovén határ közelében. Fontos közlekedési csomópont és híres a karneváljáról.",
@@ -38,7 +38,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Wels", hu: "Wels", ro: "Wels", en: "Wels" },
-    coordinates: { lat: 48.1575, lng: 14.0289 },
+    coords: [14.0289, 48.1575],
     description: {
       de: "Wels ist die zweitgrößte Stadt in Oberösterreich und ein bedeutender Messestandort. Die Stadt liegt an der Traun und hat eine römische Vergangenheit.",
       hu: "Wels Felső-Ausztria második legnagyobb városa és jelentős vásárközpont. A Traun folyó partján fekszik, és római kori múltra tekint vissza.",
@@ -70,7 +70,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Dornbirn", hu: "Dornbirn", ro: "Dornbirn", en: "Dornbirn" },
-    coordinates: { lat: 47.4125, lng: 9.7417 },
+    coords: [9.7417, 47.4125],
     description: {
       de: "Dornbirn ist die bevölkerungsreichste Stadt Vorarlbergs. Sie ist ein bedeutendes Wirtschaftszentrum und bekannt für das Rolls-Royce Museum.",
       hu: "Dornbirn Vorarlberg legnépesebb városa. Jelentős gazdasági központ, és a Rolls-Royce múzeumáról is ismert.",
@@ -102,7 +102,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Steyr", hu: "Steyr", ro: "Steyr", en: "Steyr" },
-    coordinates: { lat: 48.0407, lng: 14.4214 },
+    coords: [14.4214, 48.0407],
     description: {
       de: "Steyr liegt am Zusammenfluss von Enns und Steyr. Die Stadt hat einen der am besten erhaltenen Altstadtkerne im deutschsprachigen Raum.",
       hu: "Steyr az Enns és a Steyr folyók találkozásánál fekszik. Óvárosa az egyik legjobb állapotban fennmaradt a német nyelvterületen.",
@@ -134,7 +134,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Feldkirch", hu: "Feldkirch", ro: "Feldkirch", en: "Feldkirch" },
-    coordinates: { lat: 47.2386, lng: 9.5989 },
+    coords: [9.5989, 47.2386],
     description: {
       de: "Feldkirch ist eine mittelalterliche Stadt in Vorarlberg an der Grenze zu Liechtenstein. Die Schattenburg überragt den historischen Stadtkern.",
       hu: "Feldkirch egy középkori város Vorarlbergben, a liechtensteini határnál. A történelmi városmag fölé a Schattenburg vára magasodik.",
@@ -166,7 +166,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Wiener Neustadt", hu: "Bécsújhely", ro: "Wiener Neustadt", en: "Wiener Neustadt" },
-    coordinates: { lat: 47.8153, lng: 16.2464 },
+    coords: [16.2464, 47.8153],
     description: {
       de: "Wiener Neustadt ist eine bedeutende Industriestadt im südlichen Niederösterreich. Sie beherbergt die älteste Militärakademie der Welt.",
       hu: "Bécsújhely jelentős iparváros Alsó-Ausztria déli részén. Itt található a világ legrégebbi katonai akadémiája.",
@@ -198,7 +198,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Baden", hu: "Baden", ro: "Baden bei Wien", en: "Baden bei Wien" },
-    coordinates: { lat: 48.0069, lng: 16.2308 },
+    coords: [16.2308, 48.0069],
     description: {
       de: "Baden bei Wien ist eine weltberühmte Kurstadt südlich von Wien. Die Stadt gehört zum UNESCO-Welterbe der 'Bedeutenden Kurstädte Europas'.",
       hu: "Baden bei Wien világhírű fürdőváros Bécstől délre. A város az UNESCO Világörökség része az 'Európa nagy fürdővárosai' csoport tagjaként.",
@@ -230,7 +230,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Wolfsberg", hu: "Wolfsberg", ro: "Wolfsberg", en: "Wolfsberg" },
-    coordinates: { lat: 46.8394, lng: 14.8455 },
+    coords: [14.8455, 46.8394],
     description: {
       de: "Wolfsberg ist das Zentrum des Kärntner Lavanttals. Die Stadt wird vom neugotischen Schloss Wolfsberg überragt und ist ein Tor zur Koralpe.",
       hu: "Wolfsberg a karintiai Lavanttal központja. A várost a neogótikus Wolfsberg-kastély uralja, és a Koralpe-hegység kapuja.",
@@ -262,7 +262,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Leoben", hu: "Leoben", ro: "Leoben", en: "Leoben" },
-    coordinates: { lat: 47.3803, lng: 15.0944 },
+    coords: [15.0944, 47.3803],
     description: {
       de: "Leoben ist eine bedeutende Industriestadt in der Obersteiermark. Sie ist weltbekannt für ihre Montanuniversität und das Gösser Bier.",
       hu: "Leoben jelentős iparváros Felső-Stájerországban. Világszerte ismert bányászati egyeteméről és a Gösser sörről.",
@@ -294,7 +294,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Krems an der Donau", hu: "Krems an der Donau", ro: "Krems an der Donau", en: "Krems an der Donau" },
-    coordinates: { lat: 48.4111, lng: 15.5989 },
+    coords: [15.5989, 48.4111],
     description: {
       de: "Krems liegt am östlichen Ende der Wachau an der Donau. Die Stadt ist für ihre historische Altstadt und als Zentrum des Weinbaus bekannt.",
       hu: "Krems a Wachau keleti végén, a Duna partján fekszik. Történelmi óvárosáról és a borászat központjaként ismert.",
@@ -326,7 +326,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Traun", hu: "Traun", ro: "Traun", en: "Traun" },
-    coordinates: { lat: 48.2217, lng: 14.2386 },
+    coords: [14.2386, 48.2217],
     description: {
       de: "Traun liegt unmittelbar südwestlich von Linz an der Traun. Die Stadt ist ein bedeutendes Industrie- und Gewerbezentrum im oberösterreichischen Zentralraum.",
       hu: "Traun közvetlenül Linz szomszédságában, a Traun folyó partján fekszik. Jelentős ipari és kereskedelmi központ Felső-Ausztriában.",
@@ -358,7 +358,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Lustenau", hu: "Lustenau", ro: "Lustenau", en: "Lustenau" },
-    coordinates: { lat: 47.4267, lng: 9.6589 },
+    coords: [9.6589, 47.4267],
     description: {
       de: "Lustenau ist eine Marktgemeinde in Vorarlberg direkt am Rhein. Sie ist bekannt für ihre Stickereiindustrie und die unmittelbare Nähe zur Schweiz.",
       hu: "Lustenau mezőváros Vorarlbergben, közvetlenül a Rajna partján. Híres hímzőiparáról és Svájc közvetlen szomszédságáról.",
@@ -390,7 +390,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Kapfenberg", hu: "Kapfenberg", ro: "Kapfenberg", en: "Kapfenberg" },
-    coordinates: { lat: 47.4436, lng: 15.2889 },
+    coords: [15.2889, 47.4436],
     description: {
       de: "Kapfenberg ist eine Industriestadt in der Steiermark. Sie ist Sitz weltweit führender Edelstahlhersteller und wird von der Burg Oberkapfenberg überragt.",
       hu: "Kapfenberg iparváros Stájerországban. Világszinten vezető nemesacél-gyártók székhelye, fölé az Oberkapfenberg vára magasodik.",
@@ -422,7 +422,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Hallein", hu: "Hallein", ro: "Hallein", en: "Hallein" },
-    coordinates: { lat: 47.6833, lng: 13.0953 },
+    coords: [13.0953, 47.6833],
     description: {
       de: "Hallein ist eine historische Kelten- und Salzstadt im Land Salzburg. Sie liegt an der Salzach und ist für das älteste Schaubergwerk der Welt bekannt.",
       hu: "Hallein történelmi kelta és sóváros Salzburg tartományban. A Salzach partján fekszik, és a világ legrégebbi látogatható bányájáról ismert.",
@@ -454,7 +454,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Schwechat", hu: "Schwechat", ro: "Schwechat", en: "Schwechat" },
-    coordinates: { lat: 48.1389, lng: 16.4714 },
+    coords: [16.4714, 48.1389],
     description: {
       de: "Schwechat liegt südöstlich von Wien und ist international bekannt für den Flughafen Wien-Schwechat und die große OMV-Raffinerie.",
       hu: "Schwechat Bécstől délkeletre fekszik, és nemzetközileg a Bécs-Schwechat repülőtérről, valamint a hatalmas OMV finomítóról ismert.",
@@ -486,7 +486,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Braunau am Inn", hu: "Braunau am Inn", ro: "Braunau am Inn", en: "Braunau am Inn" },
-    coordinates: { lat: 48.2583, lng: 13.0347 },
+    coords: [13.0347, 48.2583],
     description: {
       de: "Braunau am Inn ist eine historische Stadt in Oberösterreich an der deutschen Grenze. Sie ist bekannt für ihre gotische Architektur und den markanten Stadtturm.",
       hu: "Braunau am Inn történelmi város Felső-Ausztriában, a német határnál. Gótikus építészetéről és jellegzetes várostornyáról ismert.",
@@ -518,7 +518,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Saalfelden", hu: "Saalfelden", ro: "Saalfelden", en: "Saalfelden" },
-    coordinates: { lat: 47.4269, lng: 12.8481 },
+    coords: [12.8481, 47.4269],
     description: {
       de: "Saalfelden am Steinernen Meer ist ein kulturelles Zentrum im Pinzgau. Die Stadt ist weltbekannt für ihr internationales Jazzfestival und die alpine Landschaft.",
       hu: "Saalfelden am Steinernen Meer a Pinzgau régió kulturális központja. A város nemzetközi jazzfesztiváljáról és alpesi tájáról ismert.",
@@ -550,7 +550,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Stockerau", hu: "Stockerau", ro: "Stockerau", en: "Stockerau" },
-    coordinates: { lat: 48.3853, lng: 16.2125 },
+    coords: [16.2125, 48.3853],
     description: {
       de: "Stockerau ist die größte Stadt des Weinviertels. Sie ist als 'Lenaustadt' bekannt und liegt am Nordrand der Donau-Auen.",
       hu: "Stockerau a Weinviertel legnagyobb városa. 'Lenaustadt' néven is ismert, és a Duna-ártér északi szélén fekszik.",
@@ -582,7 +582,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Ansfelden", hu: "Ansfelden", ro: "Ansfelden", en: "Ansfelden" },
-    coordinates: { lat: 48.2086, lng: 14.2889 },
+    coords: [14.2889, 48.2086],
     description: {
       de: "Ansfelden ist eine Stadt in Oberösterreich südlich von Linz. Sie ist als Geburtsort des Komponisten Anton Bruckner bekannt.",
       hu: "Ansfelden város Felső-Ausztriában, Linztől délre. Anton Bruckner zeneszerző szülőhelyeként ismert.",
@@ -614,7 +614,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Hohenems", hu: "Hohenems", ro: "Hohenems", en: "Hohenems" },
-    coordinates: { lat: 47.3619, lng: 9.6881 },
+    coords: [9.6881, 47.3619],
     description: {
       de: "Hohenems ist eine Stadt in Vorarlberg mit einer reichen Geschichte als jüdisches Zentrum. Der Renaissance-Palast der Grafen von Hohenems prägt das Zentrum.",
       hu: "Hohenems város Vorarlbergben, jelentős zsidó történelmi múlttal. A központot a Hohenems grófok reneszánsz palotája határozza meg.",
@@ -646,7 +646,7 @@ export const austriaCitiesV2: POI[] = [
     type: "town",
     parent: "AT",
     name: { de: "Perchtoldsdorf", hu: "Perchtoldsdorf", ro: "Perchtoldsdorf", en: "Perchtoldsdorf" },
-    coordinates: { lat: 48.1189, lng: 16.2658 },
+    coords: [16.2658, 48.1189],
     description: {
       de: "Perchtoldsdorf ist eine Marktgemeinde am Rande des Wienerwaldes. Sie ist berühmt für ihren Weinbau, die Heurigenkultur und den markanten Wehrturm.",
       hu: "Perchtoldsdorf mezőváros a Wienerwald szélén. Híres borászatáról, Heuriger-kultúrájáról és jellegzetes őrtornyáról.",
@@ -678,7 +678,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Ternitz", hu: "Ternitz", ro: "Ternitz", en: "Ternitz" },
-    coordinates: { lat: 47.7122, lng: 16.0358 },
+    coords: [16.0358, 47.7122],
     description: {
       de: "Ternitz ist eine Industriestadt im niederösterreichischen Schwarzatal. Sie ist historisch eng mit der Stahlverarbeitung und der Firma Schoeller-Bleckmann verbunden.",
       hu: "Ternitz iparváros az alsó-ausztriai Schwarzatal völgyben. Történelmileg szorosan kötődik az acélfeldolgozáshoz és a Schoeller-Bleckmann céghez.",
@@ -710,7 +710,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Feldkirchen in Kärnten", hu: "Feldkirchen in Kärnten", ro: "Feldkirchen in Kärnten", en: "Feldkirchen in Kärnten" },
-    coordinates: { lat: 46.7214, lng: 14.0911 },
+    coords: [14.0911, 46.7214],
     description: {
       de: "Feldkirchen ist eine Stadt in Mittelkärnten am Fuße der Ossiacher Tauern. Sie ist ein traditioneller Marktort und ein Tor zu den Kärntner Seen.",
       hu: "Feldkirchen közép-karintiai város az Ossiacher Tauern lábánál. Hagyományos mezőváros és kapu a karintiai tavakhoz.",
@@ -742,7 +742,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Bludenz", hu: "Bludenz", ro: "Bludenz", en: "Bludenz" },
-    coordinates: { lat: 47.1539, lng: 9.8219 },
+    coords: [9.8219, 47.1539],
     description: {
       de: "Bludenz ist eine Bergstadt in Vorarlberg am Knotenpunkt von fünf Tälern. Sie ist weltbekannt für die Herstellung von Milka-Schokolade.",
       hu: "Bludenz hegyi város Vorarlbergben, öt völgy találkozásánál. Világszerte a Milka csokoládé gyártásáról ismert.",
@@ -774,7 +774,7 @@ export const austriaCitiesV2: POI[] = [
     type: "town",
     parent: "AT",
     name: { de: "Bad Ischl", hu: "Bad Ischl", ro: "Bad Ischl", en: "Bad Ischl" },
-    coordinates: { lat: 47.7111, lng: 13.6219 },
+    coords: [13.6219, 47.7111],
     description: {
       de: "Bad Ischl ist eine traditionsreiche Kurstadt im Salzkammergut. Sie war die langjährige Sommerresidenz von Kaiser Franz Joseph I. und Kaiserin Sisi.",
       hu: "Bad Ischl nagy múltú fürdőváros a Salzkammergut régióban. I. Ferenc József császár és Sisi császárné kedvelt nyári rezidenciája volt.",
@@ -806,7 +806,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Schwaz", hu: "Schwaz", ro: "Schwaz", en: "Schwaz" },
-    coordinates: { lat: 47.3486, lng: 11.7089 },
+    coords: [11.7089, 47.3486],
     description: {
       de: "Schwaz ist eine historische Silberstadt in Tirol. Im 15. und 16. Jahrhundert war sie nach Wien die zweitgrößte Stadt des Habsburgerreichs.",
       hu: "Schwaz történelmi ezüstváros Tirolban. A 15. és 16. században Bécs után a Habsburg Birodalom második legnagyobb városa volt.",
@@ -838,7 +838,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Hall in Tirol", hu: "Hall in Tirol", ro: "Hall in Tirol", en: "Hall in Tirol" },
-    coordinates: { lat: 47.2817, lng: 11.5069 },
+    coords: [11.5069, 47.2817],
     description: {
       de: "Hall in Tirol ist eine mittelalterliche Stadt nahe Innsbruck. Sie war über Jahrhunderte ein Zentrum der Salzgewinnung und Münzprägung.",
       hu: "Hall in Tirol középkori város Innsbruck közelében. Évszázadokon át a sótermelés és a pénzverés központja volt.",
@@ -870,7 +870,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Kufstein", hu: "Kufstein", ro: "Kufstein", en: "Kufstein" },
-    coordinates: { lat: 47.5833, lng: 12.1667 },
+    coords: [12.1667, 47.5833],
     description: {
       de: "Kufstein ist eine Grenzstadt in Tirol am Inn. Sie wird von der mächtigen Festung Kufstein überragt und ist als 'Perle Tirols' besungen.",
       hu: "Kufstein határváros Tirolban, az Inn folyó partján. A hatalmas Kufstein-erőd uralja, és a 'Tirol gyöngyeként' emlegetik.",
@@ -903,7 +903,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Voitsberg", hu: "Voitsberg", ro: "Voitsberg", en: "Voitsberg" },
-    coordinates: { lat: 47.0503, lng: 15.1506 },
+    coords: [15.1506, 47.0503],
     description: {
       de: "Voitsberg ist eine Stadt in der Steiermark mit mittelalterlichem Kern. Sie liegt am Fuße der Stubalpe und dient als regionales Verwaltungszentrum.",
       hu: "Voitsberg egy város Stájerországban, középkori központtal. A Stubalpe lábánál fekszik, és regionális közigazgatási központként szolgál.",
@@ -935,7 +935,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Waidhofen an der Thaya", hu: "Waidhofen an der Thaya", ro: "Waidhofen an der Thaya", en: "Waidhofen an der Thaya" },
-    coordinates: { lat: 48.8189, lng: 15.2811 },
+    coords: [15.2811, 48.8189],
     description: {
       de: "Waidhofen an der Thaya ist eine Stadt im nördlichen Waldviertel, Niederösterreich. Der Ort liegt direkt an der Thaya und ist als Bezirksstadt bekannt.",
       hu: "Waidhofen an der Thaya egy város az északi Waldviertel régióban, Alsó-Ausztriában. A település a Thaya folyó mellett fekszik, és járási székhely.",
@@ -967,7 +967,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Judenburg", hu: "Judenburg", ro: "Judenburg", en: "Judenburg" },
-    coordinates: { lat: 47.1667, lng: 14.6567 },
+    coords: [14.6567, 47.1667],
     description: {
       de: "Judenburg ist eine Stadt in der Steiermark im Aichfeld. Bekannt ist sie durch ihren Stadtturm, der einen weiten Blick über das Mur-Tal ermöglicht.",
       hu: "Judenburg egy város Stájerországban, az Aichfeld-medencében. Ismert a városi tornyáról, amely széles körpanorámát nyújt a Mura-völgyre.",
@@ -999,7 +999,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Vöcklabruck", hu: "Vöcklabruck", ro: "Vöcklabruck", en: "Vöcklabruck" },
-    coordinates: { lat: 48.0083, lng: 13.655 },
+    coords: [13.655, 48.0083],
     description: {
       de: "Vöcklabruck ist die Bezirkshauptstadt im Hausruckviertel, Oberösterreich. Die Stadt liegt am Zusammenfluss der Vöckla und der Ager.",
       hu: "Vöcklabruck járási székhely a Hausruckviertel régióban, Felső-Ausztriában. A város a Vöckla és az Ager folyók összefolyásánál fekszik.",
@@ -1031,7 +1031,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Freistadt", hu: "Freistadt", ro: "Freistadt", en: "Freistadt" },
-    coordinates: { lat: 48.51, lng: 14.505 },
+    coords: [14.505, 48.51],
     description: {
       de: "Freistadt liegt im Mühlviertel, Oberösterreich, nahe der tschechischen Grenze. Die Stadt ist für ihre vollständig erhaltene mittelalterliche Stadtmauer bekannt.",
       hu: "Freistadt a Mühlviertel régióban, Felső-Ausztriában fekszik, közel a cseh határhoz. A város a teljes épségben megmaradt középkori városfaláról ismert.",
@@ -1063,7 +1063,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Zeltweg", hu: "Zeltweg", ro: "Zeltweg", en: "Zeltweg" },
-    coordinates: { lat: 47.1953, lng: 14.7461 },
+    coords: [14.7461, 47.1953],
     description: {
       de: "Zeltweg ist eine Stadt im Aichfeld, Steiermark. Bekannt ist sie vor allem durch den nahegelegenen Red Bull Ring für Motorsportveranstaltungen.",
       hu: "Zeltweg egy város az Aichfeld-medencében, Stájerországban. Főként a közeli Red Bull Ring motorsportversenypályáról ismert.",
@@ -1095,7 +1095,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Liezen", hu: "Liezen", ro: "Liezen", en: "Liezen" },
-    coordinates: { lat: 47.5756, lng: 14.2403 },
+    coords: [14.2403, 47.5756],
     description: {
       de: "Liezen ist eine Bezirkshauptstadt in der Obersteiermark im Ennstal. Sie dient als wirtschaftliches Zentrum für das umliegende Gebirgsgebiet.",
       hu: "Liezen egy járási székhely Felső-Stájerországban, az Enns-völgyben. Gazdasági központként szolgál a környező hegyvidéki terület számára.",
@@ -1127,7 +1127,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Mistelbach", hu: "Mistelbach", ro: "Mistelbach", en: "Mistelbach" },
-    coordinates: { lat: 48.5678, lng: 16.5744 },
+    coords: [16.5744, 48.5678],
     description: {
       de: "Mistelbach ist eine Stadt im Weinviertel, Niederösterreich. Sie ist bekannt als kulturelles und schulische Zentrum der Region.",
       hu: "Mistelbach egy város a Weinviertel régióban, Alsó-Ausztriában. A régió kulturális és oktatási központjaként ismert.",
@@ -1159,7 +1159,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Bruck an der Mur", hu: "Bruck an der Mur", ro: "Bruck an der Mur", en: "Bruck an der Mur" },
-    coordinates: { lat: 47.4064, lng: 15.2753 },
+    coords: [15.2753, 47.4064],
     description: {
       de: "Bruck an der Mur liegt in der Steiermark am Zusammenfluss von Mur und Mürz. Die Stadt hat einen historischen Stadtkern und bedeutende Industriegeschichte.",
       hu: "Bruck an der Mur Stájerországban fekszik, a Mura és a Mürz folyók összefolyásánál. A város történelmi központtal és jelentős ipari múlttal rendelkezik.",
@@ -1191,7 +1191,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Landeck", hu: "Landeck", ro: "Landeck", en: "Landeck" },
-    coordinates: { lat: 47.1356, lng: 10.5647 },
+    coords: [10.5647, 47.1356],
     description: {
       de: "Landeck ist eine Stadt in Tirol im Inntal. Sie fungiert als wichtiger Verkehrsknotenpunkt und Bezirksstadt an der Arlberg-Route.",
       hu: "Landeck egy város Tirolban, az Inn-völgyben. Fontos közlekedési csomópontként és járási székhelyként funkcionál az Arlberg-útvonal mentén.",
@@ -1223,7 +1223,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Weiz", hu: "Weiz", ro: "Weiz", en: "Weiz" },
-    coordinates: { lat: 47.2208, lng: 15.6203 },
+    coords: [15.6203, 47.2208],
     description: {
       de: "Weiz ist eine Stadt in der Steiermark, nahe Graz. Sie ist ein bekanntes Industriezentrum, insbesondere im Bereich der Energietechnik.",
       hu: "Weiz egy város Stájerországban, Graz közelében. Ismert ipari központ, különösen az energetikai technológiák terén.",
@@ -1255,7 +1255,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Imst", hu: "Imst", ro: "Imst", en: "Imst" },
-    coordinates: { lat: 47.2344, lng: 10.7417 },
+    coords: [10.7417, 47.2344],
     description: {
       de: "Imst liegt in Tirol im Inntal. Die Stadt ist bekannt als Ausgangspunkt für Outdoor-Sportarten und für ihre traditionelle Fasnacht.",
       hu: "Imst Tirolban, az Inn-völgyben fekszik. A város ismert az outdoor sportok kiindulópontjaként és a hagyományos farsangi karneváljáról.",
@@ -1287,7 +1287,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Hartberg", hu: "Hartberg", ro: "Hartberg", en: "Hartberg" },
-    coordinates: { lat: 47.28, lng: 15.9686 },
+    coords: [15.9686, 47.28],
     description: {
       de: "Hartberg ist eine Stadt in der Oststeiermark. Sie besitzt eine gut erhaltene historische Altstadt und ist ein regionales Zentrum.",
       hu: "Hartberg egy város Kelet-Stájerországban. Jól megőrzött történelmi óvárossal rendelkezik, és regionális központ.",
@@ -1319,7 +1319,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Bad Vöslau", hu: "Bad Vöslau", ro: "Bad Vöslau", en: "Bad Vöslau" },
-    coordinates: { lat: 47.9658, lng: 16.2197 },
+    coords: [16.2197, 47.9658],
     description: {
       de: "Bad Vöslau ist eine Stadt in Niederösterreich, südlich von Wien. Bekannt ist sie als Kurort und für ihre Mineralwasserquelle.",
       hu: "Bad Vöslau egy város Alsó-Ausztriában, Bécstől délre. Ismert fürdőhelyként és az ásványvízforrásáról.",
@@ -1351,7 +1351,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Brunn am Gebirge", hu: "Brunn am Gebirge", ro: "Brunn am Gebirge", en: "Brunn am Gebirge" },
-    coordinates: { lat: 48.1006, lng: 16.2894 },
+    coords: [16.2894, 48.1006],
     description: {
       de: "Brunn am Gebirge ist eine Marktgemeinde in Niederösterreich. Sie liegt direkt an der südlichen Stadtgrenze von Wien.",
       hu: "Brunn am Gebirge egy mezőváros Alsó-Ausztriában. Közvetlenül Bécs déli határánál fekszik.",
@@ -1383,7 +1383,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Leonding", hu: "Leonding", ro: "Leonding", en: "Leonding" },
-    coordinates: { lat: 48.2833, lng: 14.25 },
+    coords: [14.25, 48.2833],
     description: {
       de: "Leonding ist eine Stadt bei Linz in Oberösterreich. Sie fungiert als wichtige Wohnstadt im direkten Einzugsgebiet der Landeshauptstadt.",
       hu: "Leonding egy város Linz közelében, Felső-Ausztriában. Fontos lakóvárosként funkcionál a tartományi főváros közvetlen vonzáskörzetében.",
@@ -1415,7 +1415,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Gänserndorf", hu: "Gänserndorf", ro: "Gänserndorf", en: "Gänserndorf" },
-    coordinates: { lat: 48.3361, lng: 16.7164 },
+    coords: [16.7164, 48.3361],
     description: {
       de: "Gänserndorf ist eine Stadt in Niederösterreich, nordöstlich von Wien. Sie ist eine wichtige Pendlerstadt im Marchfeld.",
       hu: "Gänserndorf egy város Alsó-Ausztriában, Bécstől északkeletre. Fontos ingázóváros a Marchfeld régióban.",
@@ -1447,7 +1447,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Tulln an der Donau", hu: "Tulln an der Donau", ro: "Tulln an der Donau", en: "Tulln an der Donau" },
-    coordinates: { lat: 48.3306, lng: 16.0522 },
+    coords: [16.0522, 48.3306],
     description: {
       de: "Tulln ist eine Stadt in Niederösterreich an der Donau. Sie ist bekannt als Gartenstadt und durch ihre historische Bedeutung.",
       hu: "Tulln egy város Alsó-Ausztriában, a Duna mentén. Kertvárosként ismert, és történelmi jelentősége is jelentős.",
@@ -1479,7 +1479,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "St. Veit an der Glan", hu: "St. Veit an der Glan", ro: "St. Veit an der Glan", en: "St. Veit an der Glan" },
-    coordinates: { lat: 46.7686, lng: 14.3619 },
+    coords: [14.3619, 46.7686],
     description: {
       de: "St. Veit an der Glan ist eine historische Stadt in Kärnten. Sie war einst die Hauptstadt des Landes und besitzt eine mittelalterliche Struktur.",
       hu: "St. Veit an der Glan egy történelmi város Karintiában. Egykor az ország fővárosa volt, és középkori szerkezettel rendelkezik.",
@@ -1511,7 +1511,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Hermagor-Pressegger See", hu: "Hermagor-Pressegger See", ro: "Hermagor-Pressegger See", en: "Hermagor-Pressegger See" },
-    coordinates: { lat: 46.6267, lng: 13.3644 },
+    coords: [13.3644, 46.6267],
     description: {
       de: "Hermagor ist die Bezirkshauptstadt im Gailtal, Kärnten. Die Region ist bekannt für den nahegelegenen Pressegger See.",
       hu: "Hermagor járási székhely a Gail-völgyben, Karintiában. A régió a közeli Pressegger See tóról ismert.",
@@ -1543,7 +1543,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Fehring", hu: "Fehring", ro: "Fehring", en: "Fehring" },
-    coordinates: { lat: 46.9456, lng: 16.0125 },
+    coords: [16.0125, 46.9456],
     description: {
       de: "Fehring ist eine Stadt in der Südoststeiermark. Sie liegt im Raabtal und ist als landwirtschaftliches Zentrum bekannt.",
       hu: "Fehring egy város Délkelet-Stájerországban. A Raab-völgyben fekszik, és mezőgazdasági központként ismert.",
@@ -1575,7 +1575,7 @@ export const austriaCitiesV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Gleisdorf", hu: "Gleisdorf", ro: "Gleisdorf", en: "Gleisdorf" },
-    coordinates: { lat: 47.1008, lng: 15.7056 },
+    coords: [15.7056, 47.1008],
     description: {
       de: "Gleisdorf ist eine Stadt in der Steiermark, bekannt für ihre Vorreiterrolle im Bereich Solarenergie. Sie liegt im Raabtal.",
       hu: "Gleisdorf Stájerországban található város, ismert a napenergia területén játszott úttörő szerepéről. A Raab-völgyben fekszik.",

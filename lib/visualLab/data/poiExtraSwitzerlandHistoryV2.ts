@@ -6,7 +6,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Laufen", hu: "Laufen-kastély", ro: "Castelul Laufen", en: "Laufen Castle" },
-    coordinates: { lat: 47.6775, lng: 8.6147 },
+    coords: [8.6147, 47.6775],
     description: {
       de: "Diese mittelalterliche Burg thront direkt über dem Rheinfall bei Neuhausen am Rheinfall. Die erste urkundliche Erwähnung stammt aus dem Jahr 858.",
       hu: "Ez a középkori vár közvetlenül a rajnai vízesés felett áll Neuhausen am Rheinfall mellett. Az első írásos említése 858-ból származik.",
@@ -38,7 +38,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Burg Habsburg", hu: "Habsburg-vár", ro: "Castelul Habsburg", en: "Habsburg Castle" },
-    coordinates: { lat: 47.4439, lng: 8.1714 },
+    coords: [8.1714, 47.4439],
     description: {
       de: "Die Stammburg des Hauses Habsburg liegt im Kanton Aargau auf dem Wülpelsberg. Sie wurde um das Jahr 1020 durch Radbot von Klettgau erbaut.",
       hu: "A Habsburg-ház ősi vára Aargau kantonban, a Wülpelsberg hegyen áll. Radbot von Klettgau építtette 1020 körül.",
@@ -70,7 +70,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "church",
     parent: "CH",
     name: { de: "Basilika Valère", hu: "Valère-bazilika", ro: "Bazilica Valère", en: "Valère Basilica" },
-    coordinates: { lat: 46.2339, lng: 7.3622 },
+    coords: [7.3622, 46.2339],
     description: {
       de: "Die befestigte Kirche thront auf einem Hügel über der Stadt Sitten (Sion) im Wallis. Der Bau geht bis ins 12. Jahrhundert zurück.",
       hu: "Ez az erődített templom egy dombon áll Sitten (Sion) városa felett Wallisban. Az épület a 12. századig nyúlik vissza.",
@@ -102,7 +102,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Grandson", hu: "Granson-vár", ro: "Castelul Grandson", en: "Grandson Castle" },
-    coordinates: { lat: 46.7766, lng: 6.6433 },
+    coords: [6.6433, 46.7766],
     description: {
       de: "Das Schloss liegt am Neuenburgersee und war Schauplatz der Schlacht bei Grandson 1476. Die Anlage stammt ursprünglich aus dem 11. Jahrhundert.",
       hu: "A kastély a Neuchâtel-tónál fekszik, és az 1476-os gransoni csata színhelye volt. A komplexum eredetileg a 11. századból származik.",
@@ -134,7 +134,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Rapperswil", hu: "Rapperswil-kastély", ro: "Castelul Rapperswil", en: "Rapperswil Castle" },
-    coordinates: { lat: 47.2255, lng: 8.8175 },
+    coords: [8.8175, 47.2255],
     description: {
       de: "Die Burg auf einer Landzunge im Zürichsee wurde um 1220 von den Grafen von Rapperswil erbaut. Sie dient heute als Sitz des Polnischen Museums.",
       hu: "A Zürichi-tóba nyúló földnyelven álló várat 1220 körül építették a rapperswili grófok. Ma a Lengyel Múzeumnak ad otthont.",
@@ -166,7 +166,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Chillon (extern)", hu: "Chillon-kastély (kiegészítő)", ro: "Castelul Chillon (suplimentar)", en: "Chillon Castle (annex)" },
-    coordinates: { lat: 46.4136, lng: 6.9299 },
+    coords: [6.9299, 46.4136],
     description: {
       de: "Die Wasserburg am Genfersee war über Jahrhunderte ein strategischer Stützpunkt. Sie diente als Gefängnis für den Genfer Freiheitskämpfer Bonivard.",
       hu: "A Genfi-tó melletti vízi vár évszázadokon át stratégiai támaszpont volt. Bonivard genfi szabadságharcos börtöneként szolgált.",
@@ -198,7 +198,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "palace",
     parent: "CH",
     name: { de: "Stockalperpalast", hu: "Stockalper-palota", ro: "Palatul Stockalper", en: "Stockalper Palace" },
-    coordinates: { lat: 46.3142, lng: 8.0028 },
+    coords: [8.0028, 46.3142],
     description: {
       de: "Dieser Palast in Brig wurde im 17. Jahrhundert von Kaspar Stockalper erbaut. Er gilt als einer der bedeutendsten Barockbauten der Schweiz.",
       hu: "Ezt a brigi palotát a 17. században építtette Kaspar Stockalper. Svájc egyik legjelentősebb barokk építményének tartják.",
@@ -230,7 +230,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Stadtbefestigung Murten", hu: "Murten városfalai", ro: "Fortificațiile orașului Murten", en: "Murten City Walls" },
-    coordinates: { lat: 46.9272, lng: 7.1156 },
+    coords: [7.1156, 46.9272],
     description: {
       de: "Die begehbaren mittelalterlichen Stadtmauern in Murten sind fast vollständig erhalten. Sie stammen größtenteils aus dem 13. und 14. Jahrhundert.",
       hu: "A Murtenben található, bejárható középkori városfalak szinte teljesen épek. Többségében a 13. és 14. századból származnak.",
@@ -262,7 +262,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Römische Stätte Augusta Raurica II", hu: "Augusta Raurica II római lelőhely", ro: "Sit roman Augusta Raurica II", en: "Augusta Raurica Roman Site II" },
-    coordinates: { lat: 47.5333, lng: 7.7222 },
+    coords: [7.7222, 47.5333],
     description: {
       de: "Die archäologische Stätte nahe Basel enthält zahlreiche römische Ruinen, darunter ein großes Theater. Die Siedlung entstand etwa im Jahr 44 v. Chr.",
       hu: "A Bázelihez közeli régészeti lelőhely számos római romot tartalmaz, köztük egy nagy színházat. A település i.e. 44 körül jött létre.",
@@ -294,7 +294,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Thun", hu: "Thuni vár", ro: "Castelul Thun", en: "Thun Castle" },
-    coordinates: { lat: 46.7578, lng: 7.6292 },
+    coords: [7.6292, 46.7578],
     description: {
       de: "Das Schloss aus dem 12. Jahrhundert dominiert das Stadtbild von Thun. Die markanten Ecktürme wurden im 15. Jahrhundert hinzugefügt.",
       hu: "A 12. századi vár uralja Thun városképét. A jellegzetes saroktornyokat a 15. században adták hozzá.",
@@ -326,7 +326,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Stadtbefestigung Greyerz", hu: "Greyerz városfalai", ro: "Fortificațiile orașului Gruyères", en: "Gruyères City Walls" },
-    coordinates: { lat: 46.5819, lng: 7.0828 },
+    coords: [7.0828, 46.5819],
     description: {
       de: "Das mittelalterliche Städtchen Greyerz ist von einer gut erhaltenen Stadtmauer umgeben. Der Ort diente als Residenz der Grafen von Greyerz.",
       hu: "A középkori kisváros, Greyerz, jól megőrzött városfallal van körülvéve. A település a greyerzi grófok székhelyeként szolgált.",
@@ -358,7 +358,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Castelgrande Innenhof", hu: "Castelgrande udvar", ro: "Curtea interioară Castelgrande", en: "Castelgrande Courtyard" },
-    coordinates: { lat: 46.1914, lng: 9.025 },
+    coords: [9.025, 46.1914],
     description: {
       de: "Dieser Teil der Festung von Bellinzona bietet Einblicke in die mittelalterliche Wehrarchitektur. Die Anlage gehört zum UNESCO-Welterbe.",
       hu: "A bellinzonai erőd ezen része betekintést nyújt a középkori védelmi építészetbe. A komplexum az UNESCO világörökség része.",
@@ -390,7 +390,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Nidau", hu: "Nidau várromok", ro: "Ruinele castelului Nidau", en: "Nidau Castle Ruins" },
-    coordinates: { lat: 47.1264, lng: 7.2344 },
+    coords: [7.2344, 47.1264],
     description: {
       de: "Die Überreste der Burg am Bielersee stammen aus dem frühen 14. Jahrhundert. Sie war einst Sitz der Grafen von Nidau.",
       hu: "A Bieli-tó melletti vár maradványai a 14. század elejéről származnak. Egykor a Nidau grófok székhelye volt.",
@@ -422,7 +422,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Frauenfeld", hu: "Frauenfeldi kastély", ro: "Castelul Frauenfeld", en: "Frauenfeld Castle" },
-    coordinates: { lat: 47.5564, lng: 8.8972 },
+    coords: [8.8972, 47.5564],
     description: {
       de: "Das Schloss aus dem 13. Jahrhundert beherbergt heute das Historische Museum des Kantons Thurgau. Der Wohnturm ist sehr gut erhalten.",
       hu: "A 13. századi kastély ma a Thurgau kanton Történeti Múzeumának ad otthont. A lakótorony nagyon jó állapotban maradt fenn.",
@@ -454,7 +454,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burg Werdegg", hu: "Werdegg-vár", ro: "Castelul Werdegg", en: "Werdegg Castle" },
-    coordinates: { lat: 47.4128, lng: 8.4411 },
+    coords: [8.4411, 47.4128],
     description: {
       de: "Die Burgruine steht auf einem Felsvorsprung über der Limmat. Sie bietet einen Einblick in den Burgenbau des späten Mittelalters.",
       hu: "A várrom a Limmat folyó feletti sziklás kiszögellésen áll. Betekintést nyújt a késő középkori várépítészetbe.",
@@ -486,7 +486,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Kyburg", hu: "Kyburg-kastély", ro: "Castelul Kyburg", en: "Kyburg Castle" },
-    coordinates: { lat: 47.4664, lng: 8.7478 },
+    coords: [8.7478, 47.4664],
     description: {
       de: "Die mächtige Burg über der Töss ist eine der größten mittelalterlichen Schlossanlagen der Ostschweiz. Sie geht auf das 11. Jahrhundert zurück.",
       hu: "A Töss folyó feletti hatalmas vár Kelet-Svájc egyik legnagyobb középkori kastélyegyüttese. A 11. századig nyúlik vissza.",
@@ -518,7 +518,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Hallwyl", hu: "Hallwyl-kastély", ro: "Castelul Hallwyl", en: "Hallwyl Castle" },
-    coordinates: { lat: 47.3308, lng: 8.1961 },
+    coords: [8.1961, 47.3308],
     description: {
       de: "Das Wasserschloss liegt am Abfluss des Hallwilersees. Es wurde im 11. Jahrhundert von den Herren von Hallwyl erbaut.",
       hu: "A vízi vár a Hallwilersee kifolyásánál fekszik. A 11. században építtették a Hallwyl urak.",
@@ -550,7 +550,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "tower",
     parent: "CH",
     name: { de: "Habsburger Turm", hu: "Habsburg-torony", ro: "Turnul Habsburg", en: "Habsburg Tower" },
-    coordinates: { lat: 47.4442, lng: 8.1722 },
+    coords: [8.1722, 47.4442],
     description: {
       de: "Dieser Turm ist Teil der mittelalterlichen Burg Habsburg. Er ist eines der ältesten erhaltenen Gebäude dieser Art in der Schweiz.",
       hu: "Ez a torony a középkori Habsburg-vár része. Svájc egyik legrégebbi fennmaradt épülete ebben a kategóriában.",
@@ -582,7 +582,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Lenzburg", hu: "Lenzburgi vár", ro: "Castelul Lenzburg", en: "Lenzburg Castle" },
-    coordinates: { lat: 47.3878, lng: 8.1811 },
+    coords: [8.1811, 47.3878],
     description: {
       de: "Die Höhenburg oberhalb von Lenzburg ist eine der bedeutendsten Burgen der Schweiz. Ihr Ursprung geht auf das 11. Jahrhundert zurück.",
       hu: "A Lenzburg feletti magaslati vár Svájc egyik legjelentősebb vára. Eredete a 11. századra nyúlik vissza.",
@@ -614,7 +614,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Neuenburg", hu: "Neuchâtel-vár", ro: "Castelul Neuchâtel", en: "Neuchâtel Castle" },
-    coordinates: { lat: 46.9919, lng: 6.9292 },
+    coords: [6.9292, 46.9919],
     description: {
       de: "Das Schloss überblickt den Neuenburgersee und war Sitz der lokalen Grafen. Der Kernbau stammt aus dem 10. Jahrhundert.",
       hu: "A kastély a Neuenburgersee-re néz, és a helyi grófok székhelye volt. A magépület a 10. századból származik.",
@@ -646,7 +646,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Valangin", hu: "Valangin-kastély", ro: "Castelul Valangin", en: "Valangin Castle" },
-    coordinates: { lat: 47.0167, lng: 6.9083 },
+    coords: [6.9083, 47.0167],
     description: {
       de: "Diese befestigte Anlage liegt nahe Neuenburg. Die Burg war das Zentrum der Herrschaft Valangin seit dem 12. Jahrhundert.",
       hu: "Ez az erődített létesítmény Neuenburg közelében fekszik. A vár a 12. századtól kezdve a Valangin-uradalom központja volt.",
@@ -678,7 +678,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Stadtbefestigung St. Ursanne", hu: "St. Ursanne városfalai", ro: "Fortificațiile orașului St. Ursanne", en: "St. Ursanne City Walls" },
-    coordinates: { lat: 47.3653, lng: 7.1569 },
+    coords: [7.1569, 47.3653],
     description: {
       de: "Die mittelalterlichen Befestigungen des kleinen Städtchens am Doubs sind bedeutende Baudenkmäler des Jura-Kantons.",
       hu: "A Doubs folyó melletti kisváros középkori erődítményei a Jura kanton jelentős műemlékei.",
@@ -710,7 +710,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Porrentruy", hu: "Porrentruy-kastély", ro: "Castelul Porrentruy", en: "Porrentruy Castle" },
-    coordinates: { lat: 47.4172, lng: 7.0736 },
+    coords: [7.0736, 47.4172],
     description: {
       de: "Die Burg über dem Städtchen Porrentruy war lange Zeit Residenz der Bischöfe von Basel. Der Turm 'Tour Réfous' ist besonders bekannt.",
       hu: "A Porrentruy kisváros feletti vár hosszú ideig a bázeli püspökök rezidenciája volt. A 'Tour Réfous' torony különösen ismert.",
@@ -742,7 +742,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Stadtbefestigung Delsberg", hu: "Delsberg városfalai", ro: "Fortificațiile orașului Delsberg", en: "Delsberg City Walls" },
-    coordinates: { lat: 47.3628, lng: 7.3556 },
+    coords: [7.3556, 47.3628],
     description: {
       de: "Die Reste der Befestigung von Delsberg zeugen von der strategischen Bedeutung des Hauptorts des Kantons Jura im Mittelalter.",
       hu: "A Delsberg-i erőd maradványai a Jura kanton fővárosának középkori stratégiai jelentőségéről tanúskodnak.",
@@ -774,7 +774,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Sargans", hu: "Sargans-kastély", ro: "Castelul Sargans", en: "Sargans Castle" },
-    coordinates: { lat: 47.0506, lng: 9.4447 },
+    coords: [9.4447, 47.0506],
     description: {
       de: "Die Höhenburg oberhalb von Sargans wurde im 13. Jahrhundert erbaut und ist heute ein Museum für Bergbaugeschichte.",
       hu: "A Sargans feletti magaslati vár a 13. században épült, és ma a bányászattörténet múzeuma.",
@@ -806,7 +806,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Werdenberg", hu: "Werdenberg-kastély", ro: "Castelul Werdenberg", en: "Werdenberg Castle" },
-    coordinates: { lat: 47.1653, lng: 9.4775 },
+    coords: [9.4775, 47.1653],
     description: {
       de: "Diese Anlage ist eine der wenigen fast vollständig erhaltenen mittelalterlichen Holzhäuser-Städte mit Burg in der Schweiz.",
       hu: "Ez a létesítmény egyike azon keveseknek Svájcban, amelyeknél a középkori faházas város és a vár szinte teljesen fennmaradt.",
@@ -838,7 +838,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Neu-Falkenstein", hu: "Neu-Falkenstein várromok", ro: "Ruinele castelului Neu-Falkenstein", en: "Neu-Falkenstein Castle Ruins" },
-    coordinates: { lat: 47.3325, lng: 7.7278 },
+    coords: [7.7278, 47.3325],
     description: {
       de: "Die Ruine bei Balsthal zeugt von der Bedeutung der Region im Mittelalter. Sie stammt aus dem 12. Jahrhundert.",
       hu: "A Balsthal melletti rom a régió középkori jelentőségéről tanúskodik. A 12. századból származik.",
@@ -870,7 +870,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Dorneck", hu: "Dorneck várromok", ro: "Ruinele castelului Dorneck", en: "Dorneck Castle Ruins" },
-    coordinates: { lat: 47.4811, lng: 7.6367 },
+    coords: [7.6367, 47.4811],
     description: {
       de: "Die Ruine der Burg Dorneck bei Dornach hat eine bewegte Geschichte. Sie spielte eine Rolle in der Schlacht bei Dornach 1499.",
       hu: "A Dornach melletti Dorneck vár romjainak mozgalmas története van. Szerepet játszott az 1499-es dornachi csatában.",
@@ -902,7 +902,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Riedburg", hu: "Riedburg várromok", ro: "Ruinele castelului Riedburg", en: "Riedburg Castle Ruins" },
-    coordinates: { lat: 46.8531, lng: 7.3789 },
+    coords: [7.3789, 46.8531],
     description: {
       de: "Diese Ruine liegt bei Köniz. Sie ist ein Beispiel für eine mittelalterliche Befestigungsanlage aus dem 12. Jahrhundert.",
       hu: "Ez a rom Köniz közelében fekszik. A 12. századi középkori erődítmény egy példája.",
@@ -934,7 +934,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Alt-Falkenstein", hu: "Alt-Falkenstein várromok", ro: "Ruinele castelului Alt-Falkenstein", en: "Alt-Falkenstein Castle Ruins" },
-    coordinates: { lat: 47.3311, lng: 7.7292 },
+    coords: [7.7292, 47.3311],
     description: {
       de: "Die Ruine Alt-Falkenstein liegt in der Nähe von Balsthal. Sie diente der Kontrolle des wichtigen Passübergangs.",
       hu: "Az Alt-Falkenstein rom Balsthal közelében található. A fontos hágó ellenőrzésére szolgált.",
@@ -966,7 +966,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Laufenburg", hu: "Laufenburg várromok", ro: "Ruinele castelului Laufenburg", en: "Laufenburg Castle Ruins" },
-    coordinates: { lat: 47.5619, lng: 8.0583 },
+    coords: [8.0583, 47.5619],
     description: {
       de: "Die Reste der Burg Laufenburg liegen am Hochrhein. Sie war eine bedeutende Festung im Spätmittelalter.",
       hu: "A Laufenburg várának maradványai a Felső-Rajna mentén fekszenek. Jelentős erőd volt a késő középkorban.",
@@ -998,7 +998,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Stein", hu: "Stein-kastély", ro: "Castelul Stein", en: "Stein Castle" },
-    coordinates: { lat: 47.5469, lng: 8.7183 },
+    coords: [8.7183, 47.5469],
     description: {
       de: "Das Schloss liegt über der Stadt Baden. Es hat eine lange Geschichte als Verteidigungsanlage des Mittelalters.",
       hu: "A kastély Baden városa felett fekszik. Hosszú története van, mint középkori védelmi létesítmény.",
@@ -1030,7 +1030,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Bottmingen", hu: "Bottmingeni kastély", ro: "Castelul Bottmingen", en: "Bottmingen Castle" },
-    coordinates: { lat: 47.5233, lng: 7.5683 },
+    coords: [7.5683, 47.5233],
     description: {
       de: "Dieses Wasserschloss stammt aus dem 13. Jahrhundert und ist eines der wenigen erhaltenen Schlösser in der Nähe von Basel.",
       hu: "Ez a vízi vár a 13. századból származik, és egyike a kevés fennmaradt kastélynak Bázel közelében.",
@@ -1062,7 +1062,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Festung Arburg", hu: "Arburgi erőd", ro: "Fortăreața Arburg", en: "Arburg Fortress" },
-    coordinates: { lat: 47.2886, lng: 7.9008 },
+    coords: [7.9008, 47.2886],
     description: {
       de: "Die Festung auf dem Felsen über Aarburg kontrollierte strategisch den Verkehr im Aaretal. Sie ist ein bedeutendes Zeugnis der Zeit.",
       hu: "Az Aarburg feletti sziklán álló erőd stratégiailag ellenőrizte a forgalmat az Aare-völgyben. A kor jelentős tanúja.",
@@ -1094,7 +1094,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Gutenburg", hu: "Gutenburg várromok", ro: "Ruinele castelului Gutenburg", en: "Gutenburg Castle Ruins" },
-    coordinates: { lat: 47.1869, lng: 7.7889 },
+    coords: [7.7889, 47.1869],
     description: {
       de: "Die Ruine bei Madiswil ist ein Zeugnis mittelalterlicher Architektur. Sie stammt aus dem 12. Jahrhundert.",
       hu: "A Madiswil melletti rom a középkori építészet tanúja. A 12. századból származik.",
@@ -1126,7 +1126,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Haldenstein", hu: "Haldenstein várromok", ro: "Ruinele castelului Haldenstein", en: "Haldenstein Castle Ruins" },
-    coordinates: { lat: 46.8778, lng: 9.5111 },
+    coords: [9.5111, 46.8778],
     description: {
       de: "Die Ruinen bei Chur sind Teil einer Burganlage aus dem 12. Jahrhundert. Sie bot eine strategische Kontrolle über das Rheintal.",
       hu: "A Chur melletti romok egy 12. századi várrendszer részei. Stratégiai ellenőrzést biztosítottak a Rajna-völgy felett.",
@@ -1158,7 +1158,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Castels", hu: "Castels várromok", ro: "Ruinele castelului Castels", en: "Castels Castle Ruins" },
-    coordinates: { lat: 46.9664, lng: 9.7778 },
+    coords: [9.7778, 46.9664],
     description: {
       de: "Diese Ruine bei Luzein im Prättigau stammt aus dem 12. Jahrhundert. Sie war eine bedeutende mittelalterliche Anlage.",
       hu: "Ez a rom a Prättigau-beli Luzein mellett a 12. századból származik. Jelentős középkori létesítmény volt.",
@@ -1190,7 +1190,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Sax", hu: "Sax várromok", ro: "Ruinele castelului Sax", en: "Sax Castle Ruins" },
-    coordinates: { lat: 47.2472, lng: 9.4972 },
+    coords: [9.4972, 47.2472],
     description: {
       de: "Die Ruine bei Sax in der Gemeinde Sennwald zeugt von der herrschaftlichen Präsenz im Rheintal während des Mittelalters.",
       hu: "A Sennwald községbeli Sax melletti rom a középkori Rajna-völgyi uradalmi jelenlétről tanúskodik.",
@@ -1222,7 +1222,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Grünfels", hu: "Grünfels várromok", ro: "Ruinele castelului Grünfels", en: "Grünfels Castle Ruins" },
-    coordinates: { lat: 47.2889, lng: 8.9556 },
+    coords: [8.9556, 47.2889],
     description: {
       de: "Die Ruine bei Jona wurde im 13. Jahrhundert erbaut. Sie diente als befestigter Stützpunkt in der Region.",
       hu: "A Jona melletti romot a 13. században építették. Megerősített támaszpontként szolgált a régióban.",
@@ -1254,7 +1254,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Neuburg", hu: "Neuburg várromok", ro: "Ruinele castelului Neuburg", en: "Neuburg Castle Ruins" },
-    coordinates: { lat: 47.5333, lng: 8.9167 },
+    coords: [8.9167, 47.5333],
     description: {
       de: "Die Ruine Neuburg bei Mammern stammt aus dem 13. Jahrhundert. Sie bietet einen Ausblick über den Untersee.",
       hu: "A Mammern melletti Neuburg rom a 13. századból származik. Kilátást nyújt az Untersee-re.",
@@ -1286,7 +1286,7 @@ export const switzerlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "CH",
     name: { de: "Burgruine Glattburg", hu: "Glattburg várromok", ro: "Ruinele castelului Glattburg", en: "Glattburg Castle Ruins" },
-    coordinates: { lat: 47.45, lng: 9.1333 },
+    coords: [9.1333, 47.45],
     description: {
       de: "Die Ruine Glattburg bei Niederglatt stammt aus dem 12. Jahrhundert. Sie war eine bedeutende Anlage für den regionalen Adel.",
       hu: "A Niederglatt melletti Glattburg rom a 12. századból származik. Jelentős létesítmény volt a regionális nemesség számára.",

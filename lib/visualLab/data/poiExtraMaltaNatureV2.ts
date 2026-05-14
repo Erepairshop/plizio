@@ -6,7 +6,7 @@ export const maltaNatureV2: POI[] = [
     type: "valley",
     parent: "MT",
     name: { de: "Wied il-Għasri Schlucht", hu: "Wied il-Għasri kanyon", ro: "Canionul Wied il-Għasri", en: "Wied il-Għasri Canyon" },
-    coordinates: { lat: 36.0712, lng: 14.2393 },
+    coords: [14.2393, 36.0712],
     description: {
       de: "Wied il-Għasri ist eine schmale, ins Meer mündende Schlucht auf Gozo. Sie dient als Zufluchtsort für verschiedene marine Lebewesen.",
       hu: "A Wied il-Għasri egy keskeny, tengerbe torkolló kanyon Gozón. Különböző tengeri élőlények menedékhelyéül szolgál.",
@@ -38,7 +38,7 @@ export const maltaNatureV2: POI[] = [
     type: "park",
     parent: "MT",
     name: { de: "Xrobb l-Għaġin Küstenpark", hu: "Xrobb l-Għaġin tengerparti park", ro: "Parcul de coastă Xrobb l-Għaġin", en: "Xrobb l-Għaġin Coastal Park" },
-    coordinates: { lat: 35.8391, lng: 14.5668 },
+    coords: [14.5668, 35.8391],
     description: {
       de: "Xrobb l-Għaġin ist ein Küstenpark an der Südostküste Maltas. Das Gebiet umfasst über 155.000 Quadratmeter geschützte Landschaft.",
       hu: "A Xrobb l-Għaġin egy tengerparti park Málta délkeleti részén. A terület több mint 155 000 négyzetméternyi védett tájat foglal magában.",
@@ -70,7 +70,7 @@ export const maltaNatureV2: POI[] = [
     type: "forest",
     parent: "MT",
     name: { de: "L-Aħrax tal-Mellieħa", hu: "L-Aħrax tal-Mellieħa erdő", ro: "Pădurea L-Aħrax tal-Mellieħa", en: "L-Aħrax tal-Mellieħa Woodland" },
-    coordinates: { lat: 35.9815, lng: 14.3752 },
+    coords: [14.3752, 35.9815],
     description: {
       de: "L-Aħrax tal-Mellieħa ist eines der größten Waldgebiete Maltas. Es erstreckt sich entlang der Klippen im Norden der Insel.",
       hu: "A L-Aħrax tal-Mellieħa Málta egyik legnagyobb erdős területe. A sziget északi részén, a sziklák mentén terül el.",
@@ -102,7 +102,7 @@ export const maltaNatureV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Qammieh Point", hu: "Qammieh-fok", ro: "Capul Qammieh Point", en: "Qammieh Point Headland" },
-    coordinates: { lat: 35.9754, lng: 14.3312 },
+    coords: [14.3312, 35.9754],
     description: {
       de: "Qammieh Point bildet das nordwestlichste Ende der Insel Malta. Die felsige Landzunge bietet einen weiten Blick auf das Mittelmeer.",
       hu: "A Qammieh-fok Málta szigetének legészaknyugatibb csücske. A sziklás földnyelv messzire nyúló kilátást biztosít a Földközi-tengerre.",
@@ -134,7 +134,7 @@ export const maltaNatureV2: POI[] = [
     type: "valley",
     parent: "MT",
     name: { de: "Mistra Tal", hu: "Mistra-völgy", ro: "Valea Mistra", en: "Mistra Valley" },
-    coordinates: { lat: 35.9521, lng: 14.3854 },
+    coords: [14.3854, 35.9521],
     description: {
       de: "Das Mistra Tal erstreckt sich zwischen Xemxija und Selmun. Es beherbergt landwirtschaftliche Flächen und unberührte Naturabschnitte.",
       hu: "A Mistra-völgy Xemxija és Selmun között terül el. Mezőgazdasági területeknek és érintetlen természeti szakaszoknak ad otthont.",
@@ -166,7 +166,7 @@ export const maltaNatureV2: POI[] = [
     type: "mountain",
     parent: "MT",
     name: { de: "Ta' Ċenċ Klippen", hu: "Ta' Ċenċ sziklák", ro: "Stâncile Ta' Ċenċ", en: "Ta' Ċenċ Cliffs" },
-    coordinates: { lat: 36.0223, lng: 14.2675 },
+    coords: [14.2675, 36.0223],
     description: {
       de: "Die Ta' Ċenċ Klippen sind eine beeindruckende Felsformation im Süden von Gozo. Sie erreichen eine Höhe von bis zu 148 Metern.",
       hu: "A Ta' Ċenċ sziklák lenyűgöző sziklaképződmények Gozó déli részén. Magasságuk eléri a 148 métert is.",

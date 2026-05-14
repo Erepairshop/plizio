@@ -143,7 +143,19 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "The name 'Chega' means 'Enough' in Portuguese.",
         "The exhibition documents human rights violations."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Chega! Ausstellung im ehemaligen Gefängnis von Balide in Dili dokumentiert die Menschenrechtsverletzungen während der indonesischen Besatzung Osttimors (1975–1999). Das Gebäude selbst diente von 1992 bis 1999 als politisches Gefängnis, in dem tausende osttimoresische Widerstandskämpfer inhaftiert und gefoltert wurden. Die Ausstellung wurde 2004 von der Wahrheits- und Freundschaftskommission eröffnet und zeigt Fotografien, Dokumente und persönliche Gegenstände der Opfer. Der Name 'Chega!' (Portugiesisch für 'Genug!') ist der Titel des Abschlussberichts der Kommission für Empfang, Wahrheit und Versöhnung. Das Museum ist eine wichtige Gedenkstätte für die Unabhängigkeit Osttimors und zieht jährlich tausende Besucher an.",
+      hu: "A Chega! kiállítás a balidei börtön épületében Diliben az indonéz megszállás (1975–1999) alatti emberi jogi jogsértéseket dokumentálja. Az épület 1992-től 1999-ig politikai börtönként szolgált, ahol több ezer kelet-timori ellenállót tartottak fogva és kínoztak. A kiállítást 2004-ben nyitotta meg az Igazság és Barátság Bizottság, és fényképeket, dokumentumokat és személyes tárgyakat mutat be az áldozatoktól. A 'Chega!' (portugálul 'Elég!') a Befogadás, Igazság és Megbékélés Bizottságának zárójelentésének címe. A múzeum fontos emlékhely Kelet-Timor függetlenségéért, évente több ezer látogatót vonz.",
+      ro: "Expoziția Chega! din fosta închisoare Balide din Dili documentează încălcările drepturilor omului în timpul ocupației indoneziene a Timorului de Est (1975–1999). Clădirea a servit ca închisoare politică între 1992 și 1999, unde mii de luptători de rezistență au fost încarcerați și torturați. Expoziția a fost deschisă în 2004 de Comisia Adevăr și Prietenie, prezentând fotografii, documente și obiecte personale ale victimelor. Numele 'Chega!' (portugheză pentru 'Destul!') este titlul raportului final al Comisiei pentru Primire, Adevăr și Reconcilere. Muzeul este un important memorial pentru independența Timorului de Est, atrăgând mii de vizitatori anual.",
+      en: "The Chega! Exhibition at the former Balide Prison in Dili documents human rights violations during the Indonesian occupation of East Timor (1975–1999). The building served as a political prison from 1992 to 1999, where thousands of Timorese resistance fighters were detained and tortured. The exhibition was opened in 2004 by the Commission of Truth and Friendship, displaying photographs, documents, and personal items of victims. The name 'Chega!' (Portuguese for 'Enough!') is the title of the final report of the Commission for Reception, Truth and Reconciliation. The museum is a key memorial for East Timor's independence, attracting thousands of visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung der Ausstellung: 2004", "Fläche des Museums: 1.200 m²", "Anzahl ausgestellter Fotografien: über 500", "Jährliche Besucherzahl: ca. 10.000", "Betriebszeit als Gefängnis: 1992–1999", "Anzahl dokumentierter Verbrechen: 18.000 Fälle"],
+      hu: ["A kiállítás megnyitása: 2004", "Múzeum területe: 1200 m²", "Kiállított fényképek száma: több mint 500", "Éves látogatók száma: kb. 10.000", "Börtönként működött: 1992–1999", "Dokumentált bűncselekmények száma: 18.000 eset"],
+      ro: ["Deschiderea expoziției: 2004", "Suprafața muzeului: 1.200 m²", "Număr de fotografii expuse: peste 500", "Vizitatori anual: circa 10.000", "Perioada ca închisoare: 1992–1999", "Număr de crime documentate: 18.000 cazuri"],
+      en: ["Exhibition opened: 2004", "Museum area: 1,200 m²", "Number of displayed photographs: over 500", "Annual visitors: approx. 10,000", "Operated as prison: 1992–1999", "Documented crimes: 18,000 cases"],
+    },
   },
   {
     id: "resistance-museum-dili-history-v2",
@@ -183,7 +195,20 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "It preserves archives of the FALINTIL resistance army.",
         "The building was renovated with international assistance."
       ]
-    }, image: "/poi-images/resistance-museum-dili-history-v2.webp"},
+    }, image: "/poi-images/resistance-museum-dili-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Timorese Resistance Archive and Museum (Museu da Resistência) in Dili ist der Geschichte des Unabhängigkeitskampfes Osttimors gewidmet. Es wurde 2008 eröffnet und befindet sich im ehemaligen portugiesischen Regierungsgebäude. Das Museum dokumentiert den Widerstand von 1974 bis 1999 anhand von Fotografien, Waffen, Uniformen und anderen Artefakten. Besondere Schwerpunkte sind die Rolle der katholischen Kirche und der internationalen Solidarität. Das Archiv enthält über 10.000 Dokumente und Tausende von Fotos. Es dient auch als Forschungszentrum für Wissenschaftler. Das Museum ist ein Symbol für den Sieg des Timoresischen Volkes über die Besatzung.",
+      hu: "A Timori Ellenállási Archívum és Múzeum (Museu da Resistência) Diliben Kelet-Timor függetlenségi harcának történetének szentelt. 2008-ban nyílt meg, és a volt portugál kormányzati épületben található. A múzeum az 1974-től 1999-ig tartó ellenállást dokumentálja fényképek, fegyverek, egyenruhák és egyéb tárgyak segítségével. Különös hangsúlyt fektet a katolikus egyház és a nemzetközi szolidaritás szerepére. Az archívum több mint 10.000 dokumentumot és több ezer fényképet tartalmaz. Kutatóközpontként is szolgál tudósok számára. A múzeum a timori nép győzelmének szimbóluma a megszállás felett.",
+      ro: "Muzeul și Arhiva Rezistenței Timoreze (Museu da Resistência) din Dili este dedicat istoriei luptei pentru independență a Timorului de Est. A fost deschis în 2008, găzduit în fostul sediu guvernamental portughez. Muzeul documentează rezistența între 1974 și 1999 prin fotografii, arme, uniforme și alte artefacte. Pune accent pe rolul Bisericii Catolice și al solidarității internaționale. Arhiva conține peste 10.000 de documente și mii de fotografii. Servește și ca centru de cercetare pentru academicieni. Muzeul este un simbol al victoriei poporului timorez asupra ocupației.",
+      en: "The Timorese Resistance Archive and Museum (Museu da Resistência) in Dili is dedicated to the history of East Timor's independence struggle. Opened in 2008, it is housed in the former Portuguese government building. The museum documents the resistance from 1974 to 1999 using photographs, weapons, uniforms, and other artifacts. It emphasizes the role of the Catholic Church and international solidarity. The archive contains over 10,000 documents and thousands of photos. It also serves as a research center for scholars. The museum is a symbol of the Timorese people's victory over occupation.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnungsdatum: 2. Dezember 2008", "Anzahl Exponate: über 1.000", "Archivgröße: 10.000 Dokumente", "Gebäudefläche: 2.500 m²", "Jährliche Besucher: 15.000", "Gründer: José Ramos-Horta"],
+      hu: ["Megnyitás dátuma: 2008. december 2.", "Kiállítási tárgyak száma: több mint 1000", "Archívum mérete: 10.000 dokumentum", "Épület területe: 2500 m²", "Éves látogatók: 15.000", "Alapító: José Ramos-Horta"],
+      ro: ["Data deschiderii: 2 decembrie 2008", "Număr de exponate: peste 1.000", "Dimensiune arhivă: 10.000 documente", "Suprafața clădirii: 2.500 m²", "Vizitatori anual: 15.000", "Fondator: José Ramos-Horta"],
+      en: ["Opening date: 2 December 2008", "Number of exhibits: over 1,000", "Archive size: 10,000 documents", "Building area: 2,500 m²", "Annual visitors: 15,000", "Founder: José Ramos-Horta"],
+    },
+  },
   {
     id: "balibo-fort-history-v2",
     type: "historical-site",
@@ -222,7 +247,20 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "The original fortification is over 400 years old.",
         "An on-site museum commemorates the murdered journalists."
       ]
-    }, image: "/poi-images/balibo-fort-history-v2.webp"},
+    }, image: "/poi-images/balibo-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Balibo Fort ist eine historische Festung in der Stadt Balibo, Osttimor, nahe der indonesischen Grenze. Es wurde im 17. Jahrhundert von portugiesischen Kolonialherren erbaut und später von den Holländern genutzt. Die Festung ist bekannt für den Tod von fünf Journalisten (den 'Balibo Five') während der indonesischen Invasion 1975. Das Fort dient heute als Museum und Gedenkstätte. Die Anlage besteht aus dicken Steinmauern und einem Innenhof. Von den Mauern hat man einen weiten Blick über die umliegende Landschaft. Das Fort wurde 2015 restauriert und ist ein nationales Kulturerbe.",
+      hu: "A Balibói erőd egy történelmi erődítmény Balibo városában, Kelet-Timorban, az indonéz határ közelében. A 17. században építették portugál gyarmatosítók, később a hollandok használták. Az erőd híres az 1975-ös indonéz invázió során meggyilkolt öt újságíróról (a 'Balibo Five'). Az erőd ma múzeumként és emlékhelyként szolgál. Az építmény vastag kőfalakból és egy belső udvarból áll. A falakról kilátás nyílik a környező tájra. Az erődöt 2015-ben restaurálták, nemzeti kulturális örökség.",
+      ro: "Fortul Balibo este o fortificație istorică în orașul Balibo, Timorul de Est, aproape de granița cu Indonezia. A fost construit în secolul al XVII-lea de coloniștii portughezi, apoi folosit de olandezi. Fortul este cunoscut pentru moartea a cinci jurnaliști („Balibo Five”) în timpul invaziei indoneziene din 1975. Astăzi, fortul servește ca muzeu și memorial. Structura are ziduri groase de piatră și o curte interioară. De pe ziduri se vede peisajul înconjurător. Fortul a fost restaurat în 2015 și este patrimoniu cultural național.",
+      en: "Balibo Fort is a historic fortress in the town of Balibo, East Timor, near the Indonesian border. It was built in the 17th century by Portuguese colonizers and later used by the Dutch. The fort is known for the killing of five journalists (the 'Balibo Five') during the Indonesian invasion in 1975. The fort now serves as a museum and memorial. The structure features thick stone walls and an inner courtyard. The walls offer panoramic views of the surrounding landscape. The fort was restored in 2015 and is a national cultural heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1650–1700", "Höhe der Mauern: bis zu 8 m", "Fläche: 1.500 m²", "Anzahl der Journalisten: 5 (Balibo Five)", "Restaurierungsjahr: 2015", "Entfernung zur indonesischen Grenze: 2 km"],
+      hu: ["Építés éve: 1650–1700", "Falak magassága: akár 8 m", "Terület: 1500 m²", "Újságírók száma: 5 (Balibo Five)", "Restaurálás éve: 2015", "Távolság az indonéz határtól: 2 km"],
+      ro: ["An construcție: 1650–1700", "Înălțimea zidurilor: până la 8 m", "Suprafața: 1.500 m²", "Număr de jurnaliști: 5 (Balibo Five)", "An restaurare: 2015", "Distanța până la granița cu Indonezia: 2 km"],
+      en: ["Year built: 1650–1700", "Wall height: up to 8 m", "Area: 1,500 m²", "Number of journalists: 5 (Balibo Five)", "Restoration year: 2015", "Distance to Indonesian border: 2 km"],
+    },
+  },
   {
     id: "lifau-monument-oecusse-history-v2",
     type: "monument",
@@ -521,7 +559,20 @@ export const poiExtraTimorlesteHistoryV2: POI[] = [
         "Political protests occurred during the Papal Mass in 1989.",
         "It is an important pilgrimage site for Timorese Catholics."
       ]
-    }, image: "/poi-images/pope-john-paul-ii-monument-history-v2.webp"},
+    }, image: "/poi-images/pope-john-paul-ii-monument-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Papst-Johannes-Paul-II.-Denkmal in Dili wurde 2004 errichtet, um den Besuch des Papstes in Osttimor im Oktober 1989 zu ehren. Die 7 Meter hohe Bronzestatue zeigt den Papst mit erhobenen Armen und steht auf einem Sockel aus Granit. Auf dem Sockel sind Inschriften in Tetum, Portugiesisch und Englisch angebracht, die an die Bedeutung des Besuchs für die Unabhängigkeit Osttimors erinnern. Der Besuch des Papstes war ein wichtiges Ereignis, das die indigene Bevölkerung ermutigte. Das Denkmal befindet sich neben der Kathedrale von Dili. Es ist ein beliebter Treffpunkt und Ort für Messen und Gedenkfeiern.",
+      hu: "A II. János Pál pápa emlékmű Diliben 2004-ben épült a pápa 1989-es kelet-timori látogatásának tiszteletére. A 7 méter magas bronzszobor a pápát ábrázolja felemelt karokkal, gránit talapzaton áll. A talapzaton tetum, portugál és angol feliratok emlékeznek a látogatás jelentőségére Kelet-Timor függetlensége szempontjából. A pápa látogatása fontos esemény volt, amely bátorította a bennszülött lakosságot. Az emlékmű a dili székesegyház mellett található. Népszerű találkozóhely és misék, megemlékezések színhelye.",
+      ro: "Monumentul Papei Ioan Paul al II-lea din Dili a fost ridicat în 2004 pentru a onora vizita papei în Timorul de Est din octombrie 1989. Statuia din bronz, înaltă de 7 metri, îl înfățișează pe papă cu brațele ridicate, pe un soclu de granit. Pe soclu sunt inscripții în tetum, portugheză și engleză, care amintesc de importanța vizitei pentru independența Timorului de Est. Vizita papei a fost un eveniment important care a încurajat populația indigenă. Monumentul se află lângă Catedrala din Dili. Este un loc popular de întâlnire și pentru slujbe și comemorări.",
+      en: "The Pope John Paul II Monument in Dili was erected in 2004 to honor the Pope's visit to East Timor in October 1989. The 7-meter bronze statue depicts the Pope with raised arms, standing on a granite pedestal. Inscriptions on the pedestal in Tetum, Portuguese, and English recall the significance of the visit for East Timor's independence. The Pope's visit was a key event that encouraged the indigenous population. The monument is located next to the Dili Cathedral. It is a popular meeting point and site for masses and commemorations.",
+    },
+    factsAdvanced: {
+      de: ["Errichtungsjahr: 2004", "Höhe der Statue: 7 m", "Material: Bronze und Granit", "Besuchsdatum: 12. Oktober 1989", "Inschriften in 3 Sprachen (Tetum, Portugiesisch, Englisch)", "Standort: neben der Kathedrale von Dili"],
+      hu: ["Építés éve: 2004", "Szobor magassága: 7 m", "Anyag: bronz és gránit", "Látogatás dátuma: 1989. október 12.", "Feliratok 3 nyelven (tetum, portugál, angol)", "Helyszín: a dili székesegyház mellett"],
+      ro: ["Anul ridicării: 2004", "Înălțimea statuii: 7 m", "Material: bronz și granit", "Data vizitei: 12 octombrie 1989", "Inscripții în 3 limbi (tetum, portugheză, engleză)", "Locație: lângă Catedrala din Dili"],
+      en: ["Year erected: 2004", "Statue height: 7 m", "Material: bronze and granite", "Visit date: 12 October 1989", "Inscriptions in 3 languages (Tetum, Portuguese, English)", "Location: next to Dili Cathedral"],
+    },
+  },
   {
     id: "venilale-japanese-caves-history-v2",
     type: "ruin",

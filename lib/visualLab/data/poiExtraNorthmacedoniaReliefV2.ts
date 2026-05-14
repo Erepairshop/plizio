@@ -6,7 +6,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Korab-Gipfel", hu: "Korab-csúcs", ro: "Vârful Korab", en: "Korab Peak" },
-    coordinates: { lat: 41.785, lng: 20.533 },
+    coords: [20.533, 41.785],
     description: {
       de: "Der Korab ist mit 2764 Metern der höchste Berg Nordmazedoniens. Er liegt an der Grenze zu Albanien in der Šar-Planina-Region.",
       hu: "A Korab 2764 méteres magasságával Észak-Macedónia legmagasabb hegye. Az albán határon fekszik, a Sar-hegység régiójában.",
@@ -38,7 +38,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Titov Vrv", hu: "Titov-csúcs", ro: "Vârful Titov", en: "Titov Vrv" },
-    coordinates: { lat: 42.029, lng: 20.733 },
+    coords: [20.733, 42.029],
     description: {
       de: "Titov Vrv ist mit 2748 Metern der höchste Gipfel des Šar-Gebirges. Der Berg ist für seine markante kegelförmige Struktur bekannt.",
       hu: "A Titov-csúcs 2748 méteres magasságával a Sar-hegység legmagasabb pontja. A hegy jellegzetes kúp alakú szerkezetéről ismert.",
@@ -70,7 +70,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Pelister-Gipfel", hu: "Pelister-csúcs", ro: "Vârful Pelister", en: "Pelister Peak" },
-    coordinates: { lat: 41.008, lng: 21.22 },
+    coords: [21.22, 41.008],
     description: {
       de: "Pelister ist der höchste Gipfel des Baba-Gebirges mit einer Höhe von 2601 Metern. Er liegt im Pelister-Nationalpark bei Bitola.",
       hu: "A Pelister a Baba-hegység legmagasabb csúcsa, 2601 méteres magassággal. A Bitola melletti Pelister Nemzeti Parkban található.",
@@ -102,7 +102,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "landmark",
     parent: "MK",
     name: { de: "Golem-Korab-Plateau", hu: "Golem Korab-fennsík", ro: "Platoul Golem Korab", en: "Golem Korab Plateau" },
-    coordinates: { lat: 41.78, lng: 20.54 },
+    coords: [20.54, 41.78],
     description: {
       de: "Das Golem-Korab-Plateau ist eine Hochgebirgsregion nahe dem Gipfel des Korab. Es zeichnet sich durch alpine Graslandschaften aus.",
       hu: "A Golem Korab-fennsík egy magashegyi régió a Korab-csúcs közelében. Alpi gyepek jellemzik.",
@@ -134,7 +134,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Jakupica-Massiv", hu: "Jakupica-hegység", ro: "Masivul Jakupica", en: "Jakupica Massif" },
-    coordinates: { lat: 41.68, lng: 21.38 },
+    coords: [21.38, 41.68],
     description: {
       de: "Das Jakupica-Massiv liegt im Zentrum des Landes. Der höchste Gipfel, Solunska Glava, erreicht 2540 Meter.",
       hu: "A Jakupica-hegység az ország központjában található. Legmagasabb csúcsa, a Solunska Glava, eléri a 2540 métert.",
@@ -166,7 +166,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Desat-Gebirge", hu: "Desat-hegység", ro: "Munții Desat", en: "Desat Mountain" },
-    coordinates: { lat: 41.53, lng: 20.57 },
+    coords: [20.57, 41.53],
     description: {
       de: "Das Desat-Gebirge befindet sich im Westen des Landes. Es bildet eine natürliche Barriere zwischen Nordmazedonien und Albanien.",
       hu: "A Desat-hegység az ország nyugati részén található. Természetes határt képez Észak-Macedónia és Albánia között.",
@@ -198,7 +198,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Baba-Gebirge", hu: "Baba-hegység", ro: "Munții Baba", en: "Baba Mountain Range" },
-    coordinates: { lat: 41.05, lng: 21.18 },
+    coords: [21.18, 41.05],
     description: {
       de: "Das Baba-Gebirge liegt südwestlich von Bitola. Es gehört zu den bekanntesten Bergregionen des Landes.",
       hu: "A Baba-hegység Bitolától délnyugatra található. Az ország egyik legismertebb hegyvidéke.",
@@ -230,7 +230,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Šar-Planina-Gebirge", hu: "Sar-hegység", ro: "Munții Sar", en: "Sar Planina Mountains" },
-    coordinates: { lat: 42.05, lng: 20.8 },
+    coords: [20.8, 42.05],
     description: {
       de: "Šar-Planina ist eine große Gebirgskette im Nordwesten. Sie umfasst zahlreiche hohe Gipfel über 2500 Meter.",
       hu: "A Sar-hegység egy nagy hegylánc északnyugaton. Számos 2500 méter feletti csúcsot foglal magában.",
@@ -262,7 +262,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Galičica-Gebirge", hu: "Galičica-hegység", ro: "Munții Galičica", en: "Galicica Mountain" },
-    coordinates: { lat: 40.95, lng: 20.85 },
+    coords: [20.85, 40.95],
     description: {
       de: "Galičica liegt zwischen dem Ohrid- und dem Prespasee. Das Gebirge trennt diese beiden wichtigen Seen.",
       hu: "A Galičica az Ohridi- és a Preszpa-tó között fekszik. A hegység választja el ezt a két fontos tavat.",
@@ -294,7 +294,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Plačkovica-Gebirge", hu: "Plačkovica-hegység", ro: "Munții Plačkovica", en: "Plackovica Range" },
-    coordinates: { lat: 41.7, lng: 22.45 },
+    coords: [22.45, 41.7],
     description: {
       de: "Plačkovica liegt im Osten des Landes nahe Štip. Es ist bekannt für seine steilen Hänge und Wälder.",
       hu: "A Plačkovica az ország keleti részén, Štip közelében található. Meredek lejtőiről és erdőiről ismert.",
@@ -326,7 +326,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Belasica-Gebirge", hu: "Belasica-hegység", ro: "Munții Belasica", en: "Belasica Mountains" },
-    coordinates: { lat: 41.33, lng: 22.8 },
+    coords: [22.8, 41.33],
     description: {
       de: "Belasica liegt an der Grenze zu Griechenland und Bulgarien. Das Gebirge ist tektonisch sehr aktiv.",
       hu: "A Belasica Görögország és Bulgária határán fekszik. A hegység tektonikailag nagyon aktív.",
@@ -358,7 +358,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "mountain",
     parent: "MK",
     name: { de: "Kozjak-Gebirge", hu: "Kozjak-hegység", ro: "Munții Kozjak", en: "Kozjak Mountain" },
-    coordinates: { lat: 42.2, lng: 21.9 },
+    coords: [21.9, 42.2],
     description: {
       de: "Kozjak ist ein kleines Gebirge im Norden nahe Kumanovo. Es ist durch erosive Täler geprägt.",
       hu: "A Kozjak egy kis hegység északon, Kumanovo közelében. Eroziós völgyek jellemzik.",
@@ -390,7 +390,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Pčinja-Tal", hu: "Pčinja-völgy", ro: "Valea Pčinja", en: "Pcinja Valley" },
-    coordinates: { lat: 42.1, lng: 21.75 },
+    coords: [21.75, 42.1],
     description: {
       de: "Das Pčinja-Tal erstreckt sich im Nordosten des Landes. Es ist eine bedeutende geografische Furche.",
       hu: "A Pčinja-völgy az ország északkeleti részén húzódik. Fontos földrajzi vájat.",
@@ -422,7 +422,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Vardar-Tal", hu: "Vardar-völgy", ro: "Valea Vardar", en: "Vardar Valley" },
-    coordinates: { lat: 41.5, lng: 22.0 },
+    coords: [22.0, 41.5],
     description: {
       de: "Das Vardar-Tal durchzieht das Land von Norden nach Süden. Es ist die wichtigste Verkehrsader.",
       hu: "A Vardar-völgy északról délre szeli át az országot. Ez a legfontosabb közlekedési útvonal.",
@@ -454,7 +454,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "landmark",
     parent: "MK",
     name: { de: "Pelagonien-Ebene", hu: "Pelagoniai-síkság", ro: "Câmpia Pelagonia", en: "Pelagonia Plain" },
-    coordinates: { lat: 41.2, lng: 21.3 },
+    coords: [21.3, 41.2],
     description: {
       de: "Pelagonien ist die größte Ebene des Landes im Südwesten. Sie ist das landwirtschaftliche Herzstück.",
       hu: "Pelagonija az ország legnagyobb síksága délnyugaton. Ez a mezőgazdaság szíve.",
@@ -486,7 +486,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "landmark",
     parent: "MK",
     name: { de: "Ovče Pole", hu: "Ovče Pole", ro: "Ovče Pole", en: "Ovce Pole" },
-    coordinates: { lat: 41.85, lng: 21.9 },
+    coords: [21.9, 41.85],
     description: {
       de: "Ovče Pole ist eine weite Hochebene im Osten. Die Region ist für ihre Steppenlandschaft bekannt.",
       hu: "Az Ovče Pole egy hatalmas fennsík keleten. A régió sztyeppei tájáról ismert.",
@@ -518,7 +518,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Babuna-Tal", hu: "Babuna-völgy", ro: "Valea Babuna", en: "Babuna Valley" },
-    coordinates: { lat: 41.6, lng: 21.5 },
+    coords: [21.5, 41.6],
     description: {
       de: "Das Babuna-Tal liegt südlich von Veles. Es bietet eine tiefe Schlucht im Massiv.",
       hu: "A Babuna-völgy Veles-től délre fekszik. Mély szurdokot kínál a masszívumban.",
@@ -550,7 +550,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Treska-Schlucht", hu: "Treska-szurdok", ro: "Canionul Treska", en: "Treska Canyon" },
-    coordinates: { lat: 41.9, lng: 21.3 },
+    coords: [21.3, 41.9],
     description: {
       de: "Die Treska-Schlucht bei Matka ist ein tiefes Flusstal. Es ist ein bekanntes Ausflugsziel.",
       hu: "A Matka melletti Treska-szurdok egy mély folyóvölgy. Ismert kirándulóhely.",
@@ -582,7 +582,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Demir-Kapija-Schlucht", hu: "Demir Kapija-szurdok", ro: "Defileul Demir Kapija", en: "Demir Kapija Canyon" },
-    coordinates: { lat: 41.4, lng: 22.25 },
+    coords: [22.25, 41.4],
     description: {
       de: "Die Eisernen Tore (Demir Kapija) bilden eine spektakuläre Schlucht des Vardar-Flusses.",
       hu: "A Vaskapu (Demir Kapija) a Vardar-folyó látványos szurdoka.",
@@ -614,7 +614,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Kajmakčalan-Gipfel", hu: "Kajmakčalan-csúcs", ro: "Vârful Kajmakčalan", en: "Kajmakcalan Peak" },
-    coordinates: { lat: 40.9, lng: 21.78 },
+    coords: [21.78, 40.9],
     description: {
       de: "Kajmakčalan liegt an der Grenze zu Griechenland. Er ist historisch bedeutsam aus dem Ersten Weltkrieg.",
       hu: "A Kajmakčalan a görög határon fekszik. Történelmileg jelentős az első világháborúból.",
@@ -646,7 +646,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Crn Vrv", hu: "Crn Vrv", ro: "Crn Vrv", en: "Crn Vrv" },
-    coordinates: { lat: 42.1, lng: 21.35 },
+    coords: [21.35, 42.1],
     description: {
       de: "Crn Vrv ist ein bekannter Gipfel nahe Skopje. Er wird häufig von Wanderern besucht.",
       hu: "A Crn Vrv egy ismert csúcs Szkopje közelében. Gyakran látogatják túrázók.",
@@ -678,7 +678,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Krvavi Vrv", hu: "Krvavi Vrv", ro: "Krvavi Vrv", en: "Krvavi Vrv" },
-    coordinates: { lat: 42.0, lng: 20.7 },
+    coords: [20.7, 42.0],
     description: {
       de: "Krvavi Vrv liegt im Šar-Gebirge. Der Name leitet sich von historischen Legenden ab.",
       hu: "A Krvavi Vrv a Sar-hegységben található. A név történelmi legendákból ered.",
@@ -710,7 +710,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Busowa-Gipfel", hu: "Busova-csúcs", ro: "Vârful Busova", en: "Busova Peak" },
-    coordinates: { lat: 41.48, lng: 20.95 },
+    coords: [20.95, 41.48],
     description: {
       de: "Der Busowa-Gipfel ist Teil eines abgelegenen Bergmassivs. Er bietet wilde Landschaft.",
       hu: "A Busova-csúcs egy félreeső hegyvonulat része. Vad tájat kínál.",
@@ -742,7 +742,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Plačkovica-Gipfel", hu: "Plačkovica-csúcs", ro: "Vârful Plačkovica", en: "Plackovica Peak" },
-    coordinates: { lat: 41.72, lng: 22.42 },
+    coords: [22.42, 41.72],
     description: {
       de: "Dies ist der höchste Gipfel im Plačkovica-Gebirge. Er bietet weite Aussichten auf den Osten.",
       hu: "Ez a legmagasabb csúcs a Plačkovica-hegységben. Széles kilátást nyújt keletre.",
@@ -774,7 +774,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Osogowo-Gipfel", hu: "Osogovo-csúcs", ro: "Vârful Osogovo", en: "Osogovo Peak" },
-    coordinates: { lat: 42.18, lng: 22.48 },
+    coords: [22.48, 42.18],
     description: {
       de: "Der höchste Gipfel des Osogowo-Gebirges. Er ist ein markanter Punkt an der bulgarischen Grenze.",
       hu: "Az Osogovo-hegység legmagasabb csúcsa. Feltűnő pont a bolgár határon.",
@@ -806,7 +806,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Belasica-Gipfel", hu: "Belasica-csúcs", ro: "Vârful Belasica", en: "Belasica Peak" },
-    coordinates: { lat: 41.35, lng: 22.78 },
+    coords: [22.78, 41.35],
     description: {
       de: "Der höchste Punkt des Belasica-Gebirges. Er liegt im Grenzgebiet von drei Staaten.",
       hu: "A Belasica-hegység legmagasabb pontja. Három állam határvidékén fekszik.",
@@ -838,7 +838,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Jablanica-Gipfel", hu: "Jablanica-csúcs", ro: "Vârful Jablanica", en: "Jablanica Peak" },
-    coordinates: { lat: 41.28, lng: 20.51 },
+    coords: [20.51, 41.28],
     description: {
       de: "Der höchste Punkt des Jablanica-Gebirges. Es liegt in einem abgelegenen Grenzgebiet.",
       hu: "A Jablanica-hegység legmagasabb pontja. Félreeső határvidéken fekszik.",
@@ -870,7 +870,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Galičica-Gipfel", hu: "Galičica-csúcs", ro: "Vârful Galičica", en: "Galicica Peak" },
-    coordinates: { lat: 40.93, lng: 20.88 },
+    coords: [20.88, 40.93],
     description: {
       de: "Der höchste Gipfel des Galičica-Gebirges. Er bietet atemberaubende Blicke auf den Ohrid- und Prespasee.",
       hu: "A Galičica-hegység legmagasabb csúcsa. Lenyűgöző kilátást nyújt az Ohridi- és a Preszpa-tóra.",
@@ -902,7 +902,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Stogowo-Gipfel", hu: "Stogovo-csúcs", ro: "Vârful Stogovo", en: "Stogovo Peak" },
-    coordinates: { lat: 41.46, lng: 20.67 },
+    coords: [20.67, 41.46],
     description: {
       de: "Der Hauptgipfel des Stogowo-Gebirges. Er ist ein Ziel für erfahrene Wanderer.",
       hu: "A Stogovo-hegység főcsúcsa. Célpont tapasztalt túrázók számára.",
@@ -934,7 +934,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Baba-Gipfel", hu: "Baba-csúcs", ro: "Vârful Baba", en: "Baba Peak" },
-    coordinates: { lat: 41.02, lng: 21.2 },
+    coords: [21.2, 41.02],
     description: {
       de: "Ein Gipfel im Baba-Gebirge. Die Region ist bekannt für ihre Vielfalt.",
       hu: "Egy csúcs a Baba-hegységben. A régió sokféleségéről ismert.",
@@ -966,7 +966,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Desat-Gipfel", hu: "Desat-csúcs", ro: "Vârful Desat", en: "Desat Peak" },
-    coordinates: { lat: 41.55, lng: 20.58 },
+    coords: [20.58, 41.55],
     description: {
       de: "Der höchste Punkt im Desat-Gebirge. Er bietet weite Blicke auf das Grenzgebiet.",
       hu: "A Desat-hegység legmagasabb pontja. Széles kilátást nyújt a határvidékre.",
@@ -998,7 +998,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "peak",
     parent: "MK",
     name: { de: "Ogražden-Gipfel", hu: "Ogražden-csúcs", ro: "Vârful Ogražden", en: "Ograzden Peak" },
-    coordinates: { lat: 41.52, lng: 22.77 },
+    coords: [22.77, 41.52],
     description: {
       de: "Der höchste Gipfel des Ogražden-Gebirges. Er markiert die Grenze und bietet Blicke.",
       hu: "Az Ogražden-hegység legmagasabb csúcsa. Jelzi a határt és kilátást nyújt.",
@@ -1030,7 +1030,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "landmark",
     parent: "MK",
     name: { de: "Koprivnica-Plateau", hu: "Koprivnica-fennsík", ro: "Platoul Koprivnica", en: "Koprivnica Plateau" },
-    coordinates: { lat: 41.4, lng: 21.1 },
+    coords: [21.1, 41.4],
     description: {
       de: "Das Koprivnica-Plateau ist eine Hochregion. Es ist für seine Wälder bekannt.",
       hu: "A Koprivnica-fennsík egy magasan fekvő régió. Erdeiről ismert.",
@@ -1062,7 +1062,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "landmark",
     parent: "MK",
     name: { de: "Kozjak-Plateau", hu: "Kozjak-fennsík", ro: "Platoul Kozjak", en: "Kozjak Plateau" },
-    coordinates: { lat: 42.22, lng: 21.95 },
+    coords: [21.95, 42.22],
     description: {
       de: "Das Kozjak-Plateau ist eine wellige Hochebene. Die Region ist dünn besiedelt.",
       hu: "A Kozjak-fennsík egy hullámos fennsík. A régió ritkán lakott.",
@@ -1094,7 +1094,7 @@ export const northmacedoniaReliefV2: POI[] = [
     type: "valley",
     parent: "MK",
     name: { de: "Kriva-Reka-Schlucht", hu: "Kriva Reka-szurdok", ro: "Canionul Kriva Reka", en: "Kriva Reka Canyon" },
-    coordinates: { lat: 42.12, lng: 22.05 },
+    coords: [22.05, 42.12],
     description: {
       de: "Die Kriva-Reka-Schlucht ist ein tiefes Tal. Der Fluss formt eine interessante geologische Struktur.",
       hu: "A Kriva Reka-szurdok egy mély völgy. A folyó érdekes geológiai struktúrát alkot.",

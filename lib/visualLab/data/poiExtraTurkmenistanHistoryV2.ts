@@ -347,7 +347,20 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       hu: ["Egykori kulturális központ a Kaszpi-tenger mentén.", "A 15. században vízhiány miatt hagyták el."],
       ro: ["Fost centru cultural la Marea Caspică.", "A fost abandonat în secolul al XV-lea din cauza lipsei de apă."],
       en: ["Former cultural center near the Caspian Sea.", "Was abandoned in the 15th century due to lack of water."]
-    }, image: "/poi-images/dekhistan-ruins-history-v2.webp"},
+    }, image: "/poi-images/dekhistan-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ruinen von Dekhistan (auch Dahestan) liegen im Westen Turkmenistans, nahe der Grenze zum Iran. Es handelt sich um eine mittelalterliche Stadt aus dem 10. bis 14. Jahrhundert. Die Überreste umfassen eine Festung, Moscheen und Wohnhäuser. Dekhistan war ein wichtiges Handelszentrum an der Seidenstraße. Die Stadt verfiel nach den Mongoleninvasionen. Ausgrabungen förderten Keramik und Münzen zutage. Die Stätte ist wenig besucht.",
+      hu: "Dekhistan (Dahestan) romjai Türkmenisztán nyugati részén, az iráni határ közelében találhatók. Egy középkori város maradványai a 10-14. századból. Az erőd, mecsetek és lakóházak romjai láthatók. Dekhistan fontos kereskedelmi központ volt a Selyemút mentén. A mongol inváziók után hanyatlott le. Ásatások kerámiát és érméket hoztak felszínre. A helyszín kevéssé ismert.",
+      ro: "Ruinele de la Dekhistan (Dahestan) se află în vestul Turkmenistanului, lângă granița cu Iranul. Este un oraș medieval din secolele X-XIV. Rămășițele includ o fortăreață, moschei și case. Dekhistan a fost un important centru comercial pe Drumul Mătăsii. A intrat în declin după invaziile mongole. Săpăturile au scos la iveală ceramică și monede. Situl este puțin vizitat.",
+      en: "Dekhistan (Dahestan) ruins are located in western Turkmenistan, near the Iranian border. This medieval city flourished from the 10th to 14th centuries as a Silk Road trading post. Remains include a citadel, mosques, and residential quarters. The city declined following Mongol invasions. Archaeological excavations have uncovered glazed pottery, coins, and architectural fragments. The site is remote and seldom visited by tourists.",
+    },
+    factsAdvanced: {
+      de: ["Blütezeit: 10.-14. Jahrhundert", "Lage: 37°N 54°O", "Höhe: 100 m über Meer", "Ausgrabungen seit 1950", "Fläche: 1 km²", "Mongoleninvasion 1221"],
+      hu: ["Virágkor: 10-14. század", "Elhelyezkedés: 37°É 54°K", "Magasság: 100 m", "Ásatások 1950 óta", "Terület: 1 km²", "Mongol invázió 1221"],
+      ro: ["Perioada de înflorire: secolele X-XIV", "Coordonate: 37°N 54°E", "Altitudine: 100 m", "Săpături începute în 1950", "Suprafață: 1 km²", "Invazia mongolă în 1221"],
+      en: ["Flourished: 10th-14th centuries", "Coordinates: 37°N 54°E", "Elevation: 100 m", "Excavations since 1950", "Area: 1 km²", "Mongol invasion in 1221"],
+    },
+  },
   {
     id: "abiverd-ruins-history-v2",
     type: "ruin",

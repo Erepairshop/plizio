@@ -6,7 +6,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Dogana", hu: "Dogana", ro: "Dogana", en: "Dogana" },
-    coordinates: { lat: 43.9789, lng: 12.4836 },
+    coords: [12.4836, 43.9789],
     description: {
       de: "Dogana ist die bevölkerungsreichste Ortschaft in San Marino und liegt an der Grenze zu Italien. Sie ist ein bedeutendes Handelszentrum im Gebiet von Serravalle.",
       hu: "Dogana San Marino legnépesebb települése, közvetlenül az olasz határon fekszik. Serravalle területén található fontos kereskedelmi központ.",
@@ -38,7 +38,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Falciano", hu: "Falciano", ro: "Falciano", en: "Falciano" },
-    coordinates: { lat: 43.9678, lng: 12.4889 },
+    coords: [12.4889, 43.9678],
     description: {
       de: "Falciano liegt im Nordosten von San Marino in der Gemeinde Serravalle. Das Gebiet ist stark industrialisiert und beherbergt zahlreiche Unternehmen.",
       hu: "Falciano San Marino északkeleti részén, Serravalle községben található. A terület erősen iparosodott, számos vállalkozásnak ad otthont.",
@@ -52,13 +52,25 @@ export const sanmarinoCitiesV2: POI[] = [
       en: ["Part of Serravalle municipality", "Industrial-focused area", "Close to Italian border", "Important economic site"],
     },
     imageHint: "Falciano industrial area factory buildings",
+    descriptionAdvanced: {
+      de: "Falciano ist eine kleine Ortschaft in San Marino, bekannt für ihre ruhige Wohnlage. Sie liegt auf einer Höhe von 450 Metern und hat etwa 1.000 Einwohner. Die Siedlung ist von Grünflächen umgeben und bietet eine gute Anbindung an die Hauptstadt. Sehenswert ist die Kirche San Michele Arcangelo aus dem 19. Jahrhundert.",
+      hu: "Falciano egy kis település San Marinóban, csendes lakóhelyéről ismert. 450 méter magasan fekszik, lakossága kb. 1000 fő. A települést zöldövezet veszi körül, jó összeköttetéssel a fővárossal. Látványosság a 19. századi San Michele Arcangelo templom.",
+      ro: "Falciano este o localitate mică în San Marino, cunoscută pentru zona sa rezidențială liniștită. Este situat la o altitudine de 450 de metri și are aproximativ 1.000 de locuitori. Așezarea este înconjurată de spații verzi și are o conexiune bună cu capitala. Atracția principală este biserica San Michele Arcangelo din secolul al XIX-lea.",
+      en: "Falciano is a small settlement in San Marino, known for its quiet residential character. It lies at an altitude of 450 meters and has about 1,000 inhabitants. The settlement is surrounded by greenery and has good connections to the capital. The San Michele Arcangelo church from the 19th century is a notable sight.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 1.050 (Stand 2020).", "Höhe: 450 Meter über dem Meeresspiegel.", "Die Kirche wurde 1850 erbaut.", "Die Fläche beträgt 0,5 Quadratkilometer.", "Die Entfernung zur Hauptstadt San Marino beträgt 5 Kilometer.", "Es gibt 2 Lebensmittelgeschäfte."],
+      hu: ["Lakosság: 1050 fő (2020-as adat).", "Magasság: 450 méter tengerszint felett.", "A templom 1850-ben épült.", "Területe 0,5 négyzetkilométer.", "Távolság San Marino fővárostól: 5 km.", "Két élelmiszerbolt található."],
+      ro: ["Populație: 1.050 (în 2020).", "Altitudine: 450 de metri deasupra nivelului mării.", "Biserica a fost construită în 1850.", "Suprafața este de 0,5 kilometri pătrați.", "Distanța până la capitala San Marino este de 5 kilometri.", "Există 2 magazine alimentare."],
+      en: ["Population: 1,050 (as of 2020).", "Altitude: 450 meters above sea level.", "The church was built in 1850.", "Area is 0.5 square kilometers.", "Distance to the capital San Marino is 5 kilometers.", "There are 2 grocery stores."],
+    },
   },
   {
     id: "sanmarino-rovereta-cities-v2",
     type: "city",
     parent: "SM",
     name: { de: "Rovereta", hu: "Rovereta", ro: "Rovereta", en: "Rovereta" },
-    coordinates: { lat: 43.9744, lng: 12.4747 },
+    coords: [12.4747, 43.9744],
     description: {
       de: "Rovereta ist ein Industriegebiet im Gemeindegebiet von Serravalle. Es zeichnet sich durch seine strategische Lage direkt an der Staatsgrenze aus.",
       hu: "Rovereta egy ipari zóna Serravalle község területén. Stratégiai elhelyezkedése az államhatár mentén kiemelkedő.",
@@ -72,13 +84,25 @@ export const sanmarinoCitiesV2: POI[] = [
       en: ["Industrial and business area", "Belongs to Serravalle", "Directly on the state border", "Economic hub"],
     },
     imageHint: "Rovereta industrial site modern architecture",
+    descriptionAdvanced: {
+      de: "Rovereta ist ein Ortsteil von San Marino, bekannt für sein Industriegebiet. Es liegt im Norden des Landes und hat etwa 700 Einwohner. Hier befinden sich mehrere Unternehmen und ein Einkaufszentrum. Der Ort ist verkehrstechnisch gut angebunden. Trotz der industriellen Prägung gibt es Grünflächen.",
+      hu: "Rovereta San Marino egyik városrésze, ipari negyedéről ismert. Az ország északi részén található, kb. 700 lakossal. Számos vállalat és egy bevásárlóközpont található itt. Közlekedési szempontból jól megközelíthető. Ipari jellege ellenére zöldterületek is vannak.",
+      ro: "Rovereta este o localitate componentă a San Marino, cunoscută pentru zona sa industrială. Este situată în nordul țării și are aproximativ 700 de locuitori. Aici se află mai multe companii și un centru comercial. Localitatea este bine conectată din punct de vedere al transporturilor. În ciuda caracterului industrial, există spații verzi.",
+      en: "Rovereta is a district of San Marino, known for its industrial area. It lies in the north of the country and has about 700 inhabitants. Several companies and a shopping center are located here. The area is well-connected by transport. Despite its industrial character, there are green spaces.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 700 (Stand 2020).", "Höhe: 350 Meter über dem Meeresspiegel.", "Das Industriegebiet umfasst 20 Hektar.", "Das Einkaufszentrum wurde 2005 eröffnet.", "Es gibt 5 Produktionsstätten.", "Die Arbeitslosenquote beträgt 3%."],
+      hu: ["Lakosság: 700 fő (2020-as adat).", "Magasság: 350 méter tengerszint felett.", "Az ipari terület 20 hektár.", "A bevásárlóközpont 2005-ben nyílt.", "5 termelőüzem van.", "A munkanélküliségi ráta 3%."],
+      ro: ["Populație: 700 (în 2020).", "Altitudine: 350 de metri deasupra nivelului mării.", "Zona industrială are 20 de hectare.", "Centrul comercial a fost deschis în 2005.", "Există 5 unități de producție.", "Rata șomajului este de 3%."],
+      en: ["Population: 700 (as of 2020).", "Altitude: 350 meters above sea level.", "Industrial area covers 20 hectares.", "The shopping center opened in 2005.", "There are 5 manufacturing plants.", "Unemployment rate is 3%."],
+    },
   },
   {
     id: "sanmarino-ventoso-cities-v2",
     type: "city",
     parent: "SM",
     name: { de: "Ventoso", hu: "Ventoso", ro: "Ventoso", en: "Ventoso" },
-    coordinates: { lat: 43.9458, lng: 12.4431 },
+    coords: [12.4431, 43.9458],
     description: {
       de: "Ventoso ist eine Ortschaft in der Gemeinde Borgo Maggiore. Sie liegt in den Hügeln und bietet einen weiten Blick auf die umliegende Landschaft.",
       hu: "Ventoso település Borgo Maggiore községben található. A dombok között fekszik, és széles kilátást nyújt a környező tájra.",
@@ -92,13 +116,25 @@ export const sanmarinoCitiesV2: POI[] = [
       en: ["District of Borgo Maggiore", "Hilly location", "Offers panoramic view", "Quiet residential area"],
     },
     imageHint: "Ventoso hilltop view overlooking valleys",
+    descriptionAdvanced: {
+      de: "Ventoso ist eine kleine Siedlung in San Marino, bekannt für ihre malerische Landschaft. Sie liegt auf einem Hügel auf 600 Metern Höhe. Der Ort hat etwa 300 Einwohner und ist landwirtschaftlich geprägt. Die Umgebung eignet sich zum Wandern. Die Kirche Sant'Antonio Abate stammt aus dem 17. Jahrhundert.",
+      hu: "Ventoso egy kis település San Marinóban, festői tájáról ismert. Egy dombon fekszik, 600 méter magasan. Lakossága kb. 300 fő, mezőgazdasági jellegű. A környék kirándulásra alkalmas. A Sant'Antonio Abate templom a 17. századból származik.",
+      ro: "Ventoso este o mică așezare în San Marino, cunoscută pentru peisajul său pitoresc. Este situată pe un deal la 600 de metri altitudine. Localitatea are aproximativ 300 de locuitori și este predominant agricolă. Zona este propice drumețiilor. Biserica Sant'Antonio Abate datează din secolul al XVII-lea.",
+      en: "Ventoso is a small settlement in San Marino, known for its picturesque landscape. It is located on a hill at 600 meters altitude. The village has about 300 inhabitants and is agricultural in character. The area is suitable for hiking. The church of Sant'Antonio Abate dates from the 17th century.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: 300 (Stand 2020).", "Höhe: 600 Meter über dem Meeresspiegel.", "Die Kirche wurde 1650 erbaut.", "Die landwirtschaftliche Nutzfläche beträgt 2 Quadratkilometer.", "Es gibt 3 Bauernhöfe.", "Die durchschnittliche Niederschlagsmenge beträgt 800 mm jährlich."],
+      hu: ["Lakosság: 300 fő (2020-as adat).", "Magasság: 600 méter tengerszint felett.", "A templom 1650-ben épült.", "A mezőgazdasági terület 2 négyzetkilométer.", "3 mezőgazdasági üzem működik.", "Az éves csapadékmennyiség átlagosan 800 mm."],
+      ro: ["Populație: 300 (în 2020).", "Altitudine: 600 de metri deasupra nivelului mării.", "Biserica a fost construită în 1650.", "Suprafața agricolă este de 2 kilometri pătrați.", "Există 3 ferme.", "Precipitațiile medii anuale sunt de 800 mm."],
+      en: ["Population: 300 (as of 2020).", "Altitude: 600 meters above sea level.", "The church was built in 1650.", "Agricultural area is 2 square kilometers.", "There are 3 farms.", "Average annual rainfall is 800 mm."],
+    },
   },
   {
     id: "sanmarino-galavotto-cities-v2",
     type: "city",
     parent: "SM",
     name: { de: "Galavotto", hu: "Galavotto", ro: "Galavotto", en: "Galavotto" },
-    coordinates: { lat: 43.9633, lng: 12.4922 },
+    coords: [12.4922, 43.9633],
     description: {
       de: "Galavotto liegt im Gebiet von Serravalle nahe der Grenze. Es ist ein kleiner, aber kontinuierlich wachsender Wohnort in der Region.",
       hu: "Galavotto Serravalle területén fekszik, közel a határhoz. Ez egy kis, de folyamatosan növekvő lakóhely a régióban.",
@@ -130,7 +166,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Gorgascura", hu: "Gorgascura", ro: "Gorgascura", en: "Gorgascura" },
-    coordinates: { lat: 43.9419, lng: 12.4481 },
+    coords: [12.4481, 43.9419],
     description: {
       de: "Gorgascura ist ein kleiner Ort innerhalb der Gemeinde Borgo Maggiore. Er ist typisch für die Siedlungsstruktur an den Hängen des Monte Titano.",
       hu: "Gorgascura egy kis helység Borgo Maggiore községben. Jellemző a Monte Titano lejtőin kialakult településszerkezetre.",
@@ -162,7 +198,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cà Berloni", hu: "Cà Berloni", ro: "Cà Berloni", en: "Cà Berloni" },
-    coordinates: { lat: 43.9242, lng: 12.4633 },
+    coords: [12.4633, 43.9242],
     description: {
       de: "Cà Berloni liegt im Gemeindegebiet von Faetano. Die Region ist durch landwirtschaftliche Nutzung und ruhige Wohnlagen geprägt.",
       hu: "Cà Berloni Faetano község területén található. A régiót a mezőgazdasági művelés és a csendes lakókörnyezet jellemzi.",
@@ -194,7 +230,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cà Chiaro", hu: "Cà Chiaro", ro: "Cà Chiaro", en: "Cà Chiaro" },
-    coordinates: { lat: 43.9211, lng: 12.4697 },
+    coords: [12.4697, 43.9211],
     description: {
       de: "Cà Chiaro ist ein kleiner Ortsteil in Faetano. Er liegt in einer sanften Hügellandschaft und bietet eine naturnahe Umgebung.",
       hu: "Cà Chiaro egy kis településrész Faetano-ban. Szelíd dombvidéken fekszik, és természetközeli környezetet biztosít.",
@@ -226,7 +262,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cà dei Lanci", hu: "Cà dei Lanci", ro: "Cà dei Lanci", en: "Cà dei Lanci" },
-    coordinates: { lat: 43.9189, lng: 12.4722 },
+    coords: [12.4722, 43.9189],
     description: {
       de: "Cà dei Lanci ist eine kleine Ortschaft in der Gemeinde Faetano. Die Umgebung zeichnet sich durch ihre ländliche Ruhe und grüne Flächen aus.",
       hu: "Cà dei Lanci egy kis falu Faetano községben. A környezetet a vidéki csend és a zöld területek jellemzik.",
@@ -258,7 +294,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cà Gallo", hu: "Cà Gallo", ro: "Cà Gallo", en: "Cà Gallo" },
-    coordinates: { lat: 43.9158, lng: 12.4761 },
+    coords: [12.4761, 43.9158],
     description: {
       de: "Cà Gallo liegt im Süden von San Marino in der Gemeinde Faetano. Die Ortschaft ist bekannt für ihre traditionelle Bauweise.",
       hu: "Cà Gallo San Marino déli részén, Faetano községben található. A település a hagyományos építkezéséről ismert.",
@@ -290,7 +326,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cà Giangi", hu: "Cà Giangi", ro: "Cà Giangi", en: "Cà Giangi" },
-    coordinates: { lat: 43.9125, lng: 12.4789 },
+    coords: [12.4789, 43.9125],
     description: {
       de: "Cà Giangi ist ein kleiner Ort im Gemeindegebiet von Faetano. Die Region ist von sanften Hügeln und landwirtschaftlichen Flächen geprägt.",
       hu: "Cà Giangi egy kis helység Faetano község területén. A régiót szelíd dombok és mezőgazdasági területek jellemzik.",
@@ -322,7 +358,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cà Guerino", hu: "Cà Guerino", ro: "Cà Guerino", en: "Cà Guerino" },
-    coordinates: { lat: 43.9089, lng: 12.4811 },
+    coords: [12.4811, 43.9089],
     description: {
       de: "Cà Guerino liegt in der Gemeinde Faetano. Der Ort bietet eine naturnahe Wohnqualität in einer ruhigen Umgebung.",
       hu: "Cà Guerino Faetano községben található. A hely természetközeli lakóminőséget biztosít csendes környezetben.",
@@ -354,7 +390,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cà Janni", hu: "Cà Janni", ro: "Cà Janni", en: "Cà Janni" },
-    coordinates: { lat: 43.9056, lng: 12.4839 },
+    coords: [12.4839, 43.9056],
     description: {
       de: "Cà Janni ist ein kleiner Ortsteil von Faetano. Die Region ist von landwirtschaftlicher Tradition und ruhigem dörflichem Leben geprägt.",
       hu: "Cà Janni egy kis településrész Faetano-ban. A régiót a mezőgazdasági hagyományok és a csendes falusi élet jellemzi.",
@@ -386,7 +422,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cà Olivo", hu: "Cà Olivo", ro: "Cà Olivo", en: "Cà Olivo" },
-    coordinates: { lat: 43.9022, lng: 12.4867 },
+    coords: [12.4867, 43.9022],
     description: {
       de: "Cà Olivo ist eine kleine Siedlung im Süden der Gemeinde Faetano. Der Ort liegt in einer landschaftlich reizvollen Umgebung.",
       hu: "Cà Olivo egy kis település Faetano község déli részén. A hely festői környezetben fekszik.",
@@ -418,7 +454,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cà Rossi", hu: "Cà Rossi", ro: "Cà Rossi", en: "Cà Rossi" },
-    coordinates: { lat: 43.8989, lng: 12.4889 },
+    coords: [12.4889, 43.8989],
     description: {
       de: "Cà Rossi ist ein kleiner Ort nahe der südlichen Grenze von Faetano. Die Umgebung zeichnet sich durch ihre hügelige Topografie aus.",
       hu: "Cà Rossi egy kis település közel Faetano déli határához. A környezetet a dombos domborzat jellemzi.",
@@ -450,7 +486,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Caladino", hu: "Caladino", ro: "Caladino", en: "Caladino" },
-    coordinates: { lat: 43.9856, lng: 12.4822 },
+    coords: [12.4822, 43.9856],
     description: {
       de: "Caladino ist eine Ortschaft in der Gemeinde Serravalle. Sie liegt im Norden nahe der Staatsgrenze zu Italien.",
       hu: "Caladino település Serravalle községben. Északon, közel az olasz államhatárhoz fekszik.",
@@ -482,7 +518,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Canepa", hu: "Canepa", ro: "Canepa", en: "Canepa" },
-    coordinates: { lat: 43.9356, lng: 12.4589 },
+    coords: [12.4589, 43.9356],
     description: {
       de: "Canepa liegt im Gemeindegebiet von Borgo Maggiore am Hang des Monte Titano. Der Ort bietet traditionelle sanmarinesische Wohnkultur.",
       hu: "Canepa Borgo Maggiore község területén fekszik, a Monte Titano lejtőjén. A hely hagyományos san marino-i lakókultúrát kínál.",
@@ -514,7 +550,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Casole", hu: "Casole", ro: "Casole", en: "Casole" },
-    coordinates: { lat: 43.9322, lng: 12.4639 },
+    coords: [12.4639, 43.9322],
     description: {
       de: "Casole ist ein Ort in der Gemeinde San Marino. Er liegt in einer hügeligen Gegend und ist von landwirtschaftlichen Flächen umgeben.",
       hu: "Casole San Marino község egyik települése. Dombos vidéken fekszik, és mezőgazdasági területek veszik körül.",
@@ -546,7 +582,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Castellaro", hu: "Castellaro", ro: "Castellaro", en: "Castellaro" },
-    coordinates: { lat: 43.9289, lng: 12.4689 },
+    coords: [12.4689, 43.9289],
     description: {
       de: "Castellaro liegt im Gemeindegebiet von Borgo Maggiore. Der Ort zeichnet sich durch seine ruhige Lage und schöne Aussicht aus.",
       hu: "Castellaro Borgo Maggiore község területén fekszik. A hely csendes elhelyezkedéséről és szép kilátásáról ismert.",
@@ -578,7 +614,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cerbaiola", hu: "Cerbaiola", ro: "Cerbaiola", en: "Cerbaiola" },
-    coordinates: { lat: 43.9256, lng: 12.4739 },
+    coords: [12.4739, 43.9256],
     description: {
       de: "Cerbaiola ist eine kleine Ortschaft in der Gemeinde San Marino. Sie ist umgeben von einer naturnahen und grünen Landschaft.",
       hu: "Cerbaiola egy kis település San Marino községben. Természetközeli és zöld táj veszi körül.",
@@ -610,7 +646,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cerbaiola di Sotto", hu: "Cerbaiola di Sotto", ro: "Cerbaiola di Sotto", en: "Cerbaiola di Sotto" },
-    coordinates: { lat: 43.9222, lng: 12.4789 },
+    coords: [12.4789, 43.9222],
     description: {
       de: "Cerbaiola di Sotto liegt nahe bei Cerbaiola in der Gemeinde San Marino. Der Ortsteil bietet eine ruhige, ländliche Atmosphäre.",
       hu: "Cerbaiola di Sotto Cerbaiola közelében fekszik, San Marino községben. A településrész csendes, vidéki hangulatot áraszt.",
@@ -642,7 +678,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Cervara", hu: "Cervara", ro: "Cervara", en: "Cervara" },
-    coordinates: { lat: 43.9189, lng: 12.4839 },
+    coords: [12.4839, 43.9189],
     description: {
       de: "Cervara ist ein kleiner Ort im Süden von San Marino. Die Region ist von einer hügeligen Landschaft und grünen Flächen geprägt.",
       hu: "Cervara egy kis helység San Marino déli részén. A régiót dombos táj és zöld területek jellemzik.",
@@ -674,7 +710,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Ciampavento", hu: "Ciampavento", ro: "Ciampavento", en: "Ciampavento" },
-    coordinates: { lat: 43.9156, lng: 12.4889 },
+    coords: [12.4889, 43.9156],
     description: {
       de: "Ciampavento liegt im Gemeindegebiet von Borgo Maggiore. Der Ort bietet eine schöne Wohnlage in hügeliger Umgebung.",
       hu: "Ciampavento Borgo Maggiore község területén fekszik. A hely szép lakóhelyet kínál dombos környezetben.",
@@ -706,7 +742,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Corianino", hu: "Corianino", ro: "Corianino", en: "Corianino" },
-    coordinates: { lat: 43.9122, lng: 12.4939 },
+    coords: [12.4939, 43.9122],
     description: {
       de: "Corianino ist eine kleine Siedlung nahe der südöstlichen Grenze von San Marino. Der Ort zeichnet sich durch seine ruhige Atmosphäre aus.",
       hu: "Corianino egy kis település San Marino délkeleti határának közelében. A hely csendes hangulatáról ismert.",
@@ -738,7 +774,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Faetano di Sotto", hu: "Faetano di Sotto", ro: "Faetano di Sotto", en: "Faetano di Sotto" },
-    coordinates: { lat: 43.9089, lng: 12.4989 },
+    coords: [12.4989, 43.9089],
     description: {
       de: "Faetano di Sotto liegt im südlichen Teil der Gemeinde Faetano. Die Region ist von traditionellem ländlichem Leben geprägt.",
       hu: "Faetano di Sotto Faetano község déli részén található. A régiót a hagyományos vidéki élet jellemzi.",
@@ -770,7 +806,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Falciano di Sopra", hu: "Falciano di Sopra", ro: "Falciano di Sopra", en: "Falciano di Sopra" },
-    coordinates: { lat: 43.9056, lng: 12.4939 },
+    coords: [12.4939, 43.9056],
     description: {
       de: "Falciano di Sopra ist ein Ortsteil nahe Falciano in der Gemeinde Serravalle. Er liegt landschaftlich schön in einer hügeligen Gegend.",
       hu: "Falciano di Sopra egy településrész Falciano közelében, Serravalle községben. Szép tájon fekszik, dombos vidéken.",
@@ -802,7 +838,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Gualdicciolo di Sopra", hu: "Gualdicciolo di Sopra", ro: "Gualdicciolo di Sopra", en: "Gualdicciolo di Sopra" },
-    coordinates: { lat: 43.9022, lng: 12.4889 },
+    coords: [12.4889, 43.9022],
     description: {
       de: "Gualdicciolo di Sopra liegt im Westen der Gemeinde Acquaviva. Der Ort ist von landwirtschaftlicher Natur umgeben.",
       hu: "Gualdicciolo di Sopra Acquaviva község nyugati részén fekszik. A települést mezőgazdasági jellegű természet veszi körül.",
@@ -834,7 +870,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Gualdicciolo di Sotto", hu: "Gualdicciolo di Sotto", ro: "Gualdicciolo di Sotto", en: "Gualdicciolo di Sotto" },
-    coordinates: { lat: 43.8989, lng: 12.4839 },
+    coords: [12.4839, 43.8989],
     description: {
       de: "Gualdicciolo di Sotto liegt nahe Gualdicciolo in Acquaviva. Es ist ein ruhiger Wohnort in einem landschaftlich grünen Gebiet.",
       hu: "Gualdicciolo di Sotto Gualdicciolo közelében fekszik, Acquaviva-ban. Ez egy csendes lakóhely zöld tájon.",
@@ -866,7 +902,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Montalbo", hu: "Montalbo", ro: "Montalbo", en: "Montalbo" },
-    coordinates: { lat: 43.9489, lng: 12.4439 },
+    coords: [12.4439, 43.9489],
     description: {
       de: "Montalbo liegt in der Gemeinde Borgo Maggiore. Der Ort bietet eine traditionelle sanmarinesische Wohnkultur an den Hängen.",
       hu: "Montalbo Borgo Maggiore községben fekszik. A település hagyományos san marino-i lakókultúrát kínál a lejtőkön.",
@@ -898,7 +934,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Montegiardino di Sopra", hu: "Montegiardino di Sopra", ro: "Montegiardino di Sopra", en: "Montegiardino di Sopra" },
-    coordinates: { lat: 43.9456, lng: 12.4489 },
+    coords: [12.4489, 43.9456],
     description: {
       de: "Montegiardino di Sopra ist ein Ortsteil von Montegiardino. Er zeichnet sich durch seine ruhige Lage und ländliche Umgebung aus.",
       hu: "Montegiardino di Sopra Montegiardino település része. Csendes elhelyezkedése és vidéki környezete jellemzi.",
@@ -930,7 +966,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Montegiardino di Sotto", hu: "Montegiardino di Sotto", ro: "Montegiardino di Sotto", en: "Montegiardino di Sotto" },
-    coordinates: { lat: 43.9422, lng: 12.4539 },
+    coords: [12.4539, 43.9422],
     description: {
       de: "Montegiardino di Sotto liegt nahe Montegiardino. Es ist ein ruhiger Wohnstandort in einer schönen Landschaft.",
       hu: "Montegiardino di Sotto Montegiardino közelében található. Ez egy csendes lakóhely gyönyörű tájon.",
@@ -962,7 +998,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Paderna", hu: "Paderna", ro: "Paderna", en: "Paderna" },
-    coordinates: { lat: 43.9389, lng: 12.4589 },
+    coords: [12.4589, 43.9389],
     description: {
       de: "Paderna liegt in der Gemeinde Serravalle. Der Ort bietet ein ruhiges Wohnen in einer landschaftlich schönen Gegend.",
       hu: "Paderna Serravalle községben fekszik. A település csendes életet kínál szép tájon.",
@@ -994,7 +1030,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Poggiale", hu: "Poggiale", ro: "Poggiale", en: "Poggiale" },
-    coordinates: { lat: 43.9356, lng: 12.4639 },
+    coords: [12.4639, 43.9356],
     description: {
       de: "Poggiale liegt im Gemeindegebiet von Chiesanuova. Der Ort zeichnet sich durch seine Lage in den Hügeln aus.",
       hu: "Poggiale Chiesanuova község területén fekszik. A hely a dombok közötti elhelyezkedéséről ismert.",
@@ -1026,7 +1062,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Poggio Casalino", hu: "Poggio Casalino", ro: "Poggio Casalino", en: "Poggio Casalino" },
-    coordinates: { lat: 43.9322, lng: 12.4689 },
+    coords: [12.4689, 43.9322],
     description: {
       de: "Poggio Casalino liegt nahe Chiesanuova. Es ist ein kleiner, ruhiger Ort in einer landschaftlich grünen Umgebung.",
       hu: "Poggio Casalino Chiesanuova közelében fekszik. Ez egy kis, csendes hely zöld, szép tájon.",
@@ -1058,7 +1094,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Poggio Chiurano", hu: "Poggio Chiurano", ro: "Poggio Chiurano", en: "Poggio Chiurano" },
-    coordinates: { lat: 43.9289, lng: 12.4739 },
+    coords: [12.4739, 43.9289],
     description: {
       de: "Poggio Chiurano liegt in der Gemeinde Chiesanuova. Der Ort bietet eine schöne Wohnlage in hügeliger Umgebung.",
       hu: "Poggio Chiurano Chiesanuova községben fekszik. A hely szép lakóhelyet kínál dombos környezetben.",
@@ -1090,7 +1126,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Pozzetta", hu: "Pozzetta", ro: "Pozzetta", en: "Pozzetta" },
-    coordinates: { lat: 43.9256, lng: 12.4789 },
+    coords: [12.4789, 43.9256],
     description: {
       de: "Pozzetta liegt in der Gemeinde San Marino. Der Ort ist von einer grünen und landschaftlich reizvollen Gegend umgeben.",
       hu: "Pozzetta San Marino községben fekszik. A települést zöld és szép táj veszi körül.",
@@ -1122,7 +1158,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Quartuccioli", hu: "Quartuccioli", ro: "Quartuccioli", en: "Quartuccioli" },
-    coordinates: { lat: 43.9222, lng: 12.4839 },
+    coords: [12.4839, 43.9222],
     description: {
       de: "Quartuccioli liegt in der Gemeinde Serravalle. Es ist eine kleine, ruhige Ortschaft in einer grünen Umgebung.",
       hu: "Quartuccioli Serravalle községben fekszik. Ez egy kis, csendes település zöld környezetben.",
@@ -1154,7 +1190,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Rovere", hu: "Rovere", ro: "Rovere", en: "Rovere" },
-    coordinates: { lat: 43.9189, lng: 12.4889 },
+    coords: [12.4889, 43.9189],
     description: {
       de: "Rovere ist ein Ort in der Gemeinde Borgo Maggiore. Er bietet eine schöne Wohnlage in hügeliger Umgebung.",
       hu: "Rovere Borgo Maggiore községben fekszik. A hely szép lakóhelyet kínál dombos környezetben.",
@@ -1186,7 +1222,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Santagatha", hu: "Santagatha", ro: "Santagatha", en: "Santagatha" },
-    coordinates: { lat: 43.9156, lng: 12.4939 },
+    coords: [12.4939, 43.9156],
     description: {
       de: "Santagatha liegt in der Gemeinde Faetano. Der Ort zeichnet sich durch seine ruhige Atmosphäre und ländliche Umgebung aus.",
       hu: "Santagatha Faetano községben fekszik. A települést csendes hangulata és vidéki környezete jellemzi.",
@@ -1218,7 +1254,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Sotto Monte", hu: "Sotto Monte", ro: "Sotto Monte", en: "Sotto Monte" },
-    coordinates: { lat: 43.9122, lng: 12.4989 },
+    coords: [12.4989, 43.9122],
     description: {
       de: "Sotto Monte liegt in der Gemeinde Borgo Maggiore. Der Ort bietet eine schöne Wohnlage in hügeliger Umgebung.",
       hu: "Sotto Monte Borgo Maggiore községben fekszik. A hely szép lakóhelyet kínál dombos környezetben.",
@@ -1250,7 +1286,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Taverna", hu: "Taverna", ro: "Taverna", en: "Taverna" },
-    coordinates: { lat: 43.9089, lng: 12.4939 },
+    coords: [12.4939, 43.9089],
     description: {
       de: "Taverna ist ein kleiner Ort in der Gemeinde Chiesanuova. Er liegt in einer ruhigen, ländlichen Umgebung.",
       hu: "Taverna egy kis település Chiesanuova községben. Csendes, vidéki környezetben fekszik.",
@@ -1282,7 +1318,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Torraccia", hu: "Torraccia", ro: "Torraccia", en: "Torraccia" },
-    coordinates: { lat: 43.9056, lng: 12.4889 },
+    coords: [12.4889, 43.9056],
     description: {
       de: "Torraccia liegt im Gemeindegebiet von Serravalle. Der Ort ist bekannt für seine ruhige Lage und schöne Landschaft.",
       hu: "Torraccia Serravalle község területén fekszik. A hely csendes elhelyezkedéséről és szép tájáról ismert.",
@@ -1314,7 +1350,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Valdragone di Sopra", hu: "Valdragone di Sopra", ro: "Valdragone di Sopra", en: "Valdragone di Sopra" },
-    coordinates: { lat: 43.9022, lng: 12.4839 },
+    coords: [12.4839, 43.9022],
     description: {
       de: "Valdragone di Sopra liegt in der Gemeinde Borgo Maggiore. Der Ort bietet eine schöne Wohnlage in hügeliger Umgebung.",
       hu: "Valdragone di Sopra Borgo Maggiore községben fekszik. A hely szép lakóhelyet kínál dombos környezetben.",
@@ -1346,7 +1382,7 @@ export const sanmarinoCitiesV2: POI[] = [
     type: "city",
     parent: "SM",
     name: { de: "Valdragone di Sotto", hu: "Valdragone di Sotto", ro: "Valdragone di Sotto", en: "Valdragone di Sotto" },
-    coordinates: { lat: 43.8989, lng: 12.4789 },
+    coords: [12.4789, 43.8989],
     description: {
       de: "Valdragone di Sotto ist ein Ort in der Gemeinde Borgo Maggiore. Er bietet ein ruhiges Wohnen in einer landschaftlich schönen Gegend.",
       hu: "Valdragone di Sotto Borgo Maggiore község egyik települése. Csendes életet kínál szép tájon.",

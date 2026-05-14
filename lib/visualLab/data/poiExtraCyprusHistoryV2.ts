@@ -6,7 +6,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Kition", hu: "Kition romjai", ro: "Ruinele din Kition", en: "Ruins of Kition" },
-    coordinates: { lat: 34.921, lng: 33.633 },
+    coords: [33.633, 34.921],
     description: {
       de: "Antike Stadtruinen in Larnaka, die auf die späte Bronzezeit zurückgehen. Die Stätte umfasst Tempelreste und Verteidigungsmauern.",
       hu: "Larnacai ókori városromok, amelyek a késő bronzkorból származnak. A lelőhely templommaradványokat és védőfalakat foglal magában.",
@@ -38,7 +38,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Idalion", hu: "Idalion romjai", ro: "Ruinele din Idalion", en: "Ruins of Idalion" },
-    coordinates: { lat: 35.011, lng: 33.402 },
+    coords: [33.402, 35.011],
     description: {
       de: "Archäologische Stätte bei Dali, ein bedeutendes Stadtkönigreich des antiken Zyperns. Die Funde umfassen befestigte Akropolen.",
       hu: "Dali melletti régészeti terület, az ókori Ciprus egyik jelentős városkirálysága. A leletek megerősített akropoliszokat tartalmaznak.",
@@ -70,7 +70,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Tamassos", hu: "Tamasszosz romjai", ro: "Ruinele din Tamassos", en: "Ruins of Tamassos" },
-    coordinates: { lat: 35.035, lng: 33.226 },
+    coords: [33.226, 35.035],
     description: {
       de: "Antike Stätte in Politiko, bekannt für königliche Gräber und Kupferminen. Die Stadt war ein Zentrum der Metallurgie.",
       hu: "Politikó melletti ókori lelőhely, királyi sírokról és rézbányákról ismert. A város a kohászat központja volt.",
@@ -102,7 +102,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Soli", hu: "Soli romjai", ro: "Ruinele din Soli", en: "Ruins of Soli" },
-    coordinates: { lat: 35.143, lng: 32.802 },
+    coords: [32.802, 35.143],
     description: {
       de: "Ruinen der antiken Stadt Soli an der Nordküste. Bekannt für ihr restauriertes Theater und frühchristliche Mosaike.",
       hu: "Az északi parton fekvő Soli ókori városának romjai. Restaurált színházáról és korakeresztény mozaikjairól ismert.",
@@ -134,7 +134,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "palace",
     parent: "CY",
     name: { de: "Palast von Vouni", hu: "Vouni palotája", ro: "Palatul din Vouni", en: "Vouni Palace" },
-    coordinates: { lat: 35.171, lng: 32.701 },
+    coords: [32.701, 35.171],
     description: {
       de: "Überreste eines bedeutenden antiken Palastes auf einem Hügel. Die Stätte bietet einen Blick über die Bucht von Morfou.",
       hu: "Jelentős ókori palota maradványai egy dombon. A lelőhely kilátást nyújt a Morphou-öbölre.",
@@ -166,7 +166,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Engomi", hu: "Engomi romjai", ro: "Ruinele din Engomi", en: "Ruins of Engomi" },
-    coordinates: { lat: 35.166, lng: 33.882 },
+    coords: [33.882, 35.166],
     description: {
       de: "Eine bronzezeitliche Stadt nahe Famagusta. Sie war ein bedeutender Handelsplatz für Kupfer.",
       hu: "Bronzkori város Famagusta közelében. Jelentős rézkereskedelmi központ volt.",
@@ -198,7 +198,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "castle",
     parent: "CY",
     name: { de: "Burg La Cava", hu: "La Cava vár", ro: "Castelul La Cava", en: "La Cava Castle" },
-    coordinates: { lat: 35.253, lng: 33.364 },
+    coords: [33.364, 35.253],
     description: {
       de: "Eine ehemalige mittelalterliche Burg bei Nicosia. Sie diente als Festung und Überwachungsstützpunkt.",
       hu: "Egykori középkori vár Nicosia közelében. Erődítményként és megfigyelőpontként szolgált.",
@@ -230,7 +230,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "castle",
     parent: "CY",
     name: { de: "Burg Kantara", hu: "Kantará vár", ro: "Castelul Kantara", en: "Kantara Castle" },
-    coordinates: { lat: 35.405, lng: 33.928 },
+    coords: [33.928, 35.405],
     description: {
       de: "Eine historische Bergfestung in der Pentadaktylos-Kette. Die Burg bietet einen Panoramablick auf die Nordküste.",
       hu: "Történelmi hegyi erődítmény a Pentadaktylos-hegységben. A vár panorámás kilátást nyújt az északi partra.",
@@ -262,7 +262,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "castle",
     parent: "CY",
     name: { de: "Burg Bufavento", hu: "Bufavento vár", ro: "Castelul Bufavento", en: "Buffavento Castle" },
-    coordinates: { lat: 35.285, lng: 33.415 },
+    coords: [33.415, 35.285],
     description: {
       de: "Eine hochgelegene mittelalterliche Burg im Pentadaktylos-Gebirge. Sie wurde zur Sicherung der Insel genutzt.",
       hu: "Magasan fekvő középkori vár a Pentadaktylos-hegységben. A sziget biztosítására használták.",
@@ -294,7 +294,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "theater",
     parent: "CY",
     name: { de: "Odeon von Paphos", hu: "Paphoszi Odeon", ro: "Odeonul din Paphos", en: "Odeon of Paphos" },
-    coordinates: { lat: 34.761, lng: 32.416 },
+    coords: [32.416, 34.761],
     description: {
       de: "Ein restauriertes römisches Theater aus dem 2. Jahrhundert in Paphos. Es wurde für musikalische Aufführungen genutzt.",
       hu: "Egy restaurált 2. századi római színház Paphosban. Zenei előadásokra használták.",
@@ -326,7 +326,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "castle",
     parent: "CY",
     name: { de: "Saranta Kolones", hu: "Szaránta Kolónesz", ro: "Saranta Kolones", en: "Saranta Kolones" },
-    coordinates: { lat: 34.757, lng: 32.413 },
+    coords: [32.413, 34.757],
     description: {
       de: "Ruinen einer byzantinischen Burg nahe Paphos. Der Name leitet sich von den 40 Granitsäulen ab.",
       hu: "Bizánci vár romjai Paphos közelében. A név a 40 gránitoszlopról származik.",
@@ -358,7 +358,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kloster Machairas", hu: "Machairas kolostor", ro: "Mănăstirea Machairas", en: "Machairas Monastery" },
-    coordinates: { lat: 34.935, lng: 33.167 },
+    coords: [33.167, 34.935],
     description: {
       de: "Ein bedeutendes Kloster im Troodos-Gebirge. Es beherbergt eine wertvolle Marienikone.",
       hu: "Jelentős kolostor a Troodos-hegységben. Egy értékes Mária-ikont őriz.",
@@ -390,7 +390,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "tower",
     parent: "CY",
     name: { de: "Othello-Turm", hu: "Othello-torony", ro: "Turnul Othello", en: "Othello Tower" },
-    coordinates: { lat: 35.126, lng: 33.941 },
+    coords: [33.941, 35.126],
     description: {
       de: "Ein befestigter Turm in Famagusta. Er ist Teil der Stadtmauern und nach Shakespeares Drama benannt.",
       hu: "Famagusta egyik erődített tornya. A városfal része, Shakespeare drámája után kapta nevét.",
@@ -422,7 +422,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "castle",
     parent: "CY",
     name: { de: "Burg Kyrenia", hu: "Kyreniai vár", ro: "Castelul din Kyrenia", en: "Kyrenia Castle" },
-    coordinates: { lat: 35.342, lng: 33.322 },
+    coords: [33.322, 35.342],
     description: {
       de: "Eine mächtige Burg am Hafen von Kyrenia. Sie enthält ein Schiffswrack-Museum.",
       hu: "Hatalmas vár Kyrenia kikötőjében. Hajóroncs-múzeumot tartalmaz.",
@@ -454,7 +454,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Salamis", hu: "Salamis romjai", ro: "Ruinele din Salamis", en: "Ruins of Salamis" },
-    coordinates: { lat: 35.185, lng: 33.905 },
+    coords: [33.905, 35.185],
     description: {
       de: "Umfassende Ruinen der antiken Stadt Salamis bei Famagusta. Sie umfasst ein Theater und Thermen.",
       hu: "Famagusta melletti ókori Salamis városának kiterjedt romjai. Színházat és thermákat tartalmaz.",
@@ -486,7 +486,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Amathus", hu: "Amathus romjai", ro: "Ruinele din Amathus", en: "Ruins of Amathus" },
-    coordinates: { lat: 34.713, lng: 33.143 },
+    coords: [33.143, 34.713],
     description: {
       de: "Überreste der antiken Stadt Amathus östlich von Limassol. Sie beherbergt einen Tempel der Aphrodite.",
       hu: "Amathus ókori városának maradványai Limassoltól keletre. Aphrodité templomának ad otthont.",
@@ -518,7 +518,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "theater",
     parent: "CY",
     name: { de: "Theater von Kourion", hu: "Kourioni színház", ro: "Teatrul din Kourion", en: "Theater of Kourion" },
-    coordinates: { lat: 34.662, lng: 32.887 },
+    coords: [32.887, 34.662],
     description: {
       de: "Ein spektakuläres römisches Theater auf einer Klippe. Teil der antiken Stadt Kourion.",
       hu: "Látványos római színház egy sziklán. A kourioni ókori város része.",
@@ -550,7 +550,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Haus des Dionysos", hu: "Dionüszosz háza", ro: "Casa lui Dionysos", en: "House of Dionysos" },
-    coordinates: { lat: 34.757, lng: 32.411 },
+    coords: [32.411, 34.757],
     description: {
       de: "Antikes Wohnhaus in Paphos mit berühmten Mosaiken. Es zeigt Szenen aus der griechischen Mythologie.",
       hu: "Ókori lakóház Paphosban híres mozaikokkal. Görög mitológiai jeleneteket ábrázol.",
@@ -582,7 +582,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "castle",
     parent: "CY",
     name: { de: "Fort von Paphos", hu: "Paphoszi erőd", ro: "Fortul din Paphos", en: "Paphos Fort" },
-    coordinates: { lat: 34.754, lng: 32.409 },
+    coords: [32.409, 34.754],
     description: {
       de: "Eine kleine Küstenfestung am Hafen von Paphos. Es ist ein markantes Wahrzeichen der Stadt.",
       hu: "Kis parti erőd Paphos kikötőjében. A város meghatározó jelképe.",
@@ -614,7 +614,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Nikolaos tis Stegis", hu: "Agios Nikolaos tis Stegis templom", ro: "Biserica Agios Nikolaos tis Stegis", en: "Church of Agios Nikolaos tis Stegis" },
-    coordinates: { lat: 34.962, lng: 32.884 },
+    coords: [32.884, 34.962],
     description: {
       de: "Eine byzantinische Kirche im Troodos-Gebirge mit gut erhaltenen Fresken. UNESCO-Weltkulturerbe.",
       hu: "Bizánci templom a Troodos-hegységben, jól megőrzött freskókkal. UNESCO Világörökség.",
@@ -646,7 +646,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kloster Agios Ioannis Lampadistis", hu: "Agios Ioannis Lampadistis kolostor", ro: "Mănăstirea Agios Ioannis Lampadistis", en: "Agios Ioannis Lampadistis Monastery" },
-    coordinates: { lat: 34.992, lng: 32.829 },
+    coords: [32.829, 34.992],
     description: {
       de: "Ein altes Kloster in Kalopanagiotis, berühmt für seine gut erhaltenen Wandmalereien. UNESCO-Weltkulturerbe.",
       hu: "Régi kolostor Kalopanagiotisban, híres a jól megőrzött falfestményeiről. UNESCO Világörökség.",
@@ -678,7 +678,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Agios Sozomenos", hu: "Agios Sozomenos romjai", ro: "Ruinele din Agios Sozomenos", en: "Ruins of Agios Sozomenos" },
-    coordinates: { lat: 35.045, lng: 33.435 },
+    coords: [33.435, 35.045],
     description: {
       de: "Ein verlassenes Dorf nahe Nicosia mit einer historischen Kirche und Ruinen. Ein Ort der Geschichte.",
       hu: "Elhagyatott falu Nicosia közelében történelmi templommal és romokkal. A történelem egy helyszíne.",
@@ -710,7 +710,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "castle",
     parent: "CY",
     name: { de: "Burg Frourio", hu: "Frourio vár", ro: "Castelul Frourio", en: "Frourio Castle" },
-    coordinates: { lat: 35.176, lng: 33.361 },
+    coords: [33.361, 35.176],
     description: {
       de: "Überreste einer Verteidigungsanlage bei Nicosia, die historisch bedeutsam ist.",
       hu: "Nicosia melletti védelmi építmény maradványai, amely történelmileg jelentős.",
@@ -742,7 +742,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Heiligtum von Palaipaphos", hu: "Palaipaphoszi szentély", ro: "Sanctuarul din Palaipaphos", en: "Sanctuary of Palaipaphos" },
-    coordinates: { lat: 34.708, lng: 32.576 },
+    coords: [32.576, 34.708],
     description: {
       de: "Eine antike Kultstätte in Kouklia, einst das wichtigste Zentrum der Aphrodite-Verehrung auf Zypern.",
       hu: "Ókori kultuszhely Koukliában, egykor Ciprus legfontosabb Aphrodité-tiszteleti központja.",
@@ -774,7 +774,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "bridge",
     parent: "CY",
     name: { de: "Kamares-Aquädukt", hu: "Kamaresz-vízvezeték", ro: "Apeductul Kamares", en: "Kamares Aqueduct" },
-    coordinates: { lat: 34.908, lng: 33.601 },
+    coords: [33.601, 34.908],
     description: {
       de: "Ein historisches Aquädukt aus dem 18. Jahrhundert in Larnaka. Es diente zur Wasserversorgung.",
       hu: "Történelmi vízvezeték a 18. századból Larnacában. Vízellátásra használták.",
@@ -806,7 +806,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Panagia Asinou", hu: "Panagia Asinou templom", ro: "Biserica Panagia Asinou", en: "Church of Panagia Asinou" },
-    coordinates: { lat: 35.011, lng: 32.978 },
+    coords: [32.978, 35.011],
     description: {
       de: "Eine byzantinische Kirche im Troodos-Gebirge mit außergewöhnlichen Wandmalereien. UNESCO-Weltkulturerbe.",
       hu: "Bizánci templom a Troodos-hegységben, rendkívüli falfestményekkel. UNESCO Világörökség.",
@@ -838,7 +838,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Ioannis Agros", hu: "Agios Ioannis Agros templom", ro: "Biserica Agios Ioannis Agros", en: "Church of Agios Ioannis Agros" },
-    coordinates: { lat: 34.922, lng: 32.997 },
+    coords: [32.997, 34.922],
     description: {
       de: "Eine historische Kirche im Dorf Agros. Sie zeugt von der religiösen Geschichte der Region.",
       hu: "Történelmi templom Agros faluban. A régió vallástörténetéről tanúskodik.",
@@ -870,7 +870,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Panagia Podythou", hu: "Panagia Podythou templom", ro: "Biserica Panagia Podythou", en: "Church of Panagia Podythou" },
-    coordinates: { lat: 34.996, lng: 32.898 },
+    coords: [32.898, 34.996],
     description: {
       de: "Eine kleine byzantinische Kirche in Galata mit prächtigen Fresken. Teil des UNESCO-Weltkulturerbes.",
       hu: "Kis bizánci templom Galatában, csodálatos freskókkal. Az UNESCO Világörökség része.",
@@ -902,7 +902,7 @@ export const cyprusHistoryV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Archangelos Michael Pedoulas", hu: "Archangelosz Michael Pedoulas templom", ro: "Biserica Archangelos Michael Pedoulas", en: "Church of Archangelos Michael Pedoulas" },
-    coordinates: { lat: 34.966, lng: 32.825 },
+    coords: [32.825, 34.966],
     description: {
       de: "Eine byzantinische Kirche im Dorf Pedoulas. Bekannt für ihre detaillierten Malereien aus dem 15. Jahrhundert.",
       hu: "Bizánci templom Pedoulas faluban. Híres 15. századi részletes festményeiről.",

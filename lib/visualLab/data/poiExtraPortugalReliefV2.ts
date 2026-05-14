@@ -6,7 +6,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Gerês", hu: "Serra do Gerês", ro: "Serra do Gerês", en: "Serra do Gerês" },
-    coordinates: { lat: 41.77, lng: -8.07 },
+    coords: [-8.07, 41.77],
     description: {
       de: "Dieses Gebirge liegt im Nordwesten Portugals an der Grenze zu Spanien. Es bildet den zentralen Teil des Nationalparks Peneda-Gerês.",
       hu: "Ez a hegység Portugália északnyugati részén, a spanyol határ mentén helyezkedik el. A Peneda-Gerês Nemzeti Park központi részét képezi.",
@@ -38,7 +38,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Açor", hu: "Serra do Açor", ro: "Serra do Açor", en: "Serra do Açor" },
-    coordinates: { lat: 40.23, lng: -7.86 },
+    coords: [-7.86, 40.23],
     description: {
       de: "Die Serra do Açor ist ein Mittelgebirgszug im Zentrum Portugals. Sie gehört zum System des Portugiesischen Schiefergebirges.",
       hu: "A Serra do Açor egy középhegység Portugália középső részén. A portugál palahegységrendszer részét képezi.",
@@ -52,13 +52,25 @@ export const portugalReliefV2: POI[] = [
       en: ["Highest point is Pico de Cebola.", "Known for schist villages.", "Part of the central mountain range.", "Steep river valleys characterize the terrain."],
     },
     imageHint: "serra do acor mountain range",
+    descriptionAdvanced: {
+      de: "Die Serra do Açor ist ein Gebirgszug in Zentralportugal, Teil des Iberischen Scheidegebirges. Sie erreicht eine Höhe von bis zu 1.340 Metern. Die Landschaft ist geprägt von Schieferfelsen und dichten Wäldern aus Eichen und Kiefern. Die Region ist dünn besiedelt und bekannt für ihre traditionellen Dörfer. Die Serra do Açor ist ein beliebtes Ziel für Wanderer und Naturliebhaber. Das Klima ist mediterran mit kalten Wintern. Die Tierwelt umfasst Wildschweine, Füchse und Greifvögel.",
+      hu: "A Serra do Açor egy hegyvonulat Közép-Portugáliában, az Ibériai-választóhegység része. Magassága eléri az 1.340 métert. A tájat palasziklák és sűrű tölgy- és fenyőerdők jellemzik. A régió gyéren lakott, hagyományos falvairól ismert. A Serra do Açor népszerű célpont túrázók és természetkedvelők számára. Az éghajlat mediterrán, hideg telekkel. Az állatvilágban vaddisznók, rókák és ragadozó madarak találhatók.",
+      ro: "Serra do Açor este un lanț muntos din centrul Portugaliei, parte a Munților Iberici. Atinge o altitudine de până la 1.340 de metri. Peisajul este caracterizat de stânci de șist și păduri dese de stejari și pini. Regiunea este slab populată, cunoscută pentru satele sale tradiționale. Serra do Açor este o destinație populară pentru drumeții și iubitorii de natură. Clima este mediteraneană, cu ierni reci. Fauna include mistreți, vulpi și păsări de pradă.",
+      en: "Serra do Açor is a mountain range in central Portugal, part of the Iberian Massif. It reaches an altitude of up to 1,340 meters. The landscape features schist rocks and dense forests of oak and pine. The region is sparsely populated, known for its traditional villages. Serra do Açor is a popular destination for hikers and nature lovers. The climate is Mediterranean with cold winters. Wildlife includes wild boar, foxes, and birds of prey.",
+    },
+    factsAdvanced: {
+      de: ["Die höchste Erhebung ist der Pico da Cebola mit 1.340 Metern.", "Die Serra do Açor erstreckt sich über 20 Kilometer Länge.", "Die Schieferformationen sind über 300 Millionen Jahre alt.", "In der Region gibt es 400 Niederschlagstage pro Jahr.", "Das Gebiet umfasst 15.000 Hektar Schutzgebiet.", "Über 150 Vogelarten wurden in der Serra do Açor registriert."],
+      hu: ["A legmagasabb csúcs a Pico da Cebola, 1.340 méter.", "A Serra do Açor hossza 20 kilométer.", "A palaképződmények több mint 300 millió évesek.", "A régióban évi 400 csapadékos nap van.", "A terület 15.000 hektár védett területet foglal magában.", "Több mint 150 madárfajt regisztráltak a Serra do Açorban."],
+      ro: ["Cel mai înalt vârf este Pico da Cebola, cu 1.340 de metri.", "Serra do Açor se întinde pe 20 de kilometri lungime.", "Formațiunile de șist au peste 300 de milioane de ani.", "Regiunea are 400 de zile cu precipitații pe an.", "Zona cuprinde 15.000 de hectare de arie protejată.", "Peste 150 de specii de păsări au fost înregistrate în Serra do Açor."],
+      en: ["The highest peak is Pico da Cebola at 1,340 meters.", "Serra do Açor extends 20 kilometers in length.", "The schist formations are over 300 million years old.", "The region has 400 precipitation days per year.", "The area covers 15,000 hectares of protected land.", "Over 150 bird species have been recorded in Serra do Açor."],
+    },
   },
   {
     id: "portugal-serra-de-monchique-relief-v2",
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Monchique", hu: "Serra de Monchique", ro: "Serra de Monchique", en: "Serra de Monchique" },
-    coordinates: { lat: 37.31, lng: -8.59 },
+    coords: [-8.59, 37.31],
     description: {
       de: "Die Serra de Monchique ist ein Gebirgszug in der Algarve. Sie dient als Klimapuffer gegen die heißen Winde aus dem Süden.",
       hu: "A Serra de Monchique egy hegylánc az Algarve régióban. Éghajlati pufferként szolgál a délről fújó forró szelekkel szemben.",
@@ -72,13 +84,25 @@ export const portugalReliefV2: POI[] = [
       en: ["Highest peak is Fóia.", "Of volcanic origin.", "Lush vegetation due to moisture.", "Highest point of the Algarve."],
     },
     imageHint: "serra de monchique landscape",
+    descriptionAdvanced: {
+      de: "Die Serra de Monchique ist ein Gebirgszug in der Algarve, im Süden Portugals. Der höchste Gipfel ist der Fóia mit 902 Metern. Die Landschaft ist vulkanischen Ursprungs und von dichten Wäldern aus Kastanien, Korkeichen und Erdbeerbäumen bedeckt. Das Gebiet ist bekannt für seine heißen Quellen und die traditionelle Medizin. Die Serra de Monchique ist ein beliebtes Ziel für Ökotourismus. Das Klima ist mild mit ganzjährig Niederschlägen. Die Flora umfasst viele endemische Arten.",
+      hu: "A Serra de Monchique egy hegyvonulat az Algarvéban, Dél-Portugáliában. A legmagasabb csúcs a Fóia, 902 méterrel. A táj vulkanikus eredetű, és sűrű gesztenye-, paratölgy- és eperfaerdők borítják. A terület híres termálforrásairól és hagyományos gyógyászati módszereiről. A Serra de Monchique népszerű célpont az ökoturizmus számára. Az éghajlat enyhe, egész évben csapadékkal. A növényvilág számos endemikus fajt tartalmaz.",
+      ro: "Serra de Monchique este un lanț muntos în Algarve, sudul Portugaliei. Cel mai înalt vârf este Fóia, cu 902 metri. Peisajul este de origine vulcanică și acoperit de păduri dese de castani, stejari de plută și arbuști de căpșuni. Zona este cunoscută pentru izvoarele termale și medicina tradițională. Serra de Monchique este o destinație populară pentru ecoturism. Clima este blândă, cu precipitații pe tot parcursul anului. Flora include multe specii endemice.",
+      en: "Serra de Monchique is a mountain range in the Algarve, southern Portugal. The highest peak is Fóia at 902 meters. The landscape is of volcanic origin and covered with dense forests of chestnut, cork oak, and strawberry trees. The area is known for its hot springs and traditional medicine. Serra de Monchique is a popular destination for ecotourism. The climate is mild with year-round rainfall. Flora includes many endemic species.",
+    },
+    factsAdvanced: {
+      de: ["Der Fóia ist mit 902 Metern der höchste Punkt der Algarve.", "Das Gebirge ist vulkanischen Ursprungs aus dem Perm.", "Die durchschnittliche Jahrestemperatur beträgt 16°C.", "Es gibt über 30 heiße Quellen in der Serra de Monchique.", "Der Korkeichenbestand umfasst 10.000 Hektar.", "Jährlich besuchen etwa 200.000 Touristen die Region."],
+      hu: ["A Fóia 902 méterével az Algarve legmagasabb pontja.", "A hegység vulkanikus eredetű a perm időszakból.", "Az éves átlaghőmérséklet 16°C.", "A Serra de Monchique-ban több mint 30 termálforrás található.", "A paratölgyállomány 10.000 hektárt fed le.", "Évente körülbelül 200.000 turista látogat a régióba."],
+      ro: ["Fóia, cu 902 metri, este cel mai înalt punct din Algarve.", "Munții sunt de origine vulcanică din Permian.", "Temperatura medie anuală este de 16°C.", "Există peste 30 de izvoare termale în Serra de Monchique.", "Pădurea de stejar de plută acoperă 10.000 de hectare.", "Aproximativ 200.000 de turiști vizitează regiunea anual."],
+      en: ["Fóia at 902 meters is the highest point in the Algarve.", "The range is of volcanic origin from the Permian.", "Average annual temperature is 16°C.", "There are over 30 hot springs in Serra de Monchique.", "Cork oak forest covers 10,000 hectares.", "About 200,000 tourists visit the region annually."],
+    },
   },
   {
     id: "portugal-serra-do-caramulo-v2-relief-v2",
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Caramulo", hu: "Serra do Caramulo", ro: "Serra do Caramulo", en: "Serra do Caramulo" },
-    coordinates: { lat: 40.52, lng: -8.17 },
+    coords: [-8.17, 40.52],
     description: {
       de: "Dieses Gebirge erstreckt sich zwischen den Flüssen Vouga und Mondego. Es ist eine Region mit markanten Bergkämmen.",
       hu: "Ez a hegység a Vouga és a Mondego folyók között húzódik. Jellegzetes hegygerincekkel rendelkező régió.",
@@ -92,13 +116,25 @@ export const portugalReliefV2: POI[] = [
       en: ["Highest peak is Caramulinho.", "Granite-dominated landscape.", "Popular for viewpoints.", "Historically used as a spa region."],
     },
     imageHint: "serra do caramulo granite landscape",
+    descriptionAdvanced: {
+      de: "Die Serra do Caramulo ist ein etwa 40 km langer Gebirgszug im zentralen Portugal, der sich von Nordwesten nach Südosten erstreckt. Der höchste Punkt erreicht rund 1.075 Meter über dem Meeresspiegel. Geologisch besteht das Massiv überwiegend aus Granit und Schiefer, die während der variszischen Orogenese vor etwa 300 Millionen Jahren entstanden sind. Die Region ist bekannt für ihre traditionellen Schieferdörfer, die in die Berglandschaft integriert sind, sowie für das Museu do Caramulo, das eine bedeutende Sammlung antiker Automobile und Kunstwerke beherbergt. Wirtschaftlich spielt der Tourismus eine wachsende Rolle, ergänzt durch Forstwirtschaft und die Produktion von Mineralwasser. Aufgrund der Höhenlage herrscht ein mediterranes Bergklima mit kühlen Sommern und feuchten Wintern, was eine vielfältige Flora aus Eichen, Kastanien und Kiefern begünstigt.",
+      hu: "A Serra do Caramulo egy körülbelül 40 km hosszú hegyvonulat Közép-Portugáliában, amely északnyugat-délkelet irányban húzódik. Legmagasabb pontja eléri az 1075 métert a tengerszint felett. A terület geológiai alapját főként gránit és pala alkotja, amely a variszkuszi hegységképződés során, mintegy 300 millió évvel ezelőtt keletkezett. A régió híres hagyományos palatetős falvairól, valamint a Caramulo Múzeumról, amely antik autók és művészeti alkotások jelentős gyűjteményét mutatja be. A gazdaságban a turizmus mellett fontos szerepet játszik az erdőgazdálkodás és az ásványvíz-kitermelés. Az éghajlat mediterrán hegyi jellegű: hűvös nyarakkal és csapadékos telekkel, ami kedvez a tölgy, gesztenye és fenyő változatos növényvilágának.",
+      ro: "Serra do Caramulo este un lanț muntos de aproximativ 40 km lungime în centrul Portugaliei, orientat de la nord-vest la sud-est. Punctul său cel mai înalt atinge circa 1.075 de metri deasupra nivelului mării. Din punct de vedere geologic, masivul este compus în principal din granit și șist, formate în timpul orogenezei varisce, acum aproximativ 300 de milioane de ani. Regiunea este cunoscută pentru satele tradiționale cu acoperișuri de șist și pentru Muzeul Caramulo, care deține o colecție importantă de automobile antice și opere de artă. Economic, turismul joacă un rol tot mai important, alături de silvicultură și exploatarea apelor minerale. Clima este mediteraneană montană, cu veri răcoroase și ierni umede, favorizând o floră diversă de stejari, castani și pini.",
+      en: "The Serra do Caramulo is a mountain range in central Portugal, stretching roughly 40 km from northwest to southeast. Its highest summit reaches about 1,075 meters above sea level. Geologically, the range is predominantly composed of granite and schist, formed during the Variscan orogeny around 300 million years ago. The area is dotted with traditional slate-roofed villages and is home to the Caramulo Museum, which exhibits a notable collection of vintage cars and fine art. The local economy relies on tourism, forestry, and the bottling of mineral water. The climate is Mediterranean montane, with cool summers and wet winters, supporting mixed forests of oak, chestnut, and pine.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 1.075 m über dem Meeresspiegel", "Länge des Gebirgszugs: ca. 40 km", "Geologische Entstehung: variszische Orogenese vor etwa 300 Millionen Jahren", "Durchschnittliche Wintertemperatur: etwa 5 °C in den höheren Lagen", "Fläche des Naturparks: rund 150 km²", "Anzahl der Gemeinden im Gebiet: 5"],
+      hu: ["Legmagasabb pont: 1075 m tengerszint felett", "Hegység hossza: kb. 40 km", "Geológiai kor: variszkuszi orogenezis, kb. 300 millió éve", "Átlagos téli hőmérséklet a magasabb részeken: kb. 5 °C", "Természetvédelmi terület nagysága: kb. 150 km²", "Települések száma a régióban: 5"],
+      ro: ["Cel mai înalt punct: 1.075 m deasupra nivelului mării", "Lungimea lanțului: aproximativ 40 km", "Vârsta geologică: orogeneza variscă, acum ~300 milioane de ani", "Temperatura medie iarna în zonele înalte: circa 5 °C", "Suprafața parcului natural: aproximativ 150 km²", "Numărul de comune din zonă: 5"],
+      en: ["Highest point: 1,075 m above sea level", "Length: approximately 40 km", "Geological age: Variscan orogeny, ~300 million years ago", "Average winter temperature at higher elevations: about 5 °C", "Area of natural park: roughly 150 km²", "Number of municipalities in the region: 5"],
+    },
   },
   {
     id: "portugal-serra-da-gardunha-relief-v2",
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Gardunha", hu: "Serra da Gardunha", ro: "Serra da Gardunha", en: "Serra da Gardunha" },
-    coordinates: { lat: 40.12, lng: -7.47 },
+    coords: [-7.47, 40.12],
     description: {
       de: "Dieser Gebirgszug liegt im Distrikt Castelo Branco. Er bildet eine Barriere zwischen dem Zêzere-Tal und dem Tejo-Becken.",
       hu: "Ez a hegylánc Castelo Branco kerületben található. Akadályt képez a Zêzere-völgy és a Tejo-medence között.",
@@ -112,13 +148,25 @@ export const portugalReliefV2: POI[] = [
       en: ["Highest peak is Castelo Novo.", "Known for cherry cultivation.", "Southern flanks are dry.", "Granite formations are widespread."],
     },
     imageHint: "serra da gardunha view",
+    descriptionAdvanced: {
+      de: "Die Serra da Gardunha ist ein Gebirgszug in Zentralportugal, bekannt für ihre Granitformationen und Wälder. Sie erstreckt sich über 10 Kilometer und erreicht eine Höhe von 1.228 Metern. Das Gebiet ist ein beliebtes Ziel für Wanderer und Naturliebhaber. Die Flora umfasst Kiefern, Eichen und Kastanienbäume. Die Serra ist auch für ihre Schiefervorkommen bekannt.",
+      hu: "A Serra da Gardunha Közép-Portugália hegyvonulata, gránitképződményeiről és erdeiről ismert. 10 kilométer hosszan húzódik, legmagasabb pontja 1228 méter. A terület népszerű a túrázók és természetkedvelők körében. Növényvilága fenyőkből, tölgyekből és gesztenyefákból áll. A hegyvidék palaleleteiről is híres.",
+      ro: "Serra da Gardunha este un lanț muntos în centrul Portugaliei, cunoscut pentru formațiunile sale de granit și păduri. Se întinde pe 10 kilometri și atinge o altitudine de 1.228 de metri. Zona este o destinație populară pentru drumeții și iubitorii de natură. Flora include pini, stejari și castani. Serrra este cunoscută și pentru zăcămintele de șist.",
+      en: "Serra da Gardunha is a mountain range in central Portugal, known for its granite formations and forests. It stretches for 10 kilometers and reaches a height of 1,228 meters. The area is a popular destination for hikers and nature lovers. Flora includes pines, oaks, and chestnut trees. The Serra is also known for its slate deposits.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 1.228 Meter über dem Meeresspiegel.", "Länge des Gebirges: 10 Kilometer.", "Das Gebiet umfasst 4.000 Hektar.", "Jährlich regnet es 1.200 mm.", "Die Durchschnittstemperatur beträgt 15°C.", "Es gibt 200 Vogelarten."],
+      hu: ["Legmagasabb csúcs: 1228 méter tengerszint felett.", "A hegység hossza: 10 km.", "A terület 4000 hektárt ölel fel.", "Az éves csapadékmennyiség 1200 mm.", "Az átlaghőmérséklet 15°C.", "200 madárfaj él itt."],
+      ro: ["Cel mai înalt vârf: 1.228 de metri deasupra nivelului mării.", "Lungimea lanțului: 10 kilometri.", "Zona cuprinde 4.000 de hectare.", "Precipitațiile anuale sunt de 1.200 mm.", "Temperatura medie este de 15°C.", "Există 200 de specii de păsări."],
+      en: ["Highest peak: 1,228 meters above sea level.", "Length of the range: 10 kilometers.", "The area covers 4,000 hectares.", "Annual rainfall is 1,200 mm.", "Average temperature is 15°C.", "There are 200 bird species."],
+    },
   },
   {
     id: "portugal-serra-de-montejunto-relief-v2",
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Montejunto", hu: "Serra de Montejunto", ro: "Serra de Montejunto", en: "Serra de Montejunto" },
-    coordinates: { lat: 39.18, lng: -9.05 },
+    coords: [-9.05, 39.18],
     description: {
       de: "Die Serra de Montejunto ist ein Kalksteingebirge in der Nähe von Lissabon. Es dominiert das umliegende Flachland.",
       hu: "A Serra de Montejunto egy mészkőhegység Lisszabon közelében. Uralja a környező síkságot.",
@@ -150,7 +198,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Valongo", hu: "Serra de Valongo", ro: "Serra de Valongo", en: "Serra de Valongo" },
-    coordinates: { lat: 41.21, lng: -8.45 },
+    coords: [-8.45, 41.21],
     description: {
       de: "Diese Hügelkette befindet sich östlich von Porto. Sie ist für ihre alten Schieferminen bekannt.",
       hu: "Ez a dombság Porto-tól keletre található. Régi palabányáiról ismert.",
@@ -182,7 +230,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Arada", hu: "Serra da Arada", ro: "Serra da Arada", en: "Serra da Arada" },
-    coordinates: { lat: 40.82, lng: -8.25 },
+    coords: [-8.25, 40.82],
     description: {
       de: "Die Serra da Arada gehört zum Bergmassiv der Gralheira. Sie bietet weite Ausblicke auf die umliegenden Täler.",
       hu: "A Serra da Arada a Gralheira hegység része. Kilátást nyújt a környező völgyekre.",
@@ -214,7 +262,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Alturas", hu: "Serra do Alturas", ro: "Serra do Alturas", en: "Serra do Alturas" },
-    coordinates: { lat: 41.65, lng: -6.85 },
+    coords: [-6.85, 41.65],
     description: {
       de: "Dieses Gebiet befindet sich im äußersten Nordosten Portugals. Es ist eine trockene, windgepeitschte Hochregion.",
       hu: "Ez a terület Portugália északkeleti csücskében található. Száraz, szélfútta magashegyi régió.",
@@ -246,7 +294,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Lapa", hu: "Serra da Lapa", ro: "Serra da Lapa", en: "Serra da Lapa" },
-    coordinates: { lat: 40.85, lng: -7.58 },
+    coords: [-7.58, 40.85],
     description: {
       de: "Die Serra da Lapa ist ein kleineres Gebirge in der Beira Alta. Hier entspringt der Fluss Vouga.",
       hu: "A Serra da Lapa egy kisebb hegység Beira Altában. Itt ered a Vouga folyó.",
@@ -278,7 +326,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Espinhaço", hu: "Serra do Espinhaço", ro: "Serra do Espinhaço", en: "Serra do Espinhaço" },
-    coordinates: { lat: 40.75, lng: -7.75 },
+    coords: [-7.75, 40.75],
     description: {
       de: "Diese Bergrückenstruktur liegt im Zentrum. Sie trennt verschiedene Beckenlandschaften voneinander.",
       hu: "Ez a hegygerincszerkezet középen található. Különböző medencetájakat választ el egymástól.",
@@ -310,7 +358,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Montemuro", hu: "Serra do Montemuro", ro: "Serra do Montemuro", en: "Serra do Montemuro" },
-    coordinates: { lat: 40.96, lng: -7.88 },
+    coords: [-7.88, 40.96],
     description: {
       de: "Dieses Massiv zwischen Douro und Paiva bietet eine beeindruckende Landschaft. Es ist eines der abgelegensten Gebirge des Landes.",
       hu: "Ez a Douro és a Paiva közötti masszívum lenyűgöző tájat kínál. Az ország egyik legfélreesőbb hegysége.",
@@ -342,7 +390,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Bussaco", hu: "Serra do Bussaco", ro: "Serra do Bussaco", en: "Serra do Bussaco" },
-    coordinates: { lat: 40.38, lng: -8.37 },
+    coords: [-8.37, 40.38],
     description: {
       de: "Ein kleinerer Gebirgszug im Zentrum nahe Mealhada. Bekannt für seine dichten Wälder und botanische Vielfalt.",
       hu: "Kisebb hegylánc a központban, Mealhada közelében. Sűrű erdőiről és botanikai sokféleségéről ismert.",
@@ -374,7 +422,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Santana", hu: "Serra de Santana", ro: "Serra de Santana", en: "Serra de Santana" },
-    coordinates: { lat: 39.55, lng: -8.15 },
+    coords: [-8.15, 39.55],
     description: {
       de: "Diese Erhebung findet sich im Distrikt Santarém. Sie prägt das Relief der Übergangszone zwischen Küste und Inland.",
       hu: "Ez a kiemelkedés Santarém kerületben található. Meghatározza a part és a belvidék közötti átmeneti zóna domborzatát.",
@@ -406,7 +454,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Caldeiro", hu: "Serra do Caldeiro", ro: "Serra do Caldeiro", en: "Serra do Caldeiro" },
-    coordinates: { lat: 38.55, lng: -7.25 },
+    coords: [-7.25, 38.55],
     description: {
       de: "Ein Hügelzug im unteren Alentejo. Er bildet eine sanfte Kulisse für die weiten Ebenen des Südens.",
       hu: "Dombság az alsó Alentejo régióban. Lágy hátteret képez a dél széles síkságaihoz.",
@@ -438,7 +486,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Fafe", hu: "Serra de Fafe", ro: "Serra de Fafe", en: "Serra de Fafe" },
-    coordinates: { lat: 41.45, lng: -8.15 },
+    coords: [-8.15, 41.45],
     description: {
       de: "Dieses Gebirge liegt im Distrikt Braga. Es umfasst eine Region mit vielen Granitformationen.",
       hu: "Ez a hegység Braga kerületben található. Sok gránitképződményt tartalmazó régiót foglal magában.",
@@ -470,7 +518,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Larouco", hu: "Serra do Larouco", ro: "Serra do Larouco", en: "Serra do Larouco" },
-    coordinates: { lat: 41.88, lng: -7.72 },
+    coords: [-7.72, 41.88],
     description: {
       de: "Das Gebirge markiert die Grenze zwischen Portugal und Spanien. Es ist ein hohes, karges Plateau.",
       hu: "A hegység Portugália és Spanyolország határát jelöli. Magas, kopár fennsík.",
@@ -502,7 +550,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Coris", hu: "Serra do Coris", ro: "Serra do Coris", en: "Serra do Coris" },
-    coordinates: { lat: 41.25, lng: -6.95 },
+    coords: [-6.95, 41.25],
     description: {
       de: "Eine Bergregion im Nordosten des Landes. Sie liegt entlang des Douro-Flusses in seinem Grenzverlauf.",
       hu: "Hegyvidéki régió az ország északkeleti részén. A Douro folyó mentén fekszik, annak határszakaszán.",
@@ -534,7 +582,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Peneda", hu: "Serra da Peneda", ro: "Serra da Peneda", en: "Serra da Peneda" },
-    coordinates: { lat: 41.95, lng: -8.18 },
+    coords: [-8.18, 41.95],
     description: {
       de: "Teil des Peneda-Gerês Nationalparks im äußersten Norden. Die Gipfel erreichen beachtliche Höhen.",
       hu: "A Peneda-Gerês Nemzeti Park része az északi végvidéken. A csúcsok figyelemre méltó magasságot érnek el.",
@@ -566,7 +614,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Planalto da Serra da Estrela", hu: "Planalto da Serra da Estrela", ro: "Planalto da Serra da Estrela", en: "Serra da Estrela Plateau" },
-    coordinates: { lat: 40.35, lng: -7.55 },
+    coords: [-7.55, 40.35],
     description: {
       de: "Das ausgedehnte Plateau innerhalb des Estrela-Massivs. Es ist geprägt von weiten Flächen und Felsblöcken.",
       hu: "Kiterjedt fennsík az Estrela-masszívumon belül. Tágas terek és sziklatömbök jellemzik.",
@@ -598,7 +646,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de São Mamede", hu: "Serra de São Mamede", ro: "Serra de São Mamede", en: "Serra de São Mamede" },
-    coordinates: { lat: 39.25, lng: -7.35 },
+    coords: [-7.35, 39.25],
     description: {
       de: "Dieser Bergzug befindet sich im Nordosten des Alentejo nahe Portalegre. Er bildet eine grüne Insel in der trockenen Umgebung.",
       hu: "Ez a hegylánc az Alentejo északkeleti részén, Portalegre közelében található. Zöld szigetet alkot a száraz környezetben.",
@@ -630,7 +678,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Gralheira", hu: "Serra da Gralheira", ro: "Serra da Gralheira", en: "Serra da Gralheira" },
-    coordinates: { lat: 40.8, lng: -8.15 },
+    coords: [-8.15, 40.8],
     description: {
       de: "Die Gralheira-Berge bilden einen wichtigen Knotenpunkt zwischen der Küstenregion und dem Landesinneren.",
       hu: "A Gralheira-hegység fontos csomópontot alkot a tengerparti régió és a belvidék között.",
@@ -662,7 +710,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Nogueira", hu: "Serra da Nogueira", ro: "Serra da Nogueira", en: "Serra da Nogueira" },
-    coordinates: { lat: 41.72, lng: -6.82 },
+    coords: [-6.82, 41.72],
     description: {
       de: "Eine Bergregion im Distrikt Bragança. Sie ist bekannt für ihre weiten Eichenwälder und kupiertes Relief.",
       hu: "Hegyvidéki régió Bragança kerületben. Kiterjedt tölgyerdőiről és dombos domborzatáról ismert.",
@@ -694,7 +742,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Lousã Nord", hu: "Serra da Lousã Nord", ro: "Serra da Lousã Nord", en: "Serra da Lousã North" },
-    coordinates: { lat: 40.15, lng: -8.08 },
+    coords: [-8.08, 40.15],
     description: {
       de: "Der nördliche Teil der Lousã-Kette zeigt eine ausgeprägte Kammstruktur Richtung Coimbra.",
       hu: "A Lousã-lánc északi része határozott gerincszerkezetet mutat Coimbra felé.",
@@ -726,7 +774,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Alturas West", hu: "Serra do Alturas West", ro: "Serra do Alturas West", en: "Serra do Alturas West" },
-    coordinates: { lat: 41.68, lng: -6.92 },
+    coords: [-6.92, 41.68],
     description: {
       de: "Die westliche Flanke der Serra do Alturas fällt sanft in die Täler von Trás-os-Montes ab.",
       hu: "A Serra do Alturas nyugati oldala finoman ereszkedik le Trás-os-Montes völgyeibe.",
@@ -758,7 +806,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Nogueira Ost", hu: "Serra da Nogueira Ost", ro: "Serra da Nogueira Ost", en: "Serra da Nogueira East" },
-    coordinates: { lat: 41.7, lng: -6.75 },
+    coords: [-6.75, 41.7],
     description: {
       de: "Der östliche Teil der Serra da Nogueira ist gezeichnet durch trockeneres Klima und steinigere Böden.",
       hu: "A Serra da Nogueira keleti részét szárazabb éghajlat és kövesebb talaj jellemzi.",
@@ -790,7 +838,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Maroi Süd", hu: "Serra do Maroi Süd", ro: "Serra do Maroi Süd", en: "Serra do Maroi South" },
-    coordinates: { lat: 41.52, lng: -8.25 },
+    coords: [-8.25, 41.52],
     description: {
       de: "Der südliche Ausläufer der Serra do Maroi grenzt an die Industrieregionen um Guimarães.",
       hu: "A Serra do Maroi déli nyúlványa határos a Guimarães körüli ipari régiókkal.",
@@ -822,7 +870,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Monchique Nord", hu: "Serra de Monchique Nord", ro: "Serra de Monchique Nord", en: "Serra de Monchique North" },
-    coordinates: { lat: 37.35, lng: -8.6 },
+    coords: [-8.6, 37.35],
     description: {
       de: "Die nördliche Seite der Serra de Monchique ist bewaldeter und weniger touristisch erschlossen.",
       hu: "A Serra de Monchique északi oldala erdősebb és kevésbé kiépített a turisták számára.",
@@ -854,7 +902,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Caramulo Ost", hu: "Serra do Caramulo Ost", ro: "Serra do Caramulo Ost", en: "Serra do Caramulo East" },
-    coordinates: { lat: 40.5, lng: -8.1 },
+    coords: [-8.1, 40.5],
     description: {
       de: "Der östliche Teil des Caramulo-Gebirges blickt in das Plateau der Beira Alta.",
       hu: "A Caramulo-hegység keleti része a Beira Alta fennsíkra néz.",
@@ -886,7 +934,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Gardunha Süd", hu: "Serra da Gardunha Süd", ro: "Serra da Gardunha Süd", en: "Serra da Gardunha South" },
-    coordinates: { lat: 40.08, lng: -7.5 },
+    coords: [-7.5, 40.08],
     description: {
       de: "Die südliche Flanke der Serra da Gardunha ist besonders im Sommer sehr trocken und exponiert.",
       hu: "A Serra da Gardunha déli oldala különösen nyáron nagyon száraz és kitett.",
@@ -918,7 +966,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Nogueira Nord", hu: "Serra da Nogueira Nord", ro: "Serra da Nogueira Nord", en: "Serra da Nogueira North" },
-    coordinates: { lat: 41.75, lng: -6.8 },
+    coords: [-6.8, 41.75],
     description: {
       de: "Der nördliche Teil bietet kühleres Klima und ist besser für feuchtigkeitsliebende Vegetation.",
       hu: "Az északi rész hűvösebb éghajlatot kínál, és alkalmasabb a nedvességkedvelő növényzet számára.",
@@ -950,7 +998,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Caldeirão Ost", hu: "Serra do Caldeirão Ost", ro: "Serra do Caldeirão Ost", en: "Serra do Caldeirão East" },
-    coordinates: { lat: 37.35, lng: -7.8 },
+    coords: [-7.8, 37.35],
     description: {
       de: "Der östliche Teil des Caldeirão-Gebirges grenzt an die Provinz Baixo Alentejo.",
       hu: "A Caldeirão-hegység keleti része Baixo Alentejo tartománnyal határos.",
@@ -982,7 +1030,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Montemuro Süd", hu: "Serra do Montemuro Süd", ro: "Serra do Montemuro Süd", en: "Serra do Montemuro South" },
-    coordinates: { lat: 40.92, lng: -7.85 },
+    coords: [-7.85, 40.92],
     description: {
       de: "Die südliche Flanke fällt sanft in die Täler der Region Viseu ab.",
       hu: "A déli lejtő finoman ereszkedik le a Viseu régió völgyeibe.",
@@ -1014,7 +1062,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Gralheira Nord", hu: "Serra da Gralheira Nord", ro: "Serra da Gralheira Nord", en: "Serra da Gralheira North" },
-    coordinates: { lat: 40.85, lng: -8.12 },
+    coords: [-8.12, 40.85],
     description: {
       de: "Der nördliche Teil der Gralheira ist rau und windanfällig.",
       hu: "A Gralheira északi része zord és szeles.",
@@ -1046,7 +1094,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Maroi Ost", hu: "Serra do Maroi Ost", ro: "Serra do Maroi Ost", en: "Serra do Maroi East" },
-    coordinates: { lat: 41.55, lng: -8.18 },
+    coords: [-8.18, 41.55],
     description: {
       de: "Die östlichen Ausläufer neigen sich dem Tal des Flusses Ave zu.",
       hu: "A keleti nyúlványok az Ave folyó völgye felé hajlanak.",
@@ -1078,7 +1126,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra de Fafe West", hu: "Serra de Fafe West", ro: "Serra de Fafe West", en: "Serra de Fafe West" },
-    coordinates: { lat: 41.42, lng: -8.2 },
+    coords: [-8.2, 41.42],
     description: {
       de: "Die westliche Seite der Fafe-Berge bildet den Übergang zur Küstenregion.",
       hu: "A Fafe-hegység nyugati oldala alkotja az átmenetet a tengerparti régióhoz.",
@@ -1110,7 +1158,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra do Caramulo Süd", hu: "Serra do Caramulo Süd", ro: "Serra do Caramulo Süd", en: "Serra do Caramulo South" },
-    coordinates: { lat: 40.45, lng: -8.15 },
+    coords: [-8.15, 40.45],
     description: {
       de: "Der südliche Bereich zeigt deutliche Erosion durch die Nähe zu den Wasserläufen des Dão.",
       hu: "A déli rész jelentős eróziót mutat a Dão vízfolyásaihoz való közelsége miatt.",
@@ -1142,7 +1190,7 @@ export const portugalReliefV2: POI[] = [
     type: "mountain",
     parent: "PT",
     name: { de: "Serra da Gardunha Nord", hu: "Serra da Gardunha Nord", ro: "Serra da Gardunha Nord", en: "Serra da Gardunha North" },
-    coordinates: { lat: 40.15, lng: -7.45 },
+    coords: [-7.45, 40.15],
     description: {
       de: "Die nördliche Flanke der Serra da Gardunha ist schattiger und bietet dichtere Vegetation.",
       hu: "A Serra da Gardunha északi oldala árnyékosabb és sűrűbb növényzetet kínál.",

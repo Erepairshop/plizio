@@ -6,7 +6,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Platz der Gemeinde", hu: "Városháza tér", ro: "Piața Primăriei", en: "Town Hall Square" },
-    coordinates: { lat: 43.7305, lng: 7.4208 },
+    coords: [7.4208, 43.7305],
     description: {
       de: "Dieser Platz im Zentrum von Monaco-Ville bildet den historischen Kern der Verwaltung. Er ist von Gebäuden aus dem 19. Jahrhundert umgeben.",
       hu: "Ez a Monaco-Ville központjában található tér a közigazgatás történelmi magja. 19. századi épületek veszik körül.",
@@ -38,7 +38,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Rue Basse", hu: "Rue Basse utca", ro: "Rue Basse", en: "Rue Basse" },
-    coordinates: { lat: 43.7312, lng: 7.4201 },
+    coords: [7.4201, 43.7312],
     description: {
       de: "Die Rue Basse ist eine der ältesten Straßen von Monaco-Ville. Sie bewahrt die mittelalterliche Struktur der befestigten Stadt.",
       hu: "A Rue Basse Monaco-Ville egyik legrégebbi utcája. Megőrzi az erődített város középkori szerkezetét.",
@@ -70,7 +70,7 @@ export const monacoHistoryV2: POI[] = [
     type: "monument",
     parent: "MC",
     name: { de: "Denkmal der Souveränitätswiederherstellung", hu: "Szuverenitás-helyreállítási emlékmű", ro: "Monumentul Restabilirii Suveranității", en: "Sovereignty Restoration Memorial" },
-    coordinates: { lat: 43.7302, lng: 7.4215 },
+    coords: [7.4215, 43.7302],
     description: {
       de: "Dieses Denkmal erinnert an das Ende des spanischen Protektorats im Jahr 1641. Es markiert den Beginn der französischen Allianz.",
       hu: "Ez az emlékmű az 1641-es spanyol protektorátus végét jelzi. A francia szövetség kezdetét szimbolizálja.",
@@ -102,7 +102,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Porte de France", hu: "Porte de France kapu", ro: "Porte de France", en: "Porte de France" },
-    coordinates: { lat: 43.7315, lng: 7.4195 },
+    coords: [7.4195, 43.7315],
     description: {
       de: "Das Porte de France war ein historisches Stadttor der Befestigungsanlagen. Es diente als Haupteingang zur befestigten Stadt Monaco-Ville.",
       hu: "A Porte de France az erődítmények egyik történelmi városkapuja volt. Monaco-Ville erődített városának főbejárataként szolgált.",
@@ -134,7 +134,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Historische Stadtmauern", hu: "Történelmi városfalak", ro: "Zidurile istorice ale orașului", en: "Historical City Walls" },
-    coordinates: { lat: 43.7298, lng: 7.4221 },
+    coords: [7.4221, 43.7298],
     description: {
       de: "Die Überreste der Stadtmauern zeugen von Monacos Verteidigungsgeschichte. Sie umschlossen einst das gesamte Viertel Monaco-Ville.",
       hu: "A városfalak maradványai Monaco védelmi történelméről tanúskodnak. Valaha az egész Monaco-Ville negyedet körülvették.",
@@ -166,7 +166,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Place Saint-Nicolas", hu: "Place Saint-Nicolas tér", ro: "Place Saint-Nicolas", en: "Place Saint-Nicolas" },
-    coordinates: { lat: 43.7311, lng: 7.4205 },
+    coords: [7.4205, 43.7311],
     description: {
       de: "Dieser kleine, historische Platz in Monaco-Ville ist nach dem Heiligen Nikolaus benannt. Er ist von traditionellen Häusern gesäumt.",
       hu: "Ez a kis, történelmi tér Monaco-Ville-ben Szent Miklósról kapta a nevét. Hagyományos házak szegélyezik.",
@@ -198,7 +198,7 @@ export const monacoHistoryV2: POI[] = [
     type: "palace",
     parent: "MC",
     name: { de: "Altes Gouverneurshaus", hu: "Régi Kormányzói Ház", ro: "Vechea Casă a Guvernatorului", en: "Old Governor's House" },
-    coordinates: { lat: 43.7308, lng: 7.4212 },
+    coords: [7.4212, 43.7308],
     description: {
       de: "Das historische Gebäude diente einst als Residenz für den Gouverneur von Monaco. Es spiegelt den Stil des 17. Jahrhunderts wider.",
       hu: "A történelmi épület egykor Monaco kormányzójának rezidenciájaként szolgált. A 17. századi stílust tükrözi.",
@@ -230,7 +230,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Rue Comte Félix Gastaldi", hu: "Rue Comte Félix Gastaldi utca", ro: "Rue Comte Félix Gastaldi", en: "Rue Comte Félix Gastaldi" },
-    coordinates: { lat: 43.7306, lng: 7.4202 },
+    coords: [7.4202, 43.7306],
     description: {
       de: "Diese Straße ist für ihre gut erhaltene Architektur aus dem 18. Jahrhundert bekannt. Sie ist ein Beispiel für den Stadtkern.",
       hu: "Ez az utca jól megőrzött 18. századi építészetéről ismert. Példa a város központjának stílusára.",
@@ -262,7 +262,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Aussichtspunkt am Palastplatz", hu: "Palota tér kilátó", ro: "Punctul de belvedere al Pieței Palatului", en: "Palace Square Viewpoint" },
-    coordinates: { lat: 43.7304, lng: 7.4218 },
+    coords: [7.4218, 43.7304],
     description: {
       de: "Dieser strategische Punkt am Palastplatz bietet eine historische Aussicht auf den Hafen. Von hier wurde die Stadt militärisch überwacht.",
       hu: "A Palota téren található stratégiai pont történelmi kilátást nyújt a kikötőre. Innen figyelték katonailag a várost.",
@@ -294,7 +294,7 @@ export const monacoHistoryV2: POI[] = [
     type: "building",
     parent: "MC",
     name: { de: "Ehemaliges Stadtgefängnis", hu: "Régi városi börtön", ro: "Fosta închisoare a orașului", en: "Former City Prison" },
-    coordinates: { lat: 43.7309, lng: 7.4206 },
+    coords: [7.4206, 43.7309],
     description: {
       de: "Das Gebäude diente als Gefängnis für das Fürstentum Monaco. Es ist heute Teil des historischen Erbes von Monaco-Ville.",
       hu: "Az épület a Monacói Hercegség börtöneként szolgált. Ma Monaco-Ville történelmi örökségének része.",
@@ -326,7 +326,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Place de la Visitation", hu: "Place de la Visitation tér", ro: "Place de la Visitation", en: "Place de la Visitation" },
-    coordinates: { lat: 43.7313, lng: 7.4215 },
+    coords: [7.4215, 43.7313],
     description: {
       de: "Dieser Platz ist ein historischer Knotenpunkt in Monaco-Ville. Er liegt in der Nähe des ehemaligen Klosters der Heimsuchung.",
       hu: "Ez a tér Monaco-Ville egyik történelmi csomópontja. Közel fekszik az egykori Sarlósboldogasszony-kolostorhoz.",
@@ -358,7 +358,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Rue du Campanile", hu: "Rue du Campanile utca", ro: "Rue du Campanile", en: "Rue du Campanile" },
-    coordinates: { lat: 43.7307, lng: 7.4211 },
+    coords: [7.4211, 43.7307],
     description: {
       de: "Diese historische Gasse in Monaco-Ville ist bekannt für ihre engen architektonischen Strukturen aus der Vergangenheit.",
       hu: "Ez a Monaco-Ville-i történelmi sikátor múltbéli, szűk építészeti struktúráiról ismert.",
@@ -390,7 +390,7 @@ export const monacoHistoryV2: POI[] = [
     type: "monument",
     parent: "MC",
     name: { de: "Historischer Brunnen an der Mairie", hu: "Történelmi kút a Városházánál", ro: "Fântâna istorică de la Primărie", en: "Historical Fountain at Town Hall" },
-    coordinates: { lat: 43.7306, lng: 7.4209 },
+    coords: [7.4209, 43.7306],
     description: {
       de: "Der historische Brunnen schmückt den Platz vor dem Rathaus von Monaco. Er stammt aus einer Zeit vor der modernen Wasserversorgung.",
       hu: "A történelmi kút a monacói városháza előtti teret díszíti. A modern vízellátás előtti időkből származik.",
@@ -422,7 +422,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Rue de la Poste", hu: "Rue de la Poste utca", ro: "Rue de la Poste", en: "Rue de la Poste" },
-    coordinates: { lat: 43.7314, lng: 7.4212 },
+    coords: [7.4212, 43.7314],
     description: {
       de: "Die Rue de la Poste gehört zu den historisch bedeutenden Wegen in Monaco-Ville. Sie führt an alten Wohngebäuden vorbei.",
       hu: "A Rue de la Poste Monaco-Ville egyik történelmileg jelentős útja. Régi lakóépületek mellett halad el.",
@@ -454,7 +454,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Historischer Platz Sainte-Dévote", hu: "Történelmi Sainte-Dévote tér", ro: "Piața istorică Sainte-Dévote", en: "Historical Sainte-Dévote Square" },
-    coordinates: { lat: 43.7355, lng: 7.4225 },
+    coords: [7.4225, 43.7355],
     description: {
       de: "Dieser Bereich ist tief mit der Schutzpatronin von Monaco verbunden. Es ist ein Ort jahrhundertealter Tradition.",
       hu: "Ez a terület mélyen kötődik Monaco védőszentjéhez. Több évszázados hagyomány helyszíne.",
@@ -486,7 +486,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Nördliche Befestigungsanlagen", hu: "Északi erődítmények", ro: "Fortificațiile nordice", en: "Northern Fortifications" },
-    coordinates: { lat: 43.732, lng: 7.4208 },
+    coords: [7.4208, 43.732],
     description: {
       de: "Die Reste der nördlichen Mauern dienten dem Schutz des Fürstentums vor Angriffen von der Landseite her.",
       hu: "Az északi falak maradványai a Hercegséget a szárazföld felől érkező támadásoktól védték.",
@@ -518,7 +518,7 @@ export const monacoHistoryV2: POI[] = [
     type: "building",
     parent: "MC",
     name: { de: "Historisches Wohnhaus Altstadt", hu: "Történelmi lakóház az óvárosban", ro: "Casă rezidențială istorică din orașul vechi", en: "Historical Residential Building Old Town" },
-    coordinates: { lat: 43.731, lng: 7.4203 },
+    coords: [7.4203, 43.731],
     description: {
       de: "Dieses typische Haus aus dem 17. Jahrhundert illustriert den ursprünglichen Lebensraum im befestigten Monaco.",
       hu: "Ez a tipikus 17. századi ház az erődített Monaco eredeti életterét mutatja be.",
@@ -550,7 +550,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Rue de la Visitation", hu: "Rue de la Visitation utca", ro: "Rue de la Visitation", en: "Rue de la Visitation" },
-    coordinates: { lat: 43.7314, lng: 7.4216 },
+    coords: [7.4216, 43.7314],
     description: {
       de: "Diese Straße ist Teil des religiösen Viertels in Monaco-Ville. Sie führt zum ehemaligen Klostergelände.",
       hu: "Ez az utca Monaco-Ville vallási negyedének része. Az egykori kolostorterülethez vezet.",
@@ -582,7 +582,7 @@ export const monacoHistoryV2: POI[] = [
     type: "building",
     parent: "MC",
     name: { de: "Historischer Pavillon am Rathaus", hu: "Történelmi pavilon a városházánál", ro: "Pavilion istoric la primărie", en: "Historical Pavilion at Town Hall" },
-    coordinates: { lat: 43.7307, lng: 7.4208 },
+    coords: [7.4208, 43.7307],
     description: {
       de: "Dieser kleine Pavillon stammt aus der Zeit des 19. Jahrhunderts. Er diente früher als offizieller Kontrollpunkt.",
       hu: "Ez a kis pavilon a 19. századból származik. Korábban hivatalos ellenőrzőpontként szolgált.",
@@ -614,7 +614,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Südliche Festungsmauern", hu: "Déli erődítményfalak", ro: "Zidurile fortificate sudice", en: "Southern Fortification Walls" },
-    coordinates: { lat: 43.7295, lng: 7.4222 },
+    coords: [7.4222, 43.7295],
     description: {
       de: "Diese Mauern schützen die felsige Südseite der Stadt. Sie sind das Fundament der historischen Befestigungsanlage.",
       hu: "Ezek a falak a város sziklás déli oldalát védik. A történelmi erődítmény alapját képezik.",
@@ -646,7 +646,7 @@ export const monacoHistoryV2: POI[] = [
     type: "landmark",
     parent: "MC",
     name: { de: "Historischer Palastplatz-Belag", hu: "Történelmi palota-tér burkolat", ro: "Pavaj istoric al Pieței Palatului", en: "Historical Palace Square Paving" },
-    coordinates: { lat: 43.7303, lng: 7.4217 },
+    coords: [7.4217, 43.7303],
     description: {
       de: "Das Kopfsteinpflaster auf dem Palastplatz stammt aus historischer Zeit. Es ist ein bewahrtes Element des alten Monaco.",
       hu: "A palota téri macskakő történelmi időkből származik. A régi Monaco megőrzött eleme.",
@@ -678,7 +678,7 @@ export const monacoHistoryV2: POI[] = [
     type: "building",
     parent: "MC",
     name: { de: "Historische Fassade Rue Basse", hu: "Történelmi homlokzat a Rue Basse-on", ro: "Fațadă istorică Rue Basse", en: "Historical Facade Rue Basse" },
-    coordinates: { lat: 43.7311, lng: 7.4202 },
+    coords: [7.4202, 43.7311],
     description: {
       de: "Diese Fassade eines Altbaus in der Rue Basse zeigt Details aus dem 18. Jahrhundert. Sie charakterisiert den Baustil der Zeit.",
       hu: "A Rue Basse egyik régi épületének homlokzata 18. századi részleteket mutat. A kor építészeti stílusát jellemzi.",
@@ -710,7 +710,7 @@ export const monacoHistoryV2: POI[] = [
     type: "monument",
     parent: "MC",
     name: { de: "Relikt der Porte de France", hu: "Porte de France maradvány", ro: "Rămășiță a Porte de France", en: "Relic of Porte de France" },
-    coordinates: { lat: 43.7316, lng: 7.4196 },
+    coords: [7.4196, 43.7316],
     description: {
       de: "Dieser Mauerrest markiert den Standort des ehemaligen Stadttors Porte de France. Er ist Teil der Verteidigungsgeschichte.",
       hu: "Ez a falmaradvány az egykori Porte de France városkapu helyét jelöli. A védelmi történelem része.",
@@ -742,7 +742,7 @@ export const monacoHistoryV2: POI[] = [
     type: "building",
     parent: "MC",
     name: { de: "Historisches Steinhaus Place Saint-Nicolas", hu: "Történelmi kőház a Place Saint-Nicolas-nál", ro: "Casă istorică din piatră Place Saint-Nicolas", en: "Historical Stone House Place Saint-Nicolas" },
-    coordinates: { lat: 43.7312, lng: 7.4206 },
+    coords: [7.4206, 43.7312],
     description: {
       de: "Dieses robuste Steinhaus an der Place Saint-Nicolas ist eines der ältesten erhaltenen Gebäude in Monaco-Ville.",
       hu: "Ez a robusztus kőház a Place Saint-Nicolas-nál Monaco-Ville egyik legrégebbi megmaradt épülete.",

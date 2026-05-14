@@ -6,7 +6,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Kirkkonummi Logistikzentrum", hu: "Kirkkonummi Logisztikai Központ", ro: "Centrul Logistic Kirkkonummi", en: "Kirkkonummi Logistics Center" },
-    coordinates: { lat: 60.1245, lng: 24.4367 },
+    coords: [24.4367, 60.1245],
     description: {
       de: "Wichtiger Standort für Lagerhaltung und Güterverteilung in Südfinnland. Das Gebiet dient als Knotenpunkt für die regionale Versorgung.",
       hu: "Fontos raktározási és áruelosztási helyszín Dél-Finnországban. A terület a regionális ellátás központjaként szolgál.",
@@ -38,7 +38,7 @@ export const finlandEconomicV2: POI[] = [
     type: "factory",
     parent: "FI",
     name: { de: "Kemi Bioproduktfabrik", hu: "Kemi Biogyártó Üzem", ro: "Fabrica de Bioproduse Kemi", en: "Kemi Bioproduct Plant" },
-    coordinates: { lat: 65.7333, lng: 24.5667 },
+    coords: [24.5667, 65.7333],
     description: {
       de: "Moderne Industrieanlage zur Verarbeitung von Holzfasern und Zellstoff. Sie ist ein bedeutender Arbeitgeber in der Region Lappland.",
       hu: "Modern ipari létesítmény fapép és cellulóz feldolgozására. Jelentős munkaadó Lappföldön.",
@@ -70,7 +70,7 @@ export const finlandEconomicV2: POI[] = [
     type: "port",
     parent: "FI",
     name: { de: "Hafen Hangö Industriezone", hu: "Hanko Kikötő Ipari Zóna", ro: "Zona Industrială Portul Hanko", en: "Hanko Port Industrial Zone" },
-    coordinates: { lat: 59.8286, lng: 22.9667 },
+    coords: [22.9667, 59.8286],
     description: {
       de: "Hafenanlage spezialisiert auf RoRo-Verkehr und Automobilimporte. Dient als wichtiges Tor für den Handel mit Mitteleuropa.",
       hu: "RoRo-forgalomra és autóimportra szakosodott kikötő. Fontos kapu a Közép-Európával folytatott kereskedelemhez.",
@@ -102,7 +102,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Sipoo Rechenzentrum", hu: "Sipoo Adatközpont", ro: "Centrul de Date Sipoo", en: "Sipoo Data Center" },
-    coordinates: { lat: 60.3667, lng: 25.2667 },
+    coords: [25.2667, 60.3667],
     description: {
       de: "Großflächiges Rechenzentrum in der Nähe der Hauptstadt Helsinki. Infrastruktur für Cloud-Dienstleistungen und IT-Betrieb.",
       hu: "Nagy kiterjedésű adatközpont Helsinki közelében. Infrastruktúra felhőszolgáltatásokhoz és IT-műveletekhez.",
@@ -134,7 +134,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Seinäjoki Nahrungsmittelzentrum", hu: "Seinäjoki Élelmiszeripari Központ", ro: "Centrul Alimentar Seinäjoki", en: "Seinäjoki Food Processing Hub" },
-    coordinates: { lat: 62.7833, lng: 22.8333 },
+    coords: [22.8333, 62.7833],
     description: {
       de: "Zentrum für die finnische Lebensmittelindustrie. Hier werden hochwertige Agrarprodukte verarbeitet und regional vertrieben.",
       hu: "A finn élelmiszeripar központja. Itt történik a minőségi mezőgazdasági termékek feldolgozása és regionális forgalmazása.",
@@ -166,7 +166,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Pyhäjoki Energiegebiet", hu: "Pyhäjoki Energiaövezet", ro: "Zona Energetică Pyhäjoki", en: "Pyhäjoki Energy Zone" },
-    coordinates: { lat: 64.45, lng: 24.2667 },
+    coords: [24.2667, 64.45],
     description: {
       de: "Industrieareal im Norden Finnlands, das für Großprojekte im Energiesektor vorgesehen ist. Wichtiger Standort für Infrastrukturbau.",
       hu: "Észak-finnországi ipari terület, amelyet nagy energetikai projektek számára jelöltek ki. Fontos helyszín az infrastruktúra fejlesztéséhez.",
@@ -198,7 +198,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Harjavalta Metallhütte", hu: "Harjavalta Kohászati Művek", ro: "Uzinele Metalurgice Harjavalta", en: "Harjavalta Metal Works" },
-    coordinates: { lat: 61.3167, lng: 22.1333 },
+    coords: [22.1333, 61.3167],
     description: {
       de: "Bedeutende Industrieanlage für die Metallurgie, insbesondere für die Produktion von Nickel und anderen Metallen.",
       hu: "Jelentős kohászati ipari létesítmény, különösen nikkel és más fémek gyártására specializálódva.",
@@ -230,7 +230,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Kilpilahti Industriepark", hu: "Kilpilahti Ipari Park", ro: "Parcul Industrial Kilpilahti", en: "Kilpilahti Industrial Park" },
-    coordinates: { lat: 60.3167, lng: 25.5333 },
+    coords: [25.5333, 60.3167],
     description: {
       de: "Eines der größten industriellen Zentren Finnlands, das sich auf Raffinerieprozesse und petrochemische Anlagen konzentriert.",
       hu: "Finnország egyik legnagyobb ipari központja, amely a finomítási folyamatokra és petrolkémiai létesítményekre koncentrál.",
@@ -262,7 +262,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Oulu Technologiezentrum", hu: "Oulu Technológiai Központ", ro: "Centrul Tehnologic Oulu", en: "Oulu Technology Hub" },
-    coordinates: { lat: 65.0125, lng: 25.4681 },
+    coords: [25.4681, 65.0125],
     description: {
       de: "Zentrum für Softwareentwicklung und drahtlose Kommunikationstechnologien. Sitz zahlreicher innovativer Unternehmen.",
       hu: "Szoftverfejlesztés és vezeték nélküli kommunikációs technológiák központja. Számos innovatív vállalat székhelye.",
@@ -294,7 +294,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Rauma Werft", hu: "Rauma Hajógyár", ro: "Șantierul Naval Rauma", en: "Rauma Shipyard" },
-    coordinates: { lat: 61.1275, lng: 21.4936 },
+    coords: [21.4936, 61.1275],
     description: {
       de: "Industrielle Werft spezialisiert auf den Bau von spezialisierten Schiffen, insbesondere für extreme Eisbedingungen.",
       hu: "Ipari hajógyár, amely speciális hajók, különösen szélsőséges jégviszonyok közötti hajók építésére szakosodott.",
@@ -326,7 +326,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Kokkola Chemiepark", hu: "Kokkola Vegyipari Park", ro: "Parcul Chimic Kokkola", en: "Kokkola Chemical Park" },
-    coordinates: { lat: 63.8333, lng: 23.1333 },
+    coords: [23.1333, 63.8333],
     description: {
       de: "Industrieller Cluster für die chemische Produktion. Standort für spezialisierte Veredelungsprozesse im Bereich Metallchemie.",
       hu: "Ipari klaszter a vegyipari termeléshez. Szakosodott finomítási folyamatok helyszíne a fémvegyészet területén.",
@@ -358,7 +358,7 @@ export const finlandEconomicV2: POI[] = [
     type: "factory",
     parent: "FI",
     name: { de: "Jyväskylä Industrietechnologie-Standort", hu: "Jyväskylä Ipartechnológiai Helyszín", ro: "Locație Jyväskylä de Tehnologie Industrială", en: "Jyväskylä Industrial Tech Site" },
-    coordinates: { lat: 62.2415, lng: 25.75 },
+    coords: [25.75, 62.2415],
     description: {
       de: "Industriezentrum mit Fokus auf Maschinenbau und Automatisierungslösungen für internationale Märkte.",
       hu: "Ipari központ, amely a gépgyártásra és automatizálási megoldásokra összpontosít a nemzetközi piacok számára.",
@@ -390,7 +390,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Tampere Industriezone", hu: "Tampere Ipari Zóna", ro: "Zona Industrială Tampere", en: "Tampere Industrial Hub" },
-    coordinates: { lat: 61.4981, lng: 23.7608 },
+    coords: [23.7608, 61.4981],
     description: {
       de: "Historisches und modernes Zentrum für Maschinenbau und produzierendes Gewerbe in Zentralfinnland.",
       hu: "Történelmi és modern központ a gépipar és a feldolgozóipar számára Közép-Finnországban.",
@@ -422,7 +422,7 @@ export const finlandEconomicV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Lahti Cleantech Park", hu: "Lahti Cleantech Park", ro: "Parcul Cleantech Lahti", en: "Lahti Cleantech Park" },
-    coordinates: { lat: 60.9833, lng: 25.65 },
+    coords: [25.65, 60.9833],
     description: {
       de: "Innovationsgelände für umweltfreundliche Technologien und nachhaltige industrielle Lösungen.",
       hu: "Innovációs terület a környezetbarát technológiák és fenntartható ipari megoldások számára.",
@@ -454,7 +454,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Joensuu Forstindustrie-Zentrum", hu: "Joensuu Erdőipari Központ", ro: "Centrul Industriei Forestiere Joensuu", en: "Joensuu Forestry Industry Hub" },
-    coordinates: { lat: 62.601, lng: 29.763 },
+    coords: [29.763, 62.601],
     description: {
       de: "Regionales Zentrum für die Forst- und Holzverarbeitungsindustrie im Osten Finnlands.",
       hu: "Regionális központ az erdészeti és faipari ágazat számára Kelet-Finnországban.",
@@ -486,7 +486,7 @@ export const finlandEconomicV2: POI[] = [
     type: "port",
     parent: "FI",
     name: { de: "Pori Industriehafen", hu: "Pori Ipari Kikötő", ro: "Portul Industrial Pori", en: "Pori Industrial Port" },
-    coordinates: { lat: 61.4833, lng: 21.7833 },
+    coords: [21.7833, 61.4833],
     description: {
       de: "Wichtiger Tiefwasserhafen für den Güterumschlag, besonders für die lokale Industrie und Massengut.",
       hu: "Fontos mélyvízi kikötő az áruforgalomhoz, különösen a helyi ipar és az ömlesztett rakományok számára.",
@@ -518,7 +518,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Turku Technologie-Innovationsviertel", hu: "Turku Technológiai Innovációs Negyed", ro: "Cartierul de Inovație Tehnologică Turku", en: "Turku Tech Innovation District" },
-    coordinates: { lat: 60.4515, lng: 22.2668 },
+    coords: [22.2668, 60.4515],
     description: {
       de: "Moderne Zone für Forschung, Entwicklung und Start-ups in den Bereichen Medizintechnik und Schiffsbau.",
       hu: "Modern övezet kutatás-fejlesztéshez és startupok számára orvostechnológiai és hajóépítési területeken.",
@@ -550,7 +550,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Vaasa Energie-Cluster", hu: "Vaasa Energia Klaszter", ro: "Clusterul Energetic Vaasa", en: "Vaasa Energy Cluster" },
-    coordinates: { lat: 63.0961, lng: 21.6158 },
+    coords: [21.6158, 63.0961],
     description: {
       de: "Zusammenschluss von führenden Unternehmen im Energiesektor für intelligente Energielösungen.",
       hu: "Vezető energiaipari vállalatok csoportosulása az intelligens energiamegoldások érdekében.",
@@ -582,7 +582,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Vantaa Logistikzentrum", hu: "Vantaa Logisztikai Központ", ro: "Centrul Logistic Vantaa", en: "Vantaa Logistics Hub" },
-    coordinates: { lat: 60.2936, lng: 24.8456 },
+    coords: [24.8456, 60.2936],
     description: {
       de: "Zentraler Logistikstandort in der Nähe des internationalen Flughafens. Wichtig für den schnellen Warenversand.",
       hu: "Központi logisztikai helyszín a nemzetközi repülőtér közelében. Fontos a gyors áruszállításhoz.",
@@ -614,7 +614,7 @@ export const finlandEconomicV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Imatra Industriezone", hu: "Imatra Ipari Zóna", ro: "Zona Industrială Imatra", en: "Imatra Industrial Zone" },
-    coordinates: { lat: 61.1833, lng: 28.7667 },
+    coords: [28.7667, 61.1833],
     description: {
       de: "Wichtiger Standort für die Holzverarbeitung und Papierherstellung nahe der östlichen Grenze.",
       hu: "Fontos helyszín a fa- és papíripar számára a keleti határ közelében.",

@@ -6,7 +6,7 @@ export const montenegroCitiesV2: POI[] = [
     type: "city",
     parent: "ME",
     name: { de: "Spuž", hu: "Spuž", ro: "Spuž", en: "Spuž" },
-    coordinates: { lat: 42.516, lng: 19.167 },
+    coords: [19.167, 42.516],
     description: {
       de: "Spuž ist eine Siedlung in der Gemeinde Danilovgrad in Zentral-Montenegro. Sie liegt am Fluss Zeta im Zeta-Tal.",
       hu: "Spuž egy település Montenegró középső részén, Danilovgrad községben. A Zeta folyó mentén, a Zeta-völgyben helyezkedik el.",
@@ -38,7 +38,7 @@ export const montenegroCitiesV2: POI[] = [
     type: "city",
     parent: "ME",
     name: { de: "Golubovci", hu: "Golubovci", ro: "Golubovci", en: "Golubovci" },
-    coordinates: { lat: 42.368, lng: 19.231 },
+    coords: [19.231, 42.368],
     description: {
       de: "Golubovci ist eine Stadt in der Nähe von Podgorica und das administrative Zentrum der Stadtgemeinde Golubovci. Die Region ist bekannt für den Weinanbau in der Zeta-Ebene.",
       hu: "Golubovci Podgorica közelében fekvő város, Golubovci városi önkormányzat központja. A régió a Zeta-síksági bortermeléséről ismert.",
@@ -70,7 +70,7 @@ export const montenegroCitiesV2: POI[] = [
     type: "city",
     parent: "ME",
     name: { de: "Tuzi", hu: "Tuzi", ro: "Tuzi", en: "Tuzi" },
-    coordinates: { lat: 42.363, lng: 19.336 },
+    coords: [19.336, 42.363],
     description: {
       de: "Tuzi ist das Zentrum der gleichnamigen Gemeinde im Südosten Montenegros. Die Stadt hat eine bedeutende albanische Bevölkerungsgruppe.",
       hu: "Tuzi a hasonló nevű község központja Montenegró délkeleti részén. A város jelentős albán lakossággal rendelkezik.",
@@ -102,7 +102,7 @@ export const montenegroCitiesV2: POI[] = [
     type: "city",
     parent: "ME",
     name: { de: "Petnjica", hu: "Petnjica", ro: "Petnjica", en: "Petnjica" },
-    coordinates: { lat: 42.895, lng: 19.957 },
+    coords: [19.957, 42.895],
     description: {
       de: "Petnjica ist eine Kleinstadt und das Verwaltungszentrum der Gemeinde Petnjica im Nordosten Montenegros. Sie ist bekannt für die umliegende Gebirgslandschaft der Bihor-Region.",
       hu: "Petnjica kisváros és közigazgatási központja Petnjica községnek Montenegró északkeleti részén. A Bihor-régió hegyvidéki tájáról ismert.",
@@ -134,7 +134,7 @@ export const montenegroCitiesV2: POI[] = [
     type: "city",
     parent: "ME",
     name: { de: "Gusinje", hu: "Gusinje", ro: "Gusinje", en: "Gusinje" },
-    coordinates: { lat: 42.562, lng: 19.829 },
+    coords: [19.829, 42.562],
     description: {
       de: "Gusinje ist eine Stadt im Nordosten Montenegros in der Nähe der albanischen Grenze. Sie liegt am Fuße des Prokletije-Gebirges.",
       hu: "Gusinje város Montenegró északkeleti részén, az albán határ közelében. A Prokletije-hegység lábánál fekszik.",

@@ -6,7 +6,7 @@ export const norwayReliefV2: POI[] = [
     type: "peak",
     parent: "NO",
     name: { de: "Snøhetta", hu: "Snøhetta", ro: "Snøhetta", en: "Snøhetta" },
-    coordinates: { lat: 62.3667, lng: 9.2667 },
+    coords: [9.2667, 62.3667],
     description: {
       de: "Snøhetta ist der höchste Berg des Dovrefjell-Gebirges in Norwegen. Er erreicht eine Höhe von 2286 Metern über dem Meeresspiegel.",
       hu: "A Snøhetta a norvégiai Dovrefjell hegység legmagasabb csúcsa. Tengerszint feletti magassága 2286 méter.",
@@ -38,7 +38,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Trollveggen", hu: "Trollveggen", ro: "Trollveggen", en: "Trollveggen" },
-    coordinates: { lat: 62.4767, lng: 7.7467 },
+    coords: [7.7467, 62.4767],
     description: {
       de: "Trollveggen ist eine vertikale Felswand im Romsdalen-Tal. Sie gilt als die höchste senkrechte Felswand Europas.",
       hu: "A Trollveggen egy függőleges sziklafal a Romsdalen-völgyben. Ez Európa legmagasabb függőleges sziklafalának számít.",
@@ -70,7 +70,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Hallingskarvet", hu: "Hallingskarvet", ro: "Hallingskarvet", en: "Hallingskarvet" },
-    coordinates: { lat: 60.5794, lng: 7.8444 },
+    coords: [7.8444, 60.5794],
     description: {
       de: "Hallingskarvet ist ein massives Hochplateau in den Provinzen Buskerud und Hordaland. Es bildet ein markantes geologisches Merkmal.",
       hu: "A Hallingskarvet egy hatalmas fennsík Buskerud és Hordaland megyékben. Jellegzetes geológiai képződmény.",
@@ -102,7 +102,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Besseggen", hu: "Besseggen", ro: "Besseggen", en: "Besseggen" },
-    coordinates: { lat: 61.4883, lng: 8.7183 },
+    coords: [8.7183, 61.4883],
     description: {
       de: "Besseggen ist ein bekannter Gebirgsgrat im Jotunheimen-Nationalpark. Er trennt die Seen Gjende und Bessvatnet.",
       hu: "A Besseggen egy híres hegyi gerinc a Jotunheimen Nemzeti Parkban. Elválasztja a Gjende és Bessvatnet tavakat.",
@@ -134,7 +134,7 @@ export const norwayReliefV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Trolltunga", hu: "Trolltunga", ro: "Trolltunga", en: "Trolltunga" },
-    coordinates: { lat: 60.1264, lng: 6.745 },
+    coords: [6.745, 60.1264],
     description: {
       de: "Trolltunga ist eine horizontale Felsformation, die über dem Ringedalsvatnet-See schwebt. Sie entstand durch Gletschereis-Erosion.",
       hu: "A Trolltunga egy vízszintes sziklaképződmény, amely a Ringedalsvatnet-tó fölé nyúlik. Gleccsererózió hozta létre.",
@@ -166,7 +166,7 @@ export const norwayReliefV2: POI[] = [
     type: "peak",
     parent: "NO",
     name: { de: "Gaustatoppen", hu: "Gaustatoppen", ro: "Gaustatoppen", en: "Gaustatoppen" },
-    coordinates: { lat: 59.8517, lng: 8.6483 },
+    coords: [8.6483, 59.8517],
     description: {
       de: "Gaustatoppen ist ein Berg in der Provinz Telemark. Bei klarem Wetter bietet der Gipfel eine Aussicht über ein Sechstel von Norwegen.",
       hu: "A Gaustatoppen egy hegy Telemark megyében. Tiszta időben a csúcsáról Norvégia egyhatoda belátható.",
@@ -198,7 +198,7 @@ export const norwayReliefV2: POI[] = [
     type: "peak",
     parent: "NO",
     name: { de: "Skåla", hu: "Skåla", ro: "Skåla", en: "Skåla" },
-    coordinates: { lat: 61.8594, lng: 6.8153 },
+    coords: [6.8153, 61.8594],
     description: {
       de: "Skåla ist ein Berg in der Gemeinde Stryn. Er ist bekannt für den steilsten Anstieg von der Meeresoberfläche aus in Norwegen.",
       hu: "A Skåla egy hegy Stryn községben. Norvégia tengerszinttől induló legmeredekebb hegymászóútjáról ismert.",
@@ -230,7 +230,7 @@ export const norwayReliefV2: POI[] = [
     type: "peak",
     parent: "NO",
     name: { de: "Blåtinden", hu: "Blåtinden", ro: "Blåtinden", en: "Blåtinden" },
-    coordinates: { lat: 69.6644, lng: 18.9167 },
+    coords: [18.9167, 69.6644],
     description: {
       de: "Blåtinden ist ein markanter Berg auf der Insel Kvaløya. Er bietet eine weite Aussicht über die Region Tromsø.",
       hu: "A Blåtinden egy jellegzetes hegy a Kvaløya-szigeten. Széles kilátást nyújt a Tromsø régióra.",
@@ -262,7 +262,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Dovrefjell-Plateau", hu: "Dovrefjell-fennsík", ro: "Platoul Dovrefjell", en: "Dovrefjell Plateau" },
-    coordinates: { lat: 62.3333, lng: 9.3333 },
+    coords: [9.3333, 62.3333],
     description: {
       de: "Das Dovrefjell-Plateau ist eine Hochgebirgsregion, die Südnorwegen von Mittelnorwegen trennt. Es ist Teil eines bedeutenden Nationalparks.",
       hu: "A Dovrefjell-fennsík egy magashegyi régió, amely elválasztja Dél-Norvégiát Közép-Norvégiától. Egy jelentős nemzeti park része.",
@@ -294,7 +294,7 @@ export const norwayReliefV2: POI[] = [
     type: "peak",
     parent: "NO",
     name: { de: "Fjørtoftfjellet", hu: "Fjørtoftfjellet", ro: "Fjørtoftfjellet", en: "Fjørtoftfjellet" },
-    coordinates: { lat: 62.7478, lng: 6.3194 },
+    coords: [6.3194, 62.7478],
     description: {
       de: "Fjørtoftfjellet ist eine Erhebung auf der Insel Fjørtofta. Der Berg bietet eine Aussicht auf die umgebenden Küstengewässer.",
       hu: "A Fjørtoftfjellet egy magaslat a Fjørtofta-szigeten. A hegy kilátást nyújt a környező part menti vizekre.",
@@ -326,7 +326,7 @@ export const norwayReliefV2: POI[] = [
     type: "peak",
     parent: "NO",
     name: { de: "Veatinden", hu: "Veatinden", ro: "Veatinden", en: "Veatinden" },
-    coordinates: { lat: 62.1158, lng: 7.4258 },
+    coords: [7.4258, 62.1158],
     description: {
       de: "Veatinden ist ein Gipfel in der Region Romsdal. Er gehört zur Gebirgslandschaft rund um den Trollstigen.",
       hu: "A Veatinden egy csúcs Romsdal régióban. A Trollstigen körüli hegyvidéki táj része.",
@@ -358,7 +358,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Skjervsfjellet", hu: "Skjervsfjellet", ro: "Skjervsfjellet", en: "Skjervsfjellet" },
-    coordinates: { lat: 60.6272, lng: 6.7028 },
+    coords: [6.7028, 60.6272],
     description: {
       de: "Skjervsfjellet ist ein Berg in der Region Voss. Das Gebiet ist bekannt für seine serpentinenreichen Straßen und Ausblicke.",
       hu: "A Skjervsfjellet egy hegy Voss régióban. A terület a szerpentines utakról és a kilátásokról ismert.",
@@ -390,7 +390,7 @@ export const norwayReliefV2: POI[] = [
     type: "peak",
     parent: "NO",
     name: { de: "Slogen", hu: "Slogen", ro: "Slogen", en: "Slogen" },
-    coordinates: { lat: 62.1833, lng: 6.7167 },
+    coords: [6.7167, 62.1833],
     description: {
       de: "Slogen ist einer der berühmtesten Gipfel in den Sunnmøre-Alpen. Er ragt direkt aus dem Hjørundfjord empor.",
       hu: "A Slogen a Sunnmøre-Alpok egyik leghíresebb csúcsa. Közvetlenül a Hjørundfjord fölé magasodik.",
@@ -422,7 +422,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Breheimen-Gebirge", hu: "Breheimen-hegység", ro: "Munții Breheimen", en: "Breheimen Mountains" },
-    coordinates: { lat: 61.7, lng: 7.5 },
+    coords: [7.5, 61.7],
     description: {
       de: "Breheimen ist ein Gebirge im südlichen Norwegen. Es ist bekannt für seine zahlreichen Gletscher und tiefen Täler.",
       hu: "A Breheimen egy hegység Dél-Norvégiában. Számos gleccsere és mély völgyeiről ismert.",
@@ -454,7 +454,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Sunndalsfjella", hu: "Sunndalsfjella", ro: "Sunndalsfjella", en: "Sunndalsfjella" },
-    coordinates: { lat: 62.45, lng: 8.75 },
+    coords: [8.75, 62.45],
     description: {
       de: "Sunndalsfjella ist eine bergige Region, die durch tiefe Täler und steile Hänge geprägt ist. Sie grenzt an den Dovrefjell-Park.",
       hu: "A Sunndalsfjella egy hegyvidéki régió, amelyet mély völgyek és meredek lejtők jellemeznek. Határos a Dovrefjell parkkal.",
@@ -486,7 +486,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Reinheimen-Gebirge", hu: "Reinheimen-hegység", ro: "Munții Reinheimen", en: "Reinheimen Mountains" },
-    coordinates: { lat: 62.0, lng: 8.0 },
+    coords: [8.0, 62.0],
     description: {
       de: "Reinheimen ist ein ausgedehntes Gebirgsgebiet in Südnorwegen. Es dient als bedeutender Lebensraum für wilde Rentierherden.",
       hu: "A Reinheimen egy kiterjedt hegyvidéki terület Dél-Norvégiában. Jelentős élőhely vad rénszarvascsordák számára.",
@@ -518,7 +518,7 @@ export const norwayReliefV2: POI[] = [
     type: "peak",
     parent: "NO",
     name: { de: "Fjellheisen", hu: "Fjellheisen", ro: "Fjellheisen", en: "Fjellheisen" },
-    coordinates: { lat: 69.65, lng: 18.98 },
+    coords: [18.98, 69.65],
     description: {
       de: "Fjellheisen ist eine Berggipfelregion über Tromsø. Sie ist durch eine Seilbahn erschlossen und bietet eine Rundumsicht.",
       hu: "A Fjellheisen egy hegycsúcs-régió Tromsø felett. Felvonóval megközelíthető, körpanorámát kínál.",
@@ -550,7 +550,7 @@ export const norwayReliefV2: POI[] = [
     type: "peak",
     parent: "NO",
     name: { de: "Stetind", hu: "Stetind", ro: "Stetind", en: "Stetind" },
-    coordinates: { lat: 68.18, lng: 16.55 },
+    coords: [16.55, 68.18],
     description: {
       de: "Stetind ist ein markanter, obeliskförmiger Berg in der Gemeinde Narvik. Er gilt als nationaler Berg Norwegens.",
       hu: "A Stetind egy jellegzetes, obeliszk alakú hegy Narvik községben. Norvégia nemzeti hegyének tekintik.",
@@ -582,7 +582,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Trolltindene", hu: "Trolltindene", ro: "Trolltindene", en: "Trolltindene" },
-    coordinates: { lat: 62.48, lng: 7.7 },
+    coords: [7.7, 62.48],
     description: {
       de: "Trolltindene ist eine Gebirgsgruppe in Romsdal. Die Region ist durch schroffe Gipfel und steile Abgründe charakterisiert.",
       hu: "A Trolltindene egy hegycsoport Romsdalban. A régiót sziklás csúcsok és meredek szakadékok jellemzik.",
@@ -614,7 +614,7 @@ export const norwayReliefV2: POI[] = [
     type: "valley",
     parent: "NO",
     name: { de: "Hallingdal-Tal", hu: "Hallingdal-völgy", ro: "Valea Hallingdal", en: "Hallingdal Valley" },
-    coordinates: { lat: 60.5, lng: 9.0 },
+    coords: [9.0, 60.5],
     description: {
       de: "Hallingdal ist ein langes Tal in Buskerud. Es ist ein zentrales Verkehrshindernis und eine malerische Urlaubsregion.",
       hu: "A Hallingdal egy hosszú völgy Buskerudban. Központi közlekedési akadály és festői üdülőrégió.",
@@ -646,7 +646,7 @@ export const norwayReliefV2: POI[] = [
     type: "valley",
     parent: "NO",
     name: { de: "Gudbrandsdalen", hu: "Gudbrandsdalen", ro: "Gudbrandsdalen", en: "Gudbrandsdalen" },
-    coordinates: { lat: 61.5, lng: 9.5 },
+    coords: [9.5, 61.5],
     description: {
       de: "Gudbrandsdalen ist eines der wichtigsten Täler Norwegens. Es verbindet Lillehammer mit dem Norden.",
       hu: "A Gudbrandsdalen Norvégia egyik legfontosabb völgye. Összeköti Lillehammert az északi területekkel.",
@@ -678,7 +678,7 @@ export const norwayReliefV2: POI[] = [
     type: "valley",
     parent: "NO",
     name: { de: "Frafjord", hu: "Frafjord", ro: "Frafjord", en: "Frafjord" },
-    coordinates: { lat: 58.8, lng: 6.25 },
+    coords: [6.25, 58.8],
     description: {
       de: "Frafjord ist ein schmales Tal in der Provinz Rogaland. Die umgebenden Berge ragen steil über dem Fjord auf.",
       hu: "A Frafjord egy keskeny völgy Rogaland megyében. A környező hegyek meredeken magasodnak a fjord felett.",
@@ -710,7 +710,7 @@ export const norwayReliefV2: POI[] = [
     type: "valley",
     parent: "NO",
     name: { de: "Setesdal", hu: "Setesdal", ro: "Setesdal", en: "Setesdal" },
-    coordinates: { lat: 58.9, lng: 7.5 },
+    coords: [7.5, 58.9],
     description: {
       de: "Setesdal ist ein langes Tal im südlichen Norwegen. Es ist bekannt für seine reiche Volkskultur und das bergige Umfeld.",
       hu: "A Setesdal egy hosszú völgy Dél-Norvégiában. Gazdag népi kultúrájáról és hegyvidéki környezetéről ismert.",
@@ -742,7 +742,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Omsenfjellet", hu: "Omsenfjellet", ro: "Omsenfjellet", en: "Omsenfjellet" },
-    coordinates: { lat: 69.3, lng: 18.0 },
+    coords: [18.0, 69.3],
     description: {
       de: "Omsenfjellet ist ein Berg in der Region Troms. Er bietet einen Ausblick über die nordnorwegische Küstenlinie.",
       hu: "Az Omsenfjellet egy hegy Troms régióban. Kilátást nyújt az észak-norvég partvonalra.",
@@ -774,7 +774,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Dovre", hu: "Dovre", ro: "Dovre", en: "Dovre" },
-    coordinates: { lat: 62.0, lng: 9.2 },
+    coords: [9.2, 62.0],
     description: {
       de: "Dovre ist eine Gebirgsregion zwischen Ost- und Westnorwegen. Sie ist ein historischer Knotenpunkt.",
       hu: "Dovre egy hegyvidéki régió Kelet- és Nyugat-Norvégia között. Történelmi csomópont.",
@@ -806,7 +806,7 @@ export const norwayReliefV2: POI[] = [
     type: "valley",
     parent: "NO",
     name: { de: "Namdalen", hu: "Namdalen", ro: "Namdalen", en: "Namdalen" },
-    coordinates: { lat: 64.5, lng: 12.0 },
+    coords: [12.0, 64.5],
     description: {
       de: "Namdalen ist ein Tal in Trøndelag. Es erstreckt sich entlang des Flusses Namsen zum Meer hin.",
       hu: "A Namdalen egy völgy Trøndelagban. A Namsen folyó mentén nyúlik el a tengerig.",
@@ -838,7 +838,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Telemark-Hochland", hu: "Telemark-felföld", ro: "Podisul Telemark", en: "Telemark Highlands" },
-    coordinates: { lat: 59.5, lng: 8.0 },
+    coords: [8.0, 59.5],
     description: {
       de: "Das Telemark-Hochland besteht aus bewaldeten Hügeln und Bergen. Es ist eine typisch norwegische Landschaft.",
       hu: "A Telemark-felföld erdős dombokból és hegyekből áll. Tipikus norvég táj.",
@@ -870,7 +870,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Moskenesøy-Gebirge", hu: "Moskenesøy-hegység", ro: "Munții Moskenesøy", en: "Moskenesøy Mountains" },
-    coordinates: { lat: 67.9, lng: 13.0 },
+    coords: [13.0, 67.9],
     description: {
       de: "Moskenesøy ist ein bergiges Inselgebiet in den Lofoten. Die steilen Gipfel stürzen direkt ins Meer.",
       hu: "Moskenesøy egy hegyvidéki szigetcsoport a Lofotenen. A meredek csúcsok közvetlenül a tengerbe zuhannak.",
@@ -902,7 +902,7 @@ export const norwayReliefV2: POI[] = [
     type: "mountain",
     parent: "NO",
     name: { de: "Vega-Archipel", hu: "Vega-szigetvilág", ro: "Arhipelagul Vega", en: "Vega Archipelago" },
-    coordinates: { lat: 65.65, lng: 11.9 },
+    coords: [11.9, 65.65],
     description: {
       de: "Der Vega-Archipel besteht aus vielen kleinen Inseln und Bergen. Die Region gehört zum UNESCO-Welterbe.",
       hu: "A Vega-szigetvilág sok apró szigetből és hegyből áll. A régió az UNESCO világörökség része.",

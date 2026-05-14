@@ -6,7 +6,7 @@ export const sanmarinoEconomicV2: POI[] = [
     type: "industry",
     parent: "SM",
     name: { de: "Industriegebiet Rovereta", hu: "Rovereta ipari övezet", ro: "Zona industrială Rovereta", en: "Rovereta Industrial Hub" },
-    coordinates: { lat: 43.9745, lng: 12.4638 },
+    coords: [12.4638, 43.9745],
     description: {
       de: "Das Gewerbegebiet Rovereta ist eines der größten Industriezentren von San Marino. Hier befinden sich zahlreiche Fertigungs- und Handelsunternehmen.",
       hu: "A Rovereta ipari övezet San Marino egyik legnagyobb ipari központja. Számos gyártó és kereskedelmi vállalat telephelye található itt.",
@@ -38,7 +38,7 @@ export const sanmarinoEconomicV2: POI[] = [
     type: "industry",
     parent: "SM",
     name: { de: "Domagnano Gewerbepark", hu: "Domagnano üzleti park", ro: "Parcul de afaceri Domagnano", en: "Domagnano Business Park" },
-    coordinates: { lat: 43.9672, lng: 12.4735 },
+    coords: [12.4735, 43.9672],
     description: {
       de: "Der Domagnano Gewerbepark konzentriert sich auf moderne Dienstleistungen und kleine mittelständische Betriebe. Er spielt eine zentrale Rolle für den lokalen Handel.",
       hu: "A Domagnano üzleti park a modern szolgáltatásokra és a kis- és középvállalkozásokra összpontosít. Központi szerepet tölt be a helyi kereskedelemben.",
@@ -70,7 +70,7 @@ export const sanmarinoEconomicV2: POI[] = [
     type: "industry",
     parent: "SM",
     name: { de: "Faetano Agrarzentrum", hu: "Faetano mezőgazdasági központ", ro: "Centrul agricol Faetano", en: "Faetano Agricultural Center" },
-    coordinates: { lat: 43.9351, lng: 12.4822 },
+    coords: [12.4822, 43.9351],
     description: {
       de: "Dieses Zentrum in Faetano bündelt die landwirtschaftliche Produktion und Verarbeitung der Region. Es ist ein Knotenpunkt für lokale Agrarerzeugnisse.",
       hu: "Ez a központ Faetanóban a régió mezőgazdasági termelését és feldolgozását fogja össze. A helyi mezőgazdasági termékek elosztóhelye.",
@@ -102,7 +102,7 @@ export const sanmarinoEconomicV2: POI[] = [
     type: "industry",
     parent: "SM",
     name: { de: "Chiesanuova Handwerksviertel", hu: "Chiesanuova kézműves negyed", ro: "Cartierul artizanal Chiesanuova", en: "Chiesanuova Craft District" },
-    coordinates: { lat: 43.9185, lng: 12.4172 },
+    coords: [12.4172, 43.9185],
     description: {
       de: "Das Handwerksviertel in Chiesanuova unterstützt traditionelle sammarinesische Industrien. Kleine Werkstätten produzieren hier hochwertige Waren.",
       hu: "A Chiesanuova-i kézműves negyed támogatja a hagyományos san marinói iparágakat. A kis műhelyek itt állítanak elő minőségi termékeket.",
@@ -134,7 +134,7 @@ export const sanmarinoEconomicV2: POI[] = [
     type: "industry",
     parent: "SM",
     name: { de: "Serravalle Handelszentrum", hu: "Serravalle kereskedelmi központ", ro: "Centrul comercial Serravalle", en: "Serravalle Trade Hub" },
-    coordinates: { lat: 43.9785, lng: 12.4705 },
+    coords: [12.4705, 43.9785],
     description: {
       de: "Serravalle beherbergt umfangreiche Handelsflächen und Dienstleistungszentren. Es fungiert als einer der aktivsten Märkte in San Marino.",
       hu: "Serravalle kiterjedt kereskedelmi területeknek és szolgáltató központoknak ad otthont. San Marino egyik legaktívabb piacaként működik.",
@@ -166,7 +166,7 @@ export const sanmarinoEconomicV2: POI[] = [
     type: "industry",
     parent: "SM",
     name: { de: "Acquaviva Logistikzone", hu: "Acquaviva logisztikai zóna", ro: "Zona logistică Acquaviva", en: "Acquaviva Logistics Zone" },
-    coordinates: { lat: 43.9458, lng: 12.4285 },
+    coords: [12.4285, 43.9458],
     description: {
       de: "Die Logistikzone in Acquaviva ist entscheidend für den Warenfluss nach und aus San Marino. Sie ist verkehrsgünstig für den LKW-Transport gelegen.",
       hu: "Az Acquaviva-i logisztikai zóna döntő fontosságú San Marino áruforgalmában. Stratégiai elhelyezkedése előnyös a tehergépjármű-szállítás számára.",
@@ -198,7 +198,7 @@ export const sanmarinoEconomicV2: POI[] = [
     type: "industry",
     parent: "SM",
     name: { de: "Montegiardino Forstwirtschaftszentrum", hu: "Montegiardino erdészeti központ", ro: "Centrul forestier Montegiardino", en: "Montegiardino Forestry Center" },
-    coordinates: { lat: 43.9102, lng: 12.4828 },
+    coords: [12.4828, 43.9102],
     description: {
       de: "Dieses Zentrum koordiniert die nachhaltige Bewirtschaftung der Waldflächen in Montegiardino. Es verwaltet die regionale Holzressourcennutzung.",
       hu: "Ez a központ koordinálja a Montegiardino erdőterületeinek fenntartható gazdálkodását. Kezeli a regionális faanyag-felhasználást.",
@@ -230,7 +230,7 @@ export const sanmarinoEconomicV2: POI[] = [
     type: "industry",
     parent: "SM",
     name: { de: "Borgo Maggiore Dienstleistungszentrum", hu: "Borgo Maggiore szolgáltatóközpont", ro: "Centrul de servicii Borgo Maggiore", en: "Borgo Maggiore Service Hub" },
-    coordinates: { lat: 43.9535, lng: 12.4498 },
+    coords: [12.4498, 43.9535],
     description: {
       de: "Borgo Maggiore dient als wichtiger Dienstleistungsstandort. Hier befinden sich Behörden, Banken und Beratungsunternehmen für lokale Firmen.",
       hu: "Borgo Maggiore fontos szolgáltatási helyszínként szolgál. Itt találhatók a hatóságok, bankok és tanácsadó cégek a helyi vállalkozások számára.",
@@ -262,7 +262,7 @@ export const sanmarinoEconomicV2: POI[] = [
     type: "industry",
     parent: "SM",
     name: { de: "Fiorentino Fertigungscluster", hu: "Fiorentino gyártási klaszter", ro: "Clusterul de producție Fiorentino", en: "Fiorentino Manufacturing Cluster" },
-    coordinates: { lat: 43.9252, lng: 12.4555 },
+    coords: [12.4555, 43.9252],
     description: {
       de: "Das Gebiet Fiorentino konzentriert spezialisierte Fertigungsbetriebe. Es ist ein wichtiger Standort für die lokale Produktion industrieller Komponenten.",
       hu: "A Fiorentino terület speciális gyártóüzemeket tömörít. Fontos helyszín az ipari alkatrészek helyi termelése szempontjából.",

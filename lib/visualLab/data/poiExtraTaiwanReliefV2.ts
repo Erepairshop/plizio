@@ -19,7 +19,20 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["Tajvan legmagasabb hegye.", "3952 méter magas.", "Gyakran Jáde-hegyként emlegetik.", "A Központi-hegység része."],
       ro: ["Cel mai înalt munte din Taiwan.", "Are 3.952 metri înălțime.", "Numit adesea Muntele de Jad.", "Parte a Lanțului Muntos Central."],
       en: ["Highest mountain in Taiwan.", "3,952 meters tall.", "Often called Jade Mountain.", "Part of the Central Range."]
-    }, image: "/poi-images/yushan-relief-v2.webp"},
+    }, image: "/poi-images/yushan-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Yushan (Jadeberg) ist mit 3.952 Metern der höchste Berg Taiwans und Ostasiens. Er liegt im Yushan-Nationalpark in Zentraltaiwan. Der Gipfel besteht aus metamorphem Gestein, hauptsächlich Quarzit und Schiefer. Die Region ist bekannt für ihre alpine Flora und Fauna, darunter der Formosa-Schwarzbär und der Taiwan-Makak. Der Berg hat mehrere Gipfel, darunter den Hauptgipfel und den Ostgipfel. Jährlich besteigen über 50.000 Menschen den Gipfel.",
+      hu: "A Yushan (Jade-hegy) Tajvan és Kelet-Ázsia legmagasabb csúcsa, 3952 méter magas. Közép-Tajvanon, a Yushan Nemzeti Parkban található. A csúcs metamorf kőzetekből, főleg kvarcitból és palából áll. A terület alpesi flórájáról és állatvilágáról ismert, mint a formozai fekete medve és a tajvani makákó. A hegynek több csúcsa van, beleértve a főcsúcsot és a keleti csúcsot. Évente több mint 50 000 ember mászik fel a csúcsra.",
+      ro: "Yushan (Muntele de Jad) este cel mai înalt munte din Taiwan și din Asia de Est, cu o înălțime de 3.952 de metri. Este situat în Parcul Național Yushan, în centrul Taiwanului. Vârful este compus din roci metamorfice, în principal cuarțit și șist. Zona este cunoscută pentru flora și fauna alpină, inclusiv ursul negru formosan și macacul taiwanez. Muntele are mai multe vârfuri, inclusiv vârful principal și vârful estic. Peste 50.000 de oameni escaladează vârful anual.",
+      en: "Yushan (Jade Mountain), at 3,952 meters, is the highest peak in Taiwan and East Asia. Located in Yushan National Park in central Taiwan, the summit is composed of metamorphic rocks, primarily quartzite and schist. The area is known for its alpine flora and fauna, including the Formosan black bear and Taiwan macaque. The mountain has multiple peaks, including the main peak and eastern peak. Over 50,000 people climb the summit annually.",
+    },
+    factsAdvanced: {
+      de: ["Der Yushan ist 3.952 Meter hoch.", "Der Gipfel wurde 1868 erstmals bestiegen.", "Das Gestein besteht zu 90% aus Quarzit.", "Der Yushan-Nationalpark wurde 1985 gegründet.", "Die Durchschnittstemperatur im Januar beträgt -2°C.", "Der Ostgipfel erreicht 3.869 Meter."],
+      hu: ["A Yushan 3952 méter magas.", "A csúcsot először 1868-ban mászták meg.", "A kőzet 90%-ban kvarcitból áll.", "A Yushan Nemzeti Parkot 1985-ben alapították.", "Az átlaghőmérséklet januárban -2°C.", "A keleti csúcs 3869 méter magas."],
+      ro: ["Yushan are o înălțime de 3.952 de metri.", "Vârful a fost escaladat pentru prima dată în 1868.", "Roca este compusă în proporție de 90% din cuarțit.", "Parcul Național Yushan a fost înființat în 1985.", "Temperatura medie în ianuarie este de -2°C.", "Vârful estic atinge 3.869 de metri."],
+      en: ["Yushan is 3,952 meters tall.", "The peak was first ascended in 1868.", "The rock is 90% quartzite.", "Yushan National Park was established in 1985.", "Average temperature in January is -2°C.", "The eastern peak reaches 3,869 meters."],
+    },
+  },
   {
     id: "xueshan-relief-v2",
     type: "mountain",
@@ -422,7 +435,20 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["3668 méter magas.", "Dél-Tajvan egyik legfontosabb hegye.", "A Yushan Nemzeti Park része.", "Jellegzetes piramis alakot formál."],
       ro: ["Are 3.668 metri înălțime.", "Se distinge în sudul Taiwanului.", "Parte a Parcului Național Yushan.", "Formează o piramidă distinctivă."],
       en: ["3,668 meters tall.", "Stands out in southern Taiwan.", "Part of Yushan National Park.", "Forms a distinctive pyramid."]
-    }, image: "/poi-images/guanshan-relief-v2.webp"},
+    }, image: "/poi-images/guanshan-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Guanshan (Guanshan-Berg) liegt im Südosten Taiwans im Taitung County. Er ist ein markanter Gipfel mit einer Höhe von 1.681 Metern und gehört zur Küstenkordillere. Der Berg ist aus Andesitgestein und bekannt für seine steilen Hänge. Der Guanshan bietet einen Panoramablick auf das Lanyang-Tal und den Pazifik. In der Umgebung befinden sich heiße Quellen und Obstplantagen. Der Berg ist ein beliebtes Ziel für Wanderer.",
+      hu: "A Guanshan Tajvan délkeleti részén, Taitung megyében található. 1681 méter magas, a Parti-hegység része. A hegy andezitből áll, és meredek lejtőiről ismert. A Guanshan panorámás kilátást nyújt a Lanyang-völgyre és a Csendes-óceánra. A környéken termálforrások és gyümölcsösök találhatók. A hegy népszerű túracélpont.",
+      ro: "Guanshan este un munte situat în sud-estul Taiwanului, în comitatul Taitung. Are o înălțime de 1.681 de metri și face parte din lanțul costier. Muntele este compus din andezit și este cunoscut pentru pantele sale abrupte. Guanshan oferă o vedere panoramică asupra Văii Lanyang și a Oceanului Pacific. În zonă se găsesc izvoare termale și plantații de fructe. Este o destinație populară pentru drumeții.",
+      en: "Guanshan is a mountain in southeastern Taiwan, Taitung County. Standing at 1,681 meters, it is part of the Coastal Range. The mountain is composed of andesite and known for its steep slopes. Guanshan offers panoramic views of the Lanyang Valley and the Pacific Ocean. The area features hot springs and fruit orchards. It is a popular hiking destination.",
+    },
+    factsAdvanced: {
+      de: ["Der Guanshan ist 1.681 Meter hoch.", "Das Gestein ist überwiegend Andesit.", "Der Berg liegt in der Küstenkordillere.", "Die höchste Temperatur im Sommer beträgt 30°C.", "Die Region hat jährlich 2.500 Sonnenstunden.", "Der Berg wurde 1986 als Naturschutzgebiet ausgewiesen."],
+      hu: ["A Guanshan 1681 méter magas.", "A kőzet túlnyomórészt andezit.", "A hegy a Parti-hegység része.", "Nyáron a legmagasabb hőmérséklet 30°C.", "A régióban évente 2500 óra süt a nap.", "A hegyet 1986-ban nyilvánították természetvédelmi területté."],
+      ro: ["Guanshan are o înălțime de 1.681 de metri.", "Roca este predominant andezit.", "Muntele face parte din lanțul costier.", "Temperatura maximă vara este de 30°C.", "Regiunea are 2.500 de ore de soare anual.", "Muntele a fost declarat rezervație naturală în 1986."],
+      en: ["Guanshan is 1,681 meters high.", "The rock is predominantly andesite.", "The mountain is part of the Coastal Range.", "Summer maximum temperature is 30°C.", "The region has 2,500 sunshine hours annually.", "The mountain was designated a nature reserve in 1986."],
+    },
+  },
   {
     id: "pintianshan-relief-v2",
     type: "mountain",
@@ -601,6 +627,18 @@ export const poiExtraTaiwanReliefV2: POI[] = [
       hu: ["Érintetlen természetes állapot.", "Az Alangyi-ösvényről ismert.", "Nincsenek utak a part mentén.", "Teknősök természetvédelmi területe."],
       ro: ["Natură neatinsă.", "Cunoscută pentru traseul Alangyi.", "Fără drumuri de-a lungul coastei.", "Rezervație pentru țestoase."],
       en: ["Pristine natural environment.", "Known for the Alangyi Historic Trail.", "No roads along the coastline.", "Conservation area for turtles."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Alangyi-Küste liegt an der Südostküste Taiwans im Pingtung County. Sie erstreckt sich über etwa 12 Kilometer entlang des Pazifiks und ist bekannt für ihre raue Felslandschaft aus Korallenkalkstein. Die Küste ist Teil des Hengchun-Halbdels und weist zahlreiche Höhlen und Klippen auf. Die Gegend ist ein wichtiger Lebensraum für Meeresschildkröten und Zugvögel. Der Alangyi Historical Trail verläuft entlang der Küste und bietet archäologische Überreste der Ureinwohner.",
+      hu: "Az Alangyi-part Tajvan délkeleti partján, Pingtung megyében található. Körülbelül 12 kilométer hosszan húzódik a Csendes-óceán mentén, és ismert a korallmészkőből álló sziklás tájáról. A part a Hengchun-félsziget része, számos barlanggal és sziklafallal. A terület fontos élőhelye a tengeri teknősöknek és a vándormadaraknak. Az Alangyi Történelmi Ösvény a part mentén halad, és őslakos régészeti leleteket tartalmaz.",
+      ro: "Coasta Alangyi este situată pe coasta de sud-est a Taiwanului, în comitatul Pingtung. Se întinde pe aproximativ 12 kilometri de-a lungul Oceanului Pacific, cunoscută pentru peisajul stâncos de calcar coraligen. Coasta face parte din Peninsula Hengchun, cu numeroase peșteri și stânci. Zona este un habitat important pentru țestoasele marine și păsările migratoare. Poteca Istorică Alangyi urmează coasta, conținând rămășițe arheologice indigene.",
+      en: "The Alangyi Coast is located on the southeastern coast of Taiwan in Pingtung County. It stretches about 12 kilometers along the Pacific Ocean, known for its rugged coral limestone landscape. The coast is part of the Hengchun Peninsula, featuring numerous caves and cliffs. The area is an important habitat for sea turtles and migratory birds. The Alangyi Historical Trail runs along the coast, containing indigenous archaeological remains.",
+    },
+    factsAdvanced: {
+      de: ["Die Küste erstreckt sich über 12 Kilometer.", "Das Gestein ist hauptsächlich Korallenkalkstein.", "Die Klippen erreichen Höhen von 30 Metern.", "Der Wanderweg ist 8 Kilometer lang.", "Die Region hat jährlich 1.800 mm Niederschlag.", "Die Meerestemperatur beträgt im Sommer 28°C."],
+      hu: ["A part 12 kilométer hosszú.", "A kőzet főleg korallmészkő.", "A sziklafalak magassága eléri a 30 métert.", "A túraútvonal 8 kilométer hosszú.", "A régióban évente 1800 mm csapadék hull.", "A tenger hőmérséklete nyáron 28°C."],
+      ro: ["Coasta se întinde pe 12 kilometri.", "Roca este în principal calcar coraligen.", "Stâncile ating înălțimi de 30 de metri.", "Poteca are 8 kilometri lungime.", "Regiunea are 1.800 mm precipitații anual.", "Temperatura mării vara este de 28°C."],
+      en: ["The coast stretches for 12 kilometers.", "The rock is mainly coral limestone.", "Cliffs reach heights of 30 meters.", "The trail is 8 kilometers long.", "The region receives 1,800 mm of rainfall annually.", "Sea temperature in summer is 28°C."],
+    },
   }
 ];

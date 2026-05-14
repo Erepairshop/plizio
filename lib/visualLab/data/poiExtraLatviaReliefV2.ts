@@ -6,7 +6,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Lūznava-Hügel", hu: "Lūznava-domb", ro: "Dealul Lūznava", en: "Lūznava Hill" },
-    coordinates: { lat: 56.3667, lng: 27.2 },
+    coords: [27.2, 56.3667],
     description: {
       de: "Der Lūznava-Hügel ist eine markante Erhebung im östlichen Lettland. Er liegt in der Nähe des Dorfes Lūznava in der Region Latgale.",
       hu: "A Lūznava-domb egy jellegzetes magaslat Kelet-Lettországban. Lūznava falu közelében, Latgale régióban található.",
@@ -38,7 +38,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Smiltene-Höhenrücken", hu: "Smiltene-hát", ro: "Cresta Smiltene", en: "Smiltene Ridge" },
-    coordinates: { lat: 57.4167, lng: 25.9 },
+    coords: [25.9, 57.4167],
     description: {
       de: "Der Smiltene-Höhenrücken erstreckt sich im nördlichen Teil des Vidzeme-Hochlandes. Das Gelände ist durch hügelige Moränenablagerungen geprägt.",
       hu: "A Smiltene-hát a Vidzeme-felvidék északi részén húzódik. A terepet dombos moréna-lerakódások jellemzik.",
@@ -70,7 +70,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Aukstais-Berg", hu: "Aukstais-hegy", ro: "Muntele Aukstais", en: "Aukstais Hill" },
-    coordinates: { lat: 56.8833, lng: 26.2333 },
+    coords: [26.2333, 56.8833],
     description: {
       de: "Der Aukstais-Berg ist eine der markanten Erhebungen im Vidzeme-Hochland. Er erhebt sich über die umliegende seenreiche Waldlandschaft.",
       hu: "Az Aukstais-hegy a Vidzeme-felvidék egyik jellegzetes magaslata. A környező tóvidéki erdős táj fölé emelkedik.",
@@ -102,7 +102,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Baltais-Berg", hu: "Baltais-hegy", ro: "Muntele Baltais", en: "Baltais Hill" },
-    coordinates: { lat: 57.1, lng: 25.4 },
+    coords: [25.4, 57.1],
     description: {
       de: "Der Baltais-Berg liegt im zentralen Lettland in der Nähe des Flusses Gauja. Die Erhebung besteht hauptsächlich aus Sandstein- und Moränenschichten.",
       hu: "A Baltais-hegy Közép-Lettországban, a Gauja folyó közelében fekszik. A kiemelkedés főként homokkő és moréna rétegekből áll.",
@@ -134,7 +134,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Iecava-Hügelland", hu: "Iecava-dombság", ro: "Dealurile Iecava", en: "Iecava Hilly Terrain" },
-    coordinates: { lat: 56.6, lng: 24.1833 },
+    coords: [24.1833, 56.6],
     description: {
       de: "Das Iecava-Hügelland befindet sich in der Ebene von Zemgale. Trotz des flachen Charakters des Gebiets weist es kleine moränenbedingte Unebenheiten auf.",
       hu: "Az Iecava-dombság a Zemgale-síkságon található. A terület alapvetően sík jellege ellenére apró, moréna okozta egyenetlenségeket mutat.",
@@ -166,7 +166,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Zilaiskalns-Kamm", hu: "Zilaiskalns-gerinc", ro: "Creasta Zilaiskalns", en: "Zilaiskalns Ridge" },
-    coordinates: { lat: 57.6, lng: 25.0667 },
+    coords: [25.0667, 57.6],
     description: {
       de: "Der Zilaiskalns-Kamm ist eine langgestreckte Erhebung nördlich von Valmiera. Er ist ein geologisch bedeutendes glaziales Phänomen in Nordlettland.",
       hu: "A Zilaiskalns-gerinc egy elnyúló magaslat Valmierától északra. Észak-Lettország egyik geológiailag jelentős gleccserjelensége.",
@@ -198,7 +198,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Augstzeme-Hochland", hu: "Augstzeme-felvidék", ro: "Podișul Augstzeme", en: "Augstzeme Highland" },
-    coordinates: { lat: 56.6333, lng: 23.3667 },
+    coords: [23.3667, 56.6333],
     description: {
       de: "Das Augstzeme-Hochland stellt einen markanten Geländebereich im westlichen Teil Lettlands dar. Es ist Teil des Kurland-Hochlandes.",
       hu: "Az Augstzeme-felvidék egy jellegzetes terepi terület Lettország nyugati részén. A Kurlandi-felvidék része.",
@@ -230,7 +230,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Brivkalni-Hügel", hu: "Brivkalni-domb", ro: "Dealul Brivkalni", en: "Brivkalni Hill" },
-    coordinates: { lat: 56.9, lng: 24.6 },
+    coords: [24.6, 56.9],
     description: {
       de: "Der Brivkalni-Hügel ist eine sanfte Erhebung in der Nähe von Ogre. Er bietet einen Blick auf die umliegenden bewaldeten Täler.",
       hu: "A Brivkalni-domb egy szelíd magaslat Ogre közelében. Kilátást nyújt a környező erdős völgyekre.",
@@ -262,7 +262,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Daugava-Bogenrücken", hu: "Daugava-kanyarulat-hát", ro: "Cresta Cotiturilor Daugavei", en: "Daugava Bend Ridge" },
-    coordinates: { lat: 55.8833, lng: 26.8667 },
+    coords: [26.8667, 55.8833],
     description: {
       de: "Der Daugava-Bogenrücken verläuft entlang der tiefen Mäander des Daugava-Flusses. Er zeichnet sich durch steile Hänge und erosive Formationen aus.",
       hu: "A Daugava-kanyarulat-hát a Daugava folyó mély kanyarulata mentén húzódik. Meredek lejtők és eróziós képződmények jellemzik.",
@@ -294,7 +294,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Galdnieki-Hügel", hu: "Galdnieki-domb", ro: "Dealul Galdnieki", en: "Galdnieki Hill" },
-    coordinates: { lat: 56.55, lng: 21.65 },
+    coords: [21.65, 56.55],
     description: {
       de: "Der Galdnieki-Hügel ist eine lokale Erhebung in Kurland. Er ist von landwirtschaftlichen Flächen und kleinen Wäldern umgeben.",
       hu: "A Galdnieki-domb egy helyi magaslat Kurlandban. Mezőgazdasági területek és kisebb erdők veszik körül.",
@@ -326,7 +326,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Kristapils-Hügel", hu: "Kristapils-domb", ro: "Dealul Kristapils", en: "Kristapils Hill" },
-    coordinates: { lat: 56.7, lng: 26.5 },
+    coords: [26.5, 56.7],
     description: {
       de: "Der Kristapils-Hügel ist eine historische und topographische Erhebung in der Nähe von Livani. Er weist Anzeichen menschlicher Nutzung auf.",
       hu: "A Kristapils-domb egy történelmi és topográfiai magaslat Livani közelében. Emberi használat nyomai fedezhetők fel rajta.",
@@ -358,7 +358,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Sauka-Rücken", hu: "Sauka-hát", ro: "Cresta Sauka", en: "Sauka Ridge" },
-    coordinates: { lat: 56.4, lng: 25.5 },
+    coords: [25.5, 56.4],
     description: {
       de: "Der Sauka-Rücken ist ein kleiner glazialer Höhenzug im südlichen Lettland. Er liegt in der Nähe des Sauka-Sees.",
       hu: "A Sauka-hát egy kis gleccserhát Dél-Lettországban. A Sauka-tó közelében fekszik.",
@@ -390,7 +390,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Priedaine-Hügel", hu: "Priedaine-domb", ro: "Dealul Priedaine", en: "Priedaine Hill" },
-    coordinates: { lat: 56.75, lng: 23.5 },
+    coords: [23.5, 56.75],
     description: {
       de: "Der Priedaine-Hügel befindet sich im westlichen Lettland. Er erhebt sich sanft aus einer von Feuchtgebieten geprägten Landschaft.",
       hu: "A Priedaine-domb Nyugat-Lettországban található. Szelíden emelkedik ki a vizes élőhelyekkel jellemezhető tájból.",
@@ -422,7 +422,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Alksne-Hügel", hu: "Alksne-domb", ro: "Dealul Alksne", en: "Alksne Hill" },
-    coordinates: { lat: 57.4333, lng: 26.9667 },
+    coords: [26.9667, 57.4333],
     description: {
       de: "Der Alksne-Hügel ist eine markante Erhebung im östlichen Vidzeme. Er ist bekannt für seine natürliche geologische Formung.",
       hu: "Az Alksne-domb egy jellegzetes magaslat Kelet-Vidzemében. Természetes geológiai formálásáról ismert.",
@@ -454,7 +454,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Tārgale-Hügel", hu: "Tārgale-domb", ro: "Dealul Tārgale", en: "Tārgale Hill" },
-    coordinates: { lat: 57.3833, lng: 21.6 },
+    coords: [21.6, 57.3833],
     description: {
       de: "Der Tārgale-Hügel liegt nahe der Ostseeküste. Die Erhebung ist Teil des Küsten-Tieflandes, das durch sandige Dünen geprägt ist.",
       hu: "A Tārgale-domb a balti-tengeri part közelében fekszik. A kiemelkedés a part menti síkság része, amelyet homokos dűnék jellemeznek.",
@@ -486,7 +486,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Zūras-Kamm", hu: "Zūras-gerinc", ro: "Creasta Zūras", en: "Zūras Ridge" },
-    coordinates: { lat: 57.3, lng: 21.75 },
+    coords: [21.75, 57.3],
     description: {
       de: "Der Zūras-Kamm ist eine flache geologische Formation in der Region Kurland. Er bildet eine Trennlinie zwischen verschiedenen Flussebenen.",
       hu: "A Zūras-gerinc egy lapos geológiai képződmény Kurland régióban. Határvonalat képez különböző folyósíkságok között.",
@@ -518,7 +518,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Puze-Hügel", hu: "Puze-domb", ro: "Dealul Puze", en: "Puze Hill" },
-    coordinates: { lat: 57.25, lng: 21.8 },
+    coords: [21.8, 57.25],
     description: {
       de: "Der Puze-Hügel ist eine natürliche Geländeformation unweit des Puze-Sees. Die Umgebung ist stark von Gletschern geformt worden.",
       hu: "A Puze-domb egy természetes terepi képződmény a Puze-tótól nem messze. A környezetet erősen formálták a gleccserek.",
@@ -550,7 +550,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Usma-Kamm", hu: "Usma-gerinc", ro: "Creasta Usma", en: "Usma Ridge" },
-    coordinates: { lat: 57.2333, lng: 22.0667 },
+    coords: [22.0667, 57.2333],
     description: {
       de: "Der Usma-Kamm erhebt sich in der Nähe des Usma-Sees. Er ist bekannt für seine bewaldeten Hänge und das hügelige Profil.",
       hu: "Az Usma-gerinc az Usma-tó közelében emelkedik. Erdős lejtőiről és dombos profiljáról ismert.",
@@ -582,7 +582,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Eleja-Ebene", hu: "Eleja-síkság", ro: "Câmpia Eleja", en: "Eleja Plain" },
-    coordinates: { lat: 56.4167, lng: 23.7 },
+    coords: [23.7, 56.4167],
     description: {
       de: "Die Eleja-Ebene ist ein flacher Bereich im Süden Lettlands. Sie bildet ein weites Tiefland, das für die Landwirtschaft genutzt wird.",
       hu: "Az Eleja-síkság egy lapos terület Dél-Lettországban. Kiterjedt alföldet alkot, amelyet mezőgazdasági célokra hasznosítanak.",
@@ -614,7 +614,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Bērze-Anhöhe", hu: "Bērze-magaslat", ro: "Înălțimea Bērze", en: "Bērze Rise" },
-    coordinates: { lat: 56.65, lng: 23.35 },
+    coords: [23.35, 56.65],
     description: {
       de: "Die Bērze-Anhöhe ist eine sanfte topographische Erhebung im Südwesten Lettlands. Sie ist Teil einer welligen Moränenlandschaft.",
       hu: "A Bērze-magaslat egy szelíd topográfiai kiemelkedés Délnyugat-Lettországban. Egy hullámos morénatáj része.",
@@ -646,7 +646,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Zante-Hügel", hu: "Zante-domb", ro: "Dealul Zante", en: "Zante Hill" },
-    coordinates: { lat: 56.9667, lng: 22.8667 },
+    coords: [22.8667, 56.9667],
     description: {
       de: "Der Zante-Hügel liegt in einer hügeligen Gegend in Kurland. Das Gelände ist durch Gletschertätigkeit geformt und von Wäldern bedeckt.",
       hu: "A Zante-domb egy dombos vidéken fekszik Kurlandban. A terepet gleccserek tevékenysége formálta, és erdők borítják.",
@@ -678,7 +678,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Zirņi-Hügel", hu: "Zirņi-domb", ro: "Dealul Zirņi", en: "Zirņi Hill" },
-    coordinates: { lat: 56.6167, lng: 22.3667 },
+    coords: [22.3667, 56.6167],
     description: {
       de: "Der Zirņi-Hügel ist eine kleine Erhebung im südwestlichen Lettland. Die Umgebung ist überwiegend von landwirtschaftlichen Feldern geprägt.",
       hu: "A Zirņi-domb egy kis magaslat Délnyugat-Lettországban. A környezetet túlnyomórészt mezőgazdasági szántók jellemzik.",
@@ -710,7 +710,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Kursīši-Hügel", hu: "Kursīši-domb", ro: "Dealul Kursīši", en: "Kursīši Hill" },
-    coordinates: { lat: 56.55, lng: 22.3333 },
+    coords: [22.3333, 56.55],
     description: {
       de: "Der Kursīši-Hügel liegt im südwestlichen Teil Lettlands. Er bietet eine leichte topographische Erhebung innerhalb der flachen Landschaft.",
       hu: "A Kursīši-domb Délnyugat-Lettország részén fekszik. Enyhe topográfiai magaslatot kínál a sík tájon belül.",
@@ -742,7 +742,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Ezere-Rücken", hu: "Ezere-hát", ro: "Cresta Ezere", en: "Ezere Ridge" },
-    coordinates: { lat: 56.4, lng: 22.35 },
+    coords: [22.35, 56.4],
     description: {
       de: "Der Ezere-Rücken ist eine längliche geologische Formation in der Nähe der Grenze zu Litauen. Das Gelände ist hügelig und waldreich.",
       hu: "Az Ezere-hát egy elnyúló geológiai képződmény a litván határ közelében. A terep dombos és erdőben gazdag.",
@@ -774,7 +774,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Nīca-Ebene", hu: "Nīca-síkság", ro: "Câmpia Nīca", en: "Nīca Plain" },
-    coordinates: { lat: 56.3333, lng: 21.0167 },
+    coords: [21.0167, 56.3333],
     description: {
       de: "Die Nīca-Ebene erstreckt sich entlang der Küste im Südwesten Lettlands. Sie ist ein sehr flaches, teilweise sumpfiges Gebiet.",
       hu: "A Nīca-síkság a délnyugat-lettországi part mentén húzódik. Ez egy nagyon lapos, részben mocsaras terület.",
@@ -806,7 +806,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Rucava-Rücken", hu: "Rucava-hát", ro: "Cresta Rucava", en: "Rucava Ridge" },
-    coordinates: { lat: 56.1667, lng: 21.1667 },
+    coords: [21.1667, 56.1667],
     description: {
       de: "Der Rucava-Rücken befindet sich im äußersten Südwesten Lettlands. Das Gebiet ist durch sanfte Erhebungen geprägt.",
       hu: "A Rucava-hát Lettország legdélnyugatibb részén található. A területet szelíd magaslatok jellemzik.",
@@ -838,7 +838,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Kalēti-Anhöhe", hu: "Kalēti-magaslat", ro: "Înălțimea Kalēti", en: "Kalēti Rise" },
-    coordinates: { lat: 56.3, lng: 21.5 },
+    coords: [21.5, 56.3],
     description: {
       de: "Die Kalēti-Anhöhe stellt eine lokale Erhebung in Südwestkurland dar. Das Gebiet ist weitgehend bewaldet.",
       hu: "A Kalēti-magaslat egy helyi kiemelkedés Délnyugat-Kurlandban. A terület jórészt erdős.",
@@ -870,7 +870,7 @@ export const latviaReliefV2: POI[] = [
     type: "valley",
     parent: "LV",
     name: { de: "Embūte-Tal", hu: "Embūte-völgy", ro: "Valea Embūte", en: "Embūte Valley" },
-    coordinates: { lat: 56.4833, lng: 21.8167 },
+    coords: [21.8167, 56.4833],
     description: {
       de: "Das Embūte-Tal ist eine markante Talbildung im westlichen Lettland. Es ist für seine steilen Hänge und geologische Vielfalt bekannt.",
       hu: "Az Embūte-völgy egy jellegzetes völgyképződmény Nyugat-Lettországban. Meredek lejtőiről és geológiai változatosságáról ismert.",
@@ -902,7 +902,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Laidi-Hügel", hu: "Laidi-domb", ro: "Dealul Laidi", en: "Laidi Hill" },
-    coordinates: { lat: 56.8167, lng: 22.0333 },
+    coords: [22.0333, 56.8167],
     description: {
       de: "Der Laidi-Hügel ist eine sanfte Erhebung in der Region Kurland. Die Umgebung ist von landwirtschaftlichen Feldern und Weiden geprägt.",
       hu: "A Laidi-domb egy szelíd magaslat Kurland régióban. A környezetet mezőgazdasági szántók és legelők jellemzik.",
@@ -934,7 +934,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Alsunga-Anhöhe", hu: "Alsunga-magaslat", ro: "Înălțimea Alsunga", en: "Alsunga Rise" },
-    coordinates: { lat: 56.9833, lng: 21.5667 },
+    coords: [21.5667, 56.9833],
     description: {
       de: "Die Alsunga-Anhöhe ist ein lokaler Geländerücken im westlichen Teil Lettlands. Sie ist von historischer Bedeutung.",
       hu: "Az Alsunga-magaslat egy helyi terephát Nyugat-Lettországban. Történelmi jelentőséggel bír.",
@@ -966,7 +966,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Gudenieki-Anhöhe", hu: "Gudenieki-magaslat", ro: "Înălțimea Gudenieki", en: "Gudenieki Rise" },
-    coordinates: { lat: 56.9667, lng: 21.65 },
+    coords: [21.65, 56.9667],
     description: {
       de: "Die Gudenieki-Anhöhe befindet sich in Westkurland. Sie bietet eine leicht erhöhte Aussicht auf die umgebende Agrarlandschaft.",
       hu: "A Gudenieki-magaslat Nyugat-Kurlandban található. Enyhén emelt kilátást nyújt a környező agrár-tájra.",
@@ -998,7 +998,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Pelči-Rücken", hu: "Pelči-hát", ro: "Cresta Pelči", en: "Pelči Ridge" },
-    coordinates: { lat: 56.9333, lng: 21.9 },
+    coords: [21.9, 56.9333],
     description: {
       de: "Der Pelči-Rücken erstreckt sich als sanfte Erhebung in der Nähe von Kuldīga. Die Umgebung ist teilweise durch Parks gestaltet.",
       hu: "A Pelči-hát szelíd magaslatként húzódik Kuldīga közelében. A környéket részben parkok alakították ki.",
@@ -1030,7 +1030,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Ugāle-Hügel", hu: "Ugāle-domb", ro: "Dealul Ugāle", en: "Ugāle Hill" },
-    coordinates: { lat: 57.2667, lng: 21.7333 },
+    coords: [21.7333, 57.2667],
     description: {
       de: "Der Ugāle-Hügel ist eine lokale Erhebung in der Region Nordkurland. Er zeichnet sich durch sandige Böden und dichte Wälder aus.",
       hu: "Az Ugāle-domb egy helyi magaslat Észak-Kurland régióban. Homokos talaj és sűrű erdők jellemzik.",
@@ -1062,7 +1062,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Zūras-Hügel", hu: "Zūras-domb", ro: "Dealul Zūras", en: "Zūras Hill" },
-    coordinates: { lat: 57.2833, lng: 21.7667 },
+    coords: [21.7667, 57.2833],
     description: {
       de: "Der Zūras-Hügel ist ein kleiner Geländerücken in der Nähe von Ventspils. Er ist Teil des leicht gewellten Tieflandes.",
       hu: "A Zūras-domb egy kis terephát Ventspils közelében. A könnyedén hullámos síkság része.",
@@ -1094,7 +1094,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Eleja-Rücken", hu: "Eleja-hát", ro: "Cresta Eleja", en: "Eleja Ridge" },
-    coordinates: { lat: 56.4333, lng: 23.7333 },
+    coords: [23.7333, 56.4333],
     description: {
       de: "Der Eleja-Rücken ist ein kleiner Geländesprung in der Zemgale-Ebene. Er ragt nur geringfügig aus dem flachen Agrarland hervor.",
       hu: "Az Eleja-hát egy kis tereplépcső a Zemgale-síkságon. Alig emelkedik ki a sík agrárvidékből.",
@@ -1126,7 +1126,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Auce-Rücken", hu: "Auce-hát", ro: "Cresta Auce", en: "Auce Ridge" },
-    coordinates: { lat: 56.45, lng: 22.8833 },
+    coords: [22.8833, 56.45],
     description: {
       de: "Der Auce-Rücken ist eine sanfte Erhebung in der Region Zemgale. Er trennt verschiedene landwirtschaftlich genutzte Flächen voneinander.",
       hu: "Az Auce-hát egy szelíd magaslat a Zemgale régióban. Elválasztja egymástól a különböző mezőgazdasági területeket.",
@@ -1158,7 +1158,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Bērze-Rücken", hu: "Bērze-hát", ro: "Cresta Bērze", en: "Bērze Ridge" },
-    coordinates: { lat: 56.6333, lng: 23.3333 },
+    coords: [23.3333, 56.6333],
     description: {
       de: "Der Bērze-Rücken ist eine topographische Kante in der südwestlichen lettischen Ebene. Er wird intensiv landwirtschaftlich genutzt.",
       hu: "A Bērze-hát egy topográfiai perem a délnyugati lett síkságon. Intenzíven hasznosítják mezőgazdaságilag.",
@@ -1190,7 +1190,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Vāne-Hügel", hu: "Vāne-domb", ro: "Dealul Vāne", en: "Vāne Hill" },
-    coordinates: { lat: 56.9167, lng: 22.75 },
+    coords: [22.75, 56.9167],
     description: {
       de: "Der Vāne-Hügel ist eine Erhebung in einer hügeligen Region Kurlands. Die Umgebung ist von Wald und Ackerland gekennzeichnet.",
       hu: "A Vāne-domb egy magaslat Kurland dombos vidékén. A környéket erdő és szántóföld jellemzi.",
@@ -1222,7 +1222,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Zante-Rücken", hu: "Zante-hát", ro: "Cresta Zante", en: "Zante Ridge" },
-    coordinates: { lat: 56.95, lng: 22.8833 },
+    coords: [22.8833, 56.95],
     description: {
       de: "Der Zante-Rücken ist ein glazial geformter Höhenzug in Kurland. Er bildet eine charakteristische Landschaftsform der Region.",
       hu: "A Zante-hát egy gleccser formálta magaslat Kurlandban. A régió jellegzetes tájformáját alkotja.",
@@ -1254,7 +1254,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Zirņi-Rücken", hu: "Zirņi-hát", ro: "Cresta Zirņi", en: "Zirņi Ridge" },
-    coordinates: { lat: 56.6333, lng: 22.35 },
+    coords: [22.35, 56.6333],
     description: {
       de: "Der Zirņi-Rücken ist eine sanfte Erhebung im Südwesten. Das Gebiet dient hauptsächlich landwirtschaftlichen Zwecken.",
       hu: "A Zirņi-hát egy szelíd magaslat a délnyugati részén. A területet főleg mezőgazdasági célokra használják.",
@@ -1286,7 +1286,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Ezere-Hügel", hu: "Ezere-domb", ro: "Dealul Ezere", en: "Ezere Hill" },
-    coordinates: { lat: 56.3833, lng: 22.3667 },
+    coords: [22.3667, 56.3833],
     description: {
       de: "Der Ezere-Hügel ist eine lokale Erhebung nahe der Grenze zu Litauen. Das Gebiet ist teilweise bewaldet.",
       hu: "Az Ezere-domb egy helyi magaslat a litván határ közelében. A terület részben erdős.",
@@ -1318,7 +1318,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Kalēti-Rücken", hu: "Kalēti-hát", ro: "Cresta Kalēti", en: "Kalēti Ridge" },
-    coordinates: { lat: 56.3167, lng: 21.5167 },
+    coords: [21.5167, 56.3167],
     description: {
       de: "Der Kalēti-Rücken erstreckt sich durch den Südwesten Kurlands. Es ist ein Gebiet mit einer leicht gewellten Topographie.",
       hu: "A Kalēti-hát Kurland délnyugati részén húzódik. Ez egy enyhén hullámos domborzatú terület.",
@@ -1350,7 +1350,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Galdnieki-Rücken", hu: "Galdnieki-hát", ro: "Cresta Galdnieki", en: "Galdnieki Ridge" },
-    coordinates: { lat: 56.5667, lng: 21.6667 },
+    coords: [21.6667, 56.5667],
     description: {
       de: "Der Galdnieki-Rücken ist ein kleiner Geländesprung im Südwesten Lettlands. Er ist Teil einer flachen, landwirtschaftlichen Zone.",
       hu: "A Galdnieki-hát egy kis tereplépcső Délnyugat-Lettországban. Egy lapos, mezőgazdasági zóna része.",
@@ -1382,7 +1382,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Laidi-Rücken", hu: "Laidi-hát", ro: "Cresta Laidi", en: "Laidi Ridge" },
-    coordinates: { lat: 56.8333, lng: 22.05 },
+    coords: [22.05, 56.8333],
     description: {
       de: "Der Laidi-Rücken liegt in einer hügeligen Landschaft in Kurland. Das Gebiet wird durch Landwirtschaft und Wald geprägt.",
       hu: "A Laidi-hát egy dombos tájon fekszik Kurlandban. A területet mezőgazdaság és erdő jellemzi.",
@@ -1414,7 +1414,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Pelči-Hügel", hu: "Pelči-domb", ro: "Dealul Pelči", en: "Pelči Hill" },
-    coordinates: { lat: 56.9167, lng: 21.8833 },
+    coords: [21.8833, 56.9167],
     description: {
       de: "Der Pelči-Hügel ist eine sanfte Erhebung nahe der Stadt Kuldīga. Das Gelände ist von Parks und Wäldern umgeben.",
       hu: "A Pelči-domb egy szelíd magaslat Kuldīga város közelében. A terepet parkok és erdők veszik körül.",
@@ -1446,7 +1446,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Gudenieki-Rücken", hu: "Gudenieki-hát", ro: "Cresta Gudenieki", en: "Gudenieki Ridge" },
-    coordinates: { lat: 56.9833, lng: 21.6667 },
+    coords: [21.6667, 56.9833],
     description: {
       de: "Der Gudenieki-Rücken erstreckt sich durch den westlichen Teil Kurlands. Es ist ein ländliches Gebiet mit sanften Hügeln.",
       hu: "A Gudenieki-hát Kurland nyugati részén húzódik. Ez egy vidéki terület szelíd dombokkal.",
@@ -1478,7 +1478,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Vāne-Rücken", hu: "Vāne-hát", ro: "Cresta Vāne", en: "Vāne Ridge" },
-    coordinates: { lat: 56.9333, lng: 22.7667 },
+    coords: [22.7667, 56.9333],
     description: {
       de: "Der Vāne-Rücken ist eine topographische Erhebung in der hügeligen Landschaft Kurlands. Er wird von Wald und Feldern geprägt.",
       hu: "A Vāne-hát egy topográfiai magaslat Kurland dombos táján. Erdő és szántóföld jellemzi.",
@@ -1510,7 +1510,7 @@ export const latviaReliefV2: POI[] = [
     type: "mountain",
     parent: "LV",
     name: { de: "Stende-Rücken", hu: "Stende-hát", ro: "Cresta Stende", en: "Stende Ridge" },
-    coordinates: { lat: 57.1333, lng: 22.5333 },
+    coords: [22.5333, 57.1333],
     description: {
       de: "Der Stende-Rücken ist ein kleiner Geländesprung in Nordkurland. Die Region ist von flachen Ebenen und landwirtschaftlichen Flächen dominiert.",
       hu: "A Stende-hát egy kis tereplépcső Észak-Kurlandban. A régiót lapos síkságok és mezőgazdasági területek uralják.",

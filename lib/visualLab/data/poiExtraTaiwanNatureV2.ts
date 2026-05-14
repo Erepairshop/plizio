@@ -527,6 +527,18 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       hu: ["A folyó mentén több jelentős gát is található.", "Vize táplálja a termékeny Tajcsung-medencét."],
       ro: ["De-a lungul râului există mai multe baraje importante.", "Apele sale hrănesc bazinul fertil Taichung."],
       en: ["Several significant dams are located along the river.", "Its water nourishes the fertile Taichung Basin."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Dajia-Fluss in Zentraltaiwan entspringt am Berg Nanhu und fließt etwa 124 Kilometer nordwestlich in die Taiwanstraße. Er ist bekannt für seinen klaren Wasserlauf und die tiefen Schluchten im Taroko-Nationalpark. Der Fluss wird für die Wasserkraft genutzt, mit dem Dajia-Staudamm und dem Tianlun-Staudamm. Das Einzugsgebiet beträgt etwa 1.235 km². Der Unterlauf ist ein wichtiges landwirtschaftliches Gebiet für Reis und Gemüse.",
+      hu: "A Dajia folyó Tajvan középső részén ered a Nanhu-hegyen, és mintegy 124 kilométer hosszan folyik északnyugatra a Tajvani-szorosba. Tiszta vizéről és a Taroko Nemzeti Park mély szurdokairól ismert. A folyót vízerőművek hasznosítják, például a Dajia-gát és a Tianlun-gát. Vízgyűjtő területe 1235 km². Alsó szakasza mezőgazdasági terület, ahol rizst és zöldségeket termesztenek.",
+      ro: "Râul Dajia, situat în centrul Taiwanului, izvorăște din Muntele Nanhu și curge aproximativ 124 de kilometri spre nord-vest, vărsându-se în Strâmtoarea Taiwan. Este cunoscut pentru apele sale limpezi și canioanele adânci din Parcul Național Taroko. Râul este utilizat pentru hidroenergie, cu barajele Dajia și Tianlun. Bazinul hidrografic acoperă 1.235 km². Cursul inferior este o zonă agricolă importantă pentru orez și legume.",
+      en: "The Dajia River in central Taiwan originates from Nanhu Mountain and flows about 124 kilometers northwest into the Taiwan Strait. Known for its clear waters and deep gorges in Taroko National Park, the river is harnessed for hydroelectric power through the Dajia Dam and Tianlun Dam. Its drainage basin covers 1,235 km². The lower reaches support agriculture, growing rice and vegetables. The river also provides water for the Taichung area.",
+    },
+    factsAdvanced: {
+      de: ["Der Dajia-Fluss ist etwa 124 Kilometer lang.", "Das Einzugsgebiet umfasst 1.235 km².", "Der Dajia-Staudamm wurde 1961 fertiggestellt.", "Der Tianlun-Staudamm hat eine Kapazität von 10 MW.", "Die maximale Tiefe der Schlucht beträgt 500 Meter.", "Der Fluss entspringt auf 3.500 Metern Höhe."],
+      hu: ["A Dajia folyó hossza körülbelül 124 kilométer.", "Vízgyűjtő területe 1235 km².", "A Dajia-gátat 1961-ben fejezték be.", "A Tianlun-gát kapacitása 10 MW.", "A szurdok maximális mélysége 500 méter.", "A folyó 3500 méteres magasságban ered."],
+      ro: ["Râul Dajia are aproximativ 124 de kilometri lungime.", "Bazinul hidrografic acoperă 1.235 km².", "Barajul Dajia a fost finalizat în 1961.", "Barajul Tianlun are o capacitate de 10 MW.", "Adâncimea maximă a canionului este de 500 de metri.", "Râul izvorăște la 3.500 de metri altitudine."],
+      en: ["The Dajia River is approximately 124 kilometers long.", "Its drainage basin covers 1,235 km².", "The Dajia Dam was completed in 1961.", "The Tianlun Dam has a capacity of 10 MW.", "The maximum gorge depth is 500 meters.", "The river originates at an elevation of 3,500 meters."],
+    },
   }
 ];

@@ -8,7 +8,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Hafen von Klaipėda", hu: "Klaipėdai kikötő", ro: "Portul Klaipėda", en: "Port of Klaipėda"},
     image: "/poi-images/lithuania-klaipeda-port-economic-v2.webp",
     coords: [21.1322, 55.7058],
-    coordinates: { lat: 55.7058, lng: 21.1322 },
+    coords: [21.1322, 55.7058],
     description: {
       de: "Der Hafen von Klaipėda ist der wichtigste Seehafen Litauens und ein bedeutender Verkehrsknotenpunkt an der Ostsee. Er ist das ganze Jahr über eisfrei und wickelt einen Großteil des litauischen Außenhandels ab.",
       hu: "Klaipėda kikötője Litvánia legfontosabb tengeri kapuja és a Balti-tenger egyik jelentős közlekedési csomópontja. Az egész évben jégmentes kikötő bonyolítja le a litván külkereskedelem jelentős részét.",
@@ -43,7 +43,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "ORLEN Lietuva Ölraffinerie", hu: "ORLEN Lietuva olajfinomító", ro: "Rafinăria ORLEN Lietuva", en: "ORLEN Lietuva Oil Refinery"},
     image: "/poi-images/lithuania-orlen-lietuva-economic-v2.webp",
     coords: [22.1722, 56.3911],
-    coordinates: { lat: 56.3911, lng: 22.1722 },
+    coords: [22.1722, 56.3911],
     description: {
       de: "Die Raffinerie in Mažeikiai ist die einzige Erdölraffinerie in den baltischen Staaten. Sie ist ein strategisch wichtiges Unternehmen für die Energieunabhängigkeit und Wirtschaft Litauens.",
       hu: "A mažeikiaii finomító az egyetlen kőolajfinomító a balti államokban. Stratégiailag fontos vállalat Litvánia energiafüggetlensége és gazdasága szempontjából.",
@@ -78,7 +78,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Achema Düngemittelwerk", hu: "Achema műtrágyagyár", ro: "Fabrica de îngrășăminte Achema", en: "Achema Fertilizer Plant"},
     image: "/poi-images/lithuania-achema-jonava-economic-v2.webp",
     coords: [24.3167, 55.0847],
-    coordinates: { lat: 55.0847, lng: 24.3167 },
+    coords: [24.3167, 55.0847],
     description: {
       de: "Achema in Jonava ist der größte Stickstoffdüngemittelhersteller im Baltikum. Das Werk ist ein zentraler Pfeiler der litauischen Schwerindustrie und ein bedeutender Gasverbraucher.",
       hu: "A jonavai Achema a Baltikum legnagyobb nitrogénműtrágya-gyártója. A gyár a litván nehézipar egyik központi pillére és jelentős gázfogyasztó.",
@@ -113,7 +113,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Lifosa Phosphatwerk", hu: "Lifosa foszfátgyár", ro: "Fabrica de fosfați Lifosa", en: "Lifosa Phosphate Plant"},
     image: "/poi-images/lithuania-lifosa-kedainiai-economic-v2.webp",
     coords: [23.9783, 55.2631],
-    coordinates: { lat: 55.2631, lng: 23.9783 },
+    coords: [23.9783, 55.2631],
     description: {
       de: "Lifosa ist einer der größten Phosphatdüngemittelhersteller in Europa mit Sitz in Kėdainiai. Das Unternehmen exportiert seine Produkte in über 40 Länder weltweit.",
       hu: "A Lifosa Európa egyik legnagyobb foszfátműtrágya-gyártója, székhelye Kėdainiaiban található. A vállalat termékeit a világ több mint 40 országába exportálja.",
@@ -147,7 +147,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Pumpspeicherkraftwerk Kruonis", hu: "Kruonisi szivattyús-tározós erőmű", ro: "Centrala prin pompare Kruonis", en: "Kruonis Pumped Storage Plant"},
     image: "/poi-images/lithuania-kruonis-pumped-storage-economic-v2.webp",
     coords: [24.25, 54.8],
-    coordinates: { lat: 54.8, lng: 24.25 },
+    coords: [24.25, 54.8],
     description: {
       de: "Kruonis ist das einzige Pumpspeicherkraftwerk im Baltikum und dient der Stabilisierung des litauischen Energiesystems. Es gleicht Schwankungen zwischen Stromerzeugung und -verbrauch aus.",
       hu: "A kruonisi az egyetlen szivattyús-tározós erőmű a Baltikumban, amely a litván energiarendszer stabilizálására szolgál. Kiegyenlíti az energiatermelés és -fogyasztás közötti ingadozásokat.",
@@ -182,7 +182,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Kernkraftwerk Ignalina", hu: "Ignalinai atomerőmű", ro: "Centrala Nucleară Ignalina", en: "Ignalina Nuclear Power Plant"},
     image: "/poi-images/lithuania-ignalina-nuclear-plant-economic-v2.webp",
     coords: [26.5911, 55.6033],
-    coordinates: { lat: 55.6033, lng: 26.5911 },
+    coords: [26.5911, 55.6033],
     description: {
       de: "Das Kernkraftwerk Ignalina war einst der wichtigste Stromerzeuger Litauens und wird derzeit stillgelegt. Der Rückbau ist eines der größten Industrieprojekte in der Geschichte des Landes.",
       hu: "Az ignalinai atomerőmű egykor Litvánia legfontosabb áramtermelője volt, jelenleg üzemen kívül helyezése zajlik. A leszerelés az ország történetének egyik legnagyobb ipari projektje.",
@@ -217,7 +217,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Freie Wirtschaftszone Kaunas", hu: "Kaunasi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Kaunas", en: "Kaunas Free Economic Zone"},
     image: "/poi-images/lithuania-kaunas-fez-economic-v2.webp",
     coords: [24.0583, 54.9547],
-    coordinates: { lat: 54.9547, lng: 24.0583 },
+    coords: [24.0583, 54.9547],
     description: {
       de: "Die Freie Wirtschaftszone Kaunas ist ein führendes Industriegebiet für ausländische Investitionen in Litauen. Sie bietet steuerliche Anreize für Unternehmen aus den Bereichen Automotive und Elektronik.",
       hu: "A Kaunasi Szabad Gazdasági Övezet a külföldi befektetések vezető ipari területe Litvániában. Adókedvezményeket kínál az autóipari és elektronikai vállalatok számára.",
@@ -252,7 +252,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Geschäftsviertel Vilnius", hu: "Vilniusi üzleti negyed", ro: "Cartierul de afaceri din Vilnius", en: "Vilnius Business District"},
     image: "/poi-images/lithuania-vilnius-cbd-economic-v2.webp",
     coords: [25.2767, 54.6933],
-    coordinates: { lat: 54.6933, lng: 25.2767 },
+    coords: [25.2767, 54.6933],
     description: {
       de: "Das neue Stadtzentrum von Vilnius am rechten Ufer des Flusses Neris ist das wirtschaftliche Herz der Hauptstadt. Hier befinden sich Wolkenkratzer mit Banken, Anwaltskanzleien und IT-Zentren.",
       hu: "Vilnius új városközpontja a Neris-folyó jobb partján a főváros gazdasági szíve. Itt találhatók a bankoknak, ügyvédi irodáknak és IT-központoknak otthont adó felhőkarcolók.",
@@ -286,7 +286,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Akropolis Vilnius", hu: "Vilniusi Akropolis", ro: "Akropolis Vilnius", en: "Akropolis Vilnius"},
     image: "/poi-images/lithuania-akropolis-vilnius-economic-v2.webp",
     coords: [25.26, 54.7111],
-    coordinates: { lat: 54.7111, lng: 25.26 },
+    coords: [25.26, 54.7111],
     description: {
       de: "Akropolis ist das größte Einkaufs- und Unterhaltungszentrum in Vilnius und ein Symbol für den litauischen Einzelhandel. Es ist ein wichtiger Handelsknotenpunkt mit hunderten von Geschäften.",
       hu: "Az Akropolis Vilnius legnagyobb bevásárló- és szórakoztató központja, a litván kiskereskedelem szimbóluma. Fontos kereskedelmi csomópont több száz üzlettel.",
@@ -321,7 +321,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Industriepark Šiauliai", hu: "Šiauliai Ipari Park", ro: "Parcul Industrial Šiauliai", en: "Šiauliai Industrial Park"},
     image: "/poi-images/lithuania-siauliai-industrial-park-economic-v2.webp",
     coords: [23.31, 55.9011],
-    coordinates: { lat: 55.9011, lng: 23.31 },
+    coords: [23.31, 55.9011],
     description: {
       de: "Der Industriepark Šiauliai ist ein wichtiger Standort für die verarbeitende Industrie in Nordlitauen. Er beherbergt Unternehmen aus den Bereichen Möbelherstellung, Logistik und Metallverarbeitung.",
       hu: "A Šiauliai Ipari Park Észak-Litvánia feldolgozóiparának fontos helyszíne. Bútorgyártással, logisztikával és fémfeldolgozással foglalkozó vállalatoknak ad otthont.",
@@ -355,7 +355,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Freie Wirtschaftszone Panevėžys", hu: "Panevėžysi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Panevėžys", en: "Panevėžys Free Economic Zone"},
     image: "/poi-images/lithuania-panevezys-fez-economic-v2.webp",
     coords: [24.3, 55.7533],
-    coordinates: { lat: 55.7533, lng: 24.3 },
+    coords: [24.3, 55.7533],
     description: {
       de: "Die Freie Wirtschaftszone Panevėžys ist auf die Lebensmittelindustrie und die elektronische Fertigung spezialisiert. Sie nutzt die günstige Lage der Stadt als Verkehrsknotenpunkt zwischen Vilnius und Riga.",
       hu: "A Panevėžysi Szabad Gazdasági Övezet az élelmiszeriparra és az elektronikai gyártásra szakosodott. Kihasználja a város Vilnius és Riga közötti kedvező közlekedési helyzetét.",
@@ -390,7 +390,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Freie Wirtschaftszone Marijampolė", hu: "Marijampolėi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Marijampolė", en: "Marijampolė Free Economic Zone"},
     image: "/poi-images/lithuania-marijampole-fez-economic-v2.webp",
     coords: [23.3767, 54.58],
-    coordinates: { lat: 54.58, lng: 23.3767 },
+    coords: [23.3767, 54.58],
     description: {
       de: "Diese Wirtschaftszone in Südwestlitauen ist ein wichtiges Zentrum für Logistik und die Holzverarbeitung. Sie profitiert von der Nähe zur polnischen Grenze und der Via Baltica.",
       hu: "Ez a délnyugat-litvániai gazdasági övezet a logisztika és a fafeldolgozás fontos központja. Előnyére válik a lengyel határ és a Via Baltica közelsége.",
@@ -425,7 +425,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Munitionsfabrik Giraitė", hu: "Giraitėi lőszergyár", ro: "Fabrica de muniție Giraitė", en: "Giraitė Armament Factory"},
     image: "/poi-images/lithuania-giraite-factory-economic-v2.webp",
     coords: [23.8647, 54.9458],
-    coordinates: { lat: 54.9458, lng: 23.8647 },
+    coords: [23.8647, 54.9458],
     description: {
       de: "Die Munitionsfabrik Giraitė bei Kaunas ist eines der modernsten Werke seiner Art in Europa. Sie produziert Munition nach NATO-Standards für das In- und Ausland.",
       hu: "A Kaunas melletti Giraitė lőszergyár Európa egyik legmodernebb ilyen jellegű üzeme. NATO-szabványú lőszereket gyárt belföldi és külföldi használatra.",
@@ -460,7 +460,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Eisenbahnknoten Vaidotai", hu: "Vaidotai vasúti csomópont", ro: "Nodul feroviar Vaidotai", en: "Vaidotai Railway Hub"},
     image: "/poi-images/lithuania-vaidotai-railway-hub-economic-v2.webp",
     coords: [25.1811, 54.5958],
-    coordinates: { lat: 54.5958, lng: 25.1811 },
+    coords: [25.1811, 54.5958],
     description: {
       de: "Vaidotai ist der größte Rangierbahnhof Litauens und ein zentraler Punkt für den Schienengüterverkehr. Er verbindet die Ost-West-Korridore mit dem Hafen von Klaipėda.",
       hu: "Vaidotai Litvánia legnagyobb rendező pályaudvara és a vasúti árufuvarozás központi pontja. Összeköti a kelet-nyugati folyosókat a klaipėdai kikötővel.",
@@ -495,7 +495,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Pieno Žvaigždės Molkerei Telšiai", hu: "Pieno Žvaigždės tejüzem, Telšiai", ro: "Fabrica de lactate Pieno Žvaigždės Telšiai", en: "Pieno Žvaigždės Telšiai Plant"},
     image: "/poi-images/lithuania-pieno-zvaigzdes-telsiai-economic-v2.webp",
     coords: [22.2533, 55.9811],
-    coordinates: { lat: 55.9811, lng: 22.2533 },
+    coords: [22.2533, 55.9811],
     description: {
       de: "Dieses Werk in Telšiai gehört zu den größten Molkereien des Landes und ist bekannt für seine Käseproduktion. Es ist ein wichtiger Teil der litauischen Agrar- und Ernährungswirtschaft.",
       hu: "Ez a telšiaii üzem az ország egyik legnagyobb tejfeldolgozója, amely híres sajtgyártásáról. A litván mezőgazdasági és élelmiszergazdaság fontos része.",
@@ -530,7 +530,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Rokiškis Sūris Molkerei", hu: "Rokiškis Sūris tejgyár", ro: "Fabrica de lactate Rokiškis Sūris", en: "Rokiškis Sūris Dairy"},
     image: "/poi-images/lithuania-rokiskis-suris-economic-v2.webp",
     coords: [25.5847, 55.9583],
-    coordinates: { lat: 55.9583, lng: 25.5847 },
+    coords: [25.5847, 55.9583],
     description: {
       de: "Rokiškis Sūris ist einer der größten Milchverarbeiter im Baltikum mit Sitz im Nordosten Litauens. Das Unternehmen ist spezialisiert auf Käseexporte nach Europa und in die USA.",
       hu: "A Rokiškis Sūris a Baltikum egyik legnagyobb tejfeldolgozója, székhelye Északkelet-Litvániában található. A vállalat Európába és az USA-ba irányuló sajtexportra szakosodott.",
@@ -565,7 +565,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Brauerei Utenos Alus", hu: "Utenos Alus sörgyár", ro: "Berăria Utenos Alus", en: "Utenos Alus Brewery"},
     image: "/poi-images/lithuania-utena-beer-economic-v2.webp",
     coords: [25.6033, 55.5],
-    coordinates: { lat: 55.5, lng: 25.6033 },
+    coords: [25.6033, 55.5],
     description: {
       de: "Die Brauerei in Utena ist eine der größten und modernsten im Baltikum. Sie gehört zur Carlsberg-Gruppe und produziert eine Vielzahl von Getränken für den regionalen Markt.",
       hu: "Az utenai sörgyár a Baltikum egyik legnagyobb és legmodernebb üzeme. A Carlsberg-csoporthoz tartozik, és számos italt gyárt a regionális piacra.",
@@ -600,7 +600,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Solarpark Visaginas", hu: "Visaginasi napelem park", ro: "Parcul solar Visaginas", en: "Visaginas Solar Park"},
     image: "/poi-images/lithuania-visaginas-solar-park-economic-v2.webp",
     coords: [26.43, 55.6011],
-    coordinates: { lat: 55.6011, lng: 26.43 },
+    coords: [26.43, 55.6011],
     description: {
       de: "Der Solarpark Visaginas ist Teil der litauischen Strategie zur Transformation der Energieregion rund um das stillgelegte Kernkraftwerk. Er nutzt die vorhandene Stromnetzinfrastruktur.",
       hu: "A visaginasi napelem park része Litvánia azon stratégiájának, amely a leállított atomerőmű környéki régió energiatermelését alakítja át. Kihasználja a meglévő hálózati infrastruktúrát.",
@@ -635,7 +635,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Ölterminal Būtingė", hu: "Būtingėi olajterminál", ro: "Terminalul petrolier Būtingė", en: "Būtingė Oil Terminal"},
     image: "/poi-images/lithuania-butinge-terminal-economic-v2.webp",
     coords: [21.0847, 56.0583],
-    coordinates: { lat: 56.0583, lng: 21.0847 },
+    coords: [21.0847, 56.0583],
     description: {
       de: "Das Terminal in Būtingė ist ein wichtiger Punkt für den Import von Rohöl auf dem Seeweg. Es ist über eine Pipeline direkt mit der Raffinerie in Mažeikiai verbunden.",
       hu: "A būtingėi terminál fontos pont a kőolaj tengeri úton történő behozatalához. Csővezetéken keresztül közvetlen összeköttetésben áll a mažeikiaii finomítóval.",
@@ -670,7 +670,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "LNG-Terminal Klaipėda", hu: "Klaipėdai LNG-terminál", ro: "Terminalul GNL Klaipėda", en: "Klaipėda LNG Terminal"},
     image: "/poi-images/lithuania-klaipeda-lng-economic-v2.webp",
     coords: [21.1383, 55.6611],
-    coordinates: { lat: 55.6611, lng: 21.1383 },
+    coords: [21.1383, 55.6611],
     description: {
       de: "Das LNG-Terminal in Klaipėda, bekannt durch das Schiff 'Independence', ist das Symbol für Litauens energetische Unabhängigkeit. Es ermöglicht den Import von Erdgas aus aller Welt.",
       hu: "A 'Independence' nevű hajóról ismert klaipėdai LNG-terminál Litvánia energiafüggetlenségének szimbóluma. Lehetővé teszi a földgáz importját a világ minden tájáról.",
@@ -704,7 +704,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Snaigė Kühlschrankwerk Alytus", hu: "Snaigė hűtőgépgyár, Alytus", ro: "Fabrica de frigidere Snaigė Alytus", en: "Snaigė Refrigerator Plant Alytus"},
     image: "/poi-images/lithuania-alytus-refrigerator-plant-economic-v2.webp",
     coords: [24.0311, 54.3947],
-    coordinates: { lat: 54.3947, lng: 24.0311 },
+    coords: [24.0311, 54.3947],
     description: {
       de: "Snaigė ist der einzige Hersteller von Haushaltskühlschränken im Baltikum und hat seinen Sitz in Alytus. Das Unternehmen ist ein wichtiger industrieller Arbeitgeber in Südlitauen.",
       hu: "A Snaigė a Baltikum egyetlen háztartási hűtőgépgyártója, székhelye Alytusban található. A vállalat Dél-Litvánia egyik fontos ipari munkaadója.",
@@ -739,7 +739,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Intermodales Terminal Kaunas", hu: "Kaunasi intermodális terminál", ro: "Terminalul intermodal Kaunas", en: "Kaunas Intermodal Terminal"},
     image: "/poi-images/lithuania-kaunas-intermodal-terminal-economic-v2.webp",
     coords: [24.0811, 54.9211],
-    coordinates: { lat: 54.9211, lng: 24.0811 },
+    coords: [24.0811, 54.9211],
     description: {
       de: "Das intermodale Terminal in Kaunas (Palemonas) ist ein wichtiger Knotenpunkt für das europäische Projekt Rail Baltica. Es ermöglicht den Umschlag zwischen europäischer und russischer Spurbreite.",
       hu: "A kaunasi (palemonasi) intermodális terminál az európai Rail Baltica projekt egyik fontos csomópontja. Lehetővé teszi az átrakodást az európai és az orosz nyomtáv között.",
@@ -774,7 +774,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Vilkyškiai Molkerei", hu: "Vilkyškiai tejgyár", ro: "Fabrica de lactate Vilkyškiai", en: "Vilkyškiai Dairy"},
     image: "/poi-images/lithuania-vilkyškiai-dairy-economic-v2.webp",
     coords: [22.1311, 55.1211],
-    coordinates: { lat: 55.1211, lng: 22.1311 },
+    coords: [22.1311, 55.1211],
     description: {
       de: "Vilkyškių pieninė ist eine bekannte litauische Molkereigruppe mit Sitz im Westen des Landes. Das Unternehmen ist berühmt für seine Premium-Käseprodukte und modernen Marken.",
       hu: "A Vilkyškių pieninė egy neves litván tejipari csoport az ország nyugati részén. A vállalat prémium sajttermékeiről és modern márkáiról híres.",
@@ -809,7 +809,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Grigeo Papierfabrik Grigiškės", hu: "Grigeo papírgyár, Grigiškės", ro: "Fabrica de hârtie Grigeo Grigiškės", en: "Grigeo Paper Mill Grigiškės"},
     image: "/poi-images/lithuania-grigeo-mill-economic-v2.webp",
     coords: [25.0933, 54.6733],
-    coordinates: { lat: 54.6733, lng: 25.0933 },
+    coords: [25.0933, 54.6733],
     description: {
       de: "Grigeo in Grigiškės ist der größte Papier- und Holzfaserplattenhersteller in Litauen. Das Werk blickt auf eine über 100-jährige Tradition in der Papierherstellung zurück.",
       hu: "A grigiškėsi Grigeo Litvánia legnagyobb papír- és farostlemez-gyártója. A gyár több mint 100 éves hagyománnyal rendelkezik a papírgyártás területén.",
@@ -844,7 +844,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Continental Werk Kaunas", hu: "Continental gyár, Kaunas", ro: "Fabrica Continental Kaunas", en: "Continental Factory Kaunas"},
     image: "/poi-images/lithuania-continental-kaunas-economic-v2.webp",
     coords: [24.0611, 54.9611],
-    coordinates: { lat: 54.9611, lng: 24.0611 },
+    coords: [24.0611, 54.9611],
     description: {
       de: "Das Continental-Werk bei Kaunas ist eine der größten ausländischen Investitionen in der litauischen Automobilzulieferindustrie. Es produziert hochmoderne Elektronikkomponenten.",
       hu: "A Kaunas melletti Continental gyár a litván autóipari beszállító szektor egyik legnagyobb külföldi befektetése. Korszerű elektronikai alkatrészeket gyártanak itt.",
@@ -879,7 +879,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Thermo Fisher Scientific Vilnius", hu: "Thermo Fisher Scientific, Vilnius", ro: "Thermo Fisher Scientific Vilnius", en: "Thermo Fisher Scientific Vilnius"},
     image: "/poi-images/lithuania-thermo-fisher-vilnius-economic-v2.webp",
     coords: [25.2511, 54.7558],
-    coordinates: { lat: 54.7558, lng: 25.2511 },
+    coords: [25.2511, 54.7558],
     description: {
       de: "Dieses Zentrum in Vilnius ist ein weltweit führender Standort für Biotechnologie und Molekularbiologie. Es produziert Reagenzien und Instrumente für die wissenschaftliche Forschung.",
       hu: "Ez a vilniusi központ a biotechnológia és a molekuláris biológia egyik világelső helyszíne. Tudományos kutatásokhoz szükséges reagenseket és műszereket gyártanak itt.",
@@ -914,7 +914,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "NordBalt Stromverbindung", hu: "NordBalt áramvezeték", ro: "Conexiunea electrică NordBalt", en: "NordBalt Power Connection"},
     image: "/poi-images/lithuania-nordbalt-cable-economic-v2.webp",
     coords: [21.1011, 55.7011],
-    coordinates: { lat: 55.7011, lng: 21.1011 },
+    coords: [21.1011, 55.7011],
     description: {
       de: "NordBalt ist ein Untersee-Stromkabel, das Litauen mit Schweden verbindet. Es ist ein Schlüsselprojekt zur Integration des litauischen Energiemarktes in das nordische Stromnetz.",
       hu: "A NordBalt egy tengeralatti áramkábel, amely Litvániát köti össze Svédországgal. Kulcsfontosságú projekt a litván energiapiac északi hálózathoz való csatlakoztatásában.",
@@ -949,7 +949,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Flughafen Šiauliai", hu: "Šiauliai repülőtér", ro: "Aeroportul Šiauliai", en: "Šiauliai Airport"},
     image: "/poi-images/lithuania-siauliai-airport-economic-v2.webp",
     coords: [23.3933, 55.8947],
-    coordinates: { lat: 55.8947, lng: 23.3933 },
+    coords: [23.3933, 55.8947],
     description: {
       de: "Der Flughafen Šiauliai ist ein bedeutender Stützpunkt für den Luftfrachtverkehr und die militärische Logistik. Er verfügt über eine der längsten Landebahnen im Baltikum.",
       hu: "A Šiauliai repülőtér a légi árufuvarozás és a katonai logisztika jelentős bázisa. A Baltikum egyik leghosszabb kifutópályájával rendelkezik.",
@@ -984,7 +984,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Industriepark Tauragė", hu: "Tauragėi Ipari Park", ro: "Parcul Industrial Tauragė", en: "Tauragė Industrial Park"},
     image: "/poi-images/lithuania-taurage-industrial-park-economic-v2.webp",
     coords: [22.2847, 55.2511],
-    coordinates: { lat: 55.2511, lng: 22.2847 },
+    coords: [22.2847, 55.2511],
     description: {
       de: "Der Industriepark Tauragė ist ein privates Industriegebiet, das sich auf ökologische Produktion und grüne Energie spezialisiert hat. Er gilt als Vorzeigeobjekt für regionale Entwicklung.",
       hu: "A Tauragėi Ipari Park egy magán kézben lévő ipari terület, amely az ökológiai termelésre és a zöld energiára szakosodott. A regionális fejlődés mintaképe.",
@@ -1018,7 +1018,7 @@ export const lithuaniaEconomicV2: POI[] = [
     name: { de: "Brauerei Švyturys Klaipėda", hu: "Švyturys sörgyár, Klaipėda", ro: "Berăria Švyturys Klaipėda", en: "Švyturys Brewery Klaipėda"},
     image: "/poi-images/lithuania-svyturys-brewery-economic-v2.webp",
     coords: [21.1347, 55.7111],
-    coordinates: { lat: 55.7111, lng: 21.1347 },
+    coords: [21.1347, 55.7111],
     description: {
       de: "Švyturys in Klaipėda ist die älteste Brauerei Litauens und ein bedeutender Akteur in der Getränkeindustrie. Sie verbindet historische Tradition mit modernen Produktionstechnologien.",
       hu: "A klaipėdai Švyturys Litvánia legrégebbi sörgyára és az italipar jelentős szereplője. A történelmi hagyományokat ötvözi a modern gyártási technológiákkal.",
@@ -1051,7 +1051,7 @@ export const lithuaniaEconomicV2: POI[] = [
     type: "port",
     parent: "LT",
     name: { de: "Seehafen Klaipėda", hu: "Klaipėdai tengeri kikötő", ro: "Portul maritim Klaipėda", en: "Klaipėda Seaport" },
-    coordinates: { lat: 55.6795, lng: 21.1396 },
+    coords: [21.1396, 55.6795],
     description: {
       de: "Der Seehafen Klaipėda ist der wichtigste Eishafen an der östlichen Ostseeküste. Er ist ein bedeutender Knotenpunkt für den Güterumschlag und die Passagierschifffahrt.",
       hu: "A klaipėdai tengeri kikötő a legfontosabb jégmentes kikötő a kelet-balti tengerparton. Jelentős csomópont az áruforgalom és az utasszállítás számára.",
@@ -1083,7 +1083,7 @@ export const lithuaniaEconomicV2: POI[] = [
     type: "industry",
     parent: "LT",
     name: { de: "Panevėžys Industriegebiet", hu: "Panevėžysi ipari övezet", ro: "Zona industrială Panevėžys", en: "Panevėžys Industrial Hub" },
-    coordinates: { lat: 55.7335, lng: 24.3545 },
+    coords: [24.3545, 55.7335],
     description: {
       de: "Das Industriegebiet in Panevėžys konzentriert sich auf Maschinenbau, laserbasierte Technologien und die Lebensmittelverarbeitung. Es ist ein zentraler wirtschaftlicher Motor der Region Aukštaitija.",
       hu: "A panevėžysi ipari övezet a gépgyártásra, a lézertechnológiákra és az élelmiszer-feldolgozásra összpontosít. Az Aukštaitija régió egyik központi gazdasági motorja.",
@@ -1115,7 +1115,7 @@ export const lithuaniaEconomicV2: POI[] = [
     type: "industry",
     parent: "LT",
     name: { de: "Šiauliai Technologiepark", hu: "Šiauliai technológiai park", ro: "Parcul tehnologic Šiauliai", en: "Šiauliai Technological Park" },
-    coordinates: { lat: 55.9333, lng: 23.3167 },
+    coords: [23.3167, 55.9333],
     description: {
       de: "Der Technologiepark in Šiauliai unterstützt die Entwicklung von Startups und kleinen sowie mittelständischen Unternehmen in den Bereichen Elektronik und Informationstechnologie.",
       hu: "A Šiauliai-i technológiai park támogatja az elektronikai és informatikai startupok, valamint a kis- és középvállalkozások fejlesztését.",

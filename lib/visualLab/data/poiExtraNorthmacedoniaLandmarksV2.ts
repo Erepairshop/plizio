@@ -6,7 +6,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "MK",
     name: { de: "Sultan-Murat-Moschee", hu: "Szultán-Murád-mecset", ro: "Moscheea Sultan Murad", en: "Sultan Murat Mosque" },
-    coordinates: { lat: 42.0035, lng: 21.4367 },
+    coords: [21.4367, 42.0035],
     description: {
       de: "Die Sultan-Murat-Moschee ist ein historisches religiöses Bauwerk in Skopje aus dem 15. Jahrhundert. Sie ist eine der ältesten erhaltenen Moscheen der Stadt.",
       hu: "A Szultán-Murád-mecset egy 15. századi történelmi vallási épület Szkopjéban. Ez a város egyik legrégebbi fennmaradt mecsete.",
@@ -38,7 +38,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "MK",
     name: { de: "Kloster Matka", hu: "Matka kolostor", ro: "Mănăstirea Matka", en: "Matka Monastery" },
-    coordinates: { lat: 41.9392, lng: 21.3039 },
+    coords: [21.3039, 41.9392],
     description: {
       de: "Das Kloster Matka liegt am Eingang der Matka-Schlucht unweit von Skopje. Es wurde im 14. Jahrhundert während der Zeit des serbischen Kaiserreichs errichtet.",
       hu: "A Matka kolostor a Matka-szurdok bejáratánál található, nem messze Szkopjétól. A 14. században épült a Szerb Birodalom idején.",
@@ -70,7 +70,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "MK",
     name: { de: "Denkmal der Partisanen in Kumanovo", hu: "Kumanovói partizán-emlékmű", ro: "Monumentul Partizanilor din Kumanovo", en: "Monument of the Partisans in Kumanovo" },
-    coordinates: { lat: 42.1331, lng: 21.7179 },
+    coords: [21.7179, 42.1331],
     description: {
       de: "Dieses Denkmal in Kumanovo erinnert an die während des Zweiten Weltkriegs gefallenen Partisanen. Es ist ein zentrales Werk der jugoslawischen Gedenkarchitektur.",
       hu: "Ez a kumanovói emlékmű a második világháborúban elesett partizánokra emlékezik. A jugoszláv emléképítészet egyik központi alkotása.",
@@ -102,7 +102,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "MK",
     name: { de: "Kirche des Heiligen Demetrius in Bitola", hu: "Szent Demeter-templom (Bitola)", ro: "Biserica Sfântul Dumitru din Bitola", en: "Church of Saint Demetrius in Bitola" },
-    coordinates: { lat: 41.0315, lng: 21.3328 },
+    coords: [21.3328, 41.0315],
     description: {
       de: "Die Kirche des Heiligen Demetrius wurde 1830 in Bitola erbaut. Sie ist bekannt für ihre prachtvolle Innenausstattung und Holzschnitzereien.",
       hu: "A Szent Demeter-templom 1830-ban épült Bitolában. Ismert pazar belső díszítéséről és fafaragásairól.",
@@ -134,7 +134,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "MK",
     name: { de: "Freiheitsdenkmal in Kocani", hu: "Szabadság-emlékmű (Kočani)", ro: "Monumentul Libertății din Kočani", en: "Monument of Freedom in Kocani" },
-    coordinates: { lat: 41.9167, lng: 22.4167 },
+    coords: [22.4167, 41.9167],
     description: {
       de: "Dieses markante Freiheitsdenkmal in Kocani wurde 1977 errichtet. Es besteht aus Beton und feiert den Widerstand gegen den Faschismus.",
       hu: "Ez a jellegzetes szabadság-emlékmű Kočaniban 1977-ben épült. Betonból készült és a fasizmus elleni ellenállást hirdeti.",
@@ -166,7 +166,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "tower",
     parent: "MK",
     name: { de: "Uhrturm von Bitola", hu: "Bitolai óratorony", ro: "Turnul cu ceas din Bitola", en: "Clock Tower of Bitola" },
-    coordinates: { lat: 41.0318, lng: 21.3331 },
+    coords: [21.3331, 41.0318],
     description: {
       de: "Der Uhrturm von Bitola ist ein Wahrzeichen aus dem 19. Jahrhundert. Er befindet sich im Zentrum der Stadt nahe dem alten Basar.",
       hu: "A bitolai óratorony egy 19. századi nevezetesség. A város központjában, az óbazár közelében található.",
@@ -198,7 +198,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "MK",
     name: { de: "Kirche des Heiligen Johannes von Caneo", hu: "Szent János-templom (Kaneo)", ro: "Biserica Sfântul Ioan din Kaneo", en: "Church of Saint John at Kaneo" },
-    coordinates: { lat: 41.1114, lng: 20.7931 },
+    coords: [20.7931, 41.1114],
     description: {
       de: "Diese Kirche überblickt den Ohridsee. Sie wurde Ende des 13. Jahrhunderts erbaut und ist eines der bekanntesten Motive Nordmazedoniens.",
       hu: "Ez a templom az Ohridi-tóra néz. A 13. század végén épült, és Észak-Macedónia egyik legismertebb látnivalója.",
@@ -230,7 +230,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "MK",
     name: { de: "Kurshumli An", hu: "Kurşumli An karavánszeráj", ro: "Kurshumli An", en: "Kurshumli An" },
-    coordinates: { lat: 42.0028, lng: 21.4358 },
+    coords: [21.4358, 42.0028],
     description: {
       de: "Kurshumli An ist ein ehemaliger osmanischer Karavanserei im alten Basar von Skopje. Das Gebäude stammt aus dem 16. Jahrhundert.",
       hu: "A Kurşumli An egykori oszmán karavánszeráj Szkopje óbazárjában. Az épület a 16. századból származik.",
@@ -262,7 +262,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "MK",
     name: { de: "Kloster Sveti Naum", hu: "Szent Naum-kolostor", ro: "Mănăstirea Sfântul Naum", en: "Saint Naum Monastery" },
-    coordinates: { lat: 40.9133, lng: 20.7389 },
+    coords: [20.7389, 40.9133],
     description: {
       de: "Das Kloster Sveti Naum liegt nahe der albanischen Grenze am Ohridsee. Es wurde im frühen 10. Jahrhundert gegründet.",
       hu: "A Szent Naum-kolostor az albán határ közelében, az Ohridi-tónál fekszik. A 10. század elején alapították.",
@@ -294,7 +294,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "MK",
     name: { de: "Kirche des Heiligen Panteleimon in Gorno Nerezi", hu: "Szent Panteleimon-templom (Gorno Nerezi)", ro: "Biserica Sfântul Pantelimon din Gorno Nerezi", en: "Church of Saint Panteleimon in Gorno Nerezi" },
-    coordinates: { lat: 41.9758, lng: 21.3853 },
+    coords: [21.3853, 41.9758],
     description: {
       de: "Diese Kirche befindet sich in Gorno Nerezi bei Skopje. Sie stammt aus dem Jahr 1164 und besitzt bedeutende byzantinische Fresken.",
       hu: "Ez a templom Szkopje mellett, Gorno Nereziben található. 1164-ből származik, és jelentős bizánci freskókkal rendelkezik.",
@@ -326,7 +326,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "MK",
     name: { de: "Kirche des Heiligen Georg in Staro Nagoricane", hu: "Szent György-templom (Staro Nagoricane)", ro: "Biserica Sfântul Gheorghe din Staro Nagoricane", en: "Church of Saint George in Staro Nagoricane" },
-    coordinates: { lat: 42.1856, lng: 21.8483 },
+    coords: [21.8483, 42.1856],
     description: {
       de: "Diese Kirche in Staro Nagoricane ist ein herausragendes Beispiel byzantinischer Architektur aus dem 14. Jahrhundert.",
       hu: "Ez a templom Staro Nagoricanéban a 14. századi bizánci építészet egyik kiemelkedő példája.",
@@ -358,7 +358,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "MK",
     name: { de: "Karpos-Denkmal in Skopje", hu: "Karpos-emlékmű (Szkopje)", ro: "Monumentul lui Karpos din Skopje", en: "Karpos Monument in Skopje" },
-    coordinates: { lat: 42.0, lng: 21.4333 },
+    coords: [21.4333, 42.0],
     description: {
       de: "Dieses Denkmal in Skopje ehrt den Anführer des Karpos-Aufstands aus dem späten 17. Jahrhundert gegen das Osmanische Reich.",
       hu: "Ez a szkopjei emlékmű a 17. század végi oszmán birodalom elleni Karpos-felkelés vezetőjének állít emléket.",
@@ -390,7 +390,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "MK",
     name: { de: "Kirche des Erzengels Michael in Varos", hu: "Szent Mihály arkangyal-templom (Varos)", ro: "Biserica Arhanghelului Mihail din Varos", en: "Church of Archangel Michael in Varos" },
-    coordinates: { lat: 41.3536, lng: 21.5453 },
+    coords: [21.5453, 41.3536],
     description: {
       de: "Die Kirche des Erzengels Michael befindet sich im historischen Stadtviertel Varos bei Prilep. Sie stammt aus dem 12. Jahrhundert.",
       hu: "A Szent Mihály arkangyal-templom a prilepi történelmi Varos negyedben található. A 12. századból származik.",
@@ -422,7 +422,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "MK",
     name: { de: "Kloster Slepce", hu: "Slepce kolostor", ro: "Mănăstirea Slepce", en: "Slepce Monastery" },
-    coordinates: { lat: 41.2889, lng: 21.1689 },
+    coords: [21.1689, 41.2889],
     description: {
       de: "Das Kloster Slepce liegt bei Demir Hisar. Es war ein wichtiges Zentrum für die literarische Tätigkeit im Mittelalter.",
       hu: "A Slepce kolostor Demir Hisar mellett fekszik. Fontos központja volt az irodalmi tevékenységnek a középkorban.",
@@ -454,7 +454,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "MK",
     name: { de: "Kirche des Heiligen Andreas in Matka", hu: "Szent András-templom (Matka)", ro: "Biserica Sfântul Andrei din Matka", en: "Church of Saint Andrew in Matka" },
-    coordinates: { lat: 41.9389, lng: 21.3042 },
+    coords: [21.3042, 41.9389],
     description: {
       de: "Die Kirche des Heiligen Andreas in Matka wurde 1389 erbaut. Sie befindet sich innerhalb des Matka-Canyons bei Skopje.",
       hu: "A matkai Szent András-templom 1389-ben épült. Szkopje mellett, a Matka-kanyonon belül található.",
@@ -486,7 +486,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "MK",
     name: { de: "Marko-Kloster", hu: "Marko kolostor", ro: "Mănăstirea Marko", en: "Marko Monastery" },
-    coordinates: { lat: 41.9056, lng: 21.4289 },
+    coords: [21.4289, 41.9056],
     description: {
       de: "Das Marko-Kloster liegt nahe Skopje. Es wurde im späten 14. Jahrhundert erbaut und ist für seine gut erhaltenen Fresken bekannt.",
       hu: "A Marko kolostor Szkopje közelében található. A 14. század végén épült, és jól fennmaradt freskóiról ismert.",

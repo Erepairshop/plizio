@@ -6,7 +6,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Festung von Sagres", hu: "Sagres-erőd", ro: "Fortăreața din Sagres", en: "Sagres Fortress" },
-    coordinates: { lat: 37.0019, lng: -8.9458 },
+    coords: [-8.9458, 37.0019],
     description: {
       de: "Diese Festung an der Algarve war ein bedeutendes Zentrum des portugiesischen Zeitalters der Entdeckungen. Sie markiert die südwestliche Spitze des europäischen Festlandes.",
       hu: "Ez az algarvei erőd a portugál felfedezések korának jelentős központja volt. Az európai szárazföld délnyugati csücskét jelöli.",
@@ -38,7 +38,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg Monsaraz", hu: "Monsaraz vára", ro: "Castelul Monsaraz", en: "Monsaraz Castle" },
-    coordinates: { lat: 38.4447, lng: -7.3808 },
+    coords: [-7.3808, 38.4447],
     description: {
       de: "Monsaraz ist eine mittelalterliche Siedlung an der spanischen Grenze mit einer gut erhaltenen Burganlage. Die Stadtmauer stammt aus dem 14. Jahrhundert.",
       hu: "Monsaraz egy középkori település a spanyol határon, jól megőrzött várral. A városfal a 14. századból származik.",
@@ -70,7 +70,7 @@ export const portugalHistoryV2: POI[] = [
     type: "ruins",
     parent: "PT",
     name: { de: "Römische Ruinen von Caladinho", hu: "Caladinho római romjai", ro: "Ruinele romane de la Caladinho", en: "Caladinho Roman Ruins" },
-    coordinates: { lat: 38.6521, lng: -7.3942 },
+    coords: [-7.3942, 38.6521],
     description: {
       de: "Diese archäologische Stätte in der Nähe von Vila Viçosa zeigt Überreste einer römischen Villa. Sie liefert Einblicke in das ländliche Leben in Lusitanien.",
       hu: "Ez a Vila Viçosa melletti régészeti lelőhely egy római villa maradványait mutatja be. Betekintést nyújt a luzitániai vidéki életbe.",
@@ -102,7 +102,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Festung Valença", hu: "Valença-erőd", ro: "Fortăreața Valença", en: "Valença Fortress" },
-    coordinates: { lat: 42.0294, lng: -8.6417 },
+    coords: [-8.6417, 42.0294],
     description: {
       de: "Die Festung Valença ist eine befestigte Stadt mit einem doppelten Mauerring aus dem 17. Jahrhundert. Sie bewacht den Übergang über den Fluss Minho nach Spanien.",
       hu: "Valença erődje egy kettős falgyűrűvel körülvett erődített város a 17. századból. A Minho-folyón át Spanyolországba vezető átkelőt őrizte.",
@@ -134,7 +134,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg Pousaflores", hu: "Pousaflores vára", ro: "Castelul Pousaflores", en: "Pousaflores Castle" },
-    coordinates: { lat: 39.8732, lng: -8.4551 },
+    coords: [-8.4551, 39.8732],
     description: {
       de: "Diese kleine Burgruine in der Gemeinde Ansião stammt aus der Zeit der Reconquista. Sie diente einst als strategischer Vorposten im Landesinneren.",
       hu: "Ez a kicsi várrom Ansião községben a Reconquista idejéből származik. Egykor stratégiai előőrs volt a szárazföld belsejében.",
@@ -166,7 +166,7 @@ export const portugalHistoryV2: POI[] = [
     type: "tower",
     parent: "PT",
     name: { de: "Torre de Pancas", hu: "Torre de Pancas", ro: "Torre de Pancas", en: "Torre de Pancas" },
-    coordinates: { lat: 38.9953, lng: -8.9667 },
+    coords: [-8.9667, 38.9953],
     description: {
       de: "Dieser mittelalterliche Wehrturm liegt in der Nähe von Benavente. Er wurde zur Überwachung des Tejo-Tals und der umliegenden Agrarflächen erbaut.",
       hu: "Ez a középkori védőtorony Benavente közelében található. A Tejo-völgy és a környező mezőgazdasági területek megfigyelésére épült.",
@@ -198,7 +198,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg Leiria", hu: "Leiria vára", ro: "Castelul Leiria", en: "Leiria Castle" },
-    coordinates: { lat: 39.7466, lng: -8.8094 },
+    coords: [-8.8094, 39.7466],
     description: {
       de: "Die Burg von Leiria dominiert die Stadt von einem Hügel aus. Sie wurde im 12. Jahrhundert gegründet und diente als königliche Residenz.",
       hu: "Leiria vára egy dombról uralja a várost. A 12. században alapították, és királyi rezidenciaként szolgált.",
@@ -230,7 +230,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg Palmela", hu: "Palmela vára", ro: "Castelul Palmela", en: "Palmela Castle" },
-    coordinates: { lat: 38.5676, lng: -8.9015 },
+    coords: [-8.9015, 38.5676],
     description: {
       de: "Die Burg Palmela liegt strategisch auf der Halbinsel Setúbal. Sie war über Jahrhunderte ein wichtiger Punkt im Verteidigungssystem der Region.",
       hu: "Palmela vára stratégiailag a Setúbal-félszigeten fekszik. Évszázadokon át fontos pont volt a régió védelmi rendszerében.",
@@ -262,7 +262,7 @@ export const portugalHistoryV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Paço de São Cristóvão", hu: "Paço de São Cristóvão", ro: "Paço de São Cristóvão", en: "Paço de São Cristóvão" },
-    coordinates: { lat: 39.2323, lng: -8.6833 },
+    coords: [-8.6833, 39.2323],
     description: {
       de: "Dieses historische Herrenhaus in der Nähe von Santarém bewahrt die Architektur des portugiesischen Adels aus dem 16. Jahrhundert.",
       hu: "Ez a történelmi udvarház Santarém közelében megőrzi a 16. századi portugál nemesség építészetét.",
@@ -294,7 +294,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Fortaleza de Nossa Senhora da Graça", hu: "Nossa Senhora da Graça erőd", ro: "Fortăreața Nossa Senhora da Graça", en: "Fortaleza de Nossa Senhora da Graça" },
-    coordinates: { lat: 38.8872, lng: -7.1634 },
+    coords: [-7.1634, 38.8872],
     description: {
       de: "Diese sternförmige Festung bei Elvas ist eine der bedeutendsten militärischen Anlagen des 18. Jahrhunderts in Portugal.",
       hu: "Ez a csillag alakú erőd Elvas közelében az egyik legjelentősebb 18. századi katonai létesítmény Portugáliában.",
@@ -326,7 +326,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg Pavia", hu: "Pavia vára", ro: "Castelul Pavia", en: "Pavia Castle" },
-    coordinates: { lat: 38.8953, lng: -8.0139 },
+    coords: [-8.0139, 38.8953],
     description: {
       de: "Pavia im Alentejo besitzt historische Reste einer mittelalterlichen Befestigung, die einst die Siedlung schützte.",
       hu: "Pavia az Alentejóban egy középkori erődítmény történelmi maradványaival rendelkezik, amely egykor a települést védte.",
@@ -358,7 +358,7 @@ export const portugalHistoryV2: POI[] = [
     type: "ruins",
     parent: "PT",
     name: { de: "Ruinen von Miróbriga", hu: "Miróbriga romjai", ro: "Ruinele de la Miróbriga", en: "Miróbriga Ruins" },
-    coordinates: { lat: 38.0658, lng: -8.6834 },
+    coords: [-8.6834, 38.0658],
     description: {
       de: "Miróbriga bei Santiago do Cacém war eine bedeutende römische Stadt. Die Ausgrabungen umfassen Thermen, ein Forum und Wohnhäuser.",
       hu: "Miróbriga Santiago do Cacém mellett jelentős római város volt. Az ásatások fürdőket, fórumot és lakóházakat tárnak fel.",
@@ -390,7 +390,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg Vidigueira", hu: "Vidigueira vára", ro: "Castelul Vidigueira", en: "Vidigueira Castle" },
-    coordinates: { lat: 38.2208, lng: -7.8083 },
+    coords: [-7.8083, 38.2208],
     description: {
       de: "Die Burg Vidigueira spiegelt die wechselvolle Geschichte des Alentejo wider. Sie wurde mehrfach umgebaut und als Residenz genutzt.",
       hu: "Vidigueira vára az Alentejo változatos történelmét tükrözi. Többször átépítették és rezidenciaként használták.",
@@ -422,7 +422,7 @@ export const portugalHistoryV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Palácio de São Marcos", hu: "Palácio de São Marcos", ro: "Palácio de São Marcos", en: "Palácio de São Marcos" },
-    coordinates: { lat: 40.2223, lng: -8.4974 },
+    coords: [-8.4974, 40.2223],
     description: {
       de: "Dieser Palast bei Coimbra stammt aus dem 15. Jahrhundert. Er ist bekannt für seine architektonische Verbindung von Gotik und Manuelinik.",
       hu: "Ez a Coimbra melletti palota a 15. századból származik. Ismert a gótikus és a manuelin stílus építészeti ötvözetéről.",
@@ -454,7 +454,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg Arnés", hu: "Arnés vára", ro: "Castelul Arnés", en: "Arnés Castle" },
-    coordinates: { lat: 41.5234, lng: -8.1256 },
+    coords: [-8.1256, 41.5234],
     description: {
       de: "Die kleine Burg Arnés nahe Guimarães ist ein Zeugnis der frühen Befestigungsbauten im Norden Portugals.",
       hu: "Az Arnés-i kis vár Guimarães közelében a portugáliai északi rész korai erődítményeinek egyik példája.",
@@ -486,7 +486,7 @@ export const portugalHistoryV2: POI[] = [
     type: "ruins",
     parent: "PT",
     name: { de: "Römische Villa von Pisões", hu: "Pisões római villája", ro: "Vila romană Pisões", en: "Roman Villa of Pisões" },
-    coordinates: { lat: 38.1691, lng: -7.9577 },
+    coords: [-7.9577, 38.1691],
     description: {
       de: "Diese bedeutende römische Villa liegt nahe Beja. Sie ist berühmt für ihre gut erhaltenen Bodenmosaike aus dem 1. bis 4. Jahrhundert.",
       hu: "Ez a jelentős római villa Beja közelében található. Híres a jól megőrzött, 1-4. századi padlómozaikjairól.",
@@ -518,7 +518,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg Valadares", hu: "Valadares vára", ro: "Castelul Valadares", en: "Valadares Castle" },
-    coordinates: { lat: 41.1122, lng: -8.6254 },
+    coords: [-8.6254, 41.1122],
     description: {
       de: "Valadares nahe Porto war Standort einer historischen Verteidigungsanlage. Heute sind noch Reste der alten Burganlage sichtbar.",
       hu: "Porto melletti Valadares egy történelmi védelmi létesítmény helyszíne volt. Ma a régi vár maradványai még láthatóak.",
@@ -550,7 +550,7 @@ export const portugalHistoryV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Palast der Herzöge von Cadaval", hu: "Cadaval hercegeinek palotája", ro: "Palatul Ducilor de Cadaval", en: "Palace of the Dukes of Cadaval" },
-    coordinates: { lat: 38.5714, lng: -7.9135 },
+    coords: [-7.9135, 38.5714],
     description: {
       de: "Dieser prächtige Palast in Évora gehörte den Herzögen von Cadaval. Er wurde an der Stelle einer ehemaligen maurischen Burg errichtet.",
       hu: "Ez a csodálatos palota Évorában a Cadaval hercegeké volt. Egy egykori mór vár helyén épült.",
@@ -582,7 +582,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg Vouzela", hu: "Vouzela vára", ro: "Castelul Vouzela", en: "Vouzela Castle" },
-    coordinates: { lat: 40.7299, lng: -8.1132 },
+    coords: [-8.1132, 40.7299],
     description: {
       de: "Vouzela besitzt historische Überreste einer Befestigung, die die Siedlung im Mittelalter schützte. Sie prägt heute das Stadtbild.",
       hu: "Vouzela egy erődítmény történelmi maradványaival rendelkezik, amely a középkorban védte a települést. Ma a városkép része.",
@@ -614,7 +614,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Festung São Felipe", hu: "São Felipe erőd", ro: "Fortăreața São Felipe", en: "São Felipe Fortress" },
-    coordinates: { lat: 38.5285, lng: -8.8951 },
+    coords: [-8.8951, 38.5285],
     description: {
       de: "Die Festung São Felipe in Setúbal wurde im 16. Jahrhundert errichtet, um die Stadt und den Hafen vor Angriffen zu schützen.",
       hu: "A setúbali São Felipe erődöt a 16. században építették, hogy megvédjék a várost és a kikötőt a támadásoktól.",
@@ -646,7 +646,7 @@ export const portugalHistoryV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Paço de São Roque", hu: "Paço de São Roque", ro: "Paço de São Roque", en: "Paço de São Roque" },
-    coordinates: { lat: 38.7145, lng: -9.1432 },
+    coords: [-9.1432, 38.7145],
     description: {
       de: "Dieses historische Gebäude in Lissabon diente einst als Adelsresidenz und zeigt prachtvolle Details aus verschiedenen Epochen.",
       hu: "Ez a történelmi épület Lisszabonban egykor nemesi rezidenciaként szolgált, és különféle korszakok csodálatos részleteit mutatja be.",
@@ -678,7 +678,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Burg Torre de Moncorvo", hu: "Torre de Moncorvo vára", ro: "Castelul Torre de Moncorvo", en: "Torre de Moncorvo Castle" },
-    coordinates: { lat: 41.1764, lng: -7.0543 },
+    coords: [-7.0543, 41.1764],
     description: {
       de: "Torre de Moncorvo im Nordosten Portugals bewahrt noch Teile seiner mittelalterlichen Burgmauer und Verteidigungsanlagen.",
       hu: "Torre de Moncorvo Portugália északkeleti részén még megőrzi középkori várfalának és védelmi létesítményeinek részeit.",
@@ -710,7 +710,7 @@ export const portugalHistoryV2: POI[] = [
     type: "ruins",
     parent: "PT",
     name: { de: "Ruinen von São Miguel da Pena", hu: "São Miguel da Pena romjai", ro: "Ruinele de la São Miguel da Pena", en: "São Miguel da Pena Ruins" },
-    coordinates: { lat: 41.6241, lng: -8.3842 },
+    coords: [-8.3842, 41.6241],
     description: {
       de: "Diese Ruinen bei Braga stammen aus einer frühen Siedlungsphase und bieten einen Einblick in die mittelalterliche klösterliche Struktur.",
       hu: "Ezek a Braga melletti romok egy korai települési szakaszból származnak, és betekintést nyújtanak a középkori kolostori struktúrába.",
@@ -742,7 +742,7 @@ export const portugalHistoryV2: POI[] = [
     type: "castle",
     parent: "PT",
     name: { de: "Festung Marinha Grande", hu: "Marinha Grande erőd", ro: "Fortăreața Marinha Grande", en: "Marinha Grande Fortress" },
-    coordinates: { lat: 39.7541, lng: -8.9324 },
+    coords: [-8.9324, 39.7541],
     description: {
       de: "Marinha Grande besitzt historische Verteidigungsbauwerke, die den Schutz der Region während der industriellen Entwicklung des 18. Jahrhunderts sicherstellten.",
       hu: "Marinha Grande olyan történelmi védelmi építményekkel rendelkezik, amelyek biztosították a régió védelmét a 18. századi ipari fejlődés idején.",
@@ -774,7 +774,7 @@ export const portugalHistoryV2: POI[] = [
     type: "palace",
     parent: "PT",
     name: { de: "Paço de Valadares", hu: "Paço de Valadares", ro: "Paço de Valadares", en: "Paço de Valadares" },
-    coordinates: { lat: 40.5432, lng: -8.6754 },
+    coords: [-8.6754, 40.5432],
     description: {
       de: "Dieser Palast bei Aveiro stellt ein Beispiel für das portugiesische Herrenhaus aus der Barockzeit dar und ist ein bedeutendes Baudenkmal.",
       hu: "Ez az Aveiro melletti palota a barokk kori portugál udvarház példája, és jelentős építészeti műemlék.",

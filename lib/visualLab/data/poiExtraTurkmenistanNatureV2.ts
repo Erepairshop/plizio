@@ -507,7 +507,19 @@ export const poiExtraTurkmenistanNatureV2: POI[] = [
         "Has very deep and green valleys.",
         "Is a habitat for leopards."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Syunt-Hasardag-Naturreservat liegt im Südwesten Turkmenistans, am Fuße des Kopet-Dag-Gebirges. Es wurde 1978 gegründet, um die einzigartige Flora und Fauna zu schützen. Das Reservat beherbergt seltene Arten wie den Kaukasusleoparden und die Turkmenische Kropfgazelle. Die Vegetation umfasst Pistazien- und Mandelbäume. Die Fläche beträgt 170 Quadratkilometer. Es ist ein wichtiges Gebiet für die Vogelbeobachtung.",
+      hu: "A Syunt-Hasardag Természetvédelmi Terület Türkmenisztán délnyugati részén, a Kopet-Dag hegység lábánál található. 1978-ban hozták létre a ritka növény- és állatvilág védelmére. Itt él a kaukázusi leopárd és a turkmén golyvás gazella. Növényzete pisztácia- és mandulafákból áll. Területe 170 km². Fontos madármegfigyelő hely.",
+      ro: "Rezervația naturală Syunt-Hasardag este situată în sud-vestul Turkmenistanului, la poalele munților Kopet-Dag. Înființată în 1978, protejează o floră și faună unice. Adăpostește specii rare precum leopardul caucazian și gazela gușoară turkmenă. Vegetația include fistic și migdali. Suprafața este de 170 km². Este o zonă importantă pentru observarea păsărilor.",
+      en: "Syunt-Hasardag Nature Reserve is located in southwestern Turkmenistan, at the foothills of the Kopet Dag Mountains. Established in 1978, it covers 170 km² and protects diverse ecosystems. The reserve is home to rare species such as the Persian leopard and the Turkmen goitered gazelle. The vegetation includes wild pistachio and almond trees. It is an important site for birdwatching, with over 200 bird species recorded.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1978", "Fläche: 170 km²", "Höhenlage: 300-800 m", "Bedrohte Arten: 30+", "Jährlicher Niederschlag: 300 mm", "Anzahl Vogelarten: 200+"],
+      hu: ["Alapítva: 1978", "Terület: 170 km²", "Magasság: 300-800 m", "Veszélyeztetett fajok: 30+", "Éves csapadék: 300 mm", "Madárfajok: 200+"],
+      ro: ["Înființată în 1978", "Suprafață: 170 km²", "Altitudine: 300-800 m", "Specii amenințate: peste 30", "Precipitații anuale: 300 mm", "Specii de păsări: peste 200"],
+      en: ["Established: 1978", "Area: 170 km²", "Elevation range: 300-800 m", "Threatened species: 30+", "Annual rainfall: 300 mm", "Bird species: 200+"],
+    },
   },
   {
     id: "amudarya-reserve-nature-v2",

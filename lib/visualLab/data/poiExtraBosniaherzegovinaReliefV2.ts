@@ -8,7 +8,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Volujak", hu: "Volujak", ro: "Volujak", en: "Volujak"},
     image: "/poi-images/bosniaherzegovina-volujak-relief-v2.webp",
     coords: [18.7167, 43.2333],
-    coordinates: { lat: 43.2333, lng: 18.7167 },
+    coords: [18.7167, 43.2333],
     description: {
       de: "Der Volujak ist ein Bergmassiv an der Grenze zwischen Bosnien und Herzegowina und Montenegro. Seine Gipfel erreichen Höhen von über 2.300 Metern und bieten weite Ausblicke über die herzegowinischen Berge.",
       hu: "A Volujak egy hegyvonulat Bosznia-Hercegovina és Montenegró határán. Csúcsai meghaladják a 2300 métert, és tágas kilátást nyújtanak a hercegovinai hegyvidékre.",
@@ -43,7 +43,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Treskavica", hu: "Treskavica", ro: "Treskavica", en: "Treskavica"},
     image: "/poi-images/bosniaherzegovina-treskavica-relief-v2.webp",
     coords: [18.3564, 43.5956],
-    coordinates: { lat: 43.5956, lng: 18.3564 },
+    coords: [18.3564, 43.5956],
     description: {
       de: "Die Treskavica ist ein Kalksteingebirge südlich von Sarajevo. Sie ist bekannt für ihre zahlreichen Bergseen und dichten Nadelwälder sowie ihre markanten Felsformationen.",
       hu: "A Treskavica egy mészkőhegység Szarajevótól délre. Számos hegyi taváról, sűrű fenyőerdőiről és jellegzetes sziklaalakzatairól ismert.",
@@ -78,7 +78,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Vlašić", hu: "Vlašić", ro: "Vlašić", en: "Vlašić"},
     image: "/poi-images/bosniaherzegovina-vlasic-relief-v2.webp",
     coords: [17.6058, 44.2981],
-    coordinates: { lat: 44.2981, lng: 17.6058 },
+    coords: [17.6058, 44.2981],
     description: {
       de: "Der Vlašić ist ein massives Gebirge im Zentrum des Landes bei Travnik. Er ist bekannt für seine weiten Bergwiesen, die Produktion des berühmten Vlašić-Käses und als Skigebiet.",
       hu: "A Vlašić egy masszív hegység az ország közepén, Travnik közelében. Híres tágas hegyi legelőiről, a Vlašić-sajt gyártásáról és síközpontjáról.",
@@ -113,7 +113,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Kozara", hu: "Kozara", ro: "Kozara", en: "Kozara"},
     image: "/poi-images/bosniaherzegovina-kozara-relief-v2.webp",
     coords: [16.9111, 45.0083],
-    coordinates: { lat: 45.0083, lng: 16.9111 },
+    coords: [16.9111, 45.0083],
     description: {
       de: "Die Kozara ist ein Gebirgszug im Nordwesten Bosniens, der als Inselgebirge bezeichnet wird. Sie ist ein Nationalpark und war Schauplatz bedeutender Schlachten im Zweiten Weltkrieg.",
       hu: "A Kozara egy hegylánc Bosznia északnyugati részén, amelyet szigethegységnek is neveznek. Nemzeti park, és jelentős csaták helyszíne volt a második világháborúban.",
@@ -148,7 +148,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Dinara (Troglav)", hu: "Dinara (Troglav)", ro: "Dinara (Troglav)", en: "Dinara (Troglav)"},
     image: "/poi-images/bosniaherzegovina-dinara-troglav-relief-v2.webp",
     coords: [16.585, 43.945],
-    coordinates: { lat: 43.945, lng: 16.585 },
+    coords: [16.585, 43.945],
     description: {
       de: "Der Troglav ist der höchste Gipfel des Dinara-Gebirges, das Bosnien und Herzegowina von Kroatien trennt. Er bietet eine weite Aussicht über das Livanjsko Polje.",
       hu: "A Troglav a Dinara-hegység legmagasabb csúcsa, amely elválasztja Bosznia-Hercegovinát Horvátországtól. Tágas kilátást nyújt a Livnói-mezőre (Livanjsko Polje).",
@@ -183,7 +183,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Romanija", hu: "Romanija", ro: "Romanija", en: "Romanija"},
     image: "/poi-images/bosniaherzegovina-romanija-relief-v2.webp",
     coords: [18.6667, 43.8833],
-    coordinates: { lat: 43.8833, lng: 18.6667 },
+    coords: [18.6667, 43.8833],
     description: {
       de: "Die Romanija ist ein markantes Kalksteinplateau östlich von Sarajevo. Sie ist bekannt für ihre senkrechten Felswände, wie die Crvene Stijene, und zahlreiche Höhlen.",
       hu: "A Romanija egy jellegzetes mészkőfennsík Szarajevótól keletre. Híres függőleges sziklafalairól, mint a Crvene Stijene, és számos barlangjáról.",
@@ -218,7 +218,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Grmeč", hu: "Grmeč", ro: "Grmeč", en: "Grmeč"},
     image: "/poi-images/bosniaherzegovina-grmec-relief-v2.webp",
     coords: [16.3333, 44.6667],
-    coordinates: { lat: 44.6667, lng: 16.3333 },
+    coords: [16.3333, 44.6667],
     description: {
       de: "Der Grmeč ist ein ausgedehnter Gebirgszug im Westen Bosniens bei Bosanski Petrovac. Er ist geprägt von dichten Mischwäldern und dient als Lebensraum für Braunbären und Wölfe.",
       hu: "A Grmeč egy kiterjedt hegylánc Nyugat-Boszniában, Bosanski Petrovac közelében. Sűrű vegyes erdők jellemzik, és barna medvék, valamint farkasok élőhelye.",
@@ -253,7 +253,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Majevica", hu: "Majevica", ro: "Majevica", en: "Majevica"},
     image: "/poi-images/bosniaherzegovina-majevica-relief-v2.webp",
     coords: [18.85, 44.57],
-    coordinates: { lat: 44.57, lng: 18.85 },
+    coords: [18.85, 44.57],
     description: {
       de: "Die Majevica ist ein Mittelgebirge im Nordosten Bosniens, das sich zwischen den Städten Tuzla und Brčko erstreckt. Sie bildet die Wasserscheide zwischen den Flüssen Sava und Drina.",
       hu: "A Majevica egy középhegység Bosznia északkeleti részén, Tuzla és Brčko városok között. Vízválasztót képez a Száva és a Drina folyók között.",
@@ -288,7 +288,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Ozren", hu: "Ozren", ro: "Ozren", en: "Ozren"},
     image: "/poi-images/bosniaherzegovina-ozren-relief-v2.webp",
     coords: [18.3333, 44.6],
-    coordinates: { lat: 44.6, lng: 18.3333 },
+    coords: [18.3333, 44.6],
     description: {
       de: "Der Ozren ist ein Bergmassiv im Norden Bosniens bei Doboj. Er ist für seine vielfältige Flora und Heilquellen bekannt und ein beliebtes Erholungsgebiet für Wanderer.",
       hu: "Az Ozren egy hegytömb Észak-Boszniában, Doboj közelében. Változatos flórájáról és gyógyforrásairól ismert, valamint kedvelt üdülőhely a túrázók számára.",
@@ -322,7 +322,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Cincar", hu: "Cincar", ro: "Cincar", en: "Cincar"},
     image: "/poi-images/bosniaherzegovina-cincar-relief-v2.webp",
     coords: [17.1, 43.9014],
-    coordinates: { lat: 43.9014, lng: 17.1 },
+    coords: [17.1, 43.9014],
     description: {
       de: "Der Cincar liegt in der westlichen Bosnischen Herzegowina bei Livno. Er ist berühmt für seine weiten Hochebenen, auf denen eine große Herde von Wildpferden lebt.",
       hu: "A Cincar Nyugat-Bosznia-Hercegovinában található, Livno közelében. Híres tágas fennsíkjairól, ahol egy nagy vadló ménes él szabadon.",
@@ -357,7 +357,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Vitorog", hu: "Vitorog", ro: "Vitorog", en: "Vitorog"},
     image: "/poi-images/bosniaherzegovina-vitorog-relief-v2.webp",
     coords: [17.0333, 44.1167],
-    coordinates: { lat: 44.1167, lng: 17.0333 },
+    coords: [17.0333, 44.1167],
     description: {
       de: "Der Vitorog ist ein Bergmassiv an der Grenze zwischen den Regionen Bosnien und Herzegowina. Sein Gipfel bietet an klaren Tagen eine Sicht, die bis zum Adriatischen Meer reichen kann.",
       hu: "A Vitorog egy hegytömb Bosznia és Hercegovina régiók határán. Csúcsáról tiszta napokon egészen az Adriai-tengerig el lehet látni.",
@@ -392,7 +392,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Šator", hu: "Šator", ro: "Šator", en: "Šator"},
     image: "/poi-images/bosniaherzegovina-sator-relief-v2.webp",
     coords: [16.6, 44.1667],
-    coordinates: { lat: 44.1667, lng: 16.6 },
+    coords: [16.6, 44.1667],
     description: {
       de: "Der Berg Šator liegt im westlichen Teil Bosnien-Herzegowinas. Er ist vor allem für den Šator-See bekannt, einen Gebirgssee auf 1.488 Metern Höhe, der von dichten Wäldern umgeben ist.",
       hu: "A Šator-hegy Bosznia-Hercegovina nyugati részén található. Leginkább a Šator-tóról ismert, amely egy 1488 méter magasságban fekvő, sűrű erdőkkel körülvett hegyi tó.",
@@ -427,7 +427,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Klekovača", hu: "Klekovača", ro: "Klekovača", en: "Klekovača"},
     image: "/poi-images/bosniaherzegovina-klekovaca-relief-v2.webp",
     coords: [16.5, 44.4333],
-    coordinates: { lat: 44.4333, lng: 16.5 },
+    coords: [16.5, 44.4333],
     description: {
       de: "Die Klekovača ist das höchste Gebirge im westlichen Bosnien. Sie ist geprägt von dichten Nadelwäldern und kargen Felsgipfeln, wobei der Krummholz-Wacholder dem Berg seinen Namen gab.",
       hu: "A Klekovača Nyugat-Bosznia legmagasabb hegysége. Sűrű fenyőerdők és kopár sziklás csúcsok jellemzik; a törpefenyő (kleka) adta a hegység nevét.",
@@ -462,7 +462,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Konjuh", hu: "Konjuh", ro: "Konjuh", en: "Konjuh"},
     image: "/poi-images/bosniaherzegovina-konjuh-relief-v2.webp",
     coords: [18.6, 44.3],
-    coordinates: { lat: 44.3, lng: 18.6 },
+    coords: [18.6, 44.3],
     description: {
       de: "Der Konjuh ist ein Mittelgebirge bei Tuzla. Er ist fast vollständig von dichten Wäldern bedeckt und dient als wichtiges Ökosystem sowie Erholungsgebiet mit zahlreichen Wanderwegen.",
       hu: "A Konjuh egy középhegység Tuzla közelében. Szinte teljes egészében sűrű erdő borítja, fontos ökoszisztémaként és számos túraútvonallal rendelkező üdülőhelyként szolgál.",
@@ -497,7 +497,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Bitovnja", hu: "Bitovnja", ro: "Bitovnja", en: "Bitovnja"},
     image: "/poi-images/bosniaherzegovina-bitovnja-relief-v2.webp",
     coords: [17.95, 43.8167],
-    coordinates: { lat: 43.8167, lng: 17.95 },
+    coords: [17.95, 43.8167],
     description: {
       de: "Die Bitovnja liegt nordwestlich von Konjic. Sie ist bekannt für ihre weiten Grasflächen und dient als Wasserscheide zwischen den Flusssystemen der Neretva und der Bosna.",
       hu: "A Bitovnja Konjictól északnyugatra található. Tágas füves területeiről ismert, és vízválasztóként szolgál a Neretva és a Boszna folyórendszerei között.",
@@ -532,7 +532,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Raduša", hu: "Raduša", ro: "Raduša", en: "Raduša"},
     image: "/poi-images/bosniaherzegovina-radusa-relief-v2.webp",
     coords: [17.4667, 43.9167],
-    coordinates: { lat: 43.9167, lng: 17.4667 },
+    coords: [17.4667, 43.9167],
     description: {
       de: "Die Raduša ist ein Gebirgszug in der zentralen Herzegowina. Sie ist als Skigebiet bekannt und bietet von ihren Gipfeln aus weite Ausblicke auf das Ramsko-Tal und den dazugehörigen See.",
       hu: "A Raduša egy hegylánc Közép-Hercegovinában. Síközpontjáról ismert, és csúcsairól tágas kilátás nyílik a Ráma-völgyre és a hozzá tartozó tóra.",
@@ -567,7 +567,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Visočica", hu: "Visočica", ro: "Visočica", en: "Visočica"},
     image: "/poi-images/bosniaherzegovina-visocica-relief-v2.webp",
     coords: [18.2167, 43.5833],
-    coordinates: { lat: 43.5833, lng: 18.2167 },
+    coords: [18.2167, 43.5833],
     description: {
       de: "Die Visočica liegt südlich von Sarajevo und ist durch die tiefe Rakitnica-Schlucht von der Bjelašnica getrennt. Sie ist bekannt für ihre unberührte Natur und alte Stećci-Grabsteine.",
       hu: "A Visočica Szarajevótól délre fekszik, és a mély Rakitnica-kanyon választja el a Bjelašnicától. Érintetlen természetéről és ősi stećak sírköveiről ismert.",
@@ -602,7 +602,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Čabulja", hu: "Čabulja", ro: "Čabulja", en: "Čabulja"},
     image: "/poi-images/bosniaherzegovina-cabulja-relief-v2.webp",
     coords: [17.7, 43.4333],
-    coordinates: { lat: 43.4333, lng: 17.7 },
+    coords: [17.7, 43.4333],
     description: {
       de: "Die Čabulja liegt im Westen der Herzegowina oberhalb von Mostar. Sie ist ein karges Karstgebirge, das steil zum Flusstal der Neretva abfällt.",
       hu: "A Čabulja Hercegovina nyugati részén, Mostar felett található. Kopár karszthegység, amely meredeken ereszkedik le a Neretva folyó völgyébe.",
@@ -637,7 +637,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Vran", hu: "Vran", ro: "Vran", en: "Vran"},
     image: "/poi-images/bosniaherzegovina-vran-relief-v2.webp",
     coords: [17.5, 43.65],
-    coordinates: { lat: 43.65, lng: 17.5 },
+    coords: [17.5, 43.65],
     description: {
       de: "Der Vran liegt zwischen dem Blidinje-See und dem Duvanjsko Polje. Er ist bekannt für seine kegelförmigen Gipfel und die Legende der Diva Grabovčeva.",
       hu: "A Vran a Blidinje-tó és a Duvanjsko Polje között fekszik. Kúpszerű csúcsairól és Diva Grabovčeva legendájáról ismert.",
@@ -672,7 +672,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Plješevica", hu: "Plješevica", ro: "Plješevica", en: "Plješevica"},
     image: "/poi-images/bosniaherzegovina-pljesevica-relief-v2.webp",
     coords: [15.75, 44.75],
-    coordinates: { lat: 44.75, lng: 15.75 },
+    coords: [15.75, 44.75],
     description: {
       de: "Die Plješevica ist ein langer Gebirgszug an der Grenze zu Kroatien bei Bihać. Sie beherbergt das ehemalige unterirdische Flugfeld Željava in ihrem Inneren.",
       hu: "A Plješevica egy hosszú hegylánc a horvát határon, Bihać közelében. Belsejében található az egykori Željava földalatti repülőtér.",
@@ -707,7 +707,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Kamešnica", hu: "Kamešnica", ro: "Kamešnica", en: "Kamešnica"},
     image: "/poi-images/bosniaherzegovina-kamesnica-relief-v2.webp",
     coords: [16.9167, 43.75],
-    coordinates: { lat: 43.75, lng: 16.9167 },
+    coords: [16.9167, 43.75],
     description: {
       de: "Die Kamešnica ist die südöstliche Fortsetzung des Dinara-Gebirges an der Grenze zu Kroatien. Sie ist bekannt für ihre raue Karstlandschaft und die starken Winde (Bora).",
       hu: "A Kamešnica a Dinara-hegység délkeleti folytatása a horvát határon. Zord karszttájáról és az erős szelekről (Bóra) ismert.",
@@ -742,7 +742,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Lelija", hu: "Lelija", ro: "Lelija", en: "Lelija"},
     image: "/poi-images/bosniaherzegovina-lelija-relief-v2.webp",
     coords: [18.4833, 43.4167],
-    coordinates: { lat: 43.4167, lng: 18.4833 },
+    coords: [18.4833, 43.4167],
     description: {
       de: "Die Lelija ist ein Gebirgsstock bei Kalinovik, der an die Zelengora grenzt. Sie ist geprägt von bizarren Kalksteinfelsen und tiefen Dolinen.",
       hu: "A Lelija egy hegytömb Kalinovik közelében, amely a Zelengorával határos. Bizarr mészkősziklák és mély töbrök jellemzik.",
@@ -777,7 +777,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     name: { de: "Ivan Planina", hu: "Ivan Planina", ro: "Ivan Planina", en: "Ivan Planina"},
     image: "/poi-images/bosniaherzegovina-ivan-planina-relief-v2.webp",
     coords: [18.0333, 43.7667],
-    coordinates: { lat: 43.7667, lng: 18.0333 },
+    coords: [18.0333, 43.7667],
     description: {
       de: "Die Ivan Planina bildet eine natürliche Grenze zwischen Bosnien und der Herzegowina. Sie ist eine wichtige Wasserscheide zwischen dem Adriatischen Meer und dem Schwarzen Meer.",
       hu: "Az Ivan-hegység (Ivan Planina) természetes határt képez Bosznia és Hercegovina között. Fontos vízválasztó az Adriai-tenger és a Fekete-tenger között.",
@@ -812,7 +812,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "mountain",
     name: { de: "Osječenica", hu: "Osječenica-hegység", ro: "Muntele Osječenica", en: "Osječenica"},
     image: "/poi-images/bosniaherzegovina-osjecenica-relief-v2.webp",
-    coordinates: { lat: 44.5036, lng: 16.3025 },
+    coords: [16.3025, 44.5036],
     description: {
       de: "Ein markanter Kalksteinberg im Westen Bosniens, der bis auf 1.795 Meter ansteigt. Er zeichnet sich durch einen langen Bergrücken und steile Klippen aus, die weite Ausblicke über die Karstplateaus bieten.",
       hu: "Nyugat-Bosznia jellegzetes mészkőhegye, amely 1795 méteres magasságba emelkedik. Hosszú gerinc és meredek sziklák jellemzik, ahonnan kilátás nyílik a környező karsztfennsíkokra.",
@@ -845,7 +845,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "mountain",
     name: { de: "Crvanj", hu: "Crvanj-hegység", ro: "Muntele Crvanj", en: "Crvanj"},
     image: "/poi-images/bosniaherzegovina-crvanj-relief-v2.webp",
-    coordinates: { lat: 43.3739, lng: 18.1714 },
+    coords: [18.1714, 43.3739],
     description: {
       de: "Ein Berg in der östlichen Herzegowina, nördlich von Nevesinje, dessen höchster Gipfel Zimomor 1.920 Meter erreicht. Er bildet eine natürliche Grenze zwischen den Karstfeldern von Nevesinje und Gacko.",
       hu: "Kelet-Hercegovinában, Nevesinjétől északra található hegy, legmagasabb csúcsa, a Zimomor 1920 méter. Természetes határt képez a nevesinjei és gackói karsztmezők között.",
@@ -879,7 +879,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "valley",
     name: { de: "Popovo Polje", hu: "Popovo Polje", ro: "Popovo Polje", en: "Popovo Polje"},
     image: "/poi-images/bosniaherzegovina-popovopolje-relief-v2.webp",
-    coordinates: { lat: 42.8333, lng: 18.0 },
+    coords: [18.0, 42.8333],
     description: {
       de: "Eines der größten Karstfelder der Welt im Süden der Herzegowina. Der Fluss Trebišnjica fließt durch diese tektonische Senke, die für ihren fruchtbaren Boden und ihre Ponore bekannt ist.",
       hu: "A világ egyik legnagyobb karsztmezeje Hercegovina déli részén. A Trebišnjica folyó szeli át ezt a tektonikus mélyedést, amely termékeny talajáról és számos víznyelőjéről nevezetes.",
@@ -913,7 +913,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "peak",
     name: { de: "Čemerno", hu: "Čemerno-hágó", ro: "Trecătoarea Čemerno", en: "Čemerno"},
     image: "/poi-images/bosniaherzegovina-cemerno-relief-v2.webp",
-    coordinates: { lat: 43.2536, lng: 18.5919 },
+    coords: [18.5919, 43.2536],
     description: {
       de: "Ein Gebirgszug und Hochpass in Ostbosnien, der als hydrologische Wasserscheide zwischen den Einzugsgebieten der Adria und des Schwarzen Meeres dient. Der Gipfel erreicht eine Höhe von 1.607 Metern.",
       hu: "Kelet-Bosznia hegylánca és magashegyi hágója, amely hidrológiai választóvonal az Adriai-tenger és a Fekete-tenger vízgyűjtő területei között. Csúcsa 1607 méteres magasságot ér el.",
@@ -947,7 +947,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "mountain",
     name: { de: "Manjača", hu: "Manjača-hegység", ro: "Muntele Manjača", en: "Manjača"},
     image: "/poi-images/bosniaherzegovina-manjaca-relief-v2.webp",
-    coordinates: { lat: 44.6, lng: 17.05 },
+    coords: [17.05, 44.6],
     description: {
       de: "Ein Berg und Karstplateau südlich von Banja Luka in der Region Bosanska Krajina. Es ist bekannt für seine vielfältigen Kalksteinformationen und Weiden, wobei der höchste Gipfel 1.239 Meter erreicht.",
       hu: "Banja Lukától délre, a Bosanska Krajina régióban található hegy és karsztfennsík. Változatos mészkőképződményeiről és legelőiről ismert, legmagasabb pontja 1239 méter.",
@@ -980,7 +980,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "mountain",
     parent: "BA",
     name: { de: "Vranica", hu: "Vranica", ro: "Vranica", en: "Vranica" },
-    coordinates: { lat: 43.917, lng: 17.833 },
+    coords: [17.833, 43.917],
     description: {
       de: "Vranica ist ein Gebirgsmassiv zwischen den Städten Gornji Vakuf und Fojnica. Der Nadkrstac ist mit 2110 Metern der höchste Gipfel der Gruppe.",
       hu: "A Vranica egy hegyvonulat Gornji Vakuf és Fojnica városok között. A Nadkrstac a csoport legmagasabb pontja, 2110 méter magas.",
@@ -1012,7 +1012,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "mountain",
     parent: "BA",
     name: { de: "Todor", hu: "Todor", ro: "Todor", en: "Todor" },
-    coordinates: { lat: 44.916, lng: 15.933 },
+    coords: [15.933, 44.916],
     description: {
       de: "Todor ist ein Berg im Nordwesten von Bosnien nahe der Grenze zu Kroatien. Er gehört zum Dinarischen Gebirgssystem.",
       hu: "Todor egy hegy Bosznia északnyugati részén, a horvát határ közelében. A Dinári-hegység rendszeréhez tartozik.",
@@ -1044,7 +1044,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "peak",
     parent: "BA",
     name: { de: "Vlasulja", hu: "Vlasulja", ro: "Vlasulja", en: "Vlasulja" },
-    coordinates: { lat: 43.238, lng: 18.547 },
+    coords: [18.547, 43.238],
     description: {
       de: "Vlasulja ist der höchste Gipfel des Volujak-Gebirges an der Grenze zu Montenegro. Die Erhebung erreicht eine Höhe von 2336 Metern.",
       hu: "A Vlasulja a Volujak-hegység legmagasabb csúcsa a montenegrói határon. A hegycsúcs 2336 méter magas.",
@@ -1076,7 +1076,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "mountain",
     parent: "BA",
     name: { de: "Cincar Planina", hu: "Cincar Planina", ro: "Cincar Planina", en: "Cincar Planina" },
-    coordinates: { lat: 43.915, lng: 17.067 },
+    coords: [17.067, 43.915],
     description: {
       de: "Cincar Planina ist eine ausgedehnte Hochebene und Bergregion westlich von Kupres. Sie ist Teil des karstigen dinarischen Hochlandes.",
       hu: "A Cincar Planina egy kiterjedt fennsík és hegyvidék Kuprestől nyugatra. A karsztos dinári hegyvidék része.",
@@ -1108,7 +1108,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "mountain",
     parent: "BA",
     name: { de: "Stare Planine", hu: "Stare Planine", ro: "Stare Planine", en: "Stare Planine" },
-    coordinates: { lat: 44.55, lng: 18.25 },
+    coords: [18.25, 44.55],
     description: {
       de: "Stare Planine bezeichnet eine Gebirgsregion im Nordosten von Bosnien. Sie ist charakterisiert durch sanfte Hügel und Waldflächen.",
       hu: "Stare Planine egy hegyvidéki régiót jelöl Bosznia északkeleti részén. Jellemzői a lankás dombok és az erdős területek.",
@@ -1140,7 +1140,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "mountain",
     parent: "BA",
     name: { de: "Bijela Gora", hu: "Bijela Gora", ro: "Bijela Gora", en: "Bijela Gora" },
-    coordinates: { lat: 43.35, lng: 18.633 },
+    coords: [18.633, 43.35],
     description: {
       de: "Bijela Gora ist eine Gebirgskette an der Grenze zwischen Bosnien und Montenegro. Der Name bedeutet wörtlich 'Weißer Berg'.",
       hu: "A Bijela Gora egy hegyvonulat Bosznia és Montenegró határán. A név szó szerinti jelentése 'Fehér hegy'.",
@@ -1172,7 +1172,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     type: "valley",
     parent: "BA",
     name: { de: "Vrtoče", hu: "Vrtoče", ro: "Vrtoče", en: "Vrtoče" },
-    coordinates: { lat: 44.733, lng: 16.15 },
+    coords: [16.15, 44.733],
     description: {
       de: "Vrtoče ist ein Talkessel im Nordwesten von Bosnien. Er liegt zwischen den Gebirgszügen Grmeč und Plješevica.",
       hu: "Vrtoče egy völgymedence Bosznia északnyugati részén. A Grmeč és a Plješevica hegyláncok között fekszik.",

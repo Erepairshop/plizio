@@ -6,7 +6,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Arklow", hu: "Arklow", ro: "Arklow", en: "Arklow" },
-    coordinates: { lat: 52.7909, lng: -6.1643 },
+    coords: [-6.1643, 52.7909],
     description: {
       de: "Arklow ist eine Stadt im County Wicklow an der Mündung des Flusses Avoca. Sie war historisch ein bedeutendes Zentrum für den Schiffbau.",
       hu: "Arklow város Wicklow megyében, az Avoca folyó torkolatánál. Történelmileg jelentős hajóépítő központ volt.",
@@ -38,7 +38,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Ashbourne", hu: "Ashbourne", ro: "Ashbourne", en: "Ashbourne" },
-    coordinates: { lat: 53.5135, lng: -6.3934 },
+    coords: [-6.3934, 53.5135],
     description: {
       de: "Ashbourne ist eine schnell wachsende Stadt im County Meath. Sie dient vorwiegend als Pendlerort für das nahegelegene Dublin.",
       hu: "Ashbourne gyorsan növekvő város Meath megyében. Főleg ingázó településként szolgál a közeli Dublin számára.",
@@ -70,7 +70,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Ballincollig", hu: "Ballincollig", ro: "Ballincollig", en: "Ballincollig" },
-    coordinates: { lat: 51.8887, lng: -8.5835 },
+    coords: [-8.5835, 51.8887],
     description: {
       de: "Ballincollig liegt im County Cork westlich der gleichnamigen Stadt. Bekannt ist der Ort für seine historische Pulvermühle.",
       hu: "Ballincollig Cork megyében fekszik, Cork várostól nyugatra. A település történelmi lőporgyáráról ismert.",
@@ -102,7 +102,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Ballymena", hu: "Ballymena", ro: "Ballymena", en: "Ballymena" },
-    coordinates: { lat: 54.8624, lng: -6.2758 },
+    coords: [-6.2758, 54.8624],
     description: {
       de: "Ballymena liegt in Nordirland im County Antrim. Die Stadt ist ein regionales Zentrum für Handel und Dienstleistungen.",
       hu: "Ballymena Észak-Írországban, Antrim megyében található. A város kereskedelmi és szolgáltatási regionális központ.",
@@ -134,7 +134,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Banbridge", hu: "Banbridge", ro: "Banbridge", en: "Banbridge" },
-    coordinates: { lat: 54.3547, lng: -6.2624 },
+    coords: [-6.2624, 54.3547],
     description: {
       de: "Banbridge ist eine Stadt im County Down in Nordirland. Sie entwickelte sich historisch als Zentrum der Leinenindustrie.",
       hu: "Banbridge város Észak-Írországban, Down megyében. Történelmileg a lenipar központjaként fejlődött.",
@@ -166,7 +166,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Bantry", hu: "Bantry", ro: "Bantry", en: "Bantry" },
-    coordinates: { lat: 51.6845, lng: -9.4526 },
+    coords: [-9.4526, 51.6845],
     description: {
       de: "Bantry liegt am Ende der Bantry Bay im County Cork. Die Stadt ist ein wichtiger Stützpunkt für die lokale Fischereiindustrie.",
       hu: "Bantry a Bantry-öböl végében fekszik, Cork megyében. A város fontos bázis a helyi halászat számára.",
@@ -198,7 +198,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Birr", hu: "Birr", ro: "Birr", en: "Birr" },
-    coordinates: { lat: 53.0953, lng: -7.915 },
+    coords: [-7.915, 53.0953],
     description: {
       de: "Birr ist eine historische Stadt im County Offaly. Sie ist berühmt für ihr Schloss und die einstige Astronomie-Forschung.",
       hu: "Birr történelmi város Offaly megyében. Híres a kastélyáról és egykori csillagászati kutatásairól.",
@@ -230,7 +230,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Carrickfergus", hu: "Carrickfergus", ro: "Carrickfergus", en: "Carrickfergus" },
-    coordinates: { lat: 54.7145, lng: -5.8052 },
+    coords: [-5.8052, 54.7145],
     description: {
       de: "Carrickfergus liegt an der Küste von Antrim in Nordirland. Die Stadt ist bekannt für ihre normannische Burg am Belfast Lough.",
       hu: "Carrickfergus az észak-írországi Antrim partján fekszik. A város a Belfast Lough melletti normann váráról ismert.",
@@ -262,7 +262,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Cashel", hu: "Cashel", ro: "Cashel", en: "Cashel" },
-    coordinates: { lat: 52.515, lng: -7.892 },
+    coords: [-7.892, 52.515],
     description: {
       de: "Cashel liegt im County Tipperary. Die Stadt ist eng mit dem Rock of Cashel verbunden, einem historischen Festungskomplex.",
       hu: "Cashel Tipperary megyében található. A város szorosan kapcsolódik a Rock of Cashel-hez, egy történelmi erődítményhez.",
@@ -294,7 +294,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Castlebar", hu: "Castlebar", ro: "Castlebar", en: "Castlebar" },
-    coordinates: { lat: 53.855, lng: -9.296 },
+    coords: [-9.296, 53.855],
     description: {
       de: "Castlebar ist die Kreisstadt des County Mayo im Westen Irlands. Sie ist ein lokaler Knotenpunkt für Handel und Verwaltung.",
       hu: "Castlebar Mayo megye székhelye Nyugat-Írországban. Kereskedelmi és közigazgatási helyi csomópont.",
@@ -326,7 +326,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Cobh", hu: "Cobh", ro: "Cobh", en: "Cobh" },
-    coordinates: { lat: 51.851, lng: -8.297 },
+    coords: [-8.297, 51.851],
     description: {
       de: "Cobh ist eine Hafenstadt auf der Great Island im County Cork. Historisch war sie der letzte Anlaufpunkt der Titanic.",
       hu: "Cobh kikötőváros a Great Island-en, Cork megyében. Történelmileg a Titanic utolsó kikötési pontja volt.",
@@ -358,7 +358,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Coleraine", hu: "Coleraine", ro: "Coleraine", en: "Coleraine" },
-    coordinates: { lat: 55.132, lng: -6.666 },
+    coords: [-6.666, 55.132],
     description: {
       de: "Coleraine liegt an der Mündung des Flusses Bann in Nordirland. Die Stadt ist ein regionales Bildungs- und Handelszentrum.",
       hu: "Coleraine a Bann folyó torkolatánál fekszik Észak-Írországban. A város oktatási és kereskedelmi regionális központ.",
@@ -390,7 +390,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Cratloe", hu: "Cratloe", ro: "Cratloe", en: "Cratloe" },
-    coordinates: { lat: 52.705, lng: -8.766 },
+    coords: [-8.766, 52.705],
     description: {
       de: "Cratloe liegt im County Clare in der Nähe der Stadt Limerick. Der Ort ist für seinen alten Eichenwald bekannt.",
       hu: "Cratloe Clare megyében fekszik, Limerick városa közelében. A település régi tölgyerdőjéről ismert.",
@@ -422,7 +422,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Dalkey", hu: "Dalkey", ro: "Dalkey", en: "Dalkey" },
-    coordinates: { lat: 53.275, lng: -6.113 },
+    coords: [-6.113, 53.275],
     description: {
       de: "Dalkey ist ein Küstenvorort von Dublin. Der Ort hat einen historischen Ortskern und eine bedeutende maritime Geschichte.",
       hu: "Dalkey Dublin tengerparti külvárosa. A helység történelmi városközponttal és jelentős tengeri történelemmel rendelkezik.",
@@ -454,7 +454,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Donegal", hu: "Donegal", ro: "Donegal", en: "Donegal" },
-    coordinates: { lat: 54.652, lng: -8.11 },
+    coords: [-8.11, 54.652],
     description: {
       de: "Donegal ist eine Stadt im gleichnamigen County im Nordwesten Irlands. Sie liegt an der Mündung des Flusses Eske.",
       hu: "Donegal város a hasonló nevű megyében, Északnyugat-Írországban. Az Eske folyó torkolatánál fekszik.",
@@ -486,7 +486,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Downpatrick", hu: "Downpatrick", ro: "Downpatrick", en: "Downpatrick" },
-    coordinates: { lat: 54.329, lng: -5.715 },
+    coords: [-5.715, 54.329],
     description: {
       de: "Downpatrick liegt im County Down in Nordirland. Die Stadt gilt als einer der Orte, an denen der heilige Patrick begraben liegt.",
       hu: "Downpatrick Észak-Írországban, Down megyében található. A város azon helyek egyike, ahol Szent Patrikot temették el.",
@@ -518,7 +518,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Edenderry", hu: "Edenderry", ro: "Edenderry", en: "Edenderry" },
-    coordinates: { lat: 53.336, lng: -7.05 },
+    coords: [-7.05, 53.336],
     description: {
       de: "Edenderry ist eine Stadt im County Offaly. Sie liegt am Rande der Bog of Allen und hat eine lange Geschichte der Torfgewinnung.",
       hu: "Edenderry város Offaly megyében. A Bog of Allen szélén fekszik, és hosszú múltra tekint vissza a tőzegkitermelés terén.",
@@ -550,7 +550,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Enniskillen", hu: "Enniskillen", ro: "Enniskillen", en: "Enniskillen" },
-    coordinates: { lat: 54.346, lng: -7.639 },
+    coords: [-7.639, 54.346],
     description: {
       de: "Enniskillen liegt zwischen dem Lower und Upper Lough Erne im County Fermanagh, Nordirland. Es ist das administrative Zentrum der Region.",
       hu: "Enniskillen az észak-írországi Fermanagh megyében, a Lower és Upper Lough Erne között fekszik. A régió közigazgatási központja.",
@@ -582,7 +582,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Fermoy", hu: "Fermoy", ro: "Fermoy", en: "Fermoy" },
-    coordinates: { lat: 52.138, lng: -8.283 },
+    coords: [-8.283, 52.138],
     description: {
       de: "Fermoy ist eine Stadt im County Cork, die am Ufer des Flusses Blackwater liegt. Sie hat eine lange militärische Geschichte.",
       hu: "Fermoy város Cork megyében, a Blackwater folyó partján. Hosszú katonai múlttal rendelkezik.",
@@ -614,7 +614,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Gort", hu: "Gort", ro: "Gort", en: "Gort" },
-    coordinates: { lat: 53.065, lng: -8.825 },
+    coords: [-8.825, 53.065],
     description: {
       de: "Gort ist eine Stadt im County Galway nahe dem Burren. Der Ort ist bekannt für seine reiche literarische Verbindung.",
       hu: "Gort város Galway megyében, a Burren közelében. A helység gazdag irodalmi kapcsolatairól ismert.",
@@ -646,7 +646,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Greystones", hu: "Greystones", ro: "Greystones", en: "Greystones" },
-    coordinates: { lat: 53.143, lng: -6.062 },
+    coords: [-6.062, 53.143],
     description: {
       de: "Greystones ist ein Badeort im County Wicklow an der irischen Ostküste. Es ist ein beliebter Wohnort für Pendler nach Dublin.",
       hu: "Greystones fürdőváros Wicklow megyében, az ír keleti parton. Népszerű lakóhely a Dublinba ingázók számára.",
@@ -678,7 +678,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Howth", hu: "Howth", ro: "Howth", en: "Howth" },
-    coordinates: { lat: 53.389, lng: -6.07 },
+    coords: [-6.07, 53.389],
     description: {
       de: "Howth ist ein Fischerdorf auf der Halbinsel Howth Head nördlich von Dublin. Es ist ein bekanntes Ausflugsziel für Meeresfrüchte.",
       hu: "Howth halászfalu a Howth Head-félszigeten, Dublin északi részén. Ismert tenger gyümölcsei úti cél.",
@@ -710,7 +710,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Kenmare", hu: "Kenmare", ro: "Kenmare", en: "Kenmare" },
-    coordinates: { lat: 51.883, lng: -9.584 },
+    coords: [-9.584, 51.883],
     description: {
       de: "Kenmare liegt im County Kerry am Ende der Kenmare Bay. Es ist ein wichtiger Ausgangspunkt für die Ring of Kerry Route.",
       hu: "Kenmare Kerry megyében fekszik, a Kenmare-öböl végében. Fontos kiindulópont a Ring of Kerry útvonalhoz.",
@@ -742,7 +742,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Kinsale", hu: "Kinsale", ro: "Kinsale", en: "Kinsale" },
-    coordinates: { lat: 51.706, lng: -8.52 },
+    coords: [-8.52, 51.706],
     description: {
       de: "Kinsale ist eine historische Stadt im County Cork an der Mündung des Flusses Bandon. Sie gilt als Feinschmeckerhauptstadt Irlands.",
       hu: "Kinsale történelmi város Cork megyében, a Bandon folyó torkolatánál. Írország gasztronómiai fővárosának tartják.",
@@ -774,7 +774,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Larne", hu: "Larne", ro: "Larne", en: "Larne" },
-    coordinates: { lat: 54.85, lng: -5.82 },
+    coords: [-5.82, 54.85],
     description: {
       de: "Larne ist eine Hafenstadt im County Antrim in Nordirland. Sie ist ein wichtiger Fährhafen für Verbindungen nach Schottland.",
       hu: "Larne kikötőváros az észak-írországi Antrim megyében. Fontos kompállomás a skóciai kapcsolatokhoz.",
@@ -806,7 +806,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Limavady", hu: "Limavady", ro: "Limavady", en: "Limavady" },
-    coordinates: { lat: 55.05, lng: -6.95 },
+    coords: [-6.95, 55.05],
     description: {
       de: "Limavady liegt im County Londonderry in Nordirland. Die Stadt ist für ihre landschaftliche Nähe zum Roe Valley Country Park bekannt.",
       hu: "Limavady Észak-Írországban, Londonderry megyében fekszik. A város a Roe Valley Country Parkhoz való közelségéről ismert.",
@@ -838,7 +838,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Listowel", hu: "Listowel", ro: "Listowel", en: "Listowel" },
-    coordinates: { lat: 52.44, lng: -9.48 },
+    coords: [-9.48, 52.44],
     description: {
       de: "Listowel ist eine Stadt im County Kerry. Sie ist als Literaturzentrum Irlands bekannt und veranstaltet das Writers' Week Festival.",
       hu: "Listowel város Kerry megyében. Írország irodalmi központjaként ismert, és otthont ad a Writers' Week Fesztiválnak.",
@@ -870,7 +870,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Longford", hu: "Longford", ro: "Longford", en: "Longford" },
-    coordinates: { lat: 53.72, lng: -7.79 },
+    coords: [-7.79, 53.72],
     description: {
       de: "Longford ist die Hauptstadt des gleichnamigen County in den irischen Midlands. Sie dient als lokaler Verkehrsknotenpunkt.",
       hu: "Longford a hasonló nevű megye székhelye az ír Midlands-ben. Helyi közlekedési csomópontként szolgál.",
@@ -902,7 +902,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Loughrea", hu: "Loughrea", ro: "Loughrea", en: "Loughrea" },
-    coordinates: { lat: 53.19, lng: -8.57 },
+    coords: [-8.57, 53.19],
     description: {
       de: "Loughrea liegt im County Galway am Ufer des Lough Rea Sees. Die Stadt hat eine lange Geschichte als Markt- und Bischofssitz.",
       hu: "Loughrea Galway megyében fekszik, a Lough Rea-tó partján. A város hosszú múltra tekint vissza piacközpontként és püspöki székhelyként.",
@@ -934,7 +934,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Lurgan", hu: "Lurgan", ro: "Lurgan", en: "Lurgan" },
-    coordinates: { lat: 54.46, lng: -6.33 },
+    coords: [-6.33, 54.46],
     description: {
       de: "Lurgan liegt in Nordirland, nahe dem Lough Neagh. Die Stadt ist bekannt für ihre historische Architektur und Leinenindustrie.",
       hu: "Lurgan Észak-Írországban található, a Lough Neagh közelében. A város történelmi építészetéről és leniparáról ismert.",
@@ -966,7 +966,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Macroom", hu: "Macroom", ro: "Macroom", en: "Macroom" },
-    coordinates: { lat: 51.9, lng: -8.95 },
+    coords: [-8.95, 51.9],
     description: {
       de: "Macroom liegt im County Cork im Tal des Flusses Sullane. Es ist ein historisches Marktzentrum mit einer bekannten Burgruine.",
       hu: "Macroom Cork megyében fekszik, a Sullane folyó völgyében. Történelmi piacközpont, ismert várrommal.",
@@ -998,7 +998,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Malahide", hu: "Malahide", ro: "Malahide", en: "Malahide" },
-    coordinates: { lat: 53.45, lng: -6.15 },
+    coords: [-6.15, 53.45],
     description: {
       de: "Malahide ist eine Küstenstadt im Norden von Dublin. Bekannt ist sie vor allem für das prächtige Malahide Castle.",
       hu: "Malahide tengerparti város Dublin északi részén. Főleg a csodálatos Malahide kastélyáról ismert.",
@@ -1030,7 +1030,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Maynooth", hu: "Maynooth", ro: "Maynooth", en: "Maynooth" },
-    coordinates: { lat: 53.38, lng: -6.59 },
+    coords: [-6.59, 53.38],
     description: {
       de: "Maynooth ist eine Universitätsstadt im County Kildare. Sie beherbergt die bekannte Maynooth University und ein historisches Schloss.",
       hu: "Maynooth egyetemi város Kildare megyében. Itt található a neves Maynooth Egyetem és egy történelmi kastély.",
@@ -1062,7 +1062,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Monkstown", hu: "Monkstown", ro: "Monkstown", en: "Monkstown" },
-    coordinates: { lat: 53.29, lng: -6.14 },
+    coords: [-6.14, 53.29],
     description: {
       de: "Monkstown ist ein Wohnvorort von Dublin in der Region Dún Laoghaire-Rathdown. Er ist für seine georgianische Architektur bekannt.",
       hu: "Monkstown Dublin lakóövezeti külvárosa a Dún Laoghaire-Rathdown régióban. Grúz építészetéről ismert.",
@@ -1094,7 +1094,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Mountmellick", hu: "Mountmellick", ro: "Mountmellick", en: "Mountmellick" },
-    coordinates: { lat: 53.12, lng: -7.33 },
+    coords: [-7.33, 53.12],
     description: {
       de: "Mountmellick liegt im County Laois. Die Stadt ist historisch für ihre Handstickerei-Tradition bekannt.",
       hu: "Mountmellick Laois megyében fekszik. A város történelmileg kézimunka-hímzési hagyományairól ismert.",
@@ -1126,7 +1126,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Muine Bheag", hu: "Muine Bheag", ro: "Muine Bheag", en: "Muine Bheag" },
-    coordinates: { lat: 52.69, lng: -6.95 },
+    coords: [-6.95, 52.69],
     description: {
       de: "Muine Bheag, auch als Bagenalstown bekannt, liegt im County Carlow. Die Stadt liegt strategisch am Fluss Barrow.",
       hu: "Muine Bheag, más néven Bagenalstown, Carlow megyében található. A város stratégiailag a Barrow folyónál fekszik.",
@@ -1158,7 +1158,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Nenagh", hu: "Nenagh", ro: "Nenagh", en: "Nenagh" },
-    coordinates: { lat: 52.86, lng: -8.2 },
+    coords: [-8.2, 52.86],
     description: {
       de: "Nenagh ist eine Stadt im County Tipperary. Sie entwickelte sich rund um ihre imposante mittelalterliche Burg.",
       hu: "Nenagh város Tipperary megyében. Impozáns középkori vára körül fejlődött.",
@@ -1190,7 +1190,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Newtownards", hu: "Newtownards", ro: "Newtownards", en: "Newtownards" },
-    coordinates: { lat: 54.59, lng: -5.69 },
+    coords: [-5.69, 54.59],
     description: {
       de: "Newtownards liegt am nördlichen Ende des Strangford Lough in Nordirland. Die Stadt ist bekannt für ihre Marktplatz-Tradition.",
       hu: "Newtownards a Strangford Lough északi végénél fekszik Észak-Írországban. A város a piactéri hagyományairól ismert.",
@@ -1222,7 +1222,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Omagh", hu: "Omagh", ro: "Omagh", en: "Omagh" },
-    coordinates: { lat: 54.6, lng: -7.3 },
+    coords: [-7.3, 54.6],
     description: {
       de: "Omagh ist die Kreisstadt des County Tyrone in Nordirland. Sie liegt an der Mündung der Flüsse Drumragh und Camowen.",
       hu: "Omagh Észak-Írországban, Tyrone megye székhelye. A Drumragh és a Camowen folyók torkolatánál fekszik.",
@@ -1254,7 +1254,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Passage West", hu: "Passage West", ro: "Passage West", en: "Passage West" },
-    coordinates: { lat: 51.86, lng: -8.38 },
+    coords: [-8.38, 51.86],
     description: {
       de: "Passage West ist eine Hafenstadt am Ufer des River Lee im County Cork. Die Stadt hat eine lange maritime Tradition.",
       hu: "Passage West kikötőváros a River Lee partján, Cork megyében. A városnak hosszú tengeri hagyománya van.",
@@ -1286,7 +1286,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Portadown", hu: "Portadown", ro: "Portadown", en: "Portadown" },
-    coordinates: { lat: 54.42, lng: -6.45 },
+    coords: [-6.45, 54.42],
     description: {
       de: "Portadown liegt in Nordirland, im County Armagh. Die Stadt entwickelte sich historisch als bedeutender Eisenbahnknotenpunkt.",
       hu: "Portadown Észak-Írországban, Armagh megyében található. Történelmileg fontos vasúti csomópontként fejlődött.",
@@ -1318,7 +1318,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Rathkeale", hu: "Rathkeale", ro: "Rathkeale", en: "Rathkeale" },
-    coordinates: { lat: 52.53, lng: -8.93 },
+    coords: [-8.93, 52.53],
     description: {
       de: "Rathkeale ist eine Stadt im County Limerick. Sie hat eine lange Geschichte, die bis in die anglo-normannische Zeit zurückreicht.",
       hu: "Rathkeale város Limerick megyében. Hosszú történelme az anglo-normann időszakra nyúlik vissza.",
@@ -1350,7 +1350,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Rosslare", hu: "Rosslare", ro: "Rosslare", en: "Rosslare" },
-    coordinates: { lat: 52.25, lng: -6.37 },
+    coords: [-6.37, 52.25],
     description: {
       de: "Rosslare ist eine Hafenstadt im County Wexford. Sie ist ein wichtiger Fährhafen für Verbindungen nach Wales und Frankreich.",
       hu: "Rosslare kikötőváros Wexford megyében. Fontos kompállomás a Walesbe és Franciaországba irányuló kapcsolatokhoz.",
@@ -1382,7 +1382,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Skibbereen", hu: "Skibbereen", ro: "Skibbereen", en: "Skibbereen" },
-    coordinates: { lat: 51.54, lng: -9.26 },
+    coords: [-9.26, 51.54],
     description: {
       de: "Skibbereen ist eine Marktstadt im County Cork. Sie wurde durch die Zeit der Großen Hungersnot in Irland historisch geprägt.",
       hu: "Skibbereen vásárváros Cork megyében. Történelmileg az írországi nagy éhínség időszaka formálta.",
@@ -1414,7 +1414,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Strabane", hu: "Strabane", ro: "Strabane", en: "Strabane" },
-    coordinates: { lat: 54.82, lng: -7.47 },
+    coords: [-7.47, 54.82],
     description: {
       de: "Strabane liegt in Nordirland, an der Grenze zu Donegal. Die Stadt liegt an der Mündung der Flüsse Finn und Mourne.",
       hu: "Strabane Észak-Írországban található, Donegal határánál. A Finn és a Mourne folyók torkolatánál fekszik.",
@@ -1446,7 +1446,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Swinford", hu: "Swinford", ro: "Swinford", en: "Swinford" },
-    coordinates: { lat: 53.95, lng: -9.1 },
+    coords: [-9.1, 53.95],
     description: {
       de: "Swinford ist eine Stadt im County Mayo. Sie ist als lokales Handelszentrum in den östlichen Midlands von Mayo bekannt.",
       hu: "Swinford város Mayo megyében. Helyi kereskedelmi központként ismert Mayo keleti Midlands-ében.",
@@ -1478,7 +1478,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Templemore", hu: "Templemore", ro: "Templemore", en: "Templemore" },
-    coordinates: { lat: 52.79, lng: -7.82 },
+    coords: [-7.82, 52.79],
     description: {
       de: "Templemore liegt im County Tipperary. Die Stadt ist vor allem als Standort des Garda College bekannt.",
       hu: "Templemore Tipperary megyében fekszik. A város leginkább a Garda College helyszíneként ismert.",
@@ -1510,7 +1510,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Thurles", hu: "Thurles", ro: "Thurles", en: "Thurles" },
-    coordinates: { lat: 52.68, lng: -7.8 },
+    coords: [-7.8, 52.68],
     description: {
       de: "Thurles ist eine Stadt im County Tipperary. Sie gilt als die Geburtsstätte der Gaelic Athletic Association.",
       hu: "Thurles város Tipperary megyében. A Gaelic Athletic Association szülőhelyeként tartják számon.",
@@ -1542,7 +1542,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Tipperary", hu: "Tipperary", ro: "Tipperary", en: "Tipperary" },
-    coordinates: { lat: 52.48, lng: -8.15 },
+    coords: [-8.15, 52.48],
     description: {
       de: "Tipperary ist eine Stadt im gleichnamigen County in Irland. Sie ist bekannt für ihre historische Markttradition und Lage.",
       hu: "Tipperary város az azonos nevű megyében, Írországban. Történelmi vásárhagyományáról és elhelyezkedéséről ismert.",
@@ -1574,7 +1574,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Trillick", hu: "Trillick", ro: "Trillick", en: "Trillick" },
-    coordinates: { lat: 54.49, lng: -7.53 },
+    coords: [-7.53, 54.49],
     description: {
       de: "Trillick ist eine kleine Stadt im County Tyrone in Nordirland. Der Ort zeichnet sich durch seine ländliche Umgebung aus.",
       hu: "Trillick kisváros Észak-Írországban, Tyrone megyében. A települést vidéki környezete jellemzi.",
@@ -1606,7 +1606,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Tuam", hu: "Tuam", ro: "Tuam", en: "Tuam" },
-    coordinates: { lat: 53.51, lng: -8.84 },
+    coords: [-8.84, 53.51],
     description: {
       de: "Tuam ist eine Stadt im County Galway. Sie ist ein bedeutendes religiöses und historisches Zentrum im Westen Irlands.",
       hu: "Tuam város Galway megyében. Jelentős vallási és történelmi központ Nyugat-Írországban.",
@@ -1638,7 +1638,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Tulla", hu: "Tulla", ro: "Tulla", en: "Tulla" },
-    coordinates: { lat: 52.88, lng: -8.72 },
+    coords: [-8.72, 52.88],
     description: {
       de: "Tulla ist ein kleiner Ort im County Clare. Er ist für seine lebendige traditionelle irische Musikszene bekannt.",
       hu: "Tulla kisváros Clare megyében. Élénk hagyományos ír zenei életéről ismert.",
@@ -1670,7 +1670,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Warrenpoint", hu: "Warrenpoint", ro: "Warrenpoint", en: "Warrenpoint" },
-    coordinates: { lat: 54.1, lng: -6.26 },
+    coords: [-6.26, 54.1],
     description: {
       de: "Warrenpoint ist eine Hafenstadt am Carlingford Lough in Nordirland. Sie ist ein beliebter Badeort mit Blick auf das Meer.",
       hu: "Warrenpoint kikötőváros az észak-írországi Carlingford Lough-nál. Népszerű fürdőhely, tengerre néző kilátással.",
@@ -1702,7 +1702,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Youghal", hu: "Youghal", ro: "Youghal", en: "Youghal" },
-    coordinates: { lat: 51.95, lng: -7.85 },
+    coords: [-7.85, 51.95],
     description: {
       de: "Youghal liegt im County Cork an der Mündung des Blackwater River. Es ist eine Stadt mit bedeutender mittelalterlicher Geschichte.",
       hu: "Youghal Cork megyében fekszik, a Blackwater folyó torkolatánál. Jelentős középkori történelemmel rendelkező város.",
@@ -1734,7 +1734,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Abbeyleix", hu: "Abbeyleix", ro: "Abbeyleix", en: "Abbeyleix" },
-    coordinates: { lat: 52.91, lng: -7.35 },
+    coords: [-7.35, 52.91],
     description: {
       de: "Abbeyleix liegt im County Laois. Es ist ein historisch bedeutender Planort mit gut erhaltenen Gebäuden aus dem 18. Jahrhundert.",
       hu: "Abbeyleix Laois megyében fekszik. Történelmileg jelentős tervezett település, jól megőrzött 18. századi épületekkel.",
@@ -1766,7 +1766,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Adare", hu: "Adare", ro: "Adare", en: "Adare" },
-    coordinates: { lat: 52.56, lng: -8.79 },
+    coords: [-8.79, 52.56],
     description: {
       de: "Adare liegt im County Limerick. Es ist bekannt für seine strohgedeckten Häuser und die gut erhaltenen mittelalterlichen Ruinen.",
       hu: "Adare Limerick megyében található. Ismert nádfedeles házairól és jól megőrzött középkori romjairól.",
@@ -1798,7 +1798,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Ardee", hu: "Ardee", ro: "Ardee", en: "Ardee" },
-    coordinates: { lat: 53.85, lng: -6.53 },
+    coords: [-6.53, 53.85],
     description: {
       de: "Ardee ist eine Stadt im County Louth. Sie hat eine lange Geschichte als Marktplatz und war ein Knotenpunkt des mittelalterlichen Handels.",
       hu: "Ardee város Louth megyében. Hosszú történelme van piactérként, és a középkori kereskedelem csomópontja volt.",
@@ -1830,7 +1830,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Arklow-Lower", hu: "Arklow-Lower", ro: "Arklow-Lower", en: "Arklow-Lower" },
-    coordinates: { lat: 52.79, lng: -6.17 },
+    coords: [-6.17, 52.79],
     description: {
       de: "Ein kleiner Ortsteil von Arklow im County Wicklow. Er liegt direkt an der Küste und bietet Zugang zum Meer.",
       hu: "Arklow kis része Wicklow megyében. Közvetlenül a parton fekszik, és hozzáférést biztosít a tengerhez.",
@@ -1862,7 +1862,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Ballybunion", hu: "Ballybunion", ro: "Ballybunion", en: "Ballybunion" },
-    coordinates: { lat: 52.51, lng: -9.66 },
+    coords: [-9.66, 52.51],
     description: {
       de: "Ballybunion ist ein Badeort im County Kerry. Bekannt ist er für seine Klippen und den berühmten Golfplatz.",
       hu: "Ballybunion fürdőváros Kerry megyében. Szikláiról és híres golfpályájáról ismert.",
@@ -1894,7 +1894,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Ballymoney", hu: "Ballymoney", ro: "Ballymoney", en: "Ballymoney" },
-    coordinates: { lat: 55.07, lng: -6.53 },
+    coords: [-6.53, 55.07],
     description: {
       de: "Ballymoney liegt in Nordirland, im County Antrim. Die Stadt ist ein regionales Zentrum für Landwirtschaft und Handel.",
       hu: "Ballymoney Észak-Írországban, Antrim megyében fekszik. A város mezőgazdasági és kereskedelmi regionális központ.",
@@ -1926,7 +1926,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Banagher", hu: "Banagher", ro: "Banagher", en: "Banagher" },
-    coordinates: { lat: 53.18, lng: -7.99 },
+    coords: [-7.99, 53.18],
     description: {
       de: "Banagher liegt im County Offaly am Ufer des Shannon. Die Stadt war historisch ein wichtiger Punkt für die Flussschifffahrt.",
       hu: "Banagher Offaly megyében fekszik, a Shannon partján. Történelmileg fontos pont volt a folyami hajózás számára.",
@@ -1958,7 +1958,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Buncrana", hu: "Buncrana", ro: "Buncrana", en: "Buncrana" },
-    coordinates: { lat: 55.13, lng: -7.45 },
+    coords: [-7.45, 55.13],
     description: {
       de: "Buncrana liegt auf der Halbinsel Inishowen im County Donegal. Die Stadt ist ein beliebtes Ziel für Küstenurlauber.",
       hu: "Buncrana az Inishowen-félszigeten fekszik, Donegal megyében. Népszerű célpont a tengerparti nyaralók számára.",
@@ -1990,7 +1990,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Cahir", hu: "Cahir", ro: "Cahir", en: "Cahir" },
-    coordinates: { lat: 52.37, lng: -7.92 },
+    coords: [-7.92, 52.37],
     description: {
       de: "Cahir liegt im County Tipperary. Die Stadt ist bekannt für ihre imposante Burg, die auf einer Insel im Fluss Suir steht.",
       hu: "Cahir Tipperary megyében található. Ismert impozáns váráról, amely a Suir folyó egyik szigetén áll.",
@@ -2022,7 +2022,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Carrickmacross", hu: "Carrickmacross", ro: "Carrickmacross", en: "Carrickmacross" },
-    coordinates: { lat: 53.98, lng: -6.72 },
+    coords: [-6.72, 53.98],
     description: {
       de: "Carrickmacross liegt im County Monaghan. Die Stadt ist für ihre Tradition der Klöppelspitze-Herstellung bekannt.",
       hu: "Carrickmacross Monaghan megyében fekszik. A város csipkeverési hagyományairól ismert.",
@@ -2054,7 +2054,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Castlewellan", hu: "Castlewellan", ro: "Castlewellan", en: "Castlewellan" },
-    coordinates: { lat: 54.26, lng: -5.94 },
+    coords: [-5.94, 54.26],
     description: {
       de: "Castlewellan liegt im County Down in Nordirland. Es ist bekannt für seine landschaftlich reizvolle Lage und den Forest Park.",
       hu: "Castlewellan Észak-Írországban, Down megyében fekszik. Ismert festői elhelyezkedéséről és az erdei parkjáról.",
@@ -2086,7 +2086,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Charleville", hu: "Charleville", ro: "Charleville", en: "Charleville" },
-    coordinates: { lat: 52.35, lng: -8.68 },
+    coords: [-8.68, 52.35],
     description: {
       de: "Charleville liegt im County Cork. Die Stadt ist ein wichtiges lokales Handelszentrum in der Region Golden Vale.",
       hu: "Charleville Cork megyében fekszik. A város fontos helyi kereskedelmi központ a Golden Vale régióban.",
@@ -2118,7 +2118,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Clara", hu: "Clara", ro: "Clara", en: "Clara" },
-    coordinates: { lat: 53.3, lng: -7.6 },
+    coords: [-7.6, 53.3],
     description: {
       de: "Clara liegt im County Offaly. Die Stadt ist bekannt für ihre historische Industrie und ihre Lage nahe der Bog of Allen.",
       hu: "Clara Offaly megyében fekszik. A város történelmi iparáról és a Bog of Allenhez való közelségéről ismert.",
@@ -2150,7 +2150,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Clifden", hu: "Clifden", ro: "Clifden", en: "Clifden" },
-    coordinates: { lat: 53.49, lng: -10.02 },
+    coords: [-10.02, 53.49],
     description: {
       de: "Clifden liegt im County Galway an der Westküste Irlands. Es gilt als die 'Hauptstadt von Connemara'.",
       hu: "Clifden Galway megyében fekszik, Írország nyugati partján. 'Connemara fővárosának' tartják.",
@@ -2182,7 +2182,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Donaghadee", hu: "Donaghadee", ro: "Donaghadee", en: "Donaghadee" },
-    coordinates: { lat: 54.63, lng: -5.53 },
+    coords: [-5.53, 54.63],
     description: {
       de: "Donaghadee ist eine Hafenstadt im County Down in Nordirland. Die Stadt ist für ihre historische Verbindung zu Schottland bekannt.",
       hu: "Donaghadee kikötőváros Észak-Írországban, Down megyében. A város Skóciával való történelmi kapcsolatairól ismert.",
@@ -2214,7 +2214,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Dungloe", hu: "Dungloe", ro: "Dungloe", en: "Dungloe" },
-    coordinates: { lat: 54.95, lng: -8.37 },
+    coords: [-8.37, 54.95],
     description: {
       de: "Dungloe liegt im County Donegal. Die Stadt ist bekannt als Zentrum der Region 'The Rosses' und für ihre Küstennähe.",
       hu: "Dungloe Donegal megyében fekszik. A város 'The Rosses' régió központjaként és tengerparti közelségéről ismert.",
@@ -2246,7 +2246,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Dunmanway", hu: "Dunmanway", ro: "Dunmanway", en: "Dunmanway" },
-    coordinates: { lat: 51.72, lng: -9.11 },
+    coords: [-9.11, 51.72],
     description: {
       de: "Dunmanway ist eine Stadt im County Cork im Westen der Region. Sie ist als lokales Marktzentrum bekannt.",
       hu: "Dunmanway város Cork megyében, a régió nyugati részén. Helyi piacközpontként ismert.",
@@ -2278,7 +2278,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Glenties", hu: "Glenties", ro: "Glenties", en: "Glenties" },
-    coordinates: { lat: 54.8, lng: -8.21 },
+    coords: [-8.21, 54.8],
     description: {
       de: "Glenties liegt im County Donegal. Die Stadt ist bekannt für ihre landschaftliche Schönheit und ihre Geschichte als Marktzentrum.",
       hu: "Glenties Donegal megyében fekszik. A város ismert természeti szépségéről és vásárvárosként betöltött szerepéről.",
@@ -2310,7 +2310,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Gorey", hu: "Gorey", ro: "Gorey", en: "Gorey" },
-    coordinates: { lat: 52.67, lng: -6.29 },
+    coords: [-6.29, 52.67],
     description: {
       de: "Gorey ist eine Stadt im County Wexford. Sie ist ein wichtiger Handelsort und ein beliebtes Ziel für Tagesausflüge aus Dublin.",
       hu: "Gorey város Wexford megyében. Fontos kereskedelmi hely és népszerű célpont a Dublinból érkező egynapos kirándulásokhoz.",
@@ -2342,7 +2342,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Graiguenamanagh", hu: "Graiguenamanagh", ro: "Graiguenamanagh", en: "Graiguenamanagh" },
-    coordinates: { lat: 52.54, lng: -6.95 },
+    coords: [-6.95, 52.54],
     description: {
       de: "Graiguenamanagh liegt am Fluss Barrow im County Kilkenny. Die Stadt ist für ihre historische Abtei berühmt.",
       hu: "Graiguenamanagh a Barrow folyónál fekszik, Kilkenny megyében. A város történelmi apátságáról híres.",
@@ -2374,7 +2374,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Killaloe", hu: "Killaloe", ro: "Killaloe", en: "Killaloe" },
-    coordinates: { lat: 52.8, lng: -8.43 },
+    coords: [-8.43, 52.8],
     description: {
       de: "Killaloe liegt im County Clare am Lough Derg. Die Stadt ist ein bekanntes Zentrum für Wassersport und Geschichte.",
       hu: "Killaloe Clare megyében fekszik, a Lough Derg-nél. A város a vízi sportok és a történelem központja.",
@@ -2406,7 +2406,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Manorhamilton", hu: "Manorhamilton", ro: "Manorhamilton", en: "Manorhamilton" },
-    coordinates: { lat: 54.28, lng: -8.11 },
+    coords: [-8.11, 54.28],
     description: {
       de: "Manorhamilton liegt im County Leitrim. Es ist eine Stadt mit einer langen Geschichte und einer imposanten Burgruine.",
       hu: "Manorhamilton Leitrim megyében fekszik. Hosszú történelmű város, impozáns várrommal.",
@@ -2438,7 +2438,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Miltown Malbay", hu: "Miltown Malbay", ro: "Miltown Malbay", en: "Miltown Malbay" },
-    coordinates: { lat: 52.84, lng: -9.41 },
+    coords: [-9.41, 52.84],
     description: {
       de: "Miltown Malbay liegt im County Clare. Die Stadt ist für ihre reiche Tradition der irischen Musik bekannt.",
       hu: "Miltown Malbay Clare megyében fekszik. A város az ír zene gazdag hagyományairól ismert.",
@@ -2470,7 +2470,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Moate", hu: "Moate", ro: "Moate", en: "Moate" },
-    coordinates: { lat: 53.39, lng: -7.74 },
+    coords: [-7.74, 53.39],
     description: {
       de: "Moate liegt im County Westmeath. Die Stadt ist für ihre historische Bedeutung als Marktzentrum in den Midlands bekannt.",
       hu: "Moate Westmeath megyében fekszik. A város a Midlands-beli vásárvárosi jelentőségéről ismert.",
@@ -2502,7 +2502,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Moville", hu: "Moville", ro: "Moville", en: "Moville" },
-    coordinates: { lat: 55.19, lng: -7.04 },
+    coords: [-7.04, 55.19],
     description: {
       de: "Moville liegt auf der Inishowen Halbinsel im County Donegal. Die Stadt bietet einen Blick auf den Lough Foyle.",
       hu: "Moville az Inishowen-félszigeten fekszik, Donegal megyében. A város kilátást nyújt a Lough Foyle-ra.",
@@ -2534,7 +2534,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Bagenalstown", hu: "Bagenalstown", ro: "Bagenalstown", en: "Bagenalstown" },
-    coordinates: { lat: 52.69, lng: -6.95 },
+    coords: [-6.95, 52.69],
     description: {
       de: "Bagenalstown liegt im County Carlow am Fluss Barrow. Die Stadt ist für ihre Architektur und ihre Geschichte bekannt.",
       hu: "Bagenalstown Carlow megyében fekszik, a Barrow folyónál. A város az építészetéről és a történelméről ismert.",
@@ -2566,7 +2566,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "New Ross", hu: "New Ross", ro: "New Ross", en: "New Ross" },
-    coordinates: { lat: 52.39, lng: -6.94 },
+    coords: [-6.94, 52.39],
     description: {
       de: "New Ross ist eine Hafenstadt im County Wexford. Die Stadt liegt am River Barrow und hat eine reiche Handelsgeschichte.",
       hu: "New Ross kikötőváros Wexford megyében. A város a Barrow folyónál fekszik, és gazdag kereskedelmi múlttal rendelkezik.",
@@ -2598,7 +2598,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Portarlington", hu: "Portarlington", ro: "Portarlington", en: "Portarlington" },
-    coordinates: { lat: 53.15, lng: -7.18 },
+    coords: [-7.18, 53.15],
     description: {
       de: "Portarlington liegt an der Grenze der Countys Laois und Offaly. Die Stadt ist bekannt für ihre historische Architektur.",
       hu: "Portarlington Laois és Offaly megyék határán fekszik. A város történelmi építészetéről ismert.",
@@ -2630,7 +2630,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Rathdrum", hu: "Rathdrum", ro: "Rathdrum", en: "Rathdrum" },
-    coordinates: { lat: 52.93, lng: -6.23 },
+    coords: [-6.23, 52.93],
     description: {
       de: "Rathdrum liegt im County Wicklow im Herzen des Wicklow Mountains. Die Stadt ist für ihre landschaftliche Lage bekannt.",
       hu: "Rathdrum Wicklow megyében fekszik, a Wicklow-hegység szívében. A város festői elhelyezkedéséről ismert.",
@@ -2662,7 +2662,7 @@ export const irelandCitiesV2: POI[] = [
     type: "town",
     parent: "IE",
     name: { de: "Roscrea", hu: "Roscrea", ro: "Roscrea", en: "Roscrea" },
-    coordinates: { lat: 52.95, lng: -7.8 },
+    coords: [-7.8, 52.95],
     description: {
       de: "Roscrea ist eine historische Stadt im County Tipperary. Sie hat eine lange Geschichte als Kloster- und Handelszentrum.",
       hu: "Roscrea történelmi város Tipperary megyében. Hosszú múlttal rendelkezik kolostori és kereskedelmi központként.",
@@ -2694,7 +2694,7 @@ export const irelandCitiesV2: POI[] = [
     type: "city",
     parent: "IE",
     name: { de: "Shannon", hu: "Shannon", ro: "Shannon", en: "Shannon" },
-    coordinates: { lat: 52.71, lng: -8.88 },
+    coords: [-8.88, 52.71],
     description: {
       de: "Shannon liegt im County Clare. Die Stadt ist vor allem als Standort des internationalen Flughafens Shannon bekannt.",
       hu: "Shannon Clare megyében fekszik. A város leginkább a Shannon nemzetközi repülőtér helyszíneként ismert.",

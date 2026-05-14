@@ -6,7 +6,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "church",
     parent: "CH",
     name: { de: "Grossmünster", hu: "Grossmünster", ro: "Grossmünster", en: "Grossmünster" },
-    coordinates: { lat: 47.3702, lng: 8.5445 },
+    coords: [8.5445, 47.3702],
     description: {
       de: "Die romanische Kirche in Zürich wurde im 12. Jahrhundert errichtet. Sie ist bekannt für ihre Doppeltürme und die Verbindung zur Reformation.",
       hu: "A zürichi román stílusú templom a 12. században épült. Ikertornyairól és a reformációhoz való kötődéséről ismert.",
@@ -38,7 +38,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "bridge",
     parent: "CH",
     name: { de: "Landwasserviadukt", hu: "Landwasser-viadukt", ro: "Viaductul Landwasser", en: "Landwasser Viaduct" },
-    coordinates: { lat: 46.6766, lng: 9.6675 },
+    coords: [9.6675, 46.6766],
     description: {
       de: "Das Eisenbahnviadukt der Rhätischen Bahn bei Filisur überspannt das Landwasser. Das Bauwerk ist Teil des UNESCO-Welterbes.",
       hu: "A filisuri Rhaetiai Vasút vasúti viaduktja átível a Landwasser folyón. Az építmény az UNESCO világörökség része.",
@@ -70,7 +70,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "museum",
     parent: "CH",
     name: { de: "Schweizerische Nationalbibliothek", hu: "Svájci Nemzeti Könyvtár", ro: "Biblioteca Națională a Elveției", en: "Swiss National Library" },
-    coordinates: { lat: 46.9458, lng: 7.4357 },
+    coords: [7.4357, 46.9458],
     description: {
       de: "Die Bibliothek in Bern sammelt alle Publikationen über die Schweiz. Sie verwaltet das kulturelle Erbe des Landes.",
       hu: "A berni könyvtár a Svájcról szóló összes kiadványt gyűjti. Feladata az ország kulturális örökségének kezelése.",
@@ -102,7 +102,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "bridge",
     parent: "CH",
     name: { de: "Kapellbrücke", hu: "Kápolna-híd", ro: "Podul Capelei", en: "Chapel Bridge" },
-    coordinates: { lat: 47.0513, lng: 8.3065 },
+    coords: [8.3065, 47.0513],
     description: {
       de: "Die überdachte Holzbrücke in Luzern stammt aus dem 14. Jahrhundert. Sie verbindet die Altstadt mit der Neustadt.",
       hu: "A luzerni fedett fahíd a 14. századból származik. Az óvárost köti össze az újvárossal.",
@@ -134,7 +134,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "CH",
     name: { de: "Kathedrale Saint-Laurent", hu: "Saint-Laurent katedrális", ro: "Catedrala Saint-Laurent", en: "Saint-Laurent Cathedral" },
-    coordinates: { lat: 46.5222, lng: 6.6322 },
+    coords: [6.6322, 46.5222],
     description: {
       de: "Diese Kathedrale steht im Zentrum von Lausanne. Sie ist ein bekanntes Beispiel gotischer Architektur in der Schweiz.",
       hu: "Ez a katedrális Lausanne központjában áll. A gótikus építészet egyik jól ismert példája Svájcban.",
@@ -166,7 +166,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "CH",
     name: { de: "Basler Münster", hu: "Baseli katedrális", ro: "Catedrala din Basel", en: "Basel Minster" },
-    coordinates: { lat: 47.5562, lng: 7.5912 },
+    coords: [7.5912, 47.5562],
     description: {
       de: "Die ehemalige Bischofskirche in Basel wurde aus rotem Sandstein erbaut. Sie prägt das Stadtbild am Rheinufer.",
       hu: "A baseli egykori püspöki templom vörös homokkőből épült. A Rajna-parti városkép meghatározó eleme.",
@@ -198,7 +198,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "tower",
     parent: "CH",
     name: { de: "Zytglogge", hu: "Zytglogge", ro: "Zytglogge", en: "Zytglogge" },
-    coordinates: { lat: 46.9479, lng: 7.4474 },
+    coords: [7.4474, 46.9479],
     description: {
       de: "Der Zeitglockenturm in Bern ist ein Wahrzeichen der Stadt. Er enthält eine astronomische Uhr aus dem 16. Jahrhundert.",
       hu: "A berni óratorony a város egyik jelképe. 16. századi csillagászati órát tartalmaz.",
@@ -230,7 +230,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "museum",
     parent: "CH",
     name: { de: "Gletschergarten Luzern", hu: "Luzerni gleccserek kertje", ro: "Grădina Ghețarilor Lucerna", en: "Glacier Garden Lucerne" },
-    coordinates: { lat: 47.0583, lng: 8.3072 },
+    coords: [8.3072, 47.0583],
     description: {
       de: "Das Museum in Luzern zeigt Gletschertöpfe aus der Eiszeit. Es ist ein bedeutender geologischer Lernort.",
       hu: "A luzerni múzeum jégkorszaki gleccsertölcséreket mutat be. Jelentős geológiai oktatóhely.",
@@ -262,7 +262,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Oberhofen", hu: "Oberhofeni kastély", ro: "Castelul Oberhofen", en: "Oberhofen Castle" },
-    coordinates: { lat: 46.7144, lng: 7.6698 },
+    coords: [7.6698, 46.7144],
     description: {
       de: "Dieses Schloss liegt direkt am Thunersee. Es ist bekannt für seinen malerischen Turm im Wasser.",
       hu: "Ez a kastély közvetlenül a Thun-tó partján áll. Festői vízi tornyáról ismert.",
@@ -294,7 +294,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CH",
     name: { de: "Palais des Nations", hu: "Palais des Nations", ro: "Palais des Nations", en: "Palais des Nations" },
-    coordinates: { lat: 46.2294, lng: 6.1401 },
+    coords: [6.1401, 46.2294],
     description: {
       de: "Der Sitz der Vereinten Nationen in Genf wurde in den 1930er Jahren erbaut. Er ist ein Zentrum der globalen Diplomatie.",
       hu: "Az ENSZ genfi székhelyét az 1930-as években építették. A globális diplomácia központja.",
@@ -326,7 +326,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "church",
     parent: "CH",
     name: { de: "Kloster St. Peter", hu: "Szent Péter-kolostor", ro: "Mănăstirea Sfântul Petru", en: "St. Peter Abbey" },
-    coordinates: { lat: 47.3715, lng: 8.5422 },
+    coords: [8.5422, 47.3715],
     description: {
       de: "Diese Kirche in der Zürcher Altstadt besitzt das größte Zifferblatt Europas. Sie ist eine der ältesten Kirchen der Stadt.",
       hu: "A zürichi óvárosban álló templom Európa legnagyobb óralapjával rendelkezik. A város egyik legrégebbi temploma.",
@@ -358,7 +358,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "theater",
     parent: "CH",
     name: { de: "Grand Théâtre de Genève", hu: "Genfi Nagyszínház", ro: "Marele Teatru din Geneva", en: "Grand Théâtre de Genève" },
-    coordinates: { lat: 46.2023, lng: 6.1432 },
+    coords: [6.1432, 46.2023],
     description: {
       de: "Das Opernhaus von Genf ist eines der bedeutendsten Theater der Schweiz. Es wurde im 19. Jahrhundert erbaut.",
       hu: "A genfi operaház Svájc egyik legjelentősebb színháza. A 19. században épült.",
@@ -390,7 +390,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Murten", hu: "Murteni kastély", ro: "Castelul Murten", en: "Murten Castle" },
-    coordinates: { lat: 46.9272, lng: 7.1147 },
+    coords: [7.1147, 46.9272],
     description: {
       de: "Das Schloss liegt am Murtensee. Die Stadtbefestigung mit ihrer gut erhaltenen Ringmauer ist ein besonderes Merkmal.",
       hu: "A kastély a Murten-tó partján fekszik. A városfal és a jól megőrzött körfal különleges jellegzetessége.",
@@ -422,7 +422,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Chillon II", hu: "Chillon-kastély II", ro: "Castelul Chillon II", en: "Chillon Castle II" },
-    coordinates: { lat: 46.4132, lng: 6.9265 },
+    coords: [6.9265, 46.4132],
     description: {
       de: "Diese historisch bedeutende Burg liegt am Genfersee. Sie dient heute als bedeutendes Museum und Kulturdenkmal.",
       hu: "Ez a történelmileg jelentős erőd a Genfi-tó partján áll. Ma fontos múzeumként és kulturális emlékként szolgál.",
@@ -454,7 +454,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CH",
     name: { de: "Stadthaus Winterthur", hu: "Winterthuri Városháza", ro: "Primăria Winterthur", en: "City Hall Winterthur" },
-    coordinates: { lat: 47.5005, lng: 8.7266 },
+    coords: [8.7266, 47.5005],
     description: {
       de: "Das Stadthaus ist ein markantes Bauwerk in Winterthur. Es dient als öffentliches Gebäude und kultureller Treffpunkt.",
       hu: "A városháza Winterthur jellegzetes épülete. Középületként és kulturális találkozóhelyként szolgál.",
@@ -486,7 +486,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "church",
     parent: "CH",
     name: { de: "Kirche St. Felix", hu: "Szent Félix-templom", ro: "Biserica Sfântul Felix", en: "St. Felix Church" },
-    coordinates: { lat: 47.4111, lng: 8.5283 },
+    coords: [8.5283, 47.4111],
     description: {
       de: "Diese Kirche befindet sich in Zürich. Sie ist für ihr historisches Interieur geschätzt.",
       hu: "Ez a templom Zürichben található. Történelmi belső teréről ismert.",
@@ -518,7 +518,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Rauhenstein", hu: "Rauhenstein-kastély", ro: "Castelul Rauhenstein", en: "Rauhenstein Castle" },
-    coordinates: { lat: 47.4522, lng: 9.3761 },
+    coords: [9.3761, 47.4522],
     description: {
       de: "Eine historische Schlossanlage in der Region St. Gallen. Sie zeugt von der feudalen Vergangenheit.",
       hu: "Történelmi kastélyegyüttes a St. Gallen-i régióban. A feudális múlt bizonyítéka.",
@@ -550,7 +550,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "theater",
     parent: "CH",
     name: { de: "Opernhaus Zürich", hu: "Zürichi Operaház", ro: "Opera din Zurich", en: "Zurich Opera House" },
-    coordinates: { lat: 47.3659, lng: 8.5478 },
+    coords: [8.5478, 47.3659],
     description: {
       de: "Das Opernhaus am Sechseläutenplatz ist ein Zentrum für Musiktheater. Es wurde 1891 eröffnet.",
       hu: "A Sechseläutenplatzon álló operaház a zenés színház központja. 1891-ben nyílt meg.",
@@ -582,7 +582,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "church",
     parent: "CH",
     name: { de: "Kirche St. Georg", hu: "Szent György-templom", ro: "Biserica Sfântul Gheorghe", en: "St. George Church" },
-    coordinates: { lat: 46.5192, lng: 6.6358 },
+    coords: [6.6358, 46.5192],
     description: {
       de: "Eine bekannte Kirche in der Region Lausanne. Sie ist für ihre gotische Architektur bekannt.",
       hu: "Ismert templom a Lausanne-i régióban. Gótikus építészetéről ismert.",
@@ -614,7 +614,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CH",
     name: { de: "Stadthaus Schaffhausen", hu: "Schaffhauseni Városháza", ro: "Primăria Schaffhausen", en: "City Hall Schaffhausen" },
-    coordinates: { lat: 47.6951, lng: 8.6351 },
+    coords: [8.6351, 47.6951],
     description: {
       de: "Das Rathaus von Schaffhausen ist ein historisches Gebäude. Es ist für seine Architektur berühmt.",
       hu: "A schaffhauseni városháza egy történelmi épület. Építészetéről híres.",
@@ -646,7 +646,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "museum",
     parent: "CH",
     name: { de: "Musée d'Art et d'Histoire", hu: "Művészeti és Történeti Múzeum", ro: "Muzeul de Artă și Istorie", en: "Museum of Art and History" },
-    coordinates: { lat: 46.2001, lng: 6.1519 },
+    coords: [6.1519, 46.2001],
     description: {
       de: "Das Museum in Genf beherbergt eine bedeutende Sammlung von Kunstobjekten. Es ist eines der größten Museen der Stadt.",
       hu: "A genfi múzeum művészeti tárgyak jelentős gyűjteményét őrzi. A város egyik legnagyobb múzeuma.",
@@ -678,7 +678,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "church",
     parent: "CH",
     name: { de: "Kirche St. Joseph", hu: "Szent József-templom", ro: "Biserica Sfântul Iosif", en: "St. Joseph Church" },
-    coordinates: { lat: 47.3821, lng: 8.5245 },
+    coords: [8.5245, 47.3821],
     description: {
       de: "Diese Kirche in Zürich zeichnet sich durch ihren modernen Baustil aus. Sie ist ein wichtiger Ort für die Gemeinde.",
       hu: "Ez a zürichi templom modern építészeti stílusáról ismert. Fontos helyszín a közösség számára.",
@@ -710,7 +710,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "castle",
     parent: "CH",
     name: { de: "Schloss Weissenburg", hu: "Weissenburg-kastély", ro: "Castelul Weissenburg", en: "Weissenburg Castle" },
-    coordinates: { lat: 46.6588, lng: 7.4262 },
+    coords: [7.4262, 46.6588],
     description: {
       de: "Eine historische Burgruine in der Nähe von Weissenburg. Sie liegt in einer malerischen Landschaft.",
       hu: "Történelmi várrom Weissenburg közelében. Festői tájon fekszik.",
@@ -742,7 +742,7 @@ export const switzerlandLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CH",
     name: { de: "Stadthaus Basel", hu: "Baseli Városháza", ro: "Primăria Basel", en: "City Hall Basel" },
-    coordinates: { lat: 47.5574, lng: 7.5898 },
+    coords: [7.5898, 47.5574],
     description: {
       de: "Das Basler Rathaus besticht durch seine rote Fassade am Marktplatz. Es ist ein Zentrum der Stadtverwaltung.",
       hu: "A baseli városháza a piactéren álló vörös homlokzatával tűnik ki. A városigazgatás központja.",

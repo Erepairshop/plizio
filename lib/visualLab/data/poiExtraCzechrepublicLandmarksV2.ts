@@ -8,7 +8,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Karlsbrücke", hu: "Károly híd", ro: "Podul Carol", en: "Charles Bridge"},
     image: "/poi-images/czechrepublic-charles-bridge-landmarks-v2.webp",
     coords: [14.4114, 50.0865],
-    coordinates: { lat: 50.0865, lng: 14.4114 },
+    coords: [14.4114, 50.0865],
     description: {
       de: "Die Karlsbrücke ist eine historische Steinbrücke über die Moldau in Prag, deren Bau 1357 unter Karl IV. begann. Sie verbindet die Altstadt mit der Kleinseite und ist für ihre 30 Statuen bekannt.",
       hu: "A prágai Károly híd egy történelmi kőhíd a Moldva felett, amelynek építése 1357-ben kezdődött IV. Károly parancsára. Az Óvárost köti össze a Kisoldallal, és 30 szobra teszi híressé.",
@@ -43,7 +43,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Prager Rathausuhr", hu: "Prágai asztronómiai óra", ro: "Ceasul Astronomic din Praga", en: "Prague Astronomical Clock"},
     image: "/poi-images/czechrepublic-astronomical-clock-landmarks-v2.webp",
     coords: [14.4207, 50.087],
-    coordinates: { lat: 50.087, lng: 14.4207 },
+    coords: [14.4207, 50.087],
     description: {
       de: "Die Prager Rathausuhr ist eine mittelalterliche astronomische Uhr an der Südmauer des Altstädter Rathauses. Sie wurde 1410 installiert und ist die älteste noch funktionierende astronomische Uhr der Welt.",
       hu: "A prágai asztronómiai óra az Óvárosháza déli falán található középkori óraszerkezet. 1410-ben szerelték fel, és ez a világ legrégebbi, ma is működő asztronómiai órája.",
@@ -78,7 +78,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Veitsdom", hu: "Szent Vitus-székesegyház", ro: "Catedrala Sfântul Vitus", en: "St. Vitus Cathedral"},
     image: "/poi-images/czechrepublic-st-vitus-cathedral-landmarks-v2.webp",
     coords: [14.4005, 50.0909],
-    coordinates: { lat: 50.0909, lng: 14.4005 },
+    coords: [14.4005, 50.0909],
     description: {
       de: "Der Veitsdom ist die Kathedrale des Erzbistums Prag und das größte Kirchengebäude Tschechiens. Die gotische Kathedrale befindet sich innerhalb der Prager Burg und beherbergt die Gräber böhmischer Könige.",
       hu: "A Szent Vitus-székesegyház a Prágai főegyházmegye temploma és Csehország legnagyobb egyházi épülete. A gótikus katedrális a prágai várban található, és cseh királyok sírjait őrzi.",
@@ -113,7 +113,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Schloss Konopiště", hu: "Konopiště kastély", ro: "Castelul Konopiště", en: "Konopiště Castle"},
     image: "/poi-images/czechrepublic-konopiste-castle-landmarks-v2.webp",
     coords: [14.6564, 49.7794],
-    coordinates: { lat: 49.7794, lng: 14.6564 },
+    coords: [14.6564, 49.7794],
     description: {
       de: "Schloss Konopiště ist bekannt als die letzte Residenz von Erzherzog Franz Ferdinand von Österreich. Das ursprünglich gotische Schloss wurde im Barock- und Renaissance-Stil umgebaut.",
       hu: "Konopiště kastélya Ferenc Ferdinánd főherceg utolsó rezidenciájaként ismert. Az eredetileg gótikus várkastélyt később barokk és reneszánsz stílusban építették át.",
@@ -148,7 +148,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Schloss Krumau", hu: "Český Krumlov-i vár", ro: "Castelul Český Krumlov", en: "Český Krumlov Castle"},
     image: "/poi-images/czechrepublic-cesky-krumlov-castle-landmarks-v2.webp",
     coords: [14.3147, 48.8125],
-    coordinates: { lat: 48.8125, lng: 14.3147 },
+    coords: [14.3147, 48.8125],
     description: {
       de: "Das Schloss Český Krumlov überragt die gleichnamige mittelalterliche Stadt und ist die zweitgrößte Schlossanlage Tschechiens. Es gehört zum UNESCO-Welterbe und ist für seinen runden Turm bekannt.",
       hu: "A Český Krumlov-i vár az azonos nevű középkori város fölé magasodik, és Csehország második legnagyobb kastélyegyüttese. Az UNESCO világörökség része, és kerek tornyáról ismert.",
@@ -183,7 +183,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Schloss Lednice", hu: "Lednicei kastély", ro: "Castelul Lednice", en: "Lednice Chateau"},
     image: "/poi-images/czechrepublic-lednice-chateau-landmarks-v2.webp",
     coords: [16.8033, 48.8005],
-    coordinates: { lat: 48.8005, lng: 16.8033 },
+    coords: [16.8033, 48.8005],
     description: {
       de: "Schloss Lednice ist ein prächtiges neugotisches Schloss in Südmähren, das Teil der Kulturlandschaft Lednice-Valtice ist. Es war die Sommerresidenz der Familie Liechtenstein.",
       hu: "A lednicei kastély egy pompás neogótikus épület Dél-Morvaországban, a Lednice–Valtice kultúrtáj része. A Liechtenstein család nyári rezidenciája volt.",
@@ -218,7 +218,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Schloss Valtice", hu: "Valticei kastély", ro: "Castelul Valtice", en: "Valtice Chateau"},
     image: "/poi-images/czechrepublic-valtice-chateau-landmarks-v2.webp",
     coords: [16.7558, 48.7397],
-    coordinates: { lat: 48.7397, lng: 16.7558 },
+    coords: [16.7558, 48.7397],
     description: {
       de: "Schloss Valtice war die Hauptresidenz der Fürsten von Liechtenstein und ist ein Meisterwerk der Barockarchitektur. Es bildet zusammen mit Lednice ein bedeutendes UNESCO-Ensemble.",
       hu: "A valticei kastély a Liechtenstein hercegek fő rezidenciája volt, és a barokk építészet remekműve. Lednicével együtt alkot jelentős UNESCO-világörökségi együttest.",
@@ -253,7 +253,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Dom der heiligen Barbara", hu: "Szent Borbála-templom", ro: "Biserica Sfânta Barbara", en: "St. Barbara's Cathedral"},
     image: "/poi-images/czechrepublic-st-barbara-cathedral-landmarks-v2.webp",
     coords: [15.2636, 49.945],
-    coordinates: { lat: 49.945, lng: 15.2636 },
+    coords: [15.2636, 49.945],
     description: {
       de: "Der Dom der heiligen Barbara in Kutná Hora ist ein Juwel der Spätgotik und UNESCO-Welterbe. Die Kirche war der Schutzpatronin der Bergleute gewidmet, was die Bedeutung des Silberbergbaus unterstreicht.",
       hu: "A kutná horai Szent Borbála-templom a késő gótika ékköve és UNESCO világörökségi helyszín. A bányászok védőszentjének szentelték, ami az egykori ezüstbányászat jelentőségét tükrözi.",
@@ -288,7 +288,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Burg Bouzov", hu: "Bouzov vára", ro: "Castelul Bouzov", en: "Bouzov Castle"},
     image: "/poi-images/czechrepublic-bouzov-castle-landmarks-v2.webp",
     coords: [16.8892, 49.7042],
-    coordinates: { lat: 49.7042, lng: 16.8892 },
+    coords: [16.8892, 49.7042],
     description: {
       de: "Burg Bouzov ist eine imposante mittelalterliche Festung in Mähren, die Ende des 19. Jahrhunderts im romantischen Stil umgebaut wurde. Sie diente lange Zeit als Sitz des Deutschen Ordens.",
       hu: "Bouzov vára egy impozáns középkori erődítmény Morvaországban, amelyet a 19. század végén romantikus stílusban építettek át. Hosszú ideig a Német Lovagrend székhelye volt.",
@@ -323,7 +323,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Erzbischöfliches Schloss Kremsier", hu: "Kroměříži érseki palota", ro: "Palatul Arhiepiscopal din Kroměříž", en: "Archbishop's Palace in Kroměříž"},
     image: "/poi-images/czechrepublic-kromeriz-palace-landmarks-v2.webp",
     coords: [17.3922, 49.2997],
-    coordinates: { lat: 49.2997, lng: 17.3922 },
+    coords: [17.3922, 49.2997],
     description: {
       de: "Das Erzbischöfliche Schloss in Kroměříž war die Sommerresidenz der Olmützer Bischöfe und ist ein bedeutendes Barockdenkmal. Besonders berühmt ist es für seinen Lustgarten und die Gemäldegalerie.",
       hu: "A kroměříži érseki palota az olomouci püspökök nyári rezidenciája volt, és jelentős barokk műemlék. Különösen híres díszkertjéről és képtáráról.",
@@ -358,7 +358,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Villa Tugendhat", hu: "Tugendhat-villa", ro: "Vila Tugendhat", en: "Villa Tugendhat"},
     image: "/poi-images/czechrepublic-villa-tugendhat-landmarks-v2.webp",
     coords: [16.6161, 49.2072],
-    coordinates: { lat: 49.2072, lng: 16.6161 },
+    coords: [16.6161, 49.2072],
     description: {
       de: "Die Villa Tugendhat in Brünn ist ein Meisterwerk der modernen Architektur von Ludwig Mies van der Rohe. Sie wurde 1930 fertiggestellt und gilt als Ikone des Funktionalismus.",
       hu: "A brnói Tugendhat-villa Ludwig Mies van der Rohe modern építészeti remekműve. 1930-ban készült el, és a funkcionalizmus egyik legfontosabb ikonjának tekintik.",
@@ -393,7 +393,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Festung Špilberk", hu: "Špilberk vár", ro: "Castelul Špilberk", en: "Špilberk Castle"},
     image: "/poi-images/czechrepublic-spilberk-castle-landmarks-v2.webp",
     coords: [16.5992, 49.1947],
-    coordinates: { lat: 49.1947, lng: 16.5992 },
+    coords: [16.5992, 49.1947],
     description: {
       de: "Die Festung Špilberk dominiert das Panorama der Stadt Brünn. Ursprünglich eine gotische Burg, wurde sie später zur mächtigsten Barockfestung Mährens und zum berüchtigten Gefängnis der Habsburgermonarchie.",
       hu: "A Špilberk vár uralja Brno panorámáját. Az eredetileg gótikus vár később Morvaország legerősebb barokk erődjévé és a Habsburg Birodalom hírhedt börtönévé vált.",
@@ -428,7 +428,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Fernsehturm Ještěd", hu: "Ještěd-torony", ro: "Turnul Ještěd", en: "Ještěd Tower"},
     image: "/poi-images/czechrepublic-jested-tower-landmarks-v2.webp",
     coords: [14.9847, 50.7328],
-    coordinates: { lat: 50.7328, lng: 14.9847 },
+    coords: [14.9847, 50.7328],
     description: {
       de: "Der Ještěd-Turm ist ein Fernsehturm auf dem gleichnamigen Berg bei Liberec. Er ist für seine einzigartige hyperbolische Form bekannt, die die Silhouette des Berges harmonisch verlängert.",
       hu: "A Ještěd-torony egy tévétorony a Liberec melletti azonos nevű hegyen. Egyedülálló hiperbolikus formájáról ismert, amely harmonikusan hosszabbítja meg a hegy sziluettjét.",
@@ -463,7 +463,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Dreifaltigkeitssäule in Olomouc", hu: "Szentháromság-oszlop Olomoucban", ro: "Coloana Ciumei din Olomouc", en: "Holy Trinity Column in Olomouc"},
     image: "/poi-images/czechrepublic-holy-trinity-column-landmarks-v2.webp",
     coords: [17.2503, 49.5939],
-    coordinates: { lat: 49.5939, lng: 17.2503 },
+    coords: [17.2503, 49.5939],
     description: {
       de: "Die Dreifaltigkeitssäule in Olomouc ist eine monumentale barocke Pestsäule auf dem Oberring der Stadt. Sie ist das größte barocke Skulpturenensemble in Mitteleuropa und UNESCO-Welterbe.",
       hu: "Az olomouci Szentháromság-oszlop egy monumentális barokk pestisoszlop a város főterén. Ez Közép-Európa legnagyobb barokk szoborcsoportja és UNESCO világörökség.",
@@ -497,7 +497,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Schloss Jindřichův Hradec", hu: "Jindřichův Hradec kastélya", ro: "Castelul Jindřichův Hradec", en: "Jindřichův Hradec Castle"},
     image: "/poi-images/czechrepublic-jindrichuv-hradec-castle-landmarks-v2.webp",
     coords: [15.0006, 49.1419],
-    coordinates: { lat: 49.1419, lng: 15.0006 },
+    coords: [15.0006, 49.1419],
     description: {
       de: "Das Schlossareal in Jindřichův Hradec ist das drittgrößte in Tschechien. Die ursprünglich gotische Burg wurde zu einem prächtigen Renaissance-Residenzschloss umgebaut.",
       hu: "A Jindřichův Hradec-i kastélyegyüttes a harmadik legnagyobb Csehországban. Az eredetileg gótikus várat pompás reneszánsz rezidenciává építették át.",
@@ -532,7 +532,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "St.-Bartholomäus-Kathedrale", hu: "Szent Bertalan-székesegyház", ro: "Catedrala Sfântul Bartolomeu", en: "St. Bartholomew's Cathedral"},
     image: "/poi-images/czechrepublic-st-bartholomew-cathedral-landmarks-v2.webp",
     coords: [13.3775, 49.7475],
-    coordinates: { lat: 49.7475, lng: 13.3775 },
+    coords: [13.3775, 49.7475],
     description: {
       de: "Die St.-Bartholomäus-Kathedrale befindet sich auf dem zentralen Platz in Pilsen. Sie ist eine gotische Hallenkirche und besitzt den höchsten Kirchturm der Tschechischen Republik.",
       hu: "A Szent Bertalan-székesegyház Plzeň főterén található. Ez egy gótikus csarnoktemplom, amely Csehország legmagasabb templomtornyával büszkélkedhet.",
@@ -567,7 +567,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     name: { de: "Historisches Zentrum von Telč", hu: "Telč történelmi központja", ro: "Centrul istoric din Telč", en: "Historic Centre of Telč"},
     image: "/poi-images/czechrepublic-telc-historic-centre-landmarks-v2.webp",
     coords: [15.4528, 49.1842],
-    coordinates: { lat: 49.1842, lng: 15.4528 },
+    coords: [15.4528, 49.1842],
     description: {
       de: "Das historische Zentrum von Telč ist berühmt für seinen langgestreckten Marktplatz mit Renaissance- und Barockhäusern. Die Stadt ist von Teichen umgeben und gehört zum UNESCO-Welterbe.",
       hu: "Telč történelmi központja a reneszánsz és barokk házakkal szegélyezett hosszú főteréről híres. A várost tavak veszik körül, és az UNESCO világörökség része.",
@@ -602,7 +602,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     type: "palace",
     name: { de: "Schloss Vranov nad Dyjí", hu: "Vranov nad Dyjí kastély", ro: "Castelul Vranov nad Dyjí", en: "Vranov nad Dyjí Chateau"},
     image: "/poi-images/czechrepublic-vranov-nad-dyji-chateau-landmarks-v2.webp",
-    coordinates: { lat: 48.8927, lng: 15.8111 },
+    coords: [15.8111, 48.8927],
     description: {
       de: "Das Schloss Vranov nad Dyjí thront auf einem Felsen über dem Fluss Thaya. Es ist ein bedeutendes Beispiel des Barockbaus und stammt ursprünglich aus dem 11. Jahrhundert.",
       hu: "A vranovi vár egy sziklaszirten magasodik a Thaya folyó felett. Az épület a barokk építészet kiemelkedő példája, amely egy 11. századi erődítmény helyén épült.",
@@ -635,7 +635,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     type: "castle",
     name: { de: "Burg Kost", hu: "Kost vára", ro: "Castelul Kost", en: "Kost Castle"},
     image: "/poi-images/czechrepublic-kost-castle-landmarks-v2.webp",
-    coordinates: { lat: 50.4903, lng: 15.1351 },
+    coords: [15.1351, 50.4903],
     description: {
       de: "Die Burg Kost ist eine der am besten erhaltenen gotischen Burgen in Böhmen. Sie liegt versteckt in einem Tal und ist für ihren markanten weißen quadratischen Turm bekannt.",
       hu: "Kost vára az egyik legjobb állapotban fennmaradt gótikus vár Csehországban. Egy völgyben rejtőzik, és jellegzetes fehér, négyszögletes tornyáról ismert.",
@@ -669,7 +669,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     type: "theater",
     name: { de: "Nationaltheater Prag", hu: "Prágai Nemzeti Színház", ro: "Teatrul Național din Praga", en: "National Theatre Prague"},
     image: "/poi-images/czechrepublic-national-theatre-prague-landmarks-v2.webp",
-    coordinates: { lat: 50.0811, lng: 14.4128 },
+    coords: [14.4128, 50.0811],
     description: {
       de: "Das Nationaltheater in Prag ist ein Symbol der tschechischen nationalen Identität. Es wurde durch Volksspenden finanziert und 1883 nach einem schweren Brand wiedereröffnet.",
       hu: "A prágai Nemzeti Színház a cseh nemzeti öntudat szimbóluma. Közadakozásból épült, és 1883-ban nyitották meg újra egy súlyos tűzvész után.",
@@ -703,7 +703,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     type: "palace",
     name: { de: "Schloss Troja", hu: "Troja-palota", ro: "Palatul Troja", en: "Troja Palace"},
     image: "/poi-images/czechrepublic-troja-palace-landmarks-v2.webp",
-    coordinates: { lat: 50.1164, lng: 14.4072 },
+    coords: [14.4072, 50.1164],
     description: {
       de: "Das Schloss Troja ist eine barocke Sommerresidenz in Prag, umgeben von einem weitläufigen Garten. Es ist berühmt für seine monumentale Treppe mit Statuen kämpfender Giganten.",
       hu: "A Troja-palota egy barokk nyári rezidencia Prágában, amelyet hatalmas kert vesz körül. Híres a monumentális lépcsősoráról, amelyet óriások szobrai díszítenek.",
@@ -737,7 +737,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     type: "church",
     name: { de: "Wallfahrtskirche am Grünen Berg", hu: "Zelená Hora-i zarándoktemplom", ro: "Biserica de pelerinaj de pe Zelena Hora", en: "Zelená Hora Pilgrimage Church"},
     image: "/poi-images/czechrepublic-zelena-hora-church-landmarks-v2.webp",
-    coordinates: { lat: 49.5833, lng: 15.9419 },
+    coords: [15.9419, 49.5833],
     description: {
       de: "Die Wallfahrtskirche des Heiligen Johannes von Nepomuk am Grünen Berg ist ein UNESCO-Welterbe. Sie besticht durch ihre einzigartige Architektur in Form eines fünfzackigen Sterns.",
       hu: "A nepomuki Szent János-zarándoktemplom a Zelená Hora-n UNESCO világörökségi helyszín. Egyedülálló, ötágú csillag alakú építészeti megoldásairól híres.",
@@ -771,7 +771,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     type: "castle",
     name: { de: "Schloss Sychrov", hu: "Sychrov-kastély", ro: "Castelul Sychrov", en: "Sychrov Castle"},
     image: "/poi-images/czechrepublic-sychrov-castle-landmarks-v2.webp",
-    coordinates: { lat: 50.6264, lng: 15.0886 },
+    coords: [15.0886, 50.6264],
     description: {
       de: "Schloss Sychrov diente als Residenz der französischen Adelsfamilie Rohan. Es ist bekannt für seine romantische neugotische Gestaltung und die prachtvollen Holzschnitzereien im Inneren.",
       hu: "A Sychrov-kastély a francia Rohan hercegi család rezidenciája volt. Romantikus neogótikus stílusáról és a belső terek pazar fafaragásairól ismert.",
@@ -805,7 +805,7 @@ export const czechrepublicLandmarksV2: POI[] = [
     type: "castle",
     name: { de: "Burg Buchlov", hu: "Buchlov vára", ro: "Castelul Buchlov", en: "Buchlov Castle"},
     image: "/poi-images/czechrepublic-buchlov-castle-landmarks-v2.webp",
-    coordinates: { lat: 49.1083, lng: 17.3111 },
+    coords: [17.3111, 49.1083],
     description: {
       de: "Burg Buchlov ist eine majestätische königliche Burg auf einem Hügel des Marsgebirges. Sie gehört zu den ältesten Burgen Tschechiens und wurde in ihrer Geschichte nie erobert.",
       hu: "Buchlov vára egy fenséges királyi vár a Chřiby-dombság egyik csúcsán. Csehország egyik legrégebbi vára, amelyet történelme során soha nem hódítottak meg.",

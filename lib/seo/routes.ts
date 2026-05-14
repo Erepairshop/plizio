@@ -284,7 +284,8 @@ export function getVisualLabHref(poi: POI) {
 }
 
 export function osmHref(poi: POI) {
-  return `https://www.openstreetmap.org/?mlat=${poi.coords![1]}&mlon=${poi.coords![0]}#map=9/${poi.coords![1]}/${poi.coords![0]}`;
+  if (!poi.coords) return "https://www.openstreetmap.org/";
+  return `https://www.openstreetmap.org/?mlat=${poi.coords[1]}&mlon=${poi.coords[0]}#map=9/${poi.coords[1]}/${poi.coords[0]}`;
 }
 
 export function getPoisForState(stateId: string) {

@@ -6,7 +6,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Bernina", hu: "Piz Bernina", ro: "Piz Bernina", en: "Piz Bernina" },
-    coordinates: { lat: 46.3833, lng: 9.9077 },
+    coords: [9.9077, 46.3833],
     description: {
       de: "Der Piz Bernina ist mit 4049 Metern der höchste Gipfel der Ostalpen. Er liegt im Kanton Graubünden und markiert den höchsten Punkt der Berninagruppe.",
       hu: "A Piz Bernina 4049 méteres magasságával a Keleti-Alpok legmagasabb csúcsa. Graubünden kantonban található, a Bernina-hegycsoport legmagasabb pontja.",
@@ -38,7 +38,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Palü", hu: "Piz Palü", ro: "Piz Palü", en: "Piz Palü" },
-    coordinates: { lat: 46.375, lng: 9.94 },
+    coords: [9.94, 46.375],
     description: {
       de: "Dieser Berg in den Bernina-Alpen ist bekannt für seine markanten Gletscherflanken. Der Gipfel besteht aus drei Hauptgipfeln, die eine charakteristische Eismauer bilden.",
       hu: "Ez a Bernina-Alpokban található hegy jellegzetes gleccseroldalairól ismert. A csúcs három fő csúcsból áll, amelyek jellegzetes jégfalat alkotnak.",
@@ -70,7 +70,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Dom", hu: "Dom", ro: "Dom", en: "Dom" },
-    coordinates: { lat: 46.109, lng: 7.76 },
+    coords: [7.76, 46.109],
     description: {
       de: "Der Dom in den Walliser Alpen erreicht eine Höhe von 4545 Metern. Er ist der höchste vollständig innerhalb der Schweiz gelegene Berg.",
       hu: "A Dom a Wallisi-Alpokban található, magassága 4545 méter. Ez a legmagasabb hegy, amely teljes egészében Svájc területén fekszik.",
@@ -102,7 +102,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Weisshorn", hu: "Weisshorn", ro: "Weisshorn", en: "Weisshorn" },
-    coordinates: { lat: 46.13, lng: 7.71 },
+    coords: [7.71, 46.13],
     description: {
       de: "Das Weisshorn ist einer der markantesten Gipfel der Walliser Alpen. Mit seiner pyramidenförmigen Gestalt dominiert es die Landschaft über dem Mattertal.",
       hu: "A Weisshorn a Wallisi-Alpok egyik legjellegzetesebb csúcsa. Piramis alakjával a Mattertal völgye fölötti tájat uralja.",
@@ -134,7 +134,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Finsteraarhorn", hu: "Finsteraarhorn", ro: "Finsteraarhorn", en: "Finsteraarhorn" },
-    coordinates: { lat: 46.53, lng: 8.12 },
+    coords: [8.12, 46.53],
     description: {
       de: "Das Finsteraarhorn ist mit 4274 Metern der höchste Gipfel der Berner Alpen. Der Berg liegt isoliert in einer vergletscherten Hochgebirgsregion.",
       hu: "A Finsteraarhorn 4274 méteres magasságával a Berni-Alpok legmagasabb csúcsa. A hegy egy elszigetelt, eljegesedett magashegyi régióban fekszik.",
@@ -166,7 +166,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Grosser Mythen", hu: "Grosser Mythen", ro: "Grosser Mythen", en: "Grosser Mythen" },
-    coordinates: { lat: 47.01, lng: 8.68 },
+    coords: [8.68, 47.01],
     description: {
       de: "Der Grosse Mythen ist ein markanter Berg im Kanton Schwyz. Er besteht aus einer auffälligen Kalksteinpyramide oberhalb von Schwyz.",
       hu: "A Grosser Mythen egy jellegzetes hegy Schwyz kantonban. Egy feltűnő mészkőpiramisból áll Schwyz felett.",
@@ -198,7 +198,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Säntis", hu: "Säntis", ro: "Säntis", en: "Säntis" },
-    coordinates: { lat: 47.24, lng: 9.35 },
+    coords: [9.35, 47.24],
     description: {
       de: "Der Säntis ist der höchste Berg des Alpsteinmassivs in der Ostschweiz. Er bietet einen weiten Ausblick über sechs Länder.",
       hu: "A Säntis az Alpstein-masszívum legmagasabb hegye Kelet-Svájcban. Széles kilátást nyújt hat országra.",
@@ -230,7 +230,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Rigi", hu: "Rigi", ro: "Rigi", en: "Rigi" },
-    coordinates: { lat: 47.05, lng: 8.48 },
+    coords: [8.48, 47.05],
     description: {
       de: "Die Rigi, auch 'Königin der Berge' genannt, ist ein Bergmassiv in der Zentralschweiz. Sie liegt zwischen dem Vierwaldstättersee und dem Zugersee.",
       hu: "A Rigi, más néven 'a hegyek királynője', egy hegytömb Közép-Svájcban. A Vierwaldstätter-tó és a Zugi-tó között fekszik.",
@@ -262,7 +262,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Niesen", hu: "Niesen", ro: "Niesen", en: "Niesen" },
-    coordinates: { lat: 46.65, lng: 7.68 },
+    coords: [7.68, 46.65],
     description: {
       de: "Der Niesen ist ein pyramidenförmiger Berg im Berner Oberland. Er bietet einen Blick über den Thunersee und das Simmental.",
       hu: "A Niesen egy piramis alakú hegy a Berni-felvidéken. Kilátást nyújt a Thuni-tóra és a Simmental-völgyre.",
@@ -294,7 +294,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Dent Blanche", hu: "Dent Blanche", ro: "Dent Blanche", en: "Dent Blanche" },
-    coordinates: { lat: 46.04, lng: 7.62 },
+    coords: [7.62, 46.04],
     description: {
       de: "Die Dent Blanche ist ein berühmter Berg der Walliser Alpen. Er besticht durch seine markante, felsige Gestalt über dem Val d'Hérens.",
       hu: "A Dent Blanche egy híres hegy a Wallisi-Alpokban. Feltűnő, sziklás alakja a Val d'Hérens völgy fölé emelkedik.",
@@ -326,7 +326,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Kesch", hu: "Piz Kesch", ro: "Piz Kesch", en: "Piz Kesch" },
-    coordinates: { lat: 46.62, lng: 9.87 },
+    coords: [9.87, 46.62],
     description: {
       de: "Der Piz Kesch ist der höchste Gipfel der Albula-Alpen. Er bildet die Grenze zwischen den Kantonen Graubünden und den Albulatälern.",
       hu: "A Piz Kesch az Albula-Alpok legmagasabb csúcsa. Graubünden kanton és az Albula-völgyek közötti határt alkotja.",
@@ -358,7 +358,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Grand Combin", hu: "Grand Combin", ro: "Grand Combin", en: "Grand Combin" },
-    coordinates: { lat: 45.94, lng: 7.29 },
+    coords: [7.29, 45.94],
     description: {
       de: "Der Grand Combin ist ein mächtiges Bergmassiv in den Walliser Alpen. Er besteht aus mehreren Gipfeln über 4000 Meter.",
       hu: "A Grand Combin egy hatalmas hegytömb a Wallisi-Alpokban. Több 4000 méternél magasabb csúcsból áll.",
@@ -390,7 +390,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz Julier", hu: "Piz Julier", ro: "Piz Julier", en: "Piz Julier" },
-    coordinates: { lat: 46.48, lng: 9.72 },
+    coords: [9.72, 46.48],
     description: {
       de: "Der Piz Julier ist ein markanter Berg über dem Julierpass in Graubünden. Er ist bei Bergsteigern aufgrund seiner leichten Erreichbarkeit beliebt.",
       hu: "A Piz Julier egy jellegzetes hegy a Julier-hágó felett, Graubündenben. Könnyű megközelíthetősége miatt népszerű a hegymászók körében.",
@@ -422,7 +422,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Breithorn", hu: "Breithorn", ro: "Breithorn", en: "Breithorn" },
-    coordinates: { lat: 45.93, lng: 7.75 },
+    coords: [7.75, 45.93],
     description: {
       de: "Das Breithorn ist ein berühmter Viertausender in der Nähe von Zermatt. Es ist als einer der am einfachsten zu besteigenden Berge seiner Kategorie bekannt.",
       hu: "A Breithorn egy híres négyezeres csúcs Zermatt közelében. Ismert arról, hogy az egyik legkönnyebben megmászható hegy a kategóriájában.",
@@ -454,7 +454,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Err", hu: "Piz d'Err", ro: "Piz d'Err", en: "Piz d'Err" },
-    coordinates: { lat: 46.55, lng: 9.68 },
+    coords: [9.68, 46.55],
     description: {
       de: "Der Piz d'Err ist ein Berg in den Albula-Alpen. Er liegt im Kanton Graubünden und ist bekannt für seine steinige Gipfelregion.",
       hu: "A Piz d'Err egy hegy az Albula-Alpokban. Graubünden kantonban található, köves csúcsrégiójáról ismert.",
@@ -486,7 +486,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Schilthorn", hu: "Schilthorn", ro: "Schilthorn", en: "Schilthorn" },
-    coordinates: { lat: 46.55, lng: 7.83 },
+    coords: [7.83, 46.55],
     description: {
       de: "Das Schilthorn ist ein bekannter Gipfel im Berner Oberland. Von der Spitze aus bietet sich ein Panoramablick auf Eiger, Mönch und Jungfrau.",
       hu: "A Schilthorn egy jól ismert csúcs a Berni-felvidéken. A csúcsról panorámás kilátás nyílik az Eigerre, a Mönchre és a Jungfraura.",
@@ -518,7 +518,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Olivone", hu: "Piz Olivone", ro: "Piz Olivone", en: "Piz Olivone" },
-    coordinates: { lat: 46.52, lng: 8.93 },
+    coords: [8.93, 46.52],
     description: {
       de: "Der Piz Olivone liegt in den Adula-Alpen. Er ist ein markanter Aussichtspunkt in der Grenzregion zwischen Graubünden und dem Tessin.",
       hu: "A Piz Olivone az Adula-Alpokban található. Jellegzetes kilátópont Graubünden és Tessin határvidékén.",
@@ -550,7 +550,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Blüemlisalp", hu: "Blüemlisalp", ro: "Blüemlisalp", en: "Blüemlisalp" },
-    coordinates: { lat: 46.49, lng: 7.76 },
+    coords: [7.76, 46.49],
     description: {
       de: "Die Blüemlisalp ist ein Bergmassiv in den Berner Alpen. Es ist bekannt für seine vergletscherten Gipfel und steilen Hänge.",
       hu: "A Blüemlisalp egy hegytömb a Berni-Alpokban. Eljegesedett csúcsairól és meredek lejtőiről ismert.",
@@ -582,7 +582,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Artgas", hu: "Piz d'Artgas", ro: "Piz d'Artgas", en: "Piz d'Artgas" },
-    coordinates: { lat: 46.68, lng: 9.42 },
+    coords: [9.42, 46.68],
     description: {
       de: "Der Piz d'Artgas liegt in den Glarner Alpen. Er ist ein weniger bekannter, aber dennoch markanter Gipfel in dieser Gebirgsgruppe.",
       hu: "A Piz d'Artgas a Glarus-Alpokban található. Kevéssé ismert, de mégis jellegzetes csúcs ebben a hegységcsoportban.",
@@ -614,7 +614,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Morteratsch", hu: "Piz Morteratsch", ro: "Piz Morteratsch", en: "Piz Morteratsch" },
-    coordinates: { lat: 46.41, lng: 9.91 },
+    coords: [9.91, 46.41],
     description: {
       de: "Der Piz Morteratsch liegt in der Berninagruppe. Er überragt den berühmten Morteratschgletscher im Kanton Graubünden.",
       hu: "A Piz Morteratsch a Bernina-hegycsoportban található. A híres Morteratsch-gleccser fölé magasodik Graubünden kantonban.",
@@ -646,7 +646,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Val Gronda", hu: "Piz Val Gronda", ro: "Piz Val Gronda", en: "Piz Val Gronda" },
-    coordinates: { lat: 46.54, lng: 10.42 },
+    coords: [10.42, 46.54],
     description: {
       de: "Der Piz Val Gronda befindet sich an der Grenze zu Österreich. Er ist ein Gipfel in der Silvretta-Gebirgsgruppe.",
       hu: "A Piz Val Gronda az osztrák határon található. A Silvretta-hegycsoport egyik csúcsa.",
@@ -678,7 +678,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Platta", hu: "Piz Platta", ro: "Piz Platta", en: "Piz Platta" },
-    coordinates: { lat: 46.49, lng: 9.58 },
+    coords: [9.58, 46.49],
     description: {
       de: "Der Piz Platta ist ein markanter Gipfel in den Oberhalbsteiner Alpen. Er liegt im Kanton Graubünden.",
       hu: "A Piz Platta egy jellegzetes csúcs az Oberhalbsteini-Alpokban. Graubünden kantonban található.",
@@ -710,7 +710,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Albris", hu: "Piz d'Albris", ro: "Piz d'Albris", en: "Piz d'Albris" },
-    coordinates: { lat: 46.48, lng: 9.91 },
+    coords: [9.91, 46.48],
     description: {
       de: "Der Piz d'Albris liegt in der Berninagruppe. Er ist bekannt als Aussichtspunkt in der Nähe des bekannten Ortes Pontresina.",
       hu: "A Piz d'Albris a Bernina-hegycsoportban található. Pontresina közismert helység közelében fekvő kilátópontként ismert.",
@@ -742,7 +742,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Es-cha", hu: "Piz d'Es-cha", ro: "Piz d'Es-cha", en: "Piz d'Es-cha" },
-    coordinates: { lat: 46.61, lng: 9.89 },
+    coords: [9.89, 46.61],
     description: {
       de: "Der Piz d'Es-cha ist ein Berg in den Albula-Alpen. Er liegt in der Nähe des Piz Kesch im Kanton Graubünden.",
       hu: "A Piz d'Es-cha egy hegy az Albula-Alpokban. A Piz Kesch közelében található Graubünden kantonban.",
@@ -774,7 +774,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Roseg", hu: "Piz Roseg", ro: "Piz Roseg", en: "Piz Roseg" },
-    coordinates: { lat: 46.39, lng: 9.87 },
+    coords: [9.87, 46.39],
     description: {
       de: "Der Piz Roseg ist ein bedeutender Gipfel in der Berninagruppe. Er ist bekannt für seine Eiswände und alpine Herausforderung.",
       hu: "A Piz Roseg a Bernina-hegycsoport jelentős csúcsa. Ismert jégfalairól és alpesi kihívásairól.",
@@ -806,7 +806,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz da la Margna", hu: "Piz da la Margna", ro: "Piz da la Margna", en: "Piz da la Margna" },
-    coordinates: { lat: 46.4, lng: 9.71 },
+    coords: [9.71, 46.4],
     description: {
       de: "Der Piz da la Margna ist ein markanter Berg in der Berninagruppe. Er überragt das Val da Fex und das Oberengadin.",
       hu: "A Piz da la Margna egy jellegzetes hegy a Bernina-hegycsoportban. A Val da Fex és az Felső-Engadin fölé magasodik.",
@@ -838,7 +838,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Argient", hu: "Piz Argient", ro: "Piz Argient", en: "Piz Argient" },
-    coordinates: { lat: 46.36, lng: 9.91 },
+    coords: [9.91, 46.36],
     description: {
       de: "Der Piz Argient liegt im Herzen der Berninagruppe. Er ist ein Gipfel zwischen der Schweiz und Italien.",
       hu: "A Piz Argient a Bernina-hegycsoport szívében található. Svájc és Olaszország közötti csúcs.",
@@ -870,7 +870,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Drausa", hu: "Piz della Drausa", ro: "Piz della Drausa", en: "Piz della Drausa" },
-    coordinates: { lat: 46.54, lng: 8.78 },
+    coords: [8.78, 46.54],
     description: {
       de: "Der Piz della Drausa liegt im Kanton Tessin. Er ist ein Gipfel in der Region um das Bedrettotal.",
       hu: "A Piz della Drausa Tessin kantonban található. A Bedretto-völgy körüli régió egyik csúcsa.",
@@ -902,7 +902,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Furca", hu: "Piz della Furca", ro: "Piz della Furca", en: "Piz della Furca" },
-    coordinates: { lat: 46.52, lng: 8.58 },
+    coords: [8.58, 46.52],
     description: {
       de: "Der Piz della Furca liegt nahe dem Furkapass in den Alpen. Er ist eine bekannte Erhebung in der Zentralschweiz.",
       hu: "A Piz della Furca az alpesi Furka-hágó közelében található. Közép-Svájc egyik jól ismert magaslata.",
@@ -934,7 +934,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Tavola", hu: "Piz della Tavola", ro: "Piz della Tavola", en: "Piz della Tavola" },
-    coordinates: { lat: 46.5, lng: 8.71 },
+    coords: [8.71, 46.5],
     description: {
       de: "Der Piz della Tavola ist ein Gipfel in den Tessiner Alpen. Er bietet eine weite Aussicht auf die umliegenden Täler.",
       hu: "A Piz della Tavola a Tessini-Alpok egyik csúcsa. Széles kilátást nyújt a környező völgyekre.",
@@ -966,7 +966,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz Salamura", hu: "Piz Salamura", ro: "Piz Salamura", en: "Piz Salamura" },
-    coordinates: { lat: 46.68, lng: 9.27 },
+    coords: [9.27, 46.68],
     description: {
       de: "Der Piz Salamura liegt im Kanton Graubünden. Er ist ein markanter Gipfel in der Region Surselva.",
       hu: "A Piz Salamura Graubünden kantonban található. A Surselva régió egyik jellegzetes csúcsa.",
@@ -998,7 +998,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Terri", hu: "Piz Terri", ro: "Piz Terri", en: "Piz Terri" },
-    coordinates: { lat: 46.65, lng: 9.03 },
+    coords: [9.03, 46.65],
     description: {
       de: "Der Piz Terri ist ein bekannter Gipfel in den Adula-Alpen. Er liegt an der Grenze zwischen Graubünden und dem Tessin.",
       hu: "A Piz Terri az Adula-Alpok jól ismert csúcsa. Graubünden és Tessin határán fekszik.",
@@ -1030,7 +1030,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Medel", hu: "Piz Medel", ro: "Piz Medel", en: "Piz Medel" },
-    coordinates: { lat: 46.6, lng: 8.87 },
+    coords: [8.87, 46.6],
     description: {
       de: "Der Piz Medel ist ein markanter Gipfel in den Adula-Alpen. Er ist ein beliebtes Ziel für Hochtouren im Winter und Sommer.",
       hu: "A Piz Medel az Adula-Alpok jellegzetes csúcsa. Népszerű célpont magashegyi túrákhoz télen és nyáron.",
@@ -1062,7 +1062,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz d'Es-cha V2", hu: "Piz d'Es-cha V2", ro: "Piz d'Es-cha V2", en: "Piz d'Es-cha V2" },
-    coordinates: { lat: 46.62, lng: 9.9 },
+    coords: [9.9, 46.62],
     description: {
       de: "Dieser Gipfel ist ein Nebengipfel im Massiv um den Piz Kesch. Er bietet eine ruhige Alternative für Wanderer in Graubünden.",
       hu: "Ez a csúcs egy mellékcsúcs a Piz Kesch körüli masszívumban. Csendes alternatívát kínál a túrázóknak Graubündenben.",
@@ -1094,7 +1094,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz da Stretta", hu: "Piz da Stretta", ro: "Piz da Stretta", en: "Piz da Stretta" },
-    coordinates: { lat: 46.46, lng: 10.05 },
+    coords: [10.05, 46.46],
     description: {
       de: "Der Piz da Stretta liegt im Bernina-Massiv an der Grenze zu Italien. Er ist ein bekannter Gipfel in dieser Gebirgsregion.",
       hu: "A Piz da Stretta a Bernina-masszívumban található, az olasz határon. A hegyvidéki régió jól ismert csúcsa.",
@@ -1126,7 +1126,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz dal Luch", hu: "Piz dal Luch", ro: "Piz dal Luch", en: "Piz dal Luch" },
-    coordinates: { lat: 46.45, lng: 10.02 },
+    coords: [10.02, 46.45],
     description: {
       de: "Der Piz dal Luch befindet sich im Kanton Graubünden. Er gehört zu den Gipfeln in der Umgebung der Berninagruppe.",
       hu: "A Piz dal Luch Graubünden kantonban található. A Bernina-hegycsoport környékének egyik csúcsa.",
@@ -1158,7 +1158,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Drausa II", hu: "Piz della Drausa II", ro: "Piz della Drausa II", en: "Piz della Drausa II" },
-    coordinates: { lat: 46.55, lng: 8.79 },
+    coords: [8.79, 46.55],
     description: {
       de: "Dies ist ein weiterer Gipfel in der Region um den Piz della Drausa im Kanton Tessin.",
       hu: "Ez egy további csúcs a Piz della Drausa körüli régióban, Tessin kantonban.",
@@ -1190,7 +1190,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz S-charl", hu: "Piz S-charl", ro: "Piz S-charl", en: "Piz S-charl" },
-    coordinates: { lat: 46.73, lng: 10.35 },
+    coords: [10.35, 46.73],
     description: {
       de: "Der Piz S-charl liegt im Engadin nahe der österreichischen Grenze. Er ist ein Berg in den Unterengadiner Dolomiten.",
       hu: "A Piz S-charl az Engadinban fekszik, az osztrák határ közelében. Az alsó-engadini Dolomitok egyik hegye.",
@@ -1222,7 +1222,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Drausa Nord", hu: "Piz della Drausa Nord", ro: "Piz della Drausa Nord", en: "Piz della Drausa Nord" },
-    coordinates: { lat: 46.56, lng: 8.78 },
+    coords: [8.78, 46.56],
     description: {
       de: "Der Nordgipfel des Piz della Drausa liegt im Kanton Tessin. Er bietet eine Herausforderung für Bergwanderer.",
       hu: "A Piz della Drausa északi csúcsa Tessin kantonban található. Kihívást jelent a hegyi túrázók számára.",
@@ -1254,7 +1254,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Terri Süd", hu: "Piz Terri Süd", ro: "Piz Terri Süd", en: "Piz Terri South" },
-    coordinates: { lat: 46.64, lng: 9.03 },
+    coords: [9.03, 46.64],
     description: {
       de: "Der Südgipfel des Piz Terri ist ein markanter Punkt in den Adula-Alpen. Er liegt an der Kantonsgrenze.",
       hu: "A Piz Terri déli csúcsa jellegzetes pont az Adula-Alpokban. A kantonhatáron fekszik.",
@@ -1286,7 +1286,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Medel West", hu: "Piz Medel West", ro: "Piz Medel West", en: "Piz Medel West" },
-    coordinates: { lat: 46.6, lng: 8.86 },
+    coords: [8.86, 46.6],
     description: {
       de: "Der Westgipfel des Piz Medel ist ein anspruchsvoller Punkt in den Adula-Alpen. Er erfordert Erfahrung im Hochgebirge.",
       hu: "A Piz Medel nyugati csúcsa egy igényes pont az Adula-Alpokban. Tapasztalatot igényel a magashegységben.",
@@ -1318,7 +1318,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Artgas Süd", hu: "Piz d'Artgas Süd", ro: "Piz d'Artgas Süd", en: "Piz d'Artgas South" },
-    coordinates: { lat: 46.67, lng: 9.42 },
+    coords: [9.42, 46.67],
     description: {
       de: "Der Südgipfel des Piz d'Artgas befindet sich in den Glarner Alpen. Er bietet eine Aussicht auf die umgebenden Täler.",
       hu: "A Piz d'Artgas déli csúcsa a Glarus-Alpokban található. Kilátást nyújt a környező völgyekre.",
@@ -1350,7 +1350,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz S-charl Ost", hu: "Piz S-charl Ost", ro: "Piz S-charl Ost", en: "Piz S-charl East" },
-    coordinates: { lat: 46.73, lng: 10.36 },
+    coords: [10.36, 46.73],
     description: {
       de: "Der Ostgipfel des Piz S-charl liegt im Engadin. Er ist ein Berg in den Unterengadiner Dolomiten.",
       hu: "A Piz S-charl keleti csúcsa az Engadinban fekszik. Az alsó-engadini Dolomitok egyik hegye.",
@@ -1382,7 +1382,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Drausa Süd", hu: "Piz della Drausa Süd", ro: "Piz della Drausa Süd", en: "Piz della Drausa South" },
-    coordinates: { lat: 46.53, lng: 8.78 },
+    coords: [8.78, 46.53],
     description: {
       de: "Der Südgipfel des Piz della Drausa befindet sich im Kanton Tessin. Er ist eine Erhebung in der Nähe des Bedrettotals.",
       hu: "A Piz della Drausa déli csúcsa Tessin kantonban található. A Bedretto-völgy közelében lévő magaslat.",
@@ -1414,7 +1414,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz d'Es-cha Nord", hu: "Piz d'Es-cha Nord", ro: "Piz d'Es-cha Nord", en: "Piz d'Es-cha North" },
-    coordinates: { lat: 46.62, lng: 9.89 },
+    coords: [9.89, 46.62],
     description: {
       de: "Der Nordgipfel des Piz d'Es-cha liegt im Kanton Graubünden. Er gehört zum Massiv um den Piz Kesch.",
       hu: "A Piz d'Es-cha északi csúcsa Graubünden kantonban található. A Piz Kesch körüli masszívum része.",
@@ -1446,7 +1446,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz della Drausa West", hu: "Piz della Drausa West", ro: "Piz della Drausa West", en: "Piz della Drausa West" },
-    coordinates: { lat: 46.54, lng: 8.77 },
+    coords: [8.77, 46.54],
     description: {
       de: "Der Westgipfel des Piz della Drausa liegt im Kanton Tessin. Er bietet eine interessante Route für Bergwanderer.",
       hu: "A Piz della Drausa nyugati csúcsa Tessin kantonban található. Érdekes útvonalat kínál a hegyi túrázóknak.",
@@ -1478,7 +1478,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "peak",
     parent: "CH",
     name: { de: "Piz Terri Nord", hu: "Piz Terri Nord", ro: "Piz Terri Nord", en: "Piz Terri North" },
-    coordinates: { lat: 46.66, lng: 9.03 },
+    coords: [9.03, 46.66],
     description: {
       de: "Der Nordgipfel des Piz Terri ist ein markanter Punkt in den Adula-Alpen. Er bietet Aussicht auf Graubünden.",
       hu: "A Piz Terri északi csúcsa jellegzetes pont az Adula-Alpokban. Kilátást nyújt Graubündenre.",
@@ -1510,7 +1510,7 @@ export const switzerlandReliefV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Piz S-charl West", hu: "Piz S-charl West", ro: "Piz S-charl West", en: "Piz S-charl West" },
-    coordinates: { lat: 46.73, lng: 10.34 },
+    coords: [10.34, 46.73],
     description: {
       de: "Der Westgipfel des Piz S-charl liegt im Engadin. Er gehört zu den Gipfeln in den Unterengadiner Dolomiten.",
       hu: "A Piz S-charl nyugati csúcsa az Engadinban fekszik. Az alsó-engadini Dolomitok csúcsai közé tartozik.",

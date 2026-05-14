@@ -6,7 +6,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "palace",
     parent: "DK",
     name: { de: "Amalienborg", hu: "Amalienborg palota", ro: "Palatul Amalienborg", en: "Amalienborg Palace" },
-    coordinates: { lat: 55.6839, lng: 12.5933 },
+    coords: [12.5933, 55.6839],
     description: {
       de: "Amalienborg ist die Residenz der dänischen Königsfamilie in Kopenhagen. Der Komplex besteht aus vier identischen Rokoko-Palästen.",
       hu: "Az Amalienborg a dán királyi család koppenhágai rezidenciája. A komplexum négy azonos rokokó stílusú palotából áll.",
@@ -38,7 +38,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Rosenborg", hu: "Rosenborg kastély", ro: "Castelul Rosenborg", en: "Rosenborg Castle" },
-    coordinates: { lat: 55.6858, lng: 12.5775 },
+    coords: [12.5775, 55.6858],
     description: {
       de: "Schloss Rosenborg ist ein Renaissance-Schloss in Kopenhagen. Es beherbergt heute die dänischen Kronjuwelen.",
       hu: "A Rosenborg kastély egy reneszánsz stílusú épület Koppenhágában. Ma a dán koronaékszereket őrzik itt.",
@@ -70,7 +70,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "palace",
     parent: "DK",
     name: { de: "Schloss Christiansborg", hu: "Christiansborg palota", ro: "Palatul Christiansborg", en: "Christiansborg Palace" },
-    coordinates: { lat: 55.6763, lng: 12.5807 },
+    coords: [12.5807, 55.6763],
     description: {
       de: "Schloss Christiansborg liegt auf der Insel Slotsholmen in Kopenhagen. Es ist Sitz des dänischen Parlaments Folketing.",
       hu: "A Christiansborg palota a koppenhágai Slotsholmen szigeten található. Ez a dán parlament, a Folketing székhelye.",
@@ -102,7 +102,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Erlöserkirche", hu: "Megváltó templom", ro: "Biserica Mântuitorului", en: "Church of Our Saviour" },
-    coordinates: { lat: 55.6723, lng: 12.5937 },
+    coords: [12.5937, 55.6723],
     description: {
       de: "Die Erlöserkirche in Kopenhagen ist für ihren markanten Turm mit der äußeren Wendeltreppe bekannt. Sie steht in Christianshavn.",
       hu: "A koppenhágai Megváltó templom jellegzetes, külső csigalépcsős tornyáról ismert. Christianshavn negyedben található.",
@@ -134,7 +134,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Grundtvig-Kirche", hu: "Grundtvig templom", ro: "Biserica Grundtvig", en: "Grundtvig's Church" },
-    coordinates: { lat: 55.7055, lng: 12.5323 },
+    coords: [12.5323, 55.7055],
     description: {
       de: "Die Grundtvig-Kirche in Kopenhagen ist ein bedeutendes Beispiel des Backsteinexpressionismus. Sie wurde in den 1920er Jahren erbaut.",
       hu: "A koppenhágai Grundtvig templom a tégla-expresszionizmus jelentős példája. Az 1920-as években épült.",
@@ -166,7 +166,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Klosterkirche Mariager", hu: "Mariager kolostortemplom", ro: "Biserica mănăstirii Mariager", en: "Mariager Abbey Church" },
-    coordinates: { lat: 56.6475, lng: 9.9822 },
+    coords: [9.9822, 56.6475],
     description: {
       de: "Die Klosterkirche Mariager ist eine spätgotische Kirche in der Stadt Mariager. Sie gehörte einst zum Birgittenorden.",
       hu: "A Mariager kolostortemplom egy késő gótikus templom Mariager városában. Egykor a birgitta rendhez tartozott.",
@@ -198,7 +198,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Sankt-Nicolai-Kirche", hu: "Szent Miklós-templom", ro: "Biserica Sfântul Nicolae", en: "St. Nicolai Church" },
-    coordinates: { lat: 55.0592, lng: 10.6053 },
+    coords: [10.6053, 55.0592],
     description: {
       de: "Die Sankt-Nicolai-Kirche befindet sich im Zentrum von Svendborg. Sie wurde im 13. Jahrhundert errichtet.",
       hu: "A Szent Miklós-templom Svendborg központjában található. A 13. században építették.",
@@ -230,7 +230,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "DK",
     name: { de: "Sankt-Knud-Kirche", hu: "Szent Knut-templom", ro: "Biserica Sfântul Knud", en: "St. Canute's Cathedral" },
-    coordinates: { lat: 55.3957, lng: 10.3888 },
+    coords: [10.3888, 55.3957],
     description: {
       de: "Die Sankt-Knud-Kirche in Odense ist eine bedeutende gotische Kirche. Hier befinden sich die Reliquien von König Knud dem Heiligen.",
       hu: "Az odensei Szent Knut-templom egy jelentős gótikus templom. Itt találhatók Szent Knut király ereklyéi.",
@@ -262,7 +262,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Silkeborg Kirche", hu: "Silkeborgi templom", ro: "Biserica din Silkeborg", en: "Silkeborg Church" },
-    coordinates: { lat: 56.1728, lng: 9.5492 },
+    coords: [9.5492, 56.1728],
     description: {
       de: "Die Silkeborg Kirche ist eine neoklassizistische Kirche im Stadtzentrum. Sie stammt aus dem 19. Jahrhundert.",
       hu: "A silkeborgi templom egy neoklasszikus épület a városközpontban. A 19. századból származik.",
@@ -294,7 +294,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "DK",
     name: { de: "Dom zu Haderslev", hu: "Haderslevi katedrális", ro: "Catedrala din Haderslev", en: "Haderslev Cathedral" },
-    coordinates: { lat: 55.2505, lng: 9.4883 },
+    coords: [9.4883, 55.2505],
     description: {
       de: "Der Dom zu Haderslev ist eine große gotische Hallenkirche. Sie liegt auf einer Anhöhe über der Stadt.",
       hu: "A haderslevi katedrális egy nagy gótikus csarnoktemplom. A város feletti dombon áll.",
@@ -326,7 +326,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "DK",
     name: { de: "Dom zu Maribo", hu: "Maribói katedrális", ro: "Catedrala din Maribo", en: "Maribo Cathedral" },
-    coordinates: { lat: 54.7731, lng: 11.5036 },
+    coords: [11.5036, 54.7731],
     description: {
       de: "Der Dom zu Maribo war ursprünglich Teil eines Birgittenklosters. Er stammt aus dem 15. Jahrhundert.",
       hu: "A maribói katedrális eredetileg egy birgitták kolostorának része volt. A 15. századból származik.",
@@ -358,7 +358,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "church",
     parent: "DK",
     name: { de: "Sankt-Petri-Kirche", hu: "Szent Péter-templom", ro: "Biserica Sfântul Petru", en: "St. Peter's Church" },
-    coordinates: { lat: 55.6792, lng: 12.5714 },
+    coords: [12.5714, 55.6792],
     description: {
       de: "Die Sankt-Petri-Kirche ist die älteste Kirche in der Kopenhagener Innenstadt. Sie wurde im frühen 17. Jahrhundert erbaut.",
       hu: "A Szent Péter-templom a legrégebbi templom Koppenhága belvárosában. A 17. század elején épült.",
@@ -390,7 +390,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "castle",
     parent: "DK",
     name: { de: "Schloss Valdemar", hu: "Valdemar kastély", ro: "Castelul Valdemar", en: "Valdemar's Castle" },
-    coordinates: { lat: 55.0067, lng: 10.6558 },
+    coords: [10.6558, 55.0067],
     description: {
       de: "Schloss Valdemar befindet sich auf der Insel Tåsinge. Es wurde von König Christian IV. für seinen Sohn Valdemar erbaut.",
       hu: "A Valdemar kastély a Tåsinge szigeten található. IV. Keresztély király építtette fia, Valdemar számára.",
@@ -422,7 +422,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "ruins",
     parent: "DK",
     name: { de: "Bølling Sø Funde", hu: "Bølling tó leletek", ro: "Sit arheologic Bølling", en: "Bølling Archaeological Site" },
-    coordinates: { lat: 56.1245, lng: 9.3872 },
+    coords: [9.3872, 56.1245],
     description: {
       de: "Bølling Sø ist ein archäologisch bedeutsames Gebiet. Hier wurden wichtige Siedlungsfunde aus der Steinzeit gemacht.",
       hu: "Bølling Sø régészetileg jelentős terület. Fontos kőkorszaki településleletek kerültek itt elő.",
@@ -454,7 +454,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "tower",
     parent: "DK",
     name: { de: "Rathauskometenturm", hu: "Városháza torony", ro: "Turnul primăriei", en: "Copenhagen City Hall Tower" },
-    coordinates: { lat: 55.6761, lng: 12.5683 },
+    coords: [12.5683, 55.6761],
     description: {
       de: "Der Rathausturm in Kopenhagen ist eines der höchsten Gebäude der Stadt. Er bietet eine Aussicht über das Zentrum.",
       hu: "A koppenhágai városháza tornya a város egyik legmagasabb épülete. Kilátást nyújt a központra.",
@@ -486,7 +486,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Rathaus Aarhus", hu: "Aarhusi városháza", ro: "Primăria din Aarhus", en: "Aarhus City Hall" },
-    coordinates: { lat: 56.1534, lng: 10.2033 },
+    coords: [10.2033, 56.1534],
     description: {
       de: "Das Rathaus von Aarhus wurde von Arne Jacobsen entworfen. Es gilt als ein Hauptwerk der dänischen Moderne.",
       hu: "Az aarhusi városházát Arne Jacobsen tervezte. A dán modern építészet főművének tekintik.",
@@ -518,7 +518,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Börsengebäude", hu: "Tőzsdepalota", ro: "Clădirea Bursei", en: "Børsen" },
-    coordinates: { lat: 55.6754, lng: 12.5847 },
+    coords: [12.5847, 55.6754],
     description: {
       de: "Die Börse in Kopenhagen ist für ihren markanten Turm aus Drachenschwänzen bekannt. Sie ist ein Beispiel der niederländischen Renaissance.",
       hu: "A koppenhágai tőzsde a jellegzetes sárkányfarok-tornyáról ismert. A holland reneszánsz építészet egyik példája.",
@@ -550,7 +550,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Kastellet", hu: "Kastellet erőd", ro: "Fortăreața Kastellet", en: "Kastellet Citadel" },
-    coordinates: { lat: 55.6908, lng: 12.5931 },
+    coords: [12.5931, 55.6908],
     description: {
       de: "Kastellet ist eine gut erhaltene Zitadelle in Kopenhagen. Sie ist sternförmig angelegt und dient heute militärischen Zwecken.",
       hu: "A Kastellet egy jól megőrzött fellegvár Koppenhágában. Csillag alakú, ma katonai célokat szolgál.",
@@ -582,7 +582,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Roskilde Museum", hu: "Roskildei Múzeum", ro: "Muzeul din Roskilde", en: "Roskilde Museum" },
-    coordinates: { lat: 55.6428, lng: 12.0833 },
+    coords: [12.0833, 55.6428],
     description: {
       de: "Das Roskilde Museum präsentiert die Geschichte der Region von der Vorgeschichte bis heute. Es liegt nahe der Kathedrale.",
       hu: "A Roskildei Múzeum bemutatja a régió történetét az őskortól napjainkig. A katedrális közelében található.",
@@ -614,7 +614,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Den Gamle By", hu: "Den Gamle By", ro: "Den Gamle By", en: "The Old Town Open Air Museum" },
-    coordinates: { lat: 56.1558, lng: 10.1831 },
+    coords: [10.1831, 56.1558],
     description: {
       de: "Den Gamle By ist ein Freilichtmuseum in Aarhus. Es zeigt historische dänische Stadtarchitektur.",
       hu: "A Den Gamle By egy szabadtéri múzeum Aarhusban. Történelmi dán városi építészetet mutat be.",
@@ -646,7 +646,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Thorvaldsens Museum", hu: "Thorvaldsen Múzeum", ro: "Muzeul Thorvaldsen", en: "Thorvaldsen Museum" },
-    coordinates: { lat: 55.6766, lng: 12.5786 },
+    coords: [12.5786, 55.6766],
     description: {
       de: "Das Thorvaldsens Museum ist dem dänischen Bildhauer Bertel Thorvaldsen gewidmet. Es ist eines der ältesten Museen Dänemarks.",
       hu: "A Thorvaldsen Múzeum Bertel Thorvaldsen dán szobrászművésznek van szentelve. Dánia egyik legrégebbi múzeuma.",
@@ -678,7 +678,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "ruins",
     parent: "DK",
     name: { de: "Koldinghus Ruine", hu: "Koldinghus rom", ro: "Ruinele Koldinghus", en: "Koldinghus Ruins" },
-    coordinates: { lat: 55.4906, lng: 9.4753 },
+    coords: [9.4753, 55.4906],
     description: {
       de: "Koldinghus war ein bedeutendes Schloss in Kolding. Teile der Ruinen wurden restauriert und in ein Museum integriert.",
       hu: "A Koldinghus jelentős vár volt Koldingban. A romok egy részét restaurálták és múzeummá alakították.",
@@ -710,7 +710,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "museum",
     parent: "DK",
     name: { de: "Ny Carlsberg Glyptotek", hu: "Ny Carlsberg Glyptotek", ro: "Ny Carlsberg Glyptotek", en: "Ny Carlsberg Glyptotek" },
-    coordinates: { lat: 55.6738, lng: 12.5725 },
+    coords: [12.5725, 55.6738],
     description: {
       de: "Die Glyptothek in Kopenhagen ist ein Kunstmuseum mit einer bedeutenden Sammlung antiker Skulpturen und französischer Kunst.",
       hu: "A koppenhágai Glyptotek egy művészeti múzeum, jelentős ókori szoborgyűjteménnyel és francia művészettel.",
@@ -742,7 +742,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "bridge",
     parent: "DK",
     name: { de: "Alte Kleine-Belt-Brücke", hu: "Régi Kis-Belt híd", ro: "Vechiul pod peste Micul Belt", en: "Old Little Belt Bridge" },
-    coordinates: { lat: 55.5119, lng: 9.6997 },
+    coords: [9.6997, 55.5119],
     description: {
       de: "Die Alte Kleine-Belt-Brücke verbindet Jütland mit der Insel Fünen. Sie wurde 1935 eingeweiht.",
       hu: "A régi Kis-Belt híd köti össze Jütlandot Fyn szigetével. 1935-ben avatták fel.",
@@ -774,7 +774,7 @@ export const denmarkLandmarksV2: POI[] = [
     type: "bridge",
     parent: "DK",
     name: { de: "Großer-Belt-Brücke", hu: "Nagy-Belt híd", ro: "Podul peste Marele Belt", en: "Great Belt Bridge" },
-    coordinates: { lat: 55.3375, lng: 10.9708 },
+    coords: [10.9708, 55.3375],
     description: {
       de: "Die Großer-Belt-Brücke verbindet die Inseln Seeland und Fünen. Sie ist ein zentrales Verkehrsbauwerk in Dänemark.",
       hu: "A Nagy-Belt híd köti össze Sjælland és Fyn szigetét. Dánia központi közlekedési műtárgya.",

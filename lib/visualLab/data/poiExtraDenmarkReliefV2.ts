@@ -6,7 +6,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Yding Skovhøj", hu: "Yding Skovhøj", ro: "Yding Skovhøj", en: "Yding Skovhøj" },
-    coordinates: { lat: 55.9872, lng: 9.7714 },
+    coords: [9.7714, 55.9872],
     description: {
       de: "Yding Skovhøj ist einer der höchsten Punkte in Dänemark. Die Erhebung befindet sich im östlichen Jütland.",
       hu: "Yding Skovhøj Dánia egyik legmagasabb pontja. A kiemelkedés Kelet-Jütlandban található.",
@@ -38,7 +38,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Ejer Bavnehøj", hu: "Ejer Bavnehøj", ro: "Ejer Bavnehøj", en: "Ejer Bavnehøj" },
-    coordinates: { lat: 55.9814, lng: 9.8011 },
+    coords: [9.8011, 55.9814],
     description: {
       de: "Ejer Bavnehøj ist eine prominente Anhöhe in der Gemeinde Skanderborg. Sie war historisch als Signalfeuerplatz bedeutend.",
       hu: "Ejer Bavnehøj kiemelkedő domb Skanderborg községben. Történelmileg jelzőtűzhelyként volt jelentős.",
@@ -70,7 +70,7 @@ export const denmarkReliefV2: POI[] = [
     type: "valley",
     parent: "DK",
     name: { de: "Rind Bakkekam", hu: "Rind Bakkekam", ro: "Rind Bakkekam", en: "Rind Bakkekam" },
-    coordinates: { lat: 56.0955, lng: 8.9322 },
+    coords: [8.9322, 56.0955],
     description: {
       de: "Rind Bakkekam bezeichnet eine glaziale Hügelkette im westlichen Teil Dänemarks. Die Region ist durch flache Täler geprägt.",
       hu: "Rind Bakkekam gleciális dombsor Dánia nyugati részén. A régiót sekély völgyek jellemzik.",
@@ -102,7 +102,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Syv Høje", hu: "Syv Høje", ro: "Syv Høje", en: "Syv Høje" },
-    coordinates: { lat: 55.4522, lng: 8.5211 },
+    coords: [8.5211, 55.4522],
     description: {
       de: "Syv Høje ist eine Gruppe von Grabhügeln in der Nähe von Esbjerg. Diese Erhebungen prägen das lokale Relief der Küstenregion.",
       hu: "Syv Høje sírhalomcsoport Esbjerg közelében. Ezek a kiemelkedések meghatározzák a partvidék helyi domborzatát.",
@@ -134,7 +134,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Skamlingsbanken", hu: "Skamlingsbanken", ro: "Skamlingsbanken", en: "Skamlingsbanken" },
-    coordinates: { lat: 55.4055, lng: 9.5522 },
+    coords: [9.5522, 55.4055],
     description: {
       de: "Skamlingsbanken ist der höchste Punkt im südlichen Jütland. Die Moränenlandschaft bietet einen Ausblick über den Kleinen Belt.",
       hu: "Skamlingsbanken Dél-Jütland legmagasabb pontja. A morénavidék kilátást nyújt a Kis-Baltra.",
@@ -166,7 +166,7 @@ export const denmarkReliefV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Knudshoved Odde", hu: "Knudshoved Odde", ro: "Knudshoved Odde", en: "Knudshoved Odde" },
-    coordinates: { lat: 55.1055, lng: 11.7522 },
+    coords: [11.7522, 55.1055],
     description: {
       de: "Knudshoved Odde ist eine langgestreckte Landzunge auf der Insel Seeland. Sie zeichnet sich durch ein flaches, maritimes Relief aus.",
       hu: "Knudshoved Odde egy elnyújtott földnyelv Sjælland szigetén. Lapos, tengeri domborzat jellemzi.",
@@ -198,7 +198,7 @@ export const denmarkReliefV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Helgenæs", hu: "Helgenæs", ro: "Helgenæs", en: "Helgenæs" },
-    coordinates: { lat: 56.1211, lng: 10.5122 },
+    coords: [10.5122, 56.1211],
     description: {
       de: "Helgenæs ist eine hügelige Halbinsel im östlichen Jütland. Die geologische Struktur stammt aus der letzten Eiszeit.",
       hu: "Helgenæs dombos félsziget Kelet-Jütlandban. Geológiai szerkezete az utolsó jégkorszakból származik.",
@@ -230,7 +230,7 @@ export const denmarkReliefV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Agård Strand", hu: "Agård Strand", ro: "Agård Strand", en: "Agård Strand" },
-    coordinates: { lat: 55.5122, lng: 9.3522 },
+    coords: [9.3522, 55.5122],
     description: {
       de: "Agård Strand liegt in einer Senke an der Ostküste Jütlands. Das Relief wird hier stark durch maritime Sedimente geformt.",
       hu: "Agård Strand egy mélyedésben fekszik Jütland keleti partján. A domborzatot itt erősen formálják a tengeri üledékek.",
@@ -262,7 +262,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Vogns Høje", hu: "Vogns Høje", ro: "Vogns Høje", en: "Vogns Høje" },
-    coordinates: { lat: 57.4855, lng: 9.9211 },
+    coords: [9.9211, 57.4855],
     description: {
       de: "Vogns Høje umfasst eine Serie kleiner Anhöhen in Nordjütland. Diese Erhebungen sind typisch für die Moränenlandschaft des Gebiets.",
       hu: "Vogns Høje kis kiemelkedések sorozata Észak-Jütlandban. Ezek a magaslatok tipikusak a terület morénavidékére.",
@@ -294,7 +294,7 @@ export const denmarkReliefV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Mols Kyst", hu: "Mols Kyst", ro: "Mols Kyst", en: "Mols Kyst" },
-    coordinates: { lat: 56.1822, lng: 10.5522 },
+    coords: [10.5522, 56.1822],
     description: {
       de: "Die Küste von Mols ist von steilen Hügeln und tiefen Tälern geprägt. Dieses Relief ist ein Ergebnis eiszeitlicher Gletschertätigkeit.",
       hu: "Mols partvidékét meredek dombok és mély völgyek jellemzik. Ez a domborzat a jégkorszaki gleccsertevékenység eredménye.",
@@ -326,7 +326,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Kragelund Bakke", hu: "Kragelund Bakke", ro: "Kragelund Bakke", en: "Kragelund Bakke" },
-    coordinates: { lat: 56.2555, lng: 9.4211 },
+    coords: [9.4211, 56.2555],
     description: {
       de: "Kragelund Bakke ist ein isolierter Hügel in Mitteljütland. Er ist Teil der zentralen Moränenlandschaft Dänemarks.",
       hu: "Kragelund Bakke egy elszigetelt domb Közép-Jütlandban. Dánia központi morénavidékének része.",
@@ -358,7 +358,7 @@ export const denmarkReliefV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Fakse Kalkbrud", hu: "Fakse Kalkbrud", ro: "Fakse Kalkbrud", en: "Fakse Kalkbrud" },
-    coordinates: { lat: 55.2511, lng: 12.1522 },
+    coords: [12.1522, 55.2511],
     description: {
       de: "Fakse Kalkbrud ist ein gigantischer Kalksteinbruch. Er zeigt tief liegende Schichten des dänischen Untergrunds.",
       hu: "Fakse Kalkbrud egy hatalmas mészkőbánya. Dánia aljzatának mélyen fekvő rétegeit tárja fel.",
@@ -390,7 +390,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Stendyssen", hu: "Stendyssen", ro: "Stendyssen", en: "Stendyssen" },
-    coordinates: { lat: 55.8555, lng: 11.5211 },
+    coords: [11.5211, 55.8555],
     description: {
       de: "Stendyssen ist ein natürlicher Hügel mit Megalithanlage. Er prägt das sanfte Relief der Umgebung auf Seeland.",
       hu: "Stendyssen egy természetes domb megalitikus építményekkel. Sjælland környékének enyhe domborzatát határozza meg.",
@@ -422,7 +422,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Jyske Ås", hu: "Jyske Ås", ro: "Jyske Ås", en: "Jyske Ås" },
-    coordinates: { lat: 57.2511, lng: 10.1522 },
+    coords: [10.1522, 57.2511],
     description: {
       de: "Jyske Ås ist ein markanter Höhenzug in Nordjütland. Er bildet eine wichtige Grenze innerhalb des flachen Reliefs.",
       hu: "Jyske Ås jellegzetes hegyvonulat Észak-Jütlandban. Fontos határt képez a sík domborzaton belül.",
@@ -454,7 +454,7 @@ export const denmarkReliefV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Knudshoved", hu: "Knudshoved", ro: "Knudshoved", en: "Knudshoved" },
-    coordinates: { lat: 55.3055, lng: 10.8522 },
+    coords: [10.8522, 55.3055],
     description: {
       de: "Knudshoved ist eine Landzunge östlich von Nyborg. Das Relief besteht aus flachen Küstenstrukturen am Großen Belt.",
       hu: "Knudshoved Nyborgtól keletre fekvő földnyelv. A domborzat a Nagy-Belt melletti lapos parti struktúrákból áll.",
@@ -486,7 +486,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Borre Bakkekam", hu: "Borre Bakkekam", ro: "Borre Bakkekam", en: "Borre Bakkekam" },
-    coordinates: { lat: 54.9855, lng: 12.5111 },
+    coords: [12.5111, 54.9855],
     description: {
       de: "Borre Bakkekam ist ein hügeliger Abschnitt auf der Insel Møn. Das Relief ist durch kalkhaltige Böden und Moränen geprägt.",
       hu: "Borre Bakkekam dombos szakasz Møn szigetén. A domborzatot mészben gazdag talajok és morénák jellemzik.",
@@ -518,7 +518,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Aars Høje", hu: "Aars Høje", ro: "Aars Høje", en: "Aars Høje" },
-    coordinates: { lat: 56.8011, lng: 9.5122 },
+    coords: [9.5122, 56.8011],
     description: {
       de: "Aars Høje bezeichnet eine Erhebung in der Nähe von Aars in Himmerland. Die Landschaft weist sanfte eiszeitliche Formen auf.",
       hu: "Aars Høje egy magaslatot jelöl Aars közelében, Himmerlandban. A táj szelíd jégkorszaki formákat mutat.",
@@ -550,7 +550,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Fur Bakke", hu: "Fur Bakke", ro: "Fur Bakke", en: "Fur Bakke" },
-    coordinates: { lat: 56.8255, lng: 9.0122 },
+    coords: [9.0122, 56.8255],
     description: {
       de: "Fur Bakke ist eine markante Erhebung auf der Insel Fur. Das Relief ist durch Diatomit-Schichten geologisch besonders.",
       hu: "Fur Bakke egy jellegzetes magaslat Fur szigetén. A domborzat geológiailag különleges a diatomitrétegek miatt.",
@@ -582,7 +582,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Dovre Høje", hu: "Dovre Høje", ro: "Dovre Høje", en: "Dovre Høje" },
-    coordinates: { lat: 56.5122, lng: 9.6522 },
+    coords: [9.6522, 56.5122],
     description: {
       de: "Dovre Høje ist eine Hügelgruppe in der Nähe von Randers. Die Formationen sind durch glaziale Prozesse entstanden.",
       hu: "Dovre Høje egy dombcsoport Randers közelében. A képződmények gleciális folyamatok során keletkeztek.",
@@ -614,7 +614,7 @@ export const denmarkReliefV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Boserup", hu: "Boserup", ro: "Boserup", en: "Boserup" },
-    coordinates: { lat: 55.6511, lng: 12.0122 },
+    coords: [12.0122, 55.6511],
     description: {
       de: "Boserup umfasst hügeliges Waldgebiet westlich von Roskilde. Das Relief ist durch sanfte Mulden und Kuppen definiert.",
       hu: "Boserup dombos erdőterületet foglal magában Roskildétől nyugatra. A domborzatot szelíd völgyek és csúcsok határozzák meg.",
@@ -646,7 +646,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Skovbjerg", hu: "Skovbjerg", ro: "Skovbjerg", en: "Skovbjerg" },
-    coordinates: { lat: 56.0511, lng: 8.7522 },
+    coords: [8.7522, 56.0511],
     description: {
       de: "Skovbjerg ist ein markanter Hügelrücken im Westen Jütlands. Er trennt verschiedene Entwässerungsbecken.",
       hu: "Skovbjerg jellegzetes dombhát Nyugat-Jütlandban. Különböző vízelvezető medencéket választ el.",
@@ -678,7 +678,7 @@ export const denmarkReliefV2: POI[] = [
     type: "landmark",
     parent: "DK",
     name: { de: "Harboøre Tange", hu: "Harboøre Tange", ro: "Harboøre Tange", en: "Harboøre Tange" },
-    coordinates: { lat: 56.6511, lng: 8.1522 },
+    coords: [8.1522, 56.6511],
     description: {
       de: "Harboøre Tange ist eine schmale Nehrung an der Nordsee. Das Relief besteht aus flachen Dünen und Strandwall-Systemen.",
       hu: "Harboøre Tange keskeny földsáv az Északi-tengeren. A domborzat lapos dűnékből és partsáncrendszerekből áll.",
@@ -710,7 +710,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Frøbjerg Bavnehøj", hu: "Frøbjerg Bavnehøj", ro: "Frøbjerg Bavnehøj", en: "Frøbjerg Bavnehøj" },
-    coordinates: { lat: 55.3511, lng: 10.1522 },
+    coords: [10.1522, 55.3511],
     description: {
       de: "Frøbjerg Bavnehøj ist der höchste Punkt auf der Insel Fünen. Die Landschaft um den Hügel ist von Moränen geprägt.",
       hu: "Frøbjerg Bavnehøj Fyn szigetének legmagasabb pontja. A domb körüli tájat morénák jellemzik.",
@@ -742,7 +742,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Tvilum Bakker", hu: "Tvilum Bakker", ro: "Tvilum Bakker", en: "Tvilum Bakker" },
-    coordinates: { lat: 56.2511, lng: 9.7522 },
+    coords: [9.7522, 56.2511],
     description: {
       de: "Tvilum Bakker sind hügelige Landschaften nahe Gudenå. Das Relief ist durch glaziale Erosion zerklüftet.",
       hu: "Tvilum Bakker dombos táj a Gudenå közelében. A domborzatot a gleciális erózió szaggatta meg.",
@@ -774,7 +774,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Skjoldhøj", hu: "Skjoldhøj", ro: "Skjoldhøj", en: "Skjoldhøj" },
-    coordinates: { lat: 56.1511, lng: 10.1522 },
+    coords: [10.1522, 56.1511],
     description: {
       de: "Skjoldhøj ist eine Anhöhe bei Aarhus. Sie ist ein Beispiel für die sanften Moränenhügel in Ostjütland.",
       hu: "Skjoldhøj egy magaslat Aarhus közelében. Kelet-Jütland szelíd morénadombjainak egyik példája.",
@@ -806,7 +806,7 @@ export const denmarkReliefV2: POI[] = [
     type: "valley",
     parent: "DK",
     name: { de: "Vognserup", hu: "Vognserup", ro: "Vognserup", en: "Vognserup" },
-    coordinates: { lat: 55.6511, lng: 11.6522 },
+    coords: [11.6522, 55.6511],
     description: {
       de: "Das Vognserup-Tal ist eine eiszeitlich geprägte Senke auf Seeland. Es zeichnet sich durch flache Wiesengelände aus.",
       hu: "A Vognserup-völgy jégkorszaki eredetű mélyedés Sjælland szigetén. Lapos réti területek jellemzik.",
@@ -838,7 +838,7 @@ export const denmarkReliefV2: POI[] = [
     type: "mountain",
     parent: "DK",
     name: { de: "Mols Bjerge", hu: "Mols Bjerge", ro: "Mols Bjerge", en: "Mols Bjerge" },
-    coordinates: { lat: 56.2055, lng: 10.5522 },
+    coords: [10.5522, 56.2055],
     description: {
       de: "Mols Bjerge ist eine hügelige Moränenlandschaft in Ostjütland. Sie entstand durch die letzte Eiszeit.",
       hu: "Mols Bjerge egy dombos morénavidék Kelet-Jütlandban. Az utolsó jégkorszak során keletkezett.",
@@ -870,7 +870,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Knuds Høje", hu: "Knuds Høje", ro: "Knuds Høje", en: "Knuds Høje" },
-    coordinates: { lat: 56.5511, lng: 10.3522 },
+    coords: [10.3522, 56.5511],
     description: {
       de: "Knuds Høje ist eine Gruppe von Erhebungen bei Mariager. Das Relief spiegelt die eiszeitliche Überformung wider.",
       hu: "Knuds Høje magaslatcsoport Mariager mellett. A domborzat tükrözi a jégkorszaki átalakulást.",
@@ -902,7 +902,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Ål Bakke", hu: "Ål Bakke", ro: "Ål Bakke", en: "Ål Bakke" },
-    coordinates: { lat: 56.4511, lng: 9.5522 },
+    coords: [9.5522, 56.4511],
     description: {
       de: "Ål Bakke ist ein Hügel in Mitteljütland. Die Region ist durch eiszeitliche Moränen gekennzeichnet.",
       hu: "Ål Bakke egy domb Közép-Jütlandban. A régiót jégkorszaki morénák jellemzik.",
@@ -934,7 +934,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Bindslev Bakke", hu: "Bindslev Bakke", ro: "Bindslev Bakke", en: "Bindslev Bakke" },
-    coordinates: { lat: 57.5511, lng: 10.1522 },
+    coords: [10.1522, 57.5511],
     description: {
       de: "Bindslev Bakke ist eine Anhöhe in Nordjütland. Das lokale Relief besteht aus sanft gewellten Moränenböden.",
       hu: "Bindslev Bakke egy magaslat Észak-Jütlandban. A helyi domborzat enyhén hullámos morénatalajokból áll.",
@@ -966,7 +966,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Gribskov Bakke", hu: "Gribskov Bakke", ro: "Gribskov Bakke", en: "Gribskov Bakke" },
-    coordinates: { lat: 56.0011, lng: 12.2522 },
+    coords: [12.2522, 56.0011],
     description: {
       de: "Gribskov Bakke ist eine bewaldete Anhöhe auf Seeland. Sie zeichnet sich durch eiszeitliche Moränenformen aus.",
       hu: "Gribskov Bakke egy erdős magaslat Sjælland szigetén. Jégkorszaki morénaformák jellemzik.",
@@ -998,7 +998,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Furesø Bakke", hu: "Furesø Bakke", ro: "Furesø Bakke", en: "Furesø Bakke" },
-    coordinates: { lat: 55.7811, lng: 12.4022 },
+    coords: [12.4022, 55.7811],
     description: {
       de: "Furesø Bakke bezeichnet hügelige Geländeformen nahe dem Furesø. Die Landschaft ist glazial geprägt.",
       hu: "Furesø Bakke dombos terepformákat jelöl a Furesø közelében. A táj gleciális jellegű.",
@@ -1030,7 +1030,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Brønshøj", hu: "Brønshøj", ro: "Brønshøj", en: "Brønshøj" },
-    coordinates: { lat: 55.6955, lng: 12.4811 },
+    coords: [12.4811, 55.6955],
     description: {
       de: "Brønshøj ist eine Anhöhe innerhalb der Kopenhagener Stadtregion. Das Relief ist ein natürliches Moränenplateau.",
       hu: "Brønshøj egy magaslat Koppenhága városrégióján belül. A domborzat egy természetes morénaplató.",
@@ -1062,7 +1062,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Slagelse Bakke", hu: "Slagelse Bakke", ro: "Slagelse Bakke", en: "Slagelse Bakke" },
-    coordinates: { lat: 55.4011, lng: 11.3522 },
+    coords: [11.3522, 55.4011],
     description: {
       de: "Slagelse Bakke ist ein Moränenhügel auf der Insel Seeland. Die Umgebung ist durch flache Hügel charakterisiert.",
       hu: "Slagelse Bakke morénadomb Sjælland szigetén. A környezetet lapos dombok jellemzik.",
@@ -1094,7 +1094,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Sorø Bakke", hu: "Sorø Bakke", ro: "Sorø Bakke", en: "Sorø Bakke" },
-    coordinates: { lat: 55.4255, lng: 11.5522 },
+    coords: [11.5522, 55.4255],
     description: {
       de: "Sorø Bakke ist ein Moränenhügel nahe der Stadt Sorø. Die Landschaft ist sanft gewellt und eiszeitlich geformt.",
       hu: "Sorø Bakke morénadomb Sorø városa közelében. A táj enyhén hullámos és jégkorszaki formájú.",
@@ -1126,7 +1126,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Roskilde Bakke", hu: "Roskilde Bakke", ro: "Roskilde Bakke", en: "Roskilde Bakke" },
-    coordinates: { lat: 55.6511, lng: 12.0522 },
+    coords: [12.0522, 55.6511],
     description: {
       de: "Roskilde Bakke ist ein flacher Hügelzug bei Roskilde. Das Relief ist durch glaziäre Ablagerungen auf Seeland geprägt.",
       hu: "Roskilde Bakke egy lapos dombsor Roskilde mellett. A domborzatot a Sjælland-szigeti gleciális üledékek jellemzik.",
@@ -1158,7 +1158,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Køge Bakke", hu: "Køge Bakke", ro: "Køge Bakke", en: "Køge Bakke" },
-    coordinates: { lat: 55.4511, lng: 12.1522 },
+    coords: [12.1522, 55.4511],
     description: {
       de: "Køge Bakke ist eine sanfte Anhöhe südlich von Køge. Das Relief spiegelt die eiszeitliche Moränenbildung wider.",
       hu: "Køge Bakke egy szelíd magaslat Køge-től délre. A domborzat a jégkorszaki morénaképződést tükrözi.",
@@ -1190,7 +1190,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Nordsjælland Bakke", hu: "Nordsjælland Bakke", ro: "Nordsjælland Bakke", en: "Nordsjælland Bakke" },
-    coordinates: { lat: 56.0511, lng: 12.3522 },
+    coords: [12.3522, 56.0511],
     description: {
       de: "Nordsjælland Bakke bezeichnet die hügelige Region im Norden Seelands. Die Landschaft ist eiszeitlich modelliert.",
       hu: "Nordsjælland Bakke Sjælland északi részének dombos régióját jelöli. A tájat jégkorszaki folyamatok modellezték.",
@@ -1222,7 +1222,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Kalundborg Bakke", hu: "Kalundborg Bakke", ro: "Kalundborg Bakke", en: "Kalundborg Bakke" },
-    coordinates: { lat: 55.6811, lng: 11.0822 },
+    coords: [11.0822, 55.6811],
     description: {
       de: "Kalundborg Bakke ist ein hügeliger Bereich bei Kalundborg. Das Relief umfasst eiszeitliche Moränenformationen.",
       hu: "Kalundborg Bakke dombos terület Kalundborg mellett. A domborzat jégkorszaki morénaképződményeket tartalmaz.",
@@ -1254,7 +1254,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Odsherred Bakke", hu: "Odsherred Bakke", ro: "Odsherred Bakke", en: "Odsherred Bakke" },
-    coordinates: { lat: 55.9011, lng: 11.6022 },
+    coords: [11.6022, 55.9011],
     description: {
       de: "Odsherred Bakke ist eine markante Hügellandschaft. Diese Geomorphologie entstand am Ende der letzten Eiszeit.",
       hu: "Odsherred Bakke jellegzetes dombvidék. Ez a geomorfológia az utolsó jégkorszak végén jött létre.",
@@ -1286,7 +1286,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Næstved Bakke", hu: "Næstved Bakke", ro: "Næstved Bakke", en: "Næstved Bakke" },
-    coordinates: { lat: 55.2211, lng: 11.7522 },
+    coords: [11.7522, 55.2211],
     description: {
       de: "Næstved Bakke bezeichnet eine Anhöhe bei Næstved. Die sanften Hügel sind Reste einer eiszeitlichen Moräne.",
       hu: "Næstved Bakke magaslatot jelöl Næstved mellett. A szelíd dombok egy jégkorszaki moréna maradványai.",
@@ -1318,7 +1318,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Vordingborg Bakke", hu: "Vordingborg Bakke", ro: "Vordingborg Bakke", en: "Vordingborg Bakke" },
-    coordinates: { lat: 55.0011, lng: 11.9022 },
+    coords: [11.9022, 55.0011],
     description: {
       de: "Vordingborg Bakke ist ein hügeliger Bereich nahe Vordingborg. Das Relief ist durch glaziale Prozesse auf Seeland geformt.",
       hu: "Vordingborg Bakke dombos terület Vordingborg közelében. A domborzatot a Sjælland-szigeti gleciális folyamatok formálták.",
@@ -1350,7 +1350,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Falster Bakke", hu: "Falster Bakke", ro: "Falster Bakke", en: "Falster Bakke" },
-    coordinates: { lat: 54.7511, lng: 11.9522 },
+    coords: [11.9522, 54.7511],
     description: {
       de: "Falster Bakke ist eine flache Anhöhe auf der Insel Falster. Das Relief ist typisch für die dänische Inselmoränenlandschaft.",
       hu: "Falster Bakke egy lapos magaslat Falster szigetén. A domborzat tipikus a dán szigeti morénavidékre.",
@@ -1382,7 +1382,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Lolland Bakke", hu: "Lolland Bakke", ro: "Lolland Bakke", en: "Lolland Bakke" },
-    coordinates: { lat: 54.7011, lng: 11.3522 },
+    coords: [11.3522, 54.7011],
     description: {
       de: "Lolland Bakke bezeichnet eine kleine Erhebung auf Lolland. Das Relief ist sehr flach und eiszeitlich geformt.",
       hu: "Lolland Bakke kis magaslatot jelöl Lollandon. A domborzat nagyon lapos és jégkorszaki formájú.",
@@ -1414,7 +1414,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Bornholm Bakke", hu: "Bornholm Bakke", ro: "Bornholm Bakke", en: "Bornholm Bakke" },
-    coordinates: { lat: 55.1511, lng: 14.8522 },
+    coords: [14.8522, 55.1511],
     description: {
       de: "Bornholm Bakke umfasst hügelige Gebiete auf der Insel Bornholm. Das Relief unterscheidet sich durch den felsigen Granituntergrund.",
       hu: "Bornholm Bakke dombos területeket foglal magában Bornholm szigetén. A domborzat a sziklás gránitaljzat miatt tér el.",
@@ -1446,7 +1446,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Alssund Bakke", hu: "Alssund Bakke", ro: "Alssund Bakke", en: "Alssund Bakke" },
-    coordinates: { lat: 54.9511, lng: 9.7522 },
+    coords: [9.7522, 54.9511],
     description: {
       de: "Alssund Bakke ist ein hügeliger Bereich bei Sonderburg. Das Relief ist durch eiszeitliche Moränen geprägt.",
       hu: "Alssund Bakke dombos terület Sønderborg közelében. A domborzatot jégkorszaki morénák jellemzik.",
@@ -1478,7 +1478,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Ærø Bakke", hu: "Ærø Bakke", ro: "Ærø Bakke", en: "Ærø Bakke" },
-    coordinates: { lat: 54.8511, lng: 10.4522 },
+    coords: [10.4522, 54.8511],
     description: {
       de: "Ærø Bakke ist eine Anhöhe auf der Insel Ærø. Die Landschaft besteht aus sanften Moränenhügeln.",
       hu: "Ærø Bakke magaslat Ærø szigetén. A táj szelíd morénadombokból áll.",
@@ -1510,7 +1510,7 @@ export const denmarkReliefV2: POI[] = [
     type: "peak",
     parent: "DK",
     name: { de: "Langø Bakke", hu: "Langø Bakke", ro: "Langø Bakke", en: "Langø Bakke" },
-    coordinates: { lat: 54.9011, lng: 11.2522 },
+    coords: [11.2522, 54.9011],
     description: {
       de: "Langø Bakke ist eine kleine Erhebung auf einer Halbinsel bei Lolland. Das Relief ist flach und maritim.",
       hu: "Langø Bakke kis magaslat egy Lolland melletti félszigeten. A domborzat lapos és tengeri.",

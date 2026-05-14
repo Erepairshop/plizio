@@ -6,7 +6,7 @@ export const irelandNatureV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Silvermines Mountains", hu: "Silvermines-hegység", ro: "Munții Silvermines", en: "Silvermines Mountains" },
-    coordinates: { lat: 52.755, lng: -8.188 },
+    coords: [-8.188, 52.755],
     description: {
       de: "Die Silvermines Mountains sind eine Bergkette in der Grafschaft Tipperary. Sie erreichen eine Höhe von bis zu 527 Metern am Gipfel des Keeper Hill.",
       hu: "A Silvermines-hegység egy hegylánc Tipperary megyében. Legmagasabb pontja, a Keeper Hill, 527 méter magas.",
@@ -38,7 +38,7 @@ export const irelandNatureV2: POI[] = [
     type: "lake",
     parent: "IE",
     name: { de: "Lough Gowna", hu: "Lough Gowna-tó", ro: "Lacul Gowna", en: "Lough Gowna" },
-    coordinates: { lat: 53.865, lng: -7.568 },
+    coords: [-7.568, 53.865],
     description: {
       de: "Lough Gowna ist ein verzweigter See an der Grenze der Grafschaften Cavan und Longford. Er ist bekannt für seinen Fischreichtum.",
       hu: "A Lough Gowna egy elágazó tó Cavan és Longford megye határán. Gazdag halállományáról ismert.",
@@ -70,7 +70,7 @@ export const irelandNatureV2: POI[] = [
     type: "river",
     parent: "IE",
     name: { de: "River Suir", hu: "Suir folyó", ro: "Râul Suir", en: "River Suir" },
-    coordinates: { lat: 52.264, lng: -7.001 },
+    coords: [-7.001, 52.264],
     description: {
       de: "Der River Suir ist einer der drei 'Schwesterflüsse' in Irland. Er fließt 185 Kilometer bis zur Mündung in den Atlantik.",
       hu: "A Suir folyó az Írország három 'nővérfolyója' egyike. 185 kilométer hosszan folyik az Atlanti-óceánba torkollásáig.",
@@ -102,7 +102,7 @@ export const irelandNatureV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve Anierin", hu: "Slieve Anierin-hegység", ro: "Munții Slieve Anierin", en: "Slieve Anierin" },
-    coordinates: { lat: 54.083, lng: -7.95 },
+    coords: [-7.95, 54.083],
     description: {
       de: "Slieve Anierin ist ein Berg in der Grafschaft Leitrim. Er erreicht eine Höhe von 585 Metern über dem Meeresspiegel.",
       hu: "A Slieve Anierin egy hegy Leitrim megyében. Tengerszint feletti magassága eléri az 585 métert.",
@@ -134,7 +134,7 @@ export const irelandNatureV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "Galtee Mountains", hu: "Galtee-hegység", ro: "Munții Galtee", en: "Galtee Mountains" },
-    coordinates: { lat: 52.366, lng: -8.133 },
+    coords: [-8.133, 52.366],
     description: {
       de: "Die Galtee Mountains sind die höchste landeinwärts gelegene Gebirgskette Irlands. Der höchste Gipfel ist der Galtymore.",
       hu: "A Galtee-hegység Írország legmagasabb szárazföldi hegylánca. Legmagasabb csúcsa a Galtymore.",
@@ -166,7 +166,7 @@ export const irelandNatureV2: POI[] = [
     type: "river",
     parent: "IE",
     name: { de: "River Lagan", hu: "Lagan folyó", ro: "Râul Lagan", en: "River Lagan" },
-    coordinates: { lat: 54.597, lng: -5.93 },
+    coords: [-5.93, 54.597],
     description: {
       de: "Der River Lagan entspringt in den Slieve Croob Bergen. Er fließt durch Belfast und mündet in den Belfast Lough.",
       hu: "A Lagan folyó a Slieve Croob hegyekben ered. Belfaston keresztül folyik, és a Belfast Lough öbölbe torkollik.",
@@ -198,7 +198,7 @@ export const irelandNatureV2: POI[] = [
     type: "lake",
     parent: "IE",
     name: { de: "Lough Erne", hu: "Lough Erne-tó", ro: "Lacul Erne", en: "Lough Erne" },
-    coordinates: { lat: 54.383, lng: -7.7 },
+    coords: [-7.7, 54.383],
     description: {
       de: "Lough Erne umfasst zwei verbundene Seen in Fermanagh. Der Fluss Erne fließt durch dieses System.",
       hu: "A Lough Erne két összekapcsolódó tóból áll Fermanagh megyében. Az Erne folyó ezen a rendszeren halad keresztül.",
@@ -230,7 +230,7 @@ export const irelandNatureV2: POI[] = [
     type: "mountain",
     parent: "IE",
     name: { de: "MacGillycuddy's Reeks", hu: "MacGillycuddy's Reeks-hegység", ro: "Munții MacGillycuddy's Reeks", en: "MacGillycuddy's Reeks" },
-    coordinates: { lat: 51.996, lng: -9.733 },
+    coords: [-9.733, 51.996],
     description: {
       de: "MacGillycuddy's Reeks ist das höchste Gebirge Irlands in Kerry. Es umfasst den höchsten Gipfel, Carrauntoohil.",
       hu: "A MacGillycuddy's Reeks a legmagasabb hegység Írországban, Kerry megyében. Itt található a legmagasabb csúcs, a Carrauntoohil.",

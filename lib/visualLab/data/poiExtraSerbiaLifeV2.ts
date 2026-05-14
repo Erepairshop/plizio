@@ -6,7 +6,7 @@ export const serbiaLifeV2: POI[] = [
     type: "park",
     parent: "RS",
     name: { de: "Tara Nationalpark", hu: "Tara Nemzeti Park", ro: "Parcul Național Tara", en: "Tara National Park" },
-    coordinates: { lat: 43.911, lng: 19.429 },
+    coords: [19.429, 43.911],
     description: {
       de: "Dieser Nationalpark erstreckt sich über ein bergiges Gebiet im Westen Serbiens. Er schützt seltene Pflanzenarten und Lebensräume der endemischen Pančić-Fichte.",
       hu: "Ez a nemzeti park Szerbia nyugati részén, hegyvidéki területen fekszik. Ritka növényfajokat és az endemikus szerb luc élőhelyét védi.",
@@ -38,7 +38,7 @@ export const serbiaLifeV2: POI[] = [
     type: "wildlife",
     parent: "RS",
     name: { de: "Zobnatica Gestüt", hu: "Zobnatica ménes", ro: "Herghelia Zobnatica", en: "Zobnatica Stud Farm" },
-    coordinates: { lat: 45.758, lng: 19.654 },
+    coords: [19.654, 45.758],
     description: {
       de: "Das Gestüt Zobnatica ist eines der ältesten Zentren für Pferdezucht in der Vojvodina. Es beherbergt ein Museum und eine große Reitanlage.",
       hu: "A Zobnatica ménes a Vajdaság egyik legrégebbi lótenyésztő központja. Múzeumot és egy nagy lovaglópályát is magában foglal.",
@@ -70,7 +70,7 @@ export const serbiaLifeV2: POI[] = [
     type: "wildlife",
     parent: "RS",
     name: { de: "Zasavica Feuchtgebiet", hu: "Zasavica vizes élőhely", ro: "Zona umedă Zasavica", en: "Zasavica Wetlands" },
-    coordinates: { lat: 44.966, lng: 19.533 },
+    coords: [19.533, 44.966],
     description: {
       de: "Dieses Reservat bei Sremska Mitrovica umfasst Überschwemmungsgebiete der Save. Es bietet Schutz für zahlreiche gefährdete Tierarten.",
       hu: "Ez a Szávaszentdemeter melletti rezervátum a Száva árterületeit foglalja magában. Számos veszélyeztetett állatfajnak nyújt menedéket.",
@@ -102,7 +102,7 @@ export const serbiaLifeV2: POI[] = [
     type: "wildlife",
     parent: "RS",
     name: { de: "Tierpark Palić", hu: "Palicsi Állatkert", ro: "Grădina Zoologică Palić", en: "Palić Zoo" },
-    coordinates: { lat: 46.101, lng: 19.768 },
+    coords: [19.768, 46.101],
     description: {
       de: "Der Tierpark liegt nahe dem Palić-See und ist für seine großzügigen Gehege bekannt. Er beherbergt zahlreiche einheimische und exotische Arten.",
       hu: "Az állatkert a Palicsi-tó közelében található, tágas kifutóiról ismert. Számos hazai és egzotikus fajnak ad otthont.",
@@ -134,7 +134,7 @@ export const serbiaLifeV2: POI[] = [
     type: "park",
     parent: "RS",
     name: { de: "Naturpark Golija", hu: "Golija Természetvédelmi Park", ro: "Parcul Natural Golija", en: "Golija Nature Park" },
-    coordinates: { lat: 43.333, lng: 20.25 },
+    coords: [20.25, 43.333],
     description: {
       de: "Der Naturpark umfasst das Golija-Gebirge im Südwesten Serbiens. Das Gebiet ist bekannt für seine unberührten Wälder und hohe Biodiversität.",
       hu: "A természetvédelmi park a délnyugat-szerbiai Golija-hegységet foglalja magában. A terület érintetlen erdőiről és magas biodiverzitásáról ismert.",
@@ -166,7 +166,7 @@ export const serbiaLifeV2: POI[] = [
     type: "park",
     parent: "RS",
     name: { de: "Botanischer Garten Jevremovac", hu: "Jevremovac Botanikus Kert", ro: "Grădina Botanică Jevremovac", en: "Jevremovac Botanical Garden" },
-    coordinates: { lat: 44.815, lng: 20.478 },
+    coords: [20.478, 44.815],
     description: {
       de: "Dieser Botanische Garten im Zentrum Belgrads beherbergt ein historisches Gewächshaus aus dem 19. Jahrhundert. Er dient der wissenschaftlichen Forschung.",
       hu: "Ez a belgrádi botanikus kert egy 19. századi történelmi üvegháznak ad otthont. Tudományos kutatások helyszíne.",
@@ -198,7 +198,7 @@ export const serbiaLifeV2: POI[] = [
     type: "park",
     parent: "RS",
     name: { de: "Naturpark Stara Planina", hu: "Stara Planina Park", ro: "Parcul Natural Stara Planina", en: "Stara Planina Nature Park" },
-    coordinates: { lat: 43.375, lng: 22.583 },
+    coords: [22.583, 43.375],
     description: {
       de: "Der Park erstreckt sich entlang der Grenze zu Bulgarien. Er ist geprägt von Hochgebirgslandschaften, Wasserfällen und seltenen Pflanzen.",
       hu: "A park a bolgár határ mentén húzódik. Magashegyi tájak, vízesések és ritka növények jellemzik.",
@@ -230,7 +230,7 @@ export const serbiaLifeV2: POI[] = [
     type: "wildlife",
     parent: "RS",
     name: { de: "Reservat Carska Bara", hu: "Carska Bara rezervátum", ro: "Rezervația Carska Bara", en: "Carska Bara Reserve" },
-    coordinates: { lat: 45.241, lng: 20.354 },
+    coords: [20.354, 45.241],
     description: {
       de: "Das Reservat bei Zrenjanin ist ein bedeutendes Feuchtgebiet. Es ist ein wichtiger Lebensraum für Zugvögel und seltene Fischarten.",
       hu: "A Nagybecskerek melletti rezervátum jelentős vizes élőhely. Fontos élőhely a vonuló madarak és ritka halfajok számára.",
@@ -262,7 +262,7 @@ export const serbiaLifeV2: POI[] = [
     type: "park",
     parent: "RS",
     name: { de: "Naturschutzgebiet Ovčar-Kablar", hu: "Ovčar-Kablar Természetvédelmi Terület", ro: "Rezervația Ovčar-Kablar", en: "Ovčar-Kablar Nature Reserve" },
-    coordinates: { lat: 43.899, lng: 20.198 },
+    coords: [20.198, 43.899],
     description: {
       de: "Dieses Gebiet entlang der Westlichen Morava zeichnet sich durch steile Schluchten aus. Es beheimatet eine reiche Vielfalt an Flora und Fauna.",
       hu: "Ez a Nyugati-Morava menti terület meredek szurdokairól ismert. Gazdag flóra és fauna otthona.",
@@ -294,7 +294,7 @@ export const serbiaLifeV2: POI[] = [
     type: "wildlife",
     parent: "RS",
     name: { de: "Große Kriegsinsel", hu: "Nagy-Had-sziget", ro: "Insula Mare de Război", en: "Great War Island" },
-    coordinates: { lat: 44.826, lng: 20.436 },
+    coords: [20.436, 44.826],
     description: {
       de: "Die Insel liegt an der Mündung der Save in die Donau in Belgrad. Sie dient als wichtiges Vogelschutzgebiet inmitten der Stadt.",
       hu: "A sziget Belgrádban, a Száva és a Duna torkolatánál fekszik. Fontos madárvédelmi terület a város szívében.",
@@ -326,7 +326,7 @@ export const serbiaLifeV2: POI[] = [
     type: "park",
     parent: "RS",
     name: { de: "Nationalpark Kopaonik", hu: "Kopaonik Nemzeti Park", ro: "Parcul Național Kopaonik", en: "Kopaonik National Park" },
-    coordinates: { lat: 43.275, lng: 20.814 },
+    coords: [20.814, 43.275],
     description: {
       de: "Dieser Park schützt das höchste Gebirgsmassiv Serbiens. Er bietet einzigartige subalpine Vegetationszonen und seltene Tierarten.",
       hu: "Ez a park Szerbia legmagasabb hegységét védi. Egyedi szubalpin növényzeti zónákat és ritka állatfajokat kínál.",
@@ -358,7 +358,7 @@ export const serbiaLifeV2: POI[] = [
     type: "park",
     parent: "RS",
     name: { de: "Nationalpark Fruška Gora", hu: "Fruška Gora Nemzeti Park", ro: "Parcul Național Fruška Gora", en: "Fruška Gora National Park" },
-    coordinates: { lat: 45.15, lng: 19.7 },
+    coords: [19.7, 45.15],
     description: {
       de: "Dieser Nationalpark liegt auf einer bewaldeten Insel im Tiefland der Vojvodina. Er ist bekannt für seine Klöster und Eichenwälder.",
       hu: "Ez a nemzeti park a vajdasági alföld erdős szigetén fekszik. Kolostorairól és tölgyeseiről ismert.",
@@ -390,7 +390,7 @@ export const serbiaLifeV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Teufelsstadt", hu: "Ördögváros", ro: "Orașul Diavolului", en: "Devil's Town" },
-    coordinates: { lat: 42.992, lng: 21.406 },
+    coords: [21.406, 42.992],
     description: {
       de: "Dieses Naturphänomen besteht aus einzigartigen Erdpyramiden im Süden Serbiens. Es ist ein geschütztes geologisches Naturdenkmal.",
       hu: "Ez a természeti jelenség egyedi földpiramisokból áll Szerbia déli részén. Védett geológiai természeti emlék.",
@@ -422,7 +422,7 @@ export const serbiaLifeV2: POI[] = [
     type: "wildlife",
     parent: "RS",
     name: { de: "Uvac Schlucht", hu: "Uvac szurdok", ro: "Defileul Uvac", en: "Uvac Canyon" },
-    coordinates: { lat: 43.342, lng: 19.932 },
+    coords: [19.932, 43.342],
     description: {
       de: "Die Schlucht des Flusses Uvac ist bekannt für ihre mäandernden Flussläufe. Sie ist ein wichtiges Refugium für den Gänsegeier.",
       hu: "Az Uvac folyó szurdoka kanyargós folyómedréről ismert. Fontos menedékhely a fakókeselyű számára.",
@@ -454,7 +454,7 @@ export const serbiaLifeV2: POI[] = [
     type: "park",
     parent: "RS",
     name: { de: "Nationalpark Đerdap", hu: "Đerdap Nemzeti Park", ro: "Parcul Național Porțile de Fier", en: "Đerdap National Park" },
-    coordinates: { lat: 44.595, lng: 22.115 },
+    coords: [22.115, 44.595],
     description: {
       de: "Dieser Park umfasst das Eiserne Tor an der Donau. Er ist bekannt für seine beeindruckenden Schluchten und archäologische Stätten.",
       hu: "Ez a park a Duna menti Vaskaput foglalja magában. Lenyűgöző szurdokairól és régészeti lelőhelyeiről ismert.",
@@ -486,7 +486,7 @@ export const serbiaLifeV2: POI[] = [
     type: "wildlife",
     parent: "RS",
     name: { de: "Rospi Ćuprija Feuchtgebiet", hu: "Rospi Ćuprija vizes élőhely", ro: "Zona umedă Rospi Ćuprija", en: "Rospi Ćuprija Wetlands" },
-    coordinates: { lat: 44.811, lng: 20.525 },
+    coords: [20.525, 44.811],
     description: {
       de: "Ein kleines, aber bedeutendes ökologisches Gebiet am Stadtrand von Belgrad. Es bietet Raum für diverse Vogelarten nahe der Donau.",
       hu: "Egy kis, de jelentős ökológiai terület Belgrád peremén. Különböző madárfajoknak ad otthont a Duna közelében.",
@@ -518,7 +518,7 @@ export const serbiaLifeV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Valjevo-Gebirge", hu: "Valjevói-hegység", ro: "Munții Valjevo", en: "Valjevo Mountains" },
-    coordinates: { lat: 44.201, lng: 19.85 },
+    coords: [19.85, 44.201],
     description: {
       de: "Dieses Bergland im Westen Serbiens bietet dichte Wälder und unberührte Natur. Es ist ein beliebtes Ziel für Outdoor-Aktivitäten.",
       hu: "Ez a szerbiai hegyvidék sűrű erdőket és érintetlen természetet kínál. Kedvelt úticél a szabadtéri tevékenységekhez.",
@@ -550,7 +550,7 @@ export const serbiaLifeV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Banjska Stena Aussichtspunkt", hu: "Banjska Stena kilátó", ro: "Punctul de belvedere Banjska Stena", en: "Banjska Stena viewpoint" },
-    coordinates: { lat: 43.951, lng: 19.395 },
+    coords: [19.395, 43.951],
     description: {
       de: "Dieser Aussichtspunkt im Tara-Nationalpark bietet einen Blick über den Canyon des Drina-Flusses. Er ist ein bekanntes Naturdenkmal.",
       hu: "Ez a Tara Nemzeti Parkban található kilátó a Drina-folyó kanyonjára nyújt kilátást. Ismert természeti emlék.",
@@ -582,7 +582,7 @@ export const serbiaLifeV2: POI[] = [
     type: "park",
     parent: "RS",
     name: { de: "Naturpark Zlatibor", hu: "Zlatibor Természetvédelmi Park", ro: "Parcul Natural Zlatibor", en: "Zlatibor Nature Park" },
-    coordinates: { lat: 43.666, lng: 19.7 },
+    coords: [19.7, 43.666],
     description: {
       de: "Zlatibor ist ein Hochplateau in Westserbien, bekannt für sein spezifisches Mikroklima. Es wird intensiv zur Erholung genutzt.",
       hu: "Zlatibor egy nyugat-szerbiai fennsík, amely sajátos mikroklímájáról ismert. Intenzíven használják pihenésre.",
@@ -614,7 +614,7 @@ export const serbiaLifeV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Cer-Gebirge", hu: "Cer-hegység", ro: "Munții Cer", en: "Cer Mountain" },
-    coordinates: { lat: 44.575, lng: 19.583 },
+    coords: [19.583, 44.575],
     description: {
       de: "Das Cer-Gebirge liegt in der Nähe von Šabac. Es ist weitgehend bewaldet und bietet Lebensraum für zahlreiche Tiere.",
       hu: "A Cer-hegység Szabács közelében található. Jórészt erdősült, és számos állatnak ad otthont.",
@@ -646,7 +646,7 @@ export const serbiaLifeV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Besna Kobila", hu: "Besna Kobila", ro: "Besna Kobila", en: "Besna Kobila" },
-    coordinates: { lat: 42.558, lng: 22.216 },
+    coords: [22.216, 42.558],
     description: {
       de: "Dieser Berg liegt im Südosten Serbiens bei Vranje. Er ist für seine raue, unberührte Natur bekannt.",
       hu: "Ez a hegy Szerbia délkeleti részén, Vranje közelében található. Zord, érintetlen természetéről ismert.",
@@ -678,7 +678,7 @@ export const serbiaLifeV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Wasserfälle der Stara Planina", hu: "Stara Planina vízesései", ro: "Cascadele din Stara Planina", en: "Stara Planina Waterfalls" },
-    coordinates: { lat: 43.35, lng: 22.65 },
+    coords: [22.65, 43.35],
     description: {
       de: "Die Region der Stara Planina beherbergt zahlreiche Wasserfälle. Sie sind in tiefen Schluchten verborgen und sehr schwer zugänglich.",
       hu: "A Stara Planina régiója számos vízesést rejt. Mély szurdokokban rejtőznek és nagyon nehezen megközelíthetők.",
@@ -710,7 +710,7 @@ export const serbiaLifeV2: POI[] = [
     type: "river",
     parent: "RS",
     name: { de: "Fluss Tamiš", hu: "Temes-folyó", ro: "Râul Tamiș", en: "Tamiš River" },
-    coordinates: { lat: 45.15, lng: 20.65 },
+    coords: [20.65, 45.15],
     description: {
       de: "Der Tamiš fließt durch die Vojvodina in Richtung Donau. Er bildet ein wichtiges Ökosystem mit vielen Auwäldern.",
       hu: "A Temes a Vajdaságon keresztül folyik a Duna felé. Fontos ökoszisztémát alkot sok ártéri erdővel.",
@@ -742,7 +742,7 @@ export const serbiaLifeV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Suva Planina", hu: "Suva Planina", ro: "Suva Planina", en: "Suva Planina" },
-    coordinates: { lat: 43.25, lng: 22.15 },
+    coords: [22.15, 43.25],
     description: {
       de: "Suva Planina heißt übersetzt 'Trockenes Gebirge'. Es ist bekannt für seine karge Karstlandschaft und seltene Flora.",
       hu: "A Suva Planina magyarul 'Száraz-hegységet' jelent. Kopár karsztvidékéről és ritka növényvilágáról ismert.",
@@ -774,7 +774,7 @@ export const serbiaLifeV2: POI[] = [
     type: "lake",
     parent: "RS",
     name: { de: "Vlasina-See", hu: "Vlasina-tó", ro: "Lacul Vlasina", en: "Vlasina Lake" },
-    coordinates: { lat: 42.7, lng: 22.33 },
+    coords: [22.33, 42.7],
     description: {
       de: "Dieser künstliche See liegt auf einer Hochebene in Südostserbien. Er ist bekannt für seine schwimmenden Inseln aus Torf.",
       hu: "Ez a mesterséges tó Délkelet-Szerbia egyik fennsíkján fekszik. Tőzegből álló úszó szigeteiről ismert.",
@@ -806,7 +806,7 @@ export const serbiaLifeV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Goč-Gebirge", hu: "Goč-hegység", ro: "Munții Goč", en: "Goč Mountain" },
-    coordinates: { lat: 43.55, lng: 20.65 },
+    coords: [20.65, 43.55],
     description: {
       de: "Goč liegt südlich von Vrnjačka Banja. Es ist ein bewaldetes Berggebiet, das für Erholung und Forstwirtschaft genutzt wird.",
       hu: "Goč Vrnjačka Banja-tól délre fekszik. Erdős hegyvidék, amelyet pihenésre és erdőgazdálkodásra használnak.",
@@ -838,7 +838,7 @@ export const serbiaLifeV2: POI[] = [
     type: "forest",
     parent: "RS",
     name: { de: "Grmija-Wald", hu: "Grmija-erdő", ro: "Pădurea Grmija", en: "Grmija Forest" },
-    coordinates: { lat: 42.66, lng: 21.22 },
+    coords: [21.22, 42.66],
     description: {
       de: "Ein großes Waldgebiet in der Nähe von Priština. Es dient als Erholungsort und schützt die lokale Biodiversität.",
       hu: "Nagy erdőterület Priština közelében. Pihenőhelyként szolgál és védi a helyi biodiverzitást.",
@@ -870,7 +870,7 @@ export const serbiaLifeV2: POI[] = [
     type: "park",
     parent: "RS",
     name: { de: "Zobnatica Park", hu: "Zobnatica Park", ro: "Parcul Zobnatica", en: "Zobnatica Park" },
-    coordinates: { lat: 45.755, lng: 19.65 },
+    coords: [19.65, 45.755],
     description: {
       de: "Das Parkgelände umgibt das Gestüt Zobnatica. Es umfasst Grünflächen, einen künstlichen See und Wälder.",
       hu: "A parkterület a Zobnatica ménest veszi körül. Zöldterületeket, egy mesterséges tavat és erdőket foglal magában.",
@@ -902,7 +902,7 @@ export const serbiaLifeV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Serbische Rila-Ausläufer", hu: "Szerb Rila-hegység", ro: "Munții Rila din Serbia", en: "Serbian Rila foothills" },
-    coordinates: { lat: 42.35, lng: 22.35 },
+    coords: [22.35, 42.35],
     description: {
       de: "Ausläufer der Rila im Südosten Serbiens an der Grenze. Geprägt durch wilde Berglandschaften und abgelegene Täler.",
       hu: "A Rila-hegység nyúlványai Délkelet-Szerbiában, a határ mentén. Vad hegyi tájak és elszigetelt völgyek jellemzik.",

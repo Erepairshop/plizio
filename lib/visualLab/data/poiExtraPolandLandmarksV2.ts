@@ -9,7 +9,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Königsschloss Warschau", hu: "Varsói királyi vár", ro: "Castelul Regal din Varșovia", en: "Royal Castle in Warsaw"},
     image: "/poi-images/poland-warsaw-royal-castle-landmarks-v2.webp",
     coords: [21.0142, 52.2478],
-    coordinates: { lat: 52.2478, lng: 21.0142 },
+    coords: [21.0142, 52.2478],
     description: {
       de: "Das Warschauer Königsschloss markiert den Eingang zur Altstadt und war die offizielle Residenz der polnischen Monarchen. Es wurde nach der Zerstörung im Zweiten Weltkrieg vollständig rekonstruiert.",
       hu: "A varsói óváros bejáratánál álló királyi vár a lengyel uralkodók hivatalos rezidenciája volt. A második világháborús pusztítás után teljesen újjáépítették.",
@@ -42,7 +42,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Kultur- und Wissenschaftspalast", hu: "Kultúra és Tudomány Palotája", ro: "Palatul Culturii și Științei", en: "Palace of Culture and Science"},
     image: "/poi-images/poland-palace-culture-science-landmarks-v2.webp",
     coords: [21.0061, 52.2317],
-    coordinates: { lat: 52.2317, lng: 21.0061 },
+    coords: [21.0061, 52.2317],
     description: {
       de: "Der Kulturpalast ist das bekannteste Wahrzeichen Warschaus und ein Beispiel für den sozialistischen Klassizismus. Er war ein Geschenk der Sowjetunion an das polnische Volk.",
       hu: "Varsó legismertebb jelképe, a szocialista klasszicista építészet kiemelkedő példája. Az épület a Szovjetunió ajándéka volt a lengyel népnek.",
@@ -75,7 +75,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Marienkirche Krakau", hu: "Mária-templom (Krakkó)", ro: "Biserica Sfânta Maria din Cracovia", en: "St. Mary's Basilica"},
     image: "/poi-images/poland-mariacka-basilica-krakow-landmarks-v2.webp",
     coords: [19.9392, 50.0617],
-    coordinates: { lat: 50.0617, lng: 19.9392 },
+    coords: [19.9392, 50.0617],
     description: {
       de: "Diese gotische Basilika am Krakauer Hauptmarkt ist berühmt für ihren Hochaltar von Veit Stoß und das stündliche Trompetensignal Hejnał.",
       hu: "A krakkói főtéren álló gótikus bazilika híres a Veit Stoß által készített szárnyasoltáráról és az óránként felhangzó Hejnał kürtjelről.",
@@ -108,7 +108,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Krantor Danzig", hu: "Danzigi daru", ro: "Macaraua din Gdańsk", en: "The Crane in Gdańsk"},
     image: "/poi-images/poland-gdansk-crane-landmarks-v2.webp",
     coords: [18.6575, 54.3512],
-    coordinates: { lat: 54.3512, lng: 18.6575 },
+    coords: [18.6575, 54.3512],
     description: {
       de: "Das Krantor ist ein historisches Stadttor mit Kranfunktion am Ufer der Mottlau. Es ist das Symbol der maritimen Geschichte von Danzig.",
       hu: "A Mottlau folyó partján álló daru egy történelmi városkapu és emelőszerkezet. Gdańsk tengeri kereskedelmi múltjának legfontosabb jelképe.",
@@ -141,7 +141,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Jahrhunderthalle Breslau", hu: "Centenáriumi Csarnok", ro: "Hala Centenarului din Wrocław", en: "Centennial Hall"},
     image: "/poi-images/poland-wroclaw-centennial-hall-landmarks-v2.webp",
     coords: [17.0772, 51.1069],
-    coordinates: { lat: 51.1069, lng: 17.0772 },
+    coords: [17.0772, 51.1069],
     description: {
       de: "Die Jahrhunderthalle ist ein Pionierbauwerk des modernen Stahlbetonbaus. Sie wurde zum 100. Jahrestag der Völkerschlacht bei Leipzig errichtet.",
       hu: "A modern vasbeton építészet úttörő alkotása Wrocławban. A lipcsei népek csatája 100. évfordulójának emlékére épült.",
@@ -174,7 +174,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Krakauer Tuchhallen", hu: "Posztócsarnok (Krakkó)", ro: "Hala de Pânzeturi din Cracovia", en: "Cloth Hall (Sukiennice)"},
     image: "/poi-images/poland-cloth-hall-krakow-landmarks-v2.webp",
     coords: [19.9373, 50.0617],
-    coordinates: { lat: 50.0617, lng: 19.9373 },
+    coords: [19.9373, 50.0617],
     description: {
       de: "Die Tuchhallen in der Mitte des Krakauer Hauptmarktes sind eines der ältesten Einkaufszentren der Welt. Das Gebäude ist ein herausragendes Beispiel der Renaissance-Architektur.",
       hu: "A krakkói főtér közepén álló Posztócsarnok a világ egyik legrégebbi kereskedelmi központja. Az épület a reneszánsz építészet kiemelkedő példája.",
@@ -207,7 +207,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Neptunbrunnen Danzig", hu: "Neptun-kút (Gdańsk)", ro: "Fântâna lui Neptun din Gdańsk", en: "Neptune's Fountain"},
     image: "/poi-images/poland-neptune-fountain-gdansk-landmarks-v2.webp",
     coords: [18.6533, 54.3486],
-    coordinates: { lat: 54.3486, lng: 18.6533 },
+    coords: [18.6533, 54.3486],
     description: {
       de: "Dieser Bronzebrunnen aus dem 17. Jahrhundert steht vor dem Artushof in Danzig. Er symbolisiert die enge Verbindung der Hansestadt mit dem Meer.",
       hu: "Ez a 17. századi bronzkút a gdański Artus-udvar előtt áll. A város és a tenger közötti szoros kapcsolatot jelképezi.",
@@ -240,7 +240,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Rathaus von Zamość", hu: "Zamośći városháza", ro: "Primăria din Zamość", en: "Zamość Town Hall"},
     image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp",
     coords: [23.2524, 50.7169],
-    coordinates: { lat: 50.7169, lng: 23.2524 },
+    coords: [23.2524, 50.7169],
     description: {
       de: "Das Rathaus von Zamość mit seiner charakteristischen Freitreppe ist das Symbol der 'idealen Stadt' der Renaissance. Es dominiert den Großen Marktplatz.",
       hu: "A jellegzetes kétkarú lépcsőjével díszített zamośći városháza a reneszánsz 'ideális város' jelképe. Az épület uralja a város főterét.",
@@ -273,7 +273,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Burg Niedzica", hu: "Nedec vára", ro: "Castelul Niedzica", en: "Niedzica Castle"},
     image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp",
     coords: [20.3208, 49.4225],
-    coordinates: { lat: 49.4225, lng: 20.3208 },
+    coords: [20.3208, 49.4225],
     description: {
       de: "Die Burg Niedzica, auch bekannt als Burg Dunajec, liegt am Ufer des Czorsztyn-Stausees. Sie ist eine mittelalterliche Festung mit einer reichen Legendenwelt.",
       hu: "A Dunajec-várként is ismert nedeci vár a Czorsztyni-víztározó partján fekszik. A középkori erődítmény számos legenda, köztük egy inka kincs történetének helyszíne.",
@@ -306,7 +306,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Rathaus von Posen", hu: "Poznańi városháza", ro: "Primăria din Poznań", en: "Poznań Town Hall"},
     image: "/poi-images/poland-poznan-town-hall-landmarks-v2.webp",
     coords: [16.9342, 52.4085],
-    coordinates: { lat: 52.4085, lng: 16.9342 },
+    coords: [16.9342, 52.4085],
     description: {
       de: "Das Rathaus von Posen am Alten Markt ist ein Juwel der Renaissance-Architektur. Es ist weltberühmt für die mechanischen Ziegenböcke, die mittags am Turm erscheinen.",
       hu: "A poznańi Ópiacon álló városháza a reneszánsz építészet egyik gyöngyszeme. Világhírét a toronyban délben megjelenő mechanikus bakkecskéknek köszönheti.",
@@ -339,7 +339,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Panorama von Racławice", hu: "Racławicei körkép", ro: "Panorama de la Racławice", en: "Racławice Panorama"},
     image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp",
     coords: [17.0442, 51.1102],
-    coordinates: { lat: 51.1102, lng: 17.0442 },
+    coords: [17.0442, 51.1102],
     description: {
       de: "Das Panorama von Racławice in Breslau ist ein monumentales Rundgemälde, das den Sieg der polnischen Aufständischen über die russische Armee im Jahr 1794 darstellt.",
       hu: "A wrocławi Racławicei körkép egy monumentális körfestmény, amely az 1794-es oroszok elleni győztes csatát ábrázolja. Az alkotás 114 méter hosszú.",
@@ -372,7 +372,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Burg Ogrodzieniec", hu: "Ogrodzieniec vára", ro: "Castelul Ogrodzieniec", en: "Ogrodzieniec Castle"},
     image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp",
     coords: [19.5517, 50.4533],
-    coordinates: { lat: 50.4533, lng: 19.5517 },
+    coords: [19.5517, 50.4533],
     description: {
       de: "Die Burgruine Ogrodzieniec ist die größte und beeindruckendste Anlage auf der Route der Adlerhorste. Die Ruine ist spektakulär in Kalksteinfelsen eingebettet.",
       hu: "Az Ogrodzieniec várrom a Sasfészkek útvonalának legnagyobb és leglátványosabb tagja. A romok lenyűgöző módon simulnak a mészkősziklák közé.",
@@ -405,7 +405,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Burg Tzschocha", hu: "Czocha vára", ro: "Castelul Czocha", en: "Czocha Castle"},
     image: "/poi-images/poland-czocha-castle-landmarks-v2.webp",
     coords: [15.3039, 51.0311],
-    coordinates: { lat: 51.0311, lng: 15.3039 },
+    coords: [15.3039, 51.0311],
     description: {
       de: "Die Burg Czocha ist eine mittelalterliche Verteidigungsburg in Niederschlesien. Sie ist bekannt für ihre geheimen Gänge und wird oft als 'polnisches Hogwarts' bezeichnet.",
       hu: "Czocha vára egy középkori erődítmény Alsó-Sziléziában. Titkos átjáróiról ismert, és gyakran nevezik 'lengyel Roxfortnak' a rajta tartott események miatt.",
@@ -438,7 +438,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Schloss Moschen", hu: "Moszna-kastély", ro: "Castelul Moszna", en: "Moszna Castle"},
     image: "/poi-images/poland-moszna-castle-landmarks-v2.webp",
     coords: [17.7686, 50.4447],
-    coordinates: { lat: 50.4447, lng: 17.7686 },
+    coords: [17.7686, 50.4447],
     description: {
       de: "Das Schloss in Moszna ist eine eklektische Residenz, die für ihre 99 Türme und prachtvolle Parkanlage bekannt ist. Es sieht aus wie ein Märchenschloss aus einem Disney-Film.",
       hu: "A mosznai kastély egy eklektikus stílusú rezidencia, amely 99 tornyáról és gyönyörű parkjáról híres. Leginkább egy Disney-filmekbe illő mesekastélyra hasonlít.",
@@ -472,7 +472,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Schloss Kórnik", hu: "Kórniki vár", ro: "Castelul Kórnik", en: "Kórnik Castle"},
     image: "/poi-images/poland-kornik-castle-landmarks-v2.webp",
     coords: [17.0911, 52.2444],
-    coordinates: { lat: 52.2444, lng: 17.0911 },
+    coords: [17.0911, 52.2444],
     description: {
       de: "Schloss Kórnik ist eine neugotische Residenz, die für ihre wertvolle Bibliothek und das berühmte Arboretum bekannt ist. Die Architektur wurde vom englischen Tudor-Stil inspiriert.",
       hu: "A kórniki vár egy neogótikus rezidencia, amely értékes könyvtáráról és híres arborétumáról ismert. Az épület stílusát az angol Tudor-stílus ihlette.",
@@ -505,7 +505,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Artushof Danzig", hu: "Artus-udvar (Gdańsk)", ro: "Curtea lui Artus din Gdańsk", en: "Artus Court"},
     image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp",
     coords: [18.6536, 54.3486],
-    coordinates: { lat: 54.3486, lng: 18.6536 },
+    coords: [18.6536, 54.3486],
     description: {
       de: "Der Artushof war früher das Zentrum des gesellschaftlichen Lebens der Danziger Kaufleute. Er befindet sich am Langen Markt neben dem Rathaus.",
       hu: "Az Artus-udvar egykor a gdański kereskedők társasági életének központja volt. A Hosszú piacon található, közvetlenül a városháza szomszédságában.",
@@ -538,7 +538,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Schloss Pieskowa Skała", hu: "Pieskowa Skała vára", ro: "Castelul Pieskowa Skała", en: "Pieskowa Skała Castle"},
     image: "/poi-images/poland-pieskowa-skala-castle-landmarks-v2.webp",
     coords: [19.7806, 50.2444],
-    coordinates: { lat: 50.2444, lng: 19.7806 },
+    coords: [19.7806, 50.2444],
     description: {
       de: "Pieskowa Skała ist ein gut erhaltenes Renaissance-Schloss im Nationalpark Ojców. Es liegt malerisch auf einem Felsen oberhalb des Prądnik-Tals.",
       hu: "Pieskowa Skała egy kiváló állapotban fennmaradt reneszánsz kastély az Ojcówi Nemzeti Parkban. Festői környezetben, a Prądnik-völgy feletti sziklán áll.",
@@ -571,7 +571,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Schloss Lublin", hu: "Lublini vár", ro: "Castelul din Lublin", en: "Lublin Castle"},
     image: "/poi-images/poland-lublin-castle-landmarks-v2.webp",
     coords: [22.5719, 51.2503],
-    coordinates: { lat: 51.2503, lng: 22.5719 },
+    coords: [22.5719, 51.2503],
     description: {
       de: "Das Schloss Lublin ist eine historische Festungsanlage auf einem Hügel. Es beherbergt die Kapelle der Heiligen Dreifaltigkeit mit ihren einzigartigen russisch-byzantinischen Fresken.",
       hu: "A lublini vár egy dombtetőn álló történelmi erődítmény. Itt található a Szentháromság-kápolna, amely egyedülálló orosz-bizánci freskóiról híres.",
@@ -604,7 +604,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Gotische Brücke in Kłodzko", hu: "Kłodzkói gótikus híd", ro: "Podul Gotic din Kłodzko", en: "Gothic Bridge in Kłodzko"},
     image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp",
     coords: [16.6547, 50.4389],
-    coordinates: { lat: 50.4389, lng: 16.6547 },
+    coords: [16.6547, 50.4389],
     description: {
       de: "Diese kleine Steinbrücke in Kłodzko wird oft als 'Miniatur der Prager Karlsbrücke' bezeichnet. Sie ist mit barocken Skulpturengruppen geschmückt.",
       hu: "A kłodzkói kőhidat gyakran a prágai Károly-híd kicsinyített másaként emlegetik. A hidat barokk szoborcsoportok díszítik.",
@@ -637,7 +637,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Festung Weichselmünde", hu: "Wisłoujście-erőd", ro: "Fortăreața Wisłoujście", en: "Vistulamouth Fortress"},
     image: "/poi-images/poland-vistulamouth-fortress-landmarks-v2.webp",
     coords: [18.6797, 54.3947],
-    coordinates: { lat: 54.3947, lng: 18.6797 },
+    coords: [18.6797, 54.3947],
     description: {
       de: "Die Festung Weichselmünde in Danzig sicherte jahrhundertelang die Einfahrt in den Danziger Hafen. Sie ist ein einzigartiges Beispiel für maritime Verteidigungsarchitektur.",
       hu: "A gdański Wisłoujście-erőd évszázadokon át védte a kikötő bejáratát. A tengeri védelmi építészet egyedülálló példája a Visztula torkolatánál.",
@@ -670,7 +670,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Warschauer Barbakane", hu: "Varsói Barbakán", ro: "Barbicana din Varșovia", en: "Warsaw Barbican"},
     image: "/poi-images/poland-warsaw-barbican-landmarks-v2.webp",
     coords: [21.0103, 52.2503],
-    coordinates: { lat: 52.2503, lng: 21.0103 },
+    coords: [21.0103, 52.2503],
     description: {
       de: "Die Barbakane ist ein halbkreisförmiger befestigter Vorposten, der die Warschauer Altstadt mit der Neustadt verbindet. Sie ist Teil des historischen Befestigungsgürtels.",
       hu: "A Barbakán egy félköríves erődített kapu, amely összeköti a varsói óvárost az újvárossal. A történelmi városfalrendszer legfontosabb megmaradt része.",
@@ -703,7 +703,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Jakobskathedrale Stettin", hu: "Szent Jakab-székesegyház (Szczecin)", ro: "Catedrala Sfântul Iacob din Szczecin", en: "St. James' Cathedral in Szczecin"},
     image: "/poi-images/poland-szczecin-cathedral-landmarks-v2.webp",
     coords: [14.5556, 53.4247],
-    coordinates: { lat: 53.4247, lng: 14.5556 },
+    coords: [14.5556, 53.4247],
     description: {
       de: "Die Jakobskathedrale ist die größte Kirche in Westpommern und ein bedeutendes Denkmal der Backsteingotik. Ihr markanter Turm prägt die Skyline von Stettin.",
       hu: "A Szent Jakab-székesegyház Nyugat-Pomeránia legnagyobb temploma és a tégla-gótika jelentős emléke. Karakteres tornya meghatározza Szczecin látképét.",
@@ -737,7 +737,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Branicki-Palast", hu: "Branicki-palota", ro: "Palatul Branicki", en: "Branicki Palace"},
     image: "/poi-images/poland-branicki-palace-landmarks-v2.webp",
     coords: [23.1651, 53.1302],
-    coordinates: { lat: 53.1302, lng: 23.1651 },
+    coords: [23.1651, 53.1302],
     description: {
       de: "Der Branicki-Palast, auch \"Versailles von Podlachien\" genannt, ist ein barocker Komplex in Białystok. Er verfügt über weitläufige französische Gärten und beherbergt heute die Medizinische Universität.",
       hu: "A Branicki-palota Białystokban a \"Podlasiei Versailles\" néven ismert barokk épületegyüttes. Kiterjedt francia kertjei vannak, és ma a Białystoki Orvostudományi Egyetem székhelye.",
@@ -771,7 +771,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Schloss Baranów Sandomierski", hu: "Baranów sandomierski-i várkastély", ro: "Castelul Baranów Sandomierski", en: "Baranow Sandomierski Castle"},
     image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp",
     coords: [21.5342, 50.4994],
-    coordinates: { lat: 50.4994, lng: 21.5342 },
+    coords: [21.5342, 50.4994],
     description: {
       de: "Ein manieristisches Schloss, das wegen seines Arkadenhofs oft als \"Kleiner Wawel\" bezeichnet wird. Es wurde für die Familie Leszczyński erbaut und gilt als eine der schönsten Residenzen Polens.",
       hu: "Manierista stílusú várkastély, amelyet belső udvara miatt gyakran \"Kis Wawelnek\" neveznek. A Leszczyński család számára épült, és Lengyelország egyik legszebb reneszánsz rezidenciája.",
@@ -806,7 +806,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Friedenskirche Świdnica", hu: "Świdnicai béketemplom", ro: "Biserica Păcii din Świdnica", en: "Church of Peace in Świdnica"},
     image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp",
     coords: [16.4913, 50.8465],
-    coordinates: { lat: 50.8465, lng: 16.4913 },
+    coords: [16.4913, 50.8465],
     description: {
       de: "Die größte Fachwerk-Kirche Europas, die nach dem Westfälischen Frieden erbaut wurde. Sie gehört zum UNESCO-Weltkulturerbe und ist für ihre kunstvolle Innenausstattung aus Holz bekannt.",
       hu: "Európa legnagyobb fatemploma, amely a westfáliai béke után épült. Az UNESCO Világörökség része, amely lenyűgöző barokk belső tereiről és különleges szerkezetéről híres.",
@@ -841,7 +841,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Burg Heilsberg", hu: "Lidzbark Warmiński vára", ro: "Castelul Lidzbark Warmiński", en: "Lidzbark Warminski Castle"},
     image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp",
     coords: [20.5825, 54.1265],
-    coordinates: { lat: 54.1265, lng: 20.5825 },
+    coords: [20.5825, 54.1265],
     description: {
       de: "Eine gut erhaltene gotische Burg, die als Residenz der Bischöfe von Ermland diente. Nikolaus Kopernikus lebte hier mehrere Jahre und arbeitete an seiner heliozentrischen Theorie.",
       hu: "Jó állapotban fennmaradt gótikus vár, amely a warmiai püspökök rezidenciájaként szolgált. Nikolausz Kopernikusz évekig élt itt, miközben heliocentrikus elméletén dolgozott.",
@@ -876,7 +876,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Schloss Krasiczyn", hu: "Krasiczyni várkastély", ro: "Castelul Krasiczyn", en: "Krasiczyn Castle"},
     image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp",
     coords: [22.6502, 49.7766],
-    coordinates: { lat: 49.7766, lng: 22.6502 },
+    coords: [22.6502, 49.7766],
     description: {
       de: "Ein Renaissance-Schloss, das für seine vier Ecktürme bekannt ist, die die göttliche, päpstliche, königliche und adlige Ordnung darstellen. Die Wände sind mit kunstvollem Sgraffito verziert.",
       hu: "Reneszánsz várkastély, amely négy saroktornyáról híres: az isteni, pápai, királyi és nemesi rendet jelképezik. Falait bonyolult sgraffito díszítés borítja.",
@@ -911,7 +911,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Palais Rogalin", hu: "Rogalini palota", ro: "Palatul Rogalin", en: "Rogalin Palace"},
     image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp",
     coords: [16.9312, 52.2345],
-    coordinates: { lat: 52.2345, lng: 16.9312 },
+    coords: [16.9312, 52.2345],
     description: {
       de: "Ein spätbarockes Palais, das für seinen Landschaftspark mit jahrhundertealten Eichen bekannt ist. Der Komplex umfasst eine bedeutende Gemäldegalerie mit Werken polnischer und internationaler Künstler.",
       hu: "Késő barokk palota, amely évszázados tölgyfáiról ismert tájképi parkjáról híres. Az épületegyüttes jelentős festménygalériával rendelkezik lengyel és nemzetközi művekkel.",
@@ -946,7 +946,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Europäisches Zentrum der Solidarność", hu: "Európai Szolidaritás Központ", ro: "Centrul European de Solidaritate", en: "European Solidarity Centre"},
     image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp",
     coords: [18.6493, 54.3606],
-    coordinates: { lat: 54.3606, lng: 18.6493 },
+    coords: [18.6493, 54.3606],
     description: {
       de: "Ein modernes Museum in Danzig, das der Geschichte der Gewerkschaft Solidarność gewidmet ist. Die rostfarbene Fassade des Gebäudes erinnert an einen Schiffsrumpf und spiegelt die Lage auf der Werft wider.",
       hu: "Modern múzeum és könyvtár Gdanskban, amely a Szolidaritás szakszervezet történetét mutatja be. Rozsdabarna külseje egy hajótestre emlékeztet, utalva a közeli hajógyárra.",
@@ -981,7 +981,7 @@ export const polandLandmarksV2: POI[] = [
     name: { de: "Altes Rathaus Breslau", hu: "Wrocław-i városháza", ro: "Primăria Veche din Wrocław", en: "Wroclaw Old Town Hall"},
     image: "/poi-images/poland-wroclaw-town-hall-landmarks-v2.webp",
     coords: [17.0322, 51.1095],
-    coordinates: { lat: 51.1095, lng: 17.0322 },
+    coords: [17.0322, 51.1095],
     description: {
       de: "Ein gotisches Wahrzeichen im Zentrum des Breslauer Marktplatzes. Es besticht durch seine dekorative Ostfassade mit einer astronomischen Uhr und beherbergt heute das Stadtmuseum.",
       hu: "Gótikus műemlék épület Wrocław főterén (Rynek). Díszes keleti homlokzatáról és csillagászati órájáról híres, ma a Városi Múzeumnak ad otthont.",

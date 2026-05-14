@@ -6,7 +6,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "park",
     parent: "BG",
     name: { de: "Zentralbalkan-Nationalpark", hu: "Központi-Balkán Nemzeti Park", ro: "Parcul Național Balcanii Centrali", en: "Central Balkan National Park" },
-    coordinates: { lat: 42.75, lng: 24.83 },
+    coords: [24.83, 42.75],
     description: {
       de: "Dieser Nationalpark erstreckt sich über den höchsten Teil des Balkangebirges. Er umfasst ausgedehnte Buchenwälder und alpine Weiden.",
       hu: "Ez a nemzeti park a Balkán-hegység legmagasabb részét öleli fel. Kiterjedt bükkerdőket és alpesi legelőket foglal magában.",
@@ -38,7 +38,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "park",
     parent: "BG",
     name: { de: "Strandscha-Naturpark", hu: "Sztrandzsa Natúrpark", ro: "Parcul Natural Strandja", en: "Strandzha Nature Park" },
-    coordinates: { lat: 42.12, lng: 27.53 },
+    coords: [27.53, 42.12],
     description: {
       de: "Der Naturpark Strandscha liegt im Südosten Bulgariens an der Schwarzmeerküste. Er ist für seine biologische Vielfalt bekannt.",
       hu: "A Sztrandzsa Natúrpark Bulgária délkeleti részén, a Fekete-tenger partján fekszik. Gazdag biodiverzitásáról ismert.",
@@ -70,7 +70,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "landmark",
     parent: "BG",
     name: { de: "Dewetaschka-Höhle", hu: "Devetaska-barlang", ro: "Peștera Devetashka", en: "Devetashka Cave" },
-    coordinates: { lat: 43.22, lng: 25.01 },
+    coords: [25.01, 43.22],
     description: {
       de: "Die Dewetaschka-Höhle ist eine große Karsthöhle nahe der Stadt Lowetsch. Sie besitzt sieben Öffnungen in der Decke.",
       hu: "A Devetaska-barlang egy nagy karsztbarlang Lovecs város közelében. A mennyezetén hét nyílás található.",
@@ -102,7 +102,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "river",
     parent: "BG",
     name: { de: "Ossam", hu: "Oszam", ro: "Osăm", en: "Osam River" },
-    coordinates: { lat: 43.63, lng: 25.08 },
+    coords: [25.08, 43.63],
     description: {
       de: "Der Ossam ist ein rechter Nebenfluss der Donau in Nordbulgarien. Er entspringt im Balkangebirge.",
       hu: "Az Oszam a Duna jobb oldali mellékfolyója Észak-Bulgáriában. A Balkán-hegységben ered.",
@@ -134,7 +134,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "river",
     parent: "BG",
     name: { de: "Jantra", hu: "Jantra", ro: "Iantra", en: "Yantra River" },
-    coordinates: { lat: 43.65, lng: 25.56 },
+    coords: [25.56, 43.65],
     description: {
       de: "Die Jantra ist ein Fluss in Bulgarien, der bei Swischtow in die Donau mündet. Ihr Lauf bildet markante Mäander bei Weliko Tarnowo.",
       hu: "A Jantra egy bulgáriai folyó, amely Szvistovnál ömlik a Dunába. Futása látványos kanyarulatokat alkot Veliko Tarnovónál.",
@@ -166,7 +166,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "lake",
     parent: "BG",
     name: { de: "Batak-Stausee", hu: "Batak-víztározó", ro: "Lacul de acumulare Batak", en: "Batak Reservoir" },
-    coordinates: { lat: 41.95, lng: 24.18 },
+    coords: [24.18, 41.95],
     description: {
       de: "Der Batak-Stausee liegt im Rhodopen-Gebirge. Er dient sowohl zur Stromerzeugung als auch der Erholung.",
       hu: "A Batak-víztározó a Rodope-hegységben található. Áramtermelésre és rekreációra egyaránt használják.",
@@ -198,7 +198,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "river",
     parent: "BG",
     name: { de: "Kamtschija", hu: "Kamcsija", ro: "Kamcia", en: "Kamchia River" },
-    coordinates: { lat: 43.01, lng: 27.87 },
+    coords: [27.87, 43.01],
     description: {
       de: "Die Kamtschija ist ein Fluss in Ostbulgarien. Sie mündet südlich von Warna in das Schwarze Meer.",
       hu: "A Kamcsija egy folyó Kelet-Bulgáriában. Várnától délre ömlik a Fekete-tengerbe.",
@@ -230,7 +230,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "valley",
     parent: "BG",
     name: { de: "Iskar-Schlucht", hu: "Iszkar-szurdok", ro: "Cheile Iscărului", en: "Iskar Gorge" },
-    coordinates: { lat: 42.92, lng: 23.36 },
+    coords: [23.36, 42.92],
     description: {
       de: "Die Iskar-Schlucht ist ein tiefes Tal des Flusses Iskar durch das Balkangebirge. Sie bietet eine dramatische Landschaft.",
       hu: "Az Iszkar-szurdok az Iszkar folyó mély völgye a Balkán-hegységen keresztül. Drámai táj jellemzi.",
@@ -262,7 +262,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Wratza-Karst", hu: "Vracai-karszt", ro: "Karstul Vrața", en: "Vratsa Karst" },
-    coordinates: { lat: 43.2, lng: 23.55 },
+    coords: [23.55, 43.2],
     description: {
       de: "Der Wratza-Karst ist eine Gebirgsregion mit steilen Felswänden und vielen Höhlen. Er ist Teil des Balkangebirges.",
       hu: "A Vracai-karszt meredek sziklafalakkal és számos barlanggal rendelkező hegyvidék. A Balkán-hegység része.",
@@ -294,7 +294,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Rosen-Gebirge", hu: "Rosen-hegység", ro: "Munții Rosen", en: "Rosen Mountains" },
-    coordinates: { lat: 42.3, lng: 27.65 },
+    coords: [27.65, 42.3],
     description: {
       de: "Dieses kleine Gebirge liegt in der Nähe der Schwarzmeerküste. Es ist geprägt von sanften Hügeln und Wäldern.",
       hu: "Ez a kis hegység a Fekete-tenger partjának közelében található. Szelíd dombok és erdők jellemzik.",
@@ -326,7 +326,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "river",
     parent: "BG",
     name: { de: "Tundscha", hu: "Tundzsa", ro: "Tundja", en: "Tundzha River" },
-    coordinates: { lat: 42.15, lng: 26.5 },
+    coords: [26.5, 42.15],
     description: {
       de: "Die Tundscha ist ein Fluss in Bulgarien und der Türkei. Sie ist der größte Zufluss des Mariza-Flusses.",
       hu: "A Tundzsa egy folyó Bulgáriában és Törökországban. A Marica folyó legnagyobb mellékfolyója.",
@@ -358,7 +358,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "river",
     parent: "BG",
     name: { de: "Mesta", hu: "Meszta", ro: "Mesta", en: "Mesta River" },
-    coordinates: { lat: 41.45, lng: 24.3 },
+    coords: [24.3, 41.45],
     description: {
       de: "Der Mesta-Fluss entspringt im Rila-Gebirge und fließt nach Griechenland. Er bildet tiefe Schluchten.",
       hu: "A Meszta folyó a Rila-hegységben ered és Görögország felé folyik. Mély szurdokokat alkot.",
@@ -390,7 +390,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "river",
     parent: "BG",
     name: { de: "Arda", hu: "Arda", ro: "Arda", en: "Arda River" },
-    coordinates: { lat: 41.6, lng: 25.4 },
+    coords: [25.4, 41.6],
     description: {
       de: "Die Arda ist ein bedeutender Fluss in den Rhodopen. Sie wird durch mehrere Staudämme reguliert.",
       hu: "Az Arda jelentős folyó a Rodope-hegységben. Számos víztározó szabályozza.",
@@ -422,7 +422,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "peak",
     parent: "BG",
     name: { de: "Tscherni Wrach", hu: "Cserni Vrah", ro: "Cerni Vrah", en: "Cherni Vrah" },
-    coordinates: { lat: 42.55, lng: 23.27 },
+    coords: [23.27, 42.55],
     description: {
       de: "Der Tscherni Wrach ist die höchste Erhebung des Witoscha-Gebirges. Er liegt nahe der Hauptstadt Sofia.",
       hu: "A Cserni Vrah a Vitos-hegység legmagasabb pontja. A főváros, Szófia közelében található.",
@@ -454,7 +454,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "mountain",
     parent: "BG",
     name: { de: "Pirin-Kamm", hu: "Pirin-gerinc", ro: "Creasta Pirin", en: "Pirin Ridge" },
-    coordinates: { lat: 41.7, lng: 23.4 },
+    coords: [23.4, 41.7],
     description: {
       de: "Der Pirin-Kamm zeichnet sich durch schroffe Marmorgipfel aus. Er bildet den zentralen Teil des Pirin-Gebirges.",
       hu: "A Pirin-gerinc éles márványcsúcsairól ismert. A Pirin-hegység központi részét alkotja.",
@@ -486,7 +486,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "river",
     parent: "BG",
     name: { de: "Mariza", hu: "Marica", ro: "Marița", en: "Maritsa River" },
-    coordinates: { lat: 41.7, lng: 26.5 },
+    coords: [26.5, 41.7],
     description: {
       de: "Die Mariza ist einer der wichtigsten Flüsse auf der Balkanhalbinsel. Sie entspringt im Rila-Gebirge.",
       hu: "A Marica a Balkán-félsziget egyik legfontosabb folyója. A Rila-hegységben ered.",
@@ -518,7 +518,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "river",
     parent: "BG",
     name: { de: "Struma", hu: "Sztruma", ro: "Struma", en: "Struma River" },
-    coordinates: { lat: 41.4, lng: 23.3 },
+    coords: [23.3, 41.4],
     description: {
       de: "Die Struma fließt von Bulgarien nach Griechenland. Sie durchquert mehrere malerische Täler.",
       hu: "A Sztruma Bulgáriából Görögországba folyik. Több festői völgyön halad keresztül.",
@@ -550,7 +550,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "landmark",
     parent: "BG",
     name: { de: "Kruschuna-Wasserfälle", hu: "Krusuna-vízesések", ro: "Cascada Krușuna", en: "Krushuna Waterfalls" },
-    coordinates: { lat: 43.25, lng: 25.02 },
+    coords: [25.02, 43.25],
     description: {
       de: "Die Kruschuna-Wasserfälle sind ein bekanntes Ausflugsziel bei Lowetsch. Sie zeichnen sich durch ihre türkisblaue Farbe aus.",
       hu: "A Krusuna-vízesések egy ismert kirándulóhely Lovecs közelében. Türkizkék színükről ismertek.",
@@ -582,7 +582,7 @@ export const bulgariaNatureV2: POI[] = [
     type: "landmark",
     parent: "BG",
     name: { de: "Mineralquellen von Devin", hu: "Devin ásványvízforrások", ro: "Izvoarele minerale din Devin", en: "Devin Mineral Springs" },
-    coordinates: { lat: 41.74, lng: 24.39 },
+    coords: [24.39, 41.74],
     description: {
       de: "Die Stadt Devin in den Rhodopen ist berühmt für ihre zahlreichen Mineralquellen. Das Wasser ist reich an Mineralien.",
       hu: "A Rodope-hegységben fekvő Devin város híres számos ásványvízforrásáról. A víz gazdag ásványi anyagokban.",

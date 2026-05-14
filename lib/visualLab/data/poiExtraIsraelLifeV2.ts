@@ -19,7 +19,20 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["1974-ben nyitotta meg kapuit.", "Több mint 1600 állatnak ad otthont."],
       ro: ["Deschis în anul 1974.", "Găzduiește peste 1600 de animale."],
       en: ["Opened in 1974.", "Houses over 1600 animals."]
-    }, image: "/poi-images/israel-ramat-gan-safari-life-v2.webp"},
+    }, image: "/poi-images/israel-ramat-gan-safari-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ramat Gan Safari ist ein zoologischer Garten in Ramat Gan, Israel, der 1974 eröffnet wurde. Er erstreckt sich über eine Fläche von etwa 100 Hektar und beherbergt über 1.600 Tiere aus rund 200 Arten, darunter afrikanische Elefanten, Giraffen und Nashörner. Der Safaripark ist in zwei Bereiche unterteilt: ein afrikanisches Freigehege und einen Zoologischen Garten. Die Anlage ist bekannt für ihre erfolgreichen Zuchtprogramme, insbesondere bei bedrohten Arten wie dem Arabischen Oryx. Der Safari empfängt jährlich etwa 600.000 Besucher. In den 1990er Jahren wurde eine Tierklinik eingerichtet, die sich auf die Pflege verletzter Wildtiere spezialisiert hat. Der Park beteiligt sich an internationalen Erhaltungsprogrammen und ist Mitglied der EAZA.",
+      hu: "A Ramat Gan Safari egy állatkert Izraelben, Ramat Gan városában, melyet 1974-ben nyitottak meg. Területe mintegy 100 hektár, ahol több mint 1600 állat él, mintegy 200 fajból, beleértve afrikai elefántokat, zsiráfokat és orrszarvúakat. A park két részből áll: egy afrikai szafari területből és egy állatkertből. Híres a veszélyeztetett fajok, például az arab bejza szaporítási programjáról. Évente mintegy 600 000 látogatót fogad. Az 1990-es években állatorvosi klinikát hoztak létre sérült vadállatok kezelésére. A park nemzetközi fajmegőrzési programokban vesz részt, tagja az EAZA-nak.",
+      ro: "Safariul Ramat Gan este o grădină zoologică în Ramat Gan, Israel, deschisă în 1974. Se întinde pe aproximativ 100 de hectare și găzduiește peste 1.600 de animale din aproximativ 200 de specii, inclusiv elefanți africani, girafe și rinoceri. Parcul este împărțit în două zone: un safari african și o grădină zoologică. Este renumit pentru programele de reproducere a speciilor amenințate, cum ar fi oryxul arab. Atrage aproximativ 600.000 de vizitatori anual. În anii 1990, a fost înființată o clinică veterinară specializată în îngrijirea animalelor sălbatice rănite. Parcul participă la programe internaționale de conservare și este membru EAZA.",
+      en: "Ramat Gan Safari is a zoological park in Ramat Gan, Israel, opened in 1974. It covers about 100 hectares and houses over 1,600 animals from some 200 species, including African elephants, giraffes, and rhinos. The park is divided into an African safari section and a zoo. It is known for successful breeding programs, particularly for endangered species like the Arabian oryx. The safari receives around 600,000 visitors annually. A veterinary clinic was established in the 1990s to treat injured wildlife. The park participates in international conservation programs and is a member of EAZA.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1974", "Fläche: ca. 100 ha", "Tiere: über 1.600", "Arten: ca. 200", "Jährliche Besucher: ca. 600.000", "Mitglied der EAZA"],
+      hu: ["Nyitás éve: 1974", "Terület: kb. 100 hektár", "Állatok száma: több mint 1600", "Fajok száma: kb. 200", "Éves látogatók: kb. 600.000", "EAZA tag"],
+      ro: ["Deschidere: 1974", "Suprafata: cca 100 ha", "Animale: peste 1.600", "Specii: cca 200", "Vizitatori anual: cca 600.000", "Membru EAZA"],
+      en: ["Opened: 1974", "Area: approx. 100 ha", "Animals: over 1,600", "Species: about 200", "Annual visitors: approx. 600,000", "EAZA member"],
+    },
+  },
   {
     id: "israel-biblical-zoo-life-v2",
     type: "kid-friendly",
@@ -38,7 +51,20 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["1940-ben alapították.", "A területe 25 hektár."],
       ro: ["A fost fondată în 1940.", "Se întinde pe 25 de hectare."],
       en: ["Founded in 1940.", "Covers an area of 25 hectares."]
-    }, image: "/poi-images/israel-biblical-zoo-life-v2.webp"},
+    }, image: "/poi-images/israel-biblical-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jerusalemer Bibelzoo, offiziell 'Der Zoologische Garten der Heiligen Schrift', wurde 1940 gegründet und 1993 an seinen heutigen Standort im Malha-Tal verlegt. Der Zoo erstreckt sich über 25 Hektar und zeigt Tiere, die in der Bibel erwähnt werden, wie Löwen, Bären, Hirsche und Perlhühner. Er beherbergt rund 600 Tiere aus etwa 150 Arten. Der Zoo ist für seine Zuchterfolge bei bedrohten Arten wie dem Syrischen Braunbären bekannt. Das Gelände umfasst einen künstlichen Gehinnom-Fluss und eine Noah-Arche-Ausstellung. Jährlich kommen etwa 700.000 Besucher. Der Zoo betreut auch verletzte Wildtiere und betreibt ein Aufklärungsprogramm zur Artenvielfalt. Er ist Mitglied der WAZA und des israelischen Zooverbandes.",
+      hu: "A Jeruzsálemi Bibliai Állatkert (hivatalos nevén: A Szentírás Állatkertje) 1940-ben jött létre, majd 1993-ban költözött jelenlegi helyére a Malha-völgybe. Területe 25 hektár, és olyan állatokat mutat be, amelyek a Bibliában szerepelnek, pl. oroszlán, medve, szarvas és gyöngytyúk. Körülbelül 600 állat él itt 150 fajból. Híres a veszélyeztetett fajok, mint a szíriai barna medve szaporításáról. A parkban mesterséges folyó és Noé bárkája kiállítás található. Évente mintegy 700.000 látogatót fogad. Az állatkert sérült vadállatokat is gondoz, és oktatási programokat működtet. Tagja a WAZA-nak és az Izraeli Állatkerti Szövetségnek.",
+      ro: "Grădina Zoologică Biblică din Ierusalim (oficial „Grădina Zoologică a Sfintei Scripturi”) a fost fondată în 1940 și mutată în locația actuală din Valea Malha în 1993. Acoperă 25 de hectare și prezintă animale menționate în Biblie, precum lei, urși, cerbi și păsări de Guineea. Adăpostește aproximativ 600 de animale din circa 150 de specii. Este renumită pentru reproducerea speciilor amenințate, cum ar fi ursul brun sirian. Parcul include un râu artificial Gehinnom și o expoziție a Arcei lui Noe. Atrage anual aproximativ 700.000 de vizitatori. Grădina zoologică îngrijește și animale sălbatice rănite și desfășoară programe educaționale privind biodiversitatea. Este membră a WAZA și a Asociației Grădinilor Zoologice din Israel.",
+      en: "The Jerusalem Biblical Zoo, officially 'The Zoological Garden of the Holy Scripture', was founded in 1940 and moved to its current site in the Malha Valley in 1993. It covers 25 hectares and exhibits animals mentioned in the Bible, such as lions, bears, deer, and guinea fowl. It houses about 600 animals from some 150 species. The zoo is known for breeding endangered species like the Syrian brown bear. The grounds feature an artificial Gehinnom River and a Noah's Ark exhibit. Approximately 700,000 visitors come annually. The zoo also rehabilitates injured wildlife and runs biodiversity education programs. It is a member of WAZA and the Israeli Zoo Association.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1940", "Umzug an heutigen Standort: 1993", "Fläche: 25 ha", "Tiere: ca. 600", "Arten: ca. 150", "Jährliche Besucher: ca. 700.000"],
+      hu: ["Alapítás: 1940", "Jelenlegi helyre költözés: 1993", "Terület: 25 hektár", "Állatok: kb. 600", "Fajok: kb. 150", "Éves látogatók: kb. 700.000"],
+      ro: ["Fondare: 1940", "Mutare loc actual: 1993", "Suprafata: 25 ha", "Animale: cca 600", "Specii: cca 150", "Vizitatori anual: cca 700.000"],
+      en: ["Founded: 1940", "Relocated to current site: 1993", "Area: 25 ha", "Animals: approx. 600", "Species: approx. 150", "Annual visitors: approx. 700,000"],
+    },
+  },
   {
     id: "israel-agamon-hula-life-v2",
     type: "wildlife-area",
@@ -57,7 +83,20 @@ export const poiExtraIsraelLifeV2: POI[] = [
       hu: ["Fontos pihenőhely a darvak számára.", "Vezetett túrákat is kínálnak."],
       ro: ["Loc important de odihnă pentru cocori.", "Oferă tururi ghidate."],
       en: ["Major stopover for common cranes.", "Offers guided tours."]
-    }, image: "/poi-images/israel-agamon-hula-life-v2.webp"},
+    }, image: "/poi-images/israel-agamon-hula-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Agamon Hula ist ein Feuchtgebiet im Hula-Tal in Nordisrael, das 1994 im Rahmen eines Renaturierungsprojekts geschaffen wurde. Es dient als wichtiger Rastplatz für Zugvögel entlang der Afrikanisch-Eurasischen Zugroute. Jährlich werden hier über 500 Millionen Vögel beobachtet, darunter Kraniche, Störche und Pelikane. Das Gebiet umfasst etwa 1.000 Hektar flache Seen und Sümpfe. Es wurde auf dem ehemaligen Hula-See angelegt, der in den 1950er Jahren trockengelegt wurde. Die Renaturierung hat die Biodiversität erheblich gesteigert und seltene Arten wie die Hula-Kröte wiederangesiedelt. Agamon Hula ist ein beliebtes Ziel für Vogelbeobachtung und Ökotourismus, mit jährlich etwa 200.000 Besuchern. Die Anlage bietet Beobachtungstürme und Fahrradwege.",
+      hu: "Az Agamon Hula egy vizes élőhely az izraeli Hula-völgyben, melyet 1994-ben hoztak létre egy természet-helyreállítási projekt keretében. Fontos pihenőhely a vonuló madarak számára az afrikai-eurázsiai útvonalon. Évente több mint 500 millió madár figyelhető meg itt, köztük darvak, gólyák és pelikánok. A terület mintegy 1000 hektárnyi sekély tavat és mocsarat foglal magában. Az egykori Hula-tó helyén jött létre, melyet az 1950-es években csapoltak le. A helyreállítás jelentősen növelte a biodiverzitást, és ritka fajok, mint a Hula-varangy is visszatértek. Az Agamon Hula népszerű madármegfigyelő és ökoturisztikai célpont, évente kb. 200.000 látogatóval. A parkban kilátótornyok és kerékpárutak találhatók.",
+      ro: "Agamon Hula este o zonă umedă din Valea Hula, nordul Israelului, creată în 1994 printr-un proiect de restaurare ecologică. Servește ca un important loc de popas pentru păsările migratoare de pe ruta afro-eurasiatică. Anual, peste 500 de milioane de păsări sunt observate, inclusiv cocori, berze și pelicani. Zona cuprinde aproximativ 1.000 de hectare de lacuri puțin adânci și mlaștini. A fost amenajat pe locul fostului lac Hula, desecat în anii 1950. Restaurarea a crescut semnificativ biodiversitatea și a readus specii rare precum broasca Hula. Agamon Hula este o destinație populară pentru observarea păsărilor și ecoturism, cu circa 200.000 de vizitatori anual. Include turnuri de observație și poteci pentru biciclete.",
+      en: "Agamon Hula is a wetland in the Hula Valley of northern Israel, created in 1994 as part of a restoration project. It serves as a major stopover for migratory birds along the African-Eurasian flyway. Over 500 million birds are observed annually, including cranes, storks, and pelicans. The area covers about 1,000 hectares of shallow lakes and marshes. It was built on the site of the former Lake Hula, drained in the 1950s. Restoration has significantly increased biodiversity and reintroduced rare species like the Hula painted frog. Agamon Hula is a popular birdwatching and ecotourism destination, with around 200,000 visitors per year. Facilities include observation towers and cycling paths.",
+    },
+    factsAdvanced: {
+      de: ["Schaffung: 1994", "Fläche: ca. 1.000 ha", "Jährliche Zugvögel: über 500 Mio", "Ehemaliger Hula-See trockengelegt in den 1950ern", "Besucher jährlich: ca. 200.000", "Seltene Art: Hula-Kröte"],
+      hu: ["Létrehozás: 1994", "Terület: kb. 1000 hektár", "Éves vonuló madarak: több mint 500 millió", "Egykori Hula-tó lecsapolva az 1950-es években", "Éves látogatók: kb. 200.000", "Ritka faj: Hula-varangy"],
+      ro: ["Creat: 1994", "Suprafata: cca 1.000 ha", "Pasari migratoare anuale: peste 500 milioane", "Fostul lac Hula desecat in anii 1950", "Vizitatori anual: cca 200.000", "Specie rara: broasca Hula"],
+      en: ["Created: 1994", "Area: approx. 1,000 ha", "Annual migratory birds: over 500 million", "Former Lake Hula drained in 1950s", "Annual visitors: approx. 200,000", "Rare species: Hula painted frog"],
+    },
+  },
   {
     id: "israel-haibar-yotvata-life-v2",
     type: "wildlife-area",

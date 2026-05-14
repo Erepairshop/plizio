@@ -6,7 +6,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Barcelos", hu: "Barcelos", ro: "Barcelos", en: "Barcelos" },
-    coordinates: { lat: 41.5322, lng: -8.6192 },
+    coords: [-8.6192, 41.5322],
     description: {
       de: "Diese nordportugiesische Stadt ist weltberühmt für ihre Keramiktradition. Sie gilt als die Heimat des legendären bunten Hahns von Barcelos.",
       hu: "Ez az észak-portugál város világhírű a kerámiatradíciójáról. A település a legendás Barcelos-i kakas jelképének az otthonaként ismert.",
@@ -38,7 +38,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Figueira da Foz", hu: "Figueira da Foz", ro: "Figueira da Foz", en: "Figueira da Foz" },
-    coordinates: { lat: 40.1501, lng: -8.8612 },
+    coords: [-8.8612, 40.1501],
     description: {
       de: "Diese Küstenstadt liegt an der Mündung des Flusses Mondego. Sie ist bekannt für ihre extrem breiten Sandstrände und ihr historisches Casino.",
       hu: "Ez a tengerparti város a Mondego-folyó torkolatánál fekszik. Különösen széles homokos strandjairól és történelmi kaszinójáról ismert.",
@@ -70,7 +70,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Caldas da Rainha", hu: "Caldas da Rainha", ro: "Caldas da Rainha", en: "Caldas da Rainha" },
-    coordinates: { lat: 39.4032, lng: -9.1352 },
+    coords: [-9.1352, 39.4032],
     description: {
       de: "Diese Stadt ist als bedeutendes Zentrum für Thermalbäder und Keramik bekannt. Sie wurde von Königin Leonor im 15. Jahrhundert gegründet.",
       hu: "Ez a város a termálfürdők és a kerámiagyártás jelentős központjaként ismert. Leonóra királyné alapította a 15. században.",
@@ -102,7 +102,7 @@ export const portugalCitiesV2: POI[] = [
     type: "capital",
     parent: "PT",
     name: { de: "Angra do Heroísmo", hu: "Angra do Heroísmo", ro: "Angra do Heroísmo", en: "Angra do Heroísmo" },
-    coordinates: { lat: 38.6533, lng: -27.2183 },
+    coords: [-27.2183, 38.6533],
     description: {
       de: "Diese historische Hauptstadt auf der Azoreninsel Terceira ist ein UNESCO-Welterbe. Sie war einst ein entscheidender Hafen für Transatlantikflotten.",
       hu: "Ez a történelmi főváros Terceira szigetén az UNESCO Világörökség része. Egykor a transzatlanti flották döntő fontosságú kikötője volt.",
@@ -134,7 +134,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Horta", hu: "Horta", ro: "Horta", en: "Horta" },
-    coordinates: { lat: 38.5332, lng: -28.6267 },
+    coords: [-28.6267, 38.5332],
     description: {
       de: "Horta auf der Insel Faial ist ein weltweit bekannter Treffpunkt für Segler, die den Atlantik überqueren. Ihr Hafen ist berühmt für bunte Malereien.",
       hu: "Az Faial-szigeten található Horta az Atlanti-óceánt átszelő vitorlázók világszerte ismert találkozóhelye. Kikötője a színes falfestményeiről híres.",
@@ -166,7 +166,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Vila Nova de Gaia", hu: "Vila Nova de Gaia", ro: "Vila Nova de Gaia", en: "Vila Nova de Gaia" },
-    coordinates: { lat: 41.1235, lng: -8.6114 },
+    coords: [-8.6114, 41.1235],
     description: {
       de: "Diese Stadt liegt gegenüber von Porto am südlichen Ufer des Douro. Sie ist weltberühmt für ihre historischen Weinkeller, in denen Portwein lagert.",
       hu: "Ez a város Portóval szemben, a Douro déli partján fekszik. Világhírű történelmi borpincéiről, ahol a híres portói bort érlelik.",
@@ -198,7 +198,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Matosinhos", hu: "Matosinhos", ro: "Matosinhos", en: "Matosinhos" },
-    coordinates: { lat: 41.1844, lng: -8.6914 },
+    coords: [-8.6914, 41.1844],
     description: {
       de: "Matosinhos ist eine Hafenstadt nördlich von Porto. Sie ist berühmt für ihre erstklassigen Fischrestaurants und den größten künstlichen Hafen des Landes.",
       hu: "Matosinhos egy kikötőváros Portótól északra. Elsőrangú haléttermeiről és az ország legnagyobb mesterséges kikötőjéről híres.",
@@ -230,7 +230,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Almada", hu: "Almada", ro: "Almada", en: "Almada" },
-    coordinates: { lat: 38.6761, lng: -9.1558 },
+    coords: [-9.1558, 38.6761],
     description: {
       de: "Almada liegt am Südufer des Tejo gegenüber von Lissabon. Sie ist vor allem für die riesige Statue Cristo Rei bekannt, die über der Stadt thront.",
       hu: "Almada a Tejo déli partján, Lisszabonnal szemben található. Leginkább a város fölé magasodó hatalmas Cristo Rei szoborról ismert.",
@@ -262,7 +262,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Amadora", hu: "Amadora", ro: "Amadora", en: "Amadora" },
-    coordinates: { lat: 38.7589, lng: -9.2312 },
+    coords: [-9.2312, 38.7589],
     description: {
       de: "Amadora ist eine bevölkerungsreiche Stadt im Großraum Lissabon. Sie ist bekannt für ihre kulturelle Vielfalt und als Zentrum der Comic-Kunst in Portugal.",
       hu: "Amadora egy sűrűn lakott város Lisszabon vonzáskörzetében. Kulturális sokszínűségéről és a portugál képregényművészet központjaként ismert.",
@@ -294,7 +294,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Seixal", hu: "Seixal", ro: "Seixal", en: "Seixal" },
-    coordinates: { lat: 38.6414, lng: -9.1034 },
+    coords: [-9.1034, 38.6414],
     description: {
       de: "Seixal liegt an einer Bucht des Tejo-Mündungstrichters. Die Stadt ist für ihre Schiffbau-Tradition und ihre ökologische Bedeutung bekannt.",
       hu: "Seixal a Tejo-torkolat egyik öblében fekszik. A város hajóépítő hagyományairól és ökológiai jelentőségéről ismert.",
@@ -326,7 +326,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Montijo", hu: "Montijo", ro: "Montijo", en: "Montijo" },
-    coordinates: { lat: 38.7061, lng: -8.9734 },
+    coords: [-8.9734, 38.7061],
     description: {
       de: "Montijo liegt am Südufer des Tejo und ist über die Vasco da Gama Brücke direkt mit Lissabon verbunden. Sie ist ein Zentrum für Landwirtschaft und Logistik.",
       hu: "Montijo a Tejo déli partján fekszik, és a Vasco da Gama híd révén közvetlen kapcsolatban áll Lisszabonnal. Mezőgazdasági és logisztikai központ.",
@@ -358,7 +358,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Abrantes", hu: "Abrantes", ro: "Abrantes", en: "Abrantes" },
-    coordinates: { lat: 39.4633, lng: -8.1983 },
+    coords: [-8.1983, 39.4633],
     description: {
       de: "Abrantes thront auf einem Hügel über dem Fluss Tejo. Die Stadt ist für ihre strategische Festung und ihre köstlichen traditionellen Süßwaren bekannt.",
       hu: "Abrantes a Tejo-folyó feletti dombon magasodik. A város stratégiai erődjéről és ízletes hagyományos édességeiről ismert.",
@@ -390,7 +390,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Mirandela", hu: "Mirandela", ro: "Mirandela", en: "Mirandela" },
-    coordinates: { lat: 41.4861, lng: -7.1867 },
+    coords: [-7.1867, 41.4861],
     description: {
       de: "Mirandela liegt im Nordosten Portugals am Fluss Tua. Die Stadt ist berühmt für ihre Gastronomie, insbesondere für die Alheira-Wurst.",
       hu: "Mirandela Portugália északkeleti részén, a Tua-folyó partján fekszik. A város gasztronómiájáról, különösen az Alheira kolbászról híres.",
@@ -422,7 +422,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Espinho", hu: "Espinho", ro: "Espinho", en: "Espinho" },
-    coordinates: { lat: 41.0069, lng: -8.6414 },
+    coords: [-8.6414, 41.0069],
     description: {
       de: "Espinho ist ein bekanntes Seebad südlich von Porto. Die Stadt ist für ihre Strände, ihr Casino und ihren riesigen wöchentlichen Markt berühmt.",
       hu: "Espinho egy népszerű üdülőváros Portótól délre. Strandjairól, kaszinójáról és hatalmas heti piacáról híres.",
@@ -454,7 +454,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Póvoa de Varzim", hu: "Póvoa de Varzim", ro: "Póvoa de Varzim", en: "Póvoa de Varzim" },
-    coordinates: { lat: 41.3801, lng: -8.7612 },
+    coords: [-8.7612, 41.3801],
     description: {
       de: "Diese Küstenstadt im Norden Portugals ist ein beliebtes Urlaubsziel mit einer starken Fischerei-Tradition und einem bedeutenden Casino.",
       hu: "Ez az észak-portugál tengerparti város népszerű üdülőhely, erős halászati hagyományokkal és egy jelentős kaszinóval.",
@@ -486,7 +486,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Vila do Conde", hu: "Vila do Conde", ro: "Vila do Conde", en: "Vila do Conde" },
-    coordinates: { lat: 41.3533, lng: -8.7433 },
+    coords: [-8.7433, 41.3533],
     description: {
       de: "Diese historische Stadt liegt an der Mündung des Flusses Ave. Sie ist bekannt für ihr monumentales Kloster und ihre lange Tradition im Schiffbau.",
       hu: "Ez a történelmi város az Ave-folyó torkolatánál fekszik. Monumentális kolostoráról és a hajóépítés hosszú hagyományáról ismert.",
@@ -518,7 +518,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Torres Vedras", hu: "Torres Vedras", ro: "Torres Vedras", en: "Torres Vedras" },
-    coordinates: { lat: 39.0912, lng: -9.2612 },
+    coords: [-9.2612, 39.0912],
     description: {
       de: "Diese Stadt nördlich von Lissabon ist berühmt für ihren Karneval und ihre historische Rolle bei der Verteidigung gegen Napoleons Truppen.",
       hu: "Ez a Lisszabontól északra fekvő város híres a karneváljáról és a Napóleon csapatai elleni védekezésben betöltött történelmi szerepéről.",
@@ -550,7 +550,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Entroncamento", hu: "Entroncamento", ro: "Entroncamento", en: "Entroncamento" },
-    coordinates: { lat: 39.4661, lng: -8.4712 },
+    coords: [-8.4712, 39.4661],
     description: {
       de: "Entroncamento ist das Herz der portugiesischen Eisenbahn. Die Stadt entstand an der Kreuzung wichtiger Bahnlinien und beherbergt das Nationale Eisenbahnmuseum.",
       hu: "Entroncamento a portugál vasút szíve. A város fontos vasútvonalak kereszteződésében jött létre, és itt található a Nemzeti Vasúti Múzeum.",
@@ -582,7 +582,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Moura", hu: "Moura", ro: "Moura", en: "Moura" },
-    coordinates: { lat: 38.1401, lng: -7.4467 },
+    coords: [-7.4467, 38.1401],
     description: {
       de: "Moura liegt im Alentejo nahe dem Alqueva-Stausee. Die Stadt ist für ihre Thermalquellen, ihr Olivenöl und die Legende der maurischen Prinzessin Saluquia bekannt.",
       hu: "Moura az Alentejo régióban, az Alqueva-víztározó közelében fekszik. Termálforrásairól, olívaolajáról és Saluquia mór hercegnő legendájáról ismert.",
@@ -614,7 +614,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Serpa", hu: "Serpa", ro: "Serpa", en: "Serpa" },
-    coordinates: { lat: 37.9433, lng: -7.5967 },
+    coords: [-7.5967, 37.9433],
     description: {
       de: "Serpa ist eine historische Stadt im Alentejo, umgeben von Stadtmauern. Sie ist berühmt für ihren preisgekrönten Schafskäse und ihre maurischen Einflüsse.",
       hu: "Serpa egy falakkal körülvett történelmi város az Alentejo régióban. Híres díjnyertes juhsajtjáról és mór hatásokat tükröző építészetéről.",
@@ -646,7 +646,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Estremoz", hu: "Estremoz", ro: "Estremoz", en: "Estremoz" },
-    coordinates: { lat: 38.8412, lng: -7.5867 },
+    coords: [-7.5867, 38.8412],
     description: {
       de: "Estremoz ist als 'Weiße Stadt' bekannt, berühmt für ihren hochwertigen Marmor und ihre mittelalterliche Oberstadt mit einer prächtigen Burg.",
       hu: "Estremoz 'Fehér város' néven ismert, kiváló minőségű márványáról és a pompás várral rendelkező középkori felsővárosáról híres.",
@@ -678,7 +678,7 @@ export const portugalCitiesV2: POI[] = [
     type: "town",
     parent: "PT",
     name: { de: "Vila Viçosa", hu: "Vila Viçosa", ro: "Vila Viçosa", en: "Vila Viçosa" },
-    coordinates: { lat: 38.7761, lng: -7.4167 },
+    coords: [-7.4167, 38.7761],
     description: {
       de: "Diese prächtige Stadt war die Residenz des Hauses Bragança. Sie ist bekannt für den gewaltigen Herzogspalast und ihre reiche Verwendung von Marmor.",
       hu: "Ez a pompás város a Bragança-ház székhelye volt. Hatalmas hercegi palotájáról és a márvány gazdag használatáról ismert.",
@@ -710,7 +710,7 @@ export const portugalCitiesV2: POI[] = [
     type: "town",
     parent: "PT",
     name: { de: "Ponte de Lima", hu: "Ponte de Lima", ro: "Ponte de Lima", en: "Ponte de Lima" },
-    coordinates: { lat: 41.7669, lng: -8.5833 },
+    coords: [-8.5833, 41.7669],
     description: {
       de: "Ponte de Lima gilt als die älteste Stadt Portugals. Sie ist berühmt für ihre römische Brücke über den Fluss Lima und ihre mittelalterliche Atmosphäre.",
       hu: "Ponte de Lima Portugália legősibb városaként ismert. A Lima-folyón átívelő római kori hídjáról és középkori hangulatáról híres.",
@@ -742,7 +742,7 @@ export const portugalCitiesV2: POI[] = [
     type: "town",
     parent: "PT",
     name: { de: "Arcos de Valdevez", hu: "Arcos de Valdevez", ro: "Arcos de Valdevez", en: "Arcos de Valdevez" },
-    coordinates: { lat: 41.8433, lng: -8.4167 },
+    coords: [-8.4167, 41.8433],
     description: {
       de: "Diese Stadt am Fluss Vez ist das Tor zum Nationalpark Peneda-Gerês. Sie ist historisch für ein bedeutendes Turnier zwischen Rittern im Jahr 1141 bekannt.",
       hu: "Ez a Vez-folyó partján fekvő város a Peneda-Gerês Nemzeti Park kapuja. Történelmileg egy 1141-es jelentős lovagi tornáról ismert.",
@@ -774,7 +774,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Albufeira", hu: "Albufeira", ro: "Albufeira", en: "Albufeira" },
-    coordinates: { lat: 37.0892, lng: -8.2478 },
+    coords: [-8.2478, 37.0892],
     description: {
       de: "Albufeira ist das größte Tourismuszentrum der Algarve. Die ehemalige Fischerstadt ist heute weltbekannt für ihr Nachtleben und ihre herrlichen Strände.",
       hu: "Albufeira Algarve legnagyobb turisztikai központja. Az egykori halászváros ma éjszakai életéről és gyönyörű strandjairól világszerte ismert.",
@@ -807,7 +807,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Oia", hu: "Oia", ro: "Oia", en: "Oia" },
-    coordinates: { lat: 40.7335, lng: -8.6277 },
+    coords: [-8.6277, 40.7335],
     description: {
       de: "Oia ist eine Gemeinde im Distrikt Aveiro. Sie liegt in der Nähe der Atlantikküste.",
       hu: "Oia egy község Aveiro kerületben. Az Atlanti-óceán partjának közelében fekszik.",
@@ -839,7 +839,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Valongo", hu: "Valongo", ro: "Valongo", en: "Valongo" },
-    coordinates: { lat: 41.1856, lng: -8.4974 },
+    coords: [-8.4974, 41.1856],
     description: {
       de: "Valongo ist eine Stadt im Großraum Porto. Sie ist für ihre Schiefervorkommen und Traditionen bekannt.",
       hu: "Valongo egy város Porto nagyvárosi övezetében. Pala-lelőhelyeiről és hagyományairól ismert.",
@@ -871,7 +871,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Maia", hu: "Maia", ro: "Maia", en: "Maia" },
-    coordinates: { lat: 41.2333, lng: -8.6167 },
+    coords: [-8.6167, 41.2333],
     description: {
       de: "Maia ist eine Stadt nördlich von Porto. Sie ist ein bedeutendes Industrie- und Dienstleistungszentrum.",
       hu: "Maia egy város Portótól északra. Jelentős ipari és szolgáltató központ.",
@@ -903,7 +903,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Gondomar", hu: "Gondomar", ro: "Gondomar", en: "Gondomar" },
-    coordinates: { lat: 41.1444, lng: -8.5361 },
+    coords: [-8.5361, 41.1444],
     description: {
       de: "Gondomar liegt am Fluss Douro bei Porto. Die Stadt ist weltweit für ihre Goldschmiedekunst bekannt.",
       hu: "Gondomar a Douro folyó mentén fekszik, Porto közelében. A város világszerte ismert aranyműves-iparáról.",
@@ -935,7 +935,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Penafiel", hu: "Penafiel", ro: "Penafiel", en: "Penafiel" },
-    coordinates: { lat: 41.2, lng: -8.2833 },
+    coords: [-8.2833, 41.2],
     description: {
       de: "Penafiel ist eine Stadt im Distrikt Porto. Sie liegt in einer landwirtschaftlich geprägten Hügellandschaft.",
       hu: "Penafiel város a Porto kerületben. Mezőgazdasági jellegű dombvidéken fekszik.",
@@ -967,7 +967,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Trofa", hu: "Trofa", ro: "Trofa", en: "Trofa" },
-    coordinates: { lat: 41.3333, lng: -8.5667 },
+    coords: [-8.5667, 41.3333],
     description: {
       de: "Trofa ist eine junge Stadt nördlich von Porto. Sie liegt am Fluss Ave und ist ein Verkehrsknotenpunkt.",
       hu: "Trofa egy fiatal város Portótól északra. Az Ave folyó mentén fekszik és közlekedési csomópont.",
@@ -999,7 +999,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Ermesinde", hu: "Ermesinde", ro: "Ermesinde", en: "Ermesinde" },
-    coordinates: { lat: 41.2167, lng: -8.55 },
+    coords: [-8.55, 41.2167],
     description: {
       de: "Ermesinde ist eine Stadt im Großraum Porto. Sie ist ein bedeutender Pendlerort mit guter Bahnanbindung.",
       hu: "Ermesinde egy város Porto nagyvárosi körzetében. Jelentős ingázó település, jó vasúti összeköttetéssel.",
@@ -1031,7 +1031,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Valença", hu: "Valença", ro: "Valença", en: "Valença" },
-    coordinates: { lat: 42.0333, lng: -8.6333 },
+    coords: [-8.6333, 42.0333],
     description: {
       de: "Valença ist eine Grenzstadt am Fluss Minho. Bekannt für ihre gut erhaltene historische Festung.",
       hu: "Valença egy határmenti város a Minho folyó mellett. Jól megőrzött történelmi erődjéről ismert.",
@@ -1063,7 +1063,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Caminha", hu: "Caminha", ro: "Caminha", en: "Caminha" },
-    coordinates: { lat: 41.8833, lng: -8.8333 },
+    coords: [-8.8333, 41.8833],
     description: {
       de: "Caminha liegt an der Mündung des Minho in den Atlantik. Die Stadt hat ein gut erhaltenes historisches Zentrum.",
       hu: "Caminha a Minho folyó torkolatánál fekszik, az Atlanti-óceánnál. A város jól megőrzött történelmi központtal rendelkezik.",
@@ -1095,7 +1095,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Vilar Formoso", hu: "Vilar Formoso", ro: "Vilar Formoso", en: "Vilar Formoso" },
-    coordinates: { lat: 40.5833, lng: -6.8333 },
+    coords: [-6.8333, 40.5833],
     description: {
       de: "Vilar Formoso ist ein wichtiger Grenzort zu Spanien im Distrikt Guarda. Ein wichtiger Knotenpunkt für den Güterverkehr.",
       hu: "Vilar Formoso fontos határátkelőhely Spanyolország felé, Guarda kerületben. Jelentős csomópont a teherforgalom számára.",
@@ -1127,7 +1127,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "São João da Madeira", hu: "São João da Madeira", ro: "São João da Madeira", en: "São João da Madeira" },
-    coordinates: { lat: 40.9, lng: -8.4833 },
+    coords: [-8.4833, 40.9],
     description: {
       de: "São João da Madeira ist eine Stadt südlich von Porto. Bekannt für ihre historische Hut- und Schuhindustrie.",
       hu: "São João da Madeira Porto városától délre fekszik. Híres történelmi kalap- és cipőiparáról.",
@@ -1159,7 +1159,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Oliveira de Azeméis", hu: "Oliveira de Azeméis", ro: "Oliveira de Azeméis", en: "Oliveira de Azeméis" },
-    coordinates: { lat: 40.8333, lng: -8.4833 },
+    coords: [-8.4833, 40.8333],
     description: {
       de: "Oliveira de Azeméis ist eine Stadt im Distrikt Aveiro. Sie ist ein regionales Handels- und Dienstleistungszentrum.",
       hu: "Oliveira de Azeméis város az Aveiro kerületben. Regionális kereskedelmi és szolgáltató központ.",
@@ -1191,7 +1191,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Santa Maria da Feira", hu: "Santa Maria da Feira", ro: "Santa Maria da Feira", en: "Santa Maria da Feira" },
-    coordinates: { lat: 40.9333, lng: -8.5333 },
+    coords: [-8.5333, 40.9333],
     description: {
       de: "Santa Maria da Feira ist eine Stadt bei Porto. Sie ist berühmt für ihre mittelalterliche Burg.",
       hu: "Santa Maria da Feira Porto melletti város. Híres középkori váráról.",
@@ -1223,7 +1223,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Murtosa", hu: "Murtosa", ro: "Murtosa", en: "Murtosa" },
-    coordinates: { lat: 40.7333, lng: -8.6333 },
+    coords: [-8.6333, 40.7333],
     description: {
       de: "Murtosa liegt an der Ria de Aveiro. Eine Stadt, die stark von Fischerei und der Lagunenlandschaft geprägt ist.",
       hu: "Murtosa az Aveiro-lagúna mellett fekszik. A halászat és a lagúnavidék erősen meghatározza a várost.",
@@ -1255,7 +1255,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Esmoriz", hu: "Esmoriz", ro: "Esmoriz", en: "Esmoriz" },
-    coordinates: { lat: 40.9667, lng: -8.6167 },
+    coords: [-8.6167, 40.9667],
     description: {
       de: "Esmoriz ist eine Küstenstadt im Distrikt Aveiro. Sie ist bekannt für ihre Lagune und ihre Strände.",
       hu: "Esmoriz tengerparti város az Aveiro kerületben. Ismert lagúnájáról és strandjairól.",
@@ -1287,7 +1287,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Ovar", hu: "Ovar", ro: "Ovar", en: "Ovar" },
-    coordinates: { lat: 40.8667, lng: -8.6167 },
+    coords: [-8.6167, 40.8667],
     description: {
       de: "Ovar ist eine Küstenstadt im Distrikt Aveiro. Sie ist bekannt für ihre Kachelfassaden und Karnevalstraditionen.",
       hu: "Ovar tengerparti város az Aveiro kerületben. Ismert csempézett homlokzatairól és karnevál-hagyományairól.",
@@ -1319,7 +1319,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Tondela", hu: "Tondela", ro: "Tondela", en: "Tondela" },
-    coordinates: { lat: 40.5167, lng: -8.0833 },
+    coords: [-8.0833, 40.5167],
     description: {
       de: "Tondela ist eine Stadt im Distrikt Viseu. Sie liegt in einer bergigen Region und ist landwirtschaftlich geprägt.",
       hu: "Tondela város a Viseu kerületben. Hegyvidéki régióban fekszik és mezőgazdasági jellegű.",
@@ -1351,7 +1351,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Tarouca", hu: "Tarouca", ro: "Tarouca", en: "Tarouca" },
-    coordinates: { lat: 41.0333, lng: -7.7833 },
+    coords: [-7.7833, 41.0333],
     description: {
       de: "Tarouca ist eine Stadt in der Nähe von Lamego. Bekannt für das Zisterzienserkloster von São João de Tarouca.",
       hu: "Tarouca város Lamego közelében. Ismert a São João de Tarouca ciszterci kolostorról.",
@@ -1383,7 +1383,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Moimenta da Beira", hu: "Moimenta da Beira", ro: "Moimenta da Beira", en: "Moimenta da Beira" },
-    coordinates: { lat: 40.9667, lng: -7.6167 },
+    coords: [-7.6167, 40.9667],
     description: {
       de: "Moimenta da Beira ist eine Stadt im Distrikt Viseu. Sie ist ein Zentrum für Apfelanbau.",
       hu: "Moimenta da Beira város Viseu kerületben. Az alma-termesztés központja.",
@@ -1415,7 +1415,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Sertã", hu: "Sertã", ro: "Sertã", en: "Sertã" },
-    coordinates: { lat: 39.8, lng: -8.1 },
+    coords: [-8.1, 39.8],
     description: {
       de: "Sertã ist eine Stadt im Distrikt Castelo Branco. Sie liegt in einem waldreichen Gebiet in Zentralportugal.",
       hu: "Sertã város Castelo Branco kerületben. Erdős területen fekszik Közép-Portugáliában.",
@@ -1447,7 +1447,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Proença-a-Nova", hu: "Proença-a-Nova", ro: "Proença-a-Nova", en: "Proença-a-Nova" },
-    coordinates: { lat: 39.75, lng: -7.9333 },
+    coords: [-7.9333, 39.75],
     description: {
       de: "Proença-a-Nova ist eine Stadt in Castelo Branco. Bekannt für seine ländliche Architektur und Natur.",
       hu: "Proença-a-Nova város Castelo Branco kerületben. Ismert vidéki építészetéről és természetéről.",
@@ -1479,7 +1479,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Fundão", hu: "Fundão", ro: "Fundão", en: "Fundão" },
-    coordinates: { lat: 40.1333, lng: -7.5 },
+    coords: [-7.5, 40.1333],
     description: {
       de: "Fundão ist eine Stadt im Distrikt Castelo Branco. Sie ist ein Zentrum für Kirschenproduktion.",
       hu: "Fundão város Castelo Branco kerületben. A cseresznye-termelés központja.",
@@ -1511,7 +1511,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Idanha-a-Nova", hu: "Idanha-a-Nova", ro: "Idanha-a-Nova", en: "Idanha-a-Nova" },
-    coordinates: { lat: 39.9333, lng: -7.2333 },
+    coords: [-7.2333, 39.9333],
     description: {
       de: "Idanha-a-Nova ist eine historische Stadt nahe der spanischen Grenze. Bekannt für ihre kulturelle Bedeutung.",
       hu: "Idanha-a-Nova történelmi város a spanyol határ közelében. Ismert kulturális jelentőségéről.",
@@ -1543,7 +1543,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Penamacor", hu: "Penamacor", ro: "Penamacor", en: "Penamacor" },
-    coordinates: { lat: 40.1667, lng: -7.1667 },
+    coords: [-7.1667, 40.1667],
     description: {
       de: "Penamacor liegt nahe der spanischen Grenze. Die Stadt zeichnet sich durch ihre Festungsmauern aus.",
       hu: "Penamacor a spanyol határ közelében fekszik. A várost erődítményfalai teszik jellegzetessé.",
@@ -1575,7 +1575,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Belmonte", hu: "Belmonte", ro: "Belmonte", en: "Belmonte" },
-    coordinates: { lat: 40.35, lng: -7.35 },
+    coords: [-7.35, 40.35],
     description: {
       de: "Belmonte ist eine historische Stadt. Sie ist bekannt für ihre jüdische Geschichte und den Entdecker Pedro Álvares Cabral.",
       hu: "Belmonte történelmi város. Ismert zsidó történelméről és felfedezőjéről, Pedro Álvares Cabralról.",
@@ -1607,7 +1607,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Sabugal", hu: "Sabugal", ro: "Sabugal", en: "Sabugal" },
-    coordinates: { lat: 40.35, lng: -7.0833 },
+    coords: [-7.0833, 40.35],
     description: {
       de: "Sabugal liegt im Distrikt Guarda an der Grenze zu Spanien. Bekannt für seine gut erhaltene mittelalterliche Burg.",
       hu: "Sabugal a Guarda kerületben, a spanyol határnál fekszik. Ismert jól megőrzött középkori váráról.",
@@ -1639,7 +1639,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Pinhel", hu: "Pinhel", ro: "Pinhel", en: "Pinhel" },
-    coordinates: { lat: 40.7667, lng: -7.0667 },
+    coords: [-7.0667, 40.7667],
     description: {
       de: "Pinhel ist eine historische Stadt im Distrikt Guarda. Bekannt für ihren Wein und ihre Denkmäler.",
       hu: "Pinhel történelmi város a Guarda kerületben. Ismert boráról és műemlékeiről.",
@@ -1671,7 +1671,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Trancoso", hu: "Trancoso", ro: "Trancoso", en: "Trancoso" },
-    coordinates: { lat: 40.7667, lng: -7.35 },
+    coords: [-7.35, 40.7667],
     description: {
       de: "Trancoso ist eine historische Stadt im Distrikt Guarda. Bekannt für ihre mittelalterliche Stadtmauer und jüdische Geschichte.",
       hu: "Trancoso történelmi város a Guarda kerületben. Ismert középkori városfaláról és zsidó történelméről.",
@@ -1703,7 +1703,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Mêda", hu: "Mêda", ro: "Mêda", en: "Mêda" },
-    coordinates: { lat: 40.9667, lng: -7.2667 },
+    coords: [-7.2667, 40.9667],
     description: {
       de: "Mêda liegt im Distrikt Guarda. Die Stadt ist ein Ausgangspunkt für Erkundungen der Region Beira Alta.",
       hu: "Mêda a Guarda kerületben fekszik. A város kiindulópont a Beira Alta régió felfedezéséhez.",
@@ -1735,7 +1735,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Freixo de Espada à Cinta", hu: "Freixo de Espada à Cinta", ro: "Freixo de Espada à Cinta", en: "Freixo de Espada à Cinta" },
-    coordinates: { lat: 41.0833, lng: -6.8 },
+    coords: [-6.8, 41.0833],
     description: {
       de: "Freixo de Espada à Cinta liegt am Douro im Distrikt Bragança. Bekannt für seine manuelinische Architektur.",
       hu: "Freixo de Espada à Cinta a Douro mentén fekszik, Bragança kerületben. Ismert manuelin építészetéről.",
@@ -1767,7 +1767,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Mogadouro", hu: "Mogadouro", ro: "Mogadouro", en: "Mogadouro" },
-    coordinates: { lat: 41.3333, lng: -6.7167 },
+    coords: [-6.7167, 41.3333],
     description: {
       de: "Mogadouro ist eine Stadt im Distrikt Bragança. Bekannt für ihre landschaftliche Schönheit im Nordosten Portugals.",
       hu: "Mogadouro város Bragança kerületben. Ismert táji szépségéről Portugália északkeleti részén.",
@@ -1799,7 +1799,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Alfândega da Fé", hu: "Alfândega da Fé", ro: "Alfândega da Fé", en: "Alfândega da Fé" },
-    coordinates: { lat: 41.3333, lng: -6.9667 },
+    coords: [-6.9667, 41.3333],
     description: {
       de: "Alfândega da Fé liegt in einer hügeligen Region im Distrikt Bragança. Eine ländlich geprägte Kleinstadt.",
       hu: "Alfândega da Fé dombos régióban fekszik, Bragança kerületben. Vidéki jellegű kisváros.",
@@ -1831,7 +1831,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Vila Flor", hu: "Vila Flor", ro: "Vila Flor", en: "Vila Flor" },
-    coordinates: { lat: 41.3, lng: -7.15 },
+    coords: [-7.15, 41.3],
     description: {
       de: "Vila Flor ist eine Stadt im Distrikt Bragança. Bekannt für ihre landschaftlich reizvolle Lage.",
       hu: "Vila Flor város Bragança kerületben. Ismert tájilag vonzó elhelyezkedéséről.",
@@ -1863,7 +1863,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Carrazeda de Ansiães", hu: "Carrazeda de Ansiães", ro: "Carrazeda de Ansiães", en: "Carrazeda de Ansiães" },
-    coordinates: { lat: 41.25, lng: -7.3 },
+    coords: [-7.3, 41.25],
     description: {
       de: "Carrazeda de Ansiães liegt im Distrikt Bragança in der Douro-Region. Bekannt für den Anbau von Oliven.",
       hu: "Carrazeda de Ansiães Bragança kerületben, a Douro régióban fekszik. Ismert olívatermesztéséről.",
@@ -1895,7 +1895,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Vinhais", hu: "Vinhais", ro: "Vinhais", en: "Vinhais" },
-    coordinates: { lat: 41.8333, lng: -7.0 },
+    coords: [-7.0, 41.8333],
     description: {
       de: "Vinhais ist eine Stadt im Distrikt Bragança. Sie ist für ihre ländliche Tradition und Natur bekannt.",
       hu: "Vinhais város Bragança kerületben. Ismert vidéki hagyományairól és természetéről.",
@@ -1927,7 +1927,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Macedo de Cavaleiros", hu: "Macedo de Cavaleiros", ro: "Macedo de Cavaleiros", en: "Macedo de Cavaleiros" },
-    coordinates: { lat: 41.5333, lng: -6.95 },
+    coords: [-6.95, 41.5333],
     description: {
       de: "Macedo de Cavaleiros liegt im Distrikt Bragança. Eine Stadt, die als Tor zur Region Trás-os-Montes gilt.",
       hu: "Macedo de Cavaleiros a Bragança kerületben fekszik. A város, amely Trás-os-Montes régió kapujaként ismert.",
@@ -1959,7 +1959,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Miranda do Douro", hu: "Miranda do Douro", ro: "Miranda do Douro", en: "Miranda do Douro" },
-    coordinates: { lat: 41.4833, lng: -6.2667 },
+    coords: [-6.2667, 41.4833],
     description: {
       de: "Miranda do Douro liegt an der Grenze zu Spanien. Bekannt für die eigene Sprache 'Mirandês' und die spektakuläre Douro-Schlucht.",
       hu: "Miranda do Douro a spanyol határnál fekszik. Ismert a 'Mirandês' nyelvről és a látványos Douro-szurdokról.",
@@ -1991,7 +1991,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Penela", hu: "Penela", ro: "Penela", en: "Penela" },
-    coordinates: { lat: 40.0333, lng: -8.3833 },
+    coords: [-8.3833, 40.0333],
     description: {
       de: "Penela ist eine historische Stadt im Distrikt Coimbra. Bekannt für ihre mittelalterliche Burg.",
       hu: "Penela történelmi város Coimbra kerületben. Ismert középkori váráról.",
@@ -2023,7 +2023,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Lousã", hu: "Lousã", ro: "Lousã", en: "Lousã" },
-    coordinates: { lat: 40.1167, lng: -8.25 },
+    coords: [-8.25, 40.1167],
     description: {
       de: "Lousã liegt im Distrikt Coimbra. Bekannt für seine Schieferdörfer und die Gebirgslandschaft.",
       hu: "Lousã a Coimbra kerületben fekszik. Ismert palafalusi házairól és hegyvidéki tájáról.",
@@ -2055,7 +2055,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Cantanhede", hu: "Cantanhede", ro: "Cantanhede", en: "Cantanhede" },
-    coordinates: { lat: 40.35, lng: -8.6 },
+    coords: [-8.6, 40.35],
     description: {
       de: "Cantanhede liegt im Distrikt Coimbra. Bekannt für Weinbau und ihre Denkmäler.",
       hu: "Cantanhede a Coimbra kerületben fekszik. Ismert szőlőtermesztéséről és műemlékeiről.",
@@ -2087,7 +2087,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Soure", hu: "Soure", ro: "Soure", en: "Soure" },
-    coordinates: { lat: 40.0667, lng: -8.6333 },
+    coords: [-8.6333, 40.0667],
     description: {
       de: "Soure liegt im Distrikt Coimbra. Bekannt für seine historischen Verbindungen zum Templerorden.",
       hu: "Soure a Coimbra kerületben fekszik. Ismert a Templomos Lovagrenddel való történelmi kapcsolatairól.",
@@ -2119,7 +2119,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Vila Real de Santo António", hu: "Vila Real de Santo António", ro: "Vila Real de Santo António", en: "Vila Real de Santo António" },
-    coordinates: { lat: 37.2, lng: -7.4167 },
+    coords: [-7.4167, 37.2],
     description: {
       de: "Vila Real de Santo António ist eine Stadt an der Algarve an der spanischen Grenze. Bekannt für ihre klassizistische Architektur.",
       hu: "Vila Real de Santo António egy város az Algarve-régióban, a spanyol határnál. Ismert klasszicista építészetéről.",
@@ -2151,7 +2151,7 @@ export const portugalCitiesV2: POI[] = [
     type: "city",
     parent: "PT",
     name: { de: "Olhão", hu: "Olhao", ro: "Olhao", en: "Olhão" },
-    coordinates: { lat: 37.0333, lng: -7.8333 },
+    coords: [-7.8333, 37.0333],
     description: {
       de: "Olhão ist eine Stadt an der Algarve. Sie ist bekannt für ihre markanten maurisch geprägten Stadthäuser.",
       hu: "Olhão az Algarve-régióban fekszik. Ismert jellegzetes, mór stílusú városi házairól.",

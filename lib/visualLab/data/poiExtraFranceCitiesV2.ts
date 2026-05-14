@@ -6,7 +6,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Antibes", hu: "Antibes", ro: "Antibes", en: "Antibes" },
-    coordinates: { lat: 43.5804, lng: 7.1251 },
+    coords: [7.1251, 43.5804],
     description: {
       de: "Antibes ist ein Ferienort an der Côte d'Azur zwischen Cannes und Nizza. Die Stadt besitzt eine gut erhaltene Altstadt und massive Festungsmauern.",
       hu: "Antibes egy üdülőhely a Côte d'Azur-ön, Cannes és Nizza között. A város jól megőrzött óvárossal és masszív erődfalakkal rendelkezik.",
@@ -38,7 +38,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Dünkirchen", hu: "Dunkerque", ro: "Dunkerque", en: "Dunkirk" },
-    coordinates: { lat: 51.0343, lng: 2.3768 },
+    coords: [2.3768, 51.0343],
     description: {
       de: "Dünkirchen ist eine bedeutende Hafenstadt am Ärmelkanal im Norden Frankreichs. Sie ist weltweit bekannt für die Evakuierung 1940.",
       hu: "Dunkerque egy jelentős kikötőváros az angol csatorna partján, Franciaország északi részén. Az 1940-es evakuálásról világszerte ismert.",
@@ -70,7 +70,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Ajaccio", hu: "Ajaccio", ro: "Ajaccio", en: "Ajaccio" },
-    coordinates: { lat: 41.9267, lng: 8.7369 },
+    coords: [8.7369, 41.9267],
     description: {
       de: "Ajaccio ist die Hauptstadt Korsikas und liegt an einem weiten Golf an der Westküste. Die Stadt ist berühmt als Geburtsort von Napoleon Bonaparte.",
       hu: "Ajaccio Korzika fővárosa, a nyugati parton egy tágas öbölben fekszik. A város Napoléon Bonaparte szülőhelyeként híres.",
@@ -103,7 +103,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Limoges-sur-Vienne", hu: "Limoges-sur-Vienne", ro: "Limoges-sur-Vienne", en: "Limoges-sur-Vienne" },
-    coordinates: { lat: 45.83, lng: 1.25 },
+    coords: [1.25, 45.83],
     description: {
       de: "Dieses urbane Gebiet ist Teil des Ballungsraums Limoges. Es bietet Zugang zu historischen Vierteln und lokalen Kunsthandwerksbetrieben.",
       hu: "Ez a városi terület Limoges agglomerációjának része. Hozzáférést biztosít a történelmi negyedekhez és a helyi kézműves műhelyekhez.",
@@ -135,7 +135,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Reims", hu: "Reims", ro: "Reims", en: "Reims" },
-    coordinates: { lat: 49.26, lng: 4.03 },
+    coords: [4.03, 49.26],
     description: {
       de: "Reims liegt im Nordosten Frankreichs in der Champagne. Die Stadt ist für ihre Kathedrale bekannt, in der die französischen Könige gekrönt wurden.",
       hu: "Reims Északkelet-Franciaországban, Champagne régióban fekszik. A város a katedrálisáról híres, ahol a francia királyokat koronázták meg.",
@@ -167,7 +167,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Nantes", hu: "Nantes", ro: "Nantes", en: "Nantes" },
-    coordinates: { lat: 47.21, lng: -1.55 },
+    coords: [-1.55, 47.21],
     description: {
       de: "Nantes liegt an der Mündung der Loire in den Atlantik. Die Stadt ist das historische Zentrum der Bretagne und ein bedeutender Hafen.",
       hu: "Nantes a Loire folyó Atlanti-óceáni torkolatánál fekszik. A város Bretagne történelmi központja és jelentős kikötő.",
@@ -199,7 +199,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Toulouse", hu: "Toulouse", ro: "Toulouse", en: "Toulouse" },
-    coordinates: { lat: 43.6, lng: 1.44 },
+    coords: [1.44, 43.6],
     description: {
       de: "Toulouse liegt am Ufer der Garonne im Südwesten Frankreichs. Die Stadt ist als Zentrum der europäischen Luft- und Raumfahrt bekannt.",
       hu: "Toulouse a Garonne folyó partján fekszik, Délnyugat-Franciaországban. A város az európai űr- és repülőgépipar központjaként ismert.",
@@ -231,7 +231,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Nizza", hu: "Nizza", ro: "Nisa", en: "Nice" },
-    coordinates: { lat: 43.71, lng: 7.26 },
+    coords: [7.26, 43.71],
     description: {
       de: "Nizza liegt an der Côte d'Azur am Mittelmeer. Die Stadt ist ein beliebtes Touristenziel für ihre Strände und die Promenade des Anglais.",
       hu: "Nizza a Földközi-tenger partján, a Côte d'Azur-on található. A város népszerű turisztikai célpont strandjai és a Promenade des Anglais miatt.",
@@ -263,7 +263,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Lyon", hu: "Lyon", ro: "Lyon", en: "Lyon" },
-    coordinates: { lat: 45.76, lng: 4.83 },
+    coords: [4.83, 45.76],
     description: {
       de: "Lyon liegt im Südosten Frankreichs am Zusammenfluss von Rhône und Saône. Die Stadt gilt als die gastronomische Hauptstadt des Landes.",
       hu: "Lyon Délkelet-Franciaországban fekszik, a Rhône és a Saône folyók összefolyásánál. A várost az ország gasztronómiai fővárosának tekintik.",
@@ -295,7 +295,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Marseille", hu: "Marseille", ro: "Marsilia", en: "Marseille" },
-    coordinates: { lat: 43.29, lng: 5.36 },
+    coords: [5.36, 43.29],
     description: {
       de: "Marseille liegt an der Mittelmeerküste im Süden Frankreichs. Die Stadt ist der größte Hafen des Landes und ein wichtiges Handelszentrum.",
       hu: "Marseille a Földközi-tenger partján fekszik, Dél-Franciaországban. A város az ország legnagyobb kikötője és fontos kereskedelmi központ.",
@@ -327,7 +327,7 @@ export const franceCitiesV2: POI[] = [
     type: "capital",
     parent: "FR",
     name: { de: "Paris", hu: "Párizs", ro: "Paris", en: "Paris" },
-    coordinates: { lat: 48.85, lng: 2.35 },
+    coords: [2.35, 48.85],
     description: {
       de: "Paris ist die Hauptstadt Frankreichs an der Seine. Die Stadt ist weltweit für ihre Kunst, Kultur und historischen Monumente bekannt.",
       hu: "Párizs Franciaország fővárosa, a Szajna mentén. A város világszerte ismert művészetéről, kultúrájáról és történelmi műemlékeiről.",
@@ -359,7 +359,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Lille", hu: "Lille", ro: "Lille", en: "Lille" },
-    coordinates: { lat: 50.63, lng: 3.06 },
+    coords: [3.06, 50.63],
     description: {
       de: "Lille liegt im Norden Frankreichs nahe der belgischen Grenze. Die Stadt ist eine bedeutende Industriemetropole mit flämischen Einflüssen.",
       hu: "Lille Észak-Franciaországban fekszik, a belga határ közelében. A város jelentős ipari nagyváros flamand hatásokkal.",
@@ -391,7 +391,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Dijon-Centre", hu: "Dijon-Centre", ro: "Dijon-Centre", en: "Dijon-Centre" },
-    coordinates: { lat: 47.32, lng: 5.03 },
+    coords: [5.03, 47.32],
     description: {
       de: "Dijon-Centre bildet das historische Herz der burgundischen Hauptstadt. Hier befinden sich die wichtigsten Museen und Sehenswürdigkeiten.",
       hu: "Dijon-Centre alkotja a burgund főváros történelmi szívét. Itt találhatók a legfontosabb múzeumok és látnivalók.",
@@ -423,7 +423,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Besançon-Nord", hu: "Besançon-Nord", ro: "Besançon-Nord", en: "Besançon-Nord" },
-    coordinates: { lat: 47.25, lng: 6.02 },
+    coords: [6.02, 47.25],
     description: {
       de: "Dieser Stadtteil von Besançon bietet moderne Wohngebiete und Zugang zu den umliegenden Naturlandschaften. Er ist gut an das Zentrum angebunden.",
       hu: "Besançon e városrésze modern lakóövezeteket és hozzáférést biztosít a környező természeti tájakhoz. Jól kapcsolódik a központhoz.",
@@ -455,7 +455,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Rouen-Rive-Gauche", hu: "Rouen-Rive-Gauche", ro: "Rouen-Rive-Gauche", en: "Rouen-Rive-Gauche" },
-    coordinates: { lat: 49.43, lng: 1.08 },
+    coords: [1.08, 49.43],
     description: {
       de: "Das linke Seine-Ufer von Rouen ist ein moderner Industriestandort und Wohngebiet. Es ist durch mehrere Brücken mit dem historischen Zentrum verbunden.",
       hu: "Rouen bal parti része egy modern ipari helyszín és lakónegyed. Több híd köti össze a történelmi központtal.",
@@ -487,7 +487,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Metz-Centre", hu: "Metz-Centre", ro: "Metz-Centre", en: "Metz-Centre" },
-    coordinates: { lat: 49.11, lng: 6.17 },
+    coords: [6.17, 49.11],
     description: {
       de: "Metz-Centre ist der historische Bereich der lothringischen Stadt. Hier konzentrieren sich Kathedrale, Museen und historische Gebäude.",
       hu: "Metz-Centre a lotharingiai város történelmi része. Itt összpontosulnak a katedrális, a múzeumok és a történelmi épületek.",
@@ -519,7 +519,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Reims-Centre", hu: "Reims-Centre", ro: "Reims-Centre", en: "Reims-Centre" },
-    coordinates: { lat: 49.25, lng: 4.03 },
+    coords: [4.03, 49.25],
     description: {
       de: "Reims-Centre ist das Herz der Champagner-Stadt. Der Bereich umfasst die berühmte Kathedrale und die Einkaufsstraßen der Stadt.",
       hu: "Reims-Centre a pezsgőváros szíve. A terület magában foglalja a híres katedrálist és a város bevásárlóutcáit.",
@@ -551,7 +551,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Amiens-Nord", hu: "Amiens-Nord", ro: "Amiens-Nord", en: "Amiens-Nord" },
-    coordinates: { lat: 49.91, lng: 2.3 },
+    coords: [2.3, 49.91],
     description: {
       de: "Dieser nördliche Bereich von Amiens umfasst Wohnviertel und moderne Entwicklungsgebiete. Die Stadt ist gut vernetzt.",
       hu: "Amiens északi része lakónegyedeket és modern fejlesztési területeket foglal magában. A város jól összekapcsolt.",
@@ -583,7 +583,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Caen-Centre", hu: "Caen-Centre", ro: "Caen-Centre", en: "Caen-Centre" },
-    coordinates: { lat: 49.18, lng: -0.36 },
+    coords: [-0.36, 49.18],
     description: {
       de: "Caen-Centre bietet eine Mischung aus historischer Architektur und modernem urbanem Leben in der Normandie.",
       hu: "Caen-Centre a történelmi építészet és a modern városi élet keverékét kínálja Normandiában.",
@@ -615,7 +615,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Angers-Centre", hu: "Angers-Centre", ro: "Angers-Centre", en: "Angers-Centre" },
-    coordinates: { lat: 47.47, lng: -0.56 },
+    coords: [-0.56, 47.47],
     description: {
       de: "Angers-Centre ist das historische Zentrum am Maine-Fluss. Der Bereich ist berühmt für die Kathedrale und das Schloss.",
       hu: "Angers-Centre a Maine folyó melletti történelmi központ. A terület híres a katedrálisról és a várról.",
@@ -647,7 +647,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Nancy-Nord", hu: "Nancy-Nord", ro: "Nancy-Nord", en: "Nancy-Nord" },
-    coordinates: { lat: 48.7, lng: 6.18 },
+    coords: [6.18, 48.7],
     description: {
       de: "Der nördliche Bereich von Nancy bietet urbane Infrastruktur und Zugang zu Parks im Stadtgebiet.",
       hu: "Nancy északi területe városi infrastruktúrát és hozzáférést biztosít a városi parkokhoz.",
@@ -679,7 +679,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Toulouse-Centre", hu: "Toulouse-Centre", ro: "Toulouse-Centre", en: "Toulouse-Centre" },
-    coordinates: { lat: 43.6, lng: 1.45 },
+    coords: [1.45, 43.6],
     description: {
       de: "Toulouse-Centre bildet das historische Viertel der Stadt mit Gebäuden aus rotem Backstein.",
       hu: "Toulouse-Centre a város történelmi negyedét alkotja vörös téglás épületekkel.",
@@ -711,7 +711,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Bordeaux-Sud", hu: "Bordeaux-Sud", ro: "Bordeaux-Sud", en: "Bordeaux-Sud" },
-    coordinates: { lat: 44.81, lng: -0.57 },
+    coords: [-0.57, 44.81],
     description: {
       de: "Der südliche Bereich von Bordeaux umfasst sowohl Wohngebiete als auch moderne wissenschaftliche Institutionen.",
       hu: "Bordeaux déli része lakóövezeteket és modern tudományos intézményeket egyaránt magában foglal.",
@@ -743,7 +743,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Nizza-Nord", hu: "Nizza-Nord", ro: "Nisa-Nord", en: "Nice-Nord" },
-    coordinates: { lat: 43.73, lng: 7.26 },
+    coords: [7.26, 43.73],
     description: {
       de: "Nizza-Nord bietet Wohngebiete und eine gute Anbindung an das Stadtzentrum und die Küste.",
       hu: "Nizza-Nord lakóövezeteket, valamint jó kapcsolatot kínál a városközponttal és a tengerparttal.",
@@ -775,7 +775,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Lyon-Nord", hu: "Lyon-Nord", ro: "Lyon-Nord", en: "Lyon-Nord" },
-    coordinates: { lat: 45.78, lng: 4.83 },
+    coords: [4.83, 45.78],
     description: {
       de: "Lyon-Nord umfasst Stadtviertel mit einer Mischung aus Wohn- und Geschäftsbereichen.",
       hu: "Lyon-Nord lakó- és üzleti negyedek keverékével rendelkező városrészeket foglal magában.",
@@ -807,7 +807,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Marseille-Nord", hu: "Marseille-Nord", ro: "Marsilia-Nord", en: "Marseille-Nord" },
-    coordinates: { lat: 43.33, lng: 5.36 },
+    coords: [5.36, 43.33],
     description: {
       de: "Marseille-Nord ist ein weitläufiges Gebiet mit industriellen Anlagen und Wohnvierteln.",
       hu: "Marseille-Nord ipari létesítményekkel és lakónegyedekkel rendelkező kiterjedt terület.",
@@ -839,7 +839,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Paris-Nord", hu: "Párizs-Nord", ro: "Paris-Nord", en: "Paris-Nord" },
-    coordinates: { lat: 48.88, lng: 2.36 },
+    coords: [2.36, 48.88],
     description: {
       de: "Paris-Nord bietet lebendige Stadtviertel und wichtige Verkehrsknotenpunkte für die französische Hauptstadt.",
       hu: "Párizs-Nord élénk városnegyedeket és fontos közlekedési csomópontokat kínál a francia főváros számára.",
@@ -871,7 +871,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Lille-Nord", hu: "Lille-Nord", ro: "Lille-Nord", en: "Lille-Nord" },
-    coordinates: { lat: 50.65, lng: 3.06 },
+    coords: [3.06, 50.65],
     description: {
       de: "Lille-Nord ist ein Gebiet, das durch urbane Entwicklung und Industrie geprägt ist.",
       hu: "Lille-Nord egy olyan terület, amelyet a városfejlesztés és az ipar jellemez.",
@@ -903,7 +903,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Grenoble-Sud", hu: "Grenoble-Sud", ro: "Grenoble-Sud", en: "Grenoble-Sud" },
-    coordinates: { lat: 45.16, lng: 5.72 },
+    coords: [5.72, 45.16],
     description: {
       de: "Grenoble-Sud umfasst Wohn- und Wissenschaftsviertel am Rande der französischen Alpen.",
       hu: "Grenoble-Sud lakó- és tudományos negyedeket foglal magában a francia Alpok szélén.",
@@ -935,7 +935,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Nantes-Nord", hu: "Nantes-Nord", ro: "Nantes-Nord", en: "Nantes-Nord" },
-    coordinates: { lat: 47.25, lng: -1.55 },
+    coords: [-1.55, 47.25],
     description: {
       de: "Nantes-Nord ist ein wachsender Bereich der Stadt mit modernen Wohnanlagen und Bildungszentren.",
       hu: "Nantes-Nord a város növekvő területe modern lakóparkokkal és oktatási központokkal.",
@@ -967,7 +967,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Perpignan-Nord", hu: "Perpignan-Nord", ro: "Perpignan-Nord", en: "Perpignan-Nord" },
-    coordinates: { lat: 42.71, lng: 2.89 },
+    coords: [2.89, 42.71],
     description: {
       de: "Perpignan-Nord ist eine Erweiterung der Stadt mit industriellen und Wohn-Flächen.",
       hu: "Perpignan-Nord a város bővítése ipari és lakóterületekkel.",
@@ -999,7 +999,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Valence-Nord", hu: "Valence-Nord", ro: "Valence-Nord", en: "Valence-Nord" },
-    coordinates: { lat: 44.95, lng: 4.89 },
+    coords: [4.89, 44.95],
     description: {
       de: "Valence-Nord ist ein Gebiet für Industrie und Wohnungen in der Drôme-Region.",
       hu: "Valence-Nord ipari és lakóövezeti terület a Drôme régióban.",
@@ -1031,7 +1031,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Chambéry-Nord", hu: "Chambéry-Nord", ro: "Chambéry-Nord", en: "Chambéry-Nord" },
-    coordinates: { lat: 45.58, lng: 5.92 },
+    coords: [5.92, 45.58],
     description: {
       de: "Chambéry-Nord ist ein städtisches Gebiet in der Savoie-Region.",
       hu: "Chambéry-Nord városi terület a Savoie régióban.",
@@ -1063,7 +1063,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Mulhouse-Centre", hu: "Mulhouse-Centre", ro: "Mulhouse-Centre", en: "Mulhouse-Centre" },
-    coordinates: { lat: 47.74, lng: 7.33 },
+    coords: [7.33, 47.74],
     description: {
       de: "Mulhouse-Centre ist der historische Stadtteil von Mülhausen im Elsass.",
       hu: "Mulhouse-Centre Mülhausen történelmi városrésze Elzászban.",
@@ -1095,7 +1095,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Besançon-Sud", hu: "Besançon-Sud", ro: "Besançon-Sud", en: "Besançon-Sud" },
-    coordinates: { lat: 47.21, lng: 6.02 },
+    coords: [6.02, 47.21],
     description: {
       de: "Der südliche Stadtteil von Besançon umfasst Bildungseinrichtungen und Wohnviertel.",
       hu: "Besançon déli városrésze oktatási intézményeket és lakónegyedeket foglal magában.",
@@ -1127,7 +1127,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Poitiers-Nord", hu: "Poitiers-Nord", ro: "Poitiers-Nord", en: "Poitiers-Nord" },
-    coordinates: { lat: 46.6, lng: 0.34 },
+    coords: [0.34, 46.6],
     description: {
       de: "Dieser Bereich von Poitiers umfasst moderne Gewerbe- und Wohngebiete.",
       hu: "Poitiers e területe modern ipari és lakóövezeteket foglal magában.",
@@ -1159,7 +1159,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Nîmes-Sud", hu: "Nîmes-Sud", ro: "Nîmes-Sud", en: "Nîmes-Sud" },
-    coordinates: { lat: 43.8, lng: 4.36 },
+    coords: [4.36, 43.8],
     description: {
       de: "Nîmes-Sud ist ein Gebiet mit Wohn- und Infrastrukturanlagen im Süden der Stadt.",
       hu: "Nîmes-Sud lakó- és infrastrukturális létesítményekkel rendelkező terület a város déli részén.",
@@ -1191,7 +1191,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Brest-Centre", hu: "Brest-Centre", ro: "Brest-Centre", en: "Brest-Centre" },
-    coordinates: { lat: 48.39, lng: -4.49 },
+    coords: [-4.49, 48.39],
     description: {
       de: "Brest-Centre bildet das moderne Zentrum der bretonischen Hafenstadt.",
       hu: "Brest-Centre a breton kikötőváros modern központja.",
@@ -1223,7 +1223,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Avignon-Nord", hu: "Avignon-Nord", ro: "Avignon-Nord", en: "Avignon-Nord" },
-    coordinates: { lat: 43.96, lng: 4.8 },
+    coords: [4.8, 43.96],
     description: {
       de: "Dieser Bereich von Avignon bietet Infrastruktur und Wohnraum außerhalb der historischen Mauern.",
       hu: "Avignon e területe infrastruktúrát és lakóteret biztosít a történelmi falakon kívül.",
@@ -1255,7 +1255,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Clermont-Ferrand-Nord", hu: "Clermont-Ferrand-Nord", ro: "Clermont-Ferrand-Nord", en: "Clermont-Ferrand-Nord" },
-    coordinates: { lat: 45.79, lng: 3.08 },
+    coords: [3.08, 45.79],
     description: {
       de: "Clermont-Ferrand-Nord umfasst industrielle Entwicklungsgebiete und moderne Wohnviertel.",
       hu: "Clermont-Ferrand-Nord ipari fejlesztési területeket és modern lakónegyedeket foglal magában.",
@@ -1287,7 +1287,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Tours-Nord", hu: "Tours-Nord", ro: "Tours-Nord", en: "Tours-Nord" },
-    coordinates: { lat: 47.41, lng: 0.68 },
+    coords: [0.68, 47.41],
     description: {
       de: "Tours-Nord bietet moderne Infrastruktur und Wohngebiete nördlich der Loire.",
       hu: "Tours-Nord modern infrastruktúrát és lakónegyedeket kínál a Loire-tól északra.",
@@ -1319,7 +1319,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Nancy-Sud", hu: "Nancy-Sud", ro: "Nancy-Sud", en: "Nancy-Sud" },
-    coordinates: { lat: 48.67, lng: 6.18 },
+    coords: [6.18, 48.67],
     description: {
       de: "Der südliche Bereich von Nancy bietet urbane Entwicklung und Wohnviertel.",
       hu: "Nancy déli területe városfejlesztést és lakónegyedeket kínál.",
@@ -1351,7 +1351,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Toulouse-Sud", hu: "Toulouse-Sud", ro: "Toulouse-Sud", en: "Toulouse-Sud" },
-    coordinates: { lat: 43.58, lng: 1.44 },
+    coords: [1.44, 43.58],
     description: {
       de: "Der südliche Bereich von Toulouse umfasst Wohngebiete und moderne wissenschaftliche Parks.",
       hu: "Toulouse déli területe lakóövezeteket és modern tudományos parkokat foglal magában.",
@@ -1383,7 +1383,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Nizza-Sud", hu: "Nizza-Sud", ro: "Nisa-Sud", en: "Nice-Sud" },
-    coordinates: { lat: 43.69, lng: 7.26 },
+    coords: [7.26, 43.69],
     description: {
       de: "Nizza-Sud liegt direkt an der Mittelmeerküste und bietet Strandzugang und Wohngebiete.",
       hu: "Nizza-Sud közvetlenül a Földközi-tenger partján fekszik, strandhozzáférést és lakóövezeteket kínál.",
@@ -1415,7 +1415,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Lyon-Sud", hu: "Lyon-Sud", ro: "Lyon-Sud", en: "Lyon-Sud" },
-    coordinates: { lat: 45.74, lng: 4.83 },
+    coords: [4.83, 45.74],
     description: {
       de: "Der südliche Bereich von Lyon bietet eine Mischung aus Industrie- und Wohnflächen.",
       hu: "Lyon déli területe ipari és lakóterületek keverékét kínálja.",
@@ -1447,7 +1447,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Marseille-Sud", hu: "Marseille-Sud", ro: "Marsilia-Sud", en: "Marseille-Sud" },
-    coordinates: { lat: 43.26, lng: 5.36 },
+    coords: [5.36, 43.26],
     description: {
       de: "Marseille-Sud umfasst Wohngebiete nahe der Küste und bietet Zugang zu mediterranen Stränden.",
       hu: "Marseille-Sud a part közelében lévő lakóövezeteket foglal magában, és hozzáférést biztosít a mediterrán strandokhoz.",
@@ -1479,7 +1479,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Paris-Sud", hu: "Párizs-Sud", ro: "Paris-Sud", en: "Paris-Sud" },
-    coordinates: { lat: 48.82, lng: 2.36 },
+    coords: [2.36, 48.82],
     description: {
       de: "Paris-Sud bietet lebendige Viertel und Zugang zu wichtigen städtischen Parks und Einrichtungen.",
       hu: "Párizs-Sud élénk negyedeket és hozzáférést kínál fontos városi parkokhoz és létesítményekhez.",
@@ -1511,7 +1511,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Lille-Sud", hu: "Lille-Sud", ro: "Lille-Sud", en: "Lille-Sud" },
-    coordinates: { lat: 50.61, lng: 3.06 },
+    coords: [3.06, 50.61],
     description: {
       de: "Lille-Sud ist ein Gebiet für Wohnen und urbane Entwicklung südlich des Stadtzentrums.",
       hu: "Lille-Sud lakhatási és városfejlesztési terület a városközponttól délre.",
@@ -1543,7 +1543,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Grenoble-Nord", hu: "Grenoble-Nord", ro: "Grenoble-Nord", en: "Grenoble-Nord" },
-    coordinates: { lat: 45.2, lng: 5.72 },
+    coords: [5.72, 45.2],
     description: {
       de: "Grenoble-Nord ist ein Gebiet mit moderner urbaner Infrastruktur und Wohnsiedlungen.",
       hu: "Grenoble-Nord modern városi infrastruktúrával és lakótelepekkel rendelkező terület.",
@@ -1575,7 +1575,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Nantes-Sud", hu: "Nantes-Sud", ro: "Nantes-Sud", en: "Nantes-Sud" },
-    coordinates: { lat: 47.19, lng: -1.55 },
+    coords: [-1.55, 47.19],
     description: {
       de: "Der südliche Bereich von Nantes bietet Zugang zu Flussufern und modernen Wohnanlagen.",
       hu: "Nantes déli területe hozzáférést biztosít a folyópartokhoz és modern lakóparkokhoz.",
@@ -1607,7 +1607,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Perpignan-Sud", hu: "Perpignan-Sud", ro: "Perpignan-Sud", en: "Perpignan-Sud" },
-    coordinates: { lat: 42.67, lng: 2.89 },
+    coords: [2.89, 42.67],
     description: {
       de: "Perpignan-Sud ist ein Gebiet für Wohnen und lokale Infrastruktur im Süden.",
       hu: "Perpignan-Sud lakhatási és helyi infrastrukturális terület délen.",
@@ -1639,7 +1639,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Valence-Sud", hu: "Valence-Sud", ro: "Valence-Sud", en: "Valence-Sud" },
-    coordinates: { lat: 44.91, lng: 4.89 },
+    coords: [4.89, 44.91],
     description: {
       de: "Valence-Sud ist ein Gebiet für Wohnen und Handel in der Drôme-Region.",
       hu: "Valence-Sud lakhatási és kereskedelmi terület a Drôme régióban.",
@@ -1671,7 +1671,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Chambéry-Sud", hu: "Chambéry-Sud", ro: "Chambéry-Sud", en: "Chambéry-Sud" },
-    coordinates: { lat: 45.54, lng: 5.92 },
+    coords: [5.92, 45.54],
     description: {
       de: "Chambéry-Sud ist ein Gebiet für Wohnsiedlungen in der Alpenregion.",
       hu: "Chambéry-Sud lakótelepi terület az alpesi régióban.",
@@ -1703,7 +1703,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Mulhouse-Sud", hu: "Mulhouse-Sud", ro: "Mulhouse-Sud", en: "Mulhouse-Sud" },
-    coordinates: { lat: 47.72, lng: 7.33 },
+    coords: [7.33, 47.72],
     description: {
       de: "Mulhouse-Sud ist ein Gebiet mit Wohn- und Industrieeinrichtungen im Süden der Elsass-Stadt.",
       hu: "Mulhouse-Sud lakó- és ipari létesítményekkel rendelkező terület az elzászi város déli részén.",
@@ -1735,7 +1735,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Besançon-Ouest", hu: "Besançon-Ouest", ro: "Besançon-Ouest", en: "Besançon-Ouest" },
-    coordinates: { lat: 47.23, lng: 6.0 },
+    coords: [6.0, 47.23],
     description: {
       de: "Dieser westliche Teil von Besançon umfasst moderne Wohn- und Dienstleistungsbereiche.",
       hu: "Besançon nyugati része modern lakhatási és szolgáltatási területeket foglal magában.",
@@ -1767,7 +1767,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Poitiers-Sud", hu: "Poitiers-Sud", ro: "Poitiers-Sud", en: "Poitiers-Sud" },
-    coordinates: { lat: 46.56, lng: 0.34 },
+    coords: [0.34, 46.56],
     description: {
       de: "Poitiers-Sud ist ein Gebiet für Wohnen und Infrastruktur südlich des Stadtzentrums.",
       hu: "Poitiers-Sud lakhatási és infrastrukturális terület a városközponttól délre.",
@@ -1799,7 +1799,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Nîmes-Nord", hu: "Nîmes-Nord", ro: "Nîmes-Nord", en: "Nîmes-Nord" },
-    coordinates: { lat: 43.85, lng: 4.36 },
+    coords: [4.36, 43.85],
     description: {
       de: "Nîmes-Nord ist ein Gebiet für moderne Infrastruktur im Norden der Stadt.",
       hu: "Nîmes-Nord modern infrastrukturális terület a város északi részén.",
@@ -1831,7 +1831,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Brest-Nord", hu: "Brest-Nord", ro: "Brest-Nord", en: "Brest-Nord" },
-    coordinates: { lat: 48.41, lng: -4.48 },
+    coords: [-4.48, 48.41],
     description: {
       de: "Brest-Nord ist ein Gebiet für Wohnsiedlungen in der bretonischen Hafenstadt.",
       hu: "Brest-Nord lakótelepi terület a breton kikötővárosban.",
@@ -1863,7 +1863,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Avignon-Sud", hu: "Avignon-Sud", ro: "Avignon-Sud", en: "Avignon-Sud" },
-    coordinates: { lat: 43.92, lng: 4.8 },
+    coords: [4.8, 43.92],
     description: {
       de: "Avignon-Sud ist ein Gebiet mit Wohn- und Infrastrukturanlagen im Süden der historischen Stadt.",
       hu: "Avignon-Sud lakó- és infrastrukturális létesítményekkel rendelkező terület a történelmi város déli részén.",
@@ -1895,7 +1895,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Clermont-Ferrand-Sud", hu: "Clermont-Ferrand-Sud", ro: "Clermont-Ferrand-Sud", en: "Clermont-Ferrand-Sud" },
-    coordinates: { lat: 45.75, lng: 3.08 },
+    coords: [3.08, 45.75],
     description: {
       de: "Clermont-Ferrand-Sud ist ein Gebiet für Wohnen und Dienstleistungen.",
       hu: "Clermont-Ferrand-Sud lakhatási és szolgáltatási terület.",
@@ -1927,7 +1927,7 @@ export const franceCitiesV2: POI[] = [
     type: "city",
     parent: "FR",
     name: { de: "Tours-Sud", hu: "Tours-Sud", ro: "Tours-Sud", en: "Tours-Sud" },
-    coordinates: { lat: 47.37, lng: 0.68 },
+    coords: [0.68, 47.37],
     description: {
       de: "Tours-Sud ist ein Gebiet mit moderner urbaner Infrastruktur südlich der Loire.",
       hu: "Tours-Sud modern városi infrastruktúrával rendelkező terület a Loire-tól délre.",

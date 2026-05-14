@@ -704,7 +704,20 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["A Kéran-parkon folyik keresztül", "Szezonális vízfolyás", "Fontos a vadvilág számára", "Az Otiba torkollik"],
       ro: ["Curge prin parcul Kéran", "Curs de apă sezonier", "Important pentru viața sălbatică", "Se varsă în râul Oti"],
       en: ["Flows through Kéran Park", "Seasonal watercourse", "Important for wildlife", "Empties into the Oti"]
-    }, image: "/poi-images/koumongou-river-nature-v2.webp"},
+    }, image: "/poi-images/koumongou-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Koumongou River ist ein Fluss im Norden Togos, der in die Oti mündet. Er entspringt in der Region Savanes und fließt südlich. Seine Länge beträgt etwa 200 Kilometer. Der Koumongou ist saisonal und führt während der Regenzeit viel Wasser. Das Einzugsgebiet wird für die Landwirtschaft genutzt, hauptsächlich für Hirse und Baumwolle. Der Fluss ist Lebensraum für verschiedene Fischarten. In der Trockenzeit kann der Fluss austrocknen. Die Ufer sind von Galeriewäldern gesäumt. Der Koumongou ist wichtig für die lokale Bevölkerung.",
+      hu: "A Koumongou-folyó egy folyó Észak-Togoban, amely az Otiba ömlik. A Savanes régióban ered, és dél felé folyik. Hossza körülbelül 200 kilométer. A Koumongou időszakos, az esős évszakban sok vizet szállít. Vízgyűjtő területét mezőgazdaságra használják, főleg köles és gyapot termesztésére. A folyó különféle halfajok élőhelye. A száraz évszakban a folyó kiszáradhat. A partokat galériaerdők szegélyezik. A Koumongou fontos a helyi lakosság számára.",
+      ro: "Râul Koumongou este un râu din nordul Togo, care se varsă în Oti. Izvorăște din regiunea Savanes și curge spre sud. Are o lungime de aproximativ 200 de kilometri. Koumongou este sezonier, cu debit mare în sezonul ploios. Bazinul este folosit pentru agricultură, în principal mei și bumbac. Râul este habitat pentru diverse specii de pești. În sezonul uscat, râul poate seca. Malurile sunt mărginite de păduri galerii. Koumongou este important pentru populația locală.",
+      en: "The Koumongou River is a river in northern Togo, a tributary of the Oti. It originates in the Savanes region and flows south. Its length is about 200 kilometers. The Koumongou is seasonal, carrying much water in the rainy season. The catchment is used for agriculture, mainly millet and cotton. The river is habitat for various fish species. In the dry season the river may dry up. Banks are lined with gallery forests. The Koumongou is important for the local population.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 200 km", "Einzugsgebiet: 5.000 km²", "Ursprung: Savanes Region (Höhe 300 m)", "Mündung: Oti River", "Durchfluss (trocken): 2 m³/s", "Durchfluss (Regenzeit): 150 m³/s"],
+      hu: ["Hossz: 200 km", "Vízgyűjtő terület: 5000 km²", "Eredet: Savanes régió (300 m magasság)", "Torkolat: Oti-folyó", "Vízhozam (száraz): 2 m³/s", "Vízhozam (esős): 150 m³/s"],
+      ro: ["Lungime: 200 km", "Bazin hidrografic: 5.000 km²", "Origine: regiunea Savanes (altitudine 300 m)", "Vărsare: Râul Oti", "Debit (secetă): 2 m³/s", "Debit (ploaie): 150 m³/s"],
+      en: ["Length: 200 km", "Catchment area: 5,000 km²", "Source: Savanes region (300 m elevation)", "Mouth: Oti River", "Discharge (dry): 2 m³/s", "Discharge (wet): 150 m³/s"],
+    },
+  },
   {
     id: "mount-tabalo-nature-v2",
     type: "mountain",
@@ -727,7 +740,20 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["Népszerű a hegymászók körében", "Gazdag növény- és állatvilág", "A Togo-hegység része", "Kilátás a Centrale régióra"],
       ro: ["Popular printre alpiniști", "Floră și faună bogată", "Parte a lanțului muntos Togo", "Vedere asupra regiunii Centrale"],
       en: ["Popular with climbers", "Rich flora and fauna", "Part of the Togo mountain range", "View over the Centrale region"]
-    }, image: "/poi-images/mount-tabalo-nature-v2.webp"},
+    }, image: "/poi-images/mount-tabalo-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Tabalo ist ein Berg im Süden von Togo in der Region Plateaux. Er erreicht eine Höhe von etwa 1.000 Metern. Der Berg ist Teil des Togo-Gebirges und besteht aus Granit und Gneis. Die Hänge sind mit Savannenwald und landwirtschaftlichen Nutzflächen bedeckt. Auf dem Gipfel steht eine Antennenstation. Der Berg bietet eine Aussicht auf die umliegende Landschaft. In der Umgebung gibt es Dörfer der Kabye- und Ewe-Volksgruppen. Der Berg ist ein Ziel für Wanderer. Die Region ist bekannt für den Anbau von Kaffee und Kakao.",
+      hu: "A Tabalo-hegy egy hegy Togo déli részén, a Plateaux régióban. Körülbelül 1000 méter magas. A hegy a Togo-hegység része, gránitból és gneiszből áll. Lejtőit szavanna-erdő és mezőgazdasági területek borítják. A csúcson antennaállomás található. A hegy kilátást nyújt a környező tájra. A környéken a Kabye és Ewe népek falvai találhatók. A hegy a túrázók célpontja. A régió híres a kávé és kakaó termesztéséről.",
+      ro: "Muntele Tabalo este un munte în sudul Togo, în regiunea Plateaux. Are o altitudine de aproximativ 1.000 de metri. Muntele face parte din Munții Togo, fiind compus din granit și gnais. Pantele sunt acoperite cu păduri de savană și terenuri agricole. Pe vârf se află o stație de antene. Muntele oferă vedere asupra peisajului din jur. În apropiere se află sate ale etniilor Kabye și Ewe. Muntele este o destinație pentru drumeții. Regiunea este cunoscută pentru cultivarea cafelei și a cacaoului.",
+      en: "Mount Tabalo is a mountain in southern Togo in the Plateaux region. It reaches an elevation of about 1,000 meters. The mountain is part of the Togo Mountains, composed of granite and gneiss. Slopes are covered with savanna woodlands and agricultural fields. An antenna station sits on the summit. The mountain offers views of the surrounding landscape. Nearby are villages of the Kabye and Ewe ethnic groups. The mountain is a hiking destination. The region is known for coffee and cocoa cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.000 m", "Lage: Plateaux, Togo", "Gestein: Granit und Gneis", "Bevölkerung der umliegenden Dörfer: ca. 5.000", "Durchschnittstemperatur: 25°C", "Jährliche Niederschlagsmenge: 1.500 mm"],
+      hu: ["Magasság: 1000 m", "Elhelyezkedés: Plateaux, Togo", "Kőzet: gránit és gneisz", "Környező falvak lakossága: kb. 5000", "Átlaghőmérséklet: 25°C", "Éves csapadékmennyiség: 1500 mm"],
+      ro: ["Altitudine: 1.000 m", "Locație: Plateaux, Togo", "Rocă: granit și gnais", "Populația satelor din jur: circa 5.000", "Temperatura medie: 25°C", "Precipitații anuale: 1.500 mm"],
+      en: ["Elevation: 1,000 m", "Location: Plateaux, Togo", "Rock type: granite and gneiss", "Population of surrounding villages: approx. 5,000", "Average temperature: 25°C", "Annual rainfall: 1,500 mm"],
+    },
+  },
   {
     id: "cascade-kpime-forest-nature-v2",
     type: "forest",
@@ -822,6 +848,18 @@ export const poiExtraTogoNatureV2: POI[] = [
       hu: ["A hegylánc része", "Fontos tájékozódási pont", "Helyi legendák otthona", "Sziklás terep"],
       ro: ["Parte a lanțului muntos", "Punct de orientare important", "Găzduiește legende locale", "Teren stâncos"],
       en: ["Part of the mountain range", "Important landmark", "Home to local legends", "Rocky terrain"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Mount Ibéti ist ein Berg im Südwesten Togos in der Region Maritime. Er hat eine Höhe von etwa 500 Metern. Der Berg ist vulkanischen Ursprungs und mit dichtem tropischen Regenwald bedeckt. Er ist Teil des Schutzgebiets der Forêt Classée de l'Ibéti. Der Berg beherbergt eine vielfältige Flora und Fauna, darunter Affen und seltene Vogelarten. In der Umgebung wird Kautschuk und Palmöl produziert. Der Berg ist ein beliebtes Ziel für Ökotourismus. Wanderwege führen zu Wasserfällen und Aussichtspunkten. Die Region ist kulturell von den Mina- und Ewe-Völkern geprägt.",
+      hu: "Az Ibéti-hegy egy hegy Togo délnyugati részén, a Maritime régióban. Magassága körülbelül 500 méter. A hegy vulkáni eredetű, sűrű trópusi esőerdő borítja. Része az Ibéti osztályozott erdő védett területének. A hegy változatos növény- és állatvilágnak ad otthont, beleértve majmokat és ritka madárfajokat. A környéken gumi- és pálmaolaj-termelés folyik. A hegy népszerű ökoturisztikai célpont. Túraútvonalak vezetnek vízesésekhez és kilátópontokhoz. A régiót kulturálisan a mina és ewe népek jellemzik.",
+      ro: "Muntele Ibéti este un munte în sud-vestul Togo, în regiunea Maritime. Are o altitudine de aproximativ 500 de metri. Muntele este de origine vulcanică, acoperit cu păduri tropicale dese. Face parte din aria protejată Pădurea Clasificată Ibéti. Muntele găzduiește o floră și faună diversă, inclusiv maimuțe și specii rare de păsări. În zonă se produce cauciuc și ulei de palmier. Muntele este o destinație populară pentru ecoturism. Traseele duc la cascade și puncte de belvedere. Regiunea este marcată cultural de popoarele Mina și Ewe.",
+      en: "Mount Ibéti is a mountain in southwestern Togo in the Maritime region. It has an elevation of about 500 meters. The mountain is of volcanic origin and covered with dense tropical rainforest. It is part of the Forêt Classée de l'Ibéti protected area. The mountain hosts diverse flora and fauna, including monkeys and rare bird species. Rubber and palm oil production occurs in the vicinity. The mountain is a popular ecotourism destination. Hiking trails lead to waterfalls and viewpoints. The region is culturally shaped by the Mina and Ewe peoples.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 500 m", "Lage: Maritime, Togo", "Schutzgebietsgröße: 10.000 ha", "Anzahl Wasserfälle: 3", "Durchschnittstemperatur: 26°C", "Jährliche Niederschlagsmenge: 1.800 mm"],
+      hu: ["Magasság: 500 m", "Elhelyezkedés: Maritime, Togo", "Védett terület mérete: 10.000 ha", "Vízesések száma: 3", "Átlaghőmérséklet: 26°C", "Éves csapadékmennyiség: 1800 mm"],
+      ro: ["Altitudine: 500 m", "Locație: Maritime, Togo", "Suprafața ariei protejate: 10.000 ha", "Număr de cascade: 3", "Temperatura medie: 26°C", "Precipitații anuale: 1.800 mm"],
+      en: ["Elevation: 500 m", "Location: Maritime, Togo", "Protected area size: 10,000 ha", "Number of waterfalls: 3", "Average temperature: 26°C", "Annual rainfall: 1,800 mm"],
+    },
   }
 ];

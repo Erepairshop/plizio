@@ -6,7 +6,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Burgruine Maasi", hu: "Maasi várrom", ro: "Ruinele Castelului Maasi", en: "Maasi Order Castle Ruins" },
-    coordinates: { lat: 58.5532, lng: 23.1614 },
+    coords: [23.1614, 58.5532],
     description: {
       de: "Diese ehemalige Festung des Deutschen Ordens wurde im 16. Jahrhundert während des Livländischen Krieges zerstört. Heute sind nur noch Teile der ursprünglichen Mauern auf der Insel Saaremaa erhalten.",
       hu: "Ez a Német Lovagrend egykori erődítménye a 16. században, a livóniai háború alatt semmisült meg. Ma csak az eredeti falak egyes részei láthatók Saaremaa szigetén.",
@@ -38,7 +38,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "castle",
     parent: "EE",
     name: { de: "Burg Kastre", hu: "Kastre vár", ro: "Castelul Kastre", en: "Kastre Castle" },
-    coordinates: { lat: 58.3075, lng: 26.9602 },
+    coords: [26.9602, 58.3075],
     description: {
       de: "Die Burg Kastre war eine bischöfliche Festung am Fluss Emajõgi. Sie diente im Mittelalter zur Kontrolle der Wasserwege in der Nähe von Tartu.",
       hu: "A Kastre vár egy püspöki erődítmény volt az Emajõgi folyó mentén. A középkorban a Tartú környéki vízi utak ellenőrzésére szolgált.",
@@ -70,7 +70,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Klosterruine Pirita", hu: "Pirita kolostorromok", ro: "Ruinele Mănăstirii Pirita", en: "Pirita Convent Ruins" },
-    coordinates: { lat: 59.4674, lng: 24.8358 },
+    coords: [24.8358, 59.4674],
     description: {
       de: "Das 1407 gegründete Birgittenkloster in Tallinn wurde im Livländischen Krieg 1577 von russischen Truppen weitgehend zerstört. Die Ruinen sind ein bedeutendes Beispiel spätmittelalterlicher Architektur.",
       hu: "Az 1407-ben alapított tallinni Szent Brigitta-rendi kolostort 1577-ben, a livóniai háború során az orosz csapatok nagyrészt elpusztították. A romok a késő középkori építészet jelentős példái.",
@@ -102,7 +102,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Gutshaus Viimsi", hu: "Viimsi udvarház", ro: "Conacul Viimsi", en: "Viimsi Manor" },
-    coordinates: { lat: 59.5042, lng: 24.8214 },
+    coords: [24.8214, 59.5042],
     description: {
       de: "Dieses historische Herrenhaus diente einst als Sommerresidenz für verschiedene Adelsfamilien und beherbergt heute ein Museum für estnische Kriegsgeschichte.",
       hu: "Ez a történelmi udvarház egykor különböző nemesi családok nyári rezidenciájaként szolgált, ma az észt hadtörténeti múzeumnak ad otthont.",
@@ -134,7 +134,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Schloss Fall Ruinen", hu: "Fall-kastély romjai", ro: "Ruinele Castelului Fall", en: "Fall Castle Ruins" },
-    coordinates: { lat: 59.3975, lng: 24.3053 },
+    coords: [24.3053, 59.3975],
     description: {
       de: "Teile der historischen Anlage rund um das Gut Keila-Joa sind als Ruinen erhalten geblieben und zeugen von der Pracht der baltendeutschen Adelskultur.",
       hu: "A Keila-Joa birtok körüli történelmi komplexum részei romként maradtak fenn, és a balti-német nemesi kultúra pompáját tanúsítják.",
@@ -166,7 +166,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Burgruine Karksi", hu: "Karksi várromok", ro: "Ruinele Castelului Karksi", en: "Karksi Castle Ruins" },
-    coordinates: { lat: 58.1065, lng: 25.5921 },
+    coords: [25.5921, 58.1065],
     description: {
       de: "Die strategisch wichtige Burg Karksi wurde im 13. Jahrhundert durch den Livländischen Orden errichtet und war im Mittelalter ein umkämpftes Gebiet.",
       hu: "A stratégiailag fontos Karksi várat a 13. században emeltette a Livóniai Lovagrend, a középkorban gyakran vitatott terület volt.",
@@ -198,7 +198,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "castle",
     parent: "EE",
     name: { de: "Gut Laitse", hu: "Laitse udvarház", ro: "Conacul Laitse", en: "Laitse Manor" },
-    coordinates: { lat: 59.1352, lng: 24.3644 },
+    coords: [24.3644, 59.1352],
     description: {
       de: "Dieses neugotische Schloss wurde im späten 19. Jahrhundert errichtet und ist ein herausragendes Beispiel für die romantische Architektur jener Zeit in Estland.",
       hu: "Ez a neogótikus kastély a 19. század végén épült, és Észtország akkori romantikus építészetének kiemelkedő példája.",
@@ -230,7 +230,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Kirche Vaivara Ruinen", hu: "Vaivara templomromok", ro: "Ruinele Bisericii Vaivara", en: "Vaivara Church Ruins" },
-    coordinates: { lat: 59.3521, lng: 27.7645 },
+    coords: [27.7645, 59.3521],
     description: {
       de: "Die alte Kirche von Vaivara wurde während der intensiven Kämpfe an der Narva-Front im Zweiten Weltkrieg zerstört und heute als Mahnmal erhalten.",
       hu: "Vaivara régi temploma a második világháború során, a narvai fronton folyó intenzív harcok alatt semmisült meg, ma emlékműként őrzik.",
@@ -262,7 +262,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Schloss Sangaste", hu: "Sangaste-kastély", ro: "Castelul Sangaste", en: "Sangaste Castle" },
-    coordinates: { lat: 57.9256, lng: 26.3402 },
+    coords: [26.3402, 57.9256],
     description: {
       de: "Das Schloss wurde im 19. Jahrhundert nach dem Vorbild englischer Tudor-Burgen erbaut und ist berühmt für seine Zucht des Sangaste-Roggens.",
       hu: "A kastélyt a 19. században angol Tudor-kori várak mintájára építették, és híres a sangastei rozs nemesítéséről.",
@@ -294,7 +294,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Gut Ohekatku", hu: "Ohekatku udvarház", ro: "Conacul Ohekatku", en: "Ohekatku Manor" },
-    coordinates: { lat: 58.9155, lng: 24.8101 },
+    coords: [24.8101, 58.9155],
     description: {
       de: "Das Gut Ohekatku repräsentiert die typische bäuerlich-adlige Architektur Estlands aus dem 18. und 19. Jahrhundert.",
       hu: "Az Ohekatku birtok az 18. és 19. századi észt paraszti-nemesi építészet tipikus képviselője.",
@@ -326,7 +326,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "castle",
     parent: "EE",
     name: { de: "Bischofsburg Haapsalu", hu: "Haapsalu vár", ro: "Castelul Haapsalu", en: "Haapsalu Bishop's Castle" },
-    coordinates: { lat: 58.9481, lng: 23.5422 },
+    coords: [23.5422, 58.9481],
     description: {
       de: "Diese mittelalterliche Bischofsburg wurde im 13. Jahrhundert errichtet und ist heute eines der am besten erhaltenen Schlösser in Westestland.",
       hu: "Ezt a középkori püspöki várat a 13. században emelték, ma Nyugat-Észtország egyik legjobban megőrzött kastélya.",
@@ -358,7 +358,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Burgruinen Tõrva", hu: "Tõrva várromok", ro: "Ruinele Castelului Tõrva", en: "Tõrva Castle Ruins" },
-    coordinates: { lat: 58.0035, lng: 25.9221 },
+    coords: [25.9221, 58.0035],
     description: {
       de: "Die Überreste der historischen Befestigungsanlage von Tõrva sind wichtige Zeugen der Verteidigungsstrategien im mittelalterlichen Südestland.",
       hu: "Tõrva történelmi erődítményének maradványai a középkori Dél-Észtország védelmi stratégiáinak fontos tanúi.",
@@ -390,7 +390,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Gut Jägala", hu: "Jägala udvarház", ro: "Conacul Jägala", en: "Jägala Manor" },
-    coordinates: { lat: 59.4344, lng: 25.1852 },
+    coords: [25.1852, 59.4344],
     description: {
       de: "Das Gut Jägala war ein bedeutender Wirtschaftshof im 19. Jahrhundert, der für seine enge Verbindung zur Agrargeschichte der Region steht.",
       hu: "A Jägala birtok a 19. században jelentős gazdasági központ volt, amely a régió agrártörténetével való szoros kapcsolatáról ismert.",
@@ -422,7 +422,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Burgruine Põltsamaa", hu: "Põltsamaa várromok", ro: "Ruinele Castelului Põltsamaa", en: "Põltsamaa Castle Ruins" },
-    coordinates: { lat: 58.6534, lng: 25.9667 },
+    coords: [25.9667, 58.6534],
     description: {
       de: "Die im 13. Jahrhundert gegründete Burg wurde im Laufe der Geschichte mehrfach umgebaut und war zeitweise die Residenz des livländischen Königs Magnus.",
       hu: "A 13. században alapított várat a történelem során többször átépítették, és egy időben Magnus livóniai király rezidenciája volt.",
@@ -454,7 +454,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Gut Vasta", hu: "Vasta udvarház", ro: "Conacul Vasta", en: "Vasta Manor" },
-    coordinates: { lat: 59.4589, lng: 26.5412 },
+    coords: [26.5412, 59.4589],
     description: {
       de: "Das Herrenhaus Vasta ist ein klassizistischer Bau, der die typische Architektur estnischer Landgüter des 19. Jahrhunderts widerspiegelt.",
       hu: "A Vasta udvarház egy klasszicista épület, amely a 19. századi észt vidéki birtokok tipikus építészetét tükrözi.",
@@ -486,7 +486,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "Kirche Suure-Jaani", hu: "Suure-Jaani templom", ro: "Biserica Suure-Jaani", en: "Suure-Jaani Church" },
-    coordinates: { lat: 58.5361, lng: 25.4744 },
+    coords: [25.4744, 58.5361],
     description: {
       de: "Diese Kirche aus dem 13. Jahrhundert ist eine der ältesten Sakralbauten im Landesinneren und ein Zentrum der estnischen Musikgeschichte.",
       hu: "Ez a 13. századi templom az egyik legrégebbi egyházi épület az ország belsejében, az észt zenetörténet egyik központja.",
@@ -518,7 +518,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "Kirche Mustjala", hu: "Mustjala templom", ro: "Biserica Mustjala", en: "Mustjala Church" },
-    coordinates: { lat: 58.4552, lng: 22.2533 },
+    coords: [22.2533, 58.4552],
     description: {
       de: "Die Kirche in Mustjala auf Saaremaa stammt aus dem 19. Jahrhundert und spiegelt die religiöse Architektur der Insel in dieser Zeit wider.",
       hu: "A Saaremaa szigeti Mustjala templom a 19. századból származik, és tükrözi a sziget akkori vallási építészetét.",
@@ -550,7 +550,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "Kirche Palamuse", hu: "Palamuse templom", ro: "Biserica Palamuse", en: "Palamuse Church" },
-    coordinates: { lat: 58.6367, lng: 26.4717 },
+    coords: [26.4717, 58.6367],
     description: {
       de: "Die Palamuse-Kirche ist berühmt für ihre Verbindung zur estnischen Literatur, da sie häufig in Werken von Oskar Luts Erwähnung findet.",
       hu: "A palamusei templom híres az észt irodalomhoz fűződő kapcsolatáról, mivel gyakran említik Oskar Luts műveiben.",
@@ -582,7 +582,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Burgruine Vastseliina", hu: "Vastseliina várromok", ro: "Ruinele Castelului Vastseliina", en: "Vastseliina Castle Ruins" },
-    coordinates: { lat: 57.7303, lng: 27.2831 },
+    coords: [27.2831, 57.7303],
     description: {
       de: "Die Burg Vastseliina wurde 1342 vom Livländischen Orden erbaut und war ein bedeutender Wallfahrtsort im mittelalterlichen Livland.",
       hu: "A Vastseliina várat 1342-ben építette a Livóniai Lovagrend, a középkori Livónia egyik fontos zarándokhelye volt.",
@@ -614,7 +614,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Schloss Ungru Ruinen", hu: "Ungru-kastély romjai", ro: "Ruinele Castelului Ungru", en: "Ungru Castle Ruins" },
-    coordinates: { lat: 58.9482, lng: 23.5932 },
+    coords: [23.5932, 58.9482],
     description: {
       de: "Das prunkvolle neobarocke Schloss Ungru wurde nie vollendet und blieb als imposante Ruine nahe Haapsalu erhalten.",
       hu: "A pazar neobarokk Ungru-kastély sosem készült el, impozáns romként maradt fenn Haapsalu közelében.",
@@ -646,7 +646,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Gut Kunda", hu: "Kunda udvarház", ro: "Conacul Kunda", en: "Kunda Manor" },
-    coordinates: { lat: 59.4975, lng: 26.5332 },
+    coords: [26.5332, 59.4975],
     description: {
       de: "Das Gut Kunda ist eng mit der industriellen Entwicklung der Region im 19. Jahrhundert und der Entstehung der Zementindustrie verbunden.",
       hu: "A Kunda birtok szorosan összefügg a 19. századi ipari fejlődéssel és a cementipar megjelenésével a régióban.",
@@ -678,7 +678,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Schloss Taagepera", hu: "Taagepera-kastély", ro: "Castelul Taagepera", en: "Taagepera Castle" },
-    coordinates: { lat: 57.9953, lng: 25.6667 },
+    coords: [25.6667, 57.9953],
     description: {
       de: "Dieses Jugendstil-Schloss ist für seinen markanten Turm bekannt und dient heute als Hotel und Konferenzzentrum in Südestland.",
       hu: "Ez a szecessziós kastély feltűnő tornyáról ismert, ma szállodaként és konferenciaközpontként szolgál Dél-Észtországban.",
@@ -710,7 +710,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "Kirche Tori", hu: "Tori templom", ro: "Biserica Tori", en: "Tori Church" },
-    coordinates: { lat: 58.4831, lng: 24.8197 },
+    coords: [24.8197, 58.4831],
     description: {
       de: "Die Tori-Kirche gilt als Nationaldenkmal für die estnischen Soldaten und Kriegsopfer und ist ein Ort des Gedenkens.",
       hu: "A Tori templom az észt katonák és háborús áldozatok nemzeti emlékhelye, az emlékezés központja.",
@@ -742,7 +742,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Burgruinen Paide", hu: "Paide várromok", ro: "Ruinele Castelului Paide", en: "Paide Castle Ruins" },
-    coordinates: { lat: 58.8872, lng: 25.5539 },
+    coords: [25.5539, 58.8872],
     description: {
       de: "Die Ordensburg Paide wurde 1265 gegründet und spielte eine wichtige Rolle bei der Verteidigung der Region im Mittelalter.",
       hu: "A Paidei lovagvárat 1265-ben alapították, és fontos szerepet játszott a régió védelmében a középkorban.",
@@ -774,7 +774,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "Kirche Lohusuu", hu: "Lohusuu templom", ro: "Biserica Lohusuu", en: "Lohusuu Church" },
-    coordinates: { lat: 58.9483, lng: 27.0544 },
+    coords: [27.0544, 58.9483],
     description: {
       de: "Die Kirche von Lohusuu nahe dem Peipussee ist ein historisches Beispiel für den Kirchenbau in Ostestland im 19. Jahrhundert.",
       hu: "A Peipus-tó melletti Lohusuu templom a 19. századi kelet-észtországi templomépítészet történelmi példája.",
@@ -806,7 +806,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "Kirche St. Johannis Valga", hu: "Valgai Szent János templom", ro: "Biserica Sf. Ioan din Valga", en: "St. John's Church Valga" },
-    coordinates: { lat: 57.7785, lng: 26.0289 },
+    coords: [26.0289, 57.7785],
     description: {
       de: "Diese 1816 geweihte Kirche ist ein architektonisch bedeutendes Gebäude der Stadt Valga an der lettisch-estnischen Grenze.",
       hu: "Ez az 1816-ban felszentelt templom a lett-észt határon fekvő Valga város építészetileg jelentős épülete.",
@@ -838,7 +838,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "Kirche Varbla", hu: "Varbla templom", ro: "Biserica Varbla", en: "Varbla Church" },
-    coordinates: { lat: 58.5555, lng: 23.8211 },
+    coords: [23.8211, 58.5555],
     description: {
       de: "Die historische Kirche in Varbla ist bekannt für ihre schlichte Architektur und ihre Bedeutung als Gemeindezentrum in Westestland.",
       hu: "A varblai történelmi templom egyszerű építészetéről és nyugat-észtországi közösségi központként betöltött szerepéről ismert.",
@@ -870,7 +870,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Gut Kuhjavere", hu: "Kuhjavere udvarház", ro: "Conacul Kuhjavere", en: "Kuhjavere Manor" },
-    coordinates: { lat: 58.5142, lng: 25.6744 },
+    coords: [25.6744, 58.5142],
     description: {
       de: "Das Gut Kuhjavere ist ein schönes Beispiel für die historischen Landgüter, die das ländliche Gesicht Estlands im 19. Jahrhundert prägten.",
       hu: "A Kuhjavere birtok gyönyörű példája azoknak a történelmi vidéki udvarházaknak, amelyek meghatározták Észtország vidéki arculatát a 19. században.",
@@ -902,7 +902,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "castle",
     parent: "EE",
     name: { de: "Gut Purtse", hu: "Purtse udvarház", ro: "Conacul Purtse", en: "Purtse Manor" },
-    coordinates: { lat: 59.4322, lng: 26.9856 },
+    coords: [26.9856, 59.4322],
     description: {
       de: "Dieses wehrhafte Herrenhaus stammt aus dem 16. Jahrhundert und diente als befestigte Residenz für den regionalen Adel.",
       hu: "Ez a védelmi jellegű udvarház a 16. századból származik, és a regionális nemesség megerősített rezidenciájaként szolgált.",
@@ -934,7 +934,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "Kirche Rannu", hu: "Rannu templom", ro: "Biserica Rannu", en: "Rannu Church" },
-    coordinates: { lat: 58.2311, lng: 26.2133 },
+    coords: [26.2133, 58.2311],
     description: {
       de: "Die St.-Martin-Kirche in Rannu ist ein mittelalterlicher Bau, der die kirchliche Geschichte der Region Tartu prägt.",
       hu: "A rannui Szent Márton-templom egy középkori épület, amely meghatározza a Tartú régió egyházi történetét.",
@@ -966,7 +966,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Gut Kolga", hu: "Kolga udvarház", ro: "Conacul Kolga", en: "Kolga Manor" },
-    coordinates: { lat: 59.4977, lng: 25.4355 },
+    coords: [25.4355, 59.4977],
     description: {
       de: "Das Gut Kolga, einst im Besitz der Familie Stenbock, ist ein monumentales Herrenhaus und ein Beispiel barocker Pracht in Estland.",
       hu: "A Kolga birtok, amely egykor a Stenbock család tulajdonában volt, monumentális udvarház és az észtországi barokk pompa példája.",
@@ -998,7 +998,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "EE",
     name: { de: "Kloster Padise Ruinen", hu: "Padise kolostorromok", ro: "Ruinele Mănăstirii Padise", en: "Padise Monastery Ruins" },
-    coordinates: { lat: 59.2294, lng: 24.1627 },
+    coords: [24.1627, 59.2294],
     description: {
       de: "Die Ruinen der Zisterzienserabtei Padise zeugen von der weitreichenden klösterlichen Präsenz im mittelalterlichen Estland.",
       hu: "A padisei ciszterci apátság romjai a középkori Észtország kiterjedt kolostori jelenlétéről tanúskodnak.",
@@ -1030,7 +1030,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "Kirche Kose", hu: "Kose templom", ro: "Biserica Kose", en: "Kose Church" },
-    coordinates: { lat: 59.1864, lng: 25.1833 },
+    coords: [25.1833, 59.1864],
     description: {
       de: "Die Kirche St. Nikolai in Kose ist ein historisches Gebäude aus dem 13. Jahrhundert und ein zentraler Ort für die Region Harjumaa.",
       hu: "A kosei Szent Miklós-templom egy 13. századi történelmi épület, a Harjumaa régió központi helye.",
@@ -1062,7 +1062,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Schloss Saare", hu: "Saare-kastély", ro: "Castelul Saare", en: "Saare Castle" },
-    coordinates: { lat: 58.6853, lng: 26.8344 },
+    coords: [26.8344, 58.6853],
     description: {
       de: "Das neugotische Schloss Saare wurde im 19. Jahrhundert erbaut und ist für seine architektonische Eleganz bekannt.",
       hu: "A neogótikus Saare-kastélyt a 19. században építették, építészeti eleganciájáról ismert.",
@@ -1094,7 +1094,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Schloss Puurmani", hu: "Puurmani-kastély", ro: "Castelul Puurmani", en: "Puurmani Castle" },
-    coordinates: { lat: 58.5833, lng: 26.2844 },
+    coords: [26.2844, 58.5833],
     description: {
       de: "Schloss Puurmani ist ein herausragendes Beispiel für die neorenaissancistische Architektur in Estland aus dem 19. Jahrhundert.",
       hu: "A Puurmani-kastély a 19. századi észtországi neoreneszánsz építészet kiemelkedő példája.",
@@ -1126,7 +1126,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "Kirche St. Katharina Võru", hu: "Võrui Szent Katalin templom", ro: "Biserica Sf. Ecaterina din Võru", en: "St. Catherine's Church Võru" },
-    coordinates: { lat: 57.8422, lng: 27.0011 },
+    coords: [27.0011, 57.8422],
     description: {
       de: "Die St.-Katharinen-Kirche in Võru ist ein historisches Gebäude, das die religiöse Vielfalt und Geschichte Südostestlands widerspiegelt.",
       hu: "A võrui Szent Katalin-templom egy történelmi épület, amely Délkelet-Észtország vallási sokszínűségét és történelmét tükrözi.",
@@ -1158,7 +1158,7 @@ export const estoniaHistoryV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Gut Malla", hu: "Malla udvarház", ro: "Conacul Malla", en: "Malla Manor" },
-    coordinates: { lat: 59.5022, lng: 26.6855 },
+    coords: [26.6855, 59.5022],
     description: {
       de: "Das Gut Malla war ein historischer Adelssitz an der Nordküste Estlands, dessen Wurzeln bis ins Mittelalter zurückreichen.",
       hu: "A Malla birtok történelmi nemesi rezidencia volt Észtország északi partvidékén, amelynek gyökerei a középkorig nyúlnak vissza.",

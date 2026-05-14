@@ -6,7 +6,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Herning", hu: "Herning", ro: "Herning", en: "Herning" },
-    coordinates: { lat: 56.137, lng: 8.976 },
+    coords: [8.976, 56.137],
     description: {
       de: "Herning ist eine Stadt in Mitteljütland mit bedeutender Textilindustrie. Sie ist für ihre großen Messe- und Kongresszentren bekannt.",
       hu: "Herning egy város Közép-Jütlandban, jelentős textiliparral. Nagy kiállítási és kongresszusi központjairól ismert.",
@@ -38,7 +38,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Horsens", hu: "Horsens", ro: "Horsens", en: "Horsens" },
-    coordinates: { lat: 55.86, lng: 9.85 },
+    coords: [9.85, 55.86],
     description: {
       de: "Horsens liegt am Horsens Fjord in Ostjütland. Die Stadt ist heute ein wichtiger Standort für Kulturveranstaltungen und Konzerte.",
       hu: "Horsens a Horsens-fjordnál fekszik Kelet-Jütlandban. A város ma a kulturális események és koncertek fontos helyszíne.",
@@ -70,7 +70,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Næstved", hu: "Næstved", ro: "Næstved", en: "Naestved" },
-    coordinates: { lat: 55.228, lng: 11.758 },
+    coords: [11.758, 55.228],
     description: {
       de: "Næstved liegt im Südwesten von Seeland. Die Stadt ist für ihre historischen Gebäude und das nahegelegene Schloss Gavnø bekannt.",
       hu: "Næstved Délnyugat-Seelandban fekszik. A város történelmi épületeiről és a közeli Gavnø kastélyról ismert.",
@@ -102,7 +102,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Slagelse", hu: "Slagelse", ro: "Slagelse", en: "Slagelse" },
-    coordinates: { lat: 55.402, lng: 11.355 },
+    coords: [11.355, 55.402],
     description: {
       de: "Slagelse liegt auf der Insel Seeland. Die Stadt beherbergt eine bedeutende Garnison und ist ein regionales Zentrum für Bildung.",
       hu: "Slagelse Seeland szigetén található. A város jelentős helyőrséggel rendelkezik és regionális oktatási központ.",
@@ -134,7 +134,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Fredericia", hu: "Fredericia", ro: "Fredericia", en: "Fredericia" },
-    coordinates: { lat: 55.56, lng: 9.75 },
+    coords: [9.75, 55.56],
     description: {
       de: "Fredericia liegt an der Ostküste Jütlands am Kleinen Belt. Die Stadt wurde als Festung gegründet und ist heute ein wichtiger Knotenpunkt.",
       hu: "Fredericia Jütland keleti partján, a Kis-Beltnél fekszik. A várost erődítményként alapították, és ma fontos csomópont.",
@@ -166,7 +166,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Haderslev", hu: "Haderslev", ro: "Haderslev", en: "Haderslev" },
-    coordinates: { lat: 55.25, lng: 9.48 },
+    coords: [9.48, 55.25],
     description: {
       de: "Haderslev liegt in Südjütland. Die Stadt ist für ihre gut erhaltene Altstadt und den Haderslev Fjord bekannt.",
       hu: "Haderslev Dél-Jütlandban fekszik. A város jól megőrzött óvárosáról és a Haderslev-fjordról ismert.",
@@ -198,7 +198,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Skive", hu: "Skive", ro: "Skive", en: "Skive" },
-    coordinates: { lat: 56.56, lng: 9.03 },
+    coords: [9.03, 56.56],
     description: {
       de: "Skive ist eine Stadt in Nordjütland am Limfjord. Sie ist ein Zentrum für Handel und Dienstleistungen in der Region Salling.",
       hu: "Skive egy város Észak-Jütlandban, a Limfjordnál. A kereskedelem és szolgáltatások központja a Salling régióban.",
@@ -230,7 +230,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Ringsted", hu: "Ringsted", ro: "Ringsted", en: "Ringsted" },
-    coordinates: { lat: 55.44, lng: 11.78 },
+    coords: [11.78, 55.44],
     description: {
       de: "Ringsted ist eine der ältesten Städte Seelands. Sie liegt zentral und war historisch ein wichtiger Knotenpunkt für den Handel.",
       hu: "Ringsted Seeland egyik legrégebbi városa. Központilag fekszik, és történelmileg fontos kereskedelmi csomópont volt.",
@@ -262,7 +262,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Thisted", hu: "Thisted", ro: "Thisted", en: "Thisted" },
-    coordinates: { lat: 56.95, lng: 8.68 },
+    coords: [8.68, 56.95],
     description: {
       de: "Thisted ist die Hauptortschaft der Region Thy in Nordwestjütland. Die Stadt liegt am Limfjord und ist ein touristisches Zentrum.",
       hu: "Thisted Thy régió fővárosa Északnyugat-Jütlandban. A város a Limfjordnál fekszik és turisztikai központ.",
@@ -294,7 +294,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Svendborg", hu: "Svendborg", ro: "Svendborg", en: "Svendborg" },
-    coordinates: { lat: 55.06, lng: 10.6 },
+    coords: [10.6, 55.06],
     description: {
       de: "Svendborg liegt auf der Insel Fünen. Die Stadt ist ein wichtiger Hafenstandort und Ausgangspunkt für Inselreisen in der Südsee.",
       hu: "Svendborg Fyn szigetén fekszik. A város fontos kikötőhely és kiindulópont a szigetek közötti utazásokhoz.",
@@ -326,7 +326,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Sønderborg", hu: "Sønderborg", ro: "Sønderborg", en: "Soenderborg" },
-    coordinates: { lat: 54.91, lng: 9.79 },
+    coords: [9.79, 54.91],
     description: {
       de: "Sønderborg liegt auf Alsen und dem jütländischen Festland. Die Stadt ist historisch bedeutend und hat ein modernes Zentrum.",
       hu: "Sønderborg Alsen szigetén és a jütlandi szárazföldön fekszik. A város történelmileg jelentős, modern központtal.",
@@ -358,7 +358,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Vejle", hu: "Vejle", ro: "Vejle", en: "Vejle" },
-    coordinates: { lat: 55.71, lng: 9.53 },
+    coords: [9.53, 55.71],
     description: {
       de: "Vejle liegt am Ende des Vejle Fjord. Die Stadt ist bekannt für ihre hügelige Landschaft und das markante Gebäude 'Bølgen'.",
       hu: "Vejle a Vejle-fjord végénél fekszik. A város a dombos tájairól és a jellegzetes 'Bølgen' épületről ismert.",
@@ -390,7 +390,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Nyborg", hu: "Nyborg", ro: "Nyborg", en: "Nyborg" },
-    coordinates: { lat: 55.31, lng: 10.79 },
+    coords: [10.79, 55.31],
     description: {
       de: "Nyborg liegt auf Fünen am Großen Belt. Die Stadt war historisch ein bedeutendes Zentrum und ist heute verkehrstechnisch zentral.",
       hu: "Nyborg Fyn szigetén, a Nagy-Beltnél fekszik. A város történelmileg jelentős központ volt, ma közlekedési csomópont.",
@@ -422,7 +422,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Kalundborg", hu: "Kalundborg", ro: "Kalundborg", en: "Kalundborg" },
-    coordinates: { lat: 55.68, lng: 11.08 },
+    coords: [11.08, 55.68],
     description: {
       de: "Kalundborg ist eine Hafenstadt auf Seeland. Sie ist für ihre fünf-türmige Kirche und ihre industrielle Bedeutung bekannt.",
       hu: "Kalundborg kikötőváros Seelandon. Öttornyú templomáról és ipari jelentőségéről ismert.",
@@ -454,7 +454,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Tønder", hu: "Tønder", ro: "Tønder", en: "Tonder" },
-    coordinates: { lat: 54.93, lng: 8.85 },
+    coords: [8.85, 54.93],
     description: {
       de: "Tønder liegt nahe der deutsch-dänischen Grenze. Die Stadt ist für ihre historische Architektur und die Spitzenherstellung bekannt.",
       hu: "Tønder a dán-német határ közelében fekszik. A város történelmi építészetéről és a csipkeverésről ismert.",
@@ -486,7 +486,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Hjørring", hu: "Hjørring", ro: "Hjørring", en: "Hjoerring" },
-    coordinates: { lat: 57.46, lng: 9.98 },
+    coords: [9.98, 57.46],
     description: {
       de: "Hjørring ist eine Stadt in Vendsyssel, Nordjütland. Sie ist ein lokales Zentrum für Handel, Kultur und Bildung.",
       hu: "Hjørring egy város Vendsysselben, Észak-Jütlandban. A kereskedelem, kultúra és oktatás helyi központja.",
@@ -518,7 +518,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Frederikssund", hu: "Frederikssund", ro: "Frederikssund", en: "Frederikssund" },
-    coordinates: { lat: 55.84, lng: 12.06 },
+    coords: [12.06, 55.84],
     description: {
       de: "Frederikssund liegt auf Seeland am Roskilde Fjord. Die Stadt ist für ihre Wikinger-Traditionen bekannt.",
       hu: "Frederikssund Seelandon, a Roskilde-fjordnál fekszik. A város viking hagyományairól ismert.",
@@ -550,7 +550,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Ikast", hu: "Ikast", ro: "Ikast", en: "Ikast" },
-    coordinates: { lat: 56.14, lng: 9.15 },
+    coords: [9.15, 56.14],
     description: {
       de: "Ikast liegt in Mitteljütland. Die Stadt ist als ehemaliges Zentrum der Textilindustrie bekannt.",
       hu: "Ikast Közép-Jütlandban fekszik. A város a textilipar egykori központjaként ismert.",
@@ -582,7 +582,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Faaborg", hu: "Faaborg", ro: "Faaborg", en: "Faaborg" },
-    coordinates: { lat: 55.09, lng: 10.24 },
+    coords: [10.24, 55.09],
     description: {
       de: "Faaborg ist eine malerische Stadt auf Fünen. Sie ist für ihren gut erhaltenen historischen Stadtkern bekannt.",
       hu: "Faaborg festői város Fyn szigetén. Jól megőrzött történelmi városközpontjáról ismert.",
@@ -614,7 +614,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Lemvig", hu: "Lemvig", ro: "Lemvig", en: "Lemvig" },
-    coordinates: { lat: 56.54, lng: 8.31 },
+    coords: [8.31, 56.54],
     description: {
       de: "Lemvig liegt im westlichen Jütland am Limfjord. Die Stadt ist für ihre hügelige Landschaft und Küstennähe bekannt.",
       hu: "Lemvig Nyugat-Jütlandban, a Limfjordnál fekszik. A város a dombos tájáról és a tengerpart közelségéről ismert.",
@@ -646,7 +646,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Store Heddinge", hu: "Store Heddinge", ro: "Store Heddinge", en: "Store Heddinge" },
-    coordinates: { lat: 55.31, lng: 12.39 },
+    coords: [12.39, 55.31],
     description: {
       de: "Store Heddinge liegt auf Seeland, nahe der Stevns Klint. Die Stadt ist ein lokaler Marktplatz.",
       hu: "Store Heddinge Seelandon fekszik, a Stevns Klint közelében. A város helyi piactér.",
@@ -678,7 +678,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Odder", hu: "Odder", ro: "Odder", en: "Odder" },
-    coordinates: { lat: 55.97, lng: 10.15 },
+    coords: [10.15, 55.97],
     description: {
       de: "Odder ist eine Stadt in Ostjütland, südlich von Aarhus. Sie dient als lokales Zentrum.",
       hu: "Odder egy város Kelet-Jütlandban, Aarhustól délre. Helyi központként szolgál.",
@@ -710,7 +710,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Aabenraa", hu: "Aabenraa", ro: "Aabenraa", en: "Aabenraa" },
-    coordinates: { lat: 55.04, lng: 9.42 },
+    coords: [9.42, 55.04],
     description: {
       de: "Aabenraa liegt am Aabenraa Fjord in Südjütland. Die Stadt ist für ihre Schifffahrtsgeschichte bekannt.",
       hu: "Aabenraa a dél-jütlandi Aabenraa-fjordnál fekszik. A város hajózási történetéről ismert.",
@@ -742,7 +742,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Herlufmagle", hu: "Herlufmagle", ro: "Herlufmagle", en: "Herlufmagle" },
-    coordinates: { lat: 55.28, lng: 11.72 },
+    coords: [11.72, 55.28],
     description: {
       de: "Herlufmagle ist eine Stadt in der Nähe von Næstved auf Seeland.",
       hu: "Herlufmagle egy város Næstved közelében, Seelandon.",
@@ -774,7 +774,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Bramming", hu: "Bramming", ro: "Bramming", en: "Bramming" },
-    coordinates: { lat: 55.47, lng: 8.7 },
+    coords: [8.7, 55.47],
     description: {
       de: "Bramming liegt in Südwestjütland, in der Nähe von Esbjerg.",
       hu: "Bramming Délnyugat-Jütlandban fekszik, Esbjerg közelében.",
@@ -806,7 +806,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Greve", hu: "Greve", ro: "Greve", en: "Greve" },
-    coordinates: { lat: 55.59, lng: 12.28 },
+    coords: [12.28, 55.59],
     description: {
       de: "Greve liegt südlich von Kopenhagen auf Seeland. Es ist eine wachsende Vorstadt.",
       hu: "Greve Koppenhágától délre fekszik Seelandon. Ez egy növekvő előváros.",
@@ -838,7 +838,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Ishøj", hu: "Ishøj", ro: "Ishøj", en: "Ishoj" },
-    coordinates: { lat: 55.61, lng: 12.35 },
+    coords: [12.35, 55.61],
     description: {
       de: "Ishøj liegt bei Kopenhagen auf Seeland. Bekannt für das Arken Museum.",
       hu: "Ishøj Koppenhága közelében fekszik Seelandon. Az Arken Múzeumról ismert.",
@@ -870,7 +870,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Hvidovre", hu: "Hvidovre", ro: "Hvidovre", en: "Hvidovre" },
-    coordinates: { lat: 55.65, lng: 12.47 },
+    coords: [12.47, 55.65],
     description: {
       de: "Hvidovre ist ein Vorort im Großraum Kopenhagen auf Seeland.",
       hu: "Hvidovre egy előváros a Koppenhágai agglomerációban, Seelandon.",
@@ -902,7 +902,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Ballerup", hu: "Ballerup", ro: "Ballerup", en: "Ballerup" },
-    coordinates: { lat: 55.73, lng: 12.36 },
+    coords: [12.36, 55.73],
     description: {
       de: "Ballerup ist ein Vorort im Nordwesten von Kopenhagen auf Seeland.",
       hu: "Ballerup Koppenhága északnyugati elővárosa Seelandon.",
@@ -934,7 +934,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Gladsaxe", hu: "Gladsaxe", ro: "Gladsaxe", en: "Gladsaxe" },
-    coordinates: { lat: 55.74, lng: 12.48 },
+    coords: [12.48, 55.74],
     description: {
       de: "Gladsaxe liegt nördlich von Kopenhagen auf Seeland.",
       hu: "Gladsaxe Koppenhágától északra fekszik Seelandon.",
@@ -966,7 +966,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Brøndby", hu: "Brøndby", ro: "Brøndby", en: "Brondby" },
-    coordinates: { lat: 55.65, lng: 12.41 },
+    coords: [12.41, 55.65],
     description: {
       de: "Brøndby liegt westlich von Kopenhagen auf Seeland.",
       hu: "Brøndby Koppenhágától nyugatra fekszik Seelandon.",
@@ -998,7 +998,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Herlev", hu: "Herlev", ro: "Herlev", en: "Herlev" },
-    coordinates: { lat: 55.72, lng: 12.43 },
+    coords: [12.43, 55.72],
     description: {
       de: "Herlev ist ein Vorort im Großraum Kopenhagen auf Seeland.",
       hu: "Herlev egy előváros a Koppenhágai agglomerációban, Seelandon.",
@@ -1030,7 +1030,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Glostrup", hu: "Glostrup", ro: "Glostrup", en: "Glostrup" },
-    coordinates: { lat: 55.66, lng: 12.4 },
+    coords: [12.4, 55.66],
     description: {
       de: "Glostrup liegt westlich von Kopenhagen auf Seeland.",
       hu: "Glostrup Koppenhágától nyugatra fekszik Seelandon.",
@@ -1062,7 +1062,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Rødovre", hu: "Rødovre", ro: "Rødovre", en: "Rodovre" },
-    coordinates: { lat: 55.68, lng: 12.45 },
+    coords: [12.45, 55.68],
     description: {
       de: "Rødovre ist ein Vorort im Westen von Kopenhagen auf Seeland.",
       hu: "Rødovre Koppenhága nyugati elővárosa Seelandon.",
@@ -1094,7 +1094,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Valby", hu: "Valby", ro: "Valby", en: "Valby" },
-    coordinates: { lat: 55.66, lng: 12.52 },
+    coords: [12.52, 55.66],
     description: {
       de: "Valby ist ein Stadtteil im Südwesten von Kopenhagen auf Seeland.",
       hu: "Valby Koppenhága délnyugati városrésze Seelandon.",
@@ -1126,7 +1126,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Taastrup", hu: "Taastrup", ro: "Taastrup", en: "Taastrup" },
-    coordinates: { lat: 55.65, lng: 12.29 },
+    coords: [12.29, 55.65],
     description: {
       de: "Taastrup liegt westlich von Kopenhagen auf Seeland.",
       hu: "Taastrup Koppenhágától nyugatra fekszik Seelandon.",
@@ -1158,7 +1158,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Farum", hu: "Farum", ro: "Farum", en: "Farum" },
-    coordinates: { lat: 55.81, lng: 12.38 },
+    coords: [12.38, 55.81],
     description: {
       de: "Farum liegt nördlich von Kopenhagen auf Seeland, nahe Seen.",
       hu: "Farum Koppenhágától északra fekszik Seelandon, tavak közelében.",
@@ -1190,7 +1190,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Værløse", hu: "Værløse", ro: "Værløse", en: "Vaerloese" },
-    coordinates: { lat: 55.77, lng: 12.37 },
+    coords: [12.37, 55.77],
     description: {
       de: "Værløse liegt nördlich von Kopenhagen auf Seeland.",
       hu: "Værløse Koppenhágától északra fekszik Seelandon.",
@@ -1222,7 +1222,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Søborg", hu: "Søborg", ro: "Søborg", en: "Soeborg" },
-    coordinates: { lat: 55.73, lng: 12.51 },
+    coords: [12.51, 55.73],
     description: {
       de: "Søborg ist ein Vorort im Großraum Kopenhagen auf Seeland.",
       hu: "Søborg egy előváros a Koppenhágai agglomerációban, Seelandon.",
@@ -1254,7 +1254,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Gentofte", hu: "Gentofte", ro: "Gentofte", en: "Gentofte" },
-    coordinates: { lat: 55.75, lng: 12.54 },
+    coords: [12.54, 55.75],
     description: {
       de: "Gentofte liegt nördlich von Kopenhagen auf Seeland.",
       hu: "Gentofte Koppenhágától északra fekszik Seelandon.",
@@ -1286,7 +1286,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Lyngby", hu: "Lyngby", ro: "Lyngby", en: "Lyngby" },
-    coordinates: { lat: 55.77, lng: 12.5 },
+    coords: [12.5, 55.77],
     description: {
       de: "Lyngby ist eine Stadt nördlich von Kopenhagen auf Seeland.",
       hu: "Lyngby egy város Koppenhágától északra, Seelandon.",
@@ -1318,7 +1318,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Holte", hu: "Holte", ro: "Holte", en: "Holte" },
-    coordinates: { lat: 55.8, lng: 12.47 },
+    coords: [12.47, 55.8],
     description: {
       de: "Holte liegt nördlich von Kopenhagen auf Seeland.",
       hu: "Holte Koppenhágától északra fekszik Seelandon.",
@@ -1350,7 +1350,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Birkerød", hu: "Birkerød", ro: "Birkerød", en: "Birkerod" },
-    coordinates: { lat: 55.84, lng: 12.44 },
+    coords: [12.44, 55.84],
     description: {
       de: "Birkerød liegt nördlich von Kopenhagen auf Seeland.",
       hu: "Birkerød Koppenhágától északra fekszik Seelandon.",
@@ -1382,7 +1382,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Allerød", hu: "Allerød", ro: "Allerød", en: "Allerod" },
-    coordinates: { lat: 55.87, lng: 12.41 },
+    coords: [12.41, 55.87],
     description: {
       de: "Allerød liegt nördlich von Kopenhagen auf Seeland.",
       hu: "Allerød Koppenhágától északra fekszik Seelandon.",
@@ -1414,7 +1414,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Fredensborg", hu: "Fredensborg", ro: "Fredensborg", en: "Fredensborg" },
-    coordinates: { lat: 55.97, lng: 12.4 },
+    coords: [12.4, 55.97],
     description: {
       de: "Fredensborg liegt auf Seeland, bekannt für sein Schloss.",
       hu: "Fredensborg Seelandon fekszik, a kastélyáról ismert.",
@@ -1446,7 +1446,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Humlebæk", hu: "Humlebæk", ro: "Humlebæk", en: "Humlebaek" },
-    coordinates: { lat: 55.97, lng: 12.53 },
+    coords: [12.53, 55.97],
     description: {
       de: "Humlebæk liegt an der Ostküste Seelands.",
       hu: "Humlebæk Seeland keleti partján fekszik.",
@@ -1478,7 +1478,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Nivå", hu: "Nivå", ro: "Nivå", en: "Niva" },
-    coordinates: { lat: 55.94, lng: 12.51 },
+    coords: [12.51, 55.94],
     description: {
       de: "Nivå liegt an der Ostküste Seelands.",
       hu: "Nivå Seeland keleti partján fekszik.",
@@ -1510,7 +1510,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Kokkedal", hu: "Kokkedal", ro: "Kokkedal", en: "Kokkedal" },
-    coordinates: { lat: 55.92, lng: 12.49 },
+    coords: [12.49, 55.92],
     description: {
       de: "Kokkedal liegt an der Ostküste Seelands.",
       hu: "Kokkedal Seeland keleti partján fekszik.",
@@ -1542,7 +1542,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Hørsholm", hu: "Hørsholm", ro: "Hørsholm", en: "Hoersholm" },
-    coordinates: { lat: 55.87, lng: 12.5 },
+    coords: [12.5, 55.87],
     description: {
       de: "Hørsholm liegt an der Ostküste Seelands.",
       hu: "Hørsholm Seeland keleti partján fekszik.",
@@ -1574,7 +1574,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Vedbæk", hu: "Vedbæk", ro: "Vedbæk", en: "Vedbaek" },
-    coordinates: { lat: 55.84, lng: 12.56 },
+    coords: [12.56, 55.84],
     description: {
       de: "Vedbæk liegt an der Ostküste Seelands, bei Kopenhagen.",
       hu: "Vedbæk Seeland keleti partján fekszik, Koppenhága mellett.",
@@ -1606,7 +1606,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Rungsted", hu: "Rungsted", ro: "Rungsted", en: "Rungsted" },
-    coordinates: { lat: 55.88, lng: 12.54 },
+    coords: [12.54, 55.88],
     description: {
       de: "Rungsted liegt an der Ostküste Seelands.",
       hu: "Rungsted Seeland keleti partján fekszik.",
@@ -1638,7 +1638,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Taarbæk", hu: "Taarbæk", ro: "Taarbæk", en: "Taarbaek" },
-    coordinates: { lat: 55.79, lng: 12.58 },
+    coords: [12.58, 55.79],
     description: {
       de: "Taarbæk liegt an der Ostküste Seelands.",
       hu: "Taarbæk Seeland keleti partján fekszik.",
@@ -1670,7 +1670,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Klampenborg", hu: "Klampenborg", ro: "Klampenborg", en: "Klampenborg" },
-    coordinates: { lat: 55.77, lng: 12.58 },
+    coords: [12.58, 55.77],
     description: {
       de: "Klampenborg liegt an der Ostküste Seelands.",
       hu: "Klampenborg Seeland keleti partján fekszik.",
@@ -1702,7 +1702,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Charlottenlund", hu: "Charlottenlund", ro: "Charlottenlund", en: "Charlottenlund" },
-    coordinates: { lat: 55.75, lng: 12.58 },
+    coords: [12.58, 55.75],
     description: {
       de: "Charlottenlund liegt an der Ostküste Seelands.",
       hu: "Charlottenlund Seeland keleti partján fekszik.",
@@ -1734,7 +1734,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Hellerup", hu: "Hellerup", ro: "Hellerup", en: "Hellerup" },
-    coordinates: { lat: 55.73, lng: 12.57 },
+    coords: [12.57, 55.73],
     description: {
       de: "Hellerup liegt an der Ostküste Seelands.",
       hu: "Hellerup Seeland keleti partján fekszik.",
@@ -1766,7 +1766,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Nordhavn", hu: "Nordhavn", ro: "Nordhavn", en: "Nordhavn" },
-    coordinates: { lat: 55.71, lng: 12.59 },
+    coords: [12.59, 55.71],
     description: {
       de: "Nordhavn ist ein modernes Stadtviertel im Norden von Kopenhagen.",
       hu: "Nordhavn egy modern városnegyed Koppenhága északi részén.",
@@ -1798,7 +1798,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Amager", hu: "Amager", ro: "Amager", en: "Amager" },
-    coordinates: { lat: 55.65, lng: 12.6 },
+    coords: [12.6, 55.65],
     description: {
       de: "Amager ist eine Insel südlich von Kopenhagen.",
       hu: "Amager Koppenhágától délre fekvő sziget.",
@@ -1830,7 +1830,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Dragør", hu: "Dragør", ro: "Dragør", en: "Dragor" },
-    coordinates: { lat: 55.59, lng: 12.67 },
+    coords: [12.67, 55.59],
     description: {
       de: "Dragør ist eine historische Stadt auf Amager.",
       hu: "Dragør egy történelmi város Amager szigetén.",
@@ -1862,7 +1862,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Taarnby", hu: "Taarnby", ro: "Taarnby", en: "Taarnby" },
-    coordinates: { lat: 55.63, lng: 12.6 },
+    coords: [12.6, 55.63],
     description: {
       de: "Taarnby liegt auf der Insel Amager bei Kopenhagen.",
       hu: "Taarnby az Amager szigeten fekszik Koppenhága közelében.",
@@ -1894,7 +1894,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Kastrup", hu: "Kastrup", ro: "Kastrup", en: "Kastrup" },
-    coordinates: { lat: 55.63, lng: 12.64 },
+    coords: [12.64, 55.63],
     description: {
       de: "Kastrup liegt auf der Insel Amager bei Kopenhagen.",
       hu: "Kastrup az Amager szigeten fekszik Koppenhága közelében.",
@@ -1926,7 +1926,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Søndermarken", hu: "Søndermarken", ro: "Søndermarken", en: "Sondermarken" },
-    coordinates: { lat: 55.67, lng: 12.52 },
+    coords: [12.52, 55.67],
     description: {
       de: "Søndermarken ist ein Stadtgebiet in Kopenhagen.",
       hu: "Søndermarken egy városi terület Koppenhágában.",
@@ -1958,7 +1958,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Vanløse", hu: "Vanløse", ro: "Vanløse", en: "Vanlose" },
-    coordinates: { lat: 55.68, lng: 12.49 },
+    coords: [12.49, 55.68],
     description: {
       de: "Vanløse ist ein Stadtteil in Kopenhagen.",
       hu: "Vanløse Koppenhága egyik városrésze.",
@@ -1990,7 +1990,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Brønshøj", hu: "Brønshøj", ro: "Brønshøj", en: "Bronshoj" },
-    coordinates: { lat: 55.7, lng: 12.5 },
+    coords: [12.5, 55.7],
     description: {
       de: "Brønshøj ist ein Stadtteil in Kopenhagen.",
       hu: "Brønshøj Koppenhága egyik városrésze.",
@@ -2022,7 +2022,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Husum", hu: "Husum", ro: "Husum", en: "Husum" },
-    coordinates: { lat: 55.71, lng: 12.48 },
+    coords: [12.48, 55.71],
     description: {
       de: "Husum ist ein Stadtteil in Kopenhagen.",
       hu: "Husum Koppenhága egyik városrésze.",
@@ -2054,7 +2054,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Nørrebro", hu: "Nørrebro", ro: "Nørrebro", en: "Norrebro" },
-    coordinates: { lat: 55.69, lng: 12.55 },
+    coords: [12.55, 55.69],
     description: {
       de: "Nørrebro ist ein lebendiger Stadtteil in Kopenhagen.",
       hu: "Nørrebro Koppenhága egyik élénk városrésze.",
@@ -2086,7 +2086,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Østerbro", hu: "Østerbro", ro: "Østerbro", en: "Osterbro" },
-    coordinates: { lat: 55.7, lng: 12.57 },
+    coords: [12.57, 55.7],
     description: {
       de: "Østerbro ist ein Stadtteil in Kopenhagen.",
       hu: "Østerbro Koppenhága egyik városrésze.",
@@ -2118,7 +2118,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Vesterbro", hu: "Vesterbro", ro: "Vesterbro", en: "Vesterbro" },
-    coordinates: { lat: 55.67, lng: 12.55 },
+    coords: [12.55, 55.67],
     description: {
       de: "Vesterbro ist ein Stadtteil in Kopenhagen.",
       hu: "Vesterbro Koppenhága egyik városrésze.",
@@ -2150,7 +2150,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Christianshavn", hu: "Christianshavn", ro: "Christianshavn", en: "Christianshavn" },
-    coordinates: { lat: 55.67, lng: 12.59 },
+    coords: [12.59, 55.67],
     description: {
       de: "Christianshavn ist ein Stadtteil in Kopenhagen.",
       hu: "Christianshavn Koppenhága egyik városrésze.",
@@ -2182,7 +2182,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Islands Brygge", hu: "Islands Brygge", ro: "Islands Brygge", en: "Islands Brygge" },
-    coordinates: { lat: 55.66, lng: 12.58 },
+    coords: [12.58, 55.66],
     description: {
       de: "Islands Brygge ist ein Stadtgebiet in Kopenhagen.",
       hu: "Islands Brygge egy városi terület Koppenhágában.",
@@ -2214,7 +2214,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Sydhavn", hu: "Sydhavn", ro: "Sydhavn", en: "Sydhavn" },
-    coordinates: { lat: 55.65, lng: 12.53 },
+    coords: [12.53, 55.65],
     description: {
       de: "Sydhavn ist ein Stadtgebiet in Kopenhagen.",
       hu: "Sydhavn egy városi terület Koppenhágában.",
@@ -2246,7 +2246,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Emdrup", hu: "Emdrup", ro: "Emdrup", en: "Emdrup" },
-    coordinates: { lat: 55.72, lng: 12.53 },
+    coords: [12.53, 55.72],
     description: {
       de: "Emdrup ist ein Stadtteil in Kopenhagen.",
       hu: "Emdrup Koppenhága egyik városrésze.",
@@ -2278,7 +2278,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Dyssegård", hu: "Dyssegård", ro: "Dyssegård", en: "Dyssegard" },
-    coordinates: { lat: 55.73, lng: 12.52 },
+    coords: [12.52, 55.73],
     description: {
       de: "Dyssegård liegt bei Kopenhagen auf Seeland.",
       hu: "Dyssegård Koppenhága közelében fekszik Seelandon.",
@@ -2310,7 +2310,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Grøndal", hu: "Grøndal", ro: "Grøndal", en: "Grondal" },
-    coordinates: { lat: 55.69, lng: 12.51 },
+    coords: [12.51, 55.69],
     description: {
       de: "Grøndal ist ein Stadtteil in Kopenhagen.",
       hu: "Grøndal Koppenhága egyik városrésze.",
@@ -2342,7 +2342,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Bispebjerg", hu: "Bispebjerg", ro: "Bispebjerg", en: "Bispebjerg" },
-    coordinates: { lat: 55.71, lng: 12.53 },
+    coords: [12.53, 55.71],
     description: {
       de: "Bispebjerg ist ein Stadtteil in Kopenhagen.",
       hu: "Bispebjerg Koppenhága egyik városrésze.",
@@ -2374,7 +2374,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Nordvest", hu: "Nordvest", ro: "Nordvest", en: "Nordvest" },
-    coordinates: { lat: 55.7, lng: 12.52 },
+    coords: [12.52, 55.7],
     description: {
       de: "Nordvest ist ein lebendiger Stadtteil in Kopenhagen.",
       hu: "Nordvest Koppenhága egyik élénk városrésze.",
@@ -2406,7 +2406,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Valby Park", hu: "Valby Park", ro: "Valby Park", en: "Valby Park" },
-    coordinates: { lat: 55.64, lng: 12.5 },
+    coords: [12.5, 55.64],
     description: {
       de: "Valby Park ist eine grüne Oase in Kopenhagen.",
       hu: "Valby Park egy zöld oázis Koppenhágában.",
@@ -2438,7 +2438,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Hvidovre Strand", hu: "Hvidovre Strand", ro: "Hvidovre Strand", en: "Hvidovre Strand" },
-    coordinates: { lat: 55.63, lng: 12.48 },
+    coords: [12.48, 55.63],
     description: {
       de: "Hvidovre Strand liegt bei Kopenhagen an der Küste.",
       hu: "Hvidovre Strand Koppenhága mellett fekszik a parton.",
@@ -2470,7 +2470,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Greve Strand", hu: "Greve Strand", ro: "Greve Strand", en: "Greve Strand" },
-    coordinates: { lat: 55.57, lng: 12.27 },
+    coords: [12.27, 55.57],
     description: {
       de: "Greve Strand liegt südlich von Kopenhagen an der Küste.",
       hu: "Greve Strand Koppenhágától délre fekszik a parton.",
@@ -2502,7 +2502,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Hundige", hu: "Hundige", ro: "Hundige", en: "Hundige" },
-    coordinates: { lat: 55.59, lng: 12.3 },
+    coords: [12.3, 55.59],
     description: {
       de: "Hundige liegt südlich von Kopenhagen auf Seeland.",
       hu: "Hundige Koppenhágától délre fekszik Seelandon.",
@@ -2534,7 +2534,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Karlslunde", hu: "Karlslunde", ro: "Karlslunde", en: "Karlslunde" },
-    coordinates: { lat: 55.56, lng: 12.24 },
+    coords: [12.24, 55.56],
     description: {
       de: "Karlslunde liegt südlich von Kopenhagen auf Seeland.",
       hu: "Karlslunde Koppenhágától délre fekszik Seelandon.",
@@ -2566,7 +2566,7 @@ export const denmarkCitiesV2: POI[] = [
     type: "city",
     parent: "DK",
     name: { de: "Solrød", hu: "Solrød", ro: "Solrød", en: "Solrod" },
-    coordinates: { lat: 55.53, lng: 12.18 },
+    coords: [12.18, 55.53],
     description: {
       de: "Solrød liegt südlich von Kopenhagen auf Seeland.",
       hu: "Solrød Koppenhágától délre fekszik Seelandon.",

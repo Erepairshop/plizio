@@ -6,7 +6,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Paavola-Kirche", hu: "Paavola templom", ro: "Biserica Paavola", en: "Paavola Church" },
-    coordinates: { lat: 64.6783, lng: 25.1058 },
+    coords: [25.1058, 64.6783],
     description: {
       de: "Die hölzerne Kirche wurde 1756 fertiggestellt. Sie dient als ein bedeutendes Beispiel für die finnische Kirchenbaukunst des 18. Jahrhunderts.",
       hu: "A fatemplom 1756-ban készült el. Jelentős példája a 18. századi finn templomépítészetnek.",
@@ -38,7 +38,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Pyhäntä-Kirche", hu: "Pyhäntä templom", ro: "Biserica Pyhäntä", en: "Pyhäntä Church" },
-    coordinates: { lat: 64.1032, lng: 26.3533 },
+    coords: [26.3533, 64.1032],
     description: {
       de: "Diese moderne Kirche wurde 1999 erbaut. Sie ist bekannt für ihre architektonische Integration in die umgebende nordische Natur.",
       hu: "Ezt a modern templomot 1999-ben építették. Ismert a környező északi természettel való építészeti integrációjáról.",
@@ -70,7 +70,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Ruovesi-Kirche", hu: "Ruovesi templom", ro: "Biserica Ruovesi", en: "Ruovesi Church" },
-    coordinates: { lat: 61.9964, lng: 24.0758 },
+    coords: [24.0758, 61.9964],
     description: {
       de: "Die von Carl Ludvig Engel entworfene Kirche wurde 1778 errichtet. Sie ist ein klassizistischer Holzbau.",
       hu: "A Carl Ludvig Engel által tervezett templom 1778-ban épült. Klasszicista stílusú faépítmény.",
@@ -102,7 +102,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Toivakka-Kirche", hu: "Toivakka templom", ro: "Biserica Toivakka", en: "Toivakka Church" },
-    coordinates: { lat: 62.1353, lng: 26.0736 },
+    coords: [26.0736, 62.1353],
     description: {
       de: "Die 1878 erbaute Kirche ist für ihre einzigartigen Deckengemälde bekannt. Sie wurde 1970 umfassend restauriert.",
       hu: "Az 1878-ban épült templom az egyedi mennyezeti festményeiről ismert. 1970-ben alaposan restaurálták.",
@@ -134,7 +134,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Kauhajoki", hu: "Kauhajoki templom", ro: "Biserica din Kauhajoki", en: "Kauhajoki Church" },
-    coordinates: { lat: 62.4172, lng: 22.1814 },
+    coords: [22.1814, 62.4172],
     description: {
       de: "Diese steinerne Kirche wurde 1858 vollendet. Sie wurde vom Architekten Ernst Lohrmann entworfen.",
       hu: "Ezt a kőtemplomot 1858-ban fejezték be. Ernst Lohrmann építész tervezte.",
@@ -166,7 +166,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kuhmo-Kirche", hu: "Kuhmo templom", ro: "Biserica Kuhmo", en: "Kuhmo Church" },
-    coordinates: { lat: 64.1278, lng: 29.5117 },
+    coords: [29.5117, 64.1278],
     description: {
       de: "Die heutige Kirche wurde 1816 fertiggestellt. Sie ist eine klassische Holzkirche mit freistehendem Glockenturm.",
       hu: "A jelenlegi templom 1816-ban készült el. Ez egy klasszikus fatemplom, különálló harangtoronnyal.",
@@ -198,7 +198,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Ilmajoki-Kirche", hu: "Ilmajoki templom", ro: "Biserica Ilmajoki", en: "Ilmajoki Church" },
-    coordinates: { lat: 62.7275, lng: 22.5703 },
+    coords: [22.5703, 62.7275],
     description: {
       de: "Die 1766 erbaute Holzkirche ist eine der ältesten in der Region. Ihr Glockenturm stammt aus dem Jahr 1804.",
       hu: "Az 1766-ban épült fatemplom az egyik legrégebbi a régióban. Harangtornya 1804-ből származik.",
@@ -230,7 +230,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kangasala-Kirche", hu: "Kangasala templom", ro: "Biserica Kangasala", en: "Kangasala Church" },
-    coordinates: { lat: 61.4647, lng: 24.0667 },
+    coords: [24.0667, 61.4647],
     description: {
       de: "Die Steinkirche wurde 1767 fertiggestellt. Sie ersetzte eine ältere Holzkirche aus dem Mittelalter.",
       hu: "A kőtemplom 1767-ben készült el. Egy korábbi középkori fatemplomot váltott fel.",
@@ -262,7 +262,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kuhmalahti-Kirche", hu: "Kuhmalahti templom", ro: "Biserica Kuhmalahti", en: "Kuhmalahti Church" },
-    coordinates: { lat: 61.4725, lng: 24.5078 },
+    coords: [24.5078, 61.4725],
     description: {
       de: "Diese Holzkirche wurde 1845 erbaut. Sie ist bekannt für ihre schlichte, aber elegante Architektur.",
       hu: "Ezt a fatemplomot 1845-ben építették. Egyszerű, mégis elegáns építészetéről ismert.",
@@ -294,7 +294,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kangasniemi-Kirche", hu: "Kangasniemi templom", ro: "Biserica Kangasniemi", en: "Kangasniemi Church" },
-    coordinates: { lat: 61.9961, lng: 26.6453 },
+    coords: [26.6453, 61.9961],
     description: {
       de: "Die 1815 fertiggestellte Kirche ist ein großes Holzgebäude. Sie bietet Platz für rund 1.400 Gottesdienstbesucher.",
       hu: "Az 1815-ben elkészült templom egy nagy faépület. Körülbelül 1400 hívő befogadására alkalmas.",
@@ -326,7 +326,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kannus-Kirche", hu: "Kannus templom", ro: "Biserica Kannus", en: "Kannus Church" },
-    coordinates: { lat: 63.9044, lng: 23.9058 },
+    coords: [23.9058, 63.9044],
     description: {
       de: "Die heutige Holzkirche wurde 1817 fertiggestellt. Sie ist eine der wenigen Kirchen der Region im Empire-Stil.",
       hu: "A jelenlegi fatemplom 1817-ben készült el. Ez a régió kevés birodalmi stílusú templomának egyike.",
@@ -358,7 +358,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kankaanpää-Kirche", hu: "Kankaanpää templom", ro: "Biserica Kankaanpää", en: "Kankaanpää Church" },
-    coordinates: { lat: 61.8011, lng: 22.4086 },
+    coords: [22.4086, 61.8011],
     description: {
       de: "Diese Kirche aus Backstein wurde 1839 erbaut. Sie zeichnet sich durch ihren neoklassizistischen Stil aus.",
       hu: "Ezt a téglaépítésű templomot 1839-ben építették. Neoklasszikus stílusa jellemzi.",
@@ -390,7 +390,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Karijoki-Kirche", hu: "Karijoki templom", ro: "Biserica Karijoki", en: "Karijoki Church" },
-    coordinates: { lat: 62.3022, lng: 21.7828 },
+    coords: [21.7828, 62.3022],
     description: {
       de: "Die Holzkirche stammt aus dem Jahr 1867. Sie ist ein traditionelles Beispiel für die Architektur in Südösterbotten.",
       hu: "A fatemplom 1867-ből származik. Hagyományos példája a Dél-Pohjanmaa régió építészetének.",
@@ -422,7 +422,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kärsämäki-Kirche", hu: "Kärsämäki templom", ro: "Biserica Kärsämäki", en: "Kärsämäki Church" },
-    coordinates: { lat: 64.1333, lng: 25.7667 },
+    coords: [25.7667, 64.1333],
     description: {
       de: "Die moderne Kirche wurde 2004 aus Holz erbaut. Sie ist bekannt für ihre experimentelle Architektur.",
       hu: "A modern templomot 2004-ben építették fából. Kísérleti építészetéről ismert.",
@@ -454,7 +454,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Karstula-Kirche", hu: "Karstula templom", ro: "Biserica Karstula", en: "Karstula Church" },
-    coordinates: { lat: 62.8833, lng: 24.8167 },
+    coords: [24.8167, 62.8833],
     description: {
       de: "Die 1853 erbaute Holzkirche ist eine der bedeutendsten Kirchenbauten der Region Mittelfinnland.",
       hu: "Az 1853-ban épült fatemplom Közép-Finnország egyik legjelentősebb templomépülete.",
@@ -486,7 +486,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Karttula-Kirche", hu: "Karttula templom", ro: "Biserica Karttula", en: "Karttula Church" },
-    coordinates: { lat: 62.8667, lng: 27.2167 },
+    coords: [27.2167, 62.8667],
     description: {
       de: "Diese Holzkirche wurde 1833 erbaut. Sie ist ein schönes Beispiel für die neoklassizistische Holzkirchenarchitektur.",
       hu: "Ezt a fatemplomot 1833-ban építették. Gyönyörű példája a neoklasszikus fatemplom-építészetnek.",
@@ -518,7 +518,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Karvia-Kirche", hu: "Karvia templom", ro: "Biserica Karvia", en: "Karvia Church" },
-    coordinates: { lat: 62.1333, lng: 22.5667 },
+    coords: [22.5667, 62.1333],
     description: {
       de: "Die Kirche wurde 1794 fertiggestellt. Sie ist eine der wenigen Holzkirchen aus dem 18. Jahrhundert in der Region.",
       hu: "A templom 1794-ben készült el. Egyike azon kevés 18. századi fatemplomnak a régióban.",
@@ -550,7 +550,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kaukonen-Kirche", hu: "Kaukonen templom", ro: "Biserica Kaukonen", en: "Kaukonen Church" },
-    coordinates: { lat: 67.4333, lng: 24.8833 },
+    coords: [24.8833, 67.4333],
     description: {
       de: "Dies ist eine der nördlichsten Holzkirchen Finnlands. Sie wurde im späten 19. Jahrhundert errichtet.",
       hu: "Ez az egyik legészakibb finn fatemplom. A 19. század végén épült.",
@@ -582,7 +582,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Keitele-Kirche", hu: "Keitele templom", ro: "Biserica Keitele", en: "Keitele Church" },
-    coordinates: { lat: 63.1333, lng: 26.4333 },
+    coords: [26.4333, 63.1333],
     description: {
       de: "Die heutige Holzkirche wurde 1876 erbaut. Sie ist bekannt für ihre schlichte, neugotische Architektur.",
       hu: "A jelenlegi fatemplom 1876-ban épült. Egyszerű, neogótikus építészetéről ismert.",
@@ -614,7 +614,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kellokoski-Kirche", hu: "Kellokoski templom", ro: "Biserica Kellokoski", en: "Kellokoski Church" },
-    coordinates: { lat: 60.5167, lng: 25.1667 },
+    coords: [25.1667, 60.5167],
     description: {
       de: "Diese kleine Holzkirche wurde 1916 erbaut. Sie dient hauptsächlich dem lokalen Krankenhausgelände.",
       hu: "Ezt a kis fatemplomot 1916-ban építették. Főleg a helyi kórház területét szolgálja.",
@@ -646,7 +646,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kemijärvi-Kirche", hu: "Kemijärvi templom", ro: "Biserica Kemijärvi", en: "Kemijärvi Church" },
-    coordinates: { lat: 66.7167, lng: 27.4333 },
+    coords: [27.4333, 66.7167],
     description: {
       de: "Die heutige Steinkirche wurde 1950 nach dem Krieg erbaut. Sie ist ein markantes Beispiel der Nachkriegsmoderne.",
       hu: "A jelenlegi kőtemplom 1950-ben, a háború után épült. A háború utáni modernizmus jellegzetes példája.",
@@ -678,7 +678,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Alte Kirche von Kempele", hu: "Kempele régi temploma", ro: "Vechea biserică din Kempele", en: "Old Kempele Church" },
-    coordinates: { lat: 64.9167, lng: 25.5 },
+    coords: [25.5, 64.9167],
     description: {
       de: "Diese Holzkirche stammt aus dem Jahr 1693. Sie ist eine der besterhaltenen mittelalterlichen Holzkirchen in Nordfinnland.",
       hu: "Ez a fatemplom 1693-ból származik. Észak-Finnország egyik legjobban megőrzött középkori fatemploma.",
@@ -710,7 +710,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Kerimäki", hu: "Kerimäki templom", ro: "Biserica din Kerimäki", en: "Kerimäki Church" },
-    coordinates: { lat: 61.9167, lng: 29.2833 },
+    coords: [29.2833, 61.9167],
     description: {
       de: "Die Kerimäki-Kirche gilt als die größte Holzkirche der Welt. Sie wurde 1847 erbaut.",
       hu: "A Kerimäki templomot a világ legnagyobb fatemplomának tartják. 1847-ben épült.",
@@ -742,7 +742,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kesälahti-Kirche", hu: "Kesälahti templom", ro: "Biserica Kesälahti", en: "Kesälahti Church" },
-    coordinates: { lat: 61.8833, lng: 29.85 },
+    coords: [29.85, 61.8833],
     description: {
       de: "Die Holzkirche wurde 1872 fertiggestellt. Sie zeichnet sich durch ihren neugotischen Stil aus.",
       hu: "A fatemplom 1872-ben készült el. Neogótikus stílusa jellemzi.",
@@ -774,7 +774,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Keskilahti-Kirche", hu: "Keskilahti templom", ro: "Biserica Keskilahti", en: "Keskilahti Church" },
-    coordinates: { lat: 63.2667, lng: 25.4333 },
+    coords: [25.4333, 63.2667],
     description: {
       de: "Diese Kirche aus dem frühen 20. Jahrhundert ist ein markantes Bauwerk in der Gemeinde. Sie verbindet Holzbauweise mit traditioneller Architektur.",
       hu: "Ez a 20. század eleji templom a közösség jellegzetes épülete. Ötvözi a faépítést a hagyományos építészettel.",
@@ -806,7 +806,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kestilä-Kirche", hu: "Kestilä templom", ro: "Biserica Kestilä", en: "Kestilä Church" },
-    coordinates: { lat: 64.3167, lng: 26.2833 },
+    coords: [26.2833, 64.3167],
     description: {
       de: "Die Holzkirche wurde 1855 erbaut. Sie ist bekannt für ihre ruhige Lage am Rande des Dorfes.",
       hu: "A fatemplomot 1855-ben építették. A falu szélén található csendes elhelyezkedéséről ismert.",
@@ -838,7 +838,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kesälahti-Kirche (neue)", hu: "Kesälahti templom (új)", ro: "Biserica Kesälahti (nouă)", en: "New Kesälahti Church" },
-    coordinates: { lat: 61.8867, lng: 29.8533 },
+    coords: [29.8533, 61.8867],
     description: {
       de: "Die neuere Kirche wurde in den späten 1950er Jahren als Ergänzung zur historischen Struktur gebaut. Sie vertritt moderne Formensprache.",
       hu: "Az újabb templomot az 1950-es évek végén építették a történelmi szerkezet kiegészítéseként. Modern formanyelvet képvisel.",
@@ -870,7 +870,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Keuruu-Altkirche", hu: "Keuruu ótemplom", ro: "Vechea biserică din Keuruu", en: "Keuruu Old Church" },
-    coordinates: { lat: 62.25, lng: 24.7167 },
+    coords: [24.7167, 62.25],
     description: {
       de: "Die Altkirche von Keuruu wurde 1758 vollendet. Sie ist ein exzellentes Beispiel für den finnischen Barock-Holzstil.",
       hu: "A Keuruu ótemplom 1758-ban készült el. Kiváló példája a finn barokk fatemplom-stílusnak.",
@@ -902,7 +902,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kialajärvi-Kirche", hu: "Kialajärvi templom", ro: "Biserica Kialajärvi", en: "Kialajärvi Church" },
-    coordinates: { lat: 63.5167, lng: 25.3333 },
+    coords: [25.3333, 63.5167],
     description: {
       de: "Die kleine Kapelle wurde im 20. Jahrhundert erbaut. Sie dient als lokales religiöses Zentrum.",
       hu: "A kis kápolnát a 20. században építették. Helyi vallási központként szolgál.",
@@ -934,7 +934,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kiikoinen-Kirche", hu: "Kiikoinen templom", ro: "Biserica Kiikoinen", en: "Kiikoinen Church" },
-    coordinates: { lat: 61.4833, lng: 22.3167 },
+    coords: [22.3167, 61.4833],
     description: {
       de: "Die Holzkirche wurde 1852 erbaut. Sie ist ein typisches Beispiel der finnischen Architektur aus der Mitte des 19. Jahrhunderts.",
       hu: "A fatemplomot 1852-ben építették. Tipikus példája a 19. század közepi finn építészetnek.",
@@ -966,7 +966,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kiiminki-Kirche", hu: "Kiiminki templom", ro: "Biserica Kiiminki", en: "Kiiminki Church" },
-    coordinates: { lat: 65.1333, lng: 25.75 },
+    coords: [25.75, 65.1333],
     description: {
       de: "Diese Holzkirche wurde 1760 fertiggestellt. Sie zeichnet sich durch ihren markanten Glockenturm aus.",
       hu: "Ez a fatemplom 1760-ban készült el. Jellegzetes harangtornyáról ismert.",
@@ -998,7 +998,7 @@ export const finlandLandmarksV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "St.-Michael-Kirche Kirkkonummi", hu: "Szent Mihály templom Kirkkonummi", ro: "Biserica Sfântul Mihail Kirkkonummi", en: "St. Michael's Church Kirkkonummi" },
-    coordinates: { lat: 60.125, lng: 24.4417 },
+    coords: [24.4417, 60.125],
     description: {
       de: "Die mittelalterliche Steinkirche stammt aus dem 15. Jahrhundert. Sie ist eines der ältesten Gebäude in der Region.",
       hu: "A középkori kőtemplom a 15. századból származik. A régió egyik legrégebbi épülete.",

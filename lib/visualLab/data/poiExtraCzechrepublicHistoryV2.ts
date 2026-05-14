@@ -8,7 +8,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Prager Burg", hu: "Prágai vár", ro: "Cetatea Praga", en: "Prague Castle"},
     image: "/poi-images/czechrepublic-prague-castle-history-v2.webp",
     coords: [14.4016, 50.0911],
-    coordinates: { lat: 50.0911, lng: 14.4016 },
+    coords: [14.4016, 50.0911],
     description: {
       de: "Das im 9. Jahrhundert gegründete Areal gilt als größtes geschlossenes Burgareal der Welt. Es diente über Jahrhunderte als Sitz der böhmischen Könige und heute des tschechischen Präsidenten.",
       hu: "A 9. században alapított erődítmény a világ legnagyobb összefüggő várkomplexuma. Évszázadokon át a cseh királyok székhelye volt, ma a cseh köztársasági elnök rezidenciája.",
@@ -43,7 +43,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Schlachtfeld von Austerlitz", hu: "Austerlitzi csatatér", ro: "Câmpul de luptă de la Austerlitz", en: "Austerlitz Battlefield"},
     image: "/poi-images/czechrepublic-austerlitz-battlefield-history-v2.webp",
     coords: [16.7622, 49.1272],
-    coordinates: { lat: 49.1272, lng: 16.7622 },
+    coords: [16.7622, 49.1272],
     description: {
       de: "Ort der berühmten Drei-Kaiser-Schlacht von 1805, bei der Napoleon Bonaparte die vereinigten russisch-österreichischen Truppen besiegte. Heute erinnert das Friedensdenkmal an die historischen Ereignisse.",
       hu: "Az 1805-ös híres három császár csatájának helyszíne, ahol Napóleon legyőzte az orosz és osztrák seregeket. Ma a Béke-emlékmű állít emléket a történelmi eseményeknek.",
@@ -78,7 +78,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Burg Karlstein", hu: "Karlštejn vára", ro: "Castelul Karlštejn", en: "Karlštejn Castle"},
     image: "/poi-images/czechrepublic-karlstejn-castle-history-v2.webp",
     coords: [14.1883, 49.9392],
-    coordinates: { lat: 49.9392, lng: 14.1883 },
+    coords: [14.1883, 49.9392],
     description: {
       de: "Eine majestätische gotische Burg, die 1348 von Kaiser Karl IV. gegründet wurde. Sie diente als Tresor für die kaiserlichen Regalien des Heiligen Römischen Reiches und die böhmischen Kronjuwelen.",
       hu: "Fenséges gótikus vár, melyet IV. Károly császár alapított 1348-ban. A Német-római Birodalom felségjelvényeinek és a cseh koronázási ékszereknek a biztonságos őrzésére szolgált.",
@@ -113,7 +113,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Gedenkstätte Theresienstadt", hu: "Terezín emlékhely", ro: "Memorialul Terezín", en: "Terezín Memorial"},
     image: "/poi-images/czechrepublic-terezin-memorial-history-v2.webp",
     coords: [14.1481, 50.5114],
-    coordinates: { lat: 50.5114, lng: 14.1481 },
+    coords: [14.1481, 50.5114],
     description: {
       de: "Ursprünglich im 18. Jahrhundert als habsburgische Festung erbaut, diente Theresienstadt im Zweiten Weltkrieg als nationalsozialistisches Konzentrationslager und Ghetto für die jüdische Bevölkerung.",
       hu: "Eredetileg a 18. században épült Habsburg erőd, mely a második világháború alatt náci koncentrációs táborként és zsidó gettóként szolgált.",
@@ -148,7 +148,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Beinhaus von Sedlec", hu: "Sedleci osszárium", ro: "Osuarul din Sedlec", en: "Sedlec Ossuary"},
     image: "/poi-images/czechrepublic-sedlec-ossuary-history-v2.webp",
     coords: [15.2881, 49.9618],
-    coordinates: { lat: 49.9618, lng: 15.2881 },
+    coords: [15.2881, 49.9618],
     description: {
       de: "Eine kleine römisch-katholische Kapelle unter der Allerheiligenkirche, die für ihren außergewöhnlichen Dekor aus menschlichen Knochen von schätzungsweise 40.000 bis 70.000 Menschen bekannt ist.",
       hu: "A Mindenszentek temploma alatti római katolikus kápolna, amely a becslések szerint 40-70 ezer emberi csontból készült különleges díszítéséről híres.",
@@ -183,7 +183,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Vyšehrad", hu: "Vyšehrad", ro: "Vyšehrad", en: "Vyšehrad"},
     image: "/poi-images/czechrepublic-vysehrad-history-v2.webp",
     coords: [14.4197, 50.0644],
-    coordinates: { lat: 50.0644, lng: 14.4197 },
+    coords: [14.4197, 50.0644],
     description: {
       de: "Eine historische Festung auf einem Hügel über der Moldau, die im 10. Jahrhundert gegründet wurde. Sie gilt als sagenumwobener erster Sitz der böhmischen Fürsten und beherbergt den nationalen Ehrenfriedhof.",
       hu: "A Moldva feletti dombon fekvő történelmi erőd, melyet a 10. században alapítottak. A cseh fejedelmek legendás első székhelyeként ismert, és itt található a nemzeti díszsírhely.",
@@ -218,7 +218,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Schlachtfeld am Weißen Berg", hu: "Fehérhegyi csatatér", ro: "Câmpul de luptă de la Muntele Alb", en: "White Mountain Battlefield"},
     image: "/poi-images/czechrepublic-white-mountain-battlefield-history-v2.webp",
     coords: [14.3169, 50.0761],
-    coordinates: { lat: 50.0761, lng: 14.3169 },
+    coords: [14.3169, 50.0761],
     description: {
       de: "Schauplatz der entscheidenden Schlacht von 1620 am Anfang des Dreißigjährigen Krieges. Die Niederlage der protestantischen böhmischen Stände führte zur Rekatholisierung und jahrhundertelangen Habsburgerherrschaft.",
       hu: "A harmincéves háború kezdetének meghatározó, 1620-as csatájának helyszíne. A protestáns cseh rendek veresége az ország rekatolizációjához és évszázados Habsburg-uralomhoz vezetett.",
@@ -253,7 +253,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Gedenkstätte Lidice", hu: "Lidice emlékhely", ro: "Memorialul Lidice", en: "Lidice Memorial"},
     image: "/poi-images/czechrepublic-lidice-memorial-history-v2.webp",
     coords: [14.1897, 50.1436],
-    coordinates: { lat: 50.1436, lng: 14.1897 },
+    coords: [14.1897, 50.1436],
     description: {
       de: "Ein Mahnmal an der Stelle des Dorfes, das 1942 von den Nationalsozialisten als Vergeltung für das Attentat auf Reinhard Heydrich vollständig zerstört wurde. Die Anlage umfasst Ruinen und ein Museum.",
       hu: "Emlékhely azon falu helyén, melyet 1942-ben a nácik teljesen elpusztítottak bosszúból a Reinhard Heydrich elleni merényletért. Az emlékhely romokat és múzeumot foglal magában.",
@@ -288,7 +288,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Burgruine Trosky", hu: "Trosky várrom", ro: "Ruinele Castelului Trosky", en: "Trosky Castle Ruins"},
     image: "/poi-images/czechrepublic-trosky-ruins-history-v2.webp",
     coords: [15.2308, 50.5164],
-    coordinates: { lat: 50.5164, lng: 15.2308 },
+    coords: [15.2308, 50.5164],
     description: {
       de: "Die markante Doppelruine einer gotischen Burg aus dem 14. Jahrhundert thront auf zwei Basaltkegeln im Böhmischen Paradies. Die Türme werden volkstümlich 'Baba' (Oma) und 'Panna' (Jungfrau) genannt.",
       hu: "A 14. századi gótikus vár jellegzetes kettős romja két bazaltkúpon magasodik a Cseh Paradicsomban. A tornyokat népiesen 'Banya' és 'Szűz' néven emlegetik.",
@@ -323,7 +323,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Dolní Věstonice", hu: "Dolní Věstonice", ro: "Dolní Věstonice", en: "Dolní Věstonice"},
     image: "/poi-images/czechrepublic-dolni-vestonice-history-v2.webp",
     coords: [16.6542, 48.8892],
-    coordinates: { lat: 48.8892, lng: 16.6542 },
+    coords: [16.6542, 48.8892],
     description: {
       de: "Eine der weltweit bedeutendsten archäologischen Fundstätten des Jungpaläolithikums. Hier wurde die berühmte 'Venus von Věstonice', die älteste bekannte Keramikfigur der Welt, entdeckt.",
       hu: "A világ egyik legjelentősebb felső paleolitikumkori régészeti lelőhelye. Itt találták meg a híres 'Věstonicei Vénuszt', a világ legrégebbi ismert kerámiafiguráját.",
@@ -358,7 +358,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Georgsrotunde auf dem Říp", hu: "Szent György-rotunda a Říp-hegyen", ro: "Rotunda Sf. Gheorghe de pe Muntele Říp", en: "St. George Rotunda on Říp"},
     image: "/poi-images/czechrepublic-rip-rotunda-history-v2.webp",
     coords: [14.2894, 50.3861],
-    coordinates: { lat: 50.3861, lng: 14.2894 },
+    coords: [14.2894, 50.3861],
     description: {
       de: "Eine romanische Rotunde auf dem Berg Říp, einem Ort von hoher nationaler Bedeutung. Laut Legende ließ sich hier der Urvater Tschech mit seinem Volk nieder und gründete das tschechische Land.",
       hu: "Román stílusú rotunda a Říp-hegyen, amely kiemelkedő nemzeti jelentőséggel bír. A legenda szerint Cseh ősapa itt telepedett le népével és alapította meg a cseh hazát.",
@@ -393,7 +393,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Burg Pernstein", hu: "Pernštejn vára", ro: "Castelul Pernštejn", en: "Pernštejn Castle"},
     image: "/poi-images/czechrepublic-pernstejn-castle-history-v2.webp",
     coords: [16.3183, 49.4509],
-    coordinates: { lat: 49.4509, lng: 16.3183 },
+    coords: [16.3183, 49.4509],
     description: {
       de: "Eine der am besten erhaltenen gotischen Burgen in Mähren, bekannt als die 'Marmorburg'. Sie wurde nie von Feinden eingenommen und besticht durch ihr komplexes Verteidigungssystem.",
       hu: "Morvaország egyik legjobb állapotban fennmaradt gótikus vára, melyet 'márványvárként' is ismernek. Az ellenség soha nem tudta bevenni, és komplex védelmi rendszerével tűnik ki.",
@@ -428,7 +428,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Festung Špilberk", hu: "Špilberk vár", ro: "Fortăreața Špilberk", en: "Špilberk Fortress"},
     image: "/poi-images/czechrepublic-spilberk-fortress-history-v2.webp",
     coords: [16.5994, 49.1947],
-    coordinates: { lat: 49.1947, lng: 16.5994 },
+    coords: [16.5994, 49.1947],
     description: {
       de: "Die im 13. Jahrhundert gegründete Burg in Brünn wurde später zur gewaltigsten Barockfestung Mährens und zum berüchtigten Gefängnis für politische Gefangene der Habsburgermonarchie.",
       hu: "A 13. században alapított brünni vár később Morvaország leghatalmasabb barokk erődjévé és a Habsburg Monarchia politikai foglyainak hírhedt börtönévé vált.",
@@ -463,7 +463,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Historischer Marktplatz von Telč", hu: "Telč történelmi főtere", ro: "Piața istorică din Telč", en: "Telč Historic Square"},
     image: "/poi-images/czechrepublic-telc-square-history-v2.webp",
     coords: [15.4528, 49.1842],
-    coordinates: { lat: 49.1842, lng: 15.4528 },
+    coords: [15.4528, 49.1842],
     description: {
       de: "Ein UNESCO-Weltkulturerbe, bekannt für seine geschlossene Reihe von Renaissance- und Barockhäusern mit hohen Giebeln und Arkaden. Das Ensemble entstand nach einem großen Stadtbrand im 16. Jahrhundert.",
       hu: "UNESCO Világörökségi helyszín, mely híres magas oromzatos és árkádos reneszánsz és barokk házsoráról. Az együttes egy 16. századi nagy városi tűzvész után alakult ki.",
@@ -498,7 +498,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Erzbischöfliches Schloss Kremsier", hu: "Kroměříži érseki palota", ro: "Palatul Arhiepiscopal din Kroměříž", en: "Kroměříž Archbishop's Palace"},
     image: "/poi-images/czechrepublic-kromeriz-palace-history-v2.webp",
     coords: [17.3931, 49.2997],
-    coordinates: { lat: 49.2997, lng: 17.3931 },
+    coords: [17.3931, 49.2997],
     description: {
       de: "Eine prächtige Barockresidenz der Olmützer Bischöfe, berühmt für ihren Lustgarten und den Schlossgarten. Das Schloss war im Jahr 1848 Schauplatz des österreichischen Reichstages.",
       hu: "Az olmützi püspökök pompás barokk rezidenciája, mely híres Virágkertjéről és Kastélykertjéről. A palota 1848-ban az osztrák alkotmányozó országgyűlés helyszíne volt.",
@@ -533,7 +533,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Schloss Litomyšl", hu: "Litomyšli kastély", ro: "Castelul Litomyšl", en: "Litomyšl Castle"},
     image: "/poi-images/czechrepublic-litomysl-castle-history-v2.webp",
     coords: [16.3122, 49.8736],
-    coordinates: { lat: 49.8736, lng: 16.3122 },
+    coords: [16.3122, 49.8736],
     description: {
       de: "Ein herausragendes Beispiel eines Arkadenschlosses im Renaissancestil des 16. Jahrhunderts. Die Außenfassaden sind fast vollständig mit kunstvollen Sgraffito-Dekorationen bedeckt.",
       hu: "A 16. századi reneszánsz árkádos kastélyok egyik kiemelkedő példája. Külső homlokzatát szinte teljesen beborítják a művészi sgraffito díszítések.",
@@ -568,7 +568,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Burg Loket", hu: "Loket vára", ro: "Castelul Loket", en: "Loket Castle"},
     image: "/poi-images/czechrepublic-loket-castle-history-v2.webp",
     coords: [12.7536, 50.1864],
-    coordinates: { lat: 50.1864, lng: 12.7536 },
+    coords: [12.7536, 50.1864],
     description: {
       de: "Eine massive romanisch-gotische Burg aus dem 12. Jahrhundert, die auf einem Felsvorsprung über dem Fluss Eger liegt. Sie diente als strategische Festung an der Grenze zum Heiligen Römischen Reich.",
       hu: "Hatalmas 12. századi román-gótikus vár, mely az Ohře folyó feletti sziklán trónol. Stratégiai fontosságú erőd volt a Német-római Birodalom határán.",
@@ -603,7 +603,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Burg Bezděz", hu: "Bezděz vára", ro: "Castelul Bezděz", en: "Bezděz Castle"},
     image: "/poi-images/czechrepublic-bezdez-castle-history-v2.webp",
     coords: [14.7192, 50.5392],
-    coordinates: { lat: 50.5392, lng: 14.7192 },
+    coords: [14.7192, 50.5392],
     description: {
       de: "Eine bedeutende frühgotische Burg, die 1264 von König Ottokar II. Premysl erbaut wurde. Sie gilt als eines der am besten erhaltenen Beispiele königlicher Baukunst des 13. Jahrhunderts.",
       hu: "Jelentős kora gótikus vár, melyet 1264-ben II. Ottokár király építtetett. A 13. századi királyi építészet egyik legjobb állapotban fennmaradt példája.",
@@ -638,7 +638,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Hospital Kuks", hu: "Kuks kórház", ro: "Spitalul Kuks", en: "Kuks Hospital"},
     image: "/poi-images/czechrepublic-kuks-hospital-history-v2.webp",
     coords: [15.8894, 50.3925],
-    coordinates: { lat: 50.3925, lng: 15.8894 },
+    coords: [15.8894, 50.3925],
     description: {
       de: "Ein monumentaler Barockkomplex, der Anfang des 18. Jahrhunderts von Graf Franz Anton von Sporck gegründet wurde. Er diente als Hospital für Veteranen und ist für seine Skulpturen bekannt.",
       hu: "Monumentális barokk épületegyüttes, melyet a 18. század elején Franz Anton von Sporck gróf alapított. Veteránok kórházaként szolgált, és szobrairól híres.",
@@ -673,7 +673,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Jüdisches Viertel in Třebíč", hu: "Třebíči zsidó negyed", ro: "Cartierul Evreiesc din Třebíč", en: "Třebíč Jewish Quarter"},
     image: "/poi-images/czechrepublic-trebic-jewish-quarter-history-v2.webp",
     coords: [15.8772, 49.2172],
-    coordinates: { lat: 49.2172, lng: 15.8772 },
+    coords: [15.8772, 49.2172],
     description: {
       de: "Eines der am besten erhaltenen jüdischen Viertel in Europa und UNESCO-Weltkulturerbe. Es umfasst über 120 Häuser, zwei Synagogen und einen der bedeutendsten jüdischen Friedhöfe.",
       hu: "Európa egyik legjobb állapotban fennmaradt zsidó negyede és UNESCO Világörökségi helyszín. Több mint 120 házat, két zsinagógát és egy jelentős zsidó temetőt foglal magában.",
@@ -708,7 +708,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Burgruine Rabí", hu: "Rabí várrom", ro: "Ruinele Castelului Rabí", en: "Rabí Castle Ruins"},
     image: "/poi-images/czechrepublic-rabi-ruins-history-v2.webp",
     coords: [13.6186, 49.2797],
-    coordinates: { lat: 49.2797, lng: 13.6186 },
+    coords: [13.6186, 49.2797],
     description: {
       de: "Die größte Burgruine in Böhmen mit einem gewaltigen Verteidigungssystem. Während der Hussitenkriege verlor der Anführer Jan Žižka hier bei einer Belagerung sein zweites Auge.",
       hu: "Csehország legnagyobb várroma hatalmas védelmi rendszerrel. A huszita háborúk idején a vezér, Jan Žižka egy itteni ostrom során veszítette el a második szemét.",
@@ -743,7 +743,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Rotunde in Starý Plzenec", hu: "Starý Plzenec-i rotunda", ro: "Rotunda din Starý Plzenec", en: "Starý Plzenec Rotunda"},
     image: "/poi-images/czechrepublic-stary-plzenec-history-v2.webp",
     coords: [13.4792, 49.6975],
-    coordinates: { lat: 49.6975, lng: 13.4792 },
+    coords: [13.4792, 49.6975],
     description: {
       de: "Die Rotunde der hll. Peter und Paul ist einer der ältesten erhaltenen Sakralbauten Tschechiens. Sie war Teil der frühmittelalterlichen Burgstätte Pilsen, dem Verwaltungszentrum Westböhmens.",
       hu: "A Szent Péter és Pál-rotunda Csehország egyik legrégebbi fennmaradt szakrális építménye. A kora középkori pilseni várhely része volt, amely Nyugat-Csehország központjaként szolgált.",
@@ -778,7 +778,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Schlachtfeld von Kolin", hu: "Kolíni csatatér", ro: "Câmpul de luptă de la Kolin", en: "Kolin Battlefield"},
     image: "/poi-images/czechrepublic-kolin-battlefield-history-v2.webp",
     coords: [15.1225, 50.0125],
-    coordinates: { lat: 50.0125, lng: 15.1225 },
+    coords: [15.1225, 50.0125],
     description: {
       de: "Schauplatz der Schlacht von 1757 während des Siebenjährigen Krieges, in der die österreichische Armee Friedrich den Großen besiegte. Es war die erste Niederlage des preußischen Königs in diesem Krieg.",
       hu: "Az 1757-es kolíni csata helyszíne a hétéves háborúban, ahol az osztrák sereg legyőzte Nagy Frigyest. Ez volt a porosz király első veresége ebben a háborúban.",
@@ -813,7 +813,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Egerer Burg", hu: "Chebi vár", ro: "Castelul Cheb", en: "Cheb Castle"},
     image: "/poi-images/czechrepublic-cheb-castle-history-v2.webp",
     coords: [12.3681, 50.0814],
-    coordinates: { lat: 50.0814, lng: 12.3681 },
+    coords: [12.3681, 50.0814],
     description: {
       de: "Eine Kaiserpfalz, die im 12. Jahrhundert von Friedrich Barbarossa erbaut wurde. Sie ist bekannt für ihre seltene doppelstöckige romanisch-gotische Kapelle und den markanten Schwarzen Turm.",
       hu: "Irtózatosan fontos császári palota, melyet Barbarossa Frigyes építtetett a 12. században. Híres ritka kétszintes román-gótikus kápolnájáról és jellegzetes Fekete tornyáról.",
@@ -848,7 +848,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Schloss Frauenberg", hu: "Hluboká kastély", ro: "Castelul Hluboká", en: "Hluboká Castle"},
     image: "/poi-images/czechrepublic-hluboka-castle-history-v2.webp",
     coords: [14.4414, 49.0511],
-    coordinates: { lat: 49.0511, lng: 14.4414 },
+    coords: [14.4414, 49.0511],
     description: {
       de: "Ursprünglich eine gotische Burg, wurde Hluboká im 19. Jahrhundert im Stil der Windsor-Gotik umgebaut. Es gilt als eines der romantischsten Schlösser Tschechiens und war Sitz der Familie Schwarzenberg.",
       hu: "Eredetileg gótikus vár, melyet a 19. században Windsor-stílusú neogótikus kastéllyá építettek át. Csehország egyik legromantikusabb kastélya, a Schwarzenberg család székhelye volt.",
@@ -883,7 +883,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Schloss Orlík", hu: "Orlík vára", ro: "Castelul Orlík", en: "Orlík Castle"},
     image: "/poi-images/czechrepublic-orlik-castle-history-v2.webp",
     coords: [14.1697, 49.5128],
-    coordinates: { lat: 49.5128, lng: 14.1697 },
+    coords: [14.1697, 49.5128],
     description: {
       de: "Das Schloss liegt auf einem Felsen am Ufer des Orlík-Stausees. Ursprünglich eine gotische Wasserburg, wurde es später zum neogotischen Stammsitz des mährischen Zweigs der Familie Schwarzenberg.",
       hu: "A kastély az Orlík-víztározó partján, egy sziklán áll. Eredetileg gótikus vízi vár volt, később a Schwarzenberg család morva ágának neogótikus székhelyévé vált.",
@@ -918,7 +918,7 @@ export const czechrepublicHistoryV2: POI[] = [
     name: { de: "Slavonice", hu: "Slavonice", ro: "Slavonice", en: "Slavonice"},
     image: "/poi-images/czechrepublic-slavonice-history-v2.webp",
     coords: [15.3525, 48.9972],
-    coordinates: { lat: 48.9972, lng: 15.3525 },
+    coords: [15.3525, 48.9972],
     description: {
       de: "Eine historische Stadt an der Grenze zu Österreich, die für ihre außergewöhnlich gut erhaltenen Renaissance-Bürgerhäuser mit Sgraffito-Fassaden bekannt ist. Sie wird oft 'kleines Telč' genannt.",
       hu: "Az osztrák határon fekvő történelmi város, mely kivételesen jó állapotban fennmaradt sgraffito homlokzatú reneszánsz polgárházairól híres. Gyakran nevezik 'kis Telčnek'.",
@@ -951,7 +951,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "ruins",
     parent: "CZ",
     name: { de: "Oppidum Hrazany", hu: "Hrazany oppidum", ro: "Oppidum Hrazany", en: "Hrazany Oppidum" },
-    coordinates: { lat: 49.6586, lng: 14.3989 },
+    coords: [14.3989, 49.6586],
     description: {
       de: "Eine befestigte keltische Siedlung aus dem 2. Jahrhundert v. Chr. Sie gilt als eines der größten Oppida in Böhmen.",
       hu: "Egy i.e. 2. századi megerősített kelta település. Csehország egyik legnagyobb oppidumának tartják.",
@@ -983,7 +983,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "mine",
     parent: "CZ",
     name: { de: "Goldbergwerk Zlaté Hory", hu: "Zlaté Hory aranybányák", ro: "Minele de aur Zlaté Hory", en: "Zlaté Hory Gold Mines" },
-    coordinates: { lat: 50.2503, lng: 17.3986 },
+    coords: [17.3986, 50.2503],
     description: {
       de: "Historisches Bergbaugebiet im Altvatergebirge. Hier wurde vom Mittelalter bis zum 20. Jahrhundert Gold und Erze abgebaut.",
       hu: "Történelmi bányászati terület a Jeseníky-hegységben. A középkortól a 20. századig bányásztak itt aranyat és érceket.",
@@ -1015,7 +1015,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Švihov", hu: "Švihov vár", ro: "Castelul Švihov", en: "Švihov Castle" },
-    coordinates: { lat: 49.4828, lng: 13.2844 },
+    coords: [13.2844, 49.4828],
     description: {
       de: "Eine spätgotische Wasserburg im Pilsner Raum. Erbaut im 15. Jahrhundert als befestigte Residenz der Familie Rýzmberk.",
       hu: "Egy késő gótikus vízi vár a Pilseni régióban. A 15. században épült a Rýzmberk család erődített rezidenciájaként.",
@@ -1047,7 +1047,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Vratislavice", hu: "Vratislavicei vár", ro: "Castelul Vratislavice", en: "Vratislavice Castle" },
-    coordinates: { lat: 50.7497, lng: 15.0719 },
+    coords: [15.0719, 50.7497],
     description: {
       de: "Eine historische Burgstätte nahe Liberec mit Ursprüngen im Mittelalter. Diente der Verteidigung der nordböhmischen Handelswege.",
       hu: "Történelmi várhely Liberec közelében, középkori gyökerekkel. Észak-csehországi kereskedelmi utak védelmét szolgálta.",
@@ -1079,7 +1079,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Lipnice", hu: "Lipnice vár", ro: "Castelul Lipnice", en: "Lipnice Castle" },
-    coordinates: { lat: 49.6142, lng: 15.4194 },
+    coords: [15.4194, 49.6142],
     description: {
       de: "Eine der größten gotischen Burgen Böhmens, im 14. Jahrhundert erbaut. Strategisch auf einem Felsen in der Böhmisch-Mährischen Höhe gelegen.",
       hu: "Csehország egyik legnagyobb gótikus vára, a 14. században épült. Stratégiailag egy sziklán fekszik a Cseh-Morva-felföldön.",
@@ -1111,7 +1111,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "palace",
     parent: "CZ",
     name: { de: "Schloss Valeč", hu: "Valeč kastély", ro: "Castelul Valeč", en: "Valeč Chateau" },
-    coordinates: { lat: 50.1583, lng: 13.2492 },
+    coords: [13.2492, 50.1583],
     description: {
       de: "Barockschloss mit einem bedeutenden Park, entworfen im 17. und 18. Jahrhundert. Bekannt für seine barocken Statuen im Garten.",
       hu: "Barokk kastély jelentős parkkal, a 17. és 18. században tervezték. A kertjében található barokk szobrairól ismert.",
@@ -1143,7 +1143,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "church",
     parent: "CZ",
     name: { de: "Wallfahrtsort Svatá Hora", hu: "Svatá Hora zarándokhely", ro: "Locul de pelerinaj Svatá Hora", en: "Svatá Hora Pilgrimage Site" },
-    coordinates: { lat: 49.6847, lng: 14.0153 },
+    coords: [14.0153, 49.6847],
     description: {
       de: "Ein bedeutender barocker Wallfahrtsort über der Stadt Příbram. Ein wichtiges religiöses Zentrum in Böhmen seit dem 17. Jahrhundert.",
       hu: "Jelentős barokk zarándokhely Příbram városa felett. Csehország fontos vallási központja a 17. század óta.",
@@ -1175,7 +1175,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Hněvín", hu: "Hněvín vár", ro: "Castelul Hněvín", en: "Hněvín Castle" },
-    coordinates: { lat: 50.5186, lng: 13.6369 },
+    coords: [13.6369, 50.5186],
     description: {
       de: "Eine wiederaufgebaute mittelalterliche Burg auf dem Schlossberg über Most. Ursprünglich im 13. Jahrhundert gegründet.",
       hu: "Egy újjáépített középkori vár a Most feletti Várhegyen. Eredetileg a 13. században alapították.",
@@ -1207,7 +1207,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Kunětická hora", hu: "Kunětická hora vár", ro: "Castelul Kunětická hora", en: "Kunětická hora Castle" },
-    coordinates: { lat: 50.0767, lng: 15.8142 },
+    coords: [15.8142, 50.0767],
     description: {
       de: "Eine imposante Burgruine auf einem markanten Hügel bei Pardubice. Wichtige Befestigung aus der Zeit der Hussitenkriege.",
       hu: "Lenyűgöző várrom egy markáns dombon, Pardubice közelében. Fontos erődítmény a huszita háborúk idejéből.",
@@ -1239,7 +1239,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Veveří", hu: "Veveří vár", ro: "Castelul Veveří", en: "Veveří Castle" },
-    coordinates: { lat: 49.2439, lng: 16.4633 },
+    coords: [16.4633, 49.2439],
     description: {
       de: "Eine weitläufige Burg über dem Stausee bei Brünn. Gehört zu den ältesten Burgen in Mähren, mit Ursprüngen im 11. Jahrhundert.",
       hu: "Kiterjedt vár a Brünn melletti víztározó felett. Morvaország egyik legrégebbi vára, a 11. századból származó gyökerekkel.",
@@ -1271,7 +1271,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Kokořín", hu: "Kokořín vár", ro: "Castelul Kokořín", en: "Kokořín Castle" },
-    coordinates: { lat: 50.4439, lng: 14.5775 },
+    coords: [14.5775, 50.4439],
     description: {
       de: "Eine romantische Burg im Kokořín-Tal. Sie wurde im 14. Jahrhundert erbaut und im 20. Jahrhundert umfassend restauriert.",
       hu: "Romantikus vár a Kokořín-völgyben. A 14. században épült, a 20. században teljesen restaurálták.",
@@ -1303,7 +1303,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "ruins",
     parent: "CZ",
     name: { de: "Burgruine Šelmberk", hu: "Šelmberk várrom", ro: "Ruinele castelului Šelmberk", en: "Šelmberk Castle Ruins" },
-    coordinates: { lat: 49.5761, lng: 14.8089 },
+    coords: [14.8089, 49.5761],
     description: {
       de: "Überreste einer mittelalterlichen Burg bei Mladá Vožice. Bekannt für ihren gut erhaltenen Bergfried mit Aussichtsturm.",
       hu: "Egy középkori vár maradványai Mladá Vožice közelében. Jól megőrzött öregtornyáról ismert, amely kilátóként szolgál.",
@@ -1335,7 +1335,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Feste Drahlov", hu: "Drahlov erőd", ro: "Fortăreața Drahlov", en: "Drahlov Fortress" },
-    coordinates: { lat: 49.4997, lng: 17.525 },
+    coords: [17.525, 49.4997],
     description: {
       de: "Historische befestigte Anlage in der Region Olomouc. Diente im Mittelalter als kleinerer befestigter Adelssitz.",
       hu: "Történelmi erődített építmény az Olomouci régióban. A középkorban kisebb erődített nemesi rezidenciaként szolgált.",
@@ -1367,7 +1367,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "mine",
     parent: "CZ",
     name: { de: "Erzbergwerke Příbram", hu: "Příbrami ércbányák", ro: "Minele de minereu Příbram", en: "Příbram Ore Mines" },
-    coordinates: { lat: 49.6897, lng: 13.9989 },
+    coords: [13.9989, 49.6897],
     description: {
       de: "Bedeutendes Bergbauzentrum für Silber und Blei. Der Bergbau in diesem Gebiet reicht bis ins 13. Jahrhundert zurück.",
       hu: "Jelentős bányászati központ ezüst és ólom számára. Az itteni bányászat a 13. századig nyúlik vissza.",
@@ -1399,7 +1399,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Králův Dvůr", hu: "Králův Dvůr vár", ro: "Castelul Králův Dvůr", en: "Králův Dvůr Castle" },
-    coordinates: { lat: 49.9531, lng: 14.0578 },
+    coords: [14.0578, 49.9531],
     description: {
       de: "Historischer befestigter Ort nahe Beroun. Einstige königliche Residenz und Raststation an wichtigen Handelswegen.",
       hu: "Történelmi erődített hely Beroun közelében. Egykori királyi rezidencia és pihenőállomás fontos kereskedelmi útvonalakon.",
@@ -1431,7 +1431,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "ruins",
     parent: "CZ",
     name: { de: "Burgstätte Hradiště u Znojma", hu: "Hradiště u Znojma várhely", ro: "Situl fortificat Hradiště u Znojma", en: "Hradiště u Znojma Hillfort" },
-    coordinates: { lat: 48.8569, lng: 16.0353 },
+    coords: [16.0353, 48.8569],
     description: {
       de: "Ein alter slawischer Burgwall bei Znojmo. Ein bedeutendes archäologisches Zentrum der mährischen Geschichte.",
       hu: "Régi szláv várfal Znojmo közelében. A morva történelem jelentős régészeti központja.",
@@ -1463,7 +1463,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Zruč nad Sázavou", hu: "Zruč nad Sázavou vár", ro: "Castelul Zruč nad Sázavou", en: "Zruč nad Sázavou Castle" },
-    coordinates: { lat: 49.7439, lng: 15.1058 },
+    coords: [15.1058, 49.7439],
     description: {
       de: "Eine mittelalterliche Burg, die später zum Schloss umgebaut wurde. Gelegen am Ufer der Sázava.",
       hu: "Egy középkori vár, amelyet később kastéllyá alakítottak át. A Sázava partján fekszik.",
@@ -1495,7 +1495,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Schloss Bílina", hu: "Bílina kastély", ro: "Castelul Bílina", en: "Bílina Chateau" },
-    coordinates: { lat: 50.5489, lng: 13.7742 },
+    coords: [13.7742, 50.5489],
     description: {
       de: "Ehemalige Wasserburg, später zu einem barocken Schloss umgebaut. Einstiger Sitz der Familie Lobkowicz.",
       hu: "Egykori vízi vár, amelyet később barokk kastéllyá alakítottak. A Lobkowicz család egykori székhelye.",
@@ -1527,7 +1527,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Český Šternberk", hu: "Český Šternberk vár", ro: "Castelul Český Šternberk", en: "Český Šternberk Castle" },
-    coordinates: { lat: 49.7908, lng: 14.9303 },
+    coords: [14.9303, 49.7908],
     description: {
       de: "Eine der ältesten Burgen Böhmens, seit über 700 Jahren in Familienbesitz der Sternbergs.",
       hu: "Csehország egyik legrégebbi vára, több mint 700 éve a Sternberg család birtokában.",
@@ -1559,7 +1559,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Zbiroh", hu: "Zbiroh vár", ro: "Castelul Zbiroh", en: "Zbiroh Castle" },
-    coordinates: { lat: 49.8517, lng: 13.7656 },
+    coords: [13.7656, 49.8517],
     description: {
       de: "Eine Burg mit einem tiefen Brunnen und reicher Geschichte. Bekannt als 'Schloss der drei Kaiser'.",
       hu: "Vár mély kúttal és gazdag történelemmel. A 'három császár kastélyaként' ismert.",
@@ -1591,7 +1591,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "ruins",
     parent: "CZ",
     name: { de: "Burg Rabí", hu: "Rabí vár", ro: "Castelul Rabí", en: "Rabí Castle" },
-    coordinates: { lat: 49.2736, lng: 13.6192 },
+    coords: [13.6192, 49.2736],
     description: {
       de: "Die größte Burgruine Böhmens. Einst eine mächtige Festung zum Schutz des Handelsweges nach Bayern.",
       hu: "Csehország legnagyobb várromja. Egykor hatalmas erődítmény a Bajorországba vezető kereskedelmi út védelmére.",
@@ -1623,7 +1623,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "battlefield",
     parent: "CZ",
     name: { de: "Schlachtfeld bei Králové", hu: "Králové csatatér", ro: "Câmpul de luptă de la Králové", en: "Králové Battlefield" },
-    coordinates: { lat: 50.4189, lng: 15.8203 },
+    coords: [15.8203, 50.4189],
     description: {
       de: "Schauplatz bedeutender historischer Kämpfe während der Hussitenkriege.",
       hu: "Jelentős történelmi csaták helyszíne a huszita háborúk idején.",
@@ -1655,7 +1655,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Schloss Ostroh", hu: "Ostroh kastély", ro: "Castelul Ostroh", en: "Ostroh Chateau" },
-    coordinates: { lat: 50.0558, lng: 12.3575 },
+    coords: [12.3575, 50.0558],
     description: {
       de: "Mittelalterliche Burg, die zum Schloss umgebaut wurde, bei Františkovy Lázně.",
       hu: "Középkori vár, amelyet kastéllyá alakítottak át, Františkovy Lázně közelében.",
@@ -1687,7 +1687,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "palace",
     parent: "CZ",
     name: { de: "Schloss Buchlovice", hu: "Buchlovice kastély", ro: "Castelul Buchlovice", en: "Buchlovice Chateau" },
-    coordinates: { lat: 49.0767, lng: 17.2003 },
+    coords: [17.2003, 49.0767],
     description: {
       de: "Barockes Schloss im Stil italienischer Villen, erbaut im 18. Jahrhundert.",
       hu: "Barokk kastély olasz villák stílusában, a 18. században épült.",
@@ -1719,7 +1719,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "church",
     parent: "CZ",
     name: { de: "Kirche Hustopeče", hu: "Hustopeče-i templom", ro: "Biserica Hustopeče", en: "Hustopeče Church" },
-    coordinates: { lat: 48.9406, lng: 16.7356 },
+    coords: [16.7356, 48.9406],
     description: {
       de: "Historische Kirche mit Wurzeln im Mittelalter, modern umgebaut.",
       hu: "Történelmi templom középkori gyökerekkel, modern módon átépítve.",
@@ -1751,7 +1751,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Feste Dřínov", hu: "Dřínov erőd", ro: "Fortăreața Dřínov", en: "Dřínov Fortress" },
-    coordinates: { lat: 50.2806, lng: 13.8517 },
+    coords: [13.8517, 50.2806],
     description: {
       de: "Befestigter Adelssitz in Nordböhmen, heute in Ruinen.",
       hu: "Megerősített nemesi székhely Észak-Csehországban, ma romokban.",
@@ -1783,7 +1783,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Kolinec", hu: "Kolinec vár", ro: "Castelul Kolinec", en: "Kolinec Castle" },
-    coordinates: { lat: 49.3139, lng: 13.4358 },
+    coords: [13.4358, 49.3139],
     description: {
       de: "Ehemalige mittelalterliche Befestigung im Böhmerwald-Vorland.",
       hu: "Egykori középkori erődítmény a Cseh-erdő előterében.",
@@ -1815,7 +1815,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Stadtbefestigung Tábor", hu: "Tábor városfalai", ro: "Fortificațiile orașului Tábor", en: "Tábor City Fortifications" },
-    coordinates: { lat: 49.4142, lng: 14.6567 },
+    coords: [14.6567, 49.4142],
     description: {
       de: "Mittelalterliche Verteidigungsanlagen der Hussitenstadt Tábor.",
       hu: "Tábor huszita város középkori védművei.",
@@ -1847,7 +1847,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Schloss Bechyně", hu: "Bechyně kastély", ro: "Castelul Bechyně", en: "Bechyně Chateau" },
-    coordinates: { lat: 49.2908, lng: 14.4717 },
+    coords: [14.4717, 49.2908],
     description: {
       de: "Bedeutende Schlossanlage, hervorgegangen aus einer gotischen Burg über der Lainsitz.",
       hu: "Jelentős kastélykomplexum, amely egy gótikus várból alakult ki a Lainsitz folyó felett.",
@@ -1879,7 +1879,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Feste Švihov", hu: "Švihov erőd", ro: "Fortăreața Švihov", en: "Švihov Fortress" },
-    coordinates: { lat: 49.4856, lng: 13.2861 },
+    coords: [13.2861, 49.4856],
     description: {
       de: "Historische befestigte Siedlung im Švihov-Gebiet.",
       hu: "Történelmi erődített település a Švihov területen.",
@@ -1911,7 +1911,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Stadtbefestigung Třeboň", hu: "Třeboň városfalai", ro: "Fortificațiile orașului Třeboň", en: "Třeboň City Fortifications" },
-    coordinates: { lat: 49.0039, lng: 14.7717 },
+    coords: [14.7717, 49.0039],
     description: {
       de: "Umfassende Verteidigungsanlagen der historischen Stadt Třeboň.",
       hu: "Třeboň történelmi városának kiterjedt védelmi rendszere.",
@@ -1943,7 +1943,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "castle",
     parent: "CZ",
     name: { de: "Burg Vranov", hu: "Vranov vár", ro: "Castelul Vranov", en: "Vranov Castle" },
-    coordinates: { lat: 48.8928, lng: 15.8117 },
+    coords: [15.8117, 48.8928],
     description: {
       de: "Ehemalige mittelalterliche Burg, hoch über dem Fluss Dyje gelegen.",
       hu: "Egykori középkori vár, magasan a Dyje folyó felett.",
@@ -1975,7 +1975,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Stadtbefestigung Cheb", hu: "Cheb városfalai", ro: "Fortificațiile orașului Cheb", en: "Cheb City Fortifications" },
-    coordinates: { lat: 50.0761, lng: 12.3703 },
+    coords: [12.3703, 50.0761],
     description: {
       de: "Historische Befestigungswerke der Stadt Cheb nahe der bayerischen Grenze.",
       hu: "Cheb város történelmi védművei a bajor határ közelében.",
@@ -2007,7 +2007,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "church",
     parent: "CZ",
     name: { de: "Kloster Zbraslav", hu: "Zbraslav kolostor", ro: "Mănăstirea Zbraslav", en: "Zbraslav Monastery" },
-    coordinates: { lat: 49.9739, lng: 14.3972 },
+    coords: [14.3972, 49.9739],
     description: {
       de: "Ehemaliges Zisterzienserkloster in Prag-Zbraslav, Grabstätte böhmischer Könige.",
       hu: "Egykori ciszterci kolostor Prága-Zbraslavban, a cseh királyok temetkezési helye.",
@@ -2039,7 +2039,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "palace",
     parent: "CZ",
     name: { de: "Schloss Švihov", hu: "Švihov kastély", ro: "Castelul Švihov", en: "Švihov Chateau" },
-    coordinates: { lat: 49.4839, lng: 13.2875 },
+    coords: [13.2875, 49.4839],
     description: {
       de: "Historisches Schlossgebäude in der Siedlung Švihov.",
       hu: "Történelmi kastélyépület a Švihov településen.",
@@ -2071,7 +2071,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Prager Stadtmauern", hu: "Prágai városfalak", ro: "Zidurile orașului Praga", en: "Prague City Walls" },
-    coordinates: { lat: 50.0875, lng: 14.4214 },
+    coords: [14.4214, 50.0875],
     description: {
       de: "Überreste der mittelalterlichen Verteidigungsanlagen der Stadt Prag.",
       hu: "Prága városának középkori védelmi rendszerének maradványai.",
@@ -2103,7 +2103,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "palace",
     parent: "CZ",
     name: { de: "Schloss Králův Dvůr", hu: "Králův Dvůr kastély", ro: "Castelul Králův Dvůr", en: "Králův Dvůr Chateau" },
-    coordinates: { lat: 49.9542, lng: 14.0567 },
+    coords: [14.0567, 49.9542],
     description: {
       de: "Ehemalige königliche Residenz bei Beroun, heute kulturell genutzt.",
       hu: "Egykori királyi rezidencia Beroun mellett, ma kulturális célokra használják.",
@@ -2135,7 +2135,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Stadtbefestigung Pilsen", hu: "Pilsen városfalai", ro: "Fortificațiile orașului Plzeň", en: "Plzeň City Fortifications" },
-    coordinates: { lat: 49.7475, lng: 13.3775 },
+    coords: [13.3775, 49.7475],
     description: {
       de: "Historische Befestigungswerke rund um die Altstadt von Pilsen.",
       hu: "Pilsen óvárosát körülvevő történelmi védművek.",
@@ -2167,7 +2167,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Stadtbefestigung Znojmo", hu: "Znojmo városfalai", ro: "Fortificațiile orașului Znojmo", en: "Znojmo City Fortifications" },
-    coordinates: { lat: 48.8558, lng: 16.0489 },
+    coords: [16.0489, 48.8558],
     description: {
       de: "Umfangreiche Verteidigungsanlagen der historischen Stadt Znojmo.",
       hu: "Znojmo történelmi városának kiterjedt védelmi rendszere.",
@@ -2199,7 +2199,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Stadtbefestigung Kroměříž", hu: "Kroměříž városfalai", ro: "Fortificațiile orașului Kroměříž", en: "Kroměříž City Fortifications" },
-    coordinates: { lat: 49.3008, lng: 17.3917 },
+    coords: [17.3917, 49.3008],
     description: {
       de: "Historische Verteidigungsanlagen der Stadt Kroměříž.",
       hu: "Kroměříž városának történelmi védművei.",
@@ -2231,7 +2231,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Stadtbefestigung Litoměřice", hu: "Litoměřice városfalai", ro: "Fortificațiile orașului Litoměřice", en: "Litoměřice City Fortifications" },
-    coordinates: { lat: 50.5339, lng: 14.1317 },
+    coords: [14.1317, 50.5339],
     description: {
       de: "Umfassende mittelalterliche Befestigungswerke in Litoměřice.",
       hu: "Kiterjedt középkori védművek Litoměřicében.",
@@ -2263,7 +2263,7 @@ export const czechrepublicHistoryV2: POI[] = [
     type: "landmark",
     parent: "CZ",
     name: { de: "Stadtbefestigung Beroun", hu: "Beroun városfalai", ro: "Fortificațiile orașului Beroun", en: "Beroun City Fortifications" },
-    coordinates: { lat: 49.9639, lng: 14.0717 },
+    coords: [14.0717, 49.9639],
     description: {
       de: "Historische Verteidigungsmauern und Tore der Stadt Beroun.",
       hu: "Beroun városának történelmi védőfalai és kapui.",

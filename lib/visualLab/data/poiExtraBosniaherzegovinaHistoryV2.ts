@@ -8,7 +8,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Alte Brücke von Mostar", hu: "Öreg híd", ro: "Podul Vechi din Mostar", en: "Old Bridge of Mostar"},
     image: "/poi-images/bosniaherzegovina-stari-most-history-v2.webp",
     coords: [17.815, 43.3372],
-    coordinates: { lat: 43.3372, lng: 17.815 },
+    coords: [17.815, 43.3372],
     description: {
       de: "Dieses osmanische Meisterwerk aus dem 16. Jahrhundert verbindet die beiden Teile von Mostar über die Neretva. Nach der Zerstörung 1993 wurde sie originalgetreu wieder aufgebaut.",
       hu: "A 16. századi oszmán remekmű Mostar két partját köti össze a Neretva felett. Az 1993-as pusztulás után hűen az eredeti tervek alapján építették újjá.",
@@ -42,7 +42,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Lateinerbrücke", hu: "Latin híd", ro: "Podul Latin", en: "Latin Bridge"},
     image: "/poi-images/bosniaherzegovina-latin-bridge-history-v2.webp",
     coords: [18.4289, 43.8575],
-    coordinates: { lat: 43.8575, lng: 18.4289 },
+    coords: [18.4289, 43.8575],
     description: {
       de: "Diese historische osmanische Brücke in Sarajevo ist als Ort des Attentats auf Erzherzog Franz Ferdinand bekannt. Das Ereignis im Jahr 1914 löste den Ersten Weltkrieg aus.",
       hu: "Ez a szarajevói oszmán híd Ferenc Ferdinánd főherceg meggyilkolásának helyszíneként ismert. Az 1914-es esemény vezetett az első világháború kitöréséhez.",
@@ -77,7 +77,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Festung Bobovac", hu: "Bobovác vára", ro: "Cetatea Bobovac", en: "Bobovac Fortress"},
     image: "/poi-images/bosniaherzegovina-bobovac-history-v2.webp",
     coords: [18.2131, 44.1111],
-    coordinates: { lat: 44.1111, lng: 18.2131 },
+    coords: [18.2131, 44.1111],
     description: {
       de: "Bobovac war die Residenz der bosnischen Könige und Sitz des Staatsarchivs im Mittelalter. Die Festung galt lange Zeit als uneinnehmbares Zentrum des bosnischen Reiches.",
       hu: "Bobovác a bosnyák királyok rezidenciája és az állami levéltár székhelye volt a középkorban. A vár sokáig a bosnyák birodalom bevehetetlen központja volt.",
@@ -112,7 +112,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Festung Jajce", hu: "Jajcei vár", ro: "Cetatea Jajce", en: "Jajce Fortress"},
     image: "/poi-images/bosniaherzegovina-jajce-fortress-history-v2.webp",
     coords: [17.2703, 44.3411],
-    coordinates: { lat: 44.3411, lng: 17.2703 },
+    coords: [17.2703, 44.3411],
     description: {
       de: "Die Festung von Jajce thront über der Stadt und war die letzte Residenz des bosnischen Königreichs. Sie zeugt von der Verteidigungsarchitektur gegen die osmanische Expansion.",
       hu: "A jajcei vár a város felett magasodik, és a bosnyák királyság utolsó székhelye volt. Az oszmán terjeszkedés elleni védelmi építészet tanúja.",
@@ -147,7 +147,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Daorson", hu: "Daorson", ro: "Daorson", en: "Daorson"},
     image: "/poi-images/bosniaherzegovina-daorson-history-v2.webp",
     coords: [17.9472, 43.0978],
-    coordinates: { lat: 43.0978, lng: 17.9472 },
+    coords: [17.9472, 43.0978],
     description: {
       de: "Daorson war die Hauptstadt des hellenisierten illyrischen Stammes der Daorsi. Die megalithischen Mauern aus riesigen Steinblöcken ähneln mykenischen Bauwerken.",
       hu: "Daorson a hellenizált illír Daorszi törzs fővárosa volt. Az óriási kőtömbökből álló megalitikus falak a mükénéi építményekhez hasonlítanak.",
@@ -182,7 +182,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Mogorjelo", hu: "Mogorjelo", ro: "Mogorjelo", en: "Mogorjelo"},
     image: "/poi-images/bosniaherzegovina-mogorjelo-history-v2.webp",
     coords: [17.6983, 43.0675],
-    coordinates: { lat: 43.0675, lng: 17.6983 },
+    coords: [17.6983, 43.0675],
     description: {
       de: "Mogorjelo ist eine bedeutende römische villa rustica aus dem 4. Jahrhundert. Die Anlage diente sowohl als landwirtschaftlicher Betrieb als auch als befestigte Residenz.",
       hu: "Mogorjelo egy jelentős 4. századi római villa rustica. A létesítmény mezőgazdasági üzemként és erődített lakóhelyként is szolgált.",
@@ -217,7 +217,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Historisches Dorf Počitelj", hu: "Počitelj óvárosa", ro: "Satul istoric Počitelj", en: "Historic Village of Počitelj"},
     image: "/poi-images/bosniaherzegovina-pocitelj-history-v2.webp",
     coords: [17.7314, 43.1344],
-    coordinates: { lat: 43.1344, lng: 17.7314 },
+    coords: [17.7314, 43.1344],
     description: {
       de: "Počitelj ist eine mittelalterliche und osmanische Stadtanlage am Ufer der Neretva. Die Architektur kombiniert orientalische Einflüsse mit mediterranem Steinbau.",
       hu: "Počitelj egy középkori és oszmán városi település a Neretva partján. Építészete az orientális hatásokat ötvözi a mediterrán kőépítkezéssel.",
@@ -251,7 +251,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Nekropole Radimlja", hu: "Radimlja nekropolisz", ro: "Necropola Radimlja", en: "Radimlja Necropolis"},
     image: "/poi-images/bosniaherzegovina-radimlja-history-v2.webp",
     coords: [17.9258, 43.0847],
-    coordinates: { lat: 43.0847, lng: 17.9258 },
+    coords: [17.9258, 43.0847],
     description: {
       de: "Radimlja ist die bekannteste Fundstätte von Stećci, den charakteristischen mittelalterlichen Grabsteinen der Region. Die Verzierungen zeigen Jagdszenen und religiöse Symbole.",
       hu: "Radimlja a legismertebb lelőhelye a stećakoknak, a régió jellegzetes középkori sírköveinek. A díszítések vadászjeleneteket és vallási szimbólumokat ábrázolnak.",
@@ -286,7 +286,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Archäologische Stätte Butmir", hu: "Butmiri régészeti lelőhely", ro: "Situl arheologic Butmir", en: "Butmir Archaeological Site"},
     image: "/poi-images/bosniaherzegovina-butmir-history-v2.webp",
     coords: [18.3308, 43.8189],
-    coordinates: { lat: 43.8189, lng: 18.3308 },
+    coords: [18.3308, 43.8189],
     description: {
       de: "Butmir ist eine prähistorische Fundstätte nahe Sarajevo, die namensgebend für eine bedeutende neolithische Kultur war. Sie ist berühmt für ihre einzigartige Keramik und Tonfiguren.",
       hu: "Butmir egy Szarajevó melletti őskori lelőhely, amely egy jelentős neolitikus kultúra névadója volt. Egyedülálló kerámiáiról és agyagfiguráiról híres.",
@@ -320,7 +320,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Burg Ostrožac", hu: "Ostrožac vára", ro: "Castelul Ostrožac", en: "Ostrožac Castle"},
     image: "/poi-images/bosniaherzegovina-ostrozac-history-v2.webp",
     coords: [15.9369, 44.9039],
-    coordinates: { lat: 44.9039, lng: 15.9369 },
+    coords: [15.9369, 44.9039],
     description: {
       de: "Diese außergewöhnliche Burg vereint verschiedene Baustile vom Mittelalter bis zum 20. Jahrhundert. Sie thront über dem Tal der Una und beherbergt einen Skulpturenpark.",
       hu: "Ez a rendkívüli vár különböző építészeti stílusokat ötvöz a középkortól a 20. századig. Az Una-völgy felett magasodik, és szoborparknak ad otthont.",
@@ -354,7 +354,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Festung Tešanj", hu: "Tesanj vára", ro: "Cetatea Tešanj", en: "Tešanj Fortress"},
     image: "/poi-images/bosniaherzegovina-tesanj-history-v2.webp",
     coords: [17.9861, 44.6119],
-    coordinates: { lat: 44.6119, lng: 17.9861 },
+    coords: [17.9861, 44.6119],
     description: {
       de: "Die Festung Tešanj ist eine der größten und bedeutendsten Burganlagen des Landes. Sie kontrollierte wichtige Handelswege und hat eine markante achteckige Turmform.",
       hu: "A tesanji vár az ország egyik legnagyobb és legjelentősebb vára. Fontos kereskedelmi utakat ellenőrzött, és jellegzetes nyolcszögletű toronnyal rendelkezik.",
@@ -388,7 +388,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Festung Doboj", hu: "Doboji vár", ro: "Cetatea Doboj", en: "Doboj Fortress"},
     image: "/poi-images/bosniaherzegovina-doboj-fortress-history-v2.webp",
     coords: [18.0903, 44.7381],
-    coordinates: { lat: 44.7381, lng: 18.0903 },
+    coords: [18.0903, 44.7381],
     description: {
       de: "Die Festung Doboj, auch Gradina genannt, ist eine mittelalterliche Burg im Norden Bosniens. Sie war Schauplatz zahlreicher Schlachten zwischen dem Osmanischen Reich und Ungarn.",
       hu: "A doboji vár, más néven Gradina, egy középkori vár Észak-Boszniában. Számos csata helyszíne volt az Oszmán Birodalom és Magyarország között.",
@@ -422,7 +422,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Altstadt Visoki", hu: "Visoki óvárosa", ro: "Orașul vechi Visoki", en: "Old Town Visoki"},
     image: "/poi-images/bosniaherzegovina-old-town-visoki-history-v2.webp",
     coords: [18.175, 43.9844],
-    coordinates: { lat: 43.9844, lng: 18.175 },
+    coords: [18.175, 43.9844],
     description: {
       de: "Visoki war ein königliches Schloss und die Hauptstadt des mittelalterlichen bosnischen Staates. Es liegt auf dem Gipfel des Hügels Visočica oberhalb der heutigen Stadt Visoko.",
       hu: "Visoki királyi vár és a középkori bosnyák állam fővárosa volt. A Visočica-domb tetején található, a mai Visoko városa felett.",
@@ -456,7 +456,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Festung Kastel", hu: "Kastel vár", ro: "Cetatea Kastel", en: "Kastel Fortress"},
     image: "/poi-images/bosniaherzegovina-kastel-fortress-history-v2.webp",
     coords: [17.1894, 44.7664],
-    coordinates: { lat: 44.7664, lng: 17.1894 },
+    coords: [17.1894, 44.7664],
     description: {
       de: "Kastel ist das älteste historische Denkmal in Banja Luka. Die Festung liegt am Ufer der Vrbas und zeigt Spuren von der Römerzeit bis zur osmanischen Ära.",
       hu: "Kastel Banja Luka legrégebbi történelmi műemléke. A vár az Orbász partján fekszik, és a római kortól az oszmán korszakig mutatja a történelem nyomait.",
@@ -491,7 +491,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Festung Vidoški", hu: "Vidoški vára", ro: "Cetatea Vidoški", en: "Vidoški Fortress"},
     image: "/poi-images/bosniaherzegovina-vidoski-fortress-history-v2.webp",
     coords: [17.9622, 43.0844],
-    coordinates: { lat: 43.0844, lng: 17.9622 },
+    coords: [17.9622, 43.0844],
     description: {
       de: "Vidoški ist eine große Festungsanlage oberhalb der Stadt Stolac. Sie umfasst Strukturen aus dem Mittelalter und der osmanischen Zeit mit massiven Mauern und elf Türmen.",
       hu: "Vidoški egy nagy erődítmény Stolac városa felett. Középkori és oszmán kori struktúrákat foglal magában masszív falakkal és tizenegy toronnyal.",
@@ -526,7 +526,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Kloster Kraljeva Sutjeska", hu: "Kraljeva Sutjeska-i kolostor", ro: "Mănăstirea Kraljeva Sutjeska", en: "Kraljeva Sutjeska Monastery"},
     image: "/poi-images/bosniaherzegovina-kraljeva-sutjeska-history-v2.webp",
     coords: [18.2008, 44.1206],
-    coordinates: { lat: 44.1206, lng: 18.2008 },
+    coords: [18.2008, 44.1206],
     description: {
       de: "Das Franziskanerkloster von Kraljeva Sutjeska war eng mit den bosnischen Königen verbunden. Es bewahrt eine der wertvollsten Bibliotheken und Sammlungen des Landes auf.",
       hu: "A Kraljeva Sutjeska-i ferences kolostor szorosan kötődött a bosnyák királyokhoz. Az ország egyik legértékesebb könyvtárát és gyűjteményét őrzi.",
@@ -560,7 +560,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Altstadt Bužim", hu: "Bužim óvárosa", ro: "Orașul vechi Bužim", en: "Bužim Old Town"},
     image: "/poi-images/bosniaherzegovina-buzim-old-town-history-v2.webp",
     coords: [16.0308, 45.0519],
-    coordinates: { lat: 45.0519, lng: 16.0308 },
+    coords: [16.0308, 45.0519],
     description: {
       de: "Die Festung Bužim im Nordwesten Bosniens zeichnet sich durch ihre ungewöhnliche Architektur aus. Sie diente als wichtige Grenzfestung gegen die Habsburgermonarchie.",
       hu: "Az Északnyugat-Boszniában található Bužim vára szokatlan építészetével tűnik ki. Fontos határerőd volt a Habsburg Birodalom ellen.",
@@ -594,7 +594,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Festung Ključ", hu: "Kulcs vára", ro: "Cetatea Ključ", en: "Ključ Fortress"},
     image: "/poi-images/bosniaherzegovina-kljuc-fortress-history-v2.webp",
     coords: [16.7761, 44.5322],
-    coordinates: { lat: 44.5322, lng: 16.7761 },
+    coords: [16.7761, 44.5322],
     description: {
       de: "Die Festung Ključ ist geschichtlich bedeutsam als der Ort, an dem der letzte bosnische König, Stjepan Tomašević, gefangen genommen wurde. Sie liegt strategisch über dem Fluss Sana.",
       hu: "A kulcsi (Ključ) vár történelmileg jelentős, mivel itt fogták el az utolsó bosnyák királyt, Stjepan Tomaševićet. Stratégiai helyen, a Sana-folyó felett fekszik.",
@@ -629,7 +629,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Festung Sokolac", hu: "Sokolac vára", ro: "Cetatea Sokolac", en: "Sokolac Fortress"},
     image: "/poi-images/bosniaherzegovina-sokolac-fortress-history-v2.webp",
     coords: [15.8944, 44.7867],
-    coordinates: { lat: 44.7867, lng: 15.8944 },
+    coords: [15.8944, 44.7867],
     description: {
       de: "Die Festung Sokolac thront über der Stadt Bihać auf einem Kalksteinhügel. Sie war Teil eines Verteidigungssystems gegen das Osmanische Reich und ist heute ein Wahrzeichen der Region.",
       hu: "Sokolac vára Bihać városa felett magasodik egy mészkődombon. Az Oszmán Birodalom elleni védelmi rendszer része volt, ma a régió jelképe.",
@@ -664,7 +664,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Gedenkpark Vraca", hu: "Vraca emlékpark", ro: "Parcul Memorial Vraca", en: "Vraca Memorial Park"},
     image: "/poi-images/bosniaherzegovina-vraca-memorial-history-v2.webp",
     coords: [18.3972, 43.8444],
-    coordinates: { lat: 43.8444, lng: 18.3972 },
+    coords: [18.3972, 43.8444],
     description: {
       de: "Vraca ist eine Gedenkstätte für die Opfer des Zweiten Weltkriegs in Sarajevo. Die Anlage wurde in einer ehemaligen österreichisch-ungarischen Festung aus dem 19. Jahrhundert errichtet.",
       hu: "Vraca a második világháború szarajevói áldozatainak emlékhelye. A komplexumot egy egykori, 19. századi osztrák-magyar erődben alakították ki.",
@@ -699,7 +699,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Denkmal von Kozara", hu: "Kozara-emlékmű", ro: "Monumentul de la Kozara", en: "Kozara Memorial"},
     image: "/poi-images/bosniaherzegovina-kozara-memorial-history-v2.webp",
     coords: [16.9111, 45.0139],
-    coordinates: { lat: 45.0139, lng: 16.9111 },
+    coords: [16.9111, 45.0139],
     description: {
       de: "Dieses monumentale Werk auf dem Berg Mrakovica erinnert an die Partisanen und Zivilisten, die 1942 in der Schlacht von Kozara gefallen sind. Es ist ein Hauptwerk des jugoslawischen Modernismus.",
       hu: "Ez a monumentális alkotás a Mrakovica-hegyen az 1942-es kozarai csatában elesett partizánoknak és civileknek állít emléket. A jugoszláv modernizmus egyik főműve.",
@@ -734,7 +734,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Denkmal von Tjentište", hu: "Tjentište emlékmű", ro: "Monumentul de la Tjentište", en: "Tjentište Memorial"},
     image: "/poi-images/bosniaherzegovina-tjentiste-history-v2.webp",
     coords: [18.6864, 43.3467],
-    coordinates: { lat: 43.3467, lng: 18.6864 },
+    coords: [18.6864, 43.3467],
     description: {
       de: "Das Denkmal im Tal der Helden erinnert an die Schlacht an der Sutjeska im Jahr 1943. Es besteht aus zwei gigantischen, abstrakten Betonflügeln, die den Durchbruch der Partisanen symbolisieren.",
       hu: "A Hősök völgyében található emlékmű az 1943-as sutjeskai csatára emlékeztet. Két óriási, absztrakt beton szárnyból áll, amelyek a partizánok áttörését jelképezik.",
@@ -768,7 +768,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Tunnel der Hoffnung", hu: "A Remény alagútja", ro: "Tunelul Speranței", en: "Tunnel of Hope"},
     image: "/poi-images/bosniaherzegovina-sarajevo-tunnel-history-v2.webp",
     coords: [18.3375, 43.8244],
-    coordinates: { lat: 43.8244, lng: 18.3375 },
+    coords: [18.3375, 43.8244],
     description: {
       de: "Dieser 800 Meter lange Tunnel war während der Belagerung von Sarajevo die einzige Verbindung der Stadt zur Außenwelt. Er diente zum Transport von Lebensmitteln, Waffen und Verwundeten.",
       hu: "Ez a 800 méter hosszú alagút Szarajevó ostroma alatt a város egyetlen kapcsolata volt a külvilággal. Élelmiszer, fegyverek és sebesültek szállítására szolgált.",
@@ -803,7 +803,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Weiße Bastion", hu: "Fehér bástya", ro: "Bastionul Alb", en: "White Fortress"},
     image: "/poi-images/bosniaherzegovina-bijela-tabija-history-v2.webp",
     coords: [18.4444, 43.8617],
-    coordinates: { lat: 43.8617, lng: 18.4444 },
+    coords: [18.4444, 43.8617],
     description: {
       de: "Die Weiße Bastion ist eine historische Festung am östlichen Rand von Sarajevo. Sie bietet einen der spektakulärsten Ausblicke auf die Stadt und die umliegenden Berge.",
       hu: "A Fehér bástya (Bijela tabija) Szarajevó keleti szélén található történelmi erőd. Az egyik leglátványosabb kilátást nyújtja a városra és a környező hegyekre.",
@@ -838,7 +838,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     name: { de: "Gelbe Bastion", hu: "Sárga bástya", ro: "Bastionul Galben", en: "Yellow Fortress"},
     image: "/poi-images/bosniaherzegovina-zuta-tabija-history-v2.webp",
     coords: [18.4389, 43.8603],
-    coordinates: { lat: 43.8603, lng: 18.4389 },
+    coords: [18.4389, 43.8603],
     description: {
       de: "Die Gelbe Bastion war Teil der Verteidigungsanlagen von Vratnik. Heute ist sie ein beliebter Treffpunkt für Einheimische, besonders während des Ramadans zum Fastenbrechen.",
       hu: "A Sárga bástya (Žuta tabija) a vratniki védelmi rendszer része volt. Ma népszerű találkozóhely a helyiek számára, különösen a Ramadán alatti böjttöréskor.",
@@ -871,7 +871,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Vratar", hu: "Vratar erőd", ro: "Cetatea Vratar", en: "Vratar Fortress" },
-    coordinates: { lat: 44.3331, lng: 18.6475 },
+    coords: [18.6475, 44.3331],
     description: {
       de: "Vratar ist eine mittelalterliche Festungsruine über dem Tal der Krivaja. Die Anlage diente zur Kontrolle der Handelswege zwischen den Regionen.",
       hu: "Vratar egy középkori erődrom a Krivaja-völgy felett. Az építmény a régiók közötti kereskedelmi utak ellenőrzését szolgálta.",
@@ -903,7 +903,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Klobuk", hu: "Klobuk erőd", ro: "Cetatea Klobuk", en: "Klobuk Fortress" },
-    coordinates: { lat: 42.9221, lng: 18.4239 },
+    coords: [18.4239, 42.9221],
     description: {
       de: "Die Festung Klobuk bei Trebinje war eine bedeutende Befestigung im mittelalterlichen Hum. Die Anlage spielte eine Rolle in den Konflikten mit der Republik Ragusa.",
       hu: "A trebinjei Klobuk-erőd a középkori Hum jelentős erődítménye volt. Az építmény szerepet játszott a Raguzai Köztársasággal folytatott konfliktusokban.",
@@ -935,7 +935,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Kotor-Varos Altstadt", hu: "Kotor-Varoš óváros", ro: "Orașul vechi Kotor-Varoš", en: "Kotor-Varos Old Town" },
-    coordinates: { lat: 44.6258, lng: 17.3752 },
+    coords: [17.3752, 44.6258],
     description: {
       de: "Die mittelalterliche Befestigung Kotor am Fluss Vrbanja war ein administratives Zentrum. Die Ruinen zeugen von der strategischen Bedeutung der Siedlung.",
       hu: "A Vrbanja folyó melletti középkori Kotor erőd adminisztratív központ volt. A romok a település stratégiai jelentőségéről tanúskodnak.",
@@ -967,7 +967,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Nekropole Komšić", hu: "Komšić temető", ro: "Necropola Komšić", en: "Komšić Necropolis" },
-    coordinates: { lat: 44.4215, lng: 18.5218 },
+    coords: [18.5218, 44.4215],
     description: {
       de: "In Komšić befindet sich eine bedeutende Nekropole mit mittelalterlichen Stećci-Grabsteinen. Diese monumentalen Denkmäler reflektieren die lokale Grabkultur.",
       hu: "Komšićban található egy jelentős nekropolisz középkori Stećci sírkövekkel. Ezek a monumentális emlékművek a helyi temetkezési kultúrát tükrözik.",
@@ -999,7 +999,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Nekropole Mihaljevići", hu: "Mihaljevići temető", ro: "Necropola Mihaljevići", en: "Mihaljevići Necropolis" },
-    coordinates: { lat: 43.8912, lng: 18.3245 },
+    coords: [18.3245, 43.8912],
     description: {
       de: "Die Nekropole Mihaljevići bei Sarajevo enthält mehrere erhaltene Stećci. Sie gehört zu den geschützten mittelalterlichen Grabstätten der Region.",
       hu: "A szarajevói Mihaljevići temetőben több fennmaradt Stećci található. A régió védett középkori temetkezési helyei közé tartozik.",
@@ -1031,7 +1031,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Archäologische Stätte Gradac", hu: "Gradac régészeti lelőhely", ro: "Sit arheologic Gradac", en: "Gradac Archaeological Site" },
-    coordinates: { lat: 43.5824, lng: 17.6531 },
+    coords: [17.6531, 43.5824],
     description: {
       de: "Gradac war in der Antike und im Mittelalter besiedelt. Funde weisen auf eine kontinuierliche Nutzung des Geländes als Siedlungsort hin.",
       hu: "Gradac az ókorban és a középkorban is lakott volt. A leletek a terület folyamatos településként való használatára utalnak.",
@@ -1063,7 +1063,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Veletovo", hu: "Veletovo erőd", ro: "Cetatea Veletovo", en: "Veletovo Fortress" },
-    coordinates: { lat: 43.6845, lng: 18.7214 },
+    coords: [18.7214, 43.6845],
     description: {
       de: "Veletovo war eine Befestigung zur Kontrolle der Handelsstraßen im Osten Bosniens. Die Ruinen liegen auf einem strategisch bedeutenden Hügel.",
       hu: "Veletovo egy erődítmény volt Bosznia keleti részén a kereskedelmi utak ellenőrzésére. A romok egy stratégiailag jelentős dombon fekszenek.",
@@ -1095,7 +1095,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Tumulus von Vratnica", hu: "Vratnica tumulus", ro: "Tumulul Vratnica", en: "Vratnica Tumulus" },
-    coordinates: { lat: 43.9856, lng: 18.1874 },
+    coords: [18.1874, 43.9856],
     description: {
       de: "Der Tumulus von Vratnica ist ein prähistorisches Grabmal nahe Visoko. Er ist Teil einer Ansammlung von Hügelgräbern in der Region.",
       hu: "A vratnicai tumulus egy történelem előtti sírhalom Visoko közelében. A régió halomsír-csoportjának része.",
@@ -1127,7 +1127,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Nekropole Hrastov Do", hu: "Hrastov Do temető", ro: "Necropola Hrastov Do", en: "Hrastov Do Necropolis" },
-    coordinates: { lat: 43.1567, lng: 18.5233 },
+    coords: [18.5233, 43.1567],
     description: {
       de: "Hrastov Do ist ein bedeutender Fundort für mittelalterliche Stećci. Die Grabsteine zeugen von der Besiedlung der Hochlandsregionen.",
       hu: "Hrastov Do jelentős lelőhelye a középkori Stećci sírköveknek. A sírkövek a felföldi régiók lakottságáról tanúskodnak.",
@@ -1159,7 +1159,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Blagaj", hu: "Blagaj erőd", ro: "Cetatea Blagaj", en: "Blagaj Fortress" },
-    coordinates: { lat: 43.2564, lng: 17.8878 },
+    coords: [17.8878, 43.2564],
     description: {
       de: "Die oberhalb der Buna-Quelle gelegene Festung Blagaj war einst Sitz der Herzöge von St. Sava. Die Ruinen bieten einen weiten Blick über das Neretva-Tal.",
       hu: "A Buna-forrás felett elhelyezkedő Blagaj erőd egykor Szent Száva hercegeinek székhelye volt. A romokból széles kilátás nyílik a Neretva-völgyre.",
@@ -1191,7 +1191,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Ključ", hu: "Ključ óváros", ro: "Orașul vechi Ključ", en: "Ključ Old Town" },
-    coordinates: { lat: 44.5321, lng: 16.7725 },
+    coords: [16.7725, 44.5321],
     description: {
       de: "Die Altstadt von Ključ war ein bedeutendes militärisches Zentrum des mittelalterlichen Bosniens. Sie spielte eine Rolle während der osmanischen Eroberung.",
       hu: "Ključ óvárosa a középkori Bosznia jelentős katonai központja volt. Szerepet játszott az oszmán hódítás idején.",
@@ -1223,7 +1223,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Nekropole Kamenica", hu: "Kamenica temető", ro: "Necropola Kamenica", en: "Kamenica Necropolis" },
-    coordinates: { lat: 44.2541, lng: 18.7845 },
+    coords: [18.7845, 44.2541],
     description: {
       de: "Kamenica beherbergt eine Sammlung mittelalterlicher Stećci-Grabsteine. Die Fundstätte illustriert die religiöse und kulturelle Vielfalt jener Zeit.",
       hu: "Kamenica középkori Stećci sírkövek gyűjteményének ad otthont. A lelőhely az akkori vallási és kulturális sokszínűséget szemlélteti.",
@@ -1255,7 +1255,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Burg Sokol", hu: "Sokol vár", ro: "Cetatea Sokol", en: "Sokol Fortress" },
-    coordinates: { lat: 43.3421, lng: 18.6114 },
+    coords: [18.6114, 43.3421],
     description: {
       de: "Sokol Grad war eine bedeutende Festung in der Nähe von Šipovo. Sie kontrollierte wichtige Handelswege und diente als Verteidigungsposten.",
       hu: "Sokol Grad jelentős erődítmény volt Šipovo közelében. Fontos kereskedelmi utakat ellenőrzött és védelmi állomásként szolgált.",
@@ -1287,7 +1287,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Teočak", hu: "Teočak erőd", ro: "Cetatea Teočak", en: "Teočak Fortress" },
-    coordinates: { lat: 44.6124, lng: 18.9852 },
+    coords: [18.9852, 44.6124],
     description: {
       de: "Die Festung Teočak war eine strategische Anlage im Nordosten Bosniens. Ihre Ruinen zeugen von der wechselvollen Geschichte der Region.",
       hu: "A Teočak erőd stratégiai létesítmény volt Északkelet-Boszniában. Romjai a régió változatos történelméről tanúskodnak.",
@@ -1319,7 +1319,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Zvečaj", hu: "Zvečaj erőd", ro: "Cetatea Zvečaj", en: "Zvečaj Fortress" },
-    coordinates: { lat: 44.7145, lng: 17.1856 },
+    coords: [17.1856, 44.7145],
     description: {
       de: "Die am Vrbas gelegene Festung Zvečaj diente zur Überwachung des Tals und der Handelswege. Sie war ein Zentrum der regionalen Verteidigung.",
       hu: "A Vrbas folyó melletti Zvečaj erőd a völgy és a kereskedelmi utak megfigyelésére szolgált. A regionális védelem központja volt.",
@@ -1351,7 +1351,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Mijat-Haus", hu: "Mijat-ház", ro: "Casa Mijat", en: "Mijat's House" },
-    coordinates: { lat: 43.6841, lng: 17.5123 },
+    coords: [17.5123, 43.6841],
     description: {
       de: "Das Mijat-Haus ist ein historisches Gebäude, das mit der lokalen Folklore und Geschichte verbunden ist. Es dokumentiert die traditionelle Bauweise.",
       hu: "A Mijat-ház egy történelmi épület, amely a helyi folklórhoz és történelemhez kapcsolódik. Dokumentálja a hagyományos építési módokat.",
@@ -1383,7 +1383,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Burg Veliki Kastel", hu: "Veliki Kastel vár", ro: "Castelul Veliki Kastel", en: "Veliki Kastel Castle" },
-    coordinates: { lat: 44.3852, lng: 17.8541 },
+    coords: [17.8541, 44.3852],
     description: {
       de: "Veliki Kastel war ein bedeutendes Wehrschloss im Landesinneren. Die Ruinen bieten Zeugnis von der mittelalterlichen Feudalarchitektur.",
       hu: "Veliki Kastel jelentős erődített kastély volt az ország belsejében. A romok a középkori feudális építészetről tanúskodnak.",
@@ -1415,7 +1415,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Nekropole Krupac", hu: "Krupac temető", ro: "Necropola Krupac", en: "Krupac Necropolis" },
-    coordinates: { lat: 43.7845, lng: 18.3512 },
+    coords: [18.3512, 43.7845],
     description: {
       de: "Die Nekropole Krupac umfasst mehrere mittelalterliche Stećci. Der Fundort ist ein wichtiges Beispiel für die Grabkultur der mittelalterlichen bosnischen Gesellschaft.",
       hu: "A krupaci temető több középkori Stećci sírkövet foglal magában. A lelőhely fontos példája a középkori bosnyák társadalom temetkezési kultúrájának.",
@@ -1447,7 +1447,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Dubovac", hu: "Dubovac óváros", ro: "Orașul vechi Dubovac", en: "Dubovac Old Town" },
-    coordinates: { lat: 44.9541, lng: 17.5841 },
+    coords: [17.5841, 44.9541],
     description: {
       de: "Dubovac war ein mittelalterliches Befestigungswerk im Norden Bosniens. Die Überreste lassen die ursprüngliche Dimension der Anlage erahnen.",
       hu: "Dubovac középkori erődítmény volt Észak-Boszniában. A maradványok az építmény eredeti méreteit sejtetik.",
@@ -1479,7 +1479,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "church",
     parent: "BA",
     name: { de: "Kloster Dabar", hu: "Dabar kolostor", ro: "Mănăstirea Dabar", en: "Dabar Monastery" },
-    coordinates: { lat: 43.6845, lng: 19.3241 },
+    coords: [19.3241, 43.6845],
     description: {
       de: "Das Kloster Dabar war ein bedeutendes religiöses Zentrum und Sitz eines Metropoliten. Es spiegelt die spirituelle Tradition der Region wider.",
       hu: "A dabar kolostor jelentős vallási központ és metropolita székhely volt. A régió spirituális hagyományait tükrözi.",
@@ -1511,7 +1511,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "village",
     parent: "BA",
     name: { de: "Gornja Skakava", hu: "Gornja Skakava", ro: "Gornja Skakava", en: "Gornja Skakava" },
-    coordinates: { lat: 44.8856, lng: 18.7845 },
+    coords: [18.7845, 44.8856],
     description: {
       de: "Gornja Skakava ist eine Siedlung mit einer langen Geschichte. Architektonische Elemente zeigen den historischen Wandel der ländlichen Struktur.",
       hu: "Gornja Skakava hosszú történelemmel rendelkező település. Építészeti elemei a vidéki szerkezet történelmi változásait mutatják.",
@@ -1543,7 +1543,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Zmajevac", hu: "Zmajevac erőd", ro: "Cetatea Zmajevac", en: "Zmajevac Fortress" },
-    coordinates: { lat: 44.6845, lng: 18.1541 },
+    coords: [18.1541, 44.6845],
     description: {
       de: "Zmajevac war eine strategische Befestigung im hügeligen Terrain. Die Reste der Anlage zeugen von der wehrhaften Vergangenheit der Region.",
       hu: "Zmajevac stratégiai erődítmény volt a dombos terepen. Az építmény maradványai a régió védelmi múltjáról tanúskodnak.",
@@ -1575,7 +1575,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "tower",
     parent: "BA",
     name: { de: "Uhrturm Gračanica", hu: "Gračanica óratorony", ro: "Turnul cu ceas Gračanica", en: "Gračanica Clock Tower" },
-    coordinates: { lat: 44.7142, lng: 18.3124 },
+    coords: [18.3124, 44.7142],
     description: {
       de: "Der Uhrturm von Gračanica ist ein historisches Wahrzeichen der Stadt. Er repräsentiert die osmanische Stadtarchitektur des 18. Jahrhunderts.",
       hu: "A gračanicai óratorony a város történelmi jelképe. A 18. századi oszmán városépítészetet képviseli.",
@@ -1607,7 +1607,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Nekropole Sokolac", hu: "Sokolac temető", ro: "Necropola Sokolac", en: "Sokolac Necropolis" },
-    coordinates: { lat: 43.9512, lng: 18.8124 },
+    coords: [18.8124, 43.9512],
     description: {
       de: "Die Nekropole bei Sokolac beherbergt gut erhaltene mittelalterliche Grabsteine. Sie ist ein bedeutendes Denkmal der Stećci-Kultur.",
       hu: "A Sokolac melletti temető jól megőrzött középkori sírköveket rejt. A Stećci-kultúra jelentős emlékműve.",
@@ -1639,7 +1639,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Ruinen Vitez", hu: "Vitez romok", ro: "Ruinele Vitez", en: "Vitez Fortress Ruins" },
-    coordinates: { lat: 44.1542, lng: 17.7845 },
+    coords: [17.7845, 44.1542],
     description: {
       de: "Die Reste der Befestigungsanlagen bei Vitez deuten auf eine strategische Bedeutung im mittelalterlichen Verteidigungssystem hin. Die Ruinen sind archäologisch untersucht.",
       hu: "A Vitez melletti erődítmények maradványai a középkori védelmi rendszerben betöltött stratégiai jelentőségre utalnak. A romok régészetileg feltártak.",
@@ -1671,7 +1671,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Bistri", hu: "Bistri óváros", ro: "Orașul vechi Bistri", en: "Bistri Old Town" },
-    coordinates: { lat: 44.4845, lng: 18.5241 },
+    coords: [18.5241, 44.4845],
     description: {
       de: "Die Altstadt Bistri war ein regionales Verwaltungszentrum. Die Ruinen dokumentieren den historischen Wandel der urbanen Struktur.",
       hu: "Bistri óvárosa regionális közigazgatási központ volt. A romok dokumentálják a városi szerkezet történelmi változásait.",
@@ -1703,7 +1703,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Kamenica", hu: "Kamenica erőd", ro: "Cetatea Kamenica", en: "Kamenica Fortress" },
-    coordinates: { lat: 44.4214, lng: 18.5845 },
+    coords: [18.5845, 44.4214],
     description: {
       de: "Kamenica ist ein mittelalterlicher befestigter Ort in Bosnien. Die Verteidigungsanlagen zeugen von der strategischen Planung jener Zeit.",
       hu: "Kamenica középkori megerősített hely Boszniában. A védművek az akkori stratégiai tervezésről tanúskodnak.",
@@ -1735,7 +1735,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Vrnograč", hu: "Vrnograč erőd", ro: "Cetatea Vrnograč", en: "Vrnograč Fortress" },
-    coordinates: { lat: 45.1845, lng: 15.9845 },
+    coords: [15.9845, 45.1845],
     description: {
       de: "Vrnograč war eine bedeutende Grenzfestung im Nordwesten Bosniens. Sie spielte eine zentrale Rolle bei der Absicherung der Region.",
       hu: "Vrnograč jelentős határ erődítmény volt Bosznia északnyugati részén. Központi szerepet játszott a régió biztosításában.",
@@ -1767,7 +1767,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Sarajevsko Polje", hu: "Sarajevsko Polje óváros", ro: "Orașul vechi Sarajevsko Polje", en: "Sarajevsko Polje Old Town" },
-    coordinates: { lat: 43.8512, lng: 18.2541 },
+    coords: [18.2541, 43.8512],
     description: {
       de: "Die archäologischen Überreste in Sarajevsko Polje zeigen die Siedlungsgeschichte des Raumes. Sie sind ein Zeugnis der kulturellen Kontinuität.",
       hu: "A Sarajevsko Polje-i régészeti maradványok a terület településtörténetét mutatják. A kulturális folyamatosság tanúbizonyságai.",
@@ -1799,7 +1799,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Bistarac", hu: "Bistarac erőd", ro: "Cetatea Bistarac", en: "Bistarac Fortress" },
-    coordinates: { lat: 44.5241, lng: 18.5841 },
+    coords: [18.5841, 44.5241],
     description: {
       de: "Bistarac war eine lokale Verteidigungsanlage. Die Ruinen dokumentieren den mittelalterlichen Ausbau der lokalen Wehrsysteme.",
       hu: "Bistarac helyi védelmi építmény volt. A romok a helyi védelmi rendszerek középkori kiépítését dokumentálják.",
@@ -1831,7 +1831,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Žepče", hu: "Žepče óváros", ro: "Orașul vechi Žepče", en: "Žepče Old Town" },
-    coordinates: { lat: 44.4214, lng: 18.0512 },
+    coords: [18.0512, 44.4214],
     description: {
       de: "Die Altstadt von Žepče bietet Einblicke in die historische Entwicklung der Region. Sie enthält Strukturen aus dem Mittelalter.",
       hu: "Žepče óvárosa betekintést nyújt a régió történelmi fejlődésébe. Középkori építményeket tartalmaz.",
@@ -1863,7 +1863,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Foča", hu: "Foča óváros", ro: "Orașul vechi Foča", en: "Foča Old Town" },
-    coordinates: { lat: 43.5124, lng: 18.7845 },
+    coords: [18.7845, 43.5124],
     description: {
       de: "Die Altstadt von Foča war ein wichtiges Handelszentrum. Die historischen Gebäude belegen die osmanische Einflüsse in der Region.",
       hu: "Foča óvárosa fontos kereskedelmi központ volt. A történelmi épületek az oszmán hatásokat igazolják a régióban.",
@@ -1895,7 +1895,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Festung Kamen", hu: "Kamen erőd", ro: "Cetatea Kamen", en: "Kamen Fortress" },
-    coordinates: { lat: 44.5845, lng: 17.5124 },
+    coords: [17.5124, 44.5845],
     description: {
       de: "Die Festung Kamen war ein militärischer Außenposten. Ihre Ruinen stehen exemplarisch für die Verteidigungsbauten der Region.",
       hu: "A Kamen erőd katonai előőrs volt. Romjai a régió védelmi építményeinek példái.",
@@ -1927,7 +1927,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Trnovo", hu: "Trnovo óváros", ro: "Orașul vechi Trnovo", en: "Trnovo Old Town" },
-    coordinates: { lat: 43.6845, lng: 18.4214 },
+    coords: [18.4214, 43.6845],
     description: {
       de: "Die Altstadt von Trnovo ist ein Zeugnis der historischen Siedlungsentwicklung. Die Ruinen deuten auf eine mittelalterliche Bedeutung hin.",
       hu: "Trnovo óvárosa a történelmi településfejlődés tanúja. A romok középkori jelentőségre utalnak.",
@@ -1959,7 +1959,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Archäologische Stätte Kamen", hu: "Kamen régészeti lelőhely", ro: "Sit arheologic Kamen", en: "Kamen Archaeological Site" },
-    coordinates: { lat: 44.5945, lng: 17.5241 },
+    coords: [17.5241, 44.5945],
     description: {
       de: "Die archäologische Stätte bei Kamen liefert Erkenntnisse über frühe Siedlungsformen. Funde belegen eine Besiedlung aus mehreren Perioden.",
       hu: "A Kamen melletti régészeti lelőhely betekintést nyújt a korai településformákba. A leletek több korszakból származó lakottságot bizonyítanak.",
@@ -1991,7 +1991,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Višegrad", hu: "Višegrad óváros", ro: "Orașul vechi Višegrad", en: "Višegrad Old Town" },
-    coordinates: { lat: 43.7845, lng: 19.2845 },
+    coords: [19.2845, 43.7845],
     description: {
       de: "Die historische Anlage in Višegrad zeugt von der strategischen Rolle des Ortes. Die Bauten sind eng mit der Flussgeschichte verknüpft.",
       hu: "A Višegrad-i történelmi építmény a hely stratégiai szerepét igazolja. Az építmények szorosan kapcsolódnak a folyó történetéhez.",
@@ -2023,7 +2023,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Ruinen Festung Kamen", hu: "Kamen erőd romok", ro: "Ruinele cetății Kamen", en: "Kamen Fortress Ruins" },
-    coordinates: { lat: 44.5912, lng: 17.5145 },
+    coords: [17.5145, 44.5912],
     description: {
       de: "Diese Ruinen sind Überreste eines ehemaligen Verteidigungspostens. Sie dokumentieren die mittelalterliche Wehrarchitektur im Landesinneren.",
       hu: "Ezek a romok egykori védelmi állomás maradványai. Dokumentálják a középkori védelmi építészetet az ország belsejében.",
@@ -2055,7 +2055,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Vlasenica", hu: "Vlasenica óváros", ro: "Orașul vechi Vlasenica", en: "Vlasenica Old Town" },
-    coordinates: { lat: 44.1845, lng: 18.9241 },
+    coords: [18.9241, 44.1845],
     description: {
       de: "Vlasenica war ein historischer Knotenpunkt. Die Altstadt umfasst Überreste, die die Entwicklung des Handels in der Region belegen.",
       hu: "Vlasenica történelmi csomópont volt. Az óváros olyan maradványokat tartalmaz, amelyek igazolják a kereskedelem fejlődését a régióban.",
@@ -2087,7 +2087,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Anlage Festung Kamen", hu: "Kamen erőd építmény", ro: "Complexul cetății Kamen", en: "Kamen Fortress Site" },
-    coordinates: { lat: 44.6012, lng: 17.5212 },
+    coords: [17.5212, 44.6012],
     description: {
       de: "Die Anlage der Festung Kamen ist eine bedeutende historische Fundstätte. Sie zeigt die strategische Bedeutung der Verteidigungslinie.",
       hu: "A Kamen erőd építménye jelentős történelmi lelőhely. A védelmi vonal stratégiai jelentőségét mutatja.",
@@ -2119,7 +2119,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Šipovo", hu: "Šipovo óváros", ro: "Orașul vechi Šipovo", en: "Šipovo Old Town" },
-    coordinates: { lat: 44.2845, lng: 17.1541 },
+    coords: [17.1541, 44.2845],
     description: {
       de: "Die Altstadt von Šipovo belegt die Siedlungskontinuität. Die historischen Bauten reflektieren die Lebensweise in früheren Jahrhunderten.",
       hu: "Šipovo óvárosa bizonyítja a település folytonosságát. A történelmi épületek tükrözik a korábbi évszázadok életmódját.",
@@ -2151,7 +2151,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Gacko", hu: "Gacko óváros", ro: "Orașul vechi Gacko", en: "Gacko Old Town" },
-    coordinates: { lat: 43.1845, lng: 18.5241 },
+    coords: [18.5241, 43.1845],
     description: {
       de: "Gacko war ein bedeutendes regionales Zentrum. Die Altstadt enthält historische Zeugnisse der Entwicklung der Region.",
       hu: "Gacko jelentős regionális központ volt. Az óváros a régió fejlődésének történelmi tanúbizonyságait tartalmazza.",
@@ -2183,7 +2183,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BA",
     name: { de: "Altstadt Odžak", hu: "Odžak óváros", ro: "Orașul vechi Odžak", en: "Odžak Old Town" },
-    coordinates: { lat: 45.0124, lng: 18.3124 },
+    coords: [18.3124, 45.0124],
     description: {
       de: "Die Altstadt von Odžak ist Teil der historischen Struktur Nordbosniens. Ihre Bauten sind Zeugen vergangener Epochen.",
       hu: "Odžak óvárosa Észak-Bosznia történelmi struktúrájának része. Építményei letűnt korszakok tanúi.",

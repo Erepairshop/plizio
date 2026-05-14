@@ -6,7 +6,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Cerni de Nagol", hu: "Sant Cerni de Nagol", ro: "Biserica Sant Cerni de Nagol", en: "Sant Cerni de Nagol" },
-    coordinates: { lat: 42.4692, lng: 1.5019 },
+    coords: [1.5019, 42.4692],
     description: {
       de: "Eine kleine Bergkirche hoch über Sant Julià de Lòria, bekannt für ihre strategische Lage am Felsen.",
       hu: "Kisméretű hegyi templom Sant Julià de Lòria felett, a sziklán elhelyezkedő stratégiai fekvéséről ismert.",
@@ -38,7 +38,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Santa Eulàlia d'Encamp", hu: "Santa Eulàlia d'Encamp", ro: "Biserica Santa Eulàlia d'Encamp", en: "Santa Eulàlia d'Encamp" },
-    coordinates: { lat: 42.5361, lng: 1.5833 },
+    coords: [1.5833, 42.5361],
     description: {
       de: "Die Pfarrkirche von Encamp besitzt den höchsten romanischen Turm des Landes mit 23 Metern.",
       hu: "Encamp plébániatemploma rendelkezik az ország legmagasabb, 23 méteres román stílusú tornyával.",
@@ -70,7 +70,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Serni de Canillo", hu: "Sant Serni de Canillo", ro: "Biserica Sant Serni de Canillo", en: "Sant Serni de Canillo" },
-    coordinates: { lat: 42.5667, lng: 1.5989 },
+    coords: [1.5989, 42.5667],
     description: {
       de: "Die größte Kirche in der Gemeinde Canillo, erbaut im barocken Stil über einem romanischen Fundament.",
       hu: "Canillo község legnagyobb temploma, barokk stílusban épült egy román kori alapra.",
@@ -102,7 +102,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Esteve d'Andorra la Vella", hu: "Sant Esteve d'Andorra la Vella", ro: "Biserica Sant Esteve din Andorra la Vella", en: "Sant Esteve d'Andorra la Vella" },
-    coordinates: { lat: 42.5069, lng: 1.5222 },
+    coords: [1.5222, 42.5069],
     description: {
       de: "Diese zentrale Pfarrkirche der Hauptstadt stammt aus dem 12. Jh. und wurde im 20. Jh. umfassend renoviert.",
       hu: "A főváros központi plébániatemploma a 12. századból származik, a 20. században jelentősen felújították.",
@@ -134,7 +134,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Cristòfol d'Anyós", hu: "Sant Cristòfol d'Anyós", ro: "Biserica Sant Cristòfol d'Anyós", en: "Sant Cristòfol d'Anyós" },
-    coordinates: { lat: 42.5347, lng: 1.5244 },
+    coords: [1.5244, 42.5347],
     description: {
       de: "Eine kleine Kirche aus dem 12. Jahrhundert, die auf einem Hügel mit Blick auf das Tal der Massana thront.",
       hu: "Kisméretű, 12. századi templom, amely a Massana-völgyre néző dombtetőn áll.",
@@ -166,7 +166,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Iscle i Santa Victòria", hu: "Sant Iscle i Santa Victòria", ro: "Biserica Sant Iscle i Santa Victòria", en: "Sant Iscle i Santa Victòria" },
-    coordinates: { lat: 42.5469, lng: 1.5147 },
+    coords: [1.5147, 42.5469],
     description: {
       de: "Die Pfarrkirche von La Massana, im 17. Jahrhundert erbaut, dominiert den Hauptplatz des Ortes.",
       hu: "La Massana plébániatemploma, amely a 17. században épült, és a település főterét uralja.",
@@ -198,7 +198,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "museum",
     parent: "AD",
     name: { de: "Museu Postal d'Andorra", hu: "Andorrai Postamúzeum", ro: "Muzeul Poștal din Andorra", en: "Postal Museum of Andorra" },
-    coordinates: { lat: 42.5564, lng: 1.5333 },
+    coords: [1.5333, 42.5564],
     description: {
       de: "Ein Museum in Ordino, das die Entwicklung des Postwesens in Andorra und eine Briefmarkensammlung zeigt.",
       hu: "Múzeum Ordinóban, amely az andorrai postai szolgáltatások fejlődését és egy bélyeggyűjteményt mutat be.",
@@ -230,7 +230,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "museum",
     parent: "AD",
     name: { de: "Museu de la Miniatura", hu: "Miniatúra Múzeum", ro: "Muzeul Miniaturii", en: "Museum of Miniatures" },
-    coordinates: { lat: 42.5561, lng: 1.5336 },
+    coords: [1.5336, 42.5561],
     description: {
       de: "Ein Museum für Mikrominiatur-Kunst, das Werke zeigt, die nur unter dem Mikroskop sichtbar sind.",
       hu: "Mikrominiatűr művészeti múzeum, amely csak mikroszkóp alatt látható műveket mutat be.",
@@ -262,7 +262,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "museum",
     parent: "AD",
     name: { de: "Museu Nacional de l'Automòbil", hu: "Nemzeti Autómúzeum", ro: "Muzeul Național de Automobile", en: "National Automobile Museum" },
-    coordinates: { lat: 42.5331, lng: 1.5772 },
+    coords: [1.5772, 42.5331],
     description: {
       de: "Eine der bedeutendsten Sammlungen historischer Fahrzeuge in Europa, gelegen im Zentrum von Encamp.",
       hu: "Európa egyik legjelentősebb történelmi járműgyűjteménye, Encamp központjában található.",
@@ -294,7 +294,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "museum",
     parent: "AD",
     name: { de: "Casa Rull Museum", hu: "Casa Rull Múzeum", ro: "Muzeul Casa Rull", en: "Casa Rull Museum" },
-    coordinates: { lat: 42.5328, lng: 1.4939 },
+    coords: [1.4939, 42.5328],
     description: {
       de: "Ein ethnografisches Museum in Sispony, das das Leben einer wohlhabenden Bauernfamilie im 19. Jh. zeigt.",
       hu: "Néprajzi múzeum Sisponyban, amely egy jómódú gazdacsalád 19. századi életét mutatja be.",
@@ -326,7 +326,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "museum",
     parent: "AD",
     name: { de: "Museu Carmen Thyssen Andorra", hu: "Carmen Thyssen Múzeum", ro: "Muzeul Carmen Thyssen Andorra", en: "Carmen Thyssen Museum Andorra" },
-    coordinates: { lat: 42.5089, lng: 1.5425 },
+    coords: [1.5425, 42.5089],
     description: {
       de: "Ein modernes Kunstmuseum in Escaldes-Engordany, das temporäre Ausstellungen der Thyssen-Sammlung zeigt.",
       hu: "Modern művészeti múzeum Escaldes-Engordanyban, amely a Thyssen-gyűjtemény időszaki kiállításait mutatja be.",
@@ -358,7 +358,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "museum",
     parent: "AD",
     name: { de: "Museu de la Moto", hu: "Motorbicikli Múzeum", ro: "Muzeul de Motociclete", en: "Motorcycle Museum" },
-    coordinates: { lat: 42.5661, lng: 1.5975 },
+    coords: [1.5975, 42.5661],
     description: {
       de: "Ein Museum in Canillo, das die Geschichte des Motorrads von den Anfängen bis heute dokumentiert.",
       hu: "Múzeum Canillóban, amely a motorozás történetét dokumentálja a kezdetektől napjainkig.",
@@ -390,7 +390,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "museum",
     parent: "AD",
     name: { de: "Centre d'Art d'Escaldes-Engordany", hu: "Escaldes-Engordany Művészeti Központ", ro: "Centrul de Artă Escaldes-Engordany", en: "Escaldes-Engordany Art Center" },
-    coordinates: { lat: 42.5103, lng: 1.5397 },
+    coords: [1.5397, 42.5103],
     description: {
       de: "Ein Kulturzentrum, das permanente Sammlungen andorranischer Bildhauer und Modelle romanischer Kunst zeigt.",
       hu: "Kulturális központ, amely andorrai szobrászok állandó gyűjteményeit és román kori művészeti maketteket mutat be.",
@@ -422,7 +422,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "bridge",
     parent: "AD",
     name: { de: "Pont de Sant Antoni de la Grella", hu: "Sant Antoni de la Grella híd", ro: "Podul Sant Antoni de la Grella", en: "Sant Antoni de la Grella Bridge" },
-    coordinates: { lat: 42.5292, lng: 1.5178 },
+    coords: [1.5178, 42.5292],
     description: {
       de: "Eine historische mittelalterliche Brücke nahe einer kleinen Kapelle, die La Massana mit Andorra la Vella verband.",
       hu: "Történelmi középkori híd egy kis kápolna közelében, amely La Massanát kötötte össze Andorra la Vellával.",
@@ -454,7 +454,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "bridge",
     parent: "AD",
     name: { de: "Pont dels Escalls", hu: "Escalls-híd", ro: "Podul dels Escalls", en: "Pont dels Escalls" },
-    coordinates: { lat: 42.5122, lng: 1.535 },
+    coords: [1.535, 42.5122],
     description: {
       de: "Eine romanische Brücke in Escaldes-Engordany, die als historisches Denkmal geschützt ist.",
       hu: "Román stílusú híd Escaldes-Engordanyban, amely történelmi műemlékként védett.",
@@ -486,7 +486,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "landmark",
     parent: "AD",
     name: { de: "Caldea Spa Gebäude", hu: "Caldea épülete", ro: "Clădirea Caldea", en: "Caldea Spa Building" },
-    coordinates: { lat: 42.5117, lng: 1.5375 },
+    coords: [1.5375, 42.5117],
     description: {
       de: "Das markante Gebäude von Caldea ist mit seiner 80 Meter hohen Glasspitze ein Wahrzeichen der Moderne.",
       hu: "A Caldea jellegzetes épülete 80 méter magas üvegtornyával a modernitás jelképe.",
@@ -518,7 +518,7 @@ export const andorraLandmarksV2: POI[] = [
     type: "landmark",
     parent: "AD",
     name: { de: "Consell General d'Andorra", hu: "Andorrai Országház", ro: "Consiliul General al Andorrei", en: "General Council of Andorra" },
-    coordinates: { lat: 42.5061, lng: 1.5208 },
+    coords: [1.5208, 42.5061],
     description: {
       de: "Der moderne Sitz des andorranischen Parlaments, direkt neben dem historischen Casa de la Vall gelegen.",
       hu: "Az andorrai parlament modern székhelye, közvetlenül a történelmi Casa de la Vall mellett található.",

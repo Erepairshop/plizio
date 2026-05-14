@@ -6,7 +6,7 @@ export const austriaEconomicV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Vöcklabruck", hu: "Vöcklabruck", ro: "Vöcklabruck", en: "Voecklabruck" },
-    coordinates: { lat: 48.0068, lng: 13.6558 },
+    coords: [13.6558, 48.0068],
     description: {
       de: "Vöcklabruck ist ein Standort für metallverarbeitende Industrie sowie für verschiedene mittelständische Fertigungsunternehmen. Die Wirtschaft ist durch eine hohe Dichte an spezialisierten Gewerbebetrieben geprägt.",
       hu: "Vöcklabruck a fémfeldolgozó ipar, valamint különböző középvállalkozások telephelye. A gazdaságot a speciális kisüzemek nagy sűrűsége jellemzi.",
@@ -38,7 +38,7 @@ export const austriaEconomicV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Ried im Innkreis", hu: "Ried im Innkreis", ro: "Ried im Innkreis", en: "Ried im Innkreis" },
-    coordinates: { lat: 48.2167, lng: 13.4833 },
+    coords: [13.4833, 48.2167],
     description: {
       de: "Ried im Innkreis ist ein wichtiges wirtschaftliches Zentrum des Innviertels mit Schwerpunkten im Maschinenbau und in der Kunststoffindustrie. Die Stadt beherbergt bedeutende Industriebetriebe.",
       hu: "Ried im Innkreis az Innviertel fontos gazdasági központja, a gépgyártás és a műanyagipar fókuszával. A város jelentős ipari üzemeknek ad otthont.",
@@ -70,7 +70,7 @@ export const austriaEconomicV2: POI[] = [
     type: "village",
     parent: "AT",
     name: { de: "Bad Wimsbach-Neydharting", hu: "Bad Wimsbach-Neydharting", ro: "Bad Wimsbach-Neydharting", en: "Bad Wimsbach-Neydharting" },
-    coordinates: { lat: 48.0556, lng: 13.9214 },
+    coords: [13.9214, 48.0556],
     description: {
       de: "Neben dem Kurbetrieb gibt es in der Region spezialisierte landwirtschaftliche Verarbeitungsbetriebe und kleinere Handwerksunternehmen. Wirtschaftliche Diversität ist kennzeichnend.",
       hu: "A gyógyfürdő mellett a régióban speciális mezőgazdasági feldolgozóüzemek és kisebb kézműves vállalkozások működnek. Gazdasági sokszínűség jellemzi.",
@@ -102,7 +102,7 @@ export const austriaEconomicV2: POI[] = [
     type: "city",
     parent: "AT",
     name: { de: "Feldbach", hu: "Feldbach", ro: "Feldbach", en: "Feldbach" },
-    coordinates: { lat: 46.9536, lng: 15.8911 },
+    coords: [15.8911, 46.9536],
     description: {
       de: "Feldbach ist das Handels- und Dienstleistungszentrum der Region Südoststeiermark. Die Stadt bietet eine solide Basis für den lokalen Einzelhandel und Handwerksbetriebe.",
       hu: "Feldbach Délkelet-Stájerország kereskedelmi és szolgáltató központja. A város szilárd alapot biztosít a helyi kiskereskedelem és kézműves vállalkozások számára.",
@@ -134,7 +134,7 @@ export const austriaEconomicV2: POI[] = [
     type: "industry",
     parent: "AT",
     name: { de: "Liezen Logistik", hu: "Liezen Logisztika", ro: "Liezen Logistică", en: "Liezen Logistics" },
-    coordinates: { lat: 47.565, lng: 14.23 },
+    coords: [14.23, 47.565],
     description: {
       de: "Dieser Bereich in Liezen dient als zentraler Knotenpunkt für den Güterverkehr und regionale Verteilungszentren. Die strategische Lage zwischen den Bergregionen begünstigt die Logistikbranche.",
       hu: "Ez a Liezen-i terület központi csomópontként szolgál az árufuvarozás és a regionális elosztóközpontok számára. A hegyi régiók közötti stratégiai elhelyezkedés kedvez a logisztikai ágazatnak.",
@@ -166,7 +166,7 @@ export const austriaEconomicV2: POI[] = [
     type: "industry",
     parent: "AT",
     name: { de: "ÖBB-Infrastruktur Linz", hu: "ÖBB-Infrastruktúra Linz", ro: "ÖBB-Infrastructură Linz", en: "OeBB Infrastructure Linz" },
-    coordinates: { lat: 48.286, lng: 14.28 },
+    coords: [14.28, 48.286],
     description: {
       de: "Die Infrastruktureinrichtungen der Bahn in Linz sind essenziell für den Schienenverkehr und die industrielle Versorgung in Oberösterreich. Sie fungieren als zentrales Wartungs- und Logistikzentrum.",
       hu: "A vasúti infrastruktúra-létesítmények Linzben elengedhetetlenek a vasúti közlekedéshez és a felső-ausztriai ipari ellátáshoz. Központi karbantartási és logisztikai központként működnek.",
@@ -198,7 +198,7 @@ export const austriaEconomicV2: POI[] = [
     type: "industry",
     parent: "AT",
     name: { de: "Tulln Messe", hu: "Tulln Vásár", ro: "Tulln Târg", en: "Tulln Trade Fair" },
-    coordinates: { lat: 48.3317, lng: 16.0594 },
+    coords: [16.0594, 48.3317],
     description: {
       de: "Die Messe Tulln ist ein bedeutender Wirtschaftsfaktor für die Region und ein zentraler Ort für landwirtschaftliche sowie gewerbliche Fachmessen in Niederösterreich.",
       hu: "A tullni vásár jelentős gazdasági tényező a régió számára, és központi helyszín az alsó-ausztriai mezőgazdasági és kereskedelmi szakvásárok számára.",
@@ -230,7 +230,7 @@ export const austriaEconomicV2: POI[] = [
     type: "industry",
     parent: "AT",
     name: { de: "Amstetten Industriegebiet", hu: "Amstetten Ipari övezet", ro: "Amstetten Zonă industrială", en: "Amstetten Industrial Area" },
-    coordinates: { lat: 48.125, lng: 14.87 },
+    coords: [14.87, 48.125],
     description: {
       de: "Amstetten beherbergt ein breites Spektrum an Industrie- und Gewerbebetrieben, insbesondere in den Bereichen Maschinenbau und metallverarbeitendes Gewerbe.",
       hu: "Amstetten ipari és kereskedelmi vállalkozások széles körének ad otthont, különösen a gépgyártás és a fémfeldolgozó ipar területén.",
@@ -262,7 +262,7 @@ export const austriaEconomicV2: POI[] = [
     type: "industry",
     parent: "AT",
     name: { de: "Wörgl Logistikzentrum", hu: "Wörgl Logisztikai központ", ro: "Wörgl Centru logistic", en: "Woergl Logistics Center" },
-    coordinates: { lat: 47.483, lng: 12.067 },
+    coords: [12.067, 47.483],
     description: {
       de: "Aufgrund seiner Lage an wichtigen Transitrouten ist Wörgl ein bedeutender Standort für Logistik und Transportunternehmen. Die Infrastruktur unterstützt den internationalen Warenverkehr.",
       hu: "Fontos tranzitútvonalakon való fekvése miatt Wörgl a logisztikai és szállítmányozási vállalatok jelentős telephelye. Az infrastruktúra támogatja a nemzetközi áruforgalmat.",
@@ -294,7 +294,7 @@ export const austriaEconomicV2: POI[] = [
     type: "industry",
     parent: "AT",
     name: { de: "Spittal an der Drau Gewerbe", hu: "Spittal an der Drau Ipar", ro: "Spittal an der Drau Industrie", en: "Spittal an der Drau Business" },
-    coordinates: { lat: 46.79, lng: 13.5 },
+    coords: [13.5, 46.79],
     description: {
       de: "Spittal an der Drau bietet eine solide Basis für das lokale Gewerbe und kleine Industriebetriebe, die eine wichtige Rolle für die regionale Beschäftigung spielen.",
       hu: "Spittal an der Drau szilárd alapot biztosít a helyi ipar és a kisüzemek számára, amelyek fontos szerepet játszanak a regionális foglalkoztatásban.",
@@ -326,7 +326,7 @@ export const austriaEconomicV2: POI[] = [
     type: "industry",
     parent: "AT",
     name: { de: "Bischofshofen Industrie", hu: "Bischofshofen Ipar", ro: "Bischofshofen Industrie", en: "Bischofshofen Industry" },
-    coordinates: { lat: 47.41, lng: 13.22 },
+    coords: [13.22, 47.41],
     description: {
       de: "In Bischofshofen gibt es spezialisierte Unternehmen der Metallverarbeitung und Dienstleistungen für die alpine Infrastruktur. Die Wirtschaft profitiert von der guten Verkehrsanbindung.",
       hu: "Bischofshofenben speciális fémfeldolgozó vállalkozások és az alpesi infrastruktúráért felelős szolgáltatók találhatók. A gazdaság profitál a jó közlekedési kapcsolatokból.",

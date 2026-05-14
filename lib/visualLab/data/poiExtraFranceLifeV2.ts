@@ -6,7 +6,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Cevennen", hu: "Cévennes Nemzeti Park", ro: "Parcul Național Cévennes", en: "Cévennes National Park" },
-    coordinates: { lat: 44.275, lng: 3.516 },
+    coords: [3.516, 44.275],
     description: {
       de: "Dieser Nationalpark erstreckt sich über das Massif Central. Er ist bekannt für seine biologische Vielfalt und traditionelle Landwirtschaft.",
       hu: "Ez a nemzeti park a Központi-hegység területén terül el. Ismert biodiverzitásáról és hagyományos mezőgazdaságáról.",
@@ -38,7 +38,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Port-Cros", hu: "Port-Cros Nemzeti Park", ro: "Parcul Național Port-Cros", en: "Port-Cros National Park" },
-    coordinates: { lat: 43.0, lng: 6.38 },
+    coords: [6.38, 43.0],
     description: {
       de: "Dieser Meeres-Nationalpark umfasst die Insel Port-Cros vor der Mittelmeerküste. Er schützt marine und terrestrische Ökosysteme.",
       hu: "Ez a tengeri nemzeti park a Földközi-tenger partján fekvő Port-Cros szigetet foglalja magában. Védi a tengeri és szárazföldi ökoszisztémákat.",
@@ -70,7 +70,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Écrins", hu: "Écrins Nemzeti Park", ro: "Parcul Național Écrins", en: "Écrins National Park" },
-    coordinates: { lat: 44.85, lng: 6.3 },
+    coords: [6.3, 44.85],
     description: {
       de: "Der Nationalpark Écrins liegt in den Hochalpen. Er ist bekannt für seine vergletscherten Gipfel und tiefen Täler.",
       hu: "Az Écrins Nemzeti Park a Magas-Alpokban fekszik. Ismert gleccseres csúcsairól és mély völgyeiről.",
@@ -102,7 +102,7 @@ export const franceLifeV2: POI[] = [
     type: "forest",
     parent: "FR",
     name: { de: "Wald von Fontainebleau", hu: "Fontainebleau-i erdő", ro: "Pădurea Fontainebleau", en: "Forest of Fontainebleau" },
-    coordinates: { lat: 48.43, lng: 2.65 },
+    coords: [2.65, 48.43],
     description: {
       de: "Dieser weitläufige Wald südlich von Paris war einst ein königliches Jagdrevier. Er beherbergt Sandsteinfelsen und diverse Ökosysteme.",
       hu: "Ez a hatalmas erdő Párizstól délre egykor királyi vadászterület volt. Homokkő szikláknak és változatos ökoszisztémáknak ad otthont.",
@@ -134,7 +134,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Botanischer Garten von Lyon", hu: "Lyoni Botanikus Kert", ro: "Grădina Botanică din Lyon", en: "Botanical Garden of Lyon" },
-    coordinates: { lat: 45.77, lng: 4.85 },
+    coords: [4.85, 45.77],
     description: {
       de: "Der Park de la Tête d'Or beherbergt einen bedeutenden botanischen Garten. Er umfasst Gewächshäuser und zahlreiche Pflanzenarten.",
       hu: "A Tête d'Or park jelentős botanikus kertnek ad otthont. Üvegházakat és számos növényfajt tartalmaz.",
@@ -166,7 +166,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Marais Poitevin", hu: "Marais Poitevin", ro: "Marais Poitevin", en: "Marais Poitevin" },
-    coordinates: { lat: 46.3, lng: -0.6 },
+    coords: [-0.6, 46.3],
     description: {
       de: "Dieses ausgedehnte Feuchtgebiet im Westen Frankreichs wird oft als 'Grünes Venedig' bezeichnet. Es ist ein wichtiges Naturschutzgebiet.",
       hu: "Ez a kiterjedt vizes élőhely Franciaország nyugati részén gyakran nevezik 'Zöld Velencének'. Fontos természetvédelmi terület.",
@@ -198,7 +198,7 @@ export const franceLifeV2: POI[] = [
     type: "wildlife",
     parent: "FR",
     name: { de: "Naturpark Camargue", hu: "Camargue Nemzeti Park", ro: "Parcul Natural Camargue", en: "Camargue Nature Reserve" },
-    coordinates: { lat: 43.5, lng: 4.5 },
+    coords: [4.5, 43.5],
     description: {
       de: "Das Rhone-Delta bildet die Camargue, eine Sumpflandschaft mit Flamingos und Wildpferden. Es ist ein bedeutendes Naturschutzgebiet.",
       hu: "A Rhône-delta alkotja a Camargue-t, egy mocsaras tájat flamingókkal és vadlovakal. Jelentős természetvédelmi terület.",
@@ -230,7 +230,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Vanoise", hu: "Vanoise Nemzeti Park", ro: "Parcul Național Vanoise", en: "Vanoise National Park" },
-    coordinates: { lat: 45.35, lng: 6.8 },
+    coords: [6.8, 45.35],
     description: {
       de: "Vanoise war der erste Nationalpark Frankreichs. Er liegt in den Alpen und ist für seine Steinbock-Population bekannt.",
       hu: "Vanoise volt Franciaország első nemzeti parkja. Az Alpokban található, és kőszáli kecske populációjáról ismert.",
@@ -262,7 +262,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Guadeloupe", hu: "Guadeloupe Nemzeti Park", ro: "Parcul Național Guadelupa", en: "Guadeloupe National Park" },
-    coordinates: { lat: 16.1, lng: -61.7 },
+    coords: [-61.7, 16.1],
     description: {
       de: "Dieser Nationalpark liegt auf Guadeloupe in der Karibik. Er umfasst tropische Regenwälder und den Vulkan Soufrière.",
       hu: "Ez a nemzeti park Guadeloupe szigetén található a Karib-térségben. Trópusi esőerdőket és a Soufrière vulkánt foglalja magában.",
@@ -294,7 +294,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark La Réunion", hu: "La Réunion Nemzeti Park", ro: "Parcul Național La Réunion", en: "La Réunion National Park" },
-    coordinates: { lat: -21.1, lng: 55.5 },
+    coords: [55.5, -21.1],
     description: {
       de: "Der Nationalpark auf La Réunion schützt die zentrale Gebirgsregion der Insel. Er gehört zum UNESCO-Welterbe.",
       hu: "A La Réunion-i nemzeti park a sziget központi hegyvidékét védi. Az UNESCO világörökség része.",
@@ -326,7 +326,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Guyana-Amazonien", hu: "Guyana-Amazonas Nemzeti Park", ro: "Parcul Național Guyana Amazoniană", en: "Guiana Amazonian National Park" },
-    coordinates: { lat: 2.5, lng: -53.0 },
+    coords: [-53.0, 2.5],
     description: {
       de: "Dieser Park in Französisch-Guyana ist der größte Nationalpark der EU. Er schützt riesige Gebiete des Amazonas-Regenwaldes.",
       hu: "Ez a park Francia Guyanában az EU legnagyobb nemzeti parkja. Az Amazonas-esőerdő hatalmas területeit védi.",
@@ -358,7 +358,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Jardin des Plantes", hu: "Jardin des Plantes", ro: "Jardin des Plantes", en: "Jardin des Plantes" },
-    coordinates: { lat: 48.84, lng: 2.35 },
+    coords: [2.35, 48.84],
     description: {
       de: "Dieser botanische Garten im Herzen von Paris beherbergt Museen und historische Gewächshäuser. Er ist eine wissenschaftliche Institution.",
       hu: "Ez a botanikus kert Párizs szívében múzeumoknak és történelmi üvegházaknak ad otthont. Tudományos intézmény.",
@@ -390,7 +390,7 @@ export const franceLifeV2: POI[] = [
     type: "wildlife",
     parent: "FR",
     name: { de: "Naturschutzgebiet Sept-Îles", hu: "Sept-Îles Természetvédelmi Terület", ro: "Rezervația Sept-Îles", en: "Sept-Îles Nature Reserve" },
-    coordinates: { lat: 48.9, lng: -3.45 },
+    coords: [-3.45, 48.9],
     description: {
       de: "Dieses Schutzgebiet vor der bretonischen Küste ist ein wichtiger Nistplatz für Meeresvögel. Es besteht aus sieben Inseln.",
       hu: "Ez a breton partoknál fekvő védett terület fontos fészkelőhely tengeri madarak számára. Hét szigetből áll.",
@@ -422,7 +422,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Jardin du Luxembourg", hu: "Luxembourg-kert", ro: "Grădina Luxembourg", en: "Jardin du Luxembourg" },
-    coordinates: { lat: 48.84, lng: 2.33 },
+    coords: [2.33, 48.84],
     description: {
       de: "Dieser öffentliche Garten in Paris wurde 1612 angelegt. Er ist bekannt für seine Statuen und die weitläufigen Rasenflächen.",
       hu: "Ezt a párizsi nyilvános kertet 1612-ben hozták létre. Ismert szobrairól és kiterjedt pázsitjairól.",
@@ -454,7 +454,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Jardin des Tuileries", hu: "Tuileriák kertje", ro: "Grădina Tuileries", en: "Jardin des Tuileries" },
-    coordinates: { lat: 48.86, lng: 2.32 },
+    coords: [2.32, 48.86],
     description: {
       de: "Der historische Garten zwischen Louvre und Place de la Concorde wurde von Katharina von Medici entworfen.",
       hu: "A Louvre és a Place de la Concorde közötti történelmi kertet Medici Katalin tervezte.",
@@ -486,7 +486,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Hauts Plateaux du Vercors", hu: "Hauts Plateaux du Vercors", ro: "Hauts Plateaux du Vercors", en: "Hauts Plateaux du Vercors" },
-    coordinates: { lat: 44.95, lng: 5.45 },
+    coords: [5.45, 44.95],
     description: {
       de: "Das größte Naturschutzgebiet in Frankreich liegt im Vercors-Massiv. Es zeichnet sich durch unberührte Landschaften aus.",
       hu: "A legnagyobb franciaországi természetvédelmi terület a Vercors-hegységben található. Érintetlen tájak jellemzik.",
@@ -518,7 +518,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Jardin Botanique de Bordeaux", hu: "Bordeaux-i Botanikus Kert", ro: "Grădina Botanică din Bordeaux", en: "Botanical Garden of Bordeaux" },
-    coordinates: { lat: 44.85, lng: -0.56 },
+    coords: [-0.56, 44.85],
     description: {
       de: "Dieser botanische Garten am Ufer der Garonne zeigt verschiedene Ökosysteme auf wissenschaftliche Weise.",
       hu: "Ez a Garonne partján fekvő botanikus kert tudományos módon mutatja be a különböző ökoszisztémákat.",
@@ -550,7 +550,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Massif des Bauges", hu: "Massif des Bauges", ro: "Massif des Bauges", en: "Massif des Bauges" },
-    coordinates: { lat: 45.65, lng: 6.1 },
+    coords: [6.1, 45.65],
     description: {
       de: "Dieses Bergmassiv in den französischen Alpen ist ein regionaler Naturpark. Es ist bekannt für seine traditionelle Kulturlandschaft.",
       hu: "Ez a hegyvonulat a francia Alpokban egy regionális természeti park. Ismert hagyományos kultúrtájáról.",
@@ -582,7 +582,7 @@ export const franceLifeV2: POI[] = [
     type: "park",
     parent: "FR",
     name: { de: "Parc Floral de Paris", hu: "Párizsi Virágpark", ro: "Parcul Floral din Paris", en: "Parc Floral de Paris" },
-    coordinates: { lat: 48.83, lng: 2.45 },
+    coords: [2.45, 48.83],
     description: {
       de: "Dieser Garten im Bois de Vincennes ist für seine umfangreichen Blumensammlungen und kulturellen Veranstaltungen bekannt.",
       hu: "A Bois de Vincennes-ben található kert kiterjedt virággyűjteményeiről és kulturális rendezvényeiről ismert.",

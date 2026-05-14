@@ -6,7 +6,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "ruins",
     parent: "ME",
     name: { de: "Doclea", hu: "Doclea", ro: "Doclea", en: "Doclea" },
-    coordinates: { lat: 42.4725, lng: 19.2636 },
+    coords: [19.2636, 42.4725],
     description: {
       de: "Doclea ist eine antike Stadt, die im 1. Jahrhundert von den Römern gegründet wurde. Sie war das Verwaltungszentrum der Region.",
       hu: "Doclea egy ókori római város, amelyet az 1. században alapítottak. A régió jelentős közigazgatási központja volt.",
@@ -38,7 +38,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "ruins",
     parent: "ME",
     name: { de: "Medun", hu: "Medun", ro: "Medun", en: "Medun" },
-    coordinates: { lat: 42.4741, lng: 19.3338 },
+    coords: [19.3338, 42.4741],
     description: {
       de: "Medun ist eine antike illyrische Festung nordöstlich von Podgorica. Die Stätte beherbergt auch das Denkmal von Marko Miljanov.",
       hu: "Medun egy ókori illír erőd Podgoricától északkeletre. A helyszínen található Marko Miljanov emlékműve is.",
@@ -70,7 +70,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "battlefield",
     parent: "ME",
     name: { de: "Žuta Greda", hu: "Žuta Greda", ro: "Žuta Greda", en: "Žuta Greda" },
-    coordinates: { lat: 42.456, lng: 19.231 },
+    coords: [19.231, 42.456],
     description: {
       de: "Žuta Greda war ein wichtiger Ort während des Zweiten Weltkriegs in Montenegro. Es erinnert an den antifaschistischen Widerstand.",
       hu: "Žuta Greda fontos helyszín volt Montenegróban a második világháború alatt. Az antifasiszta ellenállásnak állít emléket.",
@@ -102,7 +102,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung Žanjice", hu: "Žanjice erőd", ro: "Fortăreața Žanjice", en: "Žanjice Fortress" },
-    coordinates: { lat: 42.392, lng: 18.571 },
+    coords: [18.571, 42.392],
     description: {
       de: "Die Festung Žanjice wurde zur Verteidigung der Bucht von Kotor errichtet. Sie stammt aus der Zeit der venezianischen Herrschaft.",
       hu: "A Žanjice erőd a Kotori-öböl védelmére épült. A velencei uralom idejéből származik.",
@@ -134,7 +134,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Obosnik", hu: "Obosnik", ro: "Obosnik", en: "Obosnik" },
-    coordinates: { lat: 42.413, lng: 18.598 },
+    coords: [18.598, 42.413],
     description: {
       de: "Obosnik ist eine ehemalige militärische Befestigung auf der Halbinsel Luštica. Sie wurde während der österreichisch-ungarischen Zeit erbaut.",
       hu: "Obosnik egykori katonai erődítmény a Luštica-félszigeten. Osztrák-magyar időkből származik.",
@@ -166,7 +166,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "monument",
     parent: "ME",
     name: { de: "Vranjina", hu: "Vranjina", ro: "Vranjina", en: "Vranjina" },
-    coordinates: { lat: 42.278, lng: 19.131 },
+    coords: [19.131, 42.278],
     description: {
       de: "Vranjina ist eine historische Insel im Skutarisee mit einem Kloster. Sie spielte eine wichtige Rolle in der Geschichte Montenegros.",
       hu: "Vranjina egy történelmi sziget a Skadari-tavon, kolostorral. Fontos szerepet játszott Montenegró történelmében.",
@@ -198,7 +198,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung Goražda", hu: "Goražda erőd", ro: "Fortăreața Goražda", en: "Goražda Fortress" },
-    coordinates: { lat: 42.428, lng: 18.775 },
+    coords: [18.775, 42.428],
     description: {
       de: "Die Festung Goražda überblickt die Bucht von Kotor. Sie ist ein hervorragendes Beispiel für eine Festungsanlage aus dem 19. Jahrhundert.",
       hu: "Goražda erőd a Kotori-öbölre néz. A 19. századi erődítmények kiváló példája.",
@@ -230,7 +230,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung Vrmac", hu: "Vrmac erőd", ro: "Fortăreața Vrmac", en: "Vrmac Fortress" },
-    coordinates: { lat: 42.421, lng: 18.756 },
+    coords: [18.756, 42.421],
     description: {
       de: "Die Festung Vrmac befindet sich auf dem gleichnamigen Bergkamm. Sie diente zur Verteidigung während der österreichisch-ungarischen Zeit.",
       hu: "Vrmac erőd az azonos nevű hegygerincen található. Az osztrák-magyar időszakban védelmi célokat szolgált.",
@@ -262,7 +262,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "ruins",
     parent: "ME",
     name: { de: "Altstadt von Ulcinj", hu: "Ulcinj óvárosa", ro: "Orașul vechi din Ulcinj", en: "Old Town of Ulcinj" },
-    coordinates: { lat: 41.928, lng: 19.208 },
+    coords: [19.208, 41.928],
     description: {
       de: "Die Altstadt von Ulcinj liegt auf einer Klippe über dem Meer. Ihre Mauern und Gebäude stammen aus dem Mittelalter.",
       hu: "Ulcinj óvárosa a tenger feletti sziklán fekszik. Falai és épületei a középkorból származnak.",
@@ -294,7 +294,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "ruins",
     parent: "ME",
     name: { de: "Altstadt von Budva", hu: "Budva óvárosa", ro: "Orașul vechi din Budva", en: "Old Town of Budva" },
-    coordinates: { lat: 42.278, lng: 18.835 },
+    coords: [18.835, 42.278],
     description: {
       de: "Die befestigte Altstadt von Budva ist über 2500 Jahre alt. Sie bietet eine reiche venezianische Architektur.",
       hu: "Budva erődített óvárosa több mint 2500 éves. Gazdag velencei építészeti emlékekkel rendelkezik.",
@@ -326,7 +326,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung Arza", hu: "Arza erőd", ro: "Fortăreața Arza", en: "Arza Fortress" },
-    coordinates: { lat: 42.392, lng: 18.575 },
+    coords: [18.575, 42.392],
     description: {
       de: "Arza ist eine Küstenfestung am Eingang der Bucht von Kotor. Sie wurde zur Kontrolle des Schiffsverkehrs erbaut.",
       hu: "Arza egy parti erőd a Kotori-öböl bejáratánál. A hajóforgalom ellenőrzésére építették.",
@@ -358,7 +358,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "ruins",
     parent: "ME",
     name: { de: "Gradina", hu: "Gradina", ro: "Gradina", en: "Gradina" },
-    coordinates: { lat: 42.451, lng: 18.912 },
+    coords: [18.912, 42.451],
     description: {
       de: "Gradina ist eine archäologische Stätte, die Überreste einer antiken Siedlung zeigt. Sie liegt im Landesinneren Montenegros.",
       hu: "Gradina egy régészeti helyszín, amely egy ókori település maradványait rejti. Montenegró belsejében található.",
@@ -390,7 +390,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Reževići", hu: "Reževići kolostor", ro: "Mănăstirea Reževići", en: "Reževići Monastery" },
-    coordinates: { lat: 42.215, lng: 18.914 },
+    coords: [18.914, 42.215],
     description: {
       de: "Das Kloster Reževići liegt an der Küste zwischen Budva und Petrovac. Es stammt aus dem 13. Jahrhundert.",
       hu: "Reževići kolostor a tengerparton fekszik, Budva és Petrovac között. A 13. századból származik.",
@@ -422,7 +422,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Praskvica", hu: "Praskvica kolostor", ro: "Mănăstirea Praskvica", en: "Praskvica Monastery" },
-    coordinates: { lat: 42.261, lng: 18.889 },
+    coords: [18.889, 42.261],
     description: {
       de: "Das Kloster Praskvica bei Sveti Stefan hat eine lange spirituelle Geschichte. Es bewahrt bedeutende Manuskripte und Ikonen.",
       hu: "A Sveti Stefan melletti Praskvica kolostor hosszú lelki történelemmel rendelkezik. Jelentős kéziratokat és ikonokat őriz.",
@@ -454,7 +454,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Podlastva", hu: "Podlastva kolostor", ro: "Mănăstirea Podlastva", en: "Podlastva Monastery" },
-    coordinates: { lat: 42.298, lng: 18.791 },
+    coords: [18.791, 42.298],
     description: {
       de: "Das Kloster Podlastva in Grbalj ist eine bedeutende religiöse Stätte. Es wurde im 15. Jahrhundert gegründet.",
       hu: "A Grbalj-völgyi Podlastva kolostor jelentős vallási helyszín. A 15. században alapították.",
@@ -486,7 +486,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Župa", hu: "Župa kolostor", ro: "Mănăstirea Župa", en: "Župa Monastery" },
-    coordinates: { lat: 42.791, lng: 19.112 },
+    coords: [19.112, 42.791],
     description: {
       de: "Das Kloster Župa in der Nähe von Nikšić ist eine historisch bedeutende Stätte. Es dient seit Jahrhunderten als spirituelles Zentrum.",
       hu: "A Nikšić melletti Župa kolostor történelmileg jelentős hely. Évszázadok óta spirituális központként szolgál.",
@@ -518,7 +518,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Kom", hu: "Kom kolostor", ro: "Mănăstirea Kom", en: "Kom Monastery" },
-    coordinates: { lat: 42.274, lng: 19.141 },
+    coords: [19.141, 42.274],
     description: {
       de: "Das Kloster Kom liegt auf einer Insel im Skutarisee. Es stammt aus dem 15. Jahrhundert und ist ein kulturelles Kleinod.",
       hu: "A Kom kolostor egy szigeten fekszik a Skadari-tavon. A 15. századból származik, kulturális kincs.",
@@ -550,7 +550,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Starčeva Gorica", hu: "Starčeva Gorica kolostor", ro: "Mănăstirea Starčeva Gorica", en: "Starčeva Gorica Monastery" },
-    coordinates: { lat: 42.164, lng: 19.167 },
+    coords: [19.167, 42.164],
     description: {
       de: "Das Kloster Starčeva Gorica befindet sich auf einer Insel im Skutarisee. Es wurde im 14. Jahrhundert erbaut.",
       hu: "Starčeva Gorica kolostor egy szigeten található a Skadari-tavon. A 14. században épült.",
@@ -582,7 +582,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Beška", hu: "Beška kolostor", ro: "Mănăstirea Beška", en: "Beška Monastery" },
-    coordinates: { lat: 42.181, lng: 19.185 },
+    coords: [19.185, 42.181],
     description: {
       de: "Das Kloster Beška liegt auf einer Insel im Skutarisee. Es umfasst zwei Kirchen aus dem 14. und 15. Jahrhundert.",
       hu: "Beška kolostor egy szigeten fekszik a Skadari-tavon. Két templomot foglal magába a 14. és 15. századból.",
@@ -614,7 +614,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung Besac", hu: "Besac erőd", ro: "Fortăreața Besac", en: "Besac Fortress" },
-    coordinates: { lat: 42.245, lng: 19.136 },
+    coords: [19.136, 42.245],
     description: {
       de: "Die Festung Besac befindet sich bei Virpazar. Sie wurde im 15. Jahrhundert durch die Osmanen errichtet.",
       hu: "Besac erőd Virpazar közelében található. A 15. században az oszmánok építették.",
@@ -646,7 +646,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Dobrilovina", hu: "Dobrilovina kolostor", ro: "Mănăstirea Dobrilovina", en: "Dobrilovina Monastery" },
-    coordinates: { lat: 43.051, lng: 19.345 },
+    coords: [19.345, 43.051],
     description: {
       de: "Das Kloster Dobrilovina liegt im Taratal. Es ist ein bedeutendes religiöses Denkmal aus dem 16. Jahrhundert.",
       hu: "Dobrilovina kolostor a Tara-völgyben található. Jelentős vallási emlék a 16. századból.",
@@ -678,7 +678,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Brezović", hu: "Brezović kolostor", ro: "Mănăstirea Brezović", en: "Brezović Monastery" },
-    coordinates: { lat: 42.721, lng: 19.812 },
+    coords: [19.812, 42.721],
     description: {
       de: "Das Kloster Brezović ist ein historischer Ort in den Bergen Montenegros. Es bewahrt religiöse Traditionen.",
       hu: "Brezović kolostor egy történelmi hely Montenegró hegyeiben. Megőrzi a vallási hagyományokat.",
@@ -710,7 +710,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Zlatica", hu: "Zlatica kolostor", ro: "Mănăstirea Zlatica", en: "Zlatica Monastery" },
-    coordinates: { lat: 42.467, lng: 19.278 },
+    coords: [19.278, 42.467],
     description: {
       de: "Das Kloster Zlatica bei Podgorica wurde auf antiken Fundamenten errichtet. Es hat eine tiefe christliche Geschichte.",
       hu: "A Podgorica melletti Zlatica kolostort ókori alapokra építették. Mély keresztény történelemmel bír.",
@@ -742,7 +742,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "ruins",
     parent: "ME",
     name: { de: "Festung Lesendro", hu: "Lesendro erőd", ro: "Fortăreața Lesendro", en: "Lesendro Fortress" },
-    coordinates: { lat: 42.271, lng: 19.122 },
+    coords: [19.122, 42.271],
     description: {
       de: "Die Ruinen der Festung Lesendro liegen auf einer kleinen Insel im Skutarisee. Sie sind ein Symbol des historischen Widerstands.",
       hu: "Lesendro erőd romjai egy kis szigeten fekszenek a Skadari-tavon. A történelmi ellenállás szimbóluma.",
@@ -774,7 +774,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Ćelija Piperska", hu: "Ćelija Piperska kolostor", ro: "Mănăstirea Ćelija Piperska", en: "Ćelija Piperska Monastery" },
-    coordinates: { lat: 42.512, lng: 19.185 },
+    coords: [19.185, 42.512],
     description: {
       de: "Das Kloster Ćelija Piperska ist eine bedeutende religiöse Anlage in der Region Piperi. Es wurde im 17. Jahrhundert gegründet.",
       hu: "Ćelija Piperska kolostor jelentős vallási hely a Piperi régióban. A 17. században alapították.",
@@ -806,7 +806,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung Haj-Nehaj", hu: "Haj-Nehaj erőd", ro: "Fortăreața Haj-Nehaj", en: "Haj-Nehaj Fortress" },
-    coordinates: { lat: 42.141, lng: 19.015 },
+    coords: [19.015, 42.141],
     description: {
       de: "Die Festung Haj-Nehaj liegt auf einem Hügel über Sutomore. Sie stammt aus dem 15. Jahrhundert.",
       hu: "Haj-Nehaj erőd egy dombon fekszik Sutomore felett. A 15. századból származik.",
@@ -838,7 +838,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Savina", hu: "Savina kolostor", ro: "Mănăstirea Savina", en: "Savina Monastery" },
-    coordinates: { lat: 42.451, lng: 18.535 },
+    coords: [18.535, 42.451],
     description: {
       de: "Das Kloster Savina in Herceg Novi ist ein barockes Meisterwerk. Es stammt aus dem 18. Jahrhundert.",
       hu: "A herceg novi-i Savina kolostor barokk mestermű. A 18. századból származik.",
@@ -870,7 +870,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Gradište", hu: "Gradište kolostor", ro: "Mănăstirea Gradište", en: "Gradište Monastery" },
-    coordinates: { lat: 42.211, lng: 18.945 },
+    coords: [18.945, 42.211],
     description: {
       de: "Das Kloster Gradište liegt über dem Meer bei Petrovac. Es hat eine bewegte Geschichte aus dem Mittelalter.",
       hu: "Gradište kolostor a tenger felett fekszik Petrovacnál. Mozgalmas középkori történelemmel rendelkezik.",
@@ -902,7 +902,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung Marschall Marmont", hu: "Marmont marsall erődje", ro: "Fortăreața Mareșalului Marmont", en: "Marshal Marmont Fortress" },
-    coordinates: { lat: 42.456, lng: 18.521 },
+    coords: [18.521, 42.456],
     description: {
       de: "Die Festung Marschall Marmont in Herceg Novi ist ein Zeugnis der napoleonischen Zeit. Sie wurde Anfang des 19. Jahrhunderts erbaut.",
       hu: "A herceg novi-i Marmont marsall erőd a napóleoni korszak tanúja. A 19. század elején épült.",
@@ -934,7 +934,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "ruins",
     parent: "ME",
     name: { de: "Altstadt von Bar", hu: "Bar óvárosa", ro: "Orașul vechi din Bar", en: "Old Town of Bar" },
-    coordinates: { lat: 42.095, lng: 19.135 },
+    coords: [19.135, 42.095],
     description: {
       de: "Die Altstadt von Bar ist eine weitläufige Ruinenstadt am Fuße des Rumija-Gebirges. Sie bietet Einblicke in verschiedene Epochen.",
       hu: "Bar óvárosa egy hatalmas romváros a Rumija-hegység lábánál. Különböző korszakokba enged betekintést.",
@@ -966,7 +966,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Ostros", hu: "Ostros kolostor", ro: "Mănăstirea Ostros", en: "Ostros Monastery" },
-    coordinates: { lat: 42.051, lng: 19.231 },
+    coords: [19.231, 42.051],
     description: {
       de: "Das Kloster Ostros bei Krajina ist ein historisch bedeutender Ort. Es liegt nahe dem Skutarisee.",
       hu: "A Krajina melletti Ostros kolostor történelmileg jelentős hely. A Skadari-tó közelében található.",
@@ -998,7 +998,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung Španjola", hu: "Španjola erőd", ro: "Fortăreața Španjola", en: "Španjola Fortress" },
-    coordinates: { lat: 42.455, lng: 18.531 },
+    coords: [18.531, 42.455],
     description: {
       de: "Die Festung Španjola in Herceg Novi stammt aus der Zeit der spanischen Besatzung. Sie bietet einen tollen Blick auf die Bucht.",
       hu: "A herceg novi-i Španjola erőd a spanyol megszállás idejéből származik. Remek kilátást nyújt az öbölre.",
@@ -1030,7 +1030,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Vračina Gora", hu: "Vračina Gora kolostor", ro: "Mănăstirea Vračina Gora", en: "Vračina Gora Monastery" },
-    coordinates: { lat: 42.311, lng: 19.345 },
+    coords: [19.345, 42.311],
     description: {
       de: "Das Kloster Vračina Gora ist eine spirituelle Stätte in der Nähe von Podgorica. Es bewahrt lokale Traditionen.",
       hu: "Vračina Gora kolostor egy spirituális helyszín Podgorica közelében. Megőrzi a helyi hagyományokat.",
@@ -1062,7 +1062,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Festung Grahovo", hu: "Grahovo erőd", ro: "Fortăreața Grahovo", en: "Grahovo Fortress" },
-    coordinates: { lat: 42.631, lng: 18.667 },
+    coords: [18.667, 42.631],
     description: {
       de: "Die Festung Grahovo war ein wichtiger Punkt in der Geschichte der montenegrinischen Freiheitskämpfe. Sie liegt nahe Nikšić.",
       hu: "Grahovo erőd fontos pont volt a montenegrói szabadságharcok történetében. Nikšić közelében található.",
@@ -1094,7 +1094,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "ruins",
     parent: "ME",
     name: { de: "Antikes Risan", hu: "Ókori Risan", ro: "Risan antic", en: "Ancient Risan" },
-    coordinates: { lat: 42.515, lng: 18.694 },
+    coords: [18.694, 42.515],
     description: {
       de: "Risan ist die älteste Siedlung in der Bucht von Kotor. Archäologische Funde belegen eine illyrische Vergangenheit.",
       hu: "Risan a legrégebbi település a Kotori-öbölben. Régészeti leletek bizonyítják az illír múltat.",
@@ -1126,7 +1126,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Oberes Kanli Kula", hu: "Felső Kanli Kula", ro: "Kanli Kula de sus", en: "Upper Kanli Kula" },
-    coordinates: { lat: 42.453, lng: 18.532 },
+    coords: [18.532, 42.453],
     description: {
       de: "Das obere Kanli Kula in Herceg Novi war Teil der osmanischen Verteidigungslinie. Es bietet einen historischen Einblick.",
       hu: "A herceg novi-i felső Kanli Kula az oszmán védelmi vonal része volt. Történelmi betekintést nyújt.",
@@ -1158,7 +1158,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Komovi", hu: "Komovi kolostor", ro: "Mănăstirea Komovi", en: "Komovi Monastery" },
-    coordinates: { lat: 42.712, lng: 19.645 },
+    coords: [19.645, 42.712],
     description: {
       de: "Das Kloster Komovi liegt in den gleichnamigen Bergen. Es ist ein Ort spiritueller Ruhe.",
       hu: "Komovi kolostor az azonos nevű hegységben található. A lelki béke helyszíne.",
@@ -1190,7 +1190,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "castle",
     parent: "ME",
     name: { de: "Obere Vrmac-Festung", hu: "Felső Vrmac-erőd", ro: "Fortăreața Vrmac de sus", en: "Upper Vrmac Fortress" },
-    coordinates: { lat: 42.418, lng: 18.751 },
+    coords: [18.751, 42.418],
     description: {
       de: "Die obere Vrmac-Festung ergänzt die Verteidigungsanlagen in der Bucht von Kotor. Sie ist ein historisches militärisches Objekt.",
       hu: "A felső Vrmac-erőd kiegészíti a Kotori-öböl védelmi rendszerét. Történelmi katonai objektum.",
@@ -1222,7 +1222,7 @@ export const montenegroHistoryV2: POI[] = [
     type: "church",
     parent: "ME",
     name: { de: "Kloster Donja Briska", hu: "Donja Briska kolostor", ro: "Mănăstirea Donja Briska", en: "Donja Briska Monastery" },
-    coordinates: { lat: 42.115, lng: 19.125 },
+    coords: [19.125, 42.115],
     description: {
       de: "Das Kloster Donja Briska liegt in der Region Bar. Es hat eine jahrhundertealte religiöse Geschichte.",
       hu: "Donja Briska kolostor Bar régiójában található. Évszázados vallási történelemmel bír.",

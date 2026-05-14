@@ -6,7 +6,7 @@ export const hungaryEconomicV2: POI[] = [
     type: "industry",
     parent: "HU",
     name: { de: "Logistikzentrum Ikrény", hu: "Ikrényi logisztikai központ", ro: "Centru logistic Ikrény", en: "Ikreny Logistics Center" },
-    coordinates: { lat: 47.6748, lng: 17.5583 },
+    coords: [17.5583, 47.6748],
     description: {
       de: "Ein bedeutender Knotenpunkt für den Güterverkehr in der Nähe von Győr. Die Einrichtung dient der Lagerung und Verteilung regionaler Handelswaren.",
       hu: "Jelentős áruforgalmi csomópont Győr közelében. A létesítmény regionális kereskedelmi áruk tárolását és elosztását végzi.",
@@ -38,7 +38,7 @@ export const hungaryEconomicV2: POI[] = [
     type: "industry",
     parent: "HU",
     name: { de: "Elektronikpark Székesfehérvár", hu: "Székesfehérvári elektronikai ipari park", ro: "Parc industrial electronic Székesfehérvár", en: "Szekesfehervar Electronics Park" },
-    coordinates: { lat: 47.1956, lng: 18.4109 },
+    coords: [18.4109, 47.1956],
     description: {
       de: "Ein Zentrum für die Produktion von Unterhaltungselektronik und Automobilkomponenten. Die Region beherbergt mehrere international tätige Technologieunternehmen.",
       hu: "Szórakoztatóelektronikai és autóipari alkatrészgyártó központ. A régió számos nemzetközi technológiai vállalatnak ad otthont.",
@@ -70,7 +70,7 @@ export const hungaryEconomicV2: POI[] = [
     type: "factory",
     parent: "HU",
     name: { de: "Agrarverarbeitungszentrum Tiszaföldvár", hu: "Tiszaföldvári mezőgazdasági feldolgozó", ro: "Centru procesare agricolă Tiszaföldvár", en: "Tiszafoldvar Agricultural Processing Center" },
-    coordinates: { lat: 46.9792, lng: 20.2443 },
+    coords: [20.2443, 46.9792],
     description: {
       de: "Diese industrielle Einrichtung spezialisiert sich auf die Verarbeitung von lokal angebauten Getreidesorten. Sie unterstützt die regionale Lebensmittelproduktion.",
       hu: "Ez az ipari létesítmény a helyben termesztett gabonafélék feldolgozására szakosodott. Támogatja a regionális élelmiszertermelést.",
@@ -102,7 +102,7 @@ export const hungaryEconomicV2: POI[] = [
     type: "factory",
     parent: "HU",
     name: { de: "Motorenwerk Szentgotthárd", hu: "Szentgotthárdi motorgyár", ro: "Fabrică de motoare Szentgotthárd", en: "Szentgotthard Engine Plant" },
-    coordinates: { lat: 46.9535, lng: 16.2758 },
+    coords: [16.2758, 46.9535],
     description: {
       de: "Ein bedeutendes Werk zur Herstellung von Verbrennungsmotoren für den internationalen Automobilmarkt. Das Werk ist ein zentraler Arbeitgeber im Westen Ungarns.",
       hu: "Jelentős motorgyártó üzem a nemzetközi autópiac számára. A gyár a nyugat-magyarországi régió egyik központi munkáltatója.",
@@ -134,7 +134,7 @@ export const hungaryEconomicV2: POI[] = [
     type: "port",
     parent: "HU",
     name: { de: "Hafen Dunaújváros", hu: "Dunaújvárosi kikötő", ro: "Portul Dunaújváros", en: "Dunaújváros Port" },
-    coordinates: { lat: 46.9114, lng: 18.9481 },
+    coords: [18.9481, 46.9114],
     description: {
       de: "Ein strategisch wichtiger Binnenhafen an der Donau für den Transport von Industrieprodukten. Er dient als Hauptlogistikpunkt für den Schwerindustriesektor der Stadt.",
       hu: "Stratégiailag fontos folyami kikötő a Dunán az ipari termékek szállításához. A város nehézipari szektorának fő logisztikai pontja.",
@@ -166,7 +166,7 @@ export const hungaryEconomicV2: POI[] = [
     type: "industry",
     parent: "HU",
     name: { de: "Chemiewerk Szolnok", hu: "Szolnoki vegyi üzem", ro: "Uzina chimică Szolnok", en: "Szolnok Chemical Plant" },
-    coordinates: { lat: 47.1652, lng: 20.2014 },
+    coords: [20.2014, 47.1652],
     description: {
       de: "Dieses Industrieareal produziert chemische Grundstoffe und Spezialfarben. Es nutzt die günstige Lage an der Tisza für industrielle Prozesse.",
       hu: "Ez az ipari terület alapvető vegyi anyagokat és speciális festékeket gyárt. Kihasználja a Tisza közelségét az ipari folyamatokhoz.",
@@ -198,7 +198,7 @@ export const hungaryEconomicV2: POI[] = [
     type: "industry",
     parent: "HU",
     name: { de: "Technologiekorridor Budapest", hu: "Budapesti technológiai folyosó", ro: "Coridor tehnologic Budapesta", en: "Budapest Technology Corridor" },
-    coordinates: { lat: 47.4979, lng: 19.0402 },
+    coords: [19.0402, 47.4979],
     description: {
       de: "Ein wachsendes Gebiet für Softwareentwicklung und IT-Dienstleistungen. Hier sind zahlreiche Start-ups und Innovationszentren konzentriert.",
       hu: "Növekvő terület szoftverfejlesztés és IT-szolgáltatások számára. Számos startup és innovációs központ koncentrálódik itt.",

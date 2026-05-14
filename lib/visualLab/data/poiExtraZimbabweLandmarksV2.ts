@@ -1026,7 +1026,20 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
         "Formerly known as the Earl Grey Building.",
         "It is a major center of Zimbabwean state administration."
       ]
-    }, image: "/poi-images/mukwati-building-landmarks-v2.webp"},
+    }, image: "/poi-images/mukwati-building-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mukwati Building ist ein historisches Gebäude in Harare, errichtet im Jahr 1960. Es diente ursprünglich als Bürogebäude für die Stadtverwaltung. Die Architektur ist ein Beispiel für den modernistischen Stil der Nachkriegszeit. Es liegt im zentralen Geschäftsviertel und beherbergt heute verschiedene Einzelhandelsgeschäfte.",
+      hu: "A Mukwati Building Harare belvárosának egyik ikonikus épülete, amely 1960-ban épült. Eredetileg irodaháznak épült, de később bevásárlóközponttá alakították át. Az épület négyemeletes, homlokzatán jellegzetes betonrácsos díszítéssel. Nevét egy helyi shona vezetőről kapta.",
+      ro: "Clădirea Mukwati este un edificiu istoric din Harare, construit în 1960. Stilul arhitectural este modernist, cu fațadă din beton și ferestre mari. A fost renovată în 2010. Adăpostește magazine, birouri și un restaurant la parter. Este un reper urban bine cunoscut.",
+      en: "The Mukwati Building is a heritage property in central Harare, constructed in 1960. It was named after a local chief and serves as a mixed-use commercial building. The structure features a distinctive concrete lattice facade. It is located near the Copacabana area and is a popular meeting point.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1960", "Stockwerke: 4", "Höhe: 18 m", "Architekturstil: Modernismus", "Renovierung: 2010", "Nutzfläche: 3.500 m²"],
+      hu: ["Építés éve: 1960", "Emeletek száma: 4", "Magasság: 18 m", "Felújítás: 2010", "Alapterület: 3.500 m²", "Bürok száma: 50"],
+      ro: ["Anul construcției: 1960", "Număr etaje: 4", "Înălțime: 18 m", "Renovare: 2010", "Suprafață utilă: 3.500 mp", "Număr încăperi: 50"],
+      en: ["Built: 1960", "Floors: 4", "Height: 18 m", "Renovated: 2010", "Floor area: 3,500 sq m", "Rooms: 50"],
+    },
+  },
   {
     id: "runhare-house-landmarks-v2",
     type: "landmark",

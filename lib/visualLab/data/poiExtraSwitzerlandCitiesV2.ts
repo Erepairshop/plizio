@@ -6,7 +6,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "La Chaux-de-Fonds", hu: "La Chaux-de-Fonds", ro: "La Chaux-de-Fonds", en: "La Chaux-de-Fonds" },
-    coordinates: { lat: 47.103, lng: 6.832 },
+    coords: [6.832, 47.103],
     description: {
       de: "Die Stadt im Kanton Neuenburg ist das bedeutendste Zentrum der Schweizer Uhrenindustrie. Sie liegt auf etwa 1000 Metern Höhe im Juragebirge nahe der französischen Grenze.",
       hu: "A Neuchâtel kantonban fekvő város a svájci óragyártás egyik legfontosabb központja. A Jura-hegységben, mintegy 1000 méteres tengerszint feletti magasságban található.",
@@ -38,7 +38,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Neuenburg", hu: "Neuchâtel", ro: "Neuchâtel", en: "Neuchâtel" },
-    coordinates: { lat: 46.991, lng: 6.931 },
+    coords: [6.931, 46.991],
     description: {
       de: "Die Hauptstadt des gleichnamigen Kantons liegt am Nordufer des Neuenburgersees. Sie ist geprägt von Gebäuden aus gelbem Kalkstein und einer mittelalterlichen Altstadt.",
       hu: "Az azonos nevű kanton fővárosa a Neuchâteli-tó északi partján fekszik. Sárga mészkőből készült épületei és középkori óvárosa határozzák meg a látképét.",
@@ -70,7 +70,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Zug", hu: "Zug", ro: "Zug", en: "Zug" },
-    coordinates: { lat: 47.166, lng: 8.515 },
+    coords: [8.515, 47.166],
     description: {
       de: "Zug ist die Hauptstadt des gleichnamigen Kantons und liegt am Ufer des Zugersees. Die Stadt ist bekannt für ihre niedrigen Steuersätze und als globales Zentrum des Rohstoffhandels.",
       hu: "Zug az azonos nevű kanton fővárosa a Zugi-tó partján. A város alacsony adókulcsairól és a nyersanyagkereskedelem globális központjaként ismert.",
@@ -102,7 +102,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Yverdon-les-Bains", hu: "Yverdon-les-Bains", ro: "Yverdon-les-Bains", en: "Yverdon-les-Bains" },
-    coordinates: { lat: 46.778, lng: 6.641 },
+    coords: [6.641, 46.778],
     description: {
       de: "Diese Stadt liegt am südwestlichen Ende des Neuenburgersees und ist bekannt für ihre Thermalquellen. Sie blickt auf eine über 6000-jährige Siedlungsgeschichte zurück.",
       hu: "Ez a város a Neuchâteli-tó délnyugati végén fekszik, és termálforrásairól ismert. Több mint 6000 éves településtörténettel rendelkezik.",
@@ -134,7 +134,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Frauenfeld", hu: "Frauenfeld", ro: "Frauenfeld", en: "Frauenfeld" },
-    coordinates: { lat: 47.558, lng: 8.898 },
+    coords: [8.898, 47.558],
     description: {
       de: "Frauenfeld ist die Hauptstadt des Kantons Thurgau und liegt im weiten Tal der Murg. Das markante Schloss am Flussufer prägt das Stadtbild seit dem Mittelalter.",
       hu: "Frauenfeld Thurgau kanton fővárosa a Murg folyó széles völgyében. A folyóparton álló jellegzetes kastély a középkor óta meghatározza a városképet.",
@@ -166,7 +166,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Olten", hu: "Olten", ro: "Olten", en: "Olten" },
-    coordinates: { lat: 47.352, lng: 7.901 },
+    coords: [7.901, 47.352],
     description: {
       de: "Olten ist die größte Stadt des Kantons Solothurn und der wichtigste Eisenbahnknotenpunkt der Schweiz. Sie liegt an der Aare am Jurasüdfuß.",
       hu: "Olten Solothurn kanton legnagyobb városa és Svájc legfontosabb vasúti csomópontja. Az Aare folyó partján, a Jura-hegység déli lábánál fekszik.",
@@ -198,7 +198,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Solothurn", hu: "Solothurn", ro: "Solothurn", en: "Solothurn" },
-    coordinates: { lat: 47.208, lng: 7.537 },
+    coords: [7.537, 47.208],
     description: {
       de: "Solothurn gilt als die schönste Barockstadt der Schweiz. Die Hauptstadt des gleichnamigen Kantons liegt an der Aare und ist bekannt für ihre enge Verbindung zur Zahl Elf.",
       hu: "Solothurnot Svájc legszebb barokk városának tartják. Az azonos nevű kanton fővárosa az Aare partján fekszik, és a tizenegyes számhoz fűződő szoros kapcsolatáról ismert.",
@@ -230,7 +230,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Aarau", hu: "Aarau", ro: "Aarau", en: "Aarau" },
-    coordinates: { lat: 47.392, lng: 8.044 },
+    coords: [8.044, 47.392],
     description: {
       de: "Aarau ist die Hauptstadt des Kantons Aargau und liegt an der Aare am Jurasüdfuß. Sie ist berühmt für ihre bemalten Giebel in der Altstadt.",
       hu: "Aarau Aargau kanton fővárosa az Aare partján, a Jura déli lábánál. Híres az óvárosában található festett oromzatú házairól.",
@@ -262,7 +262,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Köniz", hu: "Köniz", ro: "Köniz", en: "Köniz" },
-    coordinates: { lat: 46.924, lng: 7.414 },
+    coords: [7.414, 46.924],
     description: {
       de: "Köniz ist eine Gemeinde direkt südlich von Bern. Obwohl sie oft als Vorort wahrgenommen wird, ist sie mit über 40.000 Einwohnern eine der größten Städte der Schweiz.",
       hu: "Köniz egy község közvetlenül Berntől délre. Bár gyakran külvárosként tekintenek rá, több mint 40 000 lakosával Svájc egyik legnagyobb városa.",
@@ -294,7 +294,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Uster", hu: "Uster", ro: "Uster", en: "Uster" },
-    coordinates: { lat: 47.349, lng: 8.719 },
+    coords: [8.719, 47.349],
     description: {
       de: "Uster ist die drittgrößte Stadt des Kantons Zürich und liegt am Greifensee. Sie ist bekannt für ihre industrielle Vergangenheit und das gut erhaltene Schloss.",
       hu: "Uster Zürich kanton harmadik legnagyobb városa a Greifensee partján. Ipari múltjáról és jó állapotban megmaradt kastélyáról ismert.",
@@ -326,7 +326,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Emmen", hu: "Emmen", ro: "Emmen", en: "Emmen" },
-    coordinates: { lat: 47.076, lng: 8.283 },
+    coords: [8.283, 47.076],
     description: {
       de: "Emmen ist eine bedeutende Stadt im Kanton Luzern. Sie ist vor allem als Standort eines Militärflugplatzes und der Flugzeugindustrie bekannt.",
       hu: "Emmen egy jelentős város Luzern kantonban. Elsősorban katonai repülőteréről és a repülőgépiparáról ismert.",
@@ -358,7 +358,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Dübendorf", hu: "Dübendorf", ro: "Dübendorf", en: "Dübendorf" },
-    coordinates: { lat: 47.398, lng: 8.621 },
+    coords: [8.621, 47.398],
     description: {
       de: "Dübendorf liegt im Glattal nordöstlich von Zürich. Die Stadt ist historisch eng mit der Schweizer Luftfahrt verbunden und ein bedeutender Forschungsstandort.",
       hu: "Dübendorf a Glatt-völgyben fekszik, Zürichről északkeletre. A város történelmileg szorosan kötődik a svájci repüléshez, és jelentős kutatási központ.",
@@ -390,7 +390,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Dietikon", hu: "Dietikon", ro: "Dietikon", en: "Dietikon" },
-    coordinates: { lat: 47.405, lng: 8.403 },
+    coords: [8.403, 47.405],
     description: {
       de: "Dietikon ist die Hauptstadt des gleichnamigen Bezirks im Limmattal. Die Stadt ist ein wichtiger Industriestandort und Verkehrsknotenpunkt westlich von Zürich.",
       hu: "Dietikon az azonos nevű járás fővárosa a Limmat-völgyben. A város fontos ipari központ és közlekedési csomópont Zürichről nyugatra.",
@@ -422,7 +422,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Baar", hu: "Baar", ro: "Baar", en: "Baar" },
-    coordinates: { lat: 47.195, lng: 8.526 },
+    coords: [8.526, 47.195],
     description: {
       de: "Baar liegt nördlich von Zug und ist die zweitgrößte Gemeinde des Kantons. Sie ist bekannt für ihre industrielle Tradition und die malerischen Höllgrotten-Höhlen.",
       hu: "Baar Zugtól északra fekszik, és a kanton második legnagyobb községe. Ipari hagyományairól és a festői Höllgrotten-barlangokról ismert.",
@@ -454,7 +454,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Riehen", hu: "Riehen", ro: "Riehen", en: "Riehen" },
-    coordinates: { lat: 47.584, lng: 7.649 },
+    coords: [7.649, 47.584],
     description: {
       de: "Riehen ist eine Gemeinde im Kanton Basel-Stadt, die direkt an Deutschland grenzt. Sie ist bekannt für ihre hohe Lebensqualität und als bedeutender Kulturstandort.",
       hu: "Riehen egy község Bázel-Város kantonban, közvetlenül a német határnál. Magas életminőségéről és jelentős kulturális központként ismert.",
@@ -486,7 +486,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Wetzikon", hu: "Wetzikon", ro: "Wetzikon", en: "Wetzikon" },
-    coordinates: { lat: 47.326, lng: 8.798 },
+    coords: [8.798, 47.326],
     description: {
       de: "Wetzikon ist eine Stadt im Zürcher Oberland am Pfäffikersee. Sie ist ein wichtiges regionales Zentrum für Bildung, Gesundheit und Wirtschaft.",
       hu: "Wetzikon egy város a zürichi felföldön (Zürcher Oberland), a Pfäffiker-tó partján. Fontos regionális központ az oktatás, az egészségügy és a gazdaság területén.",
@@ -518,7 +518,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Meyrin", hu: "Meyrin", ro: "Meyrin", en: "Meyrin" },
-    coordinates: { lat: 46.231, lng: 6.078 },
+    coords: [6.078, 46.231],
     description: {
       de: "Meyrin ist eine Gemeinde im Kanton Genf. Sie ist weltberühmt als Hauptstandort des Forschungszentrums CERN und Sitz zahlreicher High-Tech-Unternehmen.",
       hu: "Meyrin egy község Genf kantonban. Világhírű a CERN kutatóközpont fő székhelyeként és számos high-tech vállalat otthonaként.",
@@ -550,7 +550,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Wädenswil", hu: "Wädenswil", ro: "Wädenswil", en: "Wädenswil" },
-    coordinates: { lat: 47.229, lng: 8.672 },
+    coords: [8.672, 47.229],
     description: {
       de: "Wädenswil liegt am linken Ufer des Zürichsees. Die Stadt ist bekannt als Standort für Forschung und Bildung sowie für ihre historische Textilindustrie.",
       hu: "Wädenswil a Zürichi-tó bal partján fekszik. A város kutatási és oktatási központként, valamint történelmi textiliparáról ismert.",
@@ -582,7 +582,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Bulle", hu: "Bulle", ro: "Bulle", en: "Bulle" },
-    coordinates: { lat: 46.617, lng: 7.058 },
+    coords: [7.058, 46.617],
     description: {
       de: "Bulle ist das wirtschaftliche Zentrum des Greyerzerlandes im Kanton Freiburg. Die Stadt liegt im Herzen einer bedeutenden landwirtschaftlichen und touristischen Region.",
       hu: "Bulle a Freiburg kantonbeli Gruyère-vidék gazdasági központja. A város egy jelentős mezőgazdasági és turisztikai régió szívében fekszik.",
@@ -614,7 +614,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Allschwil", hu: "Allschwil", ro: "Allschwil", en: "Allschwil" },
-    coordinates: { lat: 47.551, lng: 7.536 },
+    coords: [7.536, 47.551],
     description: {
       de: "Allschwil ist eine Gemeinde im Kanton Basel-Landschaft, die direkt an die Stadt Basel und Frankreich grenzt. Sie hat ihren ursprünglichen dörflichen Charme im Ortskern bewahrt.",
       hu: "Allschwil egy község Bázel-Vidék kantonban, közvetlenül Bázel városával és Franciaországgal határos. A település központja megőrizte eredeti falusias báját.",
@@ -646,7 +646,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Carouge", hu: "Carouge", ro: "Carouge", en: "Carouge" },
-    coordinates: { lat: 46.184, lng: 6.139 },
+    coords: [6.139, 46.184],
     description: {
       de: "Carouge ist eine Stadt im Kanton Genf, direkt angrenzend an die Stadt Genf. Sie wurde im 18. Jahrhundert vom König von Sardinien als Konkurrenz zu Genf geplant.",
       hu: "Carouge egy város Genf kantonban, közvetlenül Genf városa mellett. A 18. században Szardínia királya tervezte Genf riválisaként.",
@@ -678,7 +678,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Wettingen", hu: "Wettingen", ro: "Wettingen", en: "Wettingen" },
-    coordinates: { lat: 47.466, lng: 8.326 },
+    coords: [8.326, 47.466],
     description: {
       de: "Wettingen ist die bevölkerungsreichste Gemeinde des Kantons Aargau. Sie liegt an der Limmat und ist bekannt für das ehemalige Zisterzienserkloster.",
       hu: "Wettingen Aargau kanton legnépesebb községe. A Limmat folyó mentén fekszik, és egykori ciszterci kolostoráról ismert.",
@@ -710,7 +710,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Renens", hu: "Renens", ro: "Renens", en: "Renens" },
-    coordinates: { lat: 46.535, lng: 6.588 },
+    coords: [6.588, 46.535],
     description: {
       de: "Renens ist eine Stadt im Kanton Waadt und Teil der Agglomeration Lausanne. Sie ist ein bedeutendes Bildungs- und Designzentrum.",
       hu: "Renens egy város Vaud kantonban, a lausanne-i agglomeráció része. Jelentős oktatási és dizájnközpont.",
@@ -742,7 +742,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Reinach", hu: "Reinach", ro: "Reinach", en: "Reinach" },
-    coordinates: { lat: 47.493, lng: 7.591 },
+    coords: [7.591, 47.493],
     description: {
       de: "Reinach ist eine Stadt im Kanton Basel-Landschaft. Sie ist Teil der Agglomeration Basel und ein bedeutender Wirtschaftsstandort in der Region.",
       hu: "Reinach egy város Bázel-Vidék kantonban. A bázeli agglomeráció része és a régió jelentős gazdasági központja.",
@@ -774,7 +774,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Horgen", hu: "Horgen", ro: "Horgen", en: "Horgen" },
-    coordinates: { lat: 47.26, lng: 8.598 },
+    coords: [8.598, 47.26],
     description: {
       de: "Horgen liegt am linken Ufer des Zürichsees und ist der Hauptort des gleichnamigen Bezirks. Die Stadt blickt auf eine lange Industriegeschichte zurück.",
       hu: "Horgen a Zürichi-tó bal partján fekszik, és az azonos nevű járás központja. A város hosszú ipari múltra tekint vissza.",
@@ -806,7 +806,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Nyon", hu: "Nyon", ro: "Nyon", en: "Nyon" },
-    coordinates: { lat: 46.383, lng: 6.239 },
+    coords: [6.239, 46.383],
     description: {
       de: "Nyon liegt am Genfersee im Kanton Waadt. Die Stadt hat römische Wurzeln und ist heute als Sitz des europäischen Fußballverbandes UEFA bekannt.",
       hu: "Nyon a Genfi-tó partján fekszik, Vaud kantonban. A város római gyökerekkel rendelkezik, és ma az UEFA európai labdarúgó-szövetség székhelyeként ismert.",
@@ -838,7 +838,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Gossau", hu: "Gossau", ro: "Gossau", en: "Gossau" },
-    coordinates: { lat: 47.416, lng: 9.249 },
+    coords: [9.249, 47.416],
     description: {
       de: "Gossau ist eine Stadt im Kanton St. Gallen. Sie liegt zwischen St. Gallen und Wil und ist ein wichtiger Bildungs- und Wirtschaftsstandort der Ostschweiz.",
       hu: "Gossau egy város St. Gallen kantonban. St. Gallen és Wil között fekszik, és Kelet-Svájc jelentős oktatási és gazdasági központja.",
@@ -870,7 +870,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Schlieren", hu: "Schlieren", ro: "Schlieren", en: "Schlieren" },
-    coordinates: { lat: 47.396, lng: 8.448 },
+    coords: [8.448, 47.396],
     description: {
       de: "Schlieren liegt westlich von Zürich im Limmattal. Die Stadt ist ein dynamischer Wirtschaftsstandort, der sich von der Industrie zum Life-Science-Zentrum wandelt.",
       hu: "Schlieren Zürichről nyugatra, a Limmat-völgyben fekszik. A város dinamikus gazdasági központ, amely az iparból az élettudományok (life science) felé fejlődik.",
@@ -902,7 +902,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Kloten", hu: "Kloten", ro: "Kloten", en: "Kloten" },
-    coordinates: { lat: 47.448, lng: 8.582 },
+    coords: [8.582, 47.448],
     description: {
       de: "Kloten ist vor allem als Standort des größten internationalen Flughafens der Schweiz bekannt. Die Stadt im Glattal ist ein bedeutender internationaler Verkehrsknotenpunkt.",
       hu: "Kloten elsősorban Svájc legnagyobb nemzetközi repülőterének helyszíneként ismert. A Glatt-völgyi város jelentős nemzetközi közlekedési csomópont.",
@@ -934,7 +934,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Muttenz", hu: "Muttenz", ro: "Muttenz", en: "Muttenz" },
-    coordinates: { lat: 47.522, lng: 7.646 },
+    coords: [7.646, 47.522],
     description: {
       de: "Muttenz liegt östlich von Basel im Kanton Basel-Landschaft. Die Stadt ist ein bedeutendes Industriezentrum und verfügt über eine markante Wehrkirche.",
       hu: "Muttenz Bázeltől keletre fekszik, Bázel-Vidék kantonban. A város jelentős ipari központ, és jellegzetes erődtemplommal rendelkezik.",
@@ -966,7 +966,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "town",
     parent: "CH",
     name: { de: "Peseux", hu: "Peseux", ro: "Peseux", en: "Peseux" },
-    coordinates: { lat: 46.991, lng: 6.891 },
+    coords: [6.891, 46.991],
     description: {
       de: "Peseux ist eine Stadt im Kanton Neuenburg, die unmittelbar westlich an die Stadt Neuenburg grenzt. Sie liegt auf einer Terrasse mit Blick auf den Neuenburgersee.",
       hu: "Peseux egy város Neuchâtel kantonban, közvetlenül Neuchâtel városától nyugatra. Egy teraszon fekszik, kilátással a Neuchâteli-tóra.",
@@ -998,7 +998,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "town",
     parent: "CH",
     name: { de: "Belp", hu: "Belp", ro: "Belp", en: "Belp" },
-    coordinates: { lat: 46.891, lng: 7.498 },
+    coords: [7.498, 46.891],
     description: {
       de: "Belp liegt im Gürbetal südlich von Bern. Die Stadt ist bekannt als Standort des Regionalflughafens Bern-Belp und für das markante Belpmoos.",
       hu: "Belp a Gürbe-völgyben fekszik, Berntől délre. A város a Bern-Belp regionális repülőtérről és a jellegzetes Belpmoos-ról ismert.",
@@ -1030,7 +1030,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "town",
     parent: "CH",
     name: { de: "Bussigny", hu: "Bussigny", ro: "Bussigny", en: "Bussigny" },
-    coordinates: { lat: 46.549, lng: 6.551 },
+    coords: [6.551, 46.549],
     description: {
       de: "Bussigny liegt westlich von Lausanne im Kanton Waadt. Die Stadt ist ein wichtiger Verkehrsknotenpunkt und Standort für Logistik und Industrie.",
       hu: "Bussigny Lausannétól nyugatra fekszik, Vaud kantonban. A város fontos közlekedési csomópont, valamint logisztikai és ipari központ.",
@@ -1062,7 +1062,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Buchs (SG)", hu: "Buchs (SG)", ro: "Buchs (SG)", en: "Buchs (SG)" },
-    coordinates: { lat: 47.166, lng: 9.478 },
+    coords: [9.478, 47.166],
     description: {
       de: "Buchs liegt im Rheintal an der Grenze zu Liechtenstein. Die Stadt ist ein bedeutendes regionales Zentrum und ein wichtiger Grenzübergang für den Bahnverkehr.",
       hu: "Buchs a Rajna-völgyben fekszik, a liechtensteini határnál. A város jelentős regionális központ és fontos vasúti határátkelőhely.",
@@ -1094,7 +1094,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Wallisellen", hu: "Wallisellen", ro: "Wallisellen", en: "Wallisellen" },
-    coordinates: { lat: 47.414, lng: 8.592 },
+    coords: [8.592, 47.414],
     description: {
       de: "Wallisellen liegt nordöstlich von Zürich im Glattal. Die Stadt ist ein bedeutender Wirtschaftsstandort und beherbergt das größte Einkaufszentrum der Schweiz.",
       hu: "Wallisellen Zürichről északkeletre, a Glatt-völgyben fekszik. A város jelentős gazdasági központ, itt található Svájc legnagyobb bevásárlóközpontja.",
@@ -1126,7 +1126,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Herisau", hu: "Herisau", ro: "Herisau", en: "Herisau" },
-    coordinates: { lat: 47.385, lng: 9.279 },
+    coords: [9.279, 47.385],
     description: {
       de: "Herisau ist der Hauptort des Kantons Appenzell Ausserrhoden. Die Stadt liegt in der hügeligen Landschaft des Appenzellerlandes nahe St. Gallen.",
       hu: "Herisau Appenzell Ausserrhoden kanton székhelye. A város az Appenzell-vidék dombos táján fekszik, St. Gallen közelében.",
@@ -1158,7 +1158,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Kreuzlingen", hu: "Kreuzlingen", ro: "Kreuzlingen", en: "Kreuzlingen" },
-    coordinates: { lat: 47.645, lng: 9.176 },
+    coords: [9.176, 47.645],
     description: {
       de: "Kreuzlingen liegt am Bodensee im Kanton Thurgau und bildet zusammen mit der deutschen Stadt Konstanz eine grenzübergreifende Agglomeration.",
       hu: "Kreuzlingen a Bódeni-tó partján fekszik, Thurgau kantonban, és a németországi Konstanz városával együtt egy határokon átnyúló agglomerációt alkot.",
@@ -1190,7 +1190,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Lancy", hu: "Lancy", ro: "Lancy", en: "Lancy" },
-    coordinates: { lat: 46.183, lng: 6.116 },
+    coords: [6.116, 46.183],
     description: {
       de: "Lancy ist eine Stadt im Kanton Genf und Teil der Agglomeration Genf. Sie ist Sitz zahlreicher internationaler Firmen und verfügt über moderne Wohnviertel.",
       hu: "Lancy egy város Genf kantonban, a genfi agglomeráció része. Számos nemzetközi cég székhelye és modern lakónegyedekkel rendelkezik.",
@@ -1222,7 +1222,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Thalwil", hu: "Thalwil", ro: "Thalwil", en: "Thalwil" },
-    coordinates: { lat: 47.295, lng: 8.566 },
+    coords: [8.566, 47.295],
     description: {
       de: "Thalwil liegt am linken Ufer des Zürichsees und ist eine begehrte Wohngemeinde mit hervorragender Anbindung an die Stadt Zürich.",
       hu: "Thalwil a Zürichi-tó bal partján fekszik, és kedvelt lakóhely, kiváló közlekedési kapcsolatokkal Zürich városához.",
@@ -1254,7 +1254,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Littau", hu: "Littau", ro: "Littau", en: "Littau" },
-    coordinates: { lat: 47.051, lng: 8.266 },
+    coords: [8.266, 47.051],
     description: {
       de: "Littau ist ein Stadtteil von Luzern (seit 2010 fusioniert). Er liegt westlich des Stadtzentrums und ist geprägt von Wohnquartieren und Industriezonen.",
       hu: "Littau Luzern egyik városrésze (2010 óta egyesülve). A városközponttól nyugatra fekszik, lakónegyedek és ipari zónák jellemzik.",
@@ -1287,7 +1287,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Locarno", hu: "Locarno", ro: "Locarno", en: "Locarno" },
-    coordinates: { lat: 46.1667, lng: 8.7944 },
+    coords: [8.7944, 46.1667],
     description: {
       de: "Locarno liegt am Lago Maggiore im Kanton Tessin. Die Stadt ist für ihr mildes Klima und das jährlich stattfindende Filmfestival bekannt.",
       hu: "Locarno a Lago Maggiore partján fekszik Ticino kantonban. A város enyhe éghajlatáról és az évente megrendezett filmfesztiválról ismert.",
@@ -1319,7 +1319,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Bellinzona", hu: "Bellinzona", ro: "Bellinzona", en: "Bellinzona" },
-    coordinates: { lat: 46.1925, lng: 9.0232 },
+    coords: [9.0232, 46.1925],
     description: {
       de: "Bellinzona ist die Hauptstadt des Kantons Tessin. Die Stadt ist für ihre drei befestigten Burgen als UNESCO-Welterbe bekannt.",
       hu: "Bellinzona Ticino kanton fővárosa. A város három erődített váráról, mint UNESCO világörökségi helyszínről ismert.",
@@ -1351,7 +1351,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Vevey", hu: "Vevey", ro: "Vevey", en: "Vevey" },
-    coordinates: { lat: 46.4621, lng: 6.8499 },
+    coords: [6.8499, 46.4621],
     description: {
       de: "Vevey liegt am Genfersee im Kanton Waadt. Die Stadt ist als Hauptsitz des Nahrungsmittelkonzerns Nestlé international bekannt.",
       hu: "Vevey a Genfi-tó partján fekszik Vaud kantonban. A város a Nestlé élelmiszeripari vállalat székhelyeként ismert nemzetközileg.",
@@ -1383,7 +1383,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Brig-Glis", hu: "Brig-Glis", ro: "Brig-Glis", en: "Brig-Glis" },
-    coordinates: { lat: 46.3155, lng: 7.9861 },
+    coords: [7.9861, 46.3155],
     description: {
       de: "Brig-Glis liegt im Kanton Wallis am Fuß des Simplonpasses. Die Stadt dient als wichtiger Knotenpunkt für den Bahnverkehr.",
       hu: "Brig-Glis Wallis kantonban fekszik, a Simplon-hágó lábánál. A város fontos csomópont a vasúti közlekedés számára.",
@@ -1415,7 +1415,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Martigny", hu: "Martigny", ro: "Martigny", en: "Martigny" },
-    coordinates: { lat: 46.1039, lng: 7.0734 },
+    coords: [7.0734, 46.1039],
     description: {
       de: "Martigny liegt im Unterwallis an der Einmündung des Drance-Tals in die Rhône. Die Stadt ist für ihre römischen Ausgrabungen bekannt.",
       hu: "Martigny az alsó-wallisi régióban fekszik, ahol a Drance-völgy a Rhône-ba torkollik. A város római kori ásatásairól ismert.",
@@ -1447,7 +1447,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Altdorf", hu: "Altdorf", ro: "Altdorf", en: "Altdorf" },
-    coordinates: { lat: 46.8828, lng: 8.6443 },
+    coords: [8.6443, 46.8828],
     description: {
       de: "Altdorf ist der Hauptort des Kantons Uri. Die Stadt ist vor allem mit der Legende von Wilhelm Tell verbunden.",
       hu: "Altdorf Uri kanton székhelye. A város elsősorban Tell Vilmos legendájához köthető.",
@@ -1479,7 +1479,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Glarus", hu: "Glarus", ro: "Glarus", en: "Glarus" },
-    coordinates: { lat: 47.0396, lng: 9.0667 },
+    coords: [9.0667, 47.0396],
     description: {
       de: "Glarus ist der Hauptort des gleichnamigen Kantons. Die Stadt wurde nach einem Großbrand im Jahr 1861 schachbrettartig neu geplant.",
       hu: "Glarus az azonos nevű kanton székhelye. A várost az 1861-es nagy tűzvész után sakktáblaszerűen újjáépítették.",
@@ -1511,7 +1511,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Stans", hu: "Stans", ro: "Stans", en: "Stans" },
-    coordinates: { lat: 46.957, lng: 8.3417 },
+    coords: [8.3417, 46.957],
     description: {
       de: "Stans ist der Hauptort des Kantons Nidwalden. Die Stadt liegt am Fuß des Stanserhorns in der Zentralschweiz.",
       hu: "Stans Nidwalden kanton székhelye. A város a Stanserhorn lábánál fekszik Közép-Svájcban.",
@@ -1543,7 +1543,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Sarnen", hu: "Sarnen", ro: "Sarnen", en: "Sarnen" },
-    coordinates: { lat: 46.8942, lng: 8.2435 },
+    coords: [8.2435, 46.8942],
     description: {
       de: "Sarnen ist der Hauptort des Kantons Obwalden. Die Stadt liegt am nördlichen Ende des Sarnersees.",
       hu: "Sarnen Obwalden kanton székhelye. A város a Sarner-tó északi végénél fekszik.",
@@ -1575,7 +1575,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Delémont", hu: "Delémont", ro: "Delémont", en: "Delémont" },
-    coordinates: { lat: 47.3621, lng: 7.3533 },
+    coords: [7.3533, 47.3621],
     description: {
       de: "Delémont ist der Hauptort des Kantons Jura. Die Stadt liegt an der Sorne in einem Talkessel des Juras.",
       hu: "Delémont Jura kanton székhelye. A város a Sorne folyó mentén, a Jura-hegység egyik medencéjében fekszik.",
@@ -1607,7 +1607,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Schwyz", hu: "Schwyz", ro: "Schwyz", en: "Schwyz" },
-    coordinates: { lat: 47.0205, lng: 8.6536 },
+    coords: [8.6536, 47.0205],
     description: {
       de: "Schwyz ist der Hauptort des Kantons Schwyz. Die Stadt liegt zwischen dem Vierwaldstättersee und dem Lauerzersee.",
       hu: "Schwyz, Schwyz kanton székhelye. A város a Vierwaldstätter-tó és a Lauerzer-tó között fekszik.",
@@ -1639,7 +1639,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Liestal", hu: "Liestal", ro: "Liestal", en: "Liestal" },
-    coordinates: { lat: 47.4839, lng: 7.7328 },
+    coords: [7.7328, 47.4839],
     description: {
       de: "Liestal ist der Hauptort des Kantons Basel-Landschaft. Die Stadt liegt an der Ergolz im Nordwesten der Schweiz.",
       hu: "Liestal Bázeli tájegység kanton székhelye. A város az Ergolz folyó mentén fekszik Északnyugat-Svájcban.",
@@ -1671,7 +1671,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Appenzell", hu: "Appenzell", ro: "Appenzell", en: "Appenzell" },
-    coordinates: { lat: 47.3312, lng: 9.4086 },
+    coords: [9.4086, 47.3312],
     description: {
       de: "Appenzell ist der Hauptort des Kantons Appenzell Innerrhoden. Die Stadt ist für ihre bemalten Häuser bekannt.",
       hu: "Appenzell Appenzell Innerrhoden kanton székhelye. A város festett házairól ismert.",
@@ -1703,7 +1703,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Bad Ragaz", hu: "Bad Ragaz", ro: "Bad Ragaz", en: "Bad Ragaz" },
-    coordinates: { lat: 47.0033, lng: 9.5011 },
+    coords: [9.5011, 47.0033],
     description: {
       de: "Bad Ragaz ist eine Gemeinde im Kanton St. Gallen. Die Stadt ist für ihre Thermalquellen international als Kurort bekannt.",
       hu: "Bad Ragaz egy település St. Gallen kantonban. A város termálforrásai miatt nemzetközileg ismert üdülőhely.",
@@ -1735,7 +1735,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Davos", hu: "Davos", ro: "Davos", en: "Davos" },
-    coordinates: { lat: 46.7915, lng: 9.8365 },
+    coords: [9.8365, 46.7915],
     description: {
       de: "Davos liegt im Kanton Graubünden. Die Stadt ist weltweit als Tagungsort des Weltwirtschaftsforums bekannt.",
       hu: "Davos Graubünden kantonban fekszik. A város világszerte ismert a Világgazdasági Fórum helyszíneként.",
@@ -1767,7 +1767,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "St. Moritz", hu: "St. Moritz", ro: "St. Moritz", en: "St. Moritz" },
-    coordinates: { lat: 46.4907, lng: 9.8355 },
+    coords: [9.8355, 46.4907],
     description: {
       de: "St. Moritz liegt im Oberengadin im Kanton Graubünden. Die Stadt ist ein bekannter Wintersportort und Austragungsort von Olympischen Spielen.",
       hu: "St. Moritz az Felső-Engadin régióban fekszik, Graubünden kantonban. A város híres téli sportközpont és olimpiai játékok helyszíne.",
@@ -1799,7 +1799,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Zermatt", hu: "Zermatt", ro: "Zermatt", en: "Zermatt" },
-    coordinates: { lat: 46.0207, lng: 7.7491 },
+    coords: [7.7491, 46.0207],
     description: {
       de: "Zermatt liegt im Kanton Wallis am Fuß des Matterhorns. Der Ort ist weitgehend autofrei und ein bedeutendes Tourismuszentrum.",
       hu: "Zermatt Wallis kantonban fekszik, a Matterhorn lábánál. A település nagyrészt autómentes és jelentős turisztikai központ.",
@@ -1831,7 +1831,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Andermatt", hu: "Andermatt", ro: "Andermatt", en: "Andermatt" },
-    coordinates: { lat: 46.6322, lng: 8.5886 },
+    coords: [8.5886, 46.6322],
     description: {
       de: "Andermatt liegt im Urserental im Kanton Uri. Die Stadt ist ein bekannter Ausgangspunkt für Passfahrten wie den Gotthardpass.",
       hu: "Andermatt az Urseren-völgyben fekszik, Uri kantonban. A város híres kiindulópont hágókon átvezető utakhoz, mint a Gotthard-hágó.",
@@ -1863,7 +1863,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Verbier", hu: "Verbier", ro: "Verbier", en: "Verbier" },
-    coordinates: { lat: 46.096, lng: 7.2285 },
+    coords: [7.2285, 46.096],
     description: {
       de: "Verbier liegt im Kanton Wallis. Es ist ein weltweit bekannter Wintersportort in den Alpen.",
       hu: "Verbier Wallis kantonban fekszik. Ez egy világszerte ismert téli sportközpont az Alpokban.",
@@ -1895,7 +1895,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Gstaad", hu: "Gstaad", ro: "Gstaad", en: "Gstaad" },
-    coordinates: { lat: 46.475, lng: 7.285 },
+    coords: [7.285, 46.475],
     description: {
       de: "Gstaad ist ein Ortsteil der Gemeinde Saanen im Kanton Bern. Es ist ein luxuriöser Ferienort in den Berner Alpen.",
       hu: "Gstaad a Saanen község része Bern kantonban. Ez egy luxus üdülőhely a Berni-Alpokban.",
@@ -1927,7 +1927,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Mont-Soleil", hu: "Mont-Soleil", ro: "Mont-Soleil", en: "Mont-Soleil" },
-    coordinates: { lat: 47.1587, lng: 6.8459 },
+    coords: [6.8459, 47.1587],
     description: {
       de: "Mont-Soleil liegt im Kanton Bern im Jura. Der Ort ist bekannt für seine Windkraftanlagen und Sonnenenergie.",
       hu: "Mont-Soleil Bern kantonban fekszik, a Jura-hegységben. A település szélerőműveiről és napenergiájáról ismert.",
@@ -1959,7 +1959,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Murten", hu: "Murten", ro: "Murten", en: "Murten" },
-    coordinates: { lat: 46.9271, lng: 7.1147 },
+    coords: [7.1147, 46.9271],
     description: {
       de: "Murten liegt am Murtensee im Kanton Freiburg. Die Stadt ist für ihre gut erhaltene mittelalterliche Stadtmauer bekannt.",
       hu: "Murten a Murten-tó partján fekszik, Freiburg kantonban. A város jól megőrzött középkori városfaláról ismert.",
@@ -1991,7 +1991,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Niederbipp", hu: "Niederbipp", ro: "Niederbipp", en: "Niederbipp" },
-    coordinates: { lat: 47.2755, lng: 7.6444 },
+    coords: [7.6444, 47.2755],
     description: {
       de: "Niederbipp liegt im Kanton Bern an der Grenze zum Kanton Solothurn. Die Gemeinde ist ein regionales Verkehrszentrum.",
       hu: "Niederbipp Bern kantonban fekszik, a Solothurn kantonnal való határon. A település egy regionális közlekedési központ.",
@@ -2023,7 +2023,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Le Locle", hu: "Le Locle", ro: "Le Locle", en: "Le Locle" },
-    coordinates: { lat: 47.0558, lng: 6.7491 },
+    coords: [6.7491, 47.0558],
     description: {
       de: "Le Locle liegt im Kanton Neuenburg im Jura. Die Stadt ist als Zentrum der Uhrenindustrie UNESCO-Welterbe.",
       hu: "Le Locle Neuchâtel kantonban fekszik, a Jura-hegységben. A várost az óraipar központjaként az UNESCO világörökség részévé nyilvánították.",
@@ -2055,7 +2055,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "La Chaux-du-Milieu", hu: "La Chaux-du-Milieu", ro: "La Chaux-du-Milieu", en: "La Chaux-du-Milieu" },
-    coordinates: { lat: 47.0142, lng: 6.7025 },
+    coords: [6.7025, 47.0142],
     description: {
       de: "La Chaux-du-Milieu liegt im Kanton Neuenburg. Die Gemeinde zeichnet sich durch ihre Lage in den Jura-Höhenzügen aus.",
       hu: "La Chaux-du-Milieu Neuchâtel kantonban fekszik. A település a Jura-hegység vonulatain való elhelyezkedéséről ismert.",
@@ -2087,7 +2087,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Bulle-La Tour", hu: "Bulle-La Tour", ro: "Bulle-La Tour", en: "Bulle-La Tour" },
-    coordinates: { lat: 46.6178, lng: 7.0583 },
+    coords: [7.0583, 46.6178],
     description: {
       de: "Bulle liegt im Kanton Freiburg in der Region Gruyère. Die Stadt ist das wirtschaftliche Zentrum der Region.",
       hu: "Bulle Freiburg kantonban fekszik, a Gruyère régióban. A város a régió gazdasági központja.",
@@ -2119,7 +2119,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Pompaples", hu: "Pompaples", ro: "Pompaples", en: "Pompaples" },
-    coordinates: { lat: 46.6667, lng: 6.5167 },
+    coords: [6.5167, 46.6667],
     description: {
       de: "Pompaples ist eine Gemeinde im Kanton Waadt. Der Ort liegt am Fuße des Juras in einer landwirtschaftlich geprägten Gegend.",
       hu: "Pompaples egy település Vaud kantonban. A hely a Jura-hegység lábánál fekszik egy mezőgazdasági jellegű területen.",
@@ -2151,7 +2151,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Aigle", hu: "Aigle", ro: "Aigle", en: "Aigle" },
-    coordinates: { lat: 46.3197, lng: 6.9419 },
+    coords: [6.9419, 46.3197],
     description: {
       de: "Aigle liegt im Kanton Waadt im Rhônetal. Die Stadt ist für ihre Weinberge und das Schloss Aigle bekannt.",
       hu: "Aigle Vaud kantonban fekszik a Rhône-völgyben. A város szőlőültetvényeiről és az Aigle-kastélyról ismert.",
@@ -2183,7 +2183,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Martigny-Combe", hu: "Martigny-Combe", ro: "Martigny-Combe", en: "Martigny-Combe" },
-    coordinates: { lat: 46.088, lng: 7.032 },
+    coords: [7.032, 46.088],
     description: {
       de: "Martigny-Combe liegt im Kanton Wallis nahe der französischen Grenze. Die Region ist bekannt für Obstbau und Alpinlandschaft.",
       hu: "Martigny-Combe Wallis kantonban fekszik, közel a francia határhoz. A régió gyümölcstermesztéséről és alpesi tájáról ismert.",
@@ -2215,7 +2215,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Orbe", hu: "Orbe", ro: "Orbe", en: "Orbe" },
-    coordinates: { lat: 46.7275, lng: 6.5361 },
+    coords: [6.5361, 46.7275],
     description: {
       de: "Orbe liegt im Kanton Waadt am Fluss Orbe. Die Stadt ist für ihre römischen Mosaike bekannt.",
       hu: "Orbe Vaud kantonban fekszik az Orbe folyó mentén. A város római mozaikjairól ismert.",
@@ -2247,7 +2247,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Yvonand", hu: "Yvonand", ro: "Yvonand", en: "Yvonand" },
-    coordinates: { lat: 46.7797, lng: 6.7328 },
+    coords: [6.7328, 46.7797],
     description: {
       de: "Yvonand liegt am Neuenburgersee im Kanton Waadt. Der Ort ist für seine Sandstrände bekannt.",
       hu: "Yvonand a Neuchâtel-tó partján fekszik Vaud kantonban. A település homokos strandjairól ismert.",
@@ -2279,7 +2279,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Grandson", hu: "Grandson", ro: "Grandson", en: "Grandson" },
-    coordinates: { lat: 46.7836, lng: 6.6453 },
+    coords: [6.6453, 46.7836],
     description: {
       de: "Grandson liegt am Neuenburgersee im Kanton Waadt. Die Stadt ist für ihr Schloss und die historische Schlacht bekannt.",
       hu: "Grandson a Neuchâtel-tó partján fekszik Vaud kantonban. A város kastélyáról és a történelmi csatáról ismert.",
@@ -2311,7 +2311,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Morges", hu: "Morges", ro: "Morges", en: "Morges" },
-    coordinates: { lat: 46.5103, lng: 6.5028 },
+    coords: [6.5028, 46.5103],
     description: {
       de: "Morges liegt am Genfersee im Kanton Waadt. Die Stadt ist für ihr Schloss und die jährliche Tulpenblüte bekannt.",
       hu: "Morges a Genfi-tó partján fekszik Vaud kantonban. A város kastélyáról és az évenkénti tulipánvirágzásról ismert.",
@@ -2343,7 +2343,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Rolle", hu: "Rolle", ro: "Rolle", en: "Rolle" },
-    coordinates: { lat: 46.4578, lng: 6.3353 },
+    coords: [6.3353, 46.4578],
     description: {
       de: "Rolle liegt am Genfersee im Kanton Waadt. Die Stadt besitzt einen historischen Stadtkern und ein Schloss am Ufer.",
       hu: "Rolle a Genfi-tó partján fekszik Vaud kantonban. A város történelmi városközponttal és egy tóparti kastéllyal rendelkezik.",
@@ -2375,7 +2375,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Coppet", hu: "Coppet", ro: "Coppet", en: "Coppet" },
-    coordinates: { lat: 46.3142, lng: 6.1844 },
+    coords: [6.1844, 46.3142],
     description: {
       de: "Coppet liegt am Genfersee im Kanton Waadt. Der Ort ist für sein Schloss bekannt, das historisch von großer Bedeutung war.",
       hu: "Coppet a Genfi-tó partján fekszik Vaud kantonban. A település a történelmileg nagy jelentőségű kastélyáról ismert.",
@@ -2407,7 +2407,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Versoix", hu: "Versoix", ro: "Versoix", en: "Versoix" },
-    coordinates: { lat: 46.2792, lng: 6.1664 },
+    coords: [6.1664, 46.2792],
     description: {
       de: "Versoix liegt am Genfersee im Kanton Genf. Die Stadt ist ein beliebter Wohnort unweit von Genf.",
       hu: "Versoix a Genfi-tó partján fekszik Genf kantonban. A város népszerű lakóhely Genf közelében.",
@@ -2439,7 +2439,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Le Grand-Saconnex", hu: "Le Grand-Saconnex", ro: "Le Grand-Saconnex", en: "Le Grand-Saconnex" },
-    coordinates: { lat: 46.2361, lng: 6.115 },
+    coords: [6.115, 46.2361],
     description: {
       de: "Le Grand-Saconnex liegt im Kanton Genf. Die Stadt grenzt an den Flughafen Genf und beherbergt internationale Institutionen.",
       hu: "Le Grand-Saconnex Genf kantonban fekszik. A város a Genfi repülőtér mellett fekszik és nemzetközi intézményeknek ad otthont.",
@@ -2471,7 +2471,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Chancy", hu: "Chancy", ro: "Chancy", en: "Chancy" },
-    coordinates: { lat: 46.155, lng: 6.0028 },
+    coords: [6.0028, 46.155],
     description: {
       de: "Chancy liegt im äußersten Westen des Kantons Genf. Die Gemeinde ist landwirtschaftlich geprägt und grenzt an Frankreich.",
       hu: "Chancy Genf kanton legnyugatibb részén fekszik. A község mezőgazdasági jellegű és Franciaországgal határos.",
@@ -2503,7 +2503,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Veyrier", hu: "Veyrier", ro: "Veyrier", en: "Veyrier" },
-    coordinates: { lat: 46.1833, lng: 6.1833 },
+    coords: [6.1833, 46.1833],
     description: {
       de: "Veyrier liegt im Kanton Genf am Fuße des Mont Salève. Die Gemeinde ist ein beliebter Wohnort nahe der Stadt Genf.",
       hu: "Veyrier Genf kantonban fekszik, a Mont Salève lábánál. A település népszerű lakóhely Genf városa közelében.",
@@ -2535,7 +2535,7 @@ export const switzerlandCitiesV2: POI[] = [
     type: "city",
     parent: "CH",
     name: { de: "Troinex", hu: "Troinex", ro: "Troinex", en: "Troinex" },
-    coordinates: { lat: 46.1667, lng: 6.1667 },
+    coords: [6.1667, 46.1667],
     description: {
       de: "Troinex liegt im Kanton Genf. Die Gemeinde grenzt an Frankreich und ist geprägt von ihrer Nähe zur Genfer Agglomeration.",
       hu: "Troinex Genf kantonban fekszik. A község Franciaországgal határos, és a Genfi agglomerációhoz való közelsége határozza meg.",

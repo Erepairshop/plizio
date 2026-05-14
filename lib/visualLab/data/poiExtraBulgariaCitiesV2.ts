@@ -6,7 +6,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Plewen", hu: "Pleven", ro: "Plevna", en: "Pleven" },
-    coordinates: { lat: 43.4167, lng: 24.6 },
+    coords: [24.6, 43.4167],
     description: {
       de: "Plewen liegt im Norden Bulgariens und ist ein wichtiges regionales Handelszentrum. Die Stadt ist für ihre historische Bedeutung während des Russisch-Türkischen Krieges bekannt.",
       hu: "Pleven Észak-Bulgáriában található, fontos regionális kereskedelmi központ. A város az orosz-török háború alatti történelmi szerepéről híres.",
@@ -38,7 +38,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Gabrowo", hu: "Gabrovo", ro: "Gabrovo", en: "Gabrovo" },
-    coordinates: { lat: 42.8742, lng: 25.3242 },
+    coords: [25.3242, 42.8742],
     description: {
       de: "Gabrowo liegt am Nordhang des Balkangebirges und ist ein traditionsreiches Zentrum für Textilindustrie. Die Stadt ist für ihren Humor bekannt.",
       hu: "Gabrovo a Balkán-hegység északi lejtőin fekszik, a textilipar hagyományos központja. A város a humoráról ismert.",
@@ -70,7 +70,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Jambol", hu: "Jambol", ro: "Iambol", en: "Yambol" },
-    coordinates: { lat: 42.4833, lng: 26.5 },
+    coords: [26.5, 42.4833],
     description: {
       de: "Jambol liegt im Südosten Bulgariens an beiden Ufern des Tundscha-Flusses. Die Stadt hat eine lange Geschichte, die bis in die Antike zurückreicht.",
       hu: "Jambol Bulgária délkeleti részén, a Tundzsa folyó két partján fekszik. A város történelme az ókorig nyúlik vissza.",
@@ -102,7 +102,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Kardschali", hu: "Kardzsali", ro: "Kărdjali", en: "Kardzhali" },
-    coordinates: { lat: 41.65, lng: 25.3667 },
+    coords: [25.3667, 41.65],
     description: {
       de: "Kardschali liegt im östlichen Rhodopengebirge in Süd-Bulgarien. Die Region ist reich an geologischen Formationen und archäologischen Stätten.",
       hu: "Kardzsali a Keleti-Rodope-hegységben, Dél-Bulgáriában található. A régió gazdag geológiai képződményekben és régészeti lelőhelyekben.",
@@ -134,7 +134,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Smoljan", hu: "Szmoljan", ro: "Smolian", en: "Smolyan" },
-    coordinates: { lat: 41.5833, lng: 24.7 },
+    coords: [24.7, 41.5833],
     description: {
       de: "Smoljan ist das höchstgelegene regionale Verwaltungszentrum in Bulgarien. Die Stadt erstreckt sich durch das gesamte Rhodopengebirge.",
       hu: "Szmoljan Bulgária legmagasabban fekvő regionális közigazgatási központja. A város az egész Rodope-hegységen keresztül nyúlik el.",
@@ -166,7 +166,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Targowischte", hu: "Targoviste", ro: "Tărgoviște", en: "Targovishte" },
-    coordinates: { lat: 43.25, lng: 26.5667 },
+    coords: [26.5667, 43.25],
     description: {
       de: "Targowischte ist eine Stadt im Nordosten Bulgariens. Sie dient als Verwaltungssitz und wichtiges Wirtschaftszentrum für die umgebende landwirtschaftliche Region.",
       hu: "Targoviste egy város Bulgária északkeleti részén. Közigazgatási központként és a környező mezőgazdasági régió fontos gazdasági központjaként szolgál.",
@@ -198,7 +198,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Silistra", hu: "Szilisztra", ro: "Silistra", en: "Silistra" },
-    coordinates: { lat: 44.1167, lng: 27.2667 },
+    coords: [27.2667, 44.1167],
     description: {
       de: "Silistra liegt am rechten Ufer der Donau im Nordosten Bulgariens. Die Stadt ist eine der ältesten Siedlungen in der Region.",
       hu: "Szilisztra a Duna jobb partján fekszik, Bulgária északkeleti részén. A város a régió egyik legrégebbi települése.",
@@ -230,7 +230,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Rasgrad", hu: "Razgrad", ro: "Razgrad", en: "Razgrad" },
-    coordinates: { lat: 43.5333, lng: 26.5333 },
+    coords: [26.5333, 43.5333],
     description: {
       de: "Rasgrad ist eine Stadt im Nordosten Bulgariens am Fluss Beli Lom. Sie ist für ihre gut erhaltenen antiken römischen Ruinen in der Nähe bekannt.",
       hu: "Razgrad egy város Bulgária északkeleti részén, a Beli Lom folyó mentén. Híres a közelében található, jól megőrzött ókori római romokról.",
@@ -262,7 +262,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Lowetsch", hu: "Lovecs", ro: "Loveci", en: "Lovech" },
-    coordinates: { lat: 43.1333, lng: 24.7167 },
+    coords: [24.7167, 43.1333],
     description: {
       de: "Lowetsch liegt im Vorbalkangebirge an beiden Ufern des Flusses Ossam. Die Stadt ist bekannt für ihre historische überdachte Brücke.",
       hu: "Lovecs az Elő-Balkánban, az Oszam folyó két partján fekszik. A város a történelmi fedett hídjáról ismert.",
@@ -294,7 +294,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Montana", hu: "Montana", ro: "Montana", en: "Montana" },
-    coordinates: { lat: 43.4167, lng: 23.2333 },
+    coords: [23.2333, 43.4167],
     description: {
       de: "Montana liegt im Nordwesten Bulgariens am Fuße des Balkangebirges. Die Stadt hat Wurzeln, die bis in die römische Zeit zurückreichen.",
       hu: "Montana Bulgária északnyugati részén, a Balkán-hegység lábánál fekszik. A város gyökerei a római korig nyúlnak vissza.",
@@ -326,7 +326,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Charmanli", hu: "Harmanli", ro: "Harmanli", en: "Harmanli" },
-    coordinates: { lat: 41.9333, lng: 25.9 },
+    coords: [25.9, 41.9333],
     description: {
       de: "Charmanli liegt im Süden Bulgariens an der Schnittstelle wichtiger Handelswege. Die Stadt ist für ihre historische Karawanserei bekannt.",
       hu: "Harmanli Bulgária déli részén fekszik, fontos kereskedelmi útvonalak találkozásánál. A város a történelmi karavánszerájáról ismert.",
@@ -358,7 +358,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Swischtow", hu: "Szvisztov", ro: "Sviștov", en: "Svishtov" },
-    coordinates: { lat: 43.6167, lng: 25.35 },
+    coords: [25.35, 43.6167],
     description: {
       de: "Swischtow liegt am südlichen Ufer der Donau im Norden Bulgariens. Die Stadt ist für ihre traditionsreiche Universität und wirtschaftliche Bedeutung bekannt.",
       hu: "Szvisztov a Duna déli partján fekszik, Észak-Bulgáriában. A város a hagyományokban gazdag egyeteméről és gazdasági jelentőségéről ismert.",
@@ -390,7 +390,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Assenowgrad", hu: "Asszenovgrad", ro: "Asenovgrad", en: "Asenovgrad" },
-    coordinates: { lat: 42.0, lng: 24.8667 },
+    coords: [24.8667, 42.0],
     description: {
       de: "Assenowgrad liegt am Fuße des Rhodopengebirges, südlich von Plowdiw. Die Stadt ist als Zentrum für religiöse Bauten und Weinherstellung bekannt.",
       hu: "Asszenovgrad a Rodope-hegység lábánál, Plovdivtól délre található. A város vallási épületek és bortermelés központjaként ismert.",
@@ -422,7 +422,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Dupniza", hu: "Dupnica", ro: "Dupnița", en: "Dupnitsa" },
-    coordinates: { lat: 42.2667, lng: 23.1167 },
+    coords: [23.1167, 42.2667],
     description: {
       de: "Dupniza liegt in Westbulgarien am Fuße des Rila-Gebirges. Die Stadt ist ein wichtiger Verkehrsknotenpunkt zwischen Sofia und dem Süden.",
       hu: "Dupnica Nyugat-Bulgáriában, a Rila-hegység lábánál fekszik. A város fontos közlekedési csomópont Szófia és a déli régiók között.",
@@ -454,7 +454,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Petritsch", hu: "Petrics", ro: "Petrici", en: "Petrich" },
-    coordinates: { lat: 41.4, lng: 23.2167 },
+    coords: [23.2167, 41.4],
     description: {
       de: "Petritsch liegt im äußersten Südwesten Bulgariens, unweit der Grenzen zu Griechenland und Nordmazedonien. Die Region ist für mildes Klima bekannt.",
       hu: "Petrics Bulgária legdélnyugatibb részén, nem messze a görög és az észak-macedón határtól fekszik. A régió enyhe éghajlatáról ismert.",
@@ -486,7 +486,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Kopriwschtiza", hu: "Koprivstica", ro: "Koprivștița", en: "Koprivshtitsa" },
-    coordinates: { lat: 42.6333, lng: 24.0833 },
+    coords: [24.0833, 42.6333],
     description: {
       de: "Kopriwschtiza ist eine historische Stadt im Balkangebirge. Sie ist weltberühmt für ihre gut erhaltene Architektur aus der bulgarischen Wiedergeburtszeit.",
       hu: "Koprivstica egy történelmi város a Balkán-hegységben. Világhírű a bolgár nemzeti újjászületés korából származó, jól megőrzött építészetéről.",
@@ -518,7 +518,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Kawarna", hu: "Kavarna", ro: "Cavarna", en: "Kavarna" },
-    coordinates: { lat: 43.4333, lng: 28.3333 },
+    coords: [28.3333, 43.4333],
     description: {
       de: "Kawarna liegt an der bulgarischen Schwarzmeerküste. Die Stadt ist bekannt für ihre Steilküsten und als Veranstaltungsort für Musikfestivals.",
       hu: "Kavarna a bolgár Fekete-tenger partján fekszik. A város meredek partjairól és zenei fesztiválok helyszíneként ismert.",
@@ -550,7 +550,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Banja", hu: "Banya", ro: "Bania", en: "Banya" },
-    coordinates: { lat: 42.5333, lng: 24.8167 },
+    coords: [24.8167, 42.5333],
     description: {
       de: "Banja ist eine Kleinstadt in der Nähe von Karlowo, bekannt für ihre zahlreichen Thermalquellen. Sie ist ein beliebtes Ziel für Wellness-Tourismus.",
       hu: "Banya egy kisváros Karlovo közelében, híres számos termálforrásáról. A wellness-turizmus kedvelt célpontja.",
@@ -582,7 +582,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Melnik", hu: "Melnik", ro: "Melnik", en: "Melnik" },
-    coordinates: { lat: 41.5167, lng: 23.4 },
+    coords: [23.4, 41.5167],
     description: {
       de: "Melnik ist die kleinste Stadt Bulgariens und liegt im Pirin-Gebirge. Sie ist weltweit berühmt für ihre einzigartigen Sandsteinformationen und den Wein.",
       hu: "Melnik Bulgária legkisebb városa, a Pirin-hegységben található. Világszerte híres egyedülálló homokkő-képződményeiről és a boráról.",
@@ -614,7 +614,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Trjawna", hu: "Triavna", ro: "Treavna", en: "Tryavna" },
-    coordinates: { lat: 42.8667, lng: 25.5 },
+    coords: [25.5, 42.8667],
     description: {
       de: "Trjawna liegt am Nordhang des Balkangebirges. Die Stadt ist für ihre traditionsreiche Holzschnitzkunst und ihre Architektur aus der Wiedergeburtszeit bekannt.",
       hu: "Triavna a Balkán-hegység északi lejtőin fekszik. A város a hagyományokban gazdag fafaragóművészetéről és a nemzeti újjászületés kori építészetéről ismert.",
@@ -646,7 +646,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Chiprowzi", hu: "Csiprovec", ro: "Ciprovți", en: "Chiprovtsi" },
-    coordinates: { lat: 43.3667, lng: 22.8833 },
+    coords: [22.8833, 43.3667],
     description: {
       de: "Chiprowzi liegt im Nordwesten des Balkangebirges. Die Stadt ist weltbekannt für die Herstellung ihrer traditionellen, kunstvollen Teppiche.",
       hu: "Csiprovec a Balkán-hegység északnyugati részén fekszik. A város világszerte ismert a hagyományos, díszes szőnyegeinek készítéséről.",
@@ -678,7 +678,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Dewnja", hu: "Devnya", ro: "Devnea", en: "Devnya" },
-    coordinates: { lat: 43.2167, lng: 27.5667 },
+    coords: [27.5667, 43.2167],
     description: {
       de: "Dewnja liegt in der Nähe von Warna. Die Stadt ist für ihre industrielle Bedeutung und die antiken römischen Mosaike bekannt, die dort gefunden wurden.",
       hu: "Devnya Várna közelében található. A város az ipari jelentőségéről és az ott talált ókori római mozaikokról ismert.",
@@ -710,7 +710,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Samokow", hu: "Szamokov", ro: "Samokov", en: "Samokov" },
-    coordinates: { lat: 42.3333, lng: 23.55 },
+    coords: [23.55, 42.3333],
     description: {
       de: "Samokow liegt im Rila-Gebirge, nahe dem berühmten Wintersportort Borowez. Die Stadt ist ein historisches Zentrum der Kunst und des Handwerks.",
       hu: "Szamokov a Rila-hegységben fekszik, a híres Borovec téli sportközpont közelében. A város a művészet és a kézművesség történelmi központja.",
@@ -742,7 +742,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Baltschik", hu: "Balcsik", ro: "Balcic", en: "Balchik" },
-    coordinates: { lat: 43.4167, lng: 28.1667 },
+    coords: [28.1667, 43.4167],
     description: {
       de: "Baltschik ist eine Küstenstadt am Schwarzen Meer. Die Stadt ist besonders für ihren botanischen Garten und den Palast der rumänischen Königin Maria bekannt.",
       hu: "Balcsik egy tengerparti város a Fekete-tenger mellett. A város különösen a botanikus kertjéről és Mária román királyné palotájáról ismert.",
@@ -774,7 +774,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Etropole", hu: "Etropole", ro: "Etropole", en: "Etropole" },
-    coordinates: { lat: 42.8167, lng: 24.0 },
+    coords: [24.0, 42.8167],
     description: {
       de: "Etropole liegt im Balkangebirge. Die Stadt ist für ihre historische Architektur und das nahegelegene Etropole-Kloster bekannt.",
       hu: "Etropole a Balkán-hegységben fekszik. A város a történelmi építészetéről és a közeli Etropole-kolostorról ismert.",
@@ -806,7 +806,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Raslog", hu: "Razlog", ro: "Razlog", en: "Razlog" },
-    coordinates: { lat: 41.8833, lng: 23.4667 },
+    coords: [23.4667, 41.8833],
     description: {
       de: "Raslog liegt in einem malerischen Tal zwischen dem Pirin- und dem Rila-Gebirge. Die Stadt ist ein Ausgangspunkt für Outdoor-Aktivitäten.",
       hu: "Razlog egy festői völgyben fekszik a Pirin- és a Rila-hegység között. A város a szabadtéri tevékenységek kiindulópontja.",
@@ -838,7 +838,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Nowa Sagora", hu: "Nova Zagora", ro: "Nova Zagora", en: "Nova Zagora" },
-    coordinates: { lat: 42.4833, lng: 26.0167 },
+    coords: [26.0167, 42.4833],
     description: {
       de: "Nowa Sagora liegt im Süden Bulgariens in der thrakischen Ebene. Die Region ist landwirtschaftlich geprägt und hat eine lange Siedlungsgeschichte.",
       hu: "Nova Zagora Bulgária déli részén, a trák alföldön fekszik. A régió mezőgazdasági jellegű és hosszú településtörténete van.",
@@ -870,7 +870,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Bjala", hu: "Byala", ro: "Beala", en: "Byala" },
-    coordinates: { lat: 42.8667, lng: 27.8833 },
+    coords: [27.8833, 42.8667],
     description: {
       de: "Bjala ist eine kleine Stadt an der bulgarischen Schwarzmeerküste. Sie ist besonders für ihre schönen Strände und Steilküsten bekannt.",
       hu: "Byala egy kisváros a bolgár Fekete-tenger partján. Különösen híres szép strandjairól és meredek partjairól.",
@@ -902,7 +902,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Elchowo", hu: "Elhovo", ro: "Elhovo", en: "Elhovo" },
-    coordinates: { lat: 42.1667, lng: 26.5667 },
+    coords: [26.5667, 42.1667],
     description: {
       de: "Elchowo liegt im Südosten Bulgariens, unweit der Grenze zur Türkei. Die Umgebung zeichnet sich durch eine vielfältige Natur aus.",
       hu: "Elhovo Bulgária délkeleti részén, nem messze a török határtól fekszik. A környéket a változatos természet jellemzi.",
@@ -934,7 +934,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Swilengrad", hu: "Szvilengrad", ro: "Svilengrad", en: "Svilengrad" },
-    coordinates: { lat: 41.75, lng: 26.2 },
+    coords: [26.2, 41.75],
     description: {
       de: "Swilengrad liegt an der bulgarisch-griechischen und bulgarisch-türkischen Grenze. Die Stadt ist ein wichtiger Grenzübergangsort.",
       hu: "Szvilengrad a bolgár-görög és bolgár-török határnál fekszik. A város fontos határátkelőhely.",
@@ -966,7 +966,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Omurtag", hu: "Omurtag", ro: "Omurtag", en: "Omurtag" },
-    coordinates: { lat: 43.1, lng: 26.4167 },
+    coords: [26.4167, 43.1],
     description: {
       de: "Omurtag ist eine Stadt im Nordosten Bulgariens im Balkangebirge. Sie liegt an der wichtigen Verkehrsstraße zwischen Sofia und Warna.",
       hu: "Omurtag egy város Bulgária északkeleti részén, a Balkán-hegységben. Szófia és Várna között fekszik, egy fontos közlekedési útvonalon.",
@@ -998,7 +998,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Straldscha", hu: "Sztraldzsa", ro: "Straldja", en: "Straldzha" },
-    coordinates: { lat: 42.6, lng: 26.6667 },
+    coords: [26.6667, 42.6],
     description: {
       de: "Straldscha liegt in Ostbulgarien in der Nähe von Jambol. Die Stadt ist von fruchtbarem Ackerland umgeben und landwirtschaftlich geprägt.",
       hu: "Sztraldzsa Kelet-Bulgáriában, Jambol közelében fekszik. A várost termékeny mezőgazdasági földterületek veszik körül.",
@@ -1030,7 +1030,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Popowo", hu: "Popovo", ro: "Popovo", en: "Popovo" },
-    coordinates: { lat: 43.35, lng: 26.2333 },
+    coords: [26.2333, 43.35],
     description: {
       de: "Popowo liegt im Nordosten Bulgariens. Die Stadt dient als lokales Zentrum für Handel und die Verarbeitung landwirtschaftlicher Erzeugnisse.",
       hu: "Popovo Bulgária északkeleti részén fekszik. A város a kereskedelem és a mezőgazdasági termékek feldolgozásának helyi központja.",
@@ -1062,7 +1062,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Ljakowez", hu: "Ljakovec", ro: "Leaskoveț", en: "Lyaskovets" },
-    coordinates: { lat: 43.1167, lng: 25.7167 },
+    coords: [25.7167, 43.1167],
     description: {
       de: "Ljakowez liegt bei Weliko Tarnowo in Nordbulgarien. Die Stadt ist für ihre Weinproduktion und das Kloster Petropawlowski bekannt.",
       hu: "Ljakovec Veliko Tarnovo közelében fekszik, Észak-Bulgáriában. A város a bortermeléséről és a Petropavlovszki-kolostorról ismert.",
@@ -1094,7 +1094,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg", hu: "Batenberg", ro: "Batenberg", en: "Batenberg" },
-    coordinates: { lat: 43.3, lng: 25.1 },
+    coords: [25.1, 43.3],
     description: {
       de: "Batenberg ist ein kleiner Ort in der Nähe von Plewen. Er ist historisch bedeutsam und von landwirtschaftlichen Flächen umgeben.",
       hu: "Batenberg egy kis település Pleven közelében. Történelmileg jelentős és mezőgazdasági területek veszik körül.",
@@ -1126,7 +1126,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Kalofer", hu: "Kalofer", ro: "Kalofer", en: "Kalofer" },
-    coordinates: { lat: 42.6167, lng: 24.9833 },
+    coords: [24.9833, 42.6167],
     description: {
       de: "Kalofer liegt am Fuße des Balkangebirges, unweit von Kasanlak. Die Stadt ist als Geburtsort des Dichters Christo Botew bekannt.",
       hu: "Kalofer a Balkán-hegység lábánál fekszik, nem messze Kazanlak-tól. A város Hriszto Botev költő szülőhelyeként ismert.",
@@ -1158,7 +1158,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Pirdop", hu: "Pirdop", ro: "Pirdop", en: "Pirdop" },
-    coordinates: { lat: 42.7, lng: 24.1667 },
+    coords: [24.1667, 42.7],
     description: {
       de: "Pirdop liegt im Sredna-Gora-Gebirge. Die Stadt ist ein bekanntes Zentrum für die Kupferverarbeitungsindustrie in Bulgarien.",
       hu: "Pirdop a Szredna-Gora-hegységben található. A város Bulgária egyik ismert rézfeldolgozó ipari központja.",
@@ -1190,7 +1190,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Belene", hu: "Belene", ro: "Belene", en: "Belene" },
-    coordinates: { lat: 43.65, lng: 25.2667 },
+    coords: [25.2667, 43.65],
     description: {
       de: "Belene liegt an der Donau auf der Insel Belene. Die Stadt ist für ihre Nähe zum Naturschutzgebiet und zur Donau bekannt.",
       hu: "Belene a Duna mellett, a Belene-szigeten fekszik. A város a természetvédelmi területekhez és a Dunához való közelségéről ismert.",
@@ -1222,7 +1222,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Kowatschewzi", hu: "Kovacsevci", ro: "Kovacevți", en: "Kovachevtsi" },
-    coordinates: { lat: 42.5167, lng: 22.8167 },
+    coords: [22.8167, 42.5167],
     description: {
       de: "Kowatschewzi liegt in Westbulgarien. Es ist ein ländlich geprägter Ort mit historischer Bedeutung für die Region Pernik.",
       hu: "Kovacsevci Nyugat-Bulgáriában fekszik. Ez egy vidékies jellegű település, amely történelmi jelentőséggel bír a Pernik régió számára.",
@@ -1254,7 +1254,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Vrantsa", hu: "Vrancsa", ro: "Vranța", en: "Vrancha" },
-    coordinates: { lat: 42.2, lng: 24.1 },
+    coords: [24.1, 42.2],
     description: {
       de: "Vrantsa ist eine kleine Ortschaft in Südbulgarien. Die Umgebung ist stark landwirtschaftlich genutzt und bietet eine ruhige Atmosphäre.",
       hu: "Vrancsa egy kis település Dél-Bulgáriában. A környezetet erősen mezőgazdasági művelés jellemzi, és nyugodt légkört kínál.",
@@ -1286,7 +1286,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Jabulkowo", hu: "Jabulkovo", ro: "Iabulkovo", en: "Yabulkovo" },
-    coordinates: { lat: 42.0667, lng: 25.55 },
+    coords: [25.55, 42.0667],
     description: {
       de: "Jabulkowo ist ein Ort im Süden Bulgariens. Der Name deutet auf die landwirtschaftliche Tradition hin, insbesondere den Obstbau.",
       hu: "Jabulkovo egy település Dél-Bulgáriában. A név a mezőgazdasági hagyományokra, különösen a gyümölcstermesztésre utal.",
@@ -1318,7 +1318,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Bow", hu: "Bov", ro: "Bov", en: "Bov" },
-    coordinates: { lat: 42.9667, lng: 23.4167 },
+    coords: [23.4167, 42.9667],
     description: {
       de: "Bow liegt im Iskar-Tal im Balkangebirge. Es ist ein Ausgangspunkt für Wanderungen in der malerischen Umgebung.",
       hu: "Bov az Iszkar-völgyben, a Balkán-hegységben fekszik. Kiindulópont a festői környéken tett túrákhoz.",
@@ -1350,7 +1350,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Goljamo Selo", hu: "Goljamo Selo", ro: "Goleamo Selo", en: "Golyamo Selo" },
-    coordinates: { lat: 42.25, lng: 22.95 },
+    coords: [22.95, 42.25],
     description: {
       de: "Goljamo Selo ist eine Siedlung in Westbulgarien. Sie zeichnet sich durch traditionelle ländliche Lebensweise aus.",
       hu: "Goljamo Selo egy település Nyugat-Bulgáriában. Hagyományos vidéki életmód jellemzi.",
@@ -1382,7 +1382,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Dobroslawzi", hu: "Dobroszlavci", ro: "Dobroslavți", en: "Dobroslavtsi" },
-    coordinates: { lat: 42.8, lng: 23.25 },
+    coords: [23.25, 42.8],
     description: {
       de: "Dobroslawzi liegt in der Nähe von Sofia. Der Ort ist durch die Nähe zur Hauptstadt geprägt und landwirtschaftlich orientiert.",
       hu: "Dobroszlavci Szófia közelében található. A helyet a fővároshoz való közelség jellemzi és mezőgazdasági orientációjú.",
@@ -1414,7 +1414,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Kresna", hu: "Kreszna", ro: "Kresna", en: "Kresna" },
-    coordinates: { lat: 41.7333, lng: 23.15 },
+    coords: [23.15, 41.7333],
     description: {
       de: "Kresna liegt im Struma-Tal in Südbulgarien. Die Stadt ist ein Ausgangspunkt für Naturliebhaber und Rafting-Touren.",
       hu: "Kreszna a Sztruma-völgyben, Dél-Bulgáriában fekszik. A város a természetkedvelők és a rafting-túrák kiindulópontja.",
@@ -1446,7 +1446,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Waltschedram", hu: "Valcsedram", ro: "Vâlcedrăm", en: "Valchedram" },
-    coordinates: { lat: 43.65, lng: 23.6333 },
+    coords: [23.6333, 43.65],
     description: {
       de: "Waltschedram liegt in der Donautiefebene in Nordbulgarien. Die Region ist landwirtschaftlich geprägt und von weiten Feldern umgeben.",
       hu: "Valcsedram az észak-bulgáriai Duna-menti alföldön fekszik. A régió mezőgazdasági jellegű és széles mezők veszik körül.",
@@ -1478,7 +1478,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Jagodina", hu: "Jagodina", ro: "Iagodina", en: "Yagodina" },
-    coordinates: { lat: 41.6167, lng: 24.3333 },
+    coords: [24.3333, 41.6167],
     description: {
       de: "Jagodina liegt tief im Rhodopengebirge. Der Ort ist weltweit bekannt für seine spektakuläre Tropfsteinhöhle.",
       hu: "Jagodina mélyen a Rodope-hegységben fekszik. A település világszerte ismert a látványos cseppkőbarlangjáról.",
@@ -1510,7 +1510,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Bobrek", hu: "Bobrek", ro: "Bobrek", en: "Bobrek" },
-    coordinates: { lat: 42.4, lng: 23.3 },
+    coords: [23.3, 42.4],
     description: {
       de: "Bobrek ist ein kleines Dorf in der Nähe von Dupniza. Die Umgebung ist hügelig und bietet Möglichkeiten für die Landwirtschaft.",
       hu: "Bobrek egy kis falu Dupnica közelében. A környék dombos és mezőgazdasági lehetőségeket kínál.",
@@ -1542,7 +1542,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Tschernomorez", hu: "Csernomorec", ro: "Cernomoreț", en: "Chernomorets" },
-    coordinates: { lat: 42.45, lng: 27.6333 },
+    coords: [27.6333, 42.45],
     description: {
       de: "Tschernomorez ist ein beliebter Badeort an der Schwarzmeerküste, nahe der Stadt Sosopol. Die Stadt ist für ihre entspannte Atmosphäre bekannt.",
       hu: "Csernomorec egy népszerű fürdőhely a Fekete-tenger partján, Szozopol város közelében. A város a nyugodt légköréről ismert.",
@@ -1574,7 +1574,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Raslog)", hu: "Banya (Razlog)", ro: "Bania (Razlog)", en: "Banya (Razlog)" },
-    coordinates: { lat: 41.9167, lng: 23.5167 },
+    coords: [23.5167, 41.9167],
     description: {
       de: "Banja ist ein Ort bei Raslog, bekannt für seine Thermalquellen. Es dient als Erholungsort im Pirin-Gebirge.",
       hu: "Banya egy helység Razlog mellett, híres termálforrásairól. Üdülőhelyként szolgál a Pirin-hegységben.",
@@ -1606,7 +1606,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Klisura", hu: "Klisura", ro: "Klisura", en: "Klisura" },
-    coordinates: { lat: 42.6833, lng: 24.4333 },
+    coords: [24.4333, 42.6833],
     description: {
       de: "Klisura liegt im Balkangebirge. Die Stadt ist für ihre historische Rolle im Aprilaufstand von 1876 bekannt.",
       hu: "Klisura a Balkán-hegységben fekszik. A város az 1876-os áprilisi felkelésben betöltött történelmi szerepéről ismert.",
@@ -1638,7 +1638,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Panagjurischte", hu: "Panagyurishte", ro: "Panaghiuriște", en: "Panagyurishte" },
-    coordinates: { lat: 42.5, lng: 24.1833 },
+    coords: [24.1833, 42.5],
     description: {
       de: "Panagjurischte liegt im Sredna-Gora-Gebirge. Die Stadt ist berühmt für den thrakischen Goldschatz, der dort gefunden wurde.",
       hu: "Panagyurishte a Szredna-Gora-hegységben fekszik. A város az ott talált trák aranykincsről híres.",
@@ -1670,7 +1670,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Batanowzi", hu: "Batanovci", ro: "Batanovți", en: "Batanovtsi" },
-    coordinates: { lat: 42.6, lng: 22.9833 },
+    coords: [22.9833, 42.6],
     description: {
       de: "Batanowzi liegt im Westen Bulgariens bei Pernik. Die Stadt ist industriell geprägt und hat eine lange Arbeitergeschichte.",
       hu: "Batanovci Nyugat-Bulgáriában, Pernik mellett fekszik. A város ipari jellegű és hosszú munkástörténete van.",
@@ -1702,7 +1702,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Kjustendil", hu: "Kjusztendil", ro: "Kiustendil", en: "Kyustendil" },
-    coordinates: { lat: 42.2833, lng: 22.6833 },
+    coords: [22.6833, 42.2833],
     description: {
       de: "Kjustendil liegt in Westbulgarien an den Hängen des Osogowo-Gebirges. Die Stadt ist für ihre Thermalquellen und den Obstbau bekannt.",
       hu: "Kjusztendil Nyugat-Bulgáriában, az Oszogovo-hegység lejtőin fekszik. A város a termálforrásairól és a gyümölcstermesztéséről ismert.",
@@ -1734,7 +1734,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Belowo", hu: "Belovo", ro: "Belovo", en: "Belovo" },
-    coordinates: { lat: 42.2167, lng: 24.0167 },
+    coords: [24.0167, 42.2167],
     description: {
       de: "Belowo liegt im Mariza-Tal in Südbulgarien. Die Region ist von Gebirgen umgeben und spielt eine Rolle in der Papierindustrie.",
       hu: "Belovo a Marica-völgyben, Dél-Bulgáriában fekszik. A régiót hegyek veszik körül, és szerepet játszik a papíriparban.",
@@ -1766,7 +1766,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Breschnik", hu: "Breznik", ro: "Breznik", en: "Breznik" },
-    coordinates: { lat: 42.75, lng: 22.95 },
+    coords: [22.95, 42.75],
     description: {
       de: "Breschnik liegt in Westbulgarien. Die Stadt ist für ihre reiche Geschichte und ihre Umgebung mit Bergbauvergangenheit bekannt.",
       hu: "Breznik Nyugat-Bulgáriában fekszik. A város gazdag történelméről és bányászati múlttal rendelkező környezetéről ismert.",
@@ -1798,7 +1798,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Bratsigowo", hu: "Bracigovo", ro: "Brațigovo", en: "Bratsigovo" },
-    coordinates: { lat: 42.0167, lng: 24.3667 },
+    coords: [24.3667, 42.0167],
     description: {
       de: "Bratsigowo liegt am nördlichen Fuß des Rhodopengebirges. Die Stadt ist für ihre Architektur und ihre Rolle im Aprilaufstand bekannt.",
       hu: "Bracigovo a Rodope-hegység északi lábánál fekszik. A város az építészetéről és az áprilisi felkelésben betöltött szerepéről ismert.",
@@ -1830,7 +1830,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Buchowo", hu: "Buhovo", ro: "Buhovo", en: "Buhovo" },
-    coordinates: { lat: 42.7833, lng: 23.6333 },
+    coords: [23.6333, 42.7833],
     description: {
       de: "Buchowo liegt am Fuße des Balkangebirges, in der Nähe von Sofia. Der Ort ist durch den Bergbau in der Vergangenheit geprägt.",
       hu: "Buhovo a Balkán-hegység lábánál fekszik, Szófia közelében. A települést a múltbeli bányászat jellemzi.",
@@ -1862,7 +1862,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Warna)", hu: "Batenberg (Varna)", ro: "Batenberg (Varna)", en: "Batenberg (Varna)" },
-    coordinates: { lat: 43.2, lng: 27.9 },
+    coords: [27.9, 43.2],
     description: {
       de: "Batenberg ist ein kleiner Ort bei Warna. Er ist ländlich gelegen und typisch für die Region an der Schwarzmeerküste.",
       hu: "Batenberg egy kis település Várna mellett. Vidéki környezetben fekszik és jellemző a Fekete-tenger part menti régiójára.",
@@ -1894,7 +1894,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Kaspitschan", hu: "Kaspicsan", ro: "Kașpicean", en: "Kaspichan" },
-    coordinates: { lat: 43.3, lng: 27.1333 },
+    coords: [27.1333, 43.3],
     description: {
       de: "Kaspitschan liegt im Nordosten Bulgariens. Es ist ein wichtiger Eisenbahnknotenpunkt und hat eine bedeutende industrielle Basis.",
       hu: "Kaspicsan Bulgária északkeleti részén fekszik. Fontos vasúti csomópont és jelentős ipari bázissal rendelkezik.",
@@ -1926,7 +1926,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Slatograd", hu: "Zlatograd", ro: "Zlatograd", en: "Zlatograd" },
-    coordinates: { lat: 41.3833, lng: 25.0833 },
+    coords: [25.0833, 41.3833],
     description: {
       de: "Slatograd liegt im südlichen Rhodopengebirge nahe der griechischen Grenze. Die Stadt ist für ihre gut erhaltene Architektur bekannt.",
       hu: "Zlatograd a déli Rodope-hegységben fekszik, a görög határ közelében. A város a jól megőrzött építészetéről ismert.",
@@ -1958,7 +1958,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Suworowo", hu: "Suvorovo", ro: "Suvorovo", en: "Suvorovo" },
-    coordinates: { lat: 43.3333, lng: 27.6 },
+    coords: [27.6, 43.3333],
     description: {
       de: "Suworowo liegt in der Nähe von Warna. Die Region ist landwirtschaftlich geprägt und hat eine lange Tradition im Getreideanbau.",
       hu: "Suvorovo Várna közelében található. A régió mezőgazdasági jellegű és nagy hagyománya van a gabonatermesztésnek.",
@@ -1990,7 +1990,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Dewin", hu: "Devin", ro: "Devin", en: "Devin" },
-    coordinates: { lat: 41.75, lng: 24.3833 },
+    coords: [24.3833, 41.75],
     description: {
       de: "Dewin liegt im Rhodopengebirge. Die Stadt ist ein bekannter Kurort, berühmt für ihre Thermalquellen und Mineralwasser-Produktion.",
       hu: "Devin a Rodope-hegységben fekszik. A város ismert gyógyfürdőhely, híres termálforrásairól és ásványvíz-termeléséről.",
@@ -2022,7 +2022,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Nebeska)", hu: "Banya (Nebeska)", ro: "Bania (Nebeska)", en: "Banya (Nebeska)" },
-    coordinates: { lat: 42.4, lng: 23.9 },
+    coords: [23.9, 42.4],
     description: {
       de: "Banja ist ein kleiner Ort, der für seine ruhige Lage und landwirtschaftliche Umgebung bekannt ist.",
       hu: "Banya egy kis település, amely nyugodt elhelyezkedéséről és mezőgazdasági környezetéről ismert.",
@@ -2054,7 +2054,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Topolowgrad", hu: "Topolovgrad", ro: "Topolovgrad", en: "Topolovgrad" },
-    coordinates: { lat: 42.0833, lng: 26.3167 },
+    coords: [26.3167, 42.0833],
     description: {
       de: "Topolowgrad liegt im Südosten Bulgariens. Die Stadt ist für ihre Lage in einer hügeligen Region mit Weinbau bekannt.",
       hu: "Topolovgrad Bulgária délkeleti részén fekszik. A város a szőlőtermesztéssel rendelkező dombos régióban való elhelyezkedéséről ismert.",
@@ -2086,7 +2086,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Warna)", hu: "Banya (Varna)", ro: "Bania (Varna)", en: "Banya (Varna)" },
-    coordinates: { lat: 43.25, lng: 27.85 },
+    coords: [27.85, 43.25],
     description: {
       de: "Banja bei Warna ist eine ländliche Siedlung in der Region am Schwarzen Meer.",
       hu: "Banya Várna mellett egy vidéki település a Fekete-tenger menti régióban.",
@@ -2118,7 +2118,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Sarniza", hu: "Szarnica", ro: "Sărnița", en: "Sarnitsa" },
-    coordinates: { lat: 41.7333, lng: 24.0333 },
+    coords: [24.0333, 41.7333],
     description: {
       de: "Sarniza liegt im Rhodopengebirge nahe dem Dospat-Stausee. Der Ort ist bekannt für seine natürliche Umgebung und den Tourismus.",
       hu: "Szarnica a Rodope-hegységben fekszik, a Dospat-víztározó közelében. A település a természeti környezetéről és a turizmusról ismert.",
@@ -2150,7 +2150,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Stara Sagora)", hu: "Banya (Stara Zagora)", ro: "Bania (Stara Zagora)", en: "Banya (Stara Zagora)" },
-    coordinates: { lat: 42.45, lng: 25.65 },
+    coords: [25.65, 42.45],
     description: {
       de: "Banja bei Stara Sagora ist eine ländliche Siedlung in der thrakischen Ebene.",
       hu: "Banya Stara Zagora mellett egy vidéki település a trák alföldön.",
@@ -2182,7 +2182,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batanowzi (Rural)", hu: "Batanovci (Vidéki)", ro: "Batanovți (Rural)", en: "Batanovtsi (Rural)" },
-    coordinates: { lat: 42.61, lng: 23.0 },
+    coords: [23.0, 42.61],
     description: {
       de: "Der ländliche Teil von Batanowzi bietet einen Einblick in das traditionelle Leben in Westbulgarien.",
       hu: "Batanovci vidéki része bepillantást nyújt a hagyományos életbe Nyugat-Bulgáriában.",
@@ -2214,7 +2214,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Saparewa Banja", hu: "Sapareva Banya", ro: "Sapareva Bania", en: "Sapareva Banya" },
-    coordinates: { lat: 42.2833, lng: 23.25 },
+    coords: [23.25, 42.2833],
     description: {
       de: "Saparewa Banja liegt am Nordhang des Rila-Gebirges. Die Stadt ist für den heißesten Geysir in Europa bekannt.",
       hu: "Sapareva Banya a Rila-hegység északi lejtőjén fekszik. A város Európa legforróbb gejzírjéről ismert.",
@@ -2246,7 +2246,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Pasardschik)", hu: "Batenberg (Pazardzsik)", ro: "Batenberg (Pazardjik)", en: "Batenberg (Pazardzhik)" },
-    coordinates: { lat: 42.15, lng: 24.3 },
+    coords: [24.3, 42.15],
     description: {
       de: "Batenberg ist ein kleiner Ort nahe Pasardschik, eingebettet in die landwirtschaftlich genutzte thrakische Ebene.",
       hu: "Batenberg egy kis település Pazardzsik közelében, a mezőgazdaságilag hasznosított trák alföldön.",
@@ -2278,7 +2278,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Waltschi Dol", hu: "Valcsi Dol", ro: "Vâlci Dol", en: "Valchi Dol" },
-    coordinates: { lat: 43.4, lng: 27.5167 },
+    coords: [27.5167, 43.4],
     description: {
       de: "Waltschi Dol liegt im Nordosten Bulgariens. Die Region ist von einer hügeligen Landschaft geprägt und landwirtschaftlich orientiert.",
       hu: "Valcsi Dol Bulgária északkeleti részén fekszik. A régiót dombos táj jellemzi és mezőgazdaságilag orientált.",
@@ -2310,7 +2310,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Pasardschik)", hu: "Banya (Pazardzsik)", ro: "Bania (Pazardjik)", en: "Banya (Pazardzhik)" },
-    coordinates: { lat: 42.1, lng: 24.2 },
+    coords: [24.2, 42.1],
     description: {
       de: "Banja bei Pasardschik ist eine ländliche Ortschaft in der Umgebung der Stadt Pasardschik.",
       hu: "Banya Pazardzsik mellett egy vidéki helység Pazardzsik város környezetében.",
@@ -2342,7 +2342,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Burgas)", hu: "Batenberg (Burgasz)", ro: "Batenberg (Burgas)", en: "Batenberg (Burgas)" },
-    coordinates: { lat: 42.55, lng: 27.35 },
+    coords: [27.35, 42.55],
     description: {
       de: "Batenberg nahe Burgas liegt in einer flachen Küstenregion. Die Wirtschaft ist stark durch Landwirtschaft geprägt.",
       hu: "Batenberg Burgasz közelében egy sík tengerparti régióban fekszik. A gazdaságot erősen meghatározza a mezőgazdaság.",
@@ -2374,7 +2374,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Burgas)", hu: "Banya (Burgasz)", ro: "Bania (Burgas)", en: "Banya (Burgas)" },
-    coordinates: { lat: 42.6, lng: 27.2 },
+    coords: [27.2, 42.6],
     description: {
       de: "Banja in der Nähe von Burgas ist eine kleine ländliche Siedlung mit landwirtschaftlichem Schwerpunkt.",
       hu: "Banya Burgasz közelében egy kis vidéki település mezőgazdasági hangsúllyal.",
@@ -2406,7 +2406,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Lowetsch)", hu: "Batenberg (Lovecs)", ro: "Batenberg (Loveci)", en: "Batenberg (Lovech)" },
-    coordinates: { lat: 43.15, lng: 24.8 },
+    coords: [24.8, 43.15],
     description: {
       de: "Batenberg bei Lowetsch liegt in der hügeligen Landschaft des Vorbalkangebirges.",
       hu: "Batenberg Lovecs mellett a Balkán-hegység előterének dombos vidékén fekszik.",
@@ -2438,7 +2438,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Lowetsch)", hu: "Banya (Lovecs)", ro: "Bania (Loveci)", en: "Banya (Lovech)" },
-    coordinates: { lat: 43.1, lng: 24.6 },
+    coords: [24.6, 43.1],
     description: {
       de: "Banja nahe Lowetsch ist ein ländlicher Ort im Vorbalkangebirge.",
       hu: "Banya Lovecs mellett egy vidéki helység a Balkán-hegység előterében.",
@@ -2470,7 +2470,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Weliko Tarnowo)", hu: "Batenberg (Veliko Tarnovo)", ro: "Batenberg (Veliko Târnovo)", en: "Batenberg (Veliko Tarnovo)" },
-    coordinates: { lat: 43.1, lng: 25.6 },
+    coords: [25.6, 43.1],
     description: {
       de: "Batenberg bei Weliko Tarnowo liegt in einer historisch bedeutenden Region Nordbulgariens.",
       hu: "Batenberg Veliko Tarnovo mellett Észak-Bulgária történelmileg jelentős régiójában található.",
@@ -2502,7 +2502,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Weliko Tarnowo)", hu: "Banya (Veliko Tarnovo)", ro: "Bania (Veliko Târnovo)", en: "Banya (Veliko Tarnovo)" },
-    coordinates: { lat: 43.12, lng: 25.55 },
+    coords: [25.55, 43.12],
     description: {
       de: "Banja bei Weliko Tarnowo ist ein kleiner ländlicher Ort.",
       hu: "Banya Veliko Tarnovo mellett egy kis vidéki település.",
@@ -2534,7 +2534,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Plewen 2)", hu: "Batenberg (Pleven 2)", ro: "Batenberg (Plevna 2)", en: "Batenberg (Pleven 2)" },
-    coordinates: { lat: 43.35, lng: 24.5 },
+    coords: [24.5, 43.35],
     description: {
       de: "Ein weiterer kleiner Ort Batenberg bei Plewen.",
       hu: "Egy másik kis Batenberg település Pleven mellett.",
@@ -2566,7 +2566,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Plewen)", hu: "Banya (Pleven)", ro: "Bania (Plevna)", en: "Banya (Pleven)" },
-    coordinates: { lat: 43.45, lng: 24.55 },
+    coords: [24.55, 43.45],
     description: {
       de: "Banja bei Plewen ist eine ländliche Siedlung in Nordbulgarien.",
       hu: "Banya Pleven mellett egy vidéki település Észak-Bulgáriában.",
@@ -2598,7 +2598,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Warna 2)", hu: "Batenberg (Varna 2)", ro: "Batenberg (Varna 2)", en: "Batenberg (Varna 2)" },
-    coordinates: { lat: 43.15, lng: 27.85 },
+    coords: [27.85, 43.15],
     description: {
       de: "Ein weiterer kleiner Ort Batenberg in der Nähe von Warna.",
       hu: "Egy másik kis Batenberg település Várna közelében.",
@@ -2630,7 +2630,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Warna 2)", hu: "Banya (Varna 2)", ro: "Bania (Varna 2)", en: "Banya (Varna 2)" },
-    coordinates: { lat: 43.3, lng: 27.7 },
+    coords: [27.7, 43.3],
     description: {
       de: "Banja bei Warna ist eine ländliche Siedlung.",
       hu: "Banya Várna mellett egy vidéki település.",
@@ -2662,7 +2662,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Burgas 2)", hu: "Batenberg (Burgasz 2)", ro: "Batenberg (Burgas 2)", en: "Batenberg (Burgas 2)" },
-    coordinates: { lat: 42.4, lng: 27.5 },
+    coords: [27.5, 42.4],
     description: {
       de: "Ein weiterer kleiner Ort Batenberg bei Burgas.",
       hu: "Egy másik kis Batenberg település Burgasz mellett.",
@@ -2694,7 +2694,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Burgas 2)", hu: "Banya (Burgasz 2)", ro: "Bania (Burgas 2)", en: "Banya (Burgas 2)" },
-    coordinates: { lat: 42.65, lng: 27.15 },
+    coords: [27.15, 42.65],
     description: {
       de: "Banja bei Burgas ist eine kleine Siedlung.",
       hu: "Banya Burgasz közelében egy kis település.",
@@ -2726,7 +2726,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Pasardschik 2)", hu: "Batenberg (Pazardzsik 2)", ro: "Batenberg (Pazardjik 2)", en: "Batenberg (Pazardzhik 2)" },
-    coordinates: { lat: 42.2, lng: 24.35 },
+    coords: [24.35, 42.2],
     description: {
       de: "Ein weiterer kleiner Ort Batenberg bei Pasardschik.",
       hu: "Egy másik kis Batenberg település Pazardzsik mellett.",
@@ -2758,7 +2758,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Pasardschik 2)", hu: "Banya (Pazardzsik 2)", ro: "Bania (Pazardjik 2)", en: "Banya (Pazardzhik 2)" },
-    coordinates: { lat: 42.05, lng: 24.15 },
+    coords: [24.15, 42.05],
     description: {
       de: "Banja bei Pasardschik ist eine Siedlung.",
       hu: "Banya Pazardzsik mellett egy település.",
@@ -2790,7 +2790,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Lowetsch 2)", hu: "Batenberg (Lovecs 2)", ro: "Batenberg (Loveci 2)", en: "Batenberg (Lovech 2)" },
-    coordinates: { lat: 43.1, lng: 24.75 },
+    coords: [24.75, 43.1],
     description: {
       de: "Ein weiterer kleiner Ort Batenberg in der Nähe von Lowetsch.",
       hu: "Egy másik kis Batenberg település Lovecs közelében.",
@@ -2822,7 +2822,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Lowetsch 2)", hu: "Banya (Lovecs 2)", ro: "Bania (Loveci 2)", en: "Banya (Lovech 2)" },
-    coordinates: { lat: 43.18, lng: 24.65 },
+    coords: [24.65, 43.18],
     description: {
       de: "Banja bei Lowetsch ist eine kleine Siedlung.",
       hu: "Banya Lovecs mellett egy kis település.",
@@ -2854,7 +2854,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Weliko Tarnowo 2)", hu: "Batenberg (Veliko Tarnovo 2)", ro: "Batenberg (Veliko Târnovo 2)", en: "Batenberg (Veliko Tarnovo 2)" },
-    coordinates: { lat: 43.05, lng: 25.5 },
+    coords: [25.5, 43.05],
     description: {
       de: "Ein weiterer kleiner Ort Batenberg bei Weliko Tarnowo.",
       hu: "Egy másik kis Batenberg település Veliko Tarnovo mellett.",
@@ -2886,7 +2886,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Weliko Tarnowo 2)", hu: "Banya (Veliko Tarnovo 2)", ro: "Bania (Veliko Târnovo 2)", en: "Banya (Veliko Tarnovo 2)" },
-    coordinates: { lat: 43.15, lng: 25.75 },
+    coords: [25.75, 43.15],
     description: {
       de: "Banja bei Weliko Tarnowo ist eine kleine Siedlung.",
       hu: "Banya Veliko Tarnovo mellett egy kis település.",
@@ -2918,7 +2918,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Plewen 2)", hu: "Banya (Pleven 2)", ro: "Bania (Plevna 2)", en: "Banya (Pleven 2)" },
-    coordinates: { lat: 43.5, lng: 24.6 },
+    coords: [24.6, 43.5],
     description: {
       de: "Banja bei Plewen ist eine kleine Siedlung in der Region.",
       hu: "Banya Pleven mellett egy kis település a régióban.",
@@ -2950,7 +2950,7 @@ export const bulgariaCitiesV2: POI[] = [
     type: "town",
     parent: "BG",
     name: { de: "Banja (Warna 3)", hu: "Banya (Varna 3)", ro: "Bania (Varna 3)", en: "Banya (Varna 3)" },
-    coordinates: { lat: 43.1, lng: 27.95 },
+    coords: [27.95, 43.1],
     description: {
       de: "Banja bei Warna ist eine kleine Siedlung an der Schwarzmeerküste.",
       hu: "Banya Várna mellett egy kis település a Fekete-tenger partján.",

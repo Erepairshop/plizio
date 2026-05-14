@@ -203,7 +203,20 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Biológiai sokféleség védett területe.", "Jelentése „Elveszett világ”.", "Endemikus madarak otthona."],
       ro: ["Zonă protejată pentru biodiversitate.", "Se traduce prin „Lumea Pierdută”.", "Găzduiește păsări endemice."],
       en: ["Protected biodiversity area.", "Translates to \"Lost World\".", "Home to endemic birds."]
-    }, image: "/poi-images/mount-mundo-perdido-nature-v2.webp"},
+    }, image: "/poi-images/mount-mundo-perdido-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Mundo Perdido (portugiesisch für 'Verlorene Welt') ist ein Berg in Osttimor im Gemeindegebiet von Manatuto. Er erreicht eine Höhe von etwa 1.750 Metern und ist Teil einer isolierten Gebirgskette mit steilen Abhängen und dichtem tropischen Regenwald. Der Berg ist bekannt für seine biologische Vielfalt, einschließlich endemischer Vogelarten wie der Timortaube. Die Region ist schwer zugänglich und daher wenig erforscht. Der Bergname bezieht sich auf die abgelegene Lage. Wanderungen auf den Gipfel sind anspruchsvoll und bieten spektakuläre Ausblicke. Die umliegenden Wälder sind Lebensraum für Hirsche und Affen.",
+      hu: "A Mundo Perdido-hegy (portugálul 'Elveszett Világ') egy hegy Kelet-Timorban, Manatuto körzetben. Magassága körülbelül 1750 méter, és egy elszigetelt hegylánc része, meredek lejtőkkel és sűrű trópusi esőerdővel. A hegy biológiai sokféleségéről ismert, beleértve az endemikus madárfajokat, mint a timori galamb. A régió nehezen megközelíthető, ezért kevéssé kutatott. A hegy neve a távoli fekvésre utal. A csúcsra vezető túrák kihívást jelentenek, és lenyűgöző kilátást nyújtanak. A környező erdők szarvasok és majmok élőhelyei.",
+      ro: "Muntele Mundo Perdido („Lumea Pierdută” în portugheză) este un munte din Timorul de Est, în districtul Manatuto. Are o altitudine de aproximativ 1.750 de metri și face parte dintr-un lanț izolat, cu pante abrupte și păduri tropicale dense. Muntele este cunoscut pentru biodiversitatea sa, inclusiv specii endemice de păsări, cum ar fi porumbelul timorez. Regiunea este greu accesibilă, deci puțin explorată. Numele muntelui se referă la locația sa îndepărtată. Drumețiile spre vârf sunt dificile și oferă priveliști spectaculoase. Pădurile din jur găzduiesc căprioare și maimuțe.",
+      en: "Mount Mundo Perdido (Portuguese for 'Lost World') is a mountain in East Timor, located in Manatuto municipality. It reaches an elevation of approximately 1,750 meters and is part of an isolated mountain range with steep slopes and dense tropical rainforest. The mountain is noted for its biodiversity, including endemic bird species such as the Timor pigeon. The region is difficult to access and thus little explored. The mountain's name refers to its remote location. Hikes to the summit are challenging and offer spectacular views. Surrounding forests are habitat for deer and monkeys.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.750 m", "Lage: Manatuto, Osttimor", "Erstbesteigung: unbekannt", "Fläche des Waldgebiets: ca. 100 km²", "Anzahl endemischer Vogelarten: 5", "Jährlicher Niederschlag: über 2.000 mm"],
+      hu: ["Magasság: 1750 m", "Elhelyezkedés: Manatuto, Kelet-Timor", "Első megmászás: ismeretlen", "Erdőterület: kb. 100 km²", "Endemikus madárfajok száma: 5", "Éves csapadék: több mint 2000 mm"],
+      ro: ["Altitudine: 1.750 m", "Locație: Manatuto, Timorul de Est", "Prima ascensiune: necunoscută", "Suprafața pădurii: circa 100 km²", "Număr de specii endemice de păsări: 5", "Precipitații anuale: peste 2.000 mm"],
+      en: ["Elevation: 1,750 m", "Location: Manatuto, East Timor", "First ascent: unknown", "Forest area: approx. 100 km²", "Number of endemic bird species: 5", "Annual rainfall: over 2,000 mm"],
+    },
+  },
   {
     id: "seical-river-nature-v2",
     type: "river",
@@ -217,7 +230,20 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["A Baucau körzeten folyik keresztül.", "Termékeny rizsföldeket hoz létre.", "A Wetar-szorosba torkollik."],
       ro: ["Curge prin districtul Baucau.", "Creează orezării fertile.", "Se varsă în Strâmtoarea Wetar."],
       en: ["Flows through the Baucau district.", "Creates fertile rice paddies.", "Flows into the Wetar Strait."]
-    }, image: "/poi-images/seical-river-nature-v2.webp"},
+    }, image: "/poi-images/seical-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Seiçal River ist ein Fluss im Osten Osttimors, der durch das Verwaltungsamt Iliomar und weiter in die Timorsee fließt. Seine Länge beträgt etwa 80 Kilometer. Der Fluss entspringt im Bergland des Mount Paitchau und durchfließt dichte Wälder sowie landwirtschaftlich genutzte Gebiete. Der Seiçal ist wichtig für die Bewässerung von Reisfeldern und die Trinkwasserversorgung. In der Regenzeit führt er viel Wasser und verursacht gelegentlich Überschwemmungen. Die Flussmündung ist ein Ökosystem aus Mangroven. Im Unterlauf gibt es Sand- und Kiesabbau. Die Region ist bekannt für Vogelbeobachtung.",
+      hu: "A Seiçal-folyó egy folyó Kelet-Timor keleti részén, amely az Iliomar alkerületen keresztül folyik a Timor-tengerbe. Hossza körülbelül 80 kilométer. A folyó a Mount Paitchau hegyvidékén ered, és sűrű erdőkön, valamint mezőgazdasági területeken halad át. A Seiçal fontos a rizsföldek öntözéséhez és az ivóvízellátáshoz. Az esős évszakban sok vizet szállít, és időszakos áradásokat okoz. A folyó torkolatánál mangrove-ökoszisztéma található. Az alsó szakaszon homok- és kavicskitermelés folyik. A régió madármegfigyelésről híres.",
+      ro: "Râul Seiçal este un râu din estul Timorului de Est, care curge prin subdistrictul Iliomar și se varsă în Marea Timor. Are o lungime de aproximativ 80 de kilometri. Izvorăște din munții Mount Paitchau și străbate păduri dese și zone agricole. Seiçal este important pentru irigarea orezăriilor și alimentarea cu apă potabilă. În sezonul ploios, transportă multă apă și provoacă inundații ocazionale. La vărsare există un ecosistem de mangrove. În cursul inferior se extrage nisip și pietriș. Regiunea este cunoscută pentru observarea păsărilor.",
+      en: "The Seiçal River is a river in eastern East Timor flowing through Iliomar Administrative Post into the Timor Sea. Its length is about 80 kilometers. The river originates in the highlands of Mount Paitchau and passes through dense forests and agricultural areas. Seiçal is important for irrigating rice fields and providing drinking water. During the rainy season it carries heavy flows causing occasional floods. The estuary features a mangrove ecosystem. Sand and gravel extraction occurs in the lower reaches. The region is known for birdwatching.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 80 km", "Einzugsgebiet: ca. 500 km²", "Ursprung: Mount Paitchau (1.500 m Höhe)", "Mündung: Timorsee", "Durchfluss (trocken): 5 m³/s", "Durchfluss (Regenzeit): 200 m³/s"],
+      hu: ["Hossz: 80 km", "Vízgyűjtő terület: kb. 500 km²", "Eredet: Mount Paitchau (1500 m magasság)", "Torkolat: Timor-tenger", "Vízhozam (száraz): 5 m³/s", "Vízhozam (esős évszak): 200 m³/s"],
+      ro: ["Lungime: 80 km", "Bazin hidrografic: circa 500 km²", "Origine: Mount Paitchau (altitudine 1.500 m)", "Vărsare: Marea Timor", "Debit (secetă): 5 m³/s", "Debit (sezon ploios): 200 m³/s"],
+      en: ["Length: 80 km", "Catchment area: approx. 500 km²", "Source: Mount Paitchau (1,500 m elevation)", "Mouth: Timor Sea", "Discharge (dry): 5 m³/s", "Discharge (wet): 200 m³/s"],
+    },
+  },
   {
     id: "tono-river-nature-v2",
     type: "river",
@@ -231,7 +257,20 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Oecusse fő folyója.", "Fontos a helyi öntözésben.", "A Savu-tengerbe torkollik."],
       ro: ["Râul principal din Oecusse.", "Important pentru irigațiile locale.", "Se varsă în Marea Savu."],
       en: ["Main river in Oecusse.", "Important for local irrigation.", "Flows into the Savu Sea."]
-    }, image: "/poi-images/tono-river-nature-v2.webp"},
+    }, image: "/poi-images/tono-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tono River ist ein Fluss im Norden Osttimors, der durch das Verwaltungsamt Laleia fließt. Er ist etwa 60 Kilometer lang und entspringt den Hügeln der Gemeinde Manatuto. Der Fluss mündet in die Straße von Wetar. Das Wasser des Tono wird hauptsächlich für die Bewässerung von Mais- und Reisfeldern genutzt. Die Ufer sind von dichtem Grasland und vereinzelten Bäumen gesäumt. Während der Trockenzeit kann der Fluss versiegen. In der Region leben Kleinbauern, die von der Landwirtschaft abhängen. Der Tono ist ein wichtiger Lebensraum für Fische, darunter tilapia.",
+      hu: "A Tono-folyó egy folyó Kelet-Timor északi részén, amely a Laleia alkerületen folyik keresztül. Hossza körülbelül 60 kilométer, és a Manatuto körzet dombjaiból ered. A folyó a Wetar-szorosba ömlik. A Tono vizét főleg kukorica- és rizsföldek öntözésére használják. A partokat sűrű füves területek és elszórt fák szegélyezik. A száraz évszakban a folyó elapadhat. A régióban kisgazdálkodók élnek, akik a mezőgazdaságtól függenek. A Tono fontos élőhely a halak számára, beleértve a tilápiát is.",
+      ro: "Râul Tono este un râu în nordul Timorului de Est, care curge prin subdistrictul Laleia. Are o lungime de aproximativ 60 de kilometri și izvorăște din dealurile districtului Manatuto. Se varsă în Strâmtoarea Wetar. Apa râului Tono este folosită în principal pentru irigarea culturilor de porumb și orez. Malurile sunt mărginite de iarbă deasă și copaci rari. În sezonul uscat, râul poate seca. Regiunea este locuită de fermieri mici care depind de agricultură. Tono este un habitat important pentru pești, inclusiv tilapia.",
+      en: "The Tono River is a river in northern East Timor flowing through Laleia Administrative Post. It is about 60 kilometers long and originates in the hills of Manatuto municipality. The river empties into the Wetar Strait. Water from the Tono is mainly used for irrigating maize and rice fields. The banks are lined with dense grassland and scattered trees. During the dry season the river may dry up. Smallholder farmers in the region depend on agriculture. The Tono is an important habitat for fish, including tilapia.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 60 km", "Einzugsgebiet: ca. 300 km²", "Ursprung: Hügel von Manatuto (500 m Höhe)", "Mündung: Straße von Wetar", "Durchfluss (trocken): 1 m³/s", "Durchfluss (Regenzeit): 80 m³/s"],
+      hu: ["Hossz: 60 km", "Vízgyűjtő terület: kb. 300 km²", "Eredet: Manatuto dombjai (500 m magasság)", "Torkolat: Wetar-szoros", "Vízhozam (száraz): 1 m³/s", "Vízhozam (esős évszak): 80 m³/s"],
+      ro: ["Lungime: 60 km", "Bazin hidrografic: circa 300 km²", "Origine: dealurile Manatuto (altitudine 500 m)", "Vărsare: Strâmtoarea Wetar", "Debit (secetă): 1 m³/s", "Debit (sezon ploios): 80 m³/s"],
+      en: ["Length: 60 km", "Catchment area: approx. 300 km²", "Source: Manatuto hills (500 m elevation)", "Mouth: Wetar Strait", "Discharge (dry): 1 m³/s", "Discharge (wet): 80 m³/s"],
+    },
+  },
   {
     id: "mount-taroman-nature-v2",
     type: "mountain",
@@ -245,7 +284,20 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
       hu: ["Több mint 1700 méter magas.", "Covalimában található.", "Sűrű trópusi erdők."],
       ro: ["Peste 1700 de metri înălțime.", "Situat în Covalima.", "Păduri tropicale dense."],
       en: ["Over 1,700 metres high.", "Located in Covalima.", "Dense tropical forests."]
-    }, image: "/poi-images/mount-taroman-nature-v2.webp"},
+    }, image: "/poi-images/mount-taroman-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Taroman ist ein Berg im Nordwesten Osttimors in der Gemeinde Bobonaro. Mit einer Höhe von etwa 1.750 Metern ist er einer der höchsten Berge des Landes. Der Berg ist vulkanischen Ursprungs und hat steile Hänge, die von tropischen Regenwäldern bedeckt sind. Er ist Teil einer Bergkette, die die Grenze zu Indonesien bildet. Der Gipfel bietet Aussicht auf die Küste und die umliegenden Täler. Der Berg ist ein wichtiges Wassereinzugsgebiet. Wanderungen sind aufgrund der dichten Vegetation anspruchsvoll. Die Fauna umfasst verschiedene Vogelarten und Affen.",
+      hu: "A Taroman-hegy egy hegy Kelet-Timor északnyugati részén, Bobonaro körzetben. Körülbelül 1750 méter magas, így az ország egyik legmagasabb hegye. A hegy vulkáni eredetű, meredek lejtőkkel, amelyeket trópusi esőerdő borít. Egy hegylánc része, amely Indonézia határát képezi. A csúcsról kilátás nyílik a tengerpartra és a környező völgyekre. A hegy fontos vízgyűjtő terület. A túrázás nehéz a sűrű növényzet miatt. Az állatvilág különböző madárfajokat és majmokat foglal magában.",
+      ro: "Muntele Taroman este un munte în nord-vestul Timorului de Est, în districtul Bobonaro. Cu o altitudine de aproximativ 1.750 de metri, este unul dintre cei mai înalți munți ai țării. Muntele este de origine vulcanică, cu pante abrupte acoperite de păduri tropicale umede. Face parte dintr-un lanț muntos care formează granița cu Indonezia. Vârful oferă vedere la coastă și văile din jur. Muntele este un important bazin hidrografic. Drumețiile sunt dificile din cauza vegetației dense. Fauna include diverse specii de păsări și maimuțe.",
+      en: "Mount Taroman is a mountain in northwestern East Timor in Bobonaro municipality. At approximately 1,750 meters, it is one of the highest mountains in the country. The mountain is of volcanic origin with steep slopes covered in tropical rainforest. It is part of a mountain range forming the border with Indonesia. The summit offers views of the coast and surrounding valleys. The mountain is an important watershed. Hiking is challenging due to dense vegetation. Fauna includes various bird species and monkeys.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.750 m", "Lage: Bobonaro, Osttimor", "Vulkanischen Ursprungs", "Grenzgipfel zu Indonesien", "Erstbesteigung: vermutlich portugiesische Kolonialzeit", "Bedeutung: Wassereinzugsgebiet für 5 Flüsse"],
+      hu: ["Magasság: 1750 m", "Elhelyezkedés: Bobonaro, Kelet-Timor", "Vulkáni eredetű", "Határhegy Indonéziával", "Első megmászás: feltehetően portugál gyarmati időszak", "Jelentőség: 5 folyó vízgyűjtő területe"],
+      ro: ["Altitudine: 1.750 m", "Locație: Bobonaro, Timorul de Est", "Origine vulcanică", "Munte de frontieră cu Indonezia", "Prima ascensiune: probabil perioada colonială portugheză", "Importanță: bazin hidrografic pentru 5 râuri"],
+      en: ["Elevation: 1,750 m", "Location: Bobonaro, East Timor", "Volcanic origin", "Border peak with Indonesia", "First ascent: likely Portuguese colonial era", "Significance: watershed for 5 rivers"],
+    },
+  },
   {
     id: "caraulun-river-nature-v2",
     type: "river",

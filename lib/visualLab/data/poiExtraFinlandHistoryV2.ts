@@ -6,7 +6,7 @@ export const finlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "FI",
     name: { de: "Burgruine Kuusisto", hu: "Kuusisto várromjai", ro: "Ruinele Castelului Kuusisto", en: "Kuusisto Castle Ruins" },
-    coordinates: { lat: 60.4072, lng: 22.4286 },
+    coords: [22.4286, 60.4072],
     description: {
       de: "Die Burg Kuusisto war im Mittelalter die Residenz der Bischöfe von Turku. Die Ruinen liegen auf der Insel Kuusisto in Kaarina.",
       hu: "Kuusisto vára a középkorban a turkui püspökök rezidenciája volt. A romok Kaarinában, Kuusisto szigetén találhatók.",
@@ -38,7 +38,7 @@ export const finlandHistoryV2: POI[] = [
     type: "landmark",
     parent: "FI",
     name: { de: "Alter Acker von Liperi", hu: "Liperi ősi mezőgazdasági terület", ro: "Câmpul antic din Liperi", en: "Ancient Liperi Field" },
-    coordinates: { lat: 62.5367, lng: 29.3872 },
+    coords: [29.3872, 62.5367],
     description: {
       de: "Liperi beheimatet archäologische Stätten, die jahrtausendelange menschliche Besiedlung belegen. Die Region ist für ihre alten Ackerflächen bekannt.",
       hu: "Liperi területén olyan régészeti lelőhelyek találhatók, amelyek évezredes emberi letelepedést igazolnak. A régió ősi mezőgazdasági területeiről ismert.",
@@ -70,7 +70,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "St.-Laurentius-Kirche Vantaa", hu: "Vantaai Szent Lőrinc-templom", ro: "Biserica Sfântul Laurențiu din Vantaa", en: "St. Lawrence Church Vantaa" },
-    coordinates: { lat: 60.2878, lng: 24.9667 },
+    coords: [24.9667, 60.2878],
     description: {
       de: "Die mittelalterliche St.-Laurentius-Kirche in Vantaa ist eines der ältesten Gebäude der Region. Sie wurde im späten 15. Jahrhundert errichtet.",
       hu: "A vantaai középkori Szent Lőrinc-templom a régió egyik legrégebbi épülete. A 15. század végén épült.",
@@ -102,7 +102,7 @@ export const finlandHistoryV2: POI[] = [
     type: "battlefield",
     parent: "FI",
     name: { de: "Raate-Straße-Denkmal", hu: "Raate út emlékmű", ro: "Monumentul Drumul Raate", en: "Raate Road Memorial" },
-    coordinates: { lat: 64.8722, lng: 29.8453 },
+    coords: [29.8453, 64.8722],
     description: {
       de: "Die Raate-Straße ist ein historischer Ort des Winterkrieges zwischen Finnland und der Sowjetunion. Hier fand 1940 die Schlacht an der Raate-Straße statt.",
       hu: "A Raate út a finn-szovjet téli háború történelmi helyszíne. 1940-ben itt zajlott a Raate-úti csata.",
@@ -134,7 +134,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Lapinlahti", hu: "Lapinlahti templom", ro: "Biserica din Lapinlahti", en: "Lapinlahti Church" },
-    coordinates: { lat: 63.3667, lng: 27.3917 },
+    coords: [27.3917, 63.3667],
     description: {
       de: "Die Kirche von Lapinlahti ist eine markante Holzkirche aus dem 19. Jahrhundert. Sie repräsentiert die traditionelle finnische Sakralarchitektur.",
       hu: "A lapinlahti templom egy 19. századi jellegzetes fatemplom. A hagyományos finn szakrális építészetet képviseli.",
@@ -166,7 +166,7 @@ export const finlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "FI",
     name: { de: "Befestigung Muurahaisvuori", hu: "Muurahaisvuori erődítmény", ro: "Fortificația Muurahaisvuori", en: "Muurahaisvuori Fortification" },
-    coordinates: { lat: 62.9012, lng: 27.6745 },
+    coords: [27.6745, 62.9012],
     description: {
       de: "Muurahaisvuori ist ein historisches Verteidigungsgebiet bei Kuopio. Die Überreste stammen aus der Zeit der russischen Herrschaft über Finnland.",
       hu: "Muurahaisvuori történelmi védelmi terület Kuopio közelében. A maradványok Finnország orosz uralma idejéből származnak.",
@@ -198,7 +198,7 @@ export const finlandHistoryV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Altstadt von Tammisaari", hu: "Tammisaari óvárosa", ro: "Centrul vechi din Tammisaari", en: "Tammisaari Old Town" },
-    coordinates: { lat: 59.9744, lng: 23.4372 },
+    coords: [23.4372, 59.9744],
     description: {
       de: "Die Altstadt von Tammisaari bewahrt ihr hölzernes Stadtbild aus dem 18. und 19. Jahrhundert. Sie ist ein bedeutendes historisches Ensemble.",
       hu: "Tammisaari óvárosa megőrizte 18-19. századi faépítészetét. Jelentős történelmi épületegyüttes.",
@@ -230,7 +230,7 @@ export const finlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "FI",
     name: { de: "Burgberg Vanhalinna", hu: "Vanhalinna várhegy", ro: "Dealul cetății Vanhalinna", en: "Vanhalinna Hill Fort" },
-    coordinates: { lat: 60.4851, lng: 22.3922 },
+    coords: [22.3922, 60.4851],
     description: {
       de: "Vanhalinna in Lieto ist eine prähistorische Burgstätte. Sie war über Jahrhunderte ein wichtiges Verteidigungszentrum in Südwestfinnland.",
       hu: "A lietoi Vanhalinna egy őskori várhely. Évszázadokon át fontos védelmi központ volt Délnyugat-Finnországban.",
@@ -262,7 +262,7 @@ export const finlandHistoryV2: POI[] = [
     type: "museum",
     parent: "FI",
     name: { de: "Museum der Hanko-Front", hu: "Hanko-front Múzeum", ro: "Muzeul Frontului de la Hanko", en: "Hanko Front Museum" },
-    coordinates: { lat: 59.9515, lng: 23.3421 },
+    coords: [23.3421, 59.9515],
     description: {
       de: "Das Museum dokumentiert die Kämpfe um die Halbinsel Hanko während des Zweiten Weltkriegs. Es ist Teil der lokalen Kriegsgeschichte.",
       hu: "A múzeum a második világháborús hanko-félszigeti harcokat dokumentálja. A helyi háborús történelem része.",
@@ -294,7 +294,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Joutsa", hu: "Joutsa templom", ro: "Biserica din Joutsa", en: "Joutsa Church" },
-    coordinates: { lat: 61.7483, lng: 26.1158 },
+    coords: [26.1158, 61.7483],
     description: {
       de: "Die Kirche von Joutsa wurde 1813 erbaut und ist eine klassizistische Holzkirche. Sie prägt das historische Zentrum des Ortes.",
       hu: "A joutsai templom 1813-ban épült klasszicista stílusú fatemplom. Meghatározza a település történelmi központját.",
@@ -326,7 +326,7 @@ export const finlandHistoryV2: POI[] = [
     type: "landmark",
     parent: "FI",
     name: { de: "Altes Rathaus Lappeenranta", hu: "Lappeenranta régi városháza", ro: "Vechea primărie din Lappeenranta", en: "Lappeenranta Old Town Hall" },
-    coordinates: { lat: 61.0583, lng: 28.1889 },
+    coords: [28.1889, 61.0583],
     description: {
       de: "Das Alte Rathaus von Lappeenranta ist ein historisches Gebäude aus dem 19. Jahrhundert. Es markiert die städtische Entwicklung der Region.",
       hu: "Lappeenranta régi városházája egy 19. századi történelmi épület. A régió városi fejlődését jelzi.",
@@ -358,7 +358,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Alte Kirche von Sotkamo", hu: "Sotkamo régi temploma", ro: "Vechea biserică din Sotkamo", en: "Sotkamo Old Church" },
-    coordinates: { lat: 64.1283, lng: 28.3153 },
+    coords: [28.3153, 64.1283],
     description: {
       de: "Die alte Kirche von Sotkamo ist ein historisches Sakralbauwerk. Sie spiegelt die religiöse Tradition der Region Kainuu wider.",
       hu: "Sotkamo régi temploma történelmi szakrális épület. A Kainuu régió vallási hagyományait tükrözi.",
@@ -390,7 +390,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Pedersöre-Kirche", hu: "Pedersöre templom", ro: "Biserica Pedersöre", en: "Pedersöre Church" },
-    coordinates: { lat: 63.6739, lng: 22.7056 },
+    coords: [22.7056, 63.6739],
     description: {
       de: "Die Pedersöre-Kirche ist eine steinerne mittelalterliche Kirche. Sie ist eines der ältesten erhaltenen Bauwerke der Region Ostbottnien.",
       hu: "A Pedersöre templom egy középkori kőtemplom. Az egyik legrégebbi fennmaradt építmény Ostrobothnia régióban.",
@@ -422,7 +422,7 @@ export const finlandHistoryV2: POI[] = [
     type: "landmark",
     parent: "FI",
     name: { de: "Alter Bahnhof Porvoo", hu: "Porvoo régi vasútállomása", ro: "Vechea gară din Porvoo", en: "Porvoo Old Railway Station" },
-    coordinates: { lat: 60.3925, lng: 25.6667 },
+    coords: [25.6667, 60.3925],
     description: {
       de: "Der alte Bahnhof in Porvoo ist ein historisches Denkmal der finnischen Eisenbahngeschichte. Er wurde im 19. Jahrhundert errichtet.",
       hu: "Porvoo régi vasútállomása a finn vasúttörténet történelmi emléke. A 19. században épült.",
@@ -454,7 +454,7 @@ export const finlandHistoryV2: POI[] = [
     type: "landmark",
     parent: "FI",
     name: { de: "Historisches Viertel Fagerkulla", hu: "Fagerkulla történelmi negyed", ro: "Cartierul istoric Fagerkulla", en: "Fagerkulla Historic Quarter" },
-    coordinates: { lat: 60.5333, lng: 24.2167 },
+    coords: [24.2167, 60.5333],
     description: {
       de: "Fagerkulla in Karkkila ist ein historisches Arbeiterviertel. Es bewahrt die Atmosphäre einer industriellen Vergangenheit aus dem 19. Jahrhundert.",
       hu: "A karkkilai Fagerkulla egy történelmi munkásnegyed. Megőrzi a 19. századi ipari múlt hangulatát.",
@@ -486,7 +486,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Alte Kirche von Iitti", hu: "Iitti régi temploma", ro: "Vechea biserică din Iitti", en: "Iitti Old Church" },
-    coordinates: { lat: 60.8925, lng: 26.3311 },
+    coords: [26.3311, 60.8925],
     description: {
       de: "Die alte Holzkirche von Iitti wurde 1693 erbaut. Sie gehört zu den bedeutendsten sakralen Holzbauten der Region Päijät-Häme.",
       hu: "Az iitti-i régi fatemplom 1693-ban épült. Päijät-Häme régió egyik legjelentősebb szakrális faépítménye.",
@@ -518,7 +518,7 @@ export const finlandHistoryV2: POI[] = [
     type: "museum",
     parent: "FI",
     name: { de: "Hauptquartier-Museum Mikkeli", hu: "Mikkeli Főhadiszállás Múzeum", ro: "Muzeul Cartierului General din Mikkeli", en: "Headquarters Museum Mikkeli" },
-    coordinates: { lat: 61.6883, lng: 27.2725 },
+    coords: [27.2725, 61.6883],
     description: {
       de: "Das Museum befindet sich im ehemaligen Hauptquartier der finnischen Armee. Es erinnert an die Rolle Mikkelis während der Kriege 1939-1945.",
       hu: "A múzeum a finn hadsereg egykori főhadiszállásán található. Emléket állít Mikkeli szerepének az 1939-1945-ös háborúk idején.",
@@ -550,7 +550,7 @@ export const finlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "FI",
     name: { de: "Bastionen von Loviisa", hu: "Loviisa bástyái", ro: "Bastioanele din Loviisa", en: "Loviisa Bastions" },
-    coordinates: { lat: 60.4561, lng: 26.2281 },
+    coords: [26.2281, 60.4561],
     description: {
       de: "Die Bastionen von Loviisa sind Teil einer historischen Festungsanlage aus dem 18. Jahrhundert. Sie dienten zum Schutz der Stadt.",
       hu: "Loviisa bástyái egy 18. századi történelmi erődrendszer részei. A város védelmét szolgálták.",
@@ -582,7 +582,7 @@ export const finlandHistoryV2: POI[] = [
     type: "ruins",
     parent: "FI",
     name: { de: "Burgruine Raasepori", hu: "Raasepori várromjai", ro: "Ruinele castelului Raasepori", en: "Raasepori Castle Ruins" },
-    coordinates: { lat: 59.9953, lng: 23.6331 },
+    coords: [23.6331, 59.9953],
     description: {
       de: "Raasepori ist eine bedeutende mittelalterliche Burgruine im Süden Finnlands. Die Anlage wurde im 14. Jahrhundert erbaut.",
       hu: "Raasepori jelentős középkori várrom Finnország déli részén. Az épületet a 14. században emelték.",
@@ -614,7 +614,7 @@ export const finlandHistoryV2: POI[] = [
     type: "factory",
     parent: "FI",
     name: { de: "Spinnerei von Forssa", hu: "Forssai fonógyár", ro: "Filatura din Forssa", en: "Forssa Spinning Mill" },
-    coordinates: { lat: 60.8144, lng: 23.6267 },
+    coords: [23.6267, 60.8144],
     description: {
       de: "Die Spinnerei in Forssa ist ein zentraler Teil der industriellen Geschichte Finnlands. Die historischen Fabrikgebäude stammen aus dem 19. Jahrhundert.",
       hu: "A forssai fonógyár a finn ipartörténet központi része. A történelmi gyárépületek a 19. századból származnak.",
@@ -646,7 +646,7 @@ export const finlandHistoryV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Neristan-Viertel Kokkola", hu: "Neristan városrész Kokkola", ro: "Cartierul Neristan din Kokkola", en: "Neristan District Kokkola" },
-    coordinates: { lat: 63.8394, lng: 23.1319 },
+    coords: [23.1319, 63.8394],
     description: {
       de: "Neristan ist der historische Holzkern von Kokkola. Das Viertel blieb durch den großen Stadtbrand im 19. Jahrhundert verschont.",
       hu: "Neristan Kokkola történelmi faépítésű városmagja. A 19. századi nagy városi tűzvész idején ez a negyed megmenekült.",
@@ -678,7 +678,7 @@ export const finlandHistoryV2: POI[] = [
     type: "factory",
     parent: "FI",
     name: { de: "Finlayson-Industriegebiet", hu: "Finlayson ipari terület", ro: "Zona industrială Finlayson", en: "Finlayson Industrial Area" },
-    coordinates: { lat: 61.5019, lng: 23.7578 },
+    coords: [23.7578, 61.5019],
     description: {
       de: "Das Finlayson-Gebiet in Tampere ist ein bedeutendes Zeugnis der frühen Industrialisierung. Die roten Backsteingebäude prägen das Stadtbild.",
       hu: "A tamperei Finlayson terület a korai iparosodás jelentős tanúja. A vörös téglaépületek meghatározzák a városképet.",
@@ -710,7 +710,7 @@ export const finlandHistoryV2: POI[] = [
     type: "landmark",
     parent: "FI",
     name: { de: "Umgebung der Burg Häme", hu: "Häme vára környéke", ro: "Împrejurimile Castelului Häme", en: "Häme Castle Surroundings" },
-    coordinates: { lat: 60.9997, lng: 24.4758 },
+    coords: [24.4758, 60.9997],
     description: {
       de: "Die Umgebung der Burg Häme in Hämeenlinna bietet historische Einblicke in die schwedische Herrschaftszeit. Das Areal ist archäologisch wichtig.",
       hu: "A hämeenlinnai Häme vár környéke történelmi bepillantást nyújt a svéd uralom idejébe. A terület régészetileg fontos.",
@@ -742,7 +742,7 @@ export const finlandHistoryV2: POI[] = [
     type: "park",
     parent: "FI",
     name: { de: "Kirchenpark Iisalmi", hu: "Iisalmi templompark", ro: "Parcul bisericii din Iisalmi", en: "Iisalmi Church Park" },
-    coordinates: { lat: 63.5606, lng: 27.1892 },
+    coords: [27.1892, 63.5606],
     description: {
       de: "Der Kirchenpark von Iisalmi ist ein historischer Bereich um die Kirche. Er beherbergt Denkmäler der lokalen Geschichte.",
       hu: "Az iisalmi templompark a templom körüli történelmi terület. A helyi történelem emlékműveinek ad otthont.",
@@ -774,7 +774,7 @@ export const finlandHistoryV2: POI[] = [
     type: "landmark",
     parent: "FI",
     name: { de: "Sternförmiger Stadtplan Hamina", hu: "Hamina csillag alakú várostérképe", ro: "Planul urban stelar din Hamina", en: "Hamina Star-Shaped Town Plan" },
-    coordinates: { lat: 60.5694, lng: 27.1969 },
+    coords: [27.1969, 60.5694],
     description: {
       de: "Hamina ist für seinen einzigartigen sternförmigen Stadtgrundriss bekannt. Die Anlage stammt aus dem 18. Jahrhundert.",
       hu: "Hamina egyedülálló csillag alakú városszerkezetéről ismert. A terv a 18. századból származik.",
@@ -806,7 +806,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Uukuniemi", hu: "Uukuniemi templom", ro: "Biserica din Uukuniemi", en: "Uukuniemi Church" },
-    coordinates: { lat: 61.7853, lng: 30.0053 },
+    coords: [30.0053, 61.7853],
     description: {
       de: "Die Kirche von Uukuniemi ist ein historisches Zeugnis ländlicher Kirchenarchitektur. Sie liegt nahe der östlichen Grenze Finnlands.",
       hu: "Az uukuniemi templom a vidéki templomépítészet történelmi tanúja. Finnország keleti határának közelében található.",
@@ -838,7 +838,7 @@ export const finlandHistoryV2: POI[] = [
     type: "museum",
     parent: "FI",
     name: { de: "Kuopio Kulturhistorisches Museum", hu: "Kuopio Kultúrtörténeti Múzeum", ro: "Muzeul de istorie culturală din Kuopio", en: "Kuopio Cultural History Museum" },
-    coordinates: { lat: 62.8911, lng: 27.6789 },
+    coords: [27.6789, 62.8911],
     description: {
       de: "Das Museum in Kuopio präsentiert die kulturelle Entwicklung der Region Savo. Es befindet sich in einem historischen Gebäude.",
       hu: "A kuopiói múzeum a Savo régió kulturális fejlődését mutatja be. Egy történelmi épületben található.",
@@ -870,7 +870,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Kajaani", hu: "Kajaani templom", ro: "Biserica din Kajaani", en: "Kajaani Church" },
-    coordinates: { lat: 64.2256, lng: 27.7289 },
+    coords: [27.7289, 64.2256],
     description: {
       de: "Die Kirche von Kajaani ist ein bedeutendes Bauwerk aus dem 19. Jahrhundert. Sie prägt das Stadtbild von Kajaani.",
       hu: "A kajaanii templom a 19. század jelentős építménye. Meghatározza Kajaani városképét.",
@@ -902,7 +902,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Viitasaari", hu: "Viitasaari templom", ro: "Biserica din Viitasaari", en: "Viitasaari Church" },
-    coordinates: { lat: 63.0764, lng: 25.8561 },
+    coords: [25.8561, 63.0764],
     description: {
       de: "Die Kirche von Viitasaari ist ein klassisches Beispiel für finnische Kirchenbaukunst des 19. Jahrhunderts.",
       hu: "A viitasaari templom a 19. századi finn templomépítészet klasszikus példája.",
@@ -934,7 +934,7 @@ export const finlandHistoryV2: POI[] = [
     type: "cathedral",
     parent: "FI",
     name: { de: "Dom von Lapua", hu: "Lapua katedrális", ro: "Catedrala din Lapua", en: "Lapua Cathedral" },
-    coordinates: { lat: 62.9733, lng: 23.0067 },
+    coords: [23.0067, 62.9733],
     description: {
       de: "Der Dom von Lapua ist ein beeindruckendes sakrales Gebäude. Er ist das spirituelle Zentrum der Gemeinde Lapua.",
       hu: "A lapuai katedrális lenyűgöző szakrális épület. Lapua közösségének spirituális központja.",
@@ -966,7 +966,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Klosterkirche Naantali", hu: "Naantali kolostortemplom", ro: "Biserica mănăstirii din Naantali", en: "Naantali Convent Church" },
-    coordinates: { lat: 60.465, lng: 22.025 },
+    coords: [22.025, 60.465],
     description: {
       de: "Die mittelalterliche Klosterkirche in Naantali stammt aus dem 15. Jahrhundert. Sie ist eines der bekanntesten historischen Bauwerke der Stadt.",
       hu: "A naantali középkori kolostortemplom a 15. századból származik. A város egyik legismertebb történelmi épülete.",
@@ -998,7 +998,7 @@ export const finlandHistoryV2: POI[] = [
     type: "church",
     parent: "FI",
     name: { de: "Alte Kirche von Salo", hu: "Salo régi temploma", ro: "Vechea biserică din Salo", en: "Salo Old Church" },
-    coordinates: { lat: 60.3814, lng: 23.1275 },
+    coords: [23.1275, 60.3814],
     description: {
       de: "Die alte Kirche von Salo ist ein historisches Gebäude, das die religiöse Vergangenheit der Stadt repräsentiert.",
       hu: "Salo régi temploma egy történelmi épület, amely a város vallási múltját képviseli.",
@@ -1030,7 +1030,7 @@ export const finlandHistoryV2: POI[] = [
     type: "museum",
     parent: "FI",
     name: { de: "Finnisches Eisenbahnmuseum Riihimäki", hu: "Finn Vasúti Múzeum Riihimäki", ro: "Muzeul Căilor Ferate Finlandeze din Riihimäki", en: "Finnish Railway Museum Riihimäki" },
-    coordinates: { lat: 60.7369, lng: 24.7667 },
+    coords: [24.7667, 60.7369],
     description: {
       de: "Das Eisenbahnmuseum in Riihimäki dokumentiert die Entwicklung des finnischen Schienennetzes. Es liegt auf einem historisch bedeutenden Bahnhofsgelände.",
       hu: "A riihimäki vasúti múzeum a finn vasúthálózat fejlődését dokumentálja. Történelmileg jelentős állomásterületen található.",
@@ -1062,7 +1062,7 @@ export const finlandHistoryV2: POI[] = [
     type: "industry",
     parent: "FI",
     name: { de: "Industriegebiet Valkeakoski", hu: "Valkeakoski ipari terület", ro: "Zona industrială Valkeakoski", en: "Valkeakoski Industrial Area" },
-    coordinates: { lat: 61.2611, lng: 24.0322 },
+    coords: [24.0322, 61.2611],
     description: {
       de: "Valkeakoski ist für seine lange industrielle Geschichte, insbesondere im Bereich Papierherstellung, bekannt. Historische Fabrikanlagen prägen das Ufer.",
       hu: "Valkeakoski hosszú ipari történelméről, különösen a papírgyártás területén ismert. Történelmi gyárlétesítmények határozzák meg a partot.",

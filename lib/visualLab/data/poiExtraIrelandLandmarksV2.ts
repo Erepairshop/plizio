@@ -6,7 +6,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Dunguaire Castle", hu: "Dunguaire kastély", ro: "Castelul Dunguaire", en: "Dunguaire Castle" },
-    coordinates: { lat: 53.1481, lng: -8.9328 },
+    coords: [-8.9328, 53.1481],
     description: {
       de: "Dunguaire Castle befindet sich nahe Kinvara in der Grafschaft Galway. Die Festung wurde 1520 errichtet und ist für ihre literarischen Bankette bekannt.",
       hu: "A Dunguaire kastély a galwayi Kinvara közelében található. Az erődítmény 1520-ban épült, és irodalmi bankettjeiről híres.",
@@ -38,7 +38,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Bunratty Castle", hu: "Bunratty kastély", ro: "Castelul Bunratty", en: "Bunratty Castle" },
-    coordinates: { lat: 52.6983, lng: -8.8147 },
+    coords: [-8.8147, 52.6983],
     description: {
       de: "Bunratty Castle ist ein großes Turmhaus in der Grafschaft Clare. Es wurde 1425 erbaut und ist heute ein zentraler Bestandteil des Bunratty Folk Park.",
       hu: "A Bunratty kastély egy nagy toronyház Clare megyében. 1425-ben épült, és ma a Bunratty Néppark központi eleme.",
@@ -70,7 +70,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "IE",
     name: { de: "St. Mary's Cathedral", hu: "St. Mary székesegyház", ro: "Catedrala St. Mary", en: "St. Mary's Cathedral" },
-    coordinates: { lat: 52.6625, lng: -8.6293 },
+    coords: [-8.6293, 52.6625],
     description: {
       de: "St. Mary's Cathedral in Limerick wurde im 12. Jahrhundert gegründet. Sie ist die älteste kontinuierlich genutzte Kirche in der Stadt.",
       hu: "A limericki St. Mary székesegyházat a 12. században alapították. Ez a város legrégebben folyamatosan használt temploma.",
@@ -102,7 +102,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "monument",
     parent: "IE",
     name: { de: "Jeanie Johnston", hu: "Jeanie Johnston", ro: "Jeanie Johnston", en: "Jeanie Johnston" },
-    coordinates: { lat: 53.3486, lng: -6.2482 },
+    coords: [-6.2482, 53.3486],
     description: {
       de: "Die Jeanie Johnston ist ein maßstabsgetreuer Nachbau des Segelschiffs, das während der Großen Hungersnot im 19. Jahrhundert Auswanderer nach Nordamerika beförderte. Heute dient es als Museumsschiff im Hafen von Dublin.",
       hu: "A Jeanie Johnston annak a vitorlás hajónak a méretarányos másolata, amely a 19. századi nagy éhínség idején szállította a kivándorlókat Észak-Amerikába. Ma múzeumhajóként szolgál Dublin kikötőjében.",
@@ -134,7 +134,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Lismore Castle", hu: "Lismore kastély", ro: "Castelul Lismore", en: "Lismore Castle" },
-    coordinates: { lat: 52.1384, lng: -7.9304 },
+    coords: [-7.9304, 52.1384],
     description: {
       de: "Lismore Castle liegt in der Grafschaft Waterford am Fluss Blackwater. Das Gelände hat eine lange Geschichte, die bis ins 12. Jahrhundert zurückreicht.",
       hu: "A Lismore kastély Waterford megyében, a Blackwater folyó partján található. A terület hosszú történelemmel rendelkezik, amely a 12. századig nyúlik vissza.",
@@ -166,7 +166,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "castle",
     parent: "IE",
     name: { de: "Parke's Castle", hu: "Parke kastély", ro: "Castelul Parke", en: "Parke's Castle" },
-    coordinates: { lat: 54.2692, lng: -8.3241 },
+    coords: [-8.3241, 54.2692],
     description: {
       de: "Parke's Castle ist ein befestigtes Haus aus dem 17. Jahrhundert am Ufer des Lough Gill in der Grafschaft Leitrim. Es wurde auf den Ruinen einer früheren Burg errichtet.",
       hu: "A Parke kastély egy 17. századi erődített ház a Lough Gill partján, Leitrim megyében. Egy korábbi vár romjaira épült.",
@@ -198,7 +198,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IE",
     name: { de: "Custom House", hu: "Vámház", ro: "Custom House", en: "Custom House" },
-    coordinates: { lat: 53.3503, lng: -6.2505 },
+    coords: [-6.2505, 53.3503],
     description: {
       de: "Das Custom House ist ein neoklassizistisches Gebäude am Nordufer des Flusses Liffey in Dublin. Es wurde im späten 18. Jahrhundert fertiggestellt.",
       hu: "A Vámház egy neoklasszikus épület Dublinban, a Liffey folyó északi partján. A 18. század végén készült el.",
@@ -230,7 +230,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "palace",
     parent: "IE",
     name: { de: "Blarney House", hu: "Blarney Ház", ro: "Blarney House", en: "Blarney House" },
-    coordinates: { lat: 51.9288, lng: -8.5672 },
+    coords: [-8.5672, 51.9288],
     description: {
       de: "Blarney House ist ein Herrenhaus im schottischen Baronialstil, das sich auf dem Gelände der berühmten Blarney Castle befindet. Es wurde 1874 fertiggestellt.",
       hu: "A Blarney Ház egy skót bárói stílusú kúria, amely a híres Blarney kastély területén található. 1874-ben készült el.",
@@ -262,7 +262,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IE",
     name: { de: "Eason O'Connell Street", hu: "Eason O'Connell utca", ro: "Eason O'Connell Street", en: "Eason O'Connell Street" },
-    coordinates: { lat: 53.3495, lng: -6.2604 },
+    coords: [-6.2604, 53.3495],
     description: {
       de: "Dieses ikonische Buchhandlungsgebäude befindet sich in der O'Connell Street in Dublin. Es ist ein bekanntes Einzelhandelszentrum der Stadt.",
       hu: "Ez az ikonikus könyvesbolt a dublini O'Connell utcában található. A város egyik ismert kereskedelmi központja.",
@@ -294,7 +294,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "IE",
     name: { de: "Galway Cathedral", hu: "Galway székesegyház", ro: "Catedrala din Galway", en: "Galway Cathedral" },
-    coordinates: { lat: 53.2758, lng: -9.0564 },
+    coords: [-9.0564, 53.2758],
     description: {
       de: "Die Kathedrale von Galway wurde 1965 fertiggestellt und ist eine der jüngsten großen Kathedralen Irlands. Sie besticht durch ihre markante Kuppelarchitektur.",
       hu: "A Galway székesegyház 1965-ben készült el, és Írország egyik legfiatalabb nagy székesegyháza. Feltűnő kupolás építészetével tűnik ki.",
@@ -326,7 +326,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "palace",
     parent: "IE",
     name: { de: "Bantry House", hu: "Bantry Ház", ro: "Bantry House", en: "Bantry House" },
-    coordinates: { lat: 51.6811, lng: -9.4568 },
+    coords: [-9.4568, 51.6811],
     description: {
       de: "Bantry House ist ein historisches Herrenhaus mit Blick auf die Bantry Bay in der Grafschaft Cork. Es ist für seine Gärten und seine Kunstsammlungen bekannt.",
       hu: "A Bantry Ház egy történelmi kúria, amely a Bantry-öbölre néz Cork megyében. Kerteiről és művészeti gyűjteményeiről ismert.",
@@ -358,7 +358,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "palace",
     parent: "IE",
     name: { de: "Muckross House", hu: "Muckross Ház", ro: "Muckross House", en: "Muckross House" },
-    coordinates: { lat: 52.0151, lng: -9.4974 },
+    coords: [-9.4974, 52.0151],
     description: {
       de: "Muckross House liegt in der Nähe von Killarney am Muckross Lake. Das viktorianische Herrenhaus wurde 1843 erbaut und ist heute ein Museum.",
       hu: "A Muckross Ház Killarney közelében, a Muckross-tó mellett található. A viktoriánus kúria 1843-ban épült, és ma múzeum.",
@@ -390,7 +390,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "palace",
     parent: "IE",
     name: { de: "Adare Manor", hu: "Adare kúria", ro: "Adare Manor", en: "Adare Manor" },
-    coordinates: { lat: 52.5638, lng: -8.7845 },
+    coords: [-8.7845, 52.5638],
     description: {
       de: "Adare Manor ist ein prächtiges Herrenhaus in der Grafschaft Limerick. Es wurde im 19. Jahrhundert erbaut und ist ein bekanntes Luxushotel.",
       hu: "Az Adare kúria egy pompás kastély Limerick megyében. A 19. században épült, és egy ismert luxusszálloda.",
@@ -422,7 +422,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "IE",
     name: { de: "St. Canice's Cathedral", hu: "St. Canice székesegyház", ro: "Catedrala St. Canice", en: "St. Canice's Cathedral" },
-    coordinates: { lat: 52.6575, lng: -7.2583 },
+    coords: [-7.2583, 52.6575],
     description: {
       de: "St. Canice's Cathedral in Kilkenny wurde im 13. Jahrhundert erbaut. Sie ist bekannt für ihren Rundturm, einen der wenigen zugänglichen in Irland.",
       hu: "A kilkenny-i St. Canice székesegyház a 13. században épült. Híres kerek tornyáról, amely egyike Írország azon kevés tornyainak, amely látogatható.",
@@ -454,7 +454,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "IE",
     name: { de: "St. John's Cathedral", hu: "St. John székesegyház", ro: "Catedrala St. John", en: "St. John's Cathedral" },
-    coordinates: { lat: 52.5457, lng: -7.8872 },
+    coords: [-7.8872, 52.5457],
     description: {
       de: "St. John's Cathedral befindet sich in Cashel, Grafschaft Tipperary. Sie wurde im späten 18. Jahrhundert erbaut und ist ein Beispiel für den neoklassizistischen Baustil.",
       hu: "A St. John székesegyház a Tipperary megyei Cashelben található. A 18. század végén épült, és a neoklasszikus építészeti stílus példája.",
@@ -486,7 +486,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "bridge",
     parent: "IE",
     name: { de: "Grattan Bridge", hu: "Grattan híd", ro: "Podul Grattan", en: "Grattan Bridge" },
-    coordinates: { lat: 53.3456, lng: -6.2651 },
+    coords: [-6.2651, 53.3456],
     description: {
       de: "Die Grattan Bridge überquert den Fluss Liffey in Dublin. Sie verbindet die Capel Street mit der Parliament Street im historischen Zentrum.",
       hu: "A Grattan híd keresztezi a Liffey folyót Dublinban. Összeköti a Capel utcát a Parliament utcával a történelmi központban.",
@@ -518,7 +518,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IE",
     name: { de: "General Post Office", hu: "Főposta", ro: "General Post Office", en: "General Post Office" },
-    coordinates: { lat: 53.3491, lng: -6.2603 },
+    coords: [-6.2603, 53.3491],
     description: {
       de: "Das General Post Office (GPO) in der O'Connell Street ist ein symbolträchtiger Ort der irischen Geschichte. Es diente 1916 als Hauptquartier während des Osteraufstands.",
       hu: "A dublini O'Connell utcában található Főposta az ír történelem szimbolikus helyszíne. 1916-ban a húsvéti felkelés főhadiszállásaként szolgált.",
@@ -550,7 +550,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "museum",
     parent: "IE",
     name: { de: "Nationalbibliothek von Irland", hu: "Írország Nemzeti Könyvtára", ro: "Biblioteca Națională a Irlandei", en: "National Library of Ireland" },
-    coordinates: { lat: 53.3396, lng: -6.2554 },
+    coords: [-6.2554, 53.3396],
     description: {
       de: "Die National Library of Ireland in Dublin bewahrt ein umfangreiches Archiv an Büchern und Manuskripten. Sie ist ein Zentrum für historische Forschung.",
       hu: "A dublini Írország Nemzeti Könyvtára könyvek és kéziratok kiterjedt archívumát őrzi. A történelmi kutatások központja.",
@@ -582,7 +582,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "landmark",
     parent: "IE",
     name: { de: "Four Courts", hu: "Four Courts", ro: "Four Courts", en: "Four Courts" },
-    coordinates: { lat: 53.3463, lng: -6.2758 },
+    coords: [-6.2758, 53.3463],
     description: {
       de: "Die Four Courts sind der Sitz des irischen Obersten Gerichtshofs in Dublin. Das neoklassizistische Gebäude am Liffey wurde Anfang des 19. Jahrhunderts fertiggestellt.",
       hu: "A Four Courts az ír legfelsőbb bíróság épülete Dublinban. A Liffey folyó partján álló neoklasszikus épület a 19. század elején készült el.",
@@ -614,7 +614,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "church",
     parent: "IE",
     name: { de: "St. Nicholas Collegiate Church", hu: "St. Nicholas Kollégiumi templom", ro: "Biserica Colegiată St. Nicholas", en: "St. Nicholas Collegiate Church" },
-    coordinates: { lat: 53.2713, lng: -9.0536 },
+    coords: [-9.0536, 53.2713],
     description: {
       de: "Diese Kirche in Galway stammt aus dem 14. Jahrhundert und ist die größte mittelalterliche Pfarrkirche in Irland, die bis heute genutzt wird.",
       hu: "Ez a galwayi templom a 14. századból származik, és Írország legnagyobb középkori plébániatemploma, amelyet ma is használnak.",
@@ -646,7 +646,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Tralee Friary", hu: "Tralee kolostor", ro: "Mănăstirea Tralee", en: "Tralee Friary" },
-    coordinates: { lat: 52.2709, lng: -9.7027 },
+    coords: [-9.7027, 52.2709],
     description: {
       de: "Die Überreste des Dominikanerklosters in Tralee stammen aus dem 13. Jahrhundert. Sie sind ein wichtiges historisches Zeugnis der Stadt.",
       hu: "A tralee-i domonkos kolostor maradványai a 13. századból származnak. A város fontos történelmi emlékei.",
@@ -678,7 +678,7 @@ export const irelandLandmarksV2: POI[] = [
     type: "ruins",
     parent: "IE",
     name: { de: "Ross Abbey", hu: "Ross apátság", ro: "Abația Ross", en: "Ross Abbey" },
-    coordinates: { lat: 53.4682, lng: -9.1419 },
+    coords: [-9.1419, 53.4682],
     description: {
       de: "Ross Abbey ist eine bedeutende Franziskaner-Klosterruine nahe Headford in der Grafschaft Galway. Die Anlage stammt aus dem 15. Jahrhundert.",
       hu: "A Ross apátság egy jelentős ferences kolostorrom Headford közelében, Galway megyében. Az építmény a 15. századból való.",

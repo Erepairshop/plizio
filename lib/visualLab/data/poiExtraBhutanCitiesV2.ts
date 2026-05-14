@@ -33,6 +33,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/thimphu-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Thimphu, die Hauptstadt Bhutans, liegt auf einer Höhe von etwa 2.334 Metern im Tal des Wang Chhu. Die Stadt hat rund 138.000 Einwohner (2023) und ist das politische, wirtschaftliche und kulturelle Zentrum des Landes. Anders als viele asiatische Hauptstädte besitzt Thimphu keine großen Hochhäuser; die Bauordnung schreibt traditionelle bhutanische Architektur mit verzierten Holzfenstern und farbenfrohen Motiven vor. Das Stadtbild wird vom Tashichho Dzong dominiert, einer massiven Festung, die seit 1952 Sitz der Regierung und des Königs ist. Die Nationalversammlung tagt in einem modernen Gebäude, das jedoch die traditionellen Elemente bewahrt. Thimphu ist bekannt für seine lebendige Kultur: Das jährliche Thimphu Tshechu zieht Tausende von Besuchern an. Trotz der Modernisierung ist die Stadt autofrei im Kernbereich nicht, es gibt keine Ampeln – Verkehrspolizisten regeln den Verkehr. Die Wirtschaft basiert auf Verwaltung, Tourismus und Handwerk; traditionelle Produkte wie handgewebte Stoffe und Thangka-Malereien werden exportiert.",
+      hu: "Thimphu, Bhután fővárosa, a Wang Chhu völgyében, 2.334 méteres tengerszint feletti magasságban fekszik. Népessége körülbelül 138.000 fő (2023), ezzel a legnagyobb város az országban. A város építészetére szigorú szabályozások vonatkoznak: minden épületnek követnie kell a hagyományos bhutáni stílust, beleértve a gazdagon festett faablakokat és a lejtős, dongaszerű tetőket. A Tashichho Dzong, egy 17. századi erődítmény, ma a királyi kormány és a szerzetesi testület székhelye. A város híres a Thimphu Tshechuról, egy éves vallási fesztiválról, ahol maszkos táncokat adnak elő. A gazdaság fő pillérei a közigazgatás, a turizmus és a kézművesség. Thimphu különlegessége, hogy nincsenek közlekedési lámpái; a forgalmat rendőrök irányítják. A város környékén számos buddhista kolostor található, mint a Sangay Gang és a Dechen Phodrang.",
+      ro: "Thimphu, capitala Bhutanului, este situată în valea râului Wang Chhu, la o altitudine de 2.334 de metri. Cu o populație de aproximativ 138.000 de locuitori (2023), este cel mai mare oraș din țară. Orașul se remarcă prin arhitectura sa tradițională bhutaneză, cu clădiri ornate cu motive colorate și acoperișuri curbate. Tashichho Dzong, o fortăreață impunătoare construită în secolul al XVII-lea, găzduiește guvernul și corpul monahal. Thimphu este centrul economic al Bhutanului, bazându-se pe administrație, turism și agricultura de subzistență în zonele rurale. Festivalul Thimphu Tshechu, care are loc în toamnă, atrage mii de vizitatori. Un fapt interesant: orașul nu are semafoare; traficul este dirijat de polițiști. De asemenea, Thimphu găzduiește singurul cinematograf din Bhutan, care proiectează filme locale și internaționale. Altitudinea ridicată conferă o climă temperată, cu veri blânde și ierni reci, cu ninsori frecvente.",
+      en: "Thimphu, the capital of Bhutan, is situated in the Wang Chhu valley at an elevation of 2,334 meters. As of 2023, it has a population of approximately 138,000, making it the largest city in the country. The city is unique for its strict adherence to traditional Bhutanese architecture, featuring intricately carved wooden windows and colorful motifs. The Tashichho Dzong, a massive fortress built in the 17th century, houses the government and the monastic body. Thimphu is the economic hub, with its main sectors being public administration, tourism, and handicrafts. The annual Thimphu Tshechu festival, held in autumn, showcases masked dances and attracts many visitors. Notably, Thimphu has no traffic lights; intersections are managed by traffic police. The city also hosts the Royal Textile Academy and the National Institute for Zorig Chusum, preserving traditional arts. The climate is temperate, with warm summers and cold winters, with occasional snowfall.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.334 m ü. M.", "Einwohnerzahl (2023): ca. 138.000.", "Bau des Tashichho Dzong: 1641.", "Jährliche Touristenankünfte (2019): über 7.000.", "Anzahl der Verkehrspolizisten: ca. 60.", "Fläche des Stadtgebiets: 26,1 km²."],
+      hu: ["Tengerszint feletti magasság: 2.334 m.", "Népesség (2023): kb. 138.000 fő.", "Tashichho Dzong építése: 1641.", "Éves turistaérkezések (2019): >7.000.", "Forgalomirányító rendőrök száma: kb. 60.", "Város területe: 26,1 km²."],
+      ro: ["Altitudine: 2.334 m.", "Populație (2023): aprox. 138.000.", "Construirea Tashichho Dzong: 1641.", "Sosiri turistice anuale (2019): peste 7.000.", "Număr polițiști rutieri: circa 60.", "Suprafață urbană: 26,1 km²."],
+      en: ["Elevation: 2,334 m.", "Population (2023): approx. 138,000.", "Construction of Tashichho Dzong: 1641.", "Annual tourist arrivals (2019): over 7,000.", "Number of traffic police: about 60.", "Urban area: 26.1 km²."],
+    },
   },
   {
     id: "phuntsholing-cities-v2",
@@ -66,6 +78,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/phuntsholing-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Phuntsholing liegt im Südwesten Bhutans an der Grenze zu Indien, auf etwa 300 Meter Höhe im Tal des Wang Chhu. Mit rund 27.000 Einwohnern ist es die zweitgrößte Stadt Bhutans und ein wichtiges Wirtschafts- und Handelszentrum. Die Stadt ist der wichtigste Grenzübergang für den Waren- und Personenverkehr zwischen Bhutan und Indien. Die Architektur ist weniger traditionell als in anderen bhutanischen Städten; hier dominieren moderne Gebäude, Märkte und Industrieanlagen. Der Zollkomplex und der Busterminal sind stark frequentiert. Phuntsholing ist auch ein Zentrum der Leichtindustrie, mit Betrieben zur Lebensmittelverarbeitung und Möbelherstellung. In der Umgebung wird vorwiegend Landwirtschaft betrieben, mit Anbau von Reis, Mais und Zitrusfrüchten. Die Stadt hat ein subtropisches Klima mit heißen Sommern und milden Wintern. Sehenswürdigkeiten sind der Zangtopelri Park und der Karbandi-Kloster. Aufgrund der Grenznähe gibt es eine hohe kulturelle Durchmischung mit indischen Einflüssen.",
+      hu: "Phuntsholing Bhután déli határán, 300 méteres tengerszint feletti magasságban fekszik, közvetlenül India mellett. Lakossága körülbelül 27.000 fő, ezzel az ország második legnagyobb városa. A város Bhután fő kereskedelmi kapuja; a legtöbb import- és exportáru itt halad át. Az építészet vegyes: modern betonépületek mellett hagyományos bhutáni stílusú házak is láthatók. Phuntsholing gazdaságát a kereskedelem, a közlekedés és a könnyűipar jellemzi. Fontos ipari létesítmény a Phuntsholing Cementgyár, amely éves termelése meghaladja a 200.000 tonnát. A város híres piacairól, ahol indiai és bhutáni termékeket egyaránt árusítanak. A Karbandi kolostor a város szélén található, gyönyörű kilátással a síkságra. Phuntsholing éghajlata szubtrópusi, forró nyarakkal és enyhe telekkel. A város fontos közlekedési csomópont: itt indul az indiai vasúti kapcsolat és a bhutáni autóbuszjáratok.",
+      ro: "Phuntsholing se află în sud-vestul Bhutanului, la granița cu India, la o altitudine de aproximativ 300 de metri. Cu o populație de circa 27.000 de locuitori, este al doilea cel mai mare oraș din Bhutan și principalul punct de trecere pentru comerțul cu India. Clima este subtropicală, cu veri foarte calde și ierni blânde. Orașul are un caracter mai puțin tradițional decât alte orașe bhutaneze; arhitectura predominant modernă reflectă influența indiană. Phuntsholing este un centru industrial, cu fabrici de ciment, prelucrare a alimentelor și mobilă. Fabrica de ciment Phuntsholing produce peste 200.000 de tone anual. Zona rurală din jur cultivă orez, porumb și citrice. Printre atracțiile orașului se numără Parcul Zangtopelri și Mănăstirea Karbandi, construită în 1967. De asemenea, orașul găzduiește unul dintre cele mai aglomerate piețe de frontieră din Bhutan, unde se comercializează produse locale și indiene. Phuntsholing servește ca poartă de intrare pentru majoritatea turiștilor care călătoresc spre capitală, Thimphu.",
+      en: "Phuntsholing is located in southwestern Bhutan on the border with India, at an elevation of about 300 meters. With a population of approximately 27,000, it is Bhutan's second-largest city and its principal commercial gateway. The city has a subtropical climate, with hot summers and mild winters. Unlike other Bhutanese towns, Phuntsholing features modern architecture due to its trade-oriented character. It is an important industrial center, hosting the Phuntsholing Cement Plant, which produces over 200,000 tonnes annually, and various food processing units. The bustling border market offers a mix of Bhutanese and Indian goods. Key landmarks include the Zangtopelri Park and the Karbandi Monastery, built in 1967. Phuntsholing is the primary entry point for travelers arriving from India, with a direct bus service to Thimphu. The city's economy relies heavily on cross-border trade, with Bhutan importing necessities like fuel and construction materials through this checkpoint.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 300 m.", "Einwohner: ca. 27.000.", "Jahresproduktion des Zementwerks: >200.000 t.", "Baujahr des Karbandi-Klosters: 1967.", "Entfernung nach Thimphu: ca. 175 km.", "Durchschnittstemperatur im Juli: 30 °C."],
+      hu: ["Tengerszint feletti magasság: kb. 300 m.", "Lakosság: kb. 27.000 fő.", "Cementgyár éves termelése: >200.000 t.", "Karbandi kolostor építése: 1967.", "Távolság Thimphutól: kb. 175 km.", "Átlaghőmérséklet júliusban: 30 °C."],
+      ro: ["Altitudine: aprox. 300 m.", "Populație: aprox. 27.000.", "Producția anuală a fabricii de ciment: >200.000 t.", "Anul construirii Mănăstirii Karbandi: 1967.", "Distanța până la Thimphu: aprox. 175 km.", "Temperatura medie în iulie: 30 °C."],
+      en: ["Elevation: approx. 300 m.", "Population: approx. 27,000.", "Annual cement plant output: >200,000 tonnes.", "Construction year of Karbandi Monastery: 1967.", "Distance to Thimphu: approx. 175 km.", "Average July temperature: 30 °C."],
+    },
   },
   {
     id: "paro-cities-v2",
@@ -99,6 +123,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/paro-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Paro ist eine Stadt im westlichen Bhutan im Tal des Paro Chhu, auf einer Höhe von etwa 2.250 Metern. Sie hat rund 15.000 Einwohner und ist bekannt für den einzigen internationalen Flughafen Bhutans, den Paro Airport. Die Stadt ist reich an kulturellem Erbe: Das Kloster Taktshang (Tigernest) thront spektakulär an einer Klippe in 3.120 Metern Höhe. Das Rinpung Dzong, eine beeindruckende Festung aus dem 17. Jahrhundert, dominiert das Tal. Paro ist auch für seine traditionellen Bauernhöfe und Reisfelder bekannt. Die Wirtschaft basiert auf Tourismus, Landwirtschaft (Reis, Äpfel) und Handwerk. Das jährliche Paro Tshechu, ein religiöses Festival mit Maskentänzen, zieht viele Besucher an. Die Stadt ist ein wichtiges Zentrum für Bhutans Kunstszene, mit vielen Werkstätten für Thangka-Malerei und Holzschnitzerei. In der Umgebung gibt es mehrere alte Klöster, darunter Kyichu Lhakhang, eines der ältesten in Bhutan, erbaut im 7. Jahrhundert.",
+      hu: "Paro Bhután nyugati részén, a Paro Chhu völgyében, 2.250 méter magasan fekszik. Népessége körülbelül 15.000 fő. A város ad otthont Bhután egyetlen nemzetközi repülőterének, amely a világ egyik legveszélyesebbnek tartott leszállópályájáról ismert. Paro legfőbb látványossága a Taktshang-kolostor (Tigrisfészek), amely egy 3.120 méter magas sziklafalon helyezkedik el. A Rinpung Dzong, egy 1646-ban épült erődítmény, ma a kerületi kormányzat és a szerzetesi testület székhelye. Paro híres a hagyományos bhutáni életmódról: a völgyben elterülő rizsteraszok és almaültetvények jellemzőek. A helyi gazdaság a turizmusra, a mezőgazdaságra és a kézművességre épül. A városban számos művészeti iskola működik, ahol hagyományos festészetet és fafaragást tanítanak. A Paro Tshechu fesztivál minden év tavaszán vonzza a látogatókat. Kyichu Lhakhang, a 7. században épült templom, a legrégebbi bhutáni szentélyek egyike.",
+      ro: "Paro este un oraș în vestul Bhutanului, situat în valea râului Paro Chhu, la o altitudine de 2.250 de metri. Populația sa este de aproximativ 15.000 de locuitori. Orașul găzduiește singurul aeroport internațional al Bhutanului, Aeroportul Paro, considerat unul dintre cele mai dificile pentru aterizare din lume. Paro este renumit pentru Mănăstirea Taktshang (Cuibul Tigrului), situată pe o stâncă la 3.120 de metri. Rinpung Dzong, o fortăreață construită în 1646, servește ca centru administrativ și monahal. Economia se bazează pe turism, agricultură (orez, mere) și meșteșuguri. Paro este un important centru cultural, cu ateliere de pictură thangka și sculptură în lemn. Festivalul Paro Tshechu, care are loc primăvara, include dansuri mascate și atrage mii de participanți. În apropiere se află Kyichu Lhakhang, unul dintre cele mai vechi temple din Bhutan, construit în secolul al VII-lea.",
+      en: "Paro is a town in western Bhutan located in the Paro Chhu valley at an elevation of 2,250 meters. It has a population of about 15,000. Paro is home to Bhutan's only international airport, Paro Airport, known for its challenging approach among mountains. The iconic Taktshang Monastery (Tiger's Nest) clings to a cliff at 3,120 meters. Rinpung Dzong, a fortress built in 1646, houses district offices and a monastery. The economy relies on tourism, agriculture (rice, apples), and handicrafts. Paro is a hub for traditional arts, with numerous workshops for thangka painting and wood carving. The Paro Tshechu festival, held in spring, features masked dances. Kyichu Lhakhang, built in the 7th century, is one of Bhutan's oldest temples. The valley offers trekking routes and is a gateway to the Haa Valley. Paro's airport handles over 100 flights per week during peak season.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.250 m.", "Einwohner: ca. 15.000.", "Baujahr des Rinpung Dzong: 1646.", "Höhe des Taktshang-Klosters: 3.120 m.", "Baujahr des Kyichu Lhakhang: 7. Jahrhundert.", "Anzahl der Flüge pro Woche in der Hauptsaison: >100."],
+      hu: ["Tengerszint feletti magasság: 2.250 m.", "Lakosság: kb. 15.000 fő.", "Rinpung Dzong építési éve: 1646.", "Taktshang-kolostor magassága: 3.120 m.", "Kyichu Lhakhang építése: 7. század.", "Heti járatok száma csúcsszezonban: >100."],
+      ro: ["Altitudine: 2.250 m.", "Populație: aprox. 15.000.", "Anul construcției Rinpung Dzong: 1646.", "Altitudinea Mănăstirii Taktshang: 3.120 m.", "Anul construcției Kyichu Lhakhang: secolul VII.", "Zboruri săptămânale în sezonul de vârf: >100."],
+      en: ["Elevation: 2,250 m.", "Population: approx. 15,000.", "Year built of Rinpung Dzong: 1646.", "Elevation of Taktshang Monastery: 3,120 m.", "Year built of Kyichu Lhakhang: 7th century.", "Weekly flights during peak season: >100."],
+    },
   },
   {
     id: "gelephu-cities-v2",
@@ -132,6 +168,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/gelephu-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Gelephu liegt im Süden Bhutans an der Grenze zu Indien im Distrikt Sarpang, auf einer Höhe von etwa 300 Metern. Die Stadt hat rund 9.800 Einwohner (2017) und ist ein wichtiger Grenzübergang für den Handel mit Indien. Gelephu hat sich in den letzten Jahren wirtschaftlich entwickelt, vor allem durch Holzwirtschaft und Landwirtschaft. Die Region ist bekannt für die Produktion von Kardamom und Ingwer. Der Ort dient als regionales Verwaltungszentrum und verfügt über einen Flugplatz, der Inlandsflüge nach Thimphu und andere Städte anbietet. Gelephu hat ein subtropisches Klima mit heißen Sommern und Monsunregen. Die Stadt ist ethnisch vielfältig mit einer Mischung aus Bhutanesen, Nepalesen und Indern. Sehenswürdigkeiten sind der Gelephu Sportplatz und die nahe gelegenen Wälder, die Lebensraum für Elefanten und Tiger bieten. Die Infrastruktur umfasst ein Krankenhaus, Schulen und Märkte. Gelephu ist ein strategischer Punkt für die Entwicklung der südlichen Wirtschaftszone Bhutans.",
+      hu: "Gelephu Bhután déli részén, az indiai határ közelében, 300 méteres magasságban található. Lakossága hozzávetőleg 9.800 fő (2017). A város fontos kereskedelmi kapu, ahol a bhutáni áruk belépnek az indiai piacra. Gelephu gazdaságát a mezőgazdaság (kardamom, gyömbér), a fakitermelés és a kiskereskedelem jellemzi. A városban repülőtér működik, amely belföldi járatokat kínál. A klíma szubtrópusi, magas páratartalommal és jelentős csapadékkal. A település etnikailag sokszínű: a bhutániak mellett nepáliak és indiaiak is élnek itt. A környező erdők vadon élő állatokban gazdagok; gyakoriak az ázsiai elefántok és a bengáli tigrisek. Gelephu a Gyepu-völgy kapujaként ismert. A város fejlődését a déli gazdasági folyosó részeként tervezik, amely összeköti Bhutánt Indiával. Az infrastruktúra magában foglal egy kórházat és számos oktatási intézményt.",
+      ro: "Gelephu este un oraș din sudul Bhutanului, în districtul Sarpang, la granița cu India, la o altitudine de aproximativ 300 de metri. Populația sa este de circa 9.800 de locuitori (2017). Orașul servește ca punct de trecere comercială important și este un centru regional pentru agricultură și silvicultură. Principalele culturi sunt cardamomul și ghimbirul. Gelephu are un aeroport care oferă zboruri interne. Clima este subtropicală, cu veri fierbinți și musoni abundenți. Populația este diversă din punct de vedere etnic, incluzând bhutanezi, nepalezi și indieni. Pădurile din apropiere găzduiesc elefanți și tigri. Orașul este considerat o poartă pentru dezvoltarea economică a sudului Bhutanului, fiind inclus în planurile de coridor economic. Facilitățile includ un spital, școli și piețe. Gelephu este, de asemenea, cunoscut pentru peisajele sale pitorești și pentru oportunitățile de drumeție în Gyepu Valley.",
+      en: "Gelephu is a town in southern Bhutan in Sarpang District, near the border with India, at an elevation of about 300 meters. Its population is approximately 9,800 (2017). It serves as a major border crossing for trade and a regional center for agriculture and forestry. Key agricultural products include cardamom and ginger. Gelephu has a domestic airport with flights to Thimphu and other towns. The climate is subtropical, with hot summers and heavy monsoon rains. The population is ethnically mixed, with Bhutanese, Nepali, and Indian communities. Nearby forests are habitat for Asian elephants and Bengal tigers. Gelephu is part of Bhutan's southern economic corridor development plan. The town offers basic amenities like a hospital, schools, and markets. Its strategic location makes it a potential hub for cross-border commerce and tourism.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 300 m.", "Einwohner (2017): ca. 9.800.", "Jährlicher Niederschlag: >2.500 mm.", "Flugplatz: Inlandsflüge nach Thimphu.", "Eröffnung des Flughafens: 2011.", "Wichtige Anbauprodukte: Kardamom, Ingwer."],
+      hu: ["Tengerszint feletti magasság: kb. 300 m.", "Népesség (2017): kb. 9.800 fő.", "Éves csapadék: >2.500 mm.", "Repülőtér: belföldi járatok Thimphuba.", "Repülőtér megnyitása: 2011.", "Fő termények: kardamom, gyömbér."],
+      ro: ["Altitudine: aprox. 300 m.", "Populație (2017): aprox. 9.800.", "Precipitații anuale: >2.500 mm.", "Aeroport: zboruri interne către Thimphu.", "Deschiderea aeroportului: 2011.", "Culturi principale: cardamom, ghimbir."],
+      en: ["Elevation: approx. 300 m.", "Population (2017): approx. 9,800.", "Annual rainfall: >2,500 mm.", "Airport: domestic flights to Thimphu.", "Airport opened: 2011.", "Key crops: cardamom, ginger."],
+    },
   },
   {
     id: "samdrup-jongkhar-cities-v2",
@@ -165,6 +213,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/samdrup-jongkhar-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Samdrup Jongkhar liegt im Südosten Bhutans an der Grenze zu Indien, auf einer Höhe von etwa 200 Metern. Die Stadt ist das administrative Zentrum des gleichnamigen Distrikts und hat rund 7.000 Einwohner (2017). Sie ist ein wichtiger Grenzübergang für den Handel zwischen Bhutan und Indien, insbesondere für den Import von Treibstoff und Baumaterialien. Die Wirtschaft basiert auf Landwirtschaft, Handel und staatlichen Dienstleistungen. In den umliegenden Hügeln werden Reis, Mais und Zitrusfrüchte anbauen. Samdrup Jongkhar hat ein subtropisches Klima mit heißen Sommern und Monsunregen. Sehenswürdigkeiten sind das Samdrup Jongkhar Dzong, ein modernes Dzong aus den 1990er Jahren, und der nahe gelegene Naturschutzgebiet Khaling. Die Stadt dient als Ausgangspunkt für Reisen in den Osten Bhutans, einschließlich Trashigang. Die Bevölkerung ist ethnisch gemischt, mit bhutanesischen, nepalesischen und indischen Gemeinschaften.",
+      hu: "Samdrup Jongkhar Bhután délkeleti csücskében, az indiai határ közelében, 200 méter magasan fekszik. A város a dzongkha nevű körzet székhelye, lakossága kb. 7.000 fő (2017). Ez a második legfontosabb határátkelőhely az ország déli részén. A gazdaság a mezőgazdaságra, kereskedelemre és kormányzati szolgáltatásokra épül. A környék rizs- és kukoricatermesztéséről ismert. Samdrup Jongkhar klímája szubtrópusi, forró nyárral és monszunesőkkel. A városban található a Samdrup Jongkhar Dzong, amelyet 1990-ben építettek. A közeli Khaling vadrezervátum számos madár- és emlősfajnak ad otthont. A település fontos közlekedési csomópont, itt halad át a főút Trashigang felé. A népesség sokszínű: bhutániak, nepáliak és indiaiak élnek itt. Az oktatásban a Samdrup Jongkhar Higher Secondary School a legjelentősebb intézmény.",
+      ro: "Samdrup Jongkhar este un oraș în sud-estul Bhutanului, la granița cu India, la o altitudine de aproximativ 200 de metri. Populația sa este de circa 7.000 de locuitori (2017). Este centrul administrativ al districtului Samdrup Jongkhar și un important punct comercial cu India. Economia se bazează pe agricultură (orez, porumb, citrice), comerț și servicii guvernamentale. Clima este subtropicală, cu veri toride și musoni abundenți. Orașul găzduiește Samdrup Jongkhar Dzong, construit în 1995, care servește ca centru administrativ și monahal. În apropiere se află Rezervația Naturală Khaling, protejând păduri subtropicale și specii precum leopardul și ursul. Samdrup Jongkhar este un nod rutier pentru regiunea de est, cu legături spre Trashigang. Populația este eterogenă, incluzând comunități bhutaneze, nepaleze și indiene.",
+      en: "Samdrup Jongkhar is a town in southeastern Bhutan on the border with India, at an elevation of about 200 meters. Its population is approximately 7,000 (2017). It serves as the administrative center of Samdrup Jongkhar District and is a key border crossing for trade with India. The economy is based on agriculture (rice, maize, citrus), trade, and government services. The climate is subtropical, with hot summers and heavy monsoon rainfall. The town features a modern dzong built in 1995. Nearby Khaling Wildlife Sanctuary protects subtropical forests and wildlife including leopard and Himalayan black bear. Samdrup Jongkhar is a gateway to eastern Bhutan and lies on the main highway to Trashigang. The population is ethnically diverse, with Bhutanese, Nepali, and Indian groups. The town has a hospital, schools, and a market.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 200 m.", "Einwohner (2017): ca. 7.000.", "Baujahr des Dzong: 1995.", "Entfernung nach Trashigang: ca. 130 km.", "Schutzgebiet Khaling: 34 km².", "Durchschnittstemperatur im Juni: 32 °C."],
+      hu: ["Tengerszint feletti magasság: kb. 200 m.", "Népesség (2017): kb. 7.000 fő.", "Dzong építési éve: 1995.", "Távolság Trashigangtól: kb. 130 km.", "Khaling Vadrezervátum területe: 34 km².", "Átlaghőmérséklet júniusban: 32 °C."],
+      ro: ["Altitudine: aprox. 200 m.", "Populație (2017): aprox. 7.000.", "Anul construirii dzong-ului: 1995.", "Distanța până la Trashigang: aprox. 130 km.", "Suprafața Rezervației Khaling: 34 km².", "Temperatura medie în iunie: 32 °C."],
+      en: ["Elevation: approx. 200 m.", "Population (2017): approx. 7,000.", "Year built of Dzong: 1995.", "Distance to Trashigang: approx. 130 km.", "Khaling Wildlife Sanctuary area: 34 km².", "Average June temperature: 32 °C."],
+    },
   },
   {
     id: "wangdue-phodrang-cities-v2",
@@ -198,6 +258,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/wangdue-phodrang-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Wangdue Phodrang ist eine Stadt im zentralen Bhutan im gleichnamigen Distrikt, auf einer Höhe von etwa 1.300 Metern am Zusammenfluss der Flüsse Punakha Chhu und Tang Chhu. Die Stadt hat rund 7.000 Einwohner und ist bekannt für ihr historisches Dzong, das auf einem Hügel thront. Das Dzong von Wangdue Phodrang wurde 1638 von Shabdrung Ngawang Namgyel erbaut, brannte jedoch 2012 nieder und wird derzeit wieder aufgebaut. Die Region ist landwirtschaftlich geprägt, mit Anbau von Reis, Weizen und Gemüse. Wangdue Phodrang ist auch für seine Bambusprodukte und Töpferei bekannt. Die Stadt dient als Verwaltungszentrum und hat eine kleine Marktstadt. In der Umgebung liegen die Klöster Gangtey und Phobjikha, letzteres ist ein wichtiges Schutzgebiet für den Schwarzhalssichler (Grus nigricollis). Die Höhenlage sorgt für ein gemäßigtes Klima mit warmen Sommern und kalten Wintern.",
+      hu: "Wangdue Phodrang Bhután középső részén, 1.300 méter magasan, a Punakha Chhu és a Tang Chhu folyók összefolyásánál fekszik. Népessége mintegy 7.000 fő. A város egy 1638-ban épült dzongjáról ismert, amely 2012-ben leégett, és jelenleg újjáépítés alatt áll. A környék mezőgazdasági terület, ahol rizst, búzát és zöldségeket termesztenek. Wangdue Phodrang híres bambusztermékeiről és fazekasságáról. A közeli Phobjikha-völgy és Gangtey-kolostor népszerű turistacélpontok; a völgy a fekete nyakú darvak telelőhelye. A város fontos közlekedési csomópont a középső régióban. Az éghajlat mérsékelt, a januári átlaghőmérséklet 5 °C körüli, a júliusi pedig 22 °C. A dzong újjáépítése várhatóan 2025-ben fejeződik be.",
+      ro: "Wangdue Phodrang este un oraș în centrul Bhutanului, reședința districtului omonim, situat la confluența râurilor Punakha Chhu și Tang Chhu, la o altitudine de aproximativ 1.300 de metri. Populația sa este de circa 7.000 de locuitori. Orașul este cunoscut pentru dzong-ul său construit în 1638, care a fost distrus de un incendiu în 2012 și se află în reconstrucție. Economia se bazează pe agricultură (orez, grâu, legume) și meșteșuguri, inclusiv prelucrarea bambusului și olăritul. În apropiere se află Valea Phobjikha, un important habitat pentru cocorul cu gât negru (Grus nigricollis). Wangdue Phodrang este un nod rutier central, legând Thimphu de estul țării. Clima este temperată, cu veri blânde și ierni reci. Reconstrucția dzong-ului este estimată a fi finalizată până în 2025.",
+      en: "Wangdue Phodrang is a town in central Bhutan, capital of Wangdue Phodrang District, at an elevation of about 1,300 meters, at the confluence of the Punakha Chhu and Tang Chhu rivers. Its population is around 7,000. The town is famous for its historic dzong built in 1638, which was devastated by a fire in 2012 and is currently under reconstruction. The surrounding area is agricultural, producing rice, wheat, and vegetables. Wangdue Phodrang is known for bamboo crafts and pottery. Nearby Phobjikha Valley is a winter home for black-necked cranes (Grus nigricollis). The town serves as a junction for highways to central and eastern Bhutan. The climate is temperate, with January averages around 5°C and July averages around 22°C. The reconstruction of the dzong is expected to complete by 2025.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.300 m.", "Einwohner: ca. 7.000.", "Bau des Dzong: 1638.", "Brand des Dzong: 2012.", "Anzahl der Schwarzhalssichler in Phobjikha: bis zu 400.", "Geplante Fertigstellung des Wiederaufbaus: 2025."],
+      hu: ["Tengerszint feletti magasság: 1.300 m.", "Lakosság: kb. 7.000 fő.", "Dzong építése: 1638.", "Dzong leégése: 2012.", "Fekete nyakú darvak száma Phobjikhában: akár 400.", "Újjáépítés várható befejezése: 2025."],
+      ro: ["Altitudine: 1.300 m.", "Populație: aprox. 7.000.", "Construirea dzong-ului: 1638.", "Incendierea dzong-ului: 2012.", "Număr de cocori cu gât negru în Phobjikha: până la 400.", "Finalizarea estimată a reconstrucției: 2025."],
+      en: ["Elevation: 1,300 m.", "Population: approx. 7,000.", "Construction of Dzong: 1638.", "Fire of Dzong: 2012.", "Black-necked cranes in Phobjikha: up to 400.", "Expected reconstruction completion: 2025."],
+    },
   },
   {
     id: "punakha-cities-v2",
@@ -231,6 +303,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/punakha-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Punakha war bis 1955 die Winterhauptstadt Bhutans und ist heute die Hauptstadt des gleichnamigen Distrikts. Die Stadt liegt auf einer Höhe von etwa 1200 Metern im fruchtbaren Punakha-Tal, das für seinen Reisanbau bekannt ist. Der Punakha-Dzong, eine monumentale Festung aus dem 17. Jahrhundert, thront am Zusammenfluss der Flüsse Pho Chhu und Mo Chhu. Die Stadt ist ein wichtiges religiöses Zentrum, da hier der Je Khenpo, der oberste Abt Bhutans, im Winter residiert. Das milde Klima macht Punakha zu einem beliebten Ziel für Touristen.",
+      hu: "Punakha fontos szerepet játszott Bhután egyesítésében és a Zhabdrung Ngawang Namgyal által a 17. században létrehozott állam kialakításában. A Punakha Dzong egyike a legrégibb és legimpozánsabb erődítményeknek, ahol a koronázási szertartásokat tartották. 1907-ben itt koronázták meg Bhután első örökletes királyát, Ugyen Wangchuckot. A városban található a Khamsum Yulley Namgyal Chorten, egy 2004-ben épült sztúpa a béke és harmónia jelképeként. A régióban hagyományos mesterségek, például szövés és festészet virágoznak.",
+      ro: "Punakha este situată într-o vale fertilă la confluența râurilor Pho Chhu și Mo Chhu. Clima subtropicală permite cultivarea orezului, porumbului și citricelor. Orașul are o populație de aproximativ 6000 de locuitori. Economia se bazează pe agricultură și turism. Punakha Dzong a fost grav avariat de un incendiu în 1998, dar a fost restaurat. Recent, s-au construit poduri suspendate moderne pentru a facilita accesul către dzong. Vara, temperaturile ajung la 30°C, iar iarna nu scad sub 10°C.",
+      en: "Punakha serves as the winter capital of Bhutan, with the central monk body relocating from Thimphu during colder months. The Punakha Dzong is the second oldest and second largest dzong in Bhutan, measuring 180 m in length. The dzong houses sacred relics, including the mummified remains of Zhabdrung Ngawang Namgyal. The city is a hub for river rafting and hiking, with trails leading to nearby monasteries. The annual Punakha Tshechu festival features masked dances and attracts thousands of visitors. The valley is also known for its white sand beaches along the riverbanks.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt liegt auf 1200 m Höhe.", "Der Punakha-Dzong wurde 1637 erbaut.", "Der Dzong ist 180 m lang.", "Die Flüsse Pho Chhu und Mo Chhu fließen hier zusammen.", "Punakha hat etwa 6000 Einwohner.", "Die Reisterrassen erstrecken sich über 20 km²."],
+      hu: ["Punakha 1955-ig Bhután fővárosa volt.", "A dzongban őrzik Ngawang Namgyal bebalzsamozott maradványait.", "A Khamsum Yulley Namgyal Chorten 2004-ben épült.", "Az éves Punakha Tshechu fesztivál résztvevőinek száma meghaladja a 10 000-et.", "A város téli hőmérséklete 5-15°C között mozog.", "A régióban 3000 hektáron termesztenek rizst."],
+      ro: ["Populația orașului Punakha este de ~6000 locuitori.", "Dzong-ul are o lungime de 180 m și o lățime de 72 m.", "Incendiul din 1998 a distrus 50 de camere ale dzong-ului.", "Temperatura medie anuală este de 20°C.", "Podul suspendat de la Punakha are 160 m lungime.", "Rezervația de animale sălbatice Jigme Dorji se află în apropiere."],
+      en: ["The Punakha Dzong was built in 1637.", "It measures 180 m long and 72 m wide.", "The dzong contains 6 temples.", "Punakha is 72 km from Thimphu.", "The altitude is 1200 m.", "The annual Punakha Tshechu features 4 days of celebrations."],
+    },
   },
   {
     id: "jakar-cities-v2",
@@ -264,6 +348,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/jakar-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jakar, auch bekannt als Bumthang, ist eine Stadt im zentralen Bhutan und Hauptstadt des Distrikts Bumthang. Sie liegt auf etwa 2600 Metern Höhe und ist ein bedeutendes kulturelles Zentrum. Die Stadt beherbergt den Jakar-Dzong, der im 16. Jahrhundert erbaut wurde und heute Sitz der Distriktverwaltung ist. Jakar ist berühmt für seine traditionellen Webereien, insbesondere die Yathra-Wollstoffe. Die Umgebung bietet zahlreiche Klöster und heilige Stätten, darunter den Kurje Lhakhang, der mit dem Padmasambhava verbunden ist.",
+      hu: "Jakar Bhután egyik legfontosabb zarándokhelye, mivel itt található a Kurje Lhakhang templomegyüttes, ahol Guru Rinpocse meditált. A város a Bumthang-völgyben fekszik, amelyet néha 'Bhután Svájcának' is neveznek. A Jakar Dzong a 17. században épült át egy korábbi erőd helyén. A régió híres méztermeléséről és sajtkészítéséről. A Bumthang-völgyben évente megrendezik a Jakar Tshechu fesztivált, amely színes maszkos táncokat vonultat fel.",
+      ro: "Jakar este capitala districtului Bumthang, cu o populație de aproximativ 5000 de locuitori. Orașul este situat la o altitudine de 2600 m, într-o vale fertilă unde se cultivă hrișcă, orz și cartofi. Economia locală se bazează pe agricultură, turism și meșteșuguri textile. Climatul este temperat, cu ierni geroase și veri răcoroase. Jakar este cunoscut pentru producția de brânză și miere. Recent, s-a dezvoltat infrastructura turistică, cu hoteluri și restaurante.",
+      en: "Jakar is the administrative center of Bumthang District and a gateway to eastern Bhutan. The town is known for the Jakar Dzong, which houses the district monastic body. The surrounding valley is dotted with apple orchards and is a major producer of apples in Bhutan. The Bumthang Brewery, established in 2003, produces beer from local barley. Jakar also has a small airport connecting it to Paro and other domestic destinations. The region is a popular destination for trekking, with trails leading to the remote eastern hills.",
+    },
+    factsAdvanced: {
+      de: ["Jakar liegt auf 2600 m Höhe.", "Der Jakar-Dzong wurde im 16. Jahrhundert erbaut.", "Die Stadt hat etwa 5000 Einwohner.", "Die Yathra-Wollstoffe werden in Handarbeit gewebt.", "Der Kurje Lhakhang besteht aus 3 Tempeln.", "Die Bumthang-Brauerei produziert jährlich 200.000 Liter Bier."],
+      hu: ["A Kurje Lhakhang templomot a 8. században alapították.", "A Jakar Tshechu fesztivál 4 napig tart.", "Bumthangban évente 10.000 tonna almát termesztenek.", "A Jakar repülőtér kifutópályája 1500 m hosszú.", "A dzong falai 2 m vastagok.", "A völgyben 30 család foglalkozik sajtkészítéssel."],
+      ro: ["Altitudinea orașului Jakar este de 2600 m.", "Populația districtului Bumthang este de ~12.000 locuitori.", "Clădirea Jakar Dzong are 3 etaje.", "Producția anuală de mere în Bumthang este de 10.000 tone.", "Brânza Bumthang este maturată timp de 6 luni.", "Temperaturile de iarnă scad până la -5°C."],
+      en: ["Jakar Dzong was built in 1541.", "The altitude is 2600 m.", "Bumthang produces 10,000 tons of apples annually.", "The Bumthang Brewery produces 200,000 liters per year.", "Jakar Airport has a 1500 m runway.", "The town has a population of 5000."],
+    },
   },
   {
     id: "mongar-cities-v2",
@@ -297,6 +393,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/mongar-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mongar ist eine Stadt im östlichen Bhutan auf einer Höhe von etwa 1.600 Metern. Sie ist das administrative Zentrum des Distrikts Mongar und hat rund 6.500 Einwohner. Die Stadt ist bekannt für ihr modernes Mongar Dzong, das 1930 erbaut wurde, aber auch für die umliegenden Hügel und Wälder. Die Wirtschaft basiert auf Landwirtschaft (Mais, Kartoffeln, Äpfel) und staatlichen Dienstleistungen. Mongar ist ein wichtiges Handelszentrum für die östliche Region. Das Klima ist subtropisch mit angenehmen Sommern und milden Wintern. In der Umgebung gibt es heiße Quellen und Wanderwege. Die Bevölkerung besteht hauptsächlich aus den ethnischen Gruppen der Kheng und Tshangla. Mongar hat ein Krankenhaus, Schulen und einen Markt. Die Stadt ist auch für ihre Bambusprodukte bekannt. Der Fluss Mongar Chhu fließt durch die Stadt. In der Nähe befindet sich der Korila-Pass, der eine wichtige Verkehrsverbindung darstellt.",
+      hu: "Mongar Bhután keleti részén, 1.600 méter magasan fekszik. A város a Mongar körzet székhelye, lakossága kb. 6.500 fő. A település ismert a Mongar Dzongról, amely 1930-ban épült, és modern építészeti stílust képvisel. A gazdaság a mezőgazdaságra (kukorica, burgonya, alma) és a kereskedelemre épül. Mongar fontos regionális központ, ahonnan út vezet Trashigang és Lhuntse felé. Az éghajlat szubtrópusi, a nyarak melegek, a telek enyhék. A környéken forró termálforrások találhatók, például a Gyoza Termálfürdő. A város lakossága főleg a kheng és tshangla etnikumokból áll. Mongar híres bambusztermékeiről. A Mongar Chhu folyó átszeli a várost. A közeli Korila-hágó 2.450 méter magas, és fontos közlekedési útvonal. A városban kórház, iskolák és piac működik.",
+      ro: "Mongar este un oraș în estul Bhutanului, la o altitudine de aproximativ 1.600 de metri. Este reședința districtului Mongar, cu o populație de circa 6.500 de locuitori. Orașul este cunoscut pentru Mongar Dzong, construit în 1930 într-un stil arhitectural modern. Economia se bazează pe agricultură (porumb, cartofi, mere) și servicii. Mongar este un hub comercial pentru estul Bhutanului. Clima este subtropicală, cu veri calde și ierni blânde. În zonă există izvoare termale, cum ar fi Gyoza Hot Spring. Populația este compusă în principal din grupurile etnice Kheng și Tshangla. Orașul este renumit pentru articolele din bambus. Râul Mongar Chhu traversează localitatea. Pasul Korila, la 2.450 de metri, leagă Mongar de restul țării. Facilitățile includ un spital, școli și o piață.",
+      en: "Mongar is a town in eastern Bhutan at an elevation of about 1,600 meters. It is the administrative center of Mongar District, with a population of around 6,500. The town is known for the Mongar Dzong, built in 1930 in a modern architectural style. The economy relies on agriculture (maize, potatoes, apples) and government services. Mongar is a trading hub for the eastern region. The climate is subtropical, with warm summers and mild winters. Hot springs like Gyoza are found nearby. The majority of the population belongs to the Kheng and Tshangla ethnic groups. Mongar is famous for bamboo crafts. The Mongar Chhu river flows through the town. Korila Pass, at 2,450 meters, connects Mongar to other parts of Bhutan. The town has a hospital, schools, and markets.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.600 m.", "Einwohner: ca. 6.500.", "Baujahr des Dzong: 1930.", "Höhe des Korila-Passes: 2.450 m.", "Jährliche Touristenankünfte (2018): ca. 2.000.", "Durchschnittstemperatur im Juli: 25 °C."],
+      hu: ["Tengerszint feletti magasság: 1.600 m.", "Lakosság: kb. 6.500 fő.", "Dzong építési éve: 1930.", "Korila-hágó magassága: 2.450 m.", "Éves turistaérkezések (2018): kb. 2.000.", "Átlaghőmérséklet júliusban: 25 °C."],
+      ro: ["Altitudine: 1.600 m.", "Populație: aprox. 6.500.", "Anul construirii dzong-ului: 1930.", "Altitudinea Pasului Korila: 2.450 m.", "Sosiri turistice anuale (2018): aprox. 2.000.", "Temperatura medie în iulie: 25 °C."],
+      en: ["Elevation: 1,600 m.", "Population: approx. 6,500.", "Construction year of Dzong: 1930.", "Elevation of Korila Pass: 2,450 m.", "Annual tourist arrivals (2018): approx. 2,000.", "Average July temperature: 25 °C."],
+    },
   },
   {
     id: "trashigang-cities-v2",
@@ -330,6 +438,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/trashigang-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Trashigang ist eine Stadt im äußersten Osten Bhutans auf einer Höhe von etwa 1.100 Metern. Sie ist das administrative Zentrum des Distrikts Trashigang und die größte Stadt in Ostbhutan mit rund 8.000 Einwohnern (2017). Die Stadt liegt am Ufer des Drangme Chhu und ist bekannt für das Trashigang Dzong, das 1659 erbaut wurde und auf einem Felsvorsprung thront. Die Wirtschaft basiert auf Landwirtschaft (Reis, Mais, Zitrusfrüchte) und Handel. Trashigang ist ein wichtiger Verkehrsknotenpunkt für die östliche Region, mit Straßenverbindungen nach Mongar, Lhuntse und zum indischen Grenzort Samdrup Jongkhar. Das Klima ist subtropisch, mit heißen Sommern und milden Wintern. Die Stadt ist auch für ihre traditionellen Webereien bekannt, insbesondere für die Kira- und Gho-Stoffe. Der touristische Besuch ist aufgrund der abgelegenen Lage geringer als im Westen. Sehenswürdigkeiten sind das Dzong und die nahe gelegenen Dörfer.",
+      hu: "Trashigang Bhután legkeletibb részén, 1.100 méter magasan, a Drangme Chhu folyó partján fekszik. A város a Trashigang körzet székhelye, és Kelet-Bhután legnagyobb települése, kb. 8.000 fős népességgel (2017). A várost uraló Trashigang Dzong 1659-ben épült, és stratégiai védelmi pontként szolgált. A gazdaság a mezőgazdaságra (rizs, kukorica, citrusfélék) és a kereskedelemre épül. Trashigang fontos közlekedési csomópont, ahonnan utak indulnak Mongar, Lhuntse és India felé. Az éghajlat szubtrópusi, forró nyárral és enyhe téllel. A város híres a hagyományos szövésről, a kira és gho ruhák készítéséről. A távoli elhelyezkedés miatt kevesebb turista látogat el ide, de a környék természeti szépségei vonzóak. A közeli Rangjung kolostor szintén jelentős.",
+      ro: "Trashigang este un oraș în extremitatea estică a Bhutanului, la o altitudine de aproximativ 1.100 de metri, pe malul râului Drangme Chhu. Este reședința districtului Trashigang și cel mai mare oraș din estul Bhutanului, cu o populație de circa 8.000 de locuitori (2017). Orașul este dominat de Trashigang Dzong, construit în 1659 pe un pinten stâncos. Economia se bazează pe agricultură (orez, porumb, citrice) și comerț. Trashigang este un nod rutier important, cu legături către Mongar, Lhuntse și Samdrup Jongkhar. Clima este subtropicală, cu veri fierbinți și ierni blânde. Orașul este renumit pentru țesăturile tradiționale, în special pentru materialele kira și gho. Turismul este mai puțin dezvoltat decât în vest, dar peisajele sunt spectaculoase. În apropiere se află Mănăstirea Rangjung.",
+      en: "Trashigang is a town in far eastern Bhutan at an elevation of about 1,100 meters, on the banks of the Drangme Chhu. It is the administrative center of Trashigang District and the largest town in eastern Bhutan, with a population of around 8,000 (2017). The town is dominated by Trashigang Dzong, built in 1659 on a rocky spur. The economy is based on agriculture (rice, maize, citrus) and trade. Trashigang is a major transport hub, with roads connecting to Mongar, Lhuntse, and Samdrup Jongkhar. The climate is subtropical, with hot summers and mild winters. The town is known for traditional weaving, especially kira and gho textiles. Tourism is less developed than in western Bhutan, but the area offers scenic landscapes. Nearby attractions include Rangjung Monastery.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.100 m.", "Einwohner (2017): ca. 8.000.", "Bau des Dzong: 1659.", "Entfernung nach Thimphu: ca. 600 km.", "Jährliche Niederschlagsmenge: 1.500 mm.", "Länge der Straße nach Samdrup Jongkhar: 180 km."],
+      hu: ["Tengerszint feletti magasság: 1.100 m.", "Népesség (2017): kb. 8.000 fő.", "Dzong építése: 1659.", "Távolság Thimphutól: kb. 600 km.", "Éves csapadékmennyiség: 1.500 mm.", "Út hossza Samdrup Jongkhar felé: 180 km."],
+      ro: ["Altitudine: 1.100 m.", "Populație (2017): aprox. 8.000.", "Construirea dzong-ului: 1659.", "Distanța până la Thimphu: aprox. 600 km.", "Precipitații anuale: 1.500 mm.", "Lungimea drumului către Samdrup Jongkhar: 180 km."],
+      en: ["Elevation: 1,100 m.", "Population (2017): approx. 8,000.", "Construction of Dzong: 1659.", "Distance to Thimphu: approx. 600 km.", "Annual rainfall: 1,500 mm.", "Road length to Samdrup Jongkhar: 180 km."],
+    },
   },
   {
     id: "trongsa-cities-v2",
@@ -363,6 +483,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/trongsa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Trongsa liegt im Zentrum Bhutans auf einer Höhe von etwa 2.200 Metern. Die Stadt ist das administrative Zentrum des Distrikts Trongsa und hat rund 5.000 Einwohner. Sie ist bekannt für das riesige Trongsa Dzong, das 1648 erbaut wurde und die größte Festung in Bhutan ist. Der Dzong diente historisch als Sitz der Wangchuck-Dynastie, die heute die königliche Familie ist. Die Stadt liegt strategisch am einzigen Weg zwischen Ost- und Westbhutan. Die Wirtschaft basiert auf Landwirtschaft (Weizen, Gerste, Kartoffeln) und Tourismus. Das Klima ist gemäßigt, mit kühlen Sommern und kalten Wintern. In der Umgebung gibt es viele Wanderwege. Trongsa ist auch bekannt für seine traditionellen Handwerkskünste, insbesondere Holzschnitzerei. Der Dzong beherbergt ein Museum, das die Geschichte der bhutanischen Monarchie zeigt. Jedes Jahr findet das Trongsa Tshechu-Festival statt.",
+      hu: "Trongsa Bhután középső részén, 2.200 méter magasan fekszik. A város a Trongsa körzet székhelye, lakossága kb. 5.000 fő. Híres a Trongsa Dzongról, amely 1648-ban épült, és ez Bhután legnagyobb erődítménye. A dzong a Wangchuck-dinasztia bölcsője; itt született több király is. A város stratégiai helyen található a keleti és nyugati Bhutánt összekötő úton. A gazdaság a mezőgazdaságra (búza, árpa, burgonya) és a turizmusra épül. Az éghajlat mérsékelt, hűvös nyárral és hideg téllel. Trongsa híres a hagyományos fafaragásairól. A dzongban múzeum működik. A közeli Chendebji Csörten egy tibeti stílusú sztúpa. A város fontos zarándokhely.",
+      ro: "Trongsa este un oraș în centrul Bhutanului, la o altitudine de aproximativ 2.200 de metri. Este reședința districtului Trongsa, cu o populație de circa 5.000 de locuitori. Orașul este renumit pentru Trongsa Dzong, construit în 1648, cea mai mare fortăreață din Bhutan. Dzong-ul a fost leagănul dinastiei Wangchuck. Orașul este poziționat strategic pe singurul drum care leagă estul de vest. Economia se bazează pe agricultură (grâu, orz, cartofi) și turism. Clima este temperată, cu veri răcoroase și ierni reci. Trongsa este cunoscut pentru sculpturile în lemn. Dzong-ul găzduiește un muzeu al monarhiei. În apropiere se află Chendebji Chorten, o stupă de stil tibetan. Festivalul Trongsa Tshechu atrage mulți pelerini.",
+      en: "Trongsa is a town in central Bhutan at an elevation of about 2,200 meters. It is the administrative center of Trongsa District, with a population of around 5,000. The town is famous for Trongsa Dzong, built in 1648, the largest fortress in Bhutan. The dzong was the cradle of the Wangchuck dynasty, which produces the kings. Trongsa is strategically located on the only road connecting eastern and western Bhutan. The economy relies on agriculture (wheat, barley, potatoes) and tourism. The climate is temperate, with cool summers and cold winters. Trongsa is known for traditional wood carving. The dzong houses a museum on Bhutan's monarchy. Nearby Chendebji Chorten is a Tibetan-style stupa. The annual Trongsa Tshechu attracts pilgrims.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.200 m.", "Einwohner: ca. 5.000.", "Bau des Dzong: 1648.", "Größe des Dzong: größtes in Bhutan.", "Entfernung nach Thimphu: ca. 215 km.", "Jährliche Besucher des Museums: über 10.000."],
+      hu: ["Tengerszint feletti magasság: 2.200 m.", "Lakosság: kb. 5.000 fő.", "Dzong építése: 1648.", "A dzong mérete: a legnagyobb Bhutánban.", "Távolság Thimphutól: kb. 215 km.", "Múzeum éves látogatói: >10.000."],
+      ro: ["Altitudine: 2.200 m.", "Populație: aprox. 5.000.", "Construirea dzong-ului: 1648.", "Dimensiunea dzong-ului: cel mai mare din Bhutan.", "Distanța până la Thimphu: aprox. 215 km.", "Vizitatori anuali ai muzeului: peste 10.000."],
+      en: ["Elevation: 2,200 m.", "Population: approx. 5,000.", "Construction of Dzong: 1648.", "Dzong size: largest in Bhutan.", "Distance to Thimphu: approx. 215 km.", "Annual museum visitors: over 10,000."],
+    },
   },
   {
     id: "samtse-cities-v2",
@@ -396,6 +528,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/samtse-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Samtse liegt im Südwesten Bhutans an der Grenze zu Indien, auf einer Höhe von etwa 400 Metern. Die Stadt ist das administrative Zentrum des Distrikts Samtse und hat rund 6.000 Einwohner (2017). Die Wirtschaft basiert auf Landwirtschaft (Reis, Mais, Jute) und Handel mit Indien. Samtse hat ein subtropisches Klima mit heißen Sommern und Monsunregen. Die Stadt ist ethnisch vielfältig, mit einer großen nepalesischen Gemeinschaft. Die Umgebung ist hügelig und bewaldet. Samtse ist bekannt für seine Zitrusplantagen und Bambuswälder. Sehenswürdigkeiten sind das Samtse Dzong, das 1976 erbaut wurde, und die heißen Quellen in der Nähe. Die Stadt ist auch ein wichtiger Punkt für den Grenzhandel mit indischen Städten wie Siliguri. Die Infrastruktur umfasst ein Krankenhaus, Schulen und einen Markt. Der Fluss Torsa fließt durch die Region.",
+      hu: "Samtse Bhután délnyugati részén, az indiai határ közelében, 400 méter magasan fekszik. A város a Samtse körzet székhelye, lakossága kb. 6.000 fő (2017). A gazdaság a mezőgazdaságra (rizs, kukorica, juta) és a határ menti kereskedelemre épül. Az éghajlat szubtrópusi, forró nyárral és monszunesőkkel. A népesség etnikailag sokszínű, jelentős nepáli közösséggel. A környék dombos, trópusi erdőkkel. Samtse híres citrusültetvényeiről és bambuszligeteiről. A városban található a Samtse Dzong, amelyet 1976-ban építettek. A közeli forró források népszerűek. Samtse fontos kereskedelmi kapu India felé. A Torsa folyó átszeli a régiót. A városban kórház, iskolák és piac működik.",
+      ro: "Samtse este un oraș în sud-vestul Bhutanului, la granița cu India, la o altitudine de aproximativ 400 de metri. Este reședința districtului Samtse, cu o populație de circa 6.000 de locuitori (2017). Economia se bazează pe agricultură (orez, porumb, iută) și comerțul cu India. Clima este subtropicală, cu veri fierbinți și musoni abundenți. Populația este diversă etnic, inclusiv o comunitate nepaleză mare. Împrejurimile sunt deluroase și împădurite. Samtse este cunoscut pentru livezile de citrice și pădurile de bambus. Orașul are un dzong construit în 1976. În apropiere se află izvoare termale. Samtse servește ca punct comercial principal cu orașe indiene precum Siliguri. Râul Torsa traversează zona. Facilitățile includ spital, școli și piață.",
+      en: "Samtse is a town in southwestern Bhutan near the border with India, at an elevation of about 400 meters. It is the administrative center of Samtse District, with a population of around 6,000 (2017). The economy relies on agriculture (rice, maize, jute) and cross-border trade. The climate is subtropical, with hot summers and monsoon rains. The population is ethnically diverse, including a significant Nepali community. The surrounding area is hilly and forested. Samtse is known for its citrus orchards and bamboo forests. The Samtse Dzong was built in 1976. Hot springs are located nearby. The town is a key trade gateway with Indian cities like Siliguri. The Torsa River flows through the region. Facilities include a hospital, schools, and a market.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 400 m.", "Einwohner (2017): ca. 6.000.", "Baujahr des Dzong: 1976.", "Jahresniederschlag: >2.000 mm.", "Entfernung zur indischen Grenze: 2 km.", "Hauptanbauprodukte: Zitrusfrüchte, Bambus."],
+      hu: ["Tengerszint feletti magasság: kb. 400 m.", "Népesség (2017): kb. 6.000 fő.", "Dzong építési éve: 1976.", "Éves csapadék: >2.000 mm.", "Távolság az indiai határtól: 2 km.", "Fő termények: citrusfélék, bambusz."],
+      ro: ["Altitudine: aprox. 400 m.", "Populație (2017): aprox. 6.000.", "Anul construirii dzong-ului: 1976.", "Precipitații anuale: >2.000 mm.", "Distanța până la granița indiană: 2 km.", "Culturi principale: citrice, bambus."],
+      en: ["Elevation: approx. 400 m.", "Population (2017): approx. 6,000.", "Construction year of Dzong: 1976.", "Annual rainfall: >2,000 mm.", "Distance to Indian border: 2 km.", "Main crops: citrus, bamboo."],
+    },
   },
   {
     id: "damphu-cities-v2",
@@ -429,6 +573,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/damphu-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Damphu ist eine Stadt im zentralen Bhutan im Distrikt Tsirang, auf einer Höhe von etwa 1.200 Metern. Die Stadt hat rund 5.000 Einwohner und ist das administrative Zentrum des Distrikts. Die Wirtschaft basiert auf Landwirtschaft (Reis, Mais, Gemüse) und Kleinhandel. Damphu hat ein subtropisches Klima mit warmen Sommern und milden Wintern. Die Stadt ist bekannt für ihre freundlichen Einwohner und die traditionelle Lebensweise. In der Umgebung gibt es Wälder und Hügel. Sehenswürdigkeiten sind das Damphu Dzong, das in den 1990er Jahren erbaut wurde, und die nahe gelegenen Klöster. Der Ort dient als Raststätte für Reisende auf dem Weg nach Südbhutan. Die Infrastruktur umfasst eine Tankstelle, einen Markt und einige Gästehäuser. Damphu ist auch für seine Bambusprodukte bekannt. Der Fluss Tsirang Chhu fließt durch die Region.",
+      hu: "Damphu Bhután középső részén, a Csirang körzetben, 1.200 méter magasan fekszik. Népessége kb. 5.000 fő, és a körzet székhelye. A gazdaság a mezőgazdaságra (rizs, kukorica, zöldség) és a kiskereskedelemre épül. Az éghajlat szubtrópusi, meleg nyárral és enyhe téllel. A város híres a hagyományos bhutáni életmódról. A környező erdők és dombok természeti szépséget nyújtanak. A Damphu Dzongot az 1990-es években építették. A közeli kolostorok szintén látogathatók. Damphu fontos pihenőhely a déli útvonalon. Infrastruktúrája magában foglal egy benzinkutat, piacot és vendégházakat. A város bambusztermékeiről is ismert. A Csirang Chhu folyó a közelben folyik.",
+      ro: "Damphu este un oraș în centrul Bhutanului, în districtul Tsirang, la o altitudine de aproximativ 1.200 de metri. Are o populație de circa 5.000 de locuitori și este reședința districtului. Economia se bazează pe agricultură (orez, porumb, legume) și comerțul local. Clima este subtropicală, cu veri calde și ierni blânde. Orașul este cunoscut pentru modul de viață tradițional. În jur se găsesc păduri și dealuri. Damphu Dzong a fost construit în anii 1990. Mănăstirile din apropiere sunt atracții. Damphu servește ca popas pentru călătorii spre sud. Facilitățile includ o benzinărie, piață și pensiuni. Orașul este renumit pentru articolele din bambus. Râul Tsirang Chhu traversează zona.",
+      en: "Damphu is a town in central Bhutan in Tsirang District, at an elevation of about 1,200 meters. It has a population of around 5,000 and serves as the district's administrative center. The economy is based on agriculture (rice, maize, vegetables) and small-scale trade. The climate is subtropical, with warm summers and mild winters. The town is known for its traditional lifestyle. Surrounding hills and forests offer natural scenery. Damphu Dzong was built in the 1990s. Nearby monasteries are also attractions. Damphu is a stopover for travelers heading south. Facilities include a petrol station, market, and guesthouses. The town is known for bamboo crafts. The Tsirang Chhu river flows nearby.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.200 m.", "Einwohner: ca. 5.000.", "Bau des Dzong: 1990er Jahre.", "Entfernung nach Thimphu: ca. 110 km.", "Jährliche Niederschlagsmenge: 1.200 mm.", "Hauptprodukt: Bambushandwerk."],
+      hu: ["Tengerszint feletti magasság: 1.200 m.", "Lakosság: kb. 5.000 fő.", "Dzong építése: 1990-es évek.", "Távolság Thimphutól: kb. 110 km.", "Éves csapadékmennyiség: 1.200 mm.", "Fő termék: bambuszkézművesség."],
+      ro: ["Altitudine: 1.200 m.", "Populație: aprox. 5.000.", "Construirea dzong-ului: anii 1990.", "Distanța până la Thimphu: aprox. 110 km.", "Precipitații anuale: 1.200 mm.", "Produs principal: obiecte din bambus."],
+      en: ["Elevation: 1,200 m.", "Population: approx. 5,000.", "Construction of Dzong: 1990s.", "Distance to Thimphu: approx. 110 km.", "Annual rainfall: 1,200 mm.", "Main product: bamboo crafts."],
+    },
   },
   {
     id: "haa-cities-v2",
@@ -462,6 +618,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/haa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Haa ist eine Stadt im westlichen Bhutan im Haa-Tal, auf einer Höhe von etwa 2.700 Metern. Die Stadt hat rund 3.000 Einwohner und ist das administrative Zentrum des Distrikts Haa. Das Tal ist bekannt für seine unberührte Landschaft und gilt als eines der schönsten Bhutans. Die Wirtschaft basiert auf Landwirtschaft (Gerste, Weizen, Kartoffeln) und zunehmendem Tourismus. Haa hat ein gemäßigtes Klima mit kühlen Sommern und kalten Wintern. Sehenswürdigkeiten sind das Haa Dzong, das 1915 erbaut wurde, und das Lhakhang Karpo (Weißer Tempel) sowie das Lhakhang Nakpo (Schwarzer Tempel), die aus dem 7. Jahrhundert stammen sollen. Die Stadt ist ein beliebtes Ziel für Trekking und Vogelbeobachtung. Die Umgebung ist reich an Legenden und heiligen Stätten. Der Haa Chhu fließt durch das Tal. Die Bevölkerung besteht hauptsächlich aus den ethnischen Gruppen der Ngalop und Bumthang.",
+      hu: "Haa Bhután nyugati részén, a Haa-völgyben, 2.700 méter magasan fekszik. Népessége kb. 3.000 fő, a Haa körzet székhelye. A völgy Bhután egyik legszebb területe. A gazdaság a mezőgazdaságra (árpa, búza, burgonya) és a turizmusra épül. Az éghajlat mérsékelt, hűvös nyárral és hideg téllel. Haa ismert a Haa Dzongról (1915) és a Lhakhang Karpo (Fehér templom) és Lhakhang Nakpo (Fekete templom) nevű 7. századi templomokról. A város népszerű a túrázók és madármegfigyelők körében. A környék legendákban gazdag. A Haa Chhu folyó átszeli a völgyet. A lakosság főként ngalop és bumthang etnikumú.",
+      ro: "Haa este un oraș în vestul Bhutanului, în valea Haa, la o altitudine de aproximativ 2.700 de metri. Are aproximativ 3.000 de locuitori și este reședința districtului Haa. Valea este renumită pentru peisajele sale virgine. Economia se bazează pe agricultură (orz, grâu, cartofi) și turism. Clima este temperată, cu veri răcoroase și ierni reci. Haa este cunoscut pentru Haa Dzong (1915) și templele Lhakhang Karpo (Alb) și Lhakhang Nakpo (Negru), datând din secolul al VII-lea. Orașul atrage drumeții și observatorii de păsări. Zona abundă în legende. Râul Haa Chhu traversează valea. Populația este preponderent ngalop și bumthang.",
+      en: "Haa is a town in western Bhutan in the Haa Valley, at an elevation of about 2,700 meters. It has a population of around 3,000 and is the administrative center of Haa District. The valley is known for its pristine beauty. The economy is based on agriculture (barley, wheat, potatoes) and tourism. The climate is temperate, with cool summers and cold winters. Haa is known for Haa Dzong (built 1915) and the Lhakhang Karpo (White Temple) and Lhakhang Nakpo (Black Temple), believed to date from the 7th century. The town is popular for trekking and birdwatching. The area is rich in legends. The Haa Chhu river flows through the valley. The population is predominantly Ngalop and Bumthang.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.700 m.", "Einwohner: ca. 3.000.", "Bau des Haa Dzong: 1915.", "Alter der Lhakhang Karpo und Nakpo: 7. Jahrhundert.", "Entfernung nach Thimphu: ca. 80 km.", "Jährliche Touristenankünfte (2019): ca. 1.500."],
+      hu: ["Tengerszint feletti magasság: 2.700 m.", "Lakosság: kb. 3.000 fő.", "Haa Dzong építése: 1915.", "Lhakhang Karpo és Nakpo kora: 7. század.", "Távolság Thimphutól: kb. 80 km.", "Éves turistaérkezések (2019): kb. 1.500."],
+      ro: ["Altitudine: 2.700 m.", "Populație: aprox. 3.000.", "Construirea Haa Dzong: 1915.", "Vechimea Lhakhang Karpo și Nakpo: secolul VII.", "Distanța până la Thimphu: aprox. 80 km.", "Sosiri turistice anuale (2019): aprox. 1.500."],
+      en: ["Elevation: 2,700 m.", "Population: approx. 3,000.", "Construction of Haa Dzong: 1915.", "Age of Lhakhang Karpo and Nakpo: 7th century.", "Distance to Thimphu: approx. 80 km.", "Annual tourist arrivals (2019): approx. 1,500."],
+    },
   },
   {
     id: "lhuntse-cities-v2",
@@ -495,6 +663,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/lhuntse-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Lhuntse ist eine Stadt im Nordosten Bhutans und Hauptstadt des gleichnamigen Distrikts. Sie liegt auf etwa 1500 Metern Höhe im Tal des Kuri Chhu. Die Region ist bekannt für ihre traditionellen Textilien, insbesondere die Kushuthara, ein aufwendig bestickter Stoff, der bei zeremoniellen Anlässen getragen wird. Lhuntse beherbergt den Lhuntse-Dzong, der im 17. Jahrhundert erbaut wurde. Die Wirtschaft basiert auf Landwirtschaft und Viehzucht, wobei Yaks eine wichtige Rolle spielen.",
+      hu: "Lhuntse Bhután egyik legelzártabb régiója, megőrizve a hagyományos életmódot. A városban található a Lhuntse Dzong, amely a Kuri Chhu folyóra néz. A környék híres a sáfrányról és a gyógynövényekről. A buddhista kolostorok, mint a Takila Lhakhang, fontos zarándokhelyek. A Lhuntse Tshechu fesztiválon bemutatják a helyi maszkos táncokat. A gazdaságot a mezőgazdaság és a kézművesség uralja.",
+      ro: "Lhuntse este un oraș mic, cu o populație de aproximativ 2000 de locuitori. Este situat la o altitudine de 1500 m, în nord-estul Bhutanului. Economia se bazează pe agricultură de subzistență: orez, porumb și cartofi. Creșterea iacilor este importantă pentru produse lactate și lână. Regiunea este renumită pentru țesăturile tradiționale, în special pentru broderia kushuthara. Clima este subtropicală, cu veri umede și ierni uscate.",
+      en: "Lhuntse is known for its high-quality textiles and is considered the birthplace of the kushuthara, a traditional Bhutanese costume. The Lhuntse Dzong was built in 1654 and houses the district administration and monk body. The region is rich in biodiversity, with forests of pine, oak, and rhododendron. Wildlife includes snow leopards and red pandas. The town serves as a starting point for treks to the remote eastern mountains. Local cuisine features dishes like momo dumplings and yak cheese.",
+    },
+    factsAdvanced: {
+      de: ["Lhuntse liegt auf 1500 m Höhe.", "Der Lhuntse-Dzong wurde 1654 erbaut.", "Die Stadt hat etwa 2000 Einwohner.", "Die Kushuthara-Stickerei benötigt 2-3 Monate Arbeit.", "Die Region produziert jährlich 500 Tonnen Kartoffeln.", "Yakzucht umfasst über 10.000 Tiere im Distrikt."],
+      hu: ["A Lhuntse Tshechu fesztivál 3 napig tart.", "A Takila Lhakhang templomot a 8. században alapították.", "Sáfránytermesztés évi 50 kg.", "A kushuthara ára eléri a 10.000 dollárt.", "A Kuri Chhu folyó 120 km hosszú.", "A dzong 4 szintből áll."],
+      ro: ["Populația districtului Lhuntse este de ~14.000.", "Altitudinea medie este de 1500 m.", "Producția anuală de orez este de 300 de tone.", "Creșterea iacilor produce 200 de tone de brânză anual.", "Suprafața pădurilor este de 80% din district.", "Temperatura medie anuală este de 18°C."],
+      en: ["Lhuntse Dzong was built in 1654.", "Population of Lhuntse town is 2000.", "The kushuthara is handmade.", "Yak population in Lhuntse is 10,000.", "Annual potato production is 500 tons.", "The town altitude is 1500 m."],
+    },
   },
   {
     id: "pemagatshel-cities-v2",
@@ -573,6 +753,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/zhemgang-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Zhemgang ist eine Stadt im Süden Bhutans und Hauptstadt des Distrikts Zhemgang. Sie liegt auf etwa 900 Metern Höhe in einer Hügelregion. Die Stadt ist ein Tor zum Royal Manas National Park, einem der ältesten Schutzgebiete Bhutans. Die Wirtschaft wird von Landwirtschaft und Tourismus dominiert. Zhemgang beherbergt den Zhemgang-Dzong, der im 17. Jahrhundert erbaut wurde. Die Region ist bekannt für ihre Bambusprodukte und traditionellen Tänze.",
+      hu: "Zhemgang Bhután egyik legkevésbé fejlett régiója, ahol a lakosság nagy része mezőgazdaságból él. A város a Zhemgang Dzong körül épült, amely fontos közigazgatási központ. A környék híres a vadvilágról, különösen az ázsiai elefántokról és a tigrisekről. A Royal Manas Nemzeti Park a 20. század eleje óta védett terület. A helyi közösségek hagyományos házakban élnek, amelyek fa- és bambuszépítészetűek.",
+      ro: "Zhemgang este un oraș mic cu o populație de aproximativ 3000 de locuitori. Altitudinea este de 900 m. Clima este subtropicală, cu precipitații abundente, până la 3000 mm anual. Economia se bazează pe agricultură (orez, porumb, citrice) și silvicultură. Orașul este un centru pentru excursii în Parcul Național Royal Manas. Meșteșugurile includ coșuri de bambus și țesături.",
+      en: "Zhemgang is the gateway to the Royal Manas National Park, a UNESCO World Heritage site. The park covers 1,057 km² and is home to Bengal tigers, Asian elephants, and golden langurs. The Zhemgang Dzong was built in 1638 and reconstructed in the 20th century. The region is known for its birdwatching, with over 400 species recorded. Local communities practice shifting agriculture and maintain traditional bamboo crafts. The town has seen growth in eco-tourism infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Zhemgang liegt auf 900 m Höhe.", "Der Zhemgang-Dzong wurde 1638 erbaut.", "Die Stadt hat 3000 Einwohner.", "Der Royal Manas Nationalpark ist 1057 km² groß.", "Jährlich fallen 3000 mm Niederschlag.", "Die Region zählt über 400 Vogelarten."],
+      hu: ["A Royal Manas Nemzeti Parkot 1966-ban alapították.", "A park területe 1057 km².", "Bhutánban 68 tigris él, közülük sokan itt.", "A helyi bambusz kézművesség 100 éves múltra tekint vissza.", "A Zhemgang Tshechu fesztivál 2 napig tart.", "A város éves turistaforgalma 5000 fő."],
+      ro: ["Populația orașului Zhemgang este de 3000.", "Parcul Național Royal Manas se întinde pe 1057 km².", "Precipitațiile anuale sunt de 3000 mm.", "Altitudinea orașului este de 900 m.", "Specia de langur auriu este endemică.", "Temperatura medie este de 22°C."],
+      en: ["Zhemgang Dzong was built in 1638.", "Royal Manas National Park covers 1,057 km².", "Annual rainfall is 3000 mm.", "Elevation is 900 m.", "Bird species count is over 400.", "The park is part of the Manas Transboundary Conservation Area."],
+    },
   },
   {
     id: "gasa-cities-v2",
@@ -606,6 +798,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/gasa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Gasa ist eine Stadt im Nordwesten Bhutans und Hauptstadt des Distrikts Gasa. Sie liegt auf einer Höhe von etwa 2800 Metern und ist bekannt für ihre heißen Quellen, die als heilig gelten. Der Gasa-Dzong wurde im 17. Jahrhundert erbaut und dient als Kloster und Verwaltungszentrum. Die Region ist dünn besiedelt, mit einer Wirtschaft, die auf Yakzucht, Kartoffelanbau und Tourismus basiert. Gasa ist ein beliebtes Ziel für Trekkingtouren durch den Jigme Dorji Nationalpark.",
+      hu: "Gasa Bhután egyik legmagasabban fekvő városa, ahonnan lenyűgöző kilátás nyílik a Himalájára. A Gasa Dzong a 17. században épült, és a helyiek szerint egy szent sárkány helyén áll. A város híres a gyógyhatású termálforrásairól, amelyeket a buddhista zarándokok évszázadok óta használnak. A környék számos kolostornak ad otthont, mint a Tarachok Gompa. A gazdaság a mezőgazdaságra és a turizmusra épül.",
+      ro: "Gasa este un oraș mic, cu o populație de aproximativ 1000 de locuitori. Este situat la altitudinea de 2800 m, în nord-vestul Bhutanului. Clima este montană, cu ierni reci și veri răcoroase. Economia se bazează pe creșterea iacilor, cultivarea cartofilor și turism. Băile termale naturale atrag vizitatori. Orașul este poarta de intrare în Parcul Național Jigme Dorji. Construcțiile sunt tradiționale, din piatră și lemn.",
+      en: "Gasa is the smallest dzongkhag capital in Bhutan and a starting point for the famous Snowman Trek. The Gasa Dzong was built in 1640 and is one of the most isolated dzongs. The region is known for its pristine wilderness and snow-capped peaks. Wildlife includes blue sheep, Himalayan musk deer, and the elusive takin. The hot springs at Gasa are believed to have medicinal properties. The local economy relies heavily on tourism, with homestays and camping.",
+    },
+    factsAdvanced: {
+      de: ["Gasa liegt auf 2800 m Höhe.", "Der Gasa-Dzong wurde 1640 erbaut.", "Die Stadt hat 1000 Einwohner.", "Es gibt 3 heiße Quellen mit Temperaturen bis 80°C.", "Der Distrikt ist 1600 km² groß.", "Die Yak-Population beträgt 5000 Tiere."],
+      hu: ["A Snowman Trek 24 napos túra.", "A Gasa Dzongot 1640-ben építették.", "A termálforrások hőmérséklete 60-80°C.", "A Jigme Dorji Nemzeti Park 4316 km².", "A város évi csapadékmennyisége 1500 mm.", "A lakosság 80%-a mezőgazdaságból él."],
+      ro: ["Altitudinea este de 2800 m.", "Populația orașului este de 1000.", "Parcul Național Jigme Dorji are 4316 km².", "Temperaturile de iarnă scad la -10°C.", "Producția anuală de cartofi este de 200 de tone.", "Cele 3 izvoare termale au temperaturi între 60-80°C."],
+      en: ["Gasa Dzong was built in 1640.", "Elevation is 2800 m.", "Jigme Dorji National Park covers 4316 km².", "Hot spring temperature is 60-80°C.", "Population is 1000.", "The Snowman Trek is 24 days long."],
+    },
   },
   {
     id: "daga-cities-v2",
@@ -639,6 +843,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/daga-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Daga ist eine Stadt im Süden Bhutans und Hauptstadt des Distrikts Dagana. Sie liegt auf etwa 1500 Metern Höhe in einer bergigen Region. Der Daga-Dzong wurde im 17. Jahrhundert erbaut und dient als religiöses und administratives Zentrum. Die Wirtschaft basiert auf Landwirtschaft und Handel. Die Region ist bekannt für ihre Orangenplantagen und den Anbau von Kardamom. Daga ist auch für seine traditionelle Musik und Tänze bekannt.",
+      hu: "Daga Bhután egyik fontos kereskedelmi csomópontja, amely összeköti a déli és északi régiókat. A Daga Dzong a 17. századi építészet remeke. A város híres a narancsáról, amelyet Indiába exportálnak. A környék lakói főként a lhotsampa etnikai csoporthoz tartoznak. A kultúra sokszínű, a hindu és buddhista hagyományok keverednek. A gazdaság a mezőgazdaságra és a turizmusra támaszkodik.",
+      ro: "Daga este un oraș cu o populație de aproximativ 4000 de locuitori. Altitudinea este de 1500 m. Clima este subtropicală. Economia se bazează pe agricultură: orez, portocale și cardamom. Orașul are o piață locală importantă. Daga Dzong-ul este o fortăreață impresionantă. Regiunea este cunoscută pentru pădurile de sal și tec. Recent, s-a dezvoltat apicultura.",
+      en: "Daga is the capital of Dagana District, known for its orange production and subtropical climate. The Daga Dzong was built in 1651 and houses the district administration. The town is a hub for trade with India, exporting agricultural products. The population is ethnically diverse, including Lhotsampas and Bhutias. The region is part of the Himalayan subtropical pine forests ecoregion. Local festivals blend Buddhist and Hindu elements.",
+    },
+    factsAdvanced: {
+      de: ["Daga liegt auf 1500 m Höhe.", "Der Daga-Dzong wurde 1651 erbaut.", "Die Stadt hat 4000 Einwohner.", "Die Orangenplantagen erstrecken sich über 500 ha.", "Der Distrikt produziert jährlich 2000 Tonnen Kardamom.", "Die jährliche Niederschlagsmenge beträgt 2000 mm."],
+      hu: ["A Daga Dzong 1651-ben épült.", "A narancsexport évi 10 millió dollár.", "A lhotsampa lakosság aránya 40% a környéken.", "A város piaca hetente 2 napon tart nyitva.", "A kardamomtermelés évi 2000 tonna.", "A Daga Tshechu fesztivál 3 napig tart."],
+      ro: ["Populația orașului Daga este de 4000.", "Altitudinea este de 1500 m.", "Producția anuală de portocale este de 10.000 de tone.", "Suprafața pădurilor este de 70% din district.", "Temperatura medie anuală este de 20°C.", "Daga Dzong-ul are 2 etaje."],
+      en: ["Daga Dzong was built in 1651.", "Elevation is 1500 m.", "Annual orange production is 10,000 tons.", "Population is 4000.", "Cardamom production is 2000 tons per year.", "Rainfall is 2000 mm annually."],
+    },
   },
   {
     id: "nganglam-cities-v2",
@@ -717,6 +933,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/sarpang-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Sarpang ist eine Stadt im Süden Bhutans und Hauptstadt des Distrikts Sarpang. Sie liegt auf etwa 400 Metern Höhe im subtropischen Tiefland. Die Stadt ist ein wichtiges wirtschaftliches Zentrum mit Industrie und Handel. Der Sarpang-Dzong wurde im 17. Jahrhundert erbaut. Die Region ist bekannt für ihre Reisfelder und Kautschukplantagen. Sarpang hat eine ethnisch vielfältige Bevölkerung mit Nepalesen und Bhutia.",
+      hu: "Sarpang Bhután déli kapuja, közvetlenül az indiai határ mellett. A város fontos tranzitpont a nemzetközi kereskedelemben. A Sarpang Dzong a 17. században épült. A gazdaságot a mezőgazdaság és a könnyűipar jellemzi. A régió híres a gumiültetvényekről és a rizstermesztésről. A lakosság nagy része nepalai származású. A kultúra a hindu és buddhista hagyományok keveréke.",
+      ro: "Sarpang este un oraș de frontieră cu o populație de aproximativ 10.000 de locuitori. Altitudinea este de 400 m. Clima este tropicală, cu veri fierbinți și ierni blânde. Economia se bazează pe comerț, agricultură (orez, trestie de zahăr) și industria ușoară. Sarpang Dzong-ul este un monument istoric. Orașul are un spital și școli. Recent, s-a dezvoltat sectorul serviciilor.",
+      en: "Sarpang is the economic hub of southern Bhutan, with a thriving industrial estate. The town is home to the Sarpang Dzong, built in 1654. The region has a high concentration of rubber and tea plantations. The population is predominantly Nepali-speaking, with a mix of other ethnic groups. Sarpang serves as a transit point for goods from India. The local economy is diversifying into manufacturing and logistics.",
+    },
+    factsAdvanced: {
+      de: ["Sarpang liegt auf 400 m Höhe.", "Der Sarpang-Dzong wurde 1654 erbaut.", "Die Stadt hat 10.000 Einwohner.", "Die Gummibaumplantagen erstrecken sich über 2000 ha.", "Das Industriegebiet umfasst 50 Fabriken.", "Die jährliche Durchschnittstemperatur beträgt 25°C."],
+      hu: ["A Sarpang Dzong 1654-ben épült.", "A város lakossága 10.000 fő.", "A gumiültetvények 2000 hektáron terülnek el.", "Az ipari park 50 hektáron fekszik.", "Az évi átlaghőmérséklet 25°C.", "A rizstermelés évi 5000 tonna."],
+      ro: ["Populația orașului Sarpang este de 10.000.", "Altitudinea este de 400 m.", "Suprafața plantațiilor de cauciuc este de 2000 ha.", "Temperatura medie anuală este de 25°C.", "Producția anuală de orez este de 5000 de tone.", "Sarpang Dzong-ul datează din 1654."],
+      en: ["Sarpang Dzong was built in 1654.", "Population is 10,000.", "Rubber plantations cover 2000 ha.", "Industrial estate has 50 factories.", "Average temperature is 25°C.", "Annual rice production is 5000 tons."],
+    },
   },
   {
     id: "tsimasham-cities-v2",
@@ -750,6 +978,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/tsimasham-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tsimasham ist ein Ort im Distrikt Chukha in Bhutan, der für seine strategische Lage an der Hauptstraße zwischen Phuentsholing und Thimphu bekannt ist. Der Ort dient als wichtiger Haltepunkt für Reisende und bietet einen Einblick in das ländliche Leben Bhutans. In der Umgebung befinden sich mehrere Klöster und traditionelle Bauernhöfe. Die Wirtschaft basiert hauptsächlich auf Landwirtschaft und Kleinhandel.",
+      hu: "Tsimasham Bhután Chukha körzetében található település, amely a Phuentsholing és Thimphu közötti főút mentén fekszik. A település fontos pihenőhely az utazók számára, és betekintést nyújt Bhután vidéki életébe. A környéken több kolostor és hagyományos gazdaság található. A gazdaság főként mezőgazdaságon és kiskereskedelmen alapul.",
+      ro: "Tsimasham este o localitate din districtul Chukha, Bhutan, situată pe drumul principal dintre Phuentsholing și Thimphu. Servește ca un important punct de oprire pentru călători și oferă o privire asupra vieții rurale din Bhutan. În împrejurimi se află mai multe mănăstiri și ferme tradiționale. Economia se bazează în principal pe agricultură și comerțul cu amănuntul.",
+      en: "Tsimasham is a settlement in Chukha District, Bhutan, located along the main highway connecting Phuentsholing and Thimphu. It serves as a key stopover for travelers and offers insight into rural Bhutanese life. The surrounding area features monasteries and traditional farms. The local economy relies on agriculture and small-scale retail.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 1.200 m", "Entfernung nach Thimphu: etwa 60 km", "Bevölkerung: ca. 1.500 (Schätzung)", "Jährliche Niederschlagsmenge: über 2.000 mm", "Gründungsjahr der ersten Siedlung: 17. Jahrhundert", "Anzahl der Klöster in der Umgebung: 3"],
+      hu: ["Tengerszint feletti magasság: kb. 1200 m", "Távolság Thimphutól: kb. 60 km", "Lakosság: kb. 1500 fő (becslés)", "Éves csapadékmennyiség: több mint 2000 mm", "Az első település alapításának éve: 17. század", "A környéken található kolostorok száma: 3"],
+      ro: ["Altitudine: aproximativ 1.200 m", "Distanța până la Thimphu: circa 60 km", "Populație: aproximativ 1.500 (estimare)", "Precipitații anuale: peste 2.000 mm", "Anul înființării primei așezări: secolul al XVII-lea", "Numărul mănăstirilor din zonă: 3"],
+      en: ["Elevation: approximately 1,200 m", "Distance to Thimphu: about 60 km", "Population: approx. 1,500 (estimate)", "Annual rainfall: over 2,000 mm", "Year of first settlement: 17th century", "Number of monasteries in the area: 3"],
+    },
   },
   {
     id: "deothang-cities-v2",
@@ -828,6 +1068,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/kanglung-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kanglung ist ein Ort im Distrikt Trashigang in Ostbhutan, bekannt als Standort des Sherubtse College, der ersten Hochschule des Landes. Der Ort spielt eine zentrale Rolle in der Bildung und bildet viele Jungendliche aus. Die Umgebung ist geprägt von Reisterrassen und dichten Wäldern. Die Wirtschaft ist stark von der Hochschule und der Landwirtschaft abhängig.",
+      hu: "Kanglung Bhután Trashigang körzetében található, és a Sherubtse College-nak ad otthont, amely az ország első főiskolája. A település központi szerepet játszik az oktatásban, számos fiatalt képezve. A környéket rizsteraszok és sűrű erdők jellemzik. A gazdaság nagymértékben függ a főiskolától és a mezőgazdaságtól.",
+      ro: "Kanglung este o localitate din districtul Trashigang, estul Bhutanului, cunoscută ca sediul Sherubtse College, prima instituție de învățământ superior din țară. Localitatea joacă un rol central în educație, formând mulți tineri. Împrejurimile sunt caracterizate de terase de orez și păduri dese. Economia depinde în mare măsură de colegiu și de agricultură.",
+      en: "Kanglung is a settlement in Trashigang District, eastern Bhutan, best known as the site of Sherubtse College, the country's first tertiary institution. It plays a central role in education, training many young Bhutanese. The area features rice terraces and dense forests. The economy relies heavily on the college and agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 2.000 (einschließlich Studenten)", "Höhe: ca. 1.800 m", "Gründung des Sherubtse College: 1966", "Anzahl der Studenten: über 1.000", "Entfernung nach Trashigang: etwa 20 km", "Jährliche Durchschnittstemperatur: 15°C"],
+      hu: ["Lakosság: kb. 2000 fő (diákokkal együtt)", "Tengerszint feletti magasság: kb. 1800 m", "A Sherubtse College alapításának éve: 1966", "Diákok száma: több mint 1000", "Távolság Trashigangtól: kb. 20 km", "Éves átlaghőmérséklet: 15°C"],
+      ro: ["Populație: aproximativ 2.000 (inclusiv studenți)", "Altitudine: aproximativ 1.800 m", "Anul înființării Sherubtse College: 1966", "Numărul de studenți: peste 1.000", "Distanța până la Trashigang: circa 20 km", "Temperatura medie anuală: 15°C"],
+      en: ["Population: approx. 2,000 (including students)", "Elevation: approximately 1,800 m", "Year Sherubtse College was founded: 1966", "Number of students: over 1,000", "Distance to Trashigang: about 20 km", "Average annual temperature: 15°C"],
+    },
   },
   {
     id: "gyalpozhing-cities-v2",
@@ -906,6 +1158,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/wamrong-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Wamrong ist ein kleines Dorf im Distrikt Trashigang, bekannt für den Wamrong-Tempel und seine traditionelle Handwerkskunst. Der Ort liegt abseits der Hauptstraße und bietet einen ruhigen Rückzugsort. Die lokale Wirtschaft basiert auf Landwirtschaft, insbesondere dem Anbau von Kartoffeln und Mais. Wamrong ist auch ein Ausgangspunkt für Wanderungen in die umliegenden Hügel.",
+      hu: "Wamrong egy kis falu Bhután Trashigang körzetében, ismert a Wamrong-templomról és hagyományos kézművességéről. A település a főúttól távol fekszik, csendes pihenőhelyet kínálva. A helyi gazdaság a mezőgazdaságon alapul, különösen a burgonya és a kukorica termesztésén. Wamrong egyben kiindulópont a környező dombokba tett túrákhoz.",
+      ro: "Wamrong este un mic sat din districtul Trashigang, Bhutan, cunoscut pentru templul Wamrong și meșteșugurile tradiționale. Satul este situat departe de drumul principal, oferind un refugiu liniștit. Economia locală se bazează pe agricultură, în special pe cultivarea cartofilor și a porumbului. Wamrong este, de asemenea, un punct de plecare pentru drumeții în dealurile din jur.",
+      en: "Wamrong is a small village in Trashigang District, Bhutan, known for the Wamrong Temple and traditional handicrafts. The village is located off the main road, offering a quiet retreat. The local economy relies on agriculture, especially potato and maize cultivation. Wamrong also serves as a starting point for hikes into the surrounding hills.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 500", "Höhe: ca. 2.000 m", "Entfernung nach Trashigang: etwa 30 km", "Jährliche Niederschlagsmenge: ca. 1.500 mm", "Anzahl der Haushalte: etwa 100", "Gründungsjahr des Tempels: 18. Jahrhundert"],
+      hu: ["Lakosság: kb. 500 fő", "Tengerszint feletti magasság: kb. 2000 m", "Távolság Trashigangtól: kb. 30 km", "Éves csapadékmennyiség: kb. 1500 mm", "Háztartások száma: kb. 100", "A templom alapításának éve: 18. század"],
+      ro: ["Populație: aproximativ 500", "Altitudine: aproximativ 2.000 m", "Distanța până la Trashigang: circa 30 km", "Precipitații anuale: circa 1.500 mm", "Numărul de gospodării: aproximativ 100", "Anul construirii templului: secolul al XVIII-lea"],
+      en: ["Population: approx. 500", "Elevation: approximately 2,000 m", "Distance to Trashigang: about 30 km", "Annual rainfall: about 1,500 mm", "Number of households: around 100", "Year the temple was built: 18th century"],
+    },
   },
   {
     id: "rangjung-cities-v2",
@@ -939,6 +1203,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/rangjung-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Rangjung ist ein Ort im Distrikt Trashigang, der für sein Kloster, das Rangjung Chokhorling, bekannt ist. Der Ort ist ein wichtiges religiöses Zentrum in Ostbhutan. Die Umgebung bietet atemberaubende Ausblicke auf die Berge und Täler. Die Wirtschaft wird von Landwirtschaft und Klosteraktivitäten geprägt.",
+      hu: "Rangjung Bhután Trashigang körzetében található, és a Rangjung Chokhorling kolostoráról ismert. A település fontos vallási központ Kelet-Bhutánban. A környező hegyek és völgyek lenyűgöző kilátást nyújtanak. A gazdaságot a mezőgazdaság és a kolostori tevékenységek határozzák meg.",
+      ro: "Rangjung este o localitate din districtul Trashigang, Bhutan, cunoscută pentru mănăstirea sa, Rangjung Chokhorling. Localitatea este un important centru religios în estul Bhutanului. Împrejurimile oferă priveliști impresionante asupra munților și văilor. Economia este modelată de agricultură și activitățile monahale.",
+      en: "Rangjung is a settlement in Trashigang District, Bhutan, known for its monastery, Rangjung Chokhorling. It is an important religious center in eastern Bhutan. The surrounding area offers stunning views of mountains and valleys. The economy is shaped by agriculture and monastic activities.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 1.200", "Höhe: ca. 2.100 m", "Gründungsjahr des Klosters: 1985", "Anzahl der Mönche: etwa 150", "Entfernung nach Trashigang: etwa 15 km", "Fläche des Klostergeländes: 5 Hektar"],
+      hu: ["Lakosság: kb. 1200 fő", "Tengerszint feletti magasság: kb. 2100 m", "A kolostor alapításának éve: 1985", "Szerzetesek száma: kb. 150", "Távolság Trashigangtól: kb. 15 km", "A kolostor területe: 5 hektár"],
+      ro: ["Populație: aproximativ 1.200", "Altitudine: aproximativ 2.100 m", "Anul înființării mănăstirii: 1985", "Numărul de călugări: aproximativ 150", "Distanța până la Trashigang: circa 15 km", "Suprafața mănăstirii: 5 hectare"],
+      en: ["Population: approx. 1,200", "Elevation: approximately 2,100 m", "Year monastery was established: 1985", "Number of monks: about 150", "Distance to Trashigang: about 15 km", "Area of monastery grounds: 5 hectares"],
+    },
   },
   {
     id: "khuruthang-cities-v2",
@@ -972,6 +1248,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/khuruthang-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Khuruthang ist eine Siedlung im Distrikt Punakha, die sich entlang des Flusses Mo Chhu erstreckt. Der Ort dient als Tor zum berühmten Punakha Dzong und ist bekannt für seine Reisfelder und traditionellen Bauernhäuser. Die Landwirtschaft, insbesondere der Reisanbau, ist der wichtigste Wirtschaftszweig. Khuruthang ist auch ein beliebter Ort für Vogelbeobachtungen.",
+      hu: "Khuruthang Bhután Punakha körzetében található település, amely a Mo Chhu folyó mentén húzódik. A település kapuként szolgál a híres Punakha Dzonghoz, és rizsföldjeiről és hagyományos parasztházairól ismert. A mezőgazdaság, különösen a rizstermesztés, a legfontosabb gazdasági ág. Khuruthang népszerű madármegfigyelő hely is.",
+      ro: "Khuruthang este o așezare în districtul Punakha, Bhutan, situată de-a lungul râului Mo Chhu. Localitatea servește ca poartă de intrare către faimosul Punakha Dzong și este cunoscută pentru orezăriile și casele tradiționale țărănești. Agricultura, în special cultivarea orezului, este principala ramură economică. Khuruthang este, de asemenea, un loc popular pentru observarea păsărilor.",
+      en: "Khuruthang is a settlement in Punakha District, Bhutan, stretching along the Mo Chhu River. It serves as a gateway to the famous Punakha Dzong and is known for its rice paddies and traditional farmhouses. Agriculture, especially rice cultivation, is the main economic activity. Khuruthang is also a popular birdwatching spot.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 800", "Höhe: ca. 1.300 m", "Entfernung zum Punakha Dzong: etwa 3 km", "Jährliche Ernte von Reis: ca. 500 Tonnen", "Anzahl der Vogelarten in der Gegend: über 100", "Gründungsjahr der Siedlung: 19. Jahrhundert"],
+      hu: ["Lakosság: kb. 800 fő", "Tengerszint feletti magasság: kb. 1300 m", "Távolság a Punakha Dzongtól: kb. 3 km", "Éves rizstermés: kb. 500 tonna", "A környéken található madárfajok száma: több mint 100", "A település alapításának éve: 19. század"],
+      ro: ["Populație: aproximativ 800", "Altitudine: aproximativ 1.300 m", "Distanța până la Punakha Dzong: circa 3 km", "Recolta anuală de orez: circa 500 de tone", "Numărul de specii de păsări din zonă: peste 100", "Anul înființării așezării: secolul al XIX-lea"],
+      en: ["Population: approx. 800", "Elevation: approximately 1,300 m", "Distance to Punakha Dzong: about 3 km", "Annual rice harvest: about 500 tons", "Number of bird species in the area: over 100", "Year the settlement was founded: 19th century"],
+    },
   },
   {
     id: "trashi-yangtse-cities-v2",
@@ -1005,6 +1293,18 @@ export const poiExtraBhutanCitiesV2: POI[] = [
       ]
     },
     image: "/poi-images/trashi-yangtse-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Trashi Yangtse ist eine Stadt im gleichnamigen Distrikt im Osten Bhutans. Sie ist bekannt für die Trashi Yangtse Dzong, die administrative und religiöse Bedeutung hat. Die Stadt liegt in einem malerischen Tal und ist ein Zentrum für den Anbau von Kardamom und anderen Gewürzen. Der Tourismus wächst langsam, da die Region abgelegen ist.",
+      hu: "Trashi Yangtse város Kelet-Bhutánban, az azonos nevű körzet székhelye. Ismert a Trashi Yangtse Dzongról, amely közigazgatási és vallási jelentőséggel bír. A város festői völgyben fekszik, és a kardamom és más fűszerek termesztésének központja. A turizmus lassan növekszik, mivel a régió elszigetelt.",
+      ro: "Trashi Yangtse este un oraș în estul Bhutanului, reședința districtului omonim. Este cunoscut pentru Trashi Yangtse Dzong, care are semnificație administrativă și religioasă. Orașul este situat într-o vale pitorească și este un centru pentru cultivarea cardamomului și a altor condimente. Turismul crește încet, deoarece regiunea este izolată.",
+      en: "Trashi Yangtse is a town in eastern Bhutan, capital of the eponymous district. It is known for the Trashi Yangtse Dzong, which holds administrative and religious significance. The town is set in a scenic valley and is a center for cardamom and other spice cultivation. Tourism is slowly growing as the region is remote.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 3.000", "Höhe: ca. 1.800 m", "Gründung des Dzong: 15. Jahrhundert", "Jährliche Kardamomproduktion: ca. 50 Tonnen", "Entfernung nach Trashigang: etwa 80 km", "Anzahl der Schulen: 5"],
+      hu: ["Lakosság: kb. 3000 fő", "Tengerszint feletti magasság: kb. 1800 m", "A Dzong alapításának éve: 15. század", "Éves kardamomtermelés: kb. 50 tonna", "Távolság Trashigangtól: kb. 80 km", "Iskolák száma: 5"],
+      ro: ["Populație: aproximativ 3.000", "Altitudine: aproximativ 1.800 m", "Anul construirii Dzong: secolul al XV-lea", "Producția anuală de cardamom: circa 50 de tone", "Distanța până la Trashigang: circa 80 km", "Numărul de școli: 5"],
+      en: ["Population: approx. 3,000", "Elevation: approximately 1,800 m", "Year the Dzong was built: 15th century", "Annual cardamom production: about 50 tons", "Distance to Trashigang: about 80 km", "Number of schools: 5"],
+    },
   },
   {
     id: "lhamoizingkha-cities-v2",

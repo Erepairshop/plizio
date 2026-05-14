@@ -6,7 +6,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Brescia", hu: "Brescia", ro: "Brescia", en: "Brescia" },
-    coordinates: { lat: 45.5417, lng: 10.2167 },
+    coords: [10.2167, 45.5417],
     description: {
       de: "Brescia liegt am Fuße der Alpen in der Lombardei. Die Stadt ist bekannt für ihre römischen Ruinen und das mittelalterliche Schloss.",
       hu: "Brescia a Lombard-Alpok lábánál fekvő jelentős iparváros. Az ókori római romjairól és a középkori váráról ismert település.",
@@ -38,7 +38,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Parma", hu: "Parma", ro: "Parma", en: "Parma" },
-    coordinates: { lat: 44.8015, lng: 10.3279 },
+    coords: [10.3279, 44.8015],
     description: {
       de: "Parma ist eine Universitätsstadt in der Emilia-Romagna, weltberühmt für Schinken und Käse. Sie besticht durch elegante Architektur und eine reiche Musiktradition.",
       hu: "Parma egyetemi város Emilia-Romagna régióban, amely sonkájáról és sajtjáról világhírű. Elegáns építészete és gazdag zenei hagyományai vonzzák a látogatókat.",
@@ -70,7 +70,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Modena", hu: "Modena", ro: "Modena", en: "Modena" },
-    coordinates: { lat: 44.6471, lng: 10.9252 },
+    coords: [10.9252, 44.6471],
     description: {
       de: "Modena ist das Herz des italienischen Motor Valley und bekannt für Balsamico-Essig. Die Altstadt mit dem romanischen Dom gehört zum UNESCO-Weltkulturerbe.",
       hu: "Modena az olasz autóipar szíve és a balzsamecet hazája. Román stílusú székesegyházzal büszkélkedő óvárosa az UNESCO világörökség része.",
@@ -102,7 +102,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Reggio nell'Emilia", hu: "Reggio Emilia", ro: "Reggio Emilia", en: "Reggio Emilia" },
-    coordinates: { lat: 44.6982, lng: 10.6312 },
+    coords: [10.6312, 44.6982],
     description: {
       de: "Reggio Emilia ist als Geburtsort der italienischen Flagge bekannt. Die Stadt ist ein bedeutendes Zentrum für Landwirtschaft und Bildung in Norditalien.",
       hu: "Reggio Emilia az olasz zászló szülőhelyeként ismert város. Észak-Olaszország jelentős mezőgazdasági és oktatási központja.",
@@ -134,7 +134,7 @@ export const italyCitiesV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Tarent", hu: "Taranto", ro: "Taranto", en: "Taranto" },
-    coordinates: { lat: 40.4644, lng: 17.247 },
+    coords: [17.247, 40.4644],
     description: {
       de: "Tarent ist eine bedeutende Hafenstadt am Ionischen Meer in Apulien. Sie ist bekannt als Stadt der zwei Meere aufgrund ihrer Lage an der Lagune Mar Piccolo.",
       hu: "Taranto jelentős kikötőváros az Ión-tenger partján, Puglia régióban. A két tenger városaként ismert a Mar Piccolo lagúna menti fekvése miatt.",
@@ -166,7 +166,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Prato", hu: "Prato", ro: "Prato", en: "Prato" },
-    coordinates: { lat: 43.8777, lng: 11.1022 },
+    coords: [11.1022, 43.8777],
     description: {
       de: "Prato in der Toskana ist eines der bedeutendsten Textilzentren Europas. Die Stadt bewahrt ein beeindruckendes mittelalterliches Zentrum mit einer Stadtmauer aus dem 14. Jahrhundert.",
       hu: "A toszkánai Prato Európa egyik legjelentősebb textilipari központja. A város lenyűgöző középkori központot és 14. századi városfalakat őriz.",
@@ -198,7 +198,7 @@ export const italyCitiesV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Messina", hu: "Messina", ro: "Messina", en: "Messina" },
-    coordinates: { lat: 38.1938, lng: 15.554 },
+    coords: [15.554, 38.1938],
     description: {
       de: "Messina ist das Tor zu Sizilien, direkt an der schmalsten Stelle der Straße von Messina gelegen. Die Stadt wurde nach dem schweren Erdbeben von 1908 fast vollständig neu aufgebaut.",
       hu: "Messina Szicília kapuja, amely a Messinai-szoros legkeskenyebb részén fekszik. A várost az 1908-as pusztító földrengés után szinte teljesen újjáépítették.",
@@ -230,7 +230,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Vicenza", hu: "Vicenza", ro: "Vicenza", en: "Vicenza" },
-    coordinates: { lat: 45.5479, lng: 11.5467 },
+    coords: [11.5467, 45.5479],
     description: {
       de: "Vicenza in Venetien ist weltberühmt für die Villen des Architekten Andrea Palladio. Die Stadt gilt als Zentrum der Goldverarbeitung und des italienischen Designs.",
       hu: "A venetói Vicenza Andrea Palladio építész villáiról világhírű. A város az olasz ékszergyártás és design egyik legfontosabb központja.",
@@ -262,7 +262,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Bozen", hu: "Bolzano", ro: "Bolzano", en: "Bolzano" },
-    coordinates: { lat: 46.4981, lng: 11.3548 },
+    coords: [11.3548, 46.4981],
     description: {
       de: "Bozen ist die Hauptstadt Südtirols und ein Schmelztiegel der deutschen und italienischen Kultur. Die Stadt liegt spektakulär in einem Talkessel, umgeben von Weinbergen und den Dolomiten.",
       hu: "Bolzano Dél-Tirol fővárosa, ahol a német és az olasz kultúra találkozik. A város látványos völgyben fekszik, szőlőültetvények és a Dolomitok csúcsai veszik körül.",
@@ -294,7 +294,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Trient", hu: "Trento", ro: "Trento", en: "Trento" },
-    coordinates: { lat: 46.0679, lng: 11.1211 },
+    coords: [11.1211, 46.0679],
     description: {
       de: "Trient liegt im Etschtal und ist für das Konzil von Trient bekannt. Die Stadt besticht durch ihre Renaissance-Paläste mit prächtigen Fassadenmalereien.",
       hu: "Trento az Adige völgyében fekszik, és a tridenti zsinat helyszíneként vált ismertté. A város reneszánsz palotáiról és azok díszes homlokzati festéseiről nevezetes.",
@@ -326,7 +326,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Ferrara", hu: "Ferrara", ro: "Ferrara", en: "Ferrara" },
-    coordinates: { lat: 44.8381, lng: 11.6198 },
+    coords: [11.6198, 44.8381],
     description: {
       de: "Ferrara ist eine prächtige Renaissancestadt in der Emilia-Romagna, die unter der Herrschaft der Familie Este erblühte. Die Stadt ist von einer fast vollständig erhaltenen Stadtmauer umgeben.",
       hu: "Ferrara pompás reneszánsz város Emilia-Romagna régióban, amely az Este-család uralma alatt virágzott fel. A várost szinte teljesen ép városfal veszi körül.",
@@ -358,7 +358,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Salerno", hu: "Salerno", ro: "Salerno", en: "Salerno" },
-    coordinates: { lat: 40.678, lng: 14.7594 },
+    coords: [14.7594, 40.678],
     description: {
       de: "Salerno liegt am gleichnamigen Golf am Tyrrhenischen Meer. Die Stadt ist bekannt für ihre historische Altstadt und als Tor zur Amalfiküste im Westen und dem Cilento im Süden.",
       hu: "Salerno a Tirrén-tenger partján, a róla elnevezett öbölben fekszik. A város történelmi belvárosáról, valamint az Amalfi-part és a Cilento-vidék közelségéről ismert.",
@@ -390,7 +390,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Novara", hu: "Novara", ro: "Novara", en: "Novara" },
-    coordinates: { lat: 45.4469, lng: 8.6214 },
+    coords: [8.6214, 45.4469],
     description: {
       de: "Novara ist eine wichtige Industriestadt im Piemont, gelegen zwischen Mailand und Turin. Sie ist geprägt von der Landwirtschaft in der umliegenden Reisebene.",
       hu: "Novara Piemont régió jelentős iparvárosa, Milánó és Torino között félúton. A várost körülvevő rízsföldek határozzák meg a környék mezőgazdaságát.",
@@ -422,7 +422,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Piacenza", hu: "Piacenza", ro: "Piacenza", en: "Piacenza" },
-    coordinates: { lat: 45.0526, lng: 9.693 },
+    coords: [9.693, 45.0526],
     description: {
       de: "Piacenza liegt am rechten Ufer des Po in der Emilia-Romagna. Die Stadt ist ein bedeutendes Industrie- und Logistikzentrum am Übergang zur Lombardei.",
       hu: "Piacenza a Pó folyó jobb partján fekszik Emilia-Romagna régióban. Jelentős ipari és logisztikai központ Lombardia határán.",
@@ -454,7 +454,7 @@ export const italyCitiesV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Ancona", hu: "Ancona", ro: "Ancona", en: "Ancona" },
-    coordinates: { lat: 43.6158, lng: 13.5189 },
+    coords: [13.5189, 43.6158],
     description: {
       de: "Ancona ist die Hauptstadt der Region Marken und ein bedeutender Adria-Hafen. Die Stadt erstreckt sich über die Hänge des Monte Conero und bietet weite Meerblicke.",
       hu: "Ancona Marche régió fővárosa és az Adria egyik legfontosabb kikötője. A város a Monte Conero lejtőin terül el, tágas kilátást nyújtva a tengerre.",
@@ -486,7 +486,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Udine", hu: "Udine", ro: "Udine", en: "Udine" },
-    coordinates: { lat: 46.0625, lng: 13.2346 },
+    coords: [13.2346, 46.0625],
     description: {
       de: "Udine ist das historische Zentrum der Region Friaul im Nordosten Italiens. Die Stadt besticht durch venezianische Architektur und gemütliche Plätze im Stil der Renaissance.",
       hu: "Udine az északkelet-olaszországi Friuli régió történelmi központja. A várost velencei stílusú építészet és hangulatos reneszánsz terek jellemzik.",
@@ -518,7 +518,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Arezzo", hu: "Arezzo", ro: "Arezzo", en: "Arezzo" },
-    coordinates: { lat: 43.4631, lng: 11.8781 },
+    coords: [11.8781, 43.4631],
     description: {
       de: "Arezzo ist eine antike Stadt in der östlichen Toskana, reich an Kunst und Geschichte. Sie ist bekannt für ihre mittelalterliche Architektur und als bedeutendes Zentrum des Goldschmiedehandwerks.",
       hu: "Arezzo ősi város Kelet-Toszkánában, gazdag művészeti és történelmi múlttal. Középkori építészetéről és jelentős ékszeriparáról ismert.",
@@ -550,7 +550,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Cesena", hu: "Cesena", ro: "Cesena", en: "Cesena" },
-    coordinates: { lat: 44.1391, lng: 12.2431 },
+    coords: [12.2431, 44.1391],
     description: {
       de: "Cesena liegt in der Romagna, zwischen der Adria und dem Apennin. Die Stadt ist berühmt für die Biblioteca Malatestiana, die älteste öffentliche Bibliothek Europas.",
       hu: "Cesena Emilia-Romagna régióban fekszik, az Adria és az Appenninek között. A város a Biblioteca Malatestiana-ról, Európa legrégebbi közkönyvtáráról híres.",
@@ -582,7 +582,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Forlì", hu: "Forlì", ro: "Forlì", en: "Forlì" },
-    coordinates: { lat: 44.2227, lng: 12.0407 },
+    coords: [12.0407, 44.2227],
     description: {
       de: "Forlì ist ein bedeutendes landwirtschaftliches und industrielles Zentrum in der Romagna. Die Stadt ist geprägt von ihrer mittelalterlichen Geschichte und Architektur aus der Epoche des Rationalismus.",
       hu: "Forlì jelentős mezőgazdasági és ipari központ Emilia-Romagna régióban. A várost középkori múltja és a racionalista korszak építészete határozza meg.",
@@ -614,7 +614,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Grosseto", hu: "Grosseto", ro: "Grosseto", en: "Grosseto" },
-    coordinates: { lat: 42.7634, lng: 11.1096 },
+    coords: [11.1096, 42.7634],
     description: {
       de: "Grosseto ist das Zentrum der Maremma im Süden der Toskana. Die Stadt ist von einer gut erhaltenen sechsseitigen Stadtmauer aus der Zeit der Medici umgeben.",
       hu: "Grosseto a dél-toszkánai Maremma-vidék központja. A várost egy jó állapotban fennmaradt, hatszögletű, Medici-kori városfal veszi körül.",
@@ -646,7 +646,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Lucca", hu: "Lucca", ro: "Lucca", en: "Lucca" },
-    coordinates: { lat: 43.8429, lng: 10.5027 },
+    coords: [10.5027, 43.8429],
     description: {
       de: "Lucca ist eine toskanische Stadt, die für ihre intakte Renaissance-Stadtmauer bekannt ist. Sie besitzt ein charmantes historisches Zentrum mit engen Gassen und vielen Kirchen.",
       hu: "Lucca toszkán város, amely épen maradt reneszánsz városfaláról híres. Hangulatos óvárosában szűk utcák és számos templom található.",
@@ -678,7 +678,7 @@ export const italyCitiesV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Livorno", hu: "Livorno", ro: "Livorno", en: "Livorno" },
-    coordinates: { lat: 43.5485, lng: 10.3106 },
+    coords: [10.3106, 43.5485],
     description: {
       de: "Livorno ist eine wichtige Hafenstadt an der ligurischen Küste in der Toskana. Sie wurde im 16. Jahrhundert als idealer Hafen der Medici-Herzöge geplant.",
       hu: "Livorno jelentős kikötőváros Toszkána ligur-tengeri partján. A 16. században tervezték meg, mint a Medici-hercegek ideális kikötőjét.",
@@ -710,7 +710,7 @@ export const italyCitiesV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "La Spezia", hu: "La Spezia", ro: "La Spezia", en: "La Spezia" },
-    coordinates: { lat: 44.1107, lng: 9.8363 },
+    coords: [9.8363, 44.1107],
     description: {
       de: "La Spezia ist eine wichtige Hafenstadt in Ligurien am Golf der Dichter. Sie dient als Hauptstützpunkt der italienischen Marine und ist ein wichtiger Verkehrsknotenpunkt.",
       hu: "La Spezia jelentős kikötőváros Liguriában, a Költők-öblében. Az olasz haditengerészet fő támaszpontjaként és fontos közlekedési csomópontként szolgál.",
@@ -742,7 +742,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Pistoia", hu: "Pistoia", ro: "Pistoia", en: "Pistoia" },
-    coordinates: { lat: 43.9333, lng: 10.9167 },
+    coords: [10.9167, 43.9333],
     description: {
       de: "Pistoia liegt am Fuße des Apennin in der Toskana. Die Stadt ist bekannt für ihr reiches römisches und mittelalterliches Erbe sowie als bedeutendes Zentrum der Baumschulen.",
       hu: "Pistoia az Appenninek lábánál fekszik Toszkánában. A város gazdag római és középkori örökségéről, valamint jelentős faiskoláiról ismert.",
@@ -774,7 +774,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Alessandria", hu: "Alessandria", ro: "Alessandria", en: "Alessandria" },
-    coordinates: { lat: 44.9129, lng: 8.6154 },
+    coords: [8.6154, 44.9129],
     description: {
       de: "Alessandria ist eine bedeutende Stadt im Piemont, gelegen am Zusammenfluss von Tanaro und Bormida. Sie ist bekannt für ihre massive Zitadelle und als wichtiges logistisches Zentrum.",
       hu: "Alessandria jelentős város Piemontban, a Tanaro és a Bormida folyók találkozásánál. Hatalmas citadellájáról és fontos logisztikai központjáról ismert.",
@@ -806,7 +806,7 @@ export const italyCitiesV2: POI[] = [
     type: "port",
     parent: "IT",
     name: { de: "Brindisi", hu: "Brindisi", ro: "Brindisi", en: "Brindisi" },
-    coordinates: { lat: 40.6327, lng: 17.9361 },
+    coords: [17.9361, 40.6327],
     description: {
       de: "Brindisi ist eine historische Hafenstadt in Apulien an der Adria. Seit der Antike gilt sie als Tor zum Orient und Endpunkt der berühmten Via Appia.",
       hu: "Brindisi történelmi kikötőváros Puglia régióban, az Adria partján. Az ókor óta Kelet kapujának tekintik, és itt ért véget a híres Via Appia.",
@@ -838,7 +838,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Foggia", hu: "Foggia", ro: "Foggia", en: "Foggia" },
-    coordinates: { lat: 41.4622, lng: 15.5446 },
+    coords: [15.5446, 41.4622],
     description: {
       de: "Foggia ist das Zentrum der fruchtbaren Tavoliere-Ebene in Apulien. Die Stadt ist ein bedeutender Handelsplatz für Getreide und wird oft als Kornkammer Italiens bezeichnet.",
       hu: "Foggia a termékeny Tavoliere-síkság központja Puglia régióban. Jelentős gabonakereskedelmi központ, amelyet gyakran Itália magtárának is neveznek.",
@@ -870,7 +870,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Potenza", hu: "Potenza", ro: "Potenza", en: "Potenza" },
-    coordinates: { lat: 40.6384, lng: 15.8022 },
+    coords: [15.8022, 40.6384],
     description: {
       de: "Potenza ist die Hauptstadt der Region Basilikata und liegt hoch oben im Apennin. Sie ist bekannt als Stadt der Treppen aufgrund ihrer steilen Gassen und vielen Rolltreppen.",
       hu: "Potenza Basilicata régió fővárosa, amely magasan az Appenninekben fekszik. A lépcsők városaként ismert a meredek utcái és számos mozgólépcsője miatt.",
@@ -902,7 +902,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Catanzaro", hu: "Catanzaro", ro: "Catanzaro", en: "Catanzaro" },
-    coordinates: { lat: 38.91, lng: 16.5875 },
+    coords: [16.5875, 38.91],
     description: {
       de: "Catanzaro ist die Hauptstadt Kalabriens, gelegen auf drei Hügeln über dem Ionischen Meer. Die Stadt ist bekannt für ihre Brücken und die historische Seidenproduktion.",
       hu: "Catanzaro Calabria régió fővárosa, amely három dombon terül el a Ión-tenger felett. A város hídjairól és történelmi selyemgyártásáról ismert.",
@@ -934,7 +934,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Sassari", hu: "Sassari", ro: "Sassari", en: "Sassari" },
-    coordinates: { lat: 40.7272, lng: 8.5603 },
+    coords: [8.5603, 40.7272],
     description: {
       de: "Sassari ist die zweitgrößte Stadt Sardiniens und ein bedeutendes kulturelles sowie administratives Zentrum im Nordwesten der Insel. Die Stadt blickt auf eine reiche Geschichte aus dem Mittelalter zurück.",
       hu: "Sassari Szardínia második legnagyobb városa, jelentős kulturális és közigazgatási központ a sziget északnyugati részén. A város gazdag középkori múltra tekint vissza.",
@@ -966,7 +966,7 @@ export const italyCitiesV2: POI[] = [
     type: "cathedral",
     parent: "IT",
     name: { de: "Parma Kathedrale", hu: "Parmai dóm", ro: "Catedrala din Parma", en: "Parma Cathedral" },
-    coordinates: { lat: 44.803, lng: 10.3304 },
+    coords: [10.3304, 44.803],
     description: {
       de: "Die Kathedrale von Parma ist ein bedeutendes Beispiel romanischer Architektur in Norditalien. Sie ist berühmt für die spektakulären Fresken von Correggio in der Kuppel.",
       hu: "A parmai székesegyház az észak-olaszországi román építészet kiemelkedő példája. Hírnevét a kupolájában található látványos Correggio-freskóknak köszönheti.",
@@ -998,7 +998,7 @@ export const italyCitiesV2: POI[] = [
     type: "theater",
     parent: "IT",
     name: { de: "Teatro Olimpico", hu: "Teatro Olimpico", ro: "Teatro Olimpico", en: "Teatro Olimpico" },
-    coordinates: { lat: 45.5489, lng: 11.5492 },
+    coords: [11.5492, 45.5489],
     description: {
       de: "Das Teatro Olimpico in Vicenza ist das erste überdachte Theater der Neuzeit. Es wurde von Andrea Palladio entworfen und 1585 mit einer spektakulären Bühnenarchitektur eröffnet.",
       hu: "A vicenzai Teatro Olimpico az újkori Európa első fedett színháza. Andrea Palladio tervezte, és 1585-ben nyitották meg látványos díszletekkel.",
@@ -1030,7 +1030,7 @@ export const italyCitiesV2: POI[] = [
     type: "museum",
     parent: "IT",
     name: { de: "Südtiroler Archäologiemuseum", hu: "Dél-tiroli Régészeti Múzeum", ro: "Muzeul de Arheologie din Tirolul de Sud", en: "South Tyrol Museum of Archaeology" },
-    coordinates: { lat: 46.4998, lng: 11.349 },
+    coords: [11.349, 46.4998],
     description: {
       de: "Das Archäologiemuseum in Bozen ist weltberühmt für Ötzi, die Gletschermumie aus der Kupferzeit. Die Ausstellung zeigt den Fund und die Ausrüstung des über 5000 Jahre alten Mannes.",
       hu: "A bolzanói régészeti múzeum Ötzi, a rézkori jégember miatt világhírű. A kiállítás bemutatja az 5000 éves leletet és a férfi teljes felszerelését.",
@@ -1062,7 +1062,7 @@ export const italyCitiesV2: POI[] = [
     type: "tower",
     parent: "IT",
     name: { de: "Guinigi-Turm", hu: "Guinigi-torony", ro: "Turnul Guinigi", en: "Guinigi Tower" },
-    coordinates: { lat: 43.8437, lng: 10.5065 },
+    coords: [10.5065, 43.8437],
     description: {
       de: "Der Guinigi-Turm ist das markanteste Wahrzeichen von Lucca. Er ist berühmt für den hängenden Garten mit alten Eichen auf seiner Spitze.",
       hu: "A Guinigi-torony Lucca legjellegzetesebb jelképe. Különlegessége a tetején kialakított függőkert, amelyben évszázados tölgyfák nőnek.",
@@ -1076,13 +1076,25 @@ export const italyCitiesV2: POI[] = [
       en: ["One of the few remaining residential towers in Lucca", "The rooftop garden symbolizes rebirth", "Offers a 360-degree panoramic view of the city", "Built in the 14th century using red brick"],
     },
     imageHint: "Lucca Torre Guinigi with trees on top",
+    descriptionAdvanced: {
+      de: "Der Guinigi-Turm (Torre Guinigi) ist ein mittelalterlicher Wohnturm in Lucca, Italien, der zwischen 1384 und 1390 von der Familie Guinigi erbaut wurde. Er ist 44,25 m hoch und das markanteste Merkmal des Turms ist der Dachgarten mit Korkeichen (Quercus suber), der von der Familie als Symbol der Wiedergeburt gepflanzt wurde. Der Turm ist einer der wenigen erhaltenen Türme in Lucca, der nicht abgerissen wurde, als die Stadt ihre Befestigungen modernisierte. Er besteht aus Ziegelsteinen und verfügt über 230 Stufen bis zur Spitze. Der Guinigi-Turm ist ein Wahrzeichen der Stadt und bietet einen Panoramablick über Lucca und die umliegenden Hügel. Er wurde 1969 zum Nationaldenkmal erklärt. Der Eintritt ist gebührenpflichtig, und jährlich besuchen ihn etwa 200.000 Touristen.",
+      hu: "A Guinigi-torony (Torre Guinigi) egy középkori lakótorony Luccában, Olaszországban, melyet a Guinigi család építtetett 1384 és 1390 között. Magassága 44,25 méter. Legjellegzetesebb vonása a tetején lévő kert, amelyben paratölgyek (Quercus suber) nőnek, az újjászületés szimbólumaként. A torony Lucca egyik kevés megmaradt tornya, amelyet nem bontottak le a város erődítéseinek korszerűsítésekor. Téglából épült, a csúcsig 230 lépcsőfok vezet. A Guinigi-torony Lucca jelképe, és panorámakilátást nyújt a városra és a környező dombokra. 1969-ben nemzeti emlékművé nyilvánították. Belépődíjas, évente mintegy 200.000 turista látogatja.",
+      ro: "Turnul Guinigi (Torre Guinigi) este un turn medieval de locuit din Lucca, Italia, construit între 1384 și 1390 de familia Guinigi. Are 44,25 m înălțime. Caracteristica sa cea mai distinctivă este grădina de pe acoperiș, cu stejari de plută (Quercus suber), plantați ca simbol al renașterii. Turnul este unul dintre puținele turnuri rămase în Lucca care nu au fost demolate când orașul și-a modernizat fortificațiile. Construit din cărămidă, are 230 de trepte până în vârf. Turnul Guinigi este un simbol al orașului și oferă o panoramă a Luccăi și a dealurilor din jur. A fost declarat monument național în 1969. Intrarea este cu taxă, iar anual îl vizitează aproximativ 200.000 de turiști.",
+      en: "The Guinigi Tower (Torre Guinigi) is a medieval residential tower in Lucca, Italy, built between 1384 and 1390 by the Guinigi family. It stands 44.25 m high. Its most distinctive feature is the rooftop garden with cork oaks (Quercus suber), planted as a symbol of rebirth. The tower is one of the few surviving towers in Lucca that escaped demolition during city fortification modernization. Constructed of brick, it has 230 steps to the top. The Guinigi Tower is a landmark of Lucca, offering panoramic views of the city and surrounding hills. It was declared a national monument in 1969. Admission is charged, and approximately 200,000 tourists visit annually.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 44,25 m", "Bauzeit: 1384–1390", "Stufen: 230", "Dachgarten mit Korkeichen", "Nationaldenkmal seit 1969", "Jährliche Besucher: ca. 200.000"],
+      hu: ["Magasság: 44,25 m", "Építési idő: 1384–1390", "Lépcsőfokok: 230", "Tetőkert paratölgyekkel", "Nemzeti emlékmű 1969 óta", "Éves látogatók: kb. 200.000"],
+      ro: ["Inaltime: 44,25 m", "Perioada constructiei: 1384–1390", "Trepte: 230", "Gradina pe acoperis cu stejari de pluta", "Monument national din 1969", "Vizitatori anual: cca 200.000"],
+      en: ["Height: 44.25 m", "Construction period: 1384–1390", "Steps: 230", "Rooftop garden with cork oaks", "National monument since 1969", "Annual visitors: approx. 200,000"],
+    },
   },
   {
     id: "italy-trento-muse-cities-v2",
     type: "museum",
     parent: "IT",
     name: { de: "MUSE - Wissenschaftsmuseum", hu: "MUSE - Természettudományi Múzeum", ro: "MUSE - Muzeul de Științe", en: "MUSE - Science Museum" },
-    coordinates: { lat: 46.0628, lng: 11.1136 },
+    coords: [11.1136, 46.0628],
     description: {
       de: "Das MUSE in Trient ist ein hochmodernes Wissenschaftsmuseum, das von Renzo Piano entworfen wurde. Es verbindet Natur, Wissenschaft und Gesellschaft in einer spektakulären Architektur.",
       hu: "A trentói MUSE egy ultramodern természettudományi múzeum, amelyet Renzo Piano tervezett. Az épület látványos módon ötvözi a természetet, a tudományt és a társadalmat.",
@@ -1114,7 +1126,7 @@ export const italyCitiesV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Mole Vanvitelliana", hu: "Mole Vanvitelliana", ro: "Mole Vanvitelliana", en: "Mole Vanvitelliana" },
-    coordinates: { lat: 43.6105, lng: 13.5042 },
+    coords: [13.5042, 43.6105],
     description: {
       de: "Die Mole Vanvitelliana in Ancona ist ein massives fünfeckiges Gebäude in der Mitte des Hafens. Ursprünglich als Quarantänestation erbaut, dient sie heute als wichtiges Kulturzentrum.",
       hu: "Az anconai Mole Vanvitelliana egy hatalmas, ötszögletű épület a kikötő közepén. Eredetileg karanténállomásnak épült, ma fontos kulturális központként működik.",
@@ -1146,7 +1158,7 @@ export const italyCitiesV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Piazza Grande (Arezzo)", hu: "Piazza Grande (Arezzo)", ro: "Piazza Grande (Arezzo)", en: "Piazza Grande (Arezzo)" },
-    coordinates: { lat: 43.4647, lng: 11.8841 },
+    coords: [11.8841, 43.4647],
     description: {
       de: "Die Piazza Grande ist der zentrale und bekannteste Platz von Arezzo. Er ist berühmt für seine starke Neigung und die prachtvollen umliegenden historischen Gebäude.",
       hu: "A Piazza Grande Arezzo központi és legismertebb tere. Híres erős lejtéséről és az őt körülvevő pompás történelmi épületekről.",
@@ -1179,7 +1191,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Savona", hu: "Savona", ro: "Savona", en: "Savona" },
-    coordinates: { lat: 44.3093, lng: 8.4842 },
+    coords: [8.4842, 44.3093],
     description: {
       de: "Savona ist eine Hafenstadt in der Region Ligurien am Golf von Genua. Sie dient als bedeutender Umschlagplatz für Kreuzfahrtschiffe.",
       hu: "Savona egy kikötőváros Liguria régióban, a Genovai-öböl partján. Jelentős csomópont a tengerjáró hajók számára.",
@@ -1211,7 +1223,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Monza", hu: "Monza", ro: "Monza", en: "Monza" },
-    coordinates: { lat: 45.5843, lng: 9.2737 },
+    coords: [9.2737, 45.5843],
     description: {
       de: "Monza liegt in der Lombardei, nördlich von Mailand. Die Stadt ist weltweit für ihre Formel-1-Rennstrecke Autodromo Nazionale bekannt.",
       hu: "Monza Lombardiában, Milánótól északra fekszik. A város világszerte ismert az Autodromo Nazionale Formula-1-es versenypályáról.",
@@ -1243,7 +1255,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Pescara", hu: "Pescara", ro: "Pescara", en: "Pescara" },
-    coordinates: { lat: 42.4645, lng: 14.2136 },
+    coords: [14.2136, 42.4645],
     description: {
       de: "Pescara ist die größte Stadt der Region Abruzzen und liegt an der Adriaküste. Sie ist ein wichtiges wirtschaftliches Zentrum der Region.",
       hu: "Pescara Abruzzo régió legnagyobb városa, az Adriai-tenger partján fekszik. A régió fontos gazdasági központja.",
@@ -1275,7 +1287,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Como", hu: "Como", ro: "Como", en: "Como" },
-    coordinates: { lat: 45.8085, lng: 9.0852 },
+    coords: [9.0852, 45.8085],
     description: {
       de: "Como liegt am südlichen Ende des Comer Sees in der Lombardei. Die Stadt ist für ihre Textilindustrie und touristische Lage bekannt.",
       hu: "Como a Comói-tó déli csücskén fekszik Lombardiában. A város a textiliparáról és turisztikai helyszínéről ismert.",
@@ -1307,7 +1319,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Fermo", hu: "Fermo", ro: "Fermo", en: "Fermo" },
-    coordinates: { lat: 43.1611, lng: 13.7225 },
+    coords: [13.7225, 43.1611],
     description: {
       de: "Fermo liegt in den Marken auf einem Hügel nahe der Adria. Die Stadt ist für ihr gut erhaltenes historisches Zentrum bekannt.",
       hu: "Fermo a Marche régióban fekszik, egy dombon, az Adriai-tenger közelében. A város a jól megőrzött történelmi központjáról ismert.",
@@ -1339,7 +1351,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Biella", hu: "Biella", ro: "Biella", en: "Biella" },
-    coordinates: { lat: 45.5576, lng: 8.0573 },
+    coords: [8.0573, 45.5576],
     description: {
       de: "Biella liegt im Piemont am Fuße der Alpen. Die Stadt hat eine lange Tradition in der Wollverarbeitung und Textilherstellung.",
       hu: "Biella Piemontban fekszik, az Alpok lábánál. A város hosszú hagyományokkal rendelkezik a gyapjúfeldolgozás és textilgyártás terén.",
@@ -1371,7 +1383,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Teramo", hu: "Teramo", ro: "Teramo", en: "Teramo" },
-    coordinates: { lat: 42.6589, lng: 13.7042 },
+    coords: [13.7042, 42.6589],
     description: {
       de: "Teramo befindet sich in den Abruzzen, eingebettet zwischen dem Gran Sasso und der Adriaküste. Die Stadt hat römische Wurzeln.",
       hu: "Teramo Abruzzóban található, a Gran Sasso és az Adriai-tenger között. A város római gyökerekkel rendelkezik.",
@@ -1403,7 +1415,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Asti", hu: "Asti", ro: "Asti", en: "Asti" },
-    coordinates: { lat: 44.9015, lng: 8.2045 },
+    coords: [8.2045, 44.9015],
     description: {
       de: "Asti liegt im Piemont und ist ein bedeutendes Zentrum für Weinbau. Die Stadt ist weltweit für ihren Asti Spumante bekannt.",
       hu: "Asti Piemontban található, a szőlőtermesztés jelentős központja. A város világszerte ismert az Asti Spumante boráról.",
@@ -1435,7 +1447,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Savigliano", hu: "Savigliano", ro: "Savigliano", en: "Savigliano" },
-    coordinates: { lat: 44.6483, lng: 7.6744 },
+    coords: [7.6744, 44.6483],
     description: {
       de: "Savigliano liegt in der Provinz Cuneo im Piemont. Die Stadt ist ein wichtiger Industriestandort, insbesondere für den Schienenfahrzeugbau.",
       hu: "Savigliano a piemonti Cuneo tartományban található. A város fontos ipari központ, különösen a vasúti járműgyártás területén.",
@@ -1467,7 +1479,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Treviso", hu: "Treviso", ro: "Treviso", en: "Treviso" },
-    coordinates: { lat: 45.6669, lng: 12.2432 },
+    coords: [12.2432, 45.6669],
     description: {
       de: "Treviso liegt in der Region Venetien, nördlich von Venedig. Die Stadt ist von Kanälen durchzogen und für ihre Gastronomie bekannt.",
       hu: "Treviso Veneto régióban fekszik, Velencétől északra. A várost csatornák szelik át, és ismert a gasztronómiájáról.",
@@ -1499,7 +1511,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Cuneo", hu: "Cuneo", ro: "Cuneo", en: "Cuneo" },
-    coordinates: { lat: 44.3888, lng: 7.5456 },
+    coords: [7.5456, 44.3888],
     description: {
       de: "Cuneo liegt im Südwesten des Piemont, nahe der französischen Grenze. Die Stadt ist auf einem Plateau am Zusammenfluss zweier Flüsse gelegen.",
       hu: "Cuneo Piemont délnyugati részén fekszik, a francia határ közelében. A város egy fennsíkon helyezkedik el, két folyó összefolyásánál.",
@@ -1531,7 +1543,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Pavia", hu: "Pavia", ro: "Pavia", en: "Pavia" },
-    coordinates: { lat: 45.1852, lng: 9.1555 },
+    coords: [9.1555, 45.1852],
     description: {
       de: "Pavia liegt in der Lombardei am Fluss Ticino. Die Stadt ist für ihre historische Universität und ihre mittelalterliche Architektur bekannt.",
       hu: "Pavia Lombardiában, a Ticino folyó mellett fekszik. A város az ősi egyeteméről és középkori építészetéről ismert.",
@@ -1563,7 +1575,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Pesaro", hu: "Pesaro", ro: "Pesaro", en: "Pesaro" },
-    coordinates: { lat: 43.9066, lng: 12.9135 },
+    coords: [12.9135, 43.9066],
     description: {
       de: "Pesaro ist eine Stadt in den Marken an der Adria. Sie ist bekannt für ihre Musikfestivals und ihre Lage am Meer.",
       hu: "Pesaro egy város Marche régióban, az Adriai-tenger partján. Ismert a zenei fesztiváljairól és a tengerparti elhelyezkedéséről.",
@@ -1595,7 +1607,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Reggio Calabria", hu: "Reggio Calabria", ro: "Reggio Calabria", en: "Reggio Calabria" },
-    coordinates: { lat: 38.1067, lng: 15.6433 },
+    coords: [15.6433, 38.1067],
     description: {
       de: "Reggio Calabria liegt an der Spitze der italienischen Stiefels. Die Stadt überblickt die Straße von Messina und Sizilien.",
       hu: "Reggio Calabria az olasz csizma orrán fekszik. A város a Messinai-szorosra és Szicíliára néz.",
@@ -1627,7 +1639,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Latina", hu: "Latina", ro: "Latina", en: "Latina" },
-    coordinates: { lat: 41.4678, lng: 12.9054 },
+    coords: [12.9054, 41.4678],
     description: {
       de: "Latina liegt in der Region Latium, südlich von Rom. Die Stadt wurde in den 1930er Jahren während der Trockenlegung der Pontinischen Sümpfe gegründet.",
       hu: "Latina Latium régióban, Rómától délre fekszik. A várost az 1930-as években alapították a Pontini-mocsarak lecsapolása során.",
@@ -1659,7 +1671,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Andria", hu: "Andria", ro: "Andria", en: "Andria" },
-    coordinates: { lat: 41.223, lng: 16.2957 },
+    coords: [16.2957, 41.223],
     description: {
       de: "Andria liegt in Apulien. Die Stadt ist vor allem als Standort des Castel del Monte bekannt, das zum UNESCO-Welterbe gehört.",
       hu: "Andria Pugliában található. A város főként a Castel del Monte helyszíneként ismert, amely az UNESCO világörökség része.",
@@ -1691,7 +1703,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Pordenone", hu: "Pordenone", ro: "Pordenone", en: "Pordenone" },
-    coordinates: { lat: 45.9554, lng: 12.6587 },
+    coords: [12.6587, 45.9554],
     description: {
       de: "Pordenone liegt in der Region Friaul-Julisch Venetien. Die Stadt ist ein bekanntes wirtschaftliches und kulturelles Zentrum im Nordosten.",
       hu: "Pordenone Friuli-Venezia Giulia régióban fekszik. A város fontos gazdasági és kulturális központ északkeleten.",
@@ -1723,7 +1735,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Torre del Greco", hu: "Torre del Greco", ro: "Torre del Greco", en: "Torre del Greco" },
-    coordinates: { lat: 40.7813, lng: 14.3948 },
+    coords: [14.3948, 40.7813],
     description: {
       de: "Torre del Greco liegt am Golf von Neapel, am Fuße des Vesuv. Die Stadt ist historisch für den Korallenfang bekannt.",
       hu: "Torre del Greco a Nápolyi-öbölben fekszik, a Vezúv lábánál. A város történelmileg a korallhalászatról ismert.",
@@ -1755,7 +1767,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Busto Arsizio", hu: "Busto Arsizio", ro: "Busto Arsizio", en: "Busto Arsizio" },
-    coordinates: { lat: 45.6067, lng: 8.854 },
+    coords: [8.854, 45.6067],
     description: {
       de: "Busto Arsizio liegt in der Provinz Varese in der Lombardei. Die Stadt hat eine lange Geschichte in der Textilherstellung.",
       hu: "Busto Arsizio a lombardiai Varese tartományban található. A városnak hosszú története van a textilgyártásban.",
@@ -1787,7 +1799,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Imola", hu: "Imola", ro: "Imola", en: "Imola" },
-    coordinates: { lat: 44.3547, lng: 11.713 },
+    coords: [11.713, 44.3547],
     description: {
       de: "Imola liegt in der Emilia-Romagna. Die Stadt ist weltweit für ihre Rennstrecke Autodromo Enzo e Dino Ferrari bekannt.",
       hu: "Imola Emilia-Romagnában található. A város világszerte ismert az Autodromo Enzo e Dino Ferrari versenypályáról.",
@@ -1819,7 +1831,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Lamezia Terme", hu: "Lamezia Terme", ro: "Lamezia Terme", en: "Lamezia Terme" },
-    coordinates: { lat: 38.9667, lng: 16.3 },
+    coords: [16.3, 38.9667],
     description: {
       de: "Lamezia Terme liegt in Kalabrien und ist ein zentraler Verkehrsknotenpunkt der Region. Die Stadt entstand durch die Zusammenlegung mehrerer Orte.",
       hu: "Lamezia Terme Calabriában fekszik, a régió központi közlekedési csomópontja. A város több település egyesítésével jött létre.",
@@ -1851,7 +1863,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Trapani", hu: "Trapani", ro: "Trapani", en: "Trapani" },
-    coordinates: { lat: 38.0167, lng: 12.5167 },
+    coords: [12.5167, 38.0167],
     description: {
       de: "Trapani liegt an der Westküste Siziliens. Die Stadt ist für ihre Salzgärten und ihre Bedeutung als Hafenstadt bekannt.",
       hu: "Trapani Szicília nyugati partján fekszik. A város a sólepárlóiról és kikötővárosként betöltött jelentőségéről ismert.",
@@ -1883,7 +1895,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Ragusa", hu: "Ragusa", ro: "Ragusa", en: "Ragusa" },
-    coordinates: { lat: 36.925, lng: 14.725 },
+    coords: [14.725, 36.925],
     description: {
       de: "Ragusa liegt im Südosten Siziliens. Die Stadt ist für ihre barocke Architektur bekannt und gehört zum UNESCO-Welterbe.",
       hu: "Ragusa Szicília délkeleti részén fekszik. A város a barokk építészetéről ismert, és az UNESCO világörökség része.",
@@ -1915,7 +1927,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Caltanissetta", hu: "Caltanissetta", ro: "Caltanissetta", en: "Caltanissetta" },
-    coordinates: { lat: 37.4916, lng: 14.0621 },
+    coords: [14.0621, 37.4916],
     description: {
       de: "Caltanissetta liegt im Zentrum Siziliens. Die Stadt ist historisch mit dem Schwefelbergbau verbunden.",
       hu: "Caltanissetta Szicília központjában fekszik. A város történelmileg a kénbányászathoz kapcsolódik.",
@@ -1947,7 +1959,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Sanremo", hu: "Sanremo", ro: "Sanremo", en: "Sanremo" },
-    coordinates: { lat: 43.8167, lng: 7.7833 },
+    coords: [7.7833, 43.8167],
     description: {
       de: "Sanremo liegt an der Blumenriviera in Ligurien. Die Stadt ist weltweit für das Musikfestival Sanremo und ihr Casino bekannt.",
       hu: "Sanremo a liguriai Virágriviérán fekszik. A város világszerte ismert a Sanremo Zenei Fesztiválról és kaszinójáról.",
@@ -1979,7 +1991,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Avellino", hu: "Avellino", ro: "Avellino", en: "Avellino" },
-    coordinates: { lat: 40.9167, lng: 14.7833 },
+    coords: [14.7833, 40.9167],
     description: {
       de: "Avellino liegt in der Region Kampanien, östlich von Neapel. Die Stadt ist von Bergen umgeben.",
       hu: "Avellino Campania régióban, Nápolytól keletre fekszik. A várost hegyek veszik körül.",
@@ -2011,7 +2023,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Benevento", hu: "Benevento", ro: "Benevento", en: "Benevento" },
-    coordinates: { lat: 41.1333, lng: 14.7833 },
+    coords: [14.7833, 41.1333],
     description: {
       de: "Benevento liegt in Kampanien. Die Stadt hat eine bedeutende römische Geschichte, darunter der Triumphbogen des Trajan.",
       hu: "Benevento Campaniában fekszik. A város jelentős római múlttal rendelkezik, többek között Traianus diadalívével.",
@@ -2043,7 +2055,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Terracina", hu: "Terracina", ro: "Terracina", en: "Terracina" },
-    coordinates: { lat: 41.2833, lng: 13.25 },
+    coords: [13.25, 41.2833],
     description: {
       de: "Terracina liegt im Latium an der Küste. Die Stadt hat antike römische Überreste und ist ein bekannter Badeort.",
       hu: "Terracina Latiumban, a tengerparton fekszik. A város ókori római maradványokkal rendelkezik, és népszerű üdülőhely.",
@@ -2075,7 +2087,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Mestre", hu: "Mestre", ro: "Mestre", en: "Mestre" },
-    coordinates: { lat: 45.485, lng: 12.235 },
+    coords: [12.235, 45.485],
     description: {
       de: "Mestre liegt auf dem italienischen Festland gegenüber von Venedig. Es ist das administrative Zentrum der Gemeinde Venedig.",
       hu: "Mestre az olasz szárazföldön fekszik, Velencével szemben. Ez Velence község adminisztratív központja.",
@@ -2107,7 +2119,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Scandicci", hu: "Scandicci", ro: "Scandicci", en: "Scandicci" },
-    coordinates: { lat: 43.75, lng: 11.1833 },
+    coords: [11.1833, 43.75],
     description: {
       de: "Scandicci liegt in der Toskana, direkt neben Florenz. Die Stadt ist ein bekanntes Zentrum für die Lederwarenindustrie.",
       hu: "Scandicci Toszkánában található, közvetlenül Firenze mellett. A város a bőripar egyik híres központja.",
@@ -2139,7 +2151,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Velletri", hu: "Velletri", ro: "Velletri", en: "Velletri" },
-    coordinates: { lat: 41.6833, lng: 12.7833 },
+    coords: [12.7833, 41.6833],
     description: {
       de: "Velletri liegt in den Albaner Bergen im Latium. Die Stadt ist für ihre Weine und ihre historische Bedeutung bekannt.",
       hu: "Velletri az Albán-hegységben fekszik, Latiumban. A város a borairól és történelmi jelentőségéről ismert.",
@@ -2171,7 +2183,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Formia", hu: "Formia", ro: "Formia", en: "Formia" },
-    coordinates: { lat: 41.25, lng: 13.6 },
+    coords: [13.6, 41.25],
     description: {
       de: "Formia liegt im Latium am Tyrrhenischen Meer. Die Stadt ist ein beliebter Urlaubsort mit antiken Wurzeln.",
       hu: "Formia Latiumban, a Tirrén-tenger partján fekszik. A város népszerű üdülőhely, ókori gyökerekkel.",
@@ -2203,7 +2215,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Cisterna di Latina", hu: "Cisterna di Latina", ro: "Cisterna di Latina", en: "Cisterna di Latina" },
-    coordinates: { lat: 41.59, lng: 12.84 },
+    coords: [12.84, 41.59],
     description: {
       de: "Cisterna di Latina liegt in der Provinz Latina im Latium. Die Stadt ist ein landwirtschaftliches Zentrum der Region.",
       hu: "Cisterna di Latina a latiumi Latina tartományban fekszik. A város a régió egyik mezőgazdasági központja.",
@@ -2235,7 +2247,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Fondi", hu: "Fondi", ro: "Fondi", en: "Fondi" },
-    coordinates: { lat: 41.35, lng: 13.4167 },
+    coords: [13.4167, 41.35],
     description: {
       de: "Fondi liegt im Latium. Die Stadt hat ein gut erhaltenes historisches Zentrum und ist ein wichtiger landwirtschaftlicher Markt.",
       hu: "Fondi Latiumban fekszik. A városnak jól megőrzött történelmi központja van, és fontos mezőgazdasági piac.",
@@ -2267,7 +2279,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Colleferro", hu: "Colleferro", ro: "Colleferro", en: "Colleferro" },
-    coordinates: { lat: 41.728, lng: 13.003 },
+    coords: [13.003, 41.728],
     description: {
       de: "Colleferro liegt in der Provinz Rom. Die Stadt entwickelte sich im 20. Jahrhundert als Industriestandort.",
       hu: "Colleferro Róma tartományban található. A város a 20. században fejlődött ki ipari központként.",
@@ -2299,7 +2311,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Ceccano", hu: "Ceccano", ro: "Ceccano", en: "Ceccano" },
-    coordinates: { lat: 41.5667, lng: 13.3167 },
+    coords: [13.3167, 41.5667],
     description: {
       de: "Ceccano liegt in der Region Latium, im Sacco-Tal. Die Stadt ist für ihre mittelalterliche Burg bekannt.",
       hu: "Ceccano Latium régióban, a Sacco-völgyben fekszik. A város a középkori váráról ismert.",
@@ -2331,7 +2343,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Ferentino", hu: "Ferentino", ro: "Ferentino", en: "Ferentino" },
-    coordinates: { lat: 41.6833, lng: 13.25 },
+    coords: [13.25, 41.6833],
     description: {
       de: "Ferentino liegt im Latium. Die Stadt ist für ihre antiken Mauern und gut erhaltenen mittelalterlichen Bauten bekannt.",
       hu: "Ferentino Latiumban fekszik. A város az ókori falairól és jól megőrzött középkori épületeiről ismert.",
@@ -2363,7 +2375,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Veroli", hu: "Veroli", ro: "Veroli", en: "Veroli" },
-    coordinates: { lat: 41.69, lng: 13.41 },
+    coords: [13.41, 41.69],
     description: {
       de: "Veroli liegt in den Bergen des Latiums. Die Stadt bietet einen weiten Blick über das umliegende Tal.",
       hu: "Veroli Latium hegyeiben fekszik. A város széles kilátást nyújt a környező völgyre.",
@@ -2395,7 +2407,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Anagni", hu: "Anagni", ro: "Anagni", en: "Anagni" },
-    coordinates: { lat: 41.75, lng: 13.15 },
+    coords: [13.15, 41.75],
     description: {
       de: "Anagni liegt im Latium. Die Stadt ist als Stadt der Päpste bekannt und hat eine bedeutende mittelalterliche Geschichte.",
       hu: "Anagni Latiumban fekszik. A város a pápák városaként ismert, és jelentős középkori történelemmel rendelkezik.",
@@ -2427,7 +2439,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Alatri", hu: "Alatri", ro: "Alatri", en: "Alatri" },
-    coordinates: { lat: 41.728, lng: 13.34 },
+    coords: [13.34, 41.728],
     description: {
       de: "Alatri liegt im Latium. Die Stadt ist für ihre zyklopischen Mauern bekannt, die aus der vorrömischen Zeit stammen.",
       hu: "Alatri Latiumban található. A város a római kor előtti időkből származó ciklopikus falairól ismert.",
@@ -2459,7 +2471,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Sora", hu: "Sora", ro: "Sora", en: "Sora" },
-    coordinates: { lat: 41.7167, lng: 13.6167 },
+    coords: [13.6167, 41.7167],
     description: {
       de: "Sora liegt im Latium, im Liri-Tal. Die Stadt hat eine lange industrielle Tradition.",
       hu: "Sora Latiumban, a Liri-völgyben fekszik. A város hosszú ipari hagyományokkal rendelkezik.",
@@ -2491,7 +2503,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Cassino", hu: "Cassino", ro: "Cassino", en: "Cassino" },
-    coordinates: { lat: 41.4833, lng: 13.8333 },
+    coords: [13.8333, 41.4833],
     description: {
       de: "Cassino liegt in Latium, berühmt für die Abtei Montecassino. Die Stadt wurde im Zweiten Weltkrieg fast vollständig zerstört.",
       hu: "Cassino Latiumban fekszik, híres a Montecassino apátságról. A város a második világháborúban szinte teljesen elpusztult.",
@@ -2523,7 +2535,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Roccasecca", hu: "Roccasecca", ro: "Roccasecca", en: "Roccasecca" },
-    coordinates: { lat: 41.5333, lng: 13.6833 },
+    coords: [13.6833, 41.5333],
     description: {
       de: "Roccasecca liegt im Latium. Die Stadt ist der Geburtsort von Thomas von Aquin.",
       hu: "Roccasecca Latiumban fekszik. A város Aquinói Szent Tamás szülőhelye.",
@@ -2555,7 +2567,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Pontecorvo", hu: "Pontecorvo", ro: "Pontecorvo", en: "Pontecorvo" },
-    coordinates: { lat: 41.45, lng: 13.6167 },
+    coords: [13.6167, 41.45],
     description: {
       de: "Pontecorvo liegt im Latium. Die Stadt ist historisch bekannt für ihre lange Unabhängigkeit als Enklave des Kirchenstaates.",
       hu: "Pontecorvo Latiumban fekszik. A város történelmileg a Pápai Állam enklávéjaként élvezett hosszú függetlenségéről ismert.",
@@ -2587,7 +2599,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Castro dei Volsci", hu: "Castro dei Volsci", ro: "Castro dei Volsci", en: "Castro dei Volsci" },
-    coordinates: { lat: 41.5333, lng: 13.3 },
+    coords: [13.3, 41.5333],
     description: {
       de: "Castro dei Volsci ist eine Hügelstadt im Latium. Sie ist für ihre gut erhaltene mittelalterliche Struktur bekannt.",
       hu: "Castro dei Volsci egy hegyi város Latiumban. A jól megőrzött középkori szerkezetéről ismert.",
@@ -2619,7 +2631,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Ceprano", hu: "Ceprano", ro: "Ceprano", en: "Ceprano" },
-    coordinates: { lat: 41.55, lng: 13.5 },
+    coords: [13.5, 41.55],
     description: {
       de: "Ceprano liegt im Latium. Die Stadt liegt strategisch günstig am Ufer des Liri-Flusses.",
       hu: "Ceprano Latiumban fekszik. A város stratégiailag előnyös helyen, a Liri folyó partján található.",
@@ -2651,7 +2663,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Arnara", hu: "Arnara", ro: "Arnara", en: "Arnara" },
-    coordinates: { lat: 41.6, lng: 13.38 },
+    coords: [13.38, 41.6],
     description: {
       de: "Arnara ist eine kleine Stadt im Latium. Sie ist bekannt für ihre ruhige, ländliche Lage und historische Bauten.",
       hu: "Arnara egy kisváros Latiumban. A csendes, vidéki fekvéséről és történelmi épületeiről ismert.",
@@ -2683,7 +2695,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Pofi", hu: "Pofi", ro: "Pofi", en: "Pofi" },
-    coordinates: { lat: 41.56, lng: 13.41 },
+    coords: [13.41, 41.56],
     description: {
       de: "Pofi liegt in der Region Latium. Die Stadt ist für ihre Lage auf einem Hügel bekannt, der einen weiten Blick bietet.",
       hu: "Pofi Latium régióban fekszik. A város a dombos elhelyezkedéséről ismert, amely széles kilátást biztosít.",
@@ -2715,7 +2727,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Falvaterra", hu: "Falvaterra", ro: "Falvaterra", en: "Falvaterra" },
-    coordinates: { lat: 41.5, lng: 13.48 },
+    coords: [13.48, 41.5],
     description: {
       de: "Falvaterra liegt im Latium. Die Stadt ist für ihre Höhlen und ihre mittelalterliche Geschichte bekannt.",
       hu: "Falvaterra Latiumban fekszik. A város a barlangjairól és középkori történelméről ismert.",
@@ -2747,7 +2759,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Pastena", hu: "Pastena", ro: "Pastena", en: "Pastena" },
-    coordinates: { lat: 41.48, lng: 13.45 },
+    coords: [13.45, 41.48],
     description: {
       de: "Pastena liegt im Latium. Die Stadt ist besonders für ihr Höhlensystem bekannt, das Besucher anzieht.",
       hu: "Pastena Latiumban fekszik. A város különösen a barlangrendszeréről ismert, amely vonzza a látogatókat.",
@@ -2779,7 +2791,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "San Giovanni Incarico", hu: "San Giovanni Incarico", ro: "San Giovanni Incarico", en: "San Giovanni Incarico" },
-    coordinates: { lat: 41.51, lng: 13.56 },
+    coords: [13.56, 41.51],
     description: {
       de: "San Giovanni Incarico liegt im Latium. Die Stadt ist für ihre historische Architektur bekannt.",
       hu: "San Giovanni Incarico Latiumban fekszik. A város történelmi építészetéről ismert.",
@@ -2811,7 +2823,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Colfelice", hu: "Colfelice", ro: "Colfelice", en: "Colfelice" },
-    coordinates: { lat: 41.58, lng: 13.58 },
+    coords: [13.58, 41.58],
     description: {
       de: "Colfelice liegt im Latium. Es ist eine kleine Gemeinde mit einer ländlichen Atmosphäre.",
       hu: "Colfelice Latiumban fekszik. Ez egy kis község, vidéki hangulattal.",
@@ -2843,7 +2855,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Rocca d'Arce", hu: "Rocca d'Arce", ro: "Rocca d'Arce", en: "Rocca d'Arce" },
-    coordinates: { lat: 41.6, lng: 13.56 },
+    coords: [13.56, 41.6],
     description: {
       de: "Rocca d'Arce liegt auf einem Hügel im Latium. Die Stadt bietet einen historischen Kern und Panoramablicke.",
       hu: "Rocca d'Arce egy dombon fekszik Latiumban. A város történelmi maggal és panorámás kilátással rendelkezik.",
@@ -2875,7 +2887,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Fontana Liri", hu: "Fontana Liri", ro: "Fontana Liri", en: "Fontana Liri" },
-    coordinates: { lat: 41.63, lng: 13.53 },
+    coords: [13.53, 41.63],
     description: {
       de: "Fontana Liri liegt im Latium. Die Stadt ist für ihre historische Architektur und ihre Lage am Hang bekannt.",
       hu: "Fontana Liri Latiumban fekszik. A város a történelmi építészetéről és a lejtőn való elhelyezkedéséről ismert.",
@@ -2907,7 +2919,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Santopadre", hu: "Santopadre", ro: "Santopadre", en: "Santopadre" },
-    coordinates: { lat: 41.63, lng: 13.5 },
+    coords: [13.5, 41.63],
     description: {
       de: "Santopadre liegt in der Region Latium. Es ist ein kleiner Ort mit einer gut erhaltenen mittelalterlichen Struktur.",
       hu: "Santopadre Latium régióban található. Ez egy kis település, jól megőrzött középkori szerkezettel.",
@@ -2939,7 +2951,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Arce", hu: "Arce", ro: "Arce", en: "Arce" },
-    coordinates: { lat: 41.58, lng: 13.55 },
+    coords: [13.55, 41.58],
     description: {
       de: "Arce liegt im Latium. Die Stadt hat eine lange Geschichte und ist für ihre archäologischen Funde bekannt.",
       hu: "Arce Latiumban fekszik. A város hosszú történelemmel rendelkezik, és ismert a régészeti leleteiről.",
@@ -2971,7 +2983,7 @@ export const italyCitiesV2: POI[] = [
     type: "city",
     parent: "IT",
     name: { de: "Collepardo", hu: "Collepardo", ro: "Collepardo", en: "Collepardo" },
-    coordinates: { lat: 41.76, lng: 13.36 },
+    coords: [13.36, 41.76],
     description: {
       de: "Collepardo liegt im Latium. Die Stadt ist für ihre Gärten und ihre natürliche Umgebung bekannt.",
       hu: "Collepardo Latiumban fekszik. A város a kertjeiről és a természeti környezetéről ismert.",

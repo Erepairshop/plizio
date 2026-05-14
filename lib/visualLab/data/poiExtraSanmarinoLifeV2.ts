@@ -6,7 +6,7 @@ export const sanmarinoLifeV2: POI[] = [
     type: "park",
     parent: "SM",
     name: { de: "Botanischer Garten San Marino", hu: "San Marinó-i Botanikus Kert", ro: "Grădina Botanică San Marino", en: "Botanical Garden of San Marino" },
-    coordinates: { lat: 43.9348, lng: 12.4489 },
+    coords: [12.4489, 43.9348],
     description: {
       de: "Dieser öffentliche Garten bewahrt einheimische Pflanzenarten des Apenningebirges. Er dient als Bildungsraum zur Erforschung lokaler Flora.",
       hu: "Ez a nyilvános kert az Appennini-hegység őshonos növényfajait őrzi. Oktatási térként szolgál a helyi növényvilág kutatásához.",
@@ -38,7 +38,7 @@ export const sanmarinoLifeV2: POI[] = [
     type: "wildlife",
     parent: "SM",
     name: { de: "Tierrefugium Monte Titano", hu: "Monte Titano vadvédelmi terület", ro: "Refugiul pentru animale Monte Titano", en: "Monte Titano Wildlife Refuge" },
-    coordinates: { lat: 43.9301, lng: 12.4465 },
+    coords: [12.4465, 43.9301],
     description: {
       de: "Das Reservat schützt bedrohte Wildtierarten in der felsigen Umgebung des Berges. Es bietet Lebensraum für lokale Greifvögel und Säugetiere.",
       hu: "A rezervátum védi a veszélyeztetett vadállatfajokat a hegy sziklás környezetében. Élőhelyet biztosít a helyi ragadozó madaraknak és emlősöknek.",
@@ -70,7 +70,7 @@ export const sanmarinoLifeV2: POI[] = [
     type: "park",
     parent: "SM",
     name: { de: "Garten der Biodiversität", hu: "Biodiverzitás Kert", ro: "Grădina Biodiversității", en: "Biodiversity Garden" },
-    coordinates: { lat: 43.9452, lng: 12.4611 },
+    coords: [12.4611, 43.9452],
     description: {
       de: "Diese Anlage konzentriert sich auf den Anbau alter, regionaler Gemüsesorten. Sie bewahrt genetische Vielfalt in der traditionellen Landwirtschaft.",
       hu: "Ez a terület a régi, regionális zöldségfajták termesztésére összpontosít. Megőrzi a genetikai sokféleséget a hagyományos mezőgazdaságban.",
@@ -102,7 +102,7 @@ export const sanmarinoLifeV2: POI[] = [
     type: "river",
     parent: "SM",
     name: { de: "Feuchtgebiet Torrente Ausa", hu: "Torrente Ausa vizes élőhely", ro: "Zona umedă Torrente Ausa", en: "Torrente Ausa Wetland" },
-    coordinates: { lat: 43.9682, lng: 12.4795 },
+    coords: [12.4795, 43.9682],
     description: {
       de: "Das Feuchtgebiet entlang des Ausa-Bachs dient als Lebensraum für Amphibien und Zugvögel. Es reguliert den lokalen Wasserhaushalt.",
       hu: "Az Ausa-patak menti vizes élőhely kétéltűek és vándormadarak otthona. Szabályozza a helyi vízgazdálkodást.",
@@ -134,7 +134,7 @@ export const sanmarinoLifeV2: POI[] = [
     type: "forest",
     parent: "SM",
     name: { de: "Waldpark Faetano", hu: "Faetano Erdőpark", ro: "Parcul Forestier Faetano", en: "Faetano Forest Park" },
-    coordinates: { lat: 43.9215, lng: 12.4852 },
+    coords: [12.4852, 43.9215],
     description: {
       de: "Dieser Waldpark besteht aus einer Mischvegetation aus Eichen und Hainbuchen. Er bietet Raum für lokale Erholung und den Schutz des Unterholzes.",
       hu: "Ez az erdőpark tölgy- és gyertyánfélékből álló vegyes növényzetből áll. Helyet biztosít a helyi kikapcsolódáshoz és az aljnövényzet védelméhez.",
@@ -166,7 +166,7 @@ export const sanmarinoLifeV2: POI[] = [
     type: "park",
     parent: "SM",
     name: { de: "Naturreservat Cerbaiola", hu: "Cerbaiola Természetvédelmi Terület", ro: "Rezervația Naturală Cerbaiola", en: "Cerbaiola Nature Reserve" },
-    coordinates: { lat: 43.9182, lng: 12.459 },
+    coords: [12.459, 43.9182],
     description: {
       de: "Das Reservat umfasst bewaldete Hügel und offene Wiesenlandschaften. Es dient dem Schutz des lokalen Ökosystems der sanmarinesischen Vorberge.",
       hu: "A rezervátum erdős dombokat és nyílt réti tájakat foglal magában. A san marinói előhegyek helyi ökoszisztémájának védelmét szolgálja.",
@@ -198,7 +198,7 @@ export const sanmarinoLifeV2: POI[] = [
     type: "park",
     parent: "SM",
     name: { de: "Nationales Arboretum San Marino", hu: "San Marinó-i Nemzeti Arborétum", ro: "Arboretumul Național San Marino", en: "National Arboretum of San Marino" },
-    coordinates: { lat: 43.9405, lng: 12.4552 },
+    coords: [12.4552, 43.9405],
     description: {
       de: "Diese Anpflanzung dokumentiert eine Vielzahl von Baumarten, die an das Mikroklima der Region angepasst sind. Sie dient als lebendes Archiv.",
       hu: "Ez az ültetvény a régió mikroklímájához alkalmazkodott fafajok széles skáláját dokumentálja. Élő archívumként szolgál.",

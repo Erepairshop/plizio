@@ -6,7 +6,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Turda", hu: "Torda", ro: "Turda", en: "Turda" },
-    coordinates: { lat: 46.5709, lng: 23.7745 },
+    coords: [23.7745, 46.5709],
     description: {
       de: "Turda ist eine Stadt im Kreis Cluj in der historischen Region Siebenbürgen. Sie ist bekannt für ihr bedeutendes Salzbergwerk.",
       hu: "Torda város Kolozs megyében, Erdélyben. A település híres a közelében található sóbányájáról.",
@@ -38,7 +38,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Reschitza", hu: "Resicabánya", ro: "Reșița", en: "Reșița" },
-    coordinates: { lat: 45.3005, lng: 21.8897 },
+    coords: [21.8897, 45.3005],
     description: {
       de: "Reșița ist die Hauptstadt des Kreises Caraș-Severin im Südwesten Rumäniens. Die Stadt hat eine lange industrielle Tradition im Stahlbau.",
       hu: "Resicabánya Krassó-Szörény megye székhelye Románia délnyugati részén. A város jelentős ipari múlttal rendelkezik.",
@@ -70,7 +70,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Mediasch", hu: "Medgyes", ro: "Mediaș", en: "Mediaș" },
-    coordinates: { lat: 46.1664, lng: 24.3524 },
+    coords: [24.3524, 46.1664],
     description: {
       de: "Mediaș ist eine Stadt im Kreis Sibiu in Siebenbürgen. Sie besitzt einen gut erhaltenen mittelalterlichen Stadtkern.",
       hu: "Medgyes város Szeben megyében, Erdélyben. A település jól megőrzött középkori városközponttal rendelkezik.",
@@ -102,7 +102,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Târgu Jiu", hu: "Zsilvásárhely", ro: "Târgu Jiu", en: "Târgu Jiu" },
-    coordinates: { lat: 45.035, lng: 23.275 },
+    coords: [23.275, 45.035],
     description: {
       de: "Târgu Jiu ist die Hauptstadt des Kreises Gorj. Die Stadt ist bekannt für die Skulpturen von Constantin Brâncuși.",
       hu: "Zsilvásárhely Gorj megye székhelye. A város Constantin Brâncuși szobrairól ismert.",
@@ -134,7 +134,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Diemrich", hu: "Déva", ro: "Deva", en: "Deva" },
-    coordinates: { lat: 45.8833, lng: 22.9 },
+    coords: [22.9, 45.8833],
     description: {
       de: "Deva ist die Hauptstadt des Kreises Hunedoara. Die Stadt wird von einer mittelalterlichen Burgruine auf einem Hügel dominiert.",
       hu: "Déva Hunyad megye székhelye. A várost egy dombon álló középkori várrom uralja.",
@@ -166,7 +166,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Râmnicu Vâlcea", hu: "Râmnicu Vâlcea", ro: "Râmnicu Vâlcea", en: "Râmnicu Vâlcea" },
-    coordinates: { lat: 45.1, lng: 24.3667 },
+    coords: [24.3667, 45.1],
     description: {
       de: "Râmnicu Vâlcea ist die Hauptstadt des Kreises Vâlcea. Die Stadt liegt am Ufer des Olt.",
       hu: "Râmnicu Vâlcea Vâlcea megye székhelye. A város az Olt folyó partján fekszik.",
@@ -198,7 +198,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Zeiden", hu: "Feketehalom", ro: "Codlea", en: "Codlea" },
-    coordinates: { lat: 45.7, lng: 25.45 },
+    coords: [25.45, 45.7],
     description: {
       de: "Codlea ist eine Stadt im Kreis Brașov in der Region Siebenbürgen.",
       hu: "Feketehalom Brassó megyei város Erdélyben.",
@@ -230,7 +230,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Lupeni", hu: "Lupény", ro: "Lupeni", en: "Lupeni" },
-    coordinates: { lat: 45.35, lng: 23.23 },
+    coords: [23.23, 45.35],
     description: {
       de: "Lupeni ist eine Stadt im Jiu-Tal im Kreis Hunedoara.",
       hu: "Lupény a Zsil-völgyében fekvő város Hunyad megyében.",
@@ -262,7 +262,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Toplița", hu: "Maroshévíz", ro: "Toplița", en: "Toplița" },
-    coordinates: { lat: 46.91, lng: 25.35 },
+    coords: [25.35, 46.91],
     description: {
       de: "Toplița ist eine Stadt im Kreis Harghita im Mureș-Tal.",
       hu: "Maroshévíz Hargita megyei város a Maros völgyében.",
@@ -294,7 +294,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Ovidiu", hu: "Ovidiu", ro: "Ovidiu", en: "Ovidiu" },
-    coordinates: { lat: 44.26, lng: 28.56 },
+    coords: [28.56, 44.26],
     description: {
       de: "Ovidiu ist eine Stadt im Kreis Constanța nahe der Schwarzmeerküste.",
       hu: "Ovidiu Constanța megyei város a Fekete-tenger partjának közelében.",
@@ -326,7 +326,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Heltau", hu: "Nagydisznód", ro: "Cisnădie", en: "Cisnădie" },
-    coordinates: { lat: 45.71, lng: 24.15 },
+    coords: [24.15, 45.71],
     description: {
       de: "Cisnădie ist eine Stadt im Kreis Sibiu in der Nähe von Sibiu.",
       hu: "Nagydisznód Szeben megyei város Nagyszeben közelében.",
@@ -358,7 +358,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Pangrati", hu: "Pangrati", ro: "Pangrati", en: "Pangrati" },
-    coordinates: { lat: 46.9, lng: 26.25 },
+    coords: [26.25, 46.9],
     description: {
       de: "Pangrati ist ein bewohnter Ort im Kreis Neamț.",
       hu: "Pangrati lakott település Neamț megyében.",
@@ -390,7 +390,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Techirghiol", hu: "Techirghiol", ro: "Techirghiol", en: "Techirghiol" },
-    coordinates: { lat: 44.06, lng: 28.6 },
+    coords: [28.6, 44.06],
     description: {
       de: "Techirghiol ist ein Kurort am gleichnamigen See in der Nähe der Schwarzmeerküste.",
       hu: "Techirghiol fürdőváros az azonos nevű tó partján, a Fekete-tenger közelében.",
@@ -422,7 +422,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Bălan", hu: "Balánbánya", ro: "Bălan", en: "Bălan" },
-    coordinates: { lat: 46.65, lng: 25.8 },
+    coords: [25.8, 46.65],
     description: {
       de: "Bălan ist eine Stadt im Kreis Harghita, bekannt für den ehemaligen Kupferbergbau.",
       hu: "Balánbánya Hargita megyei város, ismert egykori rézbányászatáról.",
@@ -454,7 +454,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Weidenbach", hu: "Vidombák", ro: "Ghimbav", en: "Ghimbav" },
-    coordinates: { lat: 45.65, lng: 25.5 },
+    coords: [25.5, 45.65],
     description: {
       de: "Ghimbav ist eine Stadt im Kreis Brașov, unweit der Stadt Brașov gelegen.",
       hu: "Vidombák Brassó megyei város, nem messze Brassótól.",
@@ -486,7 +486,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Vălenii de Munte", hu: "Vălenii de Munte", ro: "Vălenii de Munte", en: "Vălenii de Munte" },
-    coordinates: { lat: 45.2, lng: 26.05 },
+    coords: [26.05, 45.2],
     description: {
       de: "Vălenii de Munte ist eine Stadt im Kreis Prahova, bekannt für ihre Lage am Rande der Karpaten.",
       hu: "Vălenii de Munte Prahova megyei város, ismert elhelyezkedéséről a Kárpátok lábánál.",
@@ -518,7 +518,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Mizil", hu: "Mizil", ro: "Mizil", en: "Mizil" },
-    coordinates: { lat: 45.0, lng: 26.43 },
+    coords: [26.43, 45.0],
     description: {
       de: "Mizil ist eine Stadt im Kreis Prahova in der Großen Walachei.",
       hu: "Mizil Prahova megyei város a Havasalföldi régióban.",
@@ -550,7 +550,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Câmpina", hu: "Câmpina", ro: "Câmpina", en: "Câmpina" },
-    coordinates: { lat: 45.13, lng: 25.73 },
+    coords: [25.73, 45.13],
     description: {
       de: "Câmpina ist eine Stadt im Kreis Prahova, bekannt für das Julia-Hasdeu-Schloss.",
       hu: "Câmpina Prahova megyei város, ismert a Julia Hasdeu-kastélyról.",
@@ -582,7 +582,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Băicoi", hu: "Băicoi", ro: "Băicoi", en: "Băicoi" },
-    coordinates: { lat: 45.03, lng: 25.85 },
+    coords: [25.85, 45.03],
     description: {
       de: "Băicoi ist eine Stadt im Kreis Prahova.",
       hu: "Băicoi Prahova megyei város.",
@@ -614,7 +614,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Breaza", hu: "Breaza", ro: "Breaza", en: "Breaza" },
-    coordinates: { lat: 45.18, lng: 25.66 },
+    coords: [25.66, 45.18],
     description: {
       de: "Breaza ist ein beliebter Erholungsort im Kreis Prahova im Prahova-Tal.",
       hu: "Breaza kedvelt üdülőhely Prahova megyében, a Prahova-völgyében.",
@@ -646,7 +646,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Boldești-Scăeni", hu: "Boldești-Scăeni", ro: "Boldești-Scăeni", en: "Boldești-Scăeni" },
-    coordinates: { lat: 45.03, lng: 26.03 },
+    coords: [26.03, 45.03],
     description: {
       de: "Boldești-Scăeni ist eine Stadt im Kreis Prahova.",
       hu: "Boldești-Scăeni Prahova megyei város.",
@@ -678,7 +678,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Urlați", hu: "Urlați", ro: "Urlați", en: "Urlați" },
-    coordinates: { lat: 45.0, lng: 26.23 },
+    coords: [26.23, 45.0],
     description: {
       de: "Urlați ist eine Stadt im Kreis Prahova in einer Weinbauregion.",
       hu: "Urlați Prahova megyei város egy bortermelő régióban.",
@@ -710,7 +710,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Slănic", hu: "Slănic", ro: "Slănic", en: "Slănic" },
-    coordinates: { lat: 45.23, lng: 25.93 },
+    coords: [25.93, 45.23],
     description: {
       de: "Slănic ist eine Stadt im Kreis Prahova, bekannt für ihre Salzmine.",
       hu: "Slănic Prahova megyei város, ismert sóbányájáról.",
@@ -742,7 +742,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Azuga", hu: "Azuga", ro: "Azuga", en: "Azuga" },
-    coordinates: { lat: 45.45, lng: 25.56 },
+    coords: [25.56, 45.45],
     description: {
       de: "Azuga ist eine Stadt und ein bekannter Wintersportort im Prahova-Tal.",
       hu: "Azuga város és közkedvelt téli üdülőhely a Prahova-völgyében.",
@@ -774,7 +774,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Bușteni", hu: "Bușteni", ro: "Bușteni", en: "Bușteni" },
-    coordinates: { lat: 45.41, lng: 25.53 },
+    coords: [25.53, 45.41],
     description: {
       de: "Bușteni ist ein bedeutender Berg- und Wintersportort im Kreis Prahova.",
       hu: "Bușteni jelentős hegyi és téli üdülőhely Prahova megyében.",
@@ -806,7 +806,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Sinaia", hu: "Sinaia", ro: "Sinaia", en: "Sinaia" },
-    coordinates: { lat: 45.35, lng: 25.55 },
+    coords: [25.55, 45.35],
     description: {
       de: "Sinaia ist eine berühmte Stadt und ein Ferienort im Kreis Prahova, bekannt für das Peleș-Schloss.",
       hu: "Sinaia híres város és üdülőhely Prahova megyében, ismert a Peleș-kastélyról.",
@@ -838,7 +838,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Plopeni", hu: "Plopeni", ro: "Plopeni", en: "Plopeni" },
-    coordinates: { lat: 45.06, lng: 25.96 },
+    coords: [25.96, 45.06],
     description: {
       de: "Plopeni ist eine Stadt im Kreis Prahova.",
       hu: "Plopeni Prahova megyei város.",
@@ -870,7 +870,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Cornu", hu: "Cornu", ro: "Cornu", en: "Cornu" },
-    coordinates: { lat: 45.16, lng: 25.7 },
+    coords: [25.7, 45.16],
     description: {
       de: "Cornu ist ein bewohnter Ort im Kreis Prahova, bekannt für seine malerische Lage.",
       hu: "Cornu lakott település Prahova megyében, ismert festői elhelyezkedéséről.",
@@ -902,7 +902,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Bănești", hu: "Bănești", ro: "Bănești", en: "Bănești" },
-    coordinates: { lat: 45.1, lng: 25.75 },
+    coords: [25.75, 45.1],
     description: {
       de: "Bănești ist eine Gemeinde und Ortschaft im Kreis Prahova.",
       hu: "Bănești község és település Prahova megyében.",
@@ -934,7 +934,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Posești", hu: "Posești", ro: "Posești", en: "Posești" },
-    coordinates: { lat: 45.23, lng: 26.1 },
+    coords: [26.1, 45.23],
     description: {
       de: "Posești ist ein bewohnter Ort im Kreis Prahova.",
       hu: "Posești lakott település Prahova megyében.",
@@ -966,7 +966,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Drajna", hu: "Drajna", ro: "Drajna", en: "Drajna" },
-    coordinates: { lat: 45.2, lng: 26.0 },
+    coords: [26.0, 45.2],
     description: {
       de: "Drajna ist eine Ortschaft im Kreis Prahova.",
       hu: "Drajna település Prahova megyében.",
@@ -998,7 +998,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Ștefești", hu: "Ștefești", ro: "Ștefești", en: "Ștefești" },
-    coordinates: { lat: 45.26, lng: 26.06 },
+    coords: [26.06, 45.26],
     description: {
       de: "Ștefești ist eine Ortschaft im Kreis Prahova.",
       hu: "Ștefești település Prahova megyében.",
@@ -1030,7 +1030,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Teișani", hu: "Teișani", ro: "Teișani", en: "Teișani" },
-    coordinates: { lat: 45.23, lng: 26.03 },
+    coords: [26.03, 45.23],
     description: {
       de: "Teișani ist eine Ortschaft im Kreis Prahova.",
       hu: "Teișani település Prahova megyében.",
@@ -1062,7 +1062,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Ariceștii Rahtivani", hu: "Ariceștii Rahtivani", ro: "Ariceștii Rahtivani", en: "Ariceștii Rahtivani" },
-    coordinates: { lat: 44.96, lng: 25.9 },
+    coords: [25.9, 44.96],
     description: {
       de: "Ariceștii Rahtivani ist eine Ortschaft im Kreis Prahova.",
       hu: "Ariceștii Rahtivani település Prahova megyében.",
@@ -1094,7 +1094,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Bărcănești", hu: "Bărcănești", ro: "Bărcănești", en: "Bărcănești" },
-    coordinates: { lat: 44.86, lng: 26.06 },
+    coords: [26.06, 44.86],
     description: {
       de: "Bărcănești ist eine Ortschaft im Kreis Prahova in der Nähe von Ploiești.",
       hu: "Bărcănești Prahova megyei település Ploiești közelében.",
@@ -1126,7 +1126,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Târgșoru Vechi", hu: "Târgșoru Vechi", ro: "Târgșoru Vechi", en: "Târgșoru Vechi" },
-    coordinates: { lat: 44.9, lng: 25.96 },
+    coords: [25.96, 44.9],
     description: {
       de: "Târgșoru Vechi ist eine Ortschaft im Kreis Prahova mit historischer Bedeutung.",
       hu: "Târgșoru Vechi Prahova megyei település történelmi jelentőséggel.",
@@ -1158,7 +1158,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Filipeștii de Pădure", hu: "Filipeștii de Pădure", ro: "Filipeștii de Pădure", en: "Filipeștii de Pădure" },
-    coordinates: { lat: 45.0, lng: 25.76 },
+    coords: [25.76, 45.0],
     description: {
       de: "Filipeștii de Pădure ist eine Ortschaft im Kreis Prahova.",
       hu: "Filipeștii de Pădure Prahova megyei település.",
@@ -1190,7 +1190,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Brazi", hu: "Brazi", ro: "Brazi", en: "Brazi" },
-    coordinates: { lat: 44.86, lng: 26.03 },
+    coords: [26.03, 44.86],
     description: {
       de: "Brazi ist eine Ortschaft im Kreis Prahova, bekannt für ihre Industrie.",
       hu: "Brazi Prahova megyei település, ismert iparáról.",
@@ -1222,7 +1222,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Bucov", hu: "Bucov", ro: "Bucov", en: "Bucov" },
-    coordinates: { lat: 44.96, lng: 26.06 },
+    coords: [26.06, 44.96],
     description: {
       de: "Bucov ist eine Ortschaft im Kreis Prahova, nahe bei Ploiești.",
       hu: "Bucov Prahova megyei település, Ploiești közelében.",
@@ -1254,7 +1254,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Vălcănești", hu: "Vălcănești", ro: "Vălcănești", en: "Vălcănești" },
-    coordinates: { lat: 45.13, lng: 26.0 },
+    coords: [26.0, 45.13],
     description: {
       de: "Vălcănești ist eine Ortschaft im Kreis Prahova.",
       hu: "Vălcănești Prahova megyei település.",
@@ -1286,7 +1286,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Puchenii Mari", hu: "Puchenii Mari", ro: "Puchenii Mari", en: "Puchenii Mari" },
-    coordinates: { lat: 44.8, lng: 26.03 },
+    coords: [26.03, 44.8],
     description: {
       de: "Puchenii Mari ist eine Ortschaft im Kreis Prahova.",
       hu: "Puchenii Mari Prahova megyei település.",
@@ -1318,7 +1318,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Blejoi", hu: "Blejoi", ro: "Blejoi", en: "Blejoi" },
-    coordinates: { lat: 44.96, lng: 26.03 },
+    coords: [26.03, 44.96],
     description: {
       de: "Blejoi ist eine Ortschaft im Kreis Prahova, nahe bei Ploiești.",
       hu: "Blejoi Prahova megyei település, Ploiești közelében.",
@@ -1350,7 +1350,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Dumbrăvești", hu: "Dumbrăvești", ro: "Dumbrăvești", en: "Dumbrăvești" },
-    coordinates: { lat: 45.1, lng: 26.0 },
+    coords: [26.0, 45.1],
     description: {
       de: "Dumbrăvești ist eine Ortschaft im Kreis Prahova.",
       hu: "Dumbrăvești Prahova megyei település.",
@@ -1382,7 +1382,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Gura Vitioarei", hu: "Gura Vitioarei", ro: "Gura Vitioarei", en: "Gura Vitioarei" },
-    coordinates: { lat: 45.16, lng: 26.06 },
+    coords: [26.06, 45.16],
     description: {
       de: "Gura Vitioarei ist eine Ortschaft im Kreis Prahova.",
       hu: "Gura Vitioarei Prahova megyei település.",
@@ -1414,7 +1414,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Cocorăștii Colț", hu: "Cocorăștii Colț", ro: "Cocorăștii Colț", en: "Cocorăștii Colț" },
-    coordinates: { lat: 44.83, lng: 25.86 },
+    coords: [25.86, 44.83],
     description: {
       de: "Cocorăștii Colț ist eine Ortschaft im Kreis Prahova.",
       hu: "Cocorăștii Colț Prahova megyei település.",
@@ -1446,7 +1446,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Colceag", hu: "Colceag", ro: "Colceag", en: "Colceag" },
-    coordinates: { lat: 44.96, lng: 26.3 },
+    coords: [26.3, 44.96],
     description: {
       de: "Colceag ist eine Ortschaft im Kreis Prahova.",
       hu: "Colceag Prahova megyei település.",
@@ -1478,7 +1478,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Tomșești", hu: "Tomșești", ro: "Tomșești", en: "Tomșești" },
-    coordinates: { lat: 44.93, lng: 26.2 },
+    coords: [26.2, 44.93],
     description: {
       de: "Tomșești ist eine Ortschaft im Kreis Prahova.",
       hu: "Tomșești Prahova megyei település.",
@@ -1510,7 +1510,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Filipeștii de Târg", hu: "Filipeștii de Târg", ro: "Filipeștii de Târg", en: "Filipeștii de Târg" },
-    coordinates: { lat: 44.96, lng: 25.86 },
+    coords: [25.86, 44.96],
     description: {
       de: "Filipeștii de Târg ist eine Ortschaft im Kreis Prahova.",
       hu: "Filipeștii de Târg Prahova megyei település.",
@@ -1542,7 +1542,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Măgurele", hu: "Măgurele", ro: "Măgurele", en: "Măgurele" },
-    coordinates: { lat: 44.33, lng: 26.03 },
+    coords: [26.03, 44.33],
     description: {
       de: "Măgurele ist eine Stadt im Kreis Ilfov, bekannt für ihr Forschungszentrum.",
       hu: "Măgurele Ilfov megyei város, ismert kutatóközpontjáról.",
@@ -1574,7 +1574,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Buftea", hu: "Buftea", ro: "Buftea", en: "Buftea" },
-    coordinates: { lat: 44.56, lng: 25.96 },
+    coords: [25.96, 44.56],
     description: {
       de: "Buftea ist eine Stadt im Kreis Ilfov, bekannt für ihr Filmstudio.",
       hu: "Buftea Ilfov megyei város, ismert filmstúdiójáról.",
@@ -1606,7 +1606,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Otopeni", hu: "Otopeni", ro: "Otopeni", en: "Otopeni" },
-    coordinates: { lat: 44.55, lng: 26.06 },
+    coords: [26.06, 44.55],
     description: {
       de: "Otopeni ist eine Stadt im Kreis Ilfov, Standort des internationalen Flughafens Bukarest.",
       hu: "Otopeni Ilfov megyei város, a bukaresti nemzetközi repülőtér székhelye.",
@@ -1638,7 +1638,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Pantelimon", hu: "Pantelimon", ro: "Pantelimon", en: "Pantelimon" },
-    coordinates: { lat: 44.43, lng: 26.2 },
+    coords: [26.2, 44.43],
     description: {
       de: "Pantelimon ist eine Stadt im Kreis Ilfov, angrenzend an Bukarest.",
       hu: "Pantelimon Ilfov megyei város, Bukarest mellett.",
@@ -1670,7 +1670,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Popești-Leordeni", hu: "Popești-Leordeni", ro: "Popești-Leordeni", en: "Popești-Leordeni" },
-    coordinates: { lat: 44.38, lng: 26.16 },
+    coords: [26.16, 44.38],
     description: {
       de: "Popești-Leordeni ist eine Stadt im Kreis Ilfov, direkt angrenzend an Bukarest.",
       hu: "Popești-Leordeni Ilfov megyei város, közvetlenül Bukarest mellett.",
@@ -1702,7 +1702,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Voluntari", hu: "Voluntari", ro: "Voluntari", en: "Voluntari" },
-    coordinates: { lat: 44.48, lng: 26.16 },
+    coords: [26.16, 44.48],
     description: {
       de: "Voluntari ist eine Stadt im Kreis Ilfov, nahe bei Bukarest.",
       hu: "Voluntari Ilfov megyei város, Bukarest közelében.",
@@ -1734,7 +1734,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Bragadiru", hu: "Bragadiru", ro: "Bragadiru", en: "Bragadiru" },
-    coordinates: { lat: 44.36, lng: 25.96 },
+    coords: [25.96, 44.36],
     description: {
       de: "Bragadiru ist eine Stadt im Kreis Ilfov, nahe bei Bukarest.",
       hu: "Bragadiru Ilfov megyei város, Bukarest közelében.",
@@ -1766,7 +1766,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Chitila", hu: "Chitila", ro: "Chitila", en: "Chitila" },
-    coordinates: { lat: 44.5, lng: 25.96 },
+    coords: [25.96, 44.5],
     description: {
       de: "Chitila ist eine Stadt im Kreis Ilfov, nahe bei Bukarest.",
       hu: "Chitila Ilfov megyei város, Bukarest közelében.",
@@ -1798,7 +1798,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Dărăști-Ilfov", hu: "Dărăști-Ilfov", ro: "Dărăști-Ilfov", en: "Dărăști-Ilfov" },
-    coordinates: { lat: 44.31, lng: 26.0 },
+    coords: [26.0, 44.31],
     description: {
       de: "Dărăști-Ilfov ist eine Ortschaft im Kreis Ilfov.",
       hu: "Dărăști-Ilfov Ilfov megyei település.",
@@ -1830,7 +1830,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Copăceni", hu: "Copăceni", ro: "Copăceni", en: "Copăceni" },
-    coordinates: { lat: 44.33, lng: 26.06 },
+    coords: [26.06, 44.33],
     description: {
       de: "Copăceni ist eine Ortschaft im Kreis Ilfov.",
       hu: "Copăceni Ilfov megyei település.",
@@ -1862,7 +1862,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "1 Decembrie", hu: "1 Decembrie", ro: "1 Decembrie", en: "1 Decembrie" },
-    coordinates: { lat: 44.31, lng: 26.03 },
+    coords: [26.03, 44.31],
     description: {
       de: "1 Decembrie ist eine Ortschaft im Kreis Ilfov, nahe bei Bukarest.",
       hu: "1 Decembrie Ilfov megyei település, Bukarest közelében.",
@@ -1894,7 +1894,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Vidra", hu: "Vidra", ro: "Vidra", en: "Vidra" },
-    coordinates: { lat: 44.26, lng: 26.1 },
+    coords: [26.1, 44.26],
     description: {
       de: "Vidra ist eine Ortschaft im Kreis Ilfov.",
       hu: "Vidra Ilfov megyei település.",
@@ -1926,7 +1926,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Sindrilita", hu: "Sindrilita", ro: "Sindrilita", en: "Sindrilita" },
-    coordinates: { lat: 44.53, lng: 26.3 },
+    coords: [26.3, 44.53],
     description: {
       de: "Sindrilita ist eine Ortschaft im Kreis Ilfov.",
       hu: "Sindrilita Ilfov megyei település.",
@@ -1958,7 +1958,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Gagu", hu: "Gagu", ro: "Gagu", en: "Gagu" },
-    coordinates: { lat: 44.56, lng: 26.23 },
+    coords: [26.23, 44.56],
     description: {
       de: "Gagu ist eine Ortschaft im Kreis Ilfov.",
       hu: "Gagu Ilfov megyei település.",
@@ -1990,7 +1990,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Dascălu", hu: "Dascălu", ro: "Dascălu", en: "Dascălu" },
-    coordinates: { lat: 44.6, lng: 26.2 },
+    coords: [26.2, 44.6],
     description: {
       de: "Dascălu ist eine Ortschaft im Kreis Ilfov.",
       hu: "Dascălu Ilfov megyei település.",
@@ -2022,7 +2022,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Mogoșoaia", hu: "Mogoșoaia", ro: "Mogoșoaia", en: "Mogoșoaia" },
-    coordinates: { lat: 44.53, lng: 25.96 },
+    coords: [25.96, 44.53],
     description: {
       de: "Mogoșoaia ist eine Stadt im Kreis Ilfov, bekannt für den Mogoșoaia-Palast.",
       hu: "Mogoșoaia Ilfov megyei város, ismert a Mogoșoaia-palotáról.",
@@ -2054,7 +2054,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Periș", hu: "Periș", ro: "Periș", en: "Periș" },
-    coordinates: { lat: 44.66, lng: 25.96 },
+    coords: [25.96, 44.66],
     description: {
       de: "Periș ist eine Ortschaft im Kreis Ilfov.",
       hu: "Periș Ilfov megyei település.",
@@ -2086,7 +2086,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Snagov", hu: "Snagov", ro: "Snagov", en: "Snagov" },
-    coordinates: { lat: 44.7, lng: 26.16 },
+    coords: [26.16, 44.7],
     description: {
       de: "Snagov ist eine Ortschaft im Kreis Ilfov, bekannt für ihren See und das Kloster.",
       hu: "Snagov Ilfov megyei település, ismert taváról és kolostoráról.",
@@ -2118,7 +2118,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Găneasa", hu: "Găneasa", ro: "Găneasa", en: "Găneasa" },
-    coordinates: { lat: 44.5, lng: 26.26 },
+    coords: [26.26, 44.5],
     description: {
       de: "Găneasa ist eine Ortschaft im Kreis Ilfov.",
       hu: "Găneasa Ilfov megyei település.",
@@ -2150,7 +2150,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Afumați", hu: "Afumați", ro: "Afumați", en: "Afumați" },
-    coordinates: { lat: 44.5, lng: 26.2 },
+    coords: [26.2, 44.5],
     description: {
       de: "Afumați ist eine Ortschaft im Kreis Ilfov.",
       hu: "Afumați Ilfov megyei település.",
@@ -2182,7 +2182,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Ștefăneștii de Jos", hu: "Ștefăneștii de Jos", ro: "Ștefăneștii de Jos", en: "Ștefăneștii de Jos" },
-    coordinates: { lat: 44.53, lng: 26.16 },
+    coords: [26.16, 44.53],
     description: {
       de: "Ștefăneștii de Jos ist eine Ortschaft im Kreis Ilfov.",
       hu: "Ștefăneștii de Jos Ilfov megyei település.",
@@ -2214,7 +2214,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Tunari", hu: "Tunari", ro: "Tunari", en: "Tunari" },
-    coordinates: { lat: 44.53, lng: 26.1 },
+    coords: [26.1, 44.53],
     description: {
       de: "Tunari ist eine Ortschaft im Kreis Ilfov, nördlich von Bukarest.",
       hu: "Tunari Ilfov megyei település, Bukaresttől északra.",
@@ -2246,7 +2246,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Corbeanca", hu: "Corbeanca", ro: "Corbeanca", en: "Corbeanca" },
-    coordinates: { lat: 44.6, lng: 26.03 },
+    coords: [26.03, 44.6],
     description: {
       de: "Corbeanca ist eine Ortschaft im Kreis Ilfov, nördlich von Bukarest.",
       hu: "Corbeanca Ilfov megyei település, Bukaresttől északra.",
@@ -2278,7 +2278,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Balotești", hu: "Balotești", ro: "Balotești", en: "Balotești" },
-    coordinates: { lat: 44.6, lng: 26.06 },
+    coords: [26.06, 44.6],
     description: {
       de: "Balotești ist eine Ortschaft im Kreis Ilfov, nördlich von Bukarest.",
       hu: "Balotești Ilfov megyei település, Bukaresttől északra.",
@@ -2310,7 +2310,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Grădiștea", hu: "Grădiștea", ro: "Grădiștea", en: "Grădiștea" },
-    coordinates: { lat: 44.66, lng: 26.26 },
+    coords: [26.26, 44.66],
     description: {
       de: "Grădiștea ist eine Ortschaft im Kreis Ilfov.",
       hu: "Grădiștea Ilfov megyei település.",
@@ -2342,7 +2342,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Nuci", hu: "Nuci", ro: "Nuci", en: "Nuci" },
-    coordinates: { lat: 44.66, lng: 26.33 },
+    coords: [26.33, 44.66],
     description: {
       de: "Nuci ist eine Ortschaft im Kreis Ilfov.",
       hu: "Nuci Ilfov megyei település.",
@@ -2374,7 +2374,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Petrăchioaia", hu: "Petrăchioaia", ro: "Petrăchioaia", en: "Petrăchioaia" },
-    coordinates: { lat: 44.56, lng: 26.3 },
+    coords: [26.3, 44.56],
     description: {
       de: "Petrăchioaia ist eine Ortschaft im Kreis Ilfov.",
       hu: "Petrăchioaia Ilfov megyei település.",
@@ -2406,7 +2406,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Ciolpani", hu: "Ciolpani", ro: "Ciolpani", en: "Ciolpani" },
-    coordinates: { lat: 44.7, lng: 26.06 },
+    coords: [26.06, 44.7],
     description: {
       de: "Ciolpani ist eine Ortschaft im Kreis Ilfov, nördlich von Bukarest.",
       hu: "Ciolpani Ilfov megyei település, Bukaresttől északra.",
@@ -2438,7 +2438,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Domnești", hu: "Domnești", ro: "Domnești", en: "Domnești" },
-    coordinates: { lat: 44.4, lng: 25.93 },
+    coords: [25.93, 44.4],
     description: {
       de: "Domnești ist eine Ortschaft im Kreis Ilfov, westlich von Bukarest.",
       hu: "Domnești Ilfov megyei település, Bukaresttől nyugatra.",
@@ -2470,7 +2470,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Clinceni", hu: "Clinceni", ro: "Clinceni", en: "Clinceni" },
-    coordinates: { lat: 44.36, lng: 25.96 },
+    coords: [25.96, 44.36],
     description: {
       de: "Clinceni ist eine Ortschaft im Kreis Ilfov, südwestlich von Bukarest.",
       hu: "Clinceni Ilfov megyei település, Bukaresttől délnyugatra.",
@@ -2502,7 +2502,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Cornetu", hu: "Cornetu", ro: "Cornetu", en: "Cornetu" },
-    coordinates: { lat: 44.33, lng: 25.96 },
+    coords: [25.96, 44.33],
     description: {
       de: "Cornetu ist eine Ortschaft im Kreis Ilfov, südwestlich von Bukarest.",
       hu: "Cornetu Ilfov megyei település, Bukaresttől délnyugatra.",
@@ -2534,7 +2534,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Cernica", hu: "Cernica", ro: "Cernica", en: "Cernica" },
-    coordinates: { lat: 44.4, lng: 26.23 },
+    coords: [26.23, 44.4],
     description: {
       de: "Cernica ist eine Ortschaft im Kreis Ilfov, bekannt für ihr Kloster.",
       hu: "Cernica Ilfov megyei település, ismert a kolostoráról.",
@@ -2566,7 +2566,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Glina", hu: "Glina", ro: "Glina", en: "Glina" },
-    coordinates: { lat: 44.4, lng: 26.16 },
+    coords: [26.16, 44.4],
     description: {
       de: "Glina ist eine Ortschaft im Kreis Ilfov, nahe bei Bukarest.",
       hu: "Glina Ilfov megyei település, Bukarest közelében.",
@@ -2598,7 +2598,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Berceni", hu: "Berceni", ro: "Berceni", en: "Berceni" },
-    coordinates: { lat: 44.33, lng: 26.16 },
+    coords: [26.16, 44.33],
     description: {
       de: "Berceni ist eine Ortschaft im Kreis Ilfov, südlich von Bukarest.",
       hu: "Berceni Ilfov megyei település, Bukaresttől délre.",
@@ -2630,7 +2630,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Dragomirești-Vale", hu: "Dragomirești-Vale", ro: "Dragomirești-Vale", en: "Dragomirești-Vale" },
-    coordinates: { lat: 44.46, lng: 25.9 },
+    coords: [25.9, 44.46],
     description: {
       de: "Dragomirești-Vale ist eine Ortschaft im Kreis Ilfov.",
       hu: "Dragomirești-Vale Ilfov megyei település.",
@@ -2662,7 +2662,7 @@ export const romaniaCitiesV2: POI[] = [
     type: "city",
     parent: "RO",
     name: { de: "Crevedia", hu: "Crevedia", ro: "Crevedia", en: "Crevedia" },
-    coordinates: { lat: 44.56, lng: 25.9 },
+    coords: [25.9, 44.56],
     description: {
       de: "Crevedia ist eine Ortschaft im Kreis Dâmbovița, nahe der Grenze zu Ilfov.",
       hu: "Crevedia Dâmbovița megyei település, az Ilfov-i határ közelében.",

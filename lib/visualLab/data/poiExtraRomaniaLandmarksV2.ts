@@ -6,7 +6,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Triumphbogen Bukarest", hu: "Bukaresti Diadalív", ro: "Arcul de Triumf", en: "Triumphal Arch Bucharest" },
-    coordinates: { lat: 44.4668, lng: 26.0763 },
+    coords: [26.0763, 44.4668],
     description: {
       de: "Der Triumphbogen in Bukarest wurde 1936 fertiggestellt und ehrt den Sieg Rumäniens im Ersten Weltkrieg. Er dient als nationales Symbol bei offiziellen Militärparaden.",
       hu: "A bukaresti diadalívet 1936-ban fejezték be, Románia első világháborús győzelmének emlékére. Nemzeti jelképként szolgál hivatalos katonai parádékon.",
@@ -38,7 +38,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Cantacuzino-Palast", hu: "Cantacuzino-palota", ro: "Palatul Cantacuzino", en: "Cantacuzino Palace" },
-    coordinates: { lat: 44.4455, lng: 26.0911 },
+    coords: [26.0911, 44.4455],
     description: {
       de: "Das Gebäude beherbergt das George-Enescu-Museum in Bukarest. Es wurde Anfang des 20. Jahrhunderts im neoklassizistischen Stil für Gheorghe Cantacuzino erbaut.",
       hu: "Az épület ad otthont a bukaresti George Enescu Múzeumnak. A 20. század elején épült neoklasszikus stílusban Gheorghe Cantacuzino számára.",
@@ -70,7 +70,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Stavropoleos-Kloster", hu: "Stavropoleos-kolostor", ro: "Mănăstirea Stavropoleos", en: "Stavropoleos Monastery" },
-    coordinates: { lat: 44.4316, lng: 26.0978 },
+    coords: [26.0978, 44.4316],
     description: {
       de: "Diese ostorthodoxe Kirche in der Bukarester Altstadt wurde 1724 erbaut. Sie ist bekannt für ihre geschnitzte Fassade und den friedlichen Innenhof.",
       hu: "Ez a bukaresti óvárosban található kelet-ortodox templom 1724-ben épült. Ismert faragott homlokzatáról és békés udvaráról.",
@@ -102,7 +102,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Cașin-Kloster", hu: "Cașin-kolostor", ro: "Mănăstirea Cașin", en: "Cașin Monastery" },
-    coordinates: { lat: 44.4716, lng: 26.0792 },
+    coords: [26.0792, 44.4716],
     description: {
       de: "Die Cașin-Kirche in Bukarest wurde zwischen 1935 und 1937 errichtet. Sie zeichnet sich durch ihren byzantinischen Stil und ihre zentrale Kuppel aus.",
       hu: "A bukaresti Cașin-templom 1935 és 1937 között épült. Jellegzetessége a bizánci stílus és a központi kupola.",
@@ -134,7 +134,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Victoria-Palast", hu: "Victoria-palota", ro: "Palatul Victoria", en: "Victoria Palace" },
-    coordinates: { lat: 44.4533, lng: 26.0847 },
+    coords: [26.0847, 44.4533],
     description: {
       de: "Der Victoria-Palast ist der Sitz der rumänischen Regierung in Bukarest. Das Gebäude wurde in den 1930er Jahren entworfen und 1944 fertiggestellt.",
       hu: "A Victoria-palota a román kormány székhelye Bukarestben. Az épületet az 1930-as években tervezték és 1944-ben fejezték be.",
@@ -166,7 +166,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Snagov-Klosterinsel", hu: "Snagov-kolostorsziget", ro: "Mănăstirea Snagov", en: "Snagov Monastery Island" },
-    coordinates: { lat: 44.7208, lng: 26.1772 },
+    coords: [26.1772, 44.7208],
     description: {
       de: "Das Kloster liegt auf einer Insel im Snagov-See nahe Bukarest. Es ist durch eine Legende mit dem Grab von Vlad Țepeș verbunden.",
       hu: "A kolostor egy szigeten fekszik a Snagov-tóban, Bukarest közelében. Legendák kötik Vlad Țepeș sírjához.",
@@ -198,7 +198,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "bridge",
     parent: "RO",
     name: { de: "Cașin-Brücke", hu: "Cașin-híd", ro: "Podul Cașin", en: "Cașin Bridge" },
-    coordinates: { lat: 46.2233, lng: 26.7114 },
+    coords: [26.7114, 46.2233],
     description: {
       de: "Diese Brücke überquert den Fluss Cașin im Landkreis Bacău. Sie ist ein wichtiger Knotenpunkt für den lokalen Verkehr und die Region.",
       hu: "Ez a híd a Cașin folyót keresztezi Bákó megyében. Fontos csomópont a helyi forgalom és a régió számára.",
@@ -230,7 +230,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "tower",
     parent: "RO",
     name: { de: "Uhrturm Târgoviște", hu: "Târgoviștei óratorony", ro: "Turnul Chindiei", en: "Chindia Tower Târgoviște" },
-    coordinates: { lat: 44.9308, lng: 25.4542 },
+    coords: [25.4542, 44.9308],
     description: {
       de: "Der Chindia-Turm ist ein Wahrzeichen der fürstlichen Zitadelle von Târgoviște. Er wurde im 15. Jahrhundert unter Vlad Țepeș errichtet.",
       hu: "A Chindia-torony a târgoviștei fejedelmi vár jelképe. A 15. században épült Vlad Țepeș uralkodása alatt.",
@@ -262,7 +262,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Maria-Filotti-Theater Brăila", hu: "Maria Filotti Színház Brăila", ro: "Teatrul Maria Filotti Brăila", en: "Maria Filotti Theatre Brăila" },
-    coordinates: { lat: 45.2711, lng: 27.9622 },
+    coords: [27.9622, 45.2711],
     description: {
       de: "Das Theater in Brăila wurde 1896 eröffnet und ist eines der schönsten historischen Theaterhäuser Rumäniens. Es trägt den Namen der Schauspielerin Maria Filotti.",
       hu: "A brăilai színházat 1896-ban nyitották meg, és Románia egyik legszebb történelmi színháza. Maria Filotti színésznőről nevezték el.",
@@ -294,7 +294,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Unabhängigkeitsdenkmal Tulcea", hu: "Függetlenségi emlékmű Tulcea", ro: "Monumentul Independenței Tulcea", en: "Independence Monument Tulcea" },
-    coordinates: { lat: 45.1855, lng: 28.7997 },
+    coords: [28.7997, 45.1855],
     description: {
       de: "Das Denkmal steht auf dem Hügel von Tulcea und erinnert an den Unabhängigkeitskrieg von 1877-1878. Es bietet einen Blick auf die Donau.",
       hu: "Az emlékmű Tulcea dombján áll, az 1877-1878-as függetlenségi háború emlékére. Kilátást nyújt a Dunára.",
@@ -326,7 +326,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "tower",
     parent: "RO",
     name: { de: "Feuerwehrturm Satu Mare", hu: "Szatmárnémeti tűzoltótorony", ro: "Turnul Pompierilor din Satu Mare", en: "Fire Tower Satu Mare" },
-    coordinates: { lat: 47.7917, lng: 22.8847 },
+    coords: [22.8847, 47.7917],
     description: {
       de: "Der Feuerwehrturm in Satu Mare wurde 1904 erbaut und diente zur Überwachung der Stadt auf Brände. Heute ist er ein Aussichtspunkt.",
       hu: "A szatmárnémeti tűzoltótorony 1904-ben épült, és a város tűzmegfigyelésére szolgált. Ma kilátóként működik.",
@@ -358,7 +358,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Staatstheater Oradea", hu: "Nagyváradi Állami Színház", ro: "Teatrul de Stat Oradea", en: "State Theatre Oradea" },
-    coordinates: { lat: 47.0583, lng: 21.9333 },
+    coords: [21.9333, 47.0583],
     description: {
       de: "Das Oradea-Staatstheater wurde 1900 fertiggestellt und ist ein architektonisches Juwel im Sezessionsstil. Es ist ein kulturelles Zentrum der Stadt.",
       hu: "A nagyváradi Állami Színházat 1900-ban fejezték be, és szecessziós építészeti ékkő. A város kulturális központja.",
@@ -390,7 +390,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "St.-Michael-Kirche Cluj", hu: "Szent Mihály-templom Kolozsvár", ro: "Biserica Sfântul Mihail Cluj", en: "St. Michael's Church Cluj" },
-    coordinates: { lat: 46.7694, lng: 23.5897 },
+    coords: [23.5897, 46.7694],
     description: {
       de: "Die St.-Michael-Kirche in Cluj-Napoca ist ein Meisterwerk der Gotik und stammt aus dem 14. Jahrhundert. Sie prägt das Stadtzentrum.",
       hu: "A kolozsvári Szent Mihály-templom a gótikus építészet remekműve, a 14. századból származik. Meghatározza a városközpontot.",
@@ -422,7 +422,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Mausoleum Carol-Park", hu: "Carol-parki mauzóleum", ro: "Mausoleul din Parcul Carol", en: "Carol Park Mausoleum" },
-    coordinates: { lat: 44.4172, lng: 26.0914 },
+    coords: [26.0914, 44.4172],
     description: {
       de: "Das Mausoleum im Carol-Park in Bukarest ehrt die Helden des Volkes. Es wurde 1963 errichtet und ist ein bekanntes kommunistisches Bauwerk.",
       hu: "A bukaresti Carol-parkban lévő mauzóleum a nép hőseit tiszteli. 1963-ban épült, és ismert kommunista építmény.",
@@ -454,7 +454,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Präfektur Târgu Mureș", hu: "Marosvásárhelyi Prefektúra", ro: "Palatul Administrativ din Târgu Mureș", en: "Târgu Mureș Administrative Palace" },
-    coordinates: { lat: 46.5458, lng: 24.5572 },
+    coords: [24.5572, 46.5458],
     description: {
       de: "Der Verwaltungspalast in Târgu Mureș beherbergt die Präfektur. Er wurde zu Beginn des 20. Jahrhunderts im sezessionistischen Stil errichtet.",
       hu: "A marosvásárhelyi közigazgatási palota ad otthont a prefektúrának. A 20. század elején épült szecessziós stílusban.",
@@ -486,7 +486,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RO",
     name: { de: "Sternwarte Bacău", hu: "Bákói csillagvizsgáló", ro: "Observatorul Astronomic Bacău", en: "Bacău Astronomical Observatory" },
-    coordinates: { lat: 46.5742, lng: 26.9117 },
+    coords: [26.9117, 46.5742],
     description: {
       de: "Die Sternwarte von Bacău bietet astronomische Beobachtungen und Ausstellungen. Sie ist ein wichtiges Bildungszentrum in der Region.",
       hu: "A bákói csillagvizsgáló csillagászati megfigyeléseket és kiállításokat kínál. Fontos oktatási központ a régióban.",
@@ -518,7 +518,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "tower",
     parent: "RO",
     name: { de: "Stefansturm Piatra Neamț", hu: "Piatra Neamț-i István-torony", ro: "Turnul lui Ștefan cel Mare", en: "Stephen's Tower Piatra Neamț" },
-    coordinates: { lat: 46.9292, lng: 26.3314 },
+    coords: [26.3314, 46.9292],
     description: {
       de: "Der Stefansturm in Piatra Neamț wurde im 15. Jahrhundert unter der Herrschaft von Stefan dem Großen erbaut. Er steht neben der Kirche.",
       hu: "A Piatra Neamț-i István-torony a 15. században épült, Nagy István uralkodása alatt. A templom mellett áll.",
@@ -550,7 +550,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Präfektur Craiova", hu: "Craiova-i Prefektúra", ro: "Palatul Administrativ din Craiova", en: "Craiova Administrative Palace" },
-    coordinates: { lat: 44.3167, lng: 23.7917 },
+    coords: [23.7917, 44.3167],
     description: {
       de: "Das Verwaltungsgebäude in Craiova ist ein imposanter Bau des 20. Jahrhunderts. Es beherbergt heute die Verwaltung des Kreises Dolj.",
       hu: "A craiovai közigazgatási épület egy impozáns 20. századi építmény. Ma a Dolj megyei közigazgatásnak ad otthont.",
@@ -582,7 +582,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Staatstheater Galați", hu: "Galaci Állami Színház", ro: "Teatrul Dramatic Fani Tardini", en: "Fani Tardini Theatre Galați" },
-    coordinates: { lat: 45.4358, lng: 28.0494 },
+    coords: [28.0494, 45.4358],
     description: {
       de: "Das Drama-Theater Fani Tardini ist die wichtigste Bühne in Galați. Es ist benannt nach der berühmten rumänischen Schauspielerin Fani Tardini.",
       hu: "A Fani Tardini Drámaszínház a legfontosabb színpad Galacon. A híres román színésznőről, Fani Tardininéről nevezték el.",
@@ -614,7 +614,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "RO",
     name: { de: "Kathedrale Alexandria", hu: "Alexandria-i székesegyház", ro: "Catedrala Sfântul Alexandru", en: "Cathedral of Alexandria" },
-    coordinates: { lat: 43.9744, lng: 25.3314 },
+    coords: [25.3314, 43.9744],
     description: {
       de: "Die Kathedrale des Heiligen Alexandru in der Stadt Alexandria ist das wichtigste religiöse Zentrum des Kreises Teleorman.",
       hu: "A városi Szent Alexandru-székesegyház Alexandria legfontosabb vallási központja Teleorman megyében.",
@@ -646,7 +646,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Kloster Slobozia", hu: "Sloboziai kolostor", ro: "Mănăstirea Slobozia", en: "Slobozia Monastery" },
-    coordinates: { lat: 44.5625, lng: 27.3711 },
+    coords: [27.3711, 44.5625],
     description: {
       de: "Das Kloster Slobozia ist eine bedeutende religiöse Stätte im Ialomița-Kreis. Es wurde durch Spenden der lokalen Gemeinschaft errichtet.",
       hu: "A sloboziai kolostor jelentős vallási helyszín Ialomița megyében. A helyi közösség adományaiból épült.",
@@ -678,7 +678,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Kulturhaus Zalău", hu: "Zilah-i Művelődési Ház", ro: "Casa de Cultură Zalău", en: "Zalău Cultural House" },
-    coordinates: { lat: 47.1855, lng: 23.0514 },
+    coords: [23.0514, 47.1855],
     description: {
       de: "Das Kulturhaus in Zalău dient als Zentrum für Konzerte, Theater und städtische Veranstaltungen im Kreis Sălaj.",
       hu: "A zilah-i művelődési ház koncertek, színházi előadások és városi rendezvények központja Sălaj megyében.",
@@ -710,7 +710,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Operntheater Focșani", hu: "Focșani-i Színház", ro: "Teatrul Municipal Focșani", en: "Municipal Theatre Focșani" },
-    coordinates: { lat: 45.6961, lng: 27.1897 },
+    coords: [27.1897, 45.6961],
     description: {
       de: "Das Städtische Theater Focșani ist ein architektonisches Denkmal des 20. Jahrhunderts. Es ist zentraler Ort für Kunst und Musik in der Region.",
       hu: "A focșani-i városi színház egy 20. századi építészeti emlék. A művészet és a zene központja a régióban.",
@@ -742,7 +742,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RO",
     name: { de: "Museum Botoșani", hu: "Botoșani-i Múzeum", ro: "Muzeul Județean Botoșani", en: "Botoșani County Museum" },
-    coordinates: { lat: 47.7458, lng: 26.6667 },
+    coords: [26.6667, 47.7458],
     description: {
       de: "Das Kreismuseum in Botoșani bewahrt archäologische Funde und historische Artefakte der Region. Es bietet Einblicke in die Vergangenheit.",
       hu: "A botoșani-i megyei múzeum régészeti leleteket és történelmi tárgyakat őriz a régióból. Betekintést nyújt a múltba.",
@@ -774,7 +774,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RO",
     name: { de: "Eisenmuseum Reșița", hu: "Resicabányai Vasúti Múzeum", ro: "Muzeul de Locomotive cu Abur", en: "Steam Locomotive Museum Reșița" },
-    coordinates: { lat: 45.3056, lng: 21.8842 },
+    coords: [21.8842, 45.3056],
     description: {
       de: "Das Eisenmuseum in Reșița ist weltweit bekannt für seine Sammlung historischer Dampflokomotiven. Es würdigt die industrielle Geschichte der Stadt.",
       hu: "A resicabányai vasúti múzeum világszerte ismert történelmi gőzmozdony-gyűjteményéről. Tisztelgés a város ipartörténete előtt.",
@@ -806,7 +806,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Helden-Denkmal Zalău", hu: "Zilah-i Hősök Emlékműve", ro: "Monumentul Eroilor din Zalău", en: "Heroes' Monument Zalău" },
-    coordinates: { lat: 47.1811, lng: 23.0578 },
+    coords: [23.0578, 47.1811],
     description: {
       de: "Das Denkmal der Helden in Zalău erinnert an Soldaten, die in den Weltkriegen für das Land kämpften. Es steht im Zentrum des Ortes.",
       hu: "A zilah-i hősök emlékműve a világháborúkban harcolt katonákra emlékezik. A város központjában áll.",
@@ -838,7 +838,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Theater Jean Bart Tulcea", hu: "Jean Bart Színház Tulcea", ro: "Teatrul Jean Bart Tulcea", en: "Jean Bart Theatre Tulcea" },
-    coordinates: { lat: 45.1811, lng: 28.8056 },
+    coords: [28.8056, 45.1811],
     description: {
       de: "Das Jean-Bart-Theater ist die führende kulturelle Einrichtung in Tulcea. Es bietet ein vielfältiges Programm für alle Altersgruppen.",
       hu: "A Jean Bart Színház a legfontosabb kulturális intézmény Tulceában. Változatos műsort kínál minden korosztálynak.",
@@ -870,7 +870,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RO",
     name: { de: "Museum Vaslui", hu: "Vaslui-i Múzeum", ro: "Muzeul Județean Ștefan cel Mare", en: "Stephen the Great County Museum Vaslui" },
-    coordinates: { lat: 46.6358, lng: 27.7314 },
+    coords: [27.7314, 46.6358],
     description: {
       de: "Das Kreismuseum Stefan der Große in Vaslui dokumentiert die lokale Geschichte. Es beherbergt zahlreiche Funde aus der Region.",
       hu: "A vaslui-i Nagy István Megyei Múzeum a helyi történelmet dokumentálja. Számos leletet őriz a régióból.",
@@ -902,7 +902,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RO",
     name: { de: "Museum der Geschichte Zalău", hu: "Zilah-i Történeti Múzeum", ro: "Muzeul Județean de Istorie și Artă", en: "County Museum of History and Art Zalău" },
-    coordinates: { lat: 47.1856, lng: 23.0558 },
+    coords: [23.0558, 47.1856],
     description: {
       de: "Das Kreismuseum für Geschichte und Kunst in Zalău bietet Einblicke in die dakische und römische Vergangenheit des Sălaj-Kreises.",
       hu: "A zilah-i történeti és művészeti múzeum betekintést nyújt Sălaj megye dák és római múltjába.",
@@ -934,7 +934,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Obelisk Unirea Focșani", hu: "Focșani-i Unirea Obeliszk", ro: "Obeliscul Unirii Focșani", en: "Unirii Obelisk Focșani" },
-    coordinates: { lat: 45.6942, lng: 27.1858 },
+    coords: [27.1858, 45.6942],
     description: {
       de: "Der Obelisk der Union in Focșani erinnert an die Vereinigung der Donaufürstentümer. Er steht im historischen Zentrum der Stadt.",
       hu: "A focșani-i Unirii-obeliszk a dunai fejedelemségek egyesülésére emlékezik. A város történelmi központjában áll.",
@@ -966,7 +966,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Theater Bacău", hu: "Bákói Színház", ro: "Teatrul Municipal Bacovia", en: "Bacovia Municipal Theatre Bacău" },
-    coordinates: { lat: 46.5714, lng: 26.9142 },
+    coords: [26.9142, 46.5714],
     description: {
       de: "Das Theater Bacovia in Bacău ist das Zentrum für darstellende Kunst der Stadt. Es bietet ein umfangreiches Repertoire.",
       hu: "A bákói Bacovia Színház a város előadó-művészeti központja. Gazdag repertoárt kínál.",
@@ -998,7 +998,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Theater Mihai Eminescu Botoșani", hu: "Mihai Eminescu Színház Botoșani", ro: "Teatrul Mihai Eminescu Botoșani", en: "Mihai Eminescu Theatre Botoșani" },
-    coordinates: { lat: 47.7497, lng: 26.6694 },
+    coords: [26.6694, 47.7497],
     description: {
       de: "Das Theater Mihai Eminescu in Botoșani ist ein wichtiges Kulturzentrum. Es ist nach dem berühmten rumänischen Dichter benannt.",
       hu: "A botoșani-i Mihai Eminescu Színház fontos kultúrközpont. A híres román költőről nevezték el.",
@@ -1030,7 +1030,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Kulturhaus Vaslui", hu: "Vaslui-i Művelődési Ház", ro: "Casa de Cultură Vaslui", en: "Cultural House Vaslui" },
-    coordinates: { lat: 46.6314, lng: 27.7342 },
+    coords: [27.7342, 46.6314],
     description: {
       de: "Das Kulturhaus in Vaslui ist der wichtigste Veranstaltungsort für Theater und Konzerte in der Stadt.",
       hu: "A vaslui-i művelődési ház a város legfontosabb színházi és koncerthelyszíne.",
@@ -1062,7 +1062,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Denkmal der Industriearbeiter Reșița", hu: "Resicabányai Ipari Munkás Emlékmű", ro: "Monumentul Muncitorului Industrial Reșița", en: "Industrial Worker Monument Reșița" },
-    coordinates: { lat: 45.3014, lng: 21.8897 },
+    coords: [21.8897, 45.3014],
     description: {
       de: "Das Denkmal in Reșița erinnert an die Tradition der Industriearbeiter in der Stadt, die für ihre Stahlerzeugung bekannt ist.",
       hu: "A resicabányai emlékmű a város ipari munkásainak hagyományaira emlékeztet, amely az acélgyártásáról híres.",
@@ -1094,7 +1094,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Nationaltheater Craiova", hu: "Craiova-i Nemzeti Színház", ro: "Teatrul Național Marin Sorescu", en: "Marin Sorescu National Theatre Craiova" },
-    coordinates: { lat: 44.3197, lng: 23.7942 },
+    coords: [23.7942, 44.3197],
     description: {
       de: "Das Marin-Sorescu-Nationaltheater in Craiova ist eines der bedeutendsten Theater Rumäniens und international für Festivals bekannt.",
       hu: "A craiovai Marin Sorescu Nemzeti Színház Románia egyik legjelentősebb színháza, nemzetközileg is ismert fesztiváljairól.",
@@ -1126,7 +1126,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Kulturhaus Alexandria", hu: "Alexandria-i Művelődési Ház", ro: "Casa de Cultură Alexandria", en: "Cultural House Alexandria" },
-    coordinates: { lat: 43.9714, lng: 25.3342 },
+    coords: [25.3342, 43.9714],
     description: {
       de: "Das Kulturhaus in Alexandria ist der Treffpunkt für lokale Theatergruppen und Konzerte im Kreis Teleorman.",
       hu: "Az alexandria-i művelődési ház a helyi színházi csoportok és koncertek találkozóhelye Teleorman megyében.",
@@ -1158,7 +1158,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Denkmal der Donau Galați", hu: "Galaci Duna-emlékmű", ro: "Monumentul Dunării Galați", en: "Danube Monument Galați" },
-    coordinates: { lat: 45.4314, lng: 28.0514 },
+    coords: [28.0514, 45.4314],
     description: {
       de: "Das Denkmal an der Donau in Galați würdigt die Bedeutung des Flusses für die Stadt als bedeutender Hafenstandort.",
       hu: "A galaci Duna-emlékmű elismeri a folyó jelentőségét a város számára, mint fontos kikötőváros.",
@@ -1190,7 +1190,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Kulturhaus Slobozia", hu: "Sloboziai Művelődési Ház", ro: "Casa de Cultură Slobozia", en: "Cultural House Slobozia" },
-    coordinates: { lat: 44.5656, lng: 27.3758 },
+    coords: [27.3758, 44.5656],
     description: {
       de: "Das Kulturhaus in Slobozia ist eine zentrale Bühne für lokale Veranstaltungen und Aufführungen im Ialomița-Kreis.",
       hu: "A sloboziai művelődési ház központi színpad a helyi rendezvények és előadások számára Ialomița megyében.",
@@ -1222,7 +1222,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Denkmal Stefan der Große Bacău", hu: "Bákói Nagy István-emlékmű", ro: "Statuia lui Ștefan cel Mare Bacău", en: "Statue of Stephen the Great Bacău" },
-    coordinates: { lat: 46.5744, lng: 26.9156 },
+    coords: [26.9156, 46.5744],
     description: {
       de: "Die Statue von Stefan dem Großen in Bacău erinnert an den bedeutenden moldauischen Herrscher und seine historische Rolle.",
       hu: "A bákói Nagy István-szobor a jelentős moldvai uralkodóra és történelmi szerepére emlékeztet.",
@@ -1254,7 +1254,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "theater",
     parent: "RO",
     name: { de: "Kulturhaus Reșița", hu: "Resicabányai Művelődési Ház", ro: "Casa de Cultură Reșița", en: "Cultural House Reșița" },
-    coordinates: { lat: 45.3042, lng: 21.8814 },
+    coords: [21.8814, 45.3042],
     description: {
       de: "Das Kulturhaus Reșița bietet ein breites Angebot an kulturellen Aktivitäten, darunter Theateraufführungen und Konzerte.",
       hu: "A resicabányai művelődési ház széles körű kulturális tevékenységet kínál, beleértve színházi előadásokat és koncerteket.",
@@ -1286,7 +1286,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Denkmal der Union Botoșani", hu: "Botoșani-i Egyesülés Emlékmű", ro: "Monumentul Unirii Botoșani", en: "Unirii Monument Botoșani" },
-    coordinates: { lat: 47.7442, lng: 26.6642 },
+    coords: [26.6642, 47.7442],
     description: {
       de: "Das Denkmal der Union in Botoșani feiert die historische Vereinigung Rumäniens und ist ein wichtiger öffentlicher Ort.",
       hu: "A botoșani-i Egyesülés-emlékmű Románia történelmi egyesülését ünnepli, fontos közösségi helyszín.",
@@ -1318,7 +1318,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RO",
     name: { de: "Oltenien-Museum Craiova", hu: "Olténiai Múzeum Craiova", ro: "Muzeul Olteniei", en: "Oltenia Museum Craiova" },
-    coordinates: { lat: 44.3142, lng: 23.7956 },
+    coords: [23.7956, 44.3142],
     description: {
       de: "Das Oltenien-Museum in Craiova zeigt die ethnografische und historische Vielfalt der Region Oltenien.",
       hu: "A craiovai Olténiai Múzeum bemutatja Olténia régiójának néprajzi és történelmi sokszínűségét.",
@@ -1350,7 +1350,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Denkmal der Helden Alexandria", hu: "Alexandria-i Hősök Emlékműve", ro: "Monumentul Eroilor Alexandria", en: "Heroes' Monument Alexandria" },
-    coordinates: { lat: 43.9725, lng: 25.3356 },
+    coords: [25.3356, 43.9725],
     description: {
       de: "Das Denkmal für die Gefallenen von Alexandria ehrt die lokale Erinnerung an die Weltkriege und die Befreiung.",
       hu: "Az alexandria-i elesettek emlékműve tiszteli a világháborúk és a felszabadulás iránti helyi emlékezetet.",
@@ -1382,7 +1382,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RO",
     name: { de: "Historisches Museum Galați", hu: "Galaci Történeti Múzeum", ro: "Muzeul de Istorie Paul Păltănea", en: "Paul Păltănea History Museum Galați" },
-    coordinates: { lat: 45.4325, lng: 28.0556 },
+    coords: [28.0556, 45.4325],
     description: {
       de: "Das Museum Paul Păltănea in Galați bietet eine umfassende Sammlung zur Geschichte der Stadt und der Donauregion.",
       hu: "A galaci Paul Păltănea Múzeum átfogó gyűjteményt kínál a város és a Duna-régió történetéről.",
@@ -1414,7 +1414,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Denkmal Ialomița Slobozia", hu: "Sloboziai Ialomița-emlékmű", ro: "Monumentul Ialomița Slobozia", en: "Ialomița Monument Slobozia" },
-    coordinates: { lat: 44.5614, lng: 27.3742 },
+    coords: [27.3742, 44.5614],
     description: {
       de: "Das Denkmal in Slobozia erinnert an die regionale Identität des Ialomița-Kreises und dessen historische Entwicklung.",
       hu: "A sloboziai emlékmű a Ialomița megye regionális identitására és történelmi fejlődésére emlékeztet.",
@@ -1446,7 +1446,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Verwaltungspalast Bacău", hu: "Bákói Közigazgatási Palota", ro: "Palatul Administrativ Bacău", en: "Bacău Administrative Palace" },
-    coordinates: { lat: 46.5711, lng: 26.9144 },
+    coords: [26.9144, 46.5711],
     description: {
       de: "Der Verwaltungspalast in Bacău ist ein markantes Bauwerk aus dem 20. Jahrhundert und dient der öffentlichen Verwaltung.",
       hu: "A bákói közigazgatási palota egy figyelemre méltó 20. századi épület, amely a közigazgatást szolgálja.",
@@ -1478,7 +1478,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RO",
     name: { de: "Museum Kreis Caraș-Severin Reșița", hu: "Caraș-Severin Megyei Múzeum Resicabánya", ro: "Muzeul Județean Caraș-Severin", en: "Caraș-Severin County Museum Reșița" },
-    coordinates: { lat: 45.3025, lng: 21.8856 },
+    coords: [21.8856, 45.3025],
     description: {
       de: "Das Kreismuseum von Caraș-Severin in Reșița dokumentiert die Geschichte und Kultur der Region und ihrer Bevölkerung.",
       hu: "A resicabányai Caraș-Severin megyei múzeum dokumentálja a régió és lakosságának történelmét és kultúráját.",
@@ -1510,7 +1510,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Kathedrale Botoșani", hu: "Botoșani-i székesegyház", ro: "Biserica Uspenia Botoșani", en: "Uspenia Church Botoșani" },
-    coordinates: { lat: 47.7472, lng: 26.6631 },
+    coords: [26.6631, 47.7472],
     description: {
       de: "Die Uspenia-Kirche in Botoșani ist ein bedeutendes religiöses Denkmal, das für ihre historische Architektur bekannt ist.",
       hu: "A botoșani-i Uspenia-templom egy jelentős vallási emlék, amely történelmi építészetéről ismert.",
@@ -1542,7 +1542,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Mihai-Viteazul-Denkmal Craiova", hu: "Vitéz Mihály-emlékmű Craiova", ro: "Statuia lui Mihai Viteazul Craiova", en: "Statue of Mihai Viteazul Craiova" },
-    coordinates: { lat: 44.3186, lng: 23.7925 },
+    coords: [23.7925, 44.3186],
     description: {
       de: "Die Statue des Herrschers Mihai Viteazul in Craiova ehrt die historische Figur und ihren Beitrag zur nationalen Einigung.",
       hu: "A craiovai Vitéz Mihály-szobor az uralkodót és a nemzeti egyesüléshez való hozzájárulását tiszteli.",
@@ -1574,7 +1574,7 @@ export const romaniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "RO",
     name: { de: "Museum Teleorman Alexandria", hu: "Alexandria-i Teleorman Múzeum", ro: "Muzeul Județean Teleorman", en: "Teleorman County Museum Alexandria" },
-    coordinates: { lat: 43.9756, lng: 25.3325 },
+    coords: [25.3325, 43.9756],
     description: {
       de: "Das Kreismuseum von Teleorman in Alexandria bewahrt wichtige Exponate zur regionalen Geschichte und Ethnografie.",
       hu: "Az alexandria-i Teleorman megyei múzeum fontos regionális történelmi és néprajzi kiállítási tárgyakat őriz.",

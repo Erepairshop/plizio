@@ -6,7 +6,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Seinäjoki", hu: "Seinäjoki", ro: "Seinäjoki", en: "Seinäjoki" },
-    coordinates: { lat: 62.7875, lng: 22.8403 },
+    coords: [22.8403, 62.7875],
     description: {
       de: "Seinäjoki ist eine Stadt in Westfinnland mit etwa 65.000 Einwohnern. Sie ist bekannt für ihre architektonischen Bauten von Alvar Aalto.",
       hu: "Seinäjoki egy nyugat-finnországi város, mintegy 65 000 lakossal. Alvar Aalto építészeti alkotásairól ismert.",
@@ -38,7 +38,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Hämeenlinna", hu: "Hämeenlinna", ro: "Hämeenlinna", en: "Hämeenlinna" },
-    coordinates: { lat: 60.9969, lng: 24.4608 },
+    coords: [24.4608, 60.9969],
     description: {
       de: "Hämeenlinna liegt am Vanajavesi-See und ist eine der ältesten Städte Finnlands. Die Stadt beherbergt die historische Burg Tavastehus.",
       hu: "Hämeenlinna a Vanajavesi-tó partján fekszik, és Finnország egyik legrégebbi városa. Itt található a történelmi Häme-vár.",
@@ -70,7 +70,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Hyvinkää", hu: "Hyvinkää", ro: "Hyvinkää", en: "Hyvinkää" },
-    coordinates: { lat: 60.6333, lng: 24.8667 },
+    coords: [24.8667, 60.6333],
     description: {
       de: "Hyvinkää liegt etwa 50 Kilometer nördlich von Helsinki. Die Stadt ist für das Finnische Eisenbahnmuseum bekannt.",
       hu: "Hyvinkää körülbelül 50 kilométerre északra fekszik Helsinkitől. A város a Finn Vasúti Múzeumról ismert.",
@@ -102,7 +102,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Järvenpää", hu: "Järvenpää", ro: "Järvenpää", en: "Järvenpää" },
-    coordinates: { lat: 60.4767, lng: 25.0917 },
+    coords: [25.0917, 60.4767],
     description: {
       de: "Järvenpää liegt am Tuusula-See in der Nähe von Helsinki. Hier befindet sich das Haus von Jean Sibelius, Ainola.",
       hu: "Järvenpää a Tuusula-tó partján fekszik, Helsinki közelében. Itt található Jean Sibelius otthona, az Ainola.",
@@ -134,7 +134,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Kokkola", hu: "Kokkola", ro: "Kokkola", en: "Kokkola" },
-    coordinates: { lat: 63.8372, lng: 23.1311 },
+    coords: [23.1311, 63.8372],
     description: {
       de: "Kokkola ist eine Hafenstadt an der Ostsee in Westfinnland. Die Altstadt Neristan ist für ihre historischen Holzhäuser bekannt.",
       hu: "Kokkola egy kikötőváros a Balti-tenger partján, Nyugat-Finnországban. Neristan óvárosa történelmi faházairól híres.",
@@ -166,7 +166,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Kajaani", hu: "Kajaani", ro: "Kajaani", en: "Kajaani" },
-    coordinates: { lat: 64.225, lng: 27.725 },
+    coords: [27.725, 64.225],
     description: {
       de: "Kajaani ist das Zentrum der Region Kainuu. Die Stadt liegt am Fluss Kajaaninjoki und wurde im 17. Jahrhundert gegründet.",
       hu: "Kajaani Kainuu régió központja. A város a Kajaaninjoki folyó partján fekszik, és a 17. században alapították.",
@@ -198,7 +198,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Kerava", hu: "Kerava", ro: "Kerava", en: "Kerava" },
-    coordinates: { lat: 60.4042, lng: 25.1014 },
+    coords: [25.1014, 60.4042],
     description: {
       de: "Kerava liegt nördlich von Helsinki. Es ist eine wachsende Stadt mit einer starken lokalen Gemeinschaft und guten Zugverbindungen.",
       hu: "Kerava Helsinkitől északra fekszik. Növekvő város erős helyi közösséggel és jó vasúti összeköttetéssel.",
@@ -230,7 +230,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Karkkila", hu: "Karkkila", ro: "Karkkila", en: "Karkkila" },
-    coordinates: { lat: 60.5361, lng: 24.2111 },
+    coords: [24.2111, 60.5361],
     description: {
       de: "Karkkila liegt in der Region Uusimaa. Die Stadt ist bekannt für ihre industrielle Geschichte und die Eisenhütte.",
       hu: "Karkkila Uusimaa régióban található. A város ipari történelméről és vasöntödéjéről ismert.",
@@ -262,7 +262,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Kauhava", hu: "Kauhava", ro: "Kauhava", en: "Kauhava" },
-    coordinates: { lat: 63.1008, lng: 23.0553 },
+    coords: [23.0553, 63.1008],
     description: {
       de: "Kauhava liegt in Südösterbotten. Die Stadt ist international für ihre traditionelle Messerherstellung bekannt.",
       hu: "Kauhava Dél-Pohjanmaán található. A város nemzetközileg ismert hagyományos késkészítéséről.",
@@ -294,7 +294,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Kemijärvi", hu: "Kemijärvi", ro: "Kemijärvi", en: "Kemijärvi" },
-    coordinates: { lat: 66.7139, lng: 27.4306 },
+    coords: [27.4306, 66.7139],
     description: {
       de: "Kemijärvi liegt in Lappland. Es ist die nördlichste Stadt Finnlands und für seine weitläufige Natur bekannt.",
       hu: "Kemijärvi Lappföldön található. Finnország legészakibb városa, kiterjedt természetéről ismert.",
@@ -326,7 +326,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Kemi", hu: "Kemi", ro: "Kemi", en: "Kemi" },
-    coordinates: { lat: 65.7333, lng: 24.5667 },
+    coords: [24.5667, 65.7333],
     description: {
       de: "Kemi liegt am Bottnischen Meerbusen in Lappland. Die Stadt ist für ihr großes Schneeschloss bekannt.",
       hu: "Kemi a Botteni-öböl partján fekszik, Lappföldön. A város híres a hatalmas hókastélyáról.",
@@ -358,7 +358,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Kitee", hu: "Kitee", ro: "Kitee", en: "Kitee" },
-    coordinates: { lat: 62.1, lng: 30.1333 },
+    coords: [30.1333, 62.1],
     description: {
       de: "Kitee liegt in Nordkarelien. Die Stadt ist international als Heimat der Band Nightwish bekannt.",
       hu: "Kitee Észak-Karéliában található. A város nemzetközileg a Nightwish együttes otthonaként ismert.",
@@ -390,7 +390,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Kurikka", hu: "Kurikka", ro: "Kurikka", en: "Kurikka" },
-    coordinates: { lat: 62.6167, lng: 22.4 },
+    coords: [22.4, 62.6167],
     description: {
       de: "Kurikka liegt in Südösterbotten. Die Stadt ist für ihre Möbelherstellung und handwerkliche Tradition bekannt.",
       hu: "Kurikka Dél-Pohjanmaán található. A város bútorgyártásáról és kézműves hagyományairól ismert.",
@@ -422,7 +422,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Laitila", hu: "Laitila", ro: "Laitila", en: "Laitila" },
-    coordinates: { lat: 60.875, lng: 21.6917 },
+    coords: [21.6917, 60.875],
     description: {
       de: "Laitila liegt im Südwesten Finnlands. Die Stadt ist für ihre Eierproduktion und Landwirtschaft bekannt.",
       hu: "Laitila Finnország délnyugati részén található. A város tojástermeléséről és mezőgazdaságáról ismert.",
@@ -454,7 +454,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Lapua", hu: "Lapua", ro: "Lapua", en: "Lapua" },
-    coordinates: { lat: 62.9739, lng: 23.0031 },
+    coords: [23.0031, 62.9739],
     description: {
       de: "Lapua liegt in Südösterbotten am gleichnamigen Fluss. Die Stadt hat eine bedeutende Geschichte und kulturelle Einrichtungen.",
       hu: "Lapua Dél-Pohjanmaán fekszik, a hasonló nevű folyó partján. A város jelentős történelemmel és kulturális intézményekkel rendelkezik.",
@@ -486,7 +486,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Lieksa", hu: "Lieksa", ro: "Lieksa", en: "Lieksa" },
-    coordinates: { lat: 63.3222, lng: 30.0278 },
+    coords: [30.0278, 63.3222],
     description: {
       de: "Lieksa liegt in Nordkarelien am Pielinen-See. Die Region ist bekannt für ihre unberührte Natur und Nationalparks.",
       hu: "Lieksa Észak-Karéliában fekszik, a Pielinen-tó partján. A régió érintetlen természetéről és nemzeti parkjairól ismert.",
@@ -518,7 +518,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Loimaa", hu: "Loimaa", ro: "Loimaa", en: "Loimaa" },
-    coordinates: { lat: 60.85, lng: 23.0667 },
+    coords: [23.0667, 60.85],
     description: {
       de: "Loimaa liegt im Südwesten Finnlands. Die Stadt ist ein landwirtschaftliches Zentrum in einer flachen Region.",
       hu: "Loimaa Finnország délnyugati részén található. A város mezőgazdasági központ egy sík régióban.",
@@ -550,7 +550,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Loviisa", hu: "Loviisa", ro: "Loviisa", en: "Loviisa" },
-    coordinates: { lat: 60.4556, lng: 26.2289 },
+    coords: [26.2289, 60.4556],
     description: {
       de: "Loviisa ist eine Küstenstadt am Finnischen Meerbusen. Die Stadt ist bekannt für ihre historische Altstadt und ihren Hafen.",
       hu: "Loviisa egy tengerparti város a Finn-öbölben. A város híres történelmi óvárosáról és kikötőjéről.",
@@ -582,7 +582,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Mänttä-Vilppula", hu: "Mänttä-Vilppula", ro: "Mänttä-Vilppula", en: "Mänttä-Vilppula" },
-    coordinates: { lat: 62.0333, lng: 24.6333 },
+    coords: [24.6333, 62.0333],
     description: {
       de: "Mänttä-Vilppula liegt in der Region Pirkanmaa. Die Stadt ist international für das Serlachius-Kunstmuseum bekannt.",
       hu: "Mänttä-Vilppula Pirkanmaa régióban található. A város nemzetközileg a Serlachius Művészeti Múzeumról ismert.",
@@ -614,7 +614,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Nivala", hu: "Nivala", ro: "Nivala", en: "Nivala" },
-    coordinates: { lat: 63.9208, lng: 24.9667 },
+    coords: [24.9667, 63.9208],
     description: {
       de: "Nivala liegt in Nordösterbotten. Die Stadt ist ein regionales Zentrum mit einer starken landwirtschaftlichen Basis.",
       hu: "Nivala Észak-Pohjanmaán található. A város egy regionális központ erős mezőgazdasági bázissal.",
@@ -646,7 +646,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Nokia", hu: "Nokia", ro: "Nokia", en: "Nokia" },
-    coordinates: { lat: 61.4786, lng: 23.5042 },
+    coords: [23.5042, 61.4786],
     description: {
       de: "Nokia liegt in der Region Pirkanmaa westlich von Tampere. Der Name ist weltweit durch das gleichnamige Technologieunternehmen bekannt.",
       hu: "Nokia Pirkanmaa régióban fekszik, Tamperétől nyugatra. A név világszerte ismert a névadó technológiai vállalatról.",
@@ -678,7 +678,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Orimattila", hu: "Orimattila", ro: "Orimattila", en: "Orimattila" },
-    coordinates: { lat: 60.8083, lng: 25.7278 },
+    coords: [25.7278, 60.8083],
     description: {
       de: "Orimattila liegt in der Region Päijät-Häme. Die Stadt ist für ihre ländliche Umgebung und gute Erreichbarkeit bekannt.",
       hu: "Orimattila Päijät-Häme régióban található. A város vidékies környezetéről és jó megközelíthetőségéről ismert.",
@@ -710,7 +710,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Orivesi", hu: "Orivesi", ro: "Orivesi", en: "Orivesi" },
-    coordinates: { lat: 61.6764, lng: 24.3583 },
+    coords: [24.3583, 61.6764],
     description: {
       de: "Orivesi liegt in Pirkanmaa. Die Stadt ist für ihre schöne Seenlandschaft und Nähe zur Natur bekannt.",
       hu: "Orivesi Pirkanmaán található. A város gyönyörű tavi tájáról és a természet közelségéről ismert.",
@@ -742,7 +742,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Paimio", hu: "Paimio", ro: "Paimio", en: "Paimio" },
-    coordinates: { lat: 60.4531, lng: 22.6889 },
+    coords: [22.6889, 60.4531],
     description: {
       de: "Paimio liegt in Südwestfinnland. Die Stadt ist berühmt für das Paimio-Sanatorium von Alvar Aalto.",
       hu: "Paimio Délnyugat-Finnországban található. A város az Alvar Aalto által tervezett Paimio-szanatóriumról híres.",
@@ -774,7 +774,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Parainen", hu: "Parainen", ro: "Parainen", en: "Parainen" },
-    coordinates: { lat: 60.3017, lng: 22.3017 },
+    coords: [22.3017, 60.3017],
     description: {
       de: "Parainen liegt in der Schärenregion Südwestfinnlands. Die Stadt besteht aus vielen Inseln und ist ein Zentrum für den maritimen Tourismus.",
       hu: "Parainen Délnyugat-Finnország szigetvilágában található. A város sok szigetből áll, és a tengeri turizmus központja.",
@@ -806,7 +806,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Parkano", hu: "Parkano", ro: "Parkano", en: "Parkano" },
-    coordinates: { lat: 62.0083, lng: 23.025 },
+    coords: [23.025, 62.0083],
     description: {
       de: "Parkano liegt in der Region Pirkanmaa. Die Stadt ist bekannt für ihre Wälder und ihre Eisenbahnverbindungen.",
       hu: "Parkano Pirkanmaa régióban található. A város erdőiről és vasúti összeköttetéseiről ismert.",
@@ -838,7 +838,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Pieksämäki", hu: "Pieksämäki", ro: "Pieksämäki", en: "Pieksämäki" },
-    coordinates: { lat: 62.3, lng: 27.1583 },
+    coords: [27.1583, 62.3],
     description: {
       de: "Pieksämäki liegt in der Region Südsavo. Die Stadt ist ein historischer Eisenbahnknotenpunkt.",
       hu: "Pieksämäki Dél-Savó régióban található. A város egy történelmi vasúti csomópont.",
@@ -870,7 +870,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Pietarsaari", hu: "Pietarsaari", ro: "Pietarsaari", en: "Pietarsaari" },
-    coordinates: { lat: 63.675, lng: 22.7 },
+    coords: [22.7, 63.675],
     description: {
       de: "Pietarsaari ist eine zweisprachige Küstenstadt in Österbotten. Sie ist für ihre industrielle Tradition bekannt.",
       hu: "Pietarsaari egy kétnyelvű kikötőváros Pohjanmaán. Ipari hagyományairól ismert.",
@@ -902,7 +902,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Pudasjärvi", hu: "Pudasjärvi", ro: "Pudasjärvi", en: "Pudasjärvi" },
-    coordinates: { lat: 65.3833, lng: 26.9833 },
+    coords: [26.9833, 65.3833],
     description: {
       de: "Pudasjärvi liegt in Nordösterbotten. Die Stadt ist für ihre weite, wilde Natur und die Nähe zum Syöte-Nationalpark bekannt.",
       hu: "Pudasjärvi Észak-Pohjanmaán található. A város kiterjedt vad természetéről és a Syöte Nemzeti Park közelségéről ismert.",
@@ -934,7 +934,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Pyhäjärvi", hu: "Pyhäjärvi", ro: "Pyhäjärvi", en: "Pyhäjärvi" },
-    coordinates: { lat: 63.6739, lng: 25.975 },
+    coords: [25.975, 63.6739],
     description: {
       de: "Pyhäjärvi liegt in Nordösterbotten. Die Stadt ist bekannt für ihre namensgebenden Seen und Bergbautraditionen.",
       hu: "Pyhäjärvi Észak-Pohjanmaán fekszik. A város az azonos nevű tavairól és bányászati hagyományairól ismert.",
@@ -966,7 +966,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Raahe", hu: "Raahe", ro: "Raahe", en: "Raahe" },
-    coordinates: { lat: 64.6833, lng: 24.4833 },
+    coords: [24.4833, 64.6833],
     description: {
       de: "Raahe ist eine Hafenstadt am Bottnischen Meerbusen. Sie ist für ihre gut erhaltene Holzaltstadt bekannt.",
       hu: "Raahe egy kikötőváros a Botteni-öböl partján. Híres jól megőrzött faházas óvárosáról.",
@@ -998,7 +998,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Raisio", hu: "Raisio", ro: "Raisio", en: "Raisio" },
-    coordinates: { lat: 60.4833, lng: 22.1667 },
+    coords: [22.1667, 60.4833],
     description: {
       de: "Raisio liegt im Südwesten Finnlands bei Turku. Die Stadt ist ein regionales Einkaufs- und Industriezentrum.",
       hu: "Raisio Finnország délnyugati részén, Turku mellett található. A város regionális kereskedelmi és ipari központ.",
@@ -1030,7 +1030,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Raasepori", hu: "Raasepori", ro: "Raasepori", en: "Raasepori" },
-    coordinates: { lat: 59.975, lng: 23.4333 },
+    coords: [23.4333, 59.975],
     description: {
       de: "Raasepori liegt an der Südküste Finnlands. Die Stadt ist für ihre Burgruinen und maritimen Landschaften bekannt.",
       hu: "Raasepori Finnország déli partján fekszik. A város várromjairól és tengerparti tájairól ismert.",
@@ -1062,7 +1062,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Saarijärvi", hu: "Saarijärvi", ro: "Saarijärvi", en: "Saarijärvi" },
-    coordinates: { lat: 62.7, lng: 25.25 },
+    coords: [25.25, 62.7],
     description: {
       de: "Saarijärvi liegt in Mittelfinnland. Die Stadt ist für ihre schöne Seenlandschaft bekannt.",
       hu: "Saarijärvi Finnország középső részén fekszik. A város gyönyörű tavi tájáról ismert.",
@@ -1094,7 +1094,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Salo", hu: "Salo", ro: "Salo", en: "Salo" },
-    coordinates: { lat: 60.3833, lng: 23.1333 },
+    coords: [23.1333, 60.3833],
     description: {
       de: "Salo liegt im Südwesten Finnlands. Die Stadt war lange ein bedeutender Standort für die Elektronikindustrie.",
       hu: "Salo Finnország délnyugati részén található. A város hosszú ideig az elektronikai ipar jelentős központja volt.",
@@ -1126,7 +1126,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Sastamala", hu: "Sastamala", ro: "Sastamala", en: "Sastamala" },
-    coordinates: { lat: 61.3417, lng: 22.9083 },
+    coords: [22.9083, 61.3417],
     description: {
       de: "Sastamala liegt in Pirkanmaa. Die Stadt ist für ihre kulturellen Aktivitäten und historischen Stätten bekannt.",
       hu: "Sastamala Pirkanmaa régióban található. A város kulturális tevékenységeiről és történelmi helyszíneiről ismert.",
@@ -1158,7 +1158,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Somero", hu: "Somero", ro: "Somero", en: "Somero" },
-    coordinates: { lat: 60.6278, lng: 23.6556 },
+    coords: [23.6556, 60.6278],
     description: {
       de: "Somero liegt im Südwesten Finnlands. Die Stadt ist für ihre ländliche Atmosphäre und schöne Landschaft bekannt.",
       hu: "Somero Finnország délnyugati részén található. A város vidékies hangulatáról és szép tájairól ismert.",
@@ -1190,7 +1190,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Suonenjoki", hu: "Suonenjoki", ro: "Suonenjoki", en: "Suonenjoki" },
-    coordinates: { lat: 62.625, lng: 27.125 },
+    coords: [27.125, 62.625],
     description: {
       de: "Suonenjoki liegt in Nordsavo. Die Stadt ist berühmt als Zentrum der finnischen Erdbeerproduktion.",
       hu: "Suonenjoki Észak-Savóban található. A város híres a finn epertermelés központjaként.",
@@ -1222,7 +1222,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Taivalkoski", hu: "Taivalkoski", ro: "Taivalkoski", en: "Taivalkoski" },
-    coordinates: { lat: 65.5333, lng: 28.25 },
+    coords: [28.25, 65.5333],
     description: {
       de: "Taivalkoski liegt in Nordösterbotten. Die Stadt ist für ihre raue, schöne Natur und Outdoor-Möglichkeiten bekannt.",
       hu: "Taivalkoski Észak-Pohjanmaán található. A város durva, gyönyörű természetéről és szabadtéri lehetőségeiről ismert.",
@@ -1254,7 +1254,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Tampere Vorstadt", hu: "Tampere előváros", ro: "Suburbia Tampere", en: "Tampere suburbs" },
-    coordinates: { lat: 61.5, lng: 23.7667 },
+    coords: [23.7667, 61.5],
     description: {
       de: "Die Vororte von Tampere bilden ein wichtiges urbanes Gebiet in Finnland. Sie sind gut mit dem Zentrum vernetzt.",
       hu: "Tampere elővárosai fontos városi területet alkotnak Finnországban. Jól összekötöttek a központtal.",
@@ -1286,7 +1286,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Tornio", hu: "Tornio", ro: "Tornio", en: "Tornio" },
-    coordinates: { lat: 65.85, lng: 24.15 },
+    coords: [24.15, 65.85],
     description: {
       de: "Tornio liegt an der Grenze zu Schweden in Lappland. Die Stadt ist eng mit dem schwedischen Haparanda verbunden.",
       hu: "Tornio a svéd határnál található, Lappföldön. A város szorosan kapcsolódik a svéd Haparandához.",
@@ -1318,7 +1318,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Tuusula", hu: "Tuusula", ro: "Tuusula", en: "Tuusula" },
-    coordinates: { lat: 60.41, lng: 25.03 },
+    coords: [25.03, 60.41],
     description: {
       de: "Tuusula liegt in der Nähe von Helsinki. Die Stadt ist für ihre kulturellen Orte und den Tuusula-See bekannt.",
       hu: "Tuusula Helsinki közelében található. A város kulturális helyszíneiről és a Tuusula-tóról ismert.",
@@ -1350,7 +1350,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Ulvila", hu: "Ulvila", ro: "Ulvila", en: "Ulvila" },
-    coordinates: { lat: 61.4333, lng: 21.8667 },
+    coords: [21.8667, 61.4333],
     description: {
       de: "Ulvila liegt in Westfinnland nahe Pori. Es ist eine der historisch bedeutsamen mittelalterlichen Städte Finnlands.",
       hu: "Ulvila Nyugat-Finnországban, Pori közelében található. Finnország egyik történelmileg jelentős középkori városa.",
@@ -1382,7 +1382,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Urjala", hu: "Urjala", ro: "Urjala", en: "Urjala" },
-    coordinates: { lat: 61.0833, lng: 23.55 },
+    coords: [23.55, 61.0833],
     description: {
       de: "Urjala liegt in Pirkanmaa. Die Stadt ist für ihre ländliche Umgebung und Traditionen bekannt.",
       hu: "Urjala Pirkanmaán található. A város vidékies környezetéről és hagyományairól ismert.",
@@ -1414,7 +1414,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Uusikaarlepyy", hu: "Uusikaarlepyy", ro: "Uusikaarlepyy", en: "Uusikaarlepyy" },
-    coordinates: { lat: 63.5333, lng: 22.5333 },
+    coords: [22.5333, 63.5333],
     description: {
       de: "Uusikaarlepyy ist eine kleine Küstenstadt in Österbotten. Sie ist für ihre alte Architektur bekannt.",
       hu: "Uusikaarlepyy egy kis tengerparti város Pohjanmaán. Régi építészetéről ismert.",
@@ -1446,7 +1446,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Uusikaupunki", hu: "Uusikaupunki", ro: "Uusikaupunki", en: "Uusikaupunki" },
-    coordinates: { lat: 60.7961, lng: 21.4083 },
+    coords: [21.4083, 60.7961],
     description: {
       de: "Uusikaupunki ist eine Hafenstadt im Südwesten Finnlands. Sie ist für ihre Holzhäuser bekannt.",
       hu: "Uusikaupunki egy kikötőváros Finnország délnyugati részén. Faházairól ismert.",
@@ -1478,7 +1478,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Vesilahti", hu: "Vesilahti", ro: "Vesilahti", en: "Vesilahti" },
-    coordinates: { lat: 61.3, lng: 23.6167 },
+    coords: [23.6167, 61.3],
     description: {
       de: "Vesilahti liegt in Pirkanmaa. Die Stadt ist für ihre Seen und ländliche Umgebung bekannt.",
       hu: "Vesilahti Pirkanmaán található. A város tavairól és vidékies környezetéről ismert.",
@@ -1510,7 +1510,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Viitasaari", hu: "Viitasaari", ro: "Viitasaari", en: "Viitasaari" },
-    coordinates: { lat: 63.0764, lng: 25.8611 },
+    coords: [25.8611, 63.0764],
     description: {
       de: "Viitasaari liegt in Mittelfinnland. Die Stadt ist für ihre Seenlandschaft bekannt.",
       hu: "Viitasaari Finnország középső részén található. A város tavi tájáról ismert.",
@@ -1542,7 +1542,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Vimpeli", hu: "Vimpeli", ro: "Vimpeli", en: "Vimpeli" },
-    coordinates: { lat: 63.15, lng: 23.8333 },
+    coords: [23.8333, 63.15],
     description: {
       de: "Vimpeli liegt in Südösterbotten. Die Stadt ist bekannt für ihre sportlichen Aktivitäten.",
       hu: "Vimpeli Dél-Pohjanmaán található. A város sporttevékenységeiről ismert.",
@@ -1574,7 +1574,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Virrat", hu: "Virrat", ro: "Virrat", en: "Virrat" },
-    coordinates: { lat: 62.2333, lng: 23.7667 },
+    coords: [23.7667, 62.2333],
     description: {
       de: "Virrat liegt in Pirkanmaa. Die Stadt ist für ihre Seen und die Nähe zur Natur bekannt.",
       hu: "Virrat Pirkanmaán található. A város tavairól és a természet közelségéről ismert.",
@@ -1606,7 +1606,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Ylöjärvi", hu: "Ylöjärvi", ro: "Ylöjärvi", en: "Ylöjärvi" },
-    coordinates: { lat: 61.55, lng: 23.5833 },
+    coords: [23.5833, 61.55],
     description: {
       de: "Ylöjärvi liegt in Pirkanmaa bei Tampere. Die Stadt ist eine schnell wachsende Wohngemeinde.",
       hu: "Ylöjärvi Pirkanmaán, Tampere mellett található. A város egy gyorsan növekvő lakóközösség.",
@@ -1638,7 +1638,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Äänekoski", hu: "Äänekoski", ro: "Äänekoski", en: "Äänekoski" },
-    coordinates: { lat: 62.6, lng: 25.7167 },
+    coords: [25.7167, 62.6],
     description: {
       de: "Äänekoski liegt in Mittelfinnland. Die Stadt ist ein wichtiges Zentrum der Papier- und Holzindustrie.",
       hu: "Äänekoski Finnország középső részén található. A város a papír- és faipar fontos központja.",
@@ -1670,7 +1670,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Akaa", hu: "Akaa", ro: "Akaa", en: "Akaa" },
-    coordinates: { lat: 61.1667, lng: 23.8667 },
+    coords: [23.8667, 61.1667],
     description: {
       de: "Akaa liegt in Pirkanmaa. Die Stadt ist für ihre gute Verkehrsanbindung und Nähe zu Tampere bekannt.",
       hu: "Akaa Pirkanmaán található. A város jó közlekedési kapcsolatairól és a Tampere közelségéről ismert.",
@@ -1702,7 +1702,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Alajärvi", hu: "Alajärvi", ro: "Alajärvi", en: "Alajärvi" },
-    coordinates: { lat: 63.0, lng: 23.8167 },
+    coords: [23.8167, 63.0],
     description: {
       de: "Alajärvi liegt in Südösterbotten. Die Stadt ist bekannt für ihre ländliche Umgebung.",
       hu: "Alajärvi Dél-Pohjanmaán található. A város vidékies környezetéről ismert.",
@@ -1734,7 +1734,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Alavus", hu: "Alavus", ro: "Alavus", en: "Alavus" },
-    coordinates: { lat: 62.5833, lng: 23.6167 },
+    coords: [23.6167, 62.5833],
     description: {
       de: "Alavus liegt in Südösterbotten. Die Stadt ist für ihre Seenlandschaft bekannt.",
       hu: "Alavus Dél-Pohjanmaán található. A város tavi tájáról ismert.",
@@ -1766,7 +1766,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Brändö", hu: "Brändö", ro: "Brändö", en: "Brändö" },
-    coordinates: { lat: 60.4167, lng: 21.05 },
+    coords: [21.05, 60.4167],
     description: {
       de: "Brändö ist eine Schärengemeinde in Åland. Sie besteht aus vielen Inseln.",
       hu: "Brändö egy szigetközség Ålandon. Sok szigetből áll.",
@@ -1798,7 +1798,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Eckerö", hu: "Eckerö", ro: "Eckerö", en: "Eckerö" },
-    coordinates: { lat: 60.2167, lng: 19.5667 },
+    coords: [19.5667, 60.2167],
     description: {
       de: "Eckerö liegt im Westen von Åland. Es ist bekannt für seine Küstenlage.",
       hu: "Eckerö Åland nyugati részén fekszik. Partvidéki fekvéséről ismert.",
@@ -1830,7 +1830,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Enontekiö", hu: "Enontekiö", ro: "Enontekiö", en: "Enontekiö" },
-    coordinates: { lat: 68.3, lng: 23.6333 },
+    coords: [23.6333, 68.3],
     description: {
       de: "Enontekiö liegt weit im Norden Lapplands. Die Stadt ist für ihre arktische Natur berühmt.",
       hu: "Enontekiö Lappföld távoli északi részén található. A város sarkvidéki természetéről híres.",
@@ -1862,7 +1862,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Finström", hu: "Finström", ro: "Finström", en: "Finström" },
-    coordinates: { lat: 60.25, lng: 19.85 },
+    coords: [19.85, 60.25],
     description: {
       de: "Finström liegt auf Åland. Die Gemeinde ist für ihre fruchtbaren Landschaften bekannt.",
       hu: "Finström Ålandon fekszik. A község termékeny tájairól ismert.",
@@ -1894,7 +1894,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Föglö", hu: "Föglö", ro: "Föglö", en: "Föglö" },
-    coordinates: { lat: 60.0333, lng: 20.4 },
+    coords: [20.4, 60.0333],
     description: {
       de: "Föglö ist eine Schärengemeinde in Åland. Sie ist für ihre maritimen Landschaften bekannt.",
       hu: "Föglö egy szigetközség Ålandon. Tengeri tájairól ismert.",
@@ -1926,7 +1926,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Geta", hu: "Geta", ro: "Geta", en: "Geta" },
-    coordinates: { lat: 60.3833, lng: 19.85 },
+    coords: [19.85, 60.3833],
     description: {
       de: "Geta liegt im Norden von Åland. Die Gemeinde ist für ihre Küstenfelsen bekannt.",
       hu: "Geta Åland északi részén található. A község partmenti szikláiról ismert.",
@@ -1958,7 +1958,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Haapajärvi", hu: "Haapajärvi", ro: "Haapajärvi", en: "Haapajärvi" },
-    coordinates: { lat: 63.65, lng: 25.3167 },
+    coords: [25.3167, 63.65],
     description: {
       de: "Haapajärvi liegt in Nordösterbotten. Die Stadt ist ein regionales Zentrum.",
       hu: "Haapajärvi Észak-Pohjanmaán található. A város regionális központ.",
@@ -1990,7 +1990,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Haapavesi", hu: "Haapavesi", ro: "Haapavesi", en: "Haapavesi" },
-    coordinates: { lat: 64.1333, lng: 25.3667 },
+    coords: [25.3667, 64.1333],
     description: {
       de: "Haapavesi liegt in Nordösterbotten. Die Stadt ist für ihre landschaftliche Umgebung bekannt.",
       hu: "Haapavesi Észak-Pohjanmaán található. A város festői környezetéről ismert.",
@@ -2022,7 +2022,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Halsua", hu: "Halsua", ro: "Halsua", en: "Halsua" },
-    coordinates: { lat: 63.45, lng: 24.1833 },
+    coords: [24.1833, 63.45],
     description: {
       de: "Halsua liegt in Mittlerösterbotten. Die Gemeinde ist für ihre ruhige Natur bekannt.",
       hu: "Halsua Közép-Pohjanmaán található. A község csendes természetéről ismert.",
@@ -2054,7 +2054,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Hammarland", hu: "Hammarland", ro: "Hammarland", en: "Hammarland" },
-    coordinates: { lat: 60.2167, lng: 19.75 },
+    coords: [19.75, 60.2167],
     description: {
       de: "Hammarland liegt auf Åland. Die Gemeinde bietet eine abwechslungsreiche Küstenlandschaft.",
       hu: "Hammarland Ålandon található. A község változatos partmenti tájat kínál.",
@@ -2086,7 +2086,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Hartola", hu: "Hartola", ro: "Hartola", en: "Hartola" },
-    coordinates: { lat: 61.5667, lng: 26.0167 },
+    coords: [26.0167, 61.5667],
     description: {
       de: "Hartola liegt in Päijät-Häme. Die Stadt ist ein traditionelles finnisches Gemeindezentrum.",
       hu: "Hartola Päijät-Häme régióban található. A város egy hagyományos finn községközpont.",
@@ -2118,7 +2118,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Hattula", hu: "Hattula", ro: "Hattula", en: "Hattula" },
-    coordinates: { lat: 61.0667, lng: 24.35 },
+    coords: [24.35, 61.0667],
     description: {
       de: "Hattula liegt in Kanta-Häme. Die Gemeinde ist für ihre historische Kirche bekannt.",
       hu: "Hattula Kanta-Häme régióban található. A község történelmi templomáról ismert.",
@@ -2150,7 +2150,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Haukipudas", hu: "Haukipudas", ro: "Haukipudas", en: "Haukipudas" },
-    coordinates: { lat: 65.1764, lng: 25.3528 },
+    coords: [25.3528, 65.1764],
     description: {
       de: "Haukipudas liegt in Nordösterbotten nahe Oulu. Es ist eine Küstengemeinde.",
       hu: "Haukipudas Észak-Pohjanmaán fekszik, Oulu közelében. Ez egy tengerparti község.",
@@ -2182,7 +2182,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Hausjärvi", hu: "Hausjärvi", ro: "Hausjärvi", en: "Hausjärvi" },
-    coordinates: { lat: 60.7833, lng: 24.8833 },
+    coords: [24.8833, 60.7833],
     description: {
       de: "Hausjärvi liegt in Kanta-Häme. Die Gemeinde ist für ihre ländliche Umgebung bekannt.",
       hu: "Hausjärvi Kanta-Häme régióban található. A község vidékies környezetéről ismert.",
@@ -2214,7 +2214,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Heinola (weitere Gebiete)", hu: "Heinola (további területek)", ro: "Heinola (alte zone)", en: "Heinola (further areas)" },
-    coordinates: { lat: 61.2, lng: 26.0333 },
+    coords: [26.0333, 61.2],
     description: {
       de: "Die Außenbezirke von Heinola liegen in Päijät-Häme. Sie bieten Zugang zu schönen Seen.",
       hu: "Heinola külvárosai Päijät-Häme régióban találhatók. Hozzáférést kínálnak gyönyörű tavakhoz.",
@@ -2246,7 +2246,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Helsinki Umland", hu: "Helsinki környéke", ro: "Împrejurimile Helsinki", en: "Helsinki surroundings" },
-    coordinates: { lat: 60.17, lng: 24.94 },
+    coords: [24.94, 60.17],
     description: {
       de: "Die Umgebung von Helsinki ist ein stark urbanisiertes Gebiet. Sie ist das Zentrum der finnischen Wirtschaft.",
       hu: "Helsinki környéke egy erősen urbanizált terület. A finn gazdaság központja.",
@@ -2278,7 +2278,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Hirvensalmi", hu: "Hirvensalmi", ro: "Hirvensalmi", en: "Hirvensalmi" },
-    coordinates: { lat: 61.6333, lng: 26.7833 },
+    coords: [26.7833, 61.6333],
     description: {
       de: "Hirvensalmi liegt in Südsavo. Die Gemeinde ist für ihre Seenlandschaft bekannt.",
       hu: "Hirvensalmi Dél-Savóban található. A község tavi tájáról ismert.",
@@ -2310,7 +2310,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Hollola", hu: "Hollola", ro: "Hollola", en: "Hollola" },
-    coordinates: { lat: 61.05, lng: 25.5667 },
+    coords: [25.5667, 61.05],
     description: {
       de: "Hollola liegt in Päijät-Häme bei Lahti. Die Gemeinde bietet eine Mischung aus Natur und Geschichte.",
       hu: "Hollola Päijät-Häme régióban, Lahti mellett található. A község a természet és a történelem keverékét kínálja.",
@@ -2342,7 +2342,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Humppila", hu: "Humppila", ro: "Humppila", en: "Humppila" },
-    coordinates: { lat: 60.9333, lng: 23.3667 },
+    coords: [23.3667, 60.9333],
     description: {
       de: "Humppila liegt in Kanta-Häme. Die Gemeinde ist für ihre Glasmanufaktur bekannt.",
       hu: "Humppila Kanta-Häme régióban található. A község üveggyártásáról ismert.",
@@ -2374,7 +2374,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Hyrynsalmi", hu: "Hyrynsalmi", ro: "Hyrynsalmi", en: "Hyrynsalmi" },
-    coordinates: { lat: 64.6667, lng: 28.5 },
+    coords: [28.5, 64.6667],
     description: {
       de: "Hyrynsalmi liegt in Kainuu. Die Gemeinde bietet eine unberührte Natur.",
       hu: "Hyrynsalmi Kainuu régióban található. A község érintetlen természetet kínál.",
@@ -2406,7 +2406,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Iitti", hu: "Iitti", ro: "Iitti", en: "Iitti" },
-    coordinates: { lat: 60.8833, lng: 26.35 },
+    coords: [26.35, 60.8833],
     description: {
       de: "Iitti liegt in Päijät-Häme. Die Gemeinde ist für ihre Seen und Kultur bekannt.",
       hu: "Iitti Päijät-Häme régióban található. A község tavairól és kultúrájáról ismert.",
@@ -2438,7 +2438,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Ilomantsi", hu: "Ilomantsi", ro: "Ilomantsi", en: "Ilomantsi" },
-    coordinates: { lat: 62.6667, lng: 30.9333 },
+    coords: [30.9333, 62.6667],
     description: {
       de: "Ilomantsi liegt an der Ostgrenze in Nordkarelien. Es ist eine der östlichsten Gemeinden Finnlands.",
       hu: "Ilomantsi a keleti határon, Észak-Karéliában található. Finnország egyik legkeletibb községe.",
@@ -2470,7 +2470,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Inari (Siedlung)", hu: "Inari (település)", ro: "Inari (așezare)", en: "Inari (settlement)" },
-    coordinates: { lat: 68.9, lng: 27.0333 },
+    coords: [27.0333, 68.9],
     description: {
       de: "Inari ist das Zentrum der samischen Kultur in Lappland. Es liegt am Inari-See.",
       hu: "Inari a lappföldi számi kultúra központja. Az Inari-tó mellett fekszik.",
@@ -2502,7 +2502,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Isojoki", hu: "Isojoki", ro: "Isojoki", en: "Isojoki" },
-    coordinates: { lat: 62.1167, lng: 21.95 },
+    coords: [21.95, 62.1167],
     description: {
       de: "Isojoki liegt in Südösterbotten. Die Gemeinde ist für ihre ländliche Umgebung bekannt.",
       hu: "Isojoki Dél-Pohjanmaán található. A község vidékies környezetéről ismert.",
@@ -2534,7 +2534,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Janakkala", hu: "Janakkala", ro: "Janakkala", en: "Janakkala" },
-    coordinates: { lat: 60.9167, lng: 24.65 },
+    coords: [24.65, 60.9167],
     description: {
       de: "Janakkala liegt in Kanta-Häme. Die Gemeinde hat eine reiche Geschichte.",
       hu: "Janakkala Kanta-Häme régióban található. A község gazdag történelemmel rendelkezik.",
@@ -2566,7 +2566,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Jokioinen", hu: "Jokioinen", ro: "Jokioinen", en: "Jokioinen" },
-    coordinates: { lat: 60.8, lng: 23.4833 },
+    coords: [23.4833, 60.8],
     description: {
       de: "Jokioinen liegt in Tavastland. Die Gemeinde ist für ihre landwirtschaftliche Tradition bekannt.",
       hu: "Jokioinen Tavastföldön található. A község mezőgazdasági hagyományairól ismert.",
@@ -2598,7 +2598,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Joutsa", hu: "Joutsa", ro: "Joutsa", en: "Joutsa" },
-    coordinates: { lat: 61.7333, lng: 26.1 },
+    coords: [26.1, 61.7333],
     description: {
       de: "Joutsa liegt in Mittelfinnland. Die Gemeinde ist für ihreSeen bekannt.",
       hu: "Joutsa Finnország középső részén található. A község tavairól ismert.",
@@ -2630,7 +2630,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Juuka", hu: "Juuka", ro: "Juuka", en: "Juuka" },
-    coordinates: { lat: 63.2333, lng: 29.25 },
+    coords: [29.25, 63.2333],
     description: {
       de: "Juuka liegt in Nordkarelien. Die Gemeinde bietet eine abwechslungsreiche Natur.",
       hu: "Juuka Észak-Karéliában található. A község változatos természetet kínál.",
@@ -2662,7 +2662,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Juva", hu: "Juva", ro: "Juva", en: "Juva" },
-    coordinates: { lat: 61.9, lng: 27.85 },
+    coords: [27.85, 61.9],
     description: {
       de: "Juva liegt in Südsavo. Die Gemeinde ist für ihre Kultur bekannt.",
       hu: "Juva Dél-Savóban található. A község kultúrájáról ismert.",
@@ -2694,7 +2694,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Jylhämä", hu: "Jylhämä", ro: "Jylhämä", en: "Jylhämä" },
-    coordinates: { lat: 64.3333, lng: 26.5 },
+    coords: [26.5, 64.3333],
     description: {
       de: "Jylhämä ist eine kleine Ansiedlung in Finnland. Sie ist für ihre landschaftliche Ruhe bekannt.",
       hu: "Jylhämä egy kis település Finnországban. Csendes tájáról ismert.",
@@ -2726,7 +2726,7 @@ export const finlandCitiesV2: POI[] = [
     type: "city",
     parent: "FI",
     name: { de: "Jyväskylä Umland", hu: "Jyväskylä környéke", ro: "Împrejurimile Jyväskylä", en: "Jyväskylä surroundings" },
-    coordinates: { lat: 62.24, lng: 25.75 },
+    coords: [25.75, 62.24],
     description: {
       de: "Die ländliche Umgebung von Jyväskylä liegt in Mittelfinnland. Sie bietet viele Seen.",
       hu: "Jyväskylä vidéki környezete Finnország középső részén található. Sok tavat kínál.",

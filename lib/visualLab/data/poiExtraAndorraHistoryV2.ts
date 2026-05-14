@@ -6,7 +6,7 @@ export const andorraHistoryV2: POI[] = [
     type: "ruins",
     parent: "AD",
     name: { de: "Sant Vicenç d'Enclar", hu: "Sant Vicenç d'Enclar", ro: "Sant Vicenç d'Enclar", en: "Sant Vicenç d'Enclar" },
-    coordinates: { lat: 42.495, lng: 1.496 },
+    coords: [1.496, 42.495],
     description: {
       de: "Diese archäologische Stätte umfasst die Ruinen einer Kirche aus dem 9. Jahrhundert und eine alte mittelalterliche Festung auf einem Hügel.",
       hu: "Ez a régészeti helyszín egy 9. századi templom romjait és egy dombtetőn álló középkori erődítmény maradványait foglalja magában.",
@@ -38,7 +38,7 @@ export const andorraHistoryV2: POI[] = [
     type: "bridge",
     parent: "AD",
     name: { de: "Margineda-Brücke", hu: "Margineda-híd", ro: "Podul Margineda", en: "Margineda Bridge" },
-    coordinates: { lat: 42.484, lng: 1.487 },
+    coords: [1.487, 42.484],
     description: {
       de: "Diese mittelalterliche Brücke aus dem 15. Jahrhundert ist die größte ihrer Art in Andorra und überquert den Fluss Valira.",
       hu: "Ez a 15. századi középkori híd Andorra legnagyobb ilyen jellegű építménye, amely a Valira-folyó felett ível át.",
@@ -70,7 +70,7 @@ export const andorraHistoryV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Romà de les Bons", hu: "Sant Romà de les Bons", ro: "Sant Romà de les Bons", en: "Sant Romà de les Bons" },
-    coordinates: { lat: 42.535, lng: 1.584 },
+    coords: [1.584, 42.535],
     description: {
       de: "Diese romanische Kirche aus dem 12. Jahrhundert ist Teil eines befestigten mittelalterlichen Komplexes in der Gemeinde Encamp.",
       hu: "Ez a 12. századi román stílusú templom egy erődített középkori komplexum része Encamp községben.",
@@ -102,7 +102,7 @@ export const andorraHistoryV2: POI[] = [
     type: "industry",
     parent: "AD",
     name: { de: "Farga Rossell", hu: "Farga Rossell", ro: "Farga Rossell", en: "Farga Rossell" },
-    coordinates: { lat: 42.546, lng: 1.521 },
+    coords: [1.521, 42.546],
     description: {
       de: "Diese historische Schmiede ist eine der am besten erhaltenen Industrieanlagen Andorras und zeugt von der Bedeutung des Eisens.",
       hu: "Ez a történelmi kovácsműhely Andorra egyik legjobb állapotban fennmaradt ipari létesítménye, amely a vas jelentőségéről tanúskodik.",
@@ -134,7 +134,7 @@ export const andorraHistoryV2: POI[] = [
     type: "palace",
     parent: "AD",
     name: { de: "Casa d'Areny-Plandolit", hu: "Casa d'Areny-Plandolit", ro: "Casa d'Areny-Plandolit", en: "Casa d'Areny-Plandolit" },
-    coordinates: { lat: 42.556, lng: 1.533 },
+    coords: [1.533, 42.556],
     description: {
       de: "Dieses herrschaftliche Haus aus dem 17. Jahrhundert gehörte einer der einflussreichsten Familien der andorranischen Geschichte.",
       hu: "Ez a 17. századi nemesi kúria az andorrai történelem egyik legbefolyásosabb családjának tulajdonában volt.",
@@ -166,7 +166,7 @@ export const andorraHistoryV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Martí de la Cortinada", hu: "Sant Martí de la Cortinada", ro: "Sant Martí de la Cortinada", en: "Sant Martí de la Cortinada" },
-    coordinates: { lat: 42.576, lng: 1.518 },
+    coords: [1.518, 42.576],
     description: {
       de: "Eine romanische Kirche, die für ihre Wandmalereien aus dem 12. Jahrhundert und ihre kunstvollen Schmiedearbeiten bekannt ist.",
       hu: "Egy román stílusú templom, amely 12. századi falfestményeiről és művészi kovácsoltvas munkáiról ismert.",
@@ -198,7 +198,7 @@ export const andorraHistoryV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Miquel d'Engolasters", hu: "Sant Miquel d'Engolasters", ro: "Sant Miquel d'Engolasters", en: "Sant Miquel d'Engolasters" },
-    coordinates: { lat: 42.511, lng: 1.556 },
+    coords: [1.556, 42.511],
     description: {
       de: "Diese Kirche aus dem 12. Jahrhundert zeichnet sich durch ihren hohen Glockenturm und ihre strategische Lage über dem Tal aus.",
       hu: "Ez a 12. századi templom magas harangtornyával és a völgy feletti stratégiai elhelyezkedésével tűnik ki.",
@@ -230,7 +230,7 @@ export const andorraHistoryV2: POI[] = [
     type: "bridge",
     parent: "AD",
     name: { de: "Brücke von Sant Antoni de la Grella", hu: "Sant Antoni de la Grella-híd", ro: "Podul Sant Antoni de la Grella", en: "Bridge of Sant Antoni de la Grella" },
-    coordinates: { lat: 42.528, lng: 1.518 },
+    coords: [1.518, 42.528],
     description: {
       de: "Eine mittelalterliche Brücke, die einst den einzigen Weg zwischen Andorra la Vella und den nördlichen Tälern darstellte.",
       hu: "Egy középkori híd, amely egykor az egyetlen utat jelentette Andorra la Vella és az északi völgyek között.",
@@ -262,7 +262,7 @@ export const andorraHistoryV2: POI[] = [
     type: "museum",
     parent: "AD",
     name: { de: "Casa Rull", hu: "Casa Rull", ro: "Casa Rull", en: "Casa Rull" },
-    coordinates: { lat: 42.533, lng: 1.516 },
+    coords: [1.516, 42.533],
     description: {
       de: "Dieses Haus aus dem 17. Jahrhundert zeigt das Leben einer wohlhabenden andorranischen Bauernfamilie in vergangenen Jahrhunderten.",
       hu: "Ez a 17. századi ház egy jómódú andorrai parasztcsalád életét mutatja be az elmúlt évszázadok során.",
@@ -294,7 +294,7 @@ export const andorraHistoryV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Esteve Kirche", hu: "Sant Esteve-templom", ro: "Biserica Sant Esteve", en: "Sant Esteve Church" },
-    coordinates: { lat: 42.507, lng: 1.521 },
+    coords: [1.521, 42.507],
     description: {
       de: "Die Pfarrkirche von Andorra la Vella mit romanischen Ursprüngen wurde im Laufe der Jahrhunderte mehrfach umgebaut.",
       hu: "Andorra la Vella plébániatemploma román kori eredettel rendelkezik, és az évszázadok során többször átépítették.",
@@ -326,7 +326,7 @@ export const andorraHistoryV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Serni de Nagol", hu: "Sant Serni de Nagol", ro: "Sant Serni de Nagol", en: "Sant Serni de Nagol" },
-    coordinates: { lat: 42.469, lng: 1.493 },
+    coords: [1.493, 42.469],
     description: {
       de: "Eine winzige romanische Kirche aus dem 11. Jahrhundert, die spektakulär an einer Felswand über dem Sant Julià-Tal klebt.",
       hu: "Egy apró, 11. századi román stílusú templom, amely látványosan kapaszkodik a Sant Julià-völgy feletti sziklafalhoz.",
@@ -358,7 +358,7 @@ export const andorraHistoryV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Climent de Pal", hu: "Sant Climent de Pal", ro: "Sant Climent de Pal", en: "Sant Climent de Pal" },
-    coordinates: { lat: 42.545, lng: 1.486 },
+    coords: [1.486, 42.545],
     description: {
       de: "Diese Kirche aus dem 11. Jahrhundert gilt als eines der besterhaltenen Beispiele romanischer Architektur in ganz Andorra.",
       hu: "Ez a 11. századi templom az egész Andorra egyik legjobb állapotban fennmaradt román stílusú építészeti példája.",
@@ -390,7 +390,7 @@ export const andorraHistoryV2: POI[] = [
     type: "museum",
     parent: "AD",
     name: { de: "Casa Cristo", hu: "Casa Cristo", ro: "Casa Cristo", en: "Casa Cristo" },
-    coordinates: { lat: 42.536, lng: 1.582 },
+    coords: [1.582, 42.536],
     description: {
       de: "Ein ethnographisches Museum in Encamp, das das bescheidene Leben einer andorranischen Arbeiterfamilie im 19. Jahrhundert zeigt.",
       hu: "Egy Encampban található néprajzi múzeum, amely egy 19. századi andorrai munkáscsalád szerény életét mutatja be.",
@@ -422,7 +422,7 @@ export const andorraHistoryV2: POI[] = [
     type: "bridge",
     parent: "AD",
     name: { de: "Brücke von Els Escalls", hu: "Els Escalls-híd", ro: "Podul Els Escalls", en: "Bridge of Els Escalls" },
-    coordinates: { lat: 42.511, lng: 1.536 },
+    coords: [1.536, 42.511],
     description: {
       de: "Eine historische Steinbrücke über den Fluss Valira d'Orient, die für die Unterzeichnung wichtiger politischer Verträge bekannt ist.",
       hu: "Egy történelmi kőhíd a Valira d'Orient folyó felett, amely fontos politikai szerződések aláírásáról ismert.",
@@ -454,7 +454,7 @@ export const andorraHistoryV2: POI[] = [
     type: "tower",
     parent: "AD",
     name: { de: "Torre dels Moros", hu: "Torre dels Moros", ro: "Torre dels Moros", en: "Torre dels Moros" },
-    coordinates: { lat: 42.546, lng: 1.517 },
+    coords: [1.517, 42.546],
     description: {
       de: "Die Ruinen eines mittelalterlichen Verteidigungsturms, der strategisch günstig zur Überwachung des Tals errichtet wurde.",
       hu: "Egy középkori védőtorony romjai, amelyet stratégiailag a völgy megfigyelésére építettek.",
@@ -486,7 +486,7 @@ export const andorraHistoryV2: POI[] = [
     type: "monument",
     parent: "AD",
     name: { de: "Radio Andorra Gebäude", hu: "Radio Andorra épülete", ro: "Clădirea Radio Andorra", en: "Radio Andorra Building" },
-    coordinates: { lat: 42.531, lng: 1.581 },
+    coords: [1.581, 42.531],
     description: {
       de: "Ein Wahrzeichen der modernen Geschichte, das während des Zweiten Weltkriegs als neutraler Radiosender in Europa fungierte.",
       hu: "A modern történelem egyik jelképe, amely a második világháború alatt semleges rádióállomásként működött Európában.",
@@ -518,7 +518,7 @@ export const andorraHistoryV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Corneli i Sant Cebrià", hu: "Sant Corneli i Sant Cebrià", ro: "Sant Corneli i Sant Cebrià", en: "Sant Corneli i Sant Cebrià" },
-    coordinates: { lat: 42.556, lng: 1.533 },
+    coords: [1.533, 42.556],
     description: {
       de: "Die Hauptkirche von Ordino, bekannt für ihre wertvollen barocken Altarbilder und die Verbindung zur lokalen Eisenindustrie.",
       hu: "Ordino főtemploma, amely értékes barokk oltárképeiről és a helyi vasiparhoz fűződő kapcsolatairól ismert.",
@@ -550,7 +550,7 @@ export const andorraHistoryV2: POI[] = [
     type: "mine",
     parent: "AD",
     name: { de: "Llorts-Mine", hu: "Llorts-bánya", ro: "Mina Llorts", en: "Llorts Mine" },
-    coordinates: { lat: 42.597, lng: 1.531 },
+    coords: [1.531, 42.597],
     description: {
       de: "Diese Eisenmine aus dem 19. Jahrhundert ist heute ein Museum und Teil des historischen Eisenwegs von Andorra.",
       hu: "Ez a 19. századi vasbánya ma múzeumként működik, és részét képezi Andorra történelmi vasútvonalának.",
@@ -582,7 +582,7 @@ export const andorraHistoryV2: POI[] = [
     type: "ruins",
     parent: "AD",
     name: { de: "Balma de la Margineda", hu: "Balma de la Margineda", ro: "Balma de la Margineda", en: "Balma de la Margineda" },
-    coordinates: { lat: 42.485, lng: 1.491 },
+    coords: [1.491, 42.485],
     description: {
       de: "Diese prähistorische Fundstätte unter einem Felsüberhang ist einer der wichtigsten Orte für die Erforschung der frühen Besiedlung Andorras.",
       hu: "Ez a sziklaeresz alatti őskori lelőhely az egyik legfontosabb helyszín Andorra korai betelepülésének kutatásában.",
@@ -614,7 +614,7 @@ export const andorraHistoryV2: POI[] = [
     type: "church",
     parent: "AD",
     name: { de: "Sant Pere de l'Aldosa", hu: "Sant Pere de l'Aldosa", ro: "Sant Pere de l'Aldosa", en: "Sant Pere de l'Aldosa" },
-    coordinates: { lat: 42.543, lng: 1.527 },
+    coords: [1.527, 42.543],
     description: {
       de: "Eine charmante Kirche aus dem 17. und 18. Jahrhundert mit einem quadratischen Glockenturm im Herzen des Dorfes L'Aldosa.",
       hu: "Egy bájos 17-18. századi templom négyzet alakú harangtoronnyal L'Aldosa falu szívében.",
@@ -646,7 +646,7 @@ export const andorraHistoryV2: POI[] = [
     type: "monument",
     parent: "AD",
     name: { de: "Creu Grossa", hu: "Creu Grossa", ro: "Creu Grossa", en: "Creu Grossa" },
-    coordinates: { lat: 42.508, lng: 1.527 },
+    coords: [1.527, 42.508],
     description: {
       de: "Dieses mittelalterliche Steinkreuz markierte einst die Grenze zwischen den Gemeinden Andorra la Vella und Escaldes-Engordany.",
       hu: "Ez a középkori kőkereszt egykor Andorra la Vella és Escaldes-Engordany községek határát jelölte.",

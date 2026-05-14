@@ -6,7 +6,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "ruins",
     parent: "RS",
     name: { de: "Mediana", hu: "Mediana", ro: "Mediana", en: "Mediana" },
-    coordinates: { lat: 43.3219, lng: 21.9367 },
+    coords: [21.9367, 43.3219],
     description: {
       de: "Mediana ist eine archäologische Stätte eines kaiserlichen Anwesens aus der Spätantike bei Niš. Hier wurden Überreste eines Palastes mit Bodenmosaiken freigelegt.",
       hu: "A Mediana egy késő ókori császári rezidens régészeti lelőhelye Niš közelében. A feltárások során palotaépületek és padlómozaikok maradványai kerültek elő.",
@@ -38,7 +38,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "castle",
     parent: "RS",
     name: { de: "Festung Bač", hu: "Bácsi vár", ro: "Cetatea Bač", en: "Bač Fortress" },
-    coordinates: { lat: 45.3956, lng: 19.2319 },
+    coords: [19.2319, 45.3956],
     description: {
       de: "Die Festung Bač ist eine mittelalterliche Anlage aus dem 14. Jahrhundert in der Vojvodina. Sie gilt als eine der besterhaltenen Festungen der Region.",
       hu: "A bácsi vár egy 14. századi középkori erődítmény a Vajdaságban. A régió egyik legjobban megőrzött középkori váraként tartják számon.",
@@ -70,7 +70,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "landmark",
     parent: "RS",
     name: { de: "Kosančićev venac", hu: "Kosančićev venac", ro: "Kosančićev venac", en: "Kosančićev venac" },
-    coordinates: { lat: 44.8172, lng: 20.4503 },
+    coords: [20.4503, 44.8172],
     description: {
       de: "Kosančićev venac ist das älteste erhaltene Stadtviertel von Belgrad außerhalb der Festung. Das Viertel bewahrt eine architekturhistorisch bedeutsame Bebauung.",
       hu: "Kosančićev venac Belgrád legrégebbi fennmaradt városrésze a várfalakon kívül. A negyed megőrizte építészettörténetileg jelentős épületállományát.",
@@ -102,7 +102,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "ruins",
     parent: "RS",
     name: { de: "Stari Ras", hu: "Ó-Rász", ro: "Stari Ras", en: "Stari Ras" },
-    coordinates: { lat: 43.1258, lng: 20.4281 },
+    coords: [20.4281, 43.1258],
     description: {
       de: "Stari Ras war die erste Hauptstadt des mittelalterlichen serbischen Staates Raška. Die archäologische Stätte umfasst Siedlungsreste und befestigte Anlagen.",
       hu: "Ó-Rász a középkori szerb Raška állam első fővárosa volt. A régészeti lelőhely településmaradványokat és erődítményeket foglal magában.",
@@ -134,7 +134,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Petrova crkva", hu: "Péter-templom", ro: "Biserica Sfântului Petru", en: "Church of Saints Peter and Paul" },
-    coordinates: { lat: 43.1558, lng: 20.5056 },
+    coords: [20.5056, 43.1558],
     description: {
       de: "Die Peter-und-Paul-Kirche bei Novi Pazar ist eines der ältesten erhaltenen christlichen Gotteshäuser in Serbien. Sie stammt aus dem 9. Jahrhundert.",
       hu: "A Novi Pazar melletti Péter-templom Szerbia egyik legrégebbi fennmaradt keresztény temploma. A 9. századból származik.",
@@ -166,7 +166,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "castle",
     parent: "RS",
     name: { de: "Festung Maglič", hu: "Maglič vára", ro: "Cetatea Maglič", en: "Maglič Fortress" },
-    coordinates: { lat: 43.6111, lng: 20.5564 },
+    coords: [20.5564, 43.6111],
     description: {
       de: "Die Festung Maglič liegt über dem Ibar-Tal und stammt aus dem 13. Jahrhundert. Sie diente der Sicherung des Handelsweges zwischen Raška und dem Kosovo.",
       hu: "Maglič vára az Ibar-völgy felett található, a 13. századból származik. A Raška és Koszovó közötti kereskedelmi út védelmét szolgálta.",
@@ -198,7 +198,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "tower",
     parent: "RS",
     name: { de: "Nebojša-Turm", hu: "Nebojša-torony", ro: "Turnul Nebojša", en: "Nebojša Tower" },
-    coordinates: { lat: 44.8219, lng: 20.4497 },
+    coords: [20.4497, 44.8219],
     description: {
       de: "Der Nebojša-Turm ist Teil der Festung Belgrad und stammt aus dem 15. Jahrhundert. Er diente als wichtiges Verteidigungsbauwerk an der Donau.",
       hu: "A Nebojša-torony a belgrádi vár része, a 15. századból származik. Fontos védelmi építményként szolgált a Duna partján.",
@@ -230,7 +230,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Klisura", hu: "Klisura kolostor", ro: "Mănăstirea Klisura", en: "Klisura Monastery" },
-    coordinates: { lat: 43.6528, lng: 20.2194 },
+    coords: [20.2194, 43.6528],
     description: {
       de: "Das Kloster Klisura ist ein mittelalterliches serbisch-orthodoxes Kloster in der Nähe von Arilje. Die Anlage beherbergt bedeutende historische Fresken.",
       hu: "A Klisura kolostor egy középkori szerb ortodox kolostor Arilje közelében. Az épületegyüttes jelentős történelmi freskóknak ad otthont.",
@@ -262,7 +262,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Nova Pavlica", hu: "Nova Pavlica kolostor", ro: "Mănăstirea Nova Pavlica", en: "Nova Pavlica Monastery" },
-    coordinates: { lat: 43.3444, lng: 20.5486 },
+    coords: [20.5486, 43.3444],
     description: {
       de: "Nova Pavlica ist ein Kloster bei Raška, das Ende des 14. Jahrhunderts gegründet wurde. Es gilt als Beispiel der architektonischen Schule der Morava.",
       hu: "A Nova Pavlica egy Raška melletti kolostor, amelyet a 14. század végén alapítottak. A moravai építészeti iskola egyik példája.",
@@ -294,7 +294,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Banja", hu: "Banja kolostor", ro: "Mănăstirea Banja", en: "Banja Monastery" },
-    coordinates: { lat: 43.5186, lng: 19.5514 },
+    coords: [19.5514, 43.5186],
     description: {
       de: "Das Kloster Banja befindet sich in der Nähe von Priboj und wurde im 12. Jahrhundert gegründet. Es war ein bedeutendes geistliches Zentrum am Lim.",
       hu: "A Banja kolostor Priboj közelében található, a 12. században alapították. Jelentős szellemi központ volt a Lim folyó mellett.",
@@ -326,7 +326,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "museum",
     parent: "RS",
     name: { de: "Staro Selo", hu: "Staro Selo", ro: "Staro Selo", en: "Staro Selo" },
-    coordinates: { lat: 44.4756, lng: 19.6453 },
+    coords: [19.6453, 44.4756],
     description: {
       de: "Staro Selo in Sirogojno ist ein Freilichtmuseum, das die traditionelle Architektur und Lebensweise im Zlatibor-Gebirge bewahrt.",
       hu: "A Sirogojno-i Staro Selo egy szabadtéri múzeum, amely megőrzi a Zlatibor-hegység hagyományos építészetét és életmódját.",
@@ -358,7 +358,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Staro Hopovo", hu: "Staro Hopovo kolostor", ro: "Mănăstirea Staro Hopovo", en: "Staro Hopovo Monastery" },
-    coordinates: { lat: 45.1472, lng: 19.8286 },
+    coords: [19.8286, 45.1472],
     description: {
       de: "Das Kloster Staro Hopovo liegt eingebettet in den Wäldern der Fruška Gora. Es ist bekannt für seine ruhige Lage und mittelalterliche Ursprünge.",
       hu: "A Staro Hopovo kolostor a Fruška Gora erdeiben rejtőzik. Csendes környezetéről és középkori eredetéről ismert.",
@@ -390,7 +390,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Đurđevi Stupovi", hu: "Đurđevi Stupovi kolostor", ro: "Mănăstirea Đurđevi Stupovi", en: "Đurđevi Stupovi Monastery" },
-    coordinates: { lat: 43.1594, lng: 20.5186 },
+    coords: [20.5186, 43.1594],
     description: {
       de: "Das Kloster Đurđevi Stupovi bei Novi Pazar wurde im 12. Jahrhundert von Stefan Nemanja gegründet. Es gehört zum UNESCO-Weltkulturerbe.",
       hu: "A Novi Pazar melletti Đurđevi Stupovi kolostort a 12. században alapította Stefan Nemanja. Az UNESCO világörökség része.",
@@ -422,7 +422,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Patriarchat von Peć", hu: "Peći patriarchátus", ro: "Patriarhatul din Peć", en: "Patriarchate of Peć" },
-    coordinates: { lat: 42.6583, lng: 20.2639 },
+    coords: [20.2639, 42.6583],
     description: {
       de: "Das Patriarchat von Peć ist ein bedeutendes serbisch-orthodoxes Kloster aus dem 13. Jahrhundert. Es diente jahrhundertelang als Sitz des Patriarchen.",
       hu: "A Peći patriarchátus egy jelentős szerb ortodox kolostor a 13. századból. Évszázadokon át a pátriárka székhelyéül szolgált.",
@@ -454,7 +454,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Gračanica", hu: "Gračanica kolostor", ro: "Mănăstirea Gračanica", en: "Gračanica Monastery" },
-    coordinates: { lat: 42.6025, lng: 21.1911 },
+    coords: [21.1911, 42.6025],
     description: {
       de: "Gračanica ist ein serbisch-orthodoxes Kloster aus dem 14. Jahrhundert. Es stellt einen Höhepunkt der byzantinisch-serbischen Architektur dar.",
       hu: "A Gračanica egy szerb ortodox kolostor a 14. századból. A bizánci-szerb építészet egyik csúcspontja.",
@@ -486,7 +486,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Banjska", hu: "Banjska kolostor", ro: "Mănăstirea Banjska", en: "Banjska Monastery" },
-    coordinates: { lat: 43.0117, lng: 20.7719 },
+    coords: [20.7719, 43.0117],
     description: {
       de: "Das Kloster Banjska wurde im frühen 14. Jahrhundert erbaut. Es diente als Grablege für König Stefan Milutin.",
       hu: "A Banjska kolostort a 14. század elején építették. Stefan Milutin király nyughelyeként szolgált.",
@@ -518,7 +518,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Radoštica", hu: "Radoštica kolostor", ro: "Mănăstirea Radoštica", en: "Radoštica Monastery" },
-    coordinates: { lat: 43.4111, lng: 20.3556 },
+    coords: [20.3556, 43.4111],
     description: {
       de: "Das Kloster Radoštica ist eine kleinere mittelalterliche Anlage. Es ist für seine ruhige Atmosphäre und historische Bedeutung in der Region bekannt.",
       hu: "A Radoštica kolostor egy kisebb középkori épületegyüttes. Csendes atmoszférájáról és a régióban betöltött történelmi jelentőségéről ismert.",
@@ -550,7 +550,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Studenica", hu: "Studenica kolostor", ro: "Mănăstirea Studenica", en: "Studenica Monastery" },
-    coordinates: { lat: 43.4833, lng: 20.5283 },
+    coords: [20.5283, 43.4833],
     description: {
       de: "Studenica ist ein bedeutendes Kloster, das Ende des 12. Jahrhunderts gegründet wurde. Es gilt als Mutter aller serbischen Klöster.",
       hu: "A Studenica egy jelentős kolostor, amelyet a 12. század végén alapítottak. A szerb kolostorok anyjaként tartják számon.",
@@ -582,7 +582,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Gradac", hu: "Gradac kolostor", ro: "Mănăstirea Gradac", en: "Gradac Monastery" },
-    coordinates: { lat: 43.2556, lng: 20.5186 },
+    coords: [20.5186, 43.2556],
     description: {
       de: "Das Kloster Gradac wurde im 13. Jahrhundert erbaut. Es verbindet byzantinische und westliche Architekturstile.",
       hu: "A Gradac kolostort a 13. században építették. Ötvözi a bizánci és a nyugati építészeti stílusokat.",
@@ -614,7 +614,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Kalenić", hu: "Kalenić kolostor", ro: "Mănăstirea Kalenić", en: "Kalenić Monastery" },
-    coordinates: { lat: 43.7667, lng: 21.0556 },
+    coords: [21.0556, 43.7667],
     description: {
       de: "Das Kloster Kalenić wurde im frühen 15. Jahrhundert gegründet. Es ist ein herausragendes Beispiel der serbischen Morava-Schule.",
       hu: "A Kalenić kolostort a 15. század elején alapították. A szerb moravai iskola egyik kiemelkedő példája.",
@@ -646,7 +646,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Rača", hu: "Rača kolostor", ro: "Mănăstirea Rača", en: "Rača Monastery" },
-    coordinates: { lat: 43.8994, lng: 19.4556 },
+    coords: [19.4556, 43.8994],
     description: {
       de: "Das Kloster Rača bei Bajina Bašta ist eine mittelalterliche Gründung. Es spielte eine Rolle bei der Bewahrung der serbischen Schriftsprache.",
       hu: "A Bajina Bašta melletti Rača kolostor egy középkori alapítás. Szerepet játszott a szerb írott nyelv megőrzésében.",
@@ -678,7 +678,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Pustinja", hu: "Pustinja kolostor", ro: "Mănăstirea Pustinja", en: "Pustinja Monastery" },
-    coordinates: { lat: 44.1111, lng: 19.8556 },
+    coords: [19.8556, 44.1111],
     description: {
       de: "Das Kloster Pustinja ist eine versteckte Anlage nahe Valjevo aus dem 17. Jahrhundert. Es ist für seine gut erhaltenen Fresken berühmt.",
       hu: "A Pustinja kolostor egy rejtett épületegyüttes Valjevo közelében, a 17. századból. Jól megőrzött freskóiról híres.",
@@ -710,7 +710,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Kovilj", hu: "Kovilj kolostor", ro: "Mănăstirea Kovilj", en: "Kovilj Monastery" },
-    coordinates: { lat: 45.2111, lng: 20.1556 },
+    coords: [20.1556, 45.2111],
     description: {
       de: "Das Kloster Kovilj bei Novi Sad hat Ursprünge im 13. Jahrhundert. Die Anlage ist bekannt für ihr klösterliches Leben und ihre Architektur.",
       hu: "A Novi Sad melletti Kovilj kolostor eredete a 13. századra nyúlik vissza. Az épületegyüttes a szerzetesi életről és építészetéről ismert.",
@@ -742,7 +742,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Fenek", hu: "Fenek kolostor", ro: "Mănăstirea Fenek", en: "Fenek Monastery" },
-    coordinates: { lat: 44.7556, lng: 20.2111 },
+    coords: [20.2111, 44.7556],
     description: {
       de: "Das Kloster Fenek liegt in der Nähe von Belgrad und stammt aus dem 15. Jahrhundert. Es ist ein bedeutendes religiöses Zentrum.",
       hu: "A Belgrád melletti Fenek kolostor a 15. századból származik. Jelentős vallási központ.",
@@ -774,7 +774,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Novo Hopovo", hu: "Novo Hopovo kolostor", ro: "Mănăstirea Novo Hopovo", en: "Novo Hopovo Monastery" },
-    coordinates: { lat: 45.1556, lng: 19.8111 },
+    coords: [19.8111, 45.1556],
     description: {
       de: "Novo Hopovo ist ein wichtiges Kloster auf der Fruška Gora aus dem 16. Jahrhundert. Es ist für seine große Kuppel bekannt.",
       hu: "A Novo Hopovo egy fontos kolostor a Fruška Gorán, a 16. századból. Nagy kupolájáról ismert.",
@@ -806,7 +806,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Jazak", hu: "Jazak kolostor", ro: "Mănăstirea Jazak", en: "Jazak Monastery" },
-    coordinates: { lat: 45.1211, lng: 19.7856 },
+    coords: [19.7856, 45.1211],
     description: {
       de: "Das Kloster Jazak auf der Fruška Gora wurde im 18. Jahrhundert errichtet. Es beherbergt die Reliquien des Zaren Uroš.",
       hu: "A Fruška Gora-i Jazak kolostort a 18. században építették. Uroš cár ereklyéit őrzi.",
@@ -838,7 +838,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Beočin", hu: "Beočin kolostor", ro: "Mănăstirea Beočin", en: "Beočin Monastery" },
-    coordinates: { lat: 45.1889, lng: 19.7111 },
+    coords: [19.7111, 45.1889],
     description: {
       de: "Das Kloster Beočin befindet sich auf der Fruška Gora. Es ist seit dem 16. Jahrhundert ein wichtiges geistliches Zentrum.",
       hu: "A Beočin kolostor a Fruška Gorán található. A 16. század óta jelentős szellemi központ.",
@@ -870,7 +870,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Šišatovac", hu: "Šišatovac kolostor", ro: "Mănăstirea Šišatovac", en: "Šišatovac Monastery" },
-    coordinates: { lat: 45.1333, lng: 19.6222 },
+    coords: [19.6222, 45.1333],
     description: {
       de: "Das Kloster Šišatovac auf der Fruška Gora wurde im 16. Jahrhundert gegründet. Es ist für seine reiche Geschichte bekannt.",
       hu: "A Fruška Gora-i Šišatovac kolostort a 16. században alapították. Gazdag történelméről ismert.",
@@ -902,7 +902,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Petkovica", hu: "Petkovica kolostor", ro: "Mănăstirea Petkovica", en: "Petkovica Monastery" },
-    coordinates: { lat: 45.1444, lng: 19.6556 },
+    coords: [19.6556, 45.1444],
     description: {
       de: "Das Kloster Petkovica liegt auf der Fruška Gora und wurde im 16. Jahrhundert gegründet. Es gehört zu den wichtigen Klöstern der Region.",
       hu: "A Petkovica kolostor a Fruška Gorán található, a 16. században alapították. A régió fontos kolostorai közé tartozik.",
@@ -934,7 +934,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Divša", hu: "Divša kolostor", ro: "Mănăstirea Divša", en: "Divša Monastery" },
-    coordinates: { lat: 45.1556, lng: 19.5889 },
+    coords: [19.5889, 45.1556],
     description: {
       de: "Das Kloster Divša befindet sich auf der Fruška Gora. Es stammt aus dem 16. Jahrhundert und ist für seine Architektur bekannt.",
       hu: "A Divša kolostor a Fruška Gorán található. A 16. századból származik és építészetéről ismert.",
@@ -966,7 +966,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Kuveždin", hu: "Kuveždin kolostor", ro: "Mănăstirea Kuveždin", en: "Kuveždin Monastery" },
-    coordinates: { lat: 45.1444, lng: 19.6333 },
+    coords: [19.6333, 45.1444],
     description: {
       de: "Das Kloster Kuveždin liegt auf der Fruška Gora und wurde im 16. Jahrhundert gegründet. Es ist Teil des reichen klösterlichen Erbes.",
       hu: "A Kuveždin kolostor a Fruška Gorán található, a 16. században alapították. A gazdag kolostori örökség része.",
@@ -998,7 +998,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Privina Glava", hu: "Privina Glava kolostor", ro: "Mănăstirea Privina Glava", en: "Privina Glava Monastery" },
-    coordinates: { lat: 45.1333, lng: 19.3556 },
+    coords: [19.3556, 45.1333],
     description: {
       de: "Das Kloster Privina Glava auf der Fruška Gora hat mittelalterliche Ursprünge. Es ist ein bedeutendes religiöses Zentrum.",
       hu: "A Fruška Gora-i Privina Glava kolostor középkori eredetű. Jelentős vallási központ.",
@@ -1030,7 +1030,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Raska", hu: "Raska kolostor", ro: "Mănăstirea Raska", en: "Raska Monastery" },
-    coordinates: { lat: 43.2889, lng: 20.5333 },
+    coords: [20.5333, 43.2889],
     description: {
       de: "Das Kloster Raska ist eine historische Stätte in der Nähe von Raska. Es ist für seine architektonische Bedeutung bekannt.",
       hu: "A Raska kolostor egy történelmi helyszín Raska közelében. Építészeti jelentőségéről ismert.",
@@ -1062,7 +1062,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Sopotnica", hu: "Sopotnica kolostor", ro: "Mănăstirea Sopotnica", en: "Sopotnica Monastery" },
-    coordinates: { lat: 43.2556, lng: 19.8222 },
+    coords: [19.8222, 43.2556],
     description: {
       de: "Das Kloster Sopotnica ist ein spiritueller Ort nahe Prijepolje. Es bewahrt Traditionen des serbisch-orthodoxen Glaubens.",
       hu: "A Sopotnica kolostor egy spirituális hely Prijepolje közelében. Őrzi a szerb ortodox hit hagyományait.",
@@ -1094,7 +1094,7 @@ export const serbiaHistoryV2: POI[] = [
     type: "church",
     parent: "RS",
     name: { de: "Kloster Končul", hu: "Končul kolostor", ro: "Mănăstirea Končul", en: "Končul Monastery" },
-    coordinates: { lat: 43.2778, lng: 20.6222 },
+    coords: [20.6222, 43.2778],
     description: {
       de: "Das Kloster Končul bei Raška ist eine historische Anlage aus dem Mittelalter. Es ist für seine religiöse Bedeutung bekannt.",
       hu: "A Raška melletti Končul kolostor egy történelmi épületegyüttes a középkorból. Vallási jelentőségéről ismert.",

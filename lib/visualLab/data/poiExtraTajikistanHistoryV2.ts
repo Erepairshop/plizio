@@ -167,7 +167,20 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["Itt találtak egy hatalmas fekvő Buddhát.", "Bohtar városának közelében van."],
       ro: ["Aici a fost găsit un Buddha uriaș dormind.", "Este situat în apropiere de Bochtar."],
       en: ["A giant sleeping Buddha was found here.", "Located near the city of Bokhtar."]
-    }, image: "/poi-images/tj-ajina-tepa-history-v2.webp"},
+    }, image: "/poi-images/tj-ajina-tepa-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Ajina-Tepa ist ein buddhistisches Kloster aus dem 7.-8. Jahrhundert in Tadschikistan, nahe der Stadt Kurgan-Tjube. Es wurde 1961 entdeckt und ausgegraben. Das Kloster umfasst einen Stupa, Klosterzellen und einen zentralen Hof. Es war Teil des Seidenstraßennetzes. Die Wandmalereien zeigen Buddhas Leben. Das Gelände ist etwa 600 Quadratmeter groß. Es gehört zum UNESCO-Welterbe.",
+      hu: "Az Ajina-Tepa egy 7-8. századi buddhista kolostor Tádzsikisztánban, Kurgan-Tube közelében. 1961-ben fedezték fel és tárták fel. A kolostorban sztúpa, szerzetesi cellák és egy központi udvar található. A Selyemút hálózat része volt. A falfestmények Buddha életét ábrázolják. A terület körülbelül 600 négyzetméter. Az UNESCO világörökség része.",
+      ro: "Ajina-Tepa este o mănăstire budistă din secolele VII-VIII în Tadjikistan, lângă orașul Kurgan-Tube. A fost descoperită și excavată în 1961. Mănăstirea cuprinde o stupă, chilii monahale și o curte centrală. A făcut parte din rețeaua Drumului Mătăsii. Picturile murale înfățișează viața lui Buddha. Situl are aproximativ 600 de metri pătrați. Este inclus în patrimoniul UNESCO.",
+      en: "Ajina-Tepa is a 7th-8th century Buddhist monastery in Tajikistan, near Kurgan-Tyube. It was discovered and excavated in 1961. The monastery includes a stupa, monastic cells, and a central courtyard. It was part of the Silk Road network. Wall paintings depict the life of Buddha. The site covers about 600 square meters. It is a UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Das Kloster stammt aus dem 7.-8. Jahrhundert.", "Die Ausgrabungen begannen 1961.", "Die Fläche beträgt 600 m².", "Der Stupa ist 12 Meter hoch.", "Es wurden 50 Mönchszellen gefunden.", "Die Wandmalereien sind 1,5 Meter hoch."],
+      hu: ["A kolostor a 7-8. századból származik.", "Az ásatások 1961-ben kezdődtek.", "Területe 600 m².", "A sztúpa 12 méter magas.", "50 szerzetesi cellát találtak.", "A falfestmények 1,5 méter magasak."],
+      ro: ["Mănăstirea datează din secolele VII-VIII.", "Săpăturile au început în 1961.", "Suprafața este de 600 m².", "Stupa are 12 metri înălțime.", "Au fost găsite 50 de chilii monahale.", "Picturile murale au 1,5 metri înălțime."],
+      en: ["The monastery dates from the 7th-8th century.", "Excavations began in 1961.", "The area is 600 m².", "The stupa is 12 meters high.", "50 monastic cells were found.", "Wall paintings are 1.5 meters high."],
+    },
+  },
   {
     id: "tj-takhti-sangin-history-v2",
     type: "ruin",
@@ -190,7 +203,20 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["A Kr. e. 4. században épült.", "Az Oxus-kincs feltételezett lelőhelye."],
       ro: ["Construit în secolul al IV-lea î.Hr.", "Locul probabil al descoperirii tezaurului Oxus."],
       en: ["Built in the 4th century BC.", "Probable discovery site of the Oxus Treasure."]
-    }, image: "/poi-images/tj-takhti-sangin-history-v2.webp"},
+    }, image: "/poi-images/tj-takhti-sangin-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Takhti-Sangin (Steinthron) ist eine archäologische Stätte in Tadschikistan, am Zusammenfluss von Wachsch und Pandsch. Sie stammt aus dem 3. Jahrhundert v. Chr. bis zum 4. Jahrhundert n. Chr. und war ein bedeutendes Zentrum des zoroastrischen Glaubens. Die Stätte umfasst einen Tempel, der dem Gott Oxus gewidmet war, sowie zahlreiche Votivgaben. Die Ausgrabungen begannen in den 1970er Jahren. Die Fundstücke befinden sich im Nationalmuseum Tadschikistans.",
+      hu: "A Takhti-Sangin (Kőtrón) egy régészeti lelőhely Tádzsikisztánban, a Vahsh és Pandzs folyók találkozásánál. A Kr.e. 3. századtól a Kr.u. 4. századig terjedő korszakból származik, és a zoroasztriánus hit jelentős központja volt. A lelőhelyen egy templom található, amelyet az Oxus istennek szenteltek, valamint számos fogadalmi tárgy. Az ásatások az 1970-es években kezdődtek. A leletek a tádzsik nemzeti múzeumban vannak.",
+      ro: "Takhti-Sangin (Tronul de Piatră) este un sit arheologic în Tadjikistan, la confluența râurilor Vahsh și Panj. Datează din secolul al III-lea î.Hr. până în secolul al IV-lea d.Hr. și a fost un important centru al cultului zoroastrian. Situl include un templu dedicat zeului Oxus și numeroase ofrande votive. Săpăturile au început în anii 1970. Artefactele se află la Muzeul Național din Tadjikistan.",
+      en: "Takhti-Sangin (Stone Throne) is an archaeological site in Tajikistan, at the confluence of the Vakhsh and Panj rivers. It dates from the 3rd century BC to the 4th century AD and was a major center of Zoroastrian worship. The site includes a temple dedicated to the god Oxus and numerous votive offerings. Excavations began in the 1970s. Artifacts are housed in the National Museum of Tajikistan.",
+    },
+    factsAdvanced: {
+      de: ["Die Stätte stammt aus dem 3. Jahrhundert v. Chr.", "Der Tempel ist dem Oxus gewidmet.", "Die Ausgrabungen begannen 1975.", "Es wurden über 5.000 Goldobjekte gefunden.", "Die Siedlung war bis zum 4. Jahrhundert bewohnt.", "Der Steinthron ist 2 Meter hoch."],
+      hu: ["A lelőhely a Kr.e. 3. századból származik.", "A templomot az Oxus istennek szentelték.", "Az ásatások 1975-ben kezdődtek.", "Több mint 5000 aranytárgyat találtak.", "A település a Kr.u. 4. századig lakott volt.", "A kőtrón 2 méter magas."],
+      ro: ["Situl datează din secolul al III-lea î.Hr.", "Templul este dedicat zeului Oxus.", "Săpăturile au început în 1975.", "Au fost găsite peste 5.000 de obiecte de aur.", "Așezarea a fost locuită până în secolul al IV-lea.", "Tronul de piatră are 2 metri înălțime."],
+      en: ["The site dates from the 3rd century BC.", "The temple is dedicated to the god Oxus.", "Excavations began in 1975.", "Over 5,000 gold objects were found.", "The settlement was inhabited until the 4th century AD.", "The stone throne is 2 meters high."],
+    },
+  },
   {
     id: "tj-yamchun-fortress-history-v2",
     type: "ruin",
@@ -213,7 +239,20 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       hu: ["A Kr. e. 3. századból származik.", "Lenyűgöző kilátást nyújt a Hindukusra."],
       ro: ["Datează din secolul al III-lea î.Hr.", "Oferă vederi spectaculoase asupra Hindu Kush."],
       en: ["Dates back to the 3rd century BC.", "Offers spectacular views of the Hindu Kush."]
-    }, image: "/poi-images/tj-yamchun-fortress-history-v2.webp"},
+    }, image: "/poi-images/tj-yamchun-fortress-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Yamchun-Festung liegt im Berg-Badachschan in Tadschikistan, auf einer Höhe von 2.800 Metern. Sie stammt aus dem 3. Jahrhundert v. Chr. und diente dem Schutz der Seidenstraße. Die Festung besteht aus Stein und Lehmziegeln und hat einen Umfang von etwa 400 Metern. Sie bietet einen Blick über den Pandsch-Fluss. Die Festung wurde im 19. Jahrhundert aufgegeben. Heute ist sie eine Touristenattraktion.",
+      hu: "A Yamchun-erőd Tádzsikisztánban, a Hegyi-Badahsánban található, 2800 méteres tengerszint feletti magasságban. A Kr.e. 3. századból származik, és a Selyemút védelmét szolgálta. Az erőd kőből és vályogtéglából épült, kerülete körülbelül 400 méter. Kilátást nyújt a Pandzs folyóra. Az erődöt a 19. században hagyták el. Ma turisztikai látványosság.",
+      ro: "Cetatea Yamchun este situată în Gorno-Badakhshan, Tadjikistan, la o altitudine de 2.800 de metri. Datează din secolul al III-lea î.Hr. și a servit la protejarea Drumului Mătăsii. Cetatea este construită din piatră și cărămizi de lut, având un perimetru de aproximativ 400 de metri. Oferă o vedere asupra râului Panj. A fost abandonată în secolul al XIX-lea. Astăzi este o atracție turistică.",
+      en: "Yamchun Fortress is located in the Gorno-Badakhshan region of Tajikistan, at an altitude of 2,800 meters. It dates from the 3rd century BC and was used to protect the Silk Road. The fortress is built of stone and mud bricks, with a perimeter of about 400 meters. It overlooks the Panj River. The fortress was abandoned in the 19th century. Today it is a tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Die Festung liegt auf 2.800 Metern Höhe.", "Sie stammt aus dem 3. Jahrhundert v. Chr.", "Der Umfang beträgt 400 Meter.", "Die Mauern sind 2 Meter dick.", "Sie wurde im 19. Jahrhundert aufgegeben.", "Die Höhe der Mauer beträgt 6 Meter."],
+      hu: ["Az erőd 2800 méteres magasságban található.", "A Kr.e. 3. századból származik.", "Kerülete 400 méter.", "A falak vastagsága 2 méter.", "A 19. században hagyták el.", "A fal magassága 6 méter."],
+      ro: ["Cetatea se află la 2.800 de metri altitudine.", "Datează din secolul al III-lea î.Hr.", "Perimetrul este de 400 de metri.", "Zidurile au 2 metri grosime.", "A fost abandonată în secolul al XIX-lea.", "Înălțimea zidului este de 6 metri."],
+      en: ["The fortress is at 2,800 meters elevation.", "It dates from the 3rd century BC.", "The perimeter is 400 meters.", "Walls are 2 meters thick.", "It was abandoned in the 19th century.", "Wall height is 6 meters."],
+    },
+  },
   {
     id: "tj-khujand-fortress-history-v2",
     type: "historical-site",

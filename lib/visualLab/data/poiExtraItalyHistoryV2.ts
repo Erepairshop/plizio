@@ -6,7 +6,7 @@ export const italyHistoryV2: POI[] = [
     type: "ruins",
     parent: "IT",
     name: { de: "Tal der Tempel", hu: "Templomok Völgye", ro: "Valea Templelor", en: "Valley of the Temples" },
-    coordinates: { lat: 37.2908, lng: 13.5857 },
+    coords: [13.5857, 37.2908],
     description: {
       de: "Archäologischer Park in Agrigent mit sieben gut erhaltenen griechischen Tempeln. Die Anlage gehört seit 1997 zum UNESCO-Welterbe.",
       hu: "Agrigento régészeti parkja hét jól megőrzött görög templommal. A terület 1997 óta az UNESCO világörökség része.",
@@ -38,7 +38,7 @@ export const italyHistoryV2: POI[] = [
     type: "ruins",
     parent: "IT",
     name: { de: "Forum Romanum", hu: "Forum Romanum", ro: "Forumul Roman", en: "Roman Forum" },
-    coordinates: { lat: 41.8925, lng: 12.4853 },
+    coords: [12.4853, 41.8925],
     description: {
       de: "Das Zentrum des antiken Roms mit den Ruinen bedeutender Regierungsgebäude. Hier fanden öffentliche Reden und Prozesse statt.",
       hu: "Az ókori Róma központja jelentős kormányzati épületek romjaival. Itt tartották a nyilvános beszédeket és pereket.",
@@ -70,7 +70,7 @@ export const italyHistoryV2: POI[] = [
     type: "ruins",
     parent: "IT",
     name: { de: "Archäologische Stätte von Aquileia", hu: "Aquileia régészeti lelőhelye", ro: "Sit arheologic Aquileia", en: "Archaeological Area of Aquileia" },
-    coordinates: { lat: 45.7797, lng: 13.3683 },
+    coords: [13.3683, 45.7797],
     description: {
       de: "Einst eine der größten Städte des Römischen Reiches. Bekannt für ihre erhaltenen frühchristlichen Bodenmosaike.",
       hu: "Egykor a Római Birodalom egyik legnagyobb városa. Ismert fennmaradt korakeresztény padlómozaikjairól.",
@@ -102,7 +102,7 @@ export const italyHistoryV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Piazza dei Miracoli", hu: "Piazza dei Miracoli", ro: "Piazza dei Miracoli", en: "Piazza dei Miracoli" },
-    coordinates: { lat: 43.723, lng: 10.3964 },
+    coords: [10.3964, 43.723],
     description: {
       de: "Das monumentale Zentrum von Pisa mit Dom, Schiefem Turm und Baptisterium. Ein herausragendes Beispiel mittelalterlicher Baukunst.",
       hu: "Pisa monumentális központja a dóm, a ferde torony és a keresztelőkápolna mellett. A középkori építészet remekműve.",
@@ -134,7 +134,7 @@ export const italyHistoryV2: POI[] = [
     type: "ruins",
     parent: "IT",
     name: { de: "Archäologischer Park Herculaneum", hu: "Herculaneum régészeti parkja", ro: "Parcul Arheologic Herculaneum", en: "Archaeological Park of Herculaneum" },
-    coordinates: { lat: 40.806, lng: 14.347 },
+    coords: [14.347, 40.806],
     description: {
       de: "Antike römische Stadt, die 79 n. Chr. beim Vesuvausbruch verschüttet wurde. Bietet gut erhaltene Strukturen.",
       hu: "Ókori római város, amelyet 79-ben a Vezúv kitörése temetett el. Jól megőrzött szerkezeteket kínál.",
@@ -166,7 +166,7 @@ export const italyHistoryV2: POI[] = [
     type: "village",
     parent: "IT",
     name: { de: "Trulli von Alberobello", hu: "Alberobello trullói", ro: "Trulli din Alberobello", en: "Trulli of Alberobello" },
-    coordinates: { lat: 40.7833, lng: 17.2333 },
+    coords: [17.2333, 40.7833],
     description: {
       de: "Traditionelle Kalksteinhäuser mit kegelförmigen Dächern in Apulien. Typische Architektur aus der Region.",
       hu: "Hagyományos mészkőházak kúpos tetőkkel Pugliában. Jellemző regionális építészet.",
@@ -198,7 +198,7 @@ export const italyHistoryV2: POI[] = [
     type: "theater",
     parent: "IT",
     name: { de: "Römisches Theater von Verona", hu: "Veronai római színház", ro: "Teatrul Roman din Verona", en: "Roman Theatre of Verona" },
-    coordinates: { lat: 45.4475, lng: 11.0022 },
+    coords: [11.0022, 45.4475],
     description: {
       de: "Ein antikes römisches Theater am Hang des Colle San Pietro. Es wird heute für Aufführungen genutzt.",
       hu: "Egy ókori római színház a Colle San Pietro lejtőjén. Ma előadásokra használják.",
@@ -230,7 +230,7 @@ export const italyHistoryV2: POI[] = [
     type: "palace",
     parent: "IT",
     name: { de: "Palazzo Te", hu: "Palazzo Te", ro: "Palazzo Te", en: "Palazzo Te" },
-    coordinates: { lat: 45.151, lng: 10.787 },
+    coords: [10.787, 45.151],
     description: {
       de: "Ein Renaissance-Palast in Mantua, bekannt für seine beeindruckenden Fresken von Giulio Romano.",
       hu: "Reneszánsz palota Mantovában, Giulio Romano lenyűgöző freskóiról ismert.",
@@ -262,7 +262,7 @@ export const italyHistoryV2: POI[] = [
     type: "ruins",
     parent: "IT",
     name: { de: "Nuraghe Su Nuraxi", hu: "Su Nuraxi nurághe", ro: "Nuraghe Su Nuraxi", en: "Nuraghe Su Nuraxi" },
-    coordinates: { lat: 39.7042, lng: 9.0039 },
+    coords: [9.0039, 39.7042],
     description: {
       de: "Eine bronzezeitliche archäologische Stätte auf Sardinien. Besteht aus einem zentralen Turm und einem ummauerten Dorf.",
       hu: "Egy bronzkori régészeti lelőhely Szardínián. Egy központi toronyból és egy falakkal körülvett faluból áll.",
@@ -294,7 +294,7 @@ export const italyHistoryV2: POI[] = [
     type: "theater",
     parent: "IT",
     name: { de: "Antikes Theater von Taormina", hu: "Taorminai ókori színház", ro: "Teatrul antic din Taormina", en: "Ancient Theatre of Taormina" },
-    coordinates: { lat: 37.852, lng: 15.292 },
+    coords: [15.292, 37.852],
     description: {
       de: "Ein spektakuläres antikes Theater in Sizilien mit Blick auf den Ätna und das Ionische Meer.",
       hu: "Látványos ókori színház Szicíliában, kilátással az Etnára és a Jón-tengerre.",
@@ -326,7 +326,7 @@ export const italyHistoryV2: POI[] = [
     type: "ruins",
     parent: "IT",
     name: { de: "Archäologische Stätte Paestum", hu: "Paestum régészeti lelőhelye", ro: "Sit arheologic Paestum", en: "Archaeological Site of Paestum" },
-    coordinates: { lat: 40.421, lng: 15.005 },
+    coords: [15.005, 40.421],
     description: {
       de: "Ehemalige griechische Stadt Posidonia mit drei sehr gut erhaltenen dorischen Tempeln.",
       hu: "Az egykori görög város, Posidonia három nagyon jól megőrzött dór templommal.",
@@ -358,7 +358,7 @@ export const italyHistoryV2: POI[] = [
     type: "ruins",
     parent: "IT",
     name: { de: "Villa Adriana", hu: "Villa Adriana", ro: "Villa Adriana", en: "Villa Adriana" },
-    coordinates: { lat: 41.942, lng: 12.774 },
+    coords: [12.774, 41.942],
     description: {
       de: "Große kaiserliche Villenanlage des Hadrian bei Tivoli. Ein Komplex mit Palästen, Bädern und Gärten.",
       hu: "Hadrianus császár hatalmas villája Tivoli közelében. Paloták, fürdők és kertek komplexe.",
@@ -390,7 +390,7 @@ export const italyHistoryV2: POI[] = [
     type: "church",
     parent: "IT",
     name: { de: "Basilika San Vitale", hu: "San Vitale-bazilika", ro: "Bazilica San Vitale", en: "Basilica of San Vitale" },
-    coordinates: { lat: 44.417, lng: 12.203 },
+    coords: [12.203, 44.417],
     description: {
       de: "Frühbyzantinische Kirche in Ravenna, berühmt für ihre wertvollen Mosaike aus dem 6. Jahrhundert.",
       hu: "Korabizánci templom Ravennában, híres 6. századi értékes mozaikjairól.",
@@ -422,7 +422,7 @@ export const italyHistoryV2: POI[] = [
     type: "palace",
     parent: "IT",
     name: { de: "Herzogspalast Urbino", hu: "Urbinói hercegi palota", ro: "Palatul Ducal din Urbino", en: "Ducal Palace of Urbino" },
-    coordinates: { lat: 43.725, lng: 12.637 },
+    coords: [12.637, 43.725],
     description: {
       de: "Einer der bedeutendsten Renaissance-Paläste Italiens. Er beherbergt heute die Nationalgalerie der Marken.",
       hu: "Olaszország egyik legjelentősebb reneszánsz palotája. Ma a Marche Nemzeti Galériának ad otthont.",
@@ -454,7 +454,7 @@ export const italyHistoryV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Schafsweg", hu: "Juhterelő út", ro: "Drumul oilor", en: "Sheep Trail" },
-    coordinates: { lat: 42.01, lng: 13.35 },
+    coords: [13.35, 42.01],
     description: {
       de: "Historische Wege der Transhumanz in den Abruzzen, die über Jahrhunderte zur Wanderweidewirtschaft genutzt wurden.",
       hu: "Az Abruzzók történelmi transzhumancia útvonalai, amelyeket évszázadokon át vándorlegeltetésre használtak.",
@@ -486,7 +486,7 @@ export const italyHistoryV2: POI[] = [
     type: "castle",
     parent: "IT",
     name: { de: "Festung Fenestrelle", hu: "Fenestrelle erőd", ro: "Fortăreața Fenestrelle", en: "Fenestrelle Fortress" },
-    coordinates: { lat: 45.033, lng: 7.033 },
+    coords: [7.033, 45.033],
     description: {
       de: "Eine gewaltige Festungsanlage im Susatal, die als eine der größten ihrer Art in Europa gilt.",
       hu: "Hatalmas erődrendszer a Susa-völgyben, amelyet Európa egyik legnagyobbjának tartanak.",
@@ -518,7 +518,7 @@ export const italyHistoryV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Neptungrotte", hu: "Neptun-barlang", ro: "Grota lui Neptun", en: "Neptune's Grotto" },
-    coordinates: { lat: 40.589, lng: 8.161 },
+    coords: [8.161, 40.589],
     description: {
       de: "Eine beeindruckende Tropfsteinhöhle bei Alghero auf Sardinien, die historisch schon früh bekannt war.",
       hu: "Lenyűgöző cseppkőbarlang Alghero közelében, Szardínián, amely már korán ismert volt.",
@@ -550,7 +550,7 @@ export const italyHistoryV2: POI[] = [
     type: "church",
     parent: "IT",
     name: { de: "Abtei Fossanova", hu: "Fossanova apátság", ro: "Abația Fossanova", en: "Fossanova Abbey" },
-    coordinates: { lat: 41.442, lng: 13.19 },
+    coords: [13.19, 41.442],
     description: {
       de: "Ein bedeutendes Zisterzienserkloster in der Nähe von Latina. Es ist ein hervorragendes Beispiel gotischer Architektur.",
       hu: "Jelentős ciszterci kolostor Latina közelében. A gótikus építészet kiváló példája.",
@@ -582,7 +582,7 @@ export const italyHistoryV2: POI[] = [
     type: "theater",
     parent: "IT",
     name: { de: "Teatro Massimo", hu: "Teatro Massimo", ro: "Teatro Massimo", en: "Teatro Massimo" },
-    coordinates: { lat: 38.121, lng: 13.358 },
+    coords: [13.358, 38.121],
     description: {
       de: "Das größte Opernhaus Italiens in Palermo. Ein prachtvolles Gebäude aus dem 19. Jahrhundert.",
       hu: "Olaszország legnagyobb operaháza Palermóban. Egy pompás, 19. századi épület.",
@@ -614,7 +614,7 @@ export const italyHistoryV2: POI[] = [
     type: "town",
     parent: "IT",
     name: { de: "Vico Equense", hu: "Vico Equense", ro: "Vico Equense", en: "Vico Equense" },
-    coordinates: { lat: 40.66, lng: 14.43 },
+    coords: [14.43, 40.66],
     description: {
       de: "Historische Stadt an der sorrentinischen Küste mit antiken Ursprüngen und mittelalterlichem Kern.",
       hu: "Történelmi város a sorrentói parton, ókori eredettel és középkori központtal.",
@@ -646,7 +646,7 @@ export const italyHistoryV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Tempel von Agrigent", hu: "Agrigento templomai", ro: "Templele din Agrigento", en: "Temples of Agrigento" },
-    coordinates: { lat: 37.289, lng: 13.582 },
+    coords: [13.582, 37.289],
     description: {
       de: "Historische Stätte in Sizilien, bekannt für ihre beeindruckende Sammlung antiker Tempelruinen.",
       hu: "Szicíliai történelmi helyszín, híres ókori templomromjainak lenyűgöző gyűjteményéről.",
@@ -678,7 +678,7 @@ export const italyHistoryV2: POI[] = [
     type: "palace",
     parent: "IT",
     name: { de: "Herzogspalast Mantua", hu: "Mantovai hercegi palota", ro: "Palatul Ducal din Mantova", en: "Ducal Palace of Mantua" },
-    coordinates: { lat: 45.16, lng: 10.796 },
+    coords: [10.796, 45.16],
     description: {
       de: "Ein umfangreicher Palastkomplex in Mantua, Sitz der Herzogsfamilie Gonzaga.",
       hu: "Kiterjedt palotakomplexum Mantovában, a Gonzaga hercegi család székhelye.",
@@ -710,7 +710,7 @@ export const italyHistoryV2: POI[] = [
     type: "church",
     parent: "IT",
     name: { de: "Abtei Monte Oliveto Maggiore", hu: "Monte Oliveto Maggiore apátság", ro: "Abația Monte Oliveto Maggiore", en: "Abbey of Monte Oliveto Maggiore" },
-    coordinates: { lat: 43.18, lng: 11.55 },
+    coords: [11.55, 43.18],
     description: {
       de: "Benediktinerkloster in der Toskana, berühmt für seine Freskenzyklen von Signorelli und Sodoma.",
       hu: "Bencés kolostor Toszkánában, híres Signorelli és Sodoma freskóciklusairól.",
@@ -742,7 +742,7 @@ export const italyHistoryV2: POI[] = [
     type: "theater",
     parent: "IT",
     name: { de: "Theater des Marcellus", hu: "Marcellus-színház", ro: "Teatrul lui Marcellus", en: "Theatre of Marcellus" },
-    coordinates: { lat: 41.891, lng: 12.481 },
+    coords: [12.481, 41.891],
     description: {
       de: "Antikes Theater in Rom, das als Vorbild für das Kolosseum diente.",
       hu: "Ókori színház Rómában, amely a Colosseum mintájául szolgált.",
@@ -774,7 +774,7 @@ export const italyHistoryV2: POI[] = [
     type: "town",
     parent: "IT",
     name: { de: "Borgo Val di Taro", hu: "Borgo Val di Taro", ro: "Borgo Val di Taro", en: "Borgo Val di Taro" },
-    coordinates: { lat: 44.48, lng: 9.77 },
+    coords: [9.77, 44.48],
     description: {
       de: "Historisches Dorf in den Apenninen der Emilia-Romagna, bekannt als Zentrum für Pilzzucht.",
       hu: "Történelmi falu az Emilia-Romagna-i Appenninekben, gombatermesztő központként ismert.",
@@ -806,7 +806,7 @@ export const italyHistoryV2: POI[] = [
     type: "church",
     parent: "IT",
     name: { de: "Abtei Chiaravalle", hu: "Chiaravalle apátság", ro: "Abația Chiaravalle", en: "Abbey of Chiaravalle" },
-    coordinates: { lat: 45.41, lng: 9.25 },
+    coords: [9.25, 45.41],
     description: {
       de: "Ein bedeutendes Zisterzienserkloster bei Mailand, berühmt für seinen Kirchturm.",
       hu: "Jelentős ciszterci kolostor Milánó közelében, híres harangtornyáról.",
@@ -838,7 +838,7 @@ export const italyHistoryV2: POI[] = [
     type: "palace",
     parent: "IT",
     name: { de: "Palazzo Spada", hu: "Palazzo Spada", ro: "Palazzo Spada", en: "Palazzo Spada" },
-    coordinates: { lat: 41.894, lng: 12.472 },
+    coords: [12.472, 41.894],
     description: {
       de: "Renaissance-Palast in Rom, berühmt für Borrominis optische Täuschung in der Galerie.",
       hu: "Reneszánsz palota Rómában, híres Borromini optikai illúziójáról a galériában.",

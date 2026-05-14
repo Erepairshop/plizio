@@ -728,7 +728,20 @@ export const poiExtraEritreaHistoryV2: POI[] = [
         "Named after the rise of the fascist empire.",
         "An important part of the UNESCO World Heritage site in Asmara."
       ]
-    }, image: "/poi-images/cinema-impero-history-v2.webp"},
+    }, image: "/poi-images/cinema-impero-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Cinema Impero ist ein historisches Kino in Asmara, Eritrea, das 1937 während der italienischen Kolonialzeit erbaut wurde. Es ist ein bedeutendes Beispiel der rationalistischen Architektur mit futuristischen Einflüssen. Der Bau wurde von dem Architekten Mario Messina entworfen. Das Kino verfügt über eine markante Fassade mit einem großen Schriftzug und einem Turm. Es war eines der ersten Kinos in Afrika mit einer Klimaanlage. Heute ist es ein kulturelles Zentrum und wird für Filmvorführungen und Veranstaltungen genutzt.",
+      hu: "A Cinema Impero egy történelmi mozi Aszmarában, Eritreában, amelyet 1937-ben építettek az olasz gyarmati időszakban. A racionalista építészet kiemelkedő példája futurisztikus hatásokkal. Az épületet Mario Messina építész tervezte. A mozi jellegzetes homlokzattal rendelkezik, nagy felirattal és toronnyal. Ez volt az egyik első légkondicionált mozi Afrikában. Ma kulturális központ, filmvetítésekre és rendezvényekre használják.",
+      ro: "Cinema Impero este un cinematograf istoric din Asmara, Eritreea, construit în 1937 în perioada colonială italiană. Este un exemplu important al arhitecturii raționaliste cu influențe futuriste. A fost proiectat de arhitectul Mario Messina. Cinematograful are o fațadă distinctivă cu un semn mare și un turn. A fost unul dintre primele cinematografe din Africa cu aer condiționat. Astăzi, este un centru cultural, folosit pentru proiecții de filme și evenimente.",
+      en: "Cinema Impero is a historic cinema in Asmara, Eritrea, built in 1937 during the Italian colonial period. It is a significant example of rationalist architecture with futuristic influences. Designed by architect Mario Messina, it features a distinctive facade with large lettering and a tower. It was one of the first cinemas in Africa with air conditioning. Today, it is a cultural center used for film screenings and events.",
+    },
+    factsAdvanced: {
+      de: ["Das Kino wurde 1937 erbaut.", "Der Architekt war Mario Messina.", "Die Kapazität beträgt 600 Sitzplätze.", "Die Klimaanlage war eine der ersten in Afrika.", "Die Fassade ist 25 m hoch.", "Es wurde 2006 renoviert."],
+      hu: ["A mozit 1937-ben építették.", "Az építész Mario Messina volt.", "Befogadóképessége 600 férőhely.", "A légkondicionáló az elsők között volt Afrikában.", "A homlokzat 25 m magas.", "2006-ban felújították."],
+      ro: ["Cinematograful a fost construit în 1937.", "Arhitectul a fost Mario Messina.", "Capacitatea este de 600 de locuri.", "Aerul condiționat a fost unul dintre primele din Africa.", "Fațada are 25 m înălțime.", "A fost renovat în 2006."],
+      en: ["The cinema was built in 1937.", "Architect was Mario Messina.", "Capacity is 600 seats.", "Air conditioning was one of the first in Africa.", "Facade is 25 m high.", "It was renovated in 2006."],
+    },
+  },
   {
     id: "keren-war-cemetery-history-v2",
     type: "historical",

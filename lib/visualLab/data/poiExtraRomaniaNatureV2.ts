@@ -6,7 +6,7 @@ export const romaniaNatureV2: POI[] = [
     type: "lake",
     parent: "RO",
     name: { de: "Snagov-See", hu: "Snagov-tó", ro: "Lacul Snagov", en: "Snagov Lake" },
-    coordinates: { lat: 44.7175, lng: 26.1736 },
+    coords: [26.1736, 44.7175],
     description: {
       de: "Der Snagov-See ist ein natürlicher See nördlich von Bukarest. Er erstreckt sich über eine Fläche von etwa 5,75 Quadratkilometern.",
       hu: "A Snagov-tó egy természetes tó Bukaresttől északra. Területe körülbelül 5,75 négyzetkilométer.",
@@ -38,7 +38,7 @@ export const romaniaNatureV2: POI[] = [
     type: "valley",
     parent: "RO",
     name: { de: "Vaser-Tal", hu: "Vaser-völgy", ro: "Valea Vaserului", en: "Vaser Valley" },
-    coordinates: { lat: 47.7333, lng: 24.5667 },
+    coords: [24.5667, 47.7333],
     description: {
       de: "Das Vaser-Tal liegt im Maramureș-Gebirge nahe der ukrainischen Grenze. Es ist ein weitläufiges, bewaldetes Naturschutzgebiet.",
       hu: "A Vaser-völgy a Máramarosi-havasokban található, közel az ukrán határhoz. Ez egy kiterjedt, erdős természetvédelmi terület.",
@@ -70,7 +70,7 @@ export const romaniaNatureV2: POI[] = [
     type: "valley",
     parent: "RO",
     name: { de: "Galbena-Schlucht", hu: "Galbena-szurdok", ro: "Cheile Galbenei", en: "Galbena Gorges" },
-    coordinates: { lat: 46.5417, lng: 22.6736 },
+    coords: [22.6736, 46.5417],
     description: {
       de: "Die Galbena-Schlucht ist ein tiefes Tal im Apuseni-Gebirge. Sie ist bekannt für ihre steilen Kalksteinwände.",
       hu: "A Galbena-szurdok egy mély völgy az Erdélyi-szigethegységben. Meredek mészkőfalairól ismert.",
@@ -102,7 +102,7 @@ export const romaniaNatureV2: POI[] = [
     type: "lake",
     parent: "RO",
     name: { de: "Tașaul-See", hu: "Tașaul-tó", ro: "Lacul Tașaul", en: "Tașaul Lake" },
-    coordinates: { lat: 44.3167, lng: 28.5833 },
+    coords: [28.5833, 44.3167],
     description: {
       de: "Der Tașaul-See befindet sich in der Dobrudscha nahe dem Schwarzen Meer. Er ist ein Brackwassersee mit bedeutender Vogelwelt.",
       hu: "A Tașaul-tó Dobrudzsában található, közel a Fekete-tengerhez. Ez egy sós vizű tó, gazdag madárvilággal.",
@@ -134,7 +134,7 @@ export const romaniaNatureV2: POI[] = [
     type: "peak",
     parent: "RO",
     name: { de: "Litrița-Gipfel", hu: "Litrița-csúcs", ro: "Vârful Litrița", en: "Litrița Peak" },
-    coordinates: { lat: 45.419, lng: 25.132 },
+    coords: [25.132, 45.419],
     description: {
       de: "Der Litrița-Gipfel gehört zum Iezer-Păpușa-Gebirge. Er bietet einen weiten Blick über die südlichen Karpaten.",
       hu: "A Litrița-csúcs az Iezer-Păpușa-hegység része. Széles kilátást nyújt a Déli-Kárpátokra.",
@@ -166,7 +166,7 @@ export const romaniaNatureV2: POI[] = [
     type: "forest",
     parent: "RO",
     name: { de: "Letca-Wald", hu: "Letca-erdő", ro: "Pădurea Letca", en: "Letca Forest" },
-    coordinates: { lat: 47.3333, lng: 23.3667 },
+    coords: [23.3667, 47.3333],
     description: {
       de: "Der Letca-Wald liegt in Nordwestrumänien. Es handelt sich um ein überwiegend aus Laubbäumen bestehendes Waldgebiet.",
       hu: "A Letca-erdő Északnyugat-Romániában található. Ez egy főként lombos fákból álló erdőterület.",

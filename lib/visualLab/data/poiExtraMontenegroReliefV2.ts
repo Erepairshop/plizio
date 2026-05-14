@@ -6,7 +6,7 @@ export const montenegroReliefV2: POI[] = [
     type: "landmark",
     parent: "ME",
     name: { de: "Miločer-Hochebene", hu: "Miločer-fennsík", ro: "Podișul Miločer", en: "Milocer Plateau" },
-    coordinates: { lat: 42.2561, lng: 18.8925 },
+    coords: [18.8925, 42.2561],
     description: {
       de: "Eine sanfte Erhebung entlang der montenegrinischen Küste oberhalb der Bucht von Miločer. Das Gelände ist durch typische mediterrane Karstformationen geprägt.",
       hu: "Enyhe magaslat a montenegrói tengerpart mentén, a Miločer-öböl felett. A terepet tipikus mediterrán karsztképződmények jellemzik.",
@@ -38,7 +38,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Vraca-Gipfel", hu: "Vraca-csúcs", ro: "Vârful Vraca", en: "Vraca Peak" },
-    coordinates: { lat: 43.1539, lng: 19.3872 },
+    coords: [19.3872, 43.1539],
     description: {
       de: "Ein prominenter Gipfel im zentralen Bergland Montenegros. Der Berg bietet eine klare Sicht auf die umliegenden Täler der Region.",
       hu: "Kiemelkedő hegycsúcs Montenegró középső hegyvidékén. A hegy tiszta rálátást biztosít a régió környező völgyeire.",
@@ -70,7 +70,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Pusto Polje", hu: "Pusto Polje", ro: "Pusto Polje", en: "Pusto Polje Plateau" },
-    coordinates: { lat: 43.2841, lng: 19.0833 },
+    coords: [19.0833, 43.2841],
     description: {
       de: "Eine weitläufige Karstebene im Norden Montenegros. Die Hochebene zeichnet sich durch ihre karge, felsige Landschaft aus.",
       hu: "Kiterjedt karsztfennsík Észak-Montenegróban. A fennsíkot kopár, sziklás táj jellemzi.",
@@ -102,7 +102,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Stavor-Hügel", hu: "Stavor-domb", ro: "Dealul Stavor", en: "Stavor Hill" },
-    coordinates: { lat: 42.4182, lng: 18.7849 },
+    coords: [18.7849, 42.4182],
     description: {
       de: "Ein markanter Hügel in der Nähe der Bucht von Kotor. Er dient als natürlicher Aussichtspunkt über die Küstenregion.",
       hu: "Jellegzetes domb a Kotori-öböl közelében. Természetes kilátópontként szolgál a tengerparti régió felett.",
@@ -134,7 +134,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Zeletin-Gebirge", hu: "Zeletin-hegység", ro: "Munții Zeletin", en: "Zeletin Mountain" },
-    coordinates: { lat: 42.7481, lng: 19.8375 },
+    coords: [19.8375, 42.7481],
     description: {
       de: "Ein zerklüftetes Bergmassiv im Osten Montenegros. Das Gebiet ist bekannt für seine steilen Hänge und alpinen Wiesen.",
       hu: "Tagolt hegyvonulat Kelet-Montenegróban. A terület meredek lejtőiről és alpesi rétjeiről ismert.",
@@ -166,7 +166,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Vjeternik-Kamm", hu: "Vjeternik-gerinc", ro: "Cresta Vjeternik", en: "Vjeternik Ridge" },
-    coordinates: { lat: 42.7932, lng: 19.3491 },
+    coords: [19.3491, 42.7932],
     description: {
       de: "Ein langgestreckter Gebirgskamm im zentralen Hochland. Er markiert eine natürliche Grenze zwischen zwei verschiedenen Klimazonen.",
       hu: "Hosszúkás hegygerinc a középső felföldön. Természetes határt képez két különböző éghajlati öv között.",
@@ -198,7 +198,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Lise-Gipfel", hu: "Lise-csúcs", ro: "Vârful Lise", en: "Lise Peak" },
-    coordinates: { lat: 42.6105, lng: 19.4922 },
+    coords: [19.4922, 42.6105],
     description: {
       de: "Ein markanter Gipfel im Gebirge nahe der Hauptstadt. Er bietet eine weite Sicht über das Zeta-Tal.",
       hu: "Jellegzetes csúcs a főváros közeli hegyvidéken. Széles kilátást biztosít a Zeta-völgyre.",
@@ -230,7 +230,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Krstac-Pass", hu: "Krstac-hágó", ro: "Pasul Krstac", en: "Krstac Saddle" },
-    coordinates: { lat: 42.4289, lng: 18.7753 },
+    coords: [18.7753, 42.4289],
     description: {
       de: "Ein wichtiger Bergsattel im Lovćen-Massiv. Er verbindet historische Handelsrouten zwischen dem Inland und der Küste.",
       hu: "Fontos hegyi nyereg a Lovćen-hegységben. Összeköti a szárazföld és a tengerpart közötti történelmi kereskedelmi útvonalakat.",
@@ -262,7 +262,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Vojnik-Gebirge", hu: "Vojnik-hegység", ro: "Munții Vojnik", en: "Vojnik Range" },
-    coordinates: { lat: 42.8594, lng: 19.0431 },
+    coords: [19.0431, 42.8594],
     description: {
       de: "Ein Gebirgszug westlich von Nikšić. Das Gelände ist stark bewaldet und durch zahlreiche Karstphänomene geprägt.",
       hu: "Hegyvonulat Nikšictől nyugatra. A terep erősen erdősült, és számos karsztjelenség jellemzi.",
@@ -294,7 +294,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Čičevo-Ebene", hu: "Čičevo-síkság", ro: "Câmpia Čičevo", en: "Cicevo Plain" },
-    coordinates: { lat: 42.8712, lng: 19.1245 },
+    coords: [19.1245, 42.8712],
     description: {
       de: "Eine kleine, fruchtbare Ebene in einer Gebirgsregion. Sie wird traditionell landwirtschaftlich genutzt.",
       hu: "Kicsi, termékeny síkság egy hegyvidéki területen. Hagyományosan mezőgazdasági művelés alatt áll.",
@@ -326,7 +326,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Golija-Gebirge", hu: "Golija-hegység", ro: "Munții Golija", en: "Golija Mountain" },
-    coordinates: { lat: 42.8931, lng: 18.6652 },
+    coords: [18.6652, 42.8931],
     description: {
       de: "Ein bewaldetes Bergmassiv an der Grenze zu Bosnien und Herzegowina. Die Region zeichnet sich durch unberührte Natur aus.",
       hu: "Erdős hegyvonulat Bosznia-Hercegovina határán. A régiót érintetlen természet jellemzi.",
@@ -358,7 +358,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Budoš-Gebirge", hu: "Budoš-hegység", ro: "Munții Budoš", en: "Budos Range" },
-    coordinates: { lat: 42.7593, lng: 19.0187 },
+    coords: [19.0187, 42.7593],
     description: {
       de: "Ein langgezogener Bergzug nahe Nikšić. Er bildet eine signifikante topografische Barriere im zentralen Teil des Landes.",
       hu: "Hosszúkás hegyvonulat Nikšić közelében. Jelentős topográfiai akadályt képez az ország középső részén.",
@@ -390,7 +390,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Hum-Gipfel", hu: "Hum-csúcs", ro: "Vârful Hum", en: "Hum Peak" },
-    coordinates: { lat: 43.1492, lng: 18.9184 },
+    coords: [18.9184, 43.1492],
     description: {
       de: "Ein markanter Gipfel in der nordwestlichen Region. Er ist bekannt für seine schroffen Felsformationen.",
       hu: "Jellegzetes csúcs az északnyugati régióban. Ismert meredek sziklaképződményeiről.",
@@ -422,7 +422,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Kapa Moračka", hu: "Kapa Moračka", ro: "Kapa Moračka", en: "Kapa Moracka" },
-    coordinates: { lat: 42.7845, lng: 19.3371 },
+    coords: [19.3371, 42.7845],
     description: {
       de: "Ein wichtiger Gipfel im Gebirge über dem Morača-Tal. Der Berg bietet eine imposante Aussicht auf die Schluchten.",
       hu: "Fontos hegycsúcs a Morača-völgy feletti hegyvidékben. A hegy impozáns kilátást nyújt a kanyonokra.",
@@ -454,7 +454,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Durmitor-Sattel", hu: "Durmitor-nyereg", ro: "Șaua Durmitor", en: "Durmitor Saddle" },
-    coordinates: { lat: 43.1091, lng: 19.0438 },
+    coords: [19.0438, 43.1091],
     description: {
       de: "Ein hoher Gebirgspass im Zentrum des Durmitor-Nationalparks. Er ist ein bekannter Ausgangspunkt für alpine Wanderungen.",
       hu: "Magas hegyi hágó a Durmitor Nemzeti Park központjában. Ismert kiindulópont alpesi túrákhoz.",
@@ -486,7 +486,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Velji Vrh", hu: "Velji Vrh", ro: "Velji Vrh", en: "Velji Vrh Peak" },
-    coordinates: { lat: 42.8214, lng: 19.3951 },
+    coords: [19.3951, 42.8214],
     description: {
       de: "Ein markanter Gipfel in der bergigen Landschaft Nord-Montenegros. Er bietet eine Panoramasicht über das umliegende Hochland.",
       hu: "Jellegzetes csúcs Észak-Montenegró hegyvidéki tájában. Panorámás kilátást nyújt a környező felföldre.",
@@ -518,7 +518,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Planinica-Hochebene", hu: "Planinica-fennsík", ro: "Podișul Planinica", en: "Planinica Plateau" },
-    coordinates: { lat: 43.1492, lng: 19.1293 },
+    coords: [19.1293, 43.1492],
     description: {
       de: "Eine hochgelegene Hochebene im Durmitor-Gebiet. Sie ist bekannt für ihre weitläufigen Weideflächen im Sommer.",
       hu: "Magasan fekvő fennsík a Durmitor-vidéken. Ismert nyári kiterjedt legelőiről.",
@@ -550,7 +550,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Sutorman-Pass", hu: "Sutorman-hágó", ro: "Pasul Sutorman", en: "Sutorman Pass" },
-    coordinates: { lat: 42.1648, lng: 19.0531 },
+    coords: [19.0531, 42.1648],
     description: {
       de: "Ein Gebirgspass zwischen der Küste und dem Binnengebiet. Er stellt einen historischen Verbindungsweg für den Handel dar.",
       hu: "Hegyi hágó a tengerpart és a szárazföldi terület között. Történelmi összekötő út a kereskedelem számára.",
@@ -582,7 +582,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Lisac-Hügel", hu: "Lisac-domb", ro: "Dealul Lisac", en: "Lisac Hill" },
-    coordinates: { lat: 42.4831, lng: 19.1294 },
+    coords: [19.1294, 42.4831],
     description: {
       de: "Ein kleinerer Hügel in der zentralen Region. Er dient als Aussichtspunkt über das Tal in der Nähe der Hauptstadt.",
       hu: "Kisebb domb a központi régióban. Kilátópontként szolgál a főváros közeli völgyre.",
@@ -614,7 +614,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Vlaška-Gipfel", hu: "Vlaška-csúcs", ro: "Vârful Vlaška", en: "Vlaska Peak" },
-    coordinates: { lat: 43.0851, lng: 19.0532 },
+    coords: [19.0532, 43.0851],
     description: {
       de: "Ein Gipfel im Durmitor-Massiv. Er ist bekannt für seine steilen Felswände und die Aussicht auf die Täler.",
       hu: "Csúcs a Durmitor-hegységben. Ismert meredek sziklafalairól és a völgyekre nyíló kilátásáról.",
@@ -646,7 +646,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Vranjak-Alm", hu: "Vranjak-legelő", ro: "Pășunea Vranjak", en: "Vranjak Pasture" },
-    coordinates: { lat: 42.8941, lng: 19.6382 },
+    coords: [19.6382, 42.8941],
     description: {
       de: "Eine ausgedehnte Hochalm in der Bjelasica-Region. Im Sommer dient sie als traditionelle Weidefläche für Vieh.",
       hu: "Kiterjedt magaslati legelő a Bjelasica-régióban. Nyáron hagyományos legelőként szolgál az állatok számára.",
@@ -678,7 +678,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Masna Luka", hu: "Masna Luka", ro: "Masna Luka", en: "Masna Luka" },
-    coordinates: { lat: 42.9231, lng: 19.5842 },
+    coords: [19.5842, 42.9231],
     description: {
       de: "Ein tief eingeschnittenes Tal in einer bewaldeten Bergregion. Es ist bekannt für seine natürliche Abgeschiedenheit.",
       hu: "Mélyen bevágott völgy egy erdős hegyvidéki területen. Ismert természetes elszigeteltségéről.",
@@ -710,7 +710,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Kučka Korita", hu: "Kučka Korita", ro: "Kučka Korita", en: "Kucka Korita" },
-    coordinates: { lat: 42.5481, lng: 19.5391 },
+    coords: [19.5391, 42.5481],
     description: {
       de: "Eine zerklüftete Karsthochfläche in den Bergen nordöstlich der Hauptstadt. Die Region ist durch Felsen und Wiesen geprägt.",
       hu: "Tagolt karsztfennsík a fővárostól északkeletre eső hegyekben. A régiót sziklák és rétek jellemzik.",
@@ -742,7 +742,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Grebaje-Tal", hu: "Grebaje-völgy", ro: "Valea Grebaje", en: "Grebaje Valley" },
-    coordinates: { lat: 42.5182, lng: 19.7943 },
+    coords: [19.7943, 42.5182],
     description: {
       de: "Ein dramatisches U-Tal im Prokletije-Gebirge. Es ist von steilen Gipfeln umgeben und ein Zentrum für Bergaktivitäten.",
       hu: "Drámai U-alakú völgy a Prokletije-hegységben. Meredek csúcsok veszik körül, és hegyi tevékenységek központja.",
@@ -774,7 +774,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Trojan-Gipfel", hu: "Trojan-csúcs", ro: "Vârful Trojan", en: "Trojan Peak" },
-    coordinates: { lat: 42.5031, lng: 19.7682 },
+    coords: [19.7682, 42.5031],
     description: {
       de: "Ein markanter Gipfel in der Grenzregion zu Albanien. Das Terrain ist für erfahrene Bergsteiger geeignet.",
       hu: "Jellegzetes csúcs az albán határvidéken. A terep tapasztalt hegymászók számára alkalmas.",
@@ -806,7 +806,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Lunjin-Hügel", hu: "Lunjin-domb", ro: "Dealul Lunjin", en: "Lunjin Hill" },
-    coordinates: { lat: 42.3481, lng: 18.9132 },
+    coords: [18.9132, 42.3481],
     description: {
       de: "Ein kleinerer Hügel in der Nähe von Cetinje. Er bietet einen guten Überblick über die karstgeprägte Umgebung.",
       hu: "Kisebb domb Cetinje közelében. Jó rálátást biztosít a karsztos környezetre.",
@@ -838,7 +838,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Savardak-Pass", hu: "Savardak-hágó", ro: "Pasul Savardak", en: "Savardak Pass" },
-    coordinates: { lat: 42.8123, lng: 19.5132 },
+    coords: [19.5132, 42.8123],
     description: {
       de: "Ein Bergsattel im nordöstlichen Bergland. Er wird zur Überquerung zwischen benachbarten Tälern genutzt.",
       hu: "Hegyi nyereg az északkeleti hegyvidékben. A szomszédos völgyek közötti átkelésre használják.",
@@ -870,7 +870,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Vlahinja-Gipfel", hu: "Vlahinja-csúcs", ro: "Vârful Vlahinja", en: "Vlahinja Peak" },
-    coordinates: { lat: 42.9234, lng: 19.5531 },
+    coords: [19.5531, 42.9234],
     description: {
       de: "Ein Gipfel in der bewaldeten Berglandschaft der Bjelasica-Gruppe. Das Gelände ist teilweise felsig und steil.",
       hu: "Csúcs a Bjelasica-csoport erdős hegyvidékében. A terep részben sziklás és meredek.",
@@ -902,7 +902,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Kik-Gipfel", hu: "Kik-csúcs", ro: "Vârful Kik", en: "Kik Peak" },
-    coordinates: { lat: 42.4932, lng: 19.7541 },
+    coords: [19.7541, 42.4932],
     description: {
       de: "Ein Bergsporn in der Nähe der albanischen Grenze. Die Region ist für ihre schroffen Klippen bekannt.",
       hu: "Hegyfok az albán határ közelében. A régió ismert meredek szikláiról.",
@@ -934,7 +934,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Zavoj-Tal", hu: "Zavoj-völgy", ro: "Valea Zavoj", en: "Zavoj Valley" },
-    coordinates: { lat: 42.9312, lng: 19.6421 },
+    coords: [19.6421, 42.9312],
     description: {
       de: "Ein schmales Tal, das in einer gebirgigen Region liegt. Es wird von einem kleinen Bach geformt.",
       hu: "Szűk völgy egy hegyvidéki területen. Egy kis patak formázta.",
@@ -966,7 +966,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Brada-Gipfel", hu: "Brada-csúcs", ro: "Vârful Brada", en: "Brada Peak" },
-    coordinates: { lat: 43.0132, lng: 19.4521 },
+    coords: [19.4521, 43.0132],
     description: {
       de: "Ein Gipfel im mittleren Bergland. Die Umgebung ist durch steile Hänge und felsige Strukturen definiert.",
       hu: "Csúcs a középső hegyvidékben. A környezet meredek lejtőkkel és sziklás struktúrákkal definiált.",
@@ -998,7 +998,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Župa-Hochebene", hu: "Župa-fennsík", ro: "Podișul Župa", en: "Zupa Plateau" },
-    coordinates: { lat: 42.7932, lng: 19.1623 },
+    coords: [19.1623, 42.7932],
     description: {
       de: "Eine Hochebene im Becken nahe Nikšić. Sie ist historisch bedeutend für ihre landwirtschaftliche Nutzung.",
       hu: "Fennsík a Nikšić közeli medencében. Történelmileg jelentős mezőgazdasági használata miatt.",
@@ -1030,7 +1030,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Visoki Vrh", hu: "Visoki Vrh", ro: "Visoki Vrh", en: "Visoki Vrh" },
-    coordinates: { lat: 42.8942, lng: 19.7431 },
+    coords: [19.7431, 42.8942],
     description: {
       de: "Ein hoher Gipfel in der Region nordöstlich von Kolašin. Er ist Teil eines ausgedehnten Bergmassivs.",
       hu: "Magas csúcs a Kolašintól északkeletre fekvő régióban. Kiterjedt hegyvonulat része.",
@@ -1062,7 +1062,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Vratlo-Pass", hu: "Vratlo-hágó", ro: "Pasul Vratlo", en: "Vratlo Pass" },
-    coordinates: { lat: 42.4532, lng: 18.7931 },
+    coords: [18.7931, 42.4532],
     description: {
       de: "Ein Gebirgsübergang im Lovćen-Gebirge. Er bietet eine wichtige Passage zwischen verschiedenen Tälern.",
       hu: "Hegyi átjáró a Lovćen-hegységben. Fontos átjárást biztosít a különböző völgyek között.",
@@ -1094,7 +1094,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Goveđi Vrh", hu: "Goveđi Vrh", ro: "Goveđi Vrh", en: "Govedji Vrh" },
-    coordinates: { lat: 43.1432, lng: 19.1431 },
+    coords: [19.1431, 43.1432],
     description: {
       de: "Ein Gipfel am Rande des Durmitor-Gebirges. Er bietet Aussichten auf das Karstplateau.",
       hu: "Csúcs a Durmitor-hegység peremén. Kilátást nyújt a karsztfennsíkra.",
@@ -1126,7 +1126,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Jelovica-Tal", hu: "Jelovica-völgy", ro: "Valea Jelovica", en: "Jelovica Valley" },
-    coordinates: { lat: 42.8431, lng: 19.6732 },
+    coords: [19.6732, 42.8431],
     description: {
       de: "Ein grünes Tal im Bjelasica-Gebirge. Es ist für seine Wasserquellen und Almwiesen bekannt.",
       hu: "Zöld völgy a Bjelasica-hegységben. Ismert vízforrásairól és havasi rétjeiről.",
@@ -1158,7 +1158,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Sjerogošte-Region", hu: "Sjerogošte-régió", ro: "Regiunea Sjerogošte", en: "Sjerogoste Region" },
-    coordinates: { lat: 42.9431, lng: 19.4832 },
+    coords: [19.4832, 42.9431],
     description: {
       de: "Ein sanftes Tal in der Nähe von Kolašin. Die Region wird landwirtschaftlich intensiv genutzt.",
       hu: "Enyhe völgy Kolašin közelében. A régiót intenzíven használják mezőgazdaságilag.",
@@ -1190,7 +1190,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Stog-Gipfel", hu: "Stog-csúcs", ro: "Vârful Stog", en: "Stog Peak" },
-    coordinates: { lat: 42.7431, lng: 19.6832 },
+    coords: [19.6832, 42.7431],
     description: {
       de: "Ein Gipfel in der abgelegenen Region des Bjelasica-Massivs. Er ist nur über lange Wanderungen erreichbar.",
       hu: "Csúcs a Bjelasica-hegység távoli régiójában. Csak hosszú túrákkal érhető el.",
@@ -1222,7 +1222,7 @@ export const montenegroReliefV2: POI[] = [
     type: "valley",
     parent: "ME",
     name: { de: "Grbaja-Pass", hu: "Grbaja-hágó", ro: "Pasul Grbaja", en: "Grbaja Pass" },
-    coordinates: { lat: 42.5331, lng: 19.7832 },
+    coords: [19.7832, 42.5331],
     description: {
       de: "Ein hoher Pass im Prokletije-Gebirge. Er dient als Übergang für Bergsteiger.",
       hu: "Magas hágó a Prokletije-hegységben. Átjáróként szolgál hegymászók számára.",
@@ -1254,7 +1254,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Zelena Glava", hu: "Zelena Glava", ro: "Zelena Glava", en: "Zelena Glava" },
-    coordinates: { lat: 42.9531, lng: 19.5832 },
+    coords: [19.5832, 42.9531],
     description: {
       de: "Ein Gipfel im östlichen Bergland. Er bietet einen Blick auf die umliegenden Waldgebiete.",
       hu: "Csúcs a keleti hegyvidékben. Kilátást nyújt a környező erdős területekre.",
@@ -1286,7 +1286,7 @@ export const montenegroReliefV2: POI[] = [
     type: "peak",
     parent: "ME",
     name: { de: "Zavoj-Gipfel", hu: "Zavoj-csúcs", ro: "Vârful Zavoj", en: "Zavoj Peak" },
-    coordinates: { lat: 42.9431, lng: 19.6532 },
+    coords: [19.6532, 42.9431],
     description: {
       de: "Ein markanter Gipfel in der Zavoj-Region. Das Gelände ist steil und felsig.",
       hu: "Jellegzetes csúcs a Zavoj-régióban. A terep meredek és sziklás.",
@@ -1318,7 +1318,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Bjelasica-Kamm", hu: "Bjelasica-gerinc", ro: "Cresta Bjelasica", en: "Bjelasica Ridge" },
-    coordinates: { lat: 42.8631, lng: 19.6532 },
+    coords: [19.6532, 42.8631],
     description: {
       de: "Ein ausgedehnter Gebirgskamm im Bjelasica-Massiv. Er wird für Bergwanderungen genutzt.",
       hu: "Kiterjedt hegygerinc a Bjelasica-hegységben. Hegyi túrázásra használják.",
@@ -1350,7 +1350,7 @@ export const montenegroReliefV2: POI[] = [
     type: "mountain",
     parent: "ME",
     name: { de: "Vlahinja-Kamm", hu: "Vlahinja-gerinc", ro: "Cresta Vlahinja", en: "Vlahinja Ridge" },
-    coordinates: { lat: 42.9331, lng: 19.5632 },
+    coords: [19.5632, 42.9331],
     description: {
       de: "Ein schmaler Kamm in der Bergregion. Er bietet einen guten Aussichtspunkt.",
       hu: "Keskeny gerinc a hegyvidékben. Jó kilátópontot biztosít.",

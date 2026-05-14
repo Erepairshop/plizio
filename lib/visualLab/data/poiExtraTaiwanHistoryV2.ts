@@ -491,7 +491,20 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
       hu: ["1875-ben épült.", "Kínai stílusú bejárati kapuval rendelkezik."],
       ro: ["Construită în 1875.", "Are o poartă de intrare în stil chinezesc."],
       en: ["Built in 1875.", "Features a Chinese-style entrance gate."]
-    }, image: "/poi-images/qihou-fort-history-v2.webp"},
+    }, image: "/poi-images/qihou-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Qihou-Fort liegt in Kaohsiung, Taiwan, und ist eine historische Festung aus dem 19. Jahrhundert. Es wurde 1864 von der Qing-Dynastie erbaut, um die strategisch wichtige Cihou-Halbinsel zu verteidigen. Das Fort besteht aus roten Backsteinmauern und Kanonenstellungen. Es war Schauplatz von Kämpfen während des Chinesisch-Französischen Krieges (1884-1885). Später wurde es von den Japanern während ihrer Besetzung Taiwans genutzt. Heute ist das Fort ein Kulturdenkmal und bietet einen Panoramablick auf den Hafen von Kaohsiung. Besucher können die alten Kanonen und die gut erhaltene Architektur besichtigen.",
+      hu: "A Qihou-erőd Tajvanon, Kaohsiungban található, a 19. századból. 1864-ben építtette a Qing-dinasztia a Cihou-félsziget védelmére. Vörös téglafalakból és ágyúállásokból áll. A kínai-francia háborúban (1884-1885) is harcoltak itt. Később a japán megszállás alatt használták. Ma kulturális műemlék, és kilátást nyújt Kaohsiung kikötőjére. Láthatók a régi ágyúk és a jól megőrzött építészet.",
+      ro: "Fortul Qihou din Kaohsiung, Taiwan, a fost construit în 1864 de dinastia Qing pentru apărarea peninsulei Cihou. Are ziduri de cărămidă roșie și poziții de tunuri. A fost implicat în Războiul chino-francez (1884-1885). Mai târziu, a fost folosit de japonezi în timpul ocupației. Acum este monument cultural, oferind vedere panoramică asupra portului Kaohsiung. Vizitatorii pot vedea tunuri vechi și arhitectura bine conservată.",
+      en: "Qihou Fort in Kaohsiung, Taiwan, was built in 1864 by the Qing dynasty to defend the Cihou Peninsula. The red-brick fortress features cannon emplacements and saw action during the Sino-French War (1884-1885). Later, it was used by Japanese occupiers. Today, it is a cultural heritage site offering panoramic views of Kaohsiung Harbor. Well-preserved cannons and architecture attract history enthusiasts. The fort is part of the Cihou historic area.",
+    },
+    factsAdvanced: {
+      de: ["1864 erbaut", "von der Qing-Dynastie", "rote Backsteinmauern", "Chinesisch-Französischer Krieg", "japanische Nutzung", "Panoramablick auf Hafen"],
+      hu: ["1864-ben épült", "Qing-dinasztia", "vörös téglafalak", "kínai-francia háború", "japán használat", "kilátás a kikötőre"],
+      ro: ["construit în 1864", "de către dinastia Qing", "ziduri de cărămidă roșie", "războiul chino-francez", "folosit de japonezi", "vedere panoramică asupra portului"],
+      en: ["built in 1864", "by Qing dynasty", "red brick walls", "Sino-French War", "Japanese use", "panoramic view of harbor"],
+    },
+  },
   {
     id: "eluanbi-lighthouse-history-v2",
     type: "monument",

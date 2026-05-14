@@ -346,7 +346,20 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Hegyi gazellák természetvédelmi területe.", "Tipikus félszáraz flóra.", "Tagolt táj.", "Fontos élőhely."],
       ro: ["Arie protejată pentru gazelele de munte.", "Floră tipică semiaridă.", "Peisaj accidentat.", "Habitat important."],
       en: ["Protected area for mountain gazelles.", "Typical semi-arid flora.", "Rugged landscape.", "Important habitat."]
-    }, image: "/poi-images/djebel-mghila-relief-v2.webp"},
+    }, image: "/poi-images/djebel-mghila-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Djebel Mghila ist ein Berg in Tunesien im Tell-Atlas-Gebirge. Er erreicht eine Höhe von 1.278 Metern. Die Region ist von Wäldern und Macchia bedeckt. Der Berg ist Teil des Nationalparks El Feija. Die Tierwelt umfasst Wildschweine, Schakale und verschiedene Vogelarten. Wanderwege führen durch dichte Eichenwälder. Djebel Mghila ist ein beliebtes Ziel für Naturliebhaber.",
+      hu: "Djebel Mghila egy hegy Tunéziában, a Tell-Atlasz hegység része. Magassága 1 278 méter. A területet erdők és bozótos borítja. A hegy az El Feija Nemzeti Park része. Állatvilága vaddisznók, sakálok és madárfajok. Túraútvonalak vezetnek a tölgyeseken át. A természetkedvelők körében népszerű.",
+      ro: "Djebel Mghila este un munte din Tunisia, parte a lanțului Tell Atlas. Are o altitudine de 1.278 de metri. Zona este acoperită cu păduri și matorral. Muntele face parte din Parcul Național El Feija. Fauna include mistreți, șacali și diverse păsări. Traseele de drumeție străbat păduri de stejar. Este o destinație populară pentru iubitorii de natură.",
+      en: "Djebel Mghila is a mountain in Tunisia, part of the Tell Atlas range, rising to 1,278 meters. It is located within El Feija National Park, characterized by dense oak forests and maquis shrubland. Wildlife includes wild boar, golden jackals, and numerous bird species. The mountain offers hiking trails with panoramic views. It is a key area for biodiversity conservation in northern Tunisia.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.278 m", "Teil des Tell-Atlas", "Nationalpark El Feija (Fläche 17 km²)", "Waldbedeckung: 80%", "Höchster Punkt im Park", "Durchschnittstemperatur: 15°C"],
+      hu: ["Magasság: 1 278 m", "Tell-Atlasz része", "El Feija Nemzeti Park (17 km²)", "Erdősültség: 80%", "A park legmagasabb pontja", "Átlaghőmérséklet: 15°C"],
+      ro: ["Altitudine: 1.278 m", "Parte a Tell Atlas", "Parcul Național El Feija (17 km²)", "Acoperire forestieră: 80%", "Cel mai înalt punct din parc", "Temperatura medie: 15°C"],
+      en: ["Elevation: 1,278 m", "Part of Tell Atlas", "El Feija National Park (17 km²)", "Forest cover: 80%", "Highest point in the park", "Average temperature: 15°C"],
+    },
+  },
   {
     id: "djebel-selloum-relief-v2",
     type: "mountain",
@@ -360,7 +373,20 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Kopár, száraz környezet.", "Magas geológiai aktivitás a földtörténet során.", "Fontos a regionális hidrológia szempontjából.", "Határhegység a síkságok között."],
       ro: ["Mediu arid și steril.", "Activitate geologică ridicată în istoria pământului.", "Important pentru hidrologia regională.", "Munte de graniță între câmpii."],
       en: ["Barren, dry environment.", "High geological activity in earth history.", "Important for regional hydrology.", "Border mountain between plains."]
-    }, image: "/poi-images/djebel-selloum-relief-v2.webp"},
+    }, image: "/poi-images/djebel-selloum-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Djebel Selloum ist ein Bergrücken in Tunesien, südlich von Djebel Mghila. Seine Höhe beträgt etwa 1.200 Meter. Die Vegetation besteht aus Aleppo-Kiefern und Steineichen. Die Region ist weniger bekannt als andere Gebirge, bietet aber reizvolle Landschaften. Das Gebiet wird für Weidewirtschaft genutzt. Der Berg ist Teil des dorsalen tunesischen Gebirges. Wandermöglichkeiten sind begrenzt, aber die Ruhe wird geschätzt.",
+      hu: "Djebel Selloum egy hegygerinc Tunéziában, Djebel Mghilától délre. Magassága kb. 1 200 méter. Növényzete aleppói fenyő és paratölgy. A terület kevésbé ismert, de szép tájakkal rendelkezik. Legeltetésre használják. A tunéziai dorsalis hegység része. Túrázási lehetőségek korlátozottak.",
+      ro: "Djebel Selloum este un munte în Tunisia, la sud de Djebel Mghila. Altitudinea sa este de aproximativ 1.200 de metri. Vegetația constă în pini de Alep și stejari. Zona este mai puțin cunoscută, dar oferă peisaje pitorești. Este folosită pentru pășunat. Face parte din lanțul dorsal tunisian. Oportunitățile de drumeție sunt limitate.",
+      en: "Djebel Selloum is a mountain ridge in Tunisia, located south of Djebel Mghila, with an elevation of about 1,200 meters. The vegetation is dominated by Aleppo pine and cork oak. The area is less frequented by tourists, offering a sense of solitude. It is used for pastoral activities. The ridge is part of the Tunisian Dorsale mountain range. Its landscapes are characterized by rocky outcrops and forested slopes.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 1.200 m", "Teil der tunesischen Dorsale", "Vegetation: Aleppo-Kiefer, Steineiche", "Nutzung: Weidewirtschaft", "Niederschlag: 600 mm/Jahr", "Entfernung zu Tunis: 150 km"],
+      hu: ["Magasság: kb. 1 200 m", "Tunéziai Dorsale része", "Növényzet: aleppói fenyő, paratölgy", "Használat: legeltetés", "Csapadék: 600 mm/év", "Távolság Tunistól: 150 km"],
+      ro: ["Altitudine: aprox. 1.200 m", "Parte a Dorsalei tunisiene", "Vegetație: pin de Alep, stejar", "Utilizare: pășunat", "Precipitații: 600 mm/an", "Distanța până la Tunis: 150 km"],
+      en: ["Elevation: approx. 1,200 m", "Part of Tunisian Dorsale", "Vegetation: Aleppo pine, cork oak", "Use: pastoralism", "Precipitation: 600 mm/year", "Distance from Tunis: 150 km"],
+    },
+  },
   {
     id: "djebel-fkirine-relief-v2",
     type: "mountain",

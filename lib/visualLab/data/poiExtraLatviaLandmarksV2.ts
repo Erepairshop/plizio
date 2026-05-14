@@ -6,7 +6,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "church",
     parent: "LV",
     name: { de: "St.-Petri-Kirche", hu: "Szent Péter-templom", ro: "Biserica Sfântul Petru", en: "St. Peter's Church" },
-    coordinates: { lat: 56.9478, lng: 24.1086 },
+    coords: [24.1086, 56.9478],
     description: {
       de: "Diese lutherische Kirche in Riga ist für ihren hohen Turm und den Panoramablick bekannt. Sie stammt aus dem 13. Jahrhundert.",
       hu: "Ez a rigai evangélikus templom magas tornyáról és panorámájáról ismert. A 13. századból származik.",
@@ -38,7 +38,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "museum",
     parent: "LV",
     name: { de: "Gedert-Eliass-Geschichtsmuseum", hu: "Gederts Eliass Történeti Múzeum", ro: "Muzeul de Istorie Gederts Eliass", en: "Gederts Eliass History Museum" },
-    coordinates: { lat: 56.6506, lng: 23.7275 },
+    coords: [23.7275, 56.6506],
     description: {
       de: "Das Museum befindet sich in Jelgava und bewahrt die Geschichte der Region Zemgale. Es ist im Gebäude der Akademie von Academia Petrina untergebracht.",
       hu: "A Jelgava-i múzeum a Zemgale régió történetét őrzi. Az Academia Petrina épületében található.",
@@ -70,7 +70,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "LV",
     name: { de: "Geburts-Kathedrale", hu: "Krisztus Születése ortodox székesegyház", ro: "Catedrala Nașterii Domnului", en: "Nativity of Christ Cathedral" },
-    coordinates: { lat: 56.9535, lng: 24.116 },
+    coords: [24.116, 56.9535],
     description: {
       de: "Diese orthodoxe Kathedrale in Riga wurde im neobyzantinischen Stil errichtet. Sie dient als Hauptkathedrale der lettischen orthodoxen Kirche.",
       hu: "Ez a rigai ortodox székesegyház neobizánci stílusban épült. A lett ortodox egyház fő székesegyházaként szolgál.",
@@ -102,7 +102,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "museum",
     parent: "LV",
     name: { de: "Lettisches Kriegsmuseum", hu: "Lett Háborús Múzeum", ro: "Muzeul Războiului Leton", en: "Latvian War Museum" },
-    coordinates: { lat: 56.9507, lng: 24.1084 },
+    coords: [24.1084, 56.9507],
     description: {
       de: "Das Museum im Pulverturm in Riga dokumentiert die lettische Militärgeschichte. Es zeigt Ausstellungen von den Konflikten des 20. Jahrhunderts.",
       hu: "A rigai Lőportoronyban található múzeum dokumentálja a lett hadtörténetet. A 20. századi konfliktusokról szóló kiállításokat mutat be.",
@@ -134,7 +134,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Venta-Stromschnellen", hu: "Venta-vízesés", ro: "Cascada Venta", en: "Venta Rapid" },
-    coordinates: { lat: 56.9691, lng: 21.9868 },
+    coords: [21.9868, 56.9691],
     description: {
       de: "Der breiteste Wasserfall Europas befindet sich in Kuldīga am Fluss Venta. Er ist ein bekanntes Naturdenkmal in Lettland.",
       hu: "Európa legszélesebb vízesése Kuldīga városában, a Venta folyón található. Lettország ismert természeti emlékműve.",
@@ -166,7 +166,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "LV",
     name: { de: "St.-Jakobs-Kathedrale", hu: "Szent Jakab-katedrális", ro: "Catedrala Sfântul Iacob", en: "St. James's Cathedral" },
-    coordinates: { lat: 56.9515, lng: 24.1062 },
+    coords: [24.1062, 56.9515],
     description: {
       de: "Diese katholische Kathedrale in der Altstadt von Riga stammt aus dem 13. Jahrhundert. Sie ist ein bedeutendes Beispiel für die Backsteingotik.",
       hu: "Ez a rigai óvárosi katolikus katedrális a 13. századból származik. A tégla gótika jelentős példája.",
@@ -198,7 +198,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Die Drei Brüder", hu: "Három Fivér", ro: "Cei Trei Frați", en: "The Three Brothers" },
-    coordinates: { lat: 56.9509, lng: 24.1054 },
+    coords: [24.1054, 56.9509],
     description: {
       de: "Dieses Bauensemble besteht aus drei mittelalterlichen Wohnhäusern in der Rigaer Altstadt. Sie zeigen verschiedene architektonische Stile.",
       hu: "Ez az épületegyüttes három középkori lakóházból áll a rigai óvárosban. Különböző építészeti stílusokat mutatnak be.",
@@ -230,7 +230,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "museum",
     parent: "LV",
     name: { de: "Jurmala-Stadtmuseum", hu: "Jūrmalai Városi Múzeum", ro: "Muzeul Orașului Jūrmala", en: "Jurmala City Museum" },
-    coordinates: { lat: 56.9749, lng: 23.7997 },
+    coords: [23.7997, 56.9749],
     description: {
       de: "Dieses Museum in Jūrmala dokumentiert die Geschichte des Badeortes. Es zeigt die Entwicklung des Tourismus an der lettischen Küste.",
       hu: "Ez a Jūrmalai múzeum az üdülőváros történetét dokumentálja. A lett tengerparti turizmus fejlődését mutatja be.",
@@ -262,7 +262,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "castle",
     parent: "LV",
     name: { de: "Sigulda Neues Schloss", hu: "Sigulda Új Kastély", ro: "Castelul Nou Sigulda", en: "Sigulda New Castle" },
-    coordinates: { lat: 57.163, lng: 24.8516 },
+    coords: [24.8516, 57.163],
     description: {
       de: "Dieses Schloss wurde im 19. Jahrhundert im neogotischen Stil erbaut. Es liegt in der Stadt Sigulda und ist von einem Park umgeben.",
       hu: "Ez a kastély a 19. században épült neogótikus stílusban. Sigulda városában található, park veszi körül.",
@@ -294,7 +294,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Kleine Gilde", hu: "Kis Céhház", ro: "Mica Ghildă", en: "Small Guild Hall" },
-    coordinates: { lat: 56.9513, lng: 24.1075 },
+    coords: [24.1075, 56.9513],
     description: {
       de: "Die Kleine Gilde ist ein bedeutendes Gebäude in der Rigaer Altstadt. Sie wurde im neogotischen Stil errichtet und war ein Zentrum für Handwerker.",
       hu: "A Kis Céhház egy jelentős épület a rigai óvárosban. Neogótikus stílusban épült, és a kézművesek központja volt.",
@@ -326,7 +326,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Große Gilde", hu: "Nagy Céhház", ro: "Marea Ghildă", en: "Great Guild Hall" },
-    coordinates: { lat: 56.9515, lng: 24.1077 },
+    coords: [24.1077, 56.9515],
     description: {
       de: "Dieses historische Gebäude in Riga diente einst als Handelszentrum. Es wurde im 19. Jahrhundert im Tudor-Stil umgestaltet.",
       hu: "Ez a rigai történelmi épület egykor kereskedelmi központként szolgált. A 19. században Tudor-stílusban alakították át.",
@@ -358,7 +358,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "bridge",
     parent: "LV",
     name: { de: "Eisenbahnbrücke Riga", hu: "Rigai vasúti híd", ro: "Podul feroviar Riga", en: "Riga Railway Bridge" },
-    coordinates: { lat: 56.9458, lng: 24.1033 },
+    coords: [24.1033, 56.9458],
     description: {
       de: "Diese Brücke überquert den Fluss Düna in Riga. Sie ist die einzige Eisenbahnbrücke der Stadt und verbindet die Ufer seit dem 19. Jahrhundert.",
       hu: "Ez a híd a Daugava folyót keresztezi Rigában. Ez a város egyetlen vasúti hídja, amely a 19. század óta köti össze a partokat.",
@@ -390,7 +390,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "museum",
     parent: "LV",
     name: { de: "Jugendstil-Museum Riga", hu: "Rigai Szecessziós Múzeum", ro: "Muzeul Art Nouveau Riga", en: "Riga Art Nouveau Museum" },
-    coordinates: { lat: 56.9587, lng: 24.1086 },
+    coords: [24.1086, 56.9587],
     description: {
       de: "Dieses Museum in Riga ist der Jugendstil-Architektur gewidmet. Es befindet sich in einem ehemaligen Wohnhaus eines Architekten.",
       hu: "Ez a rigai múzeum a szecessziós építészetnek van szentelve. Egy építész egykori lakóházában található.",
@@ -422,7 +422,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "tower",
     parent: "LV",
     name: { de: "Bleischrot-Turm Daugavpils", hu: "Daugavpils ólomlövedék torony", ro: "Turnul de alice din Daugavpils", en: "Daugavpils Lead Shot Tower" },
-    coordinates: { lat: 55.874, lng: 26.516 },
+    coords: [26.516, 55.874],
     description: {
       de: "Dieser historische Turm in Daugavpils diente zur Herstellung von Bleischrot. Er ist einer der ältesten Industrieanlagen Lettlands.",
       hu: "Ez a Daugavpils-i történelmi torony ólomlövedékek gyártására szolgált. Lettország egyik legrégebbi ipari létesítménye.",
@@ -454,7 +454,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Domplatz", hu: "Dóm tér", ro: "Piața Domului", en: "Dome Square" },
-    coordinates: { lat: 56.949, lng: 24.105 },
+    coords: [24.105, 56.949],
     description: {
       de: "Der Domplatz ist der größte Platz in der Rigaer Altstadt. Er ist ein zentraler Treffpunkt mit historischen Gebäuden.",
       hu: "A Dóm tér a rigai óváros legnagyobb tere. Központi találkozóhely történelmi épületekkel.",
@@ -486,7 +486,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "tower",
     parent: "LV",
     name: { de: "Kirchturm von Jelgava", hu: "Jelgava-templomtorony", ro: "Turnul bisericii din Jelgava", en: "Jelgava Church Tower" },
-    coordinates: { lat: 56.65, lng: 23.72 },
+    coords: [23.72, 56.65],
     description: {
       de: "Dieser Kirchturm ist das einzige Überbleibsel der St.-Anna-Kirche in Jelgava. Er bietet eine Aussichtsplattform über die Stadt.",
       hu: "Ez a templomtorony a Jelgava-i Szent Anna-templom egyetlen maradványa. Panorámás kilátót kínál a városra.",
@@ -518,7 +518,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Basteiberg-Park", hu: "Bastejkalns park", ro: "Parcul Bastejkalns", en: "Bastejkalns Park" },
-    coordinates: { lat: 56.9506, lng: 24.1118 },
+    coords: [24.1118, 56.9506],
     description: {
       de: "Dieser Park in Riga liegt nahe der Altstadt. Er wurde auf ehemaligen Verteidigungsanlagen errichtet und bietet Spazierwege.",
       hu: "Ez a rigai park az óváros közelében található. Egykori védelmi létesítmények helyén épült, sétányokat kínál.",
@@ -550,7 +550,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "castle",
     parent: "LV",
     name: { de: "Neues Schloss Cēsis", hu: "Cēsis-i Új Kastély", ro: "Castelul Nou Cēsis", en: "Cēsis New Castle" },
-    coordinates: { lat: 57.313, lng: 25.269 },
+    coords: [25.269, 57.313],
     description: {
       de: "Dieses Schloss aus dem 18. Jahrhundert befindet sich in Cēsis. Es ist Teil des historischen Komplexes neben der alten Burgruine.",
       hu: "Ez a 18. századi kastély Cēsis-ben található. Az ókori várromok melletti történelmi komplexum része.",
@@ -582,7 +582,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Zentralbibliothek Riga", hu: "Rigai Központi Könyvtár", ro: "Biblioteca Centrală Riga", en: "Riga Central Library" },
-    coordinates: { lat: 56.95, lng: 24.12 },
+    coords: [24.12, 56.95],
     description: {
       de: "Die Bibliothek ist eine bedeutende kulturelle Einrichtung in Riga. Sie verwaltet eine umfangreiche Sammlung an Literatur und Dokumenten.",
       hu: "A könyvtár jelentős rigai kulturális intézmény. Kiterjedt irodalmi és dokumentumgyűjteményt kezel.",
@@ -614,7 +614,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "theater",
     parent: "LV",
     name: { de: "Lettisches Nationaltheater", hu: "Lett Nemzeti Színház", ro: "Teatrul Național Leton", en: "Latvian National Theatre" },
-    coordinates: { lat: 56.953, lng: 24.104 },
+    coords: [24.104, 56.953],
     description: {
       de: "Dieses Theater in Riga wurde zu Beginn des 20. Jahrhunderts errichtet. Es ist ein Zentrum für lettische darstellende Kunst.",
       hu: "Ez a rigai színház a 20. század elején épült. A lett előadó-művészet központja.",
@@ -646,7 +646,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "university",
     parent: "LV",
     name: { de: "Lettische Kunstakademie", hu: "Lett Művészeti Akadémia", ro: "Academia de Artă Letonă", en: "Art Academy of Latvia" },
-    coordinates: { lat: 56.957, lng: 24.117 },
+    coords: [24.117, 56.957],
     description: {
       de: "Die Akademie ist eine bedeutende Hochschule für Kunst in Riga. Das Gebäude ist ein prächtiges Beispiel für den Historismus.",
       hu: "Az akadémia jelentős rigai művészeti főiskola. Az épület a historizmus pompás példája.",
@@ -678,7 +678,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "university",
     parent: "LV",
     name: { de: "Universität Lettlands", hu: "Lett Egyetem", ro: "Universitatea Letonă", en: "University of Latvia" },
-    coordinates: { lat: 56.949, lng: 24.115 },
+    coords: [24.115, 56.949],
     description: {
       de: "Das Hauptgebäude der Universität Lettlands in Riga ist ein bedeutendes Bildungszentrum. Es ist ein architektonisch wichtiges Bauwerk.",
       hu: "A rigai Lett Egyetem főépülete jelentős oktatási központ. Építészetileg fontos építmény.",
@@ -710,7 +710,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Kongresszentrum Riga", hu: "Rigai Kongresszusi Központ", ro: "Centrul de Congrese Riga", en: "Riga Congress Center" },
-    coordinates: { lat: 56.953, lng: 24.102 },
+    coords: [24.102, 56.953],
     description: {
       de: "Dieses moderne Gebäude in Riga dient als Zentrum für Kongresse und kulturelle Veranstaltungen. Es ist architektonisch zeitgenössisch.",
       hu: "Ez a rigai modern épület kongresszusok és kulturális események központjaként szolgál. Építészetileg kortárs.",
@@ -742,7 +742,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "theater",
     parent: "LV",
     name: { de: "Theater Daugavpils", hu: "Daugavpils-i Színház", ro: "Teatrul din Daugavpils", en: "Daugavpils Theatre" },
-    coordinates: { lat: 55.87, lng: 26.51 },
+    coords: [26.51, 55.87],
     description: {
       de: "Das Theater in Daugavpils ist ein kulturelles Zentrum der Stadt. Es bietet Aufführungen in mehreren Sprachen an.",
       hu: "A Daugavpils-i színház a város kulturális központja. Több nyelven is kínál előadásokat.",
@@ -774,7 +774,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "monument",
     parent: "LV",
     name: { de: "Bernsteinuhr Liepāja", hu: "Liepāja-i Borostyán óra", ro: "Ceasul de chihlimbar Liepāja", en: "Liepāja Amber Clock" },
-    coordinates: { lat: 56.51, lng: 21.01 },
+    coords: [21.01, 56.51],
     description: {
       de: "Dieses Denkmal in Liepāja ist mit Bernstein verziert. Es symbolisiert die Verbindung der Stadt zum Meer.",
       hu: "Ez a Liepāja-i emlékmű borostyánnal van díszítve. A város tengerrel való kapcsolatát jelképezi.",
@@ -806,7 +806,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "bridge",
     parent: "LV",
     name: { de: "Freiheitsbrücke Riga", hu: "Rigai Szabadság-híd", ro: "Podul Libertății Riga", en: "Freedom Bridge Riga" },
-    coordinates: { lat: 56.95, lng: 24.11 },
+    coords: [24.11, 56.95],
     description: {
       de: "Diese Brücke in Riga verbindet Teile der Stadt über den Kanal. Sie ist ein bekanntes architektonisches Element der Parkanlage.",
       hu: "Ez a rigai híd a csatornán keresztül köti össze a város részeit. A park jól ismert építészeti eleme.",
@@ -838,7 +838,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Schwarzhäupterplatz", hu: "Feketefejűek tere", ro: "Piața Capetelor Negre", en: "Blackheads Square" },
-    coordinates: { lat: 56.947, lng: 24.106 },
+    coords: [24.106, 56.947],
     description: {
       de: "Dieser Platz vor dem Schwarzhäupterhaus in Riga ist ein historisches Zentrum. Er ist von prachtvoller Architektur umgeben.",
       hu: "Ez a rigai Feketefejűek háza előtti tér történelmi központ. Pompás építészet veszi körül.",
@@ -870,7 +870,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Domplatz Riga", hu: "Dóm tér Riga", ro: "Piața Domului Riga", en: "Riga Cathedral Square" },
-    coordinates: { lat: 56.949, lng: 24.106 },
+    coords: [24.106, 56.949],
     description: {
       de: "Der Domplatz ist ein zentraler Platz in der Altstadt von Riga. Er beherbergt die berühmte Kathedrale.",
       hu: "A Dóm tér a rigai óváros központi tere. Itt található a híres katedrális.",
@@ -902,7 +902,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "monument",
     parent: "LV",
     name: { de: "Krišjānis-Barons-Denkmal", hu: "Krišjānis Barons-emlékmű", ro: "Monumentul Krišjānis Barons", en: "Krišjānis Barons Monument" },
-    coordinates: { lat: 56.95, lng: 24.11 },
+    coords: [24.11, 56.95],
     description: {
       de: "Dieses Denkmal in Riga ehrt den lettischen Volksliedsammler Krišjānis Barons. Es ist ein bedeutendes kulturelles Wahrzeichen.",
       hu: "Ez a rigai emlékmű a lett népdalgyűjtő Krišjānis Baronst tiszteli. Jelentős kulturális jelkép.",
@@ -934,7 +934,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "LV",
     name: { de: "Brauerei Cēsis", hu: "Cēsis-i sörfőzde", ro: "Berăria Cēsis", en: "Cēsis Brewery" },
-    coordinates: { lat: 57.31, lng: 25.26 },
+    coords: [25.26, 57.31],
     description: {
       de: "Diese historische Brauerei in Cēsis ist ein Symbol für die lettische Braukunst. Sie hat eine lange Tradition.",
       hu: "Ez a Cēsis-i történelmi sörfőzde a lett sörfőzés jelképe. Hosszú hagyományokkal rendelkezik.",
@@ -966,7 +966,7 @@ export const latviaLandmarksV2: POI[] = [
     type: "tower",
     parent: "LV",
     name: { de: "Fernsehturm Riga", hu: "Rigai tévétorony", ro: "Turnul TV Riga", en: "Riga Radio and TV Tower" },
-    coordinates: { lat: 56.92, lng: 24.13 },
+    coords: [24.13, 56.92],
     description: {
       de: "Dies ist einer der höchsten Türme in Europa. Er dient als Rundfunk- und Fernsehturm sowie als Aussichtspunkt.",
       hu: "Ez Európa egyik legmagasabb tornya. Rádió- és tévétoronyként, valamint kilátóként szolgál.",

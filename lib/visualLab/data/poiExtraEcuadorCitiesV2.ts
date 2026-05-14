@@ -794,7 +794,20 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Itt található a Ciudad Alfaro Múzeum.", "A finom toquilla szalmaszövés központja.", "Festői környezetben fekszik a Cerro Montecristi lábánál.", "Fontos politikai és kulturális helyszín az ecuadori történelemben."],
       ro: ["Aici se află Muzeul Ciudad Alfaro.", "Centrul împletirii fine a paielor toquilla.", "Situat pitoresc la poalele Cerro Montecristi.", "Un loc politic și cultural important în istoria Ecuadorului."],
       en: ["The Ciudad Alfaro Museum is located here.", "Center of fine toquilla straw weaving.", "Picturesquely located at the foot of Cerro Montecristi.", "An important political and cultural site in Ecuadorian history."]
-    }, image: "/poi-images/montecristi-cities-v2.webp"},
+    }, image: "/poi-images/montecristi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Montecristi ist eine Stadt im Nordwesten der Dominikanischen Republik, nahe der Grenze zu Haiti. Sie wurde 1506 von Juan de Esquivel gegründet und ist bekannt für ihre gut erhaltene viktorianische Architektur, die sich im Parque Central und in den umliegenden Gebäuden zeigt. Die Stadt ist ein wichtiger Seehafen für den Export von Bananen, Kaffee und Kakao. Die Wirtschaft basiert zudem auf Salzgewinnung aus den nahe gelegenen Salinen. Montecristi hat rund 25.000 Einwohner und ist Sitz der gleichnamigen Provinz. Die Festung Batería de Cañones aus dem 19. Jahrhundert erinnert an die militärische Vergangenheit.",
+      hu: "Montecristi városa a Dominikai Köztársaság északnyugati részén, a haiti határ közelében fekszik. 1506-ban alapította Juan de Esquivel, és híres a jól megőrzött viktoriánus építészetéről, amely a Parque Centralban és a környező épületekben látható. A város fontos tengeri kikötő banán, kávé és kakaó exportjához. A gazdaság alapja a közeli sólepárlók sótermelése is. Montecristinek mintegy 25.000 lakosa van, és a névadó tartomány székhelye. A 19. századi Batería de Cañones erőd a katonai múltra emlékeztet.",
+      ro: "Montecristi este un oraș în nord-vestul Republicii Dominicane, aproape de granița cu Haiti. A fost fondat în 1506 de Juan de Esquivel și este cunoscut pentru arhitectura victoriană bine conservată, vizibilă în Parque Central și în clădirile din jur. Orașul este un port maritim important pentru exportul de banane, cafea și cacao. Economia se bazează și pe extragerea sării din salinele din apropiere. Montecristi are aproximativ 25.000 de locuitori și este reședința provinciei cu același nume. Fortul Batería de Cañones din secolul al XIX-lea amintește de trecutul militar.",
+      en: "Montecristi is a city in northwestern Dominican Republic near the Haiti border. Founded in 1506 by Juan de Esquivel, it features well-preserved Victorian architecture around the Parque Central. It is a major seaport for exporting bananas, coffee, and cocoa. The economy also relies on salt extraction from nearby salt pans. Montecristi has about 25,000 inhabitants and is the capital of the province of the same name. The 19th-century Batería de Cañones fort recalls its military past.",
+    },
+    factsAdvanced: {
+      de: ["Montecristi wurde 1506 gegründet.", "Die Einwohnerzahl beträgt etwa 25.000.", "Die Stadt liegt auf 20 m Höhe über dem Meeresspiegel.", "Der Hafen exportiert jährlich 50.000 Tonnen Bananen.", "Die Salinen produzieren etwa 30.000 Tonnen Salz pro Jahr.", "Die Batería de Cañones wurde 1885 erbaut."],
+      hu: ["Montecristit 1506-ban alapították.", "A lakosságszám körülbelül 25.000 fő.", "A város 20 m tengerszint feletti magasságban fekszik.", "A kikötő évente 50.000 tonna banánt exportál.", "A sólepárlók évente mintegy 30.000 tonna sót termelnek.", "A Batería de Cañones erődöt 1885-ben építették."],
+      ro: ["Montecristi a fost fondat în 1506.", "Populația este de aproximativ 25.000 de locuitori.", "Orașul este situat la 20 m deasupra nivelului mării.", "Portul exportă anual 50.000 de tone de banane.", "Salinele produc aproximativ 30.000 de tone de sare pe an.", "Fortul Batería de Cañones a fost construit în 1885."],
+      en: ["Montecristi was founded in 1506.", "Population is about 25,000.", "The city is at 20 m above sea level.", "The port exports 50,000 tons of bananas annually.", "Salt pans produce about 30,000 tons of salt per year.", "The Batería de Cañones fort was built in 1885."],
+    },
+  },
   {
     id: "samborondon-cities-v2",
     type: "city",
@@ -1280,7 +1293,20 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az Eiffel-torony kis másolata is megtalálható itt.", "A haciendák a kakaóbárók egykori gazdagságáról tanúskodnak.", "Számos kenuversenynek ad otthont a Vinces folyón.", "A történelmi építészet jól megőrzött."],
       ro: ["Are o mică replică a Turnului Eiffel.", "Haciendas depun mărturie despre fosta bogăție a baronilor de cacao.", "Găzduiește numeroase concursuri de canotaj pe râul Vinces.", "Arhitectura istorică este bine conservată."],
       en: ["Has a small replica of the Eiffel Tower.", "The haciendas bear witness to the former wealth of the cocoa barons.", "Hosts numerous canoe competitions on the Vinces River.", "The historical architecture is well preserved."]
-    }, image: "/poi-images/vinces-cities-v2.webp"},
+    }, image: "/poi-images/vinces-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Vinces ist eine Stadt im zentralen Tiefland Ecuadors, in der Provinz Los Ríos. Sie liegt am Fluss Vinces, einem Nebenfluss des Babahoyo. Die Stadt wurde 1790 gegründet und ist ein wichtiges landwirtschaftliches Zentrum, insbesondere für den Anbau von Kakao, Bananen und Reis. Vinces ist als 'Kakao-Hauptstadt Ecuadors' bekannt und beherbergt Verarbeitungsbetriebe. Die Bevölkerung beträgt rund 100.000. Die Stadt hat eine koloniale Architektur mit Holzhäusern auf Stelzen, die an die Überschwemmungen angepasst sind. Die Feste und die traditionelle Gastronomie sind kulturell bedeutend.",
+      hu: "Vinces városa Ecuador középső alföldjén, Los Ríos tartományban található, a Vinces folyó partján, amely a Babahoyo mellékfolyója. 1790-ben alapították, és fontos mezőgazdasági központ, különösen a kakaó, banán és rizs termesztésében. Vinces 'Ecuador kakaófővárosaként' ismert, és feldolgozó üzemekkel rendelkezik. A lakosság körülbelül 100.000 fő. A városban gyarmati építészet, cölöpökre épült faházak találhatók, amelyek alkalmazkodtak az árvizekhez. Az ünnepek és a hagyományos gasztronómia kulturális jelentőségű.",
+      ro: "Vinces este un oraș în câmpia centrală a Ecuadorului, în provincia Los Ríos, situat pe râul Vinces, un afluent al Babahoyo. A fost fondat în 1790 și este un centru agricol important, în special pentru cacao, banane și orez. Vinces este cunoscut drept 'capitala cacaoi din Ecuador' și găzduiește unități de procesare. Populația este de aproximativ 100.000 de locuitori. Orașul are arhitectură colonială cu case din lemn pe piloni, adaptate inundațiilor. Festivalurile și gastronomia tradițională au importanță culturală.",
+      en: "Vinces is a city in Ecuador's central lowlands, in Los Ríos province, on the Vinces River, a tributary of the Babahoyo. Founded in 1790, it is a major agricultural center, especially for cacao, bananas, and rice. Known as 'Ecuador's cacao capital', it hosts processing plants. Population is about 100,000. The city features colonial architecture with wooden houses on stilts adapted to floods. Festivals and traditional cuisine are culturally significant.",
+    },
+    factsAdvanced: {
+      de: ["Vinces wurde 1790 gegründet.", "Die Einwohnerzahl beträgt etwa 100.000.", "Die Stadt liegt auf 10 m Höhe über dem Meeresspiegel.", "Jährlich werden 50.000 Tonnen Kakao exportiert.", "Der Fluss Vinces ist 80 km lang.", "Die Durchschnittstemperatur beträgt 26 °C."],
+      hu: ["Vinces-t 1790-ben alapították.", "A lakosság mintegy 100.000 fő.", "A város 10 m tengerszint feletti magasságban fekszik.", "Évente 50.000 tonna kakaót exportálnak.", "A Vinces folyó 80 km hosszú.", "Az átlaghőmérséklet 26 °C."],
+      ro: ["Vinces a fost fondat în 1790.", "Populația este de aproximativ 100.000 de locuitori.", "Orașul este la 10 m deasupra nivelului mării.", "Se exportă 50.000 de tone de cacao anual.", "Râul Vinces are 80 km lungime.", "Temperatura medie este de 26 °C."],
+      en: ["Vinces was founded in 1790.", "Population is about 100,000.", "City is at 10 m above sea level.", "50,000 tons of cacao are exported annually.", "The Vinces River is 80 km long.", "Average temperature is 26 °C."],
+    },
+  },
   {
     id: "la-concordia-cities-v2",
     type: "city",
@@ -1683,7 +1709,20 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Egész évben a ruházati vásárlások paradicsoma.", "Az atuntaqui-i textilvásár ezreket vonz.", "Stratégiailag Ibarra és Otavalo között fekszik.", "A közelben volt egy régi inka központ."],
       ro: ["Un paradis pentru cumpărături de haine pe tot parcursul anului.", "Târgul de textile Atuntaqui atrage mii de vizitatori.", "Situat strategic între Ibarra și Otavalo.", "În apropiere se afla un vechi centru incaș."],
       en: ["A paradise for clothing shopping all year round.", "The Atuntaqui textile fair attracts thousands.", "Strategically located between Ibarra and Otavalo.", "An old Inca center was located nearby."]
-    }, image: "/poi-images/atuntaqui-cities-v2.webp"},
+    }, image: "/poi-images/atuntaqui-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Atuntaqui ist eine Stadt im Norden Ecuadors, in der Provinz Imbabura, auf einer Höhe von etwa 2400 m. Sie wurde 1607 von den Spaniern gegründet und ist bekannt für ihre Textilindustrie, die Baumwoll- und Wolldecken herstellt. Die Stadt liegt am Fuße des Vulkans Imbabura und ist ein Zentrum indigenen Handwerks. Die Wirtschaft basiert auch auf Landwirtschaft (Mais, Kartoffeln) und Tourismus. Atuntaqui hat etwa 15.000 Einwohner und ist für seine traditionellen Feste bekannt, darunter die Fiesta de los Diablos.",
+      hu: "Atuntaqui város Ecuador északi részén, Imbabura tartományban, mintegy 2400 m tengerszint feletti magasságban található. 1607-ben alapították a spanyolok, és híres textiliparáról, amely pamut- és gyapjútakarókat gyárt. A város az Imbabura vulkán lábánál fekszik, és az őslakos kézművesség központja. A gazdaság a mezőgazdaságra (kukorica, burgonya) és a turizmusra is épül. Atuntaquinak mintegy 15.000 lakosa van, és ismert hagyományos ünnepeiről, mint a Diablos Fesztivál.",
+      ro: "Atuntaqui este un oraș în nordul Ecuadorului, în provincia Imbabura, la o altitudine de aproximativ 2400 m. A fost fondat în 1607 de spanioli și este cunoscut pentru industria textilă, producând pături de bumbac și lână. Orașul se află la poalele vulcanului Imbabura și este un centru de meșteșuguri indigene. Economia se bazează și pe agricultură (porumb, cartofi) și turism. Atuntaqui are aproximativ 15.000 de locuitori și este renumit pentru festivalurile tradiționale, precum Fiesta de los Diablos.",
+      en: "Atuntaqui is a city in northern Ecuador, in Imbabura province, at about 2400 m elevation. Founded by Spaniards in 1607, it is known for its textile industry producing cotton and wool blankets. The city lies at the foot of Imbabura volcano and is a center for indigenous crafts. Economy also relies on agriculture (corn, potatoes) and tourism. Atuntaqui has about 15,000 inhabitants and is famous for traditional festivals like the Fiesta de los Diablos.",
+    },
+    factsAdvanced: {
+      de: ["Atuntaqui wurde 1607 gegründet.", "Die Einwohnerzahl beträgt etwa 15.000.", "Die Stadt liegt auf 2400 m Höhe.", "Die Textilindustrie produziert jährlich 200.000 Decken.", "Der Vulkan Imbabura ist 4621 m hoch.", "Die Durchschnittstemperatur beträgt 14 °C."],
+      hu: ["Atuntaquit 1607-ben alapították.", "A lakosság mintegy 15.000 fő.", "A város 2400 m magasan fekszik.", "A textilipar évente 200.000 takarót gyárt.", "Az Imbabura vulkán 4621 m magas.", "Az átlaghőmérséklet 14 °C."],
+      ro: ["Atuntaqui a fost fondat în 1607.", "Populația este de aproximativ 15.000 de locuitori.", "Orașul este la 2400 m altitudine.", "Industria textilă produce 200.000 de pături anual.", "Vulcanul Imbabura are 4621 m înălțime.", "Temperatura medie este de 14 °C."],
+      en: ["Atuntaqui was founded in 1607.", "Population is about 15,000.", "City is at 2400 m elevation.", "Textile industry produces 200,000 blankets annually.", "Imbabura volcano is 4621 m high.", "Average temperature is 14 °C."],
+    },
+  },
   {
     id: "bahia-de-caraquez-cities-v2",
     type: "city",
@@ -1702,7 +1741,20 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az 1990-es években ökovárossá (Ecocity) nyilvánították.", "Látványos híd köti össze San Vicentével.", "Korábban fő exportkikötő volt.", "Más tengerparti városokhoz képest nagyon enyhe az éghajlata."],
       ro: ["A fost declarat ecocity în anii 1990.", "Un pod impresionant leagă orașul de San Vicente.", "A fost anterior un port principal de export.", "Clima este foarte blândă în comparație cu alte orașe de coastă."],
       en: ["Was declared an ecocity in the 1990s.", "A striking bridge connects the city with San Vicente.", "Was previously a main export port.", "The climate is very mild compared to other coastal cities."]
-    }, image: "/poi-images/bahia-de-caraquez-cities-v2.webp"},
+    }, image: "/poi-images/bahia-de-caraquez-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bahía de Caráquez ist eine Hafenstadt in der Provinz Manabí, Ecuador, auf einer Halbinsel an der Pazifikküste. Sie wurde 1625 gegründet und ist ein beliebtes Touristenziel mit Stränden und einer Promenade. Die Stadt erlitt 1998 schwere Schäden durch ein Erdbeben und wurde anschließend wieder aufgebaut. Die Wirtschaft basiert auf Fischerei, Landwirtschaft (Bananen, Kakao) und Tourismus. Bahía de Caráquez hat etwa 30.000 Einwohner und ist bekannt für seine Mangrovenökosysteme und das Meeresschutzgebiet Isla Corazón.",
+      hu: "Bahía de Caráquez kikötőváros Ecuador Manabí tartományában, egy félszigeten a Csendes-óceán partján. 1625-ben alapították, és népszerű turisztikai célpont strandokkal és sétánnyal. A város 1998-ban súlyos károkat szenvedett egy földrengésben, majd újjáépítették. A gazdaság a halászatra, a mezőgazdaságra (banán, kakaó) és a turizmusra épül. Bahía de Caráqueznak mintegy 30.000 lakosa van, és híres mangrove-ökoszisztémáiról valamint az Isla Corazón tengeri rezervátumról.",
+      ro: "Bahía de Caráquez este un oraș-port în provincia Manabí, Ecuador, pe o peninsulă la coasta Pacificului. A fost fondat în 1625 și este o destinație turistică populară cu plaje și promenadă. Orașul a suferit daune grave în 1998 în urma unui cutremur și a fost reconstruit. Economia se bazează pe pescuit, agricultură (banane, cacao) și turism. Bahía de Caráquez are aproximativ 30.000 de locuitori și este cunoscut pentru ecosistemele de mangrove și rezervația marină Isla Corazón.",
+      en: "Bahía de Caráquez is a port city in Manabí province, Ecuador, on a peninsula on the Pacific coast. Founded in 1625, it is a popular tourist destination with beaches and a boardwalk. The city suffered severe damage in a 1998 earthquake and was subsequently rebuilt. Economy relies on fishing, agriculture (bananas, cacao), and tourism. Bahía de Caráquez has about 30,000 inhabitants and is known for its mangrove ecosystems and the Isla Corazón marine reserve.",
+    },
+    factsAdvanced: {
+      de: ["Bahía de Caráquez wurde 1625 gegründet.", "Die Einwohnerzahl beträgt etwa 30.000.", "Die Stadt liegt auf 5 m Höhe.", "Das Erdbeben 1998 hatte eine Stärke von 7,1.", "Der Wiederaufbau kostete 200 Millionen US-Dollar.", "Die Isla Corazón umfasst 20 km² Mangroven."],
+      hu: ["Bahía de Caráquezt 1625-ben alapították.", "A lakosság mintegy 30.000 fő.", "A város 5 m tengerszint feletti magasságban fekszik.", "Az 1998-as földrengés 7,1-es erősségű volt.", "Az újjáépítés 200 millió dollárba került.", "Az Isla Corazón 20 km² mangrove területet foglal magában."],
+      ro: ["Bahía de Caráquez a fost fondat în 1625.", "Populația este de aproximativ 30.000 de locuitori.", "Orașul este la 5 m altitudine.", "Cutremurul din 1998 a avut magnitudinea 7,1.", "Reconstrucția a costat 200 de milioane de dolari.", "Isla Corazón acoperă 20 km² de mangrove."],
+      en: ["Bahía de Caráquez was founded in 1625.", "Population is about 30,000.", "City is at 5 m elevation.", "The 1998 earthquake had magnitude 7.1.", "Reconstruction cost $200 million.", "Isla Corazón covers 20 km² of mangroves."],
+    },
+  },
   {
     id: "pinas-cities-v2",
     type: "city",
@@ -1721,7 +1773,20 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Buenaventura Természetvédelmi Terület a közelben található.", "A madármegfigyelők paradicsoma.", "A város a meredek hegyoldalakba épült.", "A nagy magasságban történő kávétermesztés központja."],
       ro: ["Rezervația Naturală Buenaventura se află în apropiere.", "Un paradis pentru iubitorii de păsări.", "Orașul este încorporat în versanții abrupți ai muntelui.", "Centrul cultivării cafelei la mare altitudine."],
       en: ["The Buenaventura Nature Reserve is located nearby.", "A paradise for birdwatchers.", "The city is embedded in the steep mountain slopes.", "Center of high-altitude coffee cultivation."]
-    }, image: "/poi-images/pinas-cities-v2.webp"},
+    }, image: "/poi-images/pinas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Piñas ist eine Stadt in der Provinz El Oro im Süden Ecuadors, in den Ausläufern der Anden auf etwa 1000 m Höhe. Sie wurde 1890 gegründet und ist ein Zentrum für Kaffee- und Kakaoanbau. Die Stadt ist auch für ihre Holzschnitzereien bekannt. Die Wirtschaft umfasst Bergbau (Goldabbau in der Region) und Tourismus. Piñas hat etwa 20.000 Einwohner und wird von der Landwirtschaft dominiert. Die Umgebung ist hügelig und bewaldet.",
+      hu: "Piñas városa Ecuador déli részén, El Oro tartományban, az Andok előhegységében fekszik, körülbelül 1000 m tengerszint feletti magasságban. 1890-ben alapították, és a kávé- és kakaótermesztés központja. A város faipari termékeiről is ismert. A gazdaság magában foglal bányászatot (aranykitermelés a régióban) és turizmust. Piñasnak mintegy 20.000 lakosa van, a mezőgazdaság dominál.",
+      ro: "Piñas este un oraș în provincia El Oro din sudul Ecuadorului, la poalele Anzilor, la aproximativ 1000 m altitudine. A fost fondat în 1890 și este un centru pentru culturile de cafea și cacao. Orașul este cunoscut și pentru sculpturile în lemn. Economia include minerit (extracția aurului în regiune) și turism. Piñas are aproximativ 20.000 de locuitori și este dominat de agricultură.",
+      en: "Piñas is a city in El Oro province, southern Ecuador, in the Andean foothills at about 1000 m elevation. Founded in 1890, it is a center for coffee and cacao cultivation. The city is also known for wood carving. Economy includes mining (gold extraction in the region) and tourism. Piñas has about 20,000 inhabitants and is dominated by agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Piñas wurde 1890 gegründet.", "Die Einwohnerzahl beträgt etwa 20.000.", "Die Stadt liegt auf 1000 m Höhe.", "Jährlich werden 5.000 Tonnen Kaffee produziert.", "Die Goldmine 'Minas de Piñas' fördert 500 kg Gold pro Jahr.", "Die Durchschnittstemperatur beträgt 22 °C."],
+      hu: ["Piñast 1890-ben alapították.", "A lakosság mintegy 20.000 fő.", "A város 1000 m magasan fekszik.", "Évente 5.000 tonna kávét termelnek.", "A 'Minas de Piñas' aranybánya évi 500 kg aranyat termel.", "Az átlaghőmérséklet 22 °C."],
+      ro: ["Piñas a fost fondat în 1890.", "Populația este de aproximativ 20.000 de locuitori.", "Orașul este la 1000 m altitudine.", "Se produc 5.000 de tone de cafea anual.", "Mina de aur 'Minas de Piñas' extrage 500 kg aur pe an.", "Temperatura medie este de 22 °C."],
+      en: ["Piñas was founded in 1890.", "Population is about 20,000.", "City is at 1000 m elevation.", "5,000 tons of coffee are produced annually.", "The 'Minas de Piñas' gold mine extracts 500 kg gold per year.", "Average temperature is 22 °C."],
+    },
+  },
   {
     id: "san-gabriel-cities-v2",
     type: "city",
@@ -1740,7 +1805,20 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A gyarmati építészet kiválóan megőrzött.", "1992-ben nemzeti kulturális örökséggé nyilvánították.", "A közeli Los Arrayanes erdő egyedülálló.", "A gazdaság a tejtermelésen és a burgonyán alapul."],
       ro: ["Arhitectura colonială este excelent conservată.", "A fost declarat patrimoniu cultural național în 1992.", "Pădurea Los Arrayanes din apropiere este unică.", "Economia se bazează pe producția de lapte și cartofi."],
       en: ["The colonial architecture is excellently preserved.", "Declared a national cultural heritage in 1992.", "The nearby Los Arrayanes forest is unique.", "The economy is based on dairy farming and potatoes."]
-    }, image: "/poi-images/san-gabriel-cities-v2.webp"},
+    }, image: "/poi-images/san-gabriel-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "San Gabriel ist eine Stadt im Norden Ecuadors, in der Provinz Carchi, nahe der kolumbianischen Grenze. Sie liegt auf etwa 2900 m Höhe in den Anden und wurde 1865 gegründet. Die Stadt ist ein landwirtschaftliches Zentrum für Kartoffeln, Weizen und Milchprodukte. San Gabriel ist bekannt für seine Architektur, darunter die Kirche Iglesia Matriz, und als Ausgangspunkt für Wanderungen zum Vulkan Chiles. Die Bevölkerung beträgt rund 20.000. Die Region ist kühl mit Temperaturen von 10-15 °C.",
+      hu: "San Gabriel városa Ecuador északi részén, Carchi tartományban, a kolumbiai határ közelében, körülbelül 2900 m tengerszint feletti magasságban fekszik. 1865-ben alapították, és mezőgazdasági központ burgonya, búza és tejtermékek számára. San Gabriel építészetéről ismert, különösen az Iglesia Matriz templomról, valamint a Chiles vulkánhoz vezető túrák kiindulópontja. A lakosság mintegy 20.000 fő.",
+      ro: "San Gabriel este un oraș în nordul Ecuadorului, în provincia Carchi, aproape de granița cu Columbia, la aproximativ 2900 m altitudine în Anzi. Fondat în 1865, este un centru agricol pentru cartofi, grâu și produse lactate. San Gabriel este cunoscut pentru arhitectura sa, în special biserica Iglesia Matriz, și ca punct de plecare pentru drumeții către vulcanul Chiles. Populația este de aproximativ 20.000 de locuitori.",
+      en: "San Gabriel is a city in northern Ecuador, in Carchi province, near the Colombian border, at about 2900 m elevation in the Andes. Founded in 1865, it is an agricultural center for potatoes, wheat, and dairy. San Gabriel is known for its architecture, especially the Iglesia Matriz church, and as a base for hikes to Chiles volcano. Population is around 20,000.",
+    },
+    factsAdvanced: {
+      de: ["San Gabriel wurde 1865 gegründet.", "Die Einwohnerzahl beträgt etwa 20.000.", "Die Stadt liegt auf 2900 m Höhe.", "Die Kartoffelproduktion beträgt 10.000 Tonnen jährlich.", "Der Vulkan Chiles ist 4723 m hoch.", "Die Durchschnittstemperatur beträgt 12 °C."],
+      hu: ["San Gabrielt 1865-ben alapították.", "A lakosság mintegy 20.000 fő.", "A város 2900 m magasan fekszik.", "A burgonyatermelés évi 10.000 tonna.", "A Chiles vulkán 4723 m magas.", "Az átlaghőmérséklet 12 °C."],
+      ro: ["San Gabriel a fost fondat în 1865.", "Populația este de aproximativ 20.000 de locuitori.", "Orașul este la 2900 m altitudine.", "Producția de cartofi este de 10.000 de tone anual.", "Vulcanul Chiles are 4723 m înălțime.", "Temperatura medie este de 12 °C."],
+      en: ["San Gabriel was founded in 1865.", "Population is about 20,000.", "City is at 2900 m elevation.", "Potato production is 10,000 tons annually.", "Chiles volcano is 4723 m high.", "Average temperature is 12 °C."],
+    },
+  },
   {
     id: "gualaceo-cities-v2",
     type: "city",
@@ -1759,7 +1837,20 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A hagyományos macana szövési technikáról híres.", "Az orchideakertek nagy turisztikai vonzerőt jelentenek.", "A helyi sertésétel, a Hornado nagyon népszerű.", "A régió egyik legrégebbi spanyol települése."],
       ro: ["Faimos pentru tehnica tradițională de țesut macana.", "Grădinile de orhidee sunt o atracție turistică majoră.", "Preparatul local din carne de porc, Hornado, este foarte popular.", "Una dintre cele mai vechi așezări spaniole din regiune."],
       en: ["Famous for the traditional macana weaving technique.", "Orchid gardens are a major tourist attraction.", "The local pork dish Hornado is very popular.", "One of the oldest Spanish settlement areas in the region."]
-    }, image: "/poi-images/gualaceo-cities-v2.webp"},
+    }, image: "/poi-images/gualaceo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Gualaceo ist eine Stadt im Süden Ecuadors, in der Provinz Azuay, auf etwa 2300 m Höhe in den Anden. Sie wurde 1750 gegründet und ist bekannt für ihr Kunsthandwerk, insbesondere Teppiche und Hüte aus Toquilla-Stroh (Panama-Hüte). Die Stadt liegt am Fluss Paute und ist ein Zentrum der Landwirtschaft (Obst, Mais). Gualaceo hat etwa 15.000 Einwohner und wird wegen seiner gut erhaltenen Altstadt geschätzt. Die traditionelle Fiesta de la Virgen del Rosario lockt viele Besucher an.",
+      hu: "Gualaceo városa Ecuador déli részén, Azuay tartományban, az Andokban, körülbelül 2300 m tengerszint feletti magasságban található. 1750-ben alapították, és híres kézműves termékeiről, különösen a szőnyegekről és a toquilla szalmából készült kalapokról (panamakalap). A város a Paute folyó partján fekszik, és mezőgazdasági központ (gyümölcs, kukorica). Gualaceonak mintegy 15.000 lakosa van, és a jól megőrzött óvárosáról ismert.",
+      ro: "Gualaceo este un oraș în sudul Ecuadorului, în provincia Azuay, la aproximativ 2300 m altitudine în Anzi. Fondat în 1750, este cunoscut pentru meșteșuguri, în special covoare și pălării din paie de toquilla (pălării Panama). Orașul este situat pe râul Paute și este un centru agricol (fructe, porumb). Gualaceo are aproximativ 15.000 de locuitori și este apreciat pentru centrul istoric bine conservat.",
+      en: "Gualaceo is a city in southern Ecuador, in Azuay province, at about 2300 m elevation in the Andes. Founded in 1750, it is known for handicrafts, especially rugs and toquilla straw hats (Panama hats). The city lies on the Paute River and is an agricultural center (fruits, corn). Gualaceo has about 15,000 inhabitants and is valued for its well-preserved old town.",
+    },
+    factsAdvanced: {
+      de: ["Gualaceo wurde 1750 gegründet.", "Die Einwohnerzahl beträgt etwa 15.000.", "Die Stadt liegt auf 2300 m Höhe.", "Die Teppichproduktion umfasst 10.000 Stück pro Jahr.", "Der Fluss Paute ist 150 km lang.", "Die Durchschnittstemperatur beträgt 18 °C."],
+      hu: ["Gualaceót 1750-ben alapították.", "A lakosság mintegy 15.000 fő.", "A város 2300 m magasan fekszik.", "A szőnyegek termelése évi 10.000 darab.", "A Paute folyó 150 km hosszú.", "Az átlaghőmérséklet 18 °C."],
+      ro: ["Gualaceo a fost fondat în 1750.", "Populația este de aproximativ 15.000 de locuitori.", "Orașul este la 2300 m altitudine.", "Producția de covoare este de 10.000 de bucăți pe an.", "Râul Paute are 150 km lungime.", "Temperatura medie este de 18 °C."],
+      en: ["Gualaceo was founded in 1750.", "Population is about 15,000.", "City is at 2300 m elevation.", "Rug production is 10,000 pieces per year.", "The Paute River is 150 km long.", "Average temperature is 18 °C."],
+    },
+  },
   {
     id: "macas-cities-v2",
     type: "state-capital",
@@ -1778,7 +1869,20 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Morona Santiago tartomány fővárosa.", "A Purísima de Macas szentély otthona.", "Az Upano folyó kiváló vadvízi evezést kínál.", "A shuar kultúra erősen képviselteti magát a régióban."],
       ro: ["Capitala provinciei Morona Santiago.", "Acasă la sanctuarul Purísima de Macas.", "Râul Upano oferă rafting excelent.", "Cultura Shuar este puternic reprezentată în regiune."],
       en: ["Capital of the Morona Santiago province.", "Home of the sanctuary of Purísima de Macas.", "The Upano River offers excellent rafting.", "The Shuar culture is strongly represented in the region."]
-    }, image: "/poi-images/macas-cities-v2.webp"},
+    }, image: "/poi-images/macas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Macas ist die Hauptstadt der Provinz Morona Santiago im Osten Ecuadors, im Amazonasbecken auf etwa 1000 m Höhe gelegen. Sie wurde 1565 von spanischen Missionaren gegründet. Macas ist das Tor zum Amazonas-Regenwald und ein Zentrum des Ökotourismus. Die Wirtschaft basiert auf Landwirtschaft (Kaffee, Kakao, Palmöl) und Erdölförderung in der Region. Die Stadt hat etwa 25.000 Einwohner und ist bekannt für ihre Nähe zu indigenen Gemeinschaften der Shuar und Achuar.",
+      hu: "Macas Ecuador keleti részén, Morona Santiago tartomány fővárosa, az Amazonas-medencében, körülbelül 1000 m tengerszint feletti magasságban található. 1565-ben spanyol misszionáriusok alapították. Macas az Amazonas esőerdő kapuja és az ökoturizmus központja. A gazdaság a mezőgazdaságra (kávé, kakaó, pálmaolaj) és a kőolajkitermelésre épül. A városnak mintegy 25.000 lakosa van, és ismert a shuar és achuar bennszülött közösségek közelségéről.",
+      ro: "Macas este capitala provinciei Morona Santiago din estul Ecuadorului, în bazinul Amazonului, la aproximativ 1000 m altitudine. A fost fondată în 1565 de misionari spanioli. Macas este poarta spre pădurea tropicală amazoniană și un centru de ecoturism. Economia se bazează pe agricultură (cafea, cacao, ulei de palmier) și extracția de petrol în regiune. Orașul are aproximativ 25.000 de locuitori și este cunoscut pentru apropierea de comunitățile indigene Shuar și Achuar.",
+      en: "Macas is the capital of Morona Santiago province in eastern Ecuador, in the Amazon basin at about 1000 m elevation. Founded in 1565 by Spanish missionaries, Macas is the gateway to the Amazon rainforest and a center for ecotourism. Economy relies on agriculture (coffee, cacao, palm oil) and oil extraction in the region. The city has about 25,000 inhabitants and is known for its proximity to Shuar and Achuar indigenous communities.",
+    },
+    factsAdvanced: {
+      de: ["Macas wurde 1565 gegründet.", "Die Einwohnerzahl beträgt etwa 25.000.", "Die Stadt liegt auf 1000 m Höhe.", "Die Palmenölproduktion beträgt 40.000 Tonnen jährlich.", "Die Erdölfelder der Provinz fördern 60.000 Barrel pro Tag.", "Der Nationalpark Sangay ist 50 km entfernt."],
+      hu: ["Macast 1565-ben alapították.", "A lakosság mintegy 25.000 fő.", "A város 1000 m magasan fekszik.", "A pálmaolaj-termelés évi 40.000 tonna.", "A tartomány olajmezői napi 60.000 hordó olajat termelnek.", "A Sangay Nemzeti Park 50 km-re van."],
+      ro: ["Macas a fost fondat în 1565.", "Populația este de aproximativ 25.000 de locuitori.", "Orașul este la 1000 m altitudine.", "Producția de ulei de palmier este de 40.000 de tone anual.", "Câmpurile petroliere ale provinciei produc 60.000 de barili pe zi.", "Parcul Național Sangay se află la 50 km distanță."],
+      en: ["Macas was founded in 1565.", "Population is about 25,000.", "City is at 1000 m elevation.", "Palm oil production is 40,000 tons annually.", "Province oil fields produce 60,000 barrels per day.", "Sangay National Park is 50 km away."],
+    },
+  },
   {
     id: "yaguachi-cities-v2",
     type: "city",
@@ -1797,7 +1901,20 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az augusztusi éves fesztivál zarándokok ezreit vonzza.", "Az egyik legfontosabb történelmi vasútállomással rendelkezik.", "A mezőgazdaságot a cukornád uralja.", "A Guayas-medence deltájában fekszik."],
       ro: ["Festivalul anual din august atrage mii de pelerini.", "Are una dintre cele mai importante stații de cale ferată istorice.", "Agricultura este dominată de trestia de zahăr.", "Situat în delta bazinului Guayas."],
       en: ["The annual festival in August attracts thousands of pilgrims.", "Has one of the most important historical railway stations.", "Agriculture is dominated by sugarcane.", "Located in the delta of the Guayas Basin."]
-    }, image: "/poi-images/yaguachi-cities-v2.webp"},
+    }, image: "/poi-images/yaguachi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Yaguachi ist eine Stadt in der Provinz Guayas im Westen Ecuadors, nahe Guayaquil. Sie liegt im Tiefland auf etwa 10 m Höhe. Die Stadt wurde 1534 gegründet und ist ein landwirtschaftliches Zentrum, besonders für den Anbau von Reis und Mais. Yaguachi ist bekannt für seine Rennstrecke 'Autódromo de Yaguachi', die nationale Motorsportveranstaltungen ausrichtet. Die Bevölkerung beträgt etwa 40.000. Die Stadt hat eine lange Geschichte; im 19. Jahrhundert war sie Schauplatz von Schlachten während der Unabhängigkeitskriege.",
+      hu: "Yaguachi városa Ecuador nyugati részén, Guayas tartományban, Guayaquil közelében, az alföldön, körülbelül 10 m tengerszint feletti magasságban található. 1534-ben alapították, és mezőgazdasági központ, különösen rizs és kukorica termesztésében. Yaguachi híres a 'Autódromo de Yaguachi' versenypályájáról, ahol nemzeti motorsport-eseményeket rendeznek. A lakosság mintegy 40.000 fő.",
+      ro: "Yaguachi este un oraș în provincia Guayas din vestul Ecuadorului, lângă Guayaquil, în câmpie la aproximativ 10 m altitudine. Fondat în 1534, este un centru agricol, în special pentru orez și porumb. Yaguachi este cunoscut pentru circuitul său 'Autódromo de Yaguachi', care găzduiește evenimente naționale de motorsport. Populația este de aproximativ 40.000 de locuitori.",
+      en: "Yaguachi is a city in Guayas province, western Ecuador, near Guayaquil, in the lowlands at about 10 m elevation. Founded in 1534, it is an agricultural center, particularly for rice and corn. Yaguachi is known for its 'Autódromo de Yaguachi' racetrack, hosting national motorsport events. Population is about 40,000.",
+    },
+    factsAdvanced: {
+      de: ["Yaguachi wurde 1534 gegründet.", "Die Einwohnerzahl beträgt etwa 40.000.", "Die Stadt liegt auf 10 m Höhe.", "Die Reisernte beträgt 30.000 Tonnen jährlich.", "Die Rennstrecke ist 3 km lang.", "Die Durchschnittstemperatur beträgt 25 °C."],
+      hu: ["Yaguachit 1534-ben alapították.", "A lakosság mintegy 40.000 fő.", "A város 10 m magasan fekszik.", "A rizs termése évi 30.000 tonna.", "A versenypálya 3 km hosszú.", "Az átlaghőmérséklet 25 °C."],
+      ro: ["Yaguachi a fost fondat în 1534.", "Populația este de aproximativ 40.000 de locuitori.", "Orașul este la 10 m altitudine.", "Recolta de orez este de 30.000 de tone anual.", "Circuitul are 3 km lungime.", "Temperatura medie este de 25 °C."],
+      en: ["Yaguachi was founded in 1534.", "Population is about 40,000.", "City is at 10 m elevation.", "Rice harvest is 30,000 tons annually.", "The racetrack is 3 km long.", "Average temperature is 25 °C."],
+    },
+  },
   {
     id: "calceta-cities-v2",
     type: "city",
@@ -1816,7 +1933,20 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Ecuador legkerékpárosbarátabb városaként ismert (a kerékpárok városa).", "Az ESPAM mezőgazdasági egyetem otthona.", "1913-ban emelték kanton rangra.", "A Carrizal folyó határozza meg a városképet."],
       ro: ["Cunoscut ca cel mai prietenos oraș pentru bicicliști din Ecuador (Orașul bicicletelor).", "Găzduiește Universitatea de Agricultură ESPAM.", "A devenit canton în 1913.", "Râul Carrizal domină peisajul orașului."],
       en: ["Known as the most bicycle-friendly city in Ecuador (City of Bicycles).", "Home of the ESPAM Agricultural University.", "Was elevated to a canton in 1913.", "The Carrizal River shapes the cityscape."]
-    }, image: "/poi-images/calceta-cities-v2.webp"},
+    }, image: "/poi-images/calceta-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Calceta ist eine Stadt in der Provinz Manabí an der ecuadorianischen Pazifikküste. Sie liegt auf etwa 50 m Höhe und wurde 1842 gegründet. Calceta ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Kakao, Kaffee und tropischen Früchten. Die Stadt hat etwa 30.000 Einwohner. Sie ist auch für ihre Holzmöbelindustrie bekannt. In der Nähe befinden sich die Strände von San Jacinto und der Nationalpark Machalilla.",
+      hu: "Calceta városa Ecuador csendes-óceáni partvidékén, Manabí tartományban, körülbelül 50 m tengerszint feletti magasságban található. 1842-ben alapították. Calceta mezőgazdasági központ, híres kakaó-, kávé- és trópusi gyümölcstermesztéséről. A városnak mintegy 30.000 lakosa van. Faipari bútoriparáról is ismert. A közelben találhatók San Jacinto strandjai és a Machalilla Nemzeti Park.",
+      ro: "Calceta este un oraș în provincia Manabí, pe coasta Pacificului Ecuadorului, la aproximativ 50 m altitudine. Fondat în 1842, Calceta este un centru agricol, cunoscut pentru cacao, cafea și fructe tropicale. Orașul are aproximativ 30.000 de locuitori. Este cunoscut și pentru industria mobilei din lemn. În apropiere se află plajele San Jacinto și Parcul Național Machalilla.",
+      en: "Calceta is a city in Manabí province on Ecuador's Pacific coast, at about 50 m elevation. Founded in 1842, Calceta is an agricultural center, known for cacao, coffee, and tropical fruits. The city has about 30,000 inhabitants. It is also known for its wooden furniture industry. Nearby are San Jacinto beaches and Machalilla National Park.",
+    },
+    factsAdvanced: {
+      de: ["Calceta wurde 1842 gegründet.", "Die Einwohnerzahl beträgt etwa 30.000.", "Die Stadt liegt auf 50 m Höhe.", "Die Kakaoproduktion beträgt 15.000 Tonnen jährlich.", "Die Möbelindustrie exportiert 5.000 Stück pro Jahr.", "Der Nationalpark Machalilla umfasst 750 km²."],
+      hu: ["Calcetát 1842-ben alapították.", "A lakosság mintegy 30.000 fő.", "A város 50 m magasan fekszik.", "A kakaótermelés évi 15.000 tonna.", "A bútoripar évi 5.000 darabot exportál.", "A Machalilla Nemzeti Park 750 km² területű."],
+      ro: ["Calceta a fost fondat în 1842.", "Populația este de aproximativ 30.000 de locuitori.", "Orașul este la 50 m altitudine.", "Producția de cacao este de 15.000 de tone anual.", "Industria mobilei exportă 5.000 de bucăți pe an.", "Parcul Național Machalilla are 750 km²."],
+      en: ["Calceta was founded in 1842.", "Population is about 30,000.", "City is at 50 m elevation.", "Cacao production is 15,000 tons annually.", "Furniture industry exports 5,000 pieces per year.", "Machalilla National Park covers 750 km²."],
+    },
+  },
   {
     id: "arenillas-cities-v2",
     type: "city",

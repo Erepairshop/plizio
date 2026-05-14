@@ -115,7 +115,20 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["A legismertebb formációt 'Királynő feje'-nek hívják.", "A sziklákat a tengervíz több ezer éves eróziója formálta."],
       ro: ["Cea mai cunoscută formațiune se numește 'Capul Reginei'.", "Stâncile au fost sculptate de mii de ani de eroziune marină."],
       en: ["The most famous formation is called the 'Queen's Head'.", "The rocks were shaped by thousands of years of sea erosion."]
-    }, image: "/poi-images/yehliu-geopark-landmarks-v2.webp"},
+    }, image: "/poi-images/yehliu-geopark-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Yehliu-Geopark in Taiwan ist berühmt für seine einzigartigen Felsformationen, die durch Erosion entstanden sind. Der Park liegt auf einer Landzunge an der Nordküste Taiwans. Die bekannteste Formation ist der „Königskopf“, eine pilzförmige Felsstruktur. Weitere Formationen sind „Mädchenschuh“ und „Eiscreme“. Der Park erstreckt sich über eine Fläche von etwa 23 Hektar. Die Felsen bestehen aus Sandstein, der über Millionen von Jahren durch Wind und Wasser geformt wurde. Yehliu ist ein beliebtes Touristenziel und ein wichtiges geologisches Naturdenkmal, das jährlich über eine Million Besucher anzieht.",
+      hu: "A Yehliu Geopark Tajvanon híres különleges, erózió által kialakított sziklaformációiról. A park egy félszigeten található az ország északi partján. A leghíresebb formáció a 'Király feje', egy gomba alakú szikla. Továbbá 'Lány cipője' és 'Fagylalt' elnevezésű formációk is találhatók. A park területe kb. 23 hektár. A sziklák homokkőből állnak, amelyet szél és víz formált évmilliók alatt. Évente egymilliónál több turista látogatja.",
+      ro: "Parcul Geologic Yehliu din Taiwan este renumit pentru formațiunile sale stâncoase unice, create de eroziune. Situat pe o peninsulă pe coasta de nord, parcul se întinde pe 23 de hectare. Cea mai faimoasă formațiune este „Capul Regelui”, o stâncă în formă de ciupercă. Altele includ „Pantoful fetei” și „Înghețata”. Stâncile sunt de gresie, modelate de vânt și apă timp de milioane de ani. Atrage peste un milion de vizitatori anual și este un monument geologic important.",
+      en: "Yehliu Geopark on Taiwan's north coast is known for its erosional rock formations. Covering 23 hectares, the park features hoodoo stones like the 'Queen's Head', a mushroom-shaped rock. Other formations include 'Fairy's Shoe' and 'Ice Cream'. The rocks are sandstone, sculpted by wind and sea over millennia. The park receives over 1 million visitors annually and is a key geological site. Conservation efforts protect the fragile formations from weathering and tourism impact.",
+    },
+    factsAdvanced: {
+      de: ["23 Hektar", "Sandsteinformationen", "'Königskopf' bekannteste", "Millionen Jahre Erosion", "über 1 Mio. Besucher jährlich", "Nordküste Taiwans"],
+      hu: ["23 hektár", "homokkő formációk", "'Király feje' a leghíresebb", "évmilliók eróziója", "évi 1 millió+ látogató", "Tajvan északi partja"],
+      ro: ["23 de hectare", "formațiuni de gresie", "'Capul Regelui' cel mai faimos", "milioane de ani de eroziune", "peste 1 milion de vizitatori anual", "coasta de nord a Taiwanului"],
+      en: ["23 hectares", "sandstone formations", "'Queen's Head' most famous", "millions of years of erosion", "over 1 million visitors annually", "north coast of Taiwan"],
+    },
+  },
   {
     id: "alishan-scenic-area-landmarks-v2",
     type: "landmark",
@@ -198,7 +211,20 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Gyakran mondják, hogy inspirálta a 'Chihiro Szellemországban' című animációs filmet.", "Olyan helyi finomságokról ismert, mint a taró golyó."],
       ro: ["Se spune adesea că a inspirat filmul de animație 'Spirited Away'.", "Cunoscută pentru gustări locale precum biluțele de taro."],
       en: ["Often said to have inspired the animated film 'Spirited Away'.", "Known for local snacks such as taro balls."]
-    }, image: "/poi-images/jiufen-old-street-landmarks-v2.webp"},
+    }, image: "/poi-images/jiufen-old-street-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Jiufen Old Street in Taiwan ist eine historische Gasse, die auf die Goldrauschzeit zurückgeht. Jiufen war einst eine blühende Goldminenstadt, und die Altstadtstraße ist bekannt für ihre engen Gassen, die mit Laternen geschmückt sind. Sie bietet traditionelle taiwanesische Snacks wie Taro Bälle und Fischbällchen. Viele Teehäuser im traditionellen Stil laden zum Verweilen ein. Die Straße zieht täglich Tausende von Touristen an, die das nostalgische Flair erleben möchten. Jiufen diente auch als Inspiration für das Anime „Chihiros Reise ins Zauberland“. Die Aussicht auf die Berge und das Meer macht den Besuch besonders reizvoll.",
+      hu: "A Jiufen Old Street Tajvan egyik történelmi utcája, amely az aranyláz idejéből származik. Jiufen egykor virágzó aranybánya volt, a régi utcát szűk sikátorok és lámpások jellemzik. Hagyományos tajvani ételeket kínál, mint a taro golyók és halgolyók. Sok teaház található itt. Naponta turisták ezrei látogatják. Az utca inspirációként szolgált a 'Chihiro Szellemországban' című animehoz. A hegyekre és a tengerre nyíló kilátás teszi különlegessé.",
+      ro: "Strada veche Jiufen din Taiwan este o alee istorică din epoca goanei după aur. Jiufen a fost un important oraș minier de aur. Strada este strâmtă, împodobită cu felinare, și oferă gustări tradiționale taiwaneze, cum ar fi bile de taro și chifteluțe de pește. Casele de ceai tradiționale sunt populare. Atrage mii de turiști zilnic. A inspirat filmul de animație 'Călătoria lui Chihiro'. Priveliștile spre munți și mare sunt spectaculoase.",
+      en: "Jiufen Old Street in Taiwan is a historic lane from the gold rush era. Once a bustling gold mining town, its narrow alleyways are lined with lanterns and food stalls offering traditional snacks like taro balls and fish balls. Tea houses offer panoramic views of the mountains and sea. The street attracts thousands of daily visitors and inspired Studio Ghibli's 'Spirited Away'. Jiufen retains a nostalgic ambiance with its old architecture and cobblestone paths.",
+    },
+    factsAdvanced: {
+      de: ["Goldrauschzeit", "enge Gassen mit Laternen", "Taro-Bällchen und Fischbällchen", "viele Teehäuser", "Inspiration für Anime", "täglich Tausende Besucher"],
+      hu: ["aranyláz kora", "szűk sikátorok lámpásokkal", "taro golyók és halgolyók", "teaházak", "anime inspiráció", "napi turisták ezrei"],
+      ro: ["epoca goanei după aur", "alei înguste cu felinare", "bile de taro și chifteluțe de pește", "case de ceai", "inspirație pentru anime", "mii de turiști zilnic"],
+      en: ["gold rush era", "narrow alleyways with lanterns", "taro balls and fish balls", "tea houses", "inspiration for anime", "thousands of daily visitors"],
+    },
+  },
   {
     id: "shilin-night-market-landmarks-v2",
     type: "landmark",
@@ -377,7 +403,20 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Számos szabadtéri szobrot és graffitit kínál.", "Népszerű célpont pop-up kiállítások és fesztiválok számára."],
       ro: ["Prezintă numeroase sculpturi în aer liber și graffiti.", "O destinație populară pentru expoziții pop-up și festivaluri."],
       en: ["Features numerous open-air sculptures and graffiti.", "A popular destination for pop-up exhibitions and festivals."]
-    }, image: "/poi-images/pier-2-art-center-landmarks-v2.webp"},
+    }, image: "/poi-images/pier-2-art-center-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Pier-2 Art Center in Kaohsiung, Taiwan, ist ein kreatives Kulturzentrum, das in umgebauten Lagerhäusern aus den 1970er Jahren untergebracht ist. Es liegt am Hafen und erstreckt sich über eine Fläche von etwa 10 Hektar. Das Zentrum zeigt zeitgenössische Kunstausstellungen, Wandmalereien und Skulpturen im öffentlichen Raum. Es ist ein Treffpunkt für Künstler und Kunstliebhaber. Die alten Lagerhäuser wurden in Galerien, Cafés und Geschäfte umgewandelt. Pier-2 ist bekannt für seine regelmäßigen Kunstfestivals und Märkte. Es zieht jährlich Millionen von Besuchern an und hat sich zu einem Symbol der kulturellen Erneuerung Kaohsiungs entwickelt.",
+      hu: "A Pier-2 Art Center Kaohsiungban, Tajvanon, egy kreatív kulturális központ, amely az 1970-es évek raktárépületeiben kapott helyet. A kikötő mellett található, kb. 10 hektáron. Kortárs művészeti kiállításokat, falfestményeket és szobrokat mutat be. Művészek és művészetkedvelők találkozóhelye. A régi raktárakat galériákká, kávézókká és üzletekké alakították. Rendszeres művészeti fesztiválok és piacok helyszíne. Évente milliók látogatják, és Kaohsiung kulturális megújulásának szimbóluma.",
+      ro: "Centrul de Artă Pier-2 din Kaohsiung, Taiwan, este un hub cultural amplasat în foste depozite din anii 1970. Se întinde pe 10 hectare lângă port. Prezintă artă contemporană, picturi murale și sculpturi. Este un loc de întâlnire pentru artiști. Depozitele au fost transformate în galerii, cafenele și magazine. Renumit pentru festivaluri de artă regulate și piețe. Atrage milioane de vizitatori anual și simbolizează reînnoirea culturală a orașului.",
+      en: "Pier-2 Art Center in Kaohsiung, Taiwan, is a creative hub housed in converted 1970s warehouses. Spanning 10 hectares along the harbor, it features contemporary art exhibitions, murals, and public sculptures. The warehouses have been repurposed into galleries, cafes, and shops. Known for its art festivals and markets, it attracts millions of visitors yearly. Pier-2 is a symbol of Kaohsiung's cultural regeneration and a vibrant space for artistic expression.",
+    },
+    factsAdvanced: {
+      de: ["10 Hektar", "1970er Jahre Lagerhäuser", "Hafenlage", "jährliche Festivals", "Millionen Besucher", "Kunst im öffentlichen Raum"],
+      hu: ["10 hektár", "1970-es évek raktárai", "kikötői elhelyezkedés", "éves fesztiválok", "milliók látogatják", "köztéri művészet"],
+      ro: ["10 hectare", "depozite din anii 1970", "amplasare la port", "festivaluri anuale", "milioane de vizitatori", "artă publică"],
+      en: ["10 hectares", "1970s warehouses", "harbor location", "annual festivals", "millions of visitors", "public art"],
+    },
+  },
   {
     id: "raohe-night-market-landmarks-v2",
     type: "landmark",
@@ -524,7 +563,20 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Az épület egy pompás európai palotára emlékeztet.", "Itt található a világ egyik legnagyobb antik hegedűgyűjteménye."],
       ro: ["Clădirea amintește de un palat european magnific.", "Deține una dintre cele mai mari colecții de viori antice din lume."],
       en: ["The building resembles a magnificent European palace.", "Possesses one of the largest collections of antique violins in the world."]
-    }, image: "/poi-images/chimei-museum-landmarks-v2.webp"},
+    }, image: "/poi-images/chimei-museum-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Chimei-Museum in Tainan, Taiwan, ist ein privates Kunstmuseum, das 1992 gegründet wurde. Es beherbergt eine umfangreiche Sammlung westlicher Kunst, darunter Gemälde, Skulpturen und Musikinstrumente. Das Museum ist bekannt für seine Sammlung von Violinen, die zu den bedeutendsten der Welt zählt. Das Gebäude im europäischen Stil ist von einem großen Park umgeben. Das Museum zeigt auch historische Waffen und Rüstungen. Es hat sich zu einem wichtigen kulturellen Zentrum entwickelt und zieht Kunstliebhaber aus aller Welt an. Der Eintritt ist frei, was die Zugänglichkeit fördert.",
+      hu: "A Chimei Múzeum Tainanban, Tajvanon, egy magánművészeti múzeum, 1992-ben alapították. Nyugati művészeti gyűjteménye festményeket, szobrokat és hangszereket foglal magában. Híres hegedűgyűjteményéről, amely a világ egyik legjelentősebbje. Az európai stílusú épületet nagy park öleli körül. Történelmi fegyvereket és páncélokat is kiállít. Fontos kulturális központ, világszerte vonzza a művészetkedvelőket. A belépés ingyenes.",
+      ro: "Muzeul Chimei din Tainan, Taiwan, este un muzeu privat de artă fondat în 1992. Deține o colecție vastă de artă occidentală, inclusiv picturi, sculpturi și instrumente muzicale. Renumit pentru colecția sa de viori, una dintre cele mai importante din lume. Clădirea în stil european este înconjurată de un parc mare. Expoziționează și arme istorice și armuri. Este un centru cultural important care atrage iubitori de artă. Intrarea este gratuită.",
+      en: "Chimei Museum in Tainan, Taiwan, founded in 1992, is a private museum housing a comprehensive collection of Western art, including paintings, sculptures, and musical instruments. It is especially renowned for its violin collection, one of the world's finest. The European-style building sits within a large park. The museum also displays historical weapons and armor. As a major cultural institution, it attracts art enthusiasts globally. Free admission enhances accessibility.",
+    },
+    factsAdvanced: {
+      de: ["1992 gegründet", "private Sammlung", "Violinen-Sammlung weltweit bedeutend", "europäischer Baustil", "Park umgeben", "kostenloser Eintritt"],
+      hu: ["1992-ben alapították", "magángyűjtemény", "világhírű hegedűgyűjtemény", "európai stílusú épület", "parkkal körülvéve", "ingyenes belépés"],
+      ro: ["fondat în 1992", "colecție privată", "colecție renumită de viori", "clădire în stil european", "înconjurat de parc", "intrare gratuită"],
+      en: ["founded in 1992", "private collection", "world-renowned violin collection", "European-style building", "surrounded by park", "free admission"],
+    },
+  },
   {
     id: "yangmingshan-national-park-landmarks-v2",
     type: "landmark",
@@ -543,7 +595,20 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Tajvan kilenc nemzeti parkjának egyike.", "A park jelképe egy hatalmas óra, amely teljesen virágokból készült."],
       ro: ["Unul dintre cele nouă parcuri naționale din Taiwan.", "Emblema parcului este un ceas mare realizat în întregime din flori."],
       en: ["One of the nine national parks in Taiwan.", "The landmark of the park is a large clock made entirely of flowers."]
-    }, image: "/poi-images/yangmingshan-national-park-landmarks-v2.webp"},
+    }, image: "/poi-images/yangmingshan-national-park-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Yangmingshan-Nationalpark in Taiwan liegt nördlich von Taipei und ist bekannt für seine vulkanische Landschaft. Der Park wurde 1985 gegründet und umfasst heiße Quellen, Fumarolen und den erloschenen Vulkan Qixing. Er ist berühmt für seine Kirschblüten im Frühling und die vielfältige Flora. Der Park bietet zahlreiche Wanderwege und Aussichtspunkte, von denen aus man Taipei überblicken kann. Yangmingshan ist auch ein Erholungsgebiet für die Bewohner der Hauptstadt. Der Park beherbergt seltene Pflanzenarten und ist ein wichtiges ökologisches Reservat. Die heißen Quellen sind ein beliebtes Ziel für Besucher.",
+      hu: "A Yangmingshan Nemzeti Park Tajvanon, Taipeitől északra található, vulkanikus tájáról ismert. 1985-ben alapították, hőforrásokkal, fumarolákkal és a kialudt Qixing vulkánnal. Tavasszal a cseresznyevirágzásáról híres. Számos túraútvonalat és kilátópontot kínál. Taipei lakosainak kedvelt pihenőhelye. Ritka növényfajoknak ad otthont, fontos ökológiai rezervátum. A hőforrások népszerű turistacélpontok.",
+      ro: "Parcul Național Yangmingshan din Taiwan, la nord de Taipei, este cunoscut pentru peisajul vulcanic. Fondat în 1985, include izvoare termale, fumarole și vulcanul stins Qixing. Celebr pentru înflorirea cireșilor primăvara. Oferă trasee de drumeție și puncte de belvedere. Este o zonă de agrement pentru locuitorii orașului. Adăpostește specii rare de plante. Izvoarele termale sunt o atracție majoră.",
+      en: "Yangmingshan National Park, north of Taipei, Taiwan, was established in 1985 and features a volcanic landscape with hot springs, fumaroles, and the dormant Qixing volcano. Known for spring cherry blossoms, the park offers hiking trails and scenic views of Taipei. It serves as a recreational getaway for city dwellers and hosts rare flora. The park is ecologically significant, preserving geothermal features and biodiversity. Hot springs are a major draw for tourists.",
+    },
+    factsAdvanced: {
+      de: ["1985 Nationalpark", "vulkanische Landschaft", "Qixing-Vulkan", "heiße Quellen und Fumarolen", "Kirschblüten im Frühling", "nördlich von Taipei"],
+      hu: ["1985-ben nemzeti park", "vulkanikus táj", "Qixing vulkán", "hőforrások és fumarolák", "cseresznyevirágzás tavasszal", "Taipeitől északra"],
+      ro: ["parc național din 1985", "peisaj vulcanic", "vulcanul Qixing", "izvoare termale și fumarole", "înflorirea cireșilor primăvara", "la nord de Taipei"],
+      en: ["national park since 1985", "volcanic landscape", "Qixing volcano", "hot springs and fumaroles", "cherry blossoms in spring", "north of Taipei"],
+    },
+  },
   {
     id: "gaomei-wetlands-landmarks-v2",
     type: "landmark",
@@ -562,6 +627,18 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
       hu: ["Hosszú fa stéggel rendelkezik, amely lehetővé teszi a látogatók számára, hogy a víz felett sétáljanak az élővilág megzavarása nélkül.", "A háttérben látható szélturbinák meghatározzák a hely látképét."],
       ro: ["Dispune de o promenadă lungă din lemn care permite vizitatorilor să se plimbe peste apă fără a deranja viața sălbatică.", "Turbinele eoliene din fundal caracterizează peisajul acestui loc."],
       en: ["It features a long wooden boardwalk that allows visitors to walk over the water without disturbing the wildlife.", "Wind turbines in the background characterize the scenery of this place."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Gaomei-Feuchtgebiete in Taichung, Taiwan, sind ein wichtiges Ökosystem an der Westküste. Sie erstrecken sich über eine Fläche von etwa 300 Hektar und sind bekannt für ihre einzigartigen Windkraftanlagen, die aus dem Wasser ragen. Die Feuchtgebiete sind ein Paradies für Vogelbeobachter, da sie zahlreiche Zugvogelarten beherbergen. Die Sonnenuntergänge mit den Windrädern sind ein beliebtes Fotomotiv. Die Gegend ist auch ein Erholungsgebiet mit Holzstegen, die über das Wasser führen. Die Gaomei-Feuchtgebiete spielen eine wichtige Rolle im Küstenschutz und bieten Lebensraum für viele Tierarten.",
+      hu: "A Gaomei-vadvizenyős terület Tajvanon, Taichungban, a nyugati parton található, kb. 300 hektáron. Híres a vízből kiemelkedő szélturbinákról. Madármegfigyelők paradicsoma, számos vonuló madárfajjal. A naplementék a szélturbinákkal népszerű fotótéma. Fából készült stégek vezetnek a víz fölött. Fontos szerepe van a partvédelemben és az élővilág megőrzésében.",
+      ro: "Zona umedă Gaomei din Taichung, Taiwan, se întinde pe aproximativ 300 de hectare pe coasta de vest. Este cunoscută pentru turbinele eoliene care se înalță din apă. Un paradis pentru observatorii de păsări, găzduind multe specii migratoare. Apusurile cu turbine eoliene sunt populare pentru fotografie. Aleile de lemn duc deasupra apei. Zona joacă un rol crucial în protecția costieră și oferă habitat pentru diverse specii.",
+      en: "Gaomei Wetlands in Taichung, Taiwan, cover about 300 hectares on the west coast. Known for wind turbines rising from the water, they are a birdwatcher's paradise with migratory species. Sunsets with turbines make iconic photo opportunities. Wooden boardwalks allow visitors to explore. The wetlands play a key role in coastal protection and biodiversity conservation. They are a popular recreational spot for locals and tourists.",
+    },
+    factsAdvanced: {
+      de: ["300 Hektar", "Windkraftanlagen", "Vogelbeobachtung", "Holzstege", "Küstenschutz", "Sonnenuntergangsfotografie"],
+      hu: ["300 hektár", "szélturbinák", "madármegfigyelés", "fa stégek", "partvédelem", "naplemente fotózás"],
+      ro: ["300 de hectare", "turbine eoliene", "observarea păsărilor", "alei de lemn", "protecție costieră", "fotografii la apus"],
+      en: ["300 hectares", "wind turbines", "birdwatching", "boardwalks", "coastal protection", "sunset photography"],
+    },
   }
 ];

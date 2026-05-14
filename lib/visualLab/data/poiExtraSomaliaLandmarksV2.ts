@@ -1444,7 +1444,20 @@ export const poiExtraSomaliaLandmarksV2: POI[] = [
         "Built in the 7th century.",
         "Important archaeological relic."
       ]
-    }, image: "/poi-images/so-zeila-qiblateyn-mosque-ruins-landmarks-v2.webp"},
+    }, image: "/poi-images/so-zeila-qiblateyn-mosque-ruins-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Qiblateyn-Moschee in Zeila, Somalia, sind ein bedeutendes historisches Wahrzeichen. Sie stammt aus dem 10. Jahrhundert und ist eine der ältesten Moscheen in Ostafrika. Der Legende nach hat sie zwei Gebetsnischen (Mihrab), die in verschiedene Richtungen zeigen, was auf frühe islamische Kontroversen über die Gebetsrichtung hinweist. Die Moschee wurde aus Korallenstein gebaut, einem typischen Baumaterial der Region. Obwohl sie heute teilweise verfallen ist, ziehen die Ruinen Historiker und Touristen an. Die Stadt Zeila selbst war im Mittelalter ein wichtiges Handelszentrum. Die Moschee ist ein Zeugnis der reichen islamischen Geschichte Somalias.",
+      hu: "A Qiblateyn mecset romjai Szomália Zeila városában találhatók, és a 10. századból származnak. Ez Kelet-Afrika egyik legrégebbi mecsetje, amely két mihrából (ima irányt mutató fülke) áll, ami az iszlám korai időszakában a kibla irányával kapcsolatos vitákra utal. A mecset korallkőből épült, ami a régió hagyományos építőanyaga. Bár mára részben romos, a helyszín fontos régészeti és vallási jelentőséggel bír. Zeila a középkorban virágzó kereskedelmi kikötő volt. A Qiblateyn mecset az iszlám régészet egyik kiemelkedő emléke Szomáliában.",
+      ro: "Ruinele Moscheii Qiblateyn din Zeila, Somalia, datează din secolul al X-lea și sunt una dintre cele mai vechi moschei din Africa de Est. Caracteristica sa unică este prezența a două mihraburi (nișe care indică direcția rugăciunii), reflectând controversele timpurii islamice privind qibla. Construită din piatră de corali, material tradițional local, moscheea este acum parțial ruinată, dar rămâne un sit arheologic important. Zeila a fost un centru comercial medieval. Moscheea simbolizează moștenirea islamică bogată a Somaliei.",
+      en: "The Qiblateyn Mosque ruins in Zeila, Somalia, date to the 10th century, making it one of the oldest mosques in East Africa. It features two mihrabs (prayer niches) pointing in different directions, indicating early Islamic debates about the qibla direction. Built from coral stone, a regional building material, the mosque is now partially collapsed. Zeila was a thriving medieval trade port. The site attracts historians and tourists interested in Islamic archaeology. It stands as a testament to Somalia's deep Islamic heritage.",
+    },
+    factsAdvanced: {
+      de: ["10. Jahrhundert", "zwei Mihrab", "Korallenstein-Bauweise", "Zeila war mittelalterliches Handelszentrum", "teilweise verfallen", "älteste Moschee Ostafrikas"],
+      hu: ["10. század", "két mihrab", "korallkő építőanyag", "Zeila középkori kereskedelmi kikötő", "részben romos", "Kelet-Afrika legrégebbi mecsetje"],
+      ro: ["secolul al X-lea", "două mihraburi", "construită din piatră de corali", "Zeila a fost port comercial medieval", "parțial ruinată", "cea mai veche moschee din Africa de Est"],
+      en: ["10th century", "two mihrabs", "built of coral stone", "Zeila was a medieval trade port", "partially ruined", "oldest mosque in East Africa"],
+    },
+  },
   {
     id: "so-zeila-old-sea-wall-landmarks-v2",
     type: "landmark",

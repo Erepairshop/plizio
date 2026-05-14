@@ -484,7 +484,20 @@ export const poiExtraEritreaReliefV2: POI[] = [
       hu: ["Homokos talajok", "Datolyapálmák"],
       ro: ["Soluri nisipoase", "Palmiere de curmale"],
       en: ["Sandy soils", "Date palms"]
-    }, image: "/poi-images/merea-plain-relief-v2.webp"},
+    }, image: "/poi-images/merea-plain-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Merea-Ebene ist eine ausgedehnte Tiefebene im Osten des Tschad, die sich südlich des Tschadsees erstreckt. Sie liegt auf einer Höhe von etwa 280 m und wird von saisonalen Überschwemmungen des Schari-Flusses beeinflusst. Die Ebene ist bedeckt mit Schwemmböden und Savannenvegetation. Sie ist dünn besiedelt, hauptsächlich von nomadischen Viehzüchtern. Die Region ist Teil des Einzugsgebiets des Tschadsees und ökologisch wichtig für Wasservögel.",
+      hu: "A Merea-síkság egy hatalmas alföld Csád keleti részén, a Csád-tótól délre húzódva. Tengerszint feletti magassága körülbelül 280 m, és a Shari folyó évszakos áradásai formálják. A síkságot hordalékos talaj és szavanna növényzet borítja. Ritkán lakott, főként nomád pásztorok által. A régió a Csád-tó vízgyűjtőjének része, és ökológiailag fontos a vízimadarak számára.",
+      ro: "Câmpia Merea este o vastă câmpie joasă în estul Ciadului, întinzându-se la sud de Lacul Ciad. Altitudinea este de aproximativ 280 m, și este influențată de inundațiile sezoniere ale râului Shari. Câmpia este acoperită de soluri aluviale și vegetație de savană. Este slab populată, în principal de păstori nomazi. Regiunea face parte din bazinul hidrografic al Lacului Ciad și este importantă ecologic pentru păsările acvatice.",
+      en: "The Merea Plain is a vast lowland in eastern Chad, extending south of Lake Chad. It lies at about 280 m elevation and is influenced by seasonal flooding from the Shari River. The plain is covered with alluvial soils and savanna vegetation. It is sparsely populated, mainly by nomadic herders. The region is part of the Lake Chad drainage basin and is ecologically important for waterbirds.",
+    },
+    factsAdvanced: {
+      de: ["Die Ebene liegt auf 280 m Höhe.", "Die Fläche beträgt etwa 15.000 km².", "Der Schari-Fluss ist 1.200 km lang.", "Die jährliche Niederschlagsmenge beträgt 500 mm.", "Die Bevölkerung beträgt weniger als 5 Einwohner pro km².", "Der Tschadsee ist 100 km nördlich."],
+      hu: ["A síkság 280 m magasan fekszik.", "Területe körülbelül 15.000 km².", "A Shari folyó 1.200 km hosszú.", "Az éves csapadék 500 mm.", "A népsűrűség kevesebb, mint 5 fő/km².", "A Csád-tó 100 km-re északra található."],
+      ro: ["Câmpia se află la 280 m altitudine.", "Suprafața este de aproximativ 15.000 km².", "Râul Shari are 1.200 km lungime.", "Precipitațiile anuale sunt de 500 mm.", "Densitatea populației este mai mică de 5 locuitori pe km².", "Lacul Ciad se află la 100 km nord."],
+      en: ["The plain is at 280 m elevation.", "Area is about 15,000 km².", "The Shari River is 1,200 km long.", "Annual rainfall is 500 mm.", "Population density is less than 5 per km².", "Lake Chad is 100 km north."],
+    },
+  },
   {
     id: "hames-mountain-relief-v2",
     type: "mountain",

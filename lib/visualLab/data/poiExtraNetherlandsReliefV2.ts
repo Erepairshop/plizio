@@ -6,7 +6,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "peak",
     parent: "NL",
     name: { de: "Vaalserberg", hu: "Vaalserberg", ro: "Vaalserberg", en: "Vaalserberg" },
-    coordinates: { lat: 50.7597, lng: 6.0203 },
+    coords: [6.0203, 50.7597],
     description: {
       de: "Der Vaalserberg ist die höchste Erhebung des europäischen Teils der Niederlande. Er erreicht eine Höhe von 322,4 Metern über dem Meeresspiegel.",
       hu: "A Vaalserberg Hollandia európai részének legmagasabb pontja. Tengerszint feletti magassága 322,4 méter.",
@@ -38,7 +38,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Sint-Pietersberg", hu: "Sint-Pietersberg", ro: "Sint-Pietersberg", en: "Sint-Pietersberg" },
-    coordinates: { lat: 50.8228, lng: 5.6811 },
+    coords: [5.6811, 50.8228],
     description: {
       de: "Der Sint-Pietersberg ist ein Hügel südlich von Maastricht aus Kreidegestein. Er zeichnet sich durch ein ausgedehntes unterirdisches Tunnelsystem aus.",
       hu: "A Sint-Pietersberg egy mészkőhegy Maastricht déli részén. Kiterjedt földalatti alagútrendszeréről ismert.",
@@ -70,7 +70,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Wieringen Hochland", hu: "Wieringen-felföld", ro: "Wieringen-platou", en: "Wieringen Highlands" },
-    coordinates: { lat: 52.9083, lng: 4.975 },
+    coords: [4.975, 52.9083],
     description: {
       de: "Wieringen ist ein ehemaliges Inselgebiet in der Provinz Nordholland. Es zeichnet sich durch seine leicht erhöhte, hügelige Landschaft aus.",
       hu: "Wieringen egykori sziget Észak-Holland tartományban. Enyhén emelkedő, dombos tája jellemzi.",
@@ -102,7 +102,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Posbank", hu: "Posbank", ro: "Posbank", en: "Posbank" },
-    coordinates: { lat: 52.0167, lng: 6.0333 },
+    coords: [6.0333, 52.0167],
     description: {
       de: "Die Posbank ist eine markante Anhöhe im Nationalpark Veluwezoom. Sie bietet eine weitläufige Heidelandschaft mit deutlichen Höhenunterschieden.",
       hu: "A Posbank egy kiemelkedő domb a Veluwezoom Nemzeti Parkban. Kiterjedt hangás táj jellemzi, jelentős szintkülönbségekkel.",
@@ -134,7 +134,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Holterberg", hu: "Holterberg", ro: "Holterberg", en: "Holterberg" },
-    coordinates: { lat: 52.3167, lng: 6.45 },
+    coords: [6.45, 52.3167],
     description: {
       de: "Der Holterberg ist ein Hügel im Sallandse Heuvelrug. Er besteht aus glazialen Ablagerungen und ist bewaldet.",
       hu: "A Holterberg egy domb a Sallandse Heuvelrug területén. Jégkorszaki üledékekből épül fel és erdő borítja.",
@@ -166,7 +166,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Grebbeberg", hu: "Grebbeberg", ro: "Grebbeberg", en: "Grebbeberg" },
-    coordinates: { lat: 51.9564, lng: 5.5911 },
+    coords: [5.5911, 51.9564],
     description: {
       de: "Der Grebbeberg ist eine bewaldete Endmoräne bei Rhenen. Er liegt am Übergang zwischen der Veluwe und dem Rheintal.",
       hu: "A Grebbeberg egy erdős végmoréna Rhenen közelében. A Veluwe és a Rajna-völgy határán helyezkedik el.",
@@ -198,7 +198,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Amerongse Berg", hu: "Amerongse Berg", ro: "Amerongse Berg", en: "Amerongse Berg" },
-    coordinates: { lat: 52.0, lng: 5.4667 },
+    coords: [5.4667, 52.0],
     description: {
       de: "Der Amerongse Berg ist die höchste Erhebung des Utrechtse Heuvelrug. Er zeichnet sich durch dichten Mischwald aus.",
       hu: "Az Amerongse Berg az Utrechtse Heuvelrug legmagasabb pontja. Sűrű vegyes erdő borítja.",
@@ -230,7 +230,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Lemelerberg", hu: "Lemelerberg", ro: "Lemelerberg", en: "Lemelerberg" },
-    coordinates: { lat: 52.45, lng: 6.4333 },
+    coords: [6.4333, 52.45],
     description: {
       de: "Der Lemelerberg ist ein isolierter Hügel in Overijssel. Er bietet eine abwechslungsreiche Landschaft aus Heide und Wald.",
       hu: "A Lemelerberg egy elszigetelt domb Overijsselben. Változatos táj jellemzi, hangával és erdővel.",
@@ -262,7 +262,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Scherpenberg", hu: "Scherpenberg", ro: "Scherpenberg", en: "Scherpenberg" },
-    coordinates: { lat: 52.01, lng: 5.48 },
+    coords: [5.48, 52.01],
     description: {
       de: "Der Scherpenberg ist eine kleine Anhöhe innerhalb des Utrechtse Heuvelrug. Sie ist stark bewaldet.",
       hu: "A Scherpenberg egy kis kiemelkedés az Utrechtse Heuvelrug területén. Sűrűn erdősült.",
@@ -294,7 +294,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Zonnestraal Hügel", hu: "Zonnestraal-domb", ro: "Zonnestraal colină", en: "Zonnestraal Hill" },
-    coordinates: { lat: 52.215, lng: 5.185 },
+    coords: [5.185, 52.215],
     description: {
       de: "Der Zonnestraal Hügel liegt in der Nähe von Hilversum auf den sandigen Böden der Gooi-Region. Er ist Teil einer hügeligen Waldlandschaft.",
       hu: "A Zonnestraal-domb Hilversum közelében, a Gooi-régió homokos talaján fekszik. Dombos erdős táj része.",
@@ -326,7 +326,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "valley",
     parent: "NL",
     name: { de: "Kootwijkerzand", hu: "Kootwijkerzand", ro: "Kootwijkerzand", en: "Kootwijkerzand" },
-    coordinates: { lat: 52.1667, lng: 5.75 },
+    coords: [5.75, 52.1667],
     description: {
       de: "Das Kootwijkerzand ist eine große Flugsandfläche inmitten der Veluwe. Es ist ein offenes, dynamisches Relief.",
       hu: "A Kootwijkerzand egy nagy futóhomokterület a Veluwe közepén. Nyitott, dinamikus domborzat.",
@@ -358,7 +358,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Duin- en Kruidberg", hu: "Duin- en Kruidberg", ro: "Duin- en Kruidberg", en: "Duin- en Kruidberg" },
-    coordinates: { lat: 52.4167, lng: 4.5833 },
+    coords: [4.5833, 52.4167],
     description: {
       de: "Duin- en Kruidberg ist ein hügeliges Dünengebiet im Nationalpark Zuid-Kennemerland. Es zeichnet sich durch hohe Sanddünen aus.",
       hu: "A Duin- en Kruidberg egy dombos dűnevidék a Zuid-Kennemerland Nemzeti Parkban. Magas homokdűnék jellemzik.",
@@ -390,7 +390,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "valley",
     parent: "NL",
     name: { de: "Binnenveld", hu: "Binnenveld", ro: "Binnenveld", en: "Binnenveld" },
-    coordinates: { lat: 52.05, lng: 5.6 },
+    coords: [5.6, 52.05],
     description: {
       de: "Das Binnenveld ist ein tief liegendes Niedermoor- und Wiesengebiet zwischen der Veluwe und dem Utrechter Hügelrücken.",
       hu: "A Binnenveld egy mélyen fekvő lápi és réti terület a Veluwe és az Utrechti-dombság között.",
@@ -422,7 +422,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Veluwezoom Moräne", hu: "Veluwezoom-moréna", ro: "Veluwezoom morenă", en: "Veluwezoom Moraine" },
-    coordinates: { lat: 52.0333, lng: 6.05 },
+    coords: [6.05, 52.0333],
     description: {
       de: "Die Veluwezoom ist ein hügeliges Moränengebiet im Osten der Veluwe. Sie ist reich an Wäldern und Sandflächen.",
       hu: "A Veluwezoom egy dombos morénavidék a Veluwe keleti részén. Erdei és homokos területei gazdagok.",
@@ -454,7 +454,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Schoorlse Dünen", hu: "Schoorlse-dűnék", ro: "Dunele Schoorl", en: "Schoorl Dunes" },
-    coordinates: { lat: 52.6833, lng: 4.6667 },
+    coords: [4.6667, 52.6833],
     description: {
       de: "Die Schoorlse Dünen sind das höchste und breiteste Dünengebiet der Niederlande. Sie bieten ein markantes, hügeliges Relief.",
       hu: "A Schoorlse-dűnék Hollandia legmagasabb és legszélesebb dűnevidéke. Jellegzetes, dombos domborzatú.",
@@ -486,7 +486,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Rozenheuvel", hu: "Rozenheuvel", ro: "Rozenheuvel", en: "Rozenheuvel" },
-    coordinates: { lat: 52.022, lng: 6.04 },
+    coords: [6.04, 52.022],
     description: {
       de: "Der Rozenheuvel ist ein Aussichtspunkt im Nationalpark Veluwezoom. Er liegt auf einem Moränenhügel.",
       hu: "A Rozenheuvel egy kilátópont a Veluwezoom Nemzeti Parkban. Egy morénadombon helyezkedik el.",
@@ -518,7 +518,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Sint Jansberg", hu: "Sint Jansberg", ro: "Sint Jansberg", en: "Sint Jansberg" },
-    coordinates: { lat: 51.7167, lng: 5.95 },
+    coords: [5.95, 51.7167],
     description: {
       de: "Der Sint Jansberg ist ein hügeliges bewaldetes Gebiet bei Groesbeek. Er entstand durch eiszeitliche Stauchungen.",
       hu: "A Sint Jansberg egy dombos erdős terület Groesbeek közelében. Jégkorszaki feltorlódások révén alakult ki.",
@@ -550,7 +550,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Duivelsberg", hu: "Duivelsberg", ro: "Duivelsberg", en: "Duivelsberg" },
-    coordinates: { lat: 51.8167, lng: 5.9333 },
+    coords: [5.9333, 51.8167],
     description: {
       de: "Der Duivelsberg ist ein bekannter Hügel bei Nijmegen. Er ist Teil einer ausgedehnten Moränenlandschaft.",
       hu: "A Duivelsberg egy ismert domb Nijmegen mellett. Kiterjedt morénatáj része.",
@@ -582,7 +582,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Sallandse Heuvelrug Gipfel", hu: "Sallandse Heuvelrug-csúcs", ro: "Sallandse Heuvelrug vârf", en: "Sallandse Heuvelrug Peak" },
-    coordinates: { lat: 52.35, lng: 6.45 },
+    coords: [6.45, 52.35],
     description: {
       de: "Der Sallandse Heuvelrug Gipfel ist eine der höchsten Erhebungen im gleichnamigen Nationalpark. Er besteht aus glazialem Sand.",
       hu: "A Sallandse Heuvelrug-csúcs az azonos nevű nemzeti park egyik legmagasabb pontja. Glaciális homokból épül fel.",
@@ -614,7 +614,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Haarlemmerliede Rücken", hu: "Haarlemmerliede-hát", ro: "Haarlemmerliede creste", en: "Haarlemmerliede Ridges" },
-    coordinates: { lat: 52.3833, lng: 4.65 },
+    coords: [4.65, 52.3833],
     description: {
       de: "Die Haarlemmerliede Rücken sind leicht erhöhte Landschaftsstrukturen. Sie entstanden durch historische geologische Prozesse.",
       hu: "A Haarlemmerliede-hátak enyhén megemelkedett tájszerkezetek. Történelmi geológiai folyamatok során keletkeztek.",
@@ -646,7 +646,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Schiermonnikoog Dünenkamm", hu: "Schiermonnikoog-dűnegerinc", ro: "Schiermonnikoog creastă dune", en: "Schiermonnikoog Dune Ridge" },
-    coordinates: { lat: 53.4833, lng: 6.2 },
+    coords: [6.2, 53.4833],
     description: {
       de: "Der Dünenkamm auf Schiermonnikoog ist ein geschütztes Relief. Die Dünen schützen die Insel vor dem Nordseewasser.",
       hu: "A Schiermonnikoog-dűnegerinc egy védett domborzat. A dűnék védik a szigetet az Északi-tenger vizétől.",
@@ -678,7 +678,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Texel Dünengipfel", hu: "Texel-dűnecsúcs", ro: "Texel vârf dună", en: "Texel Dune Peak" },
-    coordinates: { lat: 53.1, lng: 4.75 },
+    coords: [4.75, 53.1],
     description: {
       de: "Texel Dünengipfel sind markante Erhebungen im Dünengebiet der Insel Texel. Sie bieten weite Sicht auf das Meer.",
       hu: "A Texel-dűnecsúcsok a sziget dűnevidékének jellegzetes kiemelkedései. Tágas kilátást nyújtanak a tengerre.",
@@ -710,7 +710,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Berg en Dal Rücken", hu: "Berg en Dal-hát", ro: "Berg en Dal creastă", en: "Berg en Dal Ridge" },
-    coordinates: { lat: 51.8167, lng: 5.9167 },
+    coords: [5.9167, 51.8167],
     description: {
       de: "Der Berg en Dal Rücken ist ein bewaldetes Moränengebiet nahe Nijmegen. Er zeigt ein ausgeprägtes hügeliges Relief.",
       hu: "A Berg en Dal-hát egy erdős morénavidék Nijmegen közelében. Jellegzetesen dombos domborzatú.",
@@ -742,7 +742,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Geulhemmerberg", hu: "Geulhemmerberg", ro: "Geulhemmerberg", en: "Geulhemmerberg" },
-    coordinates: { lat: 50.85, lng: 5.7833 },
+    coords: [5.7833, 50.85],
     description: {
       de: "Der Geulhemmerberg ist ein Hügel im Mergelland bei Valkenburg. Er ist bekannt für seine geologische Schichtung.",
       hu: "A Geulhemmerberg egy domb a Valkenburg melletti Mergellandban. Geológiai rétegződéséről ismert.",
@@ -774,7 +774,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Cauberg", hu: "Cauberg", ro: "Cauberg", en: "Cauberg" },
-    coordinates: { lat: 50.86, lng: 5.82 },
+    coords: [5.82, 50.86],
     description: {
       de: "Der Cauberg ist ein berühmter Hügel bei Valkenburg. Er ist zentraler Bestandteil vieler Radsportwettbewerbe.",
       hu: "A Cauberg egy híres domb Valkenburg mellett. Számos kerékpáros verseny központi része.",
@@ -806,7 +806,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Esberg", hu: "Esberg", ro: "Esberg", en: "Esberg" },
-    coordinates: { lat: 51.5833, lng: 5.4333 },
+    coords: [5.4333, 51.5833],
     description: {
       de: "Der Esberg ist eine Erhebung im Raum Brabant. Er ist Teil einer flachhügeligen Landschaft.",
       hu: "Az Esberg egy kiemelkedés Brabant térségében. Egy enyhén dombos táj része.",
@@ -838,7 +838,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Vlieberg", hu: "Vlieberg", ro: "Vlieberg", en: "Vlieberg" },
-    coordinates: { lat: 53.25, lng: 5.0833 },
+    coords: [5.0833, 53.25],
     description: {
       de: "Der Vlieberg ist eine Erhebung in einem Dünengebiet im Norden. Er wurde durch Windablagerungen geformt.",
       hu: "A Vlieberg egy kiemelkedés egy északi dűnevidéken. Szélhordta lerakódások formálták.",
@@ -870,7 +870,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Schaelsberg", hu: "Schaelsberg", ro: "Schaelsberg", en: "Schaelsberg" },
-    coordinates: { lat: 50.86, lng: 5.85 },
+    coords: [5.85, 50.86],
     description: {
       de: "Der Schaelsberg ist ein bewaldeter Hügel im Mergelland. Er liegt nahe dem Geul-Tal.",
       hu: "A Schaelsberg egy erdős domb a Mergellandban. A Geul-völgy közelében fekszik.",
@@ -902,7 +902,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Drieberg", hu: "Drieberg", ro: "Drieberg", en: "Drieberg" },
-    coordinates: { lat: 52.05, lng: 5.4667 },
+    coords: [5.4667, 52.05],
     description: {
       de: "Der Drieberg ist eine kleine Anhöhe auf dem Utrechtse Heuvelrug. Er zeichnet sich durch Waldflächen aus.",
       hu: "A Drieberg egy kis domb az Utrechtse Heuvelrugon. Erdős területek jellemzik.",
@@ -934,7 +934,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Zevenheuvelen", hu: "Zevenheuvelen", ro: "Zevenheuvelen", en: "Zevenheuvelen" },
-    coordinates: { lat: 51.7833, lng: 5.9167 },
+    coords: [5.9167, 51.7833],
     description: {
       de: "Die Zevenheuvelen sind eine hügelige Moränenlandschaft bei Groesbeek. Der Name bedeutet wörtlich 'Sieben Hügel'.",
       hu: "A Zevenheuvelen egy dombos morénatáj Groesbeek közelében. A név szó szerint 'Hét dombot' jelent.",
@@ -966,7 +966,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Holterberg Gipfel", hu: "Holterberg-csúcs", ro: "Holterberg vârf", en: "Holterberg Summit" },
-    coordinates: { lat: 52.32, lng: 6.455 },
+    coords: [6.455, 52.32],
     description: {
       de: "Der Holterberg Gipfel ist eine markante Erhebung des Sallandse Heuvelrug. Er bietet weite Blicke.",
       hu: "A Holterberg-csúcs a Sallandse Heuvelrug egyik jellegzetes kiemelkedése. Széles kilátást nyújt.",
@@ -998,7 +998,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Kruisberg", hu: "Kruisberg", ro: "Kruisberg", en: "Kruisberg" },
-    coordinates: { lat: 51.9833, lng: 6.25 },
+    coords: [6.25, 51.9833],
     description: {
       de: "Der Kruisberg ist eine Anhöhe in der Achterhoek-Region. Er ist von Mischwald umgeben.",
       hu: "A Kruisberg egy domb az Achterhoek-régióban. Vegyes erdő veszi körül.",
@@ -1030,7 +1030,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Heilig Landstichting Hügel", hu: "Heilig Landstichting-domb", ro: "Heilig Landstichting deal", en: "Heilig Landstichting Hill" },
-    coordinates: { lat: 51.8167, lng: 5.8667 },
+    coords: [5.8667, 51.8167],
     description: {
       de: "Diese Hügellandschaft bei Nijmegen zeichnet sich durch bewaldete Moränenzüge aus.",
       hu: "Ez a Nijmegen melletti dombvidék erdős morénahátakkal jellemezhető.",
@@ -1062,7 +1062,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Sint-Pietersberg Plateau", hu: "Sint-Pietersberg-fennsík", ro: "Sint-Pietersberg platou", en: "Sint-Pietersberg Plateau" },
-    coordinates: { lat: 50.8167, lng: 5.6833 },
+    coords: [5.6833, 50.8167],
     description: {
       de: "Das Plateau des Sint-Pietersberg liegt über dem Maas-Tal. Es bietet einen weiten Blick über die Umgebung.",
       hu: "A Sint-Pietersberg fennsíkja a Maas-völgy felett fekszik. Tágas kilátást nyújt a környezetre.",
@@ -1094,7 +1094,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Drieberg Gipfel", hu: "Drieberg-csúcs", ro: "Drieberg vârf", en: "Drieberg Summit" },
-    coordinates: { lat: 52.055, lng: 5.47 },
+    coords: [5.47, 52.055],
     description: {
       de: "Der Drieberg Gipfel bildet den höchsten Punkt dieses kleinen Hügels im Utrechtse Heuvelrug.",
       hu: "A Drieberg-csúcs az Utrechtse Heuvelrug ezen kis dombjának legmagasabb pontja.",
@@ -1126,7 +1126,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "valley",
     parent: "NL",
     name: { de: "Haarlem Dünental", hu: "Haarlem-dűnevölgy", ro: "Haarlem vale dune", en: "Haarlem Dune Valley" },
-    coordinates: { lat: 52.3833, lng: 4.55 },
+    coords: [4.55, 52.3833],
     description: {
       de: "Das Haarlem Dünental ist ein tieferer Bereich zwischen den Küstendünen. Es bietet ein feuchtes Relief.",
       hu: "A Haarlem-dűnevölgy a parti dűnék közötti mélyebb terület. Nedves domborzat jellemzi.",
@@ -1158,7 +1158,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Oosterbeek Hügel", hu: "Oosterbeek-domb", ro: "Oosterbeek deal", en: "Oosterbeek Hill" },
-    coordinates: { lat: 51.9833, lng: 5.8333 },
+    coords: [5.8333, 51.9833],
     description: {
       de: "Der Oosterbeek Hügel liegt am Rande der Veluwe. Er ist Teil einer hügeligen Moränenlandschaft.",
       hu: "Az Oosterbeek-domb a Veluwe szélén fekszik. Egy dombos morénatáj része.",
@@ -1190,7 +1190,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Renkum Hügel", hu: "Renkum-domb", ro: "Renkum deal", en: "Renkum Hill" },
-    coordinates: { lat: 51.9667, lng: 5.7333 },
+    coords: [5.7333, 51.9667],
     description: {
       de: "Der Renkum Hügel ist eine bewaldete Erhebung nahe dem Rhein. Er zeigt ein sandiges Relief.",
       hu: "A Renkum-domb egy erdős kiemelkedés a Rajna közelében. Homokos domborzatú.",
@@ -1222,7 +1222,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Lunteren Sandhügel", hu: "Lunteren-homokdomb", ro: "Lunteren deal nisip", en: "Lunteren Sand Hill" },
-    coordinates: { lat: 52.0833, lng: 5.65 },
+    coords: [5.65, 52.0833],
     description: {
       de: "Die Lunteren Sandhügel sind eine typische glaziale Landschaftsform auf der Veluwe. Sie bestehen aus Sand.",
       hu: "A Lunteren-homokdombok egy tipikus glaciális tájformák a Veluwén. Homokból állnak.",
@@ -1254,7 +1254,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Doornse Berg", hu: "Doornse Berg", ro: "Doornse Berg", en: "Doornse Berg" },
-    coordinates: { lat: 52.0333, lng: 5.35 },
+    coords: [5.35, 52.0333],
     description: {
       de: "Der Doornse Berg ist eine Erhebung auf dem Utrechtse Heuvelrug. Er ist dicht bewaldet.",
       hu: "A Doornse Berg egy kiemelkedés az Utrechtse Heuvelrugon. Sűrűn erdősült.",
@@ -1286,7 +1286,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Elspeet Hügel", hu: "Elspeet-domb", ro: "Elspeet deal", en: "Elspeet Hill" },
-    coordinates: { lat: 52.2667, lng: 5.7667 },
+    coords: [5.7667, 52.2667],
     description: {
       de: "Die Elspeet Hügel liegen inmitten der Veluwe-Heidelandschaft. Sie weisen ein sandiges, hügeliges Relief auf.",
       hu: "Az Elspeet-dombok a Veluwe-hangás táj közepén fekszenek. Homokos, dombos domborzat jellemzi őket.",
@@ -1318,7 +1318,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Drie Berg Kuppe", hu: "Drie Berg-csúcs", ro: "Drie Berg vârf", en: "Drie Berg Top" },
-    coordinates: { lat: 52.06, lng: 5.475 },
+    coords: [5.475, 52.06],
     description: {
       de: "Die Drie Berg Kuppe ist ein kleinerer Moränenhügel im zentralen Utrechtse Heuvelrug.",
       hu: "A Drie Berg-csúcs egy kisebb morénadomb a központi Utrechtse Heuvelrugon.",
@@ -1350,7 +1350,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Velp Hügelrücken", hu: "Velp-dombhát", ro: "Velp creastă", en: "Velp Hill Ridge" },
-    coordinates: { lat: 52.0, lng: 5.9667 },
+    coords: [5.9667, 52.0],
     description: {
       de: "Der Velp Hügelrücken ist ein Teil der östlichen Moränenlandschaft der Veluwe. Er ist bewaldet.",
       hu: "A Velp-dombhát a Veluwe keleti morénatájának része. Erdősült.",
@@ -1382,7 +1382,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Lunteren Berg", hu: "Lunteren-hegy", ro: "Lunteren munte", en: "Lunteren Hill" },
-    coordinates: { lat: 52.08, lng: 5.6333 },
+    coords: [5.6333, 52.08],
     description: {
       de: "Der Lunteren Berg ist eine bewaldete Anhöhe auf sandigen Böden.",
       hu: "A Lunteren-hegy egy erdős kiemelkedés homokos talajon.",
@@ -1414,7 +1414,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Nördlicher Dünengipfel", hu: "Északi-dűnecsúcs", ro: "Vârf dună nord", en: "Northern Dune Peak" },
-    coordinates: { lat: 53.4, lng: 5.5 },
+    coords: [5.5, 53.4],
     description: {
       de: "Der Nördliche Dünengipfel liegt in einem weitläufigen Küstendünengebiet. Er besteht aus feinem Sand.",
       hu: "Az Északi-dűnecsúcs egy kiterjedt parti dűnevidéken fekszik. Finom homokból áll.",
@@ -1446,7 +1446,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Doorn Hügel", hu: "Doorn-domb", ro: "Doorn deal", en: "Doorn Hill" },
-    coordinates: { lat: 52.03, lng: 5.3333 },
+    coords: [5.3333, 52.03],
     description: {
       de: "Der Doorn Hügel liegt im Utrechtse Heuvelrug. Er weist ein bewaldetes Relief auf.",
       hu: "A Doorn-domb az Utrechtse Heuvelrugon fekszik. Erdős domborzatú.",
@@ -1478,7 +1478,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Velp Moränenhügel", hu: "Velp-morénadomb", ro: "Velp deal morenic", en: "Velp Moraine Hill" },
-    coordinates: { lat: 52.01, lng: 5.98 },
+    coords: [5.98, 52.01],
     description: {
       de: "Der Velp Moränenhügel gehört zum komplexen Moränensystem im Osten der Veluwe.",
       hu: "A Velp-morénadomb a Veluwe keleti részén található komplex morénarendszer része.",
@@ -1510,7 +1510,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Scherpenzeel Rücken", hu: "Scherpenzeel-hát", ro: "Scherpenzeel creastă", en: "Scherpenzeel Ridge" },
-    coordinates: { lat: 52.0833, lng: 5.4833 },
+    coords: [5.4833, 52.0833],
     description: {
       de: "Der Scherpenzeel Rücken ist eine langgezogene Erhebung am Rande des Heuvelrug.",
       hu: "A Scherpenzeel-hát egy elnyújtott kiemelkedés a Heuvelrug szélén.",
@@ -1542,7 +1542,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Baarn Sandhügel", hu: "Baarn-homokdomb", ro: "Baarn deal nisip", en: "Baarn Sand Hill" },
-    coordinates: { lat: 52.2167, lng: 5.2833 },
+    coords: [5.2833, 52.2167],
     description: {
       de: "Der Baarn Sandhügel ist eine bewaldete Erhebung in der Nähe historischer Landsitze.",
       hu: "A Baarn-homokdomb egy erdős kiemelkedés történelmi kastélyok közelében.",
@@ -1574,7 +1574,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Laren Hügel", hu: "Laren-domb", ro: "Laren deal", en: "Laren Hill" },
-    coordinates: { lat: 52.25, lng: 5.2333 },
+    coords: [5.2333, 52.25],
     description: {
       de: "Der Laren Hügel liegt im Gooi-Gebiet. Er ist durch seine sandige Moränenstruktur geprägt.",
       hu: "A Laren-domb a Gooi-régióban fekszik. Homokos morénaszerkezete jellemzi.",
@@ -1606,7 +1606,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Hilversum Moränenrücken", hu: "Hilversum-morénahát", ro: "Hilversum creastă morenică", en: "Hilversum Moraine Ridge" },
-    coordinates: { lat: 52.22, lng: 5.1667 },
+    coords: [5.1667, 52.22],
     description: {
       de: "Der Hilversum Moränenrücken ist eine Hügelkette auf den Gooise Zandgronden.",
       hu: "A Hilversum-morénahát egy dombsorozat a Gooise Zandgronden területén.",
@@ -1638,7 +1638,7 @@ export const netherlandsReliefV2: POI[] = [
     type: "mountain",
     parent: "NL",
     name: { de: "Soester Sandhügel", hu: "Soester-homokdomb", ro: "Soester deal nisip", en: "Soester Sand Hill" },
-    coordinates: { lat: 52.15, lng: 5.2833 },
+    coords: [5.2833, 52.15],
     description: {
       de: "Der Soester Sandhügel ist eine offene Erhebung in einer sandigen Waldlandschaft.",
       hu: "A Soester-homokdomb egy nyitott kiemelkedés egy homokos erdőtájban.",

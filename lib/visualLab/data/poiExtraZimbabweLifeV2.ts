@@ -393,7 +393,20 @@ export const poiExtraZimbabweLifeV2: POI[] = [
       hu: ["Kedvelt célpont családoknak hétvégén.", "Jól karbantartott zöldterületek."],
       ro: ["Destinație populară pentru familii în weekend.", "Zone verzi bine întreținute."],
       en: ["Popular destination for families on weekends.", "Well-maintained green spaces."]
-    }, image: "/poi-images/bulawayo-childrens-park-life-v2.webp"},
+    }, image: "/poi-images/bulawayo-childrens-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bulawayo Children's Park ist ein öffentlicher Park in der Stadt Bulawayo, der speziell für Kinder angelegt wurde. Er umfasst Spielplätze, Picknickbereiche und einen kleinen Teich. Der Park wurde in den 1950er Jahren eröffnet und ist bei Familien beliebt. Er ist Teil des städtischen Grünflächennetzes.",
+      hu: "A Bulawayo Gyermekpark a város egyik legrégebbi játszótere, amelyet 1955-ben nyitottak meg. A parkban található egy kacsaúsztató és hinták. A parkot 2015-ben újították fel. Ingyenes belépés. A környékbeli családok népszerű kirándulóhelye.",
+      ro: "Parcul pentru Copii din Bulawayo este o zonă verde destinată recreerii copiilor, deschisă în 1955. Include locuri de joacă, bănci și vegetație matură. Este întreținut de Consiliul Municipal. Atracția principală este un iaz cu pești și rațe.",
+      en: "Bulawayo Children's Park is a recreational facility established in 1955. It features playground equipment, a duck pond, and shaded lawns. The park is owned by the Bulawayo City Council. It hosts children's events and is open daily. Recent upgrades include new swings and a rubber floor.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet: 1955", "Fläche: 2,5 ha", "Anzahl Spielgeräte: 15", "Teichfläche: 500 m²", "Jährliche Besucher: 80.000", "Renovierung: 2015"],
+      hu: ["Megnyitva: 1955", "Terület: 2,5 hektár", "Játszóeszközök: 15", "Tó mérete: 500 négyzetméter", "Éves látogatók: 80.000", "Felújítás: 2015"],
+      ro: ["Deschis: 1955", "Suprafață: 2,5 ha", "Număr echipamente: 15", "Iaz: 500 mp", "Vizitatori anuali: 80.000", "Renovare: 2015"],
+      en: ["Opened: 1955", "Area: 2.5 hectares", "Play equipment: 15 units", "Pond area: 500 sq meters", "Annual visitors: 80,000", "Renovated: 2015"],
+    },
+  },
   {
     id: "hwedza-bird-sanctuary-life-v2",
     type: "animal-habitat",
@@ -407,7 +420,20 @@ export const poiExtraZimbabweLifeV2: POI[] = [
       hu: ["Ideális madárkedvelőknek.", "Mocsaras területek védelme."],
       ro: ["Ideală pentru iubitorii de păsări.", "Protejarea zonelor umede."],
       en: ["Ideal for bird enthusiasts.", "Protection of wetlands."]
-    }, image: "/poi-images/hwedza-bird-sanctuary-life-v2.webp"},
+    }, image: "/poi-images/hwedza-bird-sanctuary-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hwedza Bird Sanctuary ist ein Vogelschutzgebiet in der Nähe des Wedza-Berges. Es wurde 1998 gegründet, um die einheimische Vogelwelt zu schützen. Das Schutzgebiet umfasst Feuchtgebiete und Wälder. Hier leben über 250 Vogelarten, darunter der seltene Rotschulterfrankolin.",
+      hu: "A Hwedza Madárrezervátum 1998-ban jött létre, célja a helyi madárpopuláció védelme. A rezervátum területe 50 négyzetkilométer. Különleges fajok közé tartozik a sisakos kócsag és a fekete sas. A rezervátum népszerű ökoturisztikai célpont, vezetett túrákkal.",
+      ro: "Sanctuarul de Păsări Hwedza este o arie protejată situată lângă Muntele Wedza, înființată în 1998. Ocupă 50 km² de pădure și zone umede. Găzduiește peste 250 de specii de păsări, inclusiv vulturul negru. Accesul este permis cu ghid. Se fac eforturi de conservare.",
+      en: "Hwedza Bird Sanctuary was established in 1998 to protect the avifauna of the Wedza region. The sanctuary covers 50 square kilometers, including wetlands and miombo woodland. Bird species include the African fish eagle and the crowned crane. It attracts birdwatchers from around the world.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1998", "Fläche: 50 km²", "Vogelarten: 250+", "Besonderheit: Feuchtgebiete", "Bedrohte Arten: 5", "Jährliche Besucher: 5.000"],
+      hu: ["Alapítva: 1998", "Terület: 50 négyzetkilométer", "Madárfajok: 250+", "Védett fajok: 5", "Éves látogatók: 5.000", "Vezetett túrák hossza: 10 km"],
+      ro: ["Fondat: 1998", "Suprafață: 50 km²", "Specii de păsări: 250+", "Specii amenințate: 5", "Vizitatori anuali: 5.000", "Trasee turistice: 10 km"],
+      en: ["Founded: 1998", "Area: 50 sq km", "Bird species: 250+", "Endangered species: 5", "Annual visitors: 5,000", "Guided trails: 10 km"],
+    },
+  },
   {
     id: "kwe-kwe-nature-park-life-v2",
     type: "animal-habitat",
@@ -421,7 +447,20 @@ export const poiExtraZimbabweLifeV2: POI[] = [
       hu: ["Túrázási lehetőségek érintetlen természetben.", "Kisebb vadállatok megfigyelése."],
       ro: ["Posibilități de drumeții prin natură neatinsă.", "Observarea animalelor sălbatice mici."],
       en: ["Hiking opportunities through untouched nature.", "Observation of small wildlife."]
-    }, image: "/poi-images/kwe-kwe-nature-park-life-v2.webp"},
+    }, image: "/poi-images/kwe-kwe-nature-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kwe Kwe Nature Park liegt in der Stadt Kwekwe und ist ein Naherholungsgebiet. Der Park umfasst einen kleinen Zoo, einen botanischen Garten und Wanderwege. Er wurde in den 1970er Jahren angelegt. Der See im Park bietet Möglichkeit zum Angeln. Er wird von der Kommunalverwaltung betrieben.",
+      hu: "A Kwe Kwe Természeti Park Kwekwe városában található, 1975-ben hozták létre. Területe 30 hektár, ahol bennszülött növények és állatok találhatók. A parkban van egy sziget a tó közepén, és piknikhelyek. Látogatók száma évente kb. 30.000. Ingyenes belépés a gyerekeknek.",
+      ro: "Parcul Natural Kwe Kwe este situat în orașul Kwekwe, înființat în 1975. Se întinde pe 30 ha și include o grădină botanică, un lac și un mic parc zoologic. Populația locală îl folosește pentru recreere. Există facilități pentru picnic și plimbări cu barca.",
+      en: "Kwe Kwe Nature Park is a municipal park in Kwekwe, established in 1975. It covers 30 hectares and features a lake, botanical garden, and small animal enclosures. The park is popular for weekend outings. It also serves as an environmental education center for schools.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet: 1975", "Fläche: 30 ha", "Seefläche: 5 ha", "Pflanzenarten: 200", "Tierarten: 50", "Jährliche Besucher: 30.000"],
+      hu: ["Megnyitva: 1975", "Terület: 30 hektár", "Tó mérete: 5 hektár", "Növényfajok: 200", "Állatfajok: 50", "Éves látogatók: 30.000"],
+      ro: ["Deschis: 1975", "Suprafață: 30 ha", "Lac: 5 ha", "Specii de plante: 200", "Specii de animale: 50", "Vizitatori anuali: 30.000"],
+      en: ["Opened: 1975", "Area: 30 hectares", "Lake area: 5 hectares", "Plant species: 200", "Animal species: 50", "Annual visitors: 30,000"],
+    },
+  },
   {
     id: "masvingo-orchard-life-v2",
     type: "agriculture",
@@ -435,7 +474,20 @@ export const poiExtraZimbabweLifeV2: POI[] = [
       hu: ["Fő termesztési terület mangónak.", "Hagyományos termesztési módszerek."],
       ro: ["Zonă principală de cultivare pentru mango.", "Metode tradiționale de cultivare."],
       en: ["Main cultivation area for mangoes.", "Traditional cultivation methods."]
-    }, image: "/poi-images/masvingo-orchard-life-v2.webp"},
+    }, image: "/poi-images/masvingo-orchard-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Masvingo Orchards sind eine Obstplantagenregion in der Provinz Masvingo. Sie ist bekannt für den Anbau von Zitrusfrüchten, Avocados und Mangos. Die Plantagen werden durch den Mutirikwi-Stausee bewässert. Die Produktion beliefert regionale Märkte und die Hauptstadt. Die Geschichte reicht bis in die 1930er Jahre zurück.",
+      hu: "A Masvingo Gyümölcsöskertek a város körüli citrus- és avokádóültetvényeket foglalják magukba. Az öntözést a Mutirikwi-tározó biztosítja. A gyümölcsöket helyben feldolgozzák és exportálják. A régió 1935 óta termel gyümölcsöt. A legnagyobb farm 500 hektáros.",
+      ro: "Livezile Masvingo sunt plantații de citrice și avocado situate lângă orașul Masvingo. Sunt irigate din lacul Mutirikwi. Producția este comercializată în Zimbabwe și în străinătate. Primele livezi au fost plantate în 1935. Suprafața totală cultivată este de 2.000 de hectare.",
+      en: "Masvingo Orchards refer to the citrus and avocado farms around Masvingo city. They were first planted in 1935 using irrigation from Lake Mutirikwi. The orchards produce 10,000 tons of fruit annually. The industry employs 2,000 seasonal workers. The fruit is exported to Europe and Asia.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1935", "Bewässerungsfläche: 2.000 ha", "Jährliche Produktion: 10.000 t", "Arbeiter: 2.000 saisonal", "Wichtigste Frucht: Zitrusfrüchte (60%)", "Export: EU und Asien"],
+      hu: ["Alapítva: 1935", "Öntözött terület: 2.000 hektár", "Éves termés: 10.000 tonna", "Munkások: 2.000 (idénymunka)", "Legfontosabb gyümölcs: citrus (60%)", "Exportpiac: EU, Ázsia"],
+      ro: ["Fondat: 1935", "Suprafață irigată: 2.000 ha", "Producție anuală: 10.000 t", "Lucrători sezonieri: 2.000", "Principalul fruct: citrice (60%)", "Export: UE și Asia"],
+      en: ["Established: 1935", "Irrigated area: 2,000 ha", "Annual yield: 10,000 tons", "Seasonal workers: 2,000", "Primary crop: citrus (60%)", "Export markets: EU, Asia"],
+    },
+  },
   {
     id: "kariba-fish-farms-life-v2",
     type: "agriculture",

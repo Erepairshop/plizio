@@ -6,7 +6,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "MK",
     name: { de: "Industriegebiet Bitola", hu: "Bitolai Ipari Zóna", ro: "Zona Industrială Bitola", en: "Bitola Industrial Zone" },
-    coordinates: { lat: 41.0315, lng: 21.3255 },
+    coords: [21.3255, 41.0315],
     description: {
       de: "Ein bedeutendes industrielles Zentrum südlich der Stadt Bitola. Es beherbergt zahlreiche produzierende Betriebe und Dienstleistungsunternehmen.",
       hu: "Jelentős ipari központ Bitola várostól délre. Számos gyártóüzemnek és szolgáltató vállalkozásnak ad otthont.",
@@ -38,7 +38,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "MK",
     name: { de: "Wasserkraftwerk Vardar", hu: "Vardar Vízierőmű", ro: "Hidrocentrala Vardar", en: "Vardar Hydroelectric Power Plant" },
-    coordinates: { lat: 41.785, lng: 22.015 },
+    coords: [22.015, 41.785],
     description: {
       de: "Ein wichtiges Energieerzeugungswerk am Fluss Vardar. Es trägt wesentlich zur regionalen Stromversorgung bei.",
       hu: "Fontos energiatermelő létesítmény a Vardar folyón. Jelentősen hozzájárul a regionális áramellátáshoz.",
@@ -70,7 +70,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "MK",
     name: { de: "Weinbauzentrum Tikves", hu: "Tikveš Szőlészeti Központ", ro: "Centrul Viticol Tikveș", en: "Tikves Viticulture Center" },
-    coordinates: { lat: 41.436, lng: 21.967 },
+    coords: [21.967, 41.436],
     description: {
       de: "Das größte Zentrum für Weinproduktion in Nordmazedonien. Die Region ist bekannt für ihre umfangreichen Weinberge und Weinkellereien.",
       hu: "Észak-Macedónia legnagyobb bortermelő központja. A régió kiterjedt szőlőültetvényeiről és borászatairól ismert.",
@@ -102,7 +102,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "factory",
     parent: "MK",
     name: { de: "Tabakverarbeitung Prilep", hu: "Prilepi Dohányfeldolgozás", ro: "Procesarea Tutunului Prilep", en: "Prilep Tobacco Processing" },
-    coordinates: { lat: 41.345, lng: 21.554 },
+    coords: [21.554, 41.345],
     description: {
       de: "Zentrum der Tabakindustrie in Nordmazedonien mit einer langen Tradition in Anbau und Verarbeitung. Die Stadt ist ein wichtiger Umschlagplatz.",
       hu: "A dohányipar központja Észak-Macedóniában, hosszú termesztési és feldolgozási hagyományokkal. A város fontos kereskedelmi csomópont.",
@@ -134,7 +134,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "MK",
     name: { de: "Technologiepark Skopje", hu: "Skopjei Technológiai Park", ro: "Parcul Tehnologic Skopje", en: "Skopje Technology Park" },
-    coordinates: { lat: 42.002, lng: 21.432 },
+    coords: [21.432, 42.002],
     description: {
       de: "Ein modernes Zentrum für technologische Innovation und IT-Unternehmen in der Hauptstadt. Es fördert ausländische Direktinvestitionen.",
       hu: "Modern központ a technológiai innováció és az IT-vállalkozások számára a fővárosban. Támogatja a közvetlen külföldi befektetéseket.",
@@ -166,7 +166,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "MK",
     name: { de: "Textilviertel Stip", hu: "Štipi Textilnegyed", ro: "Cartierul Textil Știp", en: "Stip Textile District" },
-    coordinates: { lat: 41.741, lng: 22.188 },
+    coords: [22.188, 41.741],
     description: {
       de: "Ein zentraler Standort für die mazedonische Textil- und Bekleidungsindustrie. Zahlreiche Fabriken produzieren für internationale Marken.",
       hu: "A macedón textil- és ruházati ipar központi helyszíne. Számos gyár termel nemzetközi márkák számára.",
@@ -198,7 +198,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Tourismuszentrum Ohrid", hu: "Ohridi Idegenforgalmi Központ", ro: "Centrul Turistic Ohrid", en: "Ohrid Tourism Center" },
-    coordinates: { lat: 41.114, lng: 20.801 },
+    coords: [20.801, 41.114],
     description: {
       de: "Ein wirtschaftliches Rückgrat für den Dienstleistungssektor am Ohridsee. Der Tourismus ist hier der primäre Wirtschaftsfaktor.",
       hu: "Az ohridi idegenforgalmi szektor gazdasági gerince. Itt a turizmus a elsődleges gazdasági tényező.",
@@ -230,7 +230,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "MK",
     name: { de: "Reisverarbeitung Kocani", hu: "Kočani Rizsfeldolgozás", ro: "Procesarea Orezului Kočani", en: "Kocani Rice Processing" },
-    coordinates: { lat: 41.918, lng: 22.411 },
+    coords: [22.411, 41.918],
     description: {
       de: "Ein spezialisiertes landwirtschaftliches Verarbeitungszentrum. Die Region ist berühmt für ihren Reisbau und industrielle Aufbereitung.",
       hu: "Specializált mezőgazdasági feldolgozó központ. A régió híres rizstermesztéséről és ipari feldolgozásáról.",
@@ -262,7 +262,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Handelszentrum Tetovo", hu: "Tetovói Kereskedelmi Központ", ro: "Centrul Comercial Tetovo", en: "Tetovo Trade Hub" },
-    coordinates: { lat: 42.003, lng: 20.967 },
+    coords: [20.967, 42.003],
     description: {
       de: "Ein lebendiges Handelszentrum im Nordwesten des Landes. Die Stadt ist ein wichtiger Knotenpunkt für grenzüberschreitenden Handel.",
       hu: "Élénk kereskedelmi központ az ország északnyugati részén. A város fontos csomópont a határon átnyúló kereskedelem számára.",
@@ -294,7 +294,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "factory",
     parent: "MK",
     name: { de: "Lebensmittelindustrie Bitola", hu: "Bitolai Élelmiszeripar", ro: "Industria Alimentară Bitola", en: "Bitola Food Industry" },
-    coordinates: { lat: 41.033, lng: 21.332 },
+    coords: [21.332, 41.033],
     description: {
       de: "Ein bedeutendes Cluster für die Verarbeitung landwirtschaftlicher Produkte. Bitola ist ein wichtiger Exporteur verarbeiteter Nahrungsmittel.",
       hu: "Jelentős klaszter a mezőgazdasági termékek feldolgozására. Bitola a feldolgozott élelmiszerek fontos exportőre.",
@@ -326,7 +326,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "MK",
     name: { de: "Weinkellereien Kavadarci", hu: "Kavadarci Borászatok", ro: "Vinării Kavadarci", en: "Kavadarci Wineries" },
-    coordinates: { lat: 41.432, lng: 22.012 },
+    coords: [22.012, 41.432],
     description: {
       de: "Zentrum einiger der größten Weinkellereien der Region. Hier findet ein bedeutender Teil der industriellen Weinverarbeitung statt.",
       hu: "A régió egyik legnagyobb borászatának központja. Itt zajlik az ipari borfeldolgozás jelentős része.",
@@ -358,7 +358,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "city",
     parent: "MK",
     name: { de: "Handelszentrum Gostivar", hu: "Gostivari Kereskedelmi Központ", ro: "Centrul Comercial Gostivar", en: "Gostivar Trade Center" },
-    coordinates: { lat: 41.796, lng: 20.906 },
+    coords: [20.906, 41.796],
     description: {
       de: "Eine wirtschaftlich aktive Stadt am Rande der Šar Planina. Sie dient als Handelsdrehscheibe für das Umland.",
       hu: "Gazdaságilag aktív város a Šar-hegység szélén. Kereskedelmi csomópontként szolgál a környező térség számára.",
@@ -390,7 +390,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "MK",
     name: { de: "Fertigung Kumanovo", hu: "Kumanovói Gyártás", ro: "Producție Kumanovo", en: "Kumanovo Manufacturing" },
-    coordinates: { lat: 42.133, lng: 21.716 },
+    coords: [21.716, 42.133],
     description: {
       de: "Ein wichtiger Standort für die verarbeitende Industrie im Norden. Die Stadt verfügt über gut ausgebaute industrielle Infrastruktur.",
       hu: "Fontos helyszín a feldolgozóipar számára északon. A város jól kiépített ipari infrastruktúrával rendelkezik.",
@@ -422,7 +422,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "region",
     parent: "MK",
     name: { de: "Obstbauregion Negotino", hu: "Negotinói Gyümölcstermesztési Régió", ro: "Regiunea Pomicolă Negotino", en: "Negotino Orchard Region" },
-    coordinates: { lat: 41.488, lng: 22.091 },
+    coords: [22.091, 41.488],
     description: {
       de: "Ein bedeutendes Agrargebiet für Obstbau und die damit verbundene industrielle Weiterverarbeitung.",
       hu: "Jelentős mezőgazdasági terület a gyümölcstermesztés és az azzal kapcsolatos ipari feldolgozás számára.",
@@ -454,7 +454,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "mine",
     parent: "MK",
     name: { de: "Bergbauerbe Kratovo", hu: "Kratovói Bányászati Örökség", ro: "Moștenire Minieră Kratovo", en: "Kratovo Mining Heritage" },
-    coordinates: { lat: 42.081, lng: 22.176 },
+    coords: [22.176, 42.081],
     description: {
       de: "Eine historische Bergbaustadt mit einer langen Tradition in der Metallförderung. Der Sektor ist ein wichtiger Teil der lokalen Identität.",
       hu: "Történelmi bányászváros hosszú fémkitermelési hagyományokkal. Az ágazat a helyi identitás fontos része.",
@@ -486,7 +486,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "landmark",
     parent: "MK",
     name: { de: "Stobi Tourismuswirtschaft", hu: "Stobi Idegenforgalmi Gazdaság", ro: "Economia Turismului Stobi", en: "Stobi Tourism Economy" },
-    coordinates: { lat: 41.554, lng: 21.972 },
+    coords: [21.972, 41.554],
     description: {
       de: "Ein wichtiges archäologisches Zentrum, das durch den Kulturtourismus bedeutende wirtschaftliche Impulse für die Region Gradsko liefert.",
       hu: "Fontos régészeti központ, amely a kulturális turizmus révén jelentős gazdasági ösztönzést ad Gradsko régiójának.",
@@ -518,7 +518,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "MK",
     name: { de: "Holzindustrie Vinica", hu: "Vinicai Faipar", ro: "Industria Lemnului Vinica", en: "Vinica Wood Industry" },
-    coordinates: { lat: 41.879, lng: 22.502 },
+    coords: [22.502, 41.879],
     description: {
       de: "Ein lokales Wirtschaftszentrum mit Fokus auf Holzverarbeitung und Möbelproduktion. Die Stadt nutzt die umliegenden Waldressourcen.",
       hu: "Helyi gazdasági központ, amely a faiparra és a bútorgyártásra összpontosít. A város kihasználja a környező erdőket.",
@@ -550,7 +550,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "landmark",
     parent: "MK",
     name: { de: "Weintourismus Demir Kapija", hu: "Demir Kapija Borturizmus", ro: "Turism Viticol Demir Kapija", en: "Demir Kapija Wine Tourism" },
-    coordinates: { lat: 41.411, lng: 22.253 },
+    coords: [22.253, 41.411],
     description: {
       de: "Ein wachsender Wirtschaftssektor durch die Kombination von Weinanbau und sanftem Tourismus in der spektakulären Schlucht.",
       hu: "Növekvő gazdasági ágazat a szőlőtermesztés és a fenntartható turizmus kombinációja révén a látványos szurdokban.",
@@ -582,7 +582,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "industry",
     parent: "MK",
     name: { de: "Industriegebiet Gazi Baba", hu: "Gazi Baba Ipari Zóna", ro: "Zona Industrială Gazi Baba", en: "Gazi Baba Industrial Zone" },
-    coordinates: { lat: 42.009, lng: 21.467 },
+    coords: [21.467, 42.009],
     description: {
       de: "Das größte Industrie- und Logistikgebiet in der Hauptstadtregion. Hier sind zahlreiche Logistikzentren und Fabriken angesiedelt.",
       hu: "A fővárosi régió legnagyobb ipari és logisztikai területe. Számos logisztikai központ és gyár található itt.",
@@ -614,7 +614,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "river",
     parent: "MK",
     name: { de: "Wirtschaft Zrnovska", hu: "Zrnovska Gazdaság", ro: "Economia Zrnovska", en: "Zrnovska Economy" },
-    coordinates: { lat: 41.854, lng: 22.467 },
+    coords: [22.467, 41.854],
     description: {
       de: "Eine Region, in der die Wasserkraft und landwirtschaftliche Bewässerung die wirtschaftliche Grundlage bilden.",
       hu: "Olyan régió, ahol a vízenergia és a mezőgazdasági öntözés képezi a gazdasági alapot.",
@@ -646,7 +646,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "village",
     parent: "MK",
     name: { de: "Agrarwirtschaft Vasilevo", hu: "Vasilevói Mezőgazdaság", ro: "Economia Agricolă Vasilevo", en: "Vasilevo Farming Economy" },
-    coordinates: { lat: 41.488, lng: 22.585 },
+    coords: [22.585, 41.488],
     description: {
       de: "Ein wichtiges landwirtschaftliches Gebiet im Osten. Die lokale Wirtschaft basiert stark auf dem Anbau von Feldfrüchten.",
       hu: "Fontos mezőgazdasági terület keleten. A helyi gazdaság erősen támaszkodik a szántóföldi növénytermesztésre.",
@@ -678,7 +678,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "village",
     parent: "MK",
     name: { de: "Wirtschaft Konce", hu: "Konče Gazdaság", ro: "Economia Konče", en: "Konce Economy" },
-    coordinates: { lat: 41.522, lng: 22.378 },
+    coords: [22.378, 41.522],
     description: {
       de: "Eine ländliche Region, die zunehmend durch Bergbauaktivitäten und landwirtschaftliche Erzeugung wirtschaftlich geprägt wird.",
       hu: "Vidéki régió, amelyet egyre inkább a bányászati tevékenységek és a mezőgazdasági termelés jellemez gazdaságilag.",
@@ -710,7 +710,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "lake",
     parent: "MK",
     name: { de: "Wirtschaft Mantovo", hu: "Mantovo Gazdaság", ro: "Economia Mantovo", en: "Mantovo Economy" },
-    coordinates: { lat: 41.572, lng: 22.422 },
+    coords: [22.422, 41.572],
     description: {
       de: "Ein Stausee, der als Freizeit- und Tourismusstandort regionale Wirtschaftsimpulse für die umliegenden Dörfer bietet.",
       hu: "Víztározó, amely szabadidős és turisztikai helyszínként regionális gazdasági ösztönzést kínál a környező falvak számára.",
@@ -742,7 +742,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "village",
     parent: "MK",
     name: { de: "Verarbeitung Plasnica", hu: "Plasnicai Feldolgozás", ro: "Procesarea Plasnica", en: "Plasnica Processing" },
-    coordinates: { lat: 41.442, lng: 21.087 },
+    coords: [21.087, 41.442],
     description: {
       de: "Ein Standort mit traditioneller handwerklicher Produktion und kleinen Industriebetrieben für die lokale Versorgung.",
       hu: "Helyszín hagyományos kézműves termeléssel és kisipari üzemekkel a helyi ellátás számára.",
@@ -774,7 +774,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "village",
     parent: "MK",
     name: { de: "Obstbau Drenovo", hu: "Drenovói Gyümölcstermesztés", ro: "Pomicultură Drenovo", en: "Drenovo Orchards" },
-    coordinates: { lat: 41.448, lng: 21.901 },
+    coords: [21.901, 41.448],
     description: {
       de: "Ein Dorf, das intensiv für den großflächigen Anbau von Obst für den nationalen und internationalen Markt genutzt wird.",
       hu: "Falu, amelyet intenzíven használnak nagyüzemi gyümölcstermesztésre a hazai és a nemzetközi piac számára.",
@@ -806,7 +806,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "town",
     parent: "MK",
     name: { de: "Handelsknoten Gradsko", hu: "Gradskói Kereskedelmi Csomópont", ro: "Nod Comercial Gradsko", en: "Gradsko Trade Node" },
-    coordinates: { lat: 41.573, lng: 21.921 },
+    coords: [21.921, 41.573],
     description: {
       de: "Wichtiger Verkehrsknotenpunkt an der Hauptstraße Vardar-Tal. Das macht den Ort zu einem logistischen Drehpunkt.",
       hu: "Fontos közlekedési csomópont a Vardar-völgy főútján. Ez logisztikai központtá teszi a helységet.",
@@ -838,7 +838,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "village",
     parent: "MK",
     name: { de: "Bergbauerkundung Rozden", hu: "Roždeni Bányászati Feltárás", ro: "Explorare Minieră Rožden", en: "Rozden Mining Exploration" },
-    coordinates: { lat: 41.221, lng: 21.942 },
+    coords: [21.942, 41.221],
     description: {
       de: "Eine abgelegene Region, die für geologische Untersuchungen und die Erkundung potenzieller Rohstoffvorkommen genutzt wird.",
       hu: "Távoli régió, amelyet geológiai vizsgálatokra és potenciális nyersanyag-lelőhelyek feltárására használnak.",
@@ -870,7 +870,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     type: "village",
     parent: "MK",
     name: { de: "Agrarwirtschaft Bosilovo", hu: "Bosilovói Agrárgazdaság", ro: "Agroindustrie Bosilovo", en: "Bosilovo Agribusiness" },
-    coordinates: { lat: 41.442, lng: 22.656 },
+    coords: [22.656, 41.442],
     description: {
       de: "Ein Zentrum für intensive landwirtschaftliche Produktion mit modernen Techniken und einem Fokus auf Gemüsekulturen.",
       hu: "Az intenzív mezőgazdasági termelés központja modern technikákkal, a zöldségkultúrákra összpontosítva.",

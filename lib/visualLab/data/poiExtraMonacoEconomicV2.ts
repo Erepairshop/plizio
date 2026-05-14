@@ -6,7 +6,7 @@ export const monacoEconomicV2: POI[] = [
     type: "industry",
     parent: "MC",
     name: { de: "Heli Air Monaco", hu: "Heli Air Monaco", ro: "Heli Air Monaco", en: "Heli Air Monaco" },
-    coordinates: { lat: 43.7319, lng: 7.4206 },
+    coords: [7.4206, 43.7319],
     description: {
       de: "Ein privater Hubschrauberbetreiber, der den Heliport Monaco-Fontvieille für den gewerblichen Transport nutzt. Er verbindet das Fürstentum mit dem Flughafen Nizza.",
       hu: "Egy magán helikopter-üzemeltető, amely a monacói-fontvieille-i helikopterleszállót használja kereskedelmi szállításra. Összeköti a hercegséget a nizzai repülőtérrel.",
@@ -38,7 +38,7 @@ export const monacoEconomicV2: POI[] = [
     type: "industry",
     parent: "MC",
     name: { de: "Monaco Telecom Hauptsitz", hu: "Monaco Telecom székhely", ro: "Sediul Monaco Telecom", en: "Monaco Telecom Headquarters" },
-    coordinates: { lat: 43.7351, lng: 7.4207 },
+    coords: [7.4207, 43.7351],
     description: {
       de: "Der wichtigste Anbieter für Telekommunikationsdienste in Monaco. Das Unternehmen verwaltet die Infrastruktur für Internet, Mobilfunk und Festnetz.",
       hu: "A legfontosabb távközlési szolgáltató Monacóban. A cég kezeli az internet, a mobilhálózat és a vezetékes telefon infrastruktúráját.",
@@ -70,7 +70,7 @@ export const monacoEconomicV2: POI[] = [
     type: "industry",
     parent: "MC",
     name: { de: "SBM Unternehmenssitz", hu: "SBM vállalati központ", ro: "Sediul corporativ SBM", en: "SBM Corporate Headquarters" },
-    coordinates: { lat: 43.7392, lng: 7.4278 },
+    coords: [7.4278, 43.7392],
     description: {
       de: "Die Société des Bains de Mer betreibt bedeutende Casino-, Hotel- und Gastronomieeinrichtungen. Sie ist einer der größten Arbeitgeber des Landes.",
       hu: "A Société des Bains de Mer fontos kaszinókat, szállodákat és éttermeket üzemeltet. Az ország egyik legnagyobb munkaadója.",
@@ -102,7 +102,7 @@ export const monacoEconomicV2: POI[] = [
     type: "industry",
     parent: "MC",
     name: { de: "Amt für Wirtschaftsförderung", hu: "Gazdaságfejlesztési Hivatal", ro: "Biroul pentru Expansiune Economică", en: "Monaco Business Office" },
-    coordinates: { lat: 43.7335, lng: 7.4219 },
+    coords: [7.4219, 43.7335],
     description: {
       de: "Staatliche Einrichtung zur Unterstützung der wirtschaftlichen Entwicklung und Ansiedlung neuer Unternehmen in Monaco. Sie fördert den Wirtschaftsstandort.",
       hu: "Állami intézmény a gazdasági fejlődés támogatására és új vállalatok Monacóba vonzására. Népszerűsíti a gazdasági környezetet.",
@@ -134,7 +134,7 @@ export const monacoEconomicV2: POI[] = [
     type: "industry",
     parent: "MC",
     name: { de: "Logistikzentrum La Condamine", hu: "La Condamine logisztikai központ", ro: "Centrul logistic La Condamine", en: "La Condamine Logistics Hub" },
-    coordinates: { lat: 43.7365, lng: 7.4239 },
+    coords: [7.4239, 43.7365],
     description: {
       de: "Wichtiger Knotenpunkt für die Warenverteilung im Stadtviertel La Condamine. Hier wird die lokale Versorgung der gewerblichen Betriebe koordiniert.",
       hu: "Fontos csomópont az áruelosztáshoz La Condamine negyedben. Itt koordinálják a kereskedelmi egységek helyi ellátását.",

@@ -8,7 +8,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Nationalpark Kozara", hu: "Kozara Nemzeti Park", ro: "Parcul Național Kozara", en: "Kozara National Park"},
     image: "/poi-images/bosniaherzegovina-kozara-life-v2.webp",
     coords: [16.8925, 45.0117],
-    coordinates: { lat: 45.0117, lng: 16.8925 },
+    coords: [16.8925, 45.0117],
     description: {
       de: "Der Nationalpark liegt zwischen den Flüssen Una, Sana und Save und ist für seine dichten Buchen- und Tannenwälder bekannt. Er wird oft als 'Grüne Schönheit der Krajina' bezeichnet.",
       hu: "Az Una, Sana és Száva folyók között fekvő nemzeti park sűrű bükk- és fenyőerdőiről ismert. Gyakran nevezik a 'Krajina zöld szépségének'.",
@@ -43,7 +43,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Nationalpark Drina", hu: "Drina Nemzeti Park", ro: "Parcul Național Drina", en: "Drina National Park"},
     image: "/poi-images/bosniaherzegovina-drina-life-v2.webp",
     coords: [19.3458, 43.9875],
-    coordinates: { lat: 43.9875, lng: 19.3458 },
+    coords: [19.3458, 43.9875],
     description: {
       de: "Der im Jahr 2017 gegründete Nationalpark schützt die Schlucht der Drina und die endemische Pančić-Fichte. Das Gebiet ist ein Refugium für seltene Pflanzen- und Tierarten.",
       hu: "A 2017-ben alapított nemzeti park a Drina-szurdokot és az endemikus szerb lucfenyőt védi. A terület ritka növény- és állatfajok menedékhelye.",
@@ -78,7 +78,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Feuchtgebiet Bardača", hu: "Bardača-mocsár", ro: "Zona umedă Bardača", en: "Bardača Wetland"},
     image: "/poi-images/bosniaherzegovina-bardaca-life-v2.webp",
     coords: [17.4394, 45.1056],
-    coordinates: { lat: 45.1056, lng: 17.4394 },
+    coords: [17.4394, 45.1056],
     description: {
       de: "Ein geschütztes Feuchtgebiet und Ramsar-Gebiet im Norden des Landes, das aus elf Seen besteht. Es ist ein wichtiger Nistplatz für seltene Wasservögel wie den Purpurreiher.",
       hu: "Védett mocsaras terület és Ramsari terület az ország északi részén, amely tizenegy tóból áll. Fontos fészkelőhelye ritka vízimadaraknak, például a vörös gémnek.",
@@ -112,7 +112,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Zoo Sarajevo", hu: "Szarajevói Állatkert", ro: "Grădina Zoologică Sarajevo", en: "Sarajevo Zoo"},
     image: "/poi-images/bosniaherzegovina-sarajevo-zoo-life-v2.webp",
     coords: [18.4161, 43.8742],
-    coordinates: { lat: 43.8742, lng: 18.4161 },
+    coords: [18.4161, 43.8742],
     description: {
       de: "Der Zoo von Sarajevo, lokal als Pionirska dolina bekannt, ist der älteste Tierpark des Landes. Er beherbergt zahlreiche einheimische und exotische Tierarten in einem bewaldeten Tal.",
       hu: "A szarajevói állatkert, helyi nevén Pionirska dolina, az ország legrégebbi állatkertje. Számos őshonos és egzotikus állatfajnak ad otthont egy erdős völgyben.",
@@ -147,7 +147,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Botanischer Garten Sarajevo", hu: "Szarajevói Botanikus Kert", ro: "Grădina Botanică Sarajevo", en: "Botanical Garden of Sarajevo"},
     image: "/poi-images/bosniaherzegovina-botanical-garden-sarajevo-life-v2.webp",
     coords: [18.4022, 43.8547],
-    coordinates: { lat: 43.8547, lng: 18.4022 },
+    coords: [18.4022, 43.8547],
     description: {
       de: "Der Garten gehört zum Nationalmuseum und beherbergt über 2.000 Pflanzenarten, darunter viele Endemiten der Dinariden. Er wurde Ende des 19. Jahrhunderts angelegt.",
       hu: "A Nemzeti Múzeumhoz tartozó kert több mint 2000 növényfajnak ad otthont, köztük számos dinári endemizmusnak. A 19. század végén hozták létre.",
@@ -182,7 +182,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Vrelo Bosne", hu: "Vrelo Bosne", ro: "Vrelo Bosne", en: "Vrelo Bosne"},
     image: "/poi-images/bosniaherzegovina-vrelo-bosne-life-v2.webp",
     coords: [18.2694, 43.8197],
-    coordinates: { lat: 43.8197, lng: 18.2694 },
+    coords: [18.2694, 43.8197],
     description: {
       de: "Ein Naturdenkmal am Fuße des Berges Igman, das die Quellen des Flusses Bosna umfasst. Der Park ist für seine Alleen, Teiche und die reiche Wasservogelwelt bekannt.",
       hu: "Természeti emlék az Igman-hegy lábánál, amely a Boszna folyó forrásait foglalja magában. A park híres fasorairól, tavairól és gazdag vízimadár-világáról.",
@@ -217,7 +217,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Bijambare Schutzlandschaft", hu: "Bijambare védett terület", ro: "Peisajul protejat Bijambare", en: "Bijambare Protected Landscape"},
     image: "/poi-images/bosniaherzegovina-bijambare-life-v2.webp",
     coords: [18.5028, 44.0931],
-    coordinates: { lat: 44.0931, lng: 18.5028 },
+    coords: [18.5028, 44.0931],
     description: {
       de: "Dieses Schutzgebiet umfasst einen Komplex aus Höhlen und dichten Nadelwäldern auf einem Karstplateau. Es bietet Lebensraum für zahlreiche Fledermausarten und seltene Pilze.",
       hu: "Ez a védett terület barlangokból és sűrű fenyőerdőkből áll egy karsztfennsíkon. Számos denevérfajnak és ritka gombafajnak nyújt élőhelyet.",
@@ -252,7 +252,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Naturpark Tajan", hu: "Tajan Natúrpark", ro: "Parcul Natural Tajan", en: "Tajan Nature Park"},
     image: "/poi-images/bosniaherzegovina-tajan-life-v2.webp",
     coords: [18.15, 44.3167],
-    coordinates: { lat: 44.3167, lng: 18.15 },
+    coords: [18.15, 44.3167],
     description: {
       de: "Der Naturpark Tajan ist bekannt für seine unberührte Natur, Schluchten und zahlreichen Höhlen. Das Gebiet beherbergt endemische Pflanzen und ist ein Refugium für den Braunbären.",
       hu: "A Tajan Natúrpark érintetlen természetéről, szurdokairól és számos barlangjáról ismert. A terület endemikus növényeknek ad otthont, és a barna medve menedékhelye.",
@@ -287,7 +287,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Schutzlandschaft Trebević", hu: "Trebević védett terület", ro: "Peisajul protejat Trebević", en: "Trebević Protected Landscape"},
     image: "/poi-images/bosniaherzegovina-trebevic-life-v2.webp",
     coords: [18.4414, 43.8322],
-    coordinates: { lat: 43.8322, lng: 18.4414 },
+    coords: [18.4414, 43.8322],
     description: {
       de: "Der Hausberg von Sarajevo ist ein wichtiges Naherholungsgebiet mit einer großen Vielfalt an Pilzen und Pflanzen. Er beherbergt über 200 Arten von Wirbeltieren.",
       hu: "Szarajevó házhegye fontos kikapcsolódási övezet, ahol a gombák és növények nagy választéka található. Több mint 200 gerinces állatfajnak ad otthont.",
@@ -322,7 +322,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Skakavac Wasserfall", hu: "Skakavac-vízesés", ro: "Cascada Skakavac", en: "Skakavac Waterfall"},
     image: "/poi-images/bosniaherzegovina-skakavac-life-v2.webp",
     coords: [18.4453, 43.9511],
-    coordinates: { lat: 43.9511, lng: 18.4453 },
+    coords: [18.4453, 43.9511],
     description: {
       de: "Ein 98 Meter hoher Wasserfall in der Nähe von Sarajevo, der von dichten Fichten- und Buchenwäldern umgeben ist. Die Umgebung zeichnet sich durch eine hohe botanische Vielfalt aus.",
       hu: "Egy 98 méter magas vízesés Szarajevó közelében, amelyet sűrű fenyő- és bükkerdők vesznek körül. A környéket magas botanikai sokféleség jellemzi.",
@@ -357,7 +357,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Janjske Otoke", hu: "Janj-szigetek", ro: "Janjske Otoke", en: "Janj Islands"},
     image: "/poi-images/bosniaherzegovina-janjske-otoke-life-v2.webp",
     coords: [17.1186, 44.2461],
-    coordinates: { lat: 44.2461, lng: 17.1186 },
+    coords: [17.1186, 44.2461],
     description: {
       de: "Ein einzigartiges Naturreservat, in dem der Fluss Janj ein Delta mit zahlreichen kleinen Inseln, Kaskaden und Kanälen bildet. Es ist bekannt für sein kühles Mikroklima und reiche Flora.",
       hu: "Egyedülálló természetvédelmi terület, ahol a Janj folyó számos kis szigetből, vízesésből és csatornából álló deltát alkot. Hűvös mikroklímájáról és gazdag flórájáról ismert.",
@@ -392,7 +392,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Sonderreservat Gromiželj", hu: "Gromiželj különleges rezervátum", ro: "Rezervația specială Gromiželj", en: "Gromiželj Special Nature Reserve"},
     image: "/poi-images/bosniaherzegovina-gromizelj-life-v2.webp",
     coords: [19.3375, 44.8517],
-    coordinates: { lat: 44.8517, lng: 19.3375 },
+    coords: [19.3375, 44.8517],
     description: {
       de: "Dieses Reservat ist der einzige Lebensraum des seltenen Europäischen Hundsfisches (Umbra krameri) in Bosnien und Herzegowina. Es besteht aus Sumpfgebieten und Teichen.",
       hu: "Ez a rezervátum a ritka lápi póc (Umbra krameri) egyetlen élőhelye Bosznia-Hercegovinában. Mocsarakból és tavakból áll.",
@@ -427,7 +427,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Ornithologisches Reservat Tišina", hu: "Tišina madárrezervátum", ro: "Rezervația ornitologică Tišina", en: "Tišina Ornithological Reserve"},
     image: "/poi-images/bosniaherzegovina-tisina-life-v2.webp",
     coords: [18.4833, 45.0417],
-    coordinates: { lat: 45.0417, lng: 18.4833 },
+    coords: [18.4833, 45.0417],
     description: {
       de: "Ein bedeutendes Feuchtgebiet in der Nähe der Save, das als wichtiger Brutplatz für Wasservögel dient. Es beherbergt seltene Pflanzenarten der Überschwemmungsgebiete.",
       hu: "Fontos mocsaras terület a Száva folyó közelében, amely a vízimadarak jelentős fészkelőhelye. Ártéri területek ritka növényfajainak ad otthont.",
@@ -462,7 +462,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Schutzlandschaft Konjuh", hu: "Konjuh védett terület", ro: "Peisajul protejat Konjuh", en: "Konjuh Protected Landscape"},
     image: "/poi-images/bosniaherzegovina-konjuh-life-v2.webp",
     coords: [18.55, 44.3167],
-    coordinates: { lat: 44.3167, lng: 18.55 },
+    coords: [18.55, 44.3167],
     description: {
       de: "Das Konjuh-Gebirge ist ein geschütztes Gebiet mit ausgedehnten Nadelwäldern und einer reichen endemischen Flora. Es ist bekannt für seine sauberen Gebirgsbäche und Quellen.",
       hu: "A Konjuh-hegység védett terület kiterjedt fenyőerdőkkel és gazdag endemikus flórával. Ismert tiszta hegyi patakjairól és forrásairól.",
@@ -497,7 +497,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Livanjsko Polje", hu: "Livnói-mező", ro: "Livanjsko Polje", en: "Livanjsko Polje"},
     image: "/poi-images/bosniaherzegovina-livanjsko-polje-life-v2.webp",
     coords: [16.9667, 43.8833],
-    coordinates: { lat: 43.8833, lng: 16.9667 },
+    coords: [16.9667, 43.8833],
     description: {
       de: "Das größte Karstfeld der Welt ist ein Ramsar-Gebiet und bekannt für seine Herden von Wildpferden. Es bietet ein Mosaik aus Wiesen, Sümpfen und Karstphänomenen.",
       hu: "A világ legnagyobb karsztmezeje egy Ramsari terület, amely vadló méneseiről ismert. Rétek, mocsarak és karsztjelenségek mozaikját kínálja.",
@@ -532,7 +532,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Rakitnica-Schlucht", hu: "Rakitnica-szurdok", ro: "Canionul Rakitnica", en: "Rakitnica Canyon"},
     image: "/poi-images/bosniaherzegovina-rakitnica-life-v2.webp",
     coords: [18.2325, 43.6453],
-    coordinates: { lat: 43.6453, lng: 18.2325 },
+    coords: [18.2325, 43.6453],
     description: {
       de: "Eine der tiefsten und unberührtesten Schluchten Europas, die eine außergewöhnliche Biodiversität beherbergt. Hier finden sich zahlreiche endemische Pflanzenarten und seltene Greifvögel.",
       hu: "Európa egyik legmélyebb és legérintetlenebb szurdoka, amely rendkívüli biodiverzitásnak ad otthont. Számos endemikus növényfaj és ritka ragadozó madár található itt.",
@@ -567,7 +567,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Zelengora Gletscherseen", hu: "Zelengora-tavak", ro: "Lacurile glaciare Zelengora", en: "Zelengora Glacial Lakes"},
     image: "/poi-images/bosniaherzegovina-zelengora-life-v2.webp",
     coords: [18.5775, 43.3283],
-    coordinates: { lat: 43.3283, lng: 18.5775 },
+    coords: [18.5775, 43.3283],
     description: {
       de: "Die Zelengora ist bekannt für ihre 'Augen des Berges' – acht wunderschöne Gletscherseen. Die Region beherbergt eine reiche alpine Flora und große Bestände an Heidelbeeren.",
       hu: "A Zelengora a 'hegy szemeiről' – nyolc gyönyörű gleccsertóról ismert. A régió gazdag alpesi flórának és nagy áfonyaállományoknak ad otthont.",
@@ -602,7 +602,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Prenj Gebirgsmassiv", hu: "Prenj-hegység", ro: "Masivul Prenj", en: "Prenj Mountain Range"},
     image: "/poi-images/bosniaherzegovina-prenj-life-v2.webp",
     coords: [17.91, 43.535],
-    coordinates: { lat: 43.535, lng: 17.91 },
+    coords: [17.91, 43.535],
     description: {
       de: "Oft als 'Dinarischer Himalaya' bezeichnet, beherbergt dieses Massiv eine extrem reiche Flora mit vielen endemischen Arten. Es ist ein wichtiges Gebiet für den Schutz alpiner Ökosysteme.",
       hu: "Gyakran 'Dinári Himalájának' nevezik, ez a masszívum rendkívül gazdag flórának ad otthont, számos endemikus fajjal. Fontos terület az alpesi ökoszisztémák védelmében.",
@@ -637,7 +637,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Čvrsnica Berg", hu: "Čvrsnica-hegy", ro: "Muntele Čvrsnica", en: "Čvrsnica Mountain"},
     image: "/poi-images/bosniaherzegovina-cvrsnica-life-v2.webp",
     coords: [17.5858, 43.6017],
-    coordinates: { lat: 43.6017, lng: 17.5858 },
+    coords: [17.5858, 43.6017],
     description: {
       de: "Eines der höchsten Gebirge des Landes, berühmt für die endemische Mun Kiefer und den natürlichen Steinbogen Hajdučka vrata. Es beherbergt eine reiche Hochgebirgsfauna.",
       hu: "Az ország egyik legmagasabb hegysége, amely az endemikus páncélfenyőről és a Hajdučka vrata természetes kőívről híres. Gazdag magashegyi faunának ad otthont.",
@@ -672,7 +672,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Maglić Gebirge", hu: "Maglić-hegység", ro: "Munții Maglić", en: "Maglić Mountain"},
     image: "/poi-images/bosniaherzegovina-maglic-life-v2.webp",
     coords: [18.7364, 43.2803],
-    coordinates: { lat: 43.2803, lng: 18.7364 },
+    coords: [18.7364, 43.2803],
     description: {
       de: "Der höchste Berg des Landes bietet Lebensraum für seltene alpine Pflanzen und große Raubtiere. Er grenzt direkt an den Urwald Perućica und bildet ein einzigartiges Naturreservat.",
       hu: "Az ország legmagasabb hegye ritka alpesi növényeknek és nagy ragadozóknak nyújt élőhelyet. Közvetlenül határos a Perućica őserdővel, egyedülálló rezervátumot alkotva.",
@@ -707,7 +707,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Kravica Wasserfälle", hu: "Kravica-vízesés", ro: "Cascada Kravica", en: "Kravica Waterfalls"},
     image: "/poi-images/bosniaherzegovina-kravica-life-v2.webp",
     coords: [17.6078, 43.1594],
-    coordinates: { lat: 43.1594, lng: 17.6078 },
+    coords: [17.6078, 43.1594],
     description: {
       de: "Diese Tuffstein-Wasserfälle am Fluss Trebižat sind von üppiger mediterraner Vegetation umgeben. Das Gebiet ist ein wichtiges Beispiel für hydrogeologische Phänomene und Biodiversität.",
       hu: "A Trebižat folyón található mésztufa-vízeséseket buja mediterrán vegetáció veszi körül. A terület a hidrogeológiai jelenségek és a biodiverzitás fontos példája.",
@@ -742,7 +742,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Prokoško See", hu: "Prokoško-tó", ro: "Lacul Prokoško", en: "Prokoško Lake"},
     image: "/poi-images/bosniaherzegovina-prokosko-lake-life-v2.webp",
     coords: [17.7553, 43.9608],
-    coordinates: { lat: 43.9608, lng: 17.7553 },
+    coords: [17.7553, 43.9608],
     description: {
       de: "Ein Gletschersee im Vranica-Gebirge, der für den endemischen Triton (Triturus alpestris reiseri) bekannt ist. Der See und seine Umgebung sind als Naturdenkmal geschützt.",
       hu: "Gleccsertó a Vranica-hegységben, amely az endemikus Prokoško-i gőtéről (Triturus alpestris reiseri) ismert. A tó és környéke természeti emlékként védett.",
@@ -777,7 +777,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Vjetrenica Höhle", hu: "Vjetrenica-barlang", ro: "Peștera Vjetrenica", en: "Vjetrenica Cave"},
     image: "/poi-images/bosniaherzegovina-vjetrenica-life-v2.webp",
     coords: [17.9844, 42.8442],
-    coordinates: { lat: 42.8442, lng: 17.9844 },
+    coords: [17.9844, 42.8442],
     description: {
       de: "Die biodiverseste Höhle der Welt beherbergt über 200 Tierarten, darunter den berühmten Grottenolm. Sie ist ein Schlüsselstandort für die Erforschung unterirdischer Ökosysteme.",
       hu: "A világ legváltozatosabb élővilágú barlangja több mint 200 állatfajnak ad otthont, köztük a híres barlangi vakgőtének. Kulcsfontosságú helyszín a föld alatti ökoszisztémák kutatásában.",
@@ -812,7 +812,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Urwaldreservat Lom", hu: "Lom őserdő-rezervátum", ro: "Rezervația forestieră Lom", en: "Lom Forest Reserve"},
     image: "/poi-images/bosniaherzegovina-lom-forest-life-v2.webp",
     coords: [16.4525, 44.4533],
-    coordinates: { lat: 44.4533, lng: 16.4525 },
+    coords: [16.4525, 44.4533],
     description: {
       de: "Ein strenges Naturreservat im Klekovača-Massiv, das einen unberührten Mischwald aus Buche, Tanne und Fichte schützt. Es dient als wichtiges Referenzgebiet für die forstwirtschaftliche Forschung.",
       hu: "Szigorúan védett természetvédelmi terület a Klekovača-masszívumban, amely érintetlen bükk-, jegenyefenyő- és lucfenyőerdőt véd. Fontos referenciaterület az erdészeti kutatások számára.",
@@ -847,7 +847,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     name: { de: "Urwaldreservat Janj", hu: "Janj őserdő-rezervátum", ro: "Rezervația forestieră Janj", en: "Janj Forest Reserve"},
     image: "/poi-images/bosniaherzegovina-janj-forest-life-v2.webp",
     coords: [17.275, 44.1481],
-    coordinates: { lat: 44.1481, lng: 17.275 },
+    coords: [17.275, 44.1481],
     description: {
       de: "Dieses UNESCO-geschützte Urwaldreservat beherbergt uralte Buchen- und Tannenbestände. Es ist Teil der seriellen Welterbestätte der 'Alten Buchenwälder und Buchenurwälder Europas'.",
       hu: "Ez az UNESCO által védett őserdő-rezervátum ősi bükk- és fenyőállományoknak ad otthont. Része az 'Európa ősbükkösei' világörökségi helyszínnek.",
@@ -880,7 +880,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     type: "park",
     parent: "BA",
     name: { de: "Stojčevac Park", hu: "Stojčevac Park", ro: "Parcul Stojčevac", en: "Stojčevac Park" },
-    coordinates: { lat: 43.8211, lng: 18.2839 },
+    coords: [18.2839, 43.8211],
     description: {
       de: "Das Parkareal Stojčevac liegt am Rande des Naturdenkmals Vrelo Bosne. Das Gebiet umfasst Waldflächen und Spazierwege in der Nähe der Bosna-Quelle.",
       hu: "A Stojčevac park a Vrelo Bosne természeti emlék szélén található. A terület erdős részeket és sétautakat foglal magában a Bosna-forrás közelében.",
@@ -912,7 +912,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     type: "wildlife",
     parent: "BA",
     name: { de: "Stari Gaj Reservat", hu: "Stari Gaj rezervátum", ro: "Rezervația Stari Gaj", en: "Stari Gaj Reserve" },
-    coordinates: { lat: 44.8215, lng: 17.6533 },
+    coords: [17.6533, 44.8215],
     description: {
       de: "Stari Gaj ist ein geschütztes Waldgebiet in der Region um Prnjavor. Es beherbergt verschiedene lokale Baumarten und dient als Habitat für Wildtiere.",
       hu: "A Stari Gaj egy védett erdőterület a Prnjavor környéki régióban. Különböző helyi fafajoknak ad otthont és vadon élő állatok élőhelyéül szolgál.",
@@ -944,7 +944,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     type: "forest",
     parent: "BA",
     name: { de: "Velika Šuma Wald", hu: "Velika Šuma erdő", ro: "Pădurea Velika Šuma", en: "Velika Šuma Forest" },
-    coordinates: { lat: 44.7521, lng: 16.7112 },
+    coords: [16.7112, 44.7521],
     description: {
       de: "Der Velika Šuma Wald erstreckt sich in den hügeligen Gebieten westlich von Banja Luka. Das Areal ist durch Mischwald und eine vielfältige Flora geprägt.",
       hu: "A Velika Šuma erdő a Banja Lukától nyugatra fekvő dombvidékeken húzódik. A területet vegyes erdő és változatos növényvilág jellemzi.",
@@ -976,7 +976,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     type: "park",
     parent: "BA",
     name: { de: "Vran Gebirgspark", hu: "Vran hegyi park", ro: "Parcul montan Vran", en: "Vran Mountain Park" },
-    coordinates: { lat: 43.6653, lng: 17.5342 },
+    coords: [17.5342, 43.6653],
     description: {
       de: "Der Vran-Gebirgspark umfasst alpine Zonen zwischen Tomislavgrad und Jablanica. Die Landschaft ist geprägt durch Felsformationen und Hochgebirgsvegetation.",
       hu: "A Vran hegyi park alpesi zónákat foglal magában Tomislavgrad és Jablanica között. A tájat sziklaképződmények és magashegyi növényzet jellemzi.",

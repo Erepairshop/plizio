@@ -6,7 +6,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "lake",
     parent: "CH",
     name: { de: "Lac de Joux", hu: "Lac de Joux", ro: "Lac de Joux", en: "Lac de Joux" },
-    coordinates: { lat: 46.63, lng: 6.3 },
+    coords: [6.3, 46.63],
     description: {
       de: "Der Lac de Joux ist der größte See im Schweizer Jura. Er liegt auf 1004 Metern Höhe im Vallée de Joux.",
       hu: "A Lac de Joux a svájci Jura legnagyobb tava. 1004 méteres tengerszint feletti magasságban fekszik a Joux-völgyben.",
@@ -38,7 +38,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "landmark",
     parent: "CH",
     name: { de: "Aareschlucht", hu: "Aare-szurdok", ro: "Cheile Aarei", en: "Aare Gorge" },
-    coordinates: { lat: 46.72, lng: 8.2 },
+    coords: [8.2, 46.72],
     description: {
       de: "Die Aareschlucht ist eine von der Aare geformte Felsschlucht bei Meiringen im Kanton Bern. Sie ist etwa 1400 Meter lang.",
       hu: "Az Aare-szurdok egy az Aare folyó által kivájt sziklás szurdok a berni kantonbeli Meiringen közelében. Hossza körülbelül 1400 méter.",
@@ -70,7 +70,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "valley",
     parent: "CH",
     name: { de: "Verzasca-Tal", hu: "Verzasca-völgy", ro: "Valea Verzasca", en: "Verzasca Valley" },
-    coordinates: { lat: 46.3, lng: 8.8 },
+    coords: [8.8, 46.3],
     description: {
       de: "Das Verzasca-Tal liegt im Kanton Tessin und ist bekannt für den smaragdgrünen Fluss Verzasca. Es erstreckt sich vom Lago Maggiore bis in die Alpen.",
       hu: "A Verzasca-völgy a svájci Ticino kantonban található, a smaragdzöld Verzasca folyóról ismert. A Lago Maggiore-tól az Alpokig húzódik.",
@@ -102,7 +102,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Grosser Aletschgletscher", hu: "Nagy-Aletsch-gleccser", ro: "Ghețarul Aletsch", en: "Great Aletsch Glacier" },
-    coordinates: { lat: 46.47, lng: 8.08 },
+    coords: [8.08, 46.47],
     description: {
       de: "Der Grosser Aletschgletscher ist der flächenmäßig größte Gletscher der Alpen. Er liegt im Kanton Wallis und ist Teil des UNESCO-Welterbes.",
       hu: "A Nagy-Aletsch-gleccser az Alpok legnagyobb kiterjedésű gleccsere. Wallis kantonban található, és az UNESCO világörökség része.",
@@ -134,7 +134,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "lake",
     parent: "CH",
     name: { de: "Lac de la Gruyère", hu: "Lac de la Gruyère", ro: "Lac de la Gruyère", en: "Lac de la Gruyère" },
-    coordinates: { lat: 46.65, lng: 7.1 },
+    coords: [7.1, 46.65],
     description: {
       de: "Der Lac de la Gruyère ist ein Stausee im Kanton Freiburg. Er wurde 1948 durch den Bau der Rossens-Staumauer geschaffen.",
       hu: "A Lac de la Gruyère egy víztározó Fribourg kantonban. 1948-ban jött létre a rossensi gát megépítésével.",
@@ -166,7 +166,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "river",
     parent: "CH",
     name: { de: "Doubs", hu: "Doubs folyó", ro: "Râul Doubs", en: "Doubs River" },
-    coordinates: { lat: 47.15, lng: 6.7 },
+    coords: [6.7, 47.15],
     description: {
       de: "Der Doubs entspringt im französischen Jura und bildet teilweise die Grenze zwischen der Schweiz und Frankreich. Er ist ein Nebenfluss der Saône.",
       hu: "A Doubs a francia Jura hegységben ered, és részben Svájc és Franciaország határát alkotja. A Saône folyó mellékfolyója.",
@@ -198,7 +198,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Creux du Van", hu: "Creux du Van", ro: "Creux du Van", en: "Creux du Van" },
-    coordinates: { lat: 46.93, lng: 6.72 },
+    coords: [6.72, 46.93],
     description: {
       de: "Der Creux du Van ist ein natürlicher Felsenkessel im Val-de-Travers im Kanton Neuenburg. Die Kalksteinfelsen erreichen 160 Meter Höhe.",
       hu: "A Creux du Van egy természetes sziklakatlan a Val-de-Travers-ben, Neuchâtel kantonban. A mészkősziklák 160 méter magasak.",
@@ -230,7 +230,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "lake",
     parent: "CH",
     name: { de: "Lac de Mauvoisin", hu: "Lac de Mauvoisin", ro: "Lac de Mauvoisin", en: "Lac de Mauvoisin" },
-    coordinates: { lat: 45.98, lng: 7.37 },
+    coords: [7.37, 45.98],
     description: {
       de: "Der Lac de Mauvoisin ist ein Stausee im Val de Bagnes im Kanton Wallis. Die Staumauer gehört zu den höchsten der Welt.",
       hu: "A Lac de Mauvoisin egy víztározó a Wallis kantonbeli Val de Bagnes-ban. A gátja a világ egyik legmagasabbja.",
@@ -262,7 +262,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "river",
     parent: "CH",
     name: { de: "Muota", hu: "Muota folyó", ro: "Râul Muota", en: "Muota River" },
-    coordinates: { lat: 46.95, lng: 8.6 },
+    coords: [8.6, 46.95],
     description: {
       de: "Die Muota ist ein Fluss im Kanton Schwyz. Sie mündet bei Brunnen in den Vierwaldstättersee.",
       hu: "A Muota egy folyó Schwyz kantonban. Brunnen közelében ömlik a Vierwaldstätter-tóba.",
@@ -294,7 +294,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Griesgletscher", hu: "Gries-gleccser", ro: "Ghețarul Gries", en: "Gries Glacier" },
-    coordinates: { lat: 46.43, lng: 8.35 },
+    coords: [8.35, 46.43],
     description: {
       de: "Der Griesgletscher liegt in den Lepontinischen Alpen im Kanton Wallis. Er speist den Griessee.",
       hu: "A Gries-gleccser a Lepontini-Alpokban, Wallis kantonban fekszik. A Gries-tavat táplálja.",
@@ -326,7 +326,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "lake",
     parent: "CH",
     name: { de: "Lac de Remoray", hu: "Lac de Remoray", ro: "Lac de Remoray", en: "Lac de Remoray" },
-    coordinates: { lat: 46.7, lng: 6.18 },
+    coords: [6.18, 46.7],
     description: {
       de: "Der Lac de Remoray ist ein kleiner See im Grenzgebiet zur Schweiz. Er ist als Naturschutzgebiet ausgewiesen.",
       hu: "A Lac de Remoray egy kis tó a svájci határ közelében. Természetvédelmi területnek nyilvánították.",
@@ -358,7 +358,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "valley",
     parent: "CH",
     name: { de: "Muggia-Tal", hu: "Muggia-völgy", ro: "Valea Muggio", en: "Muggio Valley" },
-    coordinates: { lat: 45.88, lng: 9.02 },
+    coords: [9.02, 45.88],
     description: {
       de: "Das Muggia-Tal ist das südlichste Tal der Schweiz im Kanton Tessin. Es ist bekannt für seine traditionelle Terrassenlandschaft.",
       hu: "A Muggia-völgy Svájc legdélibb völgye Ticino kantonban. Hagyományos teraszos tájáról ismert.",
@@ -390,7 +390,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "valley",
     parent: "CH",
     name: { de: "Val-de-Travers", hu: "Val-de-Travers", ro: "Val-de-Travers", en: "Val-de-Travers" },
-    coordinates: { lat: 46.9, lng: 6.6 },
+    coords: [6.6, 46.9],
     description: {
       de: "Das Val-de-Travers ist ein Tal im Kanton Neuenburg. Es ist für seine Kalksteinformationen und als Ursprung von Absinth bekannt.",
       hu: "A Val-de-Travers egy völgy Neuchâtel kantonban. Mészkőalakzatairól és az abszint eredeteként ismert.",
@@ -422,7 +422,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "lake",
     parent: "CH",
     name: { de: "Lac de la Sauge", hu: "Lac de la Sauge", ro: "Lac de la Sauge", en: "Lac de la Sauge" },
-    coordinates: { lat: 46.97, lng: 7.08 },
+    coords: [7.08, 46.97],
     description: {
       de: "Der Lac de la Sauge ist ein kleiner See am Broyekanal zwischen dem Murtensee und dem Neuenburgersee.",
       hu: "A Lac de la Sauge egy kis tó a Broye-csatornán, a Murten-tó és a Neuchâtel-tó között.",
@@ -454,7 +454,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "mountain",
     parent: "CH",
     name: { de: "Gamsberg", hu: "Gamsberg", ro: "Gamsberg", en: "Gamsberg" },
-    coordinates: { lat: 47.13, lng: 9.3 },
+    coords: [9.3, 47.13],
     description: {
       de: "Der Gamsberg ist ein markanter Berg in den Appenzeller Alpen im Kanton St. Gallen.",
       hu: "A Gamsberg egy jellegzetes hegy az Appenzelli-Alpokban, St. Gallen kantonban.",
@@ -486,7 +486,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "valley",
     parent: "CH",
     name: { de: "Puschlav", hu: "Puschlav-völgy", ro: "Valea Poschiavo", en: "Poschiavo Valley" },
-    coordinates: { lat: 46.3, lng: 10.05 },
+    coords: [10.05, 46.3],
     description: {
       de: "Das Puschlav (italienisch: Val Poschiavo) ist ein Tal im Kanton Graubünden, das sich vom Berninapass bis zur italienischen Grenze erstreckt.",
       hu: "A Puschlav-völgy (olaszul: Val Poschiavo) egy völgy Graubünden kantonban, amely a Bernina-hágótól az olasz határig húzódik.",
@@ -518,7 +518,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "lake",
     parent: "CH",
     name: { de: "Lac de l'Etang", hu: "Lac de l'Etang", ro: "Lac de l'Etang", en: "Lac de l'Etang" },
-    coordinates: { lat: 46.55, lng: 6.8 },
+    coords: [6.8, 46.55],
     description: {
       de: "Der Lac de l'Etang ist ein kleiner Natursee im Kanton Waadt.",
       hu: "A Lac de l'Etang egy kis természetes tó Vaud kantonban.",
@@ -550,7 +550,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "valley",
     parent: "CH",
     name: { de: "Val Ferret", hu: "Val Ferret", ro: "Val Ferret", en: "Val Ferret" },
-    coordinates: { lat: 45.9, lng: 7.0 },
+    coords: [7.0, 45.9],
     description: {
       de: "Das Val Ferret ist ein alpines Seitental im Kanton Wallis, bekannt für den Blick auf den Mont-Blanc-Massiv.",
       hu: "A Val Ferret egy alpesi mellékvölgy Wallis kantonban, a Mont Blanc-masszívumra nyíló kilátásáról ismert.",
@@ -582,7 +582,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "lake",
     parent: "CH",
     name: { de: "Lac de la Gryonne", hu: "Lac de la Gryonne", ro: "Lac de la Gryonne", en: "Lac de la Gryonne" },
-    coordinates: { lat: 46.28, lng: 7.05 },
+    coords: [7.05, 46.28],
     description: {
       de: "Der Lac de la Gryonne ist ein kleiner Bergsee im Kanton Waadt, in der Nähe von Villars-sur-Ollon.",
       hu: "A Lac de la Gryonne egy kis hegyi tó Vaud kantonban, Villars-sur-Ollon közelében.",
@@ -614,7 +614,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "valley",
     parent: "CH",
     name: { de: "Val d'Illiez", hu: "Val d'Illiez", ro: "Val d'Illiez", en: "Val d'Illiez" },
-    coordinates: { lat: 46.18, lng: 6.85 },
+    coords: [6.85, 46.18],
     description: {
       de: "Das Val d'Illiez ist ein Tal im Kanton Wallis, Teil der Region Portes du Soleil.",
       hu: "A Val d'Illiez egy völgy Wallis kantonban, a Portes du Soleil régió része.",
@@ -646,7 +646,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "lake",
     parent: "CH",
     name: { de: "Lac de Cleuson", hu: "Lac de Cleuson", ro: "Lac de Cleuson", en: "Lac de Cleuson" },
-    coordinates: { lat: 46.07, lng: 7.37 },
+    coords: [7.37, 46.07],
     description: {
       de: "Der Lac de Cleuson ist ein Stausee in Nendaz im Kanton Wallis. Er ist für sein türkisblaues Wasser bekannt.",
       hu: "A Lac de Cleuson egy víztározó Nendazban, Wallis kantonban. Türkizkék vizéről ismert.",
@@ -678,7 +678,7 @@ export const switzerlandNatureV2: POI[] = [
     type: "valley",
     parent: "CH",
     name: { de: "Val Bavona", hu: "Val Bavona", ro: "Val Bavona", en: "Val Bavona" },
-    coordinates: { lat: 46.35, lng: 8.52 },
+    coords: [8.52, 46.35],
     description: {
       de: "Das Val Bavona ist ein alpines Tal im Kanton Tessin, bekannt für seine steilen Felswände und traditionellen Steindörfer.",
       hu: "A Val Bavona egy alpesi völgy Ticino kantonban, meredek sziklafalairól és hagyományos kőfalvaival ismert.",

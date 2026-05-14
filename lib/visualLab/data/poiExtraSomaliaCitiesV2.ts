@@ -1165,7 +1165,20 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A Warsangali Szultanátus történelmi kikötője", "Tonhalgyár otthona", "Gyönyörű tengerpart"],
       ro: ["Portul istoric al Sultanatului Warsangali", "Acasă la o fabrică de ton", "Coastă frumoasă"],
       en: ["Historic port of the Warsangali Sultanate", "Home to a tuna factory", "Beautiful coastline"]
-    }, image: "/poi-images/las-khorey-cities-v2.webp"},
+    }, image: "/poi-images/las-khorey-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Las Khorey ist eine Küstenstadt im Norden Somalias mit etwa 15.000 Einwohnern. Sie liegt am Golf von Aden und ist bekannt für ihre Korallenriffe und historischen Ruinen aus dem 15. Jahrhundert. Die Wirtschaft basiert auf Fischerei und Kleinviehzucht. Der Ort hat einen kleinen Hafen.",
+      hu: "Las Khorey egy tengerparti város Szomália északi részén, kb. 15.000 lakossal. Az Ádeni-öbölnél fekszik. Híres korallzátonyairól és 15. századi romjairól. Gazdasága halászaton és állattenyésztésen alapul. Kikötője kisebb hajóknak ad otthont.",
+      ro: "Las Khorey este un oraș de coastă în nordul Somaliei, cu circa 15.000 de locuitori. Situat pe Golful Aden, este cunoscut pentru recifele de corali și ruinele istorice din secolul al XV-lea. Economia se bazează pe pescuit și creșterea animalelor. Are un port mic.",
+      en: "Las Khorey is a coastal town in northern Somalia with about 15,000 residents. Located on the Gulf of Aden, it features coral reefs and 15th-century ruins. Economy relies on fishing and livestock. It has a small harbor.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 15.000", "Lage: Golf von Aden", "Historische Ruinen: 15. Jahrhundert", "Wirtschaftszweige: Fischerei, Viehzucht", "Hafentiefe: max. 5 Meter", "Region: Sanaag"],
+      hu: ["Lakosság: kb. 15.000", "Elhelyezkedés: Ádeni-öböl", "Történelmi romok: 15. század", "Gazdaság: halászat, állattenyésztés", "Kikötő mélysége: max. 5 m", "Régió: Sanaag"],
+      ro: ["Populație: aprox. 15.000", "Locație: Golful Aden", "Ruine istorice: secolul al XV-lea", "Economie: pescuit, creșterea animalelor", "Adâncime port: max. 5 m", "Regiunea: Sanaag"],
+      en: ["Population: approx. 15,000", "Location: Gulf of Aden", "Historical ruins: 15th century", "Economy: fishing, livestock", "Harbor depth: max 5 meters", "Region: Sanaag"],
+    },
+  },
   {
     id: "dhahar-cities-v2",
     type: "city",

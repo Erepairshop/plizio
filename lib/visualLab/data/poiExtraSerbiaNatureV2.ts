@@ -6,7 +6,7 @@ export const serbiaNatureV2: POI[] = [
     type: "river",
     parent: "RS",
     name: { de: "Raška (Fluss)", hu: "Raška-folyó", ro: "Râul Raška", en: "Raška River" },
-    coordinates: { lat: 43.15, lng: 20.5167 },
+    coords: [20.5167, 43.15],
     description: {
       de: "Die Raška ist ein Fluss im Südwesten Serbiens. Er entspringt in der Nähe des Sopoćani-Klosters und mündet in den Fluss Ibar.",
       hu: "A Raška egy folyó Szerbia délnyugati részén. A Sopoćani-kolostor közelében ered és az Ibar-folyóba torkollik.",
@@ -38,7 +38,7 @@ export const serbiaNatureV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Golija", hu: "Golija", ro: "Golija", en: "Golija" },
-    coordinates: { lat: 43.3333, lng: 20.2667 },
+    coords: [20.2667, 43.3333],
     description: {
       de: "Golija ist ein Gebirge im Südwesten Serbiens, das als Biosphärenreservat geschützt ist. Der höchste Gipfel Jankov Kamen erreicht 1833 Meter.",
       hu: "A Golija egy hegység Szerbia délnyugati részén, amely bioszféra-rezervátumként védett. A legmagasabb csúcsa, a Jankov Kamen, 1833 méter magas.",
@@ -70,7 +70,7 @@ export const serbiaNatureV2: POI[] = [
     type: "river",
     parent: "RS",
     name: { de: "Tamiš", hu: "Temes", ro: "Timiș", en: "Tamiš" },
-    coordinates: { lat: 44.8333, lng: 20.6667 },
+    coords: [20.6667, 44.8333],
     description: {
       de: "Der Tamiš ist ein Fluss, der durch Rumänien und die serbische Provinz Vojvodina fließt. Er mündet bei Pančevo in die Donau.",
       hu: "A Temes egy folyó, amely Románián és a szerbiai Vajdaság tartományon folyik keresztül. Pancsovánál ömlik a Dunába.",
@@ -102,7 +102,7 @@ export const serbiaNatureV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Cer", hu: "Cer", ro: "Cer", en: "Cer" },
-    coordinates: { lat: 44.5833, lng: 19.5333 },
+    coords: [19.5333, 44.5833],
     description: {
       de: "Cer ist ein isoliertes Gebirge im Westen Serbiens nahe Šabac. Der Gipfel Šančine erreicht eine Höhe von 687 Metern.",
       hu: "A Cer egy elszigetelt hegység Nyugat-Szerbiában, Šabac közelében. A Šančine csúcs 687 méter magas.",
@@ -134,7 +134,7 @@ export const serbiaNatureV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Radan", hu: "Radan", ro: "Radan", en: "Radan" },
-    coordinates: { lat: 43.0167, lng: 21.5 },
+    coords: [21.5, 43.0167],
     description: {
       de: "Radan ist ein Gebirge im Süden Serbiens, bekannt für seine vulkanische Herkunft und geologische Formationen. Der höchste Punkt liegt bei 1409 Metern.",
       hu: "A Radan egy hegyvonulat Szerbia déli részén, amely vulkanikus eredetéről és geológiai képződményeiről ismert. A legmagasabb pontja 1409 méter.",
@@ -166,7 +166,7 @@ export const serbiaNatureV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Jastrebac", hu: "Jastrebac", ro: "Jastrebac", en: "Jastrebac" },
-    coordinates: { lat: 43.45, lng: 21.4167 },
+    coords: [21.4167, 43.45],
     description: {
       de: "Jastrebac ist ein Gebirge in Zentralserbien südlich von Kruševac. Es ist bekannt für seine dichten Laub- und Nadelwälder.",
       hu: "A Jastrebac egy hegység Közép-Szerbiában, Kruševactól délre. Sűrű lomblevelű és tűlevelű erdeiről ismert.",
@@ -198,7 +198,7 @@ export const serbiaNatureV2: POI[] = [
     type: "river",
     parent: "RS",
     name: { de: "Moravica", hu: "Moravica", ro: "Moravica", en: "Moravica" },
-    coordinates: { lat: 43.5167, lng: 20.2 },
+    coords: [20.2, 43.5167],
     description: {
       de: "Die Moravica ist ein Fluss in Zentralserbien. Sie durchfließt den Ort Ivanjica und ist ein Quellfluss der Westlichen Morava.",
       hu: "A Moravica egy folyó Közép-Szerbiában. Átfolyik Ivanjica településen és a Nyugati-Morava egyik forrásfolyója.",
@@ -230,7 +230,7 @@ export const serbiaNatureV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Beljanica", hu: "Beljanica", ro: "Beljanica", en: "Beljanica" },
-    coordinates: { lat: 44.15, lng: 21.75 },
+    coords: [21.75, 44.15],
     description: {
       de: "Beljanica ist ein Gebirge in Ostserbien, bekannt für seine ausgedehnten Karstformationen und Höhlen. Die Höhe beträgt bis zu 1339 Meter.",
       hu: "A Beljanica egy hegyvidék Kelet-Szerbiában, amely kiterjedt karsztképződményeiről és barlangjairól ismert. Magassága eléri az 1339 métert.",
@@ -262,7 +262,7 @@ export const serbiaNatureV2: POI[] = [
     type: "river",
     parent: "RS",
     name: { de: "Ibar (Fluss)", hu: "Ibar-folyó", ro: "Râul Ibar", en: "Ibar River" },
-    coordinates: { lat: 43.7167, lng: 20.6667 },
+    coords: [20.6667, 43.7167],
     description: {
       de: "Der Ibar ist ein Fluss im Südwesten Serbiens. Er fließt durch eine landschaftlich reizvolle Region und mündet in die Westliche Morava.",
       hu: "Az Ibar egy folyó Szerbia délnyugati részén. Festői szépségű régión keresztül folyik és a Nyugati-Moravába ömlik.",
@@ -294,7 +294,7 @@ export const serbiaNatureV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Goč", hu: "Goč", ro: "Goč", en: "Goč" },
-    coordinates: { lat: 43.55, lng: 20.9833 },
+    coords: [20.9833, 43.55],
     description: {
       de: "Goč ist ein Gebirge in der Nähe von Vrnjačka Banja in Zentralserbien. Der höchste Punkt ist der Krst mit 1216 Metern.",
       hu: "A Goč egy hegység Vrnjačka Banja közelében, Közép-Szerbiában. Legmagasabb pontja a 1216 méteres Krst.",
@@ -326,7 +326,7 @@ export const serbiaNatureV2: POI[] = [
     type: "river",
     parent: "RS",
     name: { de: "Vlasina (Fluss)", hu: "Vlasina-folyó", ro: "Râul Vlasina", en: "Vlasina River" },
-    coordinates: { lat: 42.7167, lng: 22.0333 },
+    coords: [22.0333, 42.7167],
     description: {
       de: "Die Vlasina ist ein Fluss im Südosten Serbiens. Sie speist den Vlasina-Stausee und ist ein Nebenfluss der Südlichen Morava.",
       hu: "A Vlasina egy folyó Szerbia délkeleti részén. Ez táplálja a Vlasina-víztározót és a Déli-Morava mellékfolyója.",
@@ -358,7 +358,7 @@ export const serbiaNatureV2: POI[] = [
     type: "river",
     parent: "RS",
     name: { de: "Pek (Fluss)", hu: "Pek-folyó", ro: "Râul Pek", en: "Pek River" },
-    coordinates: { lat: 44.5333, lng: 21.65 },
+    coords: [21.65, 44.5333],
     description: {
       de: "Der Pek ist ein Fluss in Ostserbien, der für seine goldhaltigen Sedimente bekannt war. Er mündet in die Donau.",
       hu: "A Pek egy folyó Kelet-Szerbiában, amely aranytartalmú üledékeiről volt ismert. A Dunába ömlik.",
@@ -390,7 +390,7 @@ export const serbiaNatureV2: POI[] = [
     type: "river",
     parent: "RS",
     name: { de: "Samokovska Reka", hu: "Samokovska Reka", ro: "Samokovska Reka", en: "Samokovska Reka" },
-    coordinates: { lat: 43.3167, lng: 20.8167 },
+    coords: [20.8167, 43.3167],
     description: {
       de: "Die Samokovska Reka ist ein Gebirgsfluss im Kopaonik-Nationalpark. Er zeichnet sich durch seine zahlreichen Kaskaden und Wasserfälle aus.",
       hu: "A Samokovska Reka egy hegyi folyó a Kopaonik Nemzeti Parkban. Számos kaszkádjáról és vízeséséről ismert.",
@@ -422,7 +422,7 @@ export const serbiaNatureV2: POI[] = [
     type: "peak",
     parent: "RS",
     name: { de: "Babin Zub", hu: "Babin Zub", ro: "Babin Zub", en: "Babin Zub" },
-    coordinates: { lat: 43.37, lng: 22.65 },
+    coords: [22.65, 43.37],
     description: {
       de: "Babin Zub ist einer der bekanntesten Gipfel des Stara-Planina-Gebirges in Ostserbien. Er liegt auf 1758 Metern Höhe.",
       hu: "A Babin Zub a Stara Planina-hegység egyik legismertebb csúcsa Kelet-Szerbiában. 1758 méteres magasságban található.",
@@ -454,7 +454,7 @@ export const serbiaNatureV2: POI[] = [
     type: "river",
     parent: "RS",
     name: { de: "Südliche Morava", hu: "Déli-Morava", ro: "Morava de Sud", en: "Southern Morava" },
-    coordinates: { lat: 43.7, lng: 21.3667 },
+    coords: [21.3667, 43.7],
     description: {
       de: "Die Südliche Morava ist ein Fluss in Südserbien. Sie vereinigt sich bei Stalać mit der Westlichen Morava zur Großen Morava.",
       hu: "A Déli-Morava egy folyó Dél-Szerbiában. Stalaćnál egyesül a Nyugati-Moravával, létrehozva a Nagy-Moravát.",
@@ -486,7 +486,7 @@ export const serbiaNatureV2: POI[] = [
     type: "mountain",
     parent: "RS",
     name: { de: "Željin", hu: "Željin", ro: "Željin", en: "Željin" },
-    coordinates: { lat: 43.4667, lng: 20.9167 },
+    coords: [20.9167, 43.4667],
     description: {
       de: "Željin ist ein Gebirge in Zentralserbien. Der höchste Gipfel, der Rogavska Čuka, erreicht eine Höhe von 1785 Metern.",
       hu: "A Željin egy hegység Közép-Szerbiában. A legmagasabb csúcsa, a Rogavska Čuka, 1785 méter magas.",
@@ -518,7 +518,7 @@ export const serbiaNatureV2: POI[] = [
     type: "forest",
     parent: "RS",
     name: { de: "Košutnjak", hu: "Košutnjak", ro: "Košutnjak", en: "Košutnjak" },
-    coordinates: { lat: 44.7667, lng: 20.4167 },
+    coords: [20.4167, 44.7667],
     description: {
       de: "Košutnjak ist ein großer Waldpark in Belgrad. Er gilt als grüne Lunge der serbischen Hauptstadt.",
       hu: "A Košutnjak egy nagy erdőpark Belgrádban. A szerb főváros zöld tüdejének tartják.",

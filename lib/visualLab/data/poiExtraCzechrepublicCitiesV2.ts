@@ -8,7 +8,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Prag", hu: "Prága", ro: "Praga", en: "Prague"},
     image: "/poi-images/czechrepublic-prague-cities-v2.webp",
     coords: [14.4214, 50.0875],
-    coordinates: { lat: 50.0875, lng: 14.4214 },
+    coords: [14.4214, 50.0875],
     description: {
       de: "Prag ist die Hauptstadt und größte Stadt der Tschechischen Republik, bekannt für ihre gotischen und barocken Bauwerke sowie die Lage an der Moldau.",
       hu: "Prága Csehország fővárosa és legnépesebb városa, amely a Moldva partján fekszik, és híres középkori óvárosáról és a Károly hídról.",
@@ -43,7 +43,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Brünn", hu: "Brno", ro: "Brno", en: "Brno"},
     image: "/poi-images/czechrepublic-brno-cities-v2.webp",
     coords: [16.6068, 49.1951],
-    coordinates: { lat: 49.1951, lng: 16.6068 },
+    coords: [16.6068, 49.1951],
     description: {
       de: "Brünn ist das historische Zentrum Mährens und die zweitgrößte Stadt des Landes, geprägt durch die Festung Špilberk und moderne Architektur.",
       hu: "Brno Morvaország történelmi központja és az ország második legnagyobb városa, amely modernista építészetéről és a Špilberk várról ismert.",
@@ -78,7 +78,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Ostrava", hu: "Ostrava", ro: "Ostrava", en: "Ostrava"},
     image: "/poi-images/czechrepublic-ostrava-cities-v2.webp",
     coords: [18.282, 49.8349],
-    coordinates: { lat: 49.8349, lng: 18.282 },
+    coords: [18.282, 49.8349],
     description: {
       de: "Ostrava liegt im Osten des Landes nahe der polnischen Grenze und war früher ein bedeutendes Zentrum für Kohlebergbau und Stahlindustrie.",
       hu: "Ostrava az ország keleti részén, a lengyel határ közelében fekszik, és korábban a szénbányászat és az acélipar fontos központja volt.",
@@ -113,7 +113,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Pilsen", hu: "Plzeň", ro: "Plzeň", en: "Plzeň"},
     image: "/poi-images/czechrepublic-plzen-cities-v2.webp",
     coords: [13.3775, 49.7475],
-    coordinates: { lat: 49.7475, lng: 13.3775 },
+    coords: [13.3775, 49.7475],
     description: {
       de: "Pilsen ist weltweit als Geburtsort des Pilsner Bieres bekannt und ein wichtiges industrielles und kulturelles Zentrum in Westböhmen.",
       hu: "Plzeň világszerte a pilseni típusú sör szülőhelyeként ismert, és Nyugat-Csehország egyik legfontosabb ipari és kulturális központja.",
@@ -148,7 +148,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Liberec", hu: "Liberec", ro: "Liberec", en: "Liberec"},
     image: "/poi-images/czechrepublic-liberec-cities-v2.webp",
     coords: [15.0562, 50.7671],
-    coordinates: { lat: 50.7671, lng: 15.0562 },
+    coords: [15.0562, 50.7671],
     description: {
       de: "Liberec liegt am Fuße des Jeschkengebirges im Norden Böhmens und ist bekannt für seine Tuchmachertradition und den markanten Fernsehturm auf dem Ještěd.",
       hu: "Liberec Észak-Csehországban, a Jizera-hegység lábánál fekszik, és híres textiliparáról, valamint a Ještěd-hegyen lévő tévétoronyról.",
@@ -183,7 +183,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Olomouc", hu: "Olomouc", ro: "Olomouc", en: "Olomouc"},
     image: "/poi-images/czechrepublic-olomouc-cities-v2.webp",
     coords: [17.2508, 49.5938],
-    coordinates: { lat: 49.5938, lng: 17.2508 },
+    coords: [17.2508, 49.5938],
     description: {
       de: "Olomouc ist eine historische Stadt in Mähren, die für ihre barocke Architektur, die zahlreichen Springbrunnen und die religiöse Bedeutung bekannt ist.",
       hu: "Olomouc egy történelmi város Morvaországban, amely barokk építészetéről, számos szökőkútjáról és vallási jelentőségéről ismert.",
@@ -218,7 +218,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Budweis", hu: "České Budějovice", ro: "České Budějovice", en: "České Budějovice"},
     image: "/poi-images/czechrepublic-ceske-budejovice-cities-v2.webp",
     coords: [14.4747, 48.9747],
-    coordinates: { lat: 48.9747, lng: 14.4747 },
+    coords: [14.4747, 48.9747],
     description: {
       de: "České Budějovice ist die Hauptstadt Südböhmens und liegt am Zusammenfluss von Moldau und Maltsch, berühmt für seine Brautradition.",
       hu: "České Budějovice Dél-Csehország fővárosa a Moldva és a Malše folyók találkozásánál, világszerte ismert sörfőző hagyományairól.",
@@ -253,7 +253,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Königgrätz", hu: "Hradec Králové", ro: "Hradec Králové", en: "Hradec Králové"},
     image: "/poi-images/czechrepublic-hradec-kralove-cities-v2.webp",
     coords: [15.8319, 50.2086],
-    coordinates: { lat: 50.2086, lng: 15.8319 },
+    coords: [15.8319, 50.2086],
     description: {
       de: "Hradec Králové ist eine Stadt in Ostböhmen am Zusammenfluss von Elbe und Adler, bekannt für ihre moderne Stadtplanung aus dem frühen 20. Jahrhundert.",
       hu: "Hradec Králové Kelet-Csehországban, az Elba és az Orlice összefolyásánál fekszik, és a 20. század eleji modern várostervezéséről híres.",
@@ -288,7 +288,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Pardubitz", hu: "Pardubice", ro: "Pardubice", en: "Pardubice"},
     image: "/poi-images/czechrepublic-pardubice-cities-v2.webp",
     coords: [15.7792, 50.0386],
-    coordinates: { lat: 50.0386, lng: 15.7792 },
+    coords: [15.7792, 50.0386],
     description: {
       de: "Pardubice ist ein bedeutendes Industrie- und Verkehrszentrum in Ostböhmen, weithin bekannt für sein traditionelles Lebkuchengebäck und Pferderennen.",
       hu: "Pardubice fontos ipari és közlekedési központ Kelet-Csehországban, amely hagyományos mézeskalácsáról és lóversenyeiről ismert.",
@@ -323,7 +323,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Zlín", hu: "Zlín", ro: "Zlín", en: "Zlín"},
     image: "/poi-images/czechrepublic-zlin-cities-v2.webp",
     coords: [17.6672, 49.2223],
-    coordinates: { lat: 49.2223, lng: 17.6672 },
+    coords: [17.6672, 49.2223],
     description: {
       de: "Zlín ist eine moderne Industriestadt im Osten Mährens, die stark durch die funktionalistische Architektur des Baťa-Schuhkonzerns geprägt wurde.",
       hu: "Zlín egy modern iparváros Kelet-Morvaországban, amelyet a Baťa cipőgyár funkcionalista építészete határozott meg.",
@@ -358,7 +358,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Havířov", hu: "Havířov", ro: "Havířov", en: "Havířov"},
     image: "/poi-images/czechrepublic-havirov-cities-v2.webp",
     coords: [18.4355, 49.7788],
-    coordinates: { lat: 49.7788, lng: 18.4355 },
+    coords: [18.4355, 49.7788],
     description: {
       de: "Havířov ist die jüngste Stadt der Tschechischen Republik, die nach dem Zweiten Weltkrieg als Wohnstadt für Bergarbeiter im schlesischen Teil des Landes gegründet wurde.",
       hu: "Havířov Csehország legfiatalabb városa, amelyet a második világháború után alapítottak bányászlakótelepként az ország sziléziai részén.",
@@ -393,7 +393,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Kladno", hu: "Kladno", ro: "Kladno", en: "Kladno"},
     image: "/poi-images/czechrepublic-kladno-cities-v2.webp",
     coords: [14.1028, 50.1473],
-    coordinates: { lat: 50.1473, lng: 14.1028 },
+    coords: [14.1028, 50.1473],
     description: {
       de: "Kladno ist die größte Stadt der Mittelböhmischen Region und historisch ein bedeutendes Zentrum des Kohlebergbaus und der Schwerindustrie.",
       hu: "Kladno a Közép-csehországi kerület legnagyobb városa, amely történelmileg a szénbányászat és a nehézipar egyik legfontosabb központja volt.",
@@ -428,7 +428,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Most", hu: "Most", ro: "Most", en: "Most"},
     image: "/poi-images/czechrepublic-most-cities-v2.webp",
     coords: [13.6362, 50.503],
-    coordinates: { lat: 50.503, lng: 13.6362 },
+    coords: [13.6362, 50.503],
     description: {
       de: "Most ist eine nordböhmische Stadt, deren historisches Zentrum in den 1970er Jahren dem Braunkohletagebau weichen musste und neu aufgebaut wurde.",
       hu: "Most egy észak-csehországi város, amelynek történelmi központját az 1970-es években a barnaszénbányászat miatt lebontották és újjáépítették.",
@@ -463,7 +463,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Troppau", hu: "Opava", ro: "Opava", en: "Opava"},
     image: "/poi-images/czechrepublic-opava-cities-v2.webp",
     coords: [17.9026, 49.9387],
-    coordinates: { lat: 49.9387, lng: 17.9026 },
+    coords: [17.9026, 49.9387],
     description: {
       de: "Opava ist das historische Zentrum des tschechischen Schlesiens und bekannt für seine reiche kulturelle Tradition und die neogotische Architektur.",
       hu: "Opava a cseh Szilézia történelmi központja, amely gazdag kulturális hagyományairól és neogótikus építészetéről ismert.",
@@ -498,7 +498,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Friedeck-Mistek", hu: "Frýdek-Místek", ro: "Frýdek-Místek", en: "Frýdek-Místek"},
     image: "/poi-images/czechrepublic-frydek-mistek-cities-v2.webp",
     coords: [18.349, 49.6844],
-    coordinates: { lat: 49.6844, lng: 18.349 },
+    coords: [18.349, 49.6844],
     description: {
       de: "Frýdek-Místek entstand durch die Vereinigung zweier Städte an der Grenze zwischen Mähren und Schlesien, getrennt durch den Fluss Ostravice.",
       hu: "Frýdek-Místek két város egyesülésével jött létre Morvaország és Szilézia határán, amelyeket az Ostravice folyó választ el egymástól.",
@@ -533,7 +533,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Karwin", hu: "Karviná", ro: "Karviná", en: "Karviná"},
     image: "/poi-images/czechrepublic-karvina-cities-v2.webp",
     coords: [18.5414, 49.854],
-    coordinates: { lat: 49.854, lng: 18.5414 },
+    coords: [18.5414, 49.854],
     description: {
       de: "Karviná ist ein wichtiges Zentrum der Kohleförderung im tschechischen Teil Oberschlesiens, bekannt für seine Kurtradition und industrielle Vergangenheit.",
       hu: "Karviná a szénbányászat fontos központja Cseh-Sziléziában, amely fürdőhagyományairól és ipari múltjáról ismert.",
@@ -568,7 +568,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Iglau", hu: "Jihlava", ro: "Jihlava", en: "Jihlava"},
     image: "/poi-images/czechrepublic-jihlava-cities-v2.webp",
     coords: [15.5912, 49.3961],
-    coordinates: { lat: 49.3961, lng: 15.5912 },
+    coords: [15.5912, 49.3961],
     description: {
       de: "Jihlava ist das Verwaltungszentrum der Region Vysočina und eine ehemalige freie Bergstadt, die im Mittelalter durch den Silberabbau reich wurde.",
       hu: "Jihlava a Vysočina kerület közigazgatási központja, egykori szabad bányaváros, amely a középkorban az ezüstbányászatnak köszönhetően gazdagodott meg.",
@@ -603,7 +603,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Teplitz", hu: "Teplice", ro: "Teplice", en: "Teplice"},
     image: "/poi-images/czechrepublic-teplice-cities-v2.webp",
     coords: [13.8245, 50.6403],
-    coordinates: { lat: 50.6403, lng: 13.8245 },
+    coords: [13.8245, 50.6403],
     description: {
       de: "Teplice ist eine Kurstadt in Nordböhmen am Fuße des Erzgebirges und gilt als eines der ältesten Heilbäder Mitteleuropas.",
       hu: "Teplice egy észak-csehországi fürdőváros az Érchegység lábánál, és Közép-Európa egyik legrégebbi gyógyfürdőjeként tartják számon.",
@@ -638,7 +638,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Tetschen", hu: "Děčín", ro: "Děčín", en: "Děčín"},
     image: "/poi-images/czechrepublic-decin-cities-v2.webp",
     coords: [14.2139, 50.7811],
-    coordinates: { lat: 50.7811, lng: 14.2139 },
+    coords: [14.2139, 50.7811],
     description: {
       de: "Děčín liegt im tiefen Tal der Elbe im Norden Böhmens und ist ein bedeutender Binnenhafen sowie das Tor zur Böhmischen Schweiz.",
       hu: "Děčín az Elba mély völgyében fekszik Észak-Csehországban, fontos folyami kikötő és a Cseh Svájc nemzeti park kapuja.",
@@ -673,7 +673,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Karlsbad", hu: "Karlovy Vary", ro: "Karlovy Vary", en: "Karlovy Vary"},
     image: "/poi-images/czechrepublic-karlovy-vary-cities-v2.webp",
     coords: [12.872, 50.2319],
-    coordinates: { lat: 50.2319, lng: 12.872 },
+    coords: [12.872, 50.2319],
     description: {
       de: "Karlovy Vary ist der berühmteste Kurort Tschechiens, bekannt für seine heißen Quellen, prächtigen Kolonnaden und das internationale Filmfestival.",
       hu: "Karlovy Vary Csehország leghíresebb fürdővárosa, amely forró forrásairól, díszes kolonnádjairól és nemzetközi filmfesztiváljáról ismert.",
@@ -708,7 +708,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Chomutov", hu: "Chomutov", ro: "Chomutov", en: "Chomutov"},
     image: "/poi-images/czechrepublic-chomutov-cities-v2.webp",
     coords: [13.4177, 50.4605],
-    coordinates: { lat: 50.4605, lng: 13.4177 },
+    coords: [13.4177, 50.4605],
     description: {
       de: "Chomutov ist eine Stadt im Nordwesten Böhmens am Fuße des Erzgebirges, geprägt durch die Schwerindustrie und den Bergbau der Region.",
       hu: "Chomutov Északnyugat-Csehországban, az Érchegység lábánál fekszik, és a régió nehézipara és bányászata határozta meg képét.",
@@ -743,7 +743,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Gablonz an der Neiße", hu: "Jablonec nad Nisou", ro: "Jablonec nad Nisou", en: "Jablonec nad Nisou"},
     image: "/poi-images/czechrepublic-jablonec-nad-nisou-cities-v2.webp",
     coords: [15.1711, 50.7243],
-    coordinates: { lat: 50.7243, lng: 15.1711 },
+    coords: [15.1711, 50.7243],
     description: {
       de: "Jablonec nad Nisou ist weltweit berühmt für seine Glas- und Schmuckindustrie und liegt malerisch im Vorland des Isergebirges.",
       hu: "Jablonec nad Nisou világszerte híres üveg- és ékszeriparáról, és festői környezetben, a Jizera-hegység előterében fekszik.",
@@ -778,7 +778,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Jungbunzlau", hu: "Mladá Boleslav", ro: "Mladá Boleslav", en: "Mladá Boleslav"},
     image: "/poi-images/czechrepublic-mlada-boleslav-cities-v2.webp",
     coords: [14.9032, 50.4114],
-    coordinates: { lat: 50.4114, lng: 14.9032 },
+    coords: [14.9032, 50.4114],
     description: {
       de: "Mladá Boleslav ist eine bedeutende Industriestadt in Mittelböhmen und das Herz der tschechischen Automobilproduktion.",
       hu: "Mladá Boleslav egy jelentős iparváros Közép-Csehországban, és a cseh autógyártás szíve.",
@@ -813,7 +813,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Proßnitz in Mähren", hu: "Prostějov", ro: "Prostějov", en: "Prostějov"},
     image: "/poi-images/czechrepublic-prostejov-cities-v2.webp",
     coords: [17.1118, 49.4719],
-    coordinates: { lat: 49.4719, lng: 17.1118 },
+    coords: [17.1118, 49.4719],
     description: {
       de: "Prostějov ist eine Stadt in der Region Olomouc, die historisch für ihre Textil- und Bekleidungsindustrie sowie ihre jüdische Geschichte bekannt ist.",
       hu: "Prostějov az Olomouci kerületben fekvő város, amely történelmileg textil- és ruházati iparáról, valamint zsidó múltjáról ismert.",
@@ -848,7 +848,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Prerau", hu: "Přerov", ro: "Přerov", en: "Přerov"},
     image: "/poi-images/czechrepublic-prerov-cities-v2.webp",
     coords: [17.4506, 49.4552],
-    coordinates: { lat: 49.4552, lng: 17.4506 },
+    coords: [17.4506, 49.4552],
     description: {
       de: "Přerov ist ein bedeutender Eisenbahnknotenpunkt in Mähren und bekannt für seine archäologischen Funde aus der Mammutzeit.",
       hu: "Přerov egy fontos vasúti csomópont Morvaországban, és a mamutkori régészeti leleteiről ismert.",
@@ -883,7 +883,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Böhmisch Leipa", hu: "Česká Lípa", ro: "Česká Lípa", en: "Česká Lípa"},
     image: "/poi-images/czechrepublic-ceska-lipa-cities-v2.webp",
     coords: [14.5378, 50.6855],
-    coordinates: { lat: 50.6855, lng: 14.5378 },
+    coords: [14.5378, 50.6855],
     description: {
       de: "Česká Lípa liegt im Norden Böhmens am Fluss Ploučnice und entwickelte sich im 20. Jahrhundert durch den Uranabbau in der Umgebung rasant.",
       hu: "Česká Lípa Észak-Csehországban, a Ploučnice folyó partján fekszik, és a 20. században a környékbeli uránbányászat hatására fejlődött gyorsan.",
@@ -918,7 +918,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Trebitsch", hu: "Třebíč", ro: "Třebíč", en: "Třebíč"},
     image: "/poi-images/czechrepublic-trebic-cities-v2.webp",
     coords: [15.8817, 49.2149],
-    coordinates: { lat: 49.2149, lng: 15.8817 },
+    coords: [15.8817, 49.2149],
     description: {
       de: "Třebíč ist eine historische Stadt in der Region Vysočina, die für ihr außergewöhnlich gut erhaltenes jüdisches Viertel und die romanische Basilika bekannt ist.",
       hu: "Třebíč a Vysočina kerület történelmi városa, amely kiválóan megőrzött zsidó negyedéről és román stílusú bazilikájáról ismert.",
@@ -953,7 +953,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Tabor", hu: "Tábor", ro: "Tábor", en: "Tábor"},
     image: "/poi-images/czechrepublic-tabor-cities-v2.webp",
     coords: [14.6578, 49.4144],
-    coordinates: { lat: 49.4144, lng: 14.6578 },
+    coords: [14.6578, 49.4144],
     description: {
       de: "Tábor wurde im 15. Jahrhundert von den Hussiten als befestigte Siedlung gegründet und ist eng mit der tschechischen Reformationsgeschichte verbunden.",
       hu: "Tábort a 15. században alapították a husziták erődített településként, és szorosan kötődik a cseh reformáció történetéhez.",
@@ -988,7 +988,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Trzynietz", hu: "Třinec", ro: "Třinec", en: "Třinec"},
     image: "/poi-images/czechrepublic-trinec-cities-v2.webp",
     coords: [18.6707, 49.6776],
-    coordinates: { lat: 49.6776, lng: 18.6707 },
+    coords: [18.6707, 49.6776],
     description: {
       de: "Třinec ist eine Industriestadt im Osten des Landes an der Grenze zu Polen, die fast vollständig durch das große Stahlwerk der Stadt dominiert wird.",
       hu: "Třinec egy iparváros az ország keleti részén, a lengyel határnál, amelyet szinte teljesen a város hatalmas acélműve határoz meg.",
@@ -1023,7 +1023,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Pibrans", hu: "Příbram", ro: "Příbram", en: "Příbram"},
     image: "/poi-images/czechrepublic-pribram-cities-v2.webp",
     coords: [14.0104, 49.6898],
-    coordinates: { lat: 49.6898, lng: 14.0104 },
+    coords: [14.0104, 49.6898],
     description: {
       de: "Příbram ist eine traditionsreiche Bergstadt südwestlich von Prag, die vor allem durch den Silber- und Uranabbau sowie als Wallfahrtsort bekannt wurde.",
       hu: "Příbram Prágától délnyugatra fekvő hagyományos bányaváros, amely az ezüst- és uránbányászatról, valamint zarándokhelyéről ismert.",
@@ -1058,7 +1058,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Orlau", hu: "Orlová", ro: "Orlová", en: "Orlová"},
     image: "/poi-images/czechrepublic-orlova-cities-v2.webp",
     coords: [18.43, 49.845],
-    coordinates: { lat: 49.845, lng: 18.43 },
+    coords: [18.43, 49.845],
     description: {
       de: "Orlová ist eine Stadt im schlesischen Teil des Landes, die stark vom Steinkohlebergbau geprägt ist und über große Wohnsiedlungen verfügt.",
       hu: "Orlová az ország sziléziai részén fekvő város, amelyet a kőszénbányászat határozott meg, és kiterjedt lakótelepekkel rendelkezik.",
@@ -1093,7 +1093,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Trautenau", hu: "Trutnov", ro: "Trutnov", en: "Trutnov"},
     image: "/poi-images/czechrepublic-trutnov-cities-v2.webp",
     coords: [15.91, 50.56],
-    coordinates: { lat: 50.56, lng: 15.91 },
+    coords: [15.91, 50.56],
     description: {
       de: "Trutnov liegt im Tal der Úpa im Riesengebirgsvorland und ist ein wichtiges industrielles Zentrum sowie Ausgangspunkt für Bergtourismus.",
       hu: "Trutnov az Úpa folyó völgyében fekszik az Óriás-hegység lábánál, fontos ipari központ és a hegyi turizmus kiindulópontja.",
@@ -1128,7 +1128,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Kolin", hu: "Kolín", ro: "Kolín", en: "Kolín"},
     image: "/poi-images/czechrepublic-kolin-cities-v2.webp",
     coords: [15.2006, 50.0281],
-    coordinates: { lat: 50.0281, lng: 15.2006 },
+    coords: [15.2006, 50.0281],
     description: {
       de: "Kolín ist eine Stadt an der Elbe in Mittelböhmen, bekannt für ihr bedeutendes historisches Erbe und als wichtiges Industrie- und Chemiezentrum.",
       hu: "Kolín az Elba partján fekvő város Közép-Csehországban, jelentős történelmi örökségéről és fontos ipari-vegyipari központjáról ismert.",
@@ -1163,7 +1163,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Pisek", hu: "Písek", ro: "Písek", en: "Písek"},
     image: "/poi-images/czechrepublic-pisek-cities-v2.webp",
     coords: [14.1475, 49.3088],
-    coordinates: { lat: 49.3088, lng: 14.1475 },
+    coords: [14.1475, 49.3088],
     description: {
       de: "Písek ist eine historische Stadt in Südböhmen an der Otava, berühmt für die älteste erhaltene Steinbrücke des Landes.",
       hu: "Písek történelmi város Dél-Csehországban az Otava folyó partján, amely az ország legrégebbi fennmaradt kőhídjáról híres.",
@@ -1198,7 +1198,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Kremsier", hu: "Kroměříž", ro: "Kroměříž", en: "Kroměříž"},
     image: "/poi-images/czechrepublic-kromeriz-cities-v2.webp",
     coords: [17.3931, 49.2978],
-    coordinates: { lat: 49.2978, lng: 17.3931 },
+    coords: [17.3931, 49.2978],
     description: {
       de: "Kroměříž ist eine mährische Stadt, die wegen ihrer prächtigen erzbischöflichen Residenz und Gärten als 'Athen von Haná' bekannt ist.",
       hu: "Kroměříž egy morvaországi város, amelyet pompás érseki palotája és kertjei miatt 'Haná Athénjaként' emlegetnek.",
@@ -1233,7 +1233,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Mährisch Schönberg", hu: "Šumperk", ro: "Šumperk", en: "Šumperk"},
     image: "/poi-images/czechrepublic-sumperk-cities-v2.webp",
     coords: [16.9706, 49.9653],
-    coordinates: { lat: 49.9653, lng: 16.9706 },
+    coords: [16.9706, 49.9653],
     description: {
       de: "Šumperk liegt im Tal der Desná im Altvatergebirge und ist ein regionales Zentrum, das oft als 'Tor zum Altvatergebirge' bezeichnet wird.",
       hu: "Šumperk a Desná folyó völgyében, a Jeseníky-hegységben fekszik, és gyakran a 'Jeseníky kapujának' nevezik.",
@@ -1268,7 +1268,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Wsetin", hu: "Vsetín", ro: "Vsetín", en: "Vsetín"},
     image: "/poi-images/czechrepublic-vsetin-cities-v2.webp",
     coords: [17.9961, 49.3384],
-    coordinates: { lat: 49.3384, lng: 17.9961 },
+    coords: [17.9961, 49.3384],
     description: {
       de: "Vsetín ist das Zentrum der Mährischen Walachei und liegt am Fuße der Beskiden im Osten Tschechiens.",
       hu: "Vsetín a Morva-Wallachia régió központja, amely a Beszkidek lábánál fekszik Kelet-Csehországban.",
@@ -1303,7 +1303,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Wallachisch Meseritsch", hu: "Valašské Meziříčí", ro: "Valašské Meziříčí", en: "Valašské Meziříčí"},
     image: "/poi-images/czechrepublic-valasske-mezirici-cities-v2.webp",
     coords: [17.9714, 49.4714],
-    coordinates: { lat: 49.4714, lng: 17.9714 },
+    coords: [17.9714, 49.4714],
     description: {
       de: "Valašské Meziříčí liegt am Zusammenfluss der beiden Bečva-Arme und wird oft als das 'Walachische Athen' bezeichnet.",
       hu: "Valašské Meziříčí a két Bečva folyó találkozásánál fekszik, és gyakran 'Wallachia Athénjának' nevezik.",
@@ -1338,7 +1338,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Oberleutensdorf", hu: "Litvínov", ro: "Litvínov", en: "Litvínov"},
     image: "/poi-images/czechrepublic-litvinov-cities-v2.webp",
     coords: [13.6108, 50.6011],
-    coordinates: { lat: 50.6011, lng: 13.6108 },
+    coords: [13.6108, 50.6011],
     description: {
       de: "Litvínov ist eine nordböhmische Industriestadt am Fuße des Erzgebirges, die vor allem durch die petrochemische Industrie geprägt wird.",
       hu: "Litvínov észak-csehországi iparváros az Érchegység lábánál, amelyet elsősorban a petrokémiai ipar határoz meg.",
@@ -1373,7 +1373,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Ungarisch Hradisch", hu: "Uherské Hradiště", ro: "Uherské Hradiště", en: "Uherské Hradiště"},
     image: "/poi-images/czechrepublic-uherske-hradiste-cities-v2.webp",
     coords: [17.4597, 49.0683],
-    coordinates: { lat: 49.0683, lng: 17.4597 },
+    coords: [17.4597, 49.0683],
     description: {
       de: "Uherské Hradiště ist das kulturelle Zentrum der Mährischen Slowakei, bekannt für seine Folkloretradition und den Weinbau an der March.",
       hu: "Uherské Hradiště a Morva-Szlovákia régió kulturális központja, híres folklórhagyományairól és a Morva menti borászatról.",
@@ -1408,7 +1408,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Göding", hu: "Hodonín", ro: "Hodonín", en: "Hodonín"},
     image: "/poi-images/czechrepublic-hodonin-cities-v2.webp",
     coords: [17.1303, 48.8489],
-    coordinates: { lat: 48.8489, lng: 17.1303 },
+    coords: [17.1303, 48.8489],
     description: {
       de: "Hodonín liegt im Südosten Mährens an der Grenze zur Slowakei und ist der Geburtsort des ersten tschechoslowakischen Präsidenten.",
       hu: "Hodonín Délkelet-Morvaországban, a szlovák határnál fekszik, és az első csehszlovák elnök szülőhelye.",
@@ -1443,7 +1443,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Lundenburg", hu: "Břeclav", ro: "Břeclav", en: "Břeclav"},
     image: "/poi-images/czechrepublic-breclav-cities-v2.webp",
     coords: [16.8822, 48.7589],
-    coordinates: { lat: 48.7589, lng: 16.8822 },
+    coords: [16.8822, 48.7589],
     description: {
       de: "Břeclav ist ein bedeutender Eisenbahnknotenpunkt im Dreiländereck Tschechien-Österreich-Slowakei und das Tor zum UNESCO-Areal Lednice-Valtice.",
       hu: "Břeclav fontos vasúti csomópont a cseh-osztrák-szlovák hármashatárnál, és a Lednice-Valtice világörökségi terület kapuja.",
@@ -1478,7 +1478,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Jägerndorf", hu: "Krnov", ro: "Krnov", en: "Krnov"},
     image: "/poi-images/czechrepublic-krnov-cities-v2.webp",
     coords: [17.7038, 50.0897],
-    coordinates: { lat: 50.0897, lng: 17.7038 },
+    coords: [17.7038, 50.0897],
     description: {
       de: "Krnov ist eine schlesische Stadt an der Grenze zu Polen, die für ihre lange Tradition im Orgelbau und in der Textilherstellung bekannt ist.",
       hu: "Krnov egy sziléziai város a lengyel határnál, amely orgonaépítési hagyományairól és textiliparáról ismert.",
@@ -1513,7 +1513,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Leitmeritz", hu: "Litoměřice", ro: "Litoměřice", en: "Litoměřice"},
     image: "/poi-images/czechrepublic-litomerice-cities-v2.webp",
     coords: [14.1317, 50.5338],
-    coordinates: { lat: 50.5338, lng: 14.1317 },
+    coords: [14.1317, 50.5338],
     description: {
       de: "Litoměřice ist eine königliche Stadt am Zusammenfluss von Elbe und Eger und gilt als eine der schönsten Städte Nordböhmens.",
       hu: "Litoměřice királyi város az Elba és az Eger összefolyásánál, és Észak-Csehország egyik legszebb városának tartják.",
@@ -1548,7 +1548,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Deutschbrod", hu: "Havlíčkův Brod", ro: "Havlíčkův Brod", en: "Havlíčkův Brod"},
     image: "/poi-images/czechrepublic-havlickuv-brod-cities-v2.webp",
     coords: [15.5806, 49.6078],
-    coordinates: { lat: 49.6078, lng: 15.5806 },
+    coords: [15.5806, 49.6078],
     description: {
       de: "Havlíčkův Brod liegt an der Sázava in der Region Vysočina und ist nach dem tschechischen Schriftsteller Karel Havlíček Borovský benannt.",
       hu: "Havlíčkův Brod a Sázava folyó partján fekszik a Vysočina kerületben, és Karel Havlíček Borovský cseh íróról kapta a nevét.",
@@ -1583,7 +1583,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Saar", hu: "Žďár nad Sázavou", ro: "Žďár nad Sázavou", en: "Žďár nad Sázavou"},
     image: "/poi-images/czechrepublic-zdar-nad-sazavou-cities-v2.webp",
     coords: [15.9392, 49.5628],
-    coordinates: { lat: 49.5628, lng: 15.9392 },
+    coords: [15.9392, 49.5628],
     description: {
       de: "Žďár nad Sázavou ist ein wichtiges regionales Zentrum in den Böhmisch-Mährischen Höhen, berühmt für sein UNESCO-Weltkulturerbe.",
       hu: "Žďár nad Sázavou fontos regionális központ a Cseh-Morva-dombságban, híres világörökségi helyszínéről.",
@@ -1619,7 +1619,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Chrudim", hu: "Chrudim", ro: "Chrudim", en: "Chrudim"},
     image: "/poi-images/czechrepublic-chrudim-cities-v2.webp",
     coords: [15.7953, 49.9511],
-    coordinates: { lat: 49.9511, lng: 15.7953 },
+    coords: [15.7953, 49.9511],
     description: {
       de: "Chrudim ist eine historische Stadt in Ostböhmen, die für ihre lange Bildungstradition und ihre Bedeutung als Verwaltungszentrum bekannt ist.",
       hu: "Chrudim történelmi város Kelet-Csehországban, amely hosszú oktatási hagyományairól és közigazgatási jelentőségéről ismert.",
@@ -1654,7 +1654,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Strakonitz", hu: "Strakonice", ro: "Strakonice", en: "Strakonice"},
     image: "/poi-images/czechrepublic-strakonice-cities-v2.webp",
     coords: [13.9031, 49.2611],
-    coordinates: { lat: 49.2611, lng: 13.9031 },
+    coords: [13.9031, 49.2611],
     description: {
       de: "Strakonice ist eine Stadt in Südböhmen am Zusammenfluss von Otava und Volyňka, bekannt für ihre mittelalterliche Burg und ihre Dudelsacktradition.",
       hu: "Strakonice Dél-Csehországban, az Otava és a Volyňka folyók találkozásánál fekszik, híres középkori váráról és dudás hagyományairól.",
@@ -1690,7 +1690,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Nesselsdorf", hu: "Kopřivnice", ro: "Kopřivnice", en: "Kopřivnice"},
     image: "/poi-images/czechrepublic-koprivnice-cities-v2.webp",
     coords: [18.1444, 49.5986],
-    coordinates: { lat: 49.5986, lng: 18.1444 },
+    coords: [18.1444, 49.5986],
     description: {
       de: "Kopřivnice ist eine Industriestadt in Mähren, die weltweit als Heimat der Automobilmarke Tatra bekannt ist.",
       hu: "Kopřivnice morvaországi iparváros, amely világszerte a Tatra autómárka hazájaként ismert.",
@@ -1725,7 +1725,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Oderberg", hu: "Bohumín", ro: "Bohumín", en: "Bohumín"},
     image: "/poi-images/czechrepublic-bohumin-cities-v2.webp",
     coords: [18.3561, 49.9044],
-    coordinates: { lat: 49.9044, lng: 18.3561 },
+    coords: [18.3561, 49.9044],
     description: {
       de: "Bohumín ist ein bedeutender Eisenbahn- und Industrieknotenpunkt an der Oder an der Grenze zu Polen.",
       hu: "Bohumín fontos vasúti és ipari csomópont az Odera partján, a lengyel határnál.",
@@ -1760,7 +1760,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Klattau", hu: "Klatovy", ro: "Klatovy", en: "Klatovy"},
     image: "/poi-images/czechrepublic-klatovy-cities-v2.webp",
     coords: [13.2955, 49.3955],
-    coordinates: { lat: 49.3955, lng: 13.2955 },
+    coords: [13.2955, 49.3955],
     description: {
       de: "Klatovy wird oft als das 'Tor zum Böhmerwald' bezeichnet und ist eine historische Stadt mit einer reichen Barocktradition.",
       hu: "Klatovy-t gyakran a 'Böhmerwald kapujának' nevezik, és gazdag barokk hagyományokkal rendelkező történelmi város.",
@@ -1795,7 +1795,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Neuhaus", hu: "Jindřichův Hradec", ro: "Jindřichův Hradec", en: "Jindřichův Hradec"},
     image: "/poi-images/czechrepublic-jindrichuv-hradec-cities-v2.webp",
     coords: [15.0031, 49.1444],
-    coordinates: { lat: 49.1444, lng: 15.0031 },
+    coords: [15.0031, 49.1444],
     description: {
       de: "Jindřichův Hradec ist eine historische Stadt in Südböhmen, die für ihr monumentales Schlossensemble am See Vajgar bekannt ist.",
       hu: "Jindřichův Hradec dél-csehországi történelmi város, amely a Vajgar-tó partján fekvő monumentális várkastélyáról ismert.",
@@ -1830,7 +1830,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Wischau", hu: "Vyškov", ro: "Vyškov", en: "Vyškov"},
     image: "/poi-images/czechrepublic-vyskov-cities-v2.webp",
     coords: [16.9989, 49.2775],
-    coordinates: { lat: 49.2775, lng: 16.9989 },
+    coords: [16.9989, 49.2775],
     description: {
       de: "Vyškov ist eine mährische Stadt am Fluss Haná, die oft als das 'Mährische Versailles' bezeichnet wird.",
       hu: "Vyškov morvaországi város a Haná folyó partján, amelyet gyakran 'Morva Versailles'-nak neveznek.",
@@ -1865,7 +1865,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Kuttenberg", hu: "Kutná Hora", ro: "Kutná Hora", en: "Kutná Hora"},
     image: "/poi-images/czechrepublic-kutna-hora-cities-v2.webp",
     coords: [15.2681, 49.9483],
-    coordinates: { lat: 49.9483, lng: 15.2681 },
+    coords: [15.2681, 49.9483],
     description: {
       de: "Kutná Hora war im Mittelalter dank seiner Silberminen eine der reichsten und bedeutendsten Städte des böhmischen Königreichs.",
       hu: "Kutná Hora a középkorban az ezüstbányáinak köszönhetően a cseh királyság egyik leggazdagabb és legfontosabb városa volt.",
@@ -1900,7 +1900,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Görkau", hu: "Jirkov", ro: "Jirkov", en: "Jirkov"},
     image: "/poi-images/czechrepublic-jirkov-cities-v2.webp",
     coords: [13.4475, 50.4994],
-    coordinates: { lat: 50.4994, lng: 13.4475 },
+    coords: [13.4475, 50.4994],
     description: {
       de: "Jirkov liegt im nordwestböhmischen Becken am Fuße des Erzgebirges und ist historisch mit dem Braunkohlebergbau verbunden.",
       hu: "Jirkov az északnyugat-csehországi medencében, az Érchegység lábánál fekszik, és történelmileg a barnaszénbányászathoz kötődik.",
@@ -1935,7 +1935,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Blansko", hu: "Blansko", ro: "Blansko", en: "Blansko"},
     image: "/poi-images/czechrepublic-blansko-cities-v2.webp",
     coords: [16.6439, 49.3631],
-    coordinates: { lat: 49.3631, lng: 16.6439 },
+    coords: [16.6439, 49.3631],
     description: {
       de: "Blansko liegt im Tal der Svitava und wird oft als das 'Tor zum Mährischen Karst' bezeichnet.",
       hu: "Blansko a Svitava folyó völgyében fekszik, és gyakran a 'Morva-karszt kapujának' nevezik.",
@@ -1970,7 +1970,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Mährisch Weißkirchen", hu: "Hranice", ro: "Hranice", en: "Hranice"},
     image: "/poi-images/czechrepublic-hranice-cities-v2.webp",
     coords: [17.7347, 49.5483],
-    coordinates: { lat: 49.5483, lng: 17.7347 },
+    coords: [17.7347, 49.5483],
     description: {
       de: "Hranice ist eine mährische Stadt am Fluss Bečva, bekannt für den tiefsten überfluteten Abgrund der Welt in ihrer unmittelbaren Nähe.",
       hu: "Hranice morvaországi város a Bečva folyó partján, amely a közelében található, a világ legmélyebb víz alatti barlangjáról ismert.",
@@ -2005,7 +2005,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Beraun", hu: "Beroun", ro: "Beroun", en: "Beroun"},
     image: "/poi-images/czechrepublic-beroun-cities-v2.webp",
     coords: [14.0719, 49.9639],
-    coordinates: { lat: 49.9639, lng: 14.0719 },
+    coords: [14.0719, 49.9639],
     description: {
       de: "Beroun ist eine historische Stadt südwestlich von Prag am Zusammenfluss von Berounka und Litavka, ideal für Ausflüge in den Böhmischen Karst.",
       hu: "Beroun történelmi város Prágától délnyugatra, a Berounka és a Litavka folyók találkozásánál, ideális kiindulópont a Cseh-karszt felé.",
@@ -2040,7 +2040,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Saaz", hu: "Žatec", ro: "Žatec", en: "Žatec"},
     image: "/poi-images/czechrepublic-zatec-cities-v2.webp",
     coords: [13.5431, 50.3283],
-    coordinates: { lat: 50.3283, lng: 13.5431 },
+    coords: [13.5431, 50.3283],
     description: {
       de: "Žatec ist das Zentrum des tschechischen Hopfenanbaus und wurde aufgrund seiner einzigartigen Hopfen-Architektur zum UNESCO-Welterbe erklärt.",
       hu: "Žatec a cseh komlótermesztés központja, amely egyedülálló komlóipari építészete miatt az UNESCO világörökség része lett.",
@@ -2075,7 +2075,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Laun", hu: "Louny", ro: "Louny", en: "Louny"},
     image: "/poi-images/czechrepublic-louny-cities-v2.webp",
     coords: [13.7961, 50.3575],
-    coordinates: { lat: 50.3575, lng: 13.7961 },
+    coords: [13.7961, 50.3575],
     description: {
       de: "Louny liegt an der Eger in Nordböhmen und wird wegen seiner gut erhaltenen historischen Bauten als die 'Perle am Fluss Eger' bezeichnet.",
       hu: "Louny az Eger folyó partján fekszik Észak-Csehországban, és jól megőrzött történelmi épületei miatt az 'Eger folyó gyöngyszemének' nevezik.",
@@ -2110,7 +2110,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Nachod", hu: "Náchod", ro: "Náchod", en: "Náchod"},
     image: "/poi-images/czechrepublic-nachod-cities-v2.webp",
     coords: [16.1628, 50.4169],
-    coordinates: { lat: 50.4169, lng: 16.1628 },
+    coords: [16.1628, 50.4169],
     description: {
       de: "Náchod ist eine Grenzstadt im Nordosten Böhmens, dominiert von einem prachtvollen Schloss auf einem steilen Felsvorsprung.",
       hu: "Náchod északkelet-csehországi határváros, amelyet a sziklaszirten álló pompás várkastély ural.",
@@ -2145,7 +2145,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Marienbad", hu: "Mariánské Lázně", ro: "Mariánské Lázně", en: "Mariánské Lázně"},
     image: "/poi-images/czechrepublic-marianske-lazne-cities-v2.webp",
     coords: [12.7011, 49.9647],
-    coordinates: { lat: 49.9647, lng: 12.7011 },
+    coords: [12.7011, 49.9647],
     description: {
       de: "Mariánské Lázně ist eine weltberühmte Kurstadt im westböhmischen Bäderdreieck, bekannt für ihre Architektur des 19. Jahrhunderts und ihre Mineralquellen.",
       hu: "Mariánské Lázně világhírű fürdőváros a nyugat-csehországi fürdőháromszögben, 19. századi építészetéről és ásványvízforrásairól ismert.",
@@ -2180,7 +2180,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Pilgrams", hu: "Pelhřimov", ro: "Pelhřimov", en: "Pelhřimov"},
     image: "/poi-images/czechrepublic-pelhrimov-cities-v2.webp",
     coords: [15.2228, 49.4311],
-    coordinates: { lat: 49.4311, lng: 15.2228 },
+    coords: [15.2228, 49.4311],
     description: {
       de: "Pelhřimov liegt in der Region Vysočina und ist weithin als die tschechische 'Stadt der Rekorde und Kuriositäten' bekannt.",
       hu: "Pelhřimov a Vysočina kerületben fekszik, és széles körben a cseh 'rekordok és különlegességek városaként' ismert.",
@@ -2215,7 +2215,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Schlan", hu: "Slaný", ro: "Slaný", en: "Slaný"},
     image: "/poi-images/czechrepublic-slany-cities-v2.webp",
     coords: [14.0867, 50.2306],
-    coordinates: { lat: 50.2306, lng: 14.0867 },
+    coords: [14.0867, 50.2306],
     description: {
       de: "Slaný ist eine historische Stadt in Mittelböhmen, die im Mittelalter durch die Salzgewinnung aus Solequellen an Bedeutung gewann.",
       hu: "Slaný közép-csehországi történelmi város, amely a középkorban a sós forrásokból történő sólepárlásnak köszönhetően vált jelentőssé.",
@@ -2250,7 +2250,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Wlaschim", hu: "Vlašim", ro: "Vlašim", en: "Vlašim"},
     image: "/poi-images/czechrepublic-vlasim-cities-v2.webp",
     coords: [14.8983, 49.7064],
-    coordinates: { lat: 49.7064, lng: 14.8983 },
+    coords: [14.8983, 49.7064],
     description: {
       de: "Vlašim liegt in Mittelböhmen am Fluss Blanice und ist bekannt für sein großes Schlossareal mit einem weitläufigen englischen Landschaftspark.",
       hu: "Vlašim Közép-Csehországban, a Blanice folyó partján fekszik, és hatalmas kastélyparkjáról ismert, amely egy kiterjedt angolkert.",
@@ -2285,7 +2285,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Humpoletz", hu: "Humpolec", ro: "Humpolec", en: "Humpolec"},
     image: "/poi-images/czechrepublic-humpolec-cities-v2.webp",
     coords: [15.3583, 49.5414],
-    coordinates: { lat: 49.5414, lng: 15.3583 },
+    coords: [15.3583, 49.5414],
     description: {
       de: "Humpolec liegt in der Region Vysočina an der Autobahn D1 und ist historisch als Zentrum der Tuchmacherei bekannt.",
       hu: "Humpolec a Vysočina kerületben, a D1-es autópálya mentén fekszik, és történelmileg a posztókészítés központjaként ismert.",
@@ -2320,7 +2320,7 @@ export const czechrepublicCitiesV2: POI[] = [
     name: { de: "Taus", hu: "Domažlice", ro: "Domažlice", en: "Domažlice"},
     image: "/poi-images/czechrepublic-domazlice-cities-v2.webp",
     coords: [12.9297, 49.4406],
-    coordinates: { lat: 49.4406, lng: 12.9297 },
+    coords: [12.9297, 49.4406],
     description: {
       de: "Domažlice ist das Zentrum der Chodé-Region in Westböhmen, bekannt für seine reiche Folklore und das charakteristische Chodé-Gebäck.",
       hu: "Domažlice a nyugat-csehországi Chod-vidék központja, amely gazdag folklórjáról és jellegzetes chod süteményeiről ismert.",
@@ -2353,7 +2353,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Benešov", hu: "Benešov", ro: "Benešov", en: "Benešov" },
-    coordinates: { lat: 49.7821, lng: 14.6865 },
+    coords: [14.6865, 49.7821],
     description: {
       de: "Benešov ist eine Stadt in der Mittelböhmischen Region. Sie liegt etwa 40 Kilometer südöstlich von Prag.",
       hu: "Benešov a Közép-csehországi kerületben található város. Prágától mintegy 40 kilométerre délkeletre fekszik.",
@@ -2385,7 +2385,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Valašské Klobouky", hu: "Valašské Klobouky", ro: "Valašské Klobouky", en: "Valašské Klobouky" },
-    coordinates: { lat: 49.1361, lng: 18.0108 },
+    coords: [18.0108, 49.1361],
     description: {
       de: "Valašské Klobouky ist eine Stadt im Zlíner Kreis. Sie ist ein Zentrum der Region Walachei.",
       hu: "Valašské Klobouky a Zlíni kerületben található város. A Morva-Oláhország régió egyik központja.",
@@ -2417,7 +2417,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Jeseník", hu: "Jeseník", ro: "Jeseník", en: "Jeseník" },
-    coordinates: { lat: 50.2289, lng: 17.2025 },
+    coords: [17.2025, 50.2289],
     description: {
       de: "Jeseník ist eine Stadt im Altvatergebirge in der Region Olmütz. Sie ist als Kurort bekannt.",
       hu: "Jeseník az Altvater-hegységben található város az Olomouci kerületben. Gyógyfürdőhelyként ismert.",
@@ -2449,7 +2449,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Nový Jičín", hu: "Nový Jičín", ro: "Nový Jičín", en: "Nový Jičín" },
-    coordinates: { lat: 49.5939, lng: 18.0108 },
+    coords: [18.0108, 49.5939],
     description: {
       de: "Nový Jičín liegt in Mährisch-Schlesien. Die Stadt besitzt einen gut erhaltenen historischen Stadtkern.",
       hu: "Nový Jičín Morva-Sziléziában fekszik. A város jól megőrzött történelmi központtal rendelkezik.",
@@ -2481,7 +2481,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Hronov", hu: "Hronov", ro: "Hronov", en: "Hronov" },
-    coordinates: { lat: 50.4851, lng: 16.1953 },
+    coords: [16.1953, 50.4851],
     description: {
       de: "Hronov liegt in der Region Hradec Králové nahe der polnischen Grenze. Es ist der Geburtsort von Alois Jirásek.",
       hu: "Hronov a Hradec Králové-i kerületben található, a lengyel határ közelében. Alois Jirásek szülőhelye.",
@@ -2513,7 +2513,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Rožnov pod Radhoštěm", hu: "Rožnov pod Radhoštěm", ro: "Rožnov pod Radhoštěm", en: "Rožnov pod Radhoštěm" },
-    coordinates: { lat: 49.4542, lng: 18.1437 },
+    coords: [18.1437, 49.4542],
     description: {
       de: "Rožnov pod Radhoštěm liegt in der Mährischen Walachei. Die Stadt ist für ihr großes Freilichtmuseum bekannt.",
       hu: "Rožnov pod Radhoštěm a Morva-Oláhországban fekszik. A város nagy szabadtéri néprajzi múzeumáról ismert.",
@@ -2545,7 +2545,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Frýdlant", hu: "Frýdlant", ro: "Frýdlant", en: "Frýdlant" },
-    coordinates: { lat: 50.9205, lng: 15.0762 },
+    coords: [15.0762, 50.9205],
     description: {
       de: "Frýdlant ist eine Stadt im Liberecký kraj. Sie ist bekannt für ihr bedeutendes Schloss über der Stadt.",
       hu: "Frýdlant a Libereci kerületben található város. A város felett álló jelentős kastélyáról ismert.",
@@ -2577,7 +2577,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Turnov", hu: "Turnov", ro: "Turnov", en: "Turnov" },
-    coordinates: { lat: 50.5855, lng: 15.1524 },
+    coords: [15.1524, 50.5855],
     description: {
       de: "Turnov liegt im Böhmischen Paradies in der Region Liberec. Die Stadt ist ein bekanntes Zentrum für Edelsteinschleiferei.",
       hu: "Turnov a Cseh Paradicsomban fekszik, a Libereci kerületben. A város a drágakő-csiszolás ismert központja.",
@@ -2609,7 +2609,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Ústí nad Orlicí", hu: "Ústí nad Orlicí", ro: "Ústí nad Orlicí", en: "Ústí nad Orlicí" },
-    coordinates: { lat: 49.9757, lng: 16.3934 },
+    coords: [16.3934, 49.9757],
     description: {
       de: "Ústí nad Orlicí liegt in der Region Pardubice am Zusammenfluss der Flüsse Tichá Orlice und Třebovka.",
       hu: "Ústí nad Orlicí a Pardubicei kerületben fekszik, a Tichá Orlice és a Třebovka folyók összefolyásánál.",
@@ -2641,7 +2641,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Dvůr Králové nad Labem", hu: "Dvůr Králové nad Labem", ro: "Dvůr Králové nad Labem", en: "Dvůr Králové nad Labem" },
-    coordinates: { lat: 50.4328, lng: 15.8115 },
+    coords: [15.8115, 50.4328],
     description: {
       de: "Dvůr Králové nad Labem liegt in der Region Hradec Králové. Die Stadt ist für ihren Safaripark bekannt.",
       hu: "Dvůr Králové nad Labem a Hradec Králové-i kerületben található. A város szafariparkjáról híres.",
@@ -2673,7 +2673,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Semily", hu: "Semily", ro: "Semily", en: "Semily" },
-    coordinates: { lat: 50.6033, lng: 15.3333 },
+    coords: [15.3333, 50.6033],
     description: {
       de: "Semily liegt in der Region Liberec. Die Stadt dient als Tor zum Geopark Böhmisches Paradies.",
       hu: "Semily a Libereci kerületben fekszik. A város kapu a Cseh Paradicsom Geoparkhoz.",
@@ -2705,7 +2705,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Benátky nad Jizerou", hu: "Benátky nad Jizerou", ro: "Benátky nad Jizerou", en: "Benátky nad Jizerou" },
-    coordinates: { lat: 50.2882, lng: 14.8315 },
+    coords: [14.8315, 50.2882],
     description: {
       de: "Benátky nad Jizerou liegt in der Mittelböhmischen Region. Es ist für sein Schloss und die historische Atmosphäre bekannt.",
       hu: "Benátky nad Jizerou a Közép-csehországi kerületben fekszik. Kastélyáról és történelmi hangulatáról ismert.",
@@ -2737,7 +2737,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Rumburk", hu: "Rumburk", ro: "Rumburk", en: "Rumburk" },
-    coordinates: { lat: 50.9529, lng: 14.5574 },
+    coords: [14.5574, 50.9529],
     description: {
       de: "Rumburk liegt im äußersten Norden der Region Ústí nad Labem. Es ist die größte Stadt des Schluckenauer Zipfels.",
       hu: "Rumburk az Ústí nad Labem-i kerület legészakibb részén található. A Schluckenau-nyúlvány legnagyobb városa.",
@@ -2769,7 +2769,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Kralupy nad Vltavou", hu: "Kralupy nad Vltavou", ro: "Kralupy nad Vltavou", en: "Kralupy nad Vltavou" },
-    coordinates: { lat: 50.2407, lng: 14.3129 },
+    coords: [14.3129, 50.2407],
     description: {
       de: "Kralupy nad Vltavou liegt in der Mittelböhmischen Region nördlich von Prag. Es ist ein wichtiger Verkehrsknotenpunkt.",
       hu: "Kralupy nad Vltavou a Közép-csehországi kerületben fekszik, Prágától északra. Jelentős közlekedési csomópont.",
@@ -2801,7 +2801,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Velké Meziříčí", hu: "Velké Meziříčí", ro: "Velké Meziříčí", en: "Velké Meziříčí" },
-    coordinates: { lat: 49.3551, lng: 16.0153 },
+    coords: [16.0153, 49.3551],
     description: {
       de: "Velké Meziříčí liegt in der Region Vysočina. Die Stadt ist durch eine markante Autobahnbrücke bekannt.",
       hu: "Velké Meziříčí a Vysočina kerületben található. A várost egy jellegzetes autópálya-híd teszi ismertté.",
@@ -2833,7 +2833,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Český Brod", hu: "Český Brod", ro: "Český Brod", en: "Český Brod" },
-    coordinates: { lat: 50.0734, lng: 14.8569 },
+    coords: [14.8569, 50.0734],
     description: {
       de: "Český Brod liegt in der Mittelböhmischen Region östlich von Prag. Es ist eine historische Stadt mit mittelalterlichem Ursprung.",
       hu: "Český Brod a Közép-csehországi kerületben fekszik, Prágától keletre. Történelmi város, középkori eredettel.",
@@ -2865,7 +2865,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Velvary", hu: "Velvary", ro: "Velvary", en: "Velvary" },
-    coordinates: { lat: 50.2801, lng: 14.2323 },
+    coords: [14.2323, 50.2801],
     description: {
       de: "Velvary ist eine kleine Stadt in der Mittelböhmischen Region. Sie bewahrt ihr historisches Stadtbild.",
       hu: "Velvary egy kis város a Közép-csehországi kerületben. Megőrzi történelmi városképét.",
@@ -2897,7 +2897,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Zdice", hu: "Zdice", ro: "Zdice", en: "Zdice" },
-    coordinates: { lat: 49.9142, lng: 13.9781 },
+    coords: [13.9781, 49.9142],
     description: {
       de: "Zdice liegt in der Mittelböhmischen Region südwestlich von Prag. Es ist eine Industriestadt.",
       hu: "Zdice a Közép-csehországi kerületben fekszik, Prágától délnyugatra. Ipari város.",
@@ -2929,7 +2929,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Frýdlant nad Ostravicí", hu: "Frýdlant nad Ostravicí", ro: "Frýdlant nad Ostravicí", en: "Frýdlant nad Ostravicí" },
-    coordinates: { lat: 49.5936, lng: 18.3582 },
+    coords: [18.3582, 49.5936],
     description: {
       de: "Frýdlant nad Ostravicí liegt in der Region Mährisch-Schlesien am Fuß der Beskiden. Es ist ein Tor zu den Bergen.",
       hu: "Frýdlant nad Ostravicí a Morva-Sziléziai kerületben fekszik, a Beszkidek lábánál. Kapu a hegyek felé.",
@@ -2961,7 +2961,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Sobotka", hu: "Sobotka", ro: "Sobotka", en: "Sobotka" },
-    coordinates: { lat: 50.4851, lng: 15.1764 },
+    coords: [15.1764, 50.4851],
     description: {
       de: "Sobotka liegt in der Region Hradec Králové. Sie ist bekannt für ihre historische Architektur und als Tor zum Böhmischen Paradies.",
       hu: "Sobotka a Hradec Králové-i kerületben található. Történelmi építészetéről és a Cseh Paradicsom kapujaként ismert.",
@@ -2993,7 +2993,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Vyšší Brod", hu: "Vyšší Brod", ro: "Vyšší Brod", en: "Vyšší Brod" },
-    coordinates: { lat: 48.6235, lng: 14.3072 },
+    coords: [14.3072, 48.6235],
     description: {
       de: "Vyšší Brod liegt in Südböhmen an der Moldau. Die Stadt ist für ihr berühmtes Zisterzienserkloster bekannt.",
       hu: "Vyšší Brod Dél-Csehországban található, a Moldva folyónál. A város híres ciszterci kolostoráról ismert.",
@@ -3025,7 +3025,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Hořice", hu: "Hořice", ro: "Hořice", en: "Hořice" },
-    coordinates: { lat: 50.3664, lng: 15.6267 },
+    coords: [15.6267, 50.3664],
     description: {
       de: "Hořice liegt in der Region Hradec Králové. Die Stadt ist für ihre Produktion von traditionellen Schaumrollen bekannt.",
       hu: "Hořice a Hradec Králové-i kerületben található. A város hagyományos tejszínhabos tekercseiről ismert.",
@@ -3057,7 +3057,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Hustopeče", hu: "Hustopeče", ro: "Hustopeče", en: "Hustopeče" },
-    coordinates: { lat: 48.9431, lng: 16.7354 },
+    coords: [16.7354, 48.9431],
     description: {
       de: "Hustopeče liegt in der Region Südmähren. Die Stadt ist ein Zentrum des Weinbaus.",
       hu: "Hustopeče Dél-Morvaországban található. A város a szőlőtermesztés egyik központja.",
@@ -3089,7 +3089,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Kadaň", hu: "Kadaň", ro: "Kadaň", en: "Kadaň" },
-    coordinates: { lat: 50.3807, lng: 13.2687 },
+    coords: [13.2687, 50.3807],
     description: {
       de: "Kadaň liegt in der Region Ústí nad Labem an der Eger. Die Stadt bewahrt eine gut erhaltene historische Stadtmauer.",
       hu: "Kadaň az Ústí nad Labem-i kerületben fekszik, az Eger folyó mentén. A város megőrizte jól konzervált történelmi városfalát.",
@@ -3121,7 +3121,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Pacov", hu: "Pacov", ro: "Pacov", en: "Pacov" },
-    coordinates: { lat: 49.4756, lng: 15.0005 },
+    coords: [15.0005, 49.4756],
     description: {
       de: "Pacov liegt in der Region Vysočina. Die Stadt ist für ihre ruhige Atmosphäre und das Schloss bekannt.",
       hu: "Pacov a Vysočina kerületben fekszik. A város csendes légköréről és kastélyáról ismert.",
@@ -3153,7 +3153,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Hranice na Moravě", hu: "Hranice na Moravě", ro: "Hranice na Moravě", en: "Hranice na Moravě" },
-    coordinates: { lat: 49.5539, lng: 17.7347 },
+    coords: [17.7347, 49.5539],
     description: {
       de: "Hranice na Moravě liegt in der Region Olmütz. In der Nähe befindet sich der Abgrund Hranická propast.",
       hu: "Hranice na Moravě az Olomouci kerületben fekszik. A közelben található a Hranicei-szakadék.",
@@ -3185,7 +3185,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Žamberk", hu: "Žamberk", ro: "Žamberk", en: "Žamberk" },
-    coordinates: { lat: 50.0886, lng: 16.4633 },
+    coords: [16.4633, 50.0886],
     description: {
       de: "Žamberk liegt in der Region Pardubice am Ufer der Divoká Orlice. Es ist als Eingangstor zum Adlergebirge bekannt.",
       hu: "Žamberk a Pardubicei kerületben fekszik, a Divoká Orlice partján. Az Orlické-hegység bejárati kapujaként ismert.",
@@ -3217,7 +3217,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Klimkovice", hu: "Klimkovice", ro: "Klimkovice", en: "Klimkovice" },
-    coordinates: { lat: 49.7953, lng: 18.1311 },
+    coords: [18.1311, 49.7953],
     description: {
       de: "Klimkovice liegt in der Region Mährisch-Schlesien nahe Ostrava. Es ist für sein modernes Sanatorium bekannt.",
       hu: "Klimkovice a Morva-Sziléziai kerületben található, Ostrava közelében. Modern szanatóriumáról ismert.",
@@ -3249,7 +3249,7 @@ export const czechrepublicCitiesV2: POI[] = [
     type: "city",
     parent: "CZ",
     name: { de: "Příbor", hu: "Příbor", ro: "Příbor", en: "Příbor" },
-    coordinates: { lat: 49.6384, lng: 18.1481 },
+    coords: [18.1481, 49.6384],
     description: {
       de: "Příbor liegt in der Region Mährisch-Schlesien. Die Stadt ist der Geburtsort von Sigmund Freud.",
       hu: "Příbor a Morva-Sziléziai kerületben található. A város Sigmund Freud szülőhelye.",

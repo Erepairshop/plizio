@@ -6,7 +6,7 @@ export const cyprusReliefV2: POI[] = [
     type: "peak",
     parent: "CY",
     name: { de: "Papoutsa Gipfel", hu: "Papoutsa-csúcs", ro: "Vârful Papoutsa", en: "Papoutsa Peak" },
-    coordinates: { lat: 34.9458, lng: 33.0233 },
+    coords: [33.0233, 34.9458],
     description: {
       de: "Der Papoutsa ist ein Berg im Troodos-Massiv. Seine Spitze liegt auf einer Höhe von 1554 Metern.",
       hu: "A Papoutsa a Troodos-hegység egyik hegye. Csúcsa 1554 méteres magasságban fekszik.",
@@ -38,7 +38,7 @@ export const cyprusReliefV2: POI[] = [
     type: "peak",
     parent: "CY",
     name: { de: "Kionia Gipfel", hu: "Kionia-csúcs", ro: "Vârful Kionia", en: "Kionia Peak" },
-    coordinates: { lat: 34.9547, lng: 33.1558 },
+    coords: [33.1558, 34.9547],
     description: {
       de: "Kionia ist ein Berggipfel im Machairas-Gebirge. Die Erhebung erreicht eine Höhe von 1423 Metern.",
       hu: "A Kionia a Machairas-hegység egyik csúcsa. A kiemelkedés 1423 méteres magasságot ér el.",
@@ -70,7 +70,7 @@ export const cyprusReliefV2: POI[] = [
     type: "peak",
     parent: "CY",
     name: { de: "Adelphi Gipfel", hu: "Adelphi-csúcs", ro: "Vârful Adelphi", en: "Adelphi Peak" },
-    coordinates: { lat: 34.9669, lng: 32.9667 },
+    coords: [32.9667, 34.9669],
     description: {
       de: "Adelphi ist einer der Gipfel im Troodos-Gebirge. Die Höhe beträgt etwa 1613 Meter.",
       hu: "Az Adelphi a Troodos-hegység egyik csúcsa. Magassága körülbelül 1613 méter.",
@@ -102,7 +102,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Kornos Hügel", hu: "Kornos-domb", ro: "Dealul Kornos", en: "Kornos Hill" },
-    coordinates: { lat: 34.8833, lng: 33.3667 },
+    coords: [33.3667, 34.8833],
     description: {
       de: "Der Kornos ist eine markante Erhebung bei der gleichnamigen Ortschaft. Er ist bekannt für seine natürliche Umgebung.",
       hu: "A Kornos egy jelentős kiemelkedés az azonos nevű település közelében. Természeti környezetéről ismert.",
@@ -134,7 +134,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Trooditissa Tal", hu: "Trooditissa-völgy", ro: "Valea Trooditissa", en: "Trooditissa Valley" },
-    coordinates: { lat: 34.9167, lng: 32.8333 },
+    coords: [32.8333, 34.9167],
     description: {
       de: "Das Trooditissa-Tal liegt im südlichen Teil des Troodos-Gebirges. Es ist für seine üppige Vegetation bekannt.",
       hu: "A Trooditissa-völgy a Troodos-hegység déli részén található. Dús növényzetéről ismert.",
@@ -166,7 +166,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Solea Tal", hu: "Solea-völgy", ro: "Valea Solea", en: "Solea Valley" },
-    coordinates: { lat: 35.0, lng: 32.9167 },
+    coords: [32.9167, 35.0],
     description: {
       de: "Das Solea-Tal erstreckt sich nordöstlich des Troodos-Gebirges. Es ist eine wichtige landwirtschaftliche Region.",
       hu: "A Solea-völgy a Troodos-hegységtől északkeletre terül el. Fontos mezőgazdasági régió.",
@@ -198,7 +198,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Mesarya Ebene", hu: "Mesarya-alföld", ro: "Câmpia Mesarya", en: "Mesarya Plain" },
-    coordinates: { lat: 35.1333, lng: 33.5 },
+    coords: [33.5, 35.1333],
     description: {
       de: "Die Mesarya-Ebene bildet das Zentrum Zyperns. Sie ist die wichtigste landwirtschaftliche Fläche der Insel.",
       hu: "A Mesarya-alföld Ciprus központját alkotja. Ez a sziget legfontosabb mezőgazdasági területe.",
@@ -230,7 +230,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Paphos Tiefland", hu: "Paphosi alföld", ro: "Câmpia Paphos", en: "Paphos Lowlands" },
-    coordinates: { lat: 34.8, lng: 32.5 },
+    coords: [32.5, 34.8],
     description: {
       de: "Das Paphos-Tiefland erstreckt sich entlang der südwestlichen Küste. Es ist durch sanfte Hügel gekennzeichnet.",
       hu: "A Paphosi alföld a délnyugati part mentén húzódik. Szelíd dombok jellemzik.",
@@ -262,7 +262,7 @@ export const cyprusReliefV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Karpas Halbinsel", hu: "Karpaz-félsziget", ro: "Peninsula Karpas", en: "Karpas Peninsula" },
-    coordinates: { lat: 35.5833, lng: 34.3333 },
+    coords: [34.3333, 35.5833],
     description: {
       de: "Die Karpas-Halbinsel ist ein langer, schmaler Ausläufer im Nordosten Zyperns. Sie zeichnet sich durch unberührte Natur aus.",
       hu: "A Karpaz-félsziget egy hosszú, keskeny nyúlvány Ciprus északkeleti részén. Érintetlen természet jellemzi.",
@@ -294,7 +294,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Kyrenia-Gebirge", hu: "Kyrenia-hegység", ro: "Munții Kyrenia", en: "Kyrenia Mountains" },
-    coordinates: { lat: 35.2833, lng: 33.3333 },
+    coords: [33.3333, 35.2833],
     description: {
       de: "Das Kyrenia-Gebirge verläuft entlang der Nordküste Zyperns. Es ist ein schmales und steiles Kalksteingebirge.",
       hu: "A Kyrenia-hegység Ciprus északi partja mentén húzódik. Keskeny és meredek mészkőhegység.",
@@ -326,7 +326,7 @@ export const cyprusReliefV2: POI[] = [
     type: "peak",
     parent: "CY",
     name: { de: "Pentadaktylos Gipfel", hu: "Pentadaktylos-csúcs", ro: "Vârful Pentadaktylos", en: "Pentadaktylos Peak" },
-    coordinates: { lat: 35.275, lng: 33.4583 },
+    coords: [33.4583, 35.275],
     description: {
       de: "Pentadaktylos bedeutet 'fünf Finger'. Es ist ein markanter Gipfel im Kyrenia-Gebirge.",
       hu: "A Pentadaktylos azt jelenti: 'öt ujj'. A Kyrenia-hegység egyik jellegzetes csúcsa.",
@@ -358,7 +358,7 @@ export const cyprusReliefV2: POI[] = [
     type: "peak",
     parent: "CY",
     name: { de: "Akkapeli Gipfel", hu: "Akkapeli-csúcs", ro: "Vârful Akkapeli", en: "Akkapeli Peak" },
-    coordinates: { lat: 35.3083, lng: 33.1667 },
+    coords: [33.1667, 35.3083],
     description: {
       de: "Akkapeli ist einer der höheren Punkte im Kyrenia-Gebirge. Er bietet einen weiten Blick auf die Nordküste.",
       hu: "Az Akkapeli a Kyrenia-hegység egyik magasabb pontja. Széles kilátást nyújt az északi partra.",
@@ -390,7 +390,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Yaila Plateau", hu: "Yaila-fennsík", ro: "Podișul Yaila", en: "Yaila Plateau" },
-    coordinates: { lat: 35.2833, lng: 33.5 },
+    coords: [33.5, 35.2833],
     description: {
       de: "Das Yaila-Plateau befindet sich im Kyrenia-Gebirge. Es wird traditionell für die Sommerweide genutzt.",
       hu: "A Yaila-fennsík a Kyrenia-hegységben található. Hagyományosan nyári legeltetésre használják.",
@@ -422,7 +422,7 @@ export const cyprusReliefV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Kormakitis Halbinsel", hu: "Kormakitis-félsziget", ro: "Peninsula Kormakitis", en: "Kormakitis Peninsula" },
-    coordinates: { lat: 35.3833, lng: 32.9167 },
+    coords: [32.9167, 35.3833],
     description: {
       de: "Die Kormakitis-Halbinsel liegt im Nordwesten Zyperns. Sie bildet den nordwestlichsten Punkt der Insel.",
       hu: "A Kormakitis-félsziget Ciprus északnyugati részén fekszik. A sziget legészaknyugatibb pontját alkotja.",
@@ -454,7 +454,7 @@ export const cyprusReliefV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Akrotiri Halbinsel", hu: "Akrotiri-félsziget", ro: "Peninsula Akrotiri", en: "Akrotiri Peninsula" },
-    coordinates: { lat: 34.5833, lng: 32.95 },
+    coords: [32.95, 34.5833],
     description: {
       de: "Die Akrotiri-Halbinsel liegt im Süden Zyperns bei Limassol. Sie beherbergt einen wichtigen Salzsee.",
       hu: "Az Akrotiri-félsziget Ciprus déli részén, Limassol közelében fekszik. Fontos sós tónak ad otthont.",
@@ -486,7 +486,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Dipkarpaz Tiefland", hu: "Dipkarpaz-alföld", ro: "Câmpia Dipkarpaz", en: "Dipkarpaz Lowlands" },
-    coordinates: { lat: 35.5667, lng: 34.3333 },
+    coords: [34.3333, 35.5667],
     description: {
       de: "Das Dipkarpaz-Tiefland erstreckt sich auf der Karpas-Halbinsel. Es ist eine Region mit sanfter Topographie.",
       hu: "A Dipkarpaz-alföld a Karpaz-félszigeten terül el. Szelíd domborzatú régió.",
@@ -518,7 +518,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Troodos Plateau", hu: "Troodos-fennsík", ro: "Podișul Troodos", en: "Troodos Plateau" },
-    coordinates: { lat: 34.9333, lng: 32.8667 },
+    coords: [32.8667, 34.9333],
     description: {
       de: "Das Troodos-Plateau ist das zentrale Hochland Zyperns. Es umfasst die höchsten Erhebungen der Insel.",
       hu: "A Troodos-fennsík Ciprus központi felvidéke. A sziget legmagasabb pontjait foglalja magában.",
@@ -550,7 +550,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Larnaka Tiefland", hu: "Larnacai alföld", ro: "Câmpia Larnaca", en: "Larnaca Lowlands" },
-    coordinates: { lat: 34.9, lng: 33.6 },
+    coords: [33.6, 34.9],
     description: {
       de: "Das Larnaka-Tiefland umfasst die Küstenebene um die Stadt Larnaka. Es ist durch flache Topographie geprägt.",
       hu: "A Larnacai alföld a Larnaca város körüli parti síkságot foglalja magában. Sík domborzat jellemzi.",
@@ -582,7 +582,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Limassol Tiefland", hu: "Limassoli alföld", ro: "Câmpia Limassol", en: "Limassol Lowlands" },
-    coordinates: { lat: 34.6833, lng: 33.0333 },
+    coords: [33.0333, 34.6833],
     description: {
       de: "Das Limassol-Tiefland erstreckt sich entlang der Südküste Zyperns. Es bietet fruchtbare Bedingungen.",
       hu: "A Limassoli alföld Ciprus déli partja mentén húzódik. Termékeny feltételeket biztosít.",
@@ -614,7 +614,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Dierona Tal", hu: "Dierona-völgy", ro: "Valea Dierona", en: "Dierona Valley" },
-    coordinates: { lat: 34.8333, lng: 33.0833 },
+    coords: [33.0833, 34.8333],
     description: {
       de: "Das Dierona-Tal liegt nördlich von Limassol im Hinterland. Es ist eine ländliche Region im Hügelland.",
       hu: "A Dierona-völgy Limassoltól északra, a hátországban található. Vidéki régió a dombvidéken.",
@@ -646,7 +646,7 @@ export const cyprusReliefV2: POI[] = [
     type: "peak",
     parent: "CY",
     name: { de: "Farma Gipfel", hu: "Farma-csúcs", ro: "Vârful Farma", en: "Farma Peak" },
-    coordinates: { lat: 34.9583, lng: 33.0083 },
+    coords: [33.0083, 34.9583],
     description: {
       de: "Farma ist ein Berg im Troodos-Massiv. Er liegt in der Nähe von Madari.",
       hu: "A Farma egy hegy a Troodos-hegységben. A Madari közelében fekszik.",
@@ -678,7 +678,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Spilia Tal", hu: "Spilia-völgy", ro: "Valea Spilia", en: "Spilia Valley" },
-    coordinates: { lat: 34.9833, lng: 32.95 },
+    coords: [32.95, 34.9833],
     description: {
       de: "Das Spilia-Tal liegt im Herzen des Troodos-Gebirges. Es ist von dichten Wäldern umgeben.",
       hu: "A Spilia-völgy a Troodos-hegység szívében található. Sűrű erdők veszik körül.",
@@ -710,7 +710,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Platania Tal", hu: "Platania-völgy", ro: "Valea Platania", en: "Platania Valley" },
-    coordinates: { lat: 34.9667, lng: 32.9333 },
+    coords: [32.9333, 34.9667],
     description: {
       de: "Das Platania-Tal ist ein bewaldetes Tal im Troodos-Gebirge. Es ist ein beliebter Erholungsort.",
       hu: "A Platania-völgy egy erdős völgy a Troodos-hegységben. Népszerű üdülőhely.",
@@ -742,7 +742,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Karkotis Tal", hu: "Karkotis-völgy", ro: "Valea Karkotis", en: "Karkotis Valley" },
-    coordinates: { lat: 34.9833, lng: 32.8833 },
+    coords: [32.8833, 34.9833],
     description: {
       de: "Das Karkotis-Tal folgt dem Lauf des Karkotis-Flusses im Troodos-Gebirge. Es bietet wichtige Lebensräume.",
       hu: "A Karkotis-völgy a Karkotis-folyó útját követi a Troodos-hegységben. Fontos élőhelyeket biztosít.",
@@ -774,7 +774,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Xeros Tal", hu: "Xeros-völgy", ro: "Valea Xeros", en: "Xeros Valley" },
-    coordinates: { lat: 34.8667, lng: 32.6167 },
+    coords: [32.6167, 34.8667],
     description: {
       de: "Das Xeros-Tal befindet sich in der Region Paphos. Der Name Xeros deutet auf die jahreszeitliche Trockenheit hin.",
       hu: "A Xeros-völgy a Paphosi régióban található. A Xeros név az évszakos szárazságra utal.",
@@ -806,7 +806,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Diarizos Tal", hu: "Diarizos-völgy", ro: "Valea Diarizos", en: "Diarizos Valley" },
-    coordinates: { lat: 34.75, lng: 32.7 },
+    coords: [32.7, 34.75],
     description: {
       de: "Das Diarizos-Tal wird durch den Diarizos-Fluss geformt. Es fließt durch eine abwechslungsreiche Landschaft.",
       hu: "A Diarizos-völgyet a Diarizos-folyó formálta. Változatos tájon folyik át.",
@@ -838,7 +838,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Ezousa Tal", hu: "Ezousa-völgy", ro: "Valea Ezousa", en: "Ezousa Valley" },
-    coordinates: { lat: 34.7833, lng: 32.55 },
+    coords: [32.55, 34.7833],
     description: {
       de: "Das Ezousa-Tal ist eine bedeutende Senke im Südwesten Zyperns. Der gleichnamige Fluss fließt hindurch.",
       hu: "Az Ezousa-völgy jelentős mélyedés Ciprus délnyugati részén. Az azonos nevű folyó folyik át rajta.",
@@ -870,7 +870,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Gourri Tal", hu: "Gourri-völgy", ro: "Valea Gourri", en: "Gourri Valley" },
-    coordinates: { lat: 34.9833, lng: 33.1833 },
+    coords: [33.1833, 34.9833],
     description: {
       de: "Das Gourri-Tal liegt in der Pitsilia-Region. Es ist ein typisches Bergtal.",
       hu: "A Gourri-völgy a Pitsilia-régióban fekszik. Tipikus hegyi völgy.",
@@ -902,7 +902,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Ayios Theodoros Tal", hu: "Ayios Theodoros-völgy", ro: "Valea Ayios Theodoros", en: "Ayios Theodoros Valley" },
-    coordinates: { lat: 34.8167, lng: 33.3833 },
+    coords: [33.3833, 34.8167],
     description: {
       de: "Das Ayios Theodoros-Tal erstreckt sich nahe der Südküste. Es ist landwirtschaftlich geprägt.",
       hu: "Az Ayios Theodoros-völgy a déli part közelében húzódik. Mezőgazdasági jellegű.",
@@ -934,7 +934,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Pedieos Tal", hu: "Pedieos-völgy", ro: "Valea Pedieos", en: "Pedieos Valley" },
-    coordinates: { lat: 35.15, lng: 33.3667 },
+    coords: [33.3667, 35.15],
     description: {
       de: "Das Pedieos-Tal ist das Einzugsgebiet des Flusses Pedieos. Es führt durch die Nicosia-Ebene.",
       hu: "A Pedieos-völgy a Pedieos-folyó vízgyűjtő területe. A Nicosia-alföldön vezet keresztül.",
@@ -966,7 +966,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Gialias Tal", hu: "Gialias-völgy", ro: "Valea Gialias", en: "Gialias Valley" },
-    coordinates: { lat: 35.05, lng: 33.6 },
+    coords: [33.6, 35.05],
     description: {
       de: "Das Gialias-Tal folgt dem Lauf des Gialias-Flusses in der östlichen Mesarya-Ebene.",
       hu: "A Gialias-völgy a Gialias-folyó útját követi a keleti Mesarya-alföldön.",
@@ -998,7 +998,7 @@ export const cyprusReliefV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Serrachis Tal", hu: "Serrachis-völgy", ro: "Valea Serrachis", en: "Serrachis Valley" },
-    coordinates: { lat: 35.1667, lng: 33.1667 },
+    coords: [33.1667, 35.1667],
     description: {
       de: "Das Serrachis-Tal erstreckt sich westlich von Nicosia. Der Fluss Serrachis prägt die Region.",
       hu: "A Serrachis-völgy Nicosiától nyugatra terül el. A Serrachis-folyó meghatározza a régiót.",
@@ -1030,7 +1030,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Akamas Hochland", hu: "Akamas-felvidék", ro: "Podișul Akamas", en: "Akamas Highlands" },
-    coordinates: { lat: 34.95, lng: 32.35 },
+    coords: [32.35, 34.95],
     description: {
       de: "Das Akamas-Hochland bildet die hügelige Struktur der Akamas-Halbinsel im Nordwesten.",
       hu: "Az Akamas-felvidék az Akamas-félsziget dombos szerkezetét alkotja északnyugaton.",
@@ -1062,7 +1062,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Laona Plateau", hu: "Laona-fennsík", ro: "Podișul Laona", en: "Laona Plateau" },
-    coordinates: { lat: 34.9667, lng: 32.4 },
+    coords: [32.4, 34.9667],
     description: {
       de: "Das Laona-Plateau liegt oberhalb der Akamas-Halbinsel. Es bietet weite Ausblicke auf die Küste.",
       hu: "A Laona-fennsík az Akamas-félsziget felett fekszik. Széles kilátást nyújt a partra.",
@@ -1094,7 +1094,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Troodos Vorgebirge", hu: "Troodos-előhegység", ro: "Piemontul Troodos", en: "Troodos Foothills" },
-    coordinates: { lat: 34.85, lng: 32.9 },
+    coords: [32.9, 34.85],
     description: {
       de: "Das Troodos-Vorgebirge bildet den Übergang vom Hochgebirge zum Tiefland im Süden.",
       hu: "A Troodos-előhegység alkotja az átmenetet a magashegység és az alföld között délen.",
@@ -1126,7 +1126,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Kassianes Hügel", hu: "Kassianes-domb", ro: "Dealul Kassianes", en: "Kassianes Hill" },
-    coordinates: { lat: 35.15, lng: 33.35 },
+    coords: [33.35, 35.15],
     description: {
       de: "Der Kassianes-Hügel liegt im Bereich von Nicosia. Er ist Teil des hügeligen Umlands.",
       hu: "A Kassianes-domb Nicosia térségében található. A dombos környék része.",
@@ -1158,7 +1158,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Stavrovouni Berg", hu: "Stavrovouni-hegy", ro: "Muntele Stavrovouni", en: "Stavrovouni Mountain" },
-    coordinates: { lat: 34.8833, lng: 33.4333 },
+    coords: [33.4333, 34.8833],
     description: {
       de: "Der Stavrovouni ist ein markanter isolierter Berg im Südosten. Auf seinem Gipfel steht ein Kloster.",
       hu: "A Stavrovouni egy jellegzetes izolált hegy délkeleten. Csúcsán egy kolostor áll.",
@@ -1190,7 +1190,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Aetomouti Hügel", hu: "Aetomouti-domb", ro: "Dealul Aetomouti", en: "Aetomouti Hill" },
-    coordinates: { lat: 35.25, lng: 33.4 },
+    coords: [33.4, 35.25],
     description: {
       de: "Der Aetomouti ist eine Erhebung im Kyrenia-Gebirge. Er bietet einen Blick über das Inselzentrum.",
       hu: "Az Aetomouti egy kiemelkedés a Kyrenia-hegységben. Kilátást nyújt a sziget központjára.",
@@ -1222,7 +1222,7 @@ export const cyprusReliefV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Krasochoria Hügel", hu: "Krasochoria-dombság", ro: "Dealurile Krasochoria", en: "Krasochoria Hills" },
-    coordinates: { lat: 34.8333, lng: 32.85 },
+    coords: [32.85, 34.8333],
     description: {
       de: "Die Krasochoria-Hügel sind eine Weinbauregion an den südlichen Hängen des Troodos-Gebirges.",
       hu: "A Krasochoria-dombság egy borvidék a Troodos-hegység déli lejtőin.",

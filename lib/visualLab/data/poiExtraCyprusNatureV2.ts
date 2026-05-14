@@ -6,7 +6,7 @@ export const cyprusNatureV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Zygi Küstenkliff", hu: "Zygi partfal", ro: "Faleza Zygi", en: "Zygi Coastal Cliff" },
-    coordinates: { lat: 34.729, lng: 33.342 },
+    coords: [33.342, 34.729],
     description: {
       de: "Das Küstenkliff bei Zygi ist eine markante geologische Formation an der Südküste Zyperns. Es besteht hauptsächlich aus Kalkstein-Sedimenten.",
       hu: "A Zygi melletti partfal egy jellegzetes földtani képződmény Ciprus déli partvidékén. Főként mészkőüledékek alkotják.",
@@ -38,7 +38,7 @@ export const cyprusNatureV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Paphos Waldschlucht", hu: "Páfoszi erdőszurdok", ro: "Cheile Pădurii Paphos", en: "Paphos Forest Gorge" },
-    coordinates: { lat: 34.985, lng: 32.715 },
+    coords: [32.715, 34.985],
     description: {
       de: "Diese Schlucht durchschneidet den westlichen Teil des Paphos-Waldes. Das Gebiet ist durch steile Hänge und dichten Kiefernbewuchs geprägt.",
       hu: "Ez a szurdok a Páfoszi-erdő nyugati részét szeli át. A területet meredek lejtők és sűrű fenyvesek jellemzik.",
@@ -70,7 +70,7 @@ export const cyprusNatureV2: POI[] = [
     type: "lake",
     parent: "CY",
     name: { de: "Xyliatos Waldsee", hu: "Xiliatoszi erdei tó", ro: "Lacul forestier Xyliatos", en: "Xyliatos Forest Lake" },
-    coordinates: { lat: 35.012, lng: 32.998 },
+    coords: [32.998, 35.012],
     description: {
       de: "Der Xyliatos-Stausee liegt inmitten einer waldreichen Umgebung im Troodos-Gebirge. Er dient primär der Bewässerung der umliegenden Obstplantagen.",
       hu: "A Xiliatoszi-víztározó erdős környezetben fekszik a Tróodosz-hegységben. Elsősorban a környező gyümölcsösök öntözésére szolgál.",
@@ -102,7 +102,7 @@ export const cyprusNatureV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Limnitis Flusstal", hu: "Limnitisz folyóvölgy", ro: "Valea râului Limnitis", en: "Limnitis River Valley" },
-    coordinates: { lat: 35.155, lng: 32.742 },
+    coords: [32.742, 35.155],
     description: {
       de: "Das Flusstal des Limnitis entwässert die nördlichen Hänge des Troodos-Gebirges in Richtung Mittelmeer. Das Klima begünstigt eine vielfältige Flora.",
       hu: "A Limnitisz-folyó völgye a Tróodosz-hegység északi lejtőitől a Földközi-tenger felé vezeti a vizet. Az éghajlat sokszínű flórát tesz lehetővé.",
@@ -134,7 +134,7 @@ export const cyprusNatureV2: POI[] = [
     type: "forest",
     parent: "CY",
     name: { de: "Stavros tis Psokas Waldgebiet", hu: "Sztavrosz tisz Psokasz erdőterület", ro: "Zona forestieră Stavros tis Psokas", en: "Stavros tis Psokas Forest Area" },
-    coordinates: { lat: 35.008, lng: 32.651 },
+    coords: [32.651, 35.008],
     description: {
       de: "Dieses zentrale Waldgebiet ist für seine unberührte Natur und als Zufluchtsort für den seltenen Zypern-Mufflon bekannt. Es liegt tief im Paphos-Wald.",
       hu: "Ez a központi erdőterület érintetlen természetéről és a ritka ciprusi muflon menedékhelyeként ismert. Mélyen a Páfoszi-erdőben található.",
@@ -166,7 +166,7 @@ export const cyprusNatureV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Akrotiri Halbinsel Küste", hu: "Akrotiri-félsziget partvidék", ro: "Coasta Peninsulei Akrotiri", en: "Akrotiri Peninsula Coast" },
-    coordinates: { lat: 34.585, lng: 32.965 },
+    coords: [32.965, 34.585],
     description: {
       de: "Die Küstenlinie der Akrotiri-Halbinsel im Süden Zyperns zeichnet sich durch feuchte Marschgebiete und Sanddünen aus. Sie ist ein bedeutendes Vogelschutzgebiet.",
       hu: "Az Akrotiri-félsziget partvonala Ciprus déli részén nedves mocsárvidékről és homokdűnékről ismert. Jelentős madárvédelmi terület.",
@@ -198,7 +198,7 @@ export const cyprusNatureV2: POI[] = [
     type: "valley",
     parent: "CY",
     name: { de: "Marathasa Tal", hu: "Marathasza-völgy", ro: "Valea Marathasa", en: "Marathasa Valley" },
-    coordinates: { lat: 34.952, lng: 32.831 },
+    coords: [32.831, 34.952],
     description: {
       de: "Das Marathasa-Tal ist ein fruchtbares Tal im Troodos-Gebirge, das für seinen Obstbau bekannt ist. Es wird von den Flüssen des Gebirges bewässert.",
       hu: "A Marathasza-völgy a Tróodosz-hegység termékeny völgye, amely gyümölcstermesztéséről híres. A hegység folyói öntözik.",
@@ -230,7 +230,7 @@ export const cyprusNatureV2: POI[] = [
     type: "mountain",
     parent: "CY",
     name: { de: "Lefkara Hügel", hu: "Lefkara-dombok", ro: "Dealurile Lefkara", en: "Lefkara Hills" },
-    coordinates: { lat: 34.862, lng: 33.305 },
+    coords: [33.305, 34.862],
     description: {
       de: "Die Hügel rund um Lefkara bilden den östlichen Ausläufer des Troodos-Gebirges. Die Landschaft ist durch terrassierte Anbauflächen und Felsformationen geprägt.",
       hu: "A Lefkara környéki dombok a Tróodosz-hegység keleti nyúlványát alkotják. A tájat teraszos művelésű földek és sziklás képződmények jellemzik.",
@@ -262,7 +262,7 @@ export const cyprusNatureV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Kouris Delta", hu: "Kourisz-delta", ro: "Delta râului Kouris", en: "Kouris River Delta" },
-    coordinates: { lat: 34.665, lng: 32.885 },
+    coords: [32.885, 34.665],
     description: {
       de: "Das Mündungsgebiet des Flusses Kouris bei Episkopi ist eine wichtige ökologische Zone an der Südküste. Hier trifft Süßwasser auf das Mittelmeer.",
       hu: "A Kourisz-folyó torkolatvidéke Episkopi mellett fontos ökológiai zóna a déli parton. Itt találkozik az édesvíz a Földközi-tengerrel.",
@@ -294,7 +294,7 @@ export const cyprusNatureV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Pentakomo Küstenhöhlen", hu: "Pentakomo-parti barlangok", ro: "Peșterile costiere Pentakomo", en: "Pentakomo Coastal Caves" },
-    coordinates: { lat: 34.721, lng: 33.285 },
+    coords: [33.285, 34.721],
     description: {
       de: "Die Küstenhöhlen bei Pentakomo sind das Ergebnis von jahrhundertelanger Erosion durch das Meer. Die weißen Gesteinsformationen bilden eine markante Kulisse.",
       hu: "A Pentakomo melletti part menti barlangok az évszázados tengeri erózió eredményei. A fehér sziklaképződmények jellegzetes hátteret nyújtanak.",

@@ -6,7 +6,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Balvi", hu: "Balvi", ro: "Balvi", en: "Balvi" },
-    coordinates: { lat: 57.1353, lng: 27.2628 },
+    coords: [27.2628, 57.1353],
     description: {
       de: "Balvi ist eine Stadt im Nordosten Lettlands und das Verwaltungszentrum der Region Balvi. Sie liegt nahe der Grenze zu Russland.",
       hu: "Balvi város Lettország északkeleti részén, a Balvi járás központja. Az orosz határ közelében helyezkedik el.",
@@ -38,7 +38,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Talsi", hu: "Talsi", ro: "Talsi", en: "Talsi" },
-    coordinates: { lat: 57.2458, lng: 22.5925 },
+    coords: [22.5925, 57.2458],
     description: {
       de: "Talsi liegt im westlichen Lettland und ist bekannt als die Stadt auf den neun Hügeln. Sie ist das Zentrum der Region Talsi.",
       hu: "Talsi Nyugat-Lettországban található, a kilenc domb városaként ismert. A Talsi járás székhelye.",
@@ -70,7 +70,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Madona", hu: "Madona", ro: "Madona", en: "Madona" },
-    coordinates: { lat: 56.8525, lng: 26.2208 },
+    coords: [26.2208, 56.8525],
     description: {
       de: "Madona ist eine Stadt in der östlichen Region Vidzeme. Sie liegt im hügeligen Gelände der Vidzeme-Hochebene.",
       hu: "Madona város Vidzeme keleti részén. A Vidzeme-felföld dombos területén helyezkedik el.",
@@ -102,7 +102,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Ludza", hu: "Ludza", ro: "Ludza", en: "Ludza" },
-    coordinates: { lat: 56.5475, lng: 27.7247 },
+    coords: [27.7247, 56.5475],
     description: {
       de: "Ludza liegt im Osten Lettlands und gilt als eine der ältesten Städte des Landes. Bekannt für ihre mittelalterliche Burgruine.",
       hu: "Ludza Lettország keleti részén fekszik, és az ország egyik legrégebbi városának tartják. Középkori várromjairól ismert.",
@@ -134,7 +134,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Krustpils", hu: "Krustpils", ro: "Krustpils", en: "Krustpils" },
-    coordinates: { lat: 56.5053, lng: 25.8675 },
+    coords: [25.8675, 56.5053],
     description: {
       de: "Krustpils ist ein historischer Stadtteil von Jēkabpils am Ufer der Daugava. Einst eine unabhängige Stadt.",
       hu: "Krustpils Jēkabpils történelmi városrésze a Daugava partján. Egykor független város volt.",
@@ -166,7 +166,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Siguldas pilsēta", hu: "Siguldas pilsēta", ro: "Siguldas pilsēta", en: "Sigulda Town" },
-    coordinates: { lat: 57.1539, lng: 24.8525 },
+    coords: [24.8525, 57.1539],
     description: {
       de: "Das Stadtgebiet von Sigulda liegt im Gauja-Nationalpark. Es dient als administratives Zentrum der Region.",
       hu: "Sigulda városi területe a Gauja Nemzeti Parkban található. A járás adminisztratív központjaként szolgál.",
@@ -198,7 +198,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Vangaži", hu: "Vangaži", ro: "Vangaži", en: "Vangaži" },
-    coordinates: { lat: 57.1164, lng: 24.5694 },
+    coords: [24.5694, 57.1164],
     description: {
       de: "Vangaži ist eine Industriestadt in der Nähe von Riga. Sie wurde in der Mitte des 20. Jahrhunderts entwickelt.",
       hu: "Vangaži iparváros Riga közelében. A 20. század közepén fejlesztették ki.",
@@ -230,7 +230,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Skrunda", hu: "Skrunda", ro: "Skrunda", en: "Skrunda" },
-    coordinates: { lat: 56.6717, lng: 22.0125 },
+    coords: [22.0125, 56.6717],
     description: {
       de: "Skrunda liegt in der Region Kurzeme am Fluss Venta. Die Stadt hat eine strategische Geschichte.",
       hu: "Skrunda Kurzeme régióban, a Venta folyó partján fekszik. A város stratégiai történelemmel rendelkezik.",
@@ -262,7 +262,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Cesvaine", hu: "Cesvaine", ro: "Cesvaine", en: "Cesvaine" },
-    coordinates: { lat: 56.9658, lng: 26.315 },
+    coords: [26.315, 56.9658],
     description: {
       de: "Cesvaine ist berühmt für sein Schloss aus dem 19. Jahrhundert. Es liegt in der historischen Region Vidzeme.",
       hu: "Cesvaine a 19. századi kastélyáról híres. A történelmi Vidzeme régióban található.",
@@ -294,7 +294,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Strenči", hu: "Strenči", ro: "Strenči", en: "Strenči" },
-    coordinates: { lat: 57.6256, lng: 25.6806 },
+    coords: [25.6806, 57.6256],
     description: {
       de: "Strenči liegt an der Gauja im Norden Lettlands. Die Stadt ist für ihre Waldwirtschaft bekannt.",
       hu: "Strenči a Gauja folyónál fekszik Lettország északi részén. A város az erdőgazdálkodásáról ismert.",
@@ -326,7 +326,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Viesīte", hu: "Viesīte", ro: "Viesīte", en: "Viesīte" },
-    coordinates: { lat: 56.3475, lng: 25.5564 },
+    coords: [25.5564, 56.3475],
     description: {
       de: "Viesīte ist eine Stadt in der Region Sēlija im Südosten Lettlands. Sie dient als lokales Zentrum.",
       hu: "Viesīte Sēlija régióban található, Lettország délkeleti részén. Helyi központként szolgál.",
@@ -358,7 +358,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Ilūkste", hu: "Ilūkste", ro: "Ilūkste", en: "Ilūkste" },
-    coordinates: { lat: 55.9817, lng: 26.3017 },
+    coords: [26.3017, 55.9817],
     description: {
       de: "Ilūkste liegt im südöstlichen Teil Lettlands nahe Daugavpils. Die Stadt hat historische Wurzeln im Sēlija-Gebiet.",
       hu: "Ilūkste Lettország délkeleti részén fekszik, Daugavpils közelében. A város történelmi gyökerei a Sēlija területre nyúlnak vissza.",
@@ -390,7 +390,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Subate", hu: "Subate", ro: "Subate", en: "Subate" },
-    coordinates: { lat: 55.9556, lng: 25.8975 },
+    coords: [25.8975, 55.9556],
     description: {
       de: "Subate ist eine kleine Stadt an der Grenze zu Litauen. Sie liegt in einer malerischen Seenlandschaft.",
       hu: "Subate egy kisváros a litván határnál. Festői tavi környezetben fekszik.",
@@ -422,7 +422,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Kārsava", hu: "Kārsava", ro: "Kārsava", en: "Kārsava" },
-    coordinates: { lat: 56.7867, lng: 27.6833 },
+    coords: [27.6833, 56.7867],
     description: {
       de: "Kārsava liegt im Osten Lettlands an der Grenze zu Russland. Die Stadt ist ein wichtiger Verkehrsknotenpunkt.",
       hu: "Kārsava Lettország keleti részén, az orosz határnál fekszik. A város fontos közlekedési csomópont.",
@@ -454,7 +454,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Zilupe", hu: "Zilupe", ro: "Zilupe", en: "Zilupe" },
-    coordinates: { lat: 56.3861, lng: 28.1158 },
+    coords: [28.1158, 56.3861],
     description: {
       de: "Zilupe liegt ganz im Osten Lettlands. Die Stadt ist ein bedeutender Grenzübergang nach Russland.",
       hu: "Zilupe Lettország legkeletibb részén fekszik. A város jelentős határátkelőhely Oroszország felé.",
@@ -486,7 +486,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Varakļāni", hu: "Varakļāni", ro: "Varakļāni", en: "Varakļāni" },
-    coordinates: { lat: 56.6025, lng: 26.7533 },
+    coords: [26.7533, 56.6025],
     description: {
       de: "Varakļāni liegt in der historischen Region Latgale. Bekannt für sein klassizistisches Herrenhaus.",
       hu: "Varakļāni a történelmi Latgale régióban fekszik. Klasszicista stílusú kastélyáról ismert.",
@@ -518,7 +518,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Jaunpils", hu: "Jaunpils", ro: "Jaunpils", en: "Jaunpils" },
-    coordinates: { lat: 56.7328, lng: 23.0139 },
+    coords: [23.0139, 56.7328],
     description: {
       de: "Jaunpils ist bekannt für seine gut erhaltene mittelalterliche Burg. Es liegt im westlichen Lettland.",
       hu: "Jaunpils a jól megőrzött középkori váráról ismert. Nyugat-Lettországban található.",
@@ -550,7 +550,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Priedaine", hu: "Priedaine", ro: "Priedaine", en: "Priedaine" },
-    coordinates: { lat: 56.9658, lng: 23.7558 },
+    coords: [23.7558, 56.9658],
     description: {
       de: "Priedaine ist ein Wohngebiet nahe Jūrmala. Es liegt am Ufer des Flusses Lielupe.",
       hu: "Priedaine Jūrmala melletti lakóövezet. A Lielupe folyó partján fekszik.",
@@ -582,7 +582,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Ape", hu: "Ape", ro: "Ape", en: "Ape" },
-    coordinates: { lat: 57.5333, lng: 26.6833 },
+    coords: [26.6833, 57.5333],
     description: {
       de: "Ape liegt im Norden Lettlands an der estnischen Grenze. Die Stadt ist von Wäldern umgeben.",
       hu: "Ape Lettország északi részén, az észt határ mellett fekszik. A várost erdők veszik körül.",
@@ -614,7 +614,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Valdemārpils", hu: "Valdemārpils", ro: "Valdemārpils", en: "Valdemārpils" },
-    coordinates: { lat: 57.3775, lng: 22.5936 },
+    coords: [22.5936, 57.3775],
     description: {
       de: "Valdemārpils liegt in der Region Kurzeme am Sasmaka-See. Die Stadt ist für ihre historische Architektur bekannt.",
       hu: "Valdemārpils Kurzeme régióban, a Sasmaka-tónál fekszik. A város a történelmi építészetéről ismert.",
@@ -646,7 +646,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Stende", hu: "Stende", ro: "Stende", en: "Stende" },
-    coordinates: { lat: 57.1436, lng: 22.5317 },
+    coords: [22.5317, 57.1436],
     description: {
       de: "Stende ist ein wichtiger Knotenpunkt in der Region Talsi. Bekannt für sein landwirtschaftliches Erbe.",
       hu: "Stende fontos csomópont a Talsi járásban. Mezőgazdasági örökségéről ismert.",
@@ -678,7 +678,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Alūksne", hu: "Alūksne", ro: "Alūksne", en: "Alūksne" },
-    coordinates: { lat: 57.4222, lng: 27.0514 },
+    coords: [27.0514, 57.4222],
     description: {
       de: "Alūksne liegt im Nordosten Lettlands an einem malerischen See. Bekannt für ihre Inselburg.",
       hu: "Alūksne Lettország északkeleti részén, egy festői tónál fekszik. Szigetváráról ismert.",
@@ -710,7 +710,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Dagda", hu: "Dagda", ro: "Dagda", en: "Dagda" },
-    coordinates: { lat: 56.095, lng: 27.5264 },
+    coords: [27.5264, 56.095],
     description: {
       de: "Dagda liegt im Osten Lettlands in der Region Latgale. Umgeben von vielen kleinen Seen.",
       hu: "Dagda Lettország keleti részén, Latgale régióban fekszik. Sok apró tó veszi körül.",
@@ -742,7 +742,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Kandava", hu: "Kandava", ro: "Kandava", en: "Kandava" },
-    coordinates: { lat: 57.0367, lng: 22.7758 },
+    coords: [22.7758, 57.0367],
     description: {
       de: "Kandava liegt in der Region Kurzeme am Abava-Tal. Die Stadt hat ein gut erhaltenes historisches Zentrum.",
       hu: "Kandava Kurzeme régióban, az Abava-völgyben fekszik. Jól megőrzött történelmi központja van.",
@@ -774,7 +774,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Priekule", hu: "Priekule", ro: "Priekule", en: "Priekule" },
-    coordinates: { lat: 56.4464, lng: 21.5833 },
+    coords: [21.5833, 56.4464],
     description: {
       de: "Priekule liegt in der Region Kurzeme im Südwesten Lettlands. Bekannt für ihr kulturelles Erbe.",
       hu: "Priekule Kurzeme régióban, Lettország délnyugati részén fekszik. Kulturális örökségéről ismert.",
@@ -806,7 +806,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Durbe", hu: "Durbe", ro: "Durbe", en: "Durbe" },
-    coordinates: { lat: 56.5936, lng: 21.3917 },
+    coords: [21.3917, 56.5936],
     description: {
       de: "Durbe ist eine der kleinsten Städte Lettlands. Sie liegt in der Region Kurzeme.",
       hu: "Durbe Lettország egyik legkisebb városa. Kurzeme régióban található.",
@@ -838,7 +838,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Vaiņode", hu: "Vaiņode", ro: "Vaiņode", en: "Vaiņode" },
-    coordinates: { lat: 56.4167, lng: 21.85 },
+    coords: [21.85, 56.4167],
     description: {
       de: "Vaiņode ist eine Stadt in Kurzeme. Bekannt für ihre Eisenbahngeschichte.",
       hu: "Vaiņode Kurzeme régióban található. Vasúti történelméről ismert.",
@@ -870,7 +870,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Brocēni", hu: "Brocēni", ro: "Brocēni", en: "Brocēni" },
-    coordinates: { lat: 56.6667, lng: 22.6667 },
+    coords: [22.6667, 56.6667],
     description: {
       de: "Brocēni ist eine Industriestadt in Kurzeme. Bekannt für ihre Zementproduktion.",
       hu: "Brocēni iparváros Kurzeme régióban. Cementgyártásáról ismert.",
@@ -902,7 +902,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Eleja", hu: "Eleja", ro: "Eleja", en: "Eleja" },
-    coordinates: { lat: 56.4011, lng: 23.6933 },
+    coords: [23.6933, 56.4011],
     description: {
       de: "Eleja liegt in Zemgale nahe der litauischen Grenze. Historischer Ort mit Schlossruinen.",
       hu: "Eleja Zemgale régióban, a litván határ közelében fekszik. Történelmi helyszín kastélyromokkal.",
@@ -934,7 +934,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Auce", hu: "Auce", ro: "Auce", en: "Auce" },
-    coordinates: { lat: 56.4589, lng: 22.8953 },
+    coords: [22.8953, 56.4589],
     description: {
       de: "Auce liegt im Südwesten Lettlands. Die Stadt ist für ihre schöne Umgebung bekannt.",
       hu: "Auce Lettország délnyugati részén fekszik. Szép környezetéről ismert.",
@@ -966,7 +966,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Tērvete", hu: "Tērvete", ro: "Tērvete", en: "Tērvete" },
-    coordinates: { lat: 56.4833, lng: 23.3833 },
+    coords: [23.3833, 56.4833],
     description: {
       de: "Tērvete liegt in Zemgale. Berühmt für seinen großen Naturpark und seine historischen Burgen.",
       hu: "Tērvete Zemgale régióban fekszik. Híres nagy természetvédelmi parkjáról és történelmi várairól.",
@@ -998,7 +998,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Bērze", hu: "Bērze", ro: "Bērze", en: "Bērze" },
-    coordinates: { lat: 56.6333, lng: 23.4167 },
+    coords: [23.4167, 56.6333],
     description: {
       de: "Bērze ist ein historisches Dorf in Zemgale. Bekannt für seine kulturelle Geschichte.",
       hu: "Bērze történelmi falu Zemgale régióban. Kulturális történetéről ismert.",
@@ -1030,7 +1030,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Galdnieki", hu: "Galdnieki", ro: "Galdnieki", en: "Galdnieki" },
-    coordinates: { lat: 56.4833, lng: 24.1833 },
+    coords: [24.1833, 56.4833],
     description: {
       de: "Galdnieki liegt nahe Bauska in Zemgale. Eine kleine Gemeinde in landwirtschaftlicher Umgebung.",
       hu: "Galdnieki Bauska közelében, Zemgale régióban található. Kis közösség mezőgazdasági környezetben.",
@@ -1062,7 +1062,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Vāne", hu: "Vāne", ro: "Vāne", en: "Vāne" },
-    coordinates: { lat: 56.9833, lng: 22.75 },
+    coords: [22.75, 56.9833],
     description: {
       de: "Vāne liegt im westlichen Lettland. Ein historischer Ort mit ländlichem Charme.",
       hu: "Vāne Nyugat-Lettországban fekszik. Történelmi hely, vidéki bájjal.",
@@ -1094,7 +1094,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Zante", hu: "Zante", ro: "Zante", en: "Zante" },
-    coordinates: { lat: 56.9667, lng: 22.6833 },
+    coords: [22.6833, 56.9667],
     description: {
       de: "Zante ist ein kleiner Ort in Kurzeme. Bekannt für seine malerische Umgebung.",
       hu: "Zante kis település Kurzeme régióban. Festői környezetéről ismert.",
@@ -1126,7 +1126,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Zirņi", hu: "Zirņi", ro: "Zirņi", en: "Zirņi" },
-    coordinates: { lat: 56.6833, lng: 22.4167 },
+    coords: [22.4167, 56.6833],
     description: {
       de: "Zirņi liegt in der Nähe von Saldus. Eine Gemeinde mit landwirtschaftlichem Hintergrund.",
       hu: "Zirņi Saldus közelében található. Mezőgazdasági hátterű település.",
@@ -1158,7 +1158,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Kursīši", hu: "Kursīši", ro: "Kursīši", en: "Kursīši" },
-    coordinates: { lat: 56.55, lng: 22.25 },
+    coords: [22.25, 56.55],
     description: {
       de: "Kursīši liegt im westlichen Lettland. Ein ruhiger Ort in einer ländlichen Region.",
       hu: "Kursīši Nyugat-Lettországban fekszik. Csendes hely egy vidéki régióban.",
@@ -1190,7 +1190,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Ezere", hu: "Ezere", ro: "Ezere", en: "Ezere" },
-    coordinates: { lat: 56.3833, lng: 22.3333 },
+    coords: [22.3333, 56.3833],
     description: {
       de: "Ezere liegt an der litauischen Grenze in Kurzeme. Historischer Ort mit ländlicher Prägung.",
       hu: "Ezere a litván határnál fekszik Kurzeme régióban. Történelmi hely, vidéki jelleggel.",
@@ -1222,7 +1222,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Nīca", hu: "Nīca", ro: "Nīca", en: "Nīca" },
-    coordinates: { lat: 56.35, lng: 21.0667 },
+    coords: [21.0667, 56.35],
     description: {
       de: "Nīca liegt in der Region Kurzeme nahe der Ostseeküste. Bekannt für ihre kulturellen Traditionen.",
       hu: "Nīca Kurzeme régióban fekszik, a Balti-tenger közelében. Kulturális hagyományairól ismert.",
@@ -1254,7 +1254,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Rucava", hu: "Rucava", ro: "Rucava", en: "Rucava" },
-    coordinates: { lat: 56.1667, lng: 21.1667 },
+    coords: [21.1667, 56.1667],
     description: {
       de: "Rucava liegt im äußersten Südwesten Lettlands. Bekannt für ihre ethnographische Bedeutung.",
       hu: "Rucava Lettország legdélnyugatibb részén fekszik. Néprajzi jelentőségéről ismert.",
@@ -1286,7 +1286,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Kalēti", hu: "Kalēti", ro: "Kalēti", en: "Kalēti" },
-    coordinates: { lat: 56.4, lng: 21.5167 },
+    coords: [21.5167, 56.4],
     description: {
       de: "Kalēti ist eine Gemeinde in der Region Kurzeme. Bekannt für ihre friedliche Umgebung.",
       hu: "Kalēti Kurzeme régió egyik községe. Békés környezetéről ismert.",
@@ -1318,7 +1318,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Embūte", hu: "Embūte", ro: "Embūte", en: "Embūte" },
-    coordinates: { lat: 56.4833, lng: 21.8 },
+    coords: [21.8, 56.4833],
     description: {
       de: "Embūte liegt in der Region Kurzeme. Bekannt für seine Burgruinen und hügelige Landschaft.",
       hu: "Embūte Kurzeme régióban fekszik. Várromjairól és dombos tájáról ismert.",
@@ -1350,7 +1350,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Laidi", hu: "Laidi", ro: "Laidi", en: "Laidi" },
-    coordinates: { lat: 56.8167, lng: 22.0 },
+    coords: [22.0, 56.8167],
     description: {
       de: "Laidi liegt im Westen Lettlands in Kurzeme. Eine kleine Gemeinde in malerischer Umgebung.",
       hu: "Laidi Lettország nyugati részén, Kurzeme régióban fekszik. Kis község festői környezetben.",
@@ -1382,7 +1382,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Alsunga", hu: "Alsunga", ro: "Alsunga", en: "Alsunga" },
-    coordinates: { lat: 56.9167, lng: 21.5667 },
+    coords: [21.5667, 56.9167],
     description: {
       de: "Alsunga liegt in Kurzeme. Bekannt für ihre kulturellen Traditionen der Suiti.",
       hu: "Alsunga Kurzeme régióban fekszik. A suiti kulturális hagyományairól ismert.",
@@ -1414,7 +1414,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Gudenieki", hu: "Gudenieki", ro: "Gudenieki", en: "Gudenieki" },
-    coordinates: { lat: 56.9, lng: 21.6667 },
+    coords: [21.6667, 56.9],
     description: {
       de: "Gudenieki liegt in der Region Kurzeme. Bekannt für ihre ethnographische Bedeutung.",
       hu: "Gudenieki Kurzeme régióban fekszik. Néprajzi jelentőségéről ismert.",
@@ -1446,7 +1446,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Pelči", hu: "Pelči", ro: "Pelči", en: "Pelči" },
-    coordinates: { lat: 56.9333, lng: 22.0 },
+    coords: [22.0, 56.9333],
     description: {
       de: "Pelči liegt in der Nähe von Kuldīga. Bekannt für sein historisches Herrenhaus.",
       hu: "Pelči Kuldīga közelében fekszik. Történelmi kastélyáról ismert.",
@@ -1478,7 +1478,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Piltene", hu: "Piltene", ro: "Piltene", en: "Piltene" },
-    coordinates: { lat: 57.225, lng: 21.675 },
+    coords: [21.675, 57.225],
     description: {
       de: "Piltene liegt in Kurzeme. Historische Stadt mit alten Burgruinen.",
       hu: "Piltene Kurzeme régióban fekszik. Történelmi város régi várromokkal.",
@@ -1510,7 +1510,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Ugāle", hu: "Ugāle", ro: "Ugāle", en: "Ugāle" },
-    coordinates: { lat: 57.2667, lng: 21.75 },
+    coords: [21.75, 57.2667],
     description: {
       de: "Ugāle liegt in der Region Kurzeme. Bekannt für ihre ländliche Umgebung und Geschichte.",
       hu: "Ugāle Kurzeme régióban fekszik. Vidéki környezetéről és történelméről ismert.",
@@ -1542,7 +1542,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Zūras", hu: "Zūras", ro: "Zūras", en: "Zūras" },
-    coordinates: { lat: 57.2833, lng: 21.65 },
+    coords: [21.65, 57.2833],
     description: {
       de: "Zūras liegt im Westen Lettlands in Kurzeme. Eine kleine Siedlung in grüner Umgebung.",
       hu: "Zūras Lettország nyugati részén, Kurzeme régióban található. Kis település zöld környezetben.",
@@ -1574,7 +1574,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Puze", hu: "Puze", ro: "Puze", en: "Puze" },
-    coordinates: { lat: 57.3667, lng: 21.7833 },
+    coords: [21.7833, 57.3667],
     description: {
       de: "Puze liegt in Kurzeme. Ein historischer Ort mit schönen Seen.",
       hu: "Puze Kurzeme régióban fekszik. Történelmi hely szép tavakkal.",
@@ -1606,7 +1606,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Usma", hu: "Usma", ro: "Usma", en: "Usma" },
-    coordinates: { lat: 57.25, lng: 22.1167 },
+    coords: [22.1167, 57.25],
     description: {
       de: "Usma liegt an einem der größten Seen Lettlands. Bekannt für seine Natur und Erholung.",
       hu: "Usma Lettország egyik legnagyobb tava mellett fekszik. Természetéről és pihenési lehetőségeiről ismert.",
@@ -1638,7 +1638,7 @@ export const latviaCitiesV2: POI[] = [
     type: "city",
     parent: "LV",
     name: { de: "Tārgale", hu: "Tārgale", ro: "Tārgale", en: "Tārgale" },
-    coordinates: { lat: 57.3667, lng: 21.65 },
+    coords: [21.65, 57.3667],
     description: {
       de: "Tārgale liegt in Kurzeme. Eine ländliche Gemeinde nahe Ventspils.",
       hu: "Tārgale Kurzeme régióban fekszik. Vidéki község Ventspils közelében.",

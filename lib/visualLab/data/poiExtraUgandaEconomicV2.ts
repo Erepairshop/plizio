@@ -144,7 +144,20 @@ export const poiExtraUgandaEconomicV2: POI[] = [
         "Located in the eastern part of the country.",
         "Uses local limestone deposits."
       ]
-    }, image: "/poi-images/tororo-cement-factory-economic-v2.webp"},
+    }, image: "/poi-images/tororo-cement-factory-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tororo Cement Factory in Uganda ist eine der größten Zementfabriken Ostafrikas, gelegen in der Stadt Tororo. Sie wurde 1952 gegründet und hat eine jährliche Produktionskapazität von 1,5 Millionen Tonnen. Das Werk nutzt lokalen Kalkstein aus dem Tororo-Kalksteinbruch. Die Fabrik beschäftigt über 500 Arbeiter und versorgt den ugandischen Markt sowie Nachbarländer. Tororo Cement ist ein bedeutender Wirtschaftsfaktor für die Region. Das Unternehmen hat in moderne Technologien investiert, um die Emissionen zu reduzieren.",
+      hu: "A Tororo Cement Factory Uganda egyik legnagyobb cementgyára, Tororo városában. 1952-ben alapították, éves termelési kapacitása 1,5 millió tonna. A gyár helyi mészkövet használ a tororói kőfejtőből. Több mint 500 munkást foglalkoztat, és ellátja az ugandai piacot, valamint a szomszédos országokat. A Tororo Cement fontos gazdasági tényező a régióban. A cég modern technológiákba fektetett be a kibocsátás csökkentése érdekében.",
+      ro: "Fabrica de ciment Tororo din Uganda este una dintre cele mai mari fabrici de ciment din Africa de Est, situată în orașul Tororo. Fondată în 1952, are o capacitate anuală de producție de 1,5 milioane de tone. Utilizează calcar local din cariera Tororo. Fabrica angajează peste 500 de muncitori și aprovizionează piața ugandeză și țările vecine. Tororo Cement este un factor economic important. Compania a investit în tehnologii moderne pentru reducerea emisiilor.",
+      en: "Tororo Cement Factory in Uganda is one of East Africa's largest cement plants, located in Tororo town. Founded in 1952, it has an annual production capacity of 1.5 million tons. The plant uses local limestone from the Tororo quarry. It employs over 500 workers and supplies the Ugandan market and neighboring countries. Tororo Cement is a major economic driver for the region. The company has invested in modern technology to reduce emissions.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1952.", "Produktionskapazität: 1,5 Millionen Tonnen pro Jahr.", "Anzahl der Beschäftigten: über 500.", "Kalksteinvorkommen: 500 Millionen Tonnen geschätzt.", "Jährlicher Umsatz: 200 Millionen US-Dollar.", "Export in 5 Länder."],
+      hu: ["Alapítás éve: 1952.", "Éves kapacitás: 1,5 millió tonna.", "Alkalmazottak száma: több mint 500.", "Mészkőkészlet: 500 millió tonna becsült.", "Éves bevétel: 200 millió dollár.", "Export 5 országba."],
+      ro: ["Anul înființării: 1952.", "Capacitate anuală: 1,5 milioane de tone.", "Număr de angajați: peste 500.", "Rezerve de calcar: 500 de milioane de tone estimate.", "Venit anual: 200 de milioane de dolari.", "Export în 5 țări."],
+      en: ["Founded in 1952.", "Annual capacity: 1.5 million tons.", "Employees: over 500.", "Limestone reserves: 500 million tons estimated.", "Annual revenue: $200 million.", "Exports to 5 countries."],
+    },
+  },
   {
     id: "hima-cement-factory-economic-v2",
     type: "industry",
@@ -183,7 +196,20 @@ export const poiExtraUgandaEconomicV2: POI[] = [
         "Important for the construction industry in the region.",
         "Located in the Kasese district."
       ]
-    }, image: "/poi-images/hima-cement-factory-economic-v2.webp"},
+    }, image: "/poi-images/hima-cement-factory-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hima Cement Factory in Uganda, nahe Kasese, ist ein wichtiger Zementproduzent im Westen des Landes. Sie wurde 1994 eröffnet und gehört zur LafargeHolcim-Gruppe. Die Fabrik hat eine Kapazität von 1 Million Tonnen pro Jahr. Sie nutzt lokale Rohstoffe, darunter Kalkstein aus dem Ruwenzori-Gebirge. Das Werk beschäftigt etwa 300 Mitarbeiter und beliefert den westugandischen Markt. Hima Cement hat in erneuerbare Energien investiert, darunter Wasserkraft aus dem Kasese-Staudamm. Die Fabrik ist ein wichtiger Wirtschaftsfaktor für die Region Kasese.",
+      hu: "A Hima Cement Factory Uganda nyugati részén, Kasese közelében található. 1994-ben nyitotta meg kapuit, és a LafargeHolcim csoport tulajdona. Éves kapacitása 1 millió tonna. Helyi nyersanyagokat használ, köztük mészkövet a Ruwenzori-hegységből. A gyár kb. 300 embert foglalkoztat, és a nyugat-ugandai piacot szolgálja ki. A Hima Cement megújuló energiába fektetett, például a kasesei vízerőműből származó vízenergiába. A gyár fontos gazdasági szereplő Kasese régióban.",
+      ro: "Fabrica de ciment Hima din Uganda, lângă Kasese, este un important producător de ciment în vestul țării. Deschisă în 1994, aparține grupului LafargeHolcim. Capacitatea sa este de 1 milion de tone pe an. Folosește materii prime locale, inclusiv calcar din Munții Ruwenzori. Fabrica angajează aproximativ 300 de persoane și alimentează piața din vestul Ugandei. Hima Cement a investit în energii regenerabile, în special hidroenergie de la barajul Kasese. Fabrica este un motor economic pentru regiunea Kasese.",
+      en: "Hima Cement Factory in Uganda, near Kasese, is a major cement producer in the west. Opened in 1994, it is part of LafargeHolcim. It has a capacity of 1 million tons per year. It uses local raw materials, including limestone from the Ruwenzori Mountains. The plant employs about 300 people and supplies western Uganda. Hima Cement has invested in renewable energy, including hydropower from the Kasese dam. It is a key economic asset for the Kasese region.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1994.", "Jahreskapazität: 1 Million Tonnen.", "Mitarbeiter: 300.", "Kalksteinreserven: 200 Millionen Tonnen.", "Investitionen in Wasserkraft: 10 MW.", "Jährlicher Umsatz: 150 Millionen US-Dollar."],
+      hu: ["Megnyitás: 1994.", "Éves kapacitás: 1 millió tonna.", "Alkalmazottak: 300.", "Mészkőkészletek: 200 millió tonna.", "Vízenergia beruházás: 10 MW.", "Éves bevétel: 150 millió dollár."],
+      ro: ["Deschis în 1994.", "Capacitate anuală: 1 milion de tone.", "Angajați: 300.", "Rezerve de calcar: 200 milioane de tone.", "Investiții în hidroenergie: 10 MW.", "Venit anual: 150 milioane de dolari."],
+      en: ["Opened in 1994.", "Annual capacity: 1 million tons.", "Employees: 300.", "Limestone reserves: 200 million tons.", "Hydropower investment: 10 MW.", "Annual revenue: $150 million."],
+    },
+  },
   {
     id: "kilembe-copper-mines-economic-v2",
     type: "industry",
@@ -222,7 +248,20 @@ export const poiExtraUgandaEconomicV2: POI[] = [
         "Plans exist to revive the facility.",
         "Located in the Kasese district."
       ]
-    }, image: "/poi-images/kilembe-copper-mines-economic-v2.webp"},
+    }, image: "/poi-images/kilembe-copper-mines-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kilembe Copper Mines in Uganda, im Ruwenzori-Gebirge gelegen, waren ein bedeutender Kupfer- und Kobaltproduzent. Der Bergbau begann in den 1950er Jahren und endete in den 1970er Jahren aufgrund von politischen Unruhen und fallenden Kupferpreisen. Die Mine hatte eine geschätzte Reserve von 4 Millionen Tonnen Kupfererz. Heute gibt es Pläne zur Wiedereröffnung. Die Mine war ein wichtiger Wirtschaftsfaktor für die Region und beschäftigte über 5.000 Arbeiter. Das Gebiet ist auch für seine Kobaltvorkommen bekannt.",
+      hu: "A Kilembe rézbányák Ugandában, a Ruwenzori-hegységben, jelentős réz- és kobalttermelők voltak. A bányászat az 1950-es években kezdődött és az 1970-es években fejeződött be politikai zavargások és a réz árának csökkenése miatt. A bánya becsült készlete 4 millió tonna rézérc volt. Ma tervek vannak az újranyitásra. A bánya fontos gazdasági tényező volt a régióban, több mint 5.000 munkást foglalkoztatva. A terület kobaltlelőhelyeiről is ismert.",
+      ro: "Minele de cupru Kilembe din Uganda, situate în Munții Ruwenzori, au fost un important producător de cupru și cobalt. Exploatarea a început în anii 1950 și s-a încheiat în anii 1970 din cauza tulburărilor politice și a scăderii prețurilor cuprului. Mina avea o rezervă estimată de 4 milioane de tone de minereu de cupru. Există planuri de redeschidere. Mina a fost un motor economic, angajând peste 5.000 de muncitori. Zona este cunoscută și pentru zăcămintele de cobalt.",
+      en: "Kilembe Copper Mines in Uganda, located in the Ruwenzori Mountains, were a major copper and cobalt producer. Mining began in the 1950s and ceased in the 1970s due to political instability and falling copper prices. The mine had an estimated reserve of 4 million tons of copper ore. Plans exist for reopening. The mine was a key economic driver, employing over 5,000 workers. The area is also known for cobalt deposits.",
+    },
+    factsAdvanced: {
+      de: ["Kupfererzreserven: 4 Millionen Tonnen.", "Bergbaubeginn: 1956.", "Schließung: 1978.", "Jährliche Produktion: 100.000 Tonnen Kupferkonzentrat.", "Kobaltproduktion: 1.000 Tonnen pro Jahr.", "Mitarbeiterzahl zum Höhepunkt: 5.000."],
+      hu: ["Rézkészlet: 4 millió tonna.", "Bányászat kezdete: 1956.", "Bezárás: 1978.", "Éves termelés: 100.000 tonna rézkoncentrátum.", "Kobalttermelés: 1.000 tonna évente.", "Alkalmazottak a csúcson: 5.000."],
+      ro: ["Rezerve de minereu de cupru: 4 milioane de tone.", "Începutul exploatării: 1956.", "Închidere: 1978.", "Producție anuală: 100.000 de tone de concentrat de cupru.", "Producție de cobalt: 1.000 de tone pe an.", "Angajați la apogeu: 5.000."],
+      en: ["Copper ore reserves: 4 million tons.", "Mining began: 1956.", "Closure: 1978.", "Annual production: 100,000 tons of copper concentrate.", "Cobalt production: 1,000 tons per year.", "Peak employment: 5,000 workers."],
+    },
+  },
   {
     id: "kakira-sugar-works-economic-v2",
     type: "industry",
@@ -261,7 +300,20 @@ export const poiExtraUgandaEconomicV2: POI[] = [
         "Also produces electricity for the national grid.",
         "Employs thousands of local workers."
       ]
-    }, image: "/poi-images/kakira-sugar-works-economic-v2.webp"},
+    }, image: "/poi-images/kakira-sugar-works-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kakira Sugar Works in Uganda, nahe Jinja, ist eine der größten Zuckerfabriken des Landes. Sie wurde 1930 gegründet und gehört zur Madhvani-Gruppe. Die Fabrik produziert jährlich über 100.000 Tonnen Zucker. Sie bewirtschaftet 8.000 Hektar Zuckerrohrplantagen und produziert auch Strom aus Bagasse. Das Werk beschäftigt etwa 3.000 Mitarbeiter. Kakira Sugar versorgt den ugandischen Markt und exportiert in Nachbarländer. Die Fabrik hat in moderne Technologien investiert, um die Effizienz zu steigern.",
+      hu: "A Kakira Sugar Works Uganda egyik legnagyobb cukorgyára, Jinja közelében. 1930-ban alapította a Madhvani csoport. Évente több mint 100.000 tonna cukrot termel. 8.000 hektárnyi cukornádültetvényt működtet, és bagaszból áramot is termel. A gyár kb. 3.000 embert foglalkoztat. A Kakira Sugar ellátja az ugandai piacot és exportál a szomszédos országokba. A cég modern technológiákba fektetett a hatékonyság növelése érdekében.",
+      ro: "Kakira Sugar Works în Uganda, lângă Jinja, este una dintre cele mai mari fabrici de zahăr din țară. Fondată în 1930, aparține grupului Madhvani. Produce peste 100.000 de tone de zahăr anual. Operează 8.000 de hectare de plantații de trestie de zahăr și produce electricitate din bagasse. Fabrica angajează aproximativ 3.000 de muncitori. Kakira Sugar aprovizionează piața ugandeză și exportă în țările vecine. Compania a investit în tehnologii moderne pentru eficiență.",
+      en: "Kakira Sugar Works in Uganda, near Jinja, is one of the country's largest sugar factories. Founded in 1930, it is owned by the Madhvani Group. It produces over 100,000 tons of sugar annually. It operates 8,000 hectares of sugarcane plantations and generates electricity from bagasse. The plant employs about 3,000 workers. Kakira Sugar supplies the Ugandan market and exports to neighboring countries. The company has invested in modern technology for efficiency.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1930.", "Jährliche Zuckerproduktion: 100.000 Tonnen.", "Anbaufläche: 8.000 Hektar.", "Mitarbeiter: 3.000.", "Stromerzeugung: 30 MW aus Bagasse.", "Export in 3 Länder."],
+      hu: ["Alapítás éve: 1930.", "Éves cukortermelés: 100.000 tonna.", "Termőterület: 8.000 hektár.", "Alkalmazottak: 3.000.", "Villamosenergia-termelés: 30 MW bagaszból.", "Export 3 országba."],
+      ro: ["Anul înființării: 1930.", "Producție anuală de zahăr: 100.000 de tone.", "Suprafață cultivată: 8.000 de hectare.", "Angajați: 3.000.", "Producție de electricitate: 30 MW din bagasse.", "Export în 3 țări."],
+      en: ["Founded in 1930.", "Annual sugar production: 100,000 tons.", "Cultivated area: 8,000 hectares.", "Employees: 3,000.", "Electricity generation: 30 MW from bagasse.", "Export to 3 countries."],
+    },
+  },
   {
     id: "kinyara-sugar-works-economic-v2",
     type: "industry",

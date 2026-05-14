@@ -468,7 +468,20 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["A Star Wars forgatási helyszíneként vált híressé.", "Évszázadok óta berberek lakják."],
       ro: ["A devenit celebru ca locație de filmare pentru Războiul Stelelor.", "Locuit de berberi de secole."],
       en: ["Became famous as a filming location for Star Wars.", "Inhabited by Berbers for centuries."]
-    }, image: "/poi-images/matmata-troglodyte-history-v2.webp"},
+    }, image: "/poi-images/matmata-troglodyte-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Matmata ist ein Dorf im Süden Tunesiens, bekannt für seine traditionellen Höhlenwohnungen. Die Berberbevölkerung grub die Häuser in den weichen Kalkstein, um Schutz vor Hitze zu bieten. Das Dorf erlangte internationale Berühmtheit als Drehort für Star Wars – Episode IV. Einige Höhlen wurden zu Hotels umgebaut. Die Lebensweise ist seit Jahrhunderten gleich geblieben. Matmata liegt in einer trockenen Bergregion.",
+      hu: "Matmata egy tunéziai falu, ahol a berber lakosság barlanglakásokban él. A házakat a puha mészkőbe vájták, hogy védekezzenek a sivatagi hőség ellen. A falu híressé vált a Csillagok háborúja filmek forgatási helyszíneként. Ma turistalátványosság, és néhány barlangot szállodává alakítottak. Az ősi életmód a modern turizmussal ötvöződik.",
+      ro: "Matmata este un sat din sudul Tunisiei, faimos pentru locuințele troglodite săpate direct în stâncă. Comunitatea berberă a creat aceste case pentru a se proteja de căldura deșertului. Satul a devenit celebru ca loc de filmare pentru Războiul Stelelor. Unele locuințe au fost transformate în hoteluri. Matmata atrage turiști interesați de arhitectura vernaculară și de istoria berberă.",
+      en: "Matmata is a village in southern Tunisia famous for its underground troglodyte dwellings. The Berber inhabitants carved homes into soft limestone to escape extreme temperatures. The settlement gained global fame as a filming location for Star Wars: Episode IV – A New Hope. Today, some of these caves are used as hotels and museums. Matmata preserves a unique way of life, blending ancient traditions with modern tourism.",
+    },
+    factsAdvanced: {
+      de: ["Höhlenwohnungen: ca. 50", "Tiefe der Höhlen: 10-15 m unter Erdoberfläche", "Einwohner: etwa 800", "Höhe über Meer: 600 m", "Drehort Star Wars 1976", "Durchschnittstemperatur im Sommer: 35°C"],
+      hu: ["Barlanglakások száma: kb. 50", "Mélység: 10-15 m", "Lakosság: kb. 800 fő", "Tengerszint feletti magasság: 600 m", "Star Wars forgatás: 1976", "Nyári átlaghőmérséklet: 35°C"],
+      ro: ["Număr de locuințe troglodite: aprox. 50", "Adâncime: 10-15 m", "Populație: aprox. 800", "Altitudine: 600 m", "Filmări Star Wars în 1976", "Temperatura medie de vară: 35°C"],
+      en: ["Number of cave dwellings: ~50", "Depth: 10-15 m below ground", "Population: ~800", "Elevation: 600 m", "Star Wars filming in 1976", "Average summer temperature: 35°C"],
+    },
+  },
   {
     id: "ribat-of-monastir-history-v2",
     type: "historical",
@@ -491,7 +504,20 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["A Maghreb legrégebbi és legjobb állapotban fennmaradt ribatja.", "Kolostori erődként szolgált."],
       ro: ["Cel mai vechi și mai bine conservat ribat din Maghreb.", "A servit drept fortăreață monahală."],
       en: ["The oldest and best-preserved ribat in the Maghreb.", "Served as a monastic fortress."]
-    }, image: "/poi-images/ribat-of-monastir-history-v2.webp"},
+    }, image: "/poi-images/ribat-of-monastir-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ribat von Monastir ist eine befestigte islamische Klosteranlage aus dem 8. Jahrhundert. Er diente sowohl religiösen als auch militärischen Zwecken. Die Anlage besteht aus einer Moschee, Wohnräumen und Wachtürmen. Der Ribat ist eines der am besten erhaltenen Beispiele seiner Art in Nordafrika. Er liegt direkt am Meer. Die Architektur zeigt den Übergang von der byzantinischen zur islamischen Bauweise.",
+      hu: "A monastiri ribat egy erődített iszlám kolostor a 8. századból. Kettős funkciója volt: vallási és katonai. Az épületegyüttes egy mecsetet, cellákat és őrtornyokat foglal magába. Észak-Afrika egyik legjobb állapotban fennmaradt ribatja. Ma múzeumként szolgál, és lenyűgöző kilátást nyújt a tengerre. A Ribatot az UNESCO világörökségi javaslati listájára is felvették.",
+      ro: "Ribatul din Monastir este o fortificație monastică islamică din secolul al VIII-lea. A servit ca mănăstire și fortăreață de apărare. Complexul include o moschee, chilii și turnuri de veghe. Este unul dintre cele mai bine conservate ribaturi din Africa de Nord. Situat pe coastă, oferă o panoramă spectaculoasă. Astăzi este muzeu și atracție turistică majoră.",
+      en: "The Ribat of Monastir is an 8th-century Islamic fortification-monastery, combining religious and defensive functions. It features a mosque, living quarters, and watchtowers. As one of the best-preserved ribats in North Africa, it exemplifies early Islamic architecture. The structure overlooks the Mediterranean Sea. It has been proposed for UNESCO World Heritage status and currently houses a museum of Islamic art.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 796 n. Chr.", "Höhe des Hauptturms: 20 m", "Mauerdicke: 1,5 m", "Fläche: 1.200 m²", "UNESCO-Vorschlagsliste seit 2012", "Anzahl Zellen: 40"],
+      hu: ["Épült 796-ban", "Főtorony magassága: 20 m", "Falvastagság: 1,5 m", "Terület: 1 200 m²", "UNESCO javaslati listán 2012 óta", "Cellák száma: 40"],
+      ro: ["Construit în anul 796", "Înălțimea turnului principal: 20 m", "Grosimea zidurilor: 1,5 m", "Suprafață: 1.200 m²", "Lista tentativă UNESCO din 2012", "Număr de chilii: 40"],
+      en: ["Built in 796 CE", "Main tower height: 20 m", "Wall thickness: 1.5 m", "Area: 1,200 m²", "UNESCO tentative list since 2012", "Number of cells: 40"],
+    },
+  },
   {
     id: "al-zaytuna-mosque-history-v2",
     type: "historical",
@@ -514,7 +540,20 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["Körülbelül 731-ben alapították.", "Egykor az egyik első iszlám egyetemnek adott otthont."],
       ro: ["Fondată în jurul anului 731.", "A găzduit odată una dintre primele universități islamice."],
       en: ["Founded around the year 731.", "Once housed one of the first Islamic universities."]
-    }, image: "/poi-images/al-zaytuna-mosque-history-v2.webp"},
+    }, image: "/poi-images/al-zaytuna-mosque-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Zaytuna-Moschee in Tunis ist eine der ältesten und bedeutendsten Moscheen Nordafrikas. Sie wurde 732 n. Chr. gegründet und beherbergte eine der ersten Universitäten der Welt. Die Architektur vereint verschiedene islamische Stile. Der Gebetssaal wird von zahlreichen Säulen gestützt. Die Moschee spielte eine zentrale Rolle in der islamischen Gelehrsamkeit. Sie ist noch heute ein aktives Gotteshaus und eine Touristenattraktion.",
+      hu: "Az al-Zaytuna mecset Tuniszban Észak-Afrika egyik legrégebbi és legjelentősebb mecsete. 732-ben alapították, és a világ egyik legrégibb egyetemének adott otthont. Az építészeti stílusok ötvözik az andalúz, a fatimida és az oszmán hatásokat. A mecset híres a hatalmas imacsarnokáról, amelyet 184 oszlop tart. Ma is működő vallási központ.",
+      ro: "Moscheea Al-Zaytuna din Tunis este una dintre cele mai vechi și importante moschei din Africa de Nord. Fondată în anul 732, a găzduit una dintre primele universități din lume. Arhitectura combină stiluri andaluz, fatimid și otoman. Sala de rugăciune este susținută de 184 de coloane. Moscheea rămâne un centru de învățământ islamic și o atracție turistică majoră.",
+      en: "Al-Zaytuna Mosque in Tunis is one of the oldest and most prestigious mosques in North Africa, founded in 732 CE. It housed one of the world's first universities, specializing in Islamic sciences and humanities. The mosque's architecture features a large hypostyle prayer hall with 184 columns, reflecting Andalusian, Fatimid, and Ottoman influences. It remains an active place of worship and a symbol of Tunisian heritage.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 732 n. Chr.", "Anzahl Säulen: 184", "Fläche: 5.000 m²", "Minarett Höhe: 44 m", "Kapazität: 20.000 Gläubige", "Universität gegründet im 8. Jahrhundert"],
+      hu: ["Alapítás: 732", "Oszlopok száma: 184", "Terület: 5 000 m²", "Minaret magassága: 44 m", "Befogadóképesség: 20 000 hívő", "Egyetem alapítása: 8. század"],
+      ro: ["Fondare: 732", "Număr de coloane: 184", "Suprafață: 5.000 m²", "Înălțimea minaretului: 44 m", "Capacitate: 20.000 de credincioși", "Universitate fondată în secolul al VIII-lea"],
+      en: ["Founded: 732 CE", "Number of columns: 184", "Area: 5,000 m²", "Minaret height: 44 m", "Capacity: 20,000 worshippers", "University established in 8th century"],
+    },
+  },
   {
     id: "bardo-national-museum-history-v2",
     type: "historical",
@@ -537,7 +576,20 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["Egy egykori Hafszida-palotában kapott helyet.", "1888-ban nyílt meg múzeumként."],
       ro: ["Găzduit într-un fost palat Hafsid.", "S-a deschis ca muzeu în 1888."],
       en: ["Housed in a former Hafsid palace.", "Opened as a museum in 1888."]
-    }, image: "/poi-images/bardo-national-museum-history-v2.webp"},
+    }, image: "/poi-images/bardo-national-museum-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bardo-Nationalmuseum in Tunis beherbergt eine der bedeutendsten Sammlungen römischer Mosaiken weltweit. Es ist im ehemaligen Palast der Husainiden-Dynastie untergebracht. Die Exponate umfassen Kunst aus der punischen, römischen, christlichen und islamischen Epoche Tunesiens. Das Museum erlitt 2015 einen terroristischen Angriff. Es wurde danach renoviert und wiedereröffnet. Das Gebäude selbst ist ein architektonisches Meisterwerk.",
+      hu: "A Bardo Nemzeti Múzeum Tuniszban a világ egyik legfontosabb római mozaikgyűjteményével rendelkezik. A múzeum egy 19. századi palotában található. Kiállításai a pun, római, keresztény és iszlám időszakokat ölelik fel. 2015-ben terrortámadás érte, de azóta helyreállították. A múzeum kertje és udvara is látogatható. Évente több százezer turista keresi fel.",
+      ro: "Muzeul Național Bardo din Tunis găzduiește una dintre cele mai mari colecții de mozaicuri romane din lume. Este situat într-un palat istoric al dinastiei Husainide. Colecțiile acoperă perioadele punică, romană, creștină și islamică. În 2015, muzeul a fost ținta unui atac terorist. După restaurare, a fost redeschis publicului. Grădinile muzeului sunt o atracție în sine.",
+      en: "The Bardo National Museum in Tunis houses one of the world's most extensive collections of Roman mosaics. Located in a 19th-century palace of the Husainid dynasty, the museum displays artifacts from Tunisia's Punic, Roman, Christian, and Islamic periods. The museum was attacked by terrorists in 2015 but has since been renovated and reopened. Its architecture and gardens are notable. It attracts over 500,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1888", "Anzahl Mosaiken: über 5.000", "Fläche: 20.000 m²", "Besucher jährlich: 500.000+", "Palast erbaut 1835", "Angriff 2015: 22 Tote"],
+      hu: ["Megnyitás: 1888", "Mozaikok száma: több mint 5 000", "Terület: 20 000 m²", "Éves látogatók: 500 000+", "Palota épült 1835", "Támadás 2015-ben: 22 halott"],
+      ro: ["Deschis în 1888", "Număr de mozaicuri: peste 5.000", "Suprafață: 20.000 m²", "Vizitatori anual: peste 500.000", "Palat construit în 1835", "Atac în 2015: 22 de morți"],
+      en: ["Opened: 1888", "Number of mosaics: over 5,000", "Area: 20,000 m²", "Annual visitors: 500,000+", "Palace built in 1835", "2015 attack: 22 fatalities"],
+    },
+  },
   {
     id: "zaghouan-aqueduct-history-v2",
     type: "historical",
@@ -560,7 +612,20 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["Több mint 130 kilométer hosszú.", "Hadrianus császár megbízásából épült."],
       ro: ["Peste 130 de kilometri lungime.", "Comandat de împăratul Hadrian."],
       en: ["Over 130 kilometers long.", "Commissioned by Emperor Hadrian."]
-    }, image: "/poi-images/zaghouan-aqueduct-history-v2.webp"},
+    }, image: "/poi-images/zaghouan-aqueduct-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Zaghouan-Aquädukt war eine römische Wasserleitung, die das antike Karthago mit Wasser versorgte. Es erstreckte sich über 132 Kilometer, einer der längsten Aquädukte des Römischen Reiches. Die Quelle liegt im Djebel Zaghouan. Die Konstruktion umfasste unterirdische Kanäle, Brücken und Becken. Das Aquädukt wurde im 2. Jahrhundert n. Chr. unter Kaiser Hadrian erbaut. Teile sind heute noch sichtbar.",
+      hu: "A zaghouani vízvezeték egy római kori vízszállító rendszer volt, amely Karthágót látta el vízzel. 132 km hosszúságával a Római Birodalom egyik leghosszabb vízvezetéke volt. A forrás a Zaghouan-hegynél található. Hadrianus császár alatt épült a 2. században. Ma romjai láthatók a tájban. A vízvezeték a római mérnöki tudás csodája.",
+      ro: "Apeductul de la Zaghouan era un sistem roman de aducțiune a apei care alimenta vechiul Cartagina. Cu o lungime de 132 km, a fost unul dintre cele mai lungi apeducte ale Imperiului Roman. Izvorul se află în munții Zaghouan. A fost construit sub împăratul Hadrian în secolul al II-lea. Ruinele sale sunt încă vizibile pe traseu.",
+      en: "The Zaghouan Aqueduct was a Roman water supply system that brought water to Carthage from the springs of Djebel Zaghouan. Stretching 132 kilometers, it ranked among the longest Roman aqueducts. Built under Emperor Hadrian in the 2nd century CE, it featured underground channels, bridges, and settling tanks. Remains of arches and masonry can still be seen across the Tunisian landscape, showcasing Roman engineering prowess.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 132 km", "Bauzeit: 2. Jahrhundert n. Chr.", "Wassermenge pro Tag: 5 Millionen Liter", "Höhe der Brücken: bis zu 20 m", "Quellhöhe: 700 m über Meer", "Material: Kalkstein und Ziegel"],
+      hu: ["Hossz: 132 km", "Építés ideje: 2. század", "Napi vízmennyiség: 5 millió liter", "Hidak magassága: 20 m-ig", "Forrás magassága: 700 m", "Anyaga: mészkő és tégla"],
+      ro: ["Lungime: 132 km", "Construit în secolul al II-lea", "Debit zilnic: 5 milioane de litri", "Înălțimea podurilor: până la 20 m", "Altitudinea izvorului: 700 m", "Material: calcar și cărămidă"],
+      en: ["Length: 132 km", "Built in 2nd century CE", "Daily water flow: 5 million liters", "Maximum bridge height: 20 m", "Spring altitude: 700 m", "Material: limestone and brick"],
+    },
+  },
   {
     id: "roman-pools-gafsa-history-v2",
     type: "historical",
@@ -727,7 +792,20 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["Sullecthum fontos kikötő volt az olívaolaj-export számára.", "A katakombákban korai keresztény feliratok találhatók."],
       ro: ["Sullecthum a fost un port important pentru exportul de ulei de măsline.", "Catacombele prezintă inscripții creștine timpurii."],
       en: ["Sullecthum was an important port for olive oil export.", "The catacombs feature early Christian inscriptions."]
-    }, image: "/poi-images/salacta-catacombs-history-v2.webp"},
+    }, image: "/poi-images/salacta-catacombs-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Katakomben von Salacta (auch Sallakt) sind frühchristliche unterirdische Begräbnisstätten nahe der Stadt El Haouaria in Tunesien. Sie stammen aus dem 3. bis 5. Jahrhundert n. Chr. Die Anlage besteht aus mehreren Gängen und Kammern mit Nischen für Sarkophage. Die Katakomben waren bis zu ihrer Wiederentdeckung im 19. Jahrhundert verschollen. Sie bieten Einblick in frühchristliche Bestattungsrituale. Einige Fresken und Inschriften sind erhalten.",
+      hu: "A salactai katakombák (Sallakt) ókeresztény földalatti temetkezési helyek Tunéziában, El Haouaria közelében. A 3-5. századból származnak. Több folyosóból és szarkofágfülkés kamrákból állnak. A katakombákat a 19. században fedezték fel újra. Freskók és feliratok maradtak fenn. A helyszín a keresztény örökség fontos emléke.",
+      ro: "Catacombele de la Salacta (Sallakt) sunt cimitire subterane paleocreștine din apropiere de El Haouaria, Tunisia. Datează din secolele III-V d.Hr. Complexul include coridoare și camere cu nișe pentru sarcofage. Au fost redescoperite în secolul al XIX-lea. Păstrează fresce și inscripții. Reprezintă o mărturie importantă a creștinismului timpuriu în Africa de Nord.",
+      en: "The Salacta Catacombs (Sallakt) are Early Christian underground burial chambers located near El Haouaria, Tunisia. Dating from the 3rd to 5th centuries CE, they consist of a network of tunnels and cubicula with arcosolia for sarcophagi. Rediscovered in the 19th century, the catacombs contain preserved frescoes and inscriptions. They provide valuable insight into early Christian funerary practices in Roman Africa.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 3.-5. Jahrhundert n. Chr.", "Länge der Gänge: ca. 500 m", "Anzahl Kammern: 20+", "Tiefe: 10-15 m unterirdisch", "Wiederentdeckt 1850", "Inschriften in Latein und Griechisch"],
+      hu: ["Épült: 3-5. század", "Folyosók hossza: kb. 500 m", "Kamrák száma: több mint 20", "Mélység: 10-15 m", "Újrafelfedezés: 1850", "Feliratok latinul és görögül"],
+      ro: ["Datare: secolele III-V d.Hr.", "Lungimea coridoarelor: aprox. 500 m", "Număr de camere: peste 20", "Adâncime: 10-15 m", "Redescoperit în 1850", "Inscripții în latină și greacă"],
+      en: ["Built: 3rd-5th century CE", "Total passage length: ~500 m", "Number of chambers: 20+", "Depth: 10-15 m underground", "Rediscovered in 1850", "Inscriptions in Latin and Greek"],
+    },
+  },
   {
     id: "haidra-ammaedara-history-v2",
     type: "historical",

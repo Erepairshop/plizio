@@ -14,7 +14,19 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["1914-ben alapították.", "Több mint 400 állatfajnak ad otthont."],
       ro: ["Fondată în anul 1914.", "Găzduiește peste 400 de specii de animale."],
       en: ["Founded in 1914.", "Home to over 400 animal species."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Taipei Zoo in Taiwan ist der größte Zoo der Insel und beherbergt über 4.000 Tiere aus aller Welt. Er wurde 1916 gegründet und umfasst eine Fläche von etwa 165 Hektar. Der Zoo ist in verschiedene Themenbereiche unterteilt, darunter der Formosan Animal Area und der Penguin House. Besonders bekannt ist die Große Pandahalle, in der Riesenpandas wie Tuan Tuan und Yuan Yuan leben. Der Zoo engagiert sich in Artenschutzprojekten und bietet Bildungsprogramme. Er zieht jährlich Millionen von Besuchern an, insbesondere Familien. Die Anlage ist modern gestaltet und bietet viel Platz für die Tiere.",
+      hu: "A Taipei Állatkert Tajvan legnagyobb állatkertje, több mint 4000 állattal. 1916-ban alapították, területe kb. 165 hektár. Különböző tematikus részekre oszlik, mint a formozai állatok területe és a pingvinház. Híres a pandaház, ahol Tuan Tuan és Yuan Yuan óriáspandák élnek. Részt vesz fajvédelmi projektekben és oktatási programokban. Évente milliók látogatják, főként családok. Modern kialakítású, tágas helyet biztosít az állatoknak.",
+      ro: "Grădina Zoologică din Taipei este cea mai mare din Taiwan, adăpostind peste 4.000 de animale. Fondată în 1916, se întinde pe 165 de hectare. Este împărțită în zone tematice, inclusiv zona animalelor formozane și casa pinguinilor. Remarcabilă pentru casa panda, unde trăiesc urșii panda uriași Tuan Tuan și Yuan Yuan. Implicată în proiecte de conservare și educație. Atrage milioane de vizitatori anual, în special familii. Facilitățile sunt moderne și spațioase.",
+      en: "Taipei Zoo is Taiwan's largest zoo, home to over 4,000 animals. Founded in 1916 and covering 165 hectares, it features themed areas like the Formosan Animal Area and Penguin House. The Giant Panda House hosts pandas Tuan Tuan and Yuan Yuan. The zoo participates in conservation projects and educational programs. It attracts millions of visitors annually, especially families. Modern enclosures provide ample space for animals, emphasizing welfare. The zoo is also known for its insectarium and children's zoo.",
+    },
+    factsAdvanced: {
+      de: ["1916 gegründet", "165 Hektar", "über 4.000 Tiere", "Riesenpandas", "Formosan Animal Area", "Jährlich Millionen Besucher"],
+      hu: ["1916-ban alapították", "165 hektár", "több mint 4000 állat", "óriáspandák", "formozai állatok területe", "évente milliók"],
+      ro: ["fondată în 1916", "165 de hectare", "peste 4.000 de animale", "urși panda uriași", "zona animalelor formozane", "milioane de vizitatori anual"],
+      en: ["founded in 1916", "165 hectares", "over 4,000 animals", "giant pandas", "Formosan Animal Area", "millions of visitors annually"],
+    },
   },
   {
     id: "qingjing-farm-life-v2",
@@ -245,7 +257,20 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Itt található Tajvan egyetlen megszakított pályás hullámvasútja.", "Egy nagy bevásárlóközpont és egy óriáskerék is a része."],
       ro: ["Are singurul roller coaster cu pistă întreruptă din Taiwan.", "Include, de asemenea, un mare centru comercial și o roată panoramică."],
       en: ["Features Taiwan's only tilt coaster.", "Also includes a large shopping mall and a Ferris wheel."]
-    }, image: "/poi-images/lihpao-land-life-v2.webp"},
+    }, image: "/poi-images/lihpao-land-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lihpao Land in Taichung, Taiwan, ist ein großer Freizeitpark, der 1984 eröffnet wurde. Er umfasst Themenbereiche wie den Discovery World und den Water Park. Der Park ist bekannt für seine Achterbahnen, darunter die „Crazy Race“ und die „Sky Hawk“. Neben Fahrgeschäften bietet der Park auch Shows und Unterhaltungsprogramme. Er ist ein beliebtes Ausflugsziel für Familien und Jugendliche. Lihpao Land verfügt über ein Hotel, in dem Gäste übernachten können. Der Park erstreckt sich über eine Fläche von etwa 60 Hektar. Jährlich besuchen Hunderttausende den Park.",
+      hu: "A Lihpao Land Taichungban, Tajvanon, egy nagy vidámpark, 1984-ben nyitották meg. Részét képezi a Discovery World és a vízipark. Híres hullámvasútjairól, mint a 'Crazy Race' és a 'Sky Hawk'. Show-kat és szórakoztató programokat is kínál. Családok és fiatalok kedvelt célpontja. A parkban szálloda is üzemel. Területe kb. 60 hektár. Évente több százezer látogatója van.",
+      ro: "Lihpao Land din Taichung, Taiwan, este un mare parc de distracții deschis în 1984. Include zone tematice precum Discovery World și parcul acvatic. Cunoscut pentru montanele rusești, cum ar fi 'Crazy Race' și 'Sky Hawk'. Oferă, de asemenea, spectacole și divertisment. Destinație populară pentru familii și tineri. Parcul are un hotel. Se întinde pe 60 de hectare. Sute de mii de vizitatori anual.",
+      en: "Lihpao Land in Taichung, Taiwan, opened in 1984, is a large amusement park with themed areas like Discovery World and a water park. It features roller coasters such as 'Crazy Race' and 'Sky Hawk', along with shows and entertainment. Popular among families and teens, the park includes an on-site hotel. Covering 60 hectares, it attracts hundreds of thousands of visitors yearly. The park also hosts seasonal events and festivals.",
+    },
+    factsAdvanced: {
+      de: ["1984 eröffnet", "60 Hektar", "Achterbahnen 'Crazy Race' und 'Sky Hawk'", "Wasserpark", "Hotel vor Ort", "hunderttausende Besucher jährlich"],
+      hu: ["1984-ben nyitották", "60 hektár", "'Crazy Race' és 'Sky Hawk' hullámvasutak", "vízipark", "szálloda a helyszínen", "évi több százezer látogató"],
+      ro: ["deschis în 1984", "60 de hectare", "montane rusești 'Crazy Race' și 'Sky Hawk'", "parc acvatic", "hotel la fața locului", "sute de mii de vizitatori anual"],
+      en: ["opened in 1984", "60 hectares", "roller coasters 'Crazy Race' and 'Sky Hawk'", "water park", "on-site hotel", "hundreds of thousands of visitors annually"],
+    },
+  },
   {
     id: "farglory-ocean-park-life-v2",
     type: "kid-friendly",
@@ -259,7 +284,20 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["Tajvan első tengeri tematikájú vidámparkja.", "Delfin- és oroszlánfóka-műsorokat kínál."],
       ro: ["Primul parc de distracții cu tematică marină din Taiwan.", "Oferă spectacole cu delfini și lei de mare."],
       en: ["Taiwan's first marine-themed amusement park.", "Offers shows featuring dolphins and sea lions."]
-    }, image: "/poi-images/farglory-ocean-park-life-v2.webp"},
+    }, image: "/poi-images/farglory-ocean-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Farglory Ocean Park in Hualien, Taiwan, ist ein Meerespark, der 2002 eröffnet wurde. Er liegt an der malerischen Küste und bietet Shows mit Delfinen, Seelöwen und anderen Meerestieren. Der Park verfügt über Aquarien, ein Wellenbad und eine Achterbahn mit Meerblick. Er ist in zwei Hauptbereiche unterteilt: den Themenbereich „Ocean Kingdom“ und den „Adventure Kingdom“. Der Park ist bekannt für seine Bildungsprogramme zum Meeresschutz. Er zieht jährlich viele Touristen an, insbesondere Familien. Die Lage zwischen Bergen und Meer macht den Park einzigartig.",
+      hu: "A Farglory Ocean Park Hualienben, Tajvanon, egy tengeri park, amelyet 2002-ben nyitottak meg. A festői parton fekszik, delfines, oroszlánfókás és más tengeri állatos show-kat kínál. Akváriumokkal, hullámmedencével és tengerre néző hullámvasúttal rendelkezik. Két fő részből áll: 'Ocean Kingdom' és 'Adventure Kingdom'. Ismert a tengeri védelemmel kapcsolatos oktatási programjairól. Évente sok turistát vonz, főként családokat. A hegyek és a tenger közötti elhelyezkedése egyedülálló.",
+      ro: "Farglory Ocean Park din Hualien, Taiwan, este un parc marin deschis în 2002. Situat pe coastă, oferă spectacole cu delfini, lei de mare și alte animale marine. Are acvarii, piscină cu valuri și un roller coaster cu vedere la mare. Este împărțit în 'Ocean Kingdom' și 'Adventure Kingdom'. Renumit pentru programele educaționale de conservare marină. Atrage mulți turiști anual, în special familii. Amplasarea între munți și mare este unică.",
+      en: "Farglory Ocean Park in Hualien, Taiwan, opened in 2002, is a marine park on the scenic coast. It features dolphin and sea lion shows, aquariums, a wave pool, and a seaside roller coaster. Divided into 'Ocean Kingdom' and 'Adventure Kingdom', the park emphasizes marine conservation education. It attracts numerous tourists, especially families, annually. Its location between mountains and the Pacific Ocean offers stunning views. The park also includes a hotel and shopping area.",
+    },
+    factsAdvanced: {
+      de: ["2002 eröffnet", "Delfinshows", "Wellenbad", "Achterbahn mit Meerblick", "Bildungsprogramme", "Lage zwischen Bergen und Meer"],
+      hu: ["2002-ben nyitották", "delfinbemutatók", "hullámmedence", "tengerre néző hullámvasút", "oktatási programok", "hegyek és tenger között"],
+      ro: ["deschis în 2002", "spectacole cu delfini", "piscină cu valuri", "roller coaster cu vedere la mare", "programe educaționale", "amplasare între munți și mare"],
+      en: ["opened in 2002", "dolphin shows", "wave pool", "seaside roller coaster", "educational programs", "between mountains and sea"],
+    },
+  },
   {
     id: "leofoo-village-life-v2",
     type: "kid-friendly",
@@ -273,7 +311,20 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["A park négy különböző tematikus területre oszlik.", "Nagy, szabadon kószáló állatpopulációval rendelkezik."],
       ro: ["Parcul este împărțit în patru zone tematice diferite.", "Deține o mare populație de animale lăsate în libertate."],
       en: ["The park is divided into four different themed areas.", "Features a large free-roaming animal population."]
-    }, image: "/poi-images/leofoo-village-life-v2.webp"},
+    }, image: "/poi-images/leofoo-village-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Leofoo Village Theme Park in Taoyuan, Taiwan, wurde 1979 eröffnet und ist einer der ältesten Freizeitparks des Landes. Ursprünglich als Wildtierpark konzipiert, entwickelte er sich zu einem Themenpark mit vier Bereichen: Abenteuer-Africa, Wild-West, Südsee-Inseln und Aladdin. Die Achterbahn 'Little Rattler' war Taiwans erste Stahlachterbahn. Der Park beherbergt auch ein 5D-Kino und Shows mit exotischen Tieren. Mit einer Fläche von etwa 40 Hektar zieht er jährlich rund 1,5 Millionen Besucher an.",
+      hu: "A Leofoo Village Theme Park Tajvan északi részén, Taoyuan megyében található. 1979-ben nyitották meg, és az ország egyik legrégebbi vidámparkja. A park négy tematikus zónára oszlik: Kaland-Afrika, Vadnyugat, Déltengeri szigetek és Aladdin. A 'Little Rattler' hullámvasút Tajvan első acél hullámvasútja volt. A park területe 40 hektár, évente körülbelül 1,5 millió látogatót fogad. 1990-ben vásárolta meg a Leofoo Tourism Group, amely jelentős fejlesztéseket hajtott végre.",
+      ro: "Parcul tematic Leofoo Village, situat în Taoyuan, Taiwan, a fost deschis în 1979 și este unul dintre cele mai vechi parcuri de distracții din țară. Inițial un parc de animale sălbatice, a fost transformat într-un parc tematic cu patru zone: Africa Aventurii, Vestul Sălbatic, Insulele Pacificului de Sud și Aladdin. Roller coaster-ul 'Little Rattler' a fost primul de oțel din Taiwan. Parcul se întinde pe aproximativ 40 de hectare și atrage anual circa 1,5 milioane de vizitatori. În 1990, a fost achiziționat de Leofoo Tourism Group.",
+      en: "Leofoo Village Theme Park, located in Taoyuan, Taiwan, opened in 1979 as one of the country's earliest amusement parks. Initially a wildlife park, it evolved into a theme park with four themed areas: Adventure Africa, Wild West, South Sea Islands, and Aladdin. The 'Little Rattler' roller coaster was Taiwan's first steel coaster. Covering about 40 hectares, the park attracts approximately 1.5 million visitors annually. It features a 5D cinema, live shows, and a zoo area. The park was acquired by the Leofoo Tourism Group in 1990, which expanded its attractions.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1979 eröffnet.", "Die Fläche beträgt etwa 40 Hektar.", "Die Achterbahn 'Little Rattler' wurde 1983 erbaut.", "Jährlich besuchen rund 1,5 Millionen Menschen den Park.", "Der Park hat vier thematische Bereiche.", "Die höchste Achterbahn ist 'Screaming Condor' mit 140 Metern Höhe."],
+      hu: ["A parkot 1979-ben nyitották meg.", "Területe körülbelül 40 hektár.", "A 'Little Rattler' hullámvasút 1983-ban épült.", "Évente körülbelül 1,5 millió látogatót fogad.", "Négy tematikus zóna található a parkban.", "A legmagasabb hullámvasút a 'Screaming Condor', 140 méter magas."],
+      ro: ["Parcul a fost deschis în 1979.", "Suprafața este de aproximativ 40 de hectare.", "Roller coaster-ul 'Little Rattler' a fost construit în 1983.", "Atrage anual circa 1,5 milioane de vizitatori.", "Parcul are patru zone tematice.", "Cel mai înalt roller coaster este 'Screaming Condor', cu 140 de metri înălțime."],
+      en: ["The park opened in 1979.", "It covers approximately 40 hectares.", "The 'Little Rattler' roller coaster was built in 1983.", "Annual attendance is about 1.5 million visitors.", "The park has four themed areas.", "The tallest roller coaster is 'Screaming Condor' at 140 meters."],
+    },
+  },
   {
     id: "chulu-ranch-life-v2",
     type: "agriculture",
@@ -422,7 +473,20 @@ export const poiExtraTaiwanLifeV2: POI[] = [
       hu: ["A parkot az Égei-tenger stílusában alakították ki.", "Hatalmas óriáskerékkel rendelkezik, amely a városra néz."],
       ro: ["Parcul este proiectat în stilul Mării Egee.", "Oferă o roată panoramică uriașă cu vedere la oraș."],
       en: ["The park is designed in an Aegean Sea style.", "Features a giant Ferris wheel overlooking the city."]
-    }, image: "/poi-images/eda-theme-park-life-v2.webp"},
+    }, image: "/poi-images/eda-theme-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der E-DA Theme Park in Kaohsiung, Taiwan, wurde 2010 eröffnet und ist Teil des E-DA World Komplexes. Der Park ist in drei Bereiche unterteilt: Acropolis, Troja und Antikes Griechenland. Die Achterbahn 'G5' ist eine der schnellsten Taiwans. Der Park bietet auch eine Seilbahn und eine 3D-Kinoride. Mit einer Fläche von 70 Hektar ist er einer der größten Themenparks Taiwans. Jährlich kommen etwa 1,2 Millionen Besucher.",
+      hu: "Az E-DA Theme Park Kaohsiung városában, Tajvanon található, és 2010-ben nyitotta meg kapuit. A park három részre oszlik: Akropolisz, Trója és Ókori Görögország. A 'G5' hullámvasút Tajvan egyik leggyorsabbja. A parkban található egy kabinos felvonó és egy 3D-s mozi is. Területe 70 hektár, évente körülbelül 1,2 millió látogatót fogad. A park az E-DA World komplexum része, amely szállodát és bevásárlóközpontot is magában foglal.",
+      ro: "Parcul tematic E-DA, situat în Kaohsiung, Taiwan, a fost deschis în 2010 și face parte din complexul E-DA World. Parcul este împărțit în trei zone: Acropola, Troia și Grecia Antică. Roller coaster-ul 'G5' este unul dintre cele mai rapide din Taiwan. Parcul include o telecabină și un cinema 3D. Cu o suprafață de 70 de hectare, este unul dintre cele mai mari parcuri tematice din Taiwan. Atrage anual circa 1,2 milioane de vizitatori.",
+      en: "E-DA Theme Park in Kaohsiung, Taiwan, opened in 2010 as part of the E-DA World complex. The park is divided into three areas: Acropolis, Troy, and Ancient Greece. The 'G5' roller coaster is one of Taiwan's fastest. The park features a cable car and a 3D cinema ride. Covering 70 hectares, it is one of the largest theme parks in Taiwan, attracting about 1.2 million visitors annually. The complex also includes a hotel and shopping mall.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2010 eröffnet.", "Die Fläche beträgt 70 Hektar.", "Der 'G5' Coaster erreicht Geschwindigkeiten von 130 km/h.", "Jährlich besuchen etwa 1,2 Millionen Menschen den Park.", "Der Park hat drei thematische Bereiche.", "Die Seilbahn ist 1,2 Kilometer lang."],
+      hu: ["A parkot 2010-ben nyitották meg.", "Területe 70 hektár.", "A 'G5' hullámvasút sebessége eléri a 130 km/h-t.", "Évente körülbelül 1,2 millió látogatót fogad.", "Három tematikus zóna található.", "A kabinos felvonó hossza 1,2 kilométer."],
+      ro: ["Parcul a fost deschis în 2010.", "Suprafața este de 70 de hectare.", "Roller coaster-ul 'G5' atinge viteze de 130 km/h.", "Atrage anual circa 1,2 milioane de vizitatori.", "Parcul are trei zone tematice.", "Telecabina are o lungime de 1,2 kilometri."],
+      en: ["The park opened in 2010.", "It covers 70 hectares.", "The 'G5' coaster reaches speeds of 130 km/h.", "Annual attendance is about 1.2 million visitors.", "The park has three themed areas.", "The cable car is 1.2 kilometers long."],
+    },
+  },
   {
     id: "green-world-farm-life-v2",
     type: "wildlife-area",

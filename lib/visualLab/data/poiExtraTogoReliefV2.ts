@@ -43,7 +43,20 @@ export const poiExtraTogoReliefV2: POI[] = [
         "Geological wonder of Togo",
         "Offers dramatic photo opportunities"
       ]
-    }, image: "/poi-images/aledjo-fault-relief-v2.webp"},
+    }, image: "/poi-images/aledjo-fault-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Alédjo Fault ist eine geologische Verwerfung im zentralen Togo. Sie erstreckt sich über etwa 100 Kilometer in Nord-Süd-Richtung. Die Verwerfung ist Teil der panafrikanischen Orogenese und besteht aus mylonitisierten Gesteinen. Sie hat eine deutliche morphologische Auswirkung mit steilen Klippen und Tälern. Die Region ist bekannt für ihre landschaftliche Schönheit. Die Verwerfung beeinflusst den Verlauf von Flüssen und die Grundwasserzirkulation. In der Umgebung gibt es landwirtschaftliche Nutzung. Die Alédjo Fault ist ein bedeutendes geologisches Merkmal Togos.",
+      hu: "Az Alédjo-törésvonal egy geológiai vető Közép-Togoban. Körülbelül 100 kilométer hosszan húzódik észak-déli irányban. A vető a pán-afrikai orogenezis része, és milonitos kőzetekből áll. Jelentős morfológiai hatással van, meredek sziklákkal és völgyekkel. A régió festői szépségéről ismert. A vető befolyásolja a folyók folyását és a talajvíz áramlását. A környéken mezőgazdasági termelés folyik. Az Alédjo-törésvonal Togo fontos geológiai jellemzője.",
+      ro: "Falia Alédjo este o falie geologică în centrul Togo. Se întinde pe aproximativ 100 de kilometri în direcția nord-sud. Falia face parte din orogeneza panafricană și este compusă din roci milonitice. Are un impact morfologic semnificativ, cu stânci abrupte și văi. Regiunea este cunoscută pentru frumusețea peisajului. Falia influențează cursul râurilor și circulația apelor subterane. În zonă se practică agricultura. Falia Alédjo este o caracteristică geologică importantă a Togo.",
+      en: "The Alédjo Fault is a geological fault in central Togo. It stretches approximately 100 kilometers in a north-south direction. The fault is part of the Pan-African orogeny and consists of mylonitic rocks. It has significant morphological impact with steep cliffs and valleys. The region is known for its scenic beauty. The fault influences river courses and groundwater circulation. Agriculture is practiced in the area. The Alédjo Fault is an important geological feature of Togo.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 100 km", "Entstehung: Panafrikanische Orogenese (vor 600 Mio. Jahren)", "Gesteinsart: Mylonit", "Höhenunterschied: bis zu 200 m", "Nächstgelegene Stadt: Sokodé (Entfernung 30 km)", "Geologische Bedeutung: Typuslokalität für Mylonit"],
+      hu: ["Hossz: 100 km", "Keletkezés: Pán-afrikai orogenezis (600 millió éve)", "Kőzettípus: milonit", "Magasságkülönbség: akár 200 m", "Legközelebbi város: Sokodé (30 km)", "Geológiai jelentőség: milonit típuslelőhely"],
+      ro: ["Lungime: 100 km", "Formare: Orogeneza panafricană (acum 600 mil. ani)", "Tip de rocă: milonit", "Diferență de altitudine: până la 200 m", "Cel mai apropiat oraș: Sokodé (distanță 30 km)", "Semnificație geologică: localitate tip pentru milonit"],
+      en: ["Length: 100 km", "Formation: Pan-African orogeny (600 million years ago)", "Rock type: mylonite", "Elevation difference: up to 200 m", "Nearest city: Sokodé (distance 30 km)", "Geological significance: type locality for mylonite"],
+    },
+  },
   {
     id: "danyi-plateau-relief-v2",
     type: "relief",

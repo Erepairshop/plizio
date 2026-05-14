@@ -312,7 +312,20 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Mély szurdok.", "Túraútvonalak.", "Vadvilág.", "Családi piknik."],
       ro: ["Chei adânci.", "Poteci de drumeție.", "Faună sălbatică.", "Picnic pentru familii."],
       en: ["Deep gorge.", "Hiking trails.", "Wildlife.", "Family picnic."]
-    }, image: "/poi-images/augurabies-falls-life-v2.webp"},
+    }, image: "/poi-images/augurabies-falls-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Augrabiesfälle in Südafrika sind ein beeindruckender Wasserfall am Oranje-Fluss. Sie stürzen 56 Meter tief in eine Schlucht aus Granit. Der Name stammt von den Khoikhoi und bedeutet „Ort des großen Lärms“. Die Fälle sind Teil des Augrabies-Falls-Nationalparks, der 1966 gegründet wurde. Die Umgebung ist geprägt von der trockenen Halbwüste, aber der Fluss schafft eine Oase. Die beste Besuchszeit ist nach der Regenzeit, wenn die Wassermassen am größten sind. Die Fälle bieten atemberaubende Ausblicke und sind ein beliebtes Ziel für Naturliebhaber.",
+      hu: "Az Augrabies-vízesés Dél-Afrikában, az Oranje-folyón található, magassága 56 méter. A zuhatag egy gránitszurdokba ömlik. Nevét a khoikhoi néptől kapta, jelentése 'nagy zaj helye'. A vízesés az 1966-ban alapított Augrabies Falls Nemzeti Park része. A környék félsivatagos, de a folyó oázist teremt. A legjobb látogatási idő az esős évszak után van, amikor a vízhozam a legnagyobb. A vízesés népszerű turistacélpont, ahonnan panoráma kilátás nyílik.",
+      ro: "Cascada Augrabies din Africa de Sud, pe râul Orange, are o înălțime de 56 de metri și se prăbușește într-un canion de granit. Numele provine de la poporul Khoikhoi, însemnând „locul zgomotului mare”. Cascada face parte din Parcul Național Augrabies Falls, înființat în 1966. Zona este semiaridă, dar râul creează o oază. Cel mai bine de vizitat după sezonul ploios, când debitul este maxim. Este o atracție turistică populară pentru peisaje spectaculoase.",
+      en: "Augrabies Falls in South Africa is a 56-meter waterfall on the Orange River, plunging into a granite gorge. The name means 'place of great noise' in Khoikhoi. It lies within Augrabies Falls National Park, established 1966. Surrounding semi-desert contrasts with the river oasis. Best visited after rains when water flow peaks. The falls offer panoramic views and are a haven for birdwatchers and hikers. The park hosts unique flora like the quiver tree.",
+    },
+    factsAdvanced: {
+      de: ["56 Meter Höhe", "Oranje-Fluss", "Granitschlucht", "Nationalpark seit 1966", "Name bedeutet 'großer Lärm'", "beste Reisezeit nach Regen"],
+      hu: ["56 méter magas", "Oranje-folyó", "gránitszurdok", "1966 óta nemzeti park", "név jelentése 'nagy zaj'", "legjobb időszak esős évszak után"],
+      ro: ["înălțime de 56 de metri", "râul Orange", "canion de granit", "parc național din 1966", "numele înseamnă 'zgomot mare'", "cel mai bine după sezonul ploios"],
+      en: ["56 meters high", "Orange River", "granite gorge", "national park since 1966", "name means 'great noise'", "best after rainy season"],
+    },
+  },
   {
     id: "biltong-farms-agriculture-life-v2",
     type: "agriculture",

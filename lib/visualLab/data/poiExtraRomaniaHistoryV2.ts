@@ -6,7 +6,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "RO",
     name: { de: "Burg Capidava", hu: "Capidava vára", ro: "Cetatea Capidava", en: "Capidava Fortress" },
-    coordinates: { lat: 44.5264, lng: 28.0933 },
+    coords: [28.0933, 44.5264],
     description: {
       de: "Eine antike Festung am linken Ufer der Donau, die während der römischen Zeit zum Schutz der Grenze erbaut wurde. Sie diente als strategischer Verteidigungspunkt gegen die Völkerwanderung.",
       hu: "Egy ősi erődítmény a Duna bal partján, amelyet a római korban építettek a határ védelmére. Stratégiai védelmi pontként szolgált a népvándorlás idején.",
@@ -38,7 +38,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "monument",
     parent: "RO",
     name: { de: "Mausoleum von Mateiaș", hu: "Mateiaș-hősi emlékmű", ro: "Mausoleul Eroilor de la Mateiaș", en: "Mateiaș Heroes Mausoleum" },
-    coordinates: { lat: 45.2447, lng: 25.1764 },
+    coords: [25.1764, 45.2447],
     description: {
       de: "Ein monumentales Bauwerk in der Nähe von Câmpulung, das den rumänischen Soldaten gewidmet ist, die im Ersten Weltkrieg gefallen sind. Es wurde zwischen 1928 und 1935 errichtet.",
       hu: "Monumentális építmény Câmpulung közelében, amelyet az első világháborúban elesett román katonáknak szenteltek. 1928 és 1935 között épült.",
@@ -70,7 +70,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "RO",
     name: { de: "Bistritzer Stadtbefestigung", hu: "Besztercei városfalak", ro: "Zidurile cetății Bistrița", en: "Bistrița Fortress Walls" },
-    coordinates: { lat: 47.1333, lng: 24.5 },
+    coords: [24.5, 47.1333],
     description: {
       de: "Überreste der mittelalterlichen Befestigungsanlage der Stadt Bistrița, die ursprünglich mit 18 Türmen und starken Mauern ausgestattet war. Sie stammen aus dem 15. und 16. Jahrhundert.",
       hu: "Beszterce középkori erődítményének maradványai, amely eredetileg 18 toronnyal és erős falakkal rendelkezett. A 15. és 16. századból származnak.",
@@ -102,7 +102,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "RO",
     name: { de: "Fürstenhof Bacau", hu: "Bákói fejedelmi udvar", ro: "Curtea Domnească Bacău", en: "Bacău Princely Court" },
-    coordinates: { lat: 46.5633, lng: 26.9133 },
+    coords: [26.9133, 46.5633],
     description: {
       de: "Archäologische Stätte, die den ehemaligen Sitz der moldauischen Fürsten in Bacău zeigt. Die Ruinen stammen aus der Regierungszeit von Alexandru cel Bun.",
       hu: "Régészeti lelőhely, amely a moldvai fejedelmek egykori bákói székhelyét mutatja be. A romok Alexandru cel Bun uralkodása idejéből származnak.",
@@ -134,7 +134,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Kirchenburg Mosna", hu: "Muzsnai erődtemplom", ro: "Biserica fortificată Moșna", en: "Moșna Fortified Church" },
-    coordinates: { lat: 46.0717, lng: 24.38 },
+    coords: [24.38, 46.0717],
     description: {
       de: "Eine beeindruckende gotische Kirchenburg in der Nähe von Mediaș, die im 15. Jahrhundert errichtet wurde. Sie ist bekannt für ihre massiven Wehrmauern.",
       hu: "Lenyűgöző gótikus erődtemplom Medgyes közelében, amelyet a 15. században építettek. Masszív védőfalairól híres.",
@@ -166,7 +166,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "castle",
     parent: "RO",
     name: { de: "Schloss Teleki Gornesti", hu: "Gernyeszegi Teleki-kastély", ro: "Castelul Teleki din Gornești", en: "Teleki Castle in Gornești" },
-    coordinates: { lat: 46.6667, lng: 24.6667 },
+    coords: [24.6667, 46.6667],
     description: {
       de: "Ein barockes Schloss im Mureș-Tal, das im 18. Jahrhundert von der Familie Teleki erbaut wurde. Es ist ein bedeutendes Beispiel aristokratischer Architektur.",
       hu: "Barokk kastély a Maros-völgyében, amelyet a 18. században a Teleki család építtetett. Az arisztokrata építészet jelentős példája.",
@@ -198,7 +198,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "castle",
     parent: "RO",
     name: { de: "Festung Deva", hu: "Déva vára", ro: "Cetatea Devei", en: "Deva Fortress" },
-    coordinates: { lat: 45.885, lng: 22.898 },
+    coords: [22.898, 45.885],
     description: {
       de: "Mittelalterliche Festung hoch über der Stadt Deva, die eine wichtige strategische Rolle in Siebenbürgen spielte. Die Ursprünge gehen auf das 13. Jahrhundert zurück.",
       hu: "Középkori erődítmény magasan Déva városa felett, amely fontos stratégiai szerepet játszott Erdélyben. Eredete a 13. századra nyúlik vissza.",
@@ -230,7 +230,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Kloster Dobrovat", hu: "Dobrovăț kolostor", ro: "Mănăstirea Dobrovăț", en: "Dobrovăț Monastery" },
-    coordinates: { lat: 47.0117, lng: 27.7267 },
+    coords: [27.7267, 47.0117],
     description: {
       de: "Ein historisches Kloster in der Nähe von Iași, das Anfang des 16. Jahrhunderts von Ștefan cel Mare gegründet wurde. Es ist das letzte seiner Art in Moldau.",
       hu: "Történelmi kolostor Jászvásár közelében, amelyet a 16. század elején alapított Ștefan cel Mare. Ez az utolsó ilyen jellegű kolostor Moldvában.",
@@ -262,7 +262,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "RO",
     name: { de: "Festung Dâmbovița", hu: "Dâmbovița vára", ro: "Cetatea Dâmbovița", en: "Dâmbovița Fortress" },
-    coordinates: { lat: 44.9281, lng: 25.4578 },
+    coords: [25.4578, 44.9281],
     description: {
       de: "Überreste einer historischen Verteidigungsanlage in der Region Dâmbovița. Sie war Teil des mittelalterlichen Verteidigungssystems der Walachei.",
       hu: "Történelmi védelmi létesítmény maradványai Dâmbovița régióban. A Havasalföld középkori védelmi rendszerének része volt.",
@@ -294,7 +294,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "castle",
     parent: "RO",
     name: { de: "Festung Rosenau", hu: "Barcarozsnyó vára", ro: "Cetatea Râșnov", en: "Râșnov Fortress" },
-    coordinates: { lat: 45.59, lng: 25.4678 },
+    coords: [25.4678, 45.59],
     description: {
       de: "Eine bedeutende bäuerliche Fluchtburg bei Brașov, die im 14. Jahrhundert erbaut wurde. Sie diente den Dorfbewohnern als Zufluchtsort in Kriegszeiten.",
       hu: "Jelentős parasztvár Brassó mellett, amelyet a 14. században építettek. A háborús időkben a falusiak menedékhelyeként szolgált.",
@@ -326,7 +326,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Golescu-Herrenhaus", hu: "Golescu-kúria", ro: "Conacul Golescu", en: "Golescu Manor" },
-    coordinates: { lat: 44.75, lng: 25.1667 },
+    coords: [25.1667, 44.75],
     description: {
       de: "Ein historisches Herrenhaus in der Region Argeș, das einst der einflussreichen Familie Golescu gehörte. Es spielte eine wichtige Rolle im 19. Jahrhundert.",
       hu: "Történelmi kúria Argeș régióban, amely egykor a befolyásos Golescu család tulajdonában volt. Fontos szerepet játszott a 19. században.",
@@ -358,7 +358,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Kloster Horezu", hu: "Horezu kolostor", ro: "Mănăstirea Hurezi", en: "Hurezi Monastery" },
-    coordinates: { lat: 45.1767, lng: 24.0083 },
+    coords: [24.0083, 45.1767],
     description: {
       de: "Ein prachtvolles Kloster aus dem 17. Jahrhundert, ein Meisterwerk des Brâncoveanu-Stils. Es ist UNESCO-Weltkulturerbe und liegt in den Karpaten.",
       hu: "Csodálatos 17. századi kolostor, a Brâncoveanu-stílus remekműve. UNESCO világörökségi helyszín, a Kárpátokban található.",
@@ -390,7 +390,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "castle",
     parent: "RO",
     name: { de: "Kirchenburg Kelling", hu: "Kelneki erődtemplom", ro: "Biserica fortificată Câlnic", en: "Câlnic Fortified Church" },
-    coordinates: { lat: 45.8856, lng: 23.6558 },
+    coords: [23.6558, 45.8856],
     description: {
       de: "Eine beeindruckende UNESCO-geschützte Kirchenburg in Siebenbürgen, die ursprünglich als Adelssitz diente. Sie wurde im 13. Jahrhundert erbaut.",
       hu: "Lenyűgöző UNESCO-védelem alatt álló erődtemplom Erdélyben, amely eredetileg nemesi rezidenciaként szolgált. A 13. században épült.",
@@ -422,7 +422,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Văcărescu-Herrenhaus", hu: "Văcărescu-kúria", ro: "Conacul Văcărescu", en: "Văcărescu Manor" },
-    coordinates: { lat: 44.91, lng: 25.46 },
+    coords: [25.46, 44.91],
     description: {
       de: "Ein historisches Anwesen der einflussreichen Bojarenfamilie Văcărescu, bedeutend für die rumänische Literatur und Kulturgeschichte.",
       hu: "A befolyásos bojár Văcărescu család történelmi birtoka, amely jelentős a román irodalom és kultúrtörténet szempontjából.",
@@ -454,7 +454,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "castle",
     parent: "RO",
     name: { de: "Burg Cetățuia", hu: "Cetățuia vár", ro: "Cetățuia Brașov", en: "Cetățuia Fortress Brașov" },
-    coordinates: { lat: 45.6486, lng: 25.5947 },
+    coords: [25.5947, 45.6486],
     description: {
       de: "Eine Festung aus dem 16. Jahrhundert auf dem Schlossberg in Brașov, die die Stadt überblickt. Sie wurde zur Verteidigung der sächsischen Siedlung errichtet.",
       hu: "16. századi erődítmény a brassói Várhegyen, amelyre kilátás nyílik a városra. A szász település védelmére épült.",
@@ -486,7 +486,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Herrenhaus Bellu", hu: "Bellu-kúria", ro: "Conacul Bellu", en: "Bellu Manor" },
-    coordinates: { lat: 45.02, lng: 26.35 },
+    coords: [26.35, 45.02],
     description: {
       de: "Ein 19. Jahrhundert Herrenhaus in Urlați, berühmt für seine Architektur und Kunstsammlungen. Es zeigt den Lebensstil des rumänischen Adels.",
       hu: "19. századi kúria Urlățiben, amely híres építészetéről és műgyűjteményeiről. A román nemesség életmódját mutatja be.",
@@ -518,7 +518,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Kloster Vorona", hu: "Vorona kolostor", ro: "Mănăstirea Vorona", en: "Vorona Monastery" },
-    coordinates: { lat: 47.6, lng: 26.6833 },
+    coords: [26.6833, 47.6],
     description: {
       de: "Ein historisches Kloster in der Region Botoșani, berühmt für seine friedliche Atmosphäre und die schöne Architektur aus dem 18. Jahrhundert.",
       hu: "Történelmi kolostor Botoșani régióban, híres békés hangulatáról és a 18. századi gyönyörű építészetéről.",
@@ -550,7 +550,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Herrenhaus Malaxa", hu: "Malaxa-kúria", ro: "Conacul Malaxa", en: "Malaxa Manor" },
-    coordinates: { lat: 44.4333, lng: 26.1 },
+    coords: [26.1, 44.4333],
     description: {
       de: "Ein Herrenhaus aus der modernen Geschichte, das eng mit dem Industriellen Nicolae Malaxa verbunden ist. Ein Beispiel für Architektur des frühen 20. Jahrhunderts.",
       hu: "A modern történelemből származó kúria, amely szorosan kapcsolódik Nicolae Malaxa iparmágnáshoz. A korai 20. századi építészet példája.",
@@ -582,7 +582,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "RO",
     name: { de: "Festung Histria", hu: "Hisztria vára", ro: "Cetatea Histria", en: "Histria Fortress" },
-    coordinates: { lat: 44.55, lng: 28.775 },
+    coords: [28.775, 44.55],
     description: {
       de: "Die älteste griechische Siedlung auf dem Gebiet des heutigen Rumäniens, gegründet im 7. Jahrhundert v. Chr. an der Schwarzmeerküste.",
       hu: "A mai Románia területén lévő legrégebbi görög település, amelyet i.e. 7. században alapítottak a Fekete-tenger partján.",
@@ -614,7 +614,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "castle",
     parent: "RO",
     name: { de: "Festung Neamț", hu: "Neamț vára", ro: "Cetatea Neamț", en: "Neamț Fortress" },
-    coordinates: { lat: 47.2, lng: 26.3333 },
+    coords: [26.3333, 47.2],
     description: {
       de: "Eine berühmte moldauische Festung aus dem 14. Jahrhundert, strategisch auf einem Berg in der Nähe von Târgu Neamț gelegen.",
       hu: "Híres 14. századi moldvai erőd, amely stratégiailag egy hegyen fekszik Târgu Neamț közelében.",
@@ -646,7 +646,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Herrenhaus Logofăt", hu: "Logofăt-kúria", ro: "Conacul Logofăt", en: "Logofăt Manor" },
-    coordinates: { lat: 44.8, lng: 25.5 },
+    coords: [25.5, 44.8],
     description: {
       de: "Ein historisches Herrenhaus in der walachischen Region, das die Lebensweise der traditionellen Bojarenklasse im 18. Jahrhundert widerspiegelt.",
       hu: "Történelmi kúria a havasalföldi régióban, amely a hagyományos bojár osztály 18. századi életmódját tükrözi.",
@@ -678,7 +678,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Herrenhaus Archim", hu: "Archim-kúria", ro: "Conacul Archim", en: "Archim Manor" },
-    coordinates: { lat: 44.2, lng: 24.3 },
+    coords: [24.3, 44.2],
     description: {
       de: "Ein Herrenhaus aus dem 19. Jahrhundert, das die ländliche Architektur der Olt-Region widerspiegelt. Früher das Zuhause lokaler Gutsbesitzer.",
       hu: "Egy 19. századi kúria, amely az Olt régió vidéki építészetét tükrözi. Korábban helyi földbirtokosok otthona volt.",
@@ -710,7 +710,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "RO",
     name: { de: "Burg Căpâlna", hu: "Kápolnai vár", ro: "Cetatea Căpâlna", en: "Căpâlna Fortress" },
-    coordinates: { lat: 45.85, lng: 23.6333 },
+    coords: [23.6333, 45.85],
     description: {
       de: "Eine antike dakische Festungsanlage auf einem Hügel in Siebenbürgen, Teil des Verteidigungssystems gegen die Römer.",
       hu: "Ókori dák erődítmény egy dombon Erdélyben, a rómaiak elleni védelmi rendszer része.",
@@ -742,7 +742,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Kloster Văratec", hu: "Văratec kolostor", ro: "Mănăstirea Văratec", en: "Văratec Monastery" },
-    coordinates: { lat: 47.1333, lng: 26.2667 },
+    coords: [26.2667, 47.1333],
     description: {
       de: "Das größte Nonnenkloster in Rumänien, gelegen in der Region Neamț. Es wurde im 18. Jahrhundert gegründet und ist für seine Stickereien bekannt.",
       hu: "Románia legnagyobb apácakolostora, a Neamț régióban. A 18. században alapították, és hímzéseiről ismert.",
@@ -774,7 +774,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "castle",
     parent: "RO",
     name: { de: "Burg Poenari", hu: "Poenari vára", ro: "Cetatea Poenari", en: "Poenari Fortress" },
-    coordinates: { lat: 45.35, lng: 24.6333 },
+    coords: [24.6333, 45.35],
     description: {
       de: "Eine historische Festung, die mit Vlad Țepeș verbunden ist. Sie liegt hoch über dem Argeș-Tal in den Südkarpaten.",
       hu: "Történelmi erődítmény, amely Vlad Țepeșhez kötődik. Magasan az Argeș-völgy felett fekszik a Déli-Kárpátokban.",
@@ -806,7 +806,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Kirche von Baba Ana", hu: "Baba Ana-templom", ro: "Biserica din Baba Ana", en: "Baba Ana Church" },
-    coordinates: { lat: 45.0, lng: 26.3 },
+    coords: [26.3, 45.0],
     description: {
       de: "Eine kleine historische Kirche in der Prahova-Region, die das religiöse Erbe des ländlichen Raums im 19. Jahrhundert widerspiegelt.",
       hu: "Kis történelmi templom Prahova régióban, amely a 19. századi vidéki térség vallási örökségét tükrözi.",
@@ -838,7 +838,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Herrenhaus Golescu-Grant", hu: "Golescu-Grant-kúria", ro: "Conacul Golescu-Grant", en: "Golescu-Grant Manor" },
-    coordinates: { lat: 44.45, lng: 26.05 },
+    coords: [26.05, 44.45],
     description: {
       de: "Ein historisches Anwesen in Bukarest, benannt nach einer einflussreichen Familie. Es ist ein bedeutendes Zeugnis städtischer aristokratischer Kultur.",
       hu: "Történelmi birtok Bukarestben, egy befolyásos családról elnevezve. Jelentős tanúja a városi arisztokrata kultúrának.",
@@ -870,7 +870,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "castle",
     parent: "RO",
     name: { de: "Burg Colțești", hu: "Torockószentgyörgyi vár", ro: "Cetatea Colțești", en: "Colțești Fortress" },
-    coordinates: { lat: 46.45, lng: 23.5667 },
+    coords: [23.5667, 46.45],
     description: {
       de: "Eine beeindruckende Burgruine auf einem hohen Felsen in den Trascău-Bergen. Sie wurde im 13. Jahrhundert von der Familie Thoroczkai erbaut.",
       hu: "Lenyűgöző várrom egy magas sziklán a Torockói-hegységben. A 13. században építette a Thoroczkai család.",
@@ -902,7 +902,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Kloster Bistrița", hu: "Besztercei kolostor", ro: "Mănăstirea Bistrița", en: "Bistrița Monastery" },
-    coordinates: { lat: 46.9, lng: 26.25 },
+    coords: [26.25, 46.9],
     description: {
       de: "Ein bedeutendes Kloster in der Region Neamț, gegründet im 15. Jahrhundert. Es ist ein Zentrum für spirituelles und kulturelles Leben.",
       hu: "Jelentős kolostor a Neamț régióban, a 15. században alapították. A lelki és kulturális élet központja.",
@@ -934,7 +934,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "ruins",
     parent: "RO",
     name: { de: "Festung Turnu", hu: "Turnu vára", ro: "Cetatea Turnu", en: "Turnu Fortress" },
-    coordinates: { lat: 43.7333, lng: 24.8667 },
+    coords: [24.8667, 43.7333],
     description: {
       de: "Überreste einer historischen Festung bei Turnu Măgurele, die einst die Grenze zur Donau sicherte. Sie geht auf das Mittelalter zurück.",
       hu: "Történelmi erőd maradványai Turnu Măgurele közelében, amely egykor a Duna határát biztosította. A középkorra nyúlik vissza.",
@@ -966,7 +966,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "palace",
     parent: "RO",
     name: { de: "Sturza-Herrenhaus", hu: "Sturza-kúria", ro: "Conacul Sturza", en: "Sturza Manor" },
-    coordinates: { lat: 47.15, lng: 27.6 },
+    coords: [27.6, 47.15],
     description: {
       de: "Ein prächtiges Anwesen der einflussreichen Familie Sturza in der moldauischen Region, bedeutend für die Geschichte der Region.",
       hu: "A befolyásos Sturza család fényűző birtoka a moldvai régióban, jelentős a régió történelme szempontjából.",
@@ -998,7 +998,7 @@ export const romaniaHistoryV2: POI[] = [
     type: "church",
     parent: "RO",
     name: { de: "Kloster Golia", hu: "Golia kolostor", ro: "Mănăstirea Golia", en: "Golia Monastery" },
-    coordinates: { lat: 47.1667, lng: 27.5833 },
+    coords: [27.5833, 47.1667],
     description: {
       de: "Ein bedeutendes Kloster in Iași mit einer imposanten Architektur aus dem 17. Jahrhundert. Es ist ein Symbol der religiösen Architektur.",
       hu: "Jelentős kolostor Jászvásáron, 17. századi impozáns építészettel. A vallási építészet szimbóluma.",

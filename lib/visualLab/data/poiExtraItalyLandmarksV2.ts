@@ -6,7 +6,7 @@ export const italyLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "IT",
     name: { de: "Basilika San Francesco", hu: "Assisi Szent Ferenc-bazilika", ro: "Bazilica Sfântul Francisc", en: "Basilica of Saint Francis" },
-    coordinates: { lat: 43.0744, lng: 12.6086 },
+    coords: [12.6086, 43.0744],
     description: {
       de: "Die Basilika ist eine bedeutende religiöse Stätte in Assisi. Sie besteht aus zwei übereinander liegenden Kirchenbauten.",
       hu: "A bazilika Assisi egyik fontos vallási helyszíne. Két egymás felett elhelyezkedő templomépületből áll.",
@@ -38,7 +38,7 @@ export const italyLandmarksV2: POI[] = [
     type: "theater",
     parent: "IT",
     name: { de: "Teatro La Fenice", hu: "La Fenice Operaház", ro: "Teatrul La Fenice", en: "Teatro La Fenice" },
-    coordinates: { lat: 45.4338, lng: 12.3344 },
+    coords: [12.3344, 45.4338],
     description: {
       de: "Das Opernhaus in Venedig wurde 1792 eröffnet. Es wurde nach mehreren Bränden originalgetreu rekonstruiert.",
       hu: "A velencei operaházat 1792-ben nyitották meg. Több tűzvész után hűen rekonstruálták.",
@@ -70,7 +70,7 @@ export const italyLandmarksV2: POI[] = [
     type: "tower",
     parent: "IT",
     name: { de: "Mole Antonelliana", hu: "Mole Antonelliana", ro: "Mole Antonelliana", en: "Mole Antonelliana" },
-    coordinates: { lat: 45.0682, lng: 7.6931 },
+    coords: [7.6931, 45.0682],
     description: {
       de: "Das markante Gebäude in Turin wurde ursprünglich als Synagoge konzipiert. Heute beherbergt es das nationale Filmmuseum.",
       hu: "A torinói jellegzetes épület eredetileg zsinagógának készült. Ma a nemzeti filmmúzeumnak ad otthont.",
@@ -102,7 +102,7 @@ export const italyLandmarksV2: POI[] = [
     type: "ruins",
     parent: "IT",
     name: { de: "Abtei San Galgano", hu: "San Galgano-apátság", ro: "Abația San Galgano", en: "Abbey of San Galgano" },
-    coordinates: { lat: 43.1506, lng: 11.1511 },
+    coords: [11.1511, 43.1506],
     description: {
       de: "Die Zisterzienserabtei in der Toskana ist heute eine dachlose Ruine. Sie ist für ihre gotische Architektur bekannt.",
       hu: "A toszkánai ciszterci apátság ma tető nélküli rom. Gótikus építészetéről ismert.",
@@ -134,7 +134,7 @@ export const italyLandmarksV2: POI[] = [
     type: "palace",
     parent: "IT",
     name: { de: "Palazzo Chiericati", hu: "Palazzo Chiericati", ro: "Palazzo Chiericati", en: "Palazzo Chiericati" },
-    coordinates: { lat: 45.5481, lng: 11.5492 },
+    coords: [11.5492, 45.5481],
     description: {
       de: "Der Palast in Vicenza wurde von Andrea Palladio entworfen. Er beherbergt das städtische Museum.",
       hu: "A vicenzai palotát Andrea Palladio tervezte. A városi múzeumnak ad otthont.",
@@ -166,7 +166,7 @@ export const italyLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "IT",
     name: { de: "Mailänder Dom", hu: "Milánói dóm", ro: "Domul din Milano", en: "Milan Cathedral" },
-    coordinates: { lat: 45.4641, lng: 9.1919 },
+    coords: [9.1919, 45.4641],
     description: {
       de: "Der Mailänder Dom ist eine große gotische Kathedrale. Er ist das größte Kirchengebäude Italiens.",
       hu: "A milánói dóm egy hatalmas gótikus katedrális. Olaszország legnagyobb templomépülete.",
@@ -198,7 +198,7 @@ export const italyLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "IT",
     name: { de: "Tempio Malatestiano", hu: "Tempio Malatestiano", ro: "Tempio Malatestiano", en: "Tempio Malatestiano" },
-    coordinates: { lat: 44.0594, lng: 12.5678 },
+    coords: [12.5678, 44.0594],
     description: {
       de: "Die Kathedrale von Rimini wurde im 15. Jahrhundert umgebaut. Sie ist ein Werk von Leon Battista Alberti.",
       hu: "A rimini katedrálist a 15. században építették át. Leon Battista Alberti alkotása.",
@@ -230,7 +230,7 @@ export const italyLandmarksV2: POI[] = [
     type: "church",
     parent: "IT",
     name: { de: "Basilika San Zeno", hu: "San Zeno-bazilika", ro: "Bazilica San Zeno", en: "Basilica of San Zeno" },
-    coordinates: { lat: 45.4431, lng: 10.9839 },
+    coords: [10.9839, 45.4431],
     description: {
       de: "Diese Kirche in Verona ist ein Meisterwerk der romanischen Architektur. Sie ist dem heiligen Zeno gewidmet.",
       hu: "Ez a veronai templom a román kori építészet remekműve. Szent Zenónak van szentelve.",
@@ -262,7 +262,7 @@ export const italyLandmarksV2: POI[] = [
     type: "church",
     parent: "IT",
     name: { de: "Basilika San Giorgio Maggiore", hu: "San Giorgio Maggiore-bazilika", ro: "Bazilica San Giorgio Maggiore", en: "Basilica of San Giorgio Maggiore" },
-    coordinates: { lat: 45.4294, lng: 12.3431 },
+    coords: [12.3431, 45.4294],
     description: {
       de: "Die Kirche in Venedig befindet sich auf einer eigenen Insel. Sie wurde von Andrea Palladio entworfen.",
       hu: "A velencei templom egy saját szigeten található. Andrea Palladio tervezte.",
@@ -294,7 +294,7 @@ export const italyLandmarksV2: POI[] = [
     type: "church",
     parent: "IT",
     name: { de: "Abtei Fossanova", hu: "Fossanova-apátság", ro: "Abația Fossanova", en: "Abbey of Fossanova" },
-    coordinates: { lat: 41.4289, lng: 13.1894 },
+    coords: [13.1894, 41.4289],
     description: {
       de: "Die Zisterzienserabtei bei Rom ist ein bedeutendes Beispiel der frühen Gotik in Italien.",
       hu: "A Róma melletti ciszterci apátság a korai gótika jelentős példája Olaszországban.",

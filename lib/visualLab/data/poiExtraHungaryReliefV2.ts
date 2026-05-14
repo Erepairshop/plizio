@@ -6,7 +6,7 @@ export const hungaryReliefV2: POI[] = [
     type: "valley",
     parent: "HU",
     name: { de: "Dreiecksbecken", hu: "Háromszéki-medence", ro: "Depresiunea Trei Scaune", en: "Three Chairs Basin" },
-    coordinates: { lat: 45.85, lng: 26.15 },
+    coords: [26.15, 45.85],
     description: {
       de: "Das Háromszéki-medence ist ein tektonisches Becken im Osten Ungarns und Rumäniens. Es wird von den Ostkarpaten umgeben und weist ein charakteristisches Hochlandklima auf.",
       hu: "A Háromszéki-medence egy tektonikus medence Kelet-Magyarország és Románia területén. A Keleti-Kárpátok öleli körbe, jellemzően magashegyi éghajlattal.",
@@ -38,7 +38,7 @@ export const hungaryReliefV2: POI[] = [
     type: "mountain",
     parent: "HU",
     name: { de: "Cserehát-Hügelland", hu: "Csereháti-dombság", ro: "Dealurile Cserehát", en: "Cserehát Hills" },
-    coordinates: { lat: 48.42, lng: 20.95 },
+    coords: [20.95, 48.42],
     description: {
       de: "Das Csereháti-Hügelland ist ein geografisches Gebiet zwischen den Flüssen Hernád und Bodva. Die Region zeichnet sich durch sanfte Hügel und eine geringe Bevölkerungsdichte aus.",
       hu: "A Csereháti-dombság a Hernád és a Bodva folyók közötti földrajzi kistáj. A területet alacsony dombok és alacsony népsűrűség jellemzi.",
@@ -70,7 +70,7 @@ export const hungaryReliefV2: POI[] = [
     type: "peak",
     parent: "HU",
     name: { de: "Száraz-Hügel", hu: "Száraz-domb", ro: "Dealul Száraz", en: "Száraz Hill" },
-    coordinates: { lat: 47.38, lng: 18.62 },
+    coords: [18.62, 47.38],
     description: {
       de: "Der Száraz-domb ist eine markante Erhebung im Vértes-Gebirge. Die Region dient als wichtiges Wanderziel und ist geologisch durch Sedimentgesteine geprägt.",
       hu: "A Száraz-domb egy jellegzetes magaslat a Vértesben. A régió fontos túracélpont, geológiailag üledékes kőzetek alkotják.",

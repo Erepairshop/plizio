@@ -473,7 +473,20 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Feldolgozóipari központ", "Fontos gazdasági motor"],
       ro: ["Centrul industriei prelucrătoare", "Motor economic important"],
       en: ["Center of manufacturing", "Important economic engine"]
-    }, image: "/poi-images/taiz-industrial-zone-economic-v2.webp"},
+    }, image: "/poi-images/taiz-industrial-zone-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Taiz-Industriezone im Jemen ist ein wichtiges Wirtschaftszentrum. Sie liegt in der Stadt Taiz, die etwa 600.000 Einwohner zählt. Die Zone konzentriert sich auf Textil- und Lebensmittelverarbeitung sowie Baustoffe. Aufgrund des Bürgerkriegs seit 2014 ist die Produktion stark eingeschränkt. Viele Fabriken stehen still oder arbeiten mit reduzierter Kapazität. Die Infrastruktur ist beschädigt, Stromausfälle sind häufig. Die Zone beschäftigte vor dem Krieg über 50.000 Arbeiter. Heute sind es weniger als 10.000. Die Wirtschaft leidet unter Blockaden und Importstopps.",
+      hu: "A taizi ipari zóna Jemenben fontos gazdasági központ. Taiz városában található, amely kb. 600 000 lakosú. A zóna textil-, élelmiszer-feldolgozásra és építőanyagokra specializálódott. A 2014 óta tartó polgárháború miatt a termelés erősen korlátozott. Sok gyár leállt vagy csökkentett kapacitással működik. Az infrastruktúra sérült, gyakoriak az áramkimaradások. A zóna a háború előtt több mint 50 000 munkást foglalkoztatott. Ma kevesebb mint 10 000. A gazdaságot blokádok és importkorlátozások sújtják.",
+      ro: "Zona industrială Taiz din Yemen este un important centru economic. Este situată în orașul Taiz, cu aproximativ 600.000 de locuitori. Zona se concentrează pe prelucrarea textilă și alimentară, precum și pe materiale de construcții. Din cauza războiului civil început în 2014, producția este puternic restricționată. Multe fabrici sunt închise sau funcționează la capacitate redusă. Infrastructura este avariată, iar penele de curent sunt frecvente. Zona angaja peste 50.000 de muncitori înainte de război. Acum sunt mai puțin de 10.000. Economia suferă din cauza blocadelor și a embargourilor.",
+      en: "The Taiz Industrial Zone in Yemen is a key economic hub. Located in the city of Taiz (population about 600,000), the zone specializes in textile and food processing, as well as construction materials. Due to the civil war that started in 2014, production has been severely curtailed. Many factories are idle or operate at low capacity. Infrastructure has been damaged, and power outages are frequent. The zone employed over 50,000 workers before the war; now fewer than 10,000 remain. The economy suffers from blockades and import restrictions.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung von Taiz: etwa 600.000.", "Anzahl der Fabriken vor dem Krieg: über 200.", "Arbeiter vor dem Krieg: über 50.000.", "Arbeiter heute: weniger als 10.000.", "Jährlicher Produktionsrückgang seit 2014: 70%.", "Stromausfälle pro Tag: bis zu 16 Stunden."],
+      hu: ["Taiz lakossága: kb. 600 000.", "Gyárak száma a háború előtt: több mint 200.", "Munkások száma a háború előtt: több mint 50 000.", "Munkások száma ma: kevesebb mint 10 000.", "Éves termeléscsökkenés 2014 óta: 70%.", "Napi áramkimaradások: akár 16 óra."],
+      ro: ["Populația orașului Taiz: aproximativ 600.000.", "Număr de fabrici înainte de război: peste 200.", "Muncitori înainte de război: peste 50.000.", "Muncitori acum: mai puțin de 10.000.", "Scăderea anuală a producției din 2014: 70%.", "Pene de curent pe zi: până la 16 ore."],
+      en: ["Population of Taiz: about 600,000.", "Number of factories before war: over 200.", "Workers before war: over 50,000.", "Workers today: fewer than 10,000.", "Annual production decline since 2014: 70%.", "Power outages per day: up to 16 hours."],
+    },
+  },
   {
     id: "hiswa-power-station-economic-v2",
     type: "energy",
@@ -492,7 +505,20 @@ export const poiExtraYemenEconomicV2: POI[] = [
           "Operates on conventional thermal power generation technology.",
           "Essential for sustaining local urban and commercial power demands."
         ]
-    }, image: "/poi-images/hiswa-power-station-economic-v2.webp"},
+    }, image: "/poi-images/hiswa-power-station-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hiswa-Kraftwerk ist ein wichtiges Wärmekraftwerk im Jemen, nahe der Stadt Aden. Es wurde in den 1980er Jahren erbaut und hat eine installierte Leistung von etwa 400 MW. Es verbrennt Schweröl und Diesel. Aufgrund des Bürgerkriegs ist die Anlage oft außer Betrieb oder arbeitet mit reduzierter Kapazität. Die Stromversorgung in Aden ist instabil, und die Einwohner leiden unter täglichen Stromausfällen. Das Kraftwerk ist für die Wirtschaft der Region von großer Bedeutung, da es Industrie und Haushalte versorgt. Die Wartung ist schwierig wegen Ersatzteilknappheit.",
+      hu: "A Hiswa erőmű egy fontos hőerőmű Jemenben, Áden városa közelében. Az 1980-as években épült, beépített teljesítménye kb. 400 MW. Nehézolajat és dízelt éget. A polgárháború miatt az üzem gyakran leáll vagy csökkentett kapacitással működik. Áden áramellátása instabil, a lakosok napi áramkimaradásokkal küzdenek. Az erőmű kulcsfontosságú a régió gazdasága számára, mert ipart és háztartásokat lát el. A karbantartás nehéz az alkatrészhiány miatt.",
+      ro: "Centrala electrică Hiswa este o importantă termocentrală în Yemen, lângă orașul Aden. A fost construită în anii 1980, având o capacitate instalată de aproximativ 400 MW. Funcționează pe bază de păcură și motorină. Din cauza războiului civil, centrala este adesea oprită sau funcționează la capacitate redusă. Alimentarea cu energie electrică în Aden este instabilă, iar locuitorii suferă de pene zilnice. Centrala este vitală pentru economia regiunii, alimentând industria și gospodăriile. Întreținerea este dificilă din cauza lipsei de piese de schimb.",
+      en: "The Hiswa Power Station is a key thermal power plant in Yemen, near Aden. Built in the 1980s, it has an installed capacity of about 400 MW, burning heavy oil and diesel. Due to the civil war, the plant often shuts down or runs at reduced capacity. Electricity supply in Aden is unstable, with residents facing daily blackouts. The plant is critical for the region's economy, powering industries and homes. Maintenance is challenging due to a shortage of spare parts.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 400 MW.", "Baujahr: 1985.", "Brennstoff: Schweröl und Diesel.", "Stromausfälle in Aden: durchschnittlich 10 Stunden pro Tag.", "Anzahl der Beschäftigten: ca. 200.", "Jährliche Stromproduktion (2019): 1.200 GWh."],
+      hu: ["Beépített teljesítmény: 400 MW.", "Építés éve: 1985.", "Tüzelőanyag: nehézolaj és dízel.", "Áramkimaradások Ádenben: átlagosan napi 10 óra.", "Alkalmazottak száma: kb. 200.", "Éves áramtermelés (2019): 1200 GWh."],
+      ro: ["Capacitate instalată: 400 MW.", "Anul construcției: 1985.", "Combustibil: păcură și motorină.", "Pene de curent în Aden: în medie 10 ore pe zi.", "Număr de angajați: aproximativ 200.", "Producția anuală de electricitate (2019): 1.200 GWh."],
+      en: ["Installed capacity: 400 MW.", "Year built: 1985.", "Fuel: heavy oil and diesel.", "Blackouts in Aden: average 10 hours per day.", "Number of employees: about 200.", "Annual electricity generation (2019): 1,200 GWh."],
+    },
+  },
   {
     id: "marib-gas-power-plant-economic-v2",
     type: "energy",
@@ -506,6 +532,18 @@ export const poiExtraYemenEconomicV2: POI[] = [
       hu: ["Az ország legnagyobb erőműve", "Helyi földgázt használ"],
       ro: ["Cea mai mare centrală din țară", "Folosește gaz natural local"],
       en: ["Largest power plant in the country", "Uses local natural gas"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Marib-Gaskraftwerk im Jemen ist eines der größten Kraftwerke des Landes. Es liegt in der Provinz Marib und nutzt die reichen Erdgasvorkommen der Region. Die installierte Leistung beträgt 340 MW. Das Kraftwerk wurde 2009 in Betrieb genommen. Es versorgt weite Teile des Nordjemens mit Strom. Während des Bürgerkriegs wurde die Anlage mehrfach beschädigt, blieb aber weitgehend funktionsfähig. Die Gasversorgung ist jedoch unregelmäßig. Das Kraftwerk ist entscheidend für die wirtschaftliche Stabilität, da es Industrie und Haushalte mit Energie versorgt. Die Instandhaltung wird durch Sicherheitsprobleme erschwert.",
+      hu: "A maribi gázerőmű Jemen egyik legnagyobb erőműve. Marib tartományban található, és a térség gazdag földgázkészleteit hasznosítja. Beépített teljesítménye 340 MW. Az erőművet 2009-ben helyezték üzembe. Észak-Jemen nagy részét látja el árammal. A polgárháború során többször megsérült, de nagyrészt működőképes maradt. A gázellátás azonban ingadozó. Az erőmű kulcsfontosságú a gazdasági stabilitás szempontjából, mivel ipart és háztartásokat lát el energiával. A karbantartást biztonsági problémák nehezítik.",
+      ro: "Centrala electrică pe gaz din Marib, Yemen, este una dintre cele mai mari centrale din țară. Situată în provincia Marib, utilizează rezervele bogate de gaze naturale ale regiunii. Capacitatea instalată este de 340 MW. Centrala a fost pusă în funcțiune în 2009. Alimentează cu electricitate mare parte din nordul Yemenului. În timpul războiului civil, centrala a fost avariată de mai multe ori, dar a rămas în mare parte funcțională. Aprovizionarea cu gaz este însă neregulată. Centrala este crucială pentru stabilitatea economică, asigurând energie industriei și gospodăriilor. Întreținerea este dificilă din cauza problemelor de securitate.",
+      en: "The Marib Gas Power Plant in Yemen is one of the country's largest power stations. Located in Marib province, it utilizes the region's abundant natural gas reserves. With an installed capacity of 340 MW, the plant was commissioned in 2009. It supplies electricity to much of northern Yemen. During the civil war, the plant suffered several damages but remained largely operational. However, gas supply is erratic. The plant is vital for economic stability, powering industries and homes. Maintenance is hindered by security issues.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 340 MW.", "Inbetriebnahme: 2009.", "Brennstoff: Erdgas.", "Jährliche Gasförderung in Marib: 7 Milliarden m³.", "Versorgungsgebiet: Nordjemen (ca. 5 Millionen Menschen).", "Anzahl der Turbinen: 2."],
+      hu: ["Beépített teljesítmény: 340 MW.", "Üzembe helyezés: 2009.", "Tüzelőanyag: földgáz.", "Éves gáztermelés Maribban: 7 milliárd m³.", "Ellátási terület: Észak-Jemen (kb. 5 millió ember).", "Turbinák száma: 2."],
+      ro: ["Capacitate instalată: 340 MW.", "Punere în funcțiune: 2009.", "Combustibil: gaze naturale.", "Producția anuală de gaze în Marib: 7 miliarde m³.", "Zona deservită: nordul Yemenului (aproximativ 5 milioane de persoane).", "Număr de turbine: 2."],
+      en: ["Installed capacity: 340 MW.", "Commissioned: 2009.", "Fuel: natural gas.", "Annual gas production in Marib: 7 billion m³.", "Service area: northern Yemen (about 5 million people).", "Number of turbines: 2."],
+    },
   }
 ];

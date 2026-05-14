@@ -8,7 +8,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Orheiul Vechi", hu: "Orheiul Vechi", ro: "Orheiul Vechi", en: "Old Orhei"},
     image: "/poi-images/moldova-orheiul-vechi-history-v2.webp",
     coords: [28.973, 47.303],
-    coordinates: { lat: 47.303, lng: 28.973 },
+    coords: [28.973, 47.303],
     description: {
       de: "Ein weitläufiger archäologischer Komplex in einem Flusstal, der Spuren verschiedener Zivilisationen von der Antike bis zum Mittelalter bewahrt.",
       hu: "Egy folyóvölgyben elterülő régészeti komplexum, amely az ókortól a középkorig számos civilizáció nyomait őrzi.",
@@ -43,7 +43,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Festung Soroca", hu: "Sorocai erőd", ro: "Cetatea Soroca", en: "Soroca Fortress"},
     image: "/poi-images/moldova-soroca-fortress-history-v2.webp",
     coords: [28.305, 48.161],
-    coordinates: { lat: 48.161, lng: 28.305 },
+    coords: [28.305, 48.161],
     description: {
       de: "Eine perfekt kreisförmige mittelalterliche Festung am Ufer des Dnister, die im 15. Jahrhundert zur Verteidigung gegen Invasionen erbaut wurde.",
       hu: "Egy tökéletesen kör alakú középképkori erőd a Dnyeszter partján, amelyet a 15. században építettek védekezésül.",
@@ -78,7 +78,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Festung Bender", hu: "Benderi erőd", ro: "Cetatea Bender", en: "Bender Fortress"},
     image: "/poi-images/moldova-bender-fortress-history-v2.webp",
     coords: [29.489, 46.837],
-    coordinates: { lat: 46.837, lng: 29.489 },
+    coords: [29.489, 46.837],
     description: {
       de: "Eine beeindruckende osmanische Festung aus dem 16. Jahrhundert, die an der Stelle einer älteren moldauischen Burg in Tighina errichtet wurde.",
       hu: "Egy lenyűgöző 16. századi oszmán erőd, amely egy korábbi moldovai vár helyén épült Tighinában.",
@@ -113,7 +113,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Manuc Bei Herrenhaus", hu: "Manuc Bei kúria", ro: "Conacul Manuc Bei", en: "Manuc Bei Mansion"},
     image: "/poi-images/moldova-manuc-bei-mansion-history-v2.webp",
     coords: [28.592, 46.827],
-    coordinates: { lat: 46.827, lng: 28.592 },
+    coords: [28.592, 46.827],
     description: {
       de: "Ein prachtvolles Schlossensemble in Hîncești, das im 19. Jahrhundert für den einflussreichen Diplomaten Manuc Bei errichtet wurde.",
       hu: "Egy pompás kastélyegyüttes Hînceștiben, amelyet a 19. században építettek a befolyásos diplomata, Manuc Bei számára.",
@@ -148,7 +148,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Kloster Saharna", hu: "Saharna kolostor", ro: "Mănăstirea Saharna", en: "Saharna Monastery"},
     image: "/poi-images/moldova-saharna-monastery-history-v2.webp",
     coords: [28.966, 47.7],
-    coordinates: { lat: 47.7, lng: 28.966 },
+    coords: [28.966, 47.7],
     description: {
       de: "Eines der ältesten monastischen Zentren Moldaus, bekannt für seine Felsenkapellen und eine malerische Schlucht mit Wasserfällen.",
       hu: "Moldova egyik legrégebbi szerzetesi központja, amely sziklakápolnáiról és egy vízesésekkel teli festői szurdokról ismert.",
@@ -183,7 +183,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Kloster Rudi", hu: "Rudi kolostor", ro: "Mănăstirea Rudi", en: "Rudi Monastery"},
     image: "/poi-images/moldova-rudi-monastery-history-v2.webp",
     coords: [27.844, 48.318],
-    coordinates: { lat: 48.318, lng: 27.844 },
+    coords: [27.844, 48.318],
     description: {
       de: "Ein historisches Frauenkloster im Norden Moldaus, dessen Dreifaltigkeitskirche ein klassisches Beispiel mittelalterlicher Architektur ist.",
       hu: "Egy történelmi női kolostor Észak-Moldovában, melynek Szentháromság-temploma a középkori építészet klasszikus példája.",
@@ -218,7 +218,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Pommer Herrenhaus", hu: "Pommer-kastély", ro: "Conacul Pommer", en: "Pommer Manor"},
     image: "/poi-images/moldova-pommer-manor-history-v2.webp",
     coords: [27.671, 48.225],
-    coordinates: { lat: 48.225, lng: 27.671 },
+    coords: [27.671, 48.225],
     description: {
       de: "Ein prächtiges Herrenhaus zu Beginn des 20. Jahrhunderts in Taul, umgeben vom größten dendrologischen Park des Landes.",
       hu: "Egy pompás, 20. század eleji udvarház Taulban, amelyet az ország legnagyobb dendrológiai parkja vesz körül.",
@@ -253,7 +253,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Zamfir Ralli Herrenhaus", hu: "Zamfir Ralli udvarház", ro: "Conacul lui Zamfir Ralli", en: "Zamfir Ralli Mansion"},
     image: "/poi-images/moldova-zamfir-ralli-mansion-history-v2.webp",
     coords: [28.275, 47.126],
-    coordinates: { lat: 47.126, lng: 28.275 },
+    coords: [28.275, 47.126],
     description: {
       de: "Ein historisches Anwesen in Dolna, bekannt als Sommerresidenz, in der der russische Dichter Alexander Puschkin 1821 zu Gast war.",
       hu: "Egy történelmi birtok Dolnában, amely arról nevezetes, hogy Alexander Puskin orosz költő 1821-ben itt vendégeskedett.",
@@ -288,7 +288,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Triumphbogen von Chisinau", hu: "Kisinyovi diadalív", ro: "Arcul de Triumf din Chișinău", en: "Chisinau Triumphal Arch"},
     image: "/poi-images/moldova-chisinau-triumphal-arch-history-v2.webp",
     coords: [28.831, 47.024],
-    coordinates: { lat: 47.024, lng: 28.831 },
+    coords: [28.831, 47.024],
     description: {
       de: "Ein klassisches Monument im Zentrum der Hauptstadt, errichtet zur Erinnerung an den russischen Sieg im Russisch-Türkischen Krieg.",
       hu: "Kisinyov központjában álló klasszikus emlékmű, amelyet az orosz-török háborúban aratott orosz győzelem emlékére emeltek.",
@@ -323,7 +323,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Denkmal für Stephan den Großen", hu: "Nagy István emlékmű", ro: "Monumentul lui Ștefan cel Mare", en: "Stephen the Great Monument"},
     image: "/poi-images/moldova-stephen-the-great-monument-history-v2.webp",
     coords: [28.83, 47.025],
-    coordinates: { lat: 47.025, lng: 28.83 },
+    coords: [28.83, 47.025],
     description: {
       de: "Das ikonische Standbild des berühmtesten moldauischen Herrschers am Eingang zum Zentralpark von Chisinau.",
       hu: "A leghíresebb moldovai uralkodó ikonikus szobra Kisinyov központi parkjának bejáratánál.",
@@ -358,7 +358,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Gedenkstätte Ewigkeit", hu: "Örökkévalóság emlékmű", ro: "Complexul Memorial Eternitate", en: "Eternity Memorial Complex"},
     image: "/poi-images/moldova-eternity-memorial-complex-history-v2.webp",
     coords: [28.833, 47.009],
-    coordinates: { lat: 47.009, lng: 28.833 },
+    coords: [28.833, 47.009],
     description: {
       de: "Ein monumentaler Komplex in Chisinau, der den gefallenen Soldaten des Zweiten Weltkriegs und des Transnistrien-Konflikts gewidmet ist.",
       hu: "Hatalmas emlékmű Kisinyovban, amelyet a második világháború és a transznisztriai konfliktus elesett katonáinak szenteltek.",
@@ -393,7 +393,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Struve-Bogen Punkt Rudi", hu: "Struve földmérő ív Rudi", ro: "Punctul Rudi al Arcului Struve", en: "Struve Geodetic Arc Rudi Point"},
     image: "/poi-images/moldova-struve-arc-rudi-history-v2.webp",
     coords: [27.877, 48.32],
-    coordinates: { lat: 48.32, lng: 27.877 },
+    coords: [27.877, 48.32],
     description: {
       de: "Der einzige Punkt des Struve-Bogens in Moldau, der zum UNESCO-Welterbe gehört und zur genauen Vermessung der Erde diente.",
       hu: "Az egyetlen moldovai pontja a Struve földmérő ívnek, amely az UNESCO világörökség része, és a Föld pontos mérésére szolgált.",
@@ -428,7 +428,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Kloster Condrița", hu: "Condrița kolostor", ro: "Mănăstirea Condrița", en: "Condrița Monastery"},
     image: "/poi-images/moldova-condrita-monastery-history-v2.webp",
     coords: [28.568, 47.058],
-    coordinates: { lat: 47.058, lng: 28.568 },
+    coords: [28.568, 47.058],
     description: {
       de: "Ein malerisches Kloster im Herzen der Codru-Wälder, das im 18. Jahrhundert gegründet wurde und für seine Ruhe bekannt ist.",
       hu: "Festői kolostor a Codru-erdők szívében, amelyet a 18. században alapítottak és nyugalmáról ismert.",
@@ -462,7 +462,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Kloster Hîrbovăț", hu: "Hîrbovăț kolostor", ro: "Mănăstirea Hîrbovăț", en: "Hîrbovăț Monastery"},
     image: "/poi-images/moldova-hirbovat-monastery-history-v2.webp",
     coords: [28.217, 47.331],
-    coordinates: { lat: 47.331, lng: 28.217 },
+    coords: [28.217, 47.331],
     description: {
       de: "Ein bedeutendes Kloster in der Nähe von Călărași, das die wundertätige Ikone der Muttergottes von Hîrbovăț beherbergt.",
       hu: "Jelentős kolostor Călărași közelében, ahol a Hîrbovăț-i Szűzanya csodatevő ikonját őrzik.",
@@ -496,7 +496,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Kloster Hîrjauca", hu: "Hîrjauca kolostor", ro: "Mănăstirea Hîrjauca", en: "Hîrjauca Monastery"},
     image: "/poi-images/moldova-hirjauca-monastery-history-v2.webp",
     coords: [28.226, 47.323],
-    coordinates: { lat: 47.323, lng: 28.226 },
+    coords: [28.226, 47.323],
     description: {
       de: "Ein historisches Kloster in einer malerischen Umgebung, bekannt für sein Kurzentrum und heilkräftiges Mineralwasser.",
       hu: "Festői környezetben fekvő történelmi kolostor, amely gyógyközpontjáról és gyógyhatású ásványvizéről ismert.",
@@ -531,7 +531,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Kloster Răciula", hu: "Răciula kolostor", ro: "Mănăstirea Răciula", en: "Răciula Monastery"},
     image: "/poi-images/moldova-raciula-monastery-history-v2.webp",
     coords: [28.257, 47.311],
-    coordinates: { lat: 47.311, lng: 28.257 },
+    coords: [28.257, 47.311],
     description: {
       de: "Ein Frauenkloster im Zentrum Moldaus, das für seine Stickereien und die traditionelle ländliche Atmosphäre bekannt ist.",
       hu: "Közép-moldovai női kolostor, amely hímzéseiről és hagyományos falusi hangulatáról ismert.",
@@ -565,7 +565,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Kloster Frumoasa", hu: "Frumoasa kolostor", ro: "Mănăstirea Frumoasa", en: "Frumoasa Monastery"},
     image: "/poi-images/moldova-frumoasa-monastery-history-v2.webp",
     coords: [28.341, 47.254],
-    coordinates: { lat: 47.254, lng: 28.341 },
+    coords: [28.341, 47.254],
     description: {
       de: "Ein architektonisch bedeutendes Kloster im Codru-Wald, dessen Name 'Die Schöne' seine ästhetische Erscheinung widerspiegelt.",
       hu: "Építészetileg jelentős kolostor a Codru-erdőben, melynek neve ('A Szép') esztétikai megjelenésére utal.",
@@ -599,7 +599,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Kloster Tabăra", hu: "Tabăra kolostor", ro: "Mănăstirea Tabăra", en: "Tabăra Monastery"},
     image: "/poi-images/moldova-tabara-monastery-history-v2.webp",
     coords: [28.528, 47.369],
-    coordinates: { lat: 47.369, lng: 28.528 },
+    coords: [28.528, 47.369],
     description: {
       de: "Ein historisches Kloster in Orhei, gegründet im 18. Jahrhundert, bekannt für seine spirituelle Bedeutung und ländliche Lage.",
       hu: "Orhei környéki történelmi kolostor, amelyet a 18. században alapítottak, spirituális jelentőségéről és falusi elhelyezkedéséről ismert.",
@@ -634,7 +634,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Kloster Cuizăuca", hu: "Cuizăuca kolostor", ro: "Mănăstirea Cuizăuca", en: "Cuizăuca Monastery"},
     image: "/poi-images/moldova-cuizauca-monastery-history-v2.webp",
     coords: [28.799, 47.611],
-    coordinates: { lat: 47.611, lng: 28.799 },
+    coords: [28.799, 47.611],
     description: {
       de: "Ein abgelegenes Kloster in der Nähe von Rezina, gegründet von Mönchen aus dem Kloster Neamț im 18. Jahrhundert.",
       hu: "Rezina közelében fekvő távoli kolostor, amelyet a 18. században alapítottak a Neamț kolostorból érkező szerzetesek.",
@@ -669,7 +669,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Geto-dakische Festung Stolniceni", hu: "Stolniceni dák erőd", ro: "Cetatea geto-dacică de la Stolniceni", en: "Stolniceni Geto-Dacian Fortress"},
     image: "/poi-images/moldova-stolniceni-ancient-fortress-history-v2.webp",
     coords: [27.359, 48.221],
-    coordinates: { lat: 48.221, lng: 27.359 },
+    coords: [27.359, 48.221],
     description: {
       de: "Die Überreste einer antiken geto-dakischen Befestigung, die wichtige Einblicke in die vorrömische Geschichte der Region bietet.",
       hu: "Egy ősi geto-dák erődítmény maradványai, amely fontos betekintést nyújt a régió római kor előtti történelmébe.",
@@ -704,7 +704,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Archäologische Stätte Hansca", hu: "Hansca régészeti település", ro: "Așezarea arheologică Hansca", en: "Hansca Archaeological Site"},
     image: "/poi-images/moldova-hansca-archaeological-site-history-v2.webp",
     coords: [28.753, 46.833],
-    coordinates: { lat: 46.833, lng: 28.753 },
+    coords: [28.753, 46.833],
     description: {
       de: "Eine bedeutende mehrschichtige archäologische Stätte, die Siedlungen von der Eisenzeit bis zum Mittelalter umfasst.",
       hu: "Jelentős többrétegű régészeti lelőhely, amely a vaskortól a középkorig terjedő településeket foglal magában.",
@@ -739,7 +739,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Historisches Dorf Butuceni", hu: "Butuceni történelmi falu", ro: "Satul istoric Butuceni", en: "Butuceni Historical Village"},
     image: "/poi-images/moldova-butuceni-village-history-v2.webp",
     coords: [28.966, 47.302],
-    coordinates: { lat: 47.302, lng: 28.966 },
+    coords: [28.966, 47.302],
     description: {
       de: "Ein malerisches Dorf innerhalb des Orheiul-Vechi-Komplexes, das traditionelle moldauische Architektur des 19. Jahrhunderts bewahrt.",
       hu: "Az Orheiul Vechi komplexum részét képező festői falu, amely megőrzi a 19. századi hagyományos moldovai építészetet.",
@@ -773,7 +773,7 @@ export const moldovaHistoryV2: POI[] = [
     name: { de: "Wasserturm von Chisinau", hu: "Kisinyovi víztorony", ro: "Turnul de apă din Chișinău", en: "Chisinau Water Tower"},
     image: "/poi-images/moldova-chisinau-water-tower-history-v2.webp",
     coords: [28.823, 47.019],
-    coordinates: { lat: 47.019, lng: 28.823 },
+    coords: [28.823, 47.019],
     description: {
       de: "Ein bedeutendes Industriedenkmal aus dem späten 19. Jahrhundert, das heute das Stadtmuseum von Chisinau beherbergt.",
       hu: "Jelentős 19. század végi ipari műemlék, amely ma Kisinyov városi múzeumának ad otthont.",
@@ -806,7 +806,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "ruins",
     parent: "MD",
     name: { de: "Alte Festung Tighina", hu: "Régi Tighina-erőd", ro: "Cetatea Veche Tighina", en: "Old Tighina Fortress" },
-    coordinates: { lat: 46.8285, lng: 29.4752 },
+    coords: [29.4752, 46.8285],
     description: {
       de: "Überreste der ursprünglichen Befestigungsanlagen aus dem 15. Jahrhundert am Fluss Dnjestr. Diese Stätte diente als Verteidigungspunkt gegen einfallende Truppen.",
       hu: "A 15. századi erődítmény maradványai a Dnyeszter folyó partján. A terület védelmi pontként szolgált a betörő csapatok ellen.",
@@ -838,7 +838,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "church",
     parent: "MD",
     name: { de: "Kloster Călăraș", hu: "Călărași kolostor", ro: "Mănăstirea Călărași", en: "Călărași Monastery" },
-    coordinates: { lat: 47.2536, lng: 28.3075 },
+    coords: [28.3075, 47.2536],
     description: {
       de: "Historisches Klostergebäude aus dem 18. Jahrhundert in der Nähe von Călărași. Es ist bekannt für seine gut erhaltene orthodoxe Architektur.",
       hu: "18. századi történelmi kolostorépület Călărași közelében. Jól megőrzött ortodox építészetéről ismert.",
@@ -870,7 +870,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "ruins",
     parent: "MD",
     name: { de: "Archäologische Stätte Tiras", hu: "Tiras régészeti lelőhely", ro: "Sit arheologic Tiras", en: "Tiras Archaeological Site" },
-    coordinates: { lat: 46.8523, lng: 29.5631 },
+    coords: [29.5631, 46.8523],
     description: {
       de: "Überreste einer antiken Siedlung am Dnjestr, die in der Spätantike bewohnt war. Die Ausgrabungen zeigen Schichten verschiedener kultureller Perioden.",
       hu: "Egy Dnyeszter menti ókori település maradványai, amelyet a késő ókorban laktak. Az ásatások különböző kulturális rétegeket mutatnak.",
@@ -902,7 +902,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "ruins",
     parent: "MD",
     name: { de: "Ruinen von Solonceni", hu: "Solonceni romjai", ro: "Ruinele de la Solonceni", en: "Solonceni Ruins" },
-    coordinates: { lat: 47.7842, lng: 28.9154 },
+    coords: [28.9154, 47.7842],
     description: {
       de: "Historische Siedlungsreste, die auf mittelalterliche Strukturen hinweisen. Der Standort bietet Einblicke in die frühe lokale Besiedlung.",
       hu: "Középkori struktúrákra utaló történelmi településmaradványok. A helyszín betekintést nyújt a korai helyi településtörténetbe.",
@@ -934,7 +934,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "battlefield",
     parent: "MD",
     name: { de: "Befestigung Răuta", hu: "Răuta erődítmény", ro: "Fortificația Răuta", en: "Răuta Fortification" },
-    coordinates: { lat: 47.9258, lng: 27.9156 },
+    coords: [27.9156, 47.9258],
     description: {
       de: "Überreste eines alten Befestigungswalls am Răut-Fluss. Er diente zur Abwehr von Feinden in der mittelalterlichen Periode.",
       hu: "Egy régi védelmi fal maradványai a Răut folyó mentén. A középkori időszakban ellenséges támadások elhárítására szolgált.",
@@ -966,7 +966,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "church",
     parent: "MD",
     name: { de: "Alte Kirche in Căușeni", hu: "Régi templom Căușeniben", ro: "Biserica Veche din Căușeni", en: "Old Church in Căușeni" },
-    coordinates: { lat: 46.6412, lng: 29.4068 },
+    coords: [29.4068, 46.6412],
     description: {
       de: "Eine einzigartige, teilweise unterirdisch gebaute Kirche aus dem 18. Jahrhundert. Die Innenwände sind mit historischen Wandmalereien verziert.",
       hu: "Egyedülálló, részben föld alatti építésű 18. századi templom. A belső falakat történelmi falfestmények díszítik.",
@@ -998,7 +998,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "palace",
     parent: "MD",
     name: { de: "Herrenhaus Valea Mare", hu: "Valea Mare kúria", ro: "Conacul de la Valea Mare", en: "Valea Mare Mansion" },
-    coordinates: { lat: 47.2845, lng: 28.1642 },
+    coords: [28.1642, 47.2845],
     description: {
       de: "Architektonisch bedeutsames Herrenhaus aus dem 19. Jahrhundert. Das Gebäude repräsentiert den ehemaligen Lebensstil des lokalen Adels.",
       hu: "Építészetileg jelentős, 19. századi kúria. Az épület a helyi nemesség egykori életmódját reprezentálja.",
@@ -1030,7 +1030,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "battlefield",
     parent: "MD",
     name: { de: "Kurgane von Dancu", hu: "Dancu-i kurgánok", ro: "Tumulii de la Dancu", en: "Dancu Burial Mounds" },
-    coordinates: { lat: 46.9124, lng: 28.4521 },
+    coords: [28.4521, 46.9124],
     description: {
       de: "Prähistorische Grabstätten in Form von Erdhügeln. Diese Stätte ist von großer Bedeutung für die Erforschung früher Bevölkerungsgruppen.",
       hu: "Őskori sírhalmok földhalom formájában. Ez a helyszín nagy jelentőséggel bír a korai népességcsoportok kutatásában.",
@@ -1062,7 +1062,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Museum der Kodru-Region", hu: "Kódru régió múzeuma", ro: "Muzeul regiunii Codru", en: "Kodru Region Museum" },
-    coordinates: { lat: 47.1524, lng: 28.5241 },
+    coords: [28.5241, 47.1524],
     description: {
       de: "Regionalmuseum mit Ausstellungen zur Geschichte und Kultur der Kodru-Hügellandschaft. Es bewahrt wichtige lokale Artefakte.",
       hu: "Regionális múzeum a Kódru-dombság történetével és kultúrájával foglalkozó kiállításokkal. Jelentős helyi tárgyakat őriz.",
@@ -1094,7 +1094,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Historischer Bahnhof Basarabeasca", hu: "Basarabeasca történelmi vasútállomása", ro: "Gara istorică Basarabeasca", en: "Basarabeasca Historic Station" },
-    coordinates: { lat: 46.3354, lng: 28.9662 },
+    coords: [28.9662, 46.3354],
     description: {
       de: "Ein alter Eisenbahnknotenpunkt mit Gebäuden aus dem frühen 20. Jahrhundert. Der Ort war entscheidend für den regionalen Güterhandel.",
       hu: "Régi vasúti csomópont a 20. század elejéről származó épületekkel. A hely kulcsfontosságú volt a regionális árukereskedelemben.",
@@ -1126,7 +1126,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "palace",
     parent: "MD",
     name: { de: "Herrenhaus in Glodeni", hu: "Glodeni-i kúria", ro: "Conacul din Glodeni", en: "Glodeni Mansion" },
-    coordinates: { lat: 47.7725, lng: 27.5126 },
+    coords: [27.5126, 47.7725],
     description: {
       de: "Ein gut erhaltenes Herrenhaus aus dem 19. Jahrhundert. Es ist von einem alten Park umgeben und dient heute kulturellen Zwecken.",
       hu: "Egy jól megőrzött, 19. századi kúria. Régi park veszi körül, ma kulturális célokat szolgál.",
@@ -1158,7 +1158,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "church",
     parent: "MD",
     name: { de: "Kirche in Fălești", hu: "Fălești templom", ro: "Biserica din Fălești", en: "Fălești Church" },
-    coordinates: { lat: 47.5752, lng: 27.7121 },
+    coords: [27.7121, 47.5752],
     description: {
       de: "Traditionelles Kirchengebäude aus dem späten 19. Jahrhundert. Die Architektur ist typisch für die religiösen Bauten der Region.",
       hu: "Hagyományos templomépület a 19. század végéről. Építészete tipikus a régió vallási építményei számára.",
@@ -1190,7 +1190,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "monument",
     parent: "MD",
     name: { de: "Denkmal Cantemir", hu: "Cantemir emlékmű", ro: "Monumentul Cantemir", en: "Cantemir Memorial" },
-    coordinates: { lat: 46.2758, lng: 28.2045 },
+    coords: [28.2045, 46.2758],
     description: {
       de: "Historisches Denkmal zur Erinnerung an die bedeutende Familie Cantemir. Es markiert einen wichtigen Punkt in der Lokalgeschichte.",
       hu: "Történelmi emlékmű a jelentős Cantemir család emlékére. A helytörténet fontos pontját jelöli.",
@@ -1222,7 +1222,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "monument",
     parent: "MD",
     name: { de: "Gedenkstätte Crasnoe", hu: "Crasnoe-i emlékhely", ro: "Complexul memorial Crasnoe", en: "Crasnoe Memorial" },
-    coordinates: { lat: 46.6854, lng: 29.8451 },
+    coords: [29.8451, 46.6854],
     description: {
       de: "Eine Gedenkstätte für historische Ereignisse im 20. Jahrhundert. Sie dient der Mahnung und dem Gedenken.",
       hu: "Emlékhely a 20. századi történelmi események tiszteletére. Intésként és megemlékezésként szolgál.",
@@ -1254,7 +1254,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "tower",
     parent: "MD",
     name: { de: "Alter Wasserturm Camenca", hu: "Camenca-i régi víztorony", ro: "Turnul de apă vechi din Camenca", en: "Camenca Old Water Tower" },
-    coordinates: { lat: 48.0256, lng: 28.7154 },
+    coords: [28.7154, 48.0256],
     description: {
       de: "Ein technisches Denkmal aus der Zeit der Industrialisierung. Der Wasserturm zeugt von der frühen Infrastrukturentwicklung.",
       hu: "Az iparosodás idejéből származó műszaki műemlék. A víztorony a korai infrastruktúra-fejlesztés tanúja.",
@@ -1286,7 +1286,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "church",
     parent: "MD",
     name: { de: "Kirche Slobozia", hu: "Slobozia templom", ro: "Biserica din Slobozia", en: "Slobozia Church" },
-    coordinates: { lat: 46.7214, lng: 29.7126 },
+    coords: [29.7126, 46.7214],
     description: {
       de: "Historische Kirche in der Stadt Slobozia, erbaut im 19. Jahrhundert. Sie ist ein zentraler Punkt des städtischen Erbes.",
       hu: "Történelmi templom Slobozia városában, a 19. században épült. A városi örökség központi pontja.",
@@ -1318,7 +1318,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "palace",
     parent: "MD",
     name: { de: "Landsitz Codru", hu: "Codrui birtok", ro: "Conacul Codru", en: "Codru Estate" },
-    coordinates: { lat: 46.9854, lng: 28.7621 },
+    coords: [28.7621, 46.9854],
     description: {
       de: "Ein Herrenhaus, das die lokale Gutsherrengeschichte widerspiegelt. Die Anlage umfasst alte Wohngebäude und Wirtschaftsgebäude.",
       hu: "Egy kúria, amely tükrözi a helyi birtokosok történetét. Az épületegyüttes régi lakó- és gazdasági épületeket foglal magában.",
@@ -1350,7 +1350,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Archiv Cricova", hu: "Cricovai archívum", ro: "Arhiva de la Cricova", en: "Cricova Archive Site" },
-    coordinates: { lat: 47.1154, lng: 28.8542 },
+    coords: [28.8542, 47.1154],
     description: {
       de: "Ein historischer Ort der Archivierung in der Nähe von Cricova. Das Gebäude bewahrt wichtige Dokumente zur lokalen Wirtschaftsgeschichte.",
       hu: "Történelmi archívumi helyszín Cricova közelében. Az épület fontos dokumentumokat őriz a helyi gazdaságtörténetről.",
@@ -1382,7 +1382,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "port",
     parent: "MD",
     name: { de: "Alter Hafen Otaci", hu: "Otaci-i régi kikötő", ro: "Vechiul port Otaci", en: "Otaci Historic Port" },
-    coordinates: { lat: 48.4254, lng: 27.7854 },
+    coords: [27.7854, 48.4254],
     description: {
       de: "Historischer Handelsplatz am Dnjestr. Dieser Hafen war im 19. Jahrhundert entscheidend für den Warenverkehr.",
       hu: "Történelmi kereskedelmi helyszín a Dnyeszter mentén. Ez a kikötő a 19. században döntő fontosságú volt az áruforgalom számára.",
@@ -1414,7 +1414,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "battlefield",
     parent: "MD",
     name: { de: "Befestigungsanlage Costești", hu: "Costești-i erődítmény", ro: "Fortificația Costești", en: "Costești Fortification" },
-    coordinates: { lat: 47.8856, lng: 27.2458 },
+    coords: [27.2458, 47.8856],
     description: {
       de: "Überreste einer mittelalterlichen Verteidigungsanlage. Die Stätte zeigt strategische Erdarbeiten und Ruinenstrukturen.",
       hu: "Középkori védelmi rendszer maradványai. A helyszín stratégiai földmunkákat és romstruktúrákat mutat.",
@@ -1446,7 +1446,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Zentrum der Geschichte Biruința", hu: "Biruința történelmi központ", ro: "Centrul istoric Biruința", en: "Biruința History Center" },
-    coordinates: { lat: 47.8541, lng: 28.1452 },
+    coords: [28.1452, 47.8541],
     description: {
       de: "Kulturelles Zentrum mit Fokus auf die Geschichte der industriellen Entwicklung. Es dokumentiert das lokale Erbe.",
       hu: "Kulturális központ, amely az ipari fejlődés történetére összpontosít. Dokumentálja a helyi örökséget.",
@@ -1478,7 +1478,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "ruins",
     parent: "MD",
     name: { de: "Archäologischer Park Cornesti", hu: "Cornesti régészeti park", ro: "Parcul arheologic Cornesti", en: "Cornesti Archaeological Park" },
-    coordinates: { lat: 47.3354, lng: 28.0542 },
+    coords: [28.0542, 47.3354],
     description: {
       de: "Ein Ort mit archäologischen Funden aus verschiedenen Jahrhunderten. Er dient der Bewahrung antiker Siedlungsstrukturen.",
       hu: "Különböző évszázadokból származó régészeti leletek helyszíne. Az ókori településszerkezetek megőrzésére szolgál.",
@@ -1510,7 +1510,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "church",
     parent: "MD",
     name: { de: "Kirche Frunză", hu: "Frunză templom", ro: "Biserica din Frunză", en: "Frunză Church" },
-    coordinates: { lat: 48.3354, lng: 27.6542 },
+    coords: [27.6542, 48.3354],
     description: {
       de: "Historisches Kirchenbauwerk aus dem 19. Jahrhundert. Ein markantes Beispiel religiöser Architektur im Norden.",
       hu: "Történelmi templomépítmény a 19. századból. Az északi régió vallási építészetének figyelemre méltó példája.",
@@ -1542,7 +1542,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "palace",
     parent: "MD",
     name: { de: "Herrenhaus Ghindești", hu: "Ghindești-i kúria", ro: "Conacul Ghindești", en: "Ghindești Mansion" },
-    coordinates: { lat: 47.8856, lng: 28.5254 },
+    coords: [28.5254, 47.8856],
     description: {
       de: "Ein ehemaliges Herrenhaus des Adels, heute historisches Zeugnis lokaler Baukunst. Die Umgebung ist parkähnlich gestaltet.",
       hu: "Egykori nemesi kúria, ma a helyi építőművészet történelmi tanúja. A környezet parkosított.",
@@ -1574,7 +1574,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Kulturerbe Iargara", hu: "Iargara kulturális öröksége", ro: "Patrimoniul cultural Iargara", en: "Iargara Cultural Heritage Site" },
-    coordinates: { lat: 46.4254, lng: 28.4542 },
+    coords: [28.4542, 46.4254],
     description: {
       de: "Eine Sammlung historischer Objekte, die das Leben in der Region im 20. Jahrhundert dokumentieren. Ein lokaler Geschichtsort.",
       hu: "Történelmi tárgyak gyűjteménye, amelyek dokumentálják a 20. századi életet a régióban. Egy helyi történelmi helyszín.",
@@ -1606,7 +1606,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "monument",
     parent: "MD",
     name: { de: "Gedenkstätte Maiac", hu: "Maiac emlékhely", ro: "Monumentul Maiac", en: "Maiac Memorial" },
-    coordinates: { lat: 47.2454, lng: 29.3542 },
+    coords: [29.3542, 47.2454],
     description: {
       de: "Ein Denkmal für die historische Entwicklung der Region im letzten Jahrhundert. Es dient als Erinnerungsort.",
       hu: "Emlékmű a régió elmúlt századi történelmi fejlődésének tiszteletére. Emlékhelyként szolgál.",
@@ -1638,7 +1638,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "ruins",
     parent: "MD",
     name: { de: "Archäologische Stätte Mărculești", hu: "Mărculești régészeti helyszín", ro: "Sit arheologic Mărculești", en: "Mărculești Archaeological Site" },
-    coordinates: { lat: 47.7854, lng: 28.3542 },
+    coords: [28.3542, 47.7854],
     description: {
       de: "Stätte mit Überresten antiker Architektur. Sie bietet wertvolle Einblicke in frühe Bauweisen und Siedlungsmuster.",
       hu: "Antik építészeti maradványokkal rendelkező helyszín. Értékes betekintést nyújt a korai építési módokba és települési mintákba.",
@@ -1670,7 +1670,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Historisches Viertel Lipcani", hu: "Lipcani történelmi negyede", ro: "Cartierul istoric Lipcani", en: "Lipcani Historic District" },
-    coordinates: { lat: 48.2654, lng: 26.8154 },
+    coords: [26.8154, 48.2654],
     description: {
       de: "Ein Viertel mit gut erhaltenen Gebäuden aus dem frühen 20. Jahrhundert. Es ist ein Beispiel für den städtischen Wandel.",
       hu: "Negyed jól megőrzött, 20. század eleji épületekkel. A városi változás példája.",
@@ -1702,7 +1702,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "palace",
     parent: "MD",
     name: { de: "Herrenhaus Bucovăț", hu: "Bucovăț-i kúria", ro: "Conacul Bucovăț", en: "Bucovăț Mansion" },
-    coordinates: { lat: 47.1654, lng: 28.3754 },
+    coords: [28.3754, 47.1654],
     description: {
       de: "Ein historisches Herrenhaus, das die soziale Struktur des 19. Jahrhunderts widerspiegelt. Die Bausubstanz ist von lokalem Interesse.",
       hu: "Történelmi kúria, amely a 19. századi társadalmi struktúrát tükrözi. Az épületállomány helyi érdekű.",
@@ -1734,7 +1734,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Museum Tvardița", hu: "Tvardița múzeum", ro: "Muzeul Tvardița", en: "Tvardița Museum" },
-    coordinates: { lat: 46.1254, lng: 28.9454 },
+    coords: [28.9454, 46.1254],
     description: {
       de: "Lokale Geschichtssammlung, die die kulturelle Entwicklung der Region dokumentiert. Ein wichtiger Ort für die Identität der Bewohner.",
       hu: "Helyi történeti gyűjtemény, amely a régió kulturális fejlődését dokumentálja. Fontos hely a lakók identitása számára.",
@@ -1766,7 +1766,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "park",
     parent: "MD",
     name: { de: "Historischer Park Vadul lui Vodă", hu: "Vadul lui Vodă történelmi parkja", ro: "Parcul istoric Vadul lui Vodă", en: "Vadul lui Vodă Historic Park" },
-    coordinates: { lat: 47.0854, lng: 29.0754 },
+    coords: [29.0754, 47.0854],
     description: {
       de: "Ein alter Park, der seit Jahrzehnten ein Erholungsort ist. Er besitzt historische Anlagen und Denkmäler.",
       hu: "Régi park, amely évtizedek óta pihenőhely. Történelmi létesítményei és emlékművei vannak.",
@@ -1798,7 +1798,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "church",
     parent: "MD",
     name: { de: "Kirche Grigoriopol", hu: "Grigoriopol templom", ro: "Biserica din Grigoriopol", en: "Grigoriopol Church" },
-    coordinates: { lat: 47.1454, lng: 29.2854 },
+    coords: [29.2854, 47.1454],
     description: {
       de: "Historisches Kirchenbauwerk des späten 19. Jahrhunderts. Es steht für die religiöse Kontinuität in der Region.",
       hu: "A 19. század végi történelmi templomépítmény. A régió vallási folytonosságát képviseli.",
@@ -1830,7 +1830,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Altstadt Basarabeasca", hu: "Basarabeasca óvárosa", ro: "Centrul vechi Basarabeasca", en: "Basarabeasca Old Town" },
-    coordinates: { lat: 46.3354, lng: 28.9754 },
+    coords: [28.9754, 46.3354],
     description: {
       de: "Der historische Kern von Basarabeasca mit Gebäuden aus dem 19. Jahrhundert. Ein wichtiges Zeugnis lokaler städtischer Entwicklung.",
       hu: "Basarabeasca történelmi magja 19. századi épületekkel. A helyi városfejlődés fontos tanúja.",
@@ -1862,7 +1862,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Sammlung Cimislia", hu: "Cimișliai gyűjtemény", ro: "Colecția Cimișlia", en: "Cimișlia History Collection" },
-    coordinates: { lat: 46.5954, lng: 28.7854 },
+    coords: [28.7854, 46.5954],
     description: {
       de: "Ein Raum zur Bewahrung der Regionalgeschichte von Cimișlia. Die Ausstellung umfasst Alltagsobjekte und historische Dokumente.",
       hu: "Tér Cimișlia regionális történelmének megőrzésére. A kiállítás mindennapi tárgyakat és történelmi dokumentumokat tartalmaz.",
@@ -1894,7 +1894,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "church",
     parent: "MD",
     name: { de: "Alte Kirche in Leova", hu: "Régi templom Leovában", ro: "Biserica veche din Leova", en: "Leova Old Church" },
-    coordinates: { lat: 46.4854, lng: 28.2554 },
+    coords: [28.2554, 46.4854],
     description: {
       de: "Ein historisches Kirchengebäude aus dem späten 19. Jahrhundert. Es ist ein zentrales religiöses Erbe der Stadt Leova.",
       hu: "Történelmi templomépület a 19. század végéről. Leova város központi vallási öröksége.",
@@ -1926,7 +1926,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "monument",
     parent: "MD",
     name: { de: "Denkmal Nisporeni", hu: "Nisporeni emlékmű", ro: "Monumentul Nisporeni", en: "Nisporeni Memorial" },
-    coordinates: { lat: 47.0854, lng: 28.1754 },
+    coords: [28.1754, 47.0854],
     description: {
       de: "Ein Denkmal zur Erinnerung an die Geschichte der Region. Es ist ein Ort der öffentlichen Wahrnehmung historischer Ereignisse.",
       hu: "Emlékmű a régió történetének tiszteletére. A történelmi események nyilvános érzékelésének helyszíne.",
@@ -1958,7 +1958,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "tower",
     parent: "MD",
     name: { de: "Alter Turm Rezina", hu: "Rezina-i régi torony", ro: "Turnul vechi Rezina", en: "Rezina Old Tower" },
-    coordinates: { lat: 47.7454, lng: 28.9654 },
+    coords: [28.9654, 47.7454],
     description: {
       de: "Ein historisches Turmbauwerk aus dem frühen 20. Jahrhundert. Der Turm prägt die Ansicht der alten Stadt.",
       hu: "Történelmi toronyépítmény a 20. század elejéről. A torony meghatározza a régi városképét.",
@@ -1990,7 +1990,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "church",
     parent: "MD",
     name: { de: "Kirche Rîșcani", hu: "Rîșcani templom", ro: "Biserica din Rîșcani", en: "Rîșcani Church" },
-    coordinates: { lat: 47.9554, lng: 27.5554 },
+    coords: [27.5554, 47.9554],
     description: {
       de: "Traditionelle Kirche aus dem späten 19. Jahrhundert. Ein wichtiges religiöses Zentrum für die lokale Gemeinschaft.",
       hu: "Hagyományos templom a 19. század végéről. Fontos vallási központ a helyi közösség számára.",
@@ -2022,7 +2022,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Museum Sîngerei", hu: "Sîngerei múzeum", ro: "Muzeul Sîngerei", en: "Sîngerei Museum" },
-    coordinates: { lat: 47.6254, lng: 28.1354 },
+    coords: [28.1354, 47.6254],
     description: {
       de: "Museum zur Bewahrung der Geschichte der Region Sîngerei. Es zeigt wichtige Artefakte aus verschiedenen Epochen.",
       hu: "Múzeum a Sîngerei régió történetének megőrzésére. Fontos tárgyakat mutat be különböző korszakokból.",
@@ -2054,7 +2054,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "palace",
     parent: "MD",
     name: { de: "Herrenhaus Ocnița", hu: "Ocnița-i kúria", ro: "Conacul Ocnița", en: "Ocnița Mansion" },
-    coordinates: { lat: 48.4054, lng: 27.4554 },
+    coords: [27.4554, 48.4054],
     description: {
       de: "Ein Herrenhaus aus dem 19. Jahrhundert. Es ist ein Beispiel für den ehemaligen Wohlstand der Region.",
       hu: "Egy 19. századi kúria. A régió egykori jólétének példája.",
@@ -2086,7 +2086,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "church",
     parent: "MD",
     name: { de: "Kirche Briceni", hu: "Briceni templom", ro: "Biserica din Briceni", en: "Briceni Church" },
-    coordinates: { lat: 48.3654, lng: 27.0754 },
+    coords: [27.0754, 48.3654],
     description: {
       de: "Historisches Kirchenbauwerk des späten 19. Jahrhunderts. Ein zentrales religiöses Monument der Stadt.",
       hu: "A 19. század végi történelmi templomépítmény. A város központi vallási emlékműve.",
@@ -2118,7 +2118,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "museum",
     parent: "MD",
     name: { de: "Museum Drochia", hu: "Drochia múzeum", ro: "Muzeul Drochia", en: "Drochia Museum" },
-    coordinates: { lat: 48.0454, lng: 27.7854 },
+    coords: [27.7854, 48.0454],
     description: {
       de: "Sammlung zur Geschichte der Stadt Drochia. Dokumentiert den sozio-kulturellen Wandel der letzten 100 Jahre.",
       hu: "Drochia város történetének gyűjteménye. Dokumentálja az elmúlt 100 év társadalmi-kulturális változását.",
@@ -2150,7 +2150,7 @@ export const moldovaHistoryV2: POI[] = [
     type: "monument",
     parent: "MD",
     name: { de: "Denkmal Ștefan Vodă", hu: "Ștefan Vodă emlékmű", ro: "Monumentul Ștefan Vodă", en: "Ștefan Vodă Memorial" },
-    coordinates: { lat: 46.5054, lng: 29.6554 },
+    coords: [29.6554, 46.5054],
     description: {
       de: "Ein Denkmal zu Ehren historischer Persönlichkeiten. Es markiert das öffentliche Gedenken in Ștefan Vodă.",
       hu: "Emlékmű történelmi személyiségek tiszteletére. A nyilvános megemlékezést jelöli Ștefan Vodăban.",

@@ -8,7 +8,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Rathaus von Sarajevo", hu: "Szarajevói városháza", ro: "Primăria din Sarajevo", en: "Sarajevo City Hall"},
     image: "/poi-images/bosniaherzegovina-sarajevo-city-hall-landmarks-v2.webp",
     coords: [18.4332, 43.8592],
-    coordinates: { lat: 43.8592, lng: 18.4332 },
+    coords: [18.4332, 43.8592],
     description: {
       de: "Die im pseudo-maurischen Stil errichtete Vijećnica ist eines der prächtigsten Gebäude aus der österreichisch-ungarischen Zeit in Sarajevo.",
       hu: "A pszeudo-mór stílusban épült Vijećnica Szarajevó egyik legpompásabb épülete az osztrák-magyar korszakból.",
@@ -43,7 +43,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Gazi-Husrev-Beg-Moschee", hu: "Gazi Husrev bég mecset", ro: "Moscheea Gazi Husrev-beg", en: "Gazi Husrev-beg Mosque"},
     image: "/poi-images/bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2.webp",
     coords: [18.4289, 43.8598],
-    coordinates: { lat: 43.8598, lng: 18.4289 },
+    coords: [18.4289, 43.8598],
     description: {
       de: "Diese im 16. Jahrhundert erbaute Moschee gilt als das bedeutendste osmanische Bauwerk des Landes und ist das religiöse Zentrum von Sarajevo.",
       hu: "Ez a 16. századi mecset az ország legjelentősebb oszmán építészeti alkotása és Szarajevó vallási központja.",
@@ -78,7 +78,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Gelbe Bastion", hu: "Sárga bástya", ro: "Bastionul Galben", en: "Yellow Bastion"},
     image: "/poi-images/bosniaherzegovina-yellow-bastion-landmarks-v2.webp",
     coords: [18.439, 43.8608],
-    coordinates: { lat: 43.8608, lng: 18.439 },
+    coords: [18.439, 43.8608],
     description: {
       de: "Die Gelbe Bastion ist Teil der alten Stadtmauer von Sarajevo und bietet einen Panoramablick über das gesamte Tal.",
       hu: "A Sárga bástya Szarajevó régi városfalának része, ahonnan panorámás kilátás nyílik az egész völgyre.",
@@ -113,7 +113,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Festung Počitelj", hu: "Počitelj vára", ro: "Cetatea Počitelj", en: "Počitelj Fortress"},
     image: "/poi-images/bosniaherzegovina-pocitelj-fortress-landmarks-v2.webp",
     coords: [17.7294, 43.134],
-    coordinates: { lat: 43.134, lng: 17.7294 },
+    coords: [17.7294, 43.134],
     description: {
       de: "Diese mittelalterliche und osmanische Festungsstadt liegt an einem Hang über dem Fluss Neretva.",
       hu: "Ez a középkori és oszmán várváros a Neretva folyó feletti domboldalon fekszik.",
@@ -148,7 +148,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Ferhadija-Moschee", hu: "Ferhadija-mecset", ro: "Moscheea Ferhadija", en: "Ferhadija Mosque"},
     image: "/poi-images/bosniaherzegovina-ferhadija-mosque-landmarks-v2.webp",
     coords: [17.1869, 44.7672],
-    coordinates: { lat: 44.7672, lng: 17.1869 },
+    coords: [17.1869, 44.7672],
     description: {
       de: "Die Ferhad-Pascha-Moschee in Banja Luka ist eines der bedeutendsten Beispiele osmanischer Architektur im Norden des Landes.",
       hu: "A Ferhád pasa mecset Banja Lukában az oszmán építészet egyik legjelentősebb példája az ország északi részén.",
@@ -183,7 +183,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Herz-Jesu-Kathedrale", hu: "Jézus Szíve-székesegyház", ro: "Catedrala Inima lui Isus", en: "Cathedral of Jesus' Sacred Heart"},
     image: "/poi-images/bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-v2.webp",
     coords: [18.4258, 43.8594],
-    coordinates: { lat: 43.8594, lng: 18.4258 },
+    coords: [18.4258, 43.8594],
     description: {
       de: "Die Kathedrale in Sarajevo ist das größte katholische Gotteshaus in Bosnien und Herzegowina und Sitz des Erzbischofs.",
       hu: "A szarajevói székesegyház Bosznia-Hercegovina legnagyobb katolikus temploma és az érsekség székhelye.",
@@ -218,7 +218,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Alte Orthodoxe Kirche", hu: "Régi ortodox templom", ro: "Biserica Ortodoxă Veche", en: "Old Orthodox Church"},
     image: "/poi-images/bosniaherzegovina-old-orthodox-church-landmarks-v2.webp",
     coords: [18.43, 43.8604],
-    coordinates: { lat: 43.8604, lng: 18.43 },
+    coords: [18.43, 43.8604],
     description: {
       de: "Diese Kirche ist eines der ältesten religiösen Gebäude in Sarajevo und beherbergt ein bedeutendes Museum für Ikonen.",
       hu: "Ez a templom Szarajevó egyik legrégebbi vallási épülete, és egy jelentős ikonmúzeumnak ad otthont.",
@@ -253,7 +253,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Sebilj-Brunnen", hu: "Sebilj-kút", ro: "Fântâna Sebilj", en: "Sebilj Fountain"},
     image: "/poi-images/bosniaherzegovina-sebilj-fountain-landmarks-v2.webp",
     coords: [18.4313, 43.8597],
-    coordinates: { lat: 43.8597, lng: 18.4313 },
+    coords: [18.4313, 43.8597],
     description: {
       de: "Der Sebilj ist ein hölzerner Brunnen im osmanischen Stil und das Wahrzeichen des historischen Marktplatzes Baščaršija.",
       hu: "A Sebilj egy oszmán stílusú fakút, amely a történelmi Baščaršija piactér jelképe.",
@@ -288,7 +288,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Nationalmuseum von Bosnien und Herzegowina", hu: "Bosznia-Hercegovinai Nemzeti Múzeum", ro: "Muzeul Național al Bosniei și Herțegovinei", en: "National Museum of Bosnia and Herzegovina"},
     image: "/poi-images/bosniaherzegovina-national-museum-landmarks-v2.webp",
     coords: [18.4022, 43.855],
-    coordinates: { lat: 43.855, lng: 18.4022 },
+    coords: [18.4022, 43.855],
     description: {
       de: "Das 1888 gegründete Nationalmuseum ist die älteste moderne Kultureinrichtung des Landes und beherbergt bedeutende archäologische Schätze.",
       hu: "Az 1888-ban alapított Nemzeti Múzeum az ország legrégebbi modern kulturális intézménye, jelentős régészeti kincsekkel.",
@@ -323,7 +323,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Festung Ljubuški", hu: "Ljubuški vára", ro: "Cetatea Ljubuški", en: "Ljubuški Fortress"},
     image: "/poi-images/bosniaherzegovina-ljubuski-fortress-landmarks-v2.webp",
     coords: [17.5544, 43.2044],
-    coordinates: { lat: 43.2044, lng: 17.5544 },
+    coords: [17.5544, 43.2044],
     description: {
       de: "Diese Festung auf dem Hügel Butorovica ist auch als Festung von Herceg Stjepan bekannt und überblickt die Stadt Ljubuški.",
       hu: "Ez a Butorovica-dombon álló erőd Herceg Stjepan váraként is ismert, és Ljubuški városa felett magasodik.",
@@ -357,7 +357,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Arslanagić-Brücke", hu: "Arslanagić-híd", ro: "Podul Arslanagić", en: "Arslanagić Bridge"},
     image: "/poi-images/bosniaherzegovina-arslanagic-bridge-landmarks-v2.webp",
     coords: [18.3533, 42.7161],
-    coordinates: { lat: 42.7161, lng: 18.3533 },
+    coords: [18.3533, 42.7161],
     description: {
       de: "Die Arslanagić-Brücke in Trebinje ist ein Meisterwerk der osmanischen Brückenarchitektur und wurde Stein für Stein an ihren heutigen Standort versetzt.",
       hu: "A trebinjei Arslanagić-híd az oszmán hídépítészet mesterműve, amelyet kövenként helyeztek át mai helyére.",
@@ -391,7 +391,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Ewige Flamme", hu: "Örökmécses", ro: "Flacăra Eternă", en: "Eternal Flame"},
     image: "/poi-images/bosniaherzegovina-eternal-flame-landmarks-v2.webp",
     coords: [18.4219, 43.8589],
-    coordinates: { lat: 43.8589, lng: 18.4219 },
+    coords: [18.4219, 43.8589],
     description: {
       de: "Die Ewige Flamme ist ein Denkmal in Sarajevo für die militärischen und zivilen Opfer des Zweiten Weltkriegs.",
       hu: "Az Örökmécses egy emlékmű Szarajevóban a második világháború katonai és polgári áldozatainak emlékére.",
@@ -426,7 +426,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     name: { de: "Museum Sarajevo 1878–1918", hu: "Szarajevó Múzeum 1878–1918", ro: "Muzeul Sarajevo 1878–1918", en: "Museum of Sarajevo 1878–1918"},
     image: "/poi-images/bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2.webp",
     coords: [18.4288, 43.8576],
-    coordinates: { lat: 43.8576, lng: 18.4288 },
+    coords: [18.4288, 43.8576],
     description: {
       de: "Dieses Museum befindet sich an der Straßenecke, an der 1914 das Attentat auf Erzherzog Franz Ferdinand stattfand.",
       hu: "Ez a múzeum azon az utcasarkon található, ahol 1914-ben elkövették a merényletet Ferenc Ferdinánd főherceg ellen.",
@@ -461,7 +461,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "palace",
     name: { de: "Banski Dvor", hu: "Bánsági palota", ro: "Banski Dvor", en: "Banski Dvor"},
     image: "/poi-images/bosniaherzegovina-banski-dvor-landmarks-v2.webp",
-    coordinates: { lat: 44.7725, lng: 17.1914 },
+    coords: [17.1914, 44.7725],
     description: {
       de: "Dieser Palast in Banja Luka dient heute als Kulturzentrum und war früher der Sitz der Ban-Verwaltung. Das Gebäude wurde in den 1930er Jahren im neoklassizistischen Stil errichtet.",
       hu: "Ez a banja lukai palota ma kulturális központként szolgál, korábban pedig a báni közigazgatás székhelye volt. Az épület az 1930-as években épült neoklasszicista stílusban.",
@@ -494,7 +494,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "tower",
     name: { de: "Friedensglockenturm Mostar", hu: "Mostari béke-harangtorony", ro: "Turnul clopotniță al păcii din Mostar", en: "Mostar Peace Bell Tower"},
     image: "/poi-images/bosniaherzegovina-mostar-peace-bell-tower-landmarks-v2.webp",
-    coordinates: { lat: 43.3392, lng: 17.8078 },
+    coords: [17.8078, 43.3392],
     description: {
       de: "Dieser Glockenturm gehört zur Franziskanerkirche St. Peter und Paul und ist mit 107 Metern der höchste Turm der Stadt. Er bietet eine weite Aussicht über Mostar.",
       hu: "Ez a harangtorony a Szent Péter és Pál ferences templomhoz tartozik, és 107 méteres magasságával a város legmagasabb tornya. Széles kilátást nyújt Mostarra.",
@@ -528,7 +528,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "cathedral",
     name: { de: "Kathedrale des heiligen Bonaventura", hu: "Szent Bonaventura-székesegyház", ro: "Catedrala Sfântul Bonaventura", en: "Cathedral of Saint Bonaventure"},
     image: "/poi-images/bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2.webp",
-    coordinates: { lat: 44.7712, lng: 17.1889 },
+    coords: [17.1889, 44.7712],
     description: {
       de: "Diese römisch-katholische Kathedrale in Banja Luka zeichnet sich durch ihre moderne Architektur aus. Sie wurde nach der Zerstörung des alten Gebäudes durch ein Erdbeben 1969 neu errichtet.",
       hu: "Ez a banja lukai római katolikus székesegyház modern építészetével tűnik ki. Az 1969-es földrengés során elpusztult régi épület helyén emelték.",
@@ -562,7 +562,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "church",
     name: { de: "Hercegovačka Gračanica", hu: "Hercegovačka Gračanica", ro: "Hercegovačka Gračanica", en: "Hercegovačka Gračanica"},
     image: "/poi-images/bosniaherzegovina-hercegovacka-gracanica-landmarks-v2.webp",
-    coordinates: { lat: 42.7139, lng: 18.3583 },
+    coords: [18.3583, 42.7139],
     description: {
       de: "Diese serbisch-orthodoxe Kirche liegt auf dem Crkvina-Hügel über Trebinje. Sie ist eine originalgetreue Kopie des Klosters Gračanica im Kosovo und dient als Grabstätte für Jovan Dučić.",
       hu: "Ez a szerb ortodox templom a Trebinje feletti Crkvina-dombon található. A koszovói Gračanica-kolostor hű másolata, és Jovan Dučić költő nyughelye.",
@@ -596,7 +596,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Museum für zeitgenössische Kunst der RS", hu: "Szerb Köztársaság Kortárs Művészeti Múzeuma", ro: "Muzeul de Artă Contemporană al RS", en: "Museum of Contemporary Art of RS"},
     image: "/poi-images/bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2.webp",
-    coordinates: { lat: 44.7731, lng: 17.1897 },
+    coords: [17.1897, 44.7731],
     description: {
       de: "Das Museum in Banja Luka ist im Gebäude des ehemaligen Hauptbahnhofs untergebracht. Es sammelt und präsentiert zeitgenössische Kunstwerke aus Bosnien und Herzegowina sowie international.",
       hu: "A banja lukai múzeum a korábbi főpályaudvar épületében kapott helyet. Bosznia-hercegovinai és nemzetközi kortárs művészeti alkotásokat gyűjt és mutat be.",
@@ -630,7 +630,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "tower",
     name: { de: "Turm von Gradačac", hu: "Gradačaci torony", ro: "Turnul din Gradačac", en: "Tower of Gradačac"},
     image: "/poi-images/bosniaherzegovina-gradacac-tower-landmarks-v2.webp",
-    coordinates: { lat: 44.8814, lng: 18.4286 },
+    coords: [18.4286, 44.8814],
     description: {
       de: "Dieser 18 Meter hohe Turm ist das Wahrzeichen der Stadt Gradačac. Er wurde vom lokalen Anführer Husein-kapetan Gradaščević als Teil einer Festungsanlage im 19. Jahrhundert erbaut.",
       hu: "Ez a 18 méter magas torony Gradačac városának jelképe. Husein-kapetan Gradaščević helyi vezető építtette a 19. században egy erődrendszer részeként.",
@@ -663,7 +663,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "monument",
     name: { de: "Partisanenfriedhof Mostar", hu: "Partizán emléktemető", ro: "Cimitirul Memorial al Partizanilor", en: "Partisan Memorial Cemetery"},
     image: "/poi-images/bosniaherzegovina-partisan-memorial-cemetery-landmarks-v2.webp",
-    coordinates: { lat: 43.3444, lng: 17.7983 },
+    coords: [17.7983, 43.3444],
     description: {
       de: "Dieses Denkmal in Mostar wurde zu Ehren der im Zweiten Weltkrieg gefallenen Partisanen errichtet. Die Anlage wurde vom Architekten Bogdan Bogdanović entworfen und erinnert an eine antike Nekropole.",
       hu: "Ez a mostari emlékmű a második világháborúban elesett partizánok tiszteletére épült. Bogdan Bogdanović építész tervezte, és egy ókori nekropoliszra emlékeztet.",
@@ -696,7 +696,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "tower",
     name: { de: "Uhrturm von Sarajevo", hu: "Szarajevói óratorony", ro: "Turnul cu ceas din Sarajevo", en: "Sarajevo Clock Tower"},
     image: "/poi-images/bosniaherzegovina-sahat-kula-sarajevo-landmarks-v2.webp",
-    coordinates: { lat: 43.8594, lng: 18.4289 },
+    coords: [18.4289, 43.8594],
     description: {
       de: "Dieser osmanische Uhrturm befindet sich in der Nähe der Gazi-Husrev-Beg-Moschee in Sarajevo. Er zeigt die Zeit nach dem Mondkalender an, wobei der Tag bei Sonnenuntergang beginnt.",
       hu: "Ez az oszmán óratorony a szarajevói Gazi Husrev-bég mecset közelében található. A holdnaptár szerinti időt mutatja, ahol a nap naplementekor kezdődik.",
@@ -730,7 +730,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Kriegskind-Museum", hu: "Háborús Gyermekkor Múzeuma", ro: "Muzeul Copilăriei în Război", en: "War Child Museum"},
     image: "/poi-images/bosniaherzegovina-war-child-museum-landmarks-v2.webp",
-    coordinates: { lat: 43.8614, lng: 18.4278 },
+    coords: [18.4278, 43.8614],
     description: {
       de: "Dieses moderne Museum in Sarajevo erzählt die Geschichten von Kindern, die den Bosnienkrieg erlebt haben. Es zeigt persönliche Gegenstände und Zeugnisse der Überlebenden.",
       hu: "Ez a modern szarajevói múzeum a boszniai háborút átélt gyermekek történeteit meséli el. A túlélők személyes tárgyait és vallomásait mutatja be.",
@@ -764,7 +764,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "monument",
     name: { de: "Kaisermoschee", hu: "Császár-dzsámi", ro: "Moscheea Împăratului", en: "Emperor's Mosque"},
     image: "/poi-images/bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2.webp",
-    coordinates: { lat: 43.8578, lng: 18.43 },
+    coords: [18.43, 43.8578],
     description: {
       de: "Die Kaisermoschee ist die älteste Moschee in Sarajevo und wurde zu Ehren von Sultan Mehmed II. errichtet. Sie ist ein bedeutendes religiöses Zentrum und Sitz des Großmuftis.",
       hu: "A Császár-dzsámi Szarajevó legrégebbi mecsete, amelyet II. Mehmed szultán tiszteletére emeltek. Fontos vallási központ és a nagymufti székhelye.",
@@ -798,7 +798,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "monument",
     name: { de: "Synagoge von Sarajevo", hu: "Szarajevói zsinagóga", ro: "Sinagoga din Sarajevo", en: "Sarajevo Synagogue"},
     image: "/poi-images/bosniaherzegovina-sarajevo-synagogue-landmarks-v2.webp",
-    coordinates: { lat: 43.8569, lng: 18.4253 },
+    coords: [18.4253, 43.8569],
     description: {
       de: "Diese aschkenasische Synagoge in Sarajevo wurde im neomaurischen Stil erbaut. Sie ist die einzige heute noch aktive Synagoge in der Stadt und ein wichtiges Baudenkmal.",
       hu: "Ez a szarajevói askenázi zsinagóga neomór stílusban épült. Ez az egyetlen ma is aktív zsinagóga a városban, és fontos építészeti műemlék.",
@@ -832,7 +832,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Muslibegović-Haus", hu: "Muslibegović-ház", ro: "Casa Muslibegović", en: "Muslibegović House"},
     image: "/poi-images/bosniaherzegovina-muslibegovic-house-landmarks-v2.webp",
-    coordinates: { lat: 43.3442, lng: 17.8131 },
+    coords: [17.8131, 43.3442],
     description: {
       de: "Dieses historische Wohnhaus in Mostar ist ein herausragendes Beispiel osmanischer Architektur aus dem 18. Jahrhundert. Es ist heute ein Museum und ein exklusives Hotel.",
       hu: "Ez a történelmi lakóház Mostarban a 18. századi oszmán építészet kiemelkedő példája. Ma múzeumként és exkluzív szállodaként működik.",
@@ -866,7 +866,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Jüdisches Museum", hu: "Bosznia-Hercegovinai Zsidó Múzeum", ro: "Muzeul Evreiesc din BiH", en: "Jewish Museum of Bosnia and Herzegovina"},
     image: "/poi-images/bosniaherzegovina-jewish-museum-bih-landmarks-v2.webp",
-    coordinates: { lat: 43.8594, lng: 18.4275 },
+    coords: [18.4275, 43.8594],
     description: {
       de: "Das Museum ist in der Alten Synagoge von Sarajevo untergebracht, dem ältesten jüdischen Sakralbau des Landes. Es dokumentiert die 450-jährige Geschichte der Juden in Bosnien.",
       hu: "A múzeum Szarajevó Régi Zsinagógájában található, amely az ország legrégebbi zsidó vallási épülete. A boszniai zsidók 450 éves történelmét dokumentálja.",
@@ -900,7 +900,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "monument",
     name: { de: "Tvrtko-I.-Denkmal", hu: "I. Tvrtko emlékmű", ro: "Monumentul lui Tvrtko I", en: "Tvrtko I Monument"},
     image: "/poi-images/bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2.webp",
-    coordinates: { lat: 43.8572, lng: 18.4144 },
+    coords: [18.4144, 43.8572],
     description: {
       de: "Dieses Bronzedenkmal in Sarajevo zeigt König Tvrtko I. Kotromanić, den bedeutendsten Herrscher des mittelalterlichen Bosniens. Er krönte sich 1377 zum ersten bosnischen König.",
       hu: "Ez a szarajevói bronz emlékmű I. Tvrtko Kotromanić királyt ábrázolja, a középkori Bosznia legjelentősebb uralkodóját. 1377-ben koronázták az első bosnyák királlyá.",
@@ -934,7 +934,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Svrzo-Haus", hu: "Svrzo-ház", ro: "Casa Svrzo", en: "Svrzo's House"},
     image: "/poi-images/bosniaherzegovina-svrzos-house-landmarks-v2.webp",
-    coordinates: { lat: 43.8619, lng: 18.4303 },
+    coords: [18.4303, 43.8619],
     description: {
       de: "Das Svrzo-Haus in Sarajevo ist ein typisches Beispiel für die Wohnkultur einer wohlhabenden muslimischen Familie im 18. und 19. Jahrhundert. Es besteht vollständig aus Holz und Lehm.",
       hu: "A szarajevói Svrzo-ház egy gazdag muszlim család 18-19. századi életmódjának tipikus példája. Teljes egészében fából és vályogból készült.",
@@ -967,7 +967,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "church",
     name: { de: "Kirche St. Jakobus", hu: "Szent Jakab-templom", ro: "Biserica Sfântul Iacob", en: "Saint James Church"},
     image: "/poi-images/bosniaherzegovina-st-james-church-medjugorje-landmarks-v2.webp",
-    coordinates: { lat: 43.1906, lng: 17.6769 },
+    coords: [17.6769, 43.1906],
     description: {
       de: "Die zentrale Pfarrkirche von Međugorje und ein bekannter katholischer Wallfahrtsort.",
       hu: "Međugorje központi plébániatemploma és világhírű katolikus zarándokhely.",
@@ -999,7 +999,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "church",
     name: { de: "Ali-Pascha-Moschee", hu: "Ali pasa mecset", ro: "Moscheea Ali Pașa", en: "Ali Pasha Mosque"},
     image: "/poi-images/bosniaherzegovina-ali-pasha-mosque-landmarks-v2.webp",
-    coordinates: { lat: 43.8583, lng: 18.4114 },
+    coords: [18.4114, 43.8583],
     description: {
       de: "Eine klassische osmanische Moschee in Sarajevo, bekannt für ihre harmonischen Proportionen.",
       hu: "Klasszikus oszmán mecset Szarajevóban, amely harmonikus arányairól és kertjéről ismert.",
@@ -1031,7 +1031,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Historisches Museum von Bosnien", hu: "Bosznia-Hercegovina Történeti Múzeuma", ro: "Muzeul de Istorie al Bosniei și Herțegovinei", en: "History Museum of Bosnia and Herzegovina"},
     image: "/poi-images/bosniaherzegovina-history-museum-bih-landmarks-v2.webp",
-    coordinates: { lat: 43.8553, lng: 18.4019 },
+    coords: [18.4019, 43.8553],
     description: {
       de: "Ein bedeutendes Museum in Sarajevo, das die Geschichte des Landes von der Antike bis heute zeigt.",
       hu: "Szarajevó jelentős múzeuma, amely az ország történelmét mutatja be az ókortól napjainkig.",
@@ -1063,7 +1063,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "landmark",
     name: { de: "Kloster Zavala", hu: "Zavala kolostor", ro: "Mănăstirea Zavala", en: "Zavala Monastery"},
     image: "/poi-images/bosniaherzegovina-zavala-monastery-landmarks-v2.webp",
-    coordinates: { lat: 42.8489, lng: 17.9786 },
+    coords: [17.9786, 42.8489],
     description: {
       de: "Ein altes orthodoxes Kloster, das teilweise in den Felsen über dem Popovo Polje gebaut wurde.",
       hu: "Ősi ortodox kolostor, amely részben a sziklába épült a Popovo Polje síkság felett.",
@@ -1095,7 +1095,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "landmark",
     name: { de: "Kloster Žitomislić", hu: "Žitomislić kolostor", ro: "Mănăstirea Žitomislić", en: "Žitomislić Monastery"},
     image: "/poi-images/bosniaherzegovina-zitomislic-monastery-landmarks-v2.webp",
-    coordinates: { lat: 43.195, lng: 17.7778 },
+    coords: [17.7778, 43.195],
     description: {
       de: "Ein bedeutendes serbisch-orthodoxes Kloster im Neretva-Tal, südlich von Mostar.",
       hu: "Jelentős szerb ortodox kolostor a Neretva-völgyben, Mostartól délre.",
@@ -1127,7 +1127,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "church",
     name: { de: "Karađoz-beg-Moschee", hu: "Karađoz-bég mecset", ro: "Moscheea Karađoz Bey", en: "Karadjoz Bey Mosque"},
     image: "/poi-images/bosniaherzegovina-karadjoz-bey-mosque-landmarks-v2.webp",
-    coordinates: { lat: 43.3422, lng: 17.8139 },
+    coords: [17.8139, 43.3422],
     description: {
       de: "Die größte und prächtigste Moschee in der Region Herzegowina, gelegen in Mostar.",
       hu: "Hercegovina legnagyobb és legpompásabb mecsetje, amely Mostarban található.",
@@ -1159,7 +1159,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "palace",
     name: { de: "Rathaus von Banja Luka", hu: "Banja Luka városháza", ro: "Primăria din Banja Luka", en: "Banja Luka City Hall"},
     image: "/poi-images/bosniaherzegovina-banja-luka-city-hall-landmarks-v2.webp",
-    coordinates: { lat: 44.7722, lng: 17.1925 },
+    coords: [17.1925, 44.7722],
     description: {
       de: "Ein repräsentatives Verwaltungsgebäude im Zentrum von Banja Luka, Sitz der Stadtverwaltung.",
       hu: "Reprezentatív közigazgatási épület Banja Luka központjában, a városi önkormányzat székhelye.",
@@ -1191,7 +1191,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Kunstgalerie von Bosnien", hu: "Bosznia-Hercegovina Művészeti Galériája", ro: "Galeria de Artă a Bosniei și Herțegovinei", en: "Art Gallery of Bosnia and Herzegovina"},
     image: "/poi-images/bosniaherzegovina-art-gallery-bih-landmarks-v2.webp",
-    coordinates: { lat: 43.8586, lng: 18.4239 },
+    coords: [18.4239, 43.8586],
     description: {
       de: "Die wichtigste Kunstinstitution des Landes, die moderne und zeitgenössische bosnische Kunst ausstellt.",
       hu: "Az ország legfontosabb művészeti intézménye, amely modern és kortárs bosnyák művészetet mutat be.",
@@ -1223,7 +1223,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "museum",
     name: { de: "Bišćević-Haus", hu: "Bišćević-ház", ro: "Casa Bišćević", en: "Bišćević House"},
     image: "/poi-images/bosniaherzegovina-biscevic-house-landmarks-v2.webp",
-    coordinates: { lat: 43.3414, lng: 17.8122 },
+    coords: [17.8122, 43.3414],
     description: {
       de: "Eines der besterhaltenen osmanischen Wohnhäuser in Mostar, direkt am Ufer der Neretva gelegen.",
       hu: "Az egyik legjobb állapotban fennmaradt oszmán lakóház Mostarban, közvetlenül a Neretva partján.",
@@ -1255,7 +1255,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     type: "landmark",
     name: { de: "Kloster Tavna", hu: "Tavna kolostor", ro: "Mănăstirea Tavna", en: "Tavna Monastery"},
     image: "/poi-images/bosniaherzegovina-tavna-monastery-landmarks-v2.webp",
-    coordinates: { lat: 44.6033, lng: 19.0111 },
+    coords: [19.0111, 44.6033],
     description: {
       de: "Ein historisches orthodoxes Kloster in der Nähe von Bijeljina, bekannt für seine spirituelle Bedeutung.",
       hu: "Történelmi ortodox kolostor Bijeljina közelében, amely spirituális jelentőségéről ismert.",

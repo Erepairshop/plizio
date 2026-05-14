@@ -6,7 +6,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Circeo Nationalpark", hu: "Circeo Nemzeti Park", ro: "Parcul Național Circeo", en: "Circeo National Park" },
-    coordinates: { lat: 41.233, lng: 13.066 },
+    coords: [13.066, 41.233],
     description: {
       de: "Dieser Park in der Region Latium schützt das Küsten-Feuchtgebiet und den Circeo-Wald. Er umfasst Dünen, Wälder und eine Lagune.",
       hu: "A Lazio régióban található park a part menti vizes élőhelyet és a Circeo-erdőt védi. Dűnéket, erdőket és lagúnát foglal magában.",
@@ -38,7 +38,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Cilento Nationalpark", hu: "Cilento Nemzeti Park", ro: "Parcul Național Cilento", en: "Cilento National Park" },
-    coordinates: { lat: 40.216, lng: 15.266 },
+    coords: [15.266, 40.216],
     description: {
       de: "Der Park umfasst eine bergige Küstenlandschaft in Kampanien. Er ist als UNESCO-Biosphärenreservat anerkannt.",
       hu: "A park hegyvidéki tengerparti tájat ölel fel Campania régióban. UNESCO bioszféra-rezervátumként ismerik el.",
@@ -70,7 +70,7 @@ export const italyLifeV2: POI[] = [
     type: "wildlife",
     parent: "IT",
     name: { de: "Naturschutzgebiet Torre Guaceto", hu: "Torre Guaceto Természetvédelmi Terület", ro: "Rezervația Naturală Torre Guaceto", en: "Torre Guaceto Nature Reserve" },
-    coordinates: { lat: 40.716, lng: 17.783 },
+    coords: [17.783, 40.716],
     description: {
       de: "Dieses Schutzgebiet an der adriatischen Küste schützt Meereslebensräume und Feuchtgebiete. Es ist ein wichtiger Ort für die Biodiversität.",
       hu: "Ez az adriai parti védett terület tengeri élőhelyeket és vizes területeket őriz. Fontos helyszín a biológiai sokféleség számára.",
@@ -102,7 +102,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Botanischer Garten Padua", hu: "Padovai Botanikus Kert", ro: "Grădina Botanică din Padova", en: "Botanical Garden of Padua" },
-    coordinates: { lat: 45.402, lng: 11.884 },
+    coords: [11.884, 45.402],
     description: {
       de: "Dies ist der älteste akademische botanische Garten der Welt, gegründet 1545. Er gehört zum UNESCO-Welterbe.",
       hu: "Ez a világ legrégebbi akadémiai botanikus kertje, 1545-ben alapították. Az UNESCO világörökség része.",
@@ -134,7 +134,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Val Grande", hu: "Val Grande Nemzeti Park", ro: "Parcul Național Val Grande", en: "Val Grande National Park" },
-    coordinates: { lat: 46.033, lng: 8.5 },
+    coords: [8.5, 46.033],
     description: {
       de: "Dieser Park in der Nähe des Lago Maggiore ist bekannt als das größte Wildnisgebiet Italiens. Er zeichnet sich durch unberührte Natur aus.",
       hu: "A Maggiore-tó közelében található park Olaszország legnagyobb vadon területeként ismert. Érintetlen természet jellemzi.",
@@ -166,7 +166,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Sila Nationalpark", hu: "Sila Nemzeti Park", ro: "Parcul Național Sila", en: "Sila National Park" },
-    coordinates: { lat: 39.333, lng: 16.5 },
+    coords: [16.5, 39.333],
     description: {
       de: "Dieser Park in Kalabrien schützt das Sila-Plateau mit seinen ausgedehnten Kiefern- und Buchenwäldern. Er beheimatet den italienischen Wolf.",
       hu: "A calabriai park a Sila-fennsíkot védi kiterjedt fenyő- és bükkerdőivel. Az olasz farkas élőhelye.",
@@ -198,7 +198,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Aspromonte Nationalpark", hu: "Aspromonte Nemzeti Park", ro: "Parcul Național Aspromonte", en: "Aspromonte National Park" },
-    coordinates: { lat: 38.166, lng: 15.916 },
+    coords: [15.916, 38.166],
     description: {
       de: "Der Park liegt an der Südspitze Kalabriens. Er schützt bergige Landschaften mit einer Mischung aus mediterraner und alpiner Flora.",
       hu: "A park Calabria déli csücskén fekszik. Mediterrán és alpesi növényvilág keveredésével jellemezhető hegyvidéki tájakat véd.",
@@ -230,7 +230,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Gargano Nationalpark", hu: "Gargano Nemzeti Park", ro: "Parcul Național Gargano", en: "Gargano National Park" },
-    coordinates: { lat: 41.766, lng: 15.933 },
+    coords: [15.933, 41.766],
     description: {
       de: "Dieser Park umfasst die Gargano-Halbinsel in Apulien. Er schützt den Umbra-Wald sowie Küstengebiete und Inseln.",
       hu: "A park az apuliai Gargano-félszigetet öleli fel. Az Umbra-erdőt, valamint tengerparti területeket és szigeteket véd.",
@@ -262,7 +262,7 @@ export const italyLifeV2: POI[] = [
     type: "wildlife",
     parent: "IT",
     name: { de: "Naturschutzgebiet Bolgheri", hu: "Bolgheri Természetvédelmi Terület", ro: "Rezervația Naturală Bolgheri", en: "Bolgheri Nature Reserve" },
-    coordinates: { lat: 43.233, lng: 10.516 },
+    coords: [10.516, 43.233],
     description: {
       de: "Dieses private Naturschutzgebiet in der Toskana war das erste Italiens. Es bietet wichtigen Lebensraum für Wasservögel.",
       hu: "Ez a toszkánai magán természetvédelmi terület volt az első Olaszországban. Fontos élőhelyet biztosít a vízi madaraknak.",
@@ -294,7 +294,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Maiella Nationalpark", hu: "Maiella Nemzeti Park", ro: "Parcul Național Maiella", en: "Maiella National Park" },
-    coordinates: { lat: 42.083, lng: 14.083 },
+    coords: [14.083, 42.083],
     description: {
       de: "Dieser Park in den Abruzzen schützt das Maiella-Massiv. Er ist bekannt für seine Artenvielfalt und prähistorische Fundstätten.",
       hu: "Az Abruzzo régióban található park a Maiella-hegységet védi. Biológiai sokféleségéről és őskori lelőhelyeiről ismert.",
@@ -326,7 +326,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Hanbury Botanischer Garten", hu: "Hanbury Botanikus Kert", ro: "Grădina Botanică Hanbury", en: "Hanbury Botanical Gardens" },
-    coordinates: { lat: 43.783, lng: 7.533 },
+    coords: [7.533, 43.783],
     description: {
       de: "Dieser Garten liegt in Ventimiglia an der ligurischen Küste. Er beherbergt eine Sammlung exotischer Pflanzen aus der ganzen Welt.",
       hu: "Ez a kert Ventimigliában, a liguriai tengerparton fekszik. Egzotikus növények gyűjteményét őrzi a világ minden tájáról.",
@@ -358,7 +358,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Foreste Casentinesi", hu: "Foreste Casentinesi Nemzeti Park", ro: "Parcul Național Foreste Casentinesi", en: "Foreste Casentinesi National Park" },
-    coordinates: { lat: 43.833, lng: 11.833 },
+    coords: [11.833, 43.833],
     description: {
       de: "Dieser Park schützt einen der wertvollsten Laubwälder Europas im Apennin. Er ist für seine unberührten Wälder bekannt.",
       hu: "A park az Appenninek egyik legértékesebb lombhullató erdejét védi. Érintetlen erdőiről ismert.",
@@ -390,7 +390,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Naturpark Migliarino San Rossore", hu: "Migliarino San Rossore Regionális Park", ro: "Parcul Natural Regional Migliarino San Rossore", en: "Migliarino San Rossore Regional Park" },
-    coordinates: { lat: 43.716, lng: 10.3 },
+    coords: [10.3, 43.716],
     description: {
       de: "Dieser Park in der Nähe von Pisa schützt ein großes Küstengebiet. Er umfasst Wälder, Sümpfe und Sandstrände.",
       hu: "A Pisa közelében található park egy nagy tengerparti területet véd. Erdőket, mocsarakat és homokos strandokat foglal magában.",
@@ -422,7 +422,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Abruzzen, Latium und Molise", hu: "Abruzzo, Lazio és Molise Nemzeti Park", ro: "Parcul Național Abruzzo, Lazio și Molise", en: "Abruzzo, Lazio and Molise National Park" },
-    coordinates: { lat: 41.783, lng: 13.833 },
+    coords: [13.833, 41.783],
     description: {
       de: "Dies ist einer der ältesten Nationalparks Italiens. Er schützt den Lebensraum des Apennin-Braunbären.",
       hu: "Ez Olaszország egyik legrégebbi nemzeti parkja. Az appennini barna medve élőhelyét védi.",
@@ -454,7 +454,7 @@ export const italyLifeV2: POI[] = [
     type: "wildlife",
     parent: "IT",
     name: { de: "WWF-Oase Le Cesine", hu: "Le Cesine WWF Oázis", ro: "Oaza WWF Le Cesine", en: "WWF Oasis Le Cesine" },
-    coordinates: { lat: 40.35, lng: 18.3 },
+    coords: [18.3, 40.35],
     description: {
       de: "Dieses Naturschutzgebiet in Apulien ist ein wichtiges Sumpfgebiet. Es dient als Rastplatz für Zugvögel.",
       hu: "Ez az apuliai természetvédelmi terület fontos mocsárvidék. Pihenőhelyként szolgál a vándorló madarak számára.",
@@ -486,7 +486,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Regionalpark Ätna", hu: "Etna Regionális Park", ro: "Parcul Regional Etna", en: "Etna Regional Park" },
-    coordinates: { lat: 37.75, lng: 15.0 },
+    coords: [15.0, 37.75],
     description: {
       de: "Dieser Park umgibt den Ätna-Vulkan auf Sizilien. Er schützt einzigartige vulkanische Landschaften und endemische Flora.",
       hu: "A szicíliai Etna vulkánt körülvevő park. Egyedülálló vulkáni tájakat és endemikus növényvilágot véd.",
@@ -518,7 +518,7 @@ export const italyLifeV2: POI[] = [
     type: "wildlife",
     parent: "IT",
     name: { de: "Naturschutzgebiet Vendicari", hu: "Vendicari Természetvédelmi Terület", ro: "Rezervația Naturală Vendicari", en: "Vendicari Nature Reserve" },
-    coordinates: { lat: 36.783, lng: 15.083 },
+    coords: [15.083, 36.783],
     description: {
       de: "Das Reservat auf Sizilien ist bekannt für seine Lagunen. Es ist ein bedeutender Stopp für Zugvögel zwischen Europa und Afrika.",
       hu: "A szicíliai rezervátum lagúnáiról híres. Jelentős pihenőhely az Európa és Afrika között vándorló madarak számára.",
@@ -550,7 +550,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Gran Sasso", hu: "Gran Sasso Nemzeti Park", ro: "Parcul Național Gran Sasso", en: "Gran Sasso National Park" },
-    coordinates: { lat: 42.466, lng: 13.566 },
+    coords: [13.566, 42.466],
     description: {
       de: "Dieser Park schützt das Gran Sasso-Massiv in den Abruzzen. Er bietet alpine Lebensräume und eine reiche Flora.",
       hu: "Az Abruzzo régióban található Gran Sasso-hegységet védi. Alpesi élőhelyeket és gazdag növényvilágot kínál.",
@@ -582,7 +582,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Regionalpark Maremma", hu: "Maremma Regionális Park", ro: "Parcul Regional Maremma", en: "Maremma Regional Park" },
-    coordinates: { lat: 42.666, lng: 11.083 },
+    coords: [11.083, 42.666],
     description: {
       de: "Der Park an der toskanischen Küste umfasst Sümpfe, Pinienwälder und Strände. Er ist ein Lebensraum für zahlreiche Tierarten.",
       hu: "A toszkán partvidéken található park mocsarakat, fenyőerdőket és strandokat foglal magában. Számos állatfaj élőhelye.",
@@ -614,7 +614,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Botanischer Garten Neapel", hu: "Nápolyi Botanikus Kert", ro: "Grădina Botanică din Napoli", en: "Botanical Garden of Naples" },
-    coordinates: { lat: 40.86, lng: 14.26 },
+    coords: [14.26, 40.86],
     description: {
       de: "Dieser Garten in Neapel wurde 1807 gegründet. Er dient der Erhaltung seltener Pflanzenarten und der Bildung.",
       hu: "Ezt a nápolyi kertet 1807-ben alapították. Ritka növényfajok megőrzésére és oktatásra szolgál.",
@@ -646,7 +646,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Monti Sibillini", hu: "Monti Sibillini Nemzeti Park", ro: "Parcul Național Monti Sibillini", en: "Monti Sibillini National Park" },
-    coordinates: { lat: 42.833, lng: 13.25 },
+    coords: [13.25, 42.833],
     description: {
       de: "Dieser Park in Mittelitalien schützt die Sibillini-Berge. Er bietet eine einzigartige Flora und Fauna in den Apenninen.",
       hu: "A közép-olaszországi park a Sibillini-hegységet védi. Egyedülálló növény- és állatvilágot kínál az Appenninekben.",
@@ -678,7 +678,7 @@ export const italyLifeV2: POI[] = [
     type: "lake",
     parent: "IT",
     name: { de: "Regionalpark Bracciano-See", hu: "Bracciano-tó Regionális Park", ro: "Parcul Regional Lacul Bracciano", en: "Bracciano Lake Regional Park" },
-    coordinates: { lat: 42.116, lng: 12.233 },
+    coords: [12.233, 42.116],
     description: {
       de: "Dieser Park schützt das Gebiet um den Bracciano-See. Es ist ein vulkanischer See und ein wichtiges Trinkwasserreservoir.",
       hu: "A park a Bracciano-tó környékét védi. Egy vulkanikus eredetű tó és fontos ivóvíz-tározó.",
@@ -710,7 +710,7 @@ export const italyLifeV2: POI[] = [
     type: "river",
     parent: "IT",
     name: { de: "Naturschutzgebiet Po-Delta", hu: "Po-delta Természetvédelmi Terület", ro: "Rezervația Naturală Delta Padului", en: "Po Delta Nature Reserve" },
-    coordinates: { lat: 44.933, lng: 12.35 },
+    coords: [12.35, 44.933],
     description: {
       de: "Das Po-Delta ist eines der bedeutendsten Feuchtgebiete Europas. Es bietet Lebensraum für zahlreiche Vogelarten und Wasserökosysteme.",
       hu: "A Pó-delta Európa egyik legjelentősebb vizes élőhelye. Számos madárfajnak és vízi ökoszisztémának ad otthont.",
@@ -742,7 +742,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Val d'Agri", hu: "Val d'Agri Nemzeti Park", ro: "Parcul Național Val d'Agri", en: "Val d'Agri National Park" },
-    coordinates: { lat: 40.333, lng: 15.833 },
+    coords: [15.833, 40.333],
     description: {
       de: "Dieser Park in der Basilicata schützt das Tal des Agri-Flusses. Er umfasst bergige Wälder und eine reiche ländliche Natur.",
       hu: "A Basilicata régióban található park az Agri folyó völgyét védi. Hegyvidéki erdőket és gazdag vidéki természetet foglal magában.",
@@ -774,7 +774,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Regionalpark Monte Subasio", hu: "Monte Subasio Regionális Park", ro: "Parcul Regional Monte Subasio", en: "Monte Subasio Regional Park" },
-    coordinates: { lat: 43.05, lng: 12.666 },
+    coords: [12.666, 43.05],
     description: {
       de: "Dieser Park in Umbrien umgibt den Monte Subasio. Er ist bekannt für seine natürliche Schönheit und historische Verbindung zu Assisi.",
       hu: "Az umbriai park a Monte Subasio-t öleli körül. Természeti szépségéről és Assisi-hez fűződő történelmi kapcsolatáról ismert.",
@@ -806,7 +806,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Naturschutzgebiet Monte Tasso", hu: "Monte Tasso Természetvédelmi Terület", ro: "Rezervația Naturală Monte Tasso", en: "Monte Tasso Nature Reserve" },
-    coordinates: { lat: 41.5, lng: 14.5 },
+    coords: [14.5, 41.5],
     description: {
       de: "Dieses Reservat in Molise schützt alte Laubwälder. Es ist ein wichtiger Ort für die lokale Flora und Fauna.",
       hu: "A Molise régióban található rezervátum régi lombhullató erdőket véd. Fontos helyszín a helyi növény- és állatvilág számára.",
@@ -838,7 +838,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Botanischer Garten Catania", hu: "Cataniai Botanikus Kert", ro: "Grădina Botanică din Catania", en: "Botanical Garden of Catania" },
-    coordinates: { lat: 37.516, lng: 15.083 },
+    coords: [15.083, 37.516],
     description: {
       de: "Dieser Botanische Garten auf Sizilien wurde 1858 gegründet. Er beherbergt mediterrane und exotische Pflanzen.",
       hu: "Ezt a szicíliai botanikus kertet 1858-ban alapították. Mediterrán és egzotikus növényeket őriz.",
@@ -870,7 +870,7 @@ export const italyLifeV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Regionalpark Conero", hu: "Conero Regionális Park", ro: "Parcul Regional Conero", en: "Conero Regional Park" },
-    coordinates: { lat: 43.55, lng: 13.6 },
+    coords: [13.6, 43.55],
     description: {
       de: "Dieser Park in den Marken schützt das Conero-Vorgebirge an der Adriaküste. Er zeichnet sich durch weiße Klippen und Wälder aus.",
       hu: "A Marche régióbeli park az adriai parti Conero-fokot védi. Fehér sziklák és erdők jellemzik.",

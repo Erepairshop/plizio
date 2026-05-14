@@ -6,7 +6,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Duinen van Texel", hu: "Duinen van Texel Nemzeti Park", ro: "Parcul Național Duinen van Texel", en: "Duinen van Texel National Park" },
-    coordinates: { lat: 53.0833, lng: 4.8 },
+    coords: [4.8, 53.0833],
     description: {
       de: "Dieser Nationalpark erstreckt sich über die Westküste der Insel Texel. Er umfasst Dünenlandschaften, Strandebenen und offene Heidelandschaften.",
       hu: "Ez a nemzeti park Texel szigetének nyugati partvidékén terül el. Dűnevidékeket, tengerparti síkságokat és nyílt hangaféléket foglal magában.",
@@ -38,7 +38,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "wildlife",
     parent: "NL",
     name: { de: "Artis Amsterdam Royal Zoo", hu: "Artis Amsterdam Királyi Állatkert", ro: "Grădina Zoologică Regală Artis Amsterdam", en: "Artis Amsterdam Royal Zoo" },
-    coordinates: { lat: 52.3667, lng: 4.9139 },
+    coords: [4.9139, 52.3667],
     description: {
       de: "Der 1838 gegründete Zoo liegt im Stadtzentrum von Amsterdam. Er beherbergt zahlreiche Tierarten, ein Aquarium und ein Planetarium.",
       hu: "Az 1838-ban alapított állatkert Amszterdam belvárosában található. Számos állatfajnak, egy akváriumnak és egy planetáriumnak ad otthont.",
@@ -70,7 +70,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "wildlife",
     parent: "NL",
     name: { de: "Diergaarde Blijdorp", hu: "Diergaarde Blijdorp", ro: "Grădina Zoologică Blijdorp", en: "Diergaarde Blijdorp" },
-    coordinates: { lat: 51.9328, lng: 4.4564 },
+    coords: [4.4564, 51.9328],
     description: {
       de: "Dieser moderne Zoo in Rotterdam ist für sein markantes Oceanium bekannt. Er widmet sich dem Artenschutz und der internationalen Zucht.",
       hu: "Ez a modern rotterdami állatkert a feltűnő Oceaniumjáról ismert. A fajmegőrzésnek és a nemzetközi tenyésztésnek szenteli magát.",
@@ -102,7 +102,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Hortus Botanicus Leiden", hu: "Hortus Botanicus Leiden", ro: "Hortus Botanicus Leiden", en: "Hortus Botanicus Leiden" },
-    coordinates: { lat: 52.1583, lng: 4.4861 },
+    coords: [4.4861, 52.1583],
     description: {
       de: "Gegründet im Jahr 1590, ist dies der älteste botanische Garten der Niederlande. Er ist mit der Universität Leiden verbunden.",
       hu: "Az 1590-ben alapított kert Hollandia legrégebbi botanikus kertje. A Leideni Egyetemhez tartozik.",
@@ -134,7 +134,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Drentsche Aa", hu: "Drentsche Aa Nemzeti Park", ro: "Parcul Național Drentsche Aa", en: "Drentsche Aa National Park" },
-    coordinates: { lat: 53.05, lng: 6.6667 },
+    coords: [6.6667, 53.05],
     description: {
       de: "Das Gebiet ist bekannt für seinen intakten, mäandrierenden Bachlauf. Es zeigt ein traditionelles bäuerliches Kulturlandschaftsbild.",
       hu: "A terület érintetlen, kanyargós patakjáról ismert. Hagyományos paraszti kultúrtájat mutat be.",
@@ -166,7 +166,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "wildlife",
     parent: "NL",
     name: { de: "Burgers' Zoo", hu: "Burgers' Állatkert", ro: "Grădina Zoologică Burgers'", en: "Burgers' Zoo" },
-    coordinates: { lat: 52.0167, lng: 5.9167 },
+    coords: [5.9167, 52.0167],
     description: {
       de: "Dieser Zoo in Arnhem ist für seine großen, ökologisch gestalteten Innenbereiche bekannt. Er bietet Erlebnisse wie einen tropischen Regenwald.",
       hu: "Ez az arnhemi állatkert a nagy, ökológiailag kialakított belső tereiről ismert. Olyan élményeket kínál, mint a trópusi esőerdő.",
@@ -198,7 +198,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Botanische Gärten Utrecht", hu: "Utrechti Botanikus Kertek", ro: "Grădinile Botanice din Utrecht", en: "Utrecht Botanical Gardens" },
-    coordinates: { lat: 52.0833, lng: 5.1667 },
+    coords: [5.1667, 52.0833],
     description: {
       de: "Die Gärten befinden sich im Wissenschaftspark der Universität Utrecht. Sie bieten eine vielfältige Sammlung an botanischen Anlagen.",
       hu: "A kertek az Utrechti Egyetem tudományos parkjában találhatók. Változatos botanikai gyűjteményt kínálnak.",
@@ -230,7 +230,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Nieuw Land", hu: "Nieuw Land Nemzeti Park", ro: "Parcul Național Nieuw Land", en: "Nieuw Land National Park" },
-    coordinates: { lat: 52.45, lng: 5.3833 },
+    coords: [5.3833, 52.45],
     description: {
       de: "Einer der jüngsten Nationalparks, gelegen in Flevoland. Er zeichnet sich durch seine künstlich geschaffene, wasserreiche Umgebung aus.",
       hu: "Az egyik legfiatalabb nemzeti park, Flevolandban található. Mesterségesen létrehozott, vízben gazdag környezete jellemzi.",
@@ -262,7 +262,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "wildlife",
     parent: "NL",
     name: { de: "Wildlands Adventure Zoo Emmen", hu: "Wildlands Adventure Zoo Emmen", ro: "Grădina Zoologică Wildlands Adventure Emmen", en: "Wildlands Adventure Zoo Emmen" },
-    coordinates: { lat: 52.7833, lng: 6.8833 },
+    coords: [6.8833, 52.7833],
     description: {
       de: "Dieser Zoo in Emmen verfolgt ein Konzept, das Themenwelten mit einer Safari verbindet. Er bietet immersive Erlebnisse.",
       hu: "Ez az emmeni állatkert olyan koncepciót követ, amely tematikus világokat köt össze egy szafarival. Magával ragadó élményeket kínál.",
@@ -294,7 +294,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "valley",
     parent: "NL",
     name: { de: "Geuldal", hu: "Geuldal", ro: "Valea Geul", en: "Geul Valley" },
-    coordinates: { lat: 50.85, lng: 5.8 },
+    coords: [5.8, 50.85],
     description: {
       de: "Die Geuldal ist ein malerisches Flusstal in der Region Limburg. Sie ist für ihre geologische Vielfalt und Flora bekannt.",
       hu: "A Geuldal egy festői folyóvölgy Limburg régióban. Geológiai sokféleségéről és növényvilágáról ismert.",
@@ -326,7 +326,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Hortus Botanicus Amsterdam", hu: "Hortus Botanicus Amszterdam", ro: "Grădina Botanică din Amsterdam", en: "Hortus Botanicus Amsterdam" },
-    coordinates: { lat: 52.3644, lng: 4.9056 },
+    coords: [4.9056, 52.3644],
     description: {
       de: "Eine der ältesten botanischen Gärten der Welt. Er liegt im Zentrum von Amsterdam und hat eine reiche Geschichte.",
       hu: "A világ egyik legrégebbi botanikus kertje. Amszterdam központjában található, és gazdag történelemmel rendelkezik.",
@@ -358,7 +358,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark De Uilenhorst", hu: "De Uilenhorst Nemzeti Park", ro: "Parcul Național De Uilenhorst", en: "De Uilenhorst National Park" },
-    coordinates: { lat: 52.05, lng: 5.95 },
+    coords: [5.95, 52.05],
     description: {
       de: "Ein geschütztes Naturgebiet im Osten der Niederlande. Es zeichnet sich durch seine Moorlandschaften und Wälder aus.",
       hu: "Védett természeti terület Hollandia keleti részén. Lápvidékeiről és erdeiről ismert.",
@@ -390,7 +390,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Polder Arkemheen", hu: "Arkemheen Polder", ro: "Polderul Arkemheen", en: "Arkemheen Polder" },
-    coordinates: { lat: 52.25, lng: 5.4333 },
+    coords: [5.4333, 52.25],
     description: {
       de: "Dieses Poldergebiet ist ein bedeutendes Schutzgebiet für Wiesenvögel. Es bewahrt die historische Kulturlandschaft.",
       hu: "Ez a polderterület a mezei madarak számára fontos védett terület. Megőrzi a történelmi kultúrtájat.",
@@ -422,7 +422,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Oosterschelde", hu: "Oosterschelde Nemzeti Park", ro: "Parcul Național Oosterschelde", en: "Oosterschelde National Park" },
-    coordinates: { lat: 51.55, lng: 4.0 },
+    coords: [4.0, 51.55],
     description: {
       de: "Dieser Meeres-Nationalpark liegt in Zeeland. Er ist für seine Gezeiten, Gezeitenflächen und die Unterwasserwelt bekannt.",
       hu: "Ez a tengeri nemzeti park Zeelandban található. Ismert az árapályokról, az árapály-síkságokról és a víz alatti világról.",
@@ -454,7 +454,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Botanischer Garten Arboretum Trompenburg", hu: "Arboretum Trompenburg Botanikus Kert", ro: "Grădina Botanică Arboretum Trompenburg", en: "Arboretum Trompenburg" },
-    coordinates: { lat: 51.9056, lng: 4.5167 },
+    coords: [4.5167, 51.9056],
     description: {
       de: "Ein privater botanischer Garten in Rotterdam mit einer beeindruckenden Sammlung von Bäumen und Sträuchern.",
       hu: "Magánkézben lévő botanikus kert Rotterdamban, lenyűgöző fa- és cserjegyűjteménnyel.",
@@ -486,7 +486,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark De Maasduinen", hu: "De Maasduinen Nemzeti Park", ro: "Parcul Național De Maasduinen", en: "De Maasduinen National Park" },
-    coordinates: { lat: 51.6333, lng: 6.0833 },
+    coords: [6.0833, 51.6333],
     description: {
       de: "Der Park umfasst das längste Dünengebiet entlang eines Flusses in den Niederlanden. Er liegt an der Maas.",
       hu: "A park a Hollandia folyó mentén húzódó leghosszabb dűnevidéket foglalja magában. A Maas folyónál fekszik.",
@@ -518,7 +518,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Sallandse Heuvelrug", hu: "Sallandse Heuvelrug Nemzeti Park", ro: "Parcul Național Sallandse Heuvelrug", en: "Sallandse Heuvelrug National Park" },
-    coordinates: { lat: 52.3667, lng: 6.45 },
+    coords: [6.45, 52.3667],
     description: {
       de: "Dieses Gebiet in Overijssel zeichnet sich durch seine sanften Hügel und Heideflächen aus. Es ist ideal für Naturbeobachtungen.",
       hu: "Ez az Overijssel-i terület dombos vidékéről és hangásairól ismert. Ideális természetmegfigyelésre.",
@@ -550,7 +550,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark De Hoge Veluwe", hu: "De Hoge Veluwe Nemzeti Park", ro: "Parcul Național De Hoge Veluwe", en: "De Hoge Veluwe National Park" },
-    coordinates: { lat: 52.0833, lng: 5.8167 },
+    coords: [5.8167, 52.0833],
     description: {
       de: "Ein weitläufiges Naturgebiet in Gelderland. Es besteht aus Wäldern, Heideflächen und Sandverwehungen.",
       hu: "Kiterjedt természeti terület Gelderlandban. Erdőkből, hangásokból és futóhomokos területekből áll.",
@@ -582,7 +582,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Naturschutzgebiet Zwin", hu: "Zwin Természetvédelmi Terület", ro: "Rezervația Naturală Zwin", en: "Zwin Nature Reserve" },
-    coordinates: { lat: 51.3667, lng: 3.35 },
+    coords: [3.35, 51.3667],
     description: {
       de: "Ein grenzüberschreitendes Schutzgebiet an der Küste. Es bietet ein dynamisches Ökosystem aus Prielen und Salzwiesen.",
       hu: "Határokon átnyúló védett terület a tengerparton. A csatornák és sósvizes rétek dinamikus ökoszisztémáját kínálja.",
@@ -614,7 +614,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Lauwersmeer", hu: "Lauwersmeer Nemzeti Park", ro: "Parcul Național Lauwersmeer", en: "Lauwersmeer National Park" },
-    coordinates: { lat: 53.35, lng: 6.2 },
+    coords: [6.2, 53.35],
     description: {
       de: "Ursprünglich Teil des Wattenmeeres, entstand der See durch einen Dammbau. Heute ein wichtiges Vogelschutzgebiet.",
       hu: "Eredetileg a Watt-tenger része volt, a tó egy gátépítés révén keletkezett. Ma fontos madárvédelmi terület.",
@@ -646,7 +646,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Botanischer Garten TU Delft", hu: "TU Delft Botanikus Kert", ro: "Grădina Botanică TU Delft", en: "TU Delft Botanical Garden" },
-    coordinates: { lat: 52.0083, lng: 4.3667 },
+    coords: [4.3667, 52.0083],
     description: {
       de: "Dieser Garten ist mit der Technischen Universität Delft verbunden. Er dient der Forschung und Lehre.",
       hu: "Ez a kert a Delfti Műszaki Egyetemhez tartozik. Kutatási és oktatási célokat szolgál.",
@@ -678,7 +678,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Weerribben-Wieden", hu: "Weerribben-Wieden Nemzeti Park", ro: "Parcul Național Weerribben-Wieden", en: "Weerribben-Wieden National Park" },
-    coordinates: { lat: 52.75, lng: 5.95 },
+    coords: [5.95, 52.75],
     description: {
       de: "Dieses Moor- und Seenland in Overijssel ist das größte Flachmoor-Gebiet Westeuropas. Es ist durch Torfabbau entstanden.",
       hu: "Ez a mocsaras és tavas vidéke Overijssel-ben Nyugat-Európa legnagyobb lápos területe. Tőzegbányászat révén jött létre.",
@@ -710,7 +710,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Dwingelderveld", hu: "Dwingelderveld Nemzeti Park", ro: "Parcul Național Dwingelderveld", en: "Dwingelderveld National Park" },
-    coordinates: { lat: 52.8167, lng: 6.3833 },
+    coords: [6.3833, 52.8167],
     description: {
       de: "Der Park bewahrt das größte Feuchtheidegebiet Westeuropas. Er ist geprägt von Heidekraut, Mooren und Wäldern.",
       hu: "A park Nyugat-Európa legnagyobb nedves hangás területét őrzi. Hangák, lápok és erdők jellemzik.",
@@ -742,7 +742,7 @@ export const netherlandsLifeV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Botanischer Garten Haren", hu: "Haren Botanikus Kert", ro: "Grădina Botanică Haren", en: "Hortus Haren" },
-    coordinates: { lat: 53.1667, lng: 6.6 },
+    coords: [6.6, 53.1667],
     description: {
       de: "Ein botanischer Garten in Haren nahe Groningen. Bekannt für seine Themengärten, wie den chinesischen Garten.",
       hu: "Botanikus kert Harenben, Groningen közelében. Tematikus kertjeiről, például a kínai kertről ismert.",

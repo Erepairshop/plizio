@@ -6,7 +6,7 @@ export const germanyReliefV2: POI[] = [
     type: "valley",
     parent: "DE",
     name: { de: "Wimbachgries", hu: "Wimbachgries", ro: "Wimbachgries", en: "Wimbachgries" },
-    coordinates: { lat: 47.575, lng: 12.875 },
+    coords: [12.875, 47.575],
     description: {
       de: "Das Wimbachgries ist ein langgestrecktes Schuttstromtal in den Berchtesgadener Alpen. Es trennt die Watzmann-Gruppe vom Hochkalter-Massiv.",
       hu: "A Wimbachgries egy hosszú, törmelékfolyásos völgy a Berchtesgadeni-Alpokban. Elválasztja a Watzmann-csoportot a Hochkalter-masszívumtól.",
@@ -38,7 +38,7 @@ export const germanyReliefV2: POI[] = [
     type: "mountain",
     parent: "DE",
     name: { de: "Feldberg", hu: "Feldberg", ro: "Feldberg", en: "Feldberg" },
-    coordinates: { lat: 47.876, lng: 8.004 },
+    coords: [8.004, 47.876],
     description: {
       de: "Der Feldberg ist mit 1.493 Metern der höchste Berg des Schwarzwalds. Er liegt im Bundesland Baden-Württemberg.",
       hu: "A 1493 méteres Feldberg a Fekete-erdő legmagasabb hegye. Baden-Württemberg tartományban található.",
@@ -70,7 +70,7 @@ export const germanyReliefV2: POI[] = [
     type: "mountain",
     parent: "DE",
     name: { de: "Katzenbuckel", hu: "Katzenbuckel", ro: "Katzenbuckel", en: "Katzenbuckel" },
-    coordinates: { lat: 49.467, lng: 9.066 },
+    coords: [9.066, 49.467],
     description: {
       de: "Der Katzenbuckel ist mit 626 Metern die höchste Erhebung des Odenwalds. Er ist ein erloschener Vulkan in Baden-Württemberg.",
       hu: "A 626 méteres Katzenbuckel az Odenwald legmagasabb pontja. Egy kialudt vulkán Baden-Württembergben.",
@@ -102,7 +102,7 @@ export const germanyReliefV2: POI[] = [
     type: "mountain",
     parent: "DE",
     name: { de: "Kahler Asten", hu: "Kahler Asten", ro: "Kahler Asten", en: "Kahler Asten" },
-    coordinates: { lat: 51.183, lng: 8.489 },
+    coords: [8.489, 51.183],
     description: {
       de: "Der Kahle Asten ist eine markante Erhebung im Rothaargebirge in Nordrhein-Westfalen. Er ist ein wichtiges Ziel für Wanderer und Wintersportler.",
       hu: "A Kahler Asten a Rothaar-hegység kiemelkedő pontja Észak-Rajna-Vesztfáliában. Fontos célpont a túrázók és téli sportolók számára.",
@@ -134,7 +134,7 @@ export const germanyReliefV2: POI[] = [
     type: "mountain",
     parent: "DE",
     name: { de: "Teutoburger Wald Kamm", hu: "Teutoburgi-erdő gerinc", ro: "Creasta Teutoburger Wald", en: "Teutoburg Forest Ridge" },
-    coordinates: { lat: 51.921, lng: 8.815 },
+    coords: [8.815, 51.921],
     description: {
       de: "Der Teutoburger Wald ist ein Mittelgebirgszug in Niedersachsen und Nordrhein-Westfalen. Der Kamm bildet eine markante landschaftliche Trennlinie.",
       hu: "A Teutoburgi-erdő egy középhegységi vonulat Alsó-Szászországban és Észak-Rajna-Vesztfáliában. A gerinc jellegzetes táji választóvonalat képez.",
@@ -166,7 +166,7 @@ export const germanyReliefV2: POI[] = [
     type: "park",
     parent: "DE",
     name: { de: "Donaumoos", hu: "Donaumoos", ro: "Donaumoos", en: "Donaumoos" },
-    coordinates: { lat: 48.665, lng: 11.233 },
+    coords: [11.233, 48.665],
     description: {
       de: "Das Donaumoos ist ein großes Niedermoorbecken zwischen Ingolstadt und Neuburg an der Donau. Es ist das größte zusammenhängende Moorgebiet Süddeutschlands.",
       hu: "A Donaumoos egy nagy síkláp-medence Ingolstadt és Neuburg an der Donau között. Ez Dél-Németország legnagyobb összefüggő lápvidéke.",
@@ -198,7 +198,7 @@ export const germanyReliefV2: POI[] = [
     type: "mountain",
     parent: "DE",
     name: { de: "Haardt", hu: "Haardt", ro: "Haardt", en: "Haardt" },
-    coordinates: { lat: 49.383, lng: 8.083 },
+    coords: [8.083, 49.383],
     description: {
       de: "Die Haardt ist der östliche Gebirgszug des Pfälzerwaldes. Sie grenzt direkt an die Weinbauregion Deutsche Weinstraße.",
       hu: "A Haardt a Pfälzi-erdő keleti hegyvonulata. Közvetlenül a Német Borút borvidékkel határos.",
@@ -230,7 +230,7 @@ export const germanyReliefV2: POI[] = [
     type: "mountain",
     parent: "DE",
     name: { de: "Hoher Meißner", hu: "Hoher Meißner", ro: "Hoher Meißner", en: "Hoher Meißner" },
-    coordinates: { lat: 51.226, lng: 9.851 },
+    coords: [9.851, 51.226],
     description: {
       de: "Der Hohe Meißner ist ein 753 Meter hoher Berg in Nordhessen. Er ist ein bekanntes Wandergebiet und bekannt durch die Frau-Holle-Sage.",
       hu: "A Hoher Meißner egy 753 méteres hegy Észak-Hessenben. Ismert túraövezet, és a Frau Holle-mondáról híres.",
@@ -262,7 +262,7 @@ export const germanyReliefV2: POI[] = [
     type: "mountain",
     parent: "DE",
     name: { de: "Fichtelgebirge", hu: "Fichtel-hegység", ro: "Munții Fichtel", en: "Fichtel Mountains" },
-    coordinates: { lat: 50.05, lng: 11.833 },
+    coords: [11.833, 50.05],
     description: {
       de: "Das Fichtelgebirge liegt im Nordosten Bayerns. Es ist bekannt für seine hufeisenförmige Anordnung der Bergketten.",
       hu: "A Fichtel-hegység Bajorország északkeleti részén található. Híres a hegyláncainak patkó alakú elrendeződéséről.",
@@ -294,7 +294,7 @@ export const germanyReliefV2: POI[] = [
     type: "landmark",
     parent: "DE",
     name: { de: "Dörenther Klippen", hu: "Dörenther Klippen", ro: "Dörenther Klippen", en: "Dörenther Klippen" },
-    coordinates: { lat: 52.235, lng: 7.742 },
+    coords: [7.742, 52.235],
     description: {
       de: "Die Dörenther Klippen sind eine markante Felsformation im Teutoburger Wald. Sie bestehen aus Sandstein und ragen aus dem Waldgebiet heraus.",
       hu: "A Dörenther Klippen jellegzetes sziklaformáció a Teutoburgi-erdőben. Homokkőből állnak, és kiemelkednek az erdőterületből.",
@@ -326,7 +326,7 @@ export const germanyReliefV2: POI[] = [
     type: "mountain",
     parent: "DE",
     name: { de: "Schwarzwaldhochstraße", hu: "Schwarzwaldhochstraße", ro: "Schwarzwaldhochstraße", en: "Black Forest High Road" },
-    coordinates: { lat: 48.566, lng: 8.233 },
+    coords: [8.233, 48.566],
     description: {
       de: "Die Schwarzwaldhochstraße ist eine touristische Hochstraße im Nordschwarzwald. Sie verläuft in Höhen zwischen 600 und 1.000 Metern.",
       hu: "A Schwarzwaldhochstraße egy turisztikai magashegyi út az Északi-Fekete-erdőben. 600 és 1000 méter közötti magasságban halad.",
@@ -358,7 +358,7 @@ export const germanyReliefV2: POI[] = [
     type: "mountain",
     parent: "DE",
     name: { de: "Vulkaneifel", hu: "Vulkaneifel", ro: "Vulkaneifel", en: "Vulkaneifel" },
-    coordinates: { lat: 50.15, lng: 6.833 },
+    coords: [6.833, 50.15],
     description: {
       de: "Die Vulkaneifel ist ein Gebiet der Eifel, das durch seine zahlreichen vulkanischen Aktivitäten geprägt ist. Bekannt ist sie für ihre Maare.",
       hu: "A Vulkaneifel az Eifel-hegység azon része, amelyet vulkáni tevékenységek jellemeznek. A krátertavairól (Maare) híres.",
@@ -390,7 +390,7 @@ export const germanyReliefV2: POI[] = [
     type: "mountain",
     parent: "DE",
     name: { de: "Hoher Westerwald", hu: "Hoher Westerwald", ro: "Hoher Westerwald", en: "High Westerwald" },
-    coordinates: { lat: 50.6, lng: 8.083 },
+    coords: [8.083, 50.6],
     description: {
       de: "Der Hohe Westerwald ist der zentrale Teil des Westerwaldes in Hessen und Rheinland-Pfalz. Er ist durch Hochplateaus und bewaldete Gipfel gekennzeichnet.",
       hu: "A Hoher Westerwald a Westerwald középső része Hessenben és Rajna-vidék-Pfalzban. Fennsíkok és erdős csúcsok jellemzik.",

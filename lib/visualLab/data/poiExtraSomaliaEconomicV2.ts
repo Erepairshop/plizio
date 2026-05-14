@@ -492,7 +492,20 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: ["Exporttermékekre fókuszál.", "Jelentős a halászati gazdaság számára."],
       ro: ["Axat pe produse de export.", "Important pentru economia pescuitului."],
       en: ["Focused on export products.", "Significant for the fishing economy."]
-    }, image: "/poi-images/habo-tuna-economic-v2.webp"},
+    }, image: "/poi-images/habo-tuna-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Habo-Thunfischfabrik in Somalia ist eine der wenigen industriellen Fischverarbeitungsanlagen des Landes. Sie wurde 2011 mit Unterstützung internationaler Investoren errichtet, um die heimische Fischereiindustrie zu fördern. Die Fabrik verarbeitet hauptsächlich Thunfisch aus dem Indischen Ozean und produziert Konserven. Mit einer Kapazität von bis zu 50 Tonnen pro Tag trägt sie zur lokalen Wirtschaft bei, indem sie Arbeitsplätze schafft und Exporte ermöglicht. Die Anlage liegt strategisch günstig am Hafen von Habo, was den Transport der Fänge erleichtert. Trotz Herausforderungen wie Piraterie und fehlender Infrastruktur bleibt die Fabrik ein Symbol für wirtschaftliche Wiederbelebung in der Region Puntland.",
+      hu: "A Habo Tonhalgyár Szomália egyik legfontosabb halfeldolgozó üzeme, amelyet 2011-ben nyitottak meg külföldi beruházók segítségével. A gyár a helyi halászati ágazat fellendítését célozza, és évente több ezer tonna tonhalat dolgoz fel. A termékeket főként konzerv formájában exportálják a Közel-Keletre és Európába. A létesítmény 150 helyi munkavállalót foglalkoztat, ami jelentős a magas munkanélküliséggel küzdő régióban. A Habo kikötő közelsége lehetővé teszi a gyors logisztikát. Az üzem működése ellenére a politikai instabilitás és a halászati erőforrások túlhalászása kihívásokat jelent a hosszú távú fenntarthatóság szempontjából.",
+      ro: "Fabrica de ton Habo din Somalia este o unitate industrială cheie pentru procesarea peștelui, înființată în 2011 cu sprijinul investitorilor străini. Aceasta procesează ton capturat în Oceanul Indian, producând conserve destinate exportului. Capacitatea zilnică este de 50 de tone, iar fabrica angajează aproximativ 200 de persoane, contribuind la reducerea șomajului în regiunea Puntland. Amplasarea strategică lângă portul Habo facilitează aprovizionarea cu pește proaspăt. Deși se confruntă cu provocări precum pirateria și infrastructura precară, fabrica rămâne un pilon economic local și un exemplu de dezvoltare industrială în Somalia.",
+      en: "The Habo Tuna Factory in Somalia is a vital industrial fish processing plant established in 2011 with international investment. It processes tuna from the Indian Ocean, producing canned goods for export. With a daily capacity of 50 tons, it employs around 150 locals, boosting the economy of Puntland. Located near Habo port, it benefits from efficient logistics. Despite challenges like piracy and infrastructure deficits, the factory symbolizes economic revival in a region struggling with unemployment. Its operations highlight the potential of Somalia's fishing industry, though overfishing and political instability remain threats.",
+    },
+    factsAdvanced: {
+      de: ["2011 eröffnet", "50 Tonnen Kapazität pro Tag", "150 Arbeitsplätze", "Export nach Nahost und Europa", "Standort in Puntland", "Hauptprodukt: Thunfischkonserven"],
+      hu: ["2011-ben nyitották meg", "napi 50 tonna kapacitás", "150 helyi alkalmazott", "export a Közel-Keletre és Európába", "Puntland régióban található", "fő termék: tonhalkonzerv"],
+      ro: ["deschisă în 2011", "capacitate zilnică de 50 de tone", "150 de angajați locali", "export în Orientul Mijlociu și Europa", "situată în regiunea Puntland", "produs principal: conserve de ton"],
+      en: ["opened in 2011", "daily capacity of 50 tons", "150 local employees", "exports to Middle East and Europe", "located in Puntland", "main product: canned tuna"],
+    },
+  },
   {
     id: "qandala-fish-economic-v2",
     type: "industry",
@@ -515,7 +528,20 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
       hu: ["Halkonzerveket gyárt.", "Helyi munkahelyeket biztosít."],
       ro: ["Produce conserve de pește.", "Locuri de muncă locale."],
       en: ["Produces canned fish.", "Provides local jobs."]
-    }, image: "/poi-images/qandala-fish-economic-v2.webp"},
+    }, image: "/poi-images/qandala-fish-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Fischverarbeitungsanlage in Qandala, Somalia, ist ein wichtiger Wirtschaftsfaktor für die Region. Sie wurde 2015 mit Unterstützung der Europäischen Union errichtet, um die lokale Fischerei zu fördern. Die Anlage verarbeitet verschiedene Fischarten, darunter Thunfisch und Makrelen, und produziert getrocknete und geräucherte Produkte für den lokalen Markt und den Export. Mit einer Kapazität von 30 Tonnen pro Tag beschäftigt sie rund 100 Arbeiter. Die strategische Lage am Golf von Aden ermöglicht den Zugang zu reichen Fischgründen. Trotz Sicherheitsproblemen und mangelnder Kühlkette trägt die Fabrik zur Ernährungssicherheit und wirtschaftlichen Stabilität in der Region bei.",
+      hu: "A Qandala Halfeldolgozó Üzem Szomália északkeleti részén, 2015-ben nyílt meg EU-támogatással. A létesítmény a helyi halászat fellendítését célozza, és naponta 30 tonna halat dolgoz fel, főként tonhalat és makrélát. A termékeket szárítják és füstölik, majd a helyi piacokon és a Közel-Keleten értékesítik. Az üzem 100 embernek ad munkát, ami jelentős a magas munkanélküliséggel küzdő Qandala régióban. Az Ádeni-öböl közelsége gazdag halászati erőforrásokat biztosít, de a biztonsági kihívások és a hűtési infrastruktúra hiánya korlátozza a termelést.",
+      ro: "Fabrica de procesare a peștelui din Qandala, Somalia, a fost înființată în 2015 cu sprijinul Uniunii Europene. Aceasta procesează zilnic 30 de tone de pește, în principal ton și macrou, producând produse uscate și afumate. Angajează aproximativ 100 de persoane, contribuind la economia locală. Situată pe Golful Aden, beneficiază de resurse piscicole bogate. Provocările includ securitatea precară și lipsa lanțului de frig, dar fabrica rămâne esențială pentru securitatea alimentară și stabilitatea regiunii.",
+      en: "The Qandala Fish Processing plant in Somalia, established in 2015 with EU funding, processes 30 tons of fish daily, mainly tuna and mackerel. It produces dried and smoked products for local and export markets, employing 100 workers. Located on the Gulf of Aden, it accesses rich fishing grounds. Despite security issues and inadequate cold storage, the facility enhances food security and economic stability in the region. It represents a successful example of international development aid fostering local industry.",
+    },
+    factsAdvanced: {
+      de: ["2015 eröffnet", "30 Tonnen Kapazität pro Tag", "100 Arbeitsplätze", "EU-Unterstützung", "Produkte: getrockneter und geräucherter Fisch", "Standort am Golf von Aden"],
+      hu: ["2015-ben nyílt meg", "napi 30 tonna kapacitás", "100 alkalmazott", "EU-támogatással", "termékek: szárított és füstölt hal", "az Ádeni-öböl partján"],
+      ro: ["deschisă în 2015", "capacitate zilnică de 30 de tone", "100 de angajați", "sprijin UE", "produse: pește uscat și afumat", "situată pe Golful Aden"],
+      en: ["opened in 2015", "daily capacity of 30 tons", "100 employees", "EU-funded", "products: dried and smoked fish", "located on the Gulf of Aden"],
+    },
+  },
   {
     id: "bosaso-tannery-economic-v2",
     type: "industry",

@@ -6,7 +6,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Alaas Moschee", hu: "Alaas-mecset", ro: "Moscheea Alaas", en: "Alaas Mosque" },
-    coordinates: { lat: 35.1381, lng: 33.3645 },
+    coords: [33.3645, 35.1381],
     description: {
       de: "Diese Moschee befindet sich im Distrikt von Nikosia. Sie dient als historischer Ort für die lokale muslimische Gemeinde.",
       hu: "Ez a mecset Nicosia kerületében található. Történelmi helyként szolgál a helyi muszlim közösség számára.",
@@ -38,7 +38,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Panagia Angeloktisti", hu: "Panagia Angeloktisti-templom", ro: "Biserica Panagia Angeloktisti", en: "Panagia Angeloktisti Church" },
-    coordinates: { lat: 34.8465, lng: 33.5855 },
+    coords: [33.5855, 34.8465],
     description: {
       de: "Diese byzantinische Kirche befindet sich in Kiti. Sie ist für ihre gut erhaltenen Mosaiken aus dem 6. Jahrhundert bekannt.",
       hu: "Ez a bizánci templom Kiti településen található. A 6. századi jól megőrzött mozaikjairól híres.",
@@ -70,7 +70,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Georgios Pegeia", hu: "Agios Georgios Pegeia-templom", ro: "Biserica Agios Georgios Pegeia", en: "Agios Georgios Pegeia Church" },
-    coordinates: { lat: 34.8872, lng: 32.3481 },
+    coords: [32.3481, 34.8872],
     description: {
       de: "Dieses religiöse Gebäude steht nahe der Küste von Pegeia. Es datiert auf das 19. Jahrhundert zurück.",
       hu: "Ez a vallási épület Pegeia tengerpartjának közelében áll. A 19. századra datálható.",
@@ -102,7 +102,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Fatih Moschee Larnaka", hu: "Fatih-mecset Larnaka", ro: "Moscheea Fatih Larnaca", en: "Fatih Mosque Larnaca" },
-    coordinates: { lat: 34.9126, lng: 33.6367 },
+    coords: [33.6367, 34.9126],
     description: {
       de: "Die Fatih-Moschee in Larnaka ist ein historisch bedeutendes Bauwerk im ehemaligen türkischen Viertel. Sie stammt aus der osmanischen Epoche.",
       hu: "A larnakai Fatih-mecset történelmileg jelentős épület az egykori török negyedben. Az oszmán korszakból származik.",
@@ -134,7 +134,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Kloster Agios Neophytos", hu: "Agios Neophytos-kolostor", ro: "Mănăstirea Agios Neophytos", en: "Agios Neophytos Monastery" },
-    coordinates: { lat: 34.8488, lng: 32.4468 },
+    coords: [32.4468, 34.8488],
     description: {
       de: "Das Kloster liegt nördlich von Paphos. Es ist für seine in Fels gehauene Eremitage bekannt.",
       hu: "A kolostor Paphos-tól északra fekszik. A sziklába vájt remetelakáról ismert.",
@@ -166,7 +166,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Agios Sozomenos", hu: "Agios Sozomenos romjai", ro: "Ruinele Agios Sozomenos", en: "Agios Sozomenos Ruins" },
-    coordinates: { lat: 35.0519, lng: 33.4325 },
+    coords: [33.4325, 35.0519],
     description: {
       de: "Dies ist ein verlassenes Dorf bei Potamia. Die Ruinen stammen hauptsächlich aus der Zeit vor 1964.",
       hu: "Ez egy elhagyatott falu Potamia közelében. A romok főleg 1964 előtti időből származnak.",
@@ -198,7 +198,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Andronikos", hu: "Agios Andronikos-templom", ro: "Biserica Agios Andronikos", en: "Agios Andronikos Church" },
-    coordinates: { lat: 35.1583, lng: 33.9167 },
+    coords: [33.9167, 35.1583],
     description: {
       de: "Diese kleine Kirche befindet sich in der Region Karpas. Sie besitzt bedeutende mittelalterliche Wandmalereien.",
       hu: "Ez a kis templom a Karpas régióban található. Jelentős középkori falfestményekkel rendelkezik.",
@@ -230,7 +230,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "tower",
     parent: "CY",
     name: { de: "Philippides Turm", hu: "Philippides-torony", ro: "Turnul Philippides", en: "Philippides Tower" },
-    coordinates: { lat: 35.1633, lng: 33.3644 },
+    coords: [33.3644, 35.1633],
     description: {
       de: "Ein moderneres Architekturmerkmal in der Hauptstadt Nikosia. Es prägt das städtische Erscheinungsbild.",
       hu: "Egy modernebb építészeti elem a fővárosban, Nicosiában. Meghatározza a városképet.",
@@ -262,7 +262,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Panagia Chrysaliniotissa", hu: "Panagia Chrysaliniotissa-templom", ro: "Biserica Panagia Chrysaliniotissa", en: "Panagia Chrysaliniotissa Church" },
-    coordinates: { lat: 35.1742, lng: 33.3675 },
+    coords: [33.3675, 35.1742],
     description: {
       de: "Die älteste byzantinische Kirche in der Altstadt von Nikosia. Sie wurde im 15. Jahrhundert erbaut.",
       hu: "A legrégebbi bizánci templom Nicosia óvárosában. A 15. században épült.",
@@ -294,7 +294,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Venezianische Mauern von Nikosia", hu: "Nicosiai velencei falak", ro: "Zidurile venețiene din Nicosia", en: "Venetian Walls of Nicosia" },
-    coordinates: { lat: 35.1728, lng: 33.3601 },
+    coords: [33.3601, 35.1728],
     description: {
       de: "Diese sternförmigen Befestigungsanlagen wurden im 16. Jahrhundert durch die Venezianer errichtet.",
       hu: "Ezeket a csillag alakú erődítményeket a 16. században építették a velenceiek.",
@@ -326,7 +326,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "CY",
     name: { de: "Kathedrale Agios Ioannis", hu: "Agios Ioannis-katedrális", ro: "Catedrala Agios Ioannis", en: "Agios Ioannis Cathedral" },
-    coordinates: { lat: 35.1725, lng: 33.3653 },
+    coords: [33.3653, 35.1725],
     description: {
       de: "Die Hauptkathedrale der Zyprisch-Orthodoxen Kirche in Nikosia. Sie ist für ihre prächtigen Wandmalereien bekannt.",
       hu: "A Ciprusi Ortodox Egyház fő katedrálisa Nicosiában. Gazdag falfestményeiről ismert.",
@@ -358,7 +358,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Panagia Phaneromeni", hu: "Panagia Phaneromeni-templom", ro: "Biserica Panagia Phaneromeni", en: "Panagia Phaneromeni Church" },
-    coordinates: { lat: 35.1722, lng: 33.3621 },
+    coords: [33.3621, 35.1722],
     description: {
       de: "Eine bedeutende Kirche innerhalb der Mauern von Nikosia. Sie wurde im 19. Jahrhundert errichtet.",
       hu: "Jelentős templom Nicosia falain belül. A 19. században épült.",
@@ -390,7 +390,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "museum",
     parent: "CY",
     name: { de: "Dervish Pasha Herrenhaus", hu: "Dervish Pasha-kastély", ro: "Conacul Dervish Pasha", en: "Dervish Pasha Mansion" },
-    coordinates: { lat: 35.1755, lng: 33.3615 },
+    coords: [33.3615, 35.1755],
     description: {
       de: "Ein gut erhaltenes Beispiel osmanischer Architektur in Nikosia. Es dient heute als ethnografisches Museum.",
       hu: "Az oszmán építészet jól megőrzött példája Nicosiában. Ma néprajzi múzeumként szolgál.",
@@ -422,7 +422,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "museum",
     parent: "CY",
     name: { de: "Byzantinisches Museum", hu: "Bizánci Múzeum", ro: "Muzeul Bizantin", en: "Byzantine Museum" },
-    coordinates: { lat: 35.1726, lng: 33.3655 },
+    coords: [33.3655, 35.1726],
     description: {
       de: "Dieses Museum in Nikosia beherbergt eine der weltweit größten Sammlungen byzantinischer Ikonen.",
       hu: "Ez a nicosiai múzeum a bizánci ikonok egyik legnagyobb gyűjteményét őrzi a világon.",
@@ -454,7 +454,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "museum",
     parent: "CY",
     name: { de: "Leventis Städtisches Museum", hu: "Leventis Városi Múzeum", ro: "Muzeul Municipal Leventis", en: "Leventis Municipal Museum" },
-    coordinates: { lat: 35.1715, lng: 33.361 },
+    coords: [33.361, 35.1715],
     description: {
       de: "Das Museum dokumentiert die Geschichte von Nikosia von der Antike bis zur Gegenwart.",
       hu: "A múzeum Nicosia történetét dokumentálja az ókortól napjainkig.",
@@ -486,7 +486,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Famagusta Tor", hu: "Famagusta-kapu", ro: "Poarta Famagusta", en: "Famagusta Gate" },
-    coordinates: { lat: 35.1748, lng: 33.3685 },
+    coords: [33.3685, 35.1748],
     description: {
       de: "Eines der drei historischen Eingangstore der venezianischen Stadtbefestigung von Nikosia.",
       hu: "Nicosia velencei városfalának három történelmi bejárati kapujának egyike.",
@@ -518,7 +518,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "palace",
     parent: "CY",
     name: { de: "Erzbischöflicher Palast", hu: "Érseki palota", ro: "Palatul Arhiepiscopal", en: "Archbishop's Palace" },
-    coordinates: { lat: 35.1724, lng: 33.3657 },
+    coords: [33.3657, 35.1724],
     description: {
       de: "Der offizielle Sitz des Erzbischofs der autokephalen Kirche von Zypern in Nikosia.",
       hu: "A Ciprusi Autokefál Egyház érsekének hivatalos székhelye Nicosiában.",
@@ -550,7 +550,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Omerye Moschee", hu: "Omerye-mecset", ro: "Moscheea Omerye", en: "Omerye Mosque" },
-    coordinates: { lat: 35.1705, lng: 33.364 },
+    coords: [33.364, 35.1705],
     description: {
       de: "Die Moschee in Nikosia wurde auf den Überresten eines augustinischen Klosters aus dem 14. Jahrhundert erbaut.",
       hu: "A nicosiai mecsetet egy 14. századi ágostonos kolostor maradványaira építették.",
@@ -582,7 +582,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "landmark",
     parent: "CY",
     name: { de: "Paphos Tor", hu: "Paphos-kapu", ro: "Poarta Paphos", en: "Paphos Gate" },
-    coordinates: { lat: 35.1738, lng: 33.3562 },
+    coords: [33.3562, 35.1738],
     description: {
       de: "Eines der drei historischen Stadttore in den venezianischen Befestigungen der Hauptstadt Nikosia.",
       hu: "A nicosiai főváros velencei erődítményeinek három történelmi városkapujának egyike.",
@@ -614,7 +614,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Kassianos", hu: "Agios Kassianos-templom", ro: "Biserica Agios Kassianos", en: "Church of St. Kassianos" },
-    coordinates: { lat: 35.1762, lng: 33.3712 },
+    coords: [33.3712, 35.1762],
     description: {
       de: "Eine historische Kirche im alten Stadtteil von Nikosia. Sie dient heute als kulturelles Zentrum.",
       hu: "Történelmi templom Nicosia régi városrészében. Ma kulturális központként szolgál.",
@@ -646,7 +646,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "museum",
     parent: "CY",
     name: { de: "Makarios Kulturstiftung", hu: "Makarios Kulturális Alapítvány", ro: "Fundația Culturală Makarios", en: "Makarios Cultural Foundation" },
-    coordinates: { lat: 35.1728, lng: 33.3658 },
+    coords: [33.3658, 35.1728],
     description: {
       de: "Diese Einrichtung in Nikosia beherbergt bedeutende Kunstsammlungen und historische Dokumente Zyperns.",
       hu: "Ez a nicosiai intézmény Ciprus jelentős művészeti gyűjteményeit és történelmi dokumentumait őrzi.",
@@ -678,7 +678,7 @@ export const cyprusLandmarksV2: POI[] = [
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Nikolaos", hu: "Agios Nikolaos-templom", ro: "Biserica Agios Nikolaos", en: "Agios Nikolaos Church" },
-    coordinates: { lat: 35.1758, lng: 33.3698 },
+    coords: [33.3698, 35.1758],
     description: {
       de: "Eine traditionelle Kirche in einem der historisch geprägten Viertel von Nikosia.",
       hu: "Hagyományos templom Nicosia egyik történelmi negyedében.",

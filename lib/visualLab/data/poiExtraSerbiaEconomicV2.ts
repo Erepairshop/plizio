@@ -6,7 +6,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Pančevo Erdölraffinerie", hu: "Pancsovai olajfinomító", ro: "Rafinăria de petrol din Panciova", en: "Pancevo Oil Refinery" },
-    coordinates: { lat: 44.8386, lng: 20.6725 },
+    coords: [20.6725, 44.8386],
     description: {
       de: "Die Raffinerie in Pančevo ist einer der größten Industriekomplexe Serbiens. Sie spielt eine Schlüsselrolle in der regionalen Kraftstoffversorgung.",
       hu: "A pancsovai finomító Szerbia egyik legnagyobb ipari komplexuma. Kulcsszerepet játszik a regionális üzemanyag-ellátásban.",
@@ -38,7 +38,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Wärmekraftwerk Kostolac", hu: "Kostolaci hőerőmű", ro: "Termocentrala Kostolac", en: "Kostolac Power Station" },
-    coordinates: { lat: 44.7183, lng: 21.1736 },
+    coords: [21.1736, 44.7183],
     description: {
       de: "Das Kraftwerk Kostolac ist ein bedeutendes Zentrum für die Stromerzeugung aus Braunkohle in Serbien. Es nutzt lokale Kohlevorkommen aus den nahen Tagebauen.",
       hu: "A Kostolaci hőerőmű jelentős lignit alapú áramtermelő központ Szerbiában. A közeli bányákból származó szenet használja.",
@@ -70,7 +70,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "factory",
     parent: "RS",
     name: { de: "Zastava Industriepark", hu: "Zastava Ipari Park", ro: "Parcul Industrial Zastava", en: "Zastava Industrial Park" },
-    coordinates: { lat: 44.0044, lng: 20.9255 },
+    coords: [20.9255, 44.0044],
     description: {
       de: "Dieser Standort in Kragujevac blickt auf eine lange industrielle Geschichte in der Automobilherstellung zurück. Heute beherbergt er moderne Fertigungseinrichtungen.",
       hu: "Ez a kragujevaci telephely az autógyártás hosszú ipari történetével rendelkezik. Ma modern gyártóüzemeknek ad otthont.",
@@ -102,7 +102,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "mine",
     parent: "RS",
     name: { de: "Kupferbergbau Bor", hu: "Bori rézbánya", ro: "Mina de cupru din Bor", en: "Bor Copper Mine" },
-    coordinates: { lat: 44.0722, lng: 22.0978 },
+    coords: [22.0978, 44.0722],
     description: {
       de: "Das Kupfer- und Goldbergbau-Revier bei Bor ist eines der größten seiner Art in Europa. Es bildet das Rückgrat der örtlichen metallurgischen Industrie.",
       hu: "A bori réz- és aranybányászati terület Európa egyik legnagyobbja. A helyi kohászati ipar gerincét alkotja.",
@@ -134,7 +134,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Wirtschaftszone Subotica", hu: "Szabadkai Gazdasági Övezet", ro: "Zona Economică Subotica", en: "Subotica Industrial Zone" },
-    coordinates: { lat: 46.0754, lng: 19.6739 },
+    coords: [19.6739, 46.0754],
     description: {
       de: "Die Industriezone in Subotica ist eine Schlüsselregion für exportorientierte Produktion. Sie beherbergt zahlreiche internationale Produktionsunternehmen.",
       hu: "A szabadkai ipari övezet kulcsfontosságú az exportorientált termelés számára. Számos nemzetközi gyártóvállalatnak ad otthont.",
@@ -166,7 +166,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Erdölfelder bei Kikinda", hu: "Nagykikindai olajmezők", ro: "Câmpurile petroliere din Kikinda", en: "Kikinda Oil Fields" },
-    coordinates: { lat: 45.8271, lng: 20.4633 },
+    coords: [20.4633, 45.8271],
     description: {
       de: "Die Region Kikinda ist bekannt für ihre bedeutenden Erdöl- und Erdgasvorkommen. Diese Ressourcen sind ein wichtiger Bestandteil der serbischen Energiewirtschaft.",
       hu: "Nagykikinda térsége jelentős kőolaj- és földgázkészleteiről ismert. Ezek az erőforrások a szerb energiagazdaság fontos részét képezik.",
@@ -198,7 +198,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "factory",
     parent: "RS",
     name: { de: "Elektronik-Industriezentrum Niš", hu: "Niši elektronikai ipari központ", ro: "Centrul industriei electronice din Niš", en: "Nis Electronics Industry Center" },
-    coordinates: { lat: 43.3247, lng: 21.9033 },
+    coords: [21.9033, 43.3247],
     description: {
       de: "Niš hat eine lange Tradition in der Elektronikfertigung. Das ehemalige Zentrum der Elektroindustrie wurde teilweise modernisiert und für neue Technologiezweige genutzt.",
       hu: "Niš hosszú hagyományokkal rendelkezik az elektronikai gyártásban. Az egykori elektroipari központot részben modernizálták új technológiai ágak számára.",
@@ -230,7 +230,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Industriepark Zrenjanin", hu: "Nagybecskereki Ipari Park", ro: "Parcul Industrial Zrenjanin", en: "Zrenjanin Industrial Park" },
-    coordinates: { lat: 45.385, lng: 20.392 },
+    coords: [20.392, 45.385],
     description: {
       de: "Zrenjanin beherbergt bedeutende Industriezonen, die sich auf Produktion und verarbeitendes Gewerbe konzentrieren. Es ist ein wichtiger Standort im Banat.",
       hu: "Nagybecskerek jelentős ipari övezeteknek ad otthont, amelyek a termelésre és a feldolgozóiparra összpontosítanak. Fontos helyszín a Bánátban.",
@@ -262,7 +262,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Stahlwerk Smederevo", hu: "Szendrői acélmű", ro: "Combinatul siderurgic din Smederevo", en: "Smederevo Steel Mill" },
-    coordinates: { lat: 44.6644, lng: 20.9389 },
+    coords: [20.9389, 44.6644],
     description: {
       de: "Das Stahlwerk in Smederevo ist das größte Unternehmen seiner Art in Serbien. Es ist ein zentraler Pfeiler der schweren Industrie des Landes.",
       hu: "A szendrői acélmű a legnagyobb ilyen jellegű vállalat Szerbiában. Az ország nehéziparának központi pillére.",
@@ -294,7 +294,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "city",
     parent: "RS",
     name: { de: "Wirtschaftsknotenpunkt Požarevac", hu: "Pozsarevác gazdasági központja", ro: "Centrul economic Požarevac", en: "Pozarevac Economic Center" },
-    coordinates: { lat: 44.6208, lng: 21.1894 },
+    coords: [21.1894, 44.6208],
     description: {
       de: "Požarevac fungiert als wichtiges regionales Handels- und Verwaltungszentrum. Es spielt eine wesentliche Rolle in der lokalen Wirtschaft Südostserbiens.",
       hu: "Pozsarevác fontos regionális kereskedelmi és közigazgatási központként szolgál. Jelentős szerepet játszik Délkelet-Szerbia helyi gazdaságában.",
@@ -326,7 +326,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Industriegebiet Vršac", hu: "Versec ipari övezet", ro: "Zona industrială Vršac", en: "Vrsac Industrial Zone" },
-    coordinates: { lat: 45.1275, lng: 21.3061 },
+    coords: [21.3061, 45.1275],
     description: {
       de: "Vršac hat sich als Standort für pharmazeutische und industrielle Produktion etabliert. Das Industriegebiet profitiert von der Nähe zur rumänischen Grenze.",
       hu: "Versec a gyógyszeripari és ipari termelés helyszíneként épült ki. Az ipari övezet profitál a román határ közelségéből.",
@@ -358,7 +358,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Industriehub Valjevo", hu: "Valjevói ipari központ", ro: "Centrul industrial Valjevo", en: "Valjevo Industrial Hub" },
-    coordinates: { lat: 44.2706, lng: 19.8922 },
+    coords: [19.8922, 44.2706],
     description: {
       de: "Valjevo ist ein wichtiges Zentrum für die verarbeitende Industrie in Westserbien. Hier finden sich Unternehmen aus der Metall- und Kunststoffbranche.",
       hu: "Valjevo a nyugat-szerbiai feldolgozóipar fontos központja. Itt fém- és műanyagipari vállalatok találhatók.",
@@ -390,7 +390,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "city",
     parent: "RS",
     name: { de: "Handelszentrum Čačak", hu: "Csacsaki kereskedelmi központ", ro: "Centrul comercial Čačak", en: "Cacak Trade Center" },
-    coordinates: { lat: 43.8925, lng: 20.3547 },
+    coords: [20.3547, 43.8925],
     description: {
       de: "Čačak gilt als wichtiger Verkehrsknotenpunkt und Handelszentrum in Zentralserbien. Es profitiert von der Anbindung an wichtige Verkehrsstraßen.",
       hu: "Csacsak fontos közlekedési és kereskedelmi központnak számít Közép-Szerbiában. Profitál a fontos közlekedési útvonalakkal való összeköttetésből.",
@@ -422,7 +422,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Industriezone Kraljevo", hu: "Királyrévi ipari övezet", ro: "Zona industrială Kraljevo", en: "Kraljevo Industrial Zone" },
-    coordinates: { lat: 43.7256, lng: 20.6861 },
+    coords: [20.6861, 43.7256],
     description: {
       de: "Die Industriezone in Kraljevo konzentriert sich auf die verarbeitende Industrie. Sie ist ein wichtiger Arbeitgeber für die Stadt und ihre Umgebung.",
       hu: "A királyrévi ipari övezet a feldolgozóiparra összpontosít. Fontos munkaadó a város és környéke számára.",
@@ -454,7 +454,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Textilzentrum Vranje", hu: "Vranjei textilipari központ", ro: "Centrul industriei textile Vranje", en: "Vranje Textile Industry" },
-    coordinates: { lat: 42.5539, lng: 21.8986 },
+    coords: [21.8986, 42.5539],
     description: {
       de: "Vranje hat eine traditionsreiche Textilindustrie, die auch heute noch einen bedeutenden Wirtschaftszweig darstellt. Die Stadt ist ein Zentrum dieser Branche im Süden.",
       hu: "Vranje hagyományokban gazdag textiliparral rendelkezik, amely ma is jelentős gazdasági ág. A város ennek az iparágnak a központja délen.",
@@ -486,7 +486,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "city",
     parent: "RS",
     name: { de: "Agrarzentrum Sombor", hu: "Zombori agrárközpont", ro: "Centrul agricol Sombor", en: "Sombor Agricultural Hub" },
-    coordinates: { lat: 45.7689, lng: 19.1411 },
+    coords: [19.1411, 45.7689],
     description: {
       de: "Sombor ist ein bedeutendes landwirtschaftliches Handelszentrum in der Vojvodina. Die Region zeichnet sich durch intensive Produktion aus.",
       hu: "Zombor jelentős mezőgazdasági kereskedelmi központ Vajdaságban. A régiót az intenzív termelés jellemzi.",
@@ -518,7 +518,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Metallindustrie Užice", hu: "Uzicei fémipar", ro: "Industria metalurgică Uzice", en: "Uzice Metal Industry" },
-    coordinates: { lat: 43.8517, lng: 19.8464 },
+    coords: [19.8464, 43.8517],
     description: {
       de: "Užice ist ein bekanntes Zentrum der Metallverarbeitung in Serbien. Die lokale Industrie hat eine lange Tradition in der Metallfertigung.",
       hu: "Uzice a fémfeldolgozás ismert központja Szerbiában. A helyi iparnak hosszú hagyománya van a fémgyártásban.",
@@ -550,7 +550,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Industriezone Sremska Mitrovica", hu: "Szávaszentdemeteri ipari övezet", ro: "Zona industrială Sremska Mitrovica", en: "Sremska Mitrovica Industrial Zone" },
-    coordinates: { lat: 44.9753, lng: 19.6108 },
+    coords: [19.6108, 44.9753],
     description: {
       de: "Die Industriezone bei Sremska Mitrovica zieht aufgrund ihrer logistisch günstigen Lage verstärkt neue Industrieunternehmen an.",
       hu: "A szávaszentdemeteri ipari övezet logisztikailag kedvező elhelyezkedése miatt egyre több új ipari vállalatot vonz.",
@@ -582,7 +582,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Wirtschaftszone Šabac", hu: "Szabácsi gazdasági övezet", ro: "Zona economică Šabac", en: "Sabac Industrial Zone" },
-    coordinates: { lat: 44.7578, lng: 19.6867 },
+    coords: [19.6867, 44.7578],
     description: {
       de: "Die Freihandelszone Šabac bietet attraktive Bedingungen für ansiedelnde Unternehmen. Sie ist eine der modernsten Industriezonen Serbiens.",
       hu: "A szabácsi szabadkereskedelmi övezet vonzó feltételeket kínál a letelepedő vállalatok számára. Szerbia egyik legmodernebb ipari övezete.",
@@ -614,7 +614,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "port",
     parent: "RS",
     name: { de: "Hafen Pančevo", hu: "Pancsovai kikötő", ro: "Portul Panciova", en: "Pancevo Harbor" },
-    coordinates: { lat: 44.8517, lng: 20.6653 },
+    coords: [20.6653, 44.8517],
     description: {
       de: "Der Hafen von Pančevo ist ein wichtiger Umschlagplatz an der Donau. Er unterstützt die lokale Schwerindustrie beim Transport von Waren.",
       hu: "A pancsovai kikötő fontos átrakodóhely a Dunán. Támogatja a helyi nehézipart az áruk szállításában.",
@@ -646,7 +646,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Textilstandort Leskovac", hu: "Leskováci textilipari helyszín", ro: "Centrul textil Leskovac", en: "Leskovac Textile Center" },
-    coordinates: { lat: 43.0039, lng: 21.9497 },
+    coords: [21.9497, 43.0039],
     description: {
       de: "Leskovac ist historisch als Zentrum der serbischen Textilindustrie bekannt. Auch heute spielen entsprechende Produktionsbetriebe eine Rolle in der Region.",
       hu: "Leskovac történelmileg a szerb textilipar központjaként ismert. A megfelelő gyártóüzemek ma is szerepet játszanak a régióban.",
@@ -678,7 +678,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Industriehub Kruševac", hu: "Kruševaci ipari központ", ro: "Centrul industrial Kruševac", en: "Krusevac Manufacturing Hub" },
-    coordinates: { lat: 43.5847, lng: 21.3283 },
+    coords: [21.3283, 43.5847],
     description: {
       de: "Kruševac ist ein bedeutendes Zentrum für verschiedene Industriezweige, darunter Maschinenbau und Chemie. Es ist ein wichtiger wirtschaftlicher Standort.",
       hu: "Kruševac jelentős központ különböző iparágak számára, beleértve a gépgyártást és a vegyipart. Fontos gazdasági helyszín.",
@@ -710,7 +710,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "city",
     parent: "RS",
     name: { de: "Industriezentrum Zaječar", hu: "Zaječari ipari központ", ro: "Centrul industrial Zaječar", en: "Zajecar Industrial Hub" },
-    coordinates: { lat: 43.9056, lng: 22.2742 },
+    coords: [22.2742, 43.9056],
     description: {
       de: "Zaječar ist ein regionales Wirtschaftszentrum in Ostserbien, das sich auf Handel und verschiedene Industriebetriebe konzentriert.",
       hu: "Zaječar kelet-szerbiai regionális gazdasági központ, amely a kereskedelemre és különféle ipari üzemekre összpontosít.",
@@ -742,7 +742,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Freihandelszone Pirot", hu: "Piroti szabadkereskedelmi övezet", ro: "Zona liberă Pirot", en: "Pirot Free Trade Zone" },
-    coordinates: { lat: 43.1583, lng: 22.5856 },
+    coords: [22.5856, 43.1583],
     description: {
       de: "Die Freihandelszone Pirot ist eine der renommiertesten Industriezonen in Serbien. Sie bietet exzellente Bedingungen für Exportunternehmen.",
       hu: "A piroti szabadkereskedelmi övezet az egyik legelismertebb ipari övezet Szerbiában. Kiváló feltételeket kínál exportvállalatok számára.",
@@ -774,7 +774,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Industriezone Novi Sad", hu: "Újvidéki ipari övezet", ro: "Zona industrială Novi Sad", en: "Novi Sad Industrial Zone" },
-    coordinates: { lat: 45.2671, lng: 19.8335 },
+    coords: [19.8335, 45.2671],
     description: {
       de: "Novi Sad verfügt über moderne Industriezonen, die hochtechnologische Produktion und Logistikzentrumfunktionen vereinen.",
       hu: "Újvidék modern ipari övezetekkel rendelkezik, amelyek ötvözik a csúcstechnológiás termelést és a logisztikai központ funkciókat.",
@@ -806,7 +806,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "city",
     parent: "RS",
     name: { de: "Industriezentrum Prokuplje", hu: "Prokupljei ipari központ", ro: "Centrul industrial Prokuplje", en: "Prokuplje Industrial Center" },
-    coordinates: { lat: 43.2389, lng: 21.5833 },
+    coords: [21.5833, 43.2389],
     description: {
       de: "Prokuplje ist ein regionales Zentrum für verschiedene Industriezweige und verarbeitendes Gewerbe in der Toplica-Region.",
       hu: "Prokuplje regionális központ különböző iparágak és a feldolgozóipar számára a Toplica régióban.",
@@ -838,7 +838,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "factory",
     parent: "RS",
     name: { de: "Agrarverarbeitung Zrenjanin", hu: "Nagybecskereki mezőgazdasági feldolgozás", ro: "Procesarea agricolă Zrenjanin", en: "Zrenjanin Agri-Processing" },
-    coordinates: { lat: 45.39, lng: 20.38 },
+    coords: [20.38, 45.39],
     description: {
       de: "Zrenjanin ist ein bedeutender Standort für die Verarbeitung landwirtschaftlicher Erzeugnisse in der Banat-Region.",
       hu: "Nagybecskerek jelentős helyszín a mezőgazdasági termékek feldolgozására a Bánát régióban.",
@@ -870,7 +870,7 @@ export const serbiaEconomicV2: POI[] = [
     type: "industry",
     parent: "RS",
     name: { de: "Lebensmittelindustrie Subotica", hu: "Szabadkai élelmiszeripar", ro: "Industria alimentară Subotica", en: "Subotica Food Industry" },
-    coordinates: { lat: 46.08, lng: 19.67 },
+    coords: [19.67, 46.08],
     description: {
       de: "Subotica beherbergt mehrere bedeutende Betriebe der Lebensmittelverarbeitung, die die reichen agrarischen Ressourcen der Region nutzen.",
       hu: "Szabadka számos jelentős élelmiszer-feldolgozó üzemet fogad be, amelyek a régió gazdag mezőgazdasági erőforrásait használják.",

@@ -492,7 +492,20 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
       hu: ["A Guinness Rekordok Könyvében szerepel mint 'a területegységre jutó legtöbbet látogatott nemzeti park'", "Több mint 100 buddhista templomnak és remetelaknak ad otthont", "A Bukhansanseong erőd a parkon belül található"],
       ro: ["În Cartea Recordurilor Guinness pentru 'cel mai vizitat parc național pe unitate de suprafață'", "Are peste 100 de temple și schituri budiste", "Fortăreața Bukhansanseong se află în interiorul parcului"],
       en: ["In the Guinness Book of World Records for 'most visited national park per unit area'", "Has over 100 Buddhist temples and hermitages", "The Bukhansanseong Fortress is located within the park"]
-    }, image: "/poi-images/bukhansan-national-park-life-v2.webp"},
+    }, image: "/poi-images/bukhansan-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bukhansan-Nationalpark in Südkorea ist ein beliebtes Ausflugsziel für Wanderer und Naturliebhaber. Er liegt nördlich von Seoul und umfasst mehrere Granitgipfel, darunter den 836 Meter hohen Bukhansan. Der Park wurde 1983 als Nationalpark ausgewiesen und beherbergt eine Vielzahl von Pflanzen- und Tierarten. Er ist bekannt für die gut markierten Wanderwege und die historischen buddhistischen Tempel. Der Park ist ein wichtiger Erholungsraum für die Bewohner der Metropolregion Seoul. Jährlich besuchen Millionen von Menschen den Park, um die Natur zu genießen und zu wandern.",
+      hu: "A Bukhansan Nemzeti Park Dél-Koreában, Szöultól északra található. 1983-ban nyilvánították nemzeti parkká. Fő látványossága a 836 méter magas Bukhansan hegy, amely gránitból áll. A park népszerű a túrázók körében, jól kiépített ösvényekkel és buddhista templomokkal. Gazdag növény- és állatvilággal rendelkezik. A szöuli lakosok számára fontos kikapcsolódási hely. Évente több millió látogató keresi fel.",
+      ro: "Parcul Național Bukhansan din Coreea de Sud, situat la nord de Seul, a fost desemnat parc național în 1983. Este cunoscut pentru vârfurile sale de granit, cel mai înalt fiind Bukhansan (836 m). Traseele de drumeție bine întreținute și templele budiste istorice atrag milioane de vizitatori anual. Parcul oferă o oază de verdeață pentru locuitorii orașului și găzduiește o biodiversitate bogată, inclusiv specii rare de plante și animale.",
+      en: "Bukhansan National Park, north of Seoul, South Korea, was established in 1983. It features granite peaks like Bukhansan (836 m) and offers well-maintained hiking trails and historic Buddhist temples. The park is a green haven for Seoul's residents, attracting millions of visitors yearly. Its biodiversity includes rare flora and fauna. The park also contains cultural assets such as the Bukhansanseong Fortress. It is a model of urban-proximate conservation.",
+    },
+    factsAdvanced: {
+      de: ["1983 Nationalpark", "höchster Gipfel 836 m", "Granitfelsen", "nördlich von Seoul", "jährlich Millionen Besucher", "buddhistische Tempel"],
+      hu: ["1983-ban nemzeti park", "legmagasabb csúcs 836 m", "gránit sziklák", "Szöultól északra", "évente milliók látogatják", "buddhista templomok"],
+      ro: ["parc național din 1983", "cel mai înalt vârf 836 m", "stânci de granit", "la nord de Seul", "milioane de vizitatori anual", "temple budiste"],
+      en: ["national park since 1983", "highest peak 836 m", "granite formations", "north of Seoul", "millions of visitors annually", "Buddhist temples"],
+    },
+  },
   {
     id: "icheon-ceramics-village-life-v2",
     type: "agriculture",

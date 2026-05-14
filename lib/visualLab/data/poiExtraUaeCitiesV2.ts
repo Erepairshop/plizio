@@ -179,7 +179,20 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Has a rich history in traditional boat building.",
         "Offers a more relaxed alternative to its large neighbors."
       ]
-    }, image: "/poi-images/uae-ajman-cities-v2.webp"},
+    }, image: "/poi-images/uae-ajman-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ajman ist die Hauptstadt des gleichnamigen Emirats und liegt an der Küste des Persischen Golfs. Die Stadt erstreckt sich über eine Fläche von etwa 260 Quadratkilometern und hat rund 500.000 Einwohner. Historisch war Ajman ein bedeutender Perlenfischereihafen, heute ist die Wirtschaft diversifiziert mit Schwerpunkt auf Leichtindustrie und Dienstleistungen. Der Hafen von Ajman ist ein wichtiger Umschlagplatz für Fischereiprodukte. Sehenswürdigkeiten sind die Ajman-Festung aus dem 18. Jahrhundert und der Gold-Souk. Die Stadt verfügt über mehrere Strände und ein wachsendes Tourismusangebot.",
+      hu: "Adzsmán az Egyesült Arab Emírségek egyik legkisebb emírségének fővárosa. A város területe 260 négyzetkilométer, lakossága körülbelül 500 000 fő. Gazdaságát a halászat, a hajógyártás és a könnyűipar jellemzi. A kikötő évente több ezer tonna halat kezel. Az emírség történelmi központjában található a 18. századi erőd, amely ma múzeumként működik. Az urbanizáció gyors ütemben növekszik, új lakónegyedek és bevásárlóközpontok épülnek. A város nemzetközi repülőtere regionális járatokat fogad.",
+      ro: "Ajman este capitala emiratului omonim, situat pe coasta Golfului Persic. Orașul se întinde pe 260 km² și are o populație de aproximativ 500.000 de locuitori. Portul Ajman este specializat în pescuit și exportul de pește, procesând anual peste 50.000 de tone. Economia locală include și industria navală ușoară. Atracțiile principale includ Fortul Ajman (construit în 1775) și Piața de Aur. În ultimii ani, turismul a crescut datorită plajelor și facilităților de agrement. Clima este deșertică, cu temperaturi de vară ce depășesc 45°C.",
+      en: "Ajman is the capital of the smallest emirate in the UAE by area, covering 260 km². Its population is estimated at 500,000, with a significant expatriate community. The economy historically relied on pearl diving and fishing; today it includes manufacturing, real estate, and retail. The Ajman Fort, built in the 18th century, serves as a museum showcasing local heritage. The city's coastline stretches for 16 km along the Arabian Gulf. Ajman also hosts a large fish market and a free trade zone attracting foreign investment. The urban area has expanded rapidly since the 1970s, with modern infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 260 km²", "Einwohnerzahl: ca. 500.000", "Höchste Temperatur im Sommer: über 45°C", "Küstenlänge: 16 km", "Anzahl der Hotels: ca. 30", "Jährlicher Fischfang: über 50.000 Tonnen"],
+      hu: ["Terület: 260 km²", "Népesség: 500.000 fő", "Kikötői forgalom: 50.000 tonna hal évente", "Erőd építése: 1775", "Tengerpart hossza: 16 km", "Repülőtér: regionális járatok"],
+      ro: ["Suprafață: 260 km²", "Populație: 500.000", "Lungime coastă: 16 km", "Port: 50.000 tone pește/an", "Fortul Ajman: construit în 1775", "Temperatură maximă: 45°C"],
+      en: ["Area: 260 km²", "Population: 500,000", "Coastline: 16 km", "Annual fish catch: 50,000+ tonnes", "Number of hotels: 30+", "Year of founding of Fort: circa 1775"],
+    },
+  },
   {
     id: "uae-umm-al-quwain-cities-v2",
     type: "state-capital",
@@ -358,7 +371,20 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Traditional birthplace of the ruling Al Nahyan family.",
         "Houses an extensive, historical irrigation system."
       ]
-    }, image: "/poi-images/uae-al-ain-cities-v2.webp"},
+    }, image: "/poi-images/uae-al-ain-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Al Ain, auch als 'Gartenstadt' bekannt, liegt im Osten der VAE an der Grenze zu Oman. Die Stadt hat rund 800.000 Einwohner und erstreckt sich über eine Fläche von etwa 1.200 Quadratkilometern. Sie ist bekannt für ihre zahlreichen Oasen, Parks und das Al-Ain-Nationalmuseum. Historisch war Al Ain ein wichtiger Knotenpunkt für Karawanen. Heute beherbergt sie die Universität der VAE und mehrere archäologische Stätten, darunter das UNESCO-Weltkulturerbe der Oase von Al Ain. Die Wirtschaft basiert auf Landwirtschaft, Bildung und Tourismus. Das Klima ist heiß mit geringen Niederschlägen.",
+      hu: "Al-Ain az Egyesült Arab Emírségek egyik legrégebbi települése, az ománi határ közelében. Lakossága kb. 800 000 fő. A város híres a 1500 éves öntözőrendszeréről (falaj), amely a mai napig működik. Itt található az ország legnagyobb oázisa, amely mintegy 10 000 pálmafát számlál. Az Al-Ain-i erőd (Jahili erőd) a 19. században épült. A város ad otthont a Sheikh Zayed Palotának is. A helyi gazdaságot a mezőgazdaság, a turizmus és az oktatás jellemzi. A évi csapadék mindössze 100 mm.",
+      ro: "Al Ain este al patrulea oraș ca mărime din Emiratele Arabe Unite, situat în apropierea graniței cu Omanul. Populația este de aproximativ 800.000 de locuitori. Orașul este renumit pentru grădinile sale verzi și sistemele tradiționale de irigații numite 'falaj', care datează de peste 1.500 de ani. Al Ain găzduiește cea mai mare oază din țară, cu peste 147.000 de palmieri. Fortăreața Jahili, construită în 1891, este un reper istoric. Economia se bazează pe agricultură (curmale, legume), educație și turism cultural. Clima este aridă, cu precipitații anuale sub 100 mm.",
+      en: "Al Ain, known as the 'Garden City' of the UAE, is located in the Eastern Region of Abu Dhabi. It has a population of 766,000 (2020 census) and spans an area of 1,200 km². The city is famous for its 1,500-year-old falaj irrigation system, a UNESCO World Heritage site. It hosts the largest oasis in the UAE, containing over 147,000 date palms. Al Ain also houses the Jebel Hafeet mountain, the country's second-highest peak at 1,249 meters. The economy is driven by agriculture, tourism, and education, with the UAE University founded in 1976.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 800.000", "Fläche: 1.200 km²", "Anzahl der Palmen in der Oase: über 147.000", "Höhe des Jebel Hafeet: 1.249 m", "Gründung der Universität: 1976", "Jährliche Niederschlagsmenge: unter 100 mm"],
+      hu: ["Népesség: 800.000 fő", "Terület: 1.200 km²", "Oázis területe: 10.000 pálmafa", "Falaj rendszer kora: 1500 év", "Jahili erőd építése: 1891", "Csapadék: 100 mm/év"],
+      ro: ["Populație: 800.000", "Suprafață: 1.200 km²", "Palmieri în oază: 147.000+", "Înălțime Jebel Hafeet: 1.249 m", "Universitatea UAE: fondată 1976", "Precipitații anuale: <100 mm"],
+      en: ["Population: 766,000 (2020 census)", "Area: 1,200 km²", "Number of date palms in oasis: 147,000+", "Jebel Hafeet elevation: 1,249 m", "UAE University founded: 1976", "Annual rainfall: <100 mm"],
+    },
+  },
   {
     id: "uae-ruwais-cities-v2",
     type: "city",
@@ -393,7 +419,20 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Built specifically for energy sector workers.",
         "Features a massive industrial refinery complex."
       ]
-    }, image: "/poi-images/uae-ruwais-cities-v2.webp"},
+    }, image: "/poi-images/uae-ruwais-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ruwais ist eine Industriestadt im Westen des Emirats Abu Dhabi, etwa 240 Kilometer von der Hauptstadt entfernt. Die Stadt wurde in den 1970er Jahren als Teil des Industrialisierungsplans der VAE gegründet. Sie beherbergt die Ruwais-Raffinerie, eine der größten Erdölraffinerien der Welt mit einer Kapazität von über 800.000 Barrel pro Tag. Die Stadt hat rund 100.000 Einwohner, hauptsächlich Arbeiter und ihre Familien. Neben der Ölindustrie gibt es petrochemische Anlagen und ein Kraftwerk. Ruwais verfügt über einen eigenen Hafen und einen Flughafen. Die Wohngebiete sind modern mit Grünflächen.",
+      hu: "Ruwais egy tervezett ipari város Abu-Dzabi emírség nyugati részén. A települést az 1970-es években hozták létre a kőolajipar támogatására. Itt található a világ egyik legnagyobb olajfinomítója, amely napi 800 000 hordó kapacitással rendelkezik. A város lakossága körülbelül 100 000 fő, akik többsége az olajiparban dolgozik. Ruwais rendelkezik egy mélyvízi kikötővel és egy nemzetközi repülőtérrel. A város infrastruktúrája magában foglal iskolákat, kórházakat és bevásárlóközpontokat. Az éves hőmérséklet gyakran meghaladja a 45°C-ot.",
+      ro: "Ruwais este un oraș industrial situat în vestul emiratului Abu Dhabi, la aproximativ 240 km de capitală. A fost fondat în anii 1970 ca parte a strategiei de diversificare economică. Rafinăria Ruwais este una dintre cele mai mari din lume, cu o capacitate de peste 800.000 de barili pe zi. Populația orașului este de aproximativ 100.000 de locuitori, majoritatea angajați în sectorul petrolier și petrochimic. Orașul are un port maritim și un aeroport. Clima este extrem de caldă, cu temperaturi de vară de până la 50°C. Infrastructura include școli, spitale și parcuri.",
+      en: "Ruwais is a planned industrial city in the Al Gharbia region of Abu Dhabi, established in the 1970s. It hosts the Ruwais Refinery, one of the world's largest, with a capacity of 817,000 barrels per day. The population is about 100,000, primarily expatriate workers. The city covers an area of approximately 100 km² and includes a deep-water port, an airport, and extensive petrochemical facilities. It was developed by ADNOC (Abu Dhabi National Oil Company) to support the oil and gas industry. The city is also home to a large power and desalination plant with capacity of 1,500 MW and 200 million gallons per day.",
+    },
+    factsAdvanced: {
+      de: ["Raffineriekapazität: 817.000 Barrel/Tag", "Einwohner: ca. 100.000", "Entfernung zu Abu Dhabi: 240 km", "Stromproduktion: 1.500 MW", "Entsalzungskapazität: 200 Mio. Gallonen/Tag", "Gründungsjahr: 1970er"],
+      hu: ["Finomító kapacitása: 817.000 hordó/nap", "Lakosság: 100.000 fő", "Távolság Abu-Dzabitól: 240 km", "Kikötő: mélyvízi", "Repülőtér: nemzetközi", "Áramtermelés: 1500 MW"],
+      ro: ["Capacitate rafinărie: 817.000 barili/zi", "Populație: 100.000", "Distanță de Abu Dhabi: 240 km", "Producție electricitate: 1.500 MW", "Desalinizare: 200 milioane galoane/zi", "An înființare: 1973"],
+      en: ["Refinery capacity: 817,000 bbl/day", "Population: 100,000", "Distance from Abu Dhabi: 240 km", "Power plant capacity: 1,500 MW", "Desalination capacity: 200 million gallons/day", "Established: 1973"],
+    },
+  },
   {
     id: "uae-madinat-zayed-cities-v2",
     type: "city",
@@ -428,7 +467,20 @@ export const poiExtraUaeCitiesV2: POI[] = [
         "Was officially founded in the late 1960s.",
         "An important hub for camel sports."
       ]
-    }, image: "/poi-images/uae-madinat-zayed-cities-v2.webp"},
+    }, image: "/poi-images/uae-madinat-zayed-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Madinat Zayed ist eine Stadt im Westen von Abu Dhabi, benannt nach Scheich Zayed bin Sultan Al Nahyan. Die Stadt dient als Verwaltungszentrum der Region Al Gharbia und hat rund 30.000 Einwohner. Sie liegt etwa 200 Kilometer südwestlich von Abu Dhabi-Stadt. In der Umgebung befinden sich bedeutende Erdöl- und Erdgasfelder. Die Stadt verfügt über eine moderne Infrastruktur mit Einkaufszentren, Krankenhäusern und Schulen. Ein bekanntes Wahrzeichen ist die Madinat Zayed Gold Souk. Die Wirtschaft wird von der Ölindustrie und dem Dienstleistungssektor dominiert.",
+      hu: "Madinat Zayed egy város Abu-Dzabi nyugati részén, amelyet Zayed bin Szultán Al Nahjan sejk után neveztek el. Lakossága körülbelül 30 000 fő. A város fontos adminisztratív központ, és itt található a Liwa-oázis. A környék híres a hatalmas homokdűnékről, amelyek elérik a 300 méteres magasságot is. A gazdaság alapja a kőolaj-kitermelés és a mezőgazdaság, különösen a datolyatermesztés. A városban van egy nagy bevásárlóközpont és egy kórház. Az éghajlat rendkívül száraz, évi 50 mm csapadékkal.",
+      ro: "Madinat Zayed este un oraș din vestul emiratului Abu Dhabi, cu o populație de aproximativ 30.000 de locuitori. A fost numit după fondatorul UAE, șeicul Zayed bin Sultan Al Nahyan. Orașul este centrul administrativ al regiunii Al Gharbia. În apropiere se află câmpuri petrolifere importante. Madinat Zayed este cunoscut pentru piața de aur și pentru apropierea de Deșertul Rub al Khali. Clima este deșertică, cu precipitații anuale sub 50 mm. Economia locală se bazează pe petrol, comerț și agricultură limitată la oaze.",
+      en: "Madinat Zayed is the administrative capital of the Al Gharbia region in Abu Dhabi, named after Sheikh Zayed bin Sultan Al Nahyan. It has a population of around 30,000 and is located near the Liwa Oasis. The city lies at the edge of the Rub al Khali desert, one of the largest sand deserts in the world. It serves as a hub for the oil and gas industry, with several major fields nearby. The Madinat Zayed Gold Souk is a popular attraction. The area receives less than 50 mm of rainfall annually. The city also has a hospital, schools, and a shopping mall.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 30.000", "Entfernung zu Abu Dhabi: ca. 200 km", "Jährlicher Niederschlag: unter 50 mm", "Höhe der Dünen in Liwa bis zu: 300 m", "Anzahl der Goldshops: über 20", "Gründung: 1960er Jahre"],
+      hu: ["Népesség: 30.000 fő", "Távolság Abu-Dzabitól: 200 km", "Csapadék: 50 mm/év", "Dűnemagasság: 300 m", "Arany piac: 20+ üzlet", "Alapítás: 1968"],
+      ro: ["Populație: 30.000", "Distanță de Abu Dhabi: 200 km", "Precipitații: <50 mm/an", "Înălțime dune Liwa: până la 300 m", "Piața de aur: 20+ magazine", "Fondat: 1968"],
+      en: ["Population: 30,000", "Distance from Abu Dhabi: 200 km", "Annual rainfall: <50 mm", "Liwa dune height: up to 300 m", "Gold shops: 20+", "Founded: 1968"],
+    },
+  },
   {
     id: "uae-ghayathi-cities-v2",
     type: "city",

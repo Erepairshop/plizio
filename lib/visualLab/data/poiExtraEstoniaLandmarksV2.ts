@@ -6,7 +6,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Herrenhaus Sagadi", hu: "Sagadi kúria", ro: "Conacul Sagadi", en: "Sagadi Manor" },
-    coordinates: { lat: 59.5242, lng: 25.9678 },
+    coords: [25.9678, 59.5242],
     description: {
       de: "Das Herrenhaus aus dem 18. Jahrhundert liegt im Lahemaa-Nationalpark. Es beherbergt heute ein Museum für Forstwirtschaft.",
       hu: "A 18. századi kúria a Lahemaa Nemzeti Park területén található. Ma erdészeti múzeumként működik.",
@@ -38,7 +38,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "palace",
     parent: "EE",
     name: { de: "Herrenhaus Märu", hu: "Märu kúria", ro: "Conacul Märu", en: "Märu Manor" },
-    coordinates: { lat: 59.4312, lng: 26.3125 },
+    coords: [26.3125, 59.4312],
     description: {
       de: "Das Herrenhaus Märu befindet sich in der Region Lääne-Virumaa. Das Gebäude wurde im 19. Jahrhundert im klassizistischen Stil errichtet.",
       hu: "A Märu kúria Lääne-Virumaa régióban található. Az épületet a 19. században emelték klasszicista stílusban.",
@@ -70,7 +70,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "castle",
     parent: "EE",
     name: { de: "Burg Laitse", hu: "Laitse vára", ro: "Castelul Laitse", en: "Laitse Castle" },
-    coordinates: { lat: 59.2133, lng: 24.3639 },
+    coords: [24.3639, 59.2133],
     description: {
       de: "Die Burg Laitse wurde zu Beginn des 20. Jahrhunderts im neugotischen Stil erbaut. Sie dient heute als Veranstaltungsort.",
       hu: "Laitse várát a 20. század elején építették neogótikus stílusban. Ma rendezvényközpontként működik.",
@@ -102,7 +102,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "St.-Barbara-Kirche Kunda", hu: "Kundai templom", ro: "Biserica Kunda", en: "Kunda Church" },
-    coordinates: { lat: 59.5078, lng: 26.5292 },
+    coords: [26.5292, 59.5078],
     description: {
       de: "Die St.-Barbara-Kirche in Kunda ist ein Beispiel für moderne Kirchenarchitektur in Estland. Sie wurde nach der Unabhängigkeit errichtet.",
       hu: "A kundai Szent Borbála-templom az észt modern templomépítészet példája. A függetlenség elnyerése után épült.",
@@ -134,7 +134,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "St.-Johannes-Kirche Valga", hu: "Valgai templom", ro: "Biserica Valga", en: "Valga St. John's Church" },
-    coordinates: { lat: 57.7774, lng: 26.0358 },
+    coords: [26.0358, 57.7774],
     description: {
       de: "Die St.-Johannes-Kirche in Valga ist ein barocker Bau aus dem 18. Jahrhundert. Sie liegt nahe der lettischen Grenze.",
       hu: "A valgai Szent János-templom egy 18. századi barokk épület. A lett határ közelében található.",
@@ -166,7 +166,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "EE",
     name: { de: "Museum Viljandi", hu: "Viljandi Múzeum", ro: "Muzeul Viljandi", en: "Viljandi Museum" },
-    coordinates: { lat: 58.3639, lng: 25.5947 },
+    coords: [25.5947, 58.3639],
     description: {
       de: "Das Museum in Viljandi zeigt Ausstellungen zur lokalen Geschichte und Kultur. Es befindet sich in einem historischen Apothekengebäude.",
       hu: "A viljandi múzeum helytörténeti és kulturális kiállításokat mutat be. Egy történelmi patikaépületben található.",
@@ -198,7 +198,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "EE",
     name: { de: "Museum Pärnu", hu: "Pärnui Múzeum", ro: "Muzeul Pärnu", en: "Pärnu Museum" },
-    coordinates: { lat: 58.3846, lng: 24.4981 },
+    coords: [24.4981, 58.3846],
     description: {
       de: "Das Museum in Pärnu bietet Einblicke in die maritime Geschichte der Stadt. Es liegt am Ufer des Pärnu-Flusses.",
       hu: "A pärnui múzeum betekintést nyújt a város tengerészeti történelmébe. A Pärnu folyó partján található.",
@@ -230,7 +230,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "EE",
     name: { de: "Eisenbahnmuseum Haapsalu", hu: "Haapsalui Vasúti Múzeum", ro: "Muzeul Feroviar Haapsalu", en: "Haapsalu Railway Museum" },
-    coordinates: { lat: 58.9392, lng: 23.5414 },
+    coords: [23.5414, 58.9392],
     description: {
       de: "Dieses Museum befindet sich im historischen Bahnhof von Haapsalu. Es dokumentiert die Entwicklung der Eisenbahn in Estland.",
       hu: "Ez a múzeum a haapsalui történelmi vasútállomáson található. Dokumentálja az észtországi vasút fejlődését.",
@@ -262,7 +262,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "EE",
     name: { de: "Bergbaumuseum Kohtla", hu: "Kohtla-i Bányászati Múzeum", ro: "Muzeul Minier Kohtla", en: "Kohtla Mining Museum" },
-    coordinates: { lat: 59.3853, lng: 27.2831 },
+    coords: [27.2831, 59.3853],
     description: {
       de: "Das Bergbaumuseum befindet sich auf dem Gelände einer ehemaligen Ölschiefermine. Besucher können unter Tage besichtigen.",
       hu: "A bányászati múzeum egykori olajpala-bánya területén található. A látogatók föld alatti járatokat tekinthetnek meg.",
@@ -294,7 +294,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "museum",
     parent: "EE",
     name: { de: "Wasserflugzeughafen Tallinn", hu: "Tallinni hidroplánkikötő", ro: "Portul hidroavioanelor Tallinn", en: "Tallinn Seaplane Harbour" },
-    coordinates: { lat: 59.4514, lng: 24.7408 },
+    coords: [24.7408, 59.4514],
     description: {
       de: "Das Museum befindet sich in historischen Wasserflugzeughangaren. Es beherbergt eine bedeutende Sammlung maritimer Exponate.",
       hu: "A múzeum történelmi hidroplán-hangárokban található. Jelentős tengerészeti gyűjteményt mutat be.",
@@ -326,7 +326,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "St.-Alexander-Kirche Narva", hu: "Narvai Szent Sándor-templom", ro: "Biserica Sfântul Alexandru din Narva", en: "Narva Alexander Church" },
-    coordinates: { lat: 59.3789, lng: 28.1883 },
+    coords: [28.1883, 59.3789],
     description: {
       de: "Diese große Kirche in Narva wurde im 19. Jahrhundert erbaut. Sie ist ein bedeutendes Wahrzeichen der Stadt.",
       hu: "Ez a nagy templom Narvában a 19. században épült. A város jelentős nevezetessége.",
@@ -358,7 +358,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "St.-Katharinen-Kirche Võru", hu: "Võrui templom", ro: "Biserica Võru", en: "Võru St. Catherine's Church" },
-    coordinates: { lat: 57.8425, lng: 27.0017 },
+    coords: [27.0017, 57.8425],
     description: {
       de: "Die St.-Katharinen-Kirche in Võru stammt aus dem 18. Jahrhundert. Sie ist bekannt für ihre Architektur.",
       hu: "A võrui Szent Katalin-templom a 18. századból származik. Építészetéről ismert.",
@@ -390,7 +390,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "St.-Nikolai-Kirche Põltsamaa", hu: "Põltsamaai templom", ro: "Biserica Põltsamaa", en: "Põltsamaa St. Nicholas Church" },
-    coordinates: { lat: 58.6517, lng: 25.9722 },
+    coords: [25.9722, 58.6517],
     description: {
       de: "Die Kirche in Põltsamaa hat eine bewegte Geschichte. Das heutige Gebäude wurde im 20. Jahrhundert restauriert.",
       hu: "A põltsamaai templom változatos történelemmel rendelkezik. A mai épületet a 20. században állították helyre.",
@@ -422,7 +422,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "tower",
     parent: "EE",
     name: { de: "Wasserturm Viljandi", hu: "Viljandi víztorony", ro: "Turnul de apă Viljandi", en: "Viljandi Water Tower" },
-    coordinates: { lat: 58.3636, lng: 25.5964 },
+    coords: [25.5964, 58.3636],
     description: {
       de: "Der Wasserturm in Viljandi wurde 1911 erbaut. Heute dient er als Aussichtsturm.",
       hu: "A viljandi víztornyot 1911-ben építették. Ma kilátóként működik.",
@@ -454,7 +454,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "St.-Michael-Kirche Jõhvi", hu: "Jõhvii templom", ro: "Biserica Jõhvi", en: "Jõhvi St. Michael's Church" },
-    coordinates: { lat: 59.3589, lng: 27.4161 },
+    coords: [27.4161, 59.3589],
     description: {
       de: "Die St.-Michael-Kirche in Jõhvi ist ein bedeutendes mittelalterliches Bauwerk. Sie diente früher als Wehrkirche.",
       hu: "A jõhvii Szent Mihály-templom jelentős középkori építmény. Korábban erődtemplomként szolgált.",
@@ -486,7 +486,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "St.-Kreuz-Kirche Paide", hu: "Paidei templom", ro: "Biserica Paide", en: "Paide St. Cross Church" },
-    coordinates: { lat: 58.8847, lng: 25.5606 },
+    coords: [25.5606, 58.8847],
     description: {
       de: "Die St.-Kreuz-Kirche in Paide ist ein bedeutendes historisches Gotteshaus. Sie prägt das Stadtbild.",
       hu: "A paidei Szent Kereszt-templom jelentős történelmi templom. Meghatározza a városképet.",
@@ -518,7 +518,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "St.-Maria-Magdalena-Kirche Rapla", hu: "Raplai templom", ro: "Biserica Rapla", en: "Rapla St. Mary Magdalene Church" },
-    coordinates: { lat: 59.0019, lng: 24.8028 },
+    coords: [24.8028, 59.0019],
     description: {
       de: "Die Kirche in Rapla ist ein prächtiges Beispiel für den neugotischen Stil. Sie ist bekannt für ihre Türme.",
       hu: "A raplai templom a neogótikus stílus pompás példája. Tornyairól ismert.",
@@ -550,7 +550,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "St.-Jakobi-Kirche Tapa", hu: "Tapai templom", ro: "Biserica Tapa", en: "Tapa St. James Church" },
-    coordinates: { lat: 59.2944, lng: 25.9922 },
+    coords: [25.9922, 59.2944],
     description: {
       de: "Die St.-Jakobi-Kirche in Tapa ist ein wichtiger Treffpunkt für die Gemeinde. Sie wurde modern gestaltet.",
       hu: "A tapai Szent Jakab-templom fontos gyülekezeti találkozóhely. Modern kialakítású.",
@@ -582,7 +582,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "EE",
     name: { de: "Rathaus Kuressaare", hu: "Kuressaarei Városháza", ro: "Primăria Kuressaare", en: "Kuressaare Town Hall" },
-    coordinates: { lat: 58.2525, lng: 22.4839 },
+    coords: [22.4839, 58.2525],
     description: {
       de: "Das Rathaus von Kuressaare stammt aus dem 17. Jahrhundert. Es ist ein wertvolles historisches Gebäude.",
       hu: "A kuressaarei városháza a 17. századból származik. Értékes történelmi épület.",
@@ -614,7 +614,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "church",
     parent: "EE",
     name: { de: "St.-Johannes-Kirche Kärdla", hu: "Kärdlai templom", ro: "Biserica Kärdla", en: "Kärdla St. John's Church" },
-    coordinates: { lat: 59.0011, lng: 22.7533 },
+    coords: [22.7533, 59.0011],
     description: {
       de: "Die St.-Johannes-Kirche in Kärdla ist eine schlichte, aber schöne Kirche. Sie ist zentral gelegen.",
       hu: "A kärdlai Szent János-templom egyszerű, de szép templom. Központi fekvésű.",
@@ -646,7 +646,7 @@ export const estoniaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "EE",
     name: { de: "Kulturzentrum Põlva", hu: "Põlva Kulturális Központ", ro: "Centrul Cultural Põlva", en: "Põlva Cultural Center" },
-    coordinates: { lat: 58.0567, lng: 27.0789 },
+    coords: [27.0789, 58.0567],
     description: {
       de: "Das Kulturzentrum in Põlva ist ein moderner Bau für Konzerte und Veranstaltungen. Es ist das Zentrum der Stadt.",
       hu: "A põlva-i kulturális központ modern épület koncertek és rendezvények számára. A város központja.",

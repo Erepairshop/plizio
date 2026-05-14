@@ -6,7 +6,7 @@ export const austriaLandmarksV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Burg Gudenstein", hu: "Gudenstein vára", ro: "Castelul Gudenstein", en: "Gudenstein Castle" },
-    coordinates: { lat: 47.7834, lng: 15.1234 },
+    coords: [15.1234, 47.7834],
     description: {
       de: "Diese mittelalterliche Wehranlage befindet sich in der Steiermark. Sie diente einst zur Sicherung der umliegenden Handelswege.",
       hu: "Ez a középkori erődítmény Stájerországban található. Egykor a környező kereskedelmi utak biztosítására szolgált.",
@@ -38,7 +38,7 @@ export const austriaLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "AT",
     name: { de: "Abtei Seckau", hu: "Seckaui apátság", ro: "Abația Seckau", en: "Seckau Abbey" },
-    coordinates: { lat: 47.2715, lng: 14.7828 },
+    coords: [14.7828, 47.2715],
     description: {
       de: "Die Abtei ist ein bedeutendes Benediktinerkloster in der Obersteiermark. Die romanische Basilika stammt aus dem 12. Jahrhundert.",
       hu: "Az apátság egy jelentős bencés kolostor Felső-Stájerországban. A román stílusú bazilika a 12. századból származik.",
@@ -70,7 +70,7 @@ export const austriaLandmarksV2: POI[] = [
     type: "tower",
     parent: "AT",
     name: { de: "Stadtturm Wels", hu: "Welsi városi torony", ro: "Turnul orașului Wels", en: "Wels City Tower" },
-    coordinates: { lat: 48.1578, lng: 14.0275 },
+    coords: [14.0275, 48.1578],
     description: {
       de: "Der Stadtturm ist ein Wahrzeichen der oberösterreichischen Stadt Wels. Er wurde im 14. Jahrhundert als Teil der Befestigung erbaut.",
       hu: "A városi torony a felső-ausztriai Wels városának jelképe. A 14. században épült, a védművek részeként.",
@@ -102,7 +102,7 @@ export const austriaLandmarksV2: POI[] = [
     type: "church",
     parent: "AT",
     name: { de: "St. Ruprecht Kirche", hu: "Szent Rupert-templom", ro: "Biserica Sf. Rupert", en: "St. Rupert Church" },
-    coordinates: { lat: 47.0722, lng: 15.4497 },
+    coords: [15.4497, 47.0722],
     description: {
       de: "Diese Kirche in Graz zählt zu den ältesten Sakralbauten der Stadt. Ihr Kern geht auf die romanische Zeit zurück.",
       hu: "Ez a grazi templom a város egyik legrégebbi szakrális épülete. Magja a román korba nyúlik vissza.",
@@ -134,7 +134,7 @@ export const austriaLandmarksV2: POI[] = [
     type: "castle",
     parent: "AT",
     name: { de: "Burg Glanegg", hu: "Glanegg vára", ro: "Castelul Glanegg", en: "Glanegg Castle" },
-    coordinates: { lat: 46.7118, lng: 14.3129 },
+    coords: [14.3129, 46.7118],
     description: {
       de: "Die Burgruine liegt in Kärnten auf einem steilen Felskegel. Sie diente im Mittelalter der Kontrolle des Glantals.",
       hu: "A várrom Karintiában, egy meredek sziklakúpon fekszik. A középkorban a Glan-völgy ellenőrzésére szolgált.",
@@ -166,7 +166,7 @@ export const austriaLandmarksV2: POI[] = [
     type: "palace",
     parent: "AT",
     name: { de: "Schloss Lamberg", hu: "Lamberg-kastély", ro: "Castelul Lamberg", en: "Lamberg Castle" },
-    coordinates: { lat: 48.0435, lng: 14.4172 },
+    coords: [14.4172, 48.0435],
     description: {
       de: "Das Schloss in Steyr beherbergt heute das Museum der Stadt. Es wurde auf den Resten einer früheren Burg errichtet.",
       hu: "A steyri kastélyban található ma a város múzeuma. Egy korábbi vár maradványaira épült.",
@@ -198,7 +198,7 @@ export const austriaLandmarksV2: POI[] = [
     type: "church",
     parent: "AT",
     name: { de: "St. Anna Kirche", hu: "Szent Anna-templom", ro: "Biserica Sf. Ana", en: "St. Anne Church" },
-    coordinates: { lat: 47.8122, lng: 16.2425 },
+    coords: [16.2425, 47.8122],
     description: {
       de: "Diese Kirche in Wiener Neustadt ist für ihre gotischen Elemente bekannt. Sie wurde im späten Mittelalter als Teil eines Spitals errichtet.",
       hu: "Ez a bécsújhelyi templom gótikus elemeiről ismert. A késő középkorban épült, egy kórház részeként.",

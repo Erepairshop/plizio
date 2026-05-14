@@ -6,7 +6,7 @@ export const italyNatureV2: POI[] = [
     type: "lake",
     parent: "IT",
     name: { de: "Trasimenischer See", hu: "Trasimeno-tó", ro: "Lacul Trasimeno", en: "Lake Trasimeno" },
-    coordinates: { lat: 43.1333, lng: 12.1167 },
+    coords: [12.1167, 43.1333],
     description: {
       de: "Der See in der Region Umbrien ist das viertgrößte Binnengewässer Italiens. Er liegt in einer flachen Senke und hat keine natürlichen Abflüsse.",
       hu: "Az umbriai régióban található tó Olaszország negyedik legnagyobb belvíze. Lapos medencében fekszik, és nincsenek természetes lefolyásai.",
@@ -38,7 +38,7 @@ export const italyNatureV2: POI[] = [
     type: "river",
     parent: "IT",
     name: { de: "Etsch", hu: "Adige", ro: "Adige", en: "Adige River" },
-    coordinates: { lat: 45.1833, lng: 12.2833 },
+    coords: [12.2833, 45.1833],
     description: {
       de: "Die Etsch ist nach dem Po der zweitlängste Fluss Italiens. Sie entspringt in den Alpen und mündet in die Adria.",
       hu: "Az Adige Olaszország második leghosszabb folyója a Pó után. Az Alpokban ered és az Adriai-tengerbe torkollik.",
@@ -70,7 +70,7 @@ export const italyNatureV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Monte-Rosa-Massiv", hu: "Monte Rosa-hegység", ro: "Masivul Monte Rosa", en: "Monte Rosa Massif" },
-    coordinates: { lat: 45.9333, lng: 7.8667 },
+    coords: [7.8667, 45.9333],
     description: {
       de: "Das Massiv liegt in den Walliser Alpen an der Grenze zur Schweiz. Die Dufourspitze ist der höchste Punkt Italiens.",
       hu: "A hegység a Wallisi-Alpokban fekszik, a svájci határon. A Dufourspitze Olaszország legmagasabb pontja.",
@@ -102,7 +102,7 @@ export const italyNatureV2: POI[] = [
     type: "park",
     parent: "IT",
     name: { de: "Nationalpark Stilfserjoch", hu: "Stelvio Nemzeti Park", ro: "Parcul Național Stelvio", en: "Stelvio National Park" },
-    coordinates: { lat: 46.5333, lng: 10.55 },
+    coords: [10.55, 46.5333],
     description: {
       de: "Der Nationalpark umfasst weite Gebiete der Ortler-Alpen. Er ist eines der größten Schutzgebiete im gesamten Alpenraum.",
       hu: "A nemzeti park az Ortler-Alpok kiterjedt területeit foglalja magában. Az egyik legnagyobb védett terület az egész alpesi régióban.",
@@ -134,7 +134,7 @@ export const italyNatureV2: POI[] = [
     type: "mountain",
     parent: "IT",
     name: { de: "Gran Sasso", hu: "Gran Sasso", ro: "Gran Sasso", en: "Gran Sasso" },
-    coordinates: { lat: 42.47, lng: 13.55 },
+    coords: [13.55, 42.47],
     description: {
       de: "Das Gran Sasso Massiv ist der höchste Gebirgsstock des Apennins. Es liegt in der Region Abruzzen.",
       hu: "A Gran Sasso-hegység az Appenninek legmagasabb hegysége. Abruzzo régióban található.",
@@ -166,7 +166,7 @@ export const italyNatureV2: POI[] = [
     type: "river",
     parent: "IT",
     name: { de: "Po", hu: "Pó", ro: "Pad", en: "Po River" },
-    coordinates: { lat: 44.97, lng: 12.4 },
+    coords: [12.4, 44.97],
     description: {
       de: "Der Po ist der längste Fluss Italiens. Er durchquert die Po-Ebene und mündet in das Adriatische Meer.",
       hu: "A Pó Olaszország leghosszabb folyója. Keresztezi a Pó-síkságot és az Adriai-tengerbe torkollik.",
@@ -198,7 +198,7 @@ export const italyNatureV2: POI[] = [
     type: "island",
     parent: "IT",
     name: { de: "La-Maddalena-Archipel", hu: "La Maddalena-szigetcsoport", ro: "Arhipelagul La Maddalena", en: "La Maddalena Archipelago" },
-    coordinates: { lat: 41.22, lng: 9.4 },
+    coords: [9.4, 41.22],
     description: {
       de: "Die Inselgruppe liegt vor der Küste Nordsardiniens. Sie ist als Nationalpark geschützt und für klares Wasser bekannt.",
       hu: "A szigetcsoport Észak-Szardínia partjainál fekszik. Nemzeti parkként védett, és tiszta vizeiről ismert.",
@@ -230,7 +230,7 @@ export const italyNatureV2: POI[] = [
     type: "valley",
     parent: "IT",
     name: { de: "Fassatal", hu: "Fassa-völgy", ro: "Val di Fassa", en: "Val di Fassa" },
-    coordinates: { lat: 46.43, lng: 11.68 },
+    coords: [11.68, 46.43],
     description: {
       de: "Das Tal befindet sich in den Dolomiten im Trentino. Es ist von bekannten Berggruppen wie der Sella umgeben.",
       hu: "A völgy a Trentino-beli Dolomitokban található. Olyan híres hegycsoportok veszik körül, mint a Sella.",
@@ -262,7 +262,7 @@ export const italyNatureV2: POI[] = [
     type: "valley",
     parent: "IT",
     name: { de: "Gola della Rossa", hu: "Gola della Rossa", ro: "Gola della Rossa", en: "Gola della Rossa" },
-    coordinates: { lat: 43.43, lng: 13.03 },
+    coords: [13.03, 43.43],
     description: {
       de: "Das Naturschutzgebiet liegt in der Region Marken. Es ist für seine tiefen Schluchten und Karstformationen bekannt.",
       hu: "A természetvédelmi terület Marche régióban fekszik. Mély szurdokairól és karsztképződményeiről ismert.",
@@ -294,7 +294,7 @@ export const italyNatureV2: POI[] = [
     type: "river",
     parent: "IT",
     name: { de: "Arno", hu: "Arno", ro: "Arno", en: "Arno River" },
-    coordinates: { lat: 43.68, lng: 10.3 },
+    coords: [10.3, 43.68],
     description: {
       de: "Der Arno ist der wichtigste Fluss der Toskana. Er fließt durch Florenz und mündet in das Ligurische Meer.",
       hu: "Az Arno Toszkána legfontosabb folyója. Átfolyik Firenzén és a Ligur-tengerbe torkollik.",
@@ -326,7 +326,7 @@ export const italyNatureV2: POI[] = [
     type: "forest",
     parent: "IT",
     name: { de: "Foresta Umbra", hu: "Foresta Umbra", ro: "Foresta Umbra", en: "Foresta Umbra" },
-    coordinates: { lat: 41.8, lng: 15.98 },
+    coords: [15.98, 41.8],
     description: {
       de: "Das Waldgebiet liegt auf der Halbinsel Gargano in Apulien. Es besteht aus alten Buchen- und Eichenbeständen.",
       hu: "Az erdőterület az apuliai Gargano-félszigeten található. Régi bükk- és tölgyállományokból áll.",
@@ -358,7 +358,7 @@ export const italyNatureV2: POI[] = [
     type: "landmark",
     parent: "IT",
     name: { de: "Marmore-Wasserfälle", hu: "Marmore-vízesés", ro: "Cascada Marmore", en: "Marmore Falls" },
-    coordinates: { lat: 42.55, lng: 12.72 },
+    coords: [12.72, 42.55],
     description: {
       de: "Die Wasserfälle bei Terni wurden künstlich von den Römern angelegt. Sie gehören zu den höchsten in Europa.",
       hu: "A Terni melletti vízeséseket a rómaiak mesterségesen hozták létre. Európa egyik legmagasabb vízesése.",

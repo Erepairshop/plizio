@@ -6,7 +6,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "landmark",
     parent: "BG",
     name: { de: "Stob-Erdpyramiden", hu: "Stobi földpiramisok", ro: "Piramidele de pământ de la Stob", en: "Stob Earth Pyramids" },
-    coordinates: { lat: 42.0833, lng: 23.1167 },
+    coords: [23.1167, 42.0833],
     description: {
       de: "Diese geologischen Formationen dienten in der Geschichte als Orientierungspunkte. Sie entstanden durch Erosion in der Nähe antiker Siedlungsgebiete.",
       hu: "Ezek a geológiai képződmények történelmileg tájékozódási pontként szolgáltak. Az erózió révén alakultak ki az ősi települések közelében.",
@@ -38,7 +38,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Kalofer-Kloster", hu: "Kaloferi kolostor", ro: "Mănăstirea din Kalofer", en: "Kalofer Monastery" },
-    coordinates: { lat: 42.6667, lng: 24.9833 },
+    coords: [24.9833, 42.6667],
     description: {
       de: "Das Kloster bei Kalofer bewahrt religiöse und historische Traditionen der Region. Es wurde während der nationalen Wiedergeburt wiederaufgebaut.",
       hu: "A Kalofer melletti kolostor a régió vallási és történelmi hagyományait őrzi. A nemzeti újjászületés idején építették újjá.",
@@ -70,7 +70,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "castle",
     parent: "BG",
     name: { de: "Festung Mezek", hu: "Mezek erőd", ro: "Cetatea Mezek", en: "Mezek Fortress" },
-    coordinates: { lat: 41.7333, lng: 26.05 },
+    coords: [26.05, 41.7333],
     description: {
       de: "Die mittelalterliche Festung nahe Mezek schützte strategisch wichtige Handelswege. Sie ist eine der besterhaltenen Burgen des Landes.",
       hu: "A Mezek melletti középkori erőd stratégiailag fontos kereskedelmi útvonalakat védett. Az ország egyik legjobban megőrzött vára.",
@@ -102,7 +102,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Magura-Höhlenmalereien", hu: "Magura-barlangi festmények", ro: "Picturile rupestre de la peștera Magura", en: "Magura Cave Paintings" },
-    coordinates: { lat: 43.6, lng: 22.65 },
+    coords: [22.65, 43.6],
     description: {
       de: "Die Magura-Höhle beherbergt prähistorische Malereien aus der Bronzezeit. Sie geben Einblicke in frühe menschliche Rituale und das Leben.",
       hu: "A Magura-barlang a bronzkorból származó őskori festményeknek ad otthont. Betekintést nyújtanak a korai emberi rituálékba és életbe.",
@@ -134,7 +134,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Archäologische Stätte Kabile", hu: "Kabile régészeti lelőhely", ro: "Situl arheologic Kabile", en: "Kabile Archaeological Site" },
-    coordinates: { lat: 42.5, lng: 26.4333 },
+    coords: [26.4333, 42.5],
     description: {
       de: "Kabile war eine antike thrakische Stadt und ein späteres römisches Zentrum. Die Ruinen umfassen eine Basilika und Befestigungsanlagen.",
       hu: "Kabile egy ősi trák város és későbbi római központ volt. A romok között bazilika és erődítmények találhatók.",
@@ -166,7 +166,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "castle",
     parent: "BG",
     name: { de: "Festung Schumen", hu: "Sumeni erőd", ro: "Cetatea Șumen", en: "Shumen Fortress" },
-    coordinates: { lat: 43.2667, lng: 26.9 },
+    coords: [26.9, 43.2667],
     description: {
       de: "Die Festung über der Stadt Schumen war während des Mittelalters ein bedeutendes Zentrum. Sie wurde von Thrakern, Römern und Byzantinern genutzt.",
       hu: "A Sumen városa feletti erőd a középkorban jelentős központ volt. Trákok, rómaiak és bizánciak is használták.",
@@ -198,7 +198,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "monument",
     parent: "BG",
     name: { de: "Denkmal von Peruschtiza", hu: "Perushticai emlékmű", ro: "Monumentul din Peruștita", en: "Perushtitsa Monument" },
-    coordinates: { lat: 42.05, lng: 24.55 },
+    coords: [24.55, 42.05],
     description: {
       de: "Das Denkmal erinnert an den Aprilaufstand von 1876. Es markiert den historischen Widerstand der Bevölkerung gegen die Osmanen.",
       hu: "Az emlékmű az 1876-os áprilisi felkelésre emlékezik. A lakosság oszmánok elleni történelmi ellenállását jelöli.",
@@ -230,7 +230,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Römische Bäder von Kjustendil", hu: "Kjusztendili római fürdők", ro: "Băile romane din Kiustendil", en: "Roman Baths of Kyustendil" },
-    coordinates: { lat: 42.2833, lng: 22.6833 },
+    coords: [22.6833, 42.2833],
     description: {
       de: "Diese Ruinen sind Überreste des antiken Pautalia. Sie zeigen die hohe Ingenieurskunst der römischen Thermenbauweise.",
       hu: "Ezek a romok az ősi Pautalia maradványai. A római fürdőépítészet magas fokú mérnöki tudását mutatják.",
@@ -262,7 +262,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Ruinen von Pliska", hu: "Pliszka romjai", ro: "Ruinele de la Pliska", en: "Pliska Ruins" },
-    coordinates: { lat: 43.3833, lng: 27.1333 },
+    coords: [27.1333, 43.3833],
     description: {
       de: "Pliska war die erste Hauptstadt des Ersten Bulgarischen Reiches. Heute lassen sich dort Palastanlagen und Verteidigungsstrukturen besichtigen.",
       hu: "Pliszka volt az Első Bolgár Birodalom első fővárosa. Ma paloták és védelmi rendszerek maradványai tekinthetők meg.",
@@ -294,7 +294,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Ruinen von Preslaw", hu: "Preszlav romjai", ro: "Ruinele de la Preslav", en: "Preslav Ruins" },
-    coordinates: { lat: 43.15, lng: 26.8 },
+    coords: [26.8, 43.15],
     description: {
       de: "Preslaw folgte Pliska als Hauptstadt des Ersten Bulgarischen Reiches. Die archäologischen Funde dokumentieren ein goldenes Zeitalter der Kultur.",
       hu: "Preszlav követte Pliszkát az Első Bolgár Birodalom fővárosaként. A régészeti leletek a kultúra aranykorát dokumentálják.",
@@ -326,7 +326,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "bridge",
     parent: "BG",
     name: { de: "Überdachte Brücke von Lowetsch", hu: "Lovecsi fedett híd", ro: "Podul acoperit din Loveci", en: "Covered Bridge of Lovech" },
-    coordinates: { lat: 43.1333, lng: 24.7167 },
+    coords: [24.7167, 43.1333],
     description: {
       de: "Die überdachte Brücke in Lowetsch ist ein Wahrzeichen der Stadt. Sie verbindet die Altstadt mit dem neueren Viertel.",
       hu: "A lovecsi fedett híd a város egyik jelképe. Összeköti az óvárost az újabb városrésszel.",
@@ -358,7 +358,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "museum",
     parent: "BG",
     name: { de: "Ethnographisches Haus Dobritsch", hu: "Dobrics néprajzi ház", ro: "Casa etnografică din Dobrici", en: "Dobrich Ethnographic House" },
-    coordinates: { lat: 43.5667, lng: 27.8333 },
+    coords: [27.8333, 43.5667],
     description: {
       de: "Das Haus präsentiert das bäuerliche Leben im 19. Jahrhundert. Es ist Teil des historischen Zentrums der Stadt Dobritsch.",
       hu: "A ház a 19. századi paraszti életet mutatja be. A Dobrics város történelmi központjának része.",
@@ -390,7 +390,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Römische Thermen von Warna", hu: "Várnai római termák", ro: "Termele romane din Varna", en: "Roman Thermae of Varna" },
-    coordinates: { lat: 43.2, lng: 27.9167 },
+    coords: [27.9167, 43.2],
     description: {
       de: "Die römischen Thermen von Warna gehören zu den größten antiken Bauten in Bulgarien. Sie datieren aus dem späten 2. Jahrhundert.",
       hu: "A várnai római termák Bulgária legnagyobb ókori építményei közé tartoznak. A 2. század végéről származnak.",
@@ -422,7 +422,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "village",
     parent: "BG",
     name: { de: "Architekturreservat Scherawna", hu: "Zseravna építészeti rezervátum", ro: "Rezervația arhitecturală Jeravna", en: "Zheravna Architectural Reserve" },
-    coordinates: { lat: 42.85, lng: 26.45 },
+    coords: [26.45, 42.85],
     description: {
       de: "Scherawna ist ein Dorf mit erhaltenen Holzhäusern aus der Zeit der nationalen Wiedergeburt. Es bewahrt einen authentischen bulgarischen Stil.",
       hu: "Zseravna egy falu, amelyben megőrződtek a nemzeti újjászületés korabeli faházak. Megőrzi az autentikus bolgár stílust.",
@@ -454,7 +454,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "monument",
     parent: "BG",
     name: { de: "Mausoleum von Alexander I. von Battenberg", hu: "I. Sándor Battenberg mauzóleuma", ro: "Mausoleul lui Alexandru I de Battenberg", en: "Mausoleum of Alexander I of Battenberg" },
-    coordinates: { lat: 42.6833, lng: 23.3333 },
+    coords: [23.3333, 42.6833],
     description: {
       de: "Dieses Mausoleum in Sofia ist die letzte Ruhestätte des ersten Fürsten des modernen Bulgariens. Es wurde im Gedenken an ihn errichtet.",
       hu: "Ez a szófiai mauzóleum a modern Bulgária első fejedelmének végső nyughelye. Az ő emlékére épült.",
@@ -486,7 +486,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "tower",
     parent: "BG",
     name: { de: "Uhrturm von Swischtow", hu: "Szvistovi óratorony", ro: "Turnul cu ceas din Sviștov", en: "Clock Tower of Svishtov" },
-    coordinates: { lat: 43.6167, lng: 25.35 },
+    coords: [25.35, 43.6167],
     description: {
       de: "Der historische Uhrturm prägt das Stadtbild von Swischtow. Er ist ein Beispiel für die Architektur der Wiedergeburt im 18. Jahrhundert.",
       hu: "A történelmi óratorony meghatározza Szvistov városképét. A 18. századi újjászületés építészetének példája.",
@@ -518,7 +518,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "castle",
     parent: "BG",
     name: { de: "Asen-Festung", hu: "Aszen-erőd", ro: "Cetatea Asen", en: "Asen's Fortress" },
-    coordinates: { lat: 41.9833, lng: 24.8667 },
+    coords: [24.8667, 41.9833],
     description: {
       de: "Die Burg liegt auf einem hohen Felsen im Rhodopen-Gebirge. Sie wurde nach dem bulgarischen Zaren Iwan Asen II. benannt.",
       hu: "A vár a Rodope-hegység egyik magas szikláján áll. I. Iván Aszen bolgár cárról nevezték el.",
@@ -550,7 +550,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "museum",
     parent: "BG",
     name: { de: "Panagjurischte-Goldschatz", hu: "Panagjüristei aranykincs", ro: "Comoara de aur din Panaghiuriște", en: "Panagyurishte Gold Treasure" },
-    coordinates: { lat: 42.5, lng: 24.1833 },
+    coords: [24.1833, 42.5],
     description: {
       de: "Dieser thrakische Goldschatz wurde in der Nähe von Panagjurischte gefunden. Er ist eines der bedeutendsten Fundstücke der antiken Geschichte.",
       hu: "Ezt a trák aranykincset Panagjüriste közelében találták. Az ókori történelem egyik legjelentősebb lelete.",
@@ -582,7 +582,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Ruinen von Nessebar", hu: "Neszebár romjai", ro: "Ruinele din Nesebăr", en: "Nessebar Ruins" },
-    coordinates: { lat: 42.66, lng: 27.73 },
+    coords: [27.73, 42.66],
     description: {
       de: "Nessebar ist bekannt für seine zahlreichen mittelalterlichen Kirchenruinen. Die Stadt hat eine über 3000-jährige Geschichte als Handelshafen.",
       hu: "Neszebár számos középkori templomromjáról ismert. A város több mint 3000 éves múlttal rendelkezik kereskedelmi kikötőként.",
@@ -614,7 +614,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "monument",
     parent: "BG",
     name: { de: "Denkmal am Schipkapass", hu: "Sipka-emlékmű", ro: "Memorialul de la Pasul Șipka", en: "Shipka Pass Memorial" },
-    coordinates: { lat: 42.75, lng: 25.3333 },
+    coords: [25.3333, 42.75],
     description: {
       de: "Das Denkmal erinnert an die entscheidende Schlacht am Schipkapass im Russisch-Osmanischen Krieg. Es ist ein Symbol der bulgarischen Freiheit.",
       hu: "Az emlékmű az orosz–török háborúban a Sipka-szorosnál vívott döntő csatára emlékezik. A bolgár szabadság jelképe.",
@@ -646,7 +646,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "museum",
     parent: "BG",
     name: { de: "Historische Häuser von Kopriwschtiza", hu: "Koprivstica történelmi házai", ro: "Casele istorice din Koprivștița", en: "Koprivshtitsa Historical Houses" },
-    coordinates: { lat: 42.6333, lng: 24.05 },
+    coords: [24.05, 42.6333],
     description: {
       de: "Kopriwschtiza ist bekannt für seine Architektur aus der Zeit der nationalen Wiedergeburt. Viele Häuser sind heute Museen.",
       hu: "Koprivstica a nemzeti újjászületés korabeli építészetéről ismert. Sok ház ma múzeum.",
@@ -678,7 +678,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "city",
     parent: "BG",
     name: { de: "Kulturviertel Weliko Tarnowo", hu: "Veliko Tarnovo kulturális negyede", ro: "Cartierul cultural Veliko Tărnovo", en: "Veliko Tarnovo Cultural Quarter" },
-    coordinates: { lat: 43.0767, lng: 25.6172 },
+    coords: [25.6172, 43.0767],
     description: {
       de: "Das historische Zentrum von Weliko Tarnowo zeigt die Architektur und Geschichte der Wiedergeburt. Es liegt auf steilen Hängen am Fluss Jantra.",
       hu: "Veliko Tarnovo történelmi központja az újjászületés építészetét és történelmét mutatja be. A Jantra folyó meredek partján fekszik.",
@@ -710,7 +710,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Nikopolis ad Istrum", hu: "Nikopolisz ad Istrum", ro: "Nicopolis ad Istrum", en: "Nicopolis ad Istrum" },
-    coordinates: { lat: 43.2167, lng: 25.4667 },
+    coords: [25.4667, 43.2167],
     description: {
       de: "Nikopolis ad Istrum war eine römische Stadt, gegründet vom Kaiser Trajan. Die Ruinen umfassen eine Agora und eine Basilika.",
       hu: "Nikopolisz ad Istrum egy római város volt, amelyet Traianus császár alapított. A romok agórát és bazilikát tartalmaznak.",
@@ -742,7 +742,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Aladscha-Kloster", hu: "Aladzsa kolostor", ro: "Mănăstirea Aladja", en: "Aladzha Monastery" },
-    coordinates: { lat: 43.2833, lng: 27.9833 },
+    coords: [27.9833, 43.2833],
     description: {
       de: "Das Aladscha-Kloster ist ein mittelalterliches Höhlenkloster nahe Warna. Es wurde in eine natürliche Felswand hineingebaut.",
       hu: "Az Aladzsa kolostor egy középkori barlangkolostor Várna közelében. Természetes sziklafalba épült.",
@@ -774,7 +774,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Felsenkirchen von Iwanowo", hu: "Ivanovói sziklatemplomok", ro: "Bisericile rupestre de la Ivanovo", en: "Rock-hewn Churches of Ivanovo" },
-    coordinates: { lat: 43.6833, lng: 25.9833 },
+    coords: [25.9833, 43.6833],
     description: {
       de: "Die Felsenkirchen von Iwanowo sind ein UNESCO-Weltkulturerbe. Sie zeichnen sich durch gut erhaltene mittelalterliche Wandmalereien aus.",
       hu: "Az ivanovói sziklatemplomok az UNESCO világörökség részei. Jól megőrzött középkori falfestményeikről ismertek.",
@@ -806,7 +806,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "church",
     parent: "BG",
     name: { de: "Kloster Drjanowo", hu: "Drjanovói kolostor", ro: "Mănăstirea Dreanovo", en: "Dryanovo Monastery" },
-    coordinates: { lat: 42.9833, lng: 25.4333 },
+    coords: [25.4333, 42.9833],
     description: {
       de: "Das Kloster bei Drjanowo ist ein bedeutender historischer Ort, der mit dem bulgarischen Unabhängigkeitskampf verbunden ist.",
       hu: "A Drjanovo melletti kolostor fontos történelmi helyszín, amely összefügg a bolgár függetlenségi harccal.",
@@ -838,7 +838,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "castle",
     parent: "BG",
     name: { de: "Festung Sweti Nikola", hu: "Szveti Nikola erőd", ro: "Cetatea Sfântul Nicolae", en: "Saint Nikola Fortress" },
-    coordinates: { lat: 42.1, lng: 25.1 },
+    coords: [25.1, 42.1],
     description: {
       de: "Diese mittelalterliche Festung diente zur Verteidigung strategisch wichtiger Pässe. Sie ist ein Beispiel für lokale Verteidigungsbaukunst.",
       hu: "Ez a középkori erőd stratégiailag fontos hágók védelmét szolgálta. A helyi védelmi építészet példája.",
@@ -870,7 +870,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "monument",
     parent: "BG",
     name: { de: "Denkmal von Krumowo", hu: "Krumovói emlékmű", ro: "Monumentul din Krumovo", en: "Krumovo Monument" },
-    coordinates: { lat: 42.1333, lng: 24.85 },
+    coords: [24.85, 42.1333],
     description: {
       de: "Das Denkmal erinnert an bedeutende historische Persönlichkeiten und Ereignisse in der Region Krumowo.",
       hu: "Az emlékmű a Krumovo régió fontos történelmi személyiségeire és eseményeire emlékezik.",
@@ -902,7 +902,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "museum",
     parent: "BG",
     name: { de: "Historisches Museum Wratza", hu: "Vracai Történeti Múzeum", ro: "Muzeul de Istorie din Vrața", en: "History Museum Vratsa" },
-    coordinates: { lat: 43.2, lng: 23.55 },
+    coords: [23.55, 43.2],
     description: {
       de: "Das Museum in Wratza beherbergt wichtige thrakische Schätze und archäologische Exponate aus Nordwestbulgarien.",
       hu: "A vracai múzeum fontos trák kincseket és északnyugat-bulgáriai régészeti leleteket őriz.",
@@ -934,7 +934,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Antikes Stara Sagora", hu: "Ókori Sztara Zagora", ro: "Stara Zagora antică", en: "Ancient Stara Zagora" },
-    coordinates: { lat: 42.4333, lng: 25.6333 },
+    coords: [25.6333, 42.4333],
     description: {
       de: "Stara Sagora hat eine lange Geschichte als antikes Augusta Traiana. Überreste sind im Stadtgebiet als archäologische Parks erhalten.",
       hu: "Sztara Zagora hosszú történelemmel rendelkezik ókori Augusta Traianaként. Maradványai régészeti parkokként maradtak fenn.",
@@ -966,7 +966,7 @@ export const bulgariaHistoryV2: POI[] = [
     type: "ruins",
     parent: "BG",
     name: { de: "Römisches Fort Silistra", hu: "Szilisztrai római erőd", ro: "Fortul roman din Silistra", en: "Roman Fort Silistra" },
-    coordinates: { lat: 44.1167, lng: 27.2667 },
+    coords: [27.2667, 44.1167],
     description: {
       de: "Silistra, das antike Durostorum, war eine bedeutende römische Garnisonsstadt. Reste des Forts und Gräber sind besichtigbar.",
       hu: "Szilisztra, az ókori Durostorum, jelentős római helyőrségi város volt. Az erőd és sírok maradványai megtekinthetők.",

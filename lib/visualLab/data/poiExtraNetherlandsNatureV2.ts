@@ -6,7 +6,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Veluwezoom", hu: "Veluwezoom", ro: "Veluwezoom", en: "Veluwezoom" },
-    coordinates: { lat: 52.01, lng: 5.98 },
+    coords: [5.98, 52.01],
     description: {
       de: "Der Veluwezoom ist der älteste Nationalpark der Niederlande. Er umfasst hügelige Heideflächen, Sandverwehungen und dichte Wälder.",
       hu: "A Veluwezoom Hollandia legrégebbi nemzeti parkja. Hullámos hangaföldek, homokdűnék és sűrű erdők jellemzik.",
@@ -38,7 +38,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "wildlife",
     parent: "NL",
     name: { de: "Oostvaardersplassen", hu: "Oostvaardersplassen", ro: "Oostvaardersplassen", en: "Oostvaardersplassen" },
-    coordinates: { lat: 52.42, lng: 5.38 },
+    coords: [5.38, 52.42],
     description: {
       de: "Dieses Naturschutzgebiet entstand durch die Trockenlegung von Flevoland. Es ist bekannt für seine großen Huftierpopulationen.",
       hu: "Ez a természetvédelmi terület Flevoland lecsapolásával jött létre. Ismert a nagy patás állatpopulációiról.",
@@ -70,7 +70,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "island",
     parent: "NL",
     name: { de: "Schiermonnikoog", hu: "Schiermonnikoog", ro: "Schiermonnikoog", en: "Schiermonnikoog" },
-    coordinates: { lat: 53.48, lng: 6.16 },
+    coords: [6.16, 53.48],
     description: {
       de: "Schiermonnikoog ist eine der westfriesischen Inseln. Sie ist fast vollständig als Nationalpark geschützt.",
       hu: "Schiermonnikoog egy a nyugati fríz szigetek közül. Szinte teljes egészében nemzeti parkként védett.",
@@ -102,7 +102,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Loonse en Drunense Duinen", hu: "Loonse en Drunense Duinen", ro: "Loonse en Drunense Duinen", en: "Loonse en Drunense Duinen" },
-    coordinates: { lat: 51.64, lng: 5.12 },
+    coords: [5.12, 51.64],
     description: {
       de: "Dieser Nationalpark ist als 'Brabanter Sahara' bekannt. Er besteht aus ausgedehnten Sandverwehungen und Heideflächen.",
       hu: "Ez a nemzeti park 'Brabanti Szahara'-ként ismert. Kiterjedt homokdűnékből és hangás területekből áll.",
@@ -134,7 +134,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Sallandse Heuvelrug", hu: "Sallandse Heuvelrug", ro: "Sallandse Heuvelrug", en: "Sallandse Heuvelrug" },
-    coordinates: { lat: 52.35, lng: 6.45 },
+    coords: [6.45, 52.35],
     description: {
       de: "Ein bewaldeter Höhenzug in der Provinz Overijssel. Er bietet weite Aussichten und ist Lebensraum des Birkhuhns.",
       hu: "Erdős dombvonulat Overijssel tartományban. Széles kilátást nyújt és a nyírfajd élőhelye.",
@@ -166,7 +166,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "lake",
     parent: "NL",
     name: { de: "Weerribben-Wieden", hu: "Weerribben-Wieden", ro: "Weerribben-Wieden", en: "Weerribben-Wieden" },
-    coordinates: { lat: 52.75, lng: 5.95 },
+    coords: [5.95, 52.75],
     description: {
       de: "Das größte zusammenhängende Niedermoor in Nordwesteuropa. Es ist durch Torfabbau im Mittelalter entstanden.",
       hu: "Északnyugat-Európa legnagyobb összefüggő síkláprétje. A középkori tőzegkitermelés révén jött létre.",
@@ -198,7 +198,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Dwingelderveld", hu: "Dwingelderveld", ro: "Dwingelderveld", en: "Dwingelderveld" },
-    coordinates: { lat: 52.81, lng: 6.38 },
+    coords: [6.38, 52.81],
     description: {
       de: "Der Dwingelderveld ist das größte feuchte Heidegebiet in Westeuropa. Er zeichnet sich durch Heidekraut und Wacholder aus.",
       hu: "A Dwingelderveld Nyugat-Európa legnagyobb nedves hangás területe. Jellemzői a hanga és a boróka.",
@@ -230,7 +230,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "lake",
     parent: "NL",
     name: { de: "Lauwersmeer", hu: "Lauwersmeer", ro: "Lauwersmeer", en: "Lauwersmeer" },
-    coordinates: { lat: 53.33, lng: 6.22 },
+    coords: [6.22, 53.33],
     description: {
       de: "Das Lauwersmeer ist ein künstlicher See, der 1969 nach dem Abschluss des Deichbaus entstand. Es ist heute ein Nationalpark.",
       hu: "A Lauwersmeer egy mesterséges tó, amely 1969-ben jött létre a gátépítést követően. Ma nemzeti park.",
@@ -262,7 +262,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Kennemer Duinen", hu: "Kennemer Duinen", ro: "Kennemer Duinen", en: "Kennemer Duinen" },
-    coordinates: { lat: 52.42, lng: 4.58 },
+    coords: [4.58, 52.42],
     description: {
       de: "Dieses Dünengebiet bei Haarlem umfasst Wanderdünen, Wälder und Dünentäler. Es dient auch der Wassergewinnung.",
       hu: "Ez a haarlemi dűnevidék mozgó dűnéket, erdőket és dűnevölgyeket foglal magában. Víznyerésre is szolgál.",
@@ -294,7 +294,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "valley",
     parent: "NL",
     name: { de: "Geulvallei", hu: "Geulvallei", ro: "Geulvallei", en: "Geulvallei" },
-    coordinates: { lat: 50.85, lng: 5.82 },
+    coords: [5.82, 50.85],
     description: {
       de: "Das Tal des Flusses Geul im Süden von Limburg. Es ist für seine hügelige Landschaft und Artenvielfalt bekannt.",
       hu: "A Geul folyó völgye Limburg déli részén. Ismert dombos tájáról és biológiai sokféleségéről.",
@@ -326,7 +326,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "forest",
     parent: "NL",
     name: { de: "Oostvaardersbos", hu: "Oostvaardersbos", ro: "Oostvaardersbos", en: "Oostvaardersbos" },
-    coordinates: { lat: 52.41, lng: 5.42 },
+    coords: [5.42, 52.41],
     description: {
       de: "Ein junger Wald im Naturschutzgebiet bei Almere. Er bietet Lebensraum für zahlreiche Vogelarten und Insekten.",
       hu: "Fiatal erdő az Almere melletti természetvédelmi területen. Számos madárfajnak és rovarnak ad otthont.",
@@ -358,7 +358,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Waterdunen", hu: "Waterdunen", ro: "Waterdunen", en: "Waterdunen" },
-    coordinates: { lat: 51.38, lng: 3.48 },
+    coords: [3.48, 51.38],
     description: {
       de: "Ein neues Natur- und Erholungsgebiet in Zeeland. Es kombiniert Küstenschutz mit der Schaffung von Lebensräumen.",
       hu: "Új természet- és üdülőterület Zeelandban. Ötvözi a partvédelmet az élőhelyteremtéssel.",
@@ -390,7 +390,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "lake",
     parent: "NL",
     name: { de: "Vlietlanden", hu: "Vlietlanden", ro: "Vlietlanden", en: "Vlietlanden" },
-    coordinates: { lat: 52.14, lng: 4.45 },
+    coords: [4.45, 52.14],
     description: {
       de: "Ein Erholungsgebiet mit Seen nahe Leiden. Es bietet zahlreiche Möglichkeiten für Wassersport und Naturbeobachtungen.",
       hu: "Üdülőterület tavakkal Leiden közelében. Számos lehetőséget kínál vízi sportokhoz és természetmegfigyeléshez.",
@@ -422,7 +422,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "lake",
     parent: "NL",
     name: { de: "Oostelijk Vechtplassen", hu: "Oostelijk Vechtplassen", ro: "Oostelijk Vechtplassen", en: "Oostelijk Vechtplassen" },
-    coordinates: { lat: 52.2, lng: 5.1 },
+    coords: [5.1, 52.2],
     description: {
       de: "Eine Seenlandschaft östlich der Vecht. Das Gebiet ist bekannt für seine Moore und Wasserflächen.",
       hu: "Tóvidék a Vecht folyótól keletre. A terület mocsaraival és vízfelületeivel ismert.",
@@ -454,7 +454,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Kampina", hu: "Kampina", ro: "Kampina", en: "Kampina" },
-    coordinates: { lat: 51.55, lng: 5.25 },
+    coords: [5.25, 51.55],
     description: {
       de: "Kampina ist ein Naturschutzgebiet in Noord-Brabant. Es umfasst Heide, Moore und bewaldete Gebiete.",
       hu: "Kampina egy természetvédelmi terület Noord-Brabantban. Hangás, lápos és erdős területeket foglal magában.",
@@ -486,7 +486,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Zwin", hu: "Zwin", ro: "Zwin", en: "Zwin" },
-    coordinates: { lat: 51.37, lng: 3.37 },
+    coords: [3.37, 51.37],
     description: {
       de: "Ein grenzüberschreitendes Naturschutzgebiet zwischen den Niederlanden und Belgien. Es ist ein bedeutendes Gezeitengebiet.",
       hu: "Határon átnyúló természetvédelmi terület Hollandia és Belgium között. Jelentős árapály-terület.",
@@ -518,7 +518,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Meijendel", hu: "Meijendel", ro: "Meijendel", en: "Meijendel" },
-    coordinates: { lat: 52.13, lng: 4.33 },
+    coords: [4.33, 52.13],
     description: {
       de: "Ein weitläufiges Dünengebiet bei Den Haag. Es dient der Trinkwasseraufbereitung und als Naturschutzgebiet.",
       hu: "Kiterjedt dűnevidék Hága közelében. Ivóvízkezelésre és természetvédelmi területként szolgál.",
@@ -550,7 +550,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "lake",
     parent: "NL",
     name: { de: "Wieden", hu: "Wieden", ro: "Wieden", en: "Wieden" },
-    coordinates: { lat: 52.68, lng: 6.0 },
+    coords: [6.0, 52.68],
     description: {
       de: "Eine Wasserlandschaft mit vielen Inseln und Schilfgebieten. Sie ist für ihre reiche Vogelwelt berühmt.",
       hu: "Vízi tájkép sok szigettel és nádassal. Gazdag madárvilágáról híres.",
@@ -582,7 +582,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "forest",
     parent: "NL",
     name: { de: "Boswachterij Westerschouwen", hu: "Boswachterij Westerschouwen", ro: "Boswachterij Westerschouwen", en: "Boswachterij Westerschouwen" },
-    coordinates: { lat: 51.69, lng: 3.7 },
+    coords: [3.7, 51.69],
     description: {
       de: "Das größte Waldgebiet von Zeeland, gelegen auf der Insel Schouwen-Duiveland. Es grenzt an breite Dünenstrände.",
       hu: "Zeeland legnagyobb erdőterülete, Schouwen-Duiveland szigetén. Széles dűnés partok határolják.",
@@ -614,7 +614,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Groote Peel", hu: "Groote Peel", ro: "Groote Peel", en: "Groote Peel" },
-    coordinates: { lat: 51.35, lng: 5.8 },
+    coords: [5.8, 51.35],
     description: {
       de: "Ein ehemaliges Hochmoorgebiet in den Provinzen Limburg und Noord-Brabant. Heute ein bedeutendes Vogelschutzgebiet.",
       hu: "Egykori tőzegláp terület Limburg és Noord-Brabant tartományokban. Ma jelentős madárvédelmi terület.",
@@ -646,7 +646,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Schoorlse Duinen", hu: "Schoorlse Duinen", ro: "Schoorlse Duinen", en: "Schoorlse Duinen" },
-    coordinates: { lat: 52.7, lng: 4.67 },
+    coords: [4.67, 52.7],
     description: {
       de: "Die breitesten und höchsten Dünen der Niederlande. Sie bieten eine abwechslungsreiche Landschaft mit Wald und Sand.",
       hu: "Hollandia legszélesebb és legmagasabb dűnéi. Változatos tájat kínálnak erdőkkel és homokkal.",
@@ -678,7 +678,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "forest",
     parent: "NL",
     name: { de: "Salentse Bos", hu: "Salentse Bos", ro: "Salentse Bos", en: "Salentse Bos" },
-    coordinates: { lat: 52.28, lng: 5.5 },
+    coords: [5.5, 52.28],
     description: {
       de: "Ein ausgedehntes Waldgebiet in der Region Veluwe. Es ist bekannt für seine Radwege und ruhige Atmosphäre.",
       hu: "Kiterjedt erdőterület a Veluwe régióban. Ismert kerékpárútjairól és csendes hangulatáról.",
@@ -710,7 +710,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "lake",
     parent: "NL",
     name: { de: "Bergse Plas", hu: "Bergse Plas", ro: "Bergse Plas", en: "Bergse Plas" },
-    coordinates: { lat: 51.95, lng: 4.47 },
+    coords: [4.47, 51.95],
     description: {
       de: "Ein See nördlich von Rotterdam. Er wird zur Erholung genutzt und ist ein wichtiges Naherholungsgebiet.",
       hu: "Rotterdami tó északra. Rekreációra használják, fontos közeli pihenőövezet.",
@@ -742,7 +742,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Maasduinen", hu: "Maasduinen", ro: "Maasduinen", en: "Maasduinen" },
-    coordinates: { lat: 51.58, lng: 6.1 },
+    coords: [6.1, 51.58],
     description: {
       de: "Dieser Nationalpark erstreckt sich entlang der Maas. Er ist geprägt durch seine markanten Flussdünen.",
       hu: "Ez a nemzeti park a Maas folyó mentén húzódik. Jellemzői a látványos folyami dűnék.",
@@ -774,7 +774,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Polder Arkemheen", hu: "Polder Arkemheen", ro: "Polder Arkemheen", en: "Polder Arkemheen" },
-    coordinates: { lat: 52.23, lng: 5.43 },
+    coords: [5.43, 52.23],
     description: {
       de: "Ein historischer Polder mit hoher ökologischer Bedeutung. Er bietet Lebensraum für Wiesenvögel.",
       hu: "Történelmi polder nagy ökológiai jelentőséggel. Élőhelyet biztosít a mezei madaraknak.",
@@ -806,7 +806,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "forest",
     parent: "NL",
     name: { de: "Kruisbergse Bos", hu: "Kruisbergse Bos", ro: "Kruisbergse Bos", en: "Kruisbergse Bos" },
-    coordinates: { lat: 51.98, lng: 6.3 },
+    coords: [6.3, 51.98],
     description: {
       de: "Ein Waldgebiet bei Doetinchem mit abwechslungsreichen Wegen. Es lädt zum Wandern und Radfahren ein.",
       hu: "Erdőterület Doetinchem közelében változatos utakkal. Túrázásra és kerékpározásra csábít.",
@@ -838,7 +838,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Dwingelo", hu: "Dwingelo", ro: "Dwingelo", en: "Dwingelo" },
-    coordinates: { lat: 52.82, lng: 6.35 },
+    coords: [6.35, 52.82],
     description: {
       de: "Ein Naturgebiet in der Provinz Drenthe. Es umfasst weite Heideflächen und ist für seine Ruhe bekannt.",
       hu: "Természetvédelmi terület Drenthe tartományban. Kiterjedt hangás területeket foglal magában és csendjéről ismert.",
@@ -870,7 +870,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "Oostwaard", hu: "Oostwaard", ro: "Oostwaard", en: "Oostwaard" },
-    coordinates: { lat: 52.76, lng: 5.92 },
+    coords: [5.92, 52.76],
     description: {
       de: "Ein Naturschutzgebiet im Nordwesten der Niederlande. Es besticht durch seine vielfältige Flora und Fauna.",
       hu: "Természetvédelmi terület Hollandia északnyugati részén. Változatos növény- és állatvilágával tűnik ki.",
@@ -902,7 +902,7 @@ export const netherlandsNatureV2: POI[] = [
     type: "park",
     parent: "NL",
     name: { de: "De Boschplaat", hu: "De Boschplaat", ro: "De Boschplaat", en: "De Boschplaat" },
-    coordinates: { lat: 53.45, lng: 5.5 },
+    coords: [5.5, 53.45],
     description: {
       de: "Ein ausgedehntes Naturschutzgebiet auf der Insel Terschelling. Es ist ein bedeutender Brutplatz für Seevögel.",
       hu: "Kiterjedt természetvédelmi terület Terschelling szigetén. Jelentős költőhely tengeri madarak számára.",

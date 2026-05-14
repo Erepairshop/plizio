@@ -379,7 +379,20 @@ export const poiExtraKuwaitLifeV2: POI[] = [
         "Ideal for family outings on weekends.",
         "Includes play equipment for children."
       ]
-    }, image: "/poi-images/egaila-beach-park-life-v2.webp"},
+    }, image: "/poi-images/egaila-beach-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Egaila Beach Park ist ein öffentlicher Strandpark in Kuwait, gelegen an der Küste des Persischen Golfs, südlich von Kuwait-Stadt. Der Park erstreckt sich über eine Fläche von etwa 500.000 Quadratmetern und verfügt über einen Sandstrand, Grünflächen, Spielplätze und Picknickbereiche. Der Strand wurde nach Ölverschmutzungen aus dem ersten Golfkrieg in den 1990er Jahren umfassend saniert. Der Park bietet Wassersportmöglichkeiten wie Jetski und Kajak. Er ist ein beliebtes Ziel für Familien und wird an Wochenenden stark frequentiert. Die Wassertemperatur liegt im Sommer bei durchschnittlich 30°C. Der Eintritt ist kostenpflichtig. Der Park wird von der Kuwait Municipality verwaltet und verbessert die Lebensqualität der Bewohner.",
+      hu: "Az Egaila Beach Park egy nyilvános tengerparti park Kuvaitban, a Perzsa-öböl partján, Kuvaitvárostól délre. A park területe kb. 500.000 négyzetméter, homokos tengerparttal, zöldterületekkel, játszóterekkel és piknikezőhelyekkel rendelkezik. A tengerpartot az első Öbölháború olajszennyezése után az 1990-es években jelentősen helyreállították. A park vízi sportolási lehetőségeket kínál, mint a jet-ski és a kajak. Népszerű családi célpont, hétvégén forgalmas. Nyáron a vízhőmérséklet átlagosan 30°C. Belépődíjas. A parkot a Kuwait Municipality kezeli, hozzájárulva az életminőség javításához.",
+      ro: "Parcul de plajă Egaila este un parc public de pe litoral în Kuweit, situat pe coasta Golfului Persic, la sud de Kuwait City. Parcul se întinde pe aproximativ 500.000 de metri pătrați și include o plajă cu nisip, zone verzi, locuri de joacă și zone de picnic. Plaja a fost reabilitată după poluarea cu petrol din timpul primului război din Golf, în anii 1990. Parcul oferă activități nautice precum jet-ski și caiac. Este o destinație populară pentru familii, aglomerată în weekend. Temperatura apei vara este în medie de 30°C. Intrarea este contra cost. Parcul este administrat de Municipalitatea Kuweit și îmbunătățește calitatea vieții.",
+      en: "Egaila Beach Park is a public beach park in Kuwait, located on the coast of the Persian Gulf south of Kuwait City. The park covers about 500,000 square meters and features a sandy beach, green areas, playgrounds, and picnic spots. The beach was extensively rehabilitated after oil spills from the first Gulf War in the 1990s. The park offers water sports such as jet-skiing and kayaking. It is a popular family destination, crowded on weekends. Summer water temperature averages 30°C. Entrance is paid. The park is managed by Kuwait Municipality and contributes to quality of life.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 500.000 m²", "Lage: südlich von Kuwait-Stadt", "Wassertemperatur Sommer: 30°C", "Rehabilitiert nach Ölverschmutzungen der 1990er", "Wassersportaktivitäten vorhanden", "Eintritt kostenpflichtig"],
+      hu: ["Terület: kb. 500.000 m²", "Elhelyezkedés: Kuvaitvárostól délre", "Nyári vízhőmérséklet: 30°C", "Helyreállítva az 1990-es évek olajszennyezése után", "Vízi sportok elérhetők", "Belépődíjas"],
+      ro: ["Suprafata: cca 500.000 m²", "Amplasare: sud de Kuwait City", "Temperatura apei vara: 30°C", "Reabilitat dupa poluarea cu petrol din anii 1990", "Activitati nautice disponibile", "Intrare cu plata"],
+      en: ["Area: approx. 500,000 m²", "Location: south of Kuwait City", "Summer water temperature: 30°C", "Rehabilitated after 1990s oil spills", "Water sports available", "Paid entrance"],
+    },
+  },
   {
     id: "kidzania-kuwait-life-v2",
     type: "kid-friendly",

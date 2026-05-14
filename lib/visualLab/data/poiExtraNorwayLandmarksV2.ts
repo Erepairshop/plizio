@@ -6,7 +6,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Norsk Folkemuseum", hu: "Norvég Néprajzi Múzeum", ro: "Muzeul Folcloric Norvegian", en: "Norwegian Museum of Cultural History" },
-    coordinates: { lat: 59.907, lng: 10.686 },
+    coords: [10.686, 59.907],
     description: {
       de: "Das Norsk Folkemuseum ist ein Freilichtmuseum auf der Halbinsel Bygdøy in Oslo. Es dokumentiert das tägliche Leben in Norwegen über Jahrhunderte.",
       hu: "A Norvég Néprajzi Múzeum egy szabadtéri múzeum Oslo Bygdøy félszigetén. A norvégiai mindennapi életet dokumentálja évszázadokon keresztül.",
@@ -20,13 +20,25 @@ export const norwayLandmarksV2: POI[] = [
       en: ["Founded 1894", "Over 150 buildings", "Located on Bygdøy", "Includes Gol Stave Church"],
     },
     imageHint: "Norsk Folkemuseum open-air exhibits",
+    descriptionAdvanced: {
+      de: "Das Norsk Folkemuseum (Norwegisches Volkskundemuseum) auf der Halbinsel Bygdøy in Oslo ist ein Freilichtmuseum, das die norwegische Kulturgeschichte zeigt. Es wurde 1894 gegründet und umfasst über 150 historische Gebäude aus ganz Norwegen. Dazu gehören eine Stabkirche aus dem 13. Jahrhundert, Bauernhöfe und Stadtgebäude. Das Museum beeindruckt mit Sammlungen von Trachten, Möbeln und Werkzeugen. Es bietet interaktive Vorführungen traditioneller Handwerke. Das Museum ist eines der ältesten Freilichtmuseen der Welt.",
+      hu: "A Norsk Folkemuseum (Norvég Népi Múzeum) Oslóban, a Bygdøy-félszigeten egy szabadtéri múzeum, amely a norvég kultúrtörténetet mutatja be. 1894-ben alapították, és több mint 150 történelmi épületet foglal magában egész Norvégiából. Ezek közé tartozik egy 13. századi fatemplom, tanyák és városi épületek. A múzeum lenyűgöző népviselt-, bútor- és szerszámgyűjteményekkel rendelkezik. Interaktív bemutatókat kínál a hagyományos mesterségekről. A múzeum a világ egyik legrégebbi szabadtéri múzeuma.",
+      ro: "Muzeul Popular Norvegian (Norsk Folkemuseum) pe peninsula Bygdøy din Oslo este un muzeu în aer liber care prezintă istoria culturală norvegiană. A fost fondat în 1894 și cuprinde peste 150 de clădiri istorice din toată Norvegia. Acestea includ o biserică de lemn din secolul al XIII-lea, ferme și clădiri urbane. Muzeul are colecții impresionante de costume, mobilier și unelte. Oferă demonstrații interactive ale meșteșugurilor tradiționale. Este unul dintre cele mai vechi muzee în aer liber din lume.",
+      en: "The Norwegian Museum of Cultural History (Norsk Folkemuseum) on the Bygdøy peninsula in Oslo is an open-air museum showcasing Norwegian cultural history. Founded in 1894, it includes over 150 historic buildings from all over Norway. These include a stave church from the 13th century, farms, and urban buildings. The museum features extensive collections of costumes, furniture, and tools. It offers interactive demonstrations of traditional crafts. It is one of the oldest open-air museums in the world.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde 1894 vom Historiker Hans Aall gegründet.", "Es erstreckt sich über 14 Hektar.", "Die Stabkirche stammt aus dem Jahr 1200 aus Gol.", "Die Sammlung umfasst über 500.000 Objekte.", "Das Museum zieht jährlich etwa 350.000 Besucher an.", "Es gibt 40 historische Gärten auf dem Gelände."],
+      hu: ["A múzeumot 1894-ben alapította Hans Aall történész.", "Területe 14 hektár.", "A fatemplom 1200-ból származik Golból.", "A gyűjtemény több mint 500.000 tárgyat tartalmaz.", "A múzeum évente körülbelül 350.000 látogatót vonz.", "40 történelmi kert található a területen."],
+      ro: ["Muzeul a fost fondat în 1894 de istoricul Hans Aall.", "Se întinde pe 14 hectare.", "Biserica de lemn datează din anul 1200 din Gol.", "Colecția cuprinde peste 500.000 de obiecte.", "Muzeul atrage aproximativ 350.000 de vizitatori anual.", "Există 40 de grădini istorice pe teren."],
+      en: ["The museum was founded in 1894 by historian Hans Aall.", "It covers 14 hectares.", "The stave church dates from 1200 from Gol.", "The collection includes over 500,000 objects.", "The museum attracts about 350,000 visitors annually.", "There are 40 historic gardens on the grounds."],
+    },
   },
   {
     id: "norway-skibladner-steamer-landmarks-v2",
     type: "museum",
     parent: "NO",
     name: { de: "Schaufelraddampfer Skibladner", hu: "Skibladner lapátkerekes gőzös", ro: "Vaporul cu zbaturi Skibladner", en: "Paddle Steamer Skibladner" },
-    coordinates: { lat: 60.795, lng: 10.687 },
+    coords: [10.687, 60.795],
     description: {
       de: "Die Skibladner ist der älteste noch in Betrieb befindliche Schaufelraddampfer der Welt. Er verkehrt auf dem Mjøsa-See.",
       hu: "A Skibladner a világ legrégebbi még működő lapátkerekes gőzöse. A Mjøsa-tavon közlekedik.",
@@ -40,13 +52,25 @@ export const norwayLandmarksV2: POI[] = [
       en: ["Built 1856", "Operates on Lake Mjøsa", "Cultural heritage", "Paddlewheel propulsion"],
     },
     imageHint: "Skibladner paddle steamer on Lake Mjøsa",
+    descriptionAdvanced: {
+      de: "Der Schaufelraddampfer Skibladner ist das älteste noch in Betrieb befindliche Schiff seiner Art in Norwegen. Er verkehrt seit 1856 auf dem Mjøsa-See. Das Schiff wurde nach dem Schiff aus der nordischen Mythologie benannt. Es bietet Platz für 230 Passagiere und wird von einer Dampfmaschine angetrieben. Skibladner fährt in den Sommermonaten zwischen Eidsvoll, Gjøvik und Lillehammer. Er ist ein technisches Denkmal und eine beliebte Touristenattraktion. Die Restaurierung bewahrt den historischen Charme.",
+      hu: "A Skibladner lapátkerekes gőzhajó a legrégebbi, ma is üzemelő hajó Norvégiában. 1856 óta közlekedik a Mjøsa-tavon. A hajót a skandináv mitológia hajójáról nevezték el. 230 utas szállítására alkalmas, és gőzgép hajtja. A Skibladner a nyári hónapokban közlekedik Eidsvoll, Gjøvik és Lillehammer között. Műszaki emlékmű és népszerű turisztikai látványosság. A felújítás megőrzi történelmi báját.",
+      ro: "Vaporul cu zbaturi Skibladner este cea mai veche navă de acest tip aflată încă în funcțiune în Norvegia. Navighează pe lacul Mjøsa din 1856. Vasul poartă numele navei din mitologia nordică. Poate transporta 230 de pasageri și este propulsat de un motor cu abur. Skibladner operează în lunile de vară între Eidsvoll, Gjøvik și Lillehammer. Este un monument tehnic și o atracție turistică populară. Restaurarea păstrează farmecul istoric.",
+      en: "The paddle steamer Skibladner is the oldest operating vessel of its kind in Norway. It has been sailing on Lake Mjøsa since 1856. The ship is named after the ship from Norse mythology. It can carry 230 passengers and is powered by a steam engine. Skibladner operates during the summer months between Eidsvoll, Gjøvik, and Lillehammer. It is a technical monument and popular tourist attraction. Restoration preserves its historic charm.",
+    },
+    factsAdvanced: {
+      de: ["Der Skibladner wurde 1856 in Motala, Schweden, gebaut.", "Er ist 50 Meter lang und 7 Meter breit.", "Die Dampfmaschine leistet 300 PS.", "Das Schiff wiegt 400 Tonnen.", "Die Reisegeschwindigkeit beträgt 12 Knoten.", "Jährlich befördert der Skibladner etwa 50.000 Passagiere."],
+      hu: ["A Skibladnert 1856-ban építették a svédországi Motalában.", "Hossza 50 méter, szélessége 7 méter.", "A gőzgép teljesítménye 300 lóerő.", "A hajó súlya 400 tonna.", "Az utazási sebesség 12 csomó.", "A Skibladner évente körülbelül 50.000 utast szállít."],
+      ro: ["Skibladner a fost construit în 1856 în Motala, Suedia.", "Are 50 de metri lungime și 7 metri lățime.", "Motorul cu abur are o putere de 300 de cai.", "Nava cântărește 400 de tone.", "Viteza de croazieră este de 12 noduri.", "Skibladner transportă aproximativ 50.000 de pasageri anual."],
+      en: ["Skibladner was built in 1856 in Motala, Sweden.", "It is 50 meters long and 7 meters wide.", "The steam engine produces 300 hp.", "The ship weighs 400 tons.", "Cruising speed is 12 knots.", "Skibladner carries about 50,000 passengers annually."],
+    },
   },
   {
     id: "norway-hadeland-glassworks-landmarks-v2",
     type: "museum",
     parent: "NO",
     name: { de: "Hadeland Glasverk", hu: "Hadeland Üveggyár", ro: "Fabrica de sticlă Hadeland", en: "Hadeland Glassworks" },
-    coordinates: { lat: 60.239, lng: 10.428 },
+    coords: [10.428, 60.239],
     description: {
       de: "Hadeland Glasverk ist eine der ältesten Glasfabriken Norwegens. Sie ist heute ein beliebtes Besucherzentrum mit Ausstellungen.",
       hu: "A Hadeland Üveggyár Norvégia egyik legrégebbi üveggyára. Ma népszerű látogatóközpont kiállításokkal.",
@@ -78,7 +102,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Skiflugschanze Vikersund", hu: "Vikersundi sírepülő sánc", ro: "Trambulina de zbor cu schiurile Vikersund", en: "Vikersund Ski Flying Hill" },
-    coordinates: { lat: 59.943, lng: 10.005 },
+    coords: [10.005, 59.943],
     description: {
       de: "Die Skiflugschanze Vikersund ist eine der größten Skisprungschanzen der Welt. Sie ist der Austragungsort für internationale Wettbewerbe.",
       hu: "A vikersundi sírepülő sánc a világ egyik legnagyobb síugró sánca. Nemzetközi versenyek helyszíne.",
@@ -110,7 +134,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Festung Kongsvinger", hu: "Kongsvingeri erőd", ro: "Fortăreața Kongsvinger", en: "Kongsvinger Fortress" },
-    coordinates: { lat: 60.193, lng: 12.008 },
+    coords: [12.008, 60.193],
     description: {
       de: "Die Festung Kongsvinger liegt auf einem Hügel über der Stadt Kongsvinger. Sie wurde im 17. Jahrhundert zur Verteidigung gegen Schweden errichtet.",
       hu: "A Kongsvingeri erőd egy dombon fekszik Kongsvinger városa felett. A 17. században épült Svédország elleni védekezésül.",
@@ -142,7 +166,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Skansen Museum", hu: "Skansen Múzeum", ro: "Muzeul Skansen", en: "Skansen Museum" },
-    coordinates: { lat: 63.435, lng: 10.395 },
+    coords: [10.395, 63.435],
     description: {
       de: "Das Freilichtmuseum im Stadtteil Skansen in Trondheim zeigt historische Gebäude der Region. Es bietet Einblicke in das Leben vergangener Zeiten.",
       hu: "A trondheimi Skansen városrészben található szabadtéri múzeum a régió történelmi épületeit mutatja be. Betekintést nyújt a múlt életébe.",
@@ -174,7 +198,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "church",
     parent: "NO",
     name: { de: "St.-Olav-Kirche", hu: "Szent Olaf-templom", ro: "Biserica Sfântul Olaf", en: "St. Olav's Church" },
-    coordinates: { lat: 59.917, lng: 10.743 },
+    coords: [10.743, 59.917],
     description: {
       de: "Die St.-Olav-Kirche in Oslo ist eine bedeutende katholische Kirche. Sie dient der örtlichen Kirchengemeinde und Besuchern.",
       hu: "Az oslói Szent Olaf-templom jelentős katolikus templom. A helyi egyházközséget és a látogatókat szolgálja.",
@@ -206,7 +230,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Nordkapphallen", hu: "Északi-fok csarnok", ro: "Centrul Nordkapphallen", en: "North Cape Hall" },
-    coordinates: { lat: 71.169, lng: 25.783 },
+    coords: [25.783, 71.169],
     description: {
       de: "Das Nordkapphallen ist ein Besucherzentrum am Nordkap-Plateau. Es bietet Ausstellungen, ein Panorama-Kino und gastronomische Angebote.",
       hu: "Az Északi-fok csarnok látogatóközpont az Északi-fok fennsíkján. Kiállításokat, panoráma mozit és éttermi szolgáltatásokat kínál.",
@@ -238,7 +262,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "castle",
     parent: "NO",
     name: { de: "Akershus Schloss", hu: "Akershus kastély", ro: "Castelul Akershus", en: "Akershus Castle" },
-    coordinates: { lat: 59.905, lng: 10.737 },
+    coords: [10.737, 59.905],
     description: {
       de: "Das Akershus Schloss in Oslo diente über Jahrhunderte als Festung und königliche Residenz. Heute ist es ein Museum.",
       hu: "Az oslói Akershus kastély évszázadokon át erődítményként és királyi rezidenciaként szolgált. Ma múzeum.",
@@ -270,7 +294,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "cathedral",
     parent: "NO",
     name: { de: "Stavanger Dom", hu: "Stavangeri székesegyház", ro: "Catedrala din Stavanger", en: "Stavanger Cathedral" },
-    coordinates: { lat: 58.97, lng: 5.733 },
+    coords: [5.733, 58.97],
     description: {
       de: "Der Stavanger Dom ist die älteste erhaltene Kathedrale Norwegens. Sein Bau wurde um 1125 begonnen.",
       hu: "A stavangeri székesegyház Norvégia legrégebbi fennmaradt katedrálisa. Építése 1125 körül kezdődött.",
@@ -302,7 +326,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Bergener Fischmarkt", hu: "Bergeni halpiac", ro: "Piața de pește din Bergen", en: "Bergen Fish Market" },
-    coordinates: { lat: 60.395, lng: 5.325 },
+    coords: [5.325, 60.395],
     description: {
       de: "Der Fischmarkt in Bergen ist einer der bekanntesten Märkte Norwegens. Er bietet seit Jahrhunderten frischen Fisch und lokale Produkte.",
       hu: "A bergeni halpiac Norvégia egyik leghíresebb piaca. Évszázadok óta kínál friss halat és helyi termékeket.",
@@ -334,7 +358,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Nasjonalgalleriet", hu: "Nemzeti Galéria", ro: "Galeria Națională", en: "National Gallery" },
-    coordinates: { lat: 59.917, lng: 10.738 },
+    coords: [10.738, 59.917],
     description: {
       de: "Die Nasjonalgalleriet in Oslo beherbergt die größte öffentliche Kunstsammlung Norwegens. Dazu zählen Werke von Edvard Munch.",
       hu: "Az oslói Nemzeti Galéria Norvégia legnagyobb közművészeti gyűjteményét őrzi. Ide tartoznak Edvard Munch alkotásai is.",
@@ -366,7 +390,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "church",
     parent: "NO",
     name: { de: "Marienkirche Bergen", hu: "Bergeni Mária-templom", ro: "Biserica Sfânta Maria din Bergen", en: "St. Mary's Church, Bergen" },
-    coordinates: { lat: 60.398, lng: 5.326 },
+    coords: [5.326, 60.398],
     description: {
       de: "Die Marienkirche in Bergen ist die älteste erhaltene Kirche der Stadt. Sie stammt aus dem 12. Jahrhundert.",
       hu: "A bergeni Mária-templom a város legrégebbi fennmaradt temploma. A 12. századból származik.",
@@ -398,7 +422,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Kon-Tiki-Museum", hu: "Kon-Tiki Múzeum", ro: "Muzeul Kon-Tiki", en: "Kon-Tiki Museum" },
-    coordinates: { lat: 59.905, lng: 10.695 },
+    coords: [10.695, 59.905],
     description: {
       de: "Das Kon-Tiki-Museum auf Bygdøy zeigt die Fahrzeuge und Ausrüstungen von Thor Heyerdahls Expeditionen.",
       hu: "A bygdøyi Kon-Tiki Múzeum Thor Heyerdahl expedícióinak járműveit és felszerelését mutatja be.",
@@ -430,7 +454,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Oslo Stadtmuseum", hu: "Oslói Városi Múzeum", ro: "Muzeul Orașului Oslo", en: "Oslo City Museum" },
-    coordinates: { lat: 59.923, lng: 10.705 },
+    coords: [10.705, 59.923],
     description: {
       de: "Das Oslo Stadtmuseum befindet sich im Frognerpark. Es dokumentiert die Geschichte und Entwicklung der norwegischen Hauptstadt.",
       hu: "Az Oslói Városi Múzeum a Frognerparkban található. Dokumentálja a norvég főváros történetét és fejlődését.",
@@ -462,7 +486,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Norwegisches Technikmuseum", hu: "Norvég Műszaki Múzeum", ro: "Muzeul Norvegian de Știință și Tehnologie", en: "Norwegian Museum of Science and Technology" },
-    coordinates: { lat: 59.965, lng: 10.773 },
+    coords: [10.773, 59.965],
     description: {
       de: "Das Norwegische Technikmuseum in Oslo ist ein nationales Museum für Technik, Industrie, Naturwissenschaften und Medizin.",
       hu: "Az Oslói Norvég Műszaki Múzeum egy nemzeti múzeum a technika, az ipar, a természettudományok és az orvostudomány számára.",
@@ -494,7 +518,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Bergener Museum", hu: "Bergeni Múzeum", ro: "Muzeul din Bergen", en: "Bergen Museum" },
-    coordinates: { lat: 60.388, lng: 5.322 },
+    coords: [5.322, 60.388],
     description: {
       de: "Das Bergener Museum gehört zur Universität Bergen. Es umfasst Sammlungen zur Natur- und Kulturgeschichte.",
       hu: "A bergeni múzeum a Bergeni Egyetemhez tartozik. Természet- és kultúrtörténeti gyűjteményeket foglal magában.",
@@ -526,7 +550,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Festung Kristiansten", hu: "Kristiansten erőd", ro: "Fortăreața Kristiansten", en: "Kristiansten Fortress" },
-    coordinates: { lat: 63.433, lng: 10.408 },
+    coords: [10.408, 63.433],
     description: {
       de: "Die Festung Kristiansten wurde 1681 zur Verteidigung von Trondheim erbaut. Sie steht auf einem Hügel über der Stadt.",
       hu: "A Kristiansten erőd 1681-ben épült Trondheim védelmére. A város feletti dombon áll.",
@@ -558,7 +582,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "landmark",
     parent: "NO",
     name: { de: "Flåmbahn", hu: "Flåm vasút", ro: "Calea ferată Flåm", en: "Flåm Railway" },
-    coordinates: { lat: 60.86, lng: 7.11 },
+    coords: [7.11, 60.86],
     description: {
       de: "Die Flåmbahn ist eine der steilsten Bahnstrecken der Welt. Sie führt von Myrdal hinunter nach Flåm.",
       hu: "A Flåm vasút a világ egyik legmeredekebb vasútvonala. Myrdaltól vezet le Flåmba.",
@@ -590,7 +614,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Bryggens Museum", hu: "Bryggen Múzeum", ro: "Muzeul Bryggen", en: "Bryggens Museum" },
-    coordinates: { lat: 60.398, lng: 5.328 },
+    coords: [5.328, 60.398],
     description: {
       de: "Das Bryggens Museum in Bergen präsentiert archäologische Funde der Stadt. Es liegt am historischen Kai.",
       hu: "A bergeni Bryggen Múzeum a város régészeti leleteit mutatja be. A történelmi rakparton található.",
@@ -622,7 +646,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Astrup Fearnley Museum", hu: "Astrup Fearnley Múzeum", ro: "Muzeul Astrup Fearnley", en: "Astrup Fearnley Museum of Modern Art" },
-    coordinates: { lat: 59.905, lng: 10.725 },
+    coords: [10.725, 59.905],
     description: {
       de: "Das Astrup Fearnley Museum in Oslo ist auf zeitgenössische Kunst spezialisiert. Das Gebäude wurde von Renzo Piano entworfen.",
       hu: "Az oslói Astrup Fearnley Múzeum kortárs művészetre specializálódott. Az épületet Renzo Piano tervezte.",
@@ -654,7 +678,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "church",
     parent: "NO",
     name: { de: "Stiklestad Kirche", hu: "Stiklestadi templom", ro: "Biserica din Stiklestad", en: "Stiklestad Church" },
-    coordinates: { lat: 63.79, lng: 11.58 },
+    coords: [11.58, 63.79],
     description: {
       de: "Die Stiklestad Kirche wurde nahe des historischen Schlachtfeldes erbaut. Sie ist ein bedeutendes religiöses Zentrum.",
       hu: "A stiklestadi templomot a történelmi csatatér közelében építették. Jelentős vallási központ.",
@@ -686,7 +710,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Dommuseum Oslo", hu: "Oslói dóm-múzeum", ro: "Muzeul Catedralei din Oslo", en: "Oslo Cathedral Museum" },
-    coordinates: { lat: 59.914, lng: 10.748 },
+    coords: [10.748, 59.914],
     description: {
       de: "Das Dommuseum Oslo zeigt liturgische Gegenstände und die Geschichte der Kathedrale.",
       hu: "Az oslói dóm-múzeum liturgikus tárgyakat és a katedrális történetét mutatja be.",
@@ -718,7 +742,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Festungsmuseum Bergen", hu: "Bergeni erőd-múzeum", ro: "Muzeul Fortăreței din Bergen", en: "Bergen Fortress Museum" },
-    coordinates: { lat: 60.395, lng: 5.33 },
+    coords: [5.33, 60.395],
     description: {
       de: "Das Museum in der Festung Bergenhus zeigt die militärische Geschichte der Region.",
       hu: "A Bergenhus erőd múzeuma a régió katonai történetét mutatja be.",
@@ -750,7 +774,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Maritimes Museum Trondheim", hu: "Trondheimi Tengerészeti Múzeum", ro: "Muzeul Maritim din Trondheim", en: "Trondheim Maritime Museum" },
-    coordinates: { lat: 63.435, lng: 10.39 },
+    coords: [10.39, 63.435],
     description: {
       de: "Das Maritime Museum in Trondheim präsentiert die Schifffahrtsgeschichte der Stadt.",
       hu: "A trondheimi tengerészeti múzeum a város hajózástörténetét mutatja be.",
@@ -782,7 +806,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "church",
     parent: "NO",
     name: { de: "Kongsberg Kirche", hu: "Kongsbergi templom", ro: "Biserica din Kongsberg", en: "Kongsberg Church" },
-    coordinates: { lat: 59.668, lng: 9.646 },
+    coords: [9.646, 59.668],
     description: {
       de: "Die Kongsberg Kirche ist eine große Barockkirche, die für die Bergbaustadt errichtet wurde.",
       hu: "A kongsbergi templom egy nagy barokk templom, amelyet a bányászváros számára építettek.",
@@ -814,7 +838,7 @@ export const norwayLandmarksV2: POI[] = [
     type: "museum",
     parent: "NO",
     name: { de: "Lepramuseum Bergen", hu: "Bergeni Lepramúzeum", ro: "Muzeul Leprei din Bergen", en: "St. George's Hospital Museum" },
-    coordinates: { lat: 60.392, lng: 5.33 },
+    coords: [5.33, 60.392],
     description: {
       de: "Das Lepramuseum in Bergen dokumentiert die Geschichte der Lepra-Behandlung im ehemaligen Hospital.",
       hu: "A bergeni Lepramúzeum a lepra kezelésének történetét dokumentálja az egykori kórházban.",

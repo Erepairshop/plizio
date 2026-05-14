@@ -9,7 +9,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Białowieża-Nationalpark", hu: "Białowieża Nemzeti Park", ro: "Parcul Național Białowieża", en: "Białowieża National Park"},
     image: "/poi-images/poland-bialowieza-national-park-life-v2.webp",
     coords: [23.8667, 52.7333],
-    coordinates: { lat: 52.7333, lng: 23.8667 },
+    coords: [23.8667, 52.7333],
     description: {
       de: "Dieses Schutzgebiet bewahrt den letzten Tiefland-Urwald Europas an der Grenze zu Belarus. Es ist bekannt für die weltweit größte freilebende Population des Europäischen Wisents.",
       hu: "Ez a védett terület Európa utolsó síkvidéki őserdőjét őrzi a fehérorosz határnál. Az európai bölény legnagyobb szabadon élő populációjáról ismert.",
@@ -42,7 +42,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Tatra", hu: "Tátra Nemzeti Park", ro: "Parcul Național Tatra", en: "Tatra National Park"},
     image: "/poi-images/poland-tatra-national-park-life-v2.webp",
     coords: [19.9833, 49.25],
-    coordinates: { lat: 49.25, lng: 19.9833 },
+    coords: [19.9833, 49.25],
     description: {
       de: "Der Park schützt die alpine Flora und Fauna des einzigen Hochgebirges Polens. Hier leben seltene Tierarten wie die Tatra-Gämse, der Braunbär und der Steinadler.",
       hu: "A park Lengyelország egyetlen magashegységének alpesi növény- és állatvilágát védi. Olyan ritka fajok élnek itt, mint a tátrai zerge, a barna medve és a szirti sas.",
@@ -76,7 +76,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Biebrza-Nationalpark", hu: "Biebrza Nemzeti Park", ro: "Parcul Național Biebrza", en: "Biebrza National Park"},
     image: "/poi-images/poland-biebrza-national-park-life-v2.webp",
     coords: [22.8, 53.6],
-    coordinates: { lat: 53.6, lng: 22.8 },
+    coords: [22.8, 53.6],
     description: {
       de: "Dies ist der größte Nationalpark Polens, der weite Sumpf- und Torfgebiete entlang des Flusses Biebrza umfasst. Er ist ein bedeutendes Refugium für Elche und seltene Sumpfvögel.",
       hu: "Ez Lengyelország legnagyobb nemzeti parkja, amely kiterjedt mocsarakat és tőzeglápokat foglal magában a Biebrza-folyó mentén. Fontos menedékhely a jávorszarvasok számára.",
@@ -109,7 +109,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Slowinzischer Nationalpark", hu: "Slowinski Nemzeti Park", ro: "Parcul Național Słowiński", en: "Słowiński National Park"},
     image: "/poi-images/poland-slowinski-national-park-life-v2.webp",
     coords: [17.4, 54.7],
-    coordinates: { lat: 54.7, lng: 17.4 },
+    coords: [17.4, 54.7],
     description: {
       de: "Bekannt für seine Wanderdünen an der Ostseeküste, schützt dieser Park auch Flachwasserseen und Küstenwälder. Er ist ein wichtiger Rastplatz für Zugvögel.",
       hu: "A Balti-tenger partján található vándorló dűnéiről ismert park sekély tavakat és parti erdőket is véd. A költöző madarak fontos pihenőhelye.",
@@ -142,7 +142,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Bieszczady", hu: "Bieszczady Nemzeti Park", ro: "Parcul Național Bieszczady", en: "Bieszczady National Park"},
     image: "/poi-images/poland-bieszczady-national-park-life-v2.webp",
     coords: [22.6, 49.1],
-    coordinates: { lat: 49.1, lng: 22.6 },
+    coords: [22.6, 49.1],
     description: {
       de: "Der Park schützt die Bergwiesen und Buchenwälder der Ostkarpaten. Er beherbergt die größten Populationen von Braunbären, Wölfen und Luchsen in Polen.",
       hu: "A park a Keleti-Kárpátok hegyi rétjeit és bükköseit védi. Itt található Lengyelország legnagyobb barna medve, farkas és hiúz populációja.",
@@ -175,7 +175,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Kampinos", hu: "Kampinos Nemzeti Park", ro: "Parcul Național Kampinos", en: "Kampinos National Park"},
     image: "/poi-images/poland-kampinos-national-park-life-v2.webp",
     coords: [20.5833, 52.3167],
-    coordinates: { lat: 52.3167, lng: 20.5833 },
+    coords: [20.5833, 52.3167],
     description: {
       de: "Direkt vor den Toren Warschaus gelegen, umfasst dieser Park Binnendünen und Sumpfgebiete. Er ist bekannt für die erfolgreiche Wiederansiedlung des Elches.",
       hu: "Közvetlenül Varsó kapujában található park belső dűnéket és mocsarakat foglal magában. A jávorszarvas sikeres visszatelepítéséről ismert.",
@@ -209,7 +209,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Zoo Breslau", hu: "Wrocławi Állatkert", ro: "Grădina Zoologică din Wrocław", en: "Wrocław Zoo"},
     image: "/poi-images/poland-wroclaw-zoo-life-v2.webp",
     coords: [17.075, 51.105],
-    coordinates: { lat: 51.105, lng: 17.075 },
+    coords: [17.075, 51.105],
     description: {
       de: "Dies ist der älteste und artenreichste Zoo Polens. Eine Hauptattraktion ist das Afrykarium, ein riesiger Komplex, der den Ökosystemen Afrikas gewidmet ist.",
       hu: "Ez Lengyelország legrégebbi és fajokban leggazdagabb állatkertje. Fő látványossága az Afrykarium, egy hatalmas komplexum, amely Afrika ökoszisztémáit mutatja be.",
@@ -242,7 +242,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Zoo Warschau", hu: "Varsói Állatkert", ro: "Grădina Zoologică din Varșovia", en: "Warsaw Zoo"},
     image: "/poi-images/poland-warsaw-zoo-life-v2.webp",
     coords: [21.0222, 52.2583],
-    coordinates: { lat: 52.2583, lng: 21.0222 },
+    coords: [21.0222, 52.2583],
     description: {
       de: "Der Zoo am Ufer der Weichsel ist bekannt für seine historische Bedeutung im Zweiten Weltkrieg und beherbergt heute über 5.000 Tiere aus aller Welt.",
       hu: "A Visztula partján fekvő állatkert a második világháború alatti történelmi szerepéről ismert, ma több mint 5000 állatnak ad otthont a világ minden tájáról.",
@@ -275,7 +275,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Pieninen-Nationalpark", hu: "Pieniny Nemzeti Park", ro: "Parcul Național Pieniny", en: "Pieniny National Park"},
     image: "/poi-images/poland-pieniny-national-park-life-v2.webp",
     coords: [20.3833, 49.4167],
-    coordinates: { lat: 49.4167, lng: 20.3833 },
+    coords: [20.3833, 49.4167],
     description: {
       de: "Der Park umfasst die Pieninen-Berge und den spektakulären Dunajec-Durchbruch. Er ist berühmt für seine endemischen Pflanzen wie den Pieninen-Löwenzahn.",
       hu: "A park a Pieninek-hegységet és a látványos Dunajec-áttörést foglalja magában. Híres endemikus növényeiről, mint például a pieninyi gyermekláncfű.",
@@ -308,7 +308,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Wigry", hu: "Wigry Nemzeti Park", ro: "Parcul Național Wigry", en: "Wigry National Park"},
     image: "/poi-images/poland-wigry-national-park-life-v2.webp",
     coords: [23.0833, 54.0167],
-    coordinates: { lat: 54.0167, lng: 23.0833 },
+    coords: [23.0833, 54.0167],
     description: {
       de: "Dieser Park im Nordosten Polens schützt den Wigry-See und umliegende Urwälder. Er ist ein bedeutendes Habitat für Biber, die sogar das Logo des Parks zieren.",
       hu: "Ez az északkelet-lengyelországi park a Wigry-tavat és a környező őserdőket védi. Fontos élőhely a hódok számára, amelyek a park logóján is szerepelnek.",
@@ -341,7 +341,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Karkonosze", hu: "Karkonosze Nemzeti Park", ro: "Parcul Național Karkonosze", en: "Karkonosze National Park"},
     image: "/poi-images/poland-karkonosze-national-park-life-v2.webp",
     coords: [15.6333, 50.75],
-    coordinates: { lat: 50.75, lng: 15.6333 },
+    coords: [15.6333, 50.75],
     description: {
       de: "Das Schutzgebiet im Riesengebirge bewahrt subalpine Ökosysteme und Moore. Es ist bekannt für seine eiszeitlichen Reliktpflanzen und markanten Granitfelsen.",
       hu: "Az Óriás-hegységben található védett terület szubalpin ökoszisztémákat és lápokat őriz. Jégkorszaki maradványnövényeiről és jellegzetes gránitszikláiról ismert.",
@@ -374,7 +374,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Wolin", hu: "Wolin Nemzeti Park", ro: "Parcul Național Wolin", en: "Wolin National Park"},
     image: "/poi-images/poland-wolinski-national-park-life-v2.webp",
     coords: [14.5, 53.9333],
-    coordinates: { lat: 53.9333, lng: 14.5 },
+    coords: [14.5, 53.9333],
     description: {
       de: "Auf der Insel Wolin gelegen, schützt dieser Park Steilküsten an der Ostsee und Buchenwälder. Er beherbergt ein Wisent-Schaugehege und ist Lebensraum für Seeadler.",
       hu: "A Wolin-szigeten található park meredek balti-tengeri partokat és bükköseket véd. Bölényrezervátummal rendelkezik, és a rétisasok élőhelye.",
@@ -407,7 +407,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Babia Góra", hu: "Babia Góra Nemzeti Park", ro: "Parcul Național Babia Góra", en: "Babia Góra National Park"},
     image: "/poi-images/poland-babia-gora-national-park-life-v2.webp",
     coords: [19.5333, 49.5833],
-    coordinates: { lat: 49.5833, lng: 19.5333 },
+    coords: [19.5333, 49.5833],
     description: {
       de: "Der Park um den Berg Babia Góra ist ein Biosphärenreservat mit einer ausgeprägten vertikalen Vegetationsschichtung, von Buchenwäldern bis hin zur alpinen Stufe.",
       hu: "A Babia Góra-hegy körüli park bioszféra-rezervátum, amely jellegzetes függőleges növényzeti övezetekkel rendelkezik a bükkerdőktől az alpesi szintig.",
@@ -440,7 +440,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Roztocze", hu: "Roztocze Nemzeti Park", ro: "Parcul Național Roztocze", en: "Roztocze National Park"},
     image: "/poi-images/poland-roztocze-national-park-life-v2.webp",
     coords: [23.0, 50.6],
-    coordinates: { lat: 50.6, lng: 23.0 },
+    coords: [23.0, 50.6],
     description: {
       de: "In den Hügeln Südostpolens gelegen, schützt dieser Park wertvolle Tannen- und Buchenwälder. Er ist berühmt für die Zucht des Polnischen Konik, einer Wildpferderasse.",
       hu: "Délkelet-Lengyelország dombjai között fekvő park értékes jegenyefenyő- és bükkerdőket véd. Híres a lengyel konik vadvak tenyésztéséről.",
@@ -473,7 +473,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Heuscheuergebirge", hu: "Tábla-hegység Nemzeti Park", ro: "Parcul Național Munții Stołowe", en: "Stołowe Mountains National Park"},
     image: "/poi-images/poland-stolowe-mountains-life-v2.webp",
     coords: [16.3333, 50.45],
-    coordinates: { lat: 50.45, lng: 16.3333 },
+    coords: [16.3333, 50.45],
     description: {
       de: "Der Park schützt die einzige Tafelberg-Landschaft Polens mit bizarren Felsformationen. Er bietet einzigartige Lebensräume für Flechten, Moose und Farne.",
       hu: "A park Lengyelország egyetlen táblahegy-vidékét védi, bizarr sziklaalakzatokkal. Egyedülálló élőhelyet biztosít zuzmóknak, moháknak és páfrányoknak.",
@@ -506,7 +506,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Polesie", hu: "Polesie Nemzeti Park", ro: "Parcul Național Polesie", en: "Polesie National Park"},
     image: "/poi-images/poland-polesie-national-park-life-v2.webp",
     coords: [23.1833, 51.45],
-    coordinates: { lat: 51.45, lng: 23.1833 },
+    coords: [23.1833, 51.45],
     description: {
       de: "Dieser Park schützt eine einzigartige Tundra- und Waldtundra-Landschaft mit zahlreichen Seen und Mooren. Er ist eines der wichtigsten Habitate der Europäischen Sumpfschildkröte.",
       hu: "Ez a park egyedülálló tundra- és erdős tundra tájat véd számos tóval és láppal. Az európai mocsári teknős egyik legfontosabb élőhelye.",
@@ -539,7 +539,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Warthemündung", hu: "Warta-torkolat Nemzeti Park", ro: "Parcul Național Ujście Warty", en: "Ujście Warty National Park"},
     image: "/poi-images/poland-ujscie-warty-national-park-life-v2.webp",
     coords: [14.7167, 52.6],
-    coordinates: { lat: 52.6, lng: 14.7167 },
+    coords: [14.7167, 52.6],
     description: {
       de: "An der Mündung der Warthe in die Oder gelegen, schützt dieser Park wertvolle Feuchtwiesen und Überschwemmungsgebiete. Er ist ein Paradies für Wasservögel.",
       hu: "A Warta és az Odera találkozásánál fekvő park értékes nedves réteket és ártéri területeket véd. A vízi madarak paradicsoma.",
@@ -572,7 +572,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Ojców", hu: "Ojcówi Nemzeti Park", ro: "Parcul Național Ojców", en: "Ojców National Park"},
     image: "/poi-images/poland-ojcow-national-park-life-v2.webp",
     coords: [19.8333, 50.2167],
-    coordinates: { lat: 50.2167, lng: 19.8333 },
+    coords: [19.8333, 50.2167],
     description: {
       de: "Trotz seiner geringen Größe bietet der Park spektakuläre Kalksteinfelsen und zahlreiche Höhlen. Er ist bekannt für seine reiche Fledermausfauna.",
       hu: "Kis mérete ellenére a park látványos mészkősziklákat és számos barlangot kínál. Gazdag denevérfaunájáról ismert.",
@@ -605,7 +605,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Heiligkreuz-Nationalpark", hu: "Szentkereszt Nemzeti Park", ro: "Parcul Național Świętokrzyski", en: "Świętokrzyski National Park"},
     image: "/poi-images/poland-swietokrzyski-national-park-life-v2.webp",
     coords: [20.9667, 50.8833],
-    coordinates: { lat: 50.8833, lng: 20.9667 },
+    coords: [20.9667, 50.8833],
     description: {
       de: "Der Park schützt den zentralen Teil des Heiligkreuzgebirges mit seinen charakteristischen Blockhalden und alten Tannenwäldern. Er bewahrt eine Flora mit alpinen Elementen.",
       hu: "A park a Szentkereszt-hegység központi részét védi jellegzetes kőtengereivel és öreg jegenyefenyő-erdőivel. Alpi elemeket tartalmazó flórát őriz.",
@@ -638,7 +638,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Tucheler Heide", hu: "Tuchola-erdő Nemzeti Park", ro: "Parcul Național Bory Tucholskie", en: "Bory Tucholskie National Park"},
     image: "/poi-images/poland-bory-tucholskie-national-park-life-v2.webp",
     coords: [17.5167, 53.85],
-    coordinates: { lat: 53.85, lng: 17.5167 },
+    coords: [17.5167, 53.85],
     description: {
       de: "Dieser Park schützt einen Teil eines der größten Waldgebiete Polens. Er ist geprägt durch Sanderflächen, Kiefernwälder und zahlreiche kristallklare Seen.",
       hu: "Ez a park Lengyelország egyik legnagyobb erdőségének egy részét védi. Jellemzői a fenyőerdők és számos kristálytiszta tó.",
@@ -671,7 +671,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Zoo Lodz", hu: "Łódźi Állatkert", ro: "Grădina Zoologică din Łódź", en: "Łódź Zoo"},
     image: "/poi-images/poland-lodz-zoo-life-v2.webp",
     coords: [19.4111, 51.7639],
-    coordinates: { lat: 51.7639, lng: 19.4111 },
+    coords: [19.4111, 51.7639],
     description: {
       de: "Dieser moderne Zoo ist vor allem für sein Orientarium bekannt, ein riesiges Gebäude, das der Fauna und Flora Südostasiens gewidmet ist.",
       hu: "Ez a modern állatkert elsősorban az Orientariumról ismert, amely egy hatalmas épület Délkelet-Ázsia állat- és növényvilágának szentelve.",
@@ -704,7 +704,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Botanischer Garten Krakau", hu: "Krakkói Botanikus Kert", ro: "Grădina Botanică din Cracovia", en: "Kraków Botanical Garden"},
     image: "/poi-images/poland-krakow-botanical-garden-life-v2.webp",
     coords: [19.9578, 50.0617],
-    coordinates: { lat: 50.0617, lng: 19.9578 },
+    coords: [19.9578, 50.0617],
     description: {
       de: "Der Garten der Jagiellonen-Universität ist der älteste botanische Garten Polens. Er beherbergt wertvolle Sammlungen tropischer Pflanzen und historischer Palmen.",
       hu: "A Jagelló Egyetem kertje Lengyelország legrégebbi botanikus kertje. Trópusi növények és történelmi pálmák értékes gyűjteményének ad otthont.",
@@ -737,7 +737,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Zoo Danzig", hu: "Gdański Állatkert", ro: "Grădina Zoologică din Gdańsk", en: "Gdańsk Zoo"},
     image: "/poi-images/poland-gdansk-zoo-life-v2.webp",
     coords: [18.5397, 54.4072],
-    coordinates: { lat: 54.4072, lng: 18.5397 },
+    coords: [18.5397, 54.4072],
     description: {
       de: "Der Zoo in Danzig-Oliwa liegt in einem malerischen Tal und ist flächenmäßig einer der größten Zoos Polens. Er ist bekannt für seine Zuchterfolge bei Kondoren.",
       hu: "A Gdańsk-Oliwában, egy festői völgyben fekvő állatkert területileg az egyik legnagyobb Lengyelországban. A kondorok tenyésztésében elért sikereiről ismert.",
@@ -770,7 +770,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Botanischer Garten Breslau", hu: "Wrocławi Botanikus Kert", ro: "Grădina Botanică din Wrocław", en: "Wrocław Botanical Garden"},
     image: "/poi-images/poland-wroclaw-botanical-life-v2.webp",
     coords: [17.0469, 51.1164],
-    coordinates: { lat: 51.1164, lng: 17.0469 },
+    coords: [17.0469, 51.1164],
     description: {
       de: "Auf der Dominsel gelegen, bietet dieser Garten eine reiche Sammlung von Wasser- und Sumpfpflanzen sowie ein Alpinum. Er ist eine grüne Oase im Stadtzentrum.",
       hu: "A székesegyházi szigeten (Ostrów Tumski) található kert vízi és mocsári növények gazdag gyűjteményét, valamint egy alpinumot kínál.",
@@ -803,7 +803,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Neuer Zoo Posen", hu: "Poznańi Új Állatkert", ro: "Grădina Zoologică Nouă din Poznań", en: "Poznań New Zoo"},
     image: "/poi-images/poland-poznan-new-zoo-life-v2.webp",
     coords: [17.0, 52.4],
-    coordinates: { lat: 52.4, lng: 17.0 },
+    coords: [17.0, 52.4],
     description: {
       de: "Dieser weitläufige Waldzoo ist bekannt für seine naturnahen Gehege und die Rettungsstation für Bären. Er beherbergt auch seltene Sibirische Tiger.",
       hu: "Ez a kiterjedt erdei állatkert természethű kifutóiról és a medvementő központjáról ismert. Ritka szibériai tigriseknek is otthont ad.",
@@ -836,7 +836,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Magura", hu: "Magura Nemzeti Park", ro: "Parcul Național Magura", en: "Magura National Park"},
     image: "/poi-images/poland-magura-national-park-life-v2.webp",
     coords: [21.5, 49.5167],
-    coordinates: { lat: 49.5167, lng: 21.5 },
+    coords: [21.5, 49.5167],
     description: {
       de: "Der Park im Herzen der Niederen Beskiden schützt wertvolle Buchen- und Tannenwälder. Er ist ein wichtiges Refugium für Greifvögel wie den Schreiadler.",
       hu: "Az Alacsony-Beszkidek szívében található park értékes bükk- és fenyőerdőket véd. Fontos menedékhelye a ragadozó madaraknak, például a békászó sasnak.",
@@ -869,7 +869,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Narwiański-Nationalpark", hu: "Narew Nemzeti Park", ro: "Parcul Național Narwiański", en: "Narwiański National Park"},
     image: "/poi-images/poland-narwianski-national-park-life-v2.webp",
     coords: [22.8333, 53.1167],
-    coordinates: { lat: 53.1167, lng: 22.8333 },
+    coords: [22.8333, 53.1167],
     description: {
       de: "Der Park schützt das anastomosierende Flusssystem der Narew, das auch als 'Polnischer Amazonas' bezeichnet wird. Er ist geprägt von ausgedehnten Schilfflächen.",
       hu: "A park a Narew-folyó összefonódó ágrendszerét védi, amelyet 'lengyel Amazonasnak' is neveznek. Kiterjedt nádasok jellemzik.",
@@ -902,7 +902,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Gorce", hu: "Gorce Nemzeti Park", ro: "Parcul Național Gorce", en: "Gorce National Park"},
     image: "/poi-images/poland-gorce-national-park-life-v2.webp",
     coords: [20.15, 49.5833],
-    coordinates: { lat: 49.5833, lng: 20.15 },
+    coords: [20.15, 49.5833],
     description: {
       de: "Dieser Park in den Westkarpaten schützt dichte Nadelwälder und Bergwiesen. Er ist bekannt für seine Vorkommen des Feuersalamanders, der auch das Parklogo ziert.",
       hu: "Ez a nyugat-kárpátoki park sűrű fenyőerdőket és hegyi réteket véd. A foltos szalamandra előfordulásáról ismert, amely a park logóján is szerepel.",
@@ -935,7 +935,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Nationalpark Drawa", hu: "Drawa Nemzeti Park", ro: "Parcul Național Drawieński", en: "Drawieński National Park"},
     image: "/poi-images/poland-drawienski-national-park-life-v2.webp",
     coords: [15.95, 53.15],
-    coordinates: { lat: 53.15, lng: 15.95 },
+    coords: [15.95, 53.15],
     description: {
       de: "Der Park schützt das unberührte Tal des Flusses Drawa und weite Waldgebiete. Er ist ein wichtiger Lebensraum für Fischotter und den seltenen Eisvogel.",
       hu: "A park a Drawa-folyó érintetlen völgyét és kiterjedt erdőségeket véd. Fontos élőhelye a vidráknak és a ritka jégmadaraknak.",
@@ -968,7 +968,7 @@ export const polandLifeV2: POI[] = [
     name: { de: "Alpiner Botanischer Garten Zakopane", hu: "Zakopanei Alpesi Botanikus Kert", ro: "Grădina Botanică Alpină din Zakopane", en: "Zakopane Alpine Botanical Garden"},
     image: "/poi-images/poland-zakopane-botanical-life-v2.webp",
     coords: [19.9575, 49.2889],
-    coordinates: { lat: 49.2889, lng: 19.9575 },
+    coords: [19.9575, 49.2889],
     description: {
       de: "Dieser Garten ist spezialisiert auf die Flora der Tatra und anderer polnischer Gebirge. Er bewahrt seltene alpine Pflanzenarten in ihrer natürlichen Umgebung.",
       hu: "Ez a kert a Tátra és más lengyel hegységek flórájára specializálódott. Ritka alpesi növényfajokat őriz természetes környezetükben.",

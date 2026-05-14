@@ -6,7 +6,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Jostedalsbreen Nationalpark", hu: "Jostedalsbreen Nemzeti Park", ro: "Parcul Național Jostedalsbreen", en: "Jostedalsbreen National Park" },
-    coordinates: { lat: 61.65, lng: 7.0 },
+    coords: [7.0, 61.65],
     description: {
       de: "Jostedalsbreen ist der größte Gletscher auf dem europäischen Festland. Er erstreckt sich über mehrere Gemeinden in der Provinz Vestland.",
       hu: "A Jostedalsbreen a kontinentális Európa legnagyobb gleccsere. Több településen is átnyúlik Vestland megyében.",
@@ -38,7 +38,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Reisa Nationalpark", hu: "Reisa Nemzeti Park", ro: "Parcul Național Reisa", en: "Reisa National Park" },
-    coordinates: { lat: 69.25, lng: 21.5 },
+    coords: [21.5, 69.25],
     description: {
       de: "Dieser Nationalpark in Troms og Finnmark ist bekannt für tiefe Canyons und den beeindruckenden Wasserfall Mollisfossen. Er schützt ein abgelegenes arktisches Flusstal.",
       hu: "Ez a Troms og Finnmark megyei nemzeti park mély kanyonjairól és a látványos Mollisfossen vízesésről ismert. Egy távoli sarkvidéki folyóvölgyet véd.",
@@ -70,7 +70,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Dividalen Nationalpark", hu: "Dividalen Nemzeti Park", ro: "Parcul Național Dividalen", en: "Dividalen National Park" },
-    coordinates: { lat: 68.75, lng: 19.7 },
+    coords: [19.7, 68.75],
     description: {
       de: "Der Dividalen Nationalpark zeichnet sich durch seine vielfältige Flora und geschützte Birkenwälder aus. Er liegt im inneren Teil der Provinz Troms.",
       hu: "A Dividalen Nemzeti Park változatos flórájáról és védett nyírfaerdőiről ismert. Troms megye belső részén található.",
@@ -102,7 +102,7 @@ export const norwayLifeV2: POI[] = [
     type: "wildlife",
     parent: "NO",
     name: { de: "Hardangervidda-Plateau", hu: "Hardangervidda-fennsík", ro: "Platoul Hardangervidda", en: "Hardangervidda Plateau" },
-    coordinates: { lat: 60.1, lng: 7.5 },
+    coords: [7.5, 60.1],
     description: {
       de: "Hardangervidda ist Europas größte Hochebene und bietet den wichtigsten Lebensraum für die größte Wildrentierherde Norwegens. Die Tundra-Region liegt über der Baumgrenze.",
       hu: "A Hardangervidda Európa legnagyobb fennsíkja, és a legfontosabb élőhely a norvég vad rénszarvascsorda számára. A tundra régió az erdőhatár felett fekszik.",
@@ -134,7 +134,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Ytre Hvaler Nationalpark", hu: "Ytre Hvaler Nemzeti Park", ro: "Parcul Național Ytre Hvaler", en: "Ytre Hvaler National Park" },
-    coordinates: { lat: 59.0, lng: 10.9 },
+    coords: [10.9, 59.0],
     description: {
       de: "Dieser Meeres-Nationalpark liegt an der Grenze zu Schweden. Er schützt ein einzigartiges Ökosystem unter Wasser, einschließlich Korallenriffen.",
       hu: "Ez a tengeri nemzeti park a svéd határon fekszik. Egy egyedülálló víz alatti ökoszisztémát véd, beleértve a korallzátonyokat is.",
@@ -166,7 +166,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Folgefonna Nationalpark", hu: "Folgefonna Nemzeti Park", ro: "Parcul Național Folgefonna", en: "Folgefonna National Park" },
-    coordinates: { lat: 60.05, lng: 6.35 },
+    coords: [6.35, 60.05],
     description: {
       de: "Der Park schützt die Folgefonna-Gletscher sowie die umliegenden Gebirgslandschaften. Er liegt in der Provinz Vestland.",
       hu: "A park a Folgefonna-gleccsereket és a környező hegyvidéki tájakat védi. Vestland megyében található.",
@@ -198,7 +198,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Børgefjell Nationalpark", hu: "Børgefjell Nemzeti Park", ro: "Parcul Național Børgefjell", en: "Børgefjell National Park" },
-    coordinates: { lat: 65.2, lng: 13.9 },
+    coords: [13.9, 65.2],
     description: {
       de: "Børgefjell ist einer der ursprünglichsten Nationalparks Norwegens. Er bietet unberührte Gebirgsnatur ohne markierte Wanderwege.",
       hu: "A Børgefjell Norvégia egyik legérintetlenebb nemzeti parkja. Érintetlen hegyvidéki természetet kínál, kijelölt turistaútvonalak nélkül.",
@@ -230,7 +230,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Femundsmarka Nationalpark", hu: "Femundsmarka Nemzeti Park", ro: "Parcul Național Femundsmarka", en: "Femundsmarka National Park" },
-    coordinates: { lat: 62.2, lng: 12.0 },
+    coords: [12.0, 62.2],
     description: {
       de: "Femundsmarka ist für seine Seenlandschaften und Blockfelder bekannt. Er liegt im Osten Norwegens an der schwedischen Grenze.",
       hu: "A Femundsmarka a tavairól és a sziklás területeiről ismert. Norvégia keleti részén, a svéd határnál fekszik.",
@@ -262,7 +262,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Saltfjellet-Svartisen Nationalpark", hu: "Saltfjellet-Svartisen Nemzeti Park", ro: "Parcul Național Saltfjellet-Svartisen", en: "Saltfjellet-Svartisen National Park" },
-    coordinates: { lat: 66.7, lng: 14.5 },
+    coords: [14.5, 66.7],
     description: {
       de: "Dieser Park umfasst den zweitgrößten Gletscher Norwegens, Svartisen. Er erstreckt sich durch das Gebirge Saltfjellet.",
       hu: "Ez a park foglalja magában Norvégia második legnagyobb gleccserét, a Svartisent. A Saltfjellet hegységen keresztül húzódik.",
@@ -294,7 +294,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Breheimen Nationalpark", hu: "Breheimen Nemzeti Park", ro: "Parcul Național Breheimen", en: "Breheimen National Park" },
-    coordinates: { lat: 61.6, lng: 7.4 },
+    coords: [7.4, 61.6],
     description: {
       de: "Breheimen bedeutet 'Heimat der Gletscher'. Er liegt zwischen den bekannten Nationalparks Jotunheimen und Jostedalsbreen.",
       hu: "A Breheimen jelentése 'a gleccserek otthona'. A jól ismert Jotunheimen és Jostedalsbreen nemzeti parkok között fekszik.",
@@ -326,7 +326,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Øvre Pasvik Nationalpark", hu: "Øvre Pasvik Nemzeti Park", ro: "Parcul Național Øvre Pasvik", en: "Øvre Pasvik National Park" },
-    coordinates: { lat: 69.1, lng: 28.9 },
+    coords: [28.9, 69.1],
     description: {
       de: "Dieser Park schützt eine einzigartige Taiga-Landschaft im äußersten Nordosten Norwegens. Er bildet einen Teil des Pasvik-Dal-Ökosystems.",
       hu: "Ez a park egy egyedülálló tajga-tájat véd Norvégia legészakkeletibb részén. A Pasvik-völgy ökoszisztémájának részét képezi.",
@@ -358,7 +358,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Dovrefjell-Sunndalsfjella Nationalpark", hu: "Dovrefjell-Sunndalsfjella Nemzeti Park", ro: "Parcul Național Dovrefjell-Sunndalsfjella", en: "Dovrefjell-Sunndalsfjella National Park" },
-    coordinates: { lat: 62.4, lng: 9.2 },
+    coords: [9.2, 62.4],
     description: {
       de: "Bekannt für seine Moschusochsen-Population. Das Gebirge trennt Süd- und Mittelnorwegen geografisch.",
       hu: "Mosuszökör-populációjáról híres. A hegység földrajzilag elválasztja Dél- és Közép-Norvégiát.",
@@ -390,7 +390,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Rondane Nationalpark", hu: "Rondane Nemzeti Park", ro: "Parcul Național Rondane", en: "Rondane National Park" },
-    coordinates: { lat: 61.8, lng: 9.7 },
+    coords: [9.7, 61.8],
     description: {
       de: "Rondane ist Norwegens ältester Nationalpark. Er besteht aus alpinen Gebirgszügen und tiefen Tälern.",
       hu: "Rondane Norvégia legrégebbi nemzeti parkja. Alpesi hegyvonulatokból és mély völgyekből áll.",
@@ -422,7 +422,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Lomsdal-Visten Nationalpark", hu: "Lomsdal-Visten Nemzeti Park", ro: "Parcul Național Lomsdal-Visten", en: "Lomsdal-Visten National Park" },
-    coordinates: { lat: 65.5, lng: 13.0 },
+    coords: [13.0, 65.5],
     description: {
       de: "Dieser Park ist bekannt für seine dramatische Geologie, von tiefen Fjorden bis zu hohen Gebirgspässen.",
       hu: "Ez a park a drámai geológiájáról ismert, a mély fjordoktól a magas hágókig.",
@@ -454,7 +454,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Varangerhalvøya Nationalpark", hu: "Varangerhalvøya Nemzeti Park", ro: "Parcul Național Varangerhalvøya", en: "Varangerhalvøya National Park" },
-    coordinates: { lat: 70.4, lng: 29.5 },
+    coords: [29.5, 70.4],
     description: {
       de: "Dieser Park schützt die karge Arktislandschaft der Halbinsel Varanger im hohen Norden Norwegens.",
       hu: "Ez a park a Varanger-félsziget kopár sarkvidéki táját védi Norvégia messzi északon.",
@@ -486,7 +486,7 @@ export const norwayLifeV2: POI[] = [
     type: "river",
     parent: "NO",
     name: { de: "Rauma Fluss", hu: "Rauma folyó", ro: "Râul Rauma", en: "Rauma River" },
-    coordinates: { lat: 62.4, lng: 7.7 },
+    coords: [7.7, 62.4],
     description: {
       de: "Die Rauma ist berühmt für ihr klares Wasser und ihre Bedeutung für die Lachs- und Forellenfischerei.",
       hu: "A Rauma híres tiszta vizéről, valamint a lazac- és pisztránghalászatban betöltött szerepéről.",
@@ -518,7 +518,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Dovre Nationalpark", hu: "Dovre Nemzeti Park", ro: "Parcul Național Dovre", en: "Dovre National Park" },
-    coordinates: { lat: 62.1, lng: 9.3 },
+    coords: [9.3, 62.1],
     description: {
       de: "Dieser Park liegt zwischen Dovrefjell und Rondane und schützt wertvolle Hochgebirgsvegetation.",
       hu: "Ez a park Dovrefjell és Rondane között fekszik, és értékes magashegyi növényzetet véd.",
@@ -550,7 +550,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Skjervøy Naturreservat", hu: "Skjervøy Természetvédelmi Terület", ro: "Rezervația Naturală Skjervøy", en: "Skjervøy Nature Reserve" },
-    coordinates: { lat: 70.0, lng: 21.0 },
+    coords: [21.0, 70.0],
     description: {
       de: "Ein Schutzgebiet, das wichtige Küsten- und Meereslebensräume in der nördlichen Region schützt.",
       hu: "Egy védett terület, amely fontos partmenti és tengeri élőhelyeket véd az északi régióban.",
@@ -582,7 +582,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Blåfjella-Skjækerfjella Nationalpark", hu: "Blåfjella-Skjækerfjella Nemzeti Park", ro: "Parcul Național Blåfjella-Skjækerfjella", en: "Blåfjella-Skjækerfjella National Park" },
-    coordinates: { lat: 64.2, lng: 13.0 },
+    coords: [13.0, 64.2],
     description: {
       de: "Einer der größten Nationalparks Norwegens, bekannt für seine weiten Gebirgslandschaften und unberührten Wälder.",
       hu: "Norvégia egyik legnagyobb nemzeti parkja, kiterjedt hegyvidéki tájairól és érintetlen erdőiről ismert.",
@@ -614,7 +614,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Reinheimen Nationalpark", hu: "Reinheimen Nemzeti Park", ro: "Parcul Național Reinheimen", en: "Reinheimen National Park" },
-    coordinates: { lat: 62.0, lng: 8.0 },
+    coords: [8.0, 62.0],
     description: {
       de: "Reinheimen ist ein großes Gebirgsgebiet und ein wichtiges Rückzugsgebiet für wilde Rentiere.",
       hu: "Reinheimen egy hatalmas hegyvidéki terület és fontos menedék a vad rénszarvasok számára.",
@@ -646,7 +646,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Forollhogna Nationalpark", hu: "Forollhogna Nemzeti Park", ro: "Parcul Național Forollhogna", en: "Forollhogna National Park" },
-    coordinates: { lat: 62.5, lng: 10.7 },
+    coords: [10.7, 62.5],
     description: {
       de: "Bekannt für seine sanften Berge und die bedeutende Population von Wildrentieren.",
       hu: "Szelíd hegyeiről és jelentős vad rénszarvas populációjáról ismert.",
@@ -678,7 +678,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Langsua Nationalpark", hu: "Langsua Nemzeti Park", ro: "Parcul Național Langsua", en: "Langsua National Park" },
-    coordinates: { lat: 61.3, lng: 9.5 },
+    coords: [9.5, 61.3],
     description: {
       de: "Langsua bietet eine abwechslungsreiche Landschaft aus Wäldern, Seen und Bergen.",
       hu: "Langsua változatos erdőkből, tavakból és hegyekből álló tájat kínál.",
@@ -710,7 +710,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Gutulia Nationalpark", hu: "Gutulia Nemzeti Park", ro: "Parcul Național Gutulia", en: "Gutulia National Park" },
-    coordinates: { lat: 62.0, lng: 12.1 },
+    coords: [12.1, 62.0],
     description: {
       de: "Norwegens kleinster Nationalpark, bekannt für seine alten Fichtenwälder.",
       hu: "Norvégia legkisebb nemzeti parkja, híres öreg lucfenyőerdőiről.",
@@ -742,7 +742,7 @@ export const norwayLifeV2: POI[] = [
     type: "park",
     parent: "NO",
     name: { de: "Stabbursdalen Nationalpark", hu: "Stabbursdalen Nemzeti Park", ro: "Parcul Național Stabbursdalen", en: "Stabbursdalen National Park" },
-    coordinates: { lat: 70.2, lng: 24.5 },
+    coords: [24.5, 70.2],
     description: {
       de: "Beheimatet den nördlichsten Kiefernwald der Welt.",
       hu: "Itt található a világ legészakibb fenyőerdeje.",

@@ -6,7 +6,7 @@ export const latviaLifeV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Slītere Nationalpark", hu: "Slītere Nemzeti Park", ro: "Parcul Național Slītere", en: "Slītere National Park" },
-    coordinates: { lat: 57.6333, lng: 22.5833 },
+    coords: [22.5833, 57.6333],
     description: {
       de: "Der Slītere-Nationalpark schützt ein bedeutendes Ökosystem an der Ostseeküste. Er umfasst alte Nadelwälder und seltene Dünenlandschaften.",
       hu: "A Slītere Nemzeti Park a balti-tengeri partvidék jelentős ökoszisztémáját védi. Régi tűlevelű erdők és ritka dűnék találhatók itt.",
@@ -38,7 +38,7 @@ export const latviaLifeV2: POI[] = [
     type: "wildlife",
     parent: "LV",
     name: { de: "Teiči Naturschutzgebiet", hu: "Teiči Természetvédelmi Terület", ro: "Rezervația Naturală Teiči", en: "Teiči Nature Reserve" },
-    coordinates: { lat: 56.6, lng: 26.5 },
+    coords: [26.5, 56.6],
     description: {
       de: "Das Teiči-Reservat ist eines der größten Hochmoore im Baltikum. Es bietet unberührten Lebensraum für zahlreiche geschützte Vogelarten.",
       hu: "A Teiči rezervátum a balti államok egyik legnagyobb magaslápja. Érintetlen élőhelyet biztosít számos védett madárfaj számára.",
@@ -70,7 +70,7 @@ export const latviaLifeV2: POI[] = [
     type: "forest",
     parent: "LV",
     name: { de: "Krustkalni Naturschutzgebiet", hu: "Krustkalni Természetvédelmi Terület", ro: "Rezervația Naturală Krustkalni", en: "Krustkalni Nature Reserve" },
-    coordinates: { lat: 56.8166, lng: 26.15 },
+    coords: [26.15, 56.8166],
     description: {
       de: "Dieses Naturschutzgebiet zeichnet sich durch seine abwechslungsreiche Landschaft mit Hügeln und Seen aus. Es bewahrt seltene Pflanzenarten.",
       hu: "Ez a természetvédelmi terület változatos, dombokkal és tavakkal teli tájáról ismert. Ritka növényfajokat őriz meg.",
@@ -102,7 +102,7 @@ export const latviaLifeV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Grieze Naturpark", hu: "Grieze Natúrpark", ro: "Parcul Natural Grieze", en: "Grieze Nature Park" },
-    coordinates: { lat: 56.4666, lng: 22.3666 },
+    coords: [22.3666, 56.4666],
     description: {
       de: "Der Naturpark Grieze schützt das Flusstal der Vadakste. Die Gegend ist bekannt für ihre unberührten Wiesen und vielfältigen Insektenpopulationen.",
       hu: "A Grieze Natúrpark a Vadakste folyóvölgyét védi. A terület az érintetlen rétjeiről és változatos rovarpopulációiról ismert.",
@@ -134,7 +134,7 @@ export const latviaLifeV2: POI[] = [
     type: "wildlife",
     parent: "LV",
     name: { de: "Pape Naturpark", hu: "Pape Natúrpark", ro: "Parcul Natural Pape", en: "Pape Nature Park" },
-    coordinates: { lat: 56.1666, lng: 21.0333 },
+    coords: [21.0333, 56.1666],
     description: {
       de: "Der Naturpark Pape ist ein bedeutendes Gebiet für die Vogelbeobachtung am Meer. Er beherbergt außerdem wieder angesiedelte Wildpferde und Auerochsen.",
       hu: "A Pape Natúrpark jelentős tengerparti madármegfigyelő terület. Vadlovak és őstulkok visszatelepítési programjának ad otthont.",
@@ -166,7 +166,7 @@ export const latviaLifeV2: POI[] = [
     type: "river",
     parent: "LV",
     name: { de: "Daugavas Loki Naturpark", hu: "Daugavas Loki Natúrpark", ro: "Parcul Natural Daugavas Loki", en: "Daugavas Loki Nature Park" },
-    coordinates: { lat: 55.8833, lng: 26.75 },
+    coords: [26.75, 55.8833],
     description: {
       de: "Dieser Naturpark umfasst das mäandrierende Tal des Daugava-Flusses. Die Region bietet malerische Landschaften mit hohen Steilufern und Wäldern.",
       hu: "Ez a natúrpark a Daugava folyó kanyargós völgyét foglalja magában. A régió festői tájakat kínál magas partokkal és erdőkkel.",
@@ -198,7 +198,7 @@ export const latviaLifeV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Dünen-Naturschutzgebiet", hu: "Dűne Természetvédelmi Terület", ro: "Rezervația Naturală a Dunelor", en: "Dune Nature Reserve" },
-    coordinates: { lat: 57.05, lng: 23.4666 },
+    coords: [23.4666, 57.05],
     description: {
       de: "Dieses Schutzgebiet bewahrt die empfindlichen Dünensysteme an der lettischen Küste. Es schützt den Lebensraum seltener Küstenpflanzen.",
       hu: "Ez a védett terület a lett partvidék érzékeny dűnerendszereit őrzi. Védi a ritka part menti növények élőhelyét.",
@@ -230,7 +230,7 @@ export const latviaLifeV2: POI[] = [
     type: "forest",
     parent: "LV",
     name: { de: "Cinis Waldschutzgebiet", hu: "Cinis Erdővédelmi Terület", ro: "Rezervația Forestieră Cinis", en: "Cinis Forest Reserve" },
-    coordinates: { lat: 57.5, lng: 25.1 },
+    coords: [25.1, 57.5],
     description: {
       de: "Der Cinis-Wald ist ein altes Waldgebiet, das für seine reiche Flora und Fauna bekannt ist. Es dient dem Erhalt alter Baumbestände.",
       hu: "A Cinis-erdő gazdag növény- és állatvilágáról ismert ősi erdőterület. Az idős faállomány megőrzését szolgálja.",
@@ -262,7 +262,7 @@ export const latviaLifeV2: POI[] = [
     type: "lake",
     parent: "LV",
     name: { de: "Lubāns Feuchtgebiet", hu: "Lubāns Vizes Élőhely", ro: "Zona Umedă Lubāns", en: "Lubāns Wetland Reserve" },
-    coordinates: { lat: 56.8166, lng: 26.9166 },
+    coords: [26.9166, 56.8166],
     description: {
       de: "Das Lubāns-Gebiet bildet eine riesige Feuchtlandschaft rund um den größten See Lettlands. Es ist ein Paradies für viele Vogelarten.",
       hu: "A Lubāns-tó környéke hatalmas vizes élőhelyet képez Lettország legnagyobb tava körül. Sok madárfaj paradicsoma.",
@@ -294,7 +294,7 @@ export const latviaLifeV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Abava-Tal Naturpark", hu: "Abava-völgy Natúrpark", ro: "Parcul Natural Valea Abava", en: "Abava Valley Nature Park" },
-    coordinates: { lat: 57.0666, lng: 22.8 },
+    coords: [22.8, 57.0666],
     description: {
       de: "Das Abava-Tal wird oft als die 'lettische Schweiz' bezeichnet. Es besticht durch eine sanfte Hügellandschaft, Flussschlingen und seltene Pflanzen.",
       hu: "Az Abava-völgyet gyakran 'lett Svájcként' emlegetik. Szelíd dombvidék, folyókanyarulatok és ritka növények jellemzik.",
@@ -326,7 +326,7 @@ export const latviaLifeV2: POI[] = [
     type: "lake",
     parent: "LV",
     name: { de: "Engure-See Naturpark", hu: "Engure-tó Natúrpark", ro: "Parcul Natural Lacul Engure", en: "Engure Lake Nature Park" },
-    coordinates: { lat: 57.2666, lng: 23.1666 },
+    coords: [23.1666, 57.2666],
     description: {
       de: "Der Engure-See-Naturpark ist bekannt für seine Vogelvielfalt und die großen Orchideenwiesen. Er umfasst das Seebecken und angrenzende Wälder.",
       hu: "Az Engure-tó Natúrpark madárvilágáról és nagy orchideás rétjeiről ismert. Magában foglalja a tómedencét és a környező erdőket.",
@@ -358,7 +358,7 @@ export const latviaLifeV2: POI[] = [
     type: "lake",
     parent: "LV",
     name: { de: "Kanieris-See Naturpark", hu: "Kanieris-tó Natúrpark", ro: "Parcul Natural Lacul Kanieris", en: "Kanieris Lake Nature Park" },
-    coordinates: { lat: 57.0, lng: 23.45 },
+    coords: [23.45, 57.0],
     description: {
       de: "Der Kanieris-See ist ein wichtiges Ramsar-Gebiet und ein bedeutender Lebensraum für Zugvögel. Er liegt innerhalb des Kemeri-Nationalparks.",
       hu: "A Kanieris-tó fontos Ramsari terület és jelentős élőhely a költözőmadarak számára. A Kemeri Nemzeti Parkon belül található.",
@@ -390,7 +390,7 @@ export const latviaLifeV2: POI[] = [
     type: "lake",
     parent: "LV",
     name: { de: "Burtnieks-See Naturpark", hu: "Burtnieks-tó Natúrpark", ro: "Parcul Natural Lacul Burtnieks", en: "Burtnieks Lake Nature Park" },
-    coordinates: { lat: 57.7, lng: 25.1833 },
+    coords: [25.1833, 57.7],
     description: {
       de: "Der Burtnieks-See ist einer der größten Seen Lettlands. Das umgebende Naturparkgebiet ist reich an Legenden und natürlicher Schönheit.",
       hu: "A Burtnieks-tó Lettország egyik legnagyobb tava. A környező natúrpark legendákban gazdag és természeti szépségekben bővelkedik.",
@@ -422,7 +422,7 @@ export const latviaLifeV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Rāzna Nationalpark", hu: "Rāzna Nemzeti Park", ro: "Parcul Național Rāzna", en: "Rāzna National Park" },
-    coordinates: { lat: 56.2666, lng: 27.4333 },
+    coords: [27.4333, 56.2666],
     description: {
       de: "Der Rāzna-Nationalpark schützt den zweitgrößten See Lettlands und die umliegende Hügellandschaft von Latgale. Er bietet vielfältige Lebensräume.",
       hu: "A Rāzna Nemzeti Park Lettország második legnagyobb tavát és a környező latgalei dombvidéket védi. Változatos élőhelyeket kínál.",
@@ -454,7 +454,7 @@ export const latviaLifeV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Gauja Naturlehrpfad", hu: "Gauja Tanösvény", ro: "Poteca Naturală Gauja", en: "Gauja Nature Trail" },
-    coordinates: { lat: 57.1666, lng: 24.8333 },
+    coords: [24.8333, 57.1666],
     description: {
       de: "Der Gauja-Naturlehrpfad führt durch die spektakulären Ufergebiete des Flusses. Er vermittelt Einblicke in die lokale Waldökologie.",
       hu: "A Gauja tanösvény a folyó látványos partvidékein halad keresztül. Betekintést nyújt a helyi erdei ökológiába.",
@@ -486,7 +486,7 @@ export const latviaLifeV2: POI[] = [
     type: "forest",
     parent: "LV",
     name: { de: "Moricsala Naturschutzgebiet", hu: "Moricsala Természetvédelmi Terület", ro: "Rezervația Naturală Moricsala", en: "Moricsala Nature Reserve" },
-    coordinates: { lat: 57.1833, lng: 22.1 },
+    coords: [22.1, 57.1833],
     description: {
       de: "Moricsala ist eines der ältesten Naturschutzgebiete Lettlands und liegt auf einer Insel im Usma-See. Es beherbergt Urwaldreste.",
       hu: "Moricsala Lettország egyik legrégebbi természetvédelmi területe, az Usma-tó egyik szigetén található. Őserdőmaradványokat őriz.",
@@ -518,7 +518,7 @@ export const latviaLifeV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Zilaiskalns Naturpark", hu: "Zilaiskalns Natúrpark", ro: "Parcul Natural Zilaiskalns", en: "Zilaiskalns Nature Park" },
-    coordinates: { lat: 57.6, lng: 25.0666 },
+    coords: [25.0666, 57.6],
     description: {
       de: "Zilaiskalns, der 'Blaue Berg', ist ein markantes Hügelgebiet mit besonderem kulturellem und natürlichem Wert. Er ist von Mischwäldern geprägt.",
       hu: "Zilaiskalns, a 'Kék-hegy', jelentős kulturális és természeti értékkel bíró dombvidék. Vegyes erdők jellemzik.",
@@ -550,7 +550,7 @@ export const latviaLifeV2: POI[] = [
     type: "river",
     parent: "LV",
     name: { de: "Dviete-Auen Naturpark", hu: "Dviete Ártéri Natúrpark", ro: "Parcul Natural Lunca Dviete", en: "Dviete Floodplain Nature Park" },
-    coordinates: { lat: 56.0333, lng: 26.2333 },
+    coords: [26.2333, 56.0333],
     description: {
       de: "Der Naturpark Dviete schützt eine der wenigen weitläufigen Auenlandschaften Lettlands. Die Region dient dem Erhalt von Feuchtwiesen-Lebensräumen.",
       hu: "A Dviete Natúrpark Lettország kevés kiterjedt ártéri tájainak egyikét védi. A régió a nedves réti élőhelyek megőrzését szolgálja.",
@@ -582,7 +582,7 @@ export const latviaLifeV2: POI[] = [
     type: "lake",
     parent: "LV",
     name: { de: "Liepāja-See Naturschutzgebiet", hu: "Liepāja-tavi Természetvédelmi Terület", ro: "Rezervația Naturală Lacul Liepāja", en: "Liepāja Lake Nature Reserve" },
-    coordinates: { lat: 56.5166, lng: 21.05 },
+    coords: [21.05, 56.5166],
     description: {
       de: "Der Liepāja-See ist ein wichtiges Küstengewässer und Lebensraum für viele Vogelarten. Er liegt direkt neben der Stadt Liepāja.",
       hu: "A Liepāja-tó fontos tengerparti vízfelület és sok madárfaj élőhelye. Közvetlenül Liepāja városa mellett található.",
@@ -614,7 +614,7 @@ export const latviaLifeV2: POI[] = [
     type: "forest",
     parent: "LV",
     name: { de: "Garkalne Wald-Naturpark", hu: "Garkalne Erdei Natúrpark", ro: "Parcul Natural Forestier Garkalne", en: "Garkalne Forest Nature Park" },
-    coordinates: { lat: 57.0666, lng: 24.3666 },
+    coords: [24.3666, 57.0666],
     description: {
       de: "Dieser Wald-Naturpark ist bekannt für seine sandigen Kiefernwälder. Er beherbergt seltene Schmetterlingsarten und eine typische Flora.",
       hu: "Ez az erdei natúrpark homokos fenyőerdőiről ismert. Ritka lepkefajoknak és tipikus flórának ad otthont.",
@@ -646,7 +646,7 @@ export const latviaLifeV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Valmiera Naturschutzstandort", hu: "Valmiera Természetvédelmi Helyszín", ro: "Sit Natural Valmiera", en: "Valmiera Nature Site" },
-    coordinates: { lat: 57.55, lng: 25.4166 },
+    coords: [25.4166, 57.55],
     description: {
       de: "Dieses Naturschutzgebiet am Gauja-Fluss bei Valmiera umfasst wertvolle Uferökosysteme. Es ist ein bedeutender Erholungsort mit hoher biologischer Vielfalt.",
       hu: "Ez a Valmiera melletti Gauja-folyónál lévő természetvédelmi terület értékes parti ökoszisztémákat foglal magában. Jelentős pihenőhely, magas biodiverzitással.",
@@ -678,7 +678,7 @@ export const latviaLifeV2: POI[] = [
     type: "park",
     parent: "LV",
     name: { de: "Kemeri Hochmoor", hu: "Kemeri Magasláp", ro: "Mlaștina Kemeri", en: "Kemeri Raised Bog" },
-    coordinates: { lat: 56.9, lng: 23.5 },
+    coords: [23.5, 56.9],
     description: {
       de: "Das Hochmoor im Kemeri-Nationalpark ist eine einzigartige Moorlandschaft mit langen Holzstegen. Es bietet seltene Einblicke in die Moorflora.",
       hu: "A Kemeri Nemzeti Park magaslápja egyedülálló mocsaras táj hosszú fapallókkal. Ritka betekintést nyújt a láp flórájába.",

@@ -6,7 +6,7 @@ export const estoniaCitiesV2: POI[] = [
     type: "city",
     parent: "EE",
     name: { de: "Keila", hu: "Keila", ro: "Keila", en: "Keila" },
-    coordinates: { lat: 59.3089, lng: 24.4172 },
+    coords: [24.4172, 59.3089],
     description: {
       de: "Keila ist eine Stadt in der Region Harjumaa in Estland. Sie liegt etwa 25 Kilometer südwestlich von Tallinn.",
       hu: "Keila egy város Észtország Harju megyéjében. Tallinntól körülbelül 25 kilométerre délnyugatra található.",
@@ -38,7 +38,7 @@ export const estoniaCitiesV2: POI[] = [
     type: "city",
     parent: "EE",
     name: { de: "Kohila", hu: "Kohila", ro: "Kohila", en: "Kohila" },
-    coordinates: { lat: 59.1678, lng: 24.7258 },
+    coords: [24.7258, 59.1678],
     description: {
       de: "Kohila ist ein größerer Ort im Kreis Rapla. Er liegt am Ufer des Flusses Keila.",
       hu: "Kohila egy nagyobb település Rapla megyében. A Keila folyó partján fekszik.",
@@ -70,7 +70,7 @@ export const estoniaCitiesV2: POI[] = [
     type: "city",
     parent: "EE",
     name: { de: "Saue", hu: "Saue", ro: "Saue", en: "Saue" },
-    coordinates: { lat: 59.3244, lng: 24.5575 },
+    coords: [24.5575, 59.3244],
     description: {
       de: "Saue ist eine Stadt im Kreis Harju. Sie ist eng mit der Hauptstadt Tallinn verbunden.",
       hu: "Saue város Harju megyében. Szoros kapcsolatban áll a fővárossal, Tallinnnal.",
@@ -102,7 +102,7 @@ export const estoniaCitiesV2: POI[] = [
     type: "city",
     parent: "EE",
     name: { de: "Sindi", hu: "Sindi", ro: "Sindi", en: "Sindi" },
-    coordinates: { lat: 58.4069, lng: 24.6467 },
+    coords: [24.6467, 58.4069],
     description: {
       de: "Sindi liegt im Kreis Pärnu am Ufer des Flusses Pärnu. Bekannt für seine industrielle Vergangenheit.",
       hu: "Sindi a Pärnu megyében fekszik, a Pärnu folyó partján. Iparmúltjáról ismert.",
@@ -134,7 +134,7 @@ export const estoniaCitiesV2: POI[] = [
     type: "city",
     parent: "EE",
     name: { de: "Kunda", hu: "Kunda", ro: "Kunda", en: "Kunda" },
-    coordinates: { lat: 59.5019, lng: 26.5275 },
+    coords: [26.5275, 59.5019],
     description: {
       de: "Kunda ist eine Industriestadt im Norden Estlands am Finnischen Meerbusen. Bekannt für Zementproduktion.",
       hu: "Kunda észak-észtországi iparváros a Finn-öböl partján. Cementgyártásáról ismert.",
