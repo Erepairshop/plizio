@@ -85,11 +85,12 @@ export default function sitemap({ id }: { id: number }): MetadataRoute.Sitemap {
   const indexablePois = pois.filter(
     (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi),
   );
-  const poiUrls = SUPPORTED_LANGS.flatMap((lang) =>
-    indexablePois.map((poi) =>
-      createEntry(buildPoiPath(lang, poi), "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.6),
-    ),
-  );
+  const poiUrls: ReturnType<typeof createEntry>[] = [];
+  for (const lang of SUPPORTED_LANGS) {
+    for (const poi of indexablePois) {
+      poiUrls.push(createEntry(buildPoiPath(lang, poi), "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.6));
+    }
+  }
 
   const all = [...rootUrls, ...countryUrls, ...stateUrls, ...poiUrls];
   // Chunk: id 0 = first 40k URLs, id 1 = next 40k, etc.

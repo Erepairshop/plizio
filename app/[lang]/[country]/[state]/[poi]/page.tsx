@@ -51,28 +51,22 @@ function geographicFacts(poi: POI) {
 }
 
 export function generateStaticParams() {
-  // Csak az indexálható (gazdag tartalmú) POI-knak generálunk static page-et.
-  // Üres POI = nincs sitemap-bejegyzés + robots:noindex, így page sem kell.
-  // Ez dramatikusan csökkenti a build-időt (~27k POI × 4 lang ≪ csak az
-  // indexálhatók × 4).
-  return SUPPORTED_LANGS.flatMap((lang) =>
-    pois
-      .filter(
-        (poi) =>
-          poi &&
-          poi.parent &&
-          poi.type !== "region" &&
-          poi.type !== "country" &&
-          hasIndexableContent(poi),
-      )
-      .map((poi) => {
-        const country = countrySlugFor(lang, getCountryId(poi.parent!));
-        const statePath = buildStatePath(lang, poi.parent!).split("/").filter(Boolean);
-        const poiPath = buildPoiPath(lang, poi).split("/").filter(Boolean);
-        return { lang, country, state: statePath[2], poi: poiPath[3] };
-      })
-      .filter((p) => p.lang && p.country && p.state && p.poi),
-  );
+  // Explicit accumulator loop — flatMap with 50K+ POIs × 4 lang exceeds V8 stack.
+  const out: { lang: string; country: string; state: string; poi: string }[] = [];
+  for (const lang of SUPPORTED_LANGS) {
+    for (const poi of pois) {
+      if (!poi || !poi.parent || poi.type === "region" || poi.type === "country") continue;
+      if (!hasIndexableContent(poi)) continue;
+      const country = countrySlugFor(lang, getCountryId(poi.parent!));
+      const statePath = buildStatePath(lang, poi.parent!).split("/").filter(Boolean);
+      const poiPath = buildPoiPath(lang, poi).split("/").filter(Boolean);
+      const state = statePath[2];
+      const poiSlug = poiPath[3];
+      if (!lang || !country || !state || !poiSlug) continue;
+      out.push({ lang, country, state, poi: poiSlug });
+    }
+  }
+  return out;
 }
 
 export async function generateMetadata({
