@@ -1,3 +1,5 @@
+"use client";
+
 import type { POI } from "@/lib/visualLab/data/poi";
 import type { Lang } from "@/lib/seo/slugs";
 import { buildPoiPath } from "@/lib/seo/slugs";
