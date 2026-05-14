@@ -262,20 +262,18 @@ export function getPoiAlternates(poi: POI) {
  * Threshold: at least one description >= 200 chars AND at least 2 facts in any of 4 langs.
  */
 export function hasIndexableContent(poi: POI): boolean {
+  // Any POI with at least a name in some lang and a description (any length) or facts gets a page.
+  // SEO richness varies per POI (adv content boosts ranking), but every POI MUST be reachable.
   const desc = poi.description as Record<string, string> | undefined;
   const facts = poi.facts as Record<string, string[]> | undefined;
   const descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
   const factsAdv = (poi as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
   const langs = ["de", "hu", "ro", "en"] as const;
-  let hasDesc = false;
-  let hasFacts = false;
   for (const l of langs) {
-    // Indexable if EITHER base description >= 200 chars OR descriptionAdvanced >= 200 chars
-    if ((desc?.[l]?.length ?? 0) >= 200 || (descAdv?.[l]?.length ?? 0) >= 200) hasDesc = true;
-    // Indexable if EITHER base facts >= 2 items OR factsAdvanced >= 2 items
-    if ((facts?.[l]?.length ?? 0) >= 2 || (factsAdv?.[l]?.length ?? 0) >= 2) hasFacts = true;
+    if ((desc?.[l]?.length ?? 0) > 0 || (descAdv?.[l]?.length ?? 0) > 0) return true;
+    if ((facts?.[l]?.length ?? 0) > 0 || (factsAdv?.[l]?.length ?? 0) > 0) return true;
   }
-  return hasDesc && hasFacts;
+  return false;
 }
 
 export function getVisualLabHref(poi: POI) {
