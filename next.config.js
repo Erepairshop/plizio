@@ -11,6 +11,10 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  experimental: {
+    cpus: 2,
+    workerThreads: false,
+  },
 };
 
 module.exports = nextConfig;
